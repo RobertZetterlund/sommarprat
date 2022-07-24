@@ -140,7 +140,7 @@ app.get("/callback", function (req, res) {
 const fetchSRScheduling = async (year = 2021) => {
   let episodes = [];
   await fetch(
-    `https://api.sr.se/api/v2/episodes/index?programid=2071&fromdate=${year}-06-25&todate=${year}-08-21&size=100`
+    `https://api.sr.se/api/v2/episodes/index?programid=2071&fromdate=${year}-06-25&todate=${year}-08-25&size=100`
   )
     .then((res) => res.text())
     .then((xml) => {
@@ -307,11 +307,11 @@ app.get("/refresh_token", function (req, res) {
             }
           ).then((res) => res.json());
 
-          console.info(`title: ${title}, id: ${playlistId}`);
-
-          const base64image = await urlToBase64(imageurl);
+          console.info(`title: ${title}, id: ${playlistId} image: ${imageurl}`);
 
           // upload image to playlist
+          /*
+          const base64image = await urlToBase64(imageurl);
           await fetch(
             `https://api.spotify.com/v1/playlists/${playlistId}/images`,
             {
@@ -323,8 +323,8 @@ app.get("/refresh_token", function (req, res) {
               method: "PUT",
               body: base64image,
             }
-          );
-        }, index * 60000);
+          );*/
+        }, index * 5000);
       });
     }
   });
