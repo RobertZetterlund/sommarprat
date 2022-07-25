@@ -177,6 +177,7 @@ const fetchSRTracks = async (date) => {
     .then((xml) => {
       xml2js.parseString(xml, (err, res) => {
         if (err) throw err;
+        // TODO(robertz): FETCH THEIR AGE PLEASE.
         else {
           tracks = res.songlist.song.map(({ title, artist }) => ({
             title: title[0],
