@@ -1,12 +1,5 @@
 const pup = require("puppeteer");
 
-// progress
-function printProgress(index, total) {
-  process.stdout.clearLine();
-  process.stdout.cursorTo(0);
-  process.stdout.write("Progress: " + index + "/" + (total - 1));
-}
-
 async function getDateOfBirthOfPerson(listOfPersons) {
   const browser = await pup.launch();
 
@@ -48,9 +41,6 @@ async function getDateOfBirthOfPerson(listOfPersons) {
     const day = _day.length === 1 ? "0" + _day : _day;
     const month = monthToNumeric[_month];
     dobs.push(`${year}-${month}-${day}`);
-
-    printProgress(idx, listOfPersons.length);
-    idx++;
 
     page.close();
   }

@@ -39,13 +39,6 @@ var generateRandomString = function (length) {
   return text;
 };
 
-// progress
-function printProgress(index, total) {
-  process.stdout.clearLine();
-  process.stdout.cursorTo(0);
-  process.stdout.write("Progress: " + index + "/" + (total - 1));
-}
-
 var stateKey = "spotify_auth_state";
 
 var app = express();
@@ -345,11 +338,7 @@ app.get("/refresh_token", function (req, res) {
               }),
             }
           ).then((res) => res.json());
-
-          printProgress(idx, episodes.length);
-          idx++;
         }
-        process.stdout.write("\n"); // end the line
 
         // We need to image uploading to the playlist after all the other spotify api calls
         // since it works better this way...
@@ -376,9 +365,7 @@ app.get("/refresh_token", function (req, res) {
               body: base64image,
             }
           );
-          printProgress(index, playlistIdsPairedWithEpisodes.length);
         }
-        process.stdout.write("\n"); // end the line
 
         console.info("Getting date of births");
         // Now get the age of all the hosts.
