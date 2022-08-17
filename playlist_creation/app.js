@@ -15,7 +15,8 @@ var request = require("request"); // "Request" library
 var cors = require("cors");
 var querystring = require("querystring");
 var cookieParser = require("cookie-parser");
-
+const { getDateOfBirthOfPerson } = require("../pupeteer/age_of_pratare");
+var fs = require("fs");
 require("dotenv").config();
 
 var client_id = process.env.CLIENT_ID; // Your client id
@@ -37,6 +38,13 @@ var generateRandomString = function (length) {
   }
   return text;
 };
+
+// progress
+function printProgress(index, total) {
+  process.stdout.clearLine();
+  process.stdout.cursorTo(0);
+  process.stdout.write("Progress: " + index + "/" + (total - 1));
+}
 
 var stateKey = "spotify_auth_state";
 
@@ -150,8 +158,9 @@ const fetchSRScheduling = async (year = 2021) => {
           episodes = res.sr.episodes.map(({ episode: episodesWrapper }) =>
             episodesWrapper.map((episode) => {
               let title = episode.title[0];
-              // add trailing s if not exist
-              title = title[title.length - 1] === "s" ? title : title + "s";
+              // Multiple hosts might have their name and then the year of the talk (john doe 2005),
+              // so remove digits (we'll add it after when we want to).
+              title = title.replace(/ \b\d+\b/, "");
               return {
                 title,
                 imageurl: episode.imageurl[0],
@@ -169,7 +178,7 @@ const fetchSRScheduling = async (year = 2021) => {
 
 const fetchSRTracks = async (date) => {
   let tracks = [];
-  // Sommarprat actually starts at 13 to 14:30, but offset makes it 11 to 12:30
+  // Sommarprat actually starts at 13 to 14:30, but timezones makes it 11 to 12:30
   await fetch(
     `https://api.sr.se/api/v2/playlists/getplaylistbychannelid?id=132&startdatetime=${date}T11:00:01Z&enddatetime=${date}T12:30:00Z`
   )
@@ -177,12 +186,14 @@ const fetchSRTracks = async (date) => {
     .then((xml) => {
       xml2js.parseString(xml, (err, res) => {
         if (err) throw err;
-        // TODO(robertz): FETCH THEIR AGE PLEASE.
         else {
-          tracks = res.songlist.song.map(({ title, artist }) => ({
-            title: title[0],
-            artist: artist[0].split(",")[0],
-          }));
+          // Reverse as we want it from start to end.
+          tracks = res.songlist?.song?.reverse().map(({ title, artist }) => {
+            return {
+              title: title[0],
+              artist: artist?.[0]?.split(",")[0],
+            };
+          });
         }
       });
     });
@@ -197,7 +208,9 @@ const fetchSpotifyTrack = async (
   return await fetch(
     `https://api.spotify.com/v1/search?q=${encodeURIComponent(
       artist
-    )}%20${encodeURIComponent(title)}&type=track&market=SE&limit=1`,
+    )}%20${encodeURIComponent(
+      title + " " + artist
+    )}&type=track&market=SE&limit=1`,
     {
       headers: {
         Accept: "application/json",
@@ -240,16 +253,29 @@ app.get("/refresh_token", function (req, res) {
         access_token: access_token,
       });
 
-      const year = 2021;
-      const episodes = await fetchSRScheduling(year);
+      // Looks like SR started recording the music of sommarprat 2005.
 
-      episodes[0].forEach(async (episode, index) => {
-        // since spotify image uploads is a bit iffy, lets wait a bit between each iteration
-        setTimeout(async () => {
-          const { title, imageurl, date } = episode;
+      // Range, basically creates [2005,2006,....,2022].
+      // https://stackoverflow.com/a/10050831/11076115
+      const years = [...Array(2022 - 2005).keys()].map((n) => n + 2005);
+
+      for (const year of years) {
+        console.info("START YEAR:", year);
+        const _episodes = await fetchSRScheduling(year);
+        const episodes = _episodes[0];
+
+        // Keep playlist ids.
+        const playlistIdsPairedWithEpisodes = [];
+
+        console.info("Fetching tracks");
+        let idx = 0;
+        for (const episode of episodes) {
+          const { title, date } = episode;
           const trackIds = [];
           const SRTracks = await fetchSRTracks(date);
-
+          if (!SRTracks || SRTracks?.length === 0) {
+            continue;
+          }
           for (const track of SRTracks) {
             await fetchSpotifyTrack(track, access_token)
               .then((res) => {
@@ -257,7 +283,17 @@ app.get("/refresh_token", function (req, res) {
                 if (item) {
                   const id = item.id;
                   // ignore sommar,sommar,sommar
-                  if (id !== "4OWOm8ol4P3uUT81eyRZxE") trackIds.push(id);
+                  // ignore "en gång jag seglar i hamn"
+                  // ignore "sommaren är kort" by under, since it seems to been filler in 2005.
+                  const ignores = [
+                    "4OWOm8ol4P3uUT81eyRZxE",
+                    "35DC5QMQaubkLrpomPyojT",
+                    "15c8eejohMrbZMyA8jqq2t",
+                  ];
+                  if (ignores.includes(id)) {
+                  } else {
+                    trackIds.push(id);
+                  }
                 }
               })
               //consider adding missing tracks to description
@@ -265,8 +301,9 @@ app.get("/refresh_token", function (req, res) {
               .catch(() => undefined);
           }
 
+          // If there are no tracks to add, lets not proceed.
           if (trackIds.length === 0) {
-            return;
+            continue;
           }
           // create the playlist
           const playlist = await fetch(
@@ -275,7 +312,7 @@ app.get("/refresh_token", function (req, res) {
               body: JSON.stringify({
                 name: `${title} Sommarprat ${year}`,
                 public: true,
-                description: "",
+                description: date,
               }),
               headers: {
                 Accept: "application/json",
@@ -287,6 +324,7 @@ app.get("/refresh_token", function (req, res) {
           ).then((res) => res.json());
 
           const playlistId = playlist.id;
+          playlistIdsPairedWithEpisodes.push([playlistId, episode]);
 
           const trackUris = trackIds.map(
             (trackId) => `spotify:track:${trackId}`
@@ -308,10 +346,23 @@ app.get("/refresh_token", function (req, res) {
             }
           ).then((res) => res.json());
 
-          console.info(`title: ${title}, id: ${playlistId} image: ${imageurl}`);
+          printProgress(idx, episodes.length);
+          idx++;
+        }
+        process.stdout.write("\n"); // end the line
 
-          // upload image to playlist
-          /*
+        // We need to image uploading to the playlist after all the other spotify api calls
+        // since it works better this way...
+        // (it would sometimes fail uploading if paired with a call to the search api)
+        console.info("Uploading images");
+        for (
+          let index = 0;
+          index < playlistIdsPairedWithEpisodes.length;
+          index++
+        ) {
+          const [playlistId, episode] = playlistIdsPairedWithEpisodes[index];
+          const imageurl = episode.imageurl;
+
           const base64image = await urlToBase64(imageurl);
           await fetch(
             `https://api.spotify.com/v1/playlists/${playlistId}/images`,
@@ -324,9 +375,37 @@ app.get("/refresh_token", function (req, res) {
               method: "PUT",
               body: base64image,
             }
-          );*/
-        }, index * 5000);
-      });
+          );
+          printProgress(index, playlistIdsPairedWithEpisodes.length);
+        }
+        process.stdout.write("\n"); // end the line
+
+        console.info("Getting date of births");
+        // Now get the age of all the hosts.
+        const dobs = await getDateOfBirthOfPerson(
+          playlistIdsPairedWithEpisodes.map(([_p, ep]) => ep.title)
+        );
+        process.stdout.write("\n"); // end the line
+
+        const listOfDetails = [];
+
+        for (
+          let index = 0;
+          index < playlistIdsPairedWithEpisodes.length;
+          index++
+        ) {
+          const dob = dobs[index];
+          const [playlistId, episode] = playlistIdsPairedWithEpisodes[index];
+          const { title, date, imageurl } = episode;
+          listOfDetails.push({ dob, title, date, playlistId, imageurl });
+        }
+
+        const json = JSON.stringify(listOfDetails);
+        console.info("Writing to file");
+        fs.writeFile(`./data/${year}.json`, json, "utf8", () =>
+          console.info("Finished:", year)
+        );
+      }
     }
   });
 });
@@ -335,6 +414,7 @@ console.log("Listening on 8888");
 app.listen(8888);
 
 const axios = require("axios");
+
 // fetch the image from SR, download it and base64 encode it
 const urlToBase64 = async (
   url = "https://static-cdn.sr.se/images/2071/383baf9c-54a2-48f0-bf70-2ed1c20e77a7.jpg?preset=api-default-square"
