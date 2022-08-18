@@ -20,11 +20,13 @@ See all 2021 playlists in [2021.md](2021.md)
 
 [Source from SR](https://sverigesradio.se/artikel/in-english-what-is-sommar-i-p1)
 
-## Running the examples
+# Why
 
-In order to run the different examples, open the folder with the name of the flow you want to try out, and run its `app.js` file. For instance, to run the Authorization Code example do:
+I want to explore how representative the music tastes for the hosts of "Sommar i P1" is for the swedish population. Also I might be able to extend this [NYT](https://www.nytimes.com/2018/02/10/opinion/sunday/favorite-songs.html) piece about when music tastes form. Questions that interest are:
 
-    $ cd authorization_code
-    $ node app.js
-
-Then, open `http://localhost:8888` in a browser.
+- How much does recency of release date affect the selection of ones playlist.
+- Is the age of when you heard the song (i.e. it was released) important?
+- Who has the most obscure music in "Sommar i P1"?
+- Who has the saddest music in "Sommar i P1"?
+- Which is the most played song by hosts in "Sommar i P1"?
+- Etc.
