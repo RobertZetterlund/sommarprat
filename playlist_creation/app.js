@@ -140,9 +140,6 @@ app.get("/callback", function (req, res) {
 
 const fetchSRScheduling = async (year = 2021) => {
   let episodes = [];
-  // TODO(robertz): Some sommar i p3 years did not start at 06-25, some started 06-19 (2005 for example).
-  // TODO(robertz): Lets also get the photographer credit.
-  // TODO(robertz): Lets also get link to the program.
   await fetch(
     `https://api.sr.se/api/v2/episodes/index?programid=2071&fromdate=${year}-06-25&todate=${year}-08-25&size=100`
   )
@@ -159,6 +156,7 @@ const fetchSRScheduling = async (year = 2021) => {
               title = title.replace(/ \b\d+\b/, "");
               return {
                 title,
+                episodeUrl: episode.url[0],
                 imageurl: episode.imageurl[0],
                 date: new Date(episode.publishdateutc[0])
                   .toISOString()
@@ -386,8 +384,15 @@ app.get("/refresh_token", function (req, res) {
         ) {
           const dob = dobs[index];
           const [playlistId, episode] = playlistIdsPairedWithEpisodes[index];
-          const { title, date, imageurl } = episode;
-          listOfDetails.push({ dob, title, date, playlistId, imageurl });
+          const { title, date, imageurl, episodeUrl } = episode;
+          listOfDetails.push({
+            dob,
+            title,
+            date,
+            playlistId,
+            imageurl,
+            episodeUrl,
+          });
         }
 
         const json = JSON.stringify(listOfDetails);
