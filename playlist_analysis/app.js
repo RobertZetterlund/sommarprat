@@ -8,7 +8,6 @@
  */
 
 const fetch = require("node-fetch");
-const { playlists } = require("./public/2021");
 
 var express = require("express"); // Express web server framework
 var request = require("request"); // "Request" library
@@ -141,7 +140,7 @@ app.get("/callback", function (req, res) {
 const fetchSpotifyPlayListItems = async (playListId, access_token) => {
   return await fetch(
     `https://api.spotify.com/v1/playlists/${playListId}/tracks?fields=${encodeURIComponent(
-      "items(track(id,name,popularity,artists(name),album(release_date)))"
+      "items(track(id,name,popularity,duration_ms,artists(name,id),album(release_date,id)))"
     )}&market=SE`,
     {
       headers: {
@@ -160,29 +159,14 @@ const fetchSpotifyPlayListItems = async (playListId, access_token) => {
           return {
             trackId: item.track.id,
             name: item.track.name,
-            artists: item.track.artists[0].name,
+            duration_ms: item.track.duration_ms,
+            artist: item.track.artists[0].name,
+            artistId: item.track.artists[0].id,
+            albumId: item.track.album.id,
             release_date: item.track.album.release_date,
             popularity: item.track.popularity,
           };
         });
-      }
-    });
-};
-
-const fetchSpotifyTrackAudioValence = async (trackId, access_token) => {
-  return await fetch(`https://api.spotify.com/v1/audio-features/${trackId}`, {
-    headers: {
-      Accept: "application/json",
-      Authorization: `Bearer ${access_token}`,
-      "Content-Type": "application/json",
-    },
-  })
-    .then((res) => res.json())
-    .then((res) => {
-      if (res?.error?.status === 404) {
-        return "ERROR";
-      } else {
-        return res.valence;
       }
     });
 };
@@ -213,32 +197,25 @@ app.get("/refresh_token", function (req, res) {
 
       const res_map = {};
 
-      for (const playlist of playlists) {
-        const { id: playListId } = playlist;
-        const tracks = await fetchSpotifyPlayListItems(
-          playListId,
-          access_token
+      const filenames = await fs.promises.readdir("../playlist_creation/data/");
+      for await (const filename of filenames) {
+        const _content = await fs.promises.readFile(
+          `../playlist_creation/data/${filename}`
         );
-        res_map[playListId] = playlist;
-        res_map[playListId].tracks = [];
+        const episodes = await JSON.parse(_content);
+        const year = filename.split(".")[0];
+        fs.promises.mkdir(`./data/${year}`);
 
-        for (const track of tracks) {
-          const { trackId } = track;
-          const valence = await fetchSpotifyTrackAudioValence(
-            trackId,
+        for await (const { playlistId } of episodes) {
+          const tracks = await fetchSpotifyPlayListItems(
+            playlistId,
             access_token
           );
-          if (valence !== "ERROR") {
-            res_map[playListId].tracks.push({
-              valence,
-              ...track,
-            });
-          }
+          const json = JSON.stringify(tracks);
+          fs.writeFile(`./data/${year}/${playlistId}.json`, json, "utf8", () =>
+            console.info("Finished:", playlistId)
+          );
         }
-        const json = JSON.stringify(res_map[playListId]);
-        fs.writeFile(`./playlists_meta/${playListId}.json`, json, "utf8", () =>
-          console.info("Finished:", res_map[playListId].title)
-        );
       }
     }
   });
