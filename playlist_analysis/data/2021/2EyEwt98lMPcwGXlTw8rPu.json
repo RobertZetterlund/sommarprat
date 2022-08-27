@@ -1,1 +1,132 @@
-[{"trackId":"3U8zlWgcHKfXneQmTzBTvk","name":"Things Will Never Be The Same","duration_ms":241840,"artist":"Nils Landgren","artistId":"6B3ZWSop1mrJd71rwFozVP","albumId":"458svZyBTnxwOgqOjSQqEN","release_date":"2022-07-29","popularity":34},{"trackId":"0M1YQiRGel1tTMjA3orfRd","name":"Badlands","duration_ms":242453,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"4KT6G8fj8EEIfsyr75hbgc","release_date":"1978-06-02","popularity":58},{"trackId":"5AQpbyFoQmkOVwmlhKN4ii","name":"Call Me The Breeze","duration_ms":156840,"artist":"J.J. Cale","artistId":"06nsZ3qSOYZ2hPVIMcr1IN","albumId":"3cpNHI7xhNIosF9WjSk8Zh","release_date":"1972","popularity":60},{"trackId":"5xevij8uHkQz3gH9vn0kY8","name":"Skallgång","duration_ms":224733,"artist":"Benny Andersson","artistId":"0kV0e99xlTJcLKSu8KrLyp","albumId":"74Fsj7aXlw9N6qqLnKTefW","release_date":"2007-01-01","popularity":26},{"trackId":"63PqHOkcrMH4tgbq2tYbwT","name":"Malmö stad - TV version","duration_ms":233480,"artist":"Familjen","artistId":"1jBFgqfCh0pz5eNIWFvJGQ","albumId":"2nGkk5mzLZBJYL9Kw4G40B","release_date":"2021-01-17","popularity":46},{"trackId":"33C7qtT7kA4ILMz6cm3ofa","name":"Váimmuluohti","duration_ms":306080,"artist":"Wimme Saari","artistId":"3c3YYwJt7fBGEUaWWdcCZV","albumId":"6paZZ2fN3PDs6AggQ1CvaG","release_date":"2011-01-01","popularity":6},{"trackId":"6WFN2f7IptgrM2QA9LPtaE","name":"Girl From The North Country","duration_ms":240080,"artist":"Ane Brun","artistId":"2L3kwZFd16zjHz9a5kEPAm","albumId":"62EG6ravDzMqNtGb1CCYjy","release_date":"2017-10-06","popularity":35},{"trackId":"1CtAzw53AIXKjAemxy4b1j","name":"Beds Are Burning - Remastered","duration_ms":255680,"artist":"Midnight Oil","artistId":"72KyoXzp0NOQij6OcmZUxk","albumId":"243XzHQegX82bPnUVQ0SPV","release_date":"1987-10-02","popularity":72},{"trackId":"0zTQNvBLEXzqb8KPXtdJbK","name":"Petroleum","duration_ms":242840,"artist":"kent","artistId":"4KXp3xtaz1wWXnu5u34eVX","albumId":"3OApHAjrkQTDjfCJPdtxgm","release_date":"2012-01-01","popularity":34},{"trackId":"5imShWWzwqfAJ9gXFpGAQh","name":"Waiting On the World to Change","duration_ms":201173,"artist":"John Mayer","artistId":"0hEurMDQu99nJRq8pTxO14","albumId":"1Xsprdt1q9rOzTic7b9zYM","release_date":"2006-09-11","popularity":73},{"trackId":"4noBSpuFSwvj8dRwJ9SfR6","name":"Arktiska oceanen","duration_ms":273213,"artist":"Säkert!","artistId":"6aNouxfdfQCKjiZG0LJcjx","albumId":"3nS209ct98DJcPqFUuh68V","release_date":"2018-05-25","popularity":32},{"trackId":"6ngxsLZQEbpF76MKWcimnP","name":"Finns det lite stolthet kvar finns det också hopp om bättring - Live","duration_ms":172173,"artist":"Pugh Rogefeldt","artistId":"22Wo43V44RtrpJZsjeI9EA","albumId":"2QfoHj05up8TrBAiQNpB5T","release_date":"1975","popularity":32},{"trackId":"6Omr4zDMg6XokKVMtxStmw","name":"Probability Cloud","duration_ms":285960,"artist":"Bill Frisell","artistId":"3SONlwqLIP2GtaMh9pLYe5","albumId":"74s1xuJFJGvRCPjlh2d2oE","release_date":"2008-03-15","popularity":9}]
+[
+  {
+    "trackId": "3U8zlWgcHKfXneQmTzBTvk",
+    "name": "Things Will Never Be The Same",
+    "duration_ms": 241840,
+    "artist": "Nils Landgren",
+    "artistId": "6B3ZWSop1mrJd71rwFozVP",
+    "albumId": "458svZyBTnxwOgqOjSQqEN",
+    "release_date": "2022-07-29",
+    "popularity": 34
+  },
+  {
+    "trackId": "0M1YQiRGel1tTMjA3orfRd",
+    "name": "Badlands",
+    "duration_ms": 242453,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "4KT6G8fj8EEIfsyr75hbgc",
+    "release_date": "1978-06-02",
+    "popularity": 58
+  },
+  {
+    "trackId": "5AQpbyFoQmkOVwmlhKN4ii",
+    "name": "Call Me The Breeze",
+    "duration_ms": 156840,
+    "artist": "J.J. Cale",
+    "artistId": "06nsZ3qSOYZ2hPVIMcr1IN",
+    "albumId": "3cpNHI7xhNIosF9WjSk8Zh",
+    "release_date": "1972",
+    "popularity": 60
+  },
+  {
+    "trackId": "5xevij8uHkQz3gH9vn0kY8",
+    "name": "Skallgång",
+    "duration_ms": 224733,
+    "artist": "Benny Andersson",
+    "artistId": "0kV0e99xlTJcLKSu8KrLyp",
+    "albumId": "74Fsj7aXlw9N6qqLnKTefW",
+    "release_date": "2007-01-01",
+    "popularity": 26
+  },
+  {
+    "trackId": "63PqHOkcrMH4tgbq2tYbwT",
+    "name": "Malmö stad - TV version",
+    "duration_ms": 233480,
+    "artist": "Familjen",
+    "artistId": "1jBFgqfCh0pz5eNIWFvJGQ",
+    "albumId": "2nGkk5mzLZBJYL9Kw4G40B",
+    "release_date": "2021-01-17",
+    "popularity": 46
+  },
+  {
+    "trackId": "33C7qtT7kA4ILMz6cm3ofa",
+    "name": "Váimmuluohti",
+    "duration_ms": 306080,
+    "artist": "Wimme Saari",
+    "artistId": "3c3YYwJt7fBGEUaWWdcCZV",
+    "albumId": "6paZZ2fN3PDs6AggQ1CvaG",
+    "release_date": "2011-01-01",
+    "popularity": 6
+  },
+  {
+    "trackId": "6WFN2f7IptgrM2QA9LPtaE",
+    "name": "Girl From The North Country",
+    "duration_ms": 240080,
+    "artist": "Ane Brun",
+    "artistId": "2L3kwZFd16zjHz9a5kEPAm",
+    "albumId": "62EG6ravDzMqNtGb1CCYjy",
+    "release_date": "2017-10-06",
+    "popularity": 35
+  },
+  {
+    "trackId": "1CtAzw53AIXKjAemxy4b1j",
+    "name": "Beds Are Burning - Remastered",
+    "duration_ms": 255680,
+    "artist": "Midnight Oil",
+    "artistId": "72KyoXzp0NOQij6OcmZUxk",
+    "albumId": "243XzHQegX82bPnUVQ0SPV",
+    "release_date": "1987-10-02",
+    "popularity": 72
+  },
+  {
+    "trackId": "0zTQNvBLEXzqb8KPXtdJbK",
+    "name": "Petroleum",
+    "duration_ms": 242840,
+    "artist": "kent",
+    "artistId": "4KXp3xtaz1wWXnu5u34eVX",
+    "albumId": "3OApHAjrkQTDjfCJPdtxgm",
+    "release_date": "2012-01-01",
+    "popularity": 34
+  },
+  {
+    "trackId": "5imShWWzwqfAJ9gXFpGAQh",
+    "name": "Waiting On the World to Change",
+    "duration_ms": 201173,
+    "artist": "John Mayer",
+    "artistId": "0hEurMDQu99nJRq8pTxO14",
+    "albumId": "1Xsprdt1q9rOzTic7b9zYM",
+    "release_date": "2006-09-11",
+    "popularity": 73
+  },
+  {
+    "trackId": "4noBSpuFSwvj8dRwJ9SfR6",
+    "name": "Arktiska oceanen",
+    "duration_ms": 273213,
+    "artist": "Säkert!",
+    "artistId": "6aNouxfdfQCKjiZG0LJcjx",
+    "albumId": "3nS209ct98DJcPqFUuh68V",
+    "release_date": "2018-05-25",
+    "popularity": 32
+  },
+  {
+    "trackId": "6ngxsLZQEbpF76MKWcimnP",
+    "name": "Finns det lite stolthet kvar finns det också hopp om bättring - Live",
+    "duration_ms": 172173,
+    "artist": "Pugh Rogefeldt",
+    "artistId": "22Wo43V44RtrpJZsjeI9EA",
+    "albumId": "2QfoHj05up8TrBAiQNpB5T",
+    "release_date": "1975",
+    "popularity": 32
+  },
+  {
+    "trackId": "6Omr4zDMg6XokKVMtxStmw",
+    "name": "Probability Cloud",
+    "duration_ms": 285960,
+    "artist": "Bill Frisell",
+    "artistId": "3SONlwqLIP2GtaMh9pLYe5",
+    "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+    "release_date": "2008-03-15",
+    "popularity": 9
+  }
+]

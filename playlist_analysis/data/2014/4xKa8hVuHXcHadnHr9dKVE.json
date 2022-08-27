@@ -1,1 +1,132 @@
-[{"trackId":"4BHFlmrABKdPGeKJP6aifJ","name":"Utskärgård","duration_ms":173893,"artist":"Swedish Radio Symphony Orchestra","artistId":"0K6ufQj8JzIZPPkvZrEwJS","albumId":"7HUKTP7QFZrpGX4fcOVuLQ","release_date":"2005-05-25","popularity":25},{"trackId":"7lMwFdaLeJDxiNFd78ScAu","name":"Master Pretender","duration_ms":227506,"artist":"First Aid Kit","artistId":"21egYD1eInY6bGFcniCRT1","albumId":"3fVthsmWSbJpGp7gjxf5xI","release_date":"2014-06-03","popularity":40},{"trackId":"1CVNwQi4EvIpqIIcjfHib1","name":"Circles - Acoustic","duration_ms":187973,"artist":"Passenger","artistId":"0gadJ2b9A4SKsB1RFkBb66","albumId":"2mylGx7w2Q3yhUyN8iEWOF","release_date":"2012-11-05","popularity":27},{"trackId":"3mwIoHzwnTnGWjAUVqajLr","name":"Stormy Weather","duration_ms":221280,"artist":"Billie Holiday","artistId":"1YzCsTRb22dQkh9lghPIrp","albumId":"2mvImLm7gwMWXS83pxYU73","release_date":"1953-03-01","popularity":48},{"trackId":"3yF7TcLTBAaPsPhTschDrF","name":"Ett & noll","duration_ms":246333,"artist":"Bo Kaspers Orkester","artistId":"2VE6Ge0qFHrqDC6KG6ECJn","albumId":"6eDA4i4dMMeLZ3HJtU65sF","release_date":"1996-09-26","popularity":36},{"trackId":"3Hnihq9fXGUn3a53NvMUs4","name":"Så skimrande var aldrig havet","duration_ms":172293,"artist":"Freddie Wadling","artistId":"4NZBruC8XBoC8lj8kkW05m","albumId":"467y0VpZypTnw0n90Acihx","release_date":"1999-01-01","popularity":33},{"trackId":"2bfRfAO1RNWcpNtWJv042o","name":"Some Die Young","duration_ms":228066,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"1YqHIqrWx3eopxKFPqjqhT","release_date":"2012-01-10","popularity":53},{"trackId":"0cOr2gnU2zxHYRN79HgMCl","name":"Kiss My Name - Live","duration_ms":249360,"artist":"Antony and the Johnsons","artistId":"4fxp616ALtFWnXfwxnjLzW","albumId":"5E7RTI2PQpY0r1UMdB9j3G","release_date":"2014-11-10","popularity":28},{"trackId":"4XTGDKcerI21v4k1Au2H1L","name":"Going To A Town","duration_ms":244760,"artist":"Rufus Wainwright","artistId":"2PfBzriIMRsCXPDtSy9vg8","albumId":"1ug0ICh7MM8qQJweBXUVWg","release_date":"2007-01-01","popularity":52},{"trackId":"0sNn7mmOUEJEDAP2ohhQfp","name":"Yamore","duration_ms":442880,"artist":"Salif Keita","artistId":"0VVnWF3KNaa5O7ESohKhAx","albumId":"2gaL1CaBNmkk4c6jUhKcGX","release_date":"2002-03-25","popularity":50},{"trackId":"0Hz0ySp6XYrBhEQPU16Hz8","name":"Valborg","duration_ms":198173,"artist":"Håkan Hellström","artistId":"3H7Ez7cwaYw4L3ELy4v3Lc","albumId":"4y7g9dQcKkmBBNtMYhHxQs","release_date":"2013-01-01","popularity":59},{"trackId":"78ZqE2tjAxbqEGGlvGnQfT","name":"A Whiter Shade of Pale - Original Single Version","duration_ms":248946,"artist":"Procol Harum","artistId":"0GbqW5TJr7n4is453VOY4C","albumId":"4fKEheMhcigQBenkttp5CU","release_date":"2019-05-03","popularity":68},{"trackId":"1Ty6h0UNBtWLCHR5rOc3KO","name":"Ludvig 2020","duration_ms":152191,"artist":"Spesialstyrken","artistId":"4ge6BVfvTr07o1jau9iNyt","albumId":"4gIRukKoxXOZxPwhjiH52D","release_date":"2020-02-24","popularity":32}]
+[
+  {
+    "trackId": "4BHFlmrABKdPGeKJP6aifJ",
+    "name": "Utskärgård",
+    "duration_ms": 173893,
+    "artist": "Swedish Radio Symphony Orchestra",
+    "artistId": "0K6ufQj8JzIZPPkvZrEwJS",
+    "albumId": "7HUKTP7QFZrpGX4fcOVuLQ",
+    "release_date": "2005-05-25",
+    "popularity": 25
+  },
+  {
+    "trackId": "7lMwFdaLeJDxiNFd78ScAu",
+    "name": "Master Pretender",
+    "duration_ms": 227506,
+    "artist": "First Aid Kit",
+    "artistId": "21egYD1eInY6bGFcniCRT1",
+    "albumId": "3fVthsmWSbJpGp7gjxf5xI",
+    "release_date": "2014-06-03",
+    "popularity": 40
+  },
+  {
+    "trackId": "1CVNwQi4EvIpqIIcjfHib1",
+    "name": "Circles - Acoustic",
+    "duration_ms": 187973,
+    "artist": "Passenger",
+    "artistId": "0gadJ2b9A4SKsB1RFkBb66",
+    "albumId": "2mylGx7w2Q3yhUyN8iEWOF",
+    "release_date": "2012-11-05",
+    "popularity": 27
+  },
+  {
+    "trackId": "3mwIoHzwnTnGWjAUVqajLr",
+    "name": "Stormy Weather",
+    "duration_ms": 221280,
+    "artist": "Billie Holiday",
+    "artistId": "1YzCsTRb22dQkh9lghPIrp",
+    "albumId": "2mvImLm7gwMWXS83pxYU73",
+    "release_date": "1953-03-01",
+    "popularity": 48
+  },
+  {
+    "trackId": "3yF7TcLTBAaPsPhTschDrF",
+    "name": "Ett & noll",
+    "duration_ms": 246333,
+    "artist": "Bo Kaspers Orkester",
+    "artistId": "2VE6Ge0qFHrqDC6KG6ECJn",
+    "albumId": "6eDA4i4dMMeLZ3HJtU65sF",
+    "release_date": "1996-09-26",
+    "popularity": 36
+  },
+  {
+    "trackId": "3Hnihq9fXGUn3a53NvMUs4",
+    "name": "Så skimrande var aldrig havet",
+    "duration_ms": 172293,
+    "artist": "Freddie Wadling",
+    "artistId": "4NZBruC8XBoC8lj8kkW05m",
+    "albumId": "467y0VpZypTnw0n90Acihx",
+    "release_date": "1999-01-01",
+    "popularity": 33
+  },
+  {
+    "trackId": "2bfRfAO1RNWcpNtWJv042o",
+    "name": "Some Die Young",
+    "duration_ms": 228066,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "1YqHIqrWx3eopxKFPqjqhT",
+    "release_date": "2012-01-10",
+    "popularity": 53
+  },
+  {
+    "trackId": "0cOr2gnU2zxHYRN79HgMCl",
+    "name": "Kiss My Name - Live",
+    "duration_ms": 249360,
+    "artist": "Antony and the Johnsons",
+    "artistId": "4fxp616ALtFWnXfwxnjLzW",
+    "albumId": "5E7RTI2PQpY0r1UMdB9j3G",
+    "release_date": "2014-11-10",
+    "popularity": 28
+  },
+  {
+    "trackId": "4XTGDKcerI21v4k1Au2H1L",
+    "name": "Going To A Town",
+    "duration_ms": 244760,
+    "artist": "Rufus Wainwright",
+    "artistId": "2PfBzriIMRsCXPDtSy9vg8",
+    "albumId": "1ug0ICh7MM8qQJweBXUVWg",
+    "release_date": "2007-01-01",
+    "popularity": 52
+  },
+  {
+    "trackId": "0sNn7mmOUEJEDAP2ohhQfp",
+    "name": "Yamore",
+    "duration_ms": 442880,
+    "artist": "Salif Keita",
+    "artistId": "0VVnWF3KNaa5O7ESohKhAx",
+    "albumId": "2gaL1CaBNmkk4c6jUhKcGX",
+    "release_date": "2002-03-25",
+    "popularity": 50
+  },
+  {
+    "trackId": "0Hz0ySp6XYrBhEQPU16Hz8",
+    "name": "Valborg",
+    "duration_ms": 198173,
+    "artist": "Håkan Hellström",
+    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+    "albumId": "4y7g9dQcKkmBBNtMYhHxQs",
+    "release_date": "2013-01-01",
+    "popularity": 59
+  },
+  {
+    "trackId": "78ZqE2tjAxbqEGGlvGnQfT",
+    "name": "A Whiter Shade of Pale - Original Single Version",
+    "duration_ms": 248946,
+    "artist": "Procol Harum",
+    "artistId": "0GbqW5TJr7n4is453VOY4C",
+    "albumId": "4fKEheMhcigQBenkttp5CU",
+    "release_date": "2019-05-03",
+    "popularity": 68
+  },
+  {
+    "trackId": "1Ty6h0UNBtWLCHR5rOc3KO",
+    "name": "Ludvig 2020",
+    "duration_ms": 152191,
+    "artist": "Spesialstyrken",
+    "artistId": "4ge6BVfvTr07o1jau9iNyt",
+    "albumId": "4gIRukKoxXOZxPwhjiH52D",
+    "release_date": "2020-02-24",
+    "popularity": 32
+  }
+]

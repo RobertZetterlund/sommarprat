@@ -1,1 +1,152 @@
-[{"trackId":"42ydLwx4i5V49RXHOozJZq","name":"Scars To Your Beautiful","duration_ms":230226,"artist":"Alessia Cara","artistId":"2wUjUUtkb5lvLKcGKsKqsR","albumId":"2AGNF8r2y8HL85yVk2bwmS","release_date":"2016-03-11","popularity":73},{"trackId":"7rWq6WfZNwilZgRvZUw6CQ","name":"Try","duration_ms":224573,"artist":"Colbie Caillat","artistId":"6aZyMrc4doVtZyKNilOmwu","albumId":"3Gvp7hk4YWaWg2mF0XAauA","release_date":"2014-09-29","popularity":47},{"trackId":"1yHnRzLXEOOpK0JBRQruzJ","name":"Tack För Idag","duration_ms":203894,"artist":"Albin Johnsén","artistId":"6IfZesOI3vKCZy8pjzVknj","albumId":"0kDWZrSCvVTB1muHes8D2t","release_date":"2018-06-15","popularity":34},{"trackId":"5hDowhxXBk5POQppBYONeO","name":"Vart jag än går","duration_ms":207333,"artist":"Stiftelsen","artistId":"00PLVqZ4oaOmbI4lacLUBO","albumId":"02l3IMmYpgTPixONhItSBp","release_date":"2012-01-01","popularity":54},{"trackId":"6hTcuIQa0sxrrByu9wTD7s","name":"Born to Run","duration_ms":269920,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"43YIoHKSrEw2GJsWmhZIpu","release_date":"1975-08-25","popularity":72},{"trackId":"5FQEeo3o0tPNxrsQPcmwlX","name":"Changes","duration_ms":142019,"artist":"Mike Perry","artistId":"6lB8vOoI4DRrrVxXwuV19c","albumId":"4aMTPu5UxcRpH0DGxPvxHj","release_date":"2019-04-12","popularity":58},{"trackId":"0VGJt0JmgzBM1qh4PbLJE8","name":"La même","duration_ms":199040,"artist":"GIMS","artistId":"0GOx72r5AAEKRGQFn3xqXK","albumId":"1M6fzuQYFey2QmayH1Mb13","release_date":"2018-03-23","popularity":51},{"trackId":"2x0RZdkZcD8QRI53XT4GI5","name":"SOS (feat. Aloe Blacc)","duration_ms":157202,"artist":"Avicii","artistId":"1vCWHaC5f2uS3yhpwWbIA6","albumId":"6Ad1E9vl75ZB3Ir87zwXIJ","release_date":"2019-06-06","popularity":71},{"trackId":"4Chm6I1JQxs0y9iOXrwz0J","name":"Regnet (feat. Molly Sandén & SAMI)","duration_ms":217949,"artist":"Petter","artistId":"5A0Bu9azuFEnud3q7t0V2r","albumId":"0gHhGVAa2evTww6NEwZI4G","release_date":"2018-05-25","popularity":34},{"trackId":"5x5IZUp23tcwoD34HmMbkr","name":"Be the One - Ten Ven Remix","duration_ms":324028,"artist":"Dua Lipa","artistId":"6M2wZ9GZgrQXHCFfjv46we","albumId":"3gEg7Ts1cq2I5dmFm0vanu","release_date":"2022-08-05","popularity":1},{"trackId":"5Hroj5K7vLpIG4FNCRIjbP","name":"Best Day Of My Life","duration_ms":194240,"artist":"American Authors","artistId":"0MlOPi3zIDMVrfA9R04Fe3","albumId":"0V4laGZGshNCpurfIdUhHv","release_date":"2014-01-01","popularity":80},{"trackId":"0cv1Mnb47oMvjVKMc2cyZw","name":"Can't Hold Us Down (feat. Lil' Kim)","duration_ms":255266,"artist":"Christina Aguilera","artistId":"1l7ZsJRRS8wlW3WfJfPfNS","albumId":"2USigX9DhGuAini71XZEEK","release_date":"2002-07-19","popularity":61},{"trackId":"3uVO0fpvKhuPCfGCAjJev0","name":"Ju Mer Dom Spottar","duration_ms":192028,"artist":"Kapten Röd","artistId":"4G2UDRhQLUDq0f93giGYwA","albumId":"0EvdD2eeFZDmzvuAZcGDdA","release_date":"2011-07-06","popularity":51},{"trackId":"15EZ0MVbTowb8ZvzgB02eO","name":"Men bara om min älskade väntar","duration_ms":174093,"artist":"Nationalteatern","artistId":"3GBq0lnwXpfnLmMndLDZ6U","albumId":"0mwdXf3cr5jJnDaXTfcOIK","release_date":"1978","popularity":48},{"trackId":"2374M0fQpWi3dLnB54qaLX","name":"Africa","duration_ms":295893,"artist":"TOTO","artistId":"0PFtn5NtBbbUNbU9EAmIWF","albumId":"62U7xIHcID94o20Of5ea4D","release_date":"1982-04-08","popularity":83}]
+[
+  {
+    "trackId": "42ydLwx4i5V49RXHOozJZq",
+    "name": "Scars To Your Beautiful",
+    "duration_ms": 230226,
+    "artist": "Alessia Cara",
+    "artistId": "2wUjUUtkb5lvLKcGKsKqsR",
+    "albumId": "2AGNF8r2y8HL85yVk2bwmS",
+    "release_date": "2016-03-11",
+    "popularity": 73
+  },
+  {
+    "trackId": "7rWq6WfZNwilZgRvZUw6CQ",
+    "name": "Try",
+    "duration_ms": 224573,
+    "artist": "Colbie Caillat",
+    "artistId": "6aZyMrc4doVtZyKNilOmwu",
+    "albumId": "3Gvp7hk4YWaWg2mF0XAauA",
+    "release_date": "2014-09-29",
+    "popularity": 47
+  },
+  {
+    "trackId": "1yHnRzLXEOOpK0JBRQruzJ",
+    "name": "Tack För Idag",
+    "duration_ms": 203894,
+    "artist": "Albin Johnsén",
+    "artistId": "6IfZesOI3vKCZy8pjzVknj",
+    "albumId": "0kDWZrSCvVTB1muHes8D2t",
+    "release_date": "2018-06-15",
+    "popularity": 34
+  },
+  {
+    "trackId": "5hDowhxXBk5POQppBYONeO",
+    "name": "Vart jag än går",
+    "duration_ms": 207333,
+    "artist": "Stiftelsen",
+    "artistId": "00PLVqZ4oaOmbI4lacLUBO",
+    "albumId": "02l3IMmYpgTPixONhItSBp",
+    "release_date": "2012-01-01",
+    "popularity": 54
+  },
+  {
+    "trackId": "6hTcuIQa0sxrrByu9wTD7s",
+    "name": "Born to Run",
+    "duration_ms": 269920,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "43YIoHKSrEw2GJsWmhZIpu",
+    "release_date": "1975-08-25",
+    "popularity": 72
+  },
+  {
+    "trackId": "5FQEeo3o0tPNxrsQPcmwlX",
+    "name": "Changes",
+    "duration_ms": 142019,
+    "artist": "Mike Perry",
+    "artistId": "6lB8vOoI4DRrrVxXwuV19c",
+    "albumId": "4aMTPu5UxcRpH0DGxPvxHj",
+    "release_date": "2019-04-12",
+    "popularity": 58
+  },
+  {
+    "trackId": "0VGJt0JmgzBM1qh4PbLJE8",
+    "name": "La même",
+    "duration_ms": 199040,
+    "artist": "GIMS",
+    "artistId": "0GOx72r5AAEKRGQFn3xqXK",
+    "albumId": "1M6fzuQYFey2QmayH1Mb13",
+    "release_date": "2018-03-23",
+    "popularity": 51
+  },
+  {
+    "trackId": "2x0RZdkZcD8QRI53XT4GI5",
+    "name": "SOS (feat. Aloe Blacc)",
+    "duration_ms": 157202,
+    "artist": "Avicii",
+    "artistId": "1vCWHaC5f2uS3yhpwWbIA6",
+    "albumId": "6Ad1E9vl75ZB3Ir87zwXIJ",
+    "release_date": "2019-06-06",
+    "popularity": 71
+  },
+  {
+    "trackId": "4Chm6I1JQxs0y9iOXrwz0J",
+    "name": "Regnet (feat. Molly Sandén & SAMI)",
+    "duration_ms": 217949,
+    "artist": "Petter",
+    "artistId": "5A0Bu9azuFEnud3q7t0V2r",
+    "albumId": "0gHhGVAa2evTww6NEwZI4G",
+    "release_date": "2018-05-25",
+    "popularity": 34
+  },
+  {
+    "trackId": "5x5IZUp23tcwoD34HmMbkr",
+    "name": "Be the One - Ten Ven Remix",
+    "duration_ms": 324028,
+    "artist": "Dua Lipa",
+    "artistId": "6M2wZ9GZgrQXHCFfjv46we",
+    "albumId": "3gEg7Ts1cq2I5dmFm0vanu",
+    "release_date": "2022-08-05",
+    "popularity": 1
+  },
+  {
+    "trackId": "5Hroj5K7vLpIG4FNCRIjbP",
+    "name": "Best Day Of My Life",
+    "duration_ms": 194240,
+    "artist": "American Authors",
+    "artistId": "0MlOPi3zIDMVrfA9R04Fe3",
+    "albumId": "0V4laGZGshNCpurfIdUhHv",
+    "release_date": "2014-01-01",
+    "popularity": 80
+  },
+  {
+    "trackId": "0cv1Mnb47oMvjVKMc2cyZw",
+    "name": "Can't Hold Us Down (feat. Lil' Kim)",
+    "duration_ms": 255266,
+    "artist": "Christina Aguilera",
+    "artistId": "1l7ZsJRRS8wlW3WfJfPfNS",
+    "albumId": "2USigX9DhGuAini71XZEEK",
+    "release_date": "2002-07-19",
+    "popularity": 61
+  },
+  {
+    "trackId": "3uVO0fpvKhuPCfGCAjJev0",
+    "name": "Ju Mer Dom Spottar",
+    "duration_ms": 192028,
+    "artist": "Kapten Röd",
+    "artistId": "4G2UDRhQLUDq0f93giGYwA",
+    "albumId": "0EvdD2eeFZDmzvuAZcGDdA",
+    "release_date": "2011-07-06",
+    "popularity": 51
+  },
+  {
+    "trackId": "15EZ0MVbTowb8ZvzgB02eO",
+    "name": "Men bara om min älskade väntar",
+    "duration_ms": 174093,
+    "artist": "Nationalteatern",
+    "artistId": "3GBq0lnwXpfnLmMndLDZ6U",
+    "albumId": "0mwdXf3cr5jJnDaXTfcOIK",
+    "release_date": "1978",
+    "popularity": 48
+  },
+  {
+    "trackId": "2374M0fQpWi3dLnB54qaLX",
+    "name": "Africa",
+    "duration_ms": 295893,
+    "artist": "TOTO",
+    "artistId": "0PFtn5NtBbbUNbU9EAmIWF",
+    "albumId": "62U7xIHcID94o20Of5ea4D",
+    "release_date": "1982-04-08",
+    "popularity": 83
+  }
+]

@@ -1,1 +1,142 @@
-[{"trackId":"0zYQfa6qw2iXCgs9aX0mys","name":"Gässen flytta","duration_ms":144800,"artist":"Thorstein Bergman","artistId":"6RN0Wp8CBr7bij8JzB1qG2","albumId":"55SIYzqiP09PVpXwDMzuxS","release_date":"1967","popularity":22},{"trackId":"14lyZKpPu1ECQpfXhgrip6","name":"Goldberg Variations, BWV 988: Variation 4 a 1 Clav.","duration_ms":50480,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"1aCpHSQE5ghxibsQ5gkBe0","release_date":"1981","popularity":42},{"trackId":"1rxpcAZJ5mQNrekAmKGWW9","name":"Passacaille for Cello and Piano","duration_ms":362706,"artist":"Szymon Laks","artistId":"0lhDWyKXECfXHHvyrAYT73","albumId":"5lDQZoNCY0HaMK6fYx51rt","release_date":"2000-11-01","popularity":0},{"trackId":"6lwp0lOawQBgUa9rakKhiW","name":"Balladen om Fredrik Åkare","duration_ms":142666,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"6ILQonIkV5DsmZXgmzXId3","release_date":"1964","popularity":33},{"trackId":"0kYwVPweGeclWHJD0hbA1N","name":"Laxå","duration_ms":175186,"artist":"Towa Carson","artistId":"5CONgvgX5LbX8L1IdRrdxu","albumId":"5LE2qwCEYRB3pwW4gOK1K1","release_date":"2004","popularity":33},{"trackId":"7cgB68sThZBMefA7VAxoxR","name":"Sonates pour Violon Seul Op.27:Sonate No.3 - Ballade","duration_ms":390333,"artist":"Eugène Ysaÿe","artistId":"662RkpOvE7MIPWnfYbY5xs","albumId":"1U81giqsxSpc55GjJrytkd","release_date":"2002-10-07","popularity":20},{"trackId":"5tE3KbIFvkUwxs4SKuV6s3","name":"Loraine","duration_ms":249426,"artist":"Linton Kwesi Johnson","artistId":"0bvRYuXRvd14RYEE7c0PRW","albumId":"7unC5ENeNHJljlKtLQyseE","release_date":"1980-01-01","popularity":38},{"trackId":"0ra9qNQhW2KsawitCshrtr","name":"Söderjäntans söndag","duration_ms":206453,"artist":"Lena Andersson","artistId":"6RsEMvvepRUEV1UAtXcn1l","albumId":"0qPuR1rquODtri3HFG8UOf","release_date":"1976-01-01","popularity":10},{"trackId":"68TKmmu0BnZ2h1lrtVmOWU","name":"Sverige (Sweden), Op. 22","duration_ms":184266,"artist":"Jussi Björling","artistId":"4FNjPnaiiXYeG2qOhVtd8A","albumId":"5kQxC90rZ5uCHF6nRDjHPW","release_date":"2011-01-25","popularity":8},{"trackId":"0MOVGaS4F5nAQB8cE7diFe","name":"Solpolskan","duration_ms":423200,"artist":"Bazar Blå","artistId":"4JETLQUlzaCISfJ9XNab7H","albumId":"2jPilHF6jrO4K43xG6EQtS","release_date":"1998-01-01","popularity":4},{"trackId":"0CWAX4i2w8E5yvuacMalVO","name":"Bestäm dig","duration_ms":264066,"artist":"Allan Edwall","artistId":"6dLcR9Q2Lyik2rZBL2zLjs","albumId":"23tWRkGgJ7kbsBQLirgNsS","release_date":"1984-01-01","popularity":11},{"trackId":"6wPJwUzWWyBo5sm6Vvfzvv","name":"Aquiloni","duration_ms":200382,"artist":"Stefano Colli","artistId":"4qHNcYHKuaAUjaAzA4vad6","albumId":"28B6EeKO0cIUYMfgVA73PN","release_date":"2021-02-05","popularity":29},{"trackId":"455PpvNxwEs6w3mNc1LEet","name":"Traditional: Po karekare Ana","duration_ms":185906,"artist":"Traditional","artistId":"1U5zgr455OGyIkLNXvDdrf","albumId":"0lzMwTeveNClgA6cuuSUBA","release_date":"1999-10-01","popularity":13},{"trackId":"75E7gHGXLFngYmVZ8uw2fX","name":"Kinderszenen, Op. 15: 7. Träumerei","duration_ms":168040,"artist":"Robert Schumann","artistId":"2UqjDAXnDxejEyE0CzfUrZ","albumId":"0NEHp0PhCkPQxZxOuoUzm6","release_date":"2002-01-01","popularity":14}]
+[
+  {
+    "trackId": "0zYQfa6qw2iXCgs9aX0mys",
+    "name": "Gässen flytta",
+    "duration_ms": 144800,
+    "artist": "Thorstein Bergman",
+    "artistId": "6RN0Wp8CBr7bij8JzB1qG2",
+    "albumId": "55SIYzqiP09PVpXwDMzuxS",
+    "release_date": "1967",
+    "popularity": 22
+  },
+  {
+    "trackId": "14lyZKpPu1ECQpfXhgrip6",
+    "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+    "duration_ms": 50480,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+    "release_date": "1981",
+    "popularity": 42
+  },
+  {
+    "trackId": "1rxpcAZJ5mQNrekAmKGWW9",
+    "name": "Passacaille for Cello and Piano",
+    "duration_ms": 362706,
+    "artist": "Szymon Laks",
+    "artistId": "0lhDWyKXECfXHHvyrAYT73",
+    "albumId": "5lDQZoNCY0HaMK6fYx51rt",
+    "release_date": "2000-11-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "6lwp0lOawQBgUa9rakKhiW",
+    "name": "Balladen om Fredrik Åkare",
+    "duration_ms": 142666,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "6ILQonIkV5DsmZXgmzXId3",
+    "release_date": "1964",
+    "popularity": 33
+  },
+  {
+    "trackId": "0kYwVPweGeclWHJD0hbA1N",
+    "name": "Laxå",
+    "duration_ms": 175186,
+    "artist": "Towa Carson",
+    "artistId": "5CONgvgX5LbX8L1IdRrdxu",
+    "albumId": "5LE2qwCEYRB3pwW4gOK1K1",
+    "release_date": "2004",
+    "popularity": 33
+  },
+  {
+    "trackId": "7cgB68sThZBMefA7VAxoxR",
+    "name": "Sonates pour Violon Seul Op.27:Sonate No.3 - Ballade",
+    "duration_ms": 390333,
+    "artist": "Eugène Ysaÿe",
+    "artistId": "662RkpOvE7MIPWnfYbY5xs",
+    "albumId": "1U81giqsxSpc55GjJrytkd",
+    "release_date": "2002-10-07",
+    "popularity": 20
+  },
+  {
+    "trackId": "5tE3KbIFvkUwxs4SKuV6s3",
+    "name": "Loraine",
+    "duration_ms": 249426,
+    "artist": "Linton Kwesi Johnson",
+    "artistId": "0bvRYuXRvd14RYEE7c0PRW",
+    "albumId": "7unC5ENeNHJljlKtLQyseE",
+    "release_date": "1980-01-01",
+    "popularity": 38
+  },
+  {
+    "trackId": "0ra9qNQhW2KsawitCshrtr",
+    "name": "Söderjäntans söndag",
+    "duration_ms": 206453,
+    "artist": "Lena Andersson",
+    "artistId": "6RsEMvvepRUEV1UAtXcn1l",
+    "albumId": "0qPuR1rquODtri3HFG8UOf",
+    "release_date": "1976-01-01",
+    "popularity": 10
+  },
+  {
+    "trackId": "68TKmmu0BnZ2h1lrtVmOWU",
+    "name": "Sverige (Sweden), Op. 22",
+    "duration_ms": 184266,
+    "artist": "Jussi Björling",
+    "artistId": "4FNjPnaiiXYeG2qOhVtd8A",
+    "albumId": "5kQxC90rZ5uCHF6nRDjHPW",
+    "release_date": "2011-01-25",
+    "popularity": 8
+  },
+  {
+    "trackId": "0MOVGaS4F5nAQB8cE7diFe",
+    "name": "Solpolskan",
+    "duration_ms": 423200,
+    "artist": "Bazar Blå",
+    "artistId": "4JETLQUlzaCISfJ9XNab7H",
+    "albumId": "2jPilHF6jrO4K43xG6EQtS",
+    "release_date": "1998-01-01",
+    "popularity": 4
+  },
+  {
+    "trackId": "0CWAX4i2w8E5yvuacMalVO",
+    "name": "Bestäm dig",
+    "duration_ms": 264066,
+    "artist": "Allan Edwall",
+    "artistId": "6dLcR9Q2Lyik2rZBL2zLjs",
+    "albumId": "23tWRkGgJ7kbsBQLirgNsS",
+    "release_date": "1984-01-01",
+    "popularity": 11
+  },
+  {
+    "trackId": "6wPJwUzWWyBo5sm6Vvfzvv",
+    "name": "Aquiloni",
+    "duration_ms": 200382,
+    "artist": "Stefano Colli",
+    "artistId": "4qHNcYHKuaAUjaAzA4vad6",
+    "albumId": "28B6EeKO0cIUYMfgVA73PN",
+    "release_date": "2021-02-05",
+    "popularity": 29
+  },
+  {
+    "trackId": "455PpvNxwEs6w3mNc1LEet",
+    "name": "Traditional: Po karekare Ana",
+    "duration_ms": 185906,
+    "artist": "Traditional",
+    "artistId": "1U5zgr455OGyIkLNXvDdrf",
+    "albumId": "0lzMwTeveNClgA6cuuSUBA",
+    "release_date": "1999-10-01",
+    "popularity": 13
+  },
+  {
+    "trackId": "75E7gHGXLFngYmVZ8uw2fX",
+    "name": "Kinderszenen, Op. 15: 7. Träumerei",
+    "duration_ms": 168040,
+    "artist": "Robert Schumann",
+    "artistId": "2UqjDAXnDxejEyE0CzfUrZ",
+    "albumId": "0NEHp0PhCkPQxZxOuoUzm6",
+    "release_date": "2002-01-01",
+    "popularity": 14
+  }
+]

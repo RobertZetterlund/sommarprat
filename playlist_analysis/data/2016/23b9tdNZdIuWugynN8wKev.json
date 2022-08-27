@@ -1,1 +1,132 @@
-[{"trackId":"4L9sdN5l6PvW3EZyP6sY7j","name":"I Am What I Am","duration_ms":207106,"artist":"Gloria Gaynor","artistId":"6V6WCgi7waF55bJmylC4H5","albumId":"3mn5uMVqqN1WPA2Jwd8lfk","release_date":"1990","popularity":52},{"trackId":"48mR2HP6POWBM0FGErTZUd","name":"Människa - Från \"Tarzan\"","duration_ms":165480,"artist":"Pelle Ankarberg","artistId":"07sJTHzs0NqNEXJLy1enIc","albumId":"7xA6cYHxMEpoOEFGda8xyq","release_date":"2018-09-14","popularity":39},{"trackId":"6p8eFfPw3nQkf37aT3AkmK","name":"Fear of the Dark - 2015 Remaster","duration_ms":438120,"artist":"Iron Maiden","artistId":"6mdiAmATAx73kdxrNrnlao","albumId":"16Su3EUFLPqWVyrwN1q5wO","release_date":"1992","popularity":71},{"trackId":"46NBoIAHrmR7qcUGCIFEjR","name":"This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)","duration_ms":207272,"artist":"David Guetta","artistId":"1Cs0zKBU1kc0i8ypK3B9ai","albumId":"7EvlnQaVuUuFLIeSuE6nRq","release_date":"2016-05-13","popularity":67},{"trackId":"3spdoTYpuCpmq19tuD0bOe","name":"My Way","duration_ms":276800,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"3IdNQBn7De23AVyv2V67wn","release_date":"1969-03","popularity":71},{"trackId":"2IK5neEikSWH0pLhajzUkN","name":"Tala Om Vart Du Ska Resa - 1999 Digital Remaster","duration_ms":151440,"artist":"Landslaget","artistId":"1PvpYinFtAKzF8LsOYjBTv","albumId":"128Ykcism2eYbSLeKWKqlN","release_date":"1973","popularity":40},{"trackId":"36O7qmyKLHpUY6WdWh8M5g","name":"Will You Be There - Single Version","duration_ms":220386,"artist":"Michael Jackson","artistId":"3fMbdgg4jU18AjLCKBhRSm","albumId":"77dNyQA0z8dV33M4so4eRY","release_date":"2005-07-19","popularity":56},{"trackId":"11IXRdEjiH0KL8nh4G1j7d","name":"Now We Are Free","duration_ms":254293,"artist":"Lisa Gerrard","artistId":"3C4MmUJYQN9svNdedAR2BK","albumId":"1yqkE2BoMZaQRABJRJT2HZ","release_date":"2000-01-01","popularity":58},{"trackId":"5TpSHCnstKcvuIxKb4wRNG","name":"Jag lever livet","duration_ms":201853,"artist":"Carola","artistId":"3uFum0NCM1PtmCO0MwsOAt","albumId":"6WFBm5Or8TVQPN78wD2wzH","release_date":"2006-05-17","popularity":11},{"trackId":"2nxTpjhxLXeyBOxYnRnT76","name":"1944","duration_ms":180839,"artist":"Jamala","artistId":"4EXfia20rgVLyubQiYtOIC","albumId":"1XomkUS0e4754Zmn7bOaJk","release_date":"2017-05-12","popularity":51},{"trackId":"2cFu6ZnctyXKApy8UfRjLk","name":"Moving On","duration_ms":185933,"artist":"Sarah Dawn Finer","artistId":"4TuGR5xkIry198WmY7hax2","albumId":"5nTVJvVgS9vqCjCKvgWaJe","release_date":"2010-06-21","popularity":45},{"trackId":"6Yi9FgsazGEjBmqyRjRjeo","name":"MacGyver Theme (From \"MacGyver\")","duration_ms":83571,"artist":"Steve Arrows","artistId":"4M7CqlNoS1GMKmyGrALqIX","albumId":"5XUcDjSbMAe68liJIrPFxi","release_date":"2016-08-29","popularity":23},{"trackId":"7qA8S7mbV9uPy9rFprdN3C","name":"Goliat","duration_ms":247562,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"0pfOSr3PHdLqe9kHcoEPIL","release_date":"2013-09-27","popularity":55}]
+[
+  {
+    "trackId": "4L9sdN5l6PvW3EZyP6sY7j",
+    "name": "I Am What I Am",
+    "duration_ms": 207106,
+    "artist": "Gloria Gaynor",
+    "artistId": "6V6WCgi7waF55bJmylC4H5",
+    "albumId": "3mn5uMVqqN1WPA2Jwd8lfk",
+    "release_date": "1990",
+    "popularity": 52
+  },
+  {
+    "trackId": "48mR2HP6POWBM0FGErTZUd",
+    "name": "Människa - Från \"Tarzan\"",
+    "duration_ms": 165480,
+    "artist": "Pelle Ankarberg",
+    "artistId": "07sJTHzs0NqNEXJLy1enIc",
+    "albumId": "7xA6cYHxMEpoOEFGda8xyq",
+    "release_date": "2018-09-14",
+    "popularity": 39
+  },
+  {
+    "trackId": "6p8eFfPw3nQkf37aT3AkmK",
+    "name": "Fear of the Dark - 2015 Remaster",
+    "duration_ms": 438120,
+    "artist": "Iron Maiden",
+    "artistId": "6mdiAmATAx73kdxrNrnlao",
+    "albumId": "16Su3EUFLPqWVyrwN1q5wO",
+    "release_date": "1992",
+    "popularity": 71
+  },
+  {
+    "trackId": "46NBoIAHrmR7qcUGCIFEjR",
+    "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
+    "duration_ms": 207272,
+    "artist": "David Guetta",
+    "artistId": "1Cs0zKBU1kc0i8ypK3B9ai",
+    "albumId": "7EvlnQaVuUuFLIeSuE6nRq",
+    "release_date": "2016-05-13",
+    "popularity": 67
+  },
+  {
+    "trackId": "3spdoTYpuCpmq19tuD0bOe",
+    "name": "My Way",
+    "duration_ms": 276800,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "3IdNQBn7De23AVyv2V67wn",
+    "release_date": "1969-03",
+    "popularity": 71
+  },
+  {
+    "trackId": "2IK5neEikSWH0pLhajzUkN",
+    "name": "Tala Om Vart Du Ska Resa - 1999 Digital Remaster",
+    "duration_ms": 151440,
+    "artist": "Landslaget",
+    "artistId": "1PvpYinFtAKzF8LsOYjBTv",
+    "albumId": "128Ykcism2eYbSLeKWKqlN",
+    "release_date": "1973",
+    "popularity": 40
+  },
+  {
+    "trackId": "36O7qmyKLHpUY6WdWh8M5g",
+    "name": "Will You Be There - Single Version",
+    "duration_ms": 220386,
+    "artist": "Michael Jackson",
+    "artistId": "3fMbdgg4jU18AjLCKBhRSm",
+    "albumId": "77dNyQA0z8dV33M4so4eRY",
+    "release_date": "2005-07-19",
+    "popularity": 56
+  },
+  {
+    "trackId": "11IXRdEjiH0KL8nh4G1j7d",
+    "name": "Now We Are Free",
+    "duration_ms": 254293,
+    "artist": "Lisa Gerrard",
+    "artistId": "3C4MmUJYQN9svNdedAR2BK",
+    "albumId": "1yqkE2BoMZaQRABJRJT2HZ",
+    "release_date": "2000-01-01",
+    "popularity": 58
+  },
+  {
+    "trackId": "5TpSHCnstKcvuIxKb4wRNG",
+    "name": "Jag lever livet",
+    "duration_ms": 201853,
+    "artist": "Carola",
+    "artistId": "3uFum0NCM1PtmCO0MwsOAt",
+    "albumId": "6WFBm5Or8TVQPN78wD2wzH",
+    "release_date": "2006-05-17",
+    "popularity": 11
+  },
+  {
+    "trackId": "2nxTpjhxLXeyBOxYnRnT76",
+    "name": "1944",
+    "duration_ms": 180839,
+    "artist": "Jamala",
+    "artistId": "4EXfia20rgVLyubQiYtOIC",
+    "albumId": "1XomkUS0e4754Zmn7bOaJk",
+    "release_date": "2017-05-12",
+    "popularity": 51
+  },
+  {
+    "trackId": "2cFu6ZnctyXKApy8UfRjLk",
+    "name": "Moving On",
+    "duration_ms": 185933,
+    "artist": "Sarah Dawn Finer",
+    "artistId": "4TuGR5xkIry198WmY7hax2",
+    "albumId": "5nTVJvVgS9vqCjCKvgWaJe",
+    "release_date": "2010-06-21",
+    "popularity": 45
+  },
+  {
+    "trackId": "6Yi9FgsazGEjBmqyRjRjeo",
+    "name": "MacGyver Theme (From \"MacGyver\")",
+    "duration_ms": 83571,
+    "artist": "Steve Arrows",
+    "artistId": "4M7CqlNoS1GMKmyGrALqIX",
+    "albumId": "5XUcDjSbMAe68liJIrPFxi",
+    "release_date": "2016-08-29",
+    "popularity": 23
+  },
+  {
+    "trackId": "7qA8S7mbV9uPy9rFprdN3C",
+    "name": "Goliat",
+    "duration_ms": 247562,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+    "release_date": "2013-09-27",
+    "popularity": 55
+  }
+]

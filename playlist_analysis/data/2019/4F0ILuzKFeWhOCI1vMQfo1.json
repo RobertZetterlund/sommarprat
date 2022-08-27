@@ -1,1 +1,142 @@
-[{"trackId":"5yziqHyYHiLDe2Ht85r6Rz","name":"Beyond the Sea (La Mer)","duration_ms":267573,"artist":"Gypsy Jazz Caravan","artistId":"0SLHeCwwiwjCElg072D2g7","albumId":"2DWUmK8Bo0wiT21Wb7d2Ne","release_date":"2013-03-12","popularity":46},{"trackId":"7cdvD474tIAt123hceJkuw","name":"You'd Be So Nice To Come Home To","duration_ms":187906,"artist":"Cheryl Bentyne","artistId":"16buKbboDFtQmldwXBInXf","albumId":"2i5l6R0GSkmcq9o6RvKUiR","release_date":"2012-08-14","popularity":22},{"trackId":"1zaiZAuhPkQfhhY9X2mTnn","name":"Can the Can","duration_ms":214400,"artist":"Suzi Quatro","artistId":"15jHZ1EZwmm2QDjKctvqJQ","albumId":"63KpMsxh6E1WJPcDeT2GH4","release_date":"1973-10-01","popularity":47},{"trackId":"0Jw3cPBXlGnA6DEJrZSTI0","name":"Soul Bossa Nova","duration_ms":166589,"artist":"Quincy Jones","artistId":"3rxIQc9kWT6Ueg4BhnOwRK","albumId":"1KSOL1jvue2lfcdsNZ7YN8","release_date":"1962-01-01","popularity":58},{"trackId":"5mheBEqQqYoWhnSWirwG8S","name":"Säg vad ni vill (Paris Canaille) - 1999 Remaster","duration_ms":196026,"artist":"Ulla Sjöblom","artistId":"00huu4jcNo6480UfSsL3qR","albumId":"4Dlc7KCIIriABz3pvykrxj","release_date":"1999","popularity":2},{"trackId":"68EjEEyGv2FcTVv9wsrJdT","name":"Tröstevisa","duration_ms":213600,"artist":"Benny Andersson","artistId":"0kV0e99xlTJcLKSu8KrLyp","albumId":"3YGh4CN0JocLK0SwvJgMWc","release_date":"2017-09-29","popularity":43},{"trackId":"00HwPx5ODwMgTbR0HSlyDf","name":"Requiem: VII. Dies irae - Requiem aeternam","duration_ms":288306,"artist":"Giuseppe Verdi","artistId":"1JOQXgYdQV2yfrhewqx96o","albumId":"7j3a5opUxWCoJ16D1tv82N","release_date":"2016-10-07","popularity":2},{"trackId":"0lDUDWAQLQDUCAgAcBxoPE","name":"Messa da Requiem: 2a. Dies irae","duration_ms":123291,"artist":"Giuseppe Verdi","artistId":"1JOQXgYdQV2yfrhewqx96o","albumId":"0dSZlkvwEiDwraSDGqnkyo","release_date":"1961","popularity":0},{"trackId":"27hhIs2fp6w06N5zx4Eaa5","name":"Dream A Little Dream Of Me","duration_ms":194426,"artist":"The Mamas & The Papas","artistId":"1bs7HoMkSyQwcobCpE9KpN","albumId":"0JJMI060q086v9ul5gHdey","release_date":"1968-05-01","popularity":71},{"trackId":"6g5qyQrAcoBX4X7XjxBoTO","name":"Comment te dire adieu - Remasterisé en 2016","duration_ms":148506,"artist":"Françoise Hardy","artistId":"7x3f7c0fBanNlQwpx1255g","albumId":"0uRiGrSYj5IKsm6H8eodeB","release_date":"1968-12-15","popularity":60},{"trackId":"0Y1kvFLZDfTC2HVFejDV64","name":"Snödroppar","duration_ms":156840,"artist":"Sven Jarholt","artistId":"2uBIWVqSyxMBTs3VlGL4QN","albumId":"6eE3lALLYoRpF9j0M31MQV","release_date":"2007-05-30","popularity":0},{"trackId":"4fKhRRYn7F5shZItjJkPJU","name":"Watching The Wheels - Remastered 2010","duration_ms":239933,"artist":"John Lennon","artistId":"4x1nvY2FN8jxqAFA0DA02H","albumId":"15q7N7Wo307mfjqR29NpjF","release_date":"1980-11-17","popularity":54},{"trackId":"1OVSyiY9YkHOq1FzEb94sq","name":"La Mer - Live","duration_ms":268400,"artist":"Julio Iglesias","artistId":"4etuCZVdP8yiNPn4xf0ie5","albumId":"1R4TEa7Uds9UufwLFQdivu","release_date":"1976-09-25","popularity":44},{"trackId":"6Omr4zDMg6XokKVMtxStmw","name":"Probability Cloud","duration_ms":285960,"artist":"Bill Frisell","artistId":"3SONlwqLIP2GtaMh9pLYe5","albumId":"74s1xuJFJGvRCPjlh2d2oE","release_date":"2008-03-15","popularity":9}]
+[
+  {
+    "trackId": "5yziqHyYHiLDe2Ht85r6Rz",
+    "name": "Beyond the Sea (La Mer)",
+    "duration_ms": 267573,
+    "artist": "Gypsy Jazz Caravan",
+    "artistId": "0SLHeCwwiwjCElg072D2g7",
+    "albumId": "2DWUmK8Bo0wiT21Wb7d2Ne",
+    "release_date": "2013-03-12",
+    "popularity": 46
+  },
+  {
+    "trackId": "7cdvD474tIAt123hceJkuw",
+    "name": "You'd Be So Nice To Come Home To",
+    "duration_ms": 187906,
+    "artist": "Cheryl Bentyne",
+    "artistId": "16buKbboDFtQmldwXBInXf",
+    "albumId": "2i5l6R0GSkmcq9o6RvKUiR",
+    "release_date": "2012-08-14",
+    "popularity": 22
+  },
+  {
+    "trackId": "1zaiZAuhPkQfhhY9X2mTnn",
+    "name": "Can the Can",
+    "duration_ms": 214400,
+    "artist": "Suzi Quatro",
+    "artistId": "15jHZ1EZwmm2QDjKctvqJQ",
+    "albumId": "63KpMsxh6E1WJPcDeT2GH4",
+    "release_date": "1973-10-01",
+    "popularity": 47
+  },
+  {
+    "trackId": "0Jw3cPBXlGnA6DEJrZSTI0",
+    "name": "Soul Bossa Nova",
+    "duration_ms": 166589,
+    "artist": "Quincy Jones",
+    "artistId": "3rxIQc9kWT6Ueg4BhnOwRK",
+    "albumId": "1KSOL1jvue2lfcdsNZ7YN8",
+    "release_date": "1962-01-01",
+    "popularity": 58
+  },
+  {
+    "trackId": "5mheBEqQqYoWhnSWirwG8S",
+    "name": "Säg vad ni vill (Paris Canaille) - 1999 Remaster",
+    "duration_ms": 196026,
+    "artist": "Ulla Sjöblom",
+    "artistId": "00huu4jcNo6480UfSsL3qR",
+    "albumId": "4Dlc7KCIIriABz3pvykrxj",
+    "release_date": "1999",
+    "popularity": 2
+  },
+  {
+    "trackId": "68EjEEyGv2FcTVv9wsrJdT",
+    "name": "Tröstevisa",
+    "duration_ms": 213600,
+    "artist": "Benny Andersson",
+    "artistId": "0kV0e99xlTJcLKSu8KrLyp",
+    "albumId": "3YGh4CN0JocLK0SwvJgMWc",
+    "release_date": "2017-09-29",
+    "popularity": 43
+  },
+  {
+    "trackId": "00HwPx5ODwMgTbR0HSlyDf",
+    "name": "Requiem: VII. Dies irae - Requiem aeternam",
+    "duration_ms": 288306,
+    "artist": "Giuseppe Verdi",
+    "artistId": "1JOQXgYdQV2yfrhewqx96o",
+    "albumId": "7j3a5opUxWCoJ16D1tv82N",
+    "release_date": "2016-10-07",
+    "popularity": 2
+  },
+  {
+    "trackId": "0lDUDWAQLQDUCAgAcBxoPE",
+    "name": "Messa da Requiem: 2a. Dies irae",
+    "duration_ms": 123291,
+    "artist": "Giuseppe Verdi",
+    "artistId": "1JOQXgYdQV2yfrhewqx96o",
+    "albumId": "0dSZlkvwEiDwraSDGqnkyo",
+    "release_date": "1961",
+    "popularity": 0
+  },
+  {
+    "trackId": "27hhIs2fp6w06N5zx4Eaa5",
+    "name": "Dream A Little Dream Of Me",
+    "duration_ms": 194426,
+    "artist": "The Mamas & The Papas",
+    "artistId": "1bs7HoMkSyQwcobCpE9KpN",
+    "albumId": "0JJMI060q086v9ul5gHdey",
+    "release_date": "1968-05-01",
+    "popularity": 71
+  },
+  {
+    "trackId": "6g5qyQrAcoBX4X7XjxBoTO",
+    "name": "Comment te dire adieu - Remasterisé en 2016",
+    "duration_ms": 148506,
+    "artist": "Françoise Hardy",
+    "artistId": "7x3f7c0fBanNlQwpx1255g",
+    "albumId": "0uRiGrSYj5IKsm6H8eodeB",
+    "release_date": "1968-12-15",
+    "popularity": 60
+  },
+  {
+    "trackId": "0Y1kvFLZDfTC2HVFejDV64",
+    "name": "Snödroppar",
+    "duration_ms": 156840,
+    "artist": "Sven Jarholt",
+    "artistId": "2uBIWVqSyxMBTs3VlGL4QN",
+    "albumId": "6eE3lALLYoRpF9j0M31MQV",
+    "release_date": "2007-05-30",
+    "popularity": 0
+  },
+  {
+    "trackId": "4fKhRRYn7F5shZItjJkPJU",
+    "name": "Watching The Wheels - Remastered 2010",
+    "duration_ms": 239933,
+    "artist": "John Lennon",
+    "artistId": "4x1nvY2FN8jxqAFA0DA02H",
+    "albumId": "15q7N7Wo307mfjqR29NpjF",
+    "release_date": "1980-11-17",
+    "popularity": 54
+  },
+  {
+    "trackId": "1OVSyiY9YkHOq1FzEb94sq",
+    "name": "La Mer - Live",
+    "duration_ms": 268400,
+    "artist": "Julio Iglesias",
+    "artistId": "4etuCZVdP8yiNPn4xf0ie5",
+    "albumId": "1R4TEa7Uds9UufwLFQdivu",
+    "release_date": "1976-09-25",
+    "popularity": 44
+  },
+  {
+    "trackId": "6Omr4zDMg6XokKVMtxStmw",
+    "name": "Probability Cloud",
+    "duration_ms": 285960,
+    "artist": "Bill Frisell",
+    "artistId": "3SONlwqLIP2GtaMh9pLYe5",
+    "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+    "release_date": "2008-03-15",
+    "popularity": 9
+  }
+]

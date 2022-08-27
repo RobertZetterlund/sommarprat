@@ -1,1 +1,162 @@
-[{"trackId":"4LyBVNtG7sLKOV9OGTHZh7","name":"Roslagsvår","duration_ms":180040,"artist":"Alice Babs","artistId":"3omPckNeXtMpCdOXVfcOST","albumId":"2BCVO2jwndeqVSZZMRKjql","release_date":"1957","popularity":10},{"trackId":"7rIpG0Ej6j4oQyspgnMyYl","name":"Millionär Malte Lindeman","duration_ms":269733,"artist":"Hasse Alfredson","artistId":"7bQVHmJKaxiXYkZ2miMrwb","albumId":"4i5wHfuqNOLQHVgyn3o67Q","release_date":"2008-01-01","popularity":11},{"trackId":"3oEkrIfXfSh9zGnE7eBzSV","name":"The Winner Takes It All","duration_ms":294720,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"3ZdkT5buYFi1WQaB0XNNtf","release_date":"1980","popularity":73},{"trackId":"5Oowc85tcdDE4rWWexm6fo","name":"Mon Amour","duration_ms":229506,"artist":"Ben L'Oncle Soul","artistId":"2dJTa3mUidZAO9sKcY72tK","albumId":"6XbYsGvaSrNPOrY9E5jRd7","release_date":"2010-01-01","popularity":25},{"trackId":"2cwxukwW922rPXcKYWvLlu","name":"Röda sten","duration_ms":243760,"artist":"Albin Lee Meldau","artistId":"1AdKbbV5v6ifuJertEjNeK","albumId":"59yVJJgWzN71NZtKnwqeci","release_date":"2020-06-12","popularity":48},{"trackId":"1LCqE6x3pbGWxnLDAy4nYE","name":"I Nybyggarnas Spår","duration_ms":241400,"artist":"Mats Westling","artistId":"5rjmePfBPuGlACDGjprimu","albumId":"1lYnXI3kd6gc1050oohjD7","release_date":"2008-10-29","popularity":10},{"trackId":"4ciRwt5dGHKKm8Et8r1xJ0","name":"Hier encore","duration_ms":143466,"artist":"Charles Aznavour","artistId":"2hgP9Ap2tc10R5jrQaEpMT","albumId":"0wcD2yLF9h3i41ryKQpgmK","release_date":"1964","popularity":60},{"trackId":"7i3OR8YPh8KXMezP4hmIoo","name":"Jag har vandrat mina stigar","duration_ms":179200,"artist":"Small Town Singers","artistId":"50hq76iOfQrFsSUx8z3Czo","albumId":"1GZwGHyHSjFTxidlYitdVk","release_date":"2002","popularity":22},{"trackId":"4aLcGMxwFtcZRpl7NDtNW2","name":"Time To Say Goodbye","duration_ms":245893,"artist":"Francesco Sartori","artistId":"0VtVDsLKIsyiBa1DeAdKbU","albumId":"6O4lYKMQFLDcaUrBocYSRz","release_date":"2007-01-01","popularity":59},{"trackId":"0UKSIHg4yrvcjlR5K66Dsj","name":"Subete No Hito No Kokoro Ni Hanna O","duration_ms":296573,"artist":"Shokichi Kina","artistId":"5gkrprwugXcmHhT36ZmU46","albumId":"5fZ8QL8Zh7s5PGSZ7JeAH2","release_date":"1994-01-01","popularity":6},{"trackId":"3492c69DsiY9PZsjspF2cb","name":"Not There Yet","duration_ms":205186,"artist":"Eric Hutchinson","artistId":"39x8gyJjTHiBQklFgVJSV4","albumId":"2pHlCJNp5Tc2M1D0LwwjSc","release_date":"2012-04-13","popularity":30},{"trackId":"5xpQEjjDoe7egEqiw807Je","name":"Prospettiva Nevski","duration_ms":221266,"artist":"Alice","artistId":"3zNFrznlC0kv866J7Karl3","albumId":"4EbqYOpoUVX0tm7J09X1Vq","release_date":"1985-01-01","popularity":44},{"trackId":"4Uzv9ZmajuHh2tJzpATR3T","name":"Ticket To Heaven","duration_ms":264200,"artist":"Dire Straits","artistId":"0WwSkZ7LtFUFjGjMZBMt6T","albumId":"7gk5j9Ok764TbTsmkxthYt","release_date":"1991-09-10","popularity":54},{"trackId":"7qA8S7mbV9uPy9rFprdN3C","name":"Goliat","duration_ms":247562,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"0pfOSr3PHdLqe9kHcoEPIL","release_date":"2013-09-27","popularity":55},{"trackId":"7qYAVSalYQTSM1cqGTxyjO","name":"Blue Eyed Elaine","duration_ms":154720,"artist":"John Prine","artistId":"0nJUwPwC9Ti4vvuJ0q3MfT","albumId":"0JafNTEJPn2G6iDbxyY1h4","release_date":"2007-04-24","popularity":30},{"trackId":"6OH7UCFY7SEJxxQkaYfAv8","name":"Comin' Home Baby","duration_ms":519600,"artist":"Herbie Mann","artistId":"6ycoXr0Ayd89vFUT6BOiWo","albumId":"5Pi9gvFQLlXGdgI19hb6IR","release_date":"2005-05-10","popularity":46}]
+[
+  {
+    "trackId": "4LyBVNtG7sLKOV9OGTHZh7",
+    "name": "Roslagsvår",
+    "duration_ms": 180040,
+    "artist": "Alice Babs",
+    "artistId": "3omPckNeXtMpCdOXVfcOST",
+    "albumId": "2BCVO2jwndeqVSZZMRKjql",
+    "release_date": "1957",
+    "popularity": 10
+  },
+  {
+    "trackId": "7rIpG0Ej6j4oQyspgnMyYl",
+    "name": "Millionär Malte Lindeman",
+    "duration_ms": 269733,
+    "artist": "Hasse Alfredson",
+    "artistId": "7bQVHmJKaxiXYkZ2miMrwb",
+    "albumId": "4i5wHfuqNOLQHVgyn3o67Q",
+    "release_date": "2008-01-01",
+    "popularity": 11
+  },
+  {
+    "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
+    "name": "The Winner Takes It All",
+    "duration_ms": 294720,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+    "release_date": "1980",
+    "popularity": 73
+  },
+  {
+    "trackId": "5Oowc85tcdDE4rWWexm6fo",
+    "name": "Mon Amour",
+    "duration_ms": 229506,
+    "artist": "Ben L'Oncle Soul",
+    "artistId": "2dJTa3mUidZAO9sKcY72tK",
+    "albumId": "6XbYsGvaSrNPOrY9E5jRd7",
+    "release_date": "2010-01-01",
+    "popularity": 25
+  },
+  {
+    "trackId": "2cwxukwW922rPXcKYWvLlu",
+    "name": "Röda sten",
+    "duration_ms": 243760,
+    "artist": "Albin Lee Meldau",
+    "artistId": "1AdKbbV5v6ifuJertEjNeK",
+    "albumId": "59yVJJgWzN71NZtKnwqeci",
+    "release_date": "2020-06-12",
+    "popularity": 48
+  },
+  {
+    "trackId": "1LCqE6x3pbGWxnLDAy4nYE",
+    "name": "I Nybyggarnas Spår",
+    "duration_ms": 241400,
+    "artist": "Mats Westling",
+    "artistId": "5rjmePfBPuGlACDGjprimu",
+    "albumId": "1lYnXI3kd6gc1050oohjD7",
+    "release_date": "2008-10-29",
+    "popularity": 10
+  },
+  {
+    "trackId": "4ciRwt5dGHKKm8Et8r1xJ0",
+    "name": "Hier encore",
+    "duration_ms": 143466,
+    "artist": "Charles Aznavour",
+    "artistId": "2hgP9Ap2tc10R5jrQaEpMT",
+    "albumId": "0wcD2yLF9h3i41ryKQpgmK",
+    "release_date": "1964",
+    "popularity": 60
+  },
+  {
+    "trackId": "7i3OR8YPh8KXMezP4hmIoo",
+    "name": "Jag har vandrat mina stigar",
+    "duration_ms": 179200,
+    "artist": "Small Town Singers",
+    "artistId": "50hq76iOfQrFsSUx8z3Czo",
+    "albumId": "1GZwGHyHSjFTxidlYitdVk",
+    "release_date": "2002",
+    "popularity": 22
+  },
+  {
+    "trackId": "4aLcGMxwFtcZRpl7NDtNW2",
+    "name": "Time To Say Goodbye",
+    "duration_ms": 245893,
+    "artist": "Francesco Sartori",
+    "artistId": "0VtVDsLKIsyiBa1DeAdKbU",
+    "albumId": "6O4lYKMQFLDcaUrBocYSRz",
+    "release_date": "2007-01-01",
+    "popularity": 59
+  },
+  {
+    "trackId": "0UKSIHg4yrvcjlR5K66Dsj",
+    "name": "Subete No Hito No Kokoro Ni Hanna O",
+    "duration_ms": 296573,
+    "artist": "Shokichi Kina",
+    "artistId": "5gkrprwugXcmHhT36ZmU46",
+    "albumId": "5fZ8QL8Zh7s5PGSZ7JeAH2",
+    "release_date": "1994-01-01",
+    "popularity": 6
+  },
+  {
+    "trackId": "3492c69DsiY9PZsjspF2cb",
+    "name": "Not There Yet",
+    "duration_ms": 205186,
+    "artist": "Eric Hutchinson",
+    "artistId": "39x8gyJjTHiBQklFgVJSV4",
+    "albumId": "2pHlCJNp5Tc2M1D0LwwjSc",
+    "release_date": "2012-04-13",
+    "popularity": 30
+  },
+  {
+    "trackId": "5xpQEjjDoe7egEqiw807Je",
+    "name": "Prospettiva Nevski",
+    "duration_ms": 221266,
+    "artist": "Alice",
+    "artistId": "3zNFrznlC0kv866J7Karl3",
+    "albumId": "4EbqYOpoUVX0tm7J09X1Vq",
+    "release_date": "1985-01-01",
+    "popularity": 44
+  },
+  {
+    "trackId": "4Uzv9ZmajuHh2tJzpATR3T",
+    "name": "Ticket To Heaven",
+    "duration_ms": 264200,
+    "artist": "Dire Straits",
+    "artistId": "0WwSkZ7LtFUFjGjMZBMt6T",
+    "albumId": "7gk5j9Ok764TbTsmkxthYt",
+    "release_date": "1991-09-10",
+    "popularity": 54
+  },
+  {
+    "trackId": "7qA8S7mbV9uPy9rFprdN3C",
+    "name": "Goliat",
+    "duration_ms": 247562,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+    "release_date": "2013-09-27",
+    "popularity": 55
+  },
+  {
+    "trackId": "7qYAVSalYQTSM1cqGTxyjO",
+    "name": "Blue Eyed Elaine",
+    "duration_ms": 154720,
+    "artist": "John Prine",
+    "artistId": "0nJUwPwC9Ti4vvuJ0q3MfT",
+    "albumId": "0JafNTEJPn2G6iDbxyY1h4",
+    "release_date": "2007-04-24",
+    "popularity": 30
+  },
+  {
+    "trackId": "6OH7UCFY7SEJxxQkaYfAv8",
+    "name": "Comin' Home Baby",
+    "duration_ms": 519600,
+    "artist": "Herbie Mann",
+    "artistId": "6ycoXr0Ayd89vFUT6BOiWo",
+    "albumId": "5Pi9gvFQLlXGdgI19hb6IR",
+    "release_date": "2005-05-10",
+    "popularity": 46
+  }
+]

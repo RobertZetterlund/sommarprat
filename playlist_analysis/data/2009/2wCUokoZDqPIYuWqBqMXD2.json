@@ -1,1 +1,152 @@
-[{"trackId":"2iXcvnD3d1gfLBum0cE5Eg","name":"Tutti Frutti","duration_ms":144226,"artist":"Little Richard","artistId":"4xls23Ye9WR9yy3yYMpAMm","albumId":"18tV6PLXYvVjsdOVk0S7M8","release_date":"1957-03","popularity":64},{"trackId":"1MUsWVRPLaC7ANKcEiMRCl","name":"Don't Be Cruel","duration_ms":121960,"artist":"Elvis Presley","artistId":"43ZHCT0cAZBISjO8DG9PnE","albumId":"0gv5aiVS1WBUZOKeb7YawE","release_date":"1997-07-15","popularity":61},{"trackId":"6mhf5DiX8a1t6XAJ8sAJmH","name":"Clarinet Concerto in A Major, K. 622: II. Adagio","duration_ms":400760,"artist":"Wolfgang Amadeus Mozart","artistId":"4NJhFmfw43RLBLjQvxDuRS","albumId":"4Z0HmIiOYuz5N82qAiNJQ3","release_date":"2014-04-01","popularity":50},{"trackId":"0kgHsNFvgqJo6grwWpzJLj","name":"Kvinnan för dig","duration_ms":202426,"artist":"Helen Sjöholm","artistId":"6M5pgjMS5dVG0hGRh5xADx","albumId":"54jCLtR6ejAT4N43eT1XRg","release_date":"2010-01-01","popularity":37},{"trackId":"0ZvgXNstN4o2ZXPomtBYVp","name":"Good Golly, Miss Molly","duration_ms":129132,"artist":"Little Richard","artistId":"4xls23Ye9WR9yy3yYMpAMm","albumId":"18VnWTsdEcofimkOHcWBAu","release_date":"1969-01-01","popularity":62},{"trackId":"7vdBGRycbARfgX7MLZrGu8","name":"Små simpla ting","duration_ms":211106,"artist":"Peter LeMarc","artistId":"4VKbol7eCoEJUemlKvE3Ve","albumId":"37pR5KYhuHxRO15srqFR1E","release_date":"1997-11-01","popularity":33},{"trackId":"0fOWbxwbD125UMLwgiDiTR","name":"Diggin' On James Brown","duration_ms":279866,"artist":"Tower Of Power","artistId":"0JCxGVxsISZzJHJPUOtceB","albumId":"5QtmhvNLSlFEUkhpDEk3aV","release_date":"1995-07-31","popularity":31},{"trackId":"3c5SDeaj3qNNYjhXeOdjsC","name":"Thrill Me","duration_ms":191546,"artist":"The Soundtrack Of Our Lives","artistId":"1DoYbXxolkSNTovBmuG0C2","albumId":"3cgkQYUjPP20XFdegZghVa","release_date":"2008-11-17","popularity":23},{"trackId":"7DJsL4jyXA39GDiHFQYQ0t","name":"Mess Around","duration_ms":160226,"artist":"Ray Charles","artistId":"1eYhYunlNJlDoQhtYBvPsi","albumId":"0cw6Sv7IwZ87aLPPvNPSd0","release_date":"1957-01-01","popularity":56},{"trackId":"5DaqgXFk5SxNCiMOpuPJS2","name":"Down in the Valley - Mono; 2018 Remaster","duration_ms":179973,"artist":"Otis Redding","artistId":"60df5JBRRPcnSpsIMxxwQm","albumId":"68BCjMsHX4Gf11BJSkjwGz","release_date":"1965-09-15","popularity":40},{"trackId":"0ARoborzrtiYaTFUge7f9H","name":"Ol' Man River (from Show Boat) - 1985 Digital Remaster","duration_ms":234306,"artist":"Paul Robeson","artistId":"6ccc2jvU6SYt0OyInCkIbG","albumId":"160Xkk5bnbqWvahseULx05","release_date":"1985","popularity":32},{"trackId":"4MvJlIpDpdZi4sCXvAhrym","name":"This Land is Your Land - Live at Nassau Coliseum, Uniondale, NY - December 1980","duration_ms":257226,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"4Hbe1M0BDbgMwbw6Tw2fmD","release_date":"1986-11-10","popularity":39},{"trackId":"2QfiRTz5Yc8DdShCxG1tB2","name":"Johnny B. Goode","duration_ms":161560,"artist":"Chuck Berry","artistId":"293zczrfYafIItmnmM3coR","albumId":"6eedtCtCjibu80yOhylSGL","release_date":"1959-07-01","popularity":75},{"trackId":"0qyAgwtnMU6AOszUw0DWTe","name":"These Are the Days","duration_ms":319266,"artist":"Van Morrison","artistId":"44NX2ffIYHr6D4n7RaZF7A","albumId":"2vE3SSFPxYt7jRu93j6rsi","release_date":"1989-06-06","popularity":54},{"trackId":"3Qmv3JnNa2sZ4lKooCj5mH","name":"Stockholms stolthet 1891 - 2022 Remastered Version","duration_ms":107806,"artist":"Stadion Superstars","artistId":"7q9L7a81XLBzmEBmUS19rH","albumId":"2MjpM07sNnGmKxIKYHZ1po","release_date":"2018-02-19","popularity":21}]
+[
+  {
+    "trackId": "2iXcvnD3d1gfLBum0cE5Eg",
+    "name": "Tutti Frutti",
+    "duration_ms": 144226,
+    "artist": "Little Richard",
+    "artistId": "4xls23Ye9WR9yy3yYMpAMm",
+    "albumId": "18tV6PLXYvVjsdOVk0S7M8",
+    "release_date": "1957-03",
+    "popularity": 64
+  },
+  {
+    "trackId": "1MUsWVRPLaC7ANKcEiMRCl",
+    "name": "Don't Be Cruel",
+    "duration_ms": 121960,
+    "artist": "Elvis Presley",
+    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
+    "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+    "release_date": "1997-07-15",
+    "popularity": 61
+  },
+  {
+    "trackId": "6mhf5DiX8a1t6XAJ8sAJmH",
+    "name": "Clarinet Concerto in A Major, K. 622: II. Adagio",
+    "duration_ms": 400760,
+    "artist": "Wolfgang Amadeus Mozart",
+    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
+    "albumId": "4Z0HmIiOYuz5N82qAiNJQ3",
+    "release_date": "2014-04-01",
+    "popularity": 50
+  },
+  {
+    "trackId": "0kgHsNFvgqJo6grwWpzJLj",
+    "name": "Kvinnan för dig",
+    "duration_ms": 202426,
+    "artist": "Helen Sjöholm",
+    "artistId": "6M5pgjMS5dVG0hGRh5xADx",
+    "albumId": "54jCLtR6ejAT4N43eT1XRg",
+    "release_date": "2010-01-01",
+    "popularity": 37
+  },
+  {
+    "trackId": "0ZvgXNstN4o2ZXPomtBYVp",
+    "name": "Good Golly, Miss Molly",
+    "duration_ms": 129132,
+    "artist": "Little Richard",
+    "artistId": "4xls23Ye9WR9yy3yYMpAMm",
+    "albumId": "18VnWTsdEcofimkOHcWBAu",
+    "release_date": "1969-01-01",
+    "popularity": 62
+  },
+  {
+    "trackId": "7vdBGRycbARfgX7MLZrGu8",
+    "name": "Små simpla ting",
+    "duration_ms": 211106,
+    "artist": "Peter LeMarc",
+    "artistId": "4VKbol7eCoEJUemlKvE3Ve",
+    "albumId": "37pR5KYhuHxRO15srqFR1E",
+    "release_date": "1997-11-01",
+    "popularity": 33
+  },
+  {
+    "trackId": "0fOWbxwbD125UMLwgiDiTR",
+    "name": "Diggin' On James Brown",
+    "duration_ms": 279866,
+    "artist": "Tower Of Power",
+    "artistId": "0JCxGVxsISZzJHJPUOtceB",
+    "albumId": "5QtmhvNLSlFEUkhpDEk3aV",
+    "release_date": "1995-07-31",
+    "popularity": 31
+  },
+  {
+    "trackId": "3c5SDeaj3qNNYjhXeOdjsC",
+    "name": "Thrill Me",
+    "duration_ms": 191546,
+    "artist": "The Soundtrack Of Our Lives",
+    "artistId": "1DoYbXxolkSNTovBmuG0C2",
+    "albumId": "3cgkQYUjPP20XFdegZghVa",
+    "release_date": "2008-11-17",
+    "popularity": 23
+  },
+  {
+    "trackId": "7DJsL4jyXA39GDiHFQYQ0t",
+    "name": "Mess Around",
+    "duration_ms": 160226,
+    "artist": "Ray Charles",
+    "artistId": "1eYhYunlNJlDoQhtYBvPsi",
+    "albumId": "0cw6Sv7IwZ87aLPPvNPSd0",
+    "release_date": "1957-01-01",
+    "popularity": 56
+  },
+  {
+    "trackId": "5DaqgXFk5SxNCiMOpuPJS2",
+    "name": "Down in the Valley - Mono; 2018 Remaster",
+    "duration_ms": 179973,
+    "artist": "Otis Redding",
+    "artistId": "60df5JBRRPcnSpsIMxxwQm",
+    "albumId": "68BCjMsHX4Gf11BJSkjwGz",
+    "release_date": "1965-09-15",
+    "popularity": 40
+  },
+  {
+    "trackId": "0ARoborzrtiYaTFUge7f9H",
+    "name": "Ol' Man River (from Show Boat) - 1985 Digital Remaster",
+    "duration_ms": 234306,
+    "artist": "Paul Robeson",
+    "artistId": "6ccc2jvU6SYt0OyInCkIbG",
+    "albumId": "160Xkk5bnbqWvahseULx05",
+    "release_date": "1985",
+    "popularity": 32
+  },
+  {
+    "trackId": "4MvJlIpDpdZi4sCXvAhrym",
+    "name": "This Land is Your Land - Live at Nassau Coliseum, Uniondale, NY - December 1980",
+    "duration_ms": 257226,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "4Hbe1M0BDbgMwbw6Tw2fmD",
+    "release_date": "1986-11-10",
+    "popularity": 39
+  },
+  {
+    "trackId": "2QfiRTz5Yc8DdShCxG1tB2",
+    "name": "Johnny B. Goode",
+    "duration_ms": 161560,
+    "artist": "Chuck Berry",
+    "artistId": "293zczrfYafIItmnmM3coR",
+    "albumId": "6eedtCtCjibu80yOhylSGL",
+    "release_date": "1959-07-01",
+    "popularity": 75
+  },
+  {
+    "trackId": "0qyAgwtnMU6AOszUw0DWTe",
+    "name": "These Are the Days",
+    "duration_ms": 319266,
+    "artist": "Van Morrison",
+    "artistId": "44NX2ffIYHr6D4n7RaZF7A",
+    "albumId": "2vE3SSFPxYt7jRu93j6rsi",
+    "release_date": "1989-06-06",
+    "popularity": 54
+  },
+  {
+    "trackId": "3Qmv3JnNa2sZ4lKooCj5mH",
+    "name": "Stockholms stolthet 1891 - 2022 Remastered Version",
+    "duration_ms": 107806,
+    "artist": "Stadion Superstars",
+    "artistId": "7q9L7a81XLBzmEBmUS19rH",
+    "albumId": "2MjpM07sNnGmKxIKYHZ1po",
+    "release_date": "2018-02-19",
+    "popularity": 21
+  }
+]

@@ -1,1 +1,122 @@
-[{"trackId":"3gXV3hlrEZilq4DclC2hoW","name":"Ack, Värmeland du sköna","duration_ms":158360,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"47nQ3PCd0XrIHzFIaamtEi","release_date":"1996-05-28","popularity":33},{"trackId":"2uotez2GWPFpH8MNqyYtW5","name":"Du måste finnas","duration_ms":341040,"artist":"Benny Andersson","artistId":"0kV0e99xlTJcLKSu8KrLyp","albumId":"1IY2V2rDRdsPw7RvwlZ140","release_date":"2007-01-01","popularity":45},{"trackId":"4RXEMNaqzzIWIen273wPdn","name":"The Homecoming Song","duration_ms":455866,"artist":"Dollar Brand (Abdullah Ibrahim)","artistId":"6Fn30LGQSHUDhthqAiEfiO","albumId":"7IkhRoxG3mQLCEy3zMxP0P","release_date":"2000","popularity":4},{"trackId":"6gHjBGSTDbFmBoIOaAXV2J","name":"Galaxy DNA Song","duration_ms":193229,"artist":"Eric Idle","artistId":"24OqPJZX2KZCVgEOa3d9mF","albumId":"0kZtllbh2jGSM5dwz32FTk","release_date":"2013-02-15","popularity":17},{"trackId":"0xB9WVNMzwq4iTecJUNkP8","name":"La bohème, SC 67: \"Che gelida manina\"","duration_ms":278293,"artist":"Giacomo Puccini","artistId":"0OzxPXyowUEQ532c9AmHUR","albumId":"0DdPI0pzTRV6uT4ty2JBpF","release_date":"1973-01-01","popularity":39},{"trackId":"4939GCtRVOZjndBpdodOqH","name":"Realm of You and Me","duration_ms":307933,"artist":"Rikard Sjöblom's Gungfly","artistId":"23IPyodPr0NK6Q6dgCXfdk","albumId":"0aJ5JtiJpTumoFvHX94t25","release_date":"2016-03-16","popularity":2},{"trackId":"0P5wCXpGqItUpYbj2bUK0d","name":"Sommarkort","duration_ms":216533,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"5KoclB3QR9GWTPBQcKj5R9","release_date":"2000-01-01","popularity":47},{"trackId":"29VrjEF0Y4jrA9A0WB5rKP","name":"Boogie '68 - 2001 Remaster","duration_ms":196866,"artist":"Charlie Norman","artistId":"3YkaicfYcthovHMsDHEh8j","albumId":"01o1g3O5JJov0jgcWiV2aH","release_date":"2001","popularity":19},{"trackId":"3MO4ISTD0ynCcO7E2p6Bzi","name":"139","duration_ms":253910,"artist":"Erik Rådbo","artistId":"0Gg0CACsdqN4Z6j9eW9HdL","albumId":"7eSyOuHkQjt6TeJf1QrggR","release_date":"2005-09-01","popularity":0},{"trackId":"5b7OgznPJJr1vHNYGyvxau","name":"Fly Me To The Moon (In Other Words)","duration_ms":147000,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"2NCtCObbmJoJnplsR5mLAl","release_date":"1962-12-10","popularity":71},{"trackId":"3XLAx2F2nMxr2B1ISIdD9M","name":"Visa vid midsommartid","duration_ms":231213,"artist":"Åsa Jinder","artistId":"0WIJklwnefNN9A2XeHqTxG","albumId":"0o0sfH2UTXziiPbP5hPgXb","release_date":"2017-06-16","popularity":26},{"trackId":"1qCQTy0fTXerET4x8VHyr9","name":"What A Wonderful World","duration_ms":137520,"artist":"Louis Armstrong","artistId":"19eLuQmk9aCobbVDHc6eek","albumId":"19UoBHanqMth4tk0rFw5RJ","release_date":"1968","popularity":72}]
+[
+  {
+    "trackId": "3gXV3hlrEZilq4DclC2hoW",
+    "name": "Ack, Värmeland du sköna",
+    "duration_ms": 158360,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "47nQ3PCd0XrIHzFIaamtEi",
+    "release_date": "1996-05-28",
+    "popularity": 33
+  },
+  {
+    "trackId": "2uotez2GWPFpH8MNqyYtW5",
+    "name": "Du måste finnas",
+    "duration_ms": 341040,
+    "artist": "Benny Andersson",
+    "artistId": "0kV0e99xlTJcLKSu8KrLyp",
+    "albumId": "1IY2V2rDRdsPw7RvwlZ140",
+    "release_date": "2007-01-01",
+    "popularity": 45
+  },
+  {
+    "trackId": "4RXEMNaqzzIWIen273wPdn",
+    "name": "The Homecoming Song",
+    "duration_ms": 455866,
+    "artist": "Dollar Brand (Abdullah Ibrahim)",
+    "artistId": "6Fn30LGQSHUDhthqAiEfiO",
+    "albumId": "7IkhRoxG3mQLCEy3zMxP0P",
+    "release_date": "2000",
+    "popularity": 4
+  },
+  {
+    "trackId": "6gHjBGSTDbFmBoIOaAXV2J",
+    "name": "Galaxy DNA Song",
+    "duration_ms": 193229,
+    "artist": "Eric Idle",
+    "artistId": "24OqPJZX2KZCVgEOa3d9mF",
+    "albumId": "0kZtllbh2jGSM5dwz32FTk",
+    "release_date": "2013-02-15",
+    "popularity": 17
+  },
+  {
+    "trackId": "0xB9WVNMzwq4iTecJUNkP8",
+    "name": "La bohème, SC 67: \"Che gelida manina\"",
+    "duration_ms": 278293,
+    "artist": "Giacomo Puccini",
+    "artistId": "0OzxPXyowUEQ532c9AmHUR",
+    "albumId": "0DdPI0pzTRV6uT4ty2JBpF",
+    "release_date": "1973-01-01",
+    "popularity": 39
+  },
+  {
+    "trackId": "4939GCtRVOZjndBpdodOqH",
+    "name": "Realm of You and Me",
+    "duration_ms": 307933,
+    "artist": "Rikard Sjöblom's Gungfly",
+    "artistId": "23IPyodPr0NK6Q6dgCXfdk",
+    "albumId": "0aJ5JtiJpTumoFvHX94t25",
+    "release_date": "2016-03-16",
+    "popularity": 2
+  },
+  {
+    "trackId": "0P5wCXpGqItUpYbj2bUK0d",
+    "name": "Sommarkort",
+    "duration_ms": 216533,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "5KoclB3QR9GWTPBQcKj5R9",
+    "release_date": "2000-01-01",
+    "popularity": 47
+  },
+  {
+    "trackId": "29VrjEF0Y4jrA9A0WB5rKP",
+    "name": "Boogie '68 - 2001 Remaster",
+    "duration_ms": 196866,
+    "artist": "Charlie Norman",
+    "artistId": "3YkaicfYcthovHMsDHEh8j",
+    "albumId": "01o1g3O5JJov0jgcWiV2aH",
+    "release_date": "2001",
+    "popularity": 19
+  },
+  {
+    "trackId": "3MO4ISTD0ynCcO7E2p6Bzi",
+    "name": "139",
+    "duration_ms": 253910,
+    "artist": "Erik Rådbo",
+    "artistId": "0Gg0CACsdqN4Z6j9eW9HdL",
+    "albumId": "7eSyOuHkQjt6TeJf1QrggR",
+    "release_date": "2005-09-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "5b7OgznPJJr1vHNYGyvxau",
+    "name": "Fly Me To The Moon (In Other Words)",
+    "duration_ms": 147000,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "2NCtCObbmJoJnplsR5mLAl",
+    "release_date": "1962-12-10",
+    "popularity": 71
+  },
+  {
+    "trackId": "3XLAx2F2nMxr2B1ISIdD9M",
+    "name": "Visa vid midsommartid",
+    "duration_ms": 231213,
+    "artist": "Åsa Jinder",
+    "artistId": "0WIJklwnefNN9A2XeHqTxG",
+    "albumId": "0o0sfH2UTXziiPbP5hPgXb",
+    "release_date": "2017-06-16",
+    "popularity": 26
+  },
+  {
+    "trackId": "1qCQTy0fTXerET4x8VHyr9",
+    "name": "What A Wonderful World",
+    "duration_ms": 137520,
+    "artist": "Louis Armstrong",
+    "artistId": "19eLuQmk9aCobbVDHc6eek",
+    "albumId": "19UoBHanqMth4tk0rFw5RJ",
+    "release_date": "1968",
+    "popularity": 72
+  }
+]

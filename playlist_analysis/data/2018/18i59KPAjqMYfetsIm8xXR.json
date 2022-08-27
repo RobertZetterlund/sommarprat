@@ -1,1 +1,122 @@
-[{"trackId":"7lELdKSZux5m8gOlqUSArj","name":"Hello Hey","duration_ms":206720,"artist":"Victoria Silvstedt","artistId":"4SLPHiAAddBuuXS8bD11XP","albumId":"2e7nXSoI1XY20j8IRzUpdR","release_date":"1999","popularity":34},{"trackId":"50ZpPgU81payZxI2H7QXNM","name":"Born To Be My Baby","duration_ms":280106,"artist":"Bon Jovi","artistId":"58lV9VcRSjABbAbfWS6skp","albumId":"3mcKOl0KNe65BqiBa40WxR","release_date":"1988-09-13","popularity":62},{"trackId":"35iCSlFxyiawRBUOtQAkeT","name":"Summer Night City","duration_ms":214706,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"7iLuHJkrb9KHPkMgddYigh","release_date":"1979","popularity":57},{"trackId":"50JK22El2PTIzZBU2liLDI","name":"Mysterious Ways","duration_ms":243586,"artist":"U2","artistId":"51Blml2LZPmy7TTiAg47vQ","albumId":"0ta5VdkJcpdVnNrn7g4cZe","release_date":"1991-11-18","popularity":61},{"trackId":"1z3ugFmUKoCzGsI6jdY4Ci","name":"Like a Prayer","duration_ms":342680,"artist":"Madonna","artistId":"6tbjWDEIzxoDsBA1FuhfPW","albumId":"43lok9zd7BW5CoYkXZs7S0","release_date":"2009-09-18","popularity":73},{"trackId":"1d1BeKPNgaQ36wcxGqnfU3","name":"Sommartider","duration_ms":202200,"artist":"Gyllene Tider","artistId":"0FINyNBXqnTlRC4dvpSeSb","albumId":"3GZKmNPvp6kTSlsGUcd7XM","release_date":"1982-08-26","popularity":59},{"trackId":"3r6lBKYbdru7e7ky2MiF75","name":"Fading Like A Flower (Every Time You Leave)","duration_ms":230680,"artist":"Roxette","artistId":"2SHhfs4BiDxGQ3oxqf0UHY","albumId":"5WVNP6IBwMSULc0wehXW8N","release_date":"1991-04-02","popularity":63},{"trackId":"3CA9pLiwRIGtUBiMjbZmRw","name":"Nice For What","duration_ms":210746,"artist":"Drake","artistId":"3TVXtAsR1Inumwj472S9r4","albumId":"1ATL5GLyefJaxhQzSPVrLX","release_date":"2018-06-29","popularity":77},{"trackId":"3YBZIN3rekqsKxbJc9FZko","name":"Paradise City","duration_ms":405640,"artist":"Guns N' Roses","artistId":"3qm84nBOXUEQ2vnTfUTTFC","albumId":"3I9Z1nDCL4E0cP62flcbI5","release_date":"1987-07-21","popularity":78},{"trackId":"1AiA9rUkZHkBjUuajBFhVR","name":"Saturday Night - Radio Edit","duration_ms":185480,"artist":"Victoria Silvstedt","artistId":"4SLPHiAAddBuuXS8bD11XP","albumId":"0WsRUdYVdZUV7PeMyprmpf","release_date":"2010-01-01","popularity":7},{"trackId":"1e4nF6e5F4XXHxN3ESuSgt","name":"Solkräm","duration_ms":305360,"artist":"Rikard Wolff","artistId":"6SUSECiKAbiTLIUySSvzTx","albumId":"4wEVXDF1tJMVamrKBs3bhl","release_date":"2010-11-26","popularity":23},{"trackId":"6OH7UCFY7SEJxxQkaYfAv8","name":"Comin' Home Baby","duration_ms":519600,"artist":"Herbie Mann","artistId":"6ycoXr0Ayd89vFUT6BOiWo","albumId":"5Pi9gvFQLlXGdgI19hb6IR","release_date":"2005-05-10","popularity":46}]
+[
+  {
+    "trackId": "7lELdKSZux5m8gOlqUSArj",
+    "name": "Hello Hey",
+    "duration_ms": 206720,
+    "artist": "Victoria Silvstedt",
+    "artistId": "4SLPHiAAddBuuXS8bD11XP",
+    "albumId": "2e7nXSoI1XY20j8IRzUpdR",
+    "release_date": "1999",
+    "popularity": 34
+  },
+  {
+    "trackId": "50ZpPgU81payZxI2H7QXNM",
+    "name": "Born To Be My Baby",
+    "duration_ms": 280106,
+    "artist": "Bon Jovi",
+    "artistId": "58lV9VcRSjABbAbfWS6skp",
+    "albumId": "3mcKOl0KNe65BqiBa40WxR",
+    "release_date": "1988-09-13",
+    "popularity": 62
+  },
+  {
+    "trackId": "35iCSlFxyiawRBUOtQAkeT",
+    "name": "Summer Night City",
+    "duration_ms": 214706,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "7iLuHJkrb9KHPkMgddYigh",
+    "release_date": "1979",
+    "popularity": 57
+  },
+  {
+    "trackId": "50JK22El2PTIzZBU2liLDI",
+    "name": "Mysterious Ways",
+    "duration_ms": 243586,
+    "artist": "U2",
+    "artistId": "51Blml2LZPmy7TTiAg47vQ",
+    "albumId": "0ta5VdkJcpdVnNrn7g4cZe",
+    "release_date": "1991-11-18",
+    "popularity": 61
+  },
+  {
+    "trackId": "1z3ugFmUKoCzGsI6jdY4Ci",
+    "name": "Like a Prayer",
+    "duration_ms": 342680,
+    "artist": "Madonna",
+    "artistId": "6tbjWDEIzxoDsBA1FuhfPW",
+    "albumId": "43lok9zd7BW5CoYkXZs7S0",
+    "release_date": "2009-09-18",
+    "popularity": 73
+  },
+  {
+    "trackId": "1d1BeKPNgaQ36wcxGqnfU3",
+    "name": "Sommartider",
+    "duration_ms": 202200,
+    "artist": "Gyllene Tider",
+    "artistId": "0FINyNBXqnTlRC4dvpSeSb",
+    "albumId": "3GZKmNPvp6kTSlsGUcd7XM",
+    "release_date": "1982-08-26",
+    "popularity": 59
+  },
+  {
+    "trackId": "3r6lBKYbdru7e7ky2MiF75",
+    "name": "Fading Like A Flower (Every Time You Leave)",
+    "duration_ms": 230680,
+    "artist": "Roxette",
+    "artistId": "2SHhfs4BiDxGQ3oxqf0UHY",
+    "albumId": "5WVNP6IBwMSULc0wehXW8N",
+    "release_date": "1991-04-02",
+    "popularity": 63
+  },
+  {
+    "trackId": "3CA9pLiwRIGtUBiMjbZmRw",
+    "name": "Nice For What",
+    "duration_ms": 210746,
+    "artist": "Drake",
+    "artistId": "3TVXtAsR1Inumwj472S9r4",
+    "albumId": "1ATL5GLyefJaxhQzSPVrLX",
+    "release_date": "2018-06-29",
+    "popularity": 77
+  },
+  {
+    "trackId": "3YBZIN3rekqsKxbJc9FZko",
+    "name": "Paradise City",
+    "duration_ms": 405640,
+    "artist": "Guns N' Roses",
+    "artistId": "3qm84nBOXUEQ2vnTfUTTFC",
+    "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+    "release_date": "1987-07-21",
+    "popularity": 78
+  },
+  {
+    "trackId": "1AiA9rUkZHkBjUuajBFhVR",
+    "name": "Saturday Night - Radio Edit",
+    "duration_ms": 185480,
+    "artist": "Victoria Silvstedt",
+    "artistId": "4SLPHiAAddBuuXS8bD11XP",
+    "albumId": "0WsRUdYVdZUV7PeMyprmpf",
+    "release_date": "2010-01-01",
+    "popularity": 7
+  },
+  {
+    "trackId": "1e4nF6e5F4XXHxN3ESuSgt",
+    "name": "Solkräm",
+    "duration_ms": 305360,
+    "artist": "Rikard Wolff",
+    "artistId": "6SUSECiKAbiTLIUySSvzTx",
+    "albumId": "4wEVXDF1tJMVamrKBs3bhl",
+    "release_date": "2010-11-26",
+    "popularity": 23
+  },
+  {
+    "trackId": "6OH7UCFY7SEJxxQkaYfAv8",
+    "name": "Comin' Home Baby",
+    "duration_ms": 519600,
+    "artist": "Herbie Mann",
+    "artistId": "6ycoXr0Ayd89vFUT6BOiWo",
+    "albumId": "5Pi9gvFQLlXGdgI19hb6IR",
+    "release_date": "2005-05-10",
+    "popularity": 46
+  }
+]

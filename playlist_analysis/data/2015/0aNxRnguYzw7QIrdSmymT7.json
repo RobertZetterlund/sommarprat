@@ -1,1 +1,102 @@
-[{"trackId":"3KDLyp0cMrWeEZI1PTHYm5","name":"Jag vill vara din, Margareta","duration_ms":221666,"artist":"Sten & Stanley","artistId":"2HSMgjn2OEC8PcJAlNcuMk","albumId":"2CxAKKtsFo1vdU7U2khS6R","release_date":"1997","popularity":43},{"trackId":"1bBHy7TpYu4Mj02wdfDPAy","name":"Detroit City","duration_ms":222657,"artist":"Texas","artistId":"5JsdVATHNPE0XdMFMRoSuf","albumId":"0OtqDrOeVGo6KV4RIrB7Fc","release_date":"2013-05-20","popularity":30},{"trackId":"0WNGPpmWqzPnk0psUhJ3SX","name":"All the Young Dudes","duration_ms":211066,"artist":"Mott The Hoople","artistId":"6ysQi6NI88X627t2srsWz6","albumId":"3LdlOZcV0dp7ePBXe2KAGa","release_date":"1972","popularity":64},{"trackId":"225xvV8r1yKMHErSWivnow","name":"I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack","duration_ms":298760,"artist":"Aerosmith","artistId":"7Ey4PD4MYsKc5I2dolUwbH","albumId":"4f7HKjBnjpMsDBDTHYV890","release_date":"1998-06-23","popularity":74},{"trackId":"1o4szgHxZ53JbD3QUDQ7HE","name":"I Will Survive","duration_ms":271626,"artist":"Nils Landgren","artistId":"6B3ZWSop1mrJd71rwFozVP","albumId":"5Df4tcguBo4qkUYY8vA7IV","release_date":"2002-08-26","popularity":46},{"trackId":"6LR5yuN6XStHDZiusCxqYe","name":"Dead Ringer for Love (with Cher)","duration_ms":260693,"artist":"Meat Loaf","artistId":"7dnB1wSxbYa8CejeVg98hz","albumId":"2Y9CaNn1xUX2EJWIiBG45i","release_date":"1981-09-04","popularity":48},{"trackId":"7o2CTH4ctstm8TNelqjb51","name":"Sweet Child O' Mine","duration_ms":354520,"artist":"Guns N' Roses","artistId":"3qm84nBOXUEQ2vnTfUTTFC","albumId":"3I9Z1nDCL4E0cP62flcbI5","release_date":"1987-07-21","popularity":83},{"trackId":"3EGlnkJGcwz73rT0oE0X1X","name":"Friends Will Be Friends - Remastered 2011","duration_ms":246906,"artist":"Queen","artistId":"1dfeR4HaWDbWqFHLkxsg1d","albumId":"0pEfDPZko6TnNOgrZMe5nn","release_date":"1986-06-02","popularity":62},{"trackId":"78TTtXnFQPzwqlbtbwqN0y","name":"FourFiveSeconds","duration_ms":188238,"artist":"Rihanna","artistId":"5pKCCKE2ajJHZ9KAiaK11H","albumId":"7yBl4uFyJzH48Vy6tPieXL","release_date":"2015-01-24","popularity":76},{"trackId":"0gzqZ9d1jIKo9psEIthwXe","name":"Beautiful Day","duration_ms":248400,"artist":"U2","artistId":"51Blml2LZPmy7TTiAg47vQ","albumId":"7a5U0GPoAvT3gvEY66FRuN","release_date":"2000-01-01","popularity":73}]
+[
+  {
+    "trackId": "3KDLyp0cMrWeEZI1PTHYm5",
+    "name": "Jag vill vara din, Margareta",
+    "duration_ms": 221666,
+    "artist": "Sten & Stanley",
+    "artistId": "2HSMgjn2OEC8PcJAlNcuMk",
+    "albumId": "2CxAKKtsFo1vdU7U2khS6R",
+    "release_date": "1997",
+    "popularity": 43
+  },
+  {
+    "trackId": "1bBHy7TpYu4Mj02wdfDPAy",
+    "name": "Detroit City",
+    "duration_ms": 222657,
+    "artist": "Texas",
+    "artistId": "5JsdVATHNPE0XdMFMRoSuf",
+    "albumId": "0OtqDrOeVGo6KV4RIrB7Fc",
+    "release_date": "2013-05-20",
+    "popularity": 30
+  },
+  {
+    "trackId": "0WNGPpmWqzPnk0psUhJ3SX",
+    "name": "All the Young Dudes",
+    "duration_ms": 211066,
+    "artist": "Mott The Hoople",
+    "artistId": "6ysQi6NI88X627t2srsWz6",
+    "albumId": "3LdlOZcV0dp7ePBXe2KAGa",
+    "release_date": "1972",
+    "popularity": 64
+  },
+  {
+    "trackId": "225xvV8r1yKMHErSWivnow",
+    "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+    "duration_ms": 298760,
+    "artist": "Aerosmith",
+    "artistId": "7Ey4PD4MYsKc5I2dolUwbH",
+    "albumId": "4f7HKjBnjpMsDBDTHYV890",
+    "release_date": "1998-06-23",
+    "popularity": 74
+  },
+  {
+    "trackId": "1o4szgHxZ53JbD3QUDQ7HE",
+    "name": "I Will Survive",
+    "duration_ms": 271626,
+    "artist": "Nils Landgren",
+    "artistId": "6B3ZWSop1mrJd71rwFozVP",
+    "albumId": "5Df4tcguBo4qkUYY8vA7IV",
+    "release_date": "2002-08-26",
+    "popularity": 46
+  },
+  {
+    "trackId": "6LR5yuN6XStHDZiusCxqYe",
+    "name": "Dead Ringer for Love (with Cher)",
+    "duration_ms": 260693,
+    "artist": "Meat Loaf",
+    "artistId": "7dnB1wSxbYa8CejeVg98hz",
+    "albumId": "2Y9CaNn1xUX2EJWIiBG45i",
+    "release_date": "1981-09-04",
+    "popularity": 48
+  },
+  {
+    "trackId": "7o2CTH4ctstm8TNelqjb51",
+    "name": "Sweet Child O' Mine",
+    "duration_ms": 354520,
+    "artist": "Guns N' Roses",
+    "artistId": "3qm84nBOXUEQ2vnTfUTTFC",
+    "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+    "release_date": "1987-07-21",
+    "popularity": 83
+  },
+  {
+    "trackId": "3EGlnkJGcwz73rT0oE0X1X",
+    "name": "Friends Will Be Friends - Remastered 2011",
+    "duration_ms": 246906,
+    "artist": "Queen",
+    "artistId": "1dfeR4HaWDbWqFHLkxsg1d",
+    "albumId": "0pEfDPZko6TnNOgrZMe5nn",
+    "release_date": "1986-06-02",
+    "popularity": 62
+  },
+  {
+    "trackId": "78TTtXnFQPzwqlbtbwqN0y",
+    "name": "FourFiveSeconds",
+    "duration_ms": 188238,
+    "artist": "Rihanna",
+    "artistId": "5pKCCKE2ajJHZ9KAiaK11H",
+    "albumId": "7yBl4uFyJzH48Vy6tPieXL",
+    "release_date": "2015-01-24",
+    "popularity": 76
+  },
+  {
+    "trackId": "0gzqZ9d1jIKo9psEIthwXe",
+    "name": "Beautiful Day",
+    "duration_ms": 248400,
+    "artist": "U2",
+    "artistId": "51Blml2LZPmy7TTiAg47vQ",
+    "albumId": "7a5U0GPoAvT3gvEY66FRuN",
+    "release_date": "2000-01-01",
+    "popularity": 73
+  }
+]

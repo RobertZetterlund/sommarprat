@@ -1,1 +1,92 @@
-[{"trackId":"2UL2wKmovIqf0GpqZ2Irjn","name":"Gabriellas sång","duration_ms":221240,"artist":"Helen Sjöholm","artistId":"6M5pgjMS5dVG0hGRh5xADx","albumId":"6e3fJwgQ1OgmVBOjlNgcd0","release_date":"2004","popularity":49},{"trackId":"0J8A1ZVyJcRZxFNvtp6jRh","name":"One Day I'll Fly Away","duration_ms":298026,"artist":"Randy Crawford","artistId":"1twC2fwPG5FkvYcMpVBQRz","albumId":"1nC1gaO03Yk2lnbRZAN3KG","release_date":"1980","popularity":61},{"trackId":"1vZTgn4JXWMahR8r99ug5H","name":"The Way We Were","duration_ms":211093,"artist":"Barbra Streisand","artistId":"7jmTilWYlKOuavFfmQAcu6","albumId":"0vTu2dD57pVlPvd3pfxUSS","release_date":"1974-01","popularity":61},{"trackId":"79nJj5dMyTsUzKvN5jUXsJ","name":"I Can't Stop Loving You","duration_ms":256120,"artist":"Ray Charles","artistId":"1eYhYunlNJlDoQhtYBvPsi","albumId":"4j4w5DDWMKD7ePStAl19OF","release_date":"2009-06-02","popularity":62},{"trackId":"3YyxnkL7pHFN7LWjLA1BfV","name":"Mjuka melodier","duration_ms":202000,"artist":"Helande Instrumentalmusik Akademi","artistId":"24r4VvxSDTm86DYZQmElWu","albumId":"2We3CpXRxDLXmNST7URvUM","release_date":"2016-06-08","popularity":18},{"trackId":"3Z2tPWiNiIpg8UMMoowHIk","name":"We Are The World","duration_ms":427333,"artist":"U.S.A. For Africa","artistId":"7sF6m3PpW6G6m6J2gzzmzM","albumId":"2O6gXGWFJcNrLYAqDINrDa","release_date":"1985-01-01","popularity":66},{"trackId":"0YZ3J8xzGwLOg4yEgST1YK","name":"With A Little Help From My Friends","duration_ms":312173,"artist":"Joe Cocker","artistId":"3pFCERyEiP5xeN2EsPXhjI","albumId":"74sIm8QdXqFwYeDS7OfYVw","release_date":"1969-05-01","popularity":66},{"trackId":"3QksrtI9VFCBHWA4rgvcV8","name":"Theme From New York, New York","duration_ms":206066,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"4Cv61B08yHx3fwkylkhCxe","release_date":"1980-03-26","popularity":62},{"trackId":"3X3TLnvtp1PPSEuDIKG5C9","name":"Fly Me To The Moon","duration_ms":165480,"artist":"Rod Stewart","artistId":"2y8Jo9CKhJvtfeKOsYzRdT","albumId":"1Qy7vORyImzsfU89puG4gV","release_date":"2010-10-15","popularity":47}]
+[
+  {
+    "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
+    "name": "Gabriellas sång",
+    "duration_ms": 221240,
+    "artist": "Helen Sjöholm",
+    "artistId": "6M5pgjMS5dVG0hGRh5xADx",
+    "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+    "release_date": "2004",
+    "popularity": 49
+  },
+  {
+    "trackId": "0J8A1ZVyJcRZxFNvtp6jRh",
+    "name": "One Day I'll Fly Away",
+    "duration_ms": 298026,
+    "artist": "Randy Crawford",
+    "artistId": "1twC2fwPG5FkvYcMpVBQRz",
+    "albumId": "1nC1gaO03Yk2lnbRZAN3KG",
+    "release_date": "1980",
+    "popularity": 61
+  },
+  {
+    "trackId": "1vZTgn4JXWMahR8r99ug5H",
+    "name": "The Way We Were",
+    "duration_ms": 211093,
+    "artist": "Barbra Streisand",
+    "artistId": "7jmTilWYlKOuavFfmQAcu6",
+    "albumId": "0vTu2dD57pVlPvd3pfxUSS",
+    "release_date": "1974-01",
+    "popularity": 61
+  },
+  {
+    "trackId": "79nJj5dMyTsUzKvN5jUXsJ",
+    "name": "I Can't Stop Loving You",
+    "duration_ms": 256120,
+    "artist": "Ray Charles",
+    "artistId": "1eYhYunlNJlDoQhtYBvPsi",
+    "albumId": "4j4w5DDWMKD7ePStAl19OF",
+    "release_date": "2009-06-02",
+    "popularity": 62
+  },
+  {
+    "trackId": "3YyxnkL7pHFN7LWjLA1BfV",
+    "name": "Mjuka melodier",
+    "duration_ms": 202000,
+    "artist": "Helande Instrumentalmusik Akademi",
+    "artistId": "24r4VvxSDTm86DYZQmElWu",
+    "albumId": "2We3CpXRxDLXmNST7URvUM",
+    "release_date": "2016-06-08",
+    "popularity": 18
+  },
+  {
+    "trackId": "3Z2tPWiNiIpg8UMMoowHIk",
+    "name": "We Are The World",
+    "duration_ms": 427333,
+    "artist": "U.S.A. For Africa",
+    "artistId": "7sF6m3PpW6G6m6J2gzzmzM",
+    "albumId": "2O6gXGWFJcNrLYAqDINrDa",
+    "release_date": "1985-01-01",
+    "popularity": 66
+  },
+  {
+    "trackId": "0YZ3J8xzGwLOg4yEgST1YK",
+    "name": "With A Little Help From My Friends",
+    "duration_ms": 312173,
+    "artist": "Joe Cocker",
+    "artistId": "3pFCERyEiP5xeN2EsPXhjI",
+    "albumId": "74sIm8QdXqFwYeDS7OfYVw",
+    "release_date": "1969-05-01",
+    "popularity": 66
+  },
+  {
+    "trackId": "3QksrtI9VFCBHWA4rgvcV8",
+    "name": "Theme From New York, New York",
+    "duration_ms": 206066,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "4Cv61B08yHx3fwkylkhCxe",
+    "release_date": "1980-03-26",
+    "popularity": 62
+  },
+  {
+    "trackId": "3X3TLnvtp1PPSEuDIKG5C9",
+    "name": "Fly Me To The Moon",
+    "duration_ms": 165480,
+    "artist": "Rod Stewart",
+    "artistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+    "albumId": "1Qy7vORyImzsfU89puG4gV",
+    "release_date": "2010-10-15",
+    "popularity": 47
+  }
+]

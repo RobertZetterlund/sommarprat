@@ -1,1 +1,142 @@
-[{"trackId":"1rsTANyQavJLIiPIFUgoiM","name":"Suzanne","duration_ms":259866,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"6T4nAC6CRLciyg4tQbgovi","release_date":"1969","popularity":44},{"trackId":"7hoWkhuHv9b3jiCbxX1kMm","name":"It's All Over Now Baby Blue","duration_ms":229960,"artist":"Marianne Faithfull","artistId":"7mlge4peaoNgzTsY6M32RB","albumId":"7m06IfHTHIxJHPlOrCybrk","release_date":"1985","popularity":52},{"trackId":"7dbI4g3m8A0isJVvYk2xdD","name":"I'd Like To Walk Around In Your Mind","duration_ms":135453,"artist":"Vashti Bunyan","artistId":"4chuPfKtATDZvbRLExsTp2","albumId":"4KerqbIPBSPn5S2YTKwKys","release_date":"1970","popularity":46},{"trackId":"7L73Wu9ZTNciToFgJOU9ue","name":"Hur går det med killarna?","duration_ms":222038,"artist":"Randiga Rut","artistId":"5ZSDDJocAyiZNLhEBMwOHP","albumId":"7jit0v3DmOzWU02kEtYQyc","release_date":"2017-05-12","popularity":3},{"trackId":"0Yg1hSAUgd2AAneReFOVzS","name":"Tous les garçons et les filles - Slow","duration_ms":187746,"artist":"Françoise Hardy","artistId":"7x3f7c0fBanNlQwpx1255g","albumId":"0TcP4beTgxQmREuHJ7BBY2","release_date":"1962-06-30","popularity":57},{"trackId":"3GZvy4B0ZzMjoDezkiDekS","name":"Pompidou","duration_ms":193066,"artist":"Portico Quartet","artistId":"7sYipTRgDXS2JVOPEhRutx","albumId":"2A8c5znvmslp2I77dTBV1K","release_date":"2010","popularity":46},{"trackId":"3R3qPpiWfYbSqwgS7A8Ypy","name":"Nothing Compares 2 U","duration_ms":378346,"artist":"Jimmy Scott","artistId":"5T7u5bYO62WTYOk5RBZwjo","albumId":"0BCoKgFUJxca69dLVXsRpH","release_date":"2003-05-13","popularity":45},{"trackId":"0P0lgWxM39ZSJE3u9nsikD","name":"Monicas vals","duration_ms":167440,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"5jMKNvYYHH08quqLK3ylTC","release_date":"1964-12-01","popularity":36},{"trackId":"50F9WqEC0iXjxQ7JkcXQb0","name":"Ett hål i lakanet","duration_ms":272746,"artist":"Barbro Hörberg","artistId":"7urXjli8ptr8Y8Z0XLtiJ9","albumId":"0SrGEG4PYLb68zVZ7Ser4u","release_date":"1973-01-01","popularity":21},{"trackId":"5Tk9SJN5QSW6yP8Zdp1wEa","name":"God's Highway","duration_ms":195066,"artist":"Theresa Andersson","artistId":"5jKJR6tGtn5xrkgOWeZzuO","albumId":"1gIVvEdBvYqiBTNWJIxQFL","release_date":"2008-09-02","popularity":17},{"trackId":"11607FzqoipskTsXrwEHnJ","name":"Sunday Morning","duration_ms":175893,"artist":"The Velvet Underground","artistId":"1nJvji2KIlWSseXRSlNYsC","albumId":"4xwx0x7k6c5VuThz5qVqmV","release_date":"1967-03-12","popularity":64},{"trackId":"5cKgSIooFOWluluSPnZk2c","name":"Och skulle det så vara","duration_ms":93426,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"22jr1k8N3Iz8abiAIoe0iB","release_date":"1969","popularity":11},{"trackId":"4UpXJkmYp8oju1qLlqjfMS","name":"När alla vägar leder hem","duration_ms":202826,"artist":"Lisa Ekdahl","artistId":"4SJSGUVZ04tezaGrxc96EE","albumId":"6AkwxUoEgTzJ3GfPTWEe1k","release_date":"2017-02-17","popularity":19},{"trackId":"555bNU24uRnFnd36qWp7MJ","name":"Amerika","duration_ms":293835,"artist":"Jonathan Johansson","artistId":"3i0VvjFfLzfX8TgDhgNWfe","albumId":"1U2w5UkVBoeWp72vQizuNO","release_date":"2022-03-11","popularity":35}]
+[
+  {
+    "trackId": "1rsTANyQavJLIiPIFUgoiM",
+    "name": "Suzanne",
+    "duration_ms": 259866,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "6T4nAC6CRLciyg4tQbgovi",
+    "release_date": "1969",
+    "popularity": 44
+  },
+  {
+    "trackId": "7hoWkhuHv9b3jiCbxX1kMm",
+    "name": "It's All Over Now Baby Blue",
+    "duration_ms": 229960,
+    "artist": "Marianne Faithfull",
+    "artistId": "7mlge4peaoNgzTsY6M32RB",
+    "albumId": "7m06IfHTHIxJHPlOrCybrk",
+    "release_date": "1985",
+    "popularity": 52
+  },
+  {
+    "trackId": "7dbI4g3m8A0isJVvYk2xdD",
+    "name": "I'd Like To Walk Around In Your Mind",
+    "duration_ms": 135453,
+    "artist": "Vashti Bunyan",
+    "artistId": "4chuPfKtATDZvbRLExsTp2",
+    "albumId": "4KerqbIPBSPn5S2YTKwKys",
+    "release_date": "1970",
+    "popularity": 46
+  },
+  {
+    "trackId": "7L73Wu9ZTNciToFgJOU9ue",
+    "name": "Hur går det med killarna?",
+    "duration_ms": 222038,
+    "artist": "Randiga Rut",
+    "artistId": "5ZSDDJocAyiZNLhEBMwOHP",
+    "albumId": "7jit0v3DmOzWU02kEtYQyc",
+    "release_date": "2017-05-12",
+    "popularity": 3
+  },
+  {
+    "trackId": "0Yg1hSAUgd2AAneReFOVzS",
+    "name": "Tous les garçons et les filles - Slow",
+    "duration_ms": 187746,
+    "artist": "Françoise Hardy",
+    "artistId": "7x3f7c0fBanNlQwpx1255g",
+    "albumId": "0TcP4beTgxQmREuHJ7BBY2",
+    "release_date": "1962-06-30",
+    "popularity": 57
+  },
+  {
+    "trackId": "3GZvy4B0ZzMjoDezkiDekS",
+    "name": "Pompidou",
+    "duration_ms": 193066,
+    "artist": "Portico Quartet",
+    "artistId": "7sYipTRgDXS2JVOPEhRutx",
+    "albumId": "2A8c5znvmslp2I77dTBV1K",
+    "release_date": "2010",
+    "popularity": 46
+  },
+  {
+    "trackId": "3R3qPpiWfYbSqwgS7A8Ypy",
+    "name": "Nothing Compares 2 U",
+    "duration_ms": 378346,
+    "artist": "Jimmy Scott",
+    "artistId": "5T7u5bYO62WTYOk5RBZwjo",
+    "albumId": "0BCoKgFUJxca69dLVXsRpH",
+    "release_date": "2003-05-13",
+    "popularity": 45
+  },
+  {
+    "trackId": "0P0lgWxM39ZSJE3u9nsikD",
+    "name": "Monicas vals",
+    "duration_ms": 167440,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "5jMKNvYYHH08quqLK3ylTC",
+    "release_date": "1964-12-01",
+    "popularity": 36
+  },
+  {
+    "trackId": "50F9WqEC0iXjxQ7JkcXQb0",
+    "name": "Ett hål i lakanet",
+    "duration_ms": 272746,
+    "artist": "Barbro Hörberg",
+    "artistId": "7urXjli8ptr8Y8Z0XLtiJ9",
+    "albumId": "0SrGEG4PYLb68zVZ7Ser4u",
+    "release_date": "1973-01-01",
+    "popularity": 21
+  },
+  {
+    "trackId": "5Tk9SJN5QSW6yP8Zdp1wEa",
+    "name": "God's Highway",
+    "duration_ms": 195066,
+    "artist": "Theresa Andersson",
+    "artistId": "5jKJR6tGtn5xrkgOWeZzuO",
+    "albumId": "1gIVvEdBvYqiBTNWJIxQFL",
+    "release_date": "2008-09-02",
+    "popularity": 17
+  },
+  {
+    "trackId": "11607FzqoipskTsXrwEHnJ",
+    "name": "Sunday Morning",
+    "duration_ms": 175893,
+    "artist": "The Velvet Underground",
+    "artistId": "1nJvji2KIlWSseXRSlNYsC",
+    "albumId": "4xwx0x7k6c5VuThz5qVqmV",
+    "release_date": "1967-03-12",
+    "popularity": 64
+  },
+  {
+    "trackId": "5cKgSIooFOWluluSPnZk2c",
+    "name": "Och skulle det så vara",
+    "duration_ms": 93426,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+    "release_date": "1969",
+    "popularity": 11
+  },
+  {
+    "trackId": "4UpXJkmYp8oju1qLlqjfMS",
+    "name": "När alla vägar leder hem",
+    "duration_ms": 202826,
+    "artist": "Lisa Ekdahl",
+    "artistId": "4SJSGUVZ04tezaGrxc96EE",
+    "albumId": "6AkwxUoEgTzJ3GfPTWEe1k",
+    "release_date": "2017-02-17",
+    "popularity": 19
+  },
+  {
+    "trackId": "555bNU24uRnFnd36qWp7MJ",
+    "name": "Amerika",
+    "duration_ms": 293835,
+    "artist": "Jonathan Johansson",
+    "artistId": "3i0VvjFfLzfX8TgDhgNWfe",
+    "albumId": "1U2w5UkVBoeWp72vQizuNO",
+    "release_date": "2022-03-11",
+    "popularity": 35
+  }
+]

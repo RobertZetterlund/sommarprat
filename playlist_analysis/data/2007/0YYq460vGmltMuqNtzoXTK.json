@@ -1,1 +1,152 @@
-[{"trackId":"1ot6jEe4w4hYnsOPjd3xKQ","name":"I'm So Excited","duration_ms":230640,"artist":"The Pointer Sisters","artistId":"2kreKea2n96dXjcyAU9j5N","albumId":"4iqsNkST0v1aaL3S0Fd4XS","release_date":"1982-02-01","popularity":71},{"trackId":"6T0XqftToxYhsEqBQ1FcXW","name":"Bröllopsdag","duration_ms":223626,"artist":"Anna Stadling","artistId":"15xSyYUeEIQphb7lnNojQs","albumId":"16zYj90Fe4Qdmzppap7Shy","release_date":"2006-01-01","popularity":9},{"trackId":"4xmjDH6auBwuZ4GHimjXGe","name":"I Will Survive - Single Version","duration_ms":197573,"artist":"Gloria Gaynor","artistId":"6V6WCgi7waF55bJmylC4H5","albumId":"2wV72iMZZu677uYCw2giDC","release_date":"1999-01-01","popularity":60},{"trackId":"50e9v3SVSFPVFGLyw7Kr2N","name":"Kom Och Dansa Med Oss","duration_ms":452426,"artist":"Navid Modiri & Gudarna","artistId":"33vQSIWJh4JovfPOun1vZd","albumId":"1nevfj54tZmt8hVUajspTU","release_date":"2005-09-05","popularity":18},{"trackId":"1Xf9s0vxxGyiMHQDtxK9Cu","name":"Konna Netlaka","duration_ms":202997,"artist":"Fairuz","artistId":"0dwFxqYkvZLSA6U6XfQcDV","albumId":"4vkuSbFlYdcZUItrukZeFi","release_date":"1975-01-01","popularity":51},{"trackId":"5WJbTupx9xYSXZP34hZGxN","name":"Get Your Way","duration_ms":241146,"artist":"Jamie Cullum","artistId":"3XxxEq6BREC57nCWXbQZ7o","albumId":"1QP3oxvk5vSyubgBWwJCTe","release_date":"2005-01-01","popularity":35},{"trackId":"4BGxksYwgcMorGkOFzvqmQ","name":"Use Me","duration_ms":196946,"artist":"Ida Sand","artistId":"2xlu6WzVa7WHwHhRptqq7c","albumId":"62haqQCNJuhlujx5lqsYaO","release_date":"2007-03-23","popularity":34},{"trackId":"0rClbrELs8X0SJzQojAkWl","name":"Varje Människa Bär En Historia","duration_ms":203026,"artist":"Marie Bergman","artistId":"1EF9hLul0ZZcbh7dmXWF99","albumId":"6B3nOqRAyVxQueQQE1g199","release_date":"1992-10-13","popularity":12},{"trackId":"4E52YAEU39cK3sgOx49Vwo","name":"Island Blues (Karaoke Version) - Originally Performed By Koop & Ane Brun","duration_ms":274930,"artist":"La-Le-Lu","artistId":"2FLbBFuqtJpL7BC8AngquX","albumId":"1JO94ZEM6C3Cr6hXbA85tB","release_date":"2013-09-06","popularity":0},{"trackId":"4wDkpZ6F8Zdy9Vo6kNjYTv","name":"Cristina","duration_ms":164250,"artist":"Manuel Antonio Lopez","artistId":"1qsYAqihHeTc3FgEjSu06l","albumId":"1sfNFuOlcOxE98no9jUB38","release_date":"2022-03-11","popularity":16},{"trackId":"3qI86KfRg6FwsZz1hMY9Xz","name":"Nocturne","duration_ms":98187,"artist":"Adamson","artistId":"0Le0xLw8bmlimx2cMVtVbr","albumId":"3WNWZKvf5dDtAt8BYwDD7t","release_date":"2019-11-29","popularity":43},{"trackId":"73PSyxTx5J1wulQ9HAo4Qv","name":"Mitt hjärta är ditt (I folkviseton)","duration_ms":236840,"artist":"Rolf Wikström","artistId":"6JnHX2U0qF3EcoAHta5V3r","albumId":"64S9Hjx3O5aRPvS1bNuPKw","release_date":"1989-01-01","popularity":30},{"trackId":"5p9XWUdvbUzmPCukOmwoU3","name":"Suddenly I See","duration_ms":201706,"artist":"KT Tunstall","artistId":"5zzrJD2jXrE9dZ1AklRFcL","albumId":"3j70PDKieTWQAwas3bPHRZ","release_date":"2005-01-01","popularity":72},{"trackId":"2nGFzvICaeEWjIrBrL2RAx","name":"Put Your Records On","duration_ms":215360,"artist":"Corinne Bailey Rae","artistId":"29WzbAQtDnBJF09es0uddn","albumId":"141Mp3P2VKHQMhtkW1DyQg","release_date":"2006-01-01","popularity":77},{"trackId":"7GVXbNf6zVKV68Zo9n41qR","name":"Tack för allt vi va","duration_ms":175772,"artist":"Alex Järvi","artistId":"1J0C99LuAwjCC6IQOmJEDE","albumId":"6pq9a89mmbMHzhIDjDAJPy","release_date":"2019-08-16","popularity":44}]
+[
+  {
+    "trackId": "1ot6jEe4w4hYnsOPjd3xKQ",
+    "name": "I'm So Excited",
+    "duration_ms": 230640,
+    "artist": "The Pointer Sisters",
+    "artistId": "2kreKea2n96dXjcyAU9j5N",
+    "albumId": "4iqsNkST0v1aaL3S0Fd4XS",
+    "release_date": "1982-02-01",
+    "popularity": 71
+  },
+  {
+    "trackId": "6T0XqftToxYhsEqBQ1FcXW",
+    "name": "Bröllopsdag",
+    "duration_ms": 223626,
+    "artist": "Anna Stadling",
+    "artistId": "15xSyYUeEIQphb7lnNojQs",
+    "albumId": "16zYj90Fe4Qdmzppap7Shy",
+    "release_date": "2006-01-01",
+    "popularity": 9
+  },
+  {
+    "trackId": "4xmjDH6auBwuZ4GHimjXGe",
+    "name": "I Will Survive - Single Version",
+    "duration_ms": 197573,
+    "artist": "Gloria Gaynor",
+    "artistId": "6V6WCgi7waF55bJmylC4H5",
+    "albumId": "2wV72iMZZu677uYCw2giDC",
+    "release_date": "1999-01-01",
+    "popularity": 60
+  },
+  {
+    "trackId": "50e9v3SVSFPVFGLyw7Kr2N",
+    "name": "Kom Och Dansa Med Oss",
+    "duration_ms": 452426,
+    "artist": "Navid Modiri & Gudarna",
+    "artistId": "33vQSIWJh4JovfPOun1vZd",
+    "albumId": "1nevfj54tZmt8hVUajspTU",
+    "release_date": "2005-09-05",
+    "popularity": 18
+  },
+  {
+    "trackId": "1Xf9s0vxxGyiMHQDtxK9Cu",
+    "name": "Konna Netlaka",
+    "duration_ms": 202997,
+    "artist": "Fairuz",
+    "artistId": "0dwFxqYkvZLSA6U6XfQcDV",
+    "albumId": "4vkuSbFlYdcZUItrukZeFi",
+    "release_date": "1975-01-01",
+    "popularity": 51
+  },
+  {
+    "trackId": "5WJbTupx9xYSXZP34hZGxN",
+    "name": "Get Your Way",
+    "duration_ms": 241146,
+    "artist": "Jamie Cullum",
+    "artistId": "3XxxEq6BREC57nCWXbQZ7o",
+    "albumId": "1QP3oxvk5vSyubgBWwJCTe",
+    "release_date": "2005-01-01",
+    "popularity": 35
+  },
+  {
+    "trackId": "4BGxksYwgcMorGkOFzvqmQ",
+    "name": "Use Me",
+    "duration_ms": 196946,
+    "artist": "Ida Sand",
+    "artistId": "2xlu6WzVa7WHwHhRptqq7c",
+    "albumId": "62haqQCNJuhlujx5lqsYaO",
+    "release_date": "2007-03-23",
+    "popularity": 34
+  },
+  {
+    "trackId": "0rClbrELs8X0SJzQojAkWl",
+    "name": "Varje Människa Bär En Historia",
+    "duration_ms": 203026,
+    "artist": "Marie Bergman",
+    "artistId": "1EF9hLul0ZZcbh7dmXWF99",
+    "albumId": "6B3nOqRAyVxQueQQE1g199",
+    "release_date": "1992-10-13",
+    "popularity": 12
+  },
+  {
+    "trackId": "4E52YAEU39cK3sgOx49Vwo",
+    "name": "Island Blues (Karaoke Version) - Originally Performed By Koop & Ane Brun",
+    "duration_ms": 274930,
+    "artist": "La-Le-Lu",
+    "artistId": "2FLbBFuqtJpL7BC8AngquX",
+    "albumId": "1JO94ZEM6C3Cr6hXbA85tB",
+    "release_date": "2013-09-06",
+    "popularity": 0
+  },
+  {
+    "trackId": "4wDkpZ6F8Zdy9Vo6kNjYTv",
+    "name": "Cristina",
+    "duration_ms": 164250,
+    "artist": "Manuel Antonio Lopez",
+    "artistId": "1qsYAqihHeTc3FgEjSu06l",
+    "albumId": "1sfNFuOlcOxE98no9jUB38",
+    "release_date": "2022-03-11",
+    "popularity": 16
+  },
+  {
+    "trackId": "3qI86KfRg6FwsZz1hMY9Xz",
+    "name": "Nocturne",
+    "duration_ms": 98187,
+    "artist": "Adamson",
+    "artistId": "0Le0xLw8bmlimx2cMVtVbr",
+    "albumId": "3WNWZKvf5dDtAt8BYwDD7t",
+    "release_date": "2019-11-29",
+    "popularity": 43
+  },
+  {
+    "trackId": "73PSyxTx5J1wulQ9HAo4Qv",
+    "name": "Mitt hjärta är ditt (I folkviseton)",
+    "duration_ms": 236840,
+    "artist": "Rolf Wikström",
+    "artistId": "6JnHX2U0qF3EcoAHta5V3r",
+    "albumId": "64S9Hjx3O5aRPvS1bNuPKw",
+    "release_date": "1989-01-01",
+    "popularity": 30
+  },
+  {
+    "trackId": "5p9XWUdvbUzmPCukOmwoU3",
+    "name": "Suddenly I See",
+    "duration_ms": 201706,
+    "artist": "KT Tunstall",
+    "artistId": "5zzrJD2jXrE9dZ1AklRFcL",
+    "albumId": "3j70PDKieTWQAwas3bPHRZ",
+    "release_date": "2005-01-01",
+    "popularity": 72
+  },
+  {
+    "trackId": "2nGFzvICaeEWjIrBrL2RAx",
+    "name": "Put Your Records On",
+    "duration_ms": 215360,
+    "artist": "Corinne Bailey Rae",
+    "artistId": "29WzbAQtDnBJF09es0uddn",
+    "albumId": "141Mp3P2VKHQMhtkW1DyQg",
+    "release_date": "2006-01-01",
+    "popularity": 77
+  },
+  {
+    "trackId": "7GVXbNf6zVKV68Zo9n41qR",
+    "name": "Tack för allt vi va",
+    "duration_ms": 175772,
+    "artist": "Alex Järvi",
+    "artistId": "1J0C99LuAwjCC6IQOmJEDE",
+    "albumId": "6pq9a89mmbMHzhIDjDAJPy",
+    "release_date": "2019-08-16",
+    "popularity": 44
+  }
+]

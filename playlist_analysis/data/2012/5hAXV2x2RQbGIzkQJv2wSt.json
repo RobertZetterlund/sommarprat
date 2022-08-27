@@ -1,1 +1,132 @@
-[{"trackId":"39hfj6Tnqgsxn7jGTfWl18","name":"Shock Me","duration_ms":226773,"artist":"KISS","artistId":"07XSN3sPlIlB2L2XNcTwJw","albumId":"77opKywcxPnBu5aBMASS2b","release_date":"1977-06-30","popularity":49},{"trackId":"3WMbD1OyfKuwWDWMNbPQ4g","name":"Daddy Cool","duration_ms":208600,"artist":"Boney M.","artistId":"54R6Y0I7jGUCveDTtI21nb","albumId":"1KQUrny9y5zGpktF6hAGd4","release_date":"1976","popularity":71},{"trackId":"6TKYCoWst3SzYxz75sFHvV","name":"Spelar För Livet","duration_ms":192932,"artist":"Sofia Karlsson","artistId":"2tKGISNf0bei0IxfLQGMEt","albumId":"6mk76DWZYymSKqpQDwnqZY","release_date":"2007","popularity":30},{"trackId":"77SpOg95Gx49w23XyXv9B7","name":"Det Är Hit Man Kommer När Man Kommer Hem","duration_ms":335866,"artist":"Euskefeurat","artistId":"3XHatvGN7740pLPHUVgwA6","albumId":"4Us3Bchyq8YOQAEEK0lZ3m","release_date":"1994-12-01","popularity":43},{"trackId":"4irbnDsobDbVvIKN0fb3v3","name":"Partners","duration_ms":142866,"artist":"Gunnar Wiklund","artistId":"7DNQbLb6TYUiLL9QNOivtG","albumId":"6ptoI0wS6x710Z0u9uDkqv","release_date":"1970","popularity":6},{"trackId":"23vKMmmM6plwwyAVFCx9d6","name":"I'm the Coolest","duration_ms":237960,"artist":"Alice Cooper","artistId":"3EhbVgyfGd7HkpsagwL9GS","albumId":"040ZtZ1HRgoHRruJtI4IAh","release_date":"1976-01-01","popularity":21},{"trackId":"5KqDv7pQRxterca2zoF7i3","name":"Balladen om den blå baskern","duration_ms":151933,"artist":"Anita Lindblom","artistId":"2mcJ23guBaJ3g8i8Hjjw6E","albumId":"4OaO4l25ccG3Lh2e2wrYMk","release_date":"1961-01-01","popularity":39},{"trackId":"7se8roGyU7pinYwrhOVklr","name":"Save the Last Dance for Me (with The Jordanaires)","duration_ms":232721,"artist":"Dolly Parton","artistId":"32vWCbZh0xZ4o9gkz4PsEU","albumId":"0lbxoiJBcC1apFEB6HM0vO","release_date":"1984-01-23","popularity":37},{"trackId":"1UN6NjkwkztYxl6XzIp0pJ","name":"If I Were a Carpenter","duration_ms":180573,"artist":"Johnny Cash","artistId":"6kACVPfCOnqzgfEF5ryl0x","albumId":"1ET6CG74QlRHqbU1fJ5NhE","release_date":"1970-01-19","popularity":50},{"trackId":"3luZOiJUk5WIbhvEF8u8mG","name":"Emigrant Tango","duration_ms":117653,"artist":"La Minor","artistId":"0m75P6eO8NfypN7nfQgaPJ","albumId":"4ofiJHHCsUXPdHYA7PFeA5","release_date":"2009-05-15","popularity":5},{"trackId":"77vjMJ0LBNtNy3GhD7um3F","name":"Monday Morning","duration_ms":218213,"artist":"Melanie Fiona","artistId":"4O2YL4ygn6eTBC0w1hyWUM","albumId":"3Qwn4i9QV2uXfPiBQNnT3z","release_date":"2009-01-01","popularity":54},{"trackId":"0nf1kn9Nt1WeQyOinNadKz","name":"Let There Be Drums","duration_ms":138666,"artist":"Sandy Nelson","artistId":"5gI33iEWzSZqDZeVOwfJVi","albumId":"3lNS7bUQk0GcyD8u46z4Bd","release_date":"1961-01-01","popularity":47},{"trackId":"5ah8bwmT61dQPS6Yz5Ty6j","name":"Bjurö klubb","duration_ms":294146,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"5miuVRm6nR172VxxQSDdkb","release_date":"2009","popularity":36}]
+[
+  {
+    "trackId": "39hfj6Tnqgsxn7jGTfWl18",
+    "name": "Shock Me",
+    "duration_ms": 226773,
+    "artist": "KISS",
+    "artistId": "07XSN3sPlIlB2L2XNcTwJw",
+    "albumId": "77opKywcxPnBu5aBMASS2b",
+    "release_date": "1977-06-30",
+    "popularity": 49
+  },
+  {
+    "trackId": "3WMbD1OyfKuwWDWMNbPQ4g",
+    "name": "Daddy Cool",
+    "duration_ms": 208600,
+    "artist": "Boney M.",
+    "artistId": "54R6Y0I7jGUCveDTtI21nb",
+    "albumId": "1KQUrny9y5zGpktF6hAGd4",
+    "release_date": "1976",
+    "popularity": 71
+  },
+  {
+    "trackId": "6TKYCoWst3SzYxz75sFHvV",
+    "name": "Spelar För Livet",
+    "duration_ms": 192932,
+    "artist": "Sofia Karlsson",
+    "artistId": "2tKGISNf0bei0IxfLQGMEt",
+    "albumId": "6mk76DWZYymSKqpQDwnqZY",
+    "release_date": "2007",
+    "popularity": 30
+  },
+  {
+    "trackId": "77SpOg95Gx49w23XyXv9B7",
+    "name": "Det Är Hit Man Kommer När Man Kommer Hem",
+    "duration_ms": 335866,
+    "artist": "Euskefeurat",
+    "artistId": "3XHatvGN7740pLPHUVgwA6",
+    "albumId": "4Us3Bchyq8YOQAEEK0lZ3m",
+    "release_date": "1994-12-01",
+    "popularity": 43
+  },
+  {
+    "trackId": "4irbnDsobDbVvIKN0fb3v3",
+    "name": "Partners",
+    "duration_ms": 142866,
+    "artist": "Gunnar Wiklund",
+    "artistId": "7DNQbLb6TYUiLL9QNOivtG",
+    "albumId": "6ptoI0wS6x710Z0u9uDkqv",
+    "release_date": "1970",
+    "popularity": 6
+  },
+  {
+    "trackId": "23vKMmmM6plwwyAVFCx9d6",
+    "name": "I'm the Coolest",
+    "duration_ms": 237960,
+    "artist": "Alice Cooper",
+    "artistId": "3EhbVgyfGd7HkpsagwL9GS",
+    "albumId": "040ZtZ1HRgoHRruJtI4IAh",
+    "release_date": "1976-01-01",
+    "popularity": 21
+  },
+  {
+    "trackId": "5KqDv7pQRxterca2zoF7i3",
+    "name": "Balladen om den blå baskern",
+    "duration_ms": 151933,
+    "artist": "Anita Lindblom",
+    "artistId": "2mcJ23guBaJ3g8i8Hjjw6E",
+    "albumId": "4OaO4l25ccG3Lh2e2wrYMk",
+    "release_date": "1961-01-01",
+    "popularity": 39
+  },
+  {
+    "trackId": "7se8roGyU7pinYwrhOVklr",
+    "name": "Save the Last Dance for Me (with The Jordanaires)",
+    "duration_ms": 232721,
+    "artist": "Dolly Parton",
+    "artistId": "32vWCbZh0xZ4o9gkz4PsEU",
+    "albumId": "0lbxoiJBcC1apFEB6HM0vO",
+    "release_date": "1984-01-23",
+    "popularity": 37
+  },
+  {
+    "trackId": "1UN6NjkwkztYxl6XzIp0pJ",
+    "name": "If I Were a Carpenter",
+    "duration_ms": 180573,
+    "artist": "Johnny Cash",
+    "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+    "albumId": "1ET6CG74QlRHqbU1fJ5NhE",
+    "release_date": "1970-01-19",
+    "popularity": 50
+  },
+  {
+    "trackId": "3luZOiJUk5WIbhvEF8u8mG",
+    "name": "Emigrant Tango",
+    "duration_ms": 117653,
+    "artist": "La Minor",
+    "artistId": "0m75P6eO8NfypN7nfQgaPJ",
+    "albumId": "4ofiJHHCsUXPdHYA7PFeA5",
+    "release_date": "2009-05-15",
+    "popularity": 5
+  },
+  {
+    "trackId": "77vjMJ0LBNtNy3GhD7um3F",
+    "name": "Monday Morning",
+    "duration_ms": 218213,
+    "artist": "Melanie Fiona",
+    "artistId": "4O2YL4ygn6eTBC0w1hyWUM",
+    "albumId": "3Qwn4i9QV2uXfPiBQNnT3z",
+    "release_date": "2009-01-01",
+    "popularity": 54
+  },
+  {
+    "trackId": "0nf1kn9Nt1WeQyOinNadKz",
+    "name": "Let There Be Drums",
+    "duration_ms": 138666,
+    "artist": "Sandy Nelson",
+    "artistId": "5gI33iEWzSZqDZeVOwfJVi",
+    "albumId": "3lNS7bUQk0GcyD8u46z4Bd",
+    "release_date": "1961-01-01",
+    "popularity": 47
+  },
+  {
+    "trackId": "5ah8bwmT61dQPS6Yz5Ty6j",
+    "name": "Bjurö klubb",
+    "duration_ms": 294146,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "5miuVRm6nR172VxxQSDdkb",
+    "release_date": "2009",
+    "popularity": 36
+  }
+]

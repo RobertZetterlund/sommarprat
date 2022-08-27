@@ -1,1 +1,122 @@
-[{"trackId":"0QeI79sp1vS8L3JgpEO7mD","name":"Let's Go Crazy","duration_ms":280000,"artist":"Prince","artistId":"5a2EaR3hamoenG9rDuVn8j","albumId":"7nXJ5k4XgRj5OLg9m8V3zc","release_date":"1984-06-25","popularity":68},{"trackId":"5DH7sJuOLdgyg8YC8Yy18I","name":"Wheels of a Dream (Reprise)","duration_ms":163013,"artist":"Nicholas Rose","artistId":"27Hl95vSapSNQajKmEKFtx","albumId":"1zUWbK8YOlYPkmoAfCgyyt","release_date":"1996-02-11","popularity":7},{"trackId":"76uCsqn8W7Nn0uYhtwDvLR","name":"Alaska","duration_ms":188000,"artist":"Maggie Rogers","artistId":"4NZvixzsSefsNiIqXn0NDe","albumId":"20IfnRy0UNN3WzuRLM68KM","release_date":"2022-08-11","popularity":2},{"trackId":"5LAnTrLaN2SzUfWOglKPIy","name":"Midsommarnatt","duration_ms":194506,"artist":"Eddie Meduza","artistId":"3cMEiDsx9VpGvF71hUGswS","albumId":"3c4orI2iOp4y8sSH0IUnS7","release_date":"1990","popularity":51},{"trackId":"7iaCrQ6XdKKuQZTvZkd7Lq","name":"Down To Earth","duration_ms":358646,"artist":"Peter Gabriel","artistId":"7C4sUpWGlTy7IANjruj02I","albumId":"1OW5LQ4eDo6Ig2BLU1hJEu","release_date":"2019-04-26","popularity":39},{"trackId":"2U1TXJYkyIOAWg8ujvUXW3","name":"I Haven't Told My Garden Yet","duration_ms":199426,"artist":"Sofie Livebrant","artistId":"1W5oB1ITON4qnHnTuWJ8WP","albumId":"5KOyA74QVm7CJAlk24F6H2","release_date":"2012-04-16","popularity":0},{"trackId":"7ju97lgwC2rKQ6wwsf9no9","name":"Rain On Me (with Ariana Grande)","duration_ms":182200,"artist":"Lady Gaga","artistId":"1HY2Jd0NmPuamShAr6KMms","albumId":"05c49JgPmL4Uz2ZeqRx5SP","release_date":"2020-05-29","popularity":77},{"trackId":"0PeotPe74osJ1xc8JonVio","name":"A Time for Everything - Radio Edit","duration_ms":241493,"artist":"Isabella Lundgren","artistId":"58Ftd7Tzkeve7Ht36LYL2j","albumId":"3fWMdzmXQskg94MDmkvowl","release_date":"2020-06-12","popularity":11},{"trackId":"66u6ycRUqlrW9C05QJUmSo","name":"ave cesaria","duration_ms":249520,"artist":"Stromae","artistId":"5j4HeCoUlzhfWtjAfM1acR","albumId":"6uyslsVGFsHKzdGUosFwBM","release_date":"2013-01-01","popularity":57},{"trackId":"49cx1hO8AOm5uAsd4WtaEH","name":"Oh What A World","duration_ms":263133,"artist":"Rufus Wainwright","artistId":"2PfBzriIMRsCXPDtSy9vg8","albumId":"1DGZ1iMl4iWeiM9l2PLjeD","release_date":"2003-09-23","popularity":42},{"trackId":"2ixswrurtpfZHrx406eGgw","name":"Want You Back","duration_ms":232120,"artist":"HAIM","artistId":"4Ui2kfOqGujY81UcPrb5KE","albumId":"3EFSOzgqaOQqJCMAMMn4Cl","release_date":"2017-07-07","popularity":52},{"trackId":"3vi2IS8APhNorymm9yTsj7","name":"Love... Thy Will Be Done","duration_ms":247026,"artist":"Prince","artistId":"5a2EaR3hamoenG9rDuVn8j","albumId":"1X1So5oX4TCFGdK6BN9UXs","release_date":"2019-06-07","popularity":30}]
+[
+  {
+    "trackId": "0QeI79sp1vS8L3JgpEO7mD",
+    "name": "Let's Go Crazy",
+    "duration_ms": 280000,
+    "artist": "Prince",
+    "artistId": "5a2EaR3hamoenG9rDuVn8j",
+    "albumId": "7nXJ5k4XgRj5OLg9m8V3zc",
+    "release_date": "1984-06-25",
+    "popularity": 68
+  },
+  {
+    "trackId": "5DH7sJuOLdgyg8YC8Yy18I",
+    "name": "Wheels of a Dream (Reprise)",
+    "duration_ms": 163013,
+    "artist": "Nicholas Rose",
+    "artistId": "27Hl95vSapSNQajKmEKFtx",
+    "albumId": "1zUWbK8YOlYPkmoAfCgyyt",
+    "release_date": "1996-02-11",
+    "popularity": 7
+  },
+  {
+    "trackId": "76uCsqn8W7Nn0uYhtwDvLR",
+    "name": "Alaska",
+    "duration_ms": 188000,
+    "artist": "Maggie Rogers",
+    "artistId": "4NZvixzsSefsNiIqXn0NDe",
+    "albumId": "20IfnRy0UNN3WzuRLM68KM",
+    "release_date": "2022-08-11",
+    "popularity": 2
+  },
+  {
+    "trackId": "5LAnTrLaN2SzUfWOglKPIy",
+    "name": "Midsommarnatt",
+    "duration_ms": 194506,
+    "artist": "Eddie Meduza",
+    "artistId": "3cMEiDsx9VpGvF71hUGswS",
+    "albumId": "3c4orI2iOp4y8sSH0IUnS7",
+    "release_date": "1990",
+    "popularity": 51
+  },
+  {
+    "trackId": "7iaCrQ6XdKKuQZTvZkd7Lq",
+    "name": "Down To Earth",
+    "duration_ms": 358646,
+    "artist": "Peter Gabriel",
+    "artistId": "7C4sUpWGlTy7IANjruj02I",
+    "albumId": "1OW5LQ4eDo6Ig2BLU1hJEu",
+    "release_date": "2019-04-26",
+    "popularity": 39
+  },
+  {
+    "trackId": "2U1TXJYkyIOAWg8ujvUXW3",
+    "name": "I Haven't Told My Garden Yet",
+    "duration_ms": 199426,
+    "artist": "Sofie Livebrant",
+    "artistId": "1W5oB1ITON4qnHnTuWJ8WP",
+    "albumId": "5KOyA74QVm7CJAlk24F6H2",
+    "release_date": "2012-04-16",
+    "popularity": 0
+  },
+  {
+    "trackId": "7ju97lgwC2rKQ6wwsf9no9",
+    "name": "Rain On Me (with Ariana Grande)",
+    "duration_ms": 182200,
+    "artist": "Lady Gaga",
+    "artistId": "1HY2Jd0NmPuamShAr6KMms",
+    "albumId": "05c49JgPmL4Uz2ZeqRx5SP",
+    "release_date": "2020-05-29",
+    "popularity": 77
+  },
+  {
+    "trackId": "0PeotPe74osJ1xc8JonVio",
+    "name": "A Time for Everything - Radio Edit",
+    "duration_ms": 241493,
+    "artist": "Isabella Lundgren",
+    "artistId": "58Ftd7Tzkeve7Ht36LYL2j",
+    "albumId": "3fWMdzmXQskg94MDmkvowl",
+    "release_date": "2020-06-12",
+    "popularity": 11
+  },
+  {
+    "trackId": "66u6ycRUqlrW9C05QJUmSo",
+    "name": "ave cesaria",
+    "duration_ms": 249520,
+    "artist": "Stromae",
+    "artistId": "5j4HeCoUlzhfWtjAfM1acR",
+    "albumId": "6uyslsVGFsHKzdGUosFwBM",
+    "release_date": "2013-01-01",
+    "popularity": 57
+  },
+  {
+    "trackId": "49cx1hO8AOm5uAsd4WtaEH",
+    "name": "Oh What A World",
+    "duration_ms": 263133,
+    "artist": "Rufus Wainwright",
+    "artistId": "2PfBzriIMRsCXPDtSy9vg8",
+    "albumId": "1DGZ1iMl4iWeiM9l2PLjeD",
+    "release_date": "2003-09-23",
+    "popularity": 42
+  },
+  {
+    "trackId": "2ixswrurtpfZHrx406eGgw",
+    "name": "Want You Back",
+    "duration_ms": 232120,
+    "artist": "HAIM",
+    "artistId": "4Ui2kfOqGujY81UcPrb5KE",
+    "albumId": "3EFSOzgqaOQqJCMAMMn4Cl",
+    "release_date": "2017-07-07",
+    "popularity": 52
+  },
+  {
+    "trackId": "3vi2IS8APhNorymm9yTsj7",
+    "name": "Love... Thy Will Be Done",
+    "duration_ms": 247026,
+    "artist": "Prince",
+    "artistId": "5a2EaR3hamoenG9rDuVn8j",
+    "albumId": "1X1So5oX4TCFGdK6BN9UXs",
+    "release_date": "2019-06-07",
+    "popularity": 30
+  }
+]

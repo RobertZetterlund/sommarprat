@@ -1,1 +1,162 @@
-[{"trackId":"0VxvWd0bJxYcuOLUeWS9Qa","name":"Lillan står i hagen","duration_ms":260026,"artist":"Mikael Wiehe & Co","artistId":"0jTcLcmvuqwds9wUVjoHUb","albumId":"6l7hLG6yBh5ydKshwQxmpo","release_date":"1983-01-01","popularity":1},{"trackId":"4FmCUATNIarCQh72JYdvnm","name":"That's Life","duration_ms":187040,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"3gNsjaUsu9cRckgUFx5NsY","release_date":"1966-11","popularity":69},{"trackId":"0vg4WnUWvze6pBOJDTq99k","name":"You're Beautiful","duration_ms":209493,"artist":"James Blunt","artistId":"7KMqksf0UMdyA0UCf4R3ux","albumId":"1ekaxA9Q5GzUPCepx4wzMF","release_date":"2005-08-08","popularity":75},{"trackId":"29SyMC0plk6qw8NMF7lfRL","name":"You Really Got Me - Mono Mix","duration_ms":134253,"artist":"The Kinks","artistId":"1SQRv42e4PjEYfPhS0Tk9E","albumId":"08G3mGQXuHItbbsFAz50gJ","release_date":"1964-10-02","popularity":71},{"trackId":"0DMRKqrpd0QO4RWiEdMib0","name":"You Know I'm No Good","duration_ms":257186,"artist":"Amy Winehouse","artistId":"6Q192DXotxtaysaqNPy5yR","albumId":"0E4xv5gPjykrwBgBZzI8XG","release_date":"2006","popularity":72},{"trackId":"2hCUmmNEYmmaZYWXONAx7D","name":"Flickan och kråkan","duration_ms":230960,"artist":"Mikael Wiehe","artistId":"3VOOmK7ZqJNgOPN1hopJuL","albumId":"19yfx3yStZIhIVb99w71RO","release_date":"1981-01-01","popularity":42},{"trackId":"24K64Nrc60SAYUGjZHiJDt","name":"In einem Polenstädtchen da lebte einst ein Mädchen","duration_ms":181120,"artist":"Die Globetrotters","artistId":"4OesBV31dxwrLk5bY5Qrz4","albumId":"0a3FUHLU4eukwcOViWLSJA","release_date":"2011-09-30","popularity":0},{"trackId":"0P7DoyGrr4Wp9w5TotEtUC","name":"The Weight - Remastered 2000","duration_ms":274493,"artist":"The Band","artistId":"4vpDg7Y7fU982Ds30zawDA","albumId":"0ky5kdvfPxSmSpj03hpSAE","release_date":"1968-07-01","popularity":70},{"trackId":"7vHshinTU8161w69EPbabY","name":"Younger - Kygo Remix","duration_ms":351578,"artist":"Seinabo Sey","artistId":"4X0v8sFoDZ6rIfkeOeVm2i","albumId":"7g2ZA4JCgG8Jxr67i23xlz","release_date":"2015-10-23","popularity":65},{"trackId":"0q3V4AIRPYvL7JlMW2gsFi","name":"Fröken Julie","duration_ms":223039,"artist":"Björn Afzelius","artistId":"0PXQ16KY3iwdfvluCikdn0","albumId":"40FAmHquJvATPdEFWztD9z","release_date":"2006-11-20","popularity":14},{"trackId":"4YXKKnIZuk7UtXH5oC0ffa","name":"Lucille","duration_ms":143826,"artist":"Little Richard","artistId":"4xls23Ye9WR9yy3yYMpAMm","albumId":"18VnWTsdEcofimkOHcWBAu","release_date":"1969-01-01","popularity":55},{"trackId":"0X5PLNGvAxQlYUxQe5y3uf","name":"Första låten","duration_ms":149053,"artist":"Babblarna","artistId":"1aA5OGASCVhznQYm71BMYg","albumId":"4UJNmi54rOAergmdb546OD","release_date":"2015-01-01","popularity":55},{"trackId":"3BQHpFgAp4l80e1XslIjNI","name":"Yesterday - Remastered 2009","duration_ms":125666,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"0PT5m6hwPRrpBwIHVnvbFX","release_date":"1965-08-06","popularity":75},{"trackId":"4u9f8hqstB7iITDJNzKhQx","name":"My Generation - Stereo Version","duration_ms":198706,"artist":"The Who","artistId":"67ea9eGLXYMsO2eYQRui3w","albumId":"6Oc6Ok1Oawu8lRkjmD4mXy","release_date":"1965-12-03","popularity":64},{"trackId":"6v8jawN7jEl1dtl21JY5fg","name":"Franz Liszt: Ungersk Rapsodi Nr 2","duration_ms":522626,"artist":"Franz Liszt","artistId":"1385hLNbrnbCJGokfH2ac2","albumId":"20Hm9UI6ELH0drMKsMkXFU","release_date":"1996","popularity":0},{"trackId":"0WSlOSMLJWoWUpWci9nnRb","name":"Cissy Strut","duration_ms":186853,"artist":"The Meters","artistId":"2JRvXPGWiINrnJljNJhG5s","albumId":"1Nt14TE6bKZGzJrROip36y","release_date":"1969","popularity":61}]
+[
+  {
+    "trackId": "0VxvWd0bJxYcuOLUeWS9Qa",
+    "name": "Lillan står i hagen",
+    "duration_ms": 260026,
+    "artist": "Mikael Wiehe & Co",
+    "artistId": "0jTcLcmvuqwds9wUVjoHUb",
+    "albumId": "6l7hLG6yBh5ydKshwQxmpo",
+    "release_date": "1983-01-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "4FmCUATNIarCQh72JYdvnm",
+    "name": "That's Life",
+    "duration_ms": 187040,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "3gNsjaUsu9cRckgUFx5NsY",
+    "release_date": "1966-11",
+    "popularity": 69
+  },
+  {
+    "trackId": "0vg4WnUWvze6pBOJDTq99k",
+    "name": "You're Beautiful",
+    "duration_ms": 209493,
+    "artist": "James Blunt",
+    "artistId": "7KMqksf0UMdyA0UCf4R3ux",
+    "albumId": "1ekaxA9Q5GzUPCepx4wzMF",
+    "release_date": "2005-08-08",
+    "popularity": 75
+  },
+  {
+    "trackId": "29SyMC0plk6qw8NMF7lfRL",
+    "name": "You Really Got Me - Mono Mix",
+    "duration_ms": 134253,
+    "artist": "The Kinks",
+    "artistId": "1SQRv42e4PjEYfPhS0Tk9E",
+    "albumId": "08G3mGQXuHItbbsFAz50gJ",
+    "release_date": "1964-10-02",
+    "popularity": 71
+  },
+  {
+    "trackId": "0DMRKqrpd0QO4RWiEdMib0",
+    "name": "You Know I'm No Good",
+    "duration_ms": 257186,
+    "artist": "Amy Winehouse",
+    "artistId": "6Q192DXotxtaysaqNPy5yR",
+    "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+    "release_date": "2006",
+    "popularity": 72
+  },
+  {
+    "trackId": "2hCUmmNEYmmaZYWXONAx7D",
+    "name": "Flickan och kråkan",
+    "duration_ms": 230960,
+    "artist": "Mikael Wiehe",
+    "artistId": "3VOOmK7ZqJNgOPN1hopJuL",
+    "albumId": "19yfx3yStZIhIVb99w71RO",
+    "release_date": "1981-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "24K64Nrc60SAYUGjZHiJDt",
+    "name": "In einem Polenstädtchen da lebte einst ein Mädchen",
+    "duration_ms": 181120,
+    "artist": "Die Globetrotters",
+    "artistId": "4OesBV31dxwrLk5bY5Qrz4",
+    "albumId": "0a3FUHLU4eukwcOViWLSJA",
+    "release_date": "2011-09-30",
+    "popularity": 0
+  },
+  {
+    "trackId": "0P7DoyGrr4Wp9w5TotEtUC",
+    "name": "The Weight - Remastered 2000",
+    "duration_ms": 274493,
+    "artist": "The Band",
+    "artistId": "4vpDg7Y7fU982Ds30zawDA",
+    "albumId": "0ky5kdvfPxSmSpj03hpSAE",
+    "release_date": "1968-07-01",
+    "popularity": 70
+  },
+  {
+    "trackId": "7vHshinTU8161w69EPbabY",
+    "name": "Younger - Kygo Remix",
+    "duration_ms": 351578,
+    "artist": "Seinabo Sey",
+    "artistId": "4X0v8sFoDZ6rIfkeOeVm2i",
+    "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+    "release_date": "2015-10-23",
+    "popularity": 65
+  },
+  {
+    "trackId": "0q3V4AIRPYvL7JlMW2gsFi",
+    "name": "Fröken Julie",
+    "duration_ms": 223039,
+    "artist": "Björn Afzelius",
+    "artistId": "0PXQ16KY3iwdfvluCikdn0",
+    "albumId": "40FAmHquJvATPdEFWztD9z",
+    "release_date": "2006-11-20",
+    "popularity": 14
+  },
+  {
+    "trackId": "4YXKKnIZuk7UtXH5oC0ffa",
+    "name": "Lucille",
+    "duration_ms": 143826,
+    "artist": "Little Richard",
+    "artistId": "4xls23Ye9WR9yy3yYMpAMm",
+    "albumId": "18VnWTsdEcofimkOHcWBAu",
+    "release_date": "1969-01-01",
+    "popularity": 55
+  },
+  {
+    "trackId": "0X5PLNGvAxQlYUxQe5y3uf",
+    "name": "Första låten",
+    "duration_ms": 149053,
+    "artist": "Babblarna",
+    "artistId": "1aA5OGASCVhznQYm71BMYg",
+    "albumId": "4UJNmi54rOAergmdb546OD",
+    "release_date": "2015-01-01",
+    "popularity": 55
+  },
+  {
+    "trackId": "3BQHpFgAp4l80e1XslIjNI",
+    "name": "Yesterday - Remastered 2009",
+    "duration_ms": 125666,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+    "release_date": "1965-08-06",
+    "popularity": 75
+  },
+  {
+    "trackId": "4u9f8hqstB7iITDJNzKhQx",
+    "name": "My Generation - Stereo Version",
+    "duration_ms": 198706,
+    "artist": "The Who",
+    "artistId": "67ea9eGLXYMsO2eYQRui3w",
+    "albumId": "6Oc6Ok1Oawu8lRkjmD4mXy",
+    "release_date": "1965-12-03",
+    "popularity": 64
+  },
+  {
+    "trackId": "6v8jawN7jEl1dtl21JY5fg",
+    "name": "Franz Liszt: Ungersk Rapsodi Nr 2",
+    "duration_ms": 522626,
+    "artist": "Franz Liszt",
+    "artistId": "1385hLNbrnbCJGokfH2ac2",
+    "albumId": "20Hm9UI6ELH0drMKsMkXFU",
+    "release_date": "1996",
+    "popularity": 0
+  },
+  {
+    "trackId": "0WSlOSMLJWoWUpWci9nnRb",
+    "name": "Cissy Strut",
+    "duration_ms": 186853,
+    "artist": "The Meters",
+    "artistId": "2JRvXPGWiINrnJljNJhG5s",
+    "albumId": "1Nt14TE6bKZGzJrROip36y",
+    "release_date": "1969",
+    "popularity": 61
+  }
+]

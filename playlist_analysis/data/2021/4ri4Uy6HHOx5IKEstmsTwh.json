@@ -1,1 +1,122 @@
-[{"trackId":"4V1kck7CLZWdtL5kBDDt7y","name":"Claire","duration_ms":282880,"artist":"Janne Schaffer","artistId":"1FdRWg2tqR4I7jjA29vWYU","albumId":"4lXhWIu7f9p2xfzv7jx93F","release_date":"1992-01-01","popularity":16},{"trackId":"4GIqcep2VILytdcrKW8MWl","name":"Bony Moronie - Live in California - September 1975","duration_ms":409960,"artist":"Johnny Winter","artistId":"2ODUxmFxJSyvGiimNhMHbO","albumId":"4MLYPrre7khd5ZrZePWPNS","release_date":"1976","popularity":16},{"trackId":"3sqZDdEO5viqNqMCNem5m5","name":"Stir It Up - Original Album Version","duration_ms":332400,"artist":"Bob Marley & The Wailers","artistId":"2QsynagSdAqZj3U9HgDzjD","albumId":"39kLAVdcgW7jbMcTEaY2qy","release_date":"1973-04-13","popularity":64},{"trackId":"0vHfh5IaZJ5ckBnbBLeG1R","name":"Känslan i maj","duration_ms":180840,"artist":"Monica Törnell","artistId":"2mzcDa3H7xrIikDmF9rFwN","albumId":"1KrXeJBmvnDj3weYsWIFpQ","release_date":"1984-01-01","popularity":24},{"trackId":"3R47KOuGuGvmoeQqbODPa3","name":"If It Wasn't For The Nights","duration_ms":309320,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"7iLuHJkrb9KHPkMgddYigh","release_date":"1979","popularity":61},{"trackId":"5oMwBeLLKT36YLTomwunjy","name":"Som ett nyfött barn","duration_ms":261839,"artist":"Janne Schaffer","artistId":"1FdRWg2tqR4I7jjA29vWYU","albumId":"2QEZEyb3M3YdYarxPJa58b","release_date":"1985-01-01","popularity":3},{"trackId":"5Gqs1cmVIs5ruCOSU70grq","name":"Tid faller hårt","duration_ms":282733,"artist":"Ted Gärdestad","artistId":"6zpub6jbY6CdrcqQsDq8P4","albumId":"27UeA6gHS0oDPrMYaJa9QI","release_date":"1994","popularity":27},{"trackId":"5ExtrubqKISZvDfXwtRtwk","name":"Brusa högre lilla å","duration_ms":307560,"artist":"Björn J:son Lindh","artistId":"2h8kv7MQIuItRyW41oTiVb","albumId":"2mIxlE47BHybSHpnHFUOYe","release_date":"1980-01-01","popularity":34},{"trackId":"5Zd90vJD3uA3PczP0sjwgT","name":"No Registration","duration_ms":372506,"artist":"Janne Schaffer","artistId":"1FdRWg2tqR4I7jjA29vWYU","albumId":"1BJs0UO6E7pXoWHTPmrufR","release_date":"1973-08-15","popularity":6},{"trackId":"7Ec5VCqrysMwRe9tFH61jK","name":"Sick Of Sittin'","duration_ms":240533,"artist":"Christina Aguilera","artistId":"1l7ZsJRRS8wlW3WfJfPfNS","albumId":"7MfUiQkVEDkOSmU83A2C9q","release_date":"2018-06-15","popularity":30},{"trackId":"30pWW3g4WMLarWKeUqrSpB","name":"Tropical Fruits","duration_ms":232200,"artist":"Electric Banana Band","artistId":"263gQqFvf1IUdtROCgrQQ9","albumId":"7MQcn56JDBexHyut9p0Nbj","release_date":"1998-01-01","popularity":23},{"trackId":"3LXDV6xinEOGr6AwRLeaX2","name":"Norrland","duration_ms":359733,"artist":"Janne Schaffer","artistId":"1FdRWg2tqR4I7jjA29vWYU","albumId":"3iuLFTQhg4A5guh7tw4vVL","release_date":"1995-01-01","popularity":33}]
+[
+  {
+    "trackId": "4V1kck7CLZWdtL5kBDDt7y",
+    "name": "Claire",
+    "duration_ms": 282880,
+    "artist": "Janne Schaffer",
+    "artistId": "1FdRWg2tqR4I7jjA29vWYU",
+    "albumId": "4lXhWIu7f9p2xfzv7jx93F",
+    "release_date": "1992-01-01",
+    "popularity": 16
+  },
+  {
+    "trackId": "4GIqcep2VILytdcrKW8MWl",
+    "name": "Bony Moronie - Live in California - September 1975",
+    "duration_ms": 409960,
+    "artist": "Johnny Winter",
+    "artistId": "2ODUxmFxJSyvGiimNhMHbO",
+    "albumId": "4MLYPrre7khd5ZrZePWPNS",
+    "release_date": "1976",
+    "popularity": 16
+  },
+  {
+    "trackId": "3sqZDdEO5viqNqMCNem5m5",
+    "name": "Stir It Up - Original Album Version",
+    "duration_ms": 332400,
+    "artist": "Bob Marley & The Wailers",
+    "artistId": "2QsynagSdAqZj3U9HgDzjD",
+    "albumId": "39kLAVdcgW7jbMcTEaY2qy",
+    "release_date": "1973-04-13",
+    "popularity": 64
+  },
+  {
+    "trackId": "0vHfh5IaZJ5ckBnbBLeG1R",
+    "name": "Känslan i maj",
+    "duration_ms": 180840,
+    "artist": "Monica Törnell",
+    "artistId": "2mzcDa3H7xrIikDmF9rFwN",
+    "albumId": "1KrXeJBmvnDj3weYsWIFpQ",
+    "release_date": "1984-01-01",
+    "popularity": 24
+  },
+  {
+    "trackId": "3R47KOuGuGvmoeQqbODPa3",
+    "name": "If It Wasn't For The Nights",
+    "duration_ms": 309320,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "7iLuHJkrb9KHPkMgddYigh",
+    "release_date": "1979",
+    "popularity": 61
+  },
+  {
+    "trackId": "5oMwBeLLKT36YLTomwunjy",
+    "name": "Som ett nyfött barn",
+    "duration_ms": 261839,
+    "artist": "Janne Schaffer",
+    "artistId": "1FdRWg2tqR4I7jjA29vWYU",
+    "albumId": "2QEZEyb3M3YdYarxPJa58b",
+    "release_date": "1985-01-01",
+    "popularity": 3
+  },
+  {
+    "trackId": "5Gqs1cmVIs5ruCOSU70grq",
+    "name": "Tid faller hårt",
+    "duration_ms": 282733,
+    "artist": "Ted Gärdestad",
+    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
+    "albumId": "27UeA6gHS0oDPrMYaJa9QI",
+    "release_date": "1994",
+    "popularity": 27
+  },
+  {
+    "trackId": "5ExtrubqKISZvDfXwtRtwk",
+    "name": "Brusa högre lilla å",
+    "duration_ms": 307560,
+    "artist": "Björn J:son Lindh",
+    "artistId": "2h8kv7MQIuItRyW41oTiVb",
+    "albumId": "2mIxlE47BHybSHpnHFUOYe",
+    "release_date": "1980-01-01",
+    "popularity": 34
+  },
+  {
+    "trackId": "5Zd90vJD3uA3PczP0sjwgT",
+    "name": "No Registration",
+    "duration_ms": 372506,
+    "artist": "Janne Schaffer",
+    "artistId": "1FdRWg2tqR4I7jjA29vWYU",
+    "albumId": "1BJs0UO6E7pXoWHTPmrufR",
+    "release_date": "1973-08-15",
+    "popularity": 6
+  },
+  {
+    "trackId": "7Ec5VCqrysMwRe9tFH61jK",
+    "name": "Sick Of Sittin'",
+    "duration_ms": 240533,
+    "artist": "Christina Aguilera",
+    "artistId": "1l7ZsJRRS8wlW3WfJfPfNS",
+    "albumId": "7MfUiQkVEDkOSmU83A2C9q",
+    "release_date": "2018-06-15",
+    "popularity": 30
+  },
+  {
+    "trackId": "30pWW3g4WMLarWKeUqrSpB",
+    "name": "Tropical Fruits",
+    "duration_ms": 232200,
+    "artist": "Electric Banana Band",
+    "artistId": "263gQqFvf1IUdtROCgrQQ9",
+    "albumId": "7MQcn56JDBexHyut9p0Nbj",
+    "release_date": "1998-01-01",
+    "popularity": 23
+  },
+  {
+    "trackId": "3LXDV6xinEOGr6AwRLeaX2",
+    "name": "Norrland",
+    "duration_ms": 359733,
+    "artist": "Janne Schaffer",
+    "artistId": "1FdRWg2tqR4I7jjA29vWYU",
+    "albumId": "3iuLFTQhg4A5guh7tw4vVL",
+    "release_date": "1995-01-01",
+    "popularity": 33
+  }
+]

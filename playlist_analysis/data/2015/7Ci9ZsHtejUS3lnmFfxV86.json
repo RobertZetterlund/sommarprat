@@ -1,1 +1,142 @@
-[{"trackId":"5Z01UMMf7V1o0MzF86s6WJ","name":"Lose Yourself - From \"8 Mile\" Soundtrack","duration_ms":326466,"artist":"Eminem","artistId":"7dGJo4pcD2V6oG8kP0tJRR","albumId":"5qENHeCSlwWpEzb25peRmQ","release_date":"2005-12-06","popularity":76},{"trackId":"07Tx168RSsUS1HqkDIOZbH","name":"Cupid Shuffle","duration_ms":231360,"artist":"Cupid","artistId":"0lax1ZgWclW6mZFaGu27MM","albumId":"1tDyAU95D65Shy34JxsQCu","release_date":"2007-09-11","popularity":63},{"trackId":"4ol8b8j2qCaLQXOeSyk1W0","name":"Spring","duration_ms":221749,"artist":"Timbuktu","artistId":"4bOG1sx3QHFbOUVLNmMpPe","albumId":"6a8GZWPmLWWTUDsQ61yAro","release_date":"2014-05-28","popularity":31},{"trackId":"3bWLBVZz9Vur3OLy05SpfF","name":"Verge","duration_ms":213026,"artist":"Owl City","artistId":"07QEuhtrNmmZ0zEcqE9SF6","albumId":"6P9CHi6Dx26YWHeE3aTZiz","release_date":"2015-07-10","popularity":56},{"trackId":"0yuc2ljOiPmfVJZ7LqbKjJ","name":"Like Suicide","duration_ms":182733,"artist":"Christian Walz","artistId":"7HIwOaRr44aOCBZHJSVhLD","albumId":"4WAOipdoajSIqGRQ3sliP1","release_date":"2011-02-12","popularity":24},{"trackId":"01uqI4H13Gsd8Lyl1EYd8H","name":"Same Love (feat. Mary Lambert)","duration_ms":318525,"artist":"Macklemore & Ryan Lewis","artistId":"5BcAKTbp20cv7tC5VqPFoC","albumId":"76FXHQhTuT4QMIxfL09gX8","release_date":"2012-10-09","popularity":64},{"trackId":"1uXbwHHfgsXcUKfSZw5ZJ0","name":"Run the World (Girls)","duration_ms":236093,"artist":"Beyoncé","artistId":"6vWDO969PvNqNYHIOW5v0m","albumId":"1gIC63gC3B7o7FfpPACZQJ","release_date":"2011-06-24","popularity":72},{"trackId":"1BdfSXTVEfUMF0PUMAlB3n","name":"Du är allt","duration_ms":205320,"artist":"Sonja Aldén","artistId":"3XyHsKlvXenLURpECPEQOJ","albumId":"7ens1nd6FrbqGdyVGFkmVV","release_date":"2007","popularity":50},{"trackId":"3jagJCUbdqhDSPuxP8cAqF","name":"Work It","duration_ms":263226,"artist":"Missy Elliott","artistId":"2wIVse2owClT7go1WT98tk","albumId":"6DeU398qrJ1bLuryetSmup","release_date":"2002-11-11","popularity":69},{"trackId":"0MxBQqV3C815arNjQneuPp","name":"Girls","duration_ms":183653,"artist":"Beatrice Eli","artistId":"1lzoEy8yiIBiHOuaO4h5Wj","albumId":"0iRoxFYM88dGcdc1zVWo60","release_date":"2014-10-22","popularity":33},{"trackId":"5WOmLAKYlo6gSxvNQ7Btql","name":"Auf uns","duration_ms":240600,"artist":"Andreas Bourani","artistId":"6quRLJ5SiWHgcVMoE9TEJj","albumId":"1tnlXVDMLdw3gFingAz7Fk","release_date":"2022-08-12","popularity":0},{"trackId":"1ia019RqDK2o4QiANR1Dyn","name":"Moment 4 Life","duration_ms":279306,"artist":"Nicki Minaj","artistId":"0hCNtLu0JehylgoiP8L4Gh","albumId":"3LJhoYn4nnHmvPRO3ppbsl","release_date":"2010-01-01","popularity":71},{"trackId":"2kfGoV9a5dbSKCNmUWH2ZF","name":"Turning Page","duration_ms":255893,"artist":"Sleeping At Last","artistId":"0MeLMJJcouYXCymQSHPn8g","albumId":"7lh3v8GsuH6TKFQcTimkji","release_date":"2012-06-18","popularity":71},{"trackId":"1AHPsqF3EtHeWpOM06Y3Y4","name":"Hope There's Someone","duration_ms":261200,"artist":"Antony and the Johnsons","artistId":"4fxp616ALtFWnXfwxnjLzW","albumId":"24Xm5zS2KvwojChzxLGdn9","release_date":"2005-02-07","popularity":48}]
+[
+  {
+    "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
+    "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+    "duration_ms": 326466,
+    "artist": "Eminem",
+    "artistId": "7dGJo4pcD2V6oG8kP0tJRR",
+    "albumId": "5qENHeCSlwWpEzb25peRmQ",
+    "release_date": "2005-12-06",
+    "popularity": 76
+  },
+  {
+    "trackId": "07Tx168RSsUS1HqkDIOZbH",
+    "name": "Cupid Shuffle",
+    "duration_ms": 231360,
+    "artist": "Cupid",
+    "artistId": "0lax1ZgWclW6mZFaGu27MM",
+    "albumId": "1tDyAU95D65Shy34JxsQCu",
+    "release_date": "2007-09-11",
+    "popularity": 63
+  },
+  {
+    "trackId": "4ol8b8j2qCaLQXOeSyk1W0",
+    "name": "Spring",
+    "duration_ms": 221749,
+    "artist": "Timbuktu",
+    "artistId": "4bOG1sx3QHFbOUVLNmMpPe",
+    "albumId": "6a8GZWPmLWWTUDsQ61yAro",
+    "release_date": "2014-05-28",
+    "popularity": 31
+  },
+  {
+    "trackId": "3bWLBVZz9Vur3OLy05SpfF",
+    "name": "Verge",
+    "duration_ms": 213026,
+    "artist": "Owl City",
+    "artistId": "07QEuhtrNmmZ0zEcqE9SF6",
+    "albumId": "6P9CHi6Dx26YWHeE3aTZiz",
+    "release_date": "2015-07-10",
+    "popularity": 56
+  },
+  {
+    "trackId": "0yuc2ljOiPmfVJZ7LqbKjJ",
+    "name": "Like Suicide",
+    "duration_ms": 182733,
+    "artist": "Christian Walz",
+    "artistId": "7HIwOaRr44aOCBZHJSVhLD",
+    "albumId": "4WAOipdoajSIqGRQ3sliP1",
+    "release_date": "2011-02-12",
+    "popularity": 24
+  },
+  {
+    "trackId": "01uqI4H13Gsd8Lyl1EYd8H",
+    "name": "Same Love (feat. Mary Lambert)",
+    "duration_ms": 318525,
+    "artist": "Macklemore & Ryan Lewis",
+    "artistId": "5BcAKTbp20cv7tC5VqPFoC",
+    "albumId": "76FXHQhTuT4QMIxfL09gX8",
+    "release_date": "2012-10-09",
+    "popularity": 64
+  },
+  {
+    "trackId": "1uXbwHHfgsXcUKfSZw5ZJ0",
+    "name": "Run the World (Girls)",
+    "duration_ms": 236093,
+    "artist": "Beyoncé",
+    "artistId": "6vWDO969PvNqNYHIOW5v0m",
+    "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+    "release_date": "2011-06-24",
+    "popularity": 72
+  },
+  {
+    "trackId": "1BdfSXTVEfUMF0PUMAlB3n",
+    "name": "Du är allt",
+    "duration_ms": 205320,
+    "artist": "Sonja Aldén",
+    "artistId": "3XyHsKlvXenLURpECPEQOJ",
+    "albumId": "7ens1nd6FrbqGdyVGFkmVV",
+    "release_date": "2007",
+    "popularity": 50
+  },
+  {
+    "trackId": "3jagJCUbdqhDSPuxP8cAqF",
+    "name": "Work It",
+    "duration_ms": 263226,
+    "artist": "Missy Elliott",
+    "artistId": "2wIVse2owClT7go1WT98tk",
+    "albumId": "6DeU398qrJ1bLuryetSmup",
+    "release_date": "2002-11-11",
+    "popularity": 69
+  },
+  {
+    "trackId": "0MxBQqV3C815arNjQneuPp",
+    "name": "Girls",
+    "duration_ms": 183653,
+    "artist": "Beatrice Eli",
+    "artistId": "1lzoEy8yiIBiHOuaO4h5Wj",
+    "albumId": "0iRoxFYM88dGcdc1zVWo60",
+    "release_date": "2014-10-22",
+    "popularity": 33
+  },
+  {
+    "trackId": "5WOmLAKYlo6gSxvNQ7Btql",
+    "name": "Auf uns",
+    "duration_ms": 240600,
+    "artist": "Andreas Bourani",
+    "artistId": "6quRLJ5SiWHgcVMoE9TEJj",
+    "albumId": "1tnlXVDMLdw3gFingAz7Fk",
+    "release_date": "2022-08-12",
+    "popularity": 0
+  },
+  {
+    "trackId": "1ia019RqDK2o4QiANR1Dyn",
+    "name": "Moment 4 Life",
+    "duration_ms": 279306,
+    "artist": "Nicki Minaj",
+    "artistId": "0hCNtLu0JehylgoiP8L4Gh",
+    "albumId": "3LJhoYn4nnHmvPRO3ppbsl",
+    "release_date": "2010-01-01",
+    "popularity": 71
+  },
+  {
+    "trackId": "2kfGoV9a5dbSKCNmUWH2ZF",
+    "name": "Turning Page",
+    "duration_ms": 255893,
+    "artist": "Sleeping At Last",
+    "artistId": "0MeLMJJcouYXCymQSHPn8g",
+    "albumId": "7lh3v8GsuH6TKFQcTimkji",
+    "release_date": "2012-06-18",
+    "popularity": 71
+  },
+  {
+    "trackId": "1AHPsqF3EtHeWpOM06Y3Y4",
+    "name": "Hope There's Someone",
+    "duration_ms": 261200,
+    "artist": "Antony and the Johnsons",
+    "artistId": "4fxp616ALtFWnXfwxnjLzW",
+    "albumId": "24Xm5zS2KvwojChzxLGdn9",
+    "release_date": "2005-02-07",
+    "popularity": 48
+  }
+]

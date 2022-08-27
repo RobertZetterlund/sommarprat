@@ -1,1 +1,122 @@
-[{"trackId":"7fpu8ieisgAJ1ul6hwWup1","name":"Med en lapp om halsen","duration_ms":326000,"artist":"Mika Olavi","artistId":"0524yAMYcQYNpQxQtNUCaN","albumId":"0zX0rRDaFaN0oXLsCfnQCN","release_date":"2020-03-27","popularity":2},{"trackId":"70k1PlJsVDQ8UnX5a2UHI8","name":"Man är ju bara människa","duration_ms":231453,"artist":"Iiris Viljanen","artistId":"1IYVBUvVz1UbdQboARe43I","albumId":"5pVWF6Den7qYxSgMMQ35Uu","release_date":"2020-05-08","popularity":23},{"trackId":"69r64jfxYq5CrtVZL46D5r","name":"NOUAR","duration_ms":377026,"artist":"Cheikha Rimitti","artistId":"364dHqe2BwXqmOhgdBXpw8","albumId":"4pUoU89OnJtWvqJiREjaV5","release_date":"2006-04-03","popularity":41},{"trackId":"69r64jfxYq5CrtVZL46D5r","name":"NOUAR","duration_ms":377026,"artist":"Cheikha Rimitti","artistId":"364dHqe2BwXqmOhgdBXpw8","albumId":"4pUoU89OnJtWvqJiREjaV5","release_date":"2006-04-03","popularity":41},{"trackId":"5Yx5PhdnwhNzLMBl34TZw4","name":"Both Sides Now","duration_ms":273573,"artist":"Joni Mitchell","artistId":"5hW4L92KnC6dX9t7tYM4Ve","albumId":"02piRJBAWgCu2Et3rOkK4w","release_date":"2019-02-15","popularity":58},{"trackId":"2tUyERWNGVMjC4w3136HSh","name":"Jorden är ett litet rum","duration_ms":250906,"artist":"Eva Dahlgren","artistId":"7IK2JpZglDYTrso4ILEKE0","albumId":"4sewAubkcE7IHdxJJQdvDO","release_date":"2007","popularity":27},{"trackId":"7AFy1aN1RQVgGOXzCtrK87","name":"Cabaret","duration_ms":211200,"artist":"Liza Minnelli","artistId":"1pdGj6Gak10Q2ajig4l1Dm","albumId":"28qbOp4dEh18N5u6FInyOO","release_date":"1972-02-13","popularity":48},{"trackId":"2RPhXg9D4JOkryUznL0aaB","name":"Forgive Them Father","duration_ms":315293,"artist":"Ms. Lauryn Hill","artistId":"2Mu5NfyYm8n5iTomuKAEHl","albumId":"1BZoqf8Zje5nGdwZhOjAtD","release_date":"1998-08-25","popularity":50},{"trackId":"08Nxk0ei6Gem3OehA9P27d","name":"You Can't Rule Me","duration_ms":241432,"artist":"Lucinda Williams","artistId":"60ht0hWRy1yjUDfNsLuHuP","albumId":"3sF4iIrRTsRNKC6AMR6D2d","release_date":"2020-04-24","popularity":32},{"trackId":"1RoCTNkRDX4caCDReGtY0r","name":"Säg några vackra ord","duration_ms":237173,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"2iflMrGtjzufU2Jw7JhoLE","release_date":"1962-04-03","popularity":14},{"trackId":"5XRZHUkRYqSHsA8x26Z9Tx","name":"Every Grain of Sand - Arr. James Tomalin","duration_ms":262733,"artist":"Barb Jungr","artistId":"0pKCBLG3eavJSrSoiNMqNN","albumId":"2QMPDZdtBDBmLEENyl9Zdz","release_date":"2002","popularity":2},{"trackId":"4AB8I2iNcBMxgQKkeeIKIv","name":"People Get Ready","duration_ms":224360,"artist":"Aretha Franklin","artistId":"7nwUJBm0HE4ZxD3f5cy5ok","albumId":"7lEOKZaOpqP70UYqdLPejG","release_date":"1968-01-22","popularity":33}]
+[
+  {
+    "trackId": "7fpu8ieisgAJ1ul6hwWup1",
+    "name": "Med en lapp om halsen",
+    "duration_ms": 326000,
+    "artist": "Mika Olavi",
+    "artistId": "0524yAMYcQYNpQxQtNUCaN",
+    "albumId": "0zX0rRDaFaN0oXLsCfnQCN",
+    "release_date": "2020-03-27",
+    "popularity": 2
+  },
+  {
+    "trackId": "70k1PlJsVDQ8UnX5a2UHI8",
+    "name": "Man är ju bara människa",
+    "duration_ms": 231453,
+    "artist": "Iiris Viljanen",
+    "artistId": "1IYVBUvVz1UbdQboARe43I",
+    "albumId": "5pVWF6Den7qYxSgMMQ35Uu",
+    "release_date": "2020-05-08",
+    "popularity": 23
+  },
+  {
+    "trackId": "69r64jfxYq5CrtVZL46D5r",
+    "name": "NOUAR",
+    "duration_ms": 377026,
+    "artist": "Cheikha Rimitti",
+    "artistId": "364dHqe2BwXqmOhgdBXpw8",
+    "albumId": "4pUoU89OnJtWvqJiREjaV5",
+    "release_date": "2006-04-03",
+    "popularity": 41
+  },
+  {
+    "trackId": "69r64jfxYq5CrtVZL46D5r",
+    "name": "NOUAR",
+    "duration_ms": 377026,
+    "artist": "Cheikha Rimitti",
+    "artistId": "364dHqe2BwXqmOhgdBXpw8",
+    "albumId": "4pUoU89OnJtWvqJiREjaV5",
+    "release_date": "2006-04-03",
+    "popularity": 41
+  },
+  {
+    "trackId": "5Yx5PhdnwhNzLMBl34TZw4",
+    "name": "Both Sides Now",
+    "duration_ms": 273573,
+    "artist": "Joni Mitchell",
+    "artistId": "5hW4L92KnC6dX9t7tYM4Ve",
+    "albumId": "02piRJBAWgCu2Et3rOkK4w",
+    "release_date": "2019-02-15",
+    "popularity": 58
+  },
+  {
+    "trackId": "2tUyERWNGVMjC4w3136HSh",
+    "name": "Jorden är ett litet rum",
+    "duration_ms": 250906,
+    "artist": "Eva Dahlgren",
+    "artistId": "7IK2JpZglDYTrso4ILEKE0",
+    "albumId": "4sewAubkcE7IHdxJJQdvDO",
+    "release_date": "2007",
+    "popularity": 27
+  },
+  {
+    "trackId": "7AFy1aN1RQVgGOXzCtrK87",
+    "name": "Cabaret",
+    "duration_ms": 211200,
+    "artist": "Liza Minnelli",
+    "artistId": "1pdGj6Gak10Q2ajig4l1Dm",
+    "albumId": "28qbOp4dEh18N5u6FInyOO",
+    "release_date": "1972-02-13",
+    "popularity": 48
+  },
+  {
+    "trackId": "2RPhXg9D4JOkryUznL0aaB",
+    "name": "Forgive Them Father",
+    "duration_ms": 315293,
+    "artist": "Ms. Lauryn Hill",
+    "artistId": "2Mu5NfyYm8n5iTomuKAEHl",
+    "albumId": "1BZoqf8Zje5nGdwZhOjAtD",
+    "release_date": "1998-08-25",
+    "popularity": 50
+  },
+  {
+    "trackId": "08Nxk0ei6Gem3OehA9P27d",
+    "name": "You Can't Rule Me",
+    "duration_ms": 241432,
+    "artist": "Lucinda Williams",
+    "artistId": "60ht0hWRy1yjUDfNsLuHuP",
+    "albumId": "3sF4iIrRTsRNKC6AMR6D2d",
+    "release_date": "2020-04-24",
+    "popularity": 32
+  },
+  {
+    "trackId": "1RoCTNkRDX4caCDReGtY0r",
+    "name": "Säg några vackra ord",
+    "duration_ms": 237173,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "2iflMrGtjzufU2Jw7JhoLE",
+    "release_date": "1962-04-03",
+    "popularity": 14
+  },
+  {
+    "trackId": "5XRZHUkRYqSHsA8x26Z9Tx",
+    "name": "Every Grain of Sand - Arr. James Tomalin",
+    "duration_ms": 262733,
+    "artist": "Barb Jungr",
+    "artistId": "0pKCBLG3eavJSrSoiNMqNN",
+    "albumId": "2QMPDZdtBDBmLEENyl9Zdz",
+    "release_date": "2002",
+    "popularity": 2
+  },
+  {
+    "trackId": "4AB8I2iNcBMxgQKkeeIKIv",
+    "name": "People Get Ready",
+    "duration_ms": 224360,
+    "artist": "Aretha Franklin",
+    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "albumId": "7lEOKZaOpqP70UYqdLPejG",
+    "release_date": "1968-01-22",
+    "popularity": 33
+  }
+]

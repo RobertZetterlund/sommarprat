@@ -1,1 +1,132 @@
-[{"trackId":"1uCzmIsXhuy9XTuJP0ccB1","name":"Solidaritet","duration_ms":317733,"artist":"Rolf Wikström","artistId":"6JnHX2U0qF3EcoAHta5V3r","albumId":"6w30VuZITGZ6cykb63R9Lz","release_date":"1978-01-01","popularity":12},{"trackId":"2WGSwRHiAcitZitIyS6pYd","name":"Jag & Åke","duration_ms":158437,"artist":"Bolaget","artistId":"55ZGFvikpNjQHvtTWS5aZF","albumId":"7pKoYno1gVvCFXOgT3slVv","release_date":"2020-03-27","popularity":54},{"trackId":"2aq7j67gWieouCV0XQtmvn","name":"Jag Ger Dig Min Morgon (I Give You The Morning)","duration_ms":297893,"artist":"Cajsa Stina Åkerström","artistId":"0N98N0DiskOexjlZjJ6YZ7","albumId":"5zPVL6rXxWYnAN4d9YbZjx","release_date":"2005-06-15","popularity":26},{"trackId":"1bxnB1Dsi1zdNDSI8tHDbc","name":"World Is Spinning Around","duration_ms":171066,"artist":"Joe Higgs","artistId":"5XgHWn04awuFqBm0R5lLFX","albumId":"3oztrU2Xs5aMRp7ALNBZFB","release_date":"1995","popularity":25},{"trackId":"7wgYqjzA3qJLpyz89IlVPA","name":"That's Life","duration_ms":254040,"artist":"Michael Bublé","artistId":"1GxkXlMwML1oSg5eLPiAz3","albumId":"3h4pyWRJIB9ZyRKXChbX22","release_date":"2007-04-30","popularity":39},{"trackId":"1o9hY6zlmRIFcBJgYNcoRQ","name":"I Can Do Anything","duration_ms":157000,"artist":"Okey Dokey Records Sample","artistId":"4j1O3ySpRRRspbjnD72geJ","albumId":"1MU9RP6z2CkD5xwA2dFjYM","release_date":"2009-05-06","popularity":0},{"trackId":"7uPmQttafLiJyju14JREY4","name":"Young Americans - 2016 Remaster","duration_ms":313706,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"0lITGovWgaQGi42EfqcE5P","release_date":"1975-03-07","popularity":63},{"trackId":"5sRmrySDs6LREVMmj32QM0","name":"JH5GLIMPI","duration_ms":123483,"artist":"ODZ","artistId":"295SPRt7YTtIPdYoMkkF7K","albumId":"66cptU0dxttMk8llHfglpE","release_date":"2022-05-28","popularity":50},{"trackId":"4UDaVq5tm2mQ6tNgWydhUX","name":"Kom igen Lena!","duration_ms":231320,"artist":"Håkan Hellström","artistId":"3H7Ez7cwaYw4L3ELy4v3Lc","albumId":"2x39gXdLwYnTxJyxExXpTj","release_date":"2002-10-28","popularity":52},{"trackId":"4t9EUCjCPbdfqtOH25k8AU","name":"Moviestar","duration_ms":202280,"artist":"Harpo","artistId":"6HsEXxUSqMXmIwbYVW6zdt","albumId":"72prIfhTsxkWeO1IlkLB5C","release_date":"1976","popularity":58},{"trackId":"4QVcxQbjmi7yMk12VBEfwS","name":"Black & Blue","duration_ms":148500,"artist":"HUGEL","artistId":"5PlfkPxwCpRRWQJBxCa0By","albumId":"11exKfNOPPwMwpeBgEVnZc","release_date":"2022-06-24","popularity":28},{"trackId":"4Bh3FuYbXgUVyUH1Ht8zif","name":"Over the Rainbow","duration_ms":300893,"artist":"Eva Cassidy","artistId":"6fNmOWQzfOVyHLQ2UqUQew","albumId":"3XqJP3zCQMeEdJrk7IGiTJ","release_date":"2018-03-02","popularity":49},{"trackId":"1xNRhlH8YXnDieXDG7iOvN","name":"Fredrik Åkares morgonpsalm","duration_ms":176893,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"5UxihEHPAZYikGjOR2QRrh","release_date":"1978-01-01","popularity":17}]
+[
+  {
+    "trackId": "1uCzmIsXhuy9XTuJP0ccB1",
+    "name": "Solidaritet",
+    "duration_ms": 317733,
+    "artist": "Rolf Wikström",
+    "artistId": "6JnHX2U0qF3EcoAHta5V3r",
+    "albumId": "6w30VuZITGZ6cykb63R9Lz",
+    "release_date": "1978-01-01",
+    "popularity": 12
+  },
+  {
+    "trackId": "2WGSwRHiAcitZitIyS6pYd",
+    "name": "Jag & Åke",
+    "duration_ms": 158437,
+    "artist": "Bolaget",
+    "artistId": "55ZGFvikpNjQHvtTWS5aZF",
+    "albumId": "7pKoYno1gVvCFXOgT3slVv",
+    "release_date": "2020-03-27",
+    "popularity": 54
+  },
+  {
+    "trackId": "2aq7j67gWieouCV0XQtmvn",
+    "name": "Jag Ger Dig Min Morgon (I Give You The Morning)",
+    "duration_ms": 297893,
+    "artist": "Cajsa Stina Åkerström",
+    "artistId": "0N98N0DiskOexjlZjJ6YZ7",
+    "albumId": "5zPVL6rXxWYnAN4d9YbZjx",
+    "release_date": "2005-06-15",
+    "popularity": 26
+  },
+  {
+    "trackId": "1bxnB1Dsi1zdNDSI8tHDbc",
+    "name": "World Is Spinning Around",
+    "duration_ms": 171066,
+    "artist": "Joe Higgs",
+    "artistId": "5XgHWn04awuFqBm0R5lLFX",
+    "albumId": "3oztrU2Xs5aMRp7ALNBZFB",
+    "release_date": "1995",
+    "popularity": 25
+  },
+  {
+    "trackId": "7wgYqjzA3qJLpyz89IlVPA",
+    "name": "That's Life",
+    "duration_ms": 254040,
+    "artist": "Michael Bublé",
+    "artistId": "1GxkXlMwML1oSg5eLPiAz3",
+    "albumId": "3h4pyWRJIB9ZyRKXChbX22",
+    "release_date": "2007-04-30",
+    "popularity": 39
+  },
+  {
+    "trackId": "1o9hY6zlmRIFcBJgYNcoRQ",
+    "name": "I Can Do Anything",
+    "duration_ms": 157000,
+    "artist": "Okey Dokey Records Sample",
+    "artistId": "4j1O3ySpRRRspbjnD72geJ",
+    "albumId": "1MU9RP6z2CkD5xwA2dFjYM",
+    "release_date": "2009-05-06",
+    "popularity": 0
+  },
+  {
+    "trackId": "7uPmQttafLiJyju14JREY4",
+    "name": "Young Americans - 2016 Remaster",
+    "duration_ms": 313706,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "0lITGovWgaQGi42EfqcE5P",
+    "release_date": "1975-03-07",
+    "popularity": 63
+  },
+  {
+    "trackId": "5sRmrySDs6LREVMmj32QM0",
+    "name": "JH5GLIMPI",
+    "duration_ms": 123483,
+    "artist": "ODZ",
+    "artistId": "295SPRt7YTtIPdYoMkkF7K",
+    "albumId": "66cptU0dxttMk8llHfglpE",
+    "release_date": "2022-05-28",
+    "popularity": 50
+  },
+  {
+    "trackId": "4UDaVq5tm2mQ6tNgWydhUX",
+    "name": "Kom igen Lena!",
+    "duration_ms": 231320,
+    "artist": "Håkan Hellström",
+    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+    "albumId": "2x39gXdLwYnTxJyxExXpTj",
+    "release_date": "2002-10-28",
+    "popularity": 52
+  },
+  {
+    "trackId": "4t9EUCjCPbdfqtOH25k8AU",
+    "name": "Moviestar",
+    "duration_ms": 202280,
+    "artist": "Harpo",
+    "artistId": "6HsEXxUSqMXmIwbYVW6zdt",
+    "albumId": "72prIfhTsxkWeO1IlkLB5C",
+    "release_date": "1976",
+    "popularity": 58
+  },
+  {
+    "trackId": "4QVcxQbjmi7yMk12VBEfwS",
+    "name": "Black & Blue",
+    "duration_ms": 148500,
+    "artist": "HUGEL",
+    "artistId": "5PlfkPxwCpRRWQJBxCa0By",
+    "albumId": "11exKfNOPPwMwpeBgEVnZc",
+    "release_date": "2022-06-24",
+    "popularity": 28
+  },
+  {
+    "trackId": "4Bh3FuYbXgUVyUH1Ht8zif",
+    "name": "Over the Rainbow",
+    "duration_ms": 300893,
+    "artist": "Eva Cassidy",
+    "artistId": "6fNmOWQzfOVyHLQ2UqUQew",
+    "albumId": "3XqJP3zCQMeEdJrk7IGiTJ",
+    "release_date": "2018-03-02",
+    "popularity": 49
+  },
+  {
+    "trackId": "1xNRhlH8YXnDieXDG7iOvN",
+    "name": "Fredrik Åkares morgonpsalm",
+    "duration_ms": 176893,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "5UxihEHPAZYikGjOR2QRrh",
+    "release_date": "1978-01-01",
+    "popularity": 17
+  }
+]

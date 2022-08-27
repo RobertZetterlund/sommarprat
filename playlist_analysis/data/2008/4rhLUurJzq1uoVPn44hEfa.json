@@ -1,1 +1,122 @@
-[{"trackId":"3aVMTaruI0kAZNN1k90ZOM","name":"Apri la bocca - E fai fuoco","duration_ms":213706,"artist":"Fiorella Mannoia","artistId":"5VxhGHbcuvqTLRUWzBUN8L","albumId":"5xPs7TY9nN2bJOHGKQL5TK","release_date":"1998","popularity":4},{"trackId":"1ZK8WJqkD1XhEYI1AlkMHG","name":"La mer","duration_ms":201840,"artist":"Charles Trenet","artistId":"4a16JEaHldo5vZuRojtGTZ","albumId":"2BgO56jZnE4xbfvlZOjK0L","release_date":"1992","popularity":54},{"trackId":"0TgcNqPYpw6jcX6YOmRm2W","name":"Una giornata al mare","duration_ms":216573,"artist":"Paolo Conte","artistId":"7bAIYB0KGbYXlGbIjyFAcI","albumId":"4BEkewfUXzpP6TCH5n1ZwP","release_date":"1974-01-16","popularity":34},{"trackId":"5DDk55ahAYeNCUHigddaYi","name":"Ett stilla regn","duration_ms":208146,"artist":"Ted Gärdestad","artistId":"6zpub6jbY6CdrcqQsDq8P4","albumId":"3cT50PQXXybChUGP6TDrlr","release_date":"1972-01-01","popularity":35},{"trackId":"2Dba7y4iRqKnwtkNPRxZQv","name":"All I Want - Live","duration_ms":226403,"artist":"Rufus Wainwright","artistId":"2PfBzriIMRsCXPDtSy9vg8","albumId":"1YTSVDA02Rm7YKZkxQrQYY","release_date":"2019-03-08","popularity":26},{"trackId":"4hXZFdsKBKMQFHiESOIcgO","name":"For Today I Am A Boy","duration_ms":156173,"artist":"Antony and the Johnsons","artistId":"4fxp616ALtFWnXfwxnjLzW","albumId":"24Xm5zS2KvwojChzxLGdn9","release_date":"2005-02-07","popularity":32},{"trackId":"7tRQlhcFzHyGmhKeruPE4S","name":"Relationsteorin","duration_ms":214160,"artist":"Melinda Wrede","artistId":"76PMFYSJy7zJcq2LAvgtAa","albumId":"2JEZeJFL8Cn8EpjflFUEwH","release_date":"2001-03-15","popularity":21},{"trackId":"4IRHwIZHzlHT1FQpRa5RdE","name":"Goodbye Yellow Brick Road - Remastered 2014","duration_ms":192826,"artist":"Elton John","artistId":"3PhoLpVuITZKcymswpck5b","albumId":"5WupqgR68HfuHt3BMJtgun","release_date":"1973-10-05","popularity":73},{"trackId":"2Ms2q3vxknl3tj8Y4ZyVEE","name":"L'Elisir D'Amore","duration_ms":296001,"artist":"Giuseppe Verdi","artistId":"1JOQXgYdQV2yfrhewqx96o","albumId":"3AAZVLhSCoz6eHMbKmyHC6","release_date":"2000-01-01","popularity":0},{"trackId":"01gMw6DbUQ6UHhohpWeJlg","name":"Det här är ditt land (This Land Is Your Land)","duration_ms":268866,"artist":"Mikael Wiehe","artistId":"3VOOmK7ZqJNgOPN1hopJuL","albumId":"4yrClOx6PDTDFH6sCK1Pwx","release_date":"2000","popularity":36},{"trackId":"6O0NefwIzq9aF9Xnjr21EU","name":"Han tuggar kex - Akustisk","duration_ms":222040,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"64o8Xiysec8ro1PqcgYWuh","release_date":"2005-03-01","popularity":19},{"trackId":"4rr0gWiMrF4sOIefs3IEvZ","name":"A Little Less Conversation - JXL Radio Edit Remix","duration_ms":211506,"artist":"Elvis Presley","artistId":"43ZHCT0cAZBISjO8DG9PnE","albumId":"3nZRriUOOM8Gvv3ox8ybn1","release_date":"2002-08-01","popularity":67}]
+[
+  {
+    "trackId": "3aVMTaruI0kAZNN1k90ZOM",
+    "name": "Apri la bocca - E fai fuoco",
+    "duration_ms": 213706,
+    "artist": "Fiorella Mannoia",
+    "artistId": "5VxhGHbcuvqTLRUWzBUN8L",
+    "albumId": "5xPs7TY9nN2bJOHGKQL5TK",
+    "release_date": "1998",
+    "popularity": 4
+  },
+  {
+    "trackId": "1ZK8WJqkD1XhEYI1AlkMHG",
+    "name": "La mer",
+    "duration_ms": 201840,
+    "artist": "Charles Trenet",
+    "artistId": "4a16JEaHldo5vZuRojtGTZ",
+    "albumId": "2BgO56jZnE4xbfvlZOjK0L",
+    "release_date": "1992",
+    "popularity": 54
+  },
+  {
+    "trackId": "0TgcNqPYpw6jcX6YOmRm2W",
+    "name": "Una giornata al mare",
+    "duration_ms": 216573,
+    "artist": "Paolo Conte",
+    "artistId": "7bAIYB0KGbYXlGbIjyFAcI",
+    "albumId": "4BEkewfUXzpP6TCH5n1ZwP",
+    "release_date": "1974-01-16",
+    "popularity": 34
+  },
+  {
+    "trackId": "5DDk55ahAYeNCUHigddaYi",
+    "name": "Ett stilla regn",
+    "duration_ms": 208146,
+    "artist": "Ted Gärdestad",
+    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
+    "albumId": "3cT50PQXXybChUGP6TDrlr",
+    "release_date": "1972-01-01",
+    "popularity": 35
+  },
+  {
+    "trackId": "2Dba7y4iRqKnwtkNPRxZQv",
+    "name": "All I Want - Live",
+    "duration_ms": 226403,
+    "artist": "Rufus Wainwright",
+    "artistId": "2PfBzriIMRsCXPDtSy9vg8",
+    "albumId": "1YTSVDA02Rm7YKZkxQrQYY",
+    "release_date": "2019-03-08",
+    "popularity": 26
+  },
+  {
+    "trackId": "4hXZFdsKBKMQFHiESOIcgO",
+    "name": "For Today I Am A Boy",
+    "duration_ms": 156173,
+    "artist": "Antony and the Johnsons",
+    "artistId": "4fxp616ALtFWnXfwxnjLzW",
+    "albumId": "24Xm5zS2KvwojChzxLGdn9",
+    "release_date": "2005-02-07",
+    "popularity": 32
+  },
+  {
+    "trackId": "7tRQlhcFzHyGmhKeruPE4S",
+    "name": "Relationsteorin",
+    "duration_ms": 214160,
+    "artist": "Melinda Wrede",
+    "artistId": "76PMFYSJy7zJcq2LAvgtAa",
+    "albumId": "2JEZeJFL8Cn8EpjflFUEwH",
+    "release_date": "2001-03-15",
+    "popularity": 21
+  },
+  {
+    "trackId": "4IRHwIZHzlHT1FQpRa5RdE",
+    "name": "Goodbye Yellow Brick Road - Remastered 2014",
+    "duration_ms": 192826,
+    "artist": "Elton John",
+    "artistId": "3PhoLpVuITZKcymswpck5b",
+    "albumId": "5WupqgR68HfuHt3BMJtgun",
+    "release_date": "1973-10-05",
+    "popularity": 73
+  },
+  {
+    "trackId": "2Ms2q3vxknl3tj8Y4ZyVEE",
+    "name": "L'Elisir D'Amore",
+    "duration_ms": 296001,
+    "artist": "Giuseppe Verdi",
+    "artistId": "1JOQXgYdQV2yfrhewqx96o",
+    "albumId": "3AAZVLhSCoz6eHMbKmyHC6",
+    "release_date": "2000-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "01gMw6DbUQ6UHhohpWeJlg",
+    "name": "Det här är ditt land (This Land Is Your Land)",
+    "duration_ms": 268866,
+    "artist": "Mikael Wiehe",
+    "artistId": "3VOOmK7ZqJNgOPN1hopJuL",
+    "albumId": "4yrClOx6PDTDFH6sCK1Pwx",
+    "release_date": "2000",
+    "popularity": 36
+  },
+  {
+    "trackId": "6O0NefwIzq9aF9Xnjr21EU",
+    "name": "Han tuggar kex - Akustisk",
+    "duration_ms": 222040,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "64o8Xiysec8ro1PqcgYWuh",
+    "release_date": "2005-03-01",
+    "popularity": 19
+  },
+  {
+    "trackId": "4rr0gWiMrF4sOIefs3IEvZ",
+    "name": "A Little Less Conversation - JXL Radio Edit Remix",
+    "duration_ms": 211506,
+    "artist": "Elvis Presley",
+    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
+    "albumId": "3nZRriUOOM8Gvv3ox8ybn1",
+    "release_date": "2002-08-01",
+    "popularity": 67
+  }
+]

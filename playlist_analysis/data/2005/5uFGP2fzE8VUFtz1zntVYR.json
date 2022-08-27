@@ -1,1 +1,152 @@
-[{"trackId":"3lh3iiiJeiBXHSZw6u0kh6","name":"Into the Mystic - 2013 Remaster","duration_ms":205613,"artist":"Van Morrison","artistId":"44NX2ffIYHr6D4n7RaZF7A","albumId":"5PfnCqRbdfIDMb1x3MPQam","release_date":"1970-02","popularity":72},{"trackId":"5F4oUpFygCzFjCuujPLqKk","name":"What Can I Say After I Say I'm Sorry","duration_ms":123506,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"47nQ3PCd0XrIHzFIaamtEi","release_date":"1996-05-28","popularity":21},{"trackId":"1tsOB58QHINgc2FEJylsLP","name":"Foxey Lady","duration_ms":198293,"artist":"Jimi Hendrix","artistId":"776Uo845nYHJpNaStv1Ds4","albumId":"2vfiwvlxOBNBohRXfvlMtY","release_date":"1997-09-16","popularity":45},{"trackId":"4u9f8hqstB7iITDJNzKhQx","name":"My Generation - Stereo Version","duration_ms":198706,"artist":"The Who","artistId":"67ea9eGLXYMsO2eYQRui3w","albumId":"6Oc6Ok1Oawu8lRkjmD4mXy","release_date":"1965-12-03","popularity":64},{"trackId":"5NoJxnEX5hLJ35xTUnQUxA","name":"A Good Horse","duration_ms":197661,"artist":"The Cardigans","artistId":"1tqZaCwM57UFKjWoYwMLrw","albumId":"5D2ioAPlvrY2OL5sCPc6wo","release_date":"2003-01-01","popularity":27},{"trackId":"0kKQreifydSOeqZzHkNW67","name":"The Thrill Is Gone - Vocal Version","duration_ms":171466,"artist":"Chet Baker","artistId":"3rxeQlsv0Sc2nyYaZ5W71T","albumId":"5JJ779nrbHx0KB2lBrMMa4","release_date":"1956","popularity":44},{"trackId":"0wCrg1LhgPcGMw51qqpI6k","name":"Constant Craving","duration_ms":277240,"artist":"k.d. lang","artistId":"6W1BHDF0T4a4KYcSwzD586","albumId":"22TXLyA5GOT19O9hIdAHLE","release_date":"2010","popularity":56},{"trackId":"6QyQmdvQ1ywNccYa0pwLNQ","name":"The Tracks Of My Tears","duration_ms":174360,"artist":"Smokey Robinson & The Miracles","artistId":"6TKOZZDd5uV5KnyC5G4MUt","albumId":"2NT1Pc0MXlXORHLBkHyKQW","release_date":"1965-11-01","popularity":62},{"trackId":"0tr63wKZykrUFtgUr5pqXQ","name":"Vivimi","duration_ms":231373,"artist":"Laura Pausini","artistId":"2e4nwiX8ZCU09LGLOpeqTH","albumId":"5ypbUJDb4JnQJGHArOJmH7","release_date":"2005-02-09","popularity":43},{"trackId":"339sqQQftdQW8wKWbfq0Dj","name":"Sång för april","duration_ms":242013,"artist":"Peter LeMarc","artistId":"4VKbol7eCoEJUemlKvE3Ve","albumId":"3U0Px4wmpYEYMSxMC4c4SB","release_date":"1988-08-03","popularity":31},{"trackId":"5RBQdZUyqi91YxY8OIDWad","name":"Here We Go","duration_ms":238040,"artist":"Stakka Bo","artistId":"4c7QKz3IrcyJz2HIphEVaC","albumId":"5OoVwWXXRocPqWpd1Tt5kr","release_date":"1993-01-01","popularity":43},{"trackId":"3NFScsiDPfCzKgQQUL0674","name":"Ferry Cross the Mersey - Stereo; 1997 Remaster","duration_ms":143866,"artist":"Gerry & The Pacemakers","artistId":"3UmBeGyNwr4iDWi1vTxWi8","albumId":"51mN3VJrZjN6h30AuqAqGD","release_date":"1965-02-01","popularity":55},{"trackId":"3jaBmLw2dmVdCENY719KdY","name":"A Case of You","duration_ms":311226,"artist":"k.d. lang","artistId":"6W1BHDF0T4a4KYcSwzD586","albumId":"7aTcKEqDqi1NoR2RggubbX","release_date":"2004-07-27","popularity":34},{"trackId":"5DbaLLjxAmlGfgyfroxwOq","name":"Message of Love - 2018 Remaster","duration_ms":205158,"artist":"Pretenders","artistId":"0GByy3DcfbQwDvXGCWmzv9","albumId":"6eTHa4zNxrrykO2J3jFxpB","release_date":"1981-01-11","popularity":35},{"trackId":"6xTUi8kSEb3nUql7AuPqAe","name":"Som ett äventyr","duration_ms":257493,"artist":"Eva Dahlgren","artistId":"7IK2JpZglDYTrso4ILEKE0","albumId":"1LhcbrKsXX6yHaUdLEcdVl","release_date":"2005-10-07","popularity":15}]
+[
+  {
+    "trackId": "3lh3iiiJeiBXHSZw6u0kh6",
+    "name": "Into the Mystic - 2013 Remaster",
+    "duration_ms": 205613,
+    "artist": "Van Morrison",
+    "artistId": "44NX2ffIYHr6D4n7RaZF7A",
+    "albumId": "5PfnCqRbdfIDMb1x3MPQam",
+    "release_date": "1970-02",
+    "popularity": 72
+  },
+  {
+    "trackId": "5F4oUpFygCzFjCuujPLqKk",
+    "name": "What Can I Say After I Say I'm Sorry",
+    "duration_ms": 123506,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "47nQ3PCd0XrIHzFIaamtEi",
+    "release_date": "1996-05-28",
+    "popularity": 21
+  },
+  {
+    "trackId": "1tsOB58QHINgc2FEJylsLP",
+    "name": "Foxey Lady",
+    "duration_ms": 198293,
+    "artist": "Jimi Hendrix",
+    "artistId": "776Uo845nYHJpNaStv1Ds4",
+    "albumId": "2vfiwvlxOBNBohRXfvlMtY",
+    "release_date": "1997-09-16",
+    "popularity": 45
+  },
+  {
+    "trackId": "4u9f8hqstB7iITDJNzKhQx",
+    "name": "My Generation - Stereo Version",
+    "duration_ms": 198706,
+    "artist": "The Who",
+    "artistId": "67ea9eGLXYMsO2eYQRui3w",
+    "albumId": "6Oc6Ok1Oawu8lRkjmD4mXy",
+    "release_date": "1965-12-03",
+    "popularity": 64
+  },
+  {
+    "trackId": "5NoJxnEX5hLJ35xTUnQUxA",
+    "name": "A Good Horse",
+    "duration_ms": 197661,
+    "artist": "The Cardigans",
+    "artistId": "1tqZaCwM57UFKjWoYwMLrw",
+    "albumId": "5D2ioAPlvrY2OL5sCPc6wo",
+    "release_date": "2003-01-01",
+    "popularity": 27
+  },
+  {
+    "trackId": "0kKQreifydSOeqZzHkNW67",
+    "name": "The Thrill Is Gone - Vocal Version",
+    "duration_ms": 171466,
+    "artist": "Chet Baker",
+    "artistId": "3rxeQlsv0Sc2nyYaZ5W71T",
+    "albumId": "5JJ779nrbHx0KB2lBrMMa4",
+    "release_date": "1956",
+    "popularity": 44
+  },
+  {
+    "trackId": "0wCrg1LhgPcGMw51qqpI6k",
+    "name": "Constant Craving",
+    "duration_ms": 277240,
+    "artist": "k.d. lang",
+    "artistId": "6W1BHDF0T4a4KYcSwzD586",
+    "albumId": "22TXLyA5GOT19O9hIdAHLE",
+    "release_date": "2010",
+    "popularity": 56
+  },
+  {
+    "trackId": "6QyQmdvQ1ywNccYa0pwLNQ",
+    "name": "The Tracks Of My Tears",
+    "duration_ms": 174360,
+    "artist": "Smokey Robinson & The Miracles",
+    "artistId": "6TKOZZDd5uV5KnyC5G4MUt",
+    "albumId": "2NT1Pc0MXlXORHLBkHyKQW",
+    "release_date": "1965-11-01",
+    "popularity": 62
+  },
+  {
+    "trackId": "0tr63wKZykrUFtgUr5pqXQ",
+    "name": "Vivimi",
+    "duration_ms": 231373,
+    "artist": "Laura Pausini",
+    "artistId": "2e4nwiX8ZCU09LGLOpeqTH",
+    "albumId": "5ypbUJDb4JnQJGHArOJmH7",
+    "release_date": "2005-02-09",
+    "popularity": 43
+  },
+  {
+    "trackId": "339sqQQftdQW8wKWbfq0Dj",
+    "name": "Sång för april",
+    "duration_ms": 242013,
+    "artist": "Peter LeMarc",
+    "artistId": "4VKbol7eCoEJUemlKvE3Ve",
+    "albumId": "3U0Px4wmpYEYMSxMC4c4SB",
+    "release_date": "1988-08-03",
+    "popularity": 31
+  },
+  {
+    "trackId": "5RBQdZUyqi91YxY8OIDWad",
+    "name": "Here We Go",
+    "duration_ms": 238040,
+    "artist": "Stakka Bo",
+    "artistId": "4c7QKz3IrcyJz2HIphEVaC",
+    "albumId": "5OoVwWXXRocPqWpd1Tt5kr",
+    "release_date": "1993-01-01",
+    "popularity": 43
+  },
+  {
+    "trackId": "3NFScsiDPfCzKgQQUL0674",
+    "name": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
+    "duration_ms": 143866,
+    "artist": "Gerry & The Pacemakers",
+    "artistId": "3UmBeGyNwr4iDWi1vTxWi8",
+    "albumId": "51mN3VJrZjN6h30AuqAqGD",
+    "release_date": "1965-02-01",
+    "popularity": 55
+  },
+  {
+    "trackId": "3jaBmLw2dmVdCENY719KdY",
+    "name": "A Case of You",
+    "duration_ms": 311226,
+    "artist": "k.d. lang",
+    "artistId": "6W1BHDF0T4a4KYcSwzD586",
+    "albumId": "7aTcKEqDqi1NoR2RggubbX",
+    "release_date": "2004-07-27",
+    "popularity": 34
+  },
+  {
+    "trackId": "5DbaLLjxAmlGfgyfroxwOq",
+    "name": "Message of Love - 2018 Remaster",
+    "duration_ms": 205158,
+    "artist": "Pretenders",
+    "artistId": "0GByy3DcfbQwDvXGCWmzv9",
+    "albumId": "6eTHa4zNxrrykO2J3jFxpB",
+    "release_date": "1981-01-11",
+    "popularity": 35
+  },
+  {
+    "trackId": "6xTUi8kSEb3nUql7AuPqAe",
+    "name": "Som ett äventyr",
+    "duration_ms": 257493,
+    "artist": "Eva Dahlgren",
+    "artistId": "7IK2JpZglDYTrso4ILEKE0",
+    "albumId": "1LhcbrKsXX6yHaUdLEcdVl",
+    "release_date": "2005-10-07",
+    "popularity": 15
+  }
+]

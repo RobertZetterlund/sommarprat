@@ -1,1 +1,132 @@
-[{"trackId":"6jfutfgA8uE5SHdoPrCclV","name":"Stumble And Fade Away","duration_ms":216560,"artist":"Jill Johnson","artistId":"2aaGbpl5Y2ykZsNFZM6ofw","albumId":"0aFuYJqPxY1S6Ve52dfBrH","release_date":"2010-01-01","popularity":4},{"trackId":"32Au6k06m9uiHYgs44kLAO","name":"Hold on to the Light","duration_ms":253093,"artist":"Samuel Ljungblahd","artistId":"7cI6JpPjdbp5dB1cGTxp94","albumId":"5nqY88EU28yQn4G6hPsZcU","release_date":"2009-11-08","popularity":10},{"trackId":"41q8ZiB3LZl4HRmmzUTIo4","name":"We Can Work It Out","duration_ms":199506,"artist":"Stevie Wonder","artistId":"7guDJrEfX3qb6FEbdPA5qi","albumId":"54ootLtDyMZFr9obtWQvvO","release_date":"1970-08-07","popularity":61},{"trackId":"7775LOkL1K6Yxx7VPhjVTt","name":"Har du kvar din röda cykel","duration_ms":301160,"artist":"Claes Janson","artistId":"0E2Jf1UHMqdQDdH12mc712","albumId":"20T05r5VHVEQEDUvqmvzeS","release_date":"1989-01-01","popularity":17},{"trackId":"5bjcEihiB3Bx4ZSLrfQPwX","name":"Lugna vatten","duration_ms":209000,"artist":"Frida","artistId":"5uOVb4hLSQVbHbVVt27tV1","albumId":"4x4YRr7gpQY3calGqTsV8Z","release_date":"1996-09-20","popularity":10},{"trackId":"3dubLey4QOmUjJCyiGPEMo","name":"Confusion","duration_ms":221426,"artist":"Electric Light Orchestra","artistId":"7jefIIksOi1EazgRTfW2Pk","albumId":"1CvVSn2MtKDBR6aWMkNkem","release_date":"1979-05-31","popularity":52},{"trackId":"7hxZF4jETnE5Q75rKQnMjE","name":"I Walk the Line","duration_ms":176533,"artist":"Johnny Cash","artistId":"6kACVPfCOnqzgfEF5ryl0x","albumId":"2k8N8D3YBi9Xc9iQEmTARx","release_date":"1970-11-11","popularity":65},{"trackId":"5ecuFgMIlbNUU96cW6ejEj","name":"Skärgårdsbrevet","duration_ms":193200,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"5WeeZjSnR99wpEmet591l6","release_date":"2014-01-01","popularity":12},{"trackId":"1KsI8NEeAna8ZIdojI3FiT","name":"Hungry Heart","duration_ms":199453,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"6YNIEeDWqC09YIWzhoSVLg","release_date":"1980-10-17","popularity":68},{"trackId":"51NCq59dLCBk7zJx852JON","name":"Himlen är oskyldigt blå","duration_ms":266013,"artist":"Jessica Andersson","artistId":"0e52F3Q1maTGPgsEa1hDJM","albumId":"3IAfJk3CXvw8I3w6iqPunv","release_date":"2018-03-29","popularity":38},{"trackId":"6F00HXJmY7rW1WcaIDW6Zt","name":"Modern Times: Smile","duration_ms":200626,"artist":"Lina Nyberg","artistId":"51lkmSxQ5rpUuRSgoAzWcv","albumId":"7aEKmmCNMQ7Mj8la6hDW6I","release_date":"2000-01-01","popularity":0},{"trackId":"5ioTKrcRnoZhsnyvdujSYd","name":"A Brand New Day","duration_ms":224946,"artist":"Lisa Miskovsky","artistId":"5J0dXmqEYctfFsmcakqZFH","albumId":"1V6LtwV2IykYNHOwVsELKz","release_date":"2003-01-01","popularity":34},{"trackId":"6Omr4zDMg6XokKVMtxStmw","name":"Probability Cloud","duration_ms":285960,"artist":"Bill Frisell","artistId":"3SONlwqLIP2GtaMh9pLYe5","albumId":"74s1xuJFJGvRCPjlh2d2oE","release_date":"2008-03-15","popularity":9}]
+[
+  {
+    "trackId": "6jfutfgA8uE5SHdoPrCclV",
+    "name": "Stumble And Fade Away",
+    "duration_ms": 216560,
+    "artist": "Jill Johnson",
+    "artistId": "2aaGbpl5Y2ykZsNFZM6ofw",
+    "albumId": "0aFuYJqPxY1S6Ve52dfBrH",
+    "release_date": "2010-01-01",
+    "popularity": 4
+  },
+  {
+    "trackId": "32Au6k06m9uiHYgs44kLAO",
+    "name": "Hold on to the Light",
+    "duration_ms": 253093,
+    "artist": "Samuel Ljungblahd",
+    "artistId": "7cI6JpPjdbp5dB1cGTxp94",
+    "albumId": "5nqY88EU28yQn4G6hPsZcU",
+    "release_date": "2009-11-08",
+    "popularity": 10
+  },
+  {
+    "trackId": "41q8ZiB3LZl4HRmmzUTIo4",
+    "name": "We Can Work It Out",
+    "duration_ms": 199506,
+    "artist": "Stevie Wonder",
+    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
+    "albumId": "54ootLtDyMZFr9obtWQvvO",
+    "release_date": "1970-08-07",
+    "popularity": 61
+  },
+  {
+    "trackId": "7775LOkL1K6Yxx7VPhjVTt",
+    "name": "Har du kvar din röda cykel",
+    "duration_ms": 301160,
+    "artist": "Claes Janson",
+    "artistId": "0E2Jf1UHMqdQDdH12mc712",
+    "albumId": "20T05r5VHVEQEDUvqmvzeS",
+    "release_date": "1989-01-01",
+    "popularity": 17
+  },
+  {
+    "trackId": "5bjcEihiB3Bx4ZSLrfQPwX",
+    "name": "Lugna vatten",
+    "duration_ms": 209000,
+    "artist": "Frida",
+    "artistId": "5uOVb4hLSQVbHbVVt27tV1",
+    "albumId": "4x4YRr7gpQY3calGqTsV8Z",
+    "release_date": "1996-09-20",
+    "popularity": 10
+  },
+  {
+    "trackId": "3dubLey4QOmUjJCyiGPEMo",
+    "name": "Confusion",
+    "duration_ms": 221426,
+    "artist": "Electric Light Orchestra",
+    "artistId": "7jefIIksOi1EazgRTfW2Pk",
+    "albumId": "1CvVSn2MtKDBR6aWMkNkem",
+    "release_date": "1979-05-31",
+    "popularity": 52
+  },
+  {
+    "trackId": "7hxZF4jETnE5Q75rKQnMjE",
+    "name": "I Walk the Line",
+    "duration_ms": 176533,
+    "artist": "Johnny Cash",
+    "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+    "albumId": "2k8N8D3YBi9Xc9iQEmTARx",
+    "release_date": "1970-11-11",
+    "popularity": 65
+  },
+  {
+    "trackId": "5ecuFgMIlbNUU96cW6ejEj",
+    "name": "Skärgårdsbrevet",
+    "duration_ms": 193200,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "5WeeZjSnR99wpEmet591l6",
+    "release_date": "2014-01-01",
+    "popularity": 12
+  },
+  {
+    "trackId": "1KsI8NEeAna8ZIdojI3FiT",
+    "name": "Hungry Heart",
+    "duration_ms": 199453,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "6YNIEeDWqC09YIWzhoSVLg",
+    "release_date": "1980-10-17",
+    "popularity": 68
+  },
+  {
+    "trackId": "51NCq59dLCBk7zJx852JON",
+    "name": "Himlen är oskyldigt blå",
+    "duration_ms": 266013,
+    "artist": "Jessica Andersson",
+    "artistId": "0e52F3Q1maTGPgsEa1hDJM",
+    "albumId": "3IAfJk3CXvw8I3w6iqPunv",
+    "release_date": "2018-03-29",
+    "popularity": 38
+  },
+  {
+    "trackId": "6F00HXJmY7rW1WcaIDW6Zt",
+    "name": "Modern Times: Smile",
+    "duration_ms": 200626,
+    "artist": "Lina Nyberg",
+    "artistId": "51lkmSxQ5rpUuRSgoAzWcv",
+    "albumId": "7aEKmmCNMQ7Mj8la6hDW6I",
+    "release_date": "2000-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "5ioTKrcRnoZhsnyvdujSYd",
+    "name": "A Brand New Day",
+    "duration_ms": 224946,
+    "artist": "Lisa Miskovsky",
+    "artistId": "5J0dXmqEYctfFsmcakqZFH",
+    "albumId": "1V6LtwV2IykYNHOwVsELKz",
+    "release_date": "2003-01-01",
+    "popularity": 34
+  },
+  {
+    "trackId": "6Omr4zDMg6XokKVMtxStmw",
+    "name": "Probability Cloud",
+    "duration_ms": 285960,
+    "artist": "Bill Frisell",
+    "artistId": "3SONlwqLIP2GtaMh9pLYe5",
+    "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+    "release_date": "2008-03-15",
+    "popularity": 9
+  }
+]

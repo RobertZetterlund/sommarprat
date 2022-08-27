@@ -1,1 +1,132 @@
-[{"trackId":"72PqmnVj86bfTnkFiQ9Mx9","name":"Where We Used to Live","duration_ms":267173,"artist":"Esbjörn Svensson Trio","artistId":"3HJzLaMbS0jMabxS3wttGk","albumId":"1FXFyWXLIdOVgjR0MaRa9y","release_date":"2006-09-22","popularity":47},{"trackId":"4oQudY3zt9L8ASc3tCSdZD","name":"Pastoralsvit (Pastorale Suite), Op. 19: II. Romance: Adagio","duration_ms":249120,"artist":"Stockholm Sinfonietta","artistId":"6HnuLWTAgWKIpVHbwLJO1U","albumId":"2ddMn1M6XqQVKnnZywD7zB","release_date":"1988-01-31","popularity":0},{"trackId":"1CRxANVlNyN2IYjarx96gU","name":"Visa från Utanmyra","duration_ms":273800,"artist":"Jan Johansson","artistId":"6DEfX2tZzx9iANmaErvLGf","albumId":"6JAj80R40giQEAg3Le4CPE","release_date":"1964","popularity":50},{"trackId":"5bNoizZe6YhwPXGt0mu7fX","name":"Blackbird - Live Version","duration_ms":187733,"artist":"Bobby McFerrin","artistId":"2FjkZT851ez950cyPjeYid","albumId":"4gWINZwr8ztgqf4aL90ssB","release_date":"1984-01-01","popularity":22},{"trackId":"6J7BvGTh7AVL2fo10YCoc1","name":"New York, New York","duration_ms":197253,"artist":"Liza Minnelli","artistId":"3lQpSzdPxoF1FYk7ilbe37","albumId":"4wuoXgv5w0rp5QAMgwR5g3","release_date":"2009-01-01","popularity":43},{"trackId":"60Fam79B7wnrvenkboJsKu","name":"The Threepenny Opera: Seeräuberjenny (Pirate Jenny)","duration_ms":239666,"artist":"Kurt Weill","artistId":"69a1b61a56mJlx8iAUMBsY","albumId":"1TPGjEq37onTTrGo5EtGCM","release_date":"1955","popularity":7},{"trackId":"4vTT30mAGogt38JwZc0oyW","name":"Money Money","duration_ms":182000,"artist":"Joel Grey","artistId":"64WqSGPXrSf1YbxoimVNbd","albumId":"28qbOp4dEh18N5u6FInyOO","release_date":"1972-02-13","popularity":40},{"trackId":"0ohDnK4Zyu6zOuXmTpDs6a","name":"Ovan molnen (Bröllopsvals)","duration_ms":171402,"artist":"Anna-Klara Folin","artistId":"4QZ0KuxxsFc9sJlkjZzAoK","albumId":"64QR6tKFsTE8eXBjmGUagg","release_date":"2018-07-11","popularity":23},{"trackId":"21JUNIvU6Zay38fPwGQrGT","name":"The Times They Are a Changing","duration_ms":180584,"artist":"Inspired Skylight Orchestra St. Petersburg","artistId":"4vzBZXvOPc16dFdXgdJEHR","albumId":"785DFZAtIHP9RP94UZUn8w","release_date":"2010-01-01","popularity":0},{"trackId":"3K5YOXHQ18IJAEy8XBhZ8Z","name":"Familjen Madrigal","duration_ms":257213,"artist":"Sandra Kassman","artistId":"7aW31nDOJIcYe95ZM8udyD","albumId":"3t8EdBx8BKpaHv3FMGgM3C","release_date":"2021-11-26","popularity":43},{"trackId":"6FYwnJ9Qx1EzSXWDGTkueW","name":"Sous le ciel de Paris","duration_ms":213640,"artist":"Édith Piaf","artistId":"1WPcVNert9hn7mHsPKDn7j","albumId":"2k3nz0I7mJzegtkooii4za","release_date":"1987-10-31","popularity":49},{"trackId":"5By7Pzgl6TMuVJG168VWzS","name":"Michelle - Remastered 2009","duration_ms":162373,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"50o7kf2wLwVmOTVYJOTplm","release_date":"1965-12-03","popularity":65},{"trackId":"3apjDg8RP6wLBSSuEcgreX","name":"Die Zauberflöte, K.620 / Act 2: \"Der Hölle Rache kocht in meinem Herzen\"","duration_ms":174120,"artist":"Wolfgang Amadeus Mozart","artistId":"4NJhFmfw43RLBLjQvxDuRS","albumId":"2kHbURcUEHZ0DNetSIN1Zo","release_date":"2005-01-24","popularity":44}]
+[
+  {
+    "trackId": "72PqmnVj86bfTnkFiQ9Mx9",
+    "name": "Where We Used to Live",
+    "duration_ms": 267173,
+    "artist": "Esbjörn Svensson Trio",
+    "artistId": "3HJzLaMbS0jMabxS3wttGk",
+    "albumId": "1FXFyWXLIdOVgjR0MaRa9y",
+    "release_date": "2006-09-22",
+    "popularity": 47
+  },
+  {
+    "trackId": "4oQudY3zt9L8ASc3tCSdZD",
+    "name": "Pastoralsvit (Pastorale Suite), Op. 19: II. Romance: Adagio",
+    "duration_ms": 249120,
+    "artist": "Stockholm Sinfonietta",
+    "artistId": "6HnuLWTAgWKIpVHbwLJO1U",
+    "albumId": "2ddMn1M6XqQVKnnZywD7zB",
+    "release_date": "1988-01-31",
+    "popularity": 0
+  },
+  {
+    "trackId": "1CRxANVlNyN2IYjarx96gU",
+    "name": "Visa från Utanmyra",
+    "duration_ms": 273800,
+    "artist": "Jan Johansson",
+    "artistId": "6DEfX2tZzx9iANmaErvLGf",
+    "albumId": "6JAj80R40giQEAg3Le4CPE",
+    "release_date": "1964",
+    "popularity": 50
+  },
+  {
+    "trackId": "5bNoizZe6YhwPXGt0mu7fX",
+    "name": "Blackbird - Live Version",
+    "duration_ms": 187733,
+    "artist": "Bobby McFerrin",
+    "artistId": "2FjkZT851ez950cyPjeYid",
+    "albumId": "4gWINZwr8ztgqf4aL90ssB",
+    "release_date": "1984-01-01",
+    "popularity": 22
+  },
+  {
+    "trackId": "6J7BvGTh7AVL2fo10YCoc1",
+    "name": "New York, New York",
+    "duration_ms": 197253,
+    "artist": "Liza Minnelli",
+    "artistId": "3lQpSzdPxoF1FYk7ilbe37",
+    "albumId": "4wuoXgv5w0rp5QAMgwR5g3",
+    "release_date": "2009-01-01",
+    "popularity": 43
+  },
+  {
+    "trackId": "60Fam79B7wnrvenkboJsKu",
+    "name": "The Threepenny Opera: Seeräuberjenny (Pirate Jenny)",
+    "duration_ms": 239666,
+    "artist": "Kurt Weill",
+    "artistId": "69a1b61a56mJlx8iAUMBsY",
+    "albumId": "1TPGjEq37onTTrGo5EtGCM",
+    "release_date": "1955",
+    "popularity": 7
+  },
+  {
+    "trackId": "4vTT30mAGogt38JwZc0oyW",
+    "name": "Money Money",
+    "duration_ms": 182000,
+    "artist": "Joel Grey",
+    "artistId": "64WqSGPXrSf1YbxoimVNbd",
+    "albumId": "28qbOp4dEh18N5u6FInyOO",
+    "release_date": "1972-02-13",
+    "popularity": 40
+  },
+  {
+    "trackId": "0ohDnK4Zyu6zOuXmTpDs6a",
+    "name": "Ovan molnen (Bröllopsvals)",
+    "duration_ms": 171402,
+    "artist": "Anna-Klara Folin",
+    "artistId": "4QZ0KuxxsFc9sJlkjZzAoK",
+    "albumId": "64QR6tKFsTE8eXBjmGUagg",
+    "release_date": "2018-07-11",
+    "popularity": 23
+  },
+  {
+    "trackId": "21JUNIvU6Zay38fPwGQrGT",
+    "name": "The Times They Are a Changing",
+    "duration_ms": 180584,
+    "artist": "Inspired Skylight Orchestra St. Petersburg",
+    "artistId": "4vzBZXvOPc16dFdXgdJEHR",
+    "albumId": "785DFZAtIHP9RP94UZUn8w",
+    "release_date": "2010-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "3K5YOXHQ18IJAEy8XBhZ8Z",
+    "name": "Familjen Madrigal",
+    "duration_ms": 257213,
+    "artist": "Sandra Kassman",
+    "artistId": "7aW31nDOJIcYe95ZM8udyD",
+    "albumId": "3t8EdBx8BKpaHv3FMGgM3C",
+    "release_date": "2021-11-26",
+    "popularity": 43
+  },
+  {
+    "trackId": "6FYwnJ9Qx1EzSXWDGTkueW",
+    "name": "Sous le ciel de Paris",
+    "duration_ms": 213640,
+    "artist": "Édith Piaf",
+    "artistId": "1WPcVNert9hn7mHsPKDn7j",
+    "albumId": "2k3nz0I7mJzegtkooii4za",
+    "release_date": "1987-10-31",
+    "popularity": 49
+  },
+  {
+    "trackId": "5By7Pzgl6TMuVJG168VWzS",
+    "name": "Michelle - Remastered 2009",
+    "duration_ms": 162373,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "50o7kf2wLwVmOTVYJOTplm",
+    "release_date": "1965-12-03",
+    "popularity": 65
+  },
+  {
+    "trackId": "3apjDg8RP6wLBSSuEcgreX",
+    "name": "Die Zauberflöte, K.620 / Act 2: \"Der Hölle Rache kocht in meinem Herzen\"",
+    "duration_ms": 174120,
+    "artist": "Wolfgang Amadeus Mozart",
+    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
+    "albumId": "2kHbURcUEHZ0DNetSIN1Zo",
+    "release_date": "2005-01-24",
+    "popularity": 44
+  }
+]

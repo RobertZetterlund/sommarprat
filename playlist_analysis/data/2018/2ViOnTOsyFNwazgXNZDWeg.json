@@ -1,1 +1,132 @@
-[{"trackId":"4gTeTt1IuGrOLaJeRP5wUw","name":"Tro och tvivel","duration_ms":338640,"artist":"Håkan Hellström","artistId":"3H7Ez7cwaYw4L3ELy4v3Lc","albumId":"1TSO7M4RaU156GYLIKjkL1","release_date":"2008-03-26","popularity":49},{"trackId":"1uvB7ipgrTmit7ISDdXSEh","name":"Give Me Some Truth (In The Style Of 'John Lennon')","duration_ms":196326,"artist":"Hot Fox Karaoke","artistId":"2pL5iQhCN4RzlJ59kTtFjC","albumId":"7Dt4ILQcwci4mBmeN8OorD","release_date":"2010-06-03","popularity":0},{"trackId":"4ci93OEvYxTdp14Jxpbspz","name":"Vem kan man lita på?","duration_ms":226333,"artist":"Olle Ljungström","artistId":"6wjchRNcNNSn1wPIaIiRq8","albumId":"4dt35Sos1vH60UDdHYEmFF","release_date":"1995-03-08","popularity":9},{"trackId":"3eLZsE8bLki3oqbFiuWZ7V","name":"Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\"","duration_ms":170000,"artist":"Wolfgang Amadeus Mozart","artistId":"4NJhFmfw43RLBLjQvxDuRS","albumId":"42WHLzjH40QE12cTEuGGKb","release_date":"1991-01-01","popularity":40},{"trackId":"4yQw7FR9lcvL6RHtegbJBh","name":"Think","duration_ms":139733,"artist":"Aretha Franklin","artistId":"7nwUJBm0HE4ZxD3f5cy5ok","albumId":"55HZ2ectg1mMTEKDqIq3kC","release_date":"1968-06-14","popularity":65},{"trackId":"0hoC0zdVWa2zE3KX7XtwjD","name":"ABCs of New York","duration_ms":204528,"artist":"Princess Nokia","artistId":"6lay1nwbE6hTx1jivysUAL","albumId":"1esJd1JGPa7jDRAKrYs6ls","release_date":"2017-09-08","popularity":37},{"trackId":"45rFHp4Ltm3oWHSZaYZg8l","name":"Hemlängtan","duration_ms":223998,"artist":"Sofia Karlsson","artistId":"2tKGISNf0bei0IxfLQGMEt","albumId":"6mk76DWZYymSKqpQDwnqZY","release_date":"2007","popularity":10},{"trackId":"5JlqbEj7Bbh2RdZgcO5kJE","name":"One Day","duration_ms":207573,"artist":"Matisyahu","artistId":"5eyMzR1hYiEZtN2c9ly2kw","albumId":"6V4eAv3rPLeQhAO8RnOKFs","release_date":"2009-08-10","popularity":55},{"trackId":"2FrJeX0Nk0GFljqXzynoMB","name":"Vem ska trösta Knyttet, del 10","duration_ms":59653,"artist":"Tove Jansson","artistId":"0CXfq61wfiH7rvmJ7O0Ct4","albumId":"0HqhJUaE25mi39Jjgn2MQQ","release_date":"1984-03-01","popularity":16},{"trackId":"4TTV7EcfroSLWzXRY6gLv6","name":"Alexander Hamilton","duration_ms":236737,"artist":"Leslie Odom Jr.","artistId":"3cR4rhS2hBWqI7rJEBacvN","albumId":"1kCHru7uhxBUdzkm4gzRQc","release_date":"2015-09-25","popularity":69},{"trackId":"2DnJjbjNTV9Nd5NOa1KGba","name":"You're so Vain","duration_ms":258411,"artist":"Carly Simon","artistId":"4FtSnMlCVxCswABUmdhwpm","albumId":"79x0PRGIZv33znrCkPkCZ5","release_date":"1972","popularity":74},{"trackId":"0qxYx4F3vm1AOnfux6dDxP","name":"You Can Call Me Al","duration_ms":280000,"artist":"Paul Simon","artistId":"2CvCyf1gEVhI0mX6aFXmVI","albumId":"6WgGWYw6XXQyLTsWt7tXky","release_date":"1986-08-12","popularity":75},{"trackId":"6Omr4zDMg6XokKVMtxStmw","name":"Probability Cloud","duration_ms":285960,"artist":"Bill Frisell","artistId":"3SONlwqLIP2GtaMh9pLYe5","albumId":"74s1xuJFJGvRCPjlh2d2oE","release_date":"2008-03-15","popularity":9}]
+[
+  {
+    "trackId": "4gTeTt1IuGrOLaJeRP5wUw",
+    "name": "Tro och tvivel",
+    "duration_ms": 338640,
+    "artist": "Håkan Hellström",
+    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+    "albumId": "1TSO7M4RaU156GYLIKjkL1",
+    "release_date": "2008-03-26",
+    "popularity": 49
+  },
+  {
+    "trackId": "1uvB7ipgrTmit7ISDdXSEh",
+    "name": "Give Me Some Truth (In The Style Of 'John Lennon')",
+    "duration_ms": 196326,
+    "artist": "Hot Fox Karaoke",
+    "artistId": "2pL5iQhCN4RzlJ59kTtFjC",
+    "albumId": "7Dt4ILQcwci4mBmeN8OorD",
+    "release_date": "2010-06-03",
+    "popularity": 0
+  },
+  {
+    "trackId": "4ci93OEvYxTdp14Jxpbspz",
+    "name": "Vem kan man lita på?",
+    "duration_ms": 226333,
+    "artist": "Olle Ljungström",
+    "artistId": "6wjchRNcNNSn1wPIaIiRq8",
+    "albumId": "4dt35Sos1vH60UDdHYEmFF",
+    "release_date": "1995-03-08",
+    "popularity": 9
+  },
+  {
+    "trackId": "3eLZsE8bLki3oqbFiuWZ7V",
+    "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\"",
+    "duration_ms": 170000,
+    "artist": "Wolfgang Amadeus Mozart",
+    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
+    "albumId": "42WHLzjH40QE12cTEuGGKb",
+    "release_date": "1991-01-01",
+    "popularity": 40
+  },
+  {
+    "trackId": "4yQw7FR9lcvL6RHtegbJBh",
+    "name": "Think",
+    "duration_ms": 139733,
+    "artist": "Aretha Franklin",
+    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+    "release_date": "1968-06-14",
+    "popularity": 65
+  },
+  {
+    "trackId": "0hoC0zdVWa2zE3KX7XtwjD",
+    "name": "ABCs of New York",
+    "duration_ms": 204528,
+    "artist": "Princess Nokia",
+    "artistId": "6lay1nwbE6hTx1jivysUAL",
+    "albumId": "1esJd1JGPa7jDRAKrYs6ls",
+    "release_date": "2017-09-08",
+    "popularity": 37
+  },
+  {
+    "trackId": "45rFHp4Ltm3oWHSZaYZg8l",
+    "name": "Hemlängtan",
+    "duration_ms": 223998,
+    "artist": "Sofia Karlsson",
+    "artistId": "2tKGISNf0bei0IxfLQGMEt",
+    "albumId": "6mk76DWZYymSKqpQDwnqZY",
+    "release_date": "2007",
+    "popularity": 10
+  },
+  {
+    "trackId": "5JlqbEj7Bbh2RdZgcO5kJE",
+    "name": "One Day",
+    "duration_ms": 207573,
+    "artist": "Matisyahu",
+    "artistId": "5eyMzR1hYiEZtN2c9ly2kw",
+    "albumId": "6V4eAv3rPLeQhAO8RnOKFs",
+    "release_date": "2009-08-10",
+    "popularity": 55
+  },
+  {
+    "trackId": "2FrJeX0Nk0GFljqXzynoMB",
+    "name": "Vem ska trösta Knyttet, del 10",
+    "duration_ms": 59653,
+    "artist": "Tove Jansson",
+    "artistId": "0CXfq61wfiH7rvmJ7O0Ct4",
+    "albumId": "0HqhJUaE25mi39Jjgn2MQQ",
+    "release_date": "1984-03-01",
+    "popularity": 16
+  },
+  {
+    "trackId": "4TTV7EcfroSLWzXRY6gLv6",
+    "name": "Alexander Hamilton",
+    "duration_ms": 236737,
+    "artist": "Leslie Odom Jr.",
+    "artistId": "3cR4rhS2hBWqI7rJEBacvN",
+    "albumId": "1kCHru7uhxBUdzkm4gzRQc",
+    "release_date": "2015-09-25",
+    "popularity": 69
+  },
+  {
+    "trackId": "2DnJjbjNTV9Nd5NOa1KGba",
+    "name": "You're so Vain",
+    "duration_ms": 258411,
+    "artist": "Carly Simon",
+    "artistId": "4FtSnMlCVxCswABUmdhwpm",
+    "albumId": "79x0PRGIZv33znrCkPkCZ5",
+    "release_date": "1972",
+    "popularity": 74
+  },
+  {
+    "trackId": "0qxYx4F3vm1AOnfux6dDxP",
+    "name": "You Can Call Me Al",
+    "duration_ms": 280000,
+    "artist": "Paul Simon",
+    "artistId": "2CvCyf1gEVhI0mX6aFXmVI",
+    "albumId": "6WgGWYw6XXQyLTsWt7tXky",
+    "release_date": "1986-08-12",
+    "popularity": 75
+  },
+  {
+    "trackId": "6Omr4zDMg6XokKVMtxStmw",
+    "name": "Probability Cloud",
+    "duration_ms": 285960,
+    "artist": "Bill Frisell",
+    "artistId": "3SONlwqLIP2GtaMh9pLYe5",
+    "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+    "release_date": "2008-03-15",
+    "popularity": 9
+  }
+]

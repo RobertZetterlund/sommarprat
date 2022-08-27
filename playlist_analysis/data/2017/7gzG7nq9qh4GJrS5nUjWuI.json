@@ -1,1 +1,172 @@
-[{"trackId":"3oEkrIfXfSh9zGnE7eBzSV","name":"The Winner Takes It All","duration_ms":294720,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"3ZdkT5buYFi1WQaB0XNNtf","release_date":"1980","popularity":73},{"trackId":"2EJKxIJi2GOWAVbyIT5wOk","name":"Är Det Så Här När Man Är Kär","duration_ms":152600,"artist":"Sven Olof Sandberg","artistId":"79My95YgT8fupTGAwkPKdO","albumId":"3l6fa058kl5C1dDEDIPP41","release_date":"2009-09-09","popularity":14},{"trackId":"1liMWHNUUpH1PkYvregfCA","name":"Så skimrande var aldrig havet","duration_ms":83706,"artist":"Evert Taube","artistId":"3fUWKywZQbkzjqydZH15fT","albumId":"09wjd4s1OE1rAxHQcicPch","release_date":"2013-01-01","popularity":15},{"trackId":"5XPzjWYwYzaIKafZqFCpXr","name":"Så skimmrande var aldrig havet - Recitation","duration_ms":50613,"artist":"Evert Taube","artistId":"3fUWKywZQbkzjqydZH15fT","albumId":"5GqfUdy1ZhVRzQCbyoeY1J","release_date":"1998-06-01","popularity":10},{"trackId":"5nOFf3LcK3MTRkD82Fpaa8","name":"Ungmön på Kärringön","duration_ms":179026,"artist":"Harry Brandelius","artistId":"4g51vTLL3d6kDsFmF8yo1E","albumId":"0aqkpYASqGlrhzcbiWXp9Y","release_date":"2005-01-14","popularity":27},{"trackId":"3RziapqS8nr6DiejCtI3cd","name":"Somliga går med trasiga skor","duration_ms":180960,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"5KkQk6jEItnuoB1820v5aA","release_date":"1968","popularity":49},{"trackId":"0QK6rjuH8Aeo0qM7i7dMcz","name":"Liksom en herdinna","duration_ms":331693,"artist":"Mikael Samuelson","artistId":"6uZ5IDLoo9qEQLW7aY7zdM","albumId":"0xgr2UjowjqnDRH44NQGDg","release_date":"1990-01-01","popularity":1},{"trackId":"0PO1BUZQeOONans8JOalk1","name":"Med dej i mina armar","duration_ms":183280,"artist":"Sven-Olof Sandberg","artistId":"6koj6ZeHt9u67CUvXX718R","albumId":"3DFHv1cQxbNUwa4uDrFX29","release_date":"2007-01-01","popularity":13},{"trackId":"51nplMNYAZAXIWAuna3qUD","name":"Båklandets vackra Maja","duration_ms":181613,"artist":"Fred Åkerström","artistId":"66se5dgU4TBgWvHtXrYrz0","albumId":"7rARXOAAjGYSYodbIylCoe","release_date":"1978","popularity":9},{"trackId":"36wUsvxnQ7jZt4fhZ7mlbm","name":"La bohème, SC 67 / Act 1: \"Che gelida manina\"","duration_ms":309000,"artist":"Giacomo Puccini","artistId":"0OzxPXyowUEQ532c9AmHUR","albumId":"3adHNqtBExmgD5G79HIjSg","release_date":"2013-01-01","popularity":28},{"trackId":"1BdfSXTVEfUMF0PUMAlB3n","name":"Du är allt","duration_ms":205320,"artist":"Sonja Aldén","artistId":"3XyHsKlvXenLURpECPEQOJ","albumId":"7ens1nd6FrbqGdyVGFkmVV","release_date":"2007","popularity":50},{"trackId":"6uayMGc7bnH9ZPk46APSS3","name":"Chicago - Remastered","duration_ms":134066,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"66v9QmjAj0Wwhh2OpbU4BE","release_date":"1958","popularity":46},{"trackId":"6jMwzBlpkEMPRyY1owLoIM","name":"Min Soldat","duration_ms":196400,"artist":"Ulla Billquist","artistId":"2H1av1uTCYBHnj8esnTtwc","albumId":"0ybVpXjzdbWo1KEq3gNdoE","release_date":"2000-01-01","popularity":35},{"trackId":"0SdImYZUmYY4EsnC34kqEj","name":"Mil Efter Mil","duration_ms":172593,"artist":"Roger Bäck","artistId":"03chYkHOZA5zMu5AECtZ82","albumId":"6LCN0BJv3JeKL3f9kwevCy","release_date":"2012-11-26","popularity":34},{"trackId":"648TTtYB0bH0P8Hfy0FmkL","name":"Unforgettable","duration_ms":191973,"artist":"Nat King Cole","artistId":"7v4imS0moSyGdXyLgVTIV7","albumId":"7GBvXtxnvBluo2f4xBVNkm","release_date":"1954-01-01","popularity":65},{"trackId":"4lUzRhikhXN2GphkZCADzX","name":"Matilda","duration_ms":215837,"artist":"Harry Belafonte","artistId":"6Tw1ktF4xMmzaLLbe98I2z","albumId":"5JcYOHah1ZnTfYQlJh2wdr","release_date":"1956-01-20","popularity":43},{"trackId":"2cgXbDqTWmrjchnSNQEnXr","name":"Mazurka No. 47 in A Minor, Op. 68, No. 2","duration_ms":172733,"artist":"Frédéric Chopin","artistId":"7y97mc3bZRFXzT2szRM4L4","albumId":"0Q7idfrWSBsspC508uZDQx","release_date":"1994-10-01","popularity":0}]
+[
+  {
+    "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
+    "name": "The Winner Takes It All",
+    "duration_ms": 294720,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+    "release_date": "1980",
+    "popularity": 73
+  },
+  {
+    "trackId": "2EJKxIJi2GOWAVbyIT5wOk",
+    "name": "Är Det Så Här När Man Är Kär",
+    "duration_ms": 152600,
+    "artist": "Sven Olof Sandberg",
+    "artistId": "79My95YgT8fupTGAwkPKdO",
+    "albumId": "3l6fa058kl5C1dDEDIPP41",
+    "release_date": "2009-09-09",
+    "popularity": 14
+  },
+  {
+    "trackId": "1liMWHNUUpH1PkYvregfCA",
+    "name": "Så skimrande var aldrig havet",
+    "duration_ms": 83706,
+    "artist": "Evert Taube",
+    "artistId": "3fUWKywZQbkzjqydZH15fT",
+    "albumId": "09wjd4s1OE1rAxHQcicPch",
+    "release_date": "2013-01-01",
+    "popularity": 15
+  },
+  {
+    "trackId": "5XPzjWYwYzaIKafZqFCpXr",
+    "name": "Så skimmrande var aldrig havet - Recitation",
+    "duration_ms": 50613,
+    "artist": "Evert Taube",
+    "artistId": "3fUWKywZQbkzjqydZH15fT",
+    "albumId": "5GqfUdy1ZhVRzQCbyoeY1J",
+    "release_date": "1998-06-01",
+    "popularity": 10
+  },
+  {
+    "trackId": "5nOFf3LcK3MTRkD82Fpaa8",
+    "name": "Ungmön på Kärringön",
+    "duration_ms": 179026,
+    "artist": "Harry Brandelius",
+    "artistId": "4g51vTLL3d6kDsFmF8yo1E",
+    "albumId": "0aqkpYASqGlrhzcbiWXp9Y",
+    "release_date": "2005-01-14",
+    "popularity": 27
+  },
+  {
+    "trackId": "3RziapqS8nr6DiejCtI3cd",
+    "name": "Somliga går med trasiga skor",
+    "duration_ms": 180960,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "5KkQk6jEItnuoB1820v5aA",
+    "release_date": "1968",
+    "popularity": 49
+  },
+  {
+    "trackId": "0QK6rjuH8Aeo0qM7i7dMcz",
+    "name": "Liksom en herdinna",
+    "duration_ms": 331693,
+    "artist": "Mikael Samuelson",
+    "artistId": "6uZ5IDLoo9qEQLW7aY7zdM",
+    "albumId": "0xgr2UjowjqnDRH44NQGDg",
+    "release_date": "1990-01-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "0PO1BUZQeOONans8JOalk1",
+    "name": "Med dej i mina armar",
+    "duration_ms": 183280,
+    "artist": "Sven-Olof Sandberg",
+    "artistId": "6koj6ZeHt9u67CUvXX718R",
+    "albumId": "3DFHv1cQxbNUwa4uDrFX29",
+    "release_date": "2007-01-01",
+    "popularity": 13
+  },
+  {
+    "trackId": "51nplMNYAZAXIWAuna3qUD",
+    "name": "Båklandets vackra Maja",
+    "duration_ms": 181613,
+    "artist": "Fred Åkerström",
+    "artistId": "66se5dgU4TBgWvHtXrYrz0",
+    "albumId": "7rARXOAAjGYSYodbIylCoe",
+    "release_date": "1978",
+    "popularity": 9
+  },
+  {
+    "trackId": "36wUsvxnQ7jZt4fhZ7mlbm",
+    "name": "La bohème, SC 67 / Act 1: \"Che gelida manina\"",
+    "duration_ms": 309000,
+    "artist": "Giacomo Puccini",
+    "artistId": "0OzxPXyowUEQ532c9AmHUR",
+    "albumId": "3adHNqtBExmgD5G79HIjSg",
+    "release_date": "2013-01-01",
+    "popularity": 28
+  },
+  {
+    "trackId": "1BdfSXTVEfUMF0PUMAlB3n",
+    "name": "Du är allt",
+    "duration_ms": 205320,
+    "artist": "Sonja Aldén",
+    "artistId": "3XyHsKlvXenLURpECPEQOJ",
+    "albumId": "7ens1nd6FrbqGdyVGFkmVV",
+    "release_date": "2007",
+    "popularity": 50
+  },
+  {
+    "trackId": "6uayMGc7bnH9ZPk46APSS3",
+    "name": "Chicago - Remastered",
+    "duration_ms": 134066,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
+    "release_date": "1958",
+    "popularity": 46
+  },
+  {
+    "trackId": "6jMwzBlpkEMPRyY1owLoIM",
+    "name": "Min Soldat",
+    "duration_ms": 196400,
+    "artist": "Ulla Billquist",
+    "artistId": "2H1av1uTCYBHnj8esnTtwc",
+    "albumId": "0ybVpXjzdbWo1KEq3gNdoE",
+    "release_date": "2000-01-01",
+    "popularity": 35
+  },
+  {
+    "trackId": "0SdImYZUmYY4EsnC34kqEj",
+    "name": "Mil Efter Mil",
+    "duration_ms": 172593,
+    "artist": "Roger Bäck",
+    "artistId": "03chYkHOZA5zMu5AECtZ82",
+    "albumId": "6LCN0BJv3JeKL3f9kwevCy",
+    "release_date": "2012-11-26",
+    "popularity": 34
+  },
+  {
+    "trackId": "648TTtYB0bH0P8Hfy0FmkL",
+    "name": "Unforgettable",
+    "duration_ms": 191973,
+    "artist": "Nat King Cole",
+    "artistId": "7v4imS0moSyGdXyLgVTIV7",
+    "albumId": "7GBvXtxnvBluo2f4xBVNkm",
+    "release_date": "1954-01-01",
+    "popularity": 65
+  },
+  {
+    "trackId": "4lUzRhikhXN2GphkZCADzX",
+    "name": "Matilda",
+    "duration_ms": 215837,
+    "artist": "Harry Belafonte",
+    "artistId": "6Tw1ktF4xMmzaLLbe98I2z",
+    "albumId": "5JcYOHah1ZnTfYQlJh2wdr",
+    "release_date": "1956-01-20",
+    "popularity": 43
+  },
+  {
+    "trackId": "2cgXbDqTWmrjchnSNQEnXr",
+    "name": "Mazurka No. 47 in A Minor, Op. 68, No. 2",
+    "duration_ms": 172733,
+    "artist": "Frédéric Chopin",
+    "artistId": "7y97mc3bZRFXzT2szRM4L4",
+    "albumId": "0Q7idfrWSBsspC508uZDQx",
+    "release_date": "1994-10-01",
+    "popularity": 0
+  }
+]

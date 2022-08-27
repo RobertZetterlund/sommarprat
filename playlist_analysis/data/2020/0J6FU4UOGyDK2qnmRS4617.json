@@ -1,1 +1,162 @@
-[{"trackId":"05eNEozACh10Rn0ewFnH8Y","name":"See You Later, Alligator","duration_ms":166840,"artist":"Bill Haley & His Comets","artistId":"3MFp4cYuYtTZe3d3xkLLbr","albumId":"0N5EMEMyYN6BW9R3PjCxxz","release_date":"1959-01-05","popularity":53},{"trackId":"3uwIoa2emQILz6BmH6MtiW","name":"Return to Sender - From \"Girls! Girls! Girls!\"","duration_ms":126693,"artist":"Elvis Presley","artistId":"43ZHCT0cAZBISjO8DG9PnE","albumId":"6wH0jlf2q1yCprUO5XWSdz","release_date":"1962-11-12","popularity":61},{"trackId":"0mO3oMKprFe2uZg2Hy6SxT","name":"Torparrock","duration_ms":266533,"artist":"Sven-Ingvars","artistId":"1nYKikHu8WWMKYVTcNyyzs","albumId":"3gsPWumcqHP7dEAs45GAuD","release_date":"1994-02-25","popularity":48},{"trackId":"0wJRSqwnP2vx02j0XBznwJ","name":"Can Anyone Explain - 2002 Remastered Version","duration_ms":188653,"artist":"Ella Fitzgerald","artistId":"5V0MlUE1Bft0mbLlND7FJz","albumId":"3JkaJFyUrxToI7aIpBizYi","release_date":"2002-11-04","popularity":20},{"trackId":"2gNn2IDqAovFWIlSir9m59","name":"The Gräsänklingsblues","duration_ms":269280,"artist":"Povel Ramel","artistId":"2JXHbGSfNgJ25884YBIruo","albumId":"6ohEGOi3mUvOKeFXpwcCPL","release_date":"2005","popularity":1},{"trackId":"7pQQzqKO99KICwaN7jVdOe","name":"Parchman Farm","duration_ms":197866,"artist":"Mose Allison","artistId":"0sN4enVJwylJKEXZlSbgsm","albumId":"0CeyHNnXvSDfk3y4V8z1sK","release_date":"1957","popularity":35},{"trackId":"4EkFv2PPO2toW80o0NUPlD","name":"Blekinge flygflottiljs marsch, Op. 22","duration_ms":156160,"artist":"Åke Dohlin","artistId":"7l36DjKnCJ9gyWgl6jFiXK","albumId":"7gQyY7dIfLxfBjP4PAa7uJ","release_date":"2018-04-20","popularity":2},{"trackId":"4w3tQBXhn5345eUXDGBWZG","name":"9 to 5","duration_ms":162466,"artist":"Dolly Parton","artistId":"32vWCbZh0xZ4o9gkz4PsEU","albumId":"64Ky1tqKPfwxhJs6msphWd","release_date":"1980","popularity":76},{"trackId":"3es5f2stDxMgfySk0ILxp9","name":"Ösa sand","duration_ms":162546,"artist":"Owe Thörnqvist","artistId":"5gcvW6H0e7pudeOGevacuw","albumId":"5Hhdnh42vRWFAmPPkERxe0","release_date":"1966-03-30","popularity":6},{"trackId":"6MpYSTJfFLlshFPeZ7a5SB","name":"Vatten - sta'n är full av vatten","duration_ms":197906,"artist":"Robert Broberg","artistId":"05JNHlwtdHqPJ6wcW7Mil5","albumId":"4a4SB7Gg3sGj97j6cSREiV","release_date":"1981-02-10","popularity":25},{"trackId":"3dyHvTXrfU6wZbuxl6h3H3","name":"Här kommer alla känslorna (på en och samma gång)","duration_ms":160826,"artist":"Per Gessle","artistId":"5pFJ8lLOUnyEaNrrf7D1KK","albumId":"72CxJEk3v2yg5yjDWUQveI","release_date":"2003-06-16","popularity":53},{"trackId":"6T4vnDwNUv0SJy7k2GCYOw","name":"överraskningarnas man","duration_ms":270040,"artist":"Galenskaparna & After Shave","artistId":"1yP4vKrljoPWZofWJchg0E","albumId":"3vSnfgEJ8HFWwQZ4AYkgg9","release_date":"1992","popularity":12},{"trackId":"6ek9SiEj5a65WIs2EV7qiM","name":"Son Of A Preacher Man","duration_ms":148053,"artist":"Dusty Springfield","artistId":"5zaXYwewAXedKNCff45U5l","albumId":"5FRB5oQaHxlDNe6gMGuzu2","release_date":"1969-03-31","popularity":71},{"trackId":"5rrn6TNsGT0VHB5y48cBIM","name":"Upp på berget","duration_ms":266600,"artist":"Robert Wells","artistId":"2b5IBuGQwskEO9VwynCNtO","albumId":"6PM1f5TM60lp5vFuu6r5ko","release_date":"1987","popularity":28},{"trackId":"0WgWCsQK30rR0IsdZgyTjr","name":"Wien, du Stadt meiner Traume, Op. 1","duration_ms":248426,"artist":"Rudolf Sieczynski","artistId":"3JF2w2izGKqlmOFeiwP3Cp","albumId":"4vQfS0jkjG0Q9ARD1M5Kc0","release_date":"2012-04-01","popularity":0},{"trackId":"2grjqo0Frpf2okIBiifQKs","name":"September","duration_ms":215093,"artist":"Earth, Wind & Fire","artistId":"4QQgXkCYTt3BlENzhyNETg","albumId":"2FW0uQ4WL25umm5p2VrZO7","release_date":"1978-11-23","popularity":81}]
+[
+  {
+    "trackId": "05eNEozACh10Rn0ewFnH8Y",
+    "name": "See You Later, Alligator",
+    "duration_ms": 166840,
+    "artist": "Bill Haley & His Comets",
+    "artistId": "3MFp4cYuYtTZe3d3xkLLbr",
+    "albumId": "0N5EMEMyYN6BW9R3PjCxxz",
+    "release_date": "1959-01-05",
+    "popularity": 53
+  },
+  {
+    "trackId": "3uwIoa2emQILz6BmH6MtiW",
+    "name": "Return to Sender - From \"Girls! Girls! Girls!\"",
+    "duration_ms": 126693,
+    "artist": "Elvis Presley",
+    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
+    "albumId": "6wH0jlf2q1yCprUO5XWSdz",
+    "release_date": "1962-11-12",
+    "popularity": 61
+  },
+  {
+    "trackId": "0mO3oMKprFe2uZg2Hy6SxT",
+    "name": "Torparrock",
+    "duration_ms": 266533,
+    "artist": "Sven-Ingvars",
+    "artistId": "1nYKikHu8WWMKYVTcNyyzs",
+    "albumId": "3gsPWumcqHP7dEAs45GAuD",
+    "release_date": "1994-02-25",
+    "popularity": 48
+  },
+  {
+    "trackId": "0wJRSqwnP2vx02j0XBznwJ",
+    "name": "Can Anyone Explain - 2002 Remastered Version",
+    "duration_ms": 188653,
+    "artist": "Ella Fitzgerald",
+    "artistId": "5V0MlUE1Bft0mbLlND7FJz",
+    "albumId": "3JkaJFyUrxToI7aIpBizYi",
+    "release_date": "2002-11-04",
+    "popularity": 20
+  },
+  {
+    "trackId": "2gNn2IDqAovFWIlSir9m59",
+    "name": "The Gräsänklingsblues",
+    "duration_ms": 269280,
+    "artist": "Povel Ramel",
+    "artistId": "2JXHbGSfNgJ25884YBIruo",
+    "albumId": "6ohEGOi3mUvOKeFXpwcCPL",
+    "release_date": "2005",
+    "popularity": 1
+  },
+  {
+    "trackId": "7pQQzqKO99KICwaN7jVdOe",
+    "name": "Parchman Farm",
+    "duration_ms": 197866,
+    "artist": "Mose Allison",
+    "artistId": "0sN4enVJwylJKEXZlSbgsm",
+    "albumId": "0CeyHNnXvSDfk3y4V8z1sK",
+    "release_date": "1957",
+    "popularity": 35
+  },
+  {
+    "trackId": "4EkFv2PPO2toW80o0NUPlD",
+    "name": "Blekinge flygflottiljs marsch, Op. 22",
+    "duration_ms": 156160,
+    "artist": "Åke Dohlin",
+    "artistId": "7l36DjKnCJ9gyWgl6jFiXK",
+    "albumId": "7gQyY7dIfLxfBjP4PAa7uJ",
+    "release_date": "2018-04-20",
+    "popularity": 2
+  },
+  {
+    "trackId": "4w3tQBXhn5345eUXDGBWZG",
+    "name": "9 to 5",
+    "duration_ms": 162466,
+    "artist": "Dolly Parton",
+    "artistId": "32vWCbZh0xZ4o9gkz4PsEU",
+    "albumId": "64Ky1tqKPfwxhJs6msphWd",
+    "release_date": "1980",
+    "popularity": 76
+  },
+  {
+    "trackId": "3es5f2stDxMgfySk0ILxp9",
+    "name": "Ösa sand",
+    "duration_ms": 162546,
+    "artist": "Owe Thörnqvist",
+    "artistId": "5gcvW6H0e7pudeOGevacuw",
+    "albumId": "5Hhdnh42vRWFAmPPkERxe0",
+    "release_date": "1966-03-30",
+    "popularity": 6
+  },
+  {
+    "trackId": "6MpYSTJfFLlshFPeZ7a5SB",
+    "name": "Vatten - sta'n är full av vatten",
+    "duration_ms": 197906,
+    "artist": "Robert Broberg",
+    "artistId": "05JNHlwtdHqPJ6wcW7Mil5",
+    "albumId": "4a4SB7Gg3sGj97j6cSREiV",
+    "release_date": "1981-02-10",
+    "popularity": 25
+  },
+  {
+    "trackId": "3dyHvTXrfU6wZbuxl6h3H3",
+    "name": "Här kommer alla känslorna (på en och samma gång)",
+    "duration_ms": 160826,
+    "artist": "Per Gessle",
+    "artistId": "5pFJ8lLOUnyEaNrrf7D1KK",
+    "albumId": "72CxJEk3v2yg5yjDWUQveI",
+    "release_date": "2003-06-16",
+    "popularity": 53
+  },
+  {
+    "trackId": "6T4vnDwNUv0SJy7k2GCYOw",
+    "name": "överraskningarnas man",
+    "duration_ms": 270040,
+    "artist": "Galenskaparna & After Shave",
+    "artistId": "1yP4vKrljoPWZofWJchg0E",
+    "albumId": "3vSnfgEJ8HFWwQZ4AYkgg9",
+    "release_date": "1992",
+    "popularity": 12
+  },
+  {
+    "trackId": "6ek9SiEj5a65WIs2EV7qiM",
+    "name": "Son Of A Preacher Man",
+    "duration_ms": 148053,
+    "artist": "Dusty Springfield",
+    "artistId": "5zaXYwewAXedKNCff45U5l",
+    "albumId": "5FRB5oQaHxlDNe6gMGuzu2",
+    "release_date": "1969-03-31",
+    "popularity": 71
+  },
+  {
+    "trackId": "5rrn6TNsGT0VHB5y48cBIM",
+    "name": "Upp på berget",
+    "duration_ms": 266600,
+    "artist": "Robert Wells",
+    "artistId": "2b5IBuGQwskEO9VwynCNtO",
+    "albumId": "6PM1f5TM60lp5vFuu6r5ko",
+    "release_date": "1987",
+    "popularity": 28
+  },
+  {
+    "trackId": "0WgWCsQK30rR0IsdZgyTjr",
+    "name": "Wien, du Stadt meiner Traume, Op. 1",
+    "duration_ms": 248426,
+    "artist": "Rudolf Sieczynski",
+    "artistId": "3JF2w2izGKqlmOFeiwP3Cp",
+    "albumId": "4vQfS0jkjG0Q9ARD1M5Kc0",
+    "release_date": "2012-04-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "2grjqo0Frpf2okIBiifQKs",
+    "name": "September",
+    "duration_ms": 215093,
+    "artist": "Earth, Wind & Fire",
+    "artistId": "4QQgXkCYTt3BlENzhyNETg",
+    "albumId": "2FW0uQ4WL25umm5p2VrZO7",
+    "release_date": "1978-11-23",
+    "popularity": 81
+  }
+]

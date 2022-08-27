@@ -1,1 +1,112 @@
-[{"trackId":"0wECiMFAfgoct5p4v7waRq","name":"Leavin'","duration_ms":192640,"artist":"Shelby Lynne","artistId":"3xx17YXYvPl9PBx6Jzalk4","albumId":"3QDQjAbMsT5gurhAvQXJZ5","release_date":"2022-02-23","popularity":30},{"trackId":"5rVyJjguDIjaUa19TZEt0d","name":"Underbara människa","duration_ms":316706,"artist":"Eva Dahlgren","artistId":"7IK2JpZglDYTrso4ILEKE0","albumId":"4cLsjd6LMR1irSYvLWe9Tw","release_date":"1999-01-01","popularity":15},{"trackId":"2CKaaPbHBnWj1q3PjVenkI","name":"Me Myself I","duration_ms":196546,"artist":"Joan Armatrading","artistId":"1bdAJUX6JPsnYHbTl5jbk6","albumId":"4kRMYnLYMWRSROXAaxBqtT","release_date":"2020-09-11","popularity":17},{"trackId":"4kPSjEg8u1U4pg2dHHMmtf","name":"Dancing Barefoot","duration_ms":256533,"artist":"Patti Smith","artistId":"0vYkHhJ48Bs3jWcvZXvOrP","albumId":"5Azni9In90zMkWAFgWh6RE","release_date":"1979","popularity":57},{"trackId":"6CHENx8iqzMwavTIz8s0gm","name":"Violet","duration_ms":204933,"artist":"Hole","artistId":"5SHQUMAmEK5KmuSb0aDvsn","albumId":"2Rwf2nPYZQ9aIe4QXACTC7","release_date":"1994-01-01","popularity":62},{"trackId":"2UG2WPDBg6tQ8nhi1cqJRP","name":"Mississippi Goddam - Live At Carnegie Hall, New York, 1964","duration_ms":296600,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"6WP4eNaAHl2a1KNp4QN6Nr","release_date":"1964-01-01","popularity":33},{"trackId":"3fNmCM9qLR9et5ejJe3PFi","name":"A Case Of You","duration_ms":305400,"artist":"Joni Mitchell","artistId":"5hW4L92KnC6dX9t7tYM4Ve","albumId":"3eINl3nsCLJFpc4qsO3dmx","release_date":"2014-01-01","popularity":26},{"trackId":"4hGB1oS00dJ9ELpuayp0g0","name":"Två tungor","duration_ms":153394,"artist":"Sofia Karlsson","artistId":"2tKGISNf0bei0IxfLQGMEt","albumId":"6mk76DWZYymSKqpQDwnqZY","release_date":"2007","popularity":12},{"trackId":"78gYSkOhQXm54K8Ge8PByE","name":"Hudamokk","duration_ms":58181,"artist":"Leslie Fisher","artistId":"1ikYbdpqgJkYpBB4QrCkhN","albumId":"344O33Adf6pQtdKRI51UEQ","release_date":"2022-07-15","popularity":16},{"trackId":"29JaNb3srBJH0A5iQgtrge","name":"Hurra for deg som fyller ditt år","duration_ms":48195,"artist":"Olga Marie Mikalsen","artistId":"48toeLcgGYjvv7BSEOaFbJ","albumId":"3QBBCco9vZeEIwNdtCGfRc","release_date":"1994-05-01","popularity":32},{"trackId":"1Ty6h0UNBtWLCHR5rOc3KO","name":"Ludvig 2020","duration_ms":152191,"artist":"Spesialstyrken","artistId":"4ge6BVfvTr07o1jau9iNyt","albumId":"4gIRukKoxXOZxPwhjiH52D","release_date":"2020-02-24","popularity":32}]
+[
+  {
+    "trackId": "0wECiMFAfgoct5p4v7waRq",
+    "name": "Leavin'",
+    "duration_ms": 192640,
+    "artist": "Shelby Lynne",
+    "artistId": "3xx17YXYvPl9PBx6Jzalk4",
+    "albumId": "3QDQjAbMsT5gurhAvQXJZ5",
+    "release_date": "2022-02-23",
+    "popularity": 30
+  },
+  {
+    "trackId": "5rVyJjguDIjaUa19TZEt0d",
+    "name": "Underbara människa",
+    "duration_ms": 316706,
+    "artist": "Eva Dahlgren",
+    "artistId": "7IK2JpZglDYTrso4ILEKE0",
+    "albumId": "4cLsjd6LMR1irSYvLWe9Tw",
+    "release_date": "1999-01-01",
+    "popularity": 15
+  },
+  {
+    "trackId": "2CKaaPbHBnWj1q3PjVenkI",
+    "name": "Me Myself I",
+    "duration_ms": 196546,
+    "artist": "Joan Armatrading",
+    "artistId": "1bdAJUX6JPsnYHbTl5jbk6",
+    "albumId": "4kRMYnLYMWRSROXAaxBqtT",
+    "release_date": "2020-09-11",
+    "popularity": 17
+  },
+  {
+    "trackId": "4kPSjEg8u1U4pg2dHHMmtf",
+    "name": "Dancing Barefoot",
+    "duration_ms": 256533,
+    "artist": "Patti Smith",
+    "artistId": "0vYkHhJ48Bs3jWcvZXvOrP",
+    "albumId": "5Azni9In90zMkWAFgWh6RE",
+    "release_date": "1979",
+    "popularity": 57
+  },
+  {
+    "trackId": "6CHENx8iqzMwavTIz8s0gm",
+    "name": "Violet",
+    "duration_ms": 204933,
+    "artist": "Hole",
+    "artistId": "5SHQUMAmEK5KmuSb0aDvsn",
+    "albumId": "2Rwf2nPYZQ9aIe4QXACTC7",
+    "release_date": "1994-01-01",
+    "popularity": 62
+  },
+  {
+    "trackId": "2UG2WPDBg6tQ8nhi1cqJRP",
+    "name": "Mississippi Goddam - Live At Carnegie Hall, New York, 1964",
+    "duration_ms": 296600,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "6WP4eNaAHl2a1KNp4QN6Nr",
+    "release_date": "1964-01-01",
+    "popularity": 33
+  },
+  {
+    "trackId": "3fNmCM9qLR9et5ejJe3PFi",
+    "name": "A Case Of You",
+    "duration_ms": 305400,
+    "artist": "Joni Mitchell",
+    "artistId": "5hW4L92KnC6dX9t7tYM4Ve",
+    "albumId": "3eINl3nsCLJFpc4qsO3dmx",
+    "release_date": "2014-01-01",
+    "popularity": 26
+  },
+  {
+    "trackId": "4hGB1oS00dJ9ELpuayp0g0",
+    "name": "Två tungor",
+    "duration_ms": 153394,
+    "artist": "Sofia Karlsson",
+    "artistId": "2tKGISNf0bei0IxfLQGMEt",
+    "albumId": "6mk76DWZYymSKqpQDwnqZY",
+    "release_date": "2007",
+    "popularity": 12
+  },
+  {
+    "trackId": "78gYSkOhQXm54K8Ge8PByE",
+    "name": "Hudamokk",
+    "duration_ms": 58181,
+    "artist": "Leslie Fisher",
+    "artistId": "1ikYbdpqgJkYpBB4QrCkhN",
+    "albumId": "344O33Adf6pQtdKRI51UEQ",
+    "release_date": "2022-07-15",
+    "popularity": 16
+  },
+  {
+    "trackId": "29JaNb3srBJH0A5iQgtrge",
+    "name": "Hurra for deg som fyller ditt år",
+    "duration_ms": 48195,
+    "artist": "Olga Marie Mikalsen",
+    "artistId": "48toeLcgGYjvv7BSEOaFbJ",
+    "albumId": "3QBBCco9vZeEIwNdtCGfRc",
+    "release_date": "1994-05-01",
+    "popularity": 32
+  },
+  {
+    "trackId": "1Ty6h0UNBtWLCHR5rOc3KO",
+    "name": "Ludvig 2020",
+    "duration_ms": 152191,
+    "artist": "Spesialstyrken",
+    "artistId": "4ge6BVfvTr07o1jau9iNyt",
+    "albumId": "4gIRukKoxXOZxPwhjiH52D",
+    "release_date": "2020-02-24",
+    "popularity": 32
+  }
+]

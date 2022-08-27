@@ -1,1 +1,132 @@
-[{"trackId":"5iefSI61W5cv5q0tky4Rkf","name":"Vi är skuggor - Shoreline","duration_ms":297218,"artist":"Julia Frej","artistId":"4oEeUK3pzW0XpaE5AMi5ws","albumId":"0TQ1Hy8q15uKJDE7YviS3c","release_date":"2016-10-21","popularity":30},{"trackId":"0lnxrQAd9ZxbhBBe7d8FO8","name":"MMMBop","duration_ms":268653,"artist":"Hanson","artistId":"0SdiiPkr02EUdekHZJkt58","albumId":"3StpQT9Qd87FSeWeQAdg1h","release_date":"1997-01-01","popularity":72},{"trackId":"02ZtmQUaBmgA6zLQkq7a5Q","name":"Shady Bop","duration_ms":265395,"artist":"Btm","artistId":"2M155dP2oDDOTLyLqJtL1u","albumId":"3tjWdWmdWr5uuPwHfnhivU","release_date":"2012-10-31","popularity":9},{"trackId":"5d31zRpnltd8THVV7yw3pZ","name":"Mad World","duration_ms":190840,"artist":"Jasmine Thompson","artistId":"2TL8gYTNgD6nXkyuUdDrMg","albumId":"2RfOjJFkLskTs3mxFuhHHC","release_date":"2022-08-12","popularity":0},{"trackId":"0bCCGLHflR08UVA6oJJc8I","name":"Til It Happens To You","duration_ms":258093,"artist":"Lady Gaga","artistId":"1HY2Jd0NmPuamShAr6KMms","albumId":"00qjYaNSNpQCZHhCpAlH60","release_date":"2015-09-18","popularity":55},{"trackId":"1wSGgkDKaX5OXM7NPqJv4U","name":"You are the Problem Here","duration_ms":218373,"artist":"First Aid Kit","artistId":"21egYD1eInY6bGFcniCRT1","albumId":"0gtFtyQ2fVOutl4TWJspTV","release_date":"2017-03-10","popularity":31},{"trackId":"2yz5IaQLnO8WBCIWMXoRBS","name":"Känn ingen sorg för mig Göteborg","duration_ms":228893,"artist":"Håkan Hellström","artistId":"3H7Ez7cwaYw4L3ELy4v3Lc","albumId":"3GLyWjI7skSDxKOBEhAhUE","release_date":"2000-09-25","popularity":58},{"trackId":"6g5K1kubnMcCkcQlvIRxVy","name":"Vi:et i vinsten (Sveriges Officiella EM-låt 2022)","duration_ms":190671,"artist":"Molly Sandén","artistId":"0NRMzT05nsc8mTm4iUvuHY","albumId":"06wqtAadumHfK9NenuMELU","release_date":"2022-06-10","popularity":67},{"trackId":"54pWBkuXykqNUoFdFsGrlv","name":"Wake us up","duration_ms":181973,"artist":"Långbacka/Bådagård","artistId":"42wX6oKb3St9wolT1pWd0y","albumId":"5UCmGBKfx6STrzwscq3lvi","release_date":"2018-09-28","popularity":12},{"trackId":"2FnUyLhe7sjXgnZlK9sc0z","name":"Bara Få Va Mig Själv","duration_ms":214887,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"4sVpJJTw1dKDGlTprOvafq","release_date":"2016-09-16","popularity":51},{"trackId":"6tkvkyjha4cq0ZRzOGz3Mv","name":"Du måste finnas","duration_ms":198473,"artist":"Newkid","artistId":"5wXRHaEx8AvtUv0gyZHGf6","albumId":"5P2bHYkTGuZJKlv4Y36bSc","release_date":"2020-12-19","popularity":57},{"trackId":"2Y5m6eRxzXyLekE0mLyhCC","name":"Leave my shame","duration_ms":211013,"artist":"Stina Wollter","artistId":"1Ny7UZ1mO95uKYhSPL6tV4","albumId":"03bf7mnp6PZWD64v2JYfCD","release_date":"2018-04-06","popularity":27},{"trackId":"3Bw7ii9CwJp3chAKGlvRjV","name":"Walk All Over God's Heaven","duration_ms":226786,"artist":"Etta James","artistId":"0iOVhN3tnSvgDbcg25JoJb","albumId":"1bYpsPzfkEsH1pOyf4qjvg","release_date":"2002-07-01","popularity":4}]
+[
+  {
+    "trackId": "5iefSI61W5cv5q0tky4Rkf",
+    "name": "Vi är skuggor - Shoreline",
+    "duration_ms": 297218,
+    "artist": "Julia Frej",
+    "artistId": "4oEeUK3pzW0XpaE5AMi5ws",
+    "albumId": "0TQ1Hy8q15uKJDE7YviS3c",
+    "release_date": "2016-10-21",
+    "popularity": 30
+  },
+  {
+    "trackId": "0lnxrQAd9ZxbhBBe7d8FO8",
+    "name": "MMMBop",
+    "duration_ms": 268653,
+    "artist": "Hanson",
+    "artistId": "0SdiiPkr02EUdekHZJkt58",
+    "albumId": "3StpQT9Qd87FSeWeQAdg1h",
+    "release_date": "1997-01-01",
+    "popularity": 72
+  },
+  {
+    "trackId": "02ZtmQUaBmgA6zLQkq7a5Q",
+    "name": "Shady Bop",
+    "duration_ms": 265395,
+    "artist": "Btm",
+    "artistId": "2M155dP2oDDOTLyLqJtL1u",
+    "albumId": "3tjWdWmdWr5uuPwHfnhivU",
+    "release_date": "2012-10-31",
+    "popularity": 9
+  },
+  {
+    "trackId": "5d31zRpnltd8THVV7yw3pZ",
+    "name": "Mad World",
+    "duration_ms": 190840,
+    "artist": "Jasmine Thompson",
+    "artistId": "2TL8gYTNgD6nXkyuUdDrMg",
+    "albumId": "2RfOjJFkLskTs3mxFuhHHC",
+    "release_date": "2022-08-12",
+    "popularity": 0
+  },
+  {
+    "trackId": "0bCCGLHflR08UVA6oJJc8I",
+    "name": "Til It Happens To You",
+    "duration_ms": 258093,
+    "artist": "Lady Gaga",
+    "artistId": "1HY2Jd0NmPuamShAr6KMms",
+    "albumId": "00qjYaNSNpQCZHhCpAlH60",
+    "release_date": "2015-09-18",
+    "popularity": 55
+  },
+  {
+    "trackId": "1wSGgkDKaX5OXM7NPqJv4U",
+    "name": "You are the Problem Here",
+    "duration_ms": 218373,
+    "artist": "First Aid Kit",
+    "artistId": "21egYD1eInY6bGFcniCRT1",
+    "albumId": "0gtFtyQ2fVOutl4TWJspTV",
+    "release_date": "2017-03-10",
+    "popularity": 31
+  },
+  {
+    "trackId": "2yz5IaQLnO8WBCIWMXoRBS",
+    "name": "Känn ingen sorg för mig Göteborg",
+    "duration_ms": 228893,
+    "artist": "Håkan Hellström",
+    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+    "albumId": "3GLyWjI7skSDxKOBEhAhUE",
+    "release_date": "2000-09-25",
+    "popularity": 58
+  },
+  {
+    "trackId": "6g5K1kubnMcCkcQlvIRxVy",
+    "name": "Vi:et i vinsten (Sveriges Officiella EM-låt 2022)",
+    "duration_ms": 190671,
+    "artist": "Molly Sandén",
+    "artistId": "0NRMzT05nsc8mTm4iUvuHY",
+    "albumId": "06wqtAadumHfK9NenuMELU",
+    "release_date": "2022-06-10",
+    "popularity": 67
+  },
+  {
+    "trackId": "54pWBkuXykqNUoFdFsGrlv",
+    "name": "Wake us up",
+    "duration_ms": 181973,
+    "artist": "Långbacka/Bådagård",
+    "artistId": "42wX6oKb3St9wolT1pWd0y",
+    "albumId": "5UCmGBKfx6STrzwscq3lvi",
+    "release_date": "2018-09-28",
+    "popularity": 12
+  },
+  {
+    "trackId": "2FnUyLhe7sjXgnZlK9sc0z",
+    "name": "Bara Få Va Mig Själv",
+    "duration_ms": 214887,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "4sVpJJTw1dKDGlTprOvafq",
+    "release_date": "2016-09-16",
+    "popularity": 51
+  },
+  {
+    "trackId": "6tkvkyjha4cq0ZRzOGz3Mv",
+    "name": "Du måste finnas",
+    "duration_ms": 198473,
+    "artist": "Newkid",
+    "artistId": "5wXRHaEx8AvtUv0gyZHGf6",
+    "albumId": "5P2bHYkTGuZJKlv4Y36bSc",
+    "release_date": "2020-12-19",
+    "popularity": 57
+  },
+  {
+    "trackId": "2Y5m6eRxzXyLekE0mLyhCC",
+    "name": "Leave my shame",
+    "duration_ms": 211013,
+    "artist": "Stina Wollter",
+    "artistId": "1Ny7UZ1mO95uKYhSPL6tV4",
+    "albumId": "03bf7mnp6PZWD64v2JYfCD",
+    "release_date": "2018-04-06",
+    "popularity": 27
+  },
+  {
+    "trackId": "3Bw7ii9CwJp3chAKGlvRjV",
+    "name": "Walk All Over God's Heaven",
+    "duration_ms": 226786,
+    "artist": "Etta James",
+    "artistId": "0iOVhN3tnSvgDbcg25JoJb",
+    "albumId": "1bYpsPzfkEsH1pOyf4qjvg",
+    "release_date": "2002-07-01",
+    "popularity": 4
+  }
+]

@@ -1,1 +1,132 @@
-[{"trackId":"43hI0avsM7DrJnEHZwK1Bn","name":"Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude","duration_ms":162160,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"1RamR7uAjlbgwteiLj0O6E","release_date":"2022-06-17","popularity":13},{"trackId":"0QHfVDzbCYoEsIOseb7X3P","name":"Jag hade en älskling en gång","duration_ms":286826,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"7aB0bPRv2elnc0Ou1whaty","release_date":"1995","popularity":24},{"trackId":"0M1YQiRGel1tTMjA3orfRd","name":"Badlands","duration_ms":242453,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"4KT6G8fj8EEIfsyr75hbgc","release_date":"1978-06-02","popularity":58},{"trackId":"1ZWcWnL34unQ1528YIqlNu","name":"Storma tills vi dör","duration_ms":185766,"artist":"Veronica Maggio","artistId":"2OIWxN9xUhgUHkeUCWCaNs","albumId":"3s5EfOxTkRh0X3ZwvR8ReS","release_date":"2016-05-06","popularity":28},{"trackId":"2ou1JUUOlBekx0UoupLhsq","name":"Breda leenden","duration_ms":166026,"artist":"Lasse Berghagen","artistId":"7kdGjv0IIQJcU2bth1yoqY","albumId":"1P6QyxSmdRVaAPaHHfox4i","release_date":"1989-01-01","popularity":9},{"trackId":"0fRtV3nteuYNhpYrOEWKaD","name":"Shout","duration_ms":173826,"artist":"Lulu And The Luvvers","artistId":"4N3yBX8wmW8uAXW7MdXwdb","albumId":"6d1nUCOvcCLhMGzpTjLbQY","release_date":"1994-01-01","popularity":45},{"trackId":"6jqDz9A3I24aqxMixBWJ6Y","name":"Ett liv","duration_ms":266973,"artist":"Pelle Karlsson","artistId":"3eTo0A7dygcWaO0g1NXHA4","albumId":"3nGVkjBaBkASA3ABT9LpsM","release_date":"1992-01-01","popularity":15},{"trackId":"47w3XBbGEQzL1IDDHRxFPB","name":"Parlez-moi d'amour","duration_ms":176560,"artist":"Lucienne Boyer","artistId":"5KIyBfTJdvEzz2OxfVvsE6","albumId":"5d33BXEZQrKhK0OR2pEPJK","release_date":"1992","popularity":41},{"trackId":"3ydV3D485bGb1I3dXw0HtQ","name":"I Don't Want to Go Home","duration_ms":222786,"artist":"Southside Johnny And The Asbury Jukes","artistId":"0HosDiKX3VWIIjtSkP8cfC","albumId":"6i8EUGwmvXMmYLTRYWDHOe","release_date":"1976-01-01","popularity":37},{"trackId":"0lIoY4ZQsdn5QzhraM9o9u","name":"Because the Night","duration_ms":204800,"artist":"Patti Smith","artistId":"0vYkHhJ48Bs3jWcvZXvOrP","albumId":"1p6cWoueuunhpgy6131zAd","release_date":"1978","popularity":69},{"trackId":"3myN8VIQbnMGr9qHiczMcf","name":"Fulla för kärlekens skull","duration_ms":384333,"artist":"Eldkvarn","artistId":"6TLywjDgcz3M1rTrX7ht5k","albumId":"3zghcSKuHTpvbNoP4zVQ3K","release_date":"2007-04-04","popularity":47},{"trackId":"5BebqkBndVuST8jX9UWPqI","name":"Word on a Wing - 2016 Remaster","duration_ms":364946,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"0MWrKayUshRuT8maG4ZAOU","release_date":"1976-01-23","popularity":40},{"trackId":"6Omr4zDMg6XokKVMtxStmw","name":"Probability Cloud","duration_ms":285960,"artist":"Bill Frisell","artistId":"3SONlwqLIP2GtaMh9pLYe5","albumId":"74s1xuJFJGvRCPjlh2d2oE","release_date":"2008-03-15","popularity":9}]
+[
+  {
+    "trackId": "43hI0avsM7DrJnEHZwK1Bn",
+    "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+    "duration_ms": 162160,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "1RamR7uAjlbgwteiLj0O6E",
+    "release_date": "2022-06-17",
+    "popularity": 13
+  },
+  {
+    "trackId": "0QHfVDzbCYoEsIOseb7X3P",
+    "name": "Jag hade en älskling en gång",
+    "duration_ms": 286826,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "7aB0bPRv2elnc0Ou1whaty",
+    "release_date": "1995",
+    "popularity": 24
+  },
+  {
+    "trackId": "0M1YQiRGel1tTMjA3orfRd",
+    "name": "Badlands",
+    "duration_ms": 242453,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "4KT6G8fj8EEIfsyr75hbgc",
+    "release_date": "1978-06-02",
+    "popularity": 58
+  },
+  {
+    "trackId": "1ZWcWnL34unQ1528YIqlNu",
+    "name": "Storma tills vi dör",
+    "duration_ms": 185766,
+    "artist": "Veronica Maggio",
+    "artistId": "2OIWxN9xUhgUHkeUCWCaNs",
+    "albumId": "3s5EfOxTkRh0X3ZwvR8ReS",
+    "release_date": "2016-05-06",
+    "popularity": 28
+  },
+  {
+    "trackId": "2ou1JUUOlBekx0UoupLhsq",
+    "name": "Breda leenden",
+    "duration_ms": 166026,
+    "artist": "Lasse Berghagen",
+    "artistId": "7kdGjv0IIQJcU2bth1yoqY",
+    "albumId": "1P6QyxSmdRVaAPaHHfox4i",
+    "release_date": "1989-01-01",
+    "popularity": 9
+  },
+  {
+    "trackId": "0fRtV3nteuYNhpYrOEWKaD",
+    "name": "Shout",
+    "duration_ms": 173826,
+    "artist": "Lulu And The Luvvers",
+    "artistId": "4N3yBX8wmW8uAXW7MdXwdb",
+    "albumId": "6d1nUCOvcCLhMGzpTjLbQY",
+    "release_date": "1994-01-01",
+    "popularity": 45
+  },
+  {
+    "trackId": "6jqDz9A3I24aqxMixBWJ6Y",
+    "name": "Ett liv",
+    "duration_ms": 266973,
+    "artist": "Pelle Karlsson",
+    "artistId": "3eTo0A7dygcWaO0g1NXHA4",
+    "albumId": "3nGVkjBaBkASA3ABT9LpsM",
+    "release_date": "1992-01-01",
+    "popularity": 15
+  },
+  {
+    "trackId": "47w3XBbGEQzL1IDDHRxFPB",
+    "name": "Parlez-moi d'amour",
+    "duration_ms": 176560,
+    "artist": "Lucienne Boyer",
+    "artistId": "5KIyBfTJdvEzz2OxfVvsE6",
+    "albumId": "5d33BXEZQrKhK0OR2pEPJK",
+    "release_date": "1992",
+    "popularity": 41
+  },
+  {
+    "trackId": "3ydV3D485bGb1I3dXw0HtQ",
+    "name": "I Don't Want to Go Home",
+    "duration_ms": 222786,
+    "artist": "Southside Johnny And The Asbury Jukes",
+    "artistId": "0HosDiKX3VWIIjtSkP8cfC",
+    "albumId": "6i8EUGwmvXMmYLTRYWDHOe",
+    "release_date": "1976-01-01",
+    "popularity": 37
+  },
+  {
+    "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
+    "name": "Because the Night",
+    "duration_ms": 204800,
+    "artist": "Patti Smith",
+    "artistId": "0vYkHhJ48Bs3jWcvZXvOrP",
+    "albumId": "1p6cWoueuunhpgy6131zAd",
+    "release_date": "1978",
+    "popularity": 69
+  },
+  {
+    "trackId": "3myN8VIQbnMGr9qHiczMcf",
+    "name": "Fulla för kärlekens skull",
+    "duration_ms": 384333,
+    "artist": "Eldkvarn",
+    "artistId": "6TLywjDgcz3M1rTrX7ht5k",
+    "albumId": "3zghcSKuHTpvbNoP4zVQ3K",
+    "release_date": "2007-04-04",
+    "popularity": 47
+  },
+  {
+    "trackId": "5BebqkBndVuST8jX9UWPqI",
+    "name": "Word on a Wing - 2016 Remaster",
+    "duration_ms": 364946,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "0MWrKayUshRuT8maG4ZAOU",
+    "release_date": "1976-01-23",
+    "popularity": 40
+  },
+  {
+    "trackId": "6Omr4zDMg6XokKVMtxStmw",
+    "name": "Probability Cloud",
+    "duration_ms": 285960,
+    "artist": "Bill Frisell",
+    "artistId": "3SONlwqLIP2GtaMh9pLYe5",
+    "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+    "release_date": "2008-03-15",
+    "popularity": 9
+  }
+]

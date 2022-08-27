@@ -1,1 +1,162 @@
-[{"trackId":"0TLD1RLFqPmpVR5ATWdMz6","name":"Is That All There Is?","duration_ms":262000,"artist":"Peggy Lee","artistId":"602DnpaSXJB4b9DZrvxbDc","albumId":"5g3oYY3KItihWWRhwqtk07","release_date":"1969-01-01","popularity":44},{"trackId":"6W0yiWS14ADfZnRzrvKX14","name":"Överbyvals","duration_ms":226400,"artist":"Carl Anton","artistId":"1cat5qANo5zS8TawCLUGAP","albumId":"1wNQ441mnM041tIOoh3OMi","release_date":"1997","popularity":28},{"trackId":"56XRWdLKEHY8oqP7pEAe3G","name":"Aida / Act 1: Celeste Aida","duration_ms":207400,"artist":"Giuseppe Verdi","artistId":"1JOQXgYdQV2yfrhewqx96o","albumId":"6cwHOkPnjdu4Jxu3VeVtKF","release_date":"2022-06-01","popularity":1},{"trackId":"3x6KyIGq8DxESh3cYIZxfF","name":"Med Ögon Känsliga För Grönt","duration_ms":255800,"artist":"Gunilla Backman","artistId":"6zo2bHN4q6GOIwdWENy8kH","albumId":"1hfLx0PKkNWnGruEpXQDbZ","release_date":"2006-10-18","popularity":1},{"trackId":"0wJRSqwnP2vx02j0XBznwJ","name":"Can Anyone Explain - 2002 Remastered Version","duration_ms":188653,"artist":"Ella Fitzgerald","artistId":"5V0MlUE1Bft0mbLlND7FJz","albumId":"3JkaJFyUrxToI7aIpBizYi","release_date":"2002-11-04","popularity":20},{"trackId":"51Sf4BKVEpdVoVmNuhM9nG","name":"Symphony No. 2 In C Minor - \"Resurrection\" / 1st Movement - Allegro maestoso (Totenfeier): Ausdrucksvoll (English horn & bass clarinet)","duration_ms":137933,"artist":"Gustav Mahler","artistId":"2ANtgfhQkKpsW6EYSDqldz","albumId":"7gT4IDM5LLU3z9uU2tcbB6","release_date":"2003-01-01","popularity":27},{"trackId":"23UbRcbWIsgqDDAExRJqS1","name":"Mack The Knife","duration_ms":292240,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"4zvku3SSgsUaVRsvcCZ1aU","release_date":"1984-01-01","popularity":38},{"trackId":"62gZY6joWPt97hbsbIdd4t","name":"Att angöra en brygga","duration_ms":153826,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"5fSDA3K2BP3bHRwOQyySo0","release_date":"2001-01-01","popularity":46},{"trackId":"1RwQZNgaXl01krZHuSUlE8","name":"BUBBEL PÅ BALKONGEN","duration_ms":166062,"artist":"Elov & Beny","artistId":"4uAXlCewJdAu44uAHehKfd","albumId":"09dL2m4Jx62jwDYqGhtCcn","release_date":"2022-06-24","popularity":74},{"trackId":"21P3jLXHYAzbb0v06CVYZS","name":"Mazurka Op.7 No.5","duration_ms":31479,"artist":"Spring Music","artistId":"3PfBKTz6rYAjxFT8GNBS9t","albumId":"5c1vxqgS9OSM6xWYcq2ic6","release_date":"2019-02-27","popularity":35},{"trackId":"29FNeqjOV2kPWGS55qhtGB","name":"Money, Money, Money","duration_ms":186786,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"2cKZfaz7GiGtZEeQNj1RyR","release_date":"2008-01-01","popularity":64},{"trackId":"6e38HvOxLS1j0TCAhGFz2Z","name":"My Heart Belongs to Daddy","duration_ms":301413,"artist":"Marilyn Monroe","artistId":"5sEocv1pFst7o3pam69obY","albumId":"0SH5DsuoVpQfEULF6NGFsa","release_date":"2012-09-03","popularity":33},{"trackId":"6OuRbvP4PgbuzBIapVzmFJ","name":"Sailing","duration_ms":277960,"artist":"Rod Stewart","artistId":"2y8Jo9CKhJvtfeKOsYzRdT","albumId":"7vV3q5jE7DSuKsnHr7OmmN","release_date":"1975","popularity":67},{"trackId":"1elo48azWVdMM3yadyDJlA","name":"Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro","duration_ms":367800,"artist":"Wolfgang Amadeus Mozart","artistId":"4NJhFmfw43RLBLjQvxDuRS","albumId":"5Z5KuSEf2kwvokOejRaQ8I","release_date":"2006-01-17","popularity":38},{"trackId":"1vBV8g43wck8Vd3AHpudB5","name":"You Still Believe In Me","duration_ms":186666,"artist":"Anne Sofie von Otter","artistId":"4pFlv4QVInj7bAo0MqHpwW","albumId":"0fUffGylGjIiZQ3FOVzeqK","release_date":"2001-01-01","popularity":15},{"trackId":"5m3XMzewNg9EADweC7j7Nn","name":"Embraceable You","duration_ms":291173,"artist":"Sarah Vaughan","artistId":"1bgyxtWjZwA5PQlDsvs9b8","albumId":"7wX89EWCK8cNZeGnBS5bMG","release_date":"1954-12-01","popularity":52}]
+[
+  {
+    "trackId": "0TLD1RLFqPmpVR5ATWdMz6",
+    "name": "Is That All There Is?",
+    "duration_ms": 262000,
+    "artist": "Peggy Lee",
+    "artistId": "602DnpaSXJB4b9DZrvxbDc",
+    "albumId": "5g3oYY3KItihWWRhwqtk07",
+    "release_date": "1969-01-01",
+    "popularity": 44
+  },
+  {
+    "trackId": "6W0yiWS14ADfZnRzrvKX14",
+    "name": "Överbyvals",
+    "duration_ms": 226400,
+    "artist": "Carl Anton",
+    "artistId": "1cat5qANo5zS8TawCLUGAP",
+    "albumId": "1wNQ441mnM041tIOoh3OMi",
+    "release_date": "1997",
+    "popularity": 28
+  },
+  {
+    "trackId": "56XRWdLKEHY8oqP7pEAe3G",
+    "name": "Aida / Act 1: Celeste Aida",
+    "duration_ms": 207400,
+    "artist": "Giuseppe Verdi",
+    "artistId": "1JOQXgYdQV2yfrhewqx96o",
+    "albumId": "6cwHOkPnjdu4Jxu3VeVtKF",
+    "release_date": "2022-06-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "3x6KyIGq8DxESh3cYIZxfF",
+    "name": "Med Ögon Känsliga För Grönt",
+    "duration_ms": 255800,
+    "artist": "Gunilla Backman",
+    "artistId": "6zo2bHN4q6GOIwdWENy8kH",
+    "albumId": "1hfLx0PKkNWnGruEpXQDbZ",
+    "release_date": "2006-10-18",
+    "popularity": 1
+  },
+  {
+    "trackId": "0wJRSqwnP2vx02j0XBznwJ",
+    "name": "Can Anyone Explain - 2002 Remastered Version",
+    "duration_ms": 188653,
+    "artist": "Ella Fitzgerald",
+    "artistId": "5V0MlUE1Bft0mbLlND7FJz",
+    "albumId": "3JkaJFyUrxToI7aIpBizYi",
+    "release_date": "2002-11-04",
+    "popularity": 20
+  },
+  {
+    "trackId": "51Sf4BKVEpdVoVmNuhM9nG",
+    "name": "Symphony No. 2 In C Minor - \"Resurrection\" / 1st Movement - Allegro maestoso (Totenfeier): Ausdrucksvoll (English horn & bass clarinet)",
+    "duration_ms": 137933,
+    "artist": "Gustav Mahler",
+    "artistId": "2ANtgfhQkKpsW6EYSDqldz",
+    "albumId": "7gT4IDM5LLU3z9uU2tcbB6",
+    "release_date": "2003-01-01",
+    "popularity": 27
+  },
+  {
+    "trackId": "23UbRcbWIsgqDDAExRJqS1",
+    "name": "Mack The Knife",
+    "duration_ms": 292240,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "4zvku3SSgsUaVRsvcCZ1aU",
+    "release_date": "1984-01-01",
+    "popularity": 38
+  },
+  {
+    "trackId": "62gZY6joWPt97hbsbIdd4t",
+    "name": "Att angöra en brygga",
+    "duration_ms": 153826,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+    "release_date": "2001-01-01",
+    "popularity": 46
+  },
+  {
+    "trackId": "1RwQZNgaXl01krZHuSUlE8",
+    "name": "BUBBEL PÅ BALKONGEN",
+    "duration_ms": 166062,
+    "artist": "Elov & Beny",
+    "artistId": "4uAXlCewJdAu44uAHehKfd",
+    "albumId": "09dL2m4Jx62jwDYqGhtCcn",
+    "release_date": "2022-06-24",
+    "popularity": 74
+  },
+  {
+    "trackId": "21P3jLXHYAzbb0v06CVYZS",
+    "name": "Mazurka Op.7 No.5",
+    "duration_ms": 31479,
+    "artist": "Spring Music",
+    "artistId": "3PfBKTz6rYAjxFT8GNBS9t",
+    "albumId": "5c1vxqgS9OSM6xWYcq2ic6",
+    "release_date": "2019-02-27",
+    "popularity": 35
+  },
+  {
+    "trackId": "29FNeqjOV2kPWGS55qhtGB",
+    "name": "Money, Money, Money",
+    "duration_ms": 186786,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "2cKZfaz7GiGtZEeQNj1RyR",
+    "release_date": "2008-01-01",
+    "popularity": 64
+  },
+  {
+    "trackId": "6e38HvOxLS1j0TCAhGFz2Z",
+    "name": "My Heart Belongs to Daddy",
+    "duration_ms": 301413,
+    "artist": "Marilyn Monroe",
+    "artistId": "5sEocv1pFst7o3pam69obY",
+    "albumId": "0SH5DsuoVpQfEULF6NGFsa",
+    "release_date": "2012-09-03",
+    "popularity": 33
+  },
+  {
+    "trackId": "6OuRbvP4PgbuzBIapVzmFJ",
+    "name": "Sailing",
+    "duration_ms": 277960,
+    "artist": "Rod Stewart",
+    "artistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+    "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+    "release_date": "1975",
+    "popularity": 67
+  },
+  {
+    "trackId": "1elo48azWVdMM3yadyDJlA",
+    "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro",
+    "duration_ms": 367800,
+    "artist": "Wolfgang Amadeus Mozart",
+    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
+    "albumId": "5Z5KuSEf2kwvokOejRaQ8I",
+    "release_date": "2006-01-17",
+    "popularity": 38
+  },
+  {
+    "trackId": "1vBV8g43wck8Vd3AHpudB5",
+    "name": "You Still Believe In Me",
+    "duration_ms": 186666,
+    "artist": "Anne Sofie von Otter",
+    "artistId": "4pFlv4QVInj7bAo0MqHpwW",
+    "albumId": "0fUffGylGjIiZQ3FOVzeqK",
+    "release_date": "2001-01-01",
+    "popularity": 15
+  },
+  {
+    "trackId": "5m3XMzewNg9EADweC7j7Nn",
+    "name": "Embraceable You",
+    "duration_ms": 291173,
+    "artist": "Sarah Vaughan",
+    "artistId": "1bgyxtWjZwA5PQlDsvs9b8",
+    "albumId": "7wX89EWCK8cNZeGnBS5bMG",
+    "release_date": "1954-12-01",
+    "popularity": 52
+  }
+]

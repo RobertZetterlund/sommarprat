@@ -1,1 +1,162 @@
-[{"trackId":"6BTBrjHb6UbJYqzchaO2Bx","name":"Mediterraneo","duration_ms":245000,"artist":"Giancarlo Bigazzi","artistId":"5Yo8TV7xBHXH9EhIroOxkC","albumId":"7C3aJ7CRrQmURUOAOwgyxJ","release_date":"1991","popularity":28},{"trackId":"5oE6INocVL9viDow5y8QNM","name":"Fragile","duration_ms":236306,"artist":"Sting","artistId":"0Ty63ceoRnnJKVEYP0VQpk","albumId":"3mVCQqgwEvwD7lHy9KHi7R","release_date":"1987-01-01","popularity":63},{"trackId":"0AbWcaFA1bsObTMmsgPnBo","name":"Tonight","duration_ms":174626,"artist":"Koop","artistId":"7wyBxBXLVLaiF2jxHCpvTe","albumId":"0X1R9oJfADbmCxXb4II8G8","release_date":"2001-01-01","popularity":37},{"trackId":"5O18rD3HLXnHzgYhX1JE6D","name":"Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande","duration_ms":191346,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"4AfccVPHUrtjjgs0bq4cp2","release_date":"2002-10-07","popularity":38},{"trackId":"38JzMF0QptaZ4NkjlvSxql","name":"For Keith Jarrett","duration_ms":199015,"artist":"Ola W Jansson","artistId":"4hoFdBmz4b5NykkV0SCEVz","albumId":"5cOvxmt5iLyz2c1Rm8Au75","release_date":"2020-11-06","popularity":49},{"trackId":"6iHdZKflMnin0cgiNBK2FO","name":"Lauren","duration_ms":266706,"artist":"Benny Anderssons Orkester","artistId":"5KcJSAFLAEtpCkK5EI0KLS","albumId":"1s5COefw7fWcruo5qMkfUj","release_date":"2007-01-01","popularity":12},{"trackId":"4migrLu6mRQqQLHp4f7iYo","name":"Handens fem fingrar","duration_ms":247933,"artist":"Peter LeMarc","artistId":"4VKbol7eCoEJUemlKvE3Ve","albumId":"23MCUCb53mQcJl5TfHjMf0","release_date":"2005-08-24","popularity":32},{"trackId":"5O18rD3HLXnHzgYhX1JE6D","name":"Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande","duration_ms":191346,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"4AfccVPHUrtjjgs0bq4cp2","release_date":"2002-10-07","popularity":38},{"trackId":"58VVEDJ8NK12UqV0bApBzn","name":"Piano Sonata No. 15 in F Major, K. 533/494: 1. Allegro, K. 533","duration_ms":494000,"artist":"Wolfgang Amadeus Mozart","artistId":"4NJhFmfw43RLBLjQvxDuRS","albumId":"37qHlAzBNRI9UahnOI9lvr","release_date":"2003-01-01","popularity":42},{"trackId":"1dODFBTSea9xj8ro4OEQmk","name":"OSKULD","duration_ms":116076,"artist":"Rasmus Gozzi","artistId":"3loTvAld5Tpk5aSNbboGpj","albumId":"1ywqOgvXOME3cbiNImHhR6","release_date":"2021-06-11","popularity":44},{"trackId":"57sOPg6NWAPoPihScGeXEQ","name":"My Favorite Things, Pt. 1 (Single Version)","duration_ms":167000,"artist":"John Coltrane","artistId":"2hGh5VOeeqimQFxqXvfCUf","albumId":"0g2VY07b4xNLav29i25s2m","release_date":"2018-05-09","popularity":16},{"trackId":"1DaKM1Mzf9cOhHF9eKZZ4w","name":"Fibre De Verre","duration_ms":220933,"artist":"Paris Combo","artistId":"5xDjKV6UvzyrI3RnwHq02G","albumId":"4Th7DyvnAE6nMqjTrNnsqS","release_date":"2001-01-01","popularity":56},{"trackId":"14lyZKpPu1ECQpfXhgrip6","name":"Goldberg Variations, BWV 988: Variation 4 a 1 Clav.","duration_ms":50480,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"1aCpHSQE5ghxibsQ5gkBe0","release_date":"1981","popularity":42},{"trackId":"0kHHwAAb7Zd76Cud4sWvdz","name":"Bli Min","duration_ms":167142,"artist":"Eva Eastwood","artistId":"0Oab0T0VwxapaYLWgHFWhH","albumId":"0jc05a959i3KHX3lWNS3Es","release_date":"2011-04-20","popularity":35},{"trackId":"06e8JNPVkQAVfFnEkf2EFt","name":"Undantag","duration_ms":256959,"artist":"Bo Kaspers Orkester","artistId":"2VE6Ge0qFHrqDC6KG6ECJn","albumId":"2q9d8xI0lKnCJn4U6YM4wM","release_date":"1998-09-25","popularity":44},{"trackId":"4H074iCEGH6qKmrroBtjV1","name":"Tanta Til Beate","duration_ms":219715,"artist":"Lillebjørn Nilsen","artistId":"2cEkdzGxcB731g81iUsH6e","albumId":"60ho1oZFKQpCjkNqQigoSz","release_date":"1986","popularity":32}]
+[
+  {
+    "trackId": "6BTBrjHb6UbJYqzchaO2Bx",
+    "name": "Mediterraneo",
+    "duration_ms": 245000,
+    "artist": "Giancarlo Bigazzi",
+    "artistId": "5Yo8TV7xBHXH9EhIroOxkC",
+    "albumId": "7C3aJ7CRrQmURUOAOwgyxJ",
+    "release_date": "1991",
+    "popularity": 28
+  },
+  {
+    "trackId": "5oE6INocVL9viDow5y8QNM",
+    "name": "Fragile",
+    "duration_ms": 236306,
+    "artist": "Sting",
+    "artistId": "0Ty63ceoRnnJKVEYP0VQpk",
+    "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+    "release_date": "1987-01-01",
+    "popularity": 63
+  },
+  {
+    "trackId": "0AbWcaFA1bsObTMmsgPnBo",
+    "name": "Tonight",
+    "duration_ms": 174626,
+    "artist": "Koop",
+    "artistId": "7wyBxBXLVLaiF2jxHCpvTe",
+    "albumId": "0X1R9oJfADbmCxXb4II8G8",
+    "release_date": "2001-01-01",
+    "popularity": 37
+  },
+  {
+    "trackId": "5O18rD3HLXnHzgYhX1JE6D",
+    "name": "Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande",
+    "duration_ms": 191346,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "4AfccVPHUrtjjgs0bq4cp2",
+    "release_date": "2002-10-07",
+    "popularity": 38
+  },
+  {
+    "trackId": "38JzMF0QptaZ4NkjlvSxql",
+    "name": "For Keith Jarrett",
+    "duration_ms": 199015,
+    "artist": "Ola W Jansson",
+    "artistId": "4hoFdBmz4b5NykkV0SCEVz",
+    "albumId": "5cOvxmt5iLyz2c1Rm8Au75",
+    "release_date": "2020-11-06",
+    "popularity": 49
+  },
+  {
+    "trackId": "6iHdZKflMnin0cgiNBK2FO",
+    "name": "Lauren",
+    "duration_ms": 266706,
+    "artist": "Benny Anderssons Orkester",
+    "artistId": "5KcJSAFLAEtpCkK5EI0KLS",
+    "albumId": "1s5COefw7fWcruo5qMkfUj",
+    "release_date": "2007-01-01",
+    "popularity": 12
+  },
+  {
+    "trackId": "4migrLu6mRQqQLHp4f7iYo",
+    "name": "Handens fem fingrar",
+    "duration_ms": 247933,
+    "artist": "Peter LeMarc",
+    "artistId": "4VKbol7eCoEJUemlKvE3Ve",
+    "albumId": "23MCUCb53mQcJl5TfHjMf0",
+    "release_date": "2005-08-24",
+    "popularity": 32
+  },
+  {
+    "trackId": "5O18rD3HLXnHzgYhX1JE6D",
+    "name": "Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande",
+    "duration_ms": 191346,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "4AfccVPHUrtjjgs0bq4cp2",
+    "release_date": "2002-10-07",
+    "popularity": 38
+  },
+  {
+    "trackId": "58VVEDJ8NK12UqV0bApBzn",
+    "name": "Piano Sonata No. 15 in F Major, K. 533/494: 1. Allegro, K. 533",
+    "duration_ms": 494000,
+    "artist": "Wolfgang Amadeus Mozart",
+    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
+    "albumId": "37qHlAzBNRI9UahnOI9lvr",
+    "release_date": "2003-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "1dODFBTSea9xj8ro4OEQmk",
+    "name": "OSKULD",
+    "duration_ms": 116076,
+    "artist": "Rasmus Gozzi",
+    "artistId": "3loTvAld5Tpk5aSNbboGpj",
+    "albumId": "1ywqOgvXOME3cbiNImHhR6",
+    "release_date": "2021-06-11",
+    "popularity": 44
+  },
+  {
+    "trackId": "57sOPg6NWAPoPihScGeXEQ",
+    "name": "My Favorite Things, Pt. 1 (Single Version)",
+    "duration_ms": 167000,
+    "artist": "John Coltrane",
+    "artistId": "2hGh5VOeeqimQFxqXvfCUf",
+    "albumId": "0g2VY07b4xNLav29i25s2m",
+    "release_date": "2018-05-09",
+    "popularity": 16
+  },
+  {
+    "trackId": "1DaKM1Mzf9cOhHF9eKZZ4w",
+    "name": "Fibre De Verre",
+    "duration_ms": 220933,
+    "artist": "Paris Combo",
+    "artistId": "5xDjKV6UvzyrI3RnwHq02G",
+    "albumId": "4Th7DyvnAE6nMqjTrNnsqS",
+    "release_date": "2001-01-01",
+    "popularity": 56
+  },
+  {
+    "trackId": "14lyZKpPu1ECQpfXhgrip6",
+    "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+    "duration_ms": 50480,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+    "release_date": "1981",
+    "popularity": 42
+  },
+  {
+    "trackId": "0kHHwAAb7Zd76Cud4sWvdz",
+    "name": "Bli Min",
+    "duration_ms": 167142,
+    "artist": "Eva Eastwood",
+    "artistId": "0Oab0T0VwxapaYLWgHFWhH",
+    "albumId": "0jc05a959i3KHX3lWNS3Es",
+    "release_date": "2011-04-20",
+    "popularity": 35
+  },
+  {
+    "trackId": "06e8JNPVkQAVfFnEkf2EFt",
+    "name": "Undantag",
+    "duration_ms": 256959,
+    "artist": "Bo Kaspers Orkester",
+    "artistId": "2VE6Ge0qFHrqDC6KG6ECJn",
+    "albumId": "2q9d8xI0lKnCJn4U6YM4wM",
+    "release_date": "1998-09-25",
+    "popularity": 44
+  },
+  {
+    "trackId": "4H074iCEGH6qKmrroBtjV1",
+    "name": "Tanta Til Beate",
+    "duration_ms": 219715,
+    "artist": "Lillebjørn Nilsen",
+    "artistId": "2cEkdzGxcB731g81iUsH6e",
+    "albumId": "60ho1oZFKQpCjkNqQigoSz",
+    "release_date": "1986",
+    "popularity": 32
+  }
+]

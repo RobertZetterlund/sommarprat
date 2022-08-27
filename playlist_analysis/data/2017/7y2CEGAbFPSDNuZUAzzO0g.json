@@ -1,1 +1,132 @@
-[{"trackId":"6hq4J4gwbqLgiAzgiK5fsv","name":"Sånt är livet (Zendegi Iyne)","duration_ms":250680,"artist":"Urban Turban","artistId":"43uMn2YlX70ZjuYXCpq4ez","albumId":"5hgTW71LCbW0rhbJZtzLpm","release_date":"2017-05-26","popularity":2},{"trackId":"5nJ96pOx3kXvmISLO7xKIb","name":"All Apologies","duration_ms":157733,"artist":"Sinéad O'Connor","artistId":"4sD9znwiVFx9cgRPZ42aQ1","albumId":"7u20BJTgQrowjyaTEgE46p","release_date":"1994-09-13","popularity":50},{"trackId":"5I5oFe1QzAdnvkSgQrcjHL","name":"Kaffe och en cigarett","duration_ms":183000,"artist":"Olle Ljungström","artistId":"6wjchRNcNNSn1wPIaIiRq8","albumId":"6ZRsyKIqDhKvLjD0EJAJXR","release_date":"2000-03-17","popularity":37},{"trackId":"1rsTANyQavJLIiPIFUgoiM","name":"Suzanne","duration_ms":259866,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"6T4nAC6CRLciyg4tQbgovi","release_date":"1969","popularity":44},{"trackId":"379m0tM4s4MSK7T3H0nt1E","name":"Keep Change Kairitu","duration_ms":268826,"artist":"Gatanga Boys Band","artistId":"5dsjA8TQ0piNelFQ1c6pTJ","albumId":"4j6rzICnhHJddgEaDGtjj0","release_date":"2013-04-29","popularity":9},{"trackId":"0NCDO286dz3TPIAGinIF2M","name":"Dighi Bongo","duration_ms":225506,"artist":"Dj Maxwell","artistId":"66rFXAySBEIUzLHZ7qGNMa","albumId":"5P07aEfDguYBAccjpDK8As","release_date":"2010-07-06","popularity":30},{"trackId":"2fGuXtlWoQL9vBZUjbsvnQ","name":"Avestaforsens brus","duration_ms":175560,"artist":"Carl Jularbo","artistId":"2W9OOsMnU1cXV62u1CfOzq","albumId":"1gmQnqoHjyDCms6UqejYvp","release_date":"2011-05-03","popularity":15},{"trackId":"5zBHW8XqRkvgohywubTzxa","name":"Moreno morenado","duration_ms":233320,"artist":"Dona Onete","artistId":"5A70LBFCFtNwOmbPj5g5uc","albumId":"5R4jMU0vjVjpetTo8mGLx0","release_date":"2014-10-11","popularity":16},{"trackId":"02FzQPhFKmRRs82L1GTq64","name":"Papadanmabalah","duration_ms":279706,"artist":"Toto Bissainthe","artistId":"0OQATyHsY2Zgr7NlvARJ7j","albumId":"7u2pdIeutf4dFZFn9brpk9","release_date":"1989","popularity":18},{"trackId":"4FJJq6FyEkdk6WZqQSKfMF","name":"Old Beauty/Du Kan Nu Dö","duration_ms":382040,"artist":"Anna von Hausswolff","artistId":"1eiXrvua27VlWgZ9kiaIn6","albumId":"7sKxyjSSUkjq95jIR4oSiw","release_date":"2010-06-14","popularity":25},{"trackId":"50F9WqEC0iXjxQ7JkcXQb0","name":"Ett hål i lakanet","duration_ms":272746,"artist":"Barbro Hörberg","artistId":"7urXjli8ptr8Y8Z0XLtiJ9","albumId":"0SrGEG4PYLb68zVZ7Ser4u","release_date":"1973-01-01","popularity":21},{"trackId":"338Qg20DDgGAuQcGQjdZYG","name":"What a Gwan","duration_ms":234493,"artist":"Lady G","artistId":"1C5RzkueJX7bh2ZrzpA2fa","albumId":"3WKtGddV47DQtGmtF5AEwk","release_date":"2009-07-07","popularity":2},{"trackId":"28RIlXslqMuMDUBXRFUIhz","name":"Walk","duration_ms":227533,"artist":"Fleshquartet","artistId":"4lB4GxfCWC7Hhlzb20lhCg","albumId":"0NRAIlPg85CbCPLjrQtq35","release_date":"1993-01-01","popularity":23}]
+[
+  {
+    "trackId": "6hq4J4gwbqLgiAzgiK5fsv",
+    "name": "Sånt är livet (Zendegi Iyne)",
+    "duration_ms": 250680,
+    "artist": "Urban Turban",
+    "artistId": "43uMn2YlX70ZjuYXCpq4ez",
+    "albumId": "5hgTW71LCbW0rhbJZtzLpm",
+    "release_date": "2017-05-26",
+    "popularity": 2
+  },
+  {
+    "trackId": "5nJ96pOx3kXvmISLO7xKIb",
+    "name": "All Apologies",
+    "duration_ms": 157733,
+    "artist": "Sinéad O'Connor",
+    "artistId": "4sD9znwiVFx9cgRPZ42aQ1",
+    "albumId": "7u20BJTgQrowjyaTEgE46p",
+    "release_date": "1994-09-13",
+    "popularity": 50
+  },
+  {
+    "trackId": "5I5oFe1QzAdnvkSgQrcjHL",
+    "name": "Kaffe och en cigarett",
+    "duration_ms": 183000,
+    "artist": "Olle Ljungström",
+    "artistId": "6wjchRNcNNSn1wPIaIiRq8",
+    "albumId": "6ZRsyKIqDhKvLjD0EJAJXR",
+    "release_date": "2000-03-17",
+    "popularity": 37
+  },
+  {
+    "trackId": "1rsTANyQavJLIiPIFUgoiM",
+    "name": "Suzanne",
+    "duration_ms": 259866,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "6T4nAC6CRLciyg4tQbgovi",
+    "release_date": "1969",
+    "popularity": 44
+  },
+  {
+    "trackId": "379m0tM4s4MSK7T3H0nt1E",
+    "name": "Keep Change Kairitu",
+    "duration_ms": 268826,
+    "artist": "Gatanga Boys Band",
+    "artistId": "5dsjA8TQ0piNelFQ1c6pTJ",
+    "albumId": "4j6rzICnhHJddgEaDGtjj0",
+    "release_date": "2013-04-29",
+    "popularity": 9
+  },
+  {
+    "trackId": "0NCDO286dz3TPIAGinIF2M",
+    "name": "Dighi Bongo",
+    "duration_ms": 225506,
+    "artist": "Dj Maxwell",
+    "artistId": "66rFXAySBEIUzLHZ7qGNMa",
+    "albumId": "5P07aEfDguYBAccjpDK8As",
+    "release_date": "2010-07-06",
+    "popularity": 30
+  },
+  {
+    "trackId": "2fGuXtlWoQL9vBZUjbsvnQ",
+    "name": "Avestaforsens brus",
+    "duration_ms": 175560,
+    "artist": "Carl Jularbo",
+    "artistId": "2W9OOsMnU1cXV62u1CfOzq",
+    "albumId": "1gmQnqoHjyDCms6UqejYvp",
+    "release_date": "2011-05-03",
+    "popularity": 15
+  },
+  {
+    "trackId": "5zBHW8XqRkvgohywubTzxa",
+    "name": "Moreno morenado",
+    "duration_ms": 233320,
+    "artist": "Dona Onete",
+    "artistId": "5A70LBFCFtNwOmbPj5g5uc",
+    "albumId": "5R4jMU0vjVjpetTo8mGLx0",
+    "release_date": "2014-10-11",
+    "popularity": 16
+  },
+  {
+    "trackId": "02FzQPhFKmRRs82L1GTq64",
+    "name": "Papadanmabalah",
+    "duration_ms": 279706,
+    "artist": "Toto Bissainthe",
+    "artistId": "0OQATyHsY2Zgr7NlvARJ7j",
+    "albumId": "7u2pdIeutf4dFZFn9brpk9",
+    "release_date": "1989",
+    "popularity": 18
+  },
+  {
+    "trackId": "4FJJq6FyEkdk6WZqQSKfMF",
+    "name": "Old Beauty/Du Kan Nu Dö",
+    "duration_ms": 382040,
+    "artist": "Anna von Hausswolff",
+    "artistId": "1eiXrvua27VlWgZ9kiaIn6",
+    "albumId": "7sKxyjSSUkjq95jIR4oSiw",
+    "release_date": "2010-06-14",
+    "popularity": 25
+  },
+  {
+    "trackId": "50F9WqEC0iXjxQ7JkcXQb0",
+    "name": "Ett hål i lakanet",
+    "duration_ms": 272746,
+    "artist": "Barbro Hörberg",
+    "artistId": "7urXjli8ptr8Y8Z0XLtiJ9",
+    "albumId": "0SrGEG4PYLb68zVZ7Ser4u",
+    "release_date": "1973-01-01",
+    "popularity": 21
+  },
+  {
+    "trackId": "338Qg20DDgGAuQcGQjdZYG",
+    "name": "What a Gwan",
+    "duration_ms": 234493,
+    "artist": "Lady G",
+    "artistId": "1C5RzkueJX7bh2ZrzpA2fa",
+    "albumId": "3WKtGddV47DQtGmtF5AEwk",
+    "release_date": "2009-07-07",
+    "popularity": 2
+  },
+  {
+    "trackId": "28RIlXslqMuMDUBXRFUIhz",
+    "name": "Walk",
+    "duration_ms": 227533,
+    "artist": "Fleshquartet",
+    "artistId": "4lB4GxfCWC7Hhlzb20lhCg",
+    "albumId": "0NRAIlPg85CbCPLjrQtq35",
+    "release_date": "1993-01-01",
+    "popularity": 23
+  }
+]

@@ -1,1 +1,132 @@
-[{"trackId":"1512aL09grQ5uTesJB3GOi","name":"Political World","duration_ms":228800,"artist":"Bob Dylan","artistId":"74ASZWbe4lXaubB36ztrGX","albumId":"18ue4s9PsV3WBw7kkzD689","release_date":"1989-09-22","popularity":33},{"trackId":"2fgJCZSx0LZHdB4v4orZqp","name":"Too Much Attention","duration_ms":158600,"artist":"Gilbert O'Sullivan","artistId":"4HVmeVTQBgvTuvjB1JYwaf","albumId":"6oJm24NHVvXtKvkCpAnjzb","release_date":"1971-01-01","popularity":40},{"trackId":"32VJzDFESJnkerawVqaCkR","name":"Lullaby (Brahms) - Commentary","duration_ms":50508,"artist":"Yo-Yo Ma","artistId":"5Dl3HXZjG6ZOWT5cV375lk","albumId":"2VC9HSTtGnnTtA7PFiiw89","release_date":"2015-09-17","popularity":4},{"trackId":"2EC9IJj7g0mN1Q5VrZkiYY","name":"Rebel Rebel - 2016 Remaster","duration_ms":274746,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"72mfhbEsMtXR6s7v9UhKe3","release_date":"1974-05-24","popularity":72},{"trackId":"15k8B2ZYYjrGU34RT0Uj7s","name":"Dancing In The Dark","duration_ms":200493,"artist":"Amy Macdonald","artistId":"1hJuGCUpefX24GFmss9bjH","albumId":"7MtUwLymse1TFpgKTKdv6o","release_date":"2009-01-01","popularity":39},{"trackId":"1uXbwHHfgsXcUKfSZw5ZJ0","name":"Run the World (Girls)","duration_ms":236093,"artist":"Beyoncé","artistId":"6vWDO969PvNqNYHIOW5v0m","albumId":"1gIC63gC3B7o7FfpPACZQJ","release_date":"2011-06-24","popularity":72},{"trackId":"3dkIE8P7hvl3tHl9KSb6dA","name":"Non, je ne regrette rien","duration_ms":142280,"artist":"Édith Piaf","artistId":"1WPcVNert9hn7mHsPKDn7j","albumId":"2k3nz0I7mJzegtkooii4za","release_date":"1987-10-31","popularity":64},{"trackId":"1iOCbl30nha2zr676QCioo","name":"Sång till friheten","duration_ms":247613,"artist":"Björn Afzelius","artistId":"0PXQ16KY3iwdfvluCikdn0","albumId":"3TsDsv1c8G0q9K5c9uZ8GE","release_date":"1982-01-01","popularity":41},{"trackId":"7nBARurNPIRVcf81uOFz3i","name":"Jag ger dig min morgon","duration_ms":226426,"artist":"Fred Åkerström","artistId":"66se5dgU4TBgWvHtXrYrz0","albumId":"4P1tHWqUAGpCNylsLXOXBf","release_date":"1972","popularity":50},{"trackId":"194uD6fRM58ztn7Z1Mfyr2","name":"Padam padam","duration_ms":197626,"artist":"Édith Piaf","artistId":"1WPcVNert9hn7mHsPKDn7j","albumId":"2k3nz0I7mJzegtkooii4za","release_date":"1987-10-31","popularity":52},{"trackId":"7gSQv1OHpkIoAdUiRLdmI6","name":"I Won't Back Down","duration_ms":178360,"artist":"Tom Petty","artistId":"2UZMlIwnkgAEDBsw1Rejkn","albumId":"5d71Imt5CIb7LpQwDMQ093","release_date":"1989-01-01","popularity":74},{"trackId":"5MIoOiIkw77j5OGDlDbM3v","name":"Pay Me My Money Down","duration_ms":269680,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"2O3avtEIE8xX9F0zcIjIZI","release_date":"2006","popularity":43},{"trackId":"7gSpmvpI5iyMw7gRCLPwoA","name":"Aldrig Bli Som Förr","duration_ms":195800,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"4sVpJJTw1dKDGlTprOvafq","release_date":"2016-09-16","popularity":37}]
+[
+  {
+    "trackId": "1512aL09grQ5uTesJB3GOi",
+    "name": "Political World",
+    "duration_ms": 228800,
+    "artist": "Bob Dylan",
+    "artistId": "74ASZWbe4lXaubB36ztrGX",
+    "albumId": "18ue4s9PsV3WBw7kkzD689",
+    "release_date": "1989-09-22",
+    "popularity": 33
+  },
+  {
+    "trackId": "2fgJCZSx0LZHdB4v4orZqp",
+    "name": "Too Much Attention",
+    "duration_ms": 158600,
+    "artist": "Gilbert O'Sullivan",
+    "artistId": "4HVmeVTQBgvTuvjB1JYwaf",
+    "albumId": "6oJm24NHVvXtKvkCpAnjzb",
+    "release_date": "1971-01-01",
+    "popularity": 40
+  },
+  {
+    "trackId": "32VJzDFESJnkerawVqaCkR",
+    "name": "Lullaby (Brahms) - Commentary",
+    "duration_ms": 50508,
+    "artist": "Yo-Yo Ma",
+    "artistId": "5Dl3HXZjG6ZOWT5cV375lk",
+    "albumId": "2VC9HSTtGnnTtA7PFiiw89",
+    "release_date": "2015-09-17",
+    "popularity": 4
+  },
+  {
+    "trackId": "2EC9IJj7g0mN1Q5VrZkiYY",
+    "name": "Rebel Rebel - 2016 Remaster",
+    "duration_ms": 274746,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "72mfhbEsMtXR6s7v9UhKe3",
+    "release_date": "1974-05-24",
+    "popularity": 72
+  },
+  {
+    "trackId": "15k8B2ZYYjrGU34RT0Uj7s",
+    "name": "Dancing In The Dark",
+    "duration_ms": 200493,
+    "artist": "Amy Macdonald",
+    "artistId": "1hJuGCUpefX24GFmss9bjH",
+    "albumId": "7MtUwLymse1TFpgKTKdv6o",
+    "release_date": "2009-01-01",
+    "popularity": 39
+  },
+  {
+    "trackId": "1uXbwHHfgsXcUKfSZw5ZJ0",
+    "name": "Run the World (Girls)",
+    "duration_ms": 236093,
+    "artist": "Beyoncé",
+    "artistId": "6vWDO969PvNqNYHIOW5v0m",
+    "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+    "release_date": "2011-06-24",
+    "popularity": 72
+  },
+  {
+    "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
+    "name": "Non, je ne regrette rien",
+    "duration_ms": 142280,
+    "artist": "Édith Piaf",
+    "artistId": "1WPcVNert9hn7mHsPKDn7j",
+    "albumId": "2k3nz0I7mJzegtkooii4za",
+    "release_date": "1987-10-31",
+    "popularity": 64
+  },
+  {
+    "trackId": "1iOCbl30nha2zr676QCioo",
+    "name": "Sång till friheten",
+    "duration_ms": 247613,
+    "artist": "Björn Afzelius",
+    "artistId": "0PXQ16KY3iwdfvluCikdn0",
+    "albumId": "3TsDsv1c8G0q9K5c9uZ8GE",
+    "release_date": "1982-01-01",
+    "popularity": 41
+  },
+  {
+    "trackId": "7nBARurNPIRVcf81uOFz3i",
+    "name": "Jag ger dig min morgon",
+    "duration_ms": 226426,
+    "artist": "Fred Åkerström",
+    "artistId": "66se5dgU4TBgWvHtXrYrz0",
+    "albumId": "4P1tHWqUAGpCNylsLXOXBf",
+    "release_date": "1972",
+    "popularity": 50
+  },
+  {
+    "trackId": "194uD6fRM58ztn7Z1Mfyr2",
+    "name": "Padam padam",
+    "duration_ms": 197626,
+    "artist": "Édith Piaf",
+    "artistId": "1WPcVNert9hn7mHsPKDn7j",
+    "albumId": "2k3nz0I7mJzegtkooii4za",
+    "release_date": "1987-10-31",
+    "popularity": 52
+  },
+  {
+    "trackId": "7gSQv1OHpkIoAdUiRLdmI6",
+    "name": "I Won't Back Down",
+    "duration_ms": 178360,
+    "artist": "Tom Petty",
+    "artistId": "2UZMlIwnkgAEDBsw1Rejkn",
+    "albumId": "5d71Imt5CIb7LpQwDMQ093",
+    "release_date": "1989-01-01",
+    "popularity": 74
+  },
+  {
+    "trackId": "5MIoOiIkw77j5OGDlDbM3v",
+    "name": "Pay Me My Money Down",
+    "duration_ms": 269680,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "2O3avtEIE8xX9F0zcIjIZI",
+    "release_date": "2006",
+    "popularity": 43
+  },
+  {
+    "trackId": "7gSpmvpI5iyMw7gRCLPwoA",
+    "name": "Aldrig Bli Som Förr",
+    "duration_ms": 195800,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "4sVpJJTw1dKDGlTprOvafq",
+    "release_date": "2016-09-16",
+    "popularity": 37
+  }
+]

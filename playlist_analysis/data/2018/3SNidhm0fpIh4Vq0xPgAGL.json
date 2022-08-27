@@ -1,1 +1,142 @@
-[{"trackId":"0jZ4fre462hosE6k5EgRVS","name":"Dansa i neon","duration_ms":202746,"artist":"Lena Philipsson","artistId":"7rZYHhxGKbe1XepzlpDlKm","albumId":"2w4nmMnXhTF3aTh1ENqoa8","release_date":"1987","popularity":42},{"trackId":"7h2jT3YLmtDAxf4cF6rSQu","name":"Dear Jessie","duration_ms":214666,"artist":"Rollergirl","artistId":"4OA1c70ANsRopn5bWmJ0Rk","albumId":"1CRIidVn4zBI4qCIuSEMFs","release_date":"1999-05-29","popularity":57},{"trackId":"5Gyr938nGDm9K0dD7iUYjf","name":"Beautiful Friend","duration_ms":194573,"artist":"Cranes","artistId":"5q2ehaRqAFmM6tLl4vaVwP","albumId":"5KjbfooHQyTPM7hgmZP5lV","release_date":"1993-12-06","popularity":32},{"trackId":"5VUwnAnptSLf4fJLp10r7o","name":"Fiesta","duration_ms":254623,"artist":"The Sunclub","artistId":"4Q2uNd7tfauHbz83sVJmXa","albumId":"5Y41gdtNpabEKwYLZucCXH","release_date":"2011-06-27","popularity":48},{"trackId":"6zFMeegAMYQo0mt8rXtrli","name":"HOLIDAY","duration_ms":154997,"artist":"Lil Nas X","artistId":"7jVv8c5Fj3E9VhNjxT4snq","albumId":"4EvukZrmNBiqJbs3LwOSHu","release_date":"2020-11-13","popularity":72},{"trackId":"1GpnamSg9Ao9rWzPnRCIhu","name":"Paradise","duration_ms":192573,"artist":"The Shangri-Las","artistId":"1WvziZcLLYLoMMdmQx7qcN","albumId":"76fF3MnSilSrvfW1fAWHAZ","release_date":"1996-01-01","popularity":13},{"trackId":"3Q1uMXAuSHVhWM3yGMPmmh","name":"Clara","duration_ms":214916,"artist":"Rebecca & Fiona","artistId":"6rgEPiKjowlMKZC1DF6W75","albumId":"0fnDS7UMg248Rp5IOfPvSb","release_date":"2014-01-01","popularity":13},{"trackId":"3QK1fp2qIED0V6s1PIT4us","name":"Sexy Boy - 12\" Extended Mix","duration_ms":340500,"artist":"The Kinky Boyz","artistId":"4XI2V1OXjErfjBUJWBJUIN","albumId":"3zaG0TGKdlka2fJsFkpDHX","release_date":"2014-10-20","popularity":16},{"trackId":"4LKfcu9xLaZ6HLtTTCez5u","name":"Strawberry Fields Forever","duration_ms":252773,"artist":"Candy flip","artistId":"3r44rqvDeuasJUCcRDddtI","albumId":"15H96lem7nPXaavmnAo0uU","release_date":"1990","popularity":36},{"trackId":"4uhSo9cVBVpdDCNxf4MBaP","name":"Gods & Monsters","duration_ms":237640,"artist":"Lana Del Rey","artistId":"00FQb4jTyendYWaN8pK0wa","albumId":"5VoeRuTrGhTbKelUfwymwu","release_date":"2012-01-01","popularity":59},{"trackId":"2fZ5DgJWxdeeI5CoKJMpFB","name":"Allt har ett slut","duration_ms":152213,"artist":"Little Jinder","artistId":"5QYBoZAoupoPPuFB1KHfx0","albumId":"6s0TKDaBevGiKQKob1dNBo","release_date":"2016-12-11","popularity":16},{"trackId":"2Lrpt9cvJsIHvNEuaY4c6i","name":"Penelope - Ring Edit","duration_ms":66000,"artist":"Djane Pieeep","artistId":"5wqly9dpcqBG0RuPQRELIc","albumId":"5WelQig5klU4LGrdV92A60","release_date":"2018-06-20","popularity":17},{"trackId":"52LJ3hyknOijCrE5gCD0rE","name":"L'Amour Toujours","duration_ms":242053,"artist":"Gigi D'Agostino","artistId":"1OAjDaKgg00KCUYqDe68un","albumId":"61hGQNFwmqGHXm5eeMkd4d","release_date":"2001-05-23","popularity":73},{"trackId":"42ajXqVY4A1FV61TjpTOUR","name":"Introduction","duration_ms":210906,"artist":"Tindersticks","artistId":"3dmSPhg0tdao8ePj4pySJ5","albumId":"6B9NaxHOqYKTwt6sjBZRfv","release_date":"2008-04-27","popularity":11}]
+[
+  {
+    "trackId": "0jZ4fre462hosE6k5EgRVS",
+    "name": "Dansa i neon",
+    "duration_ms": 202746,
+    "artist": "Lena Philipsson",
+    "artistId": "7rZYHhxGKbe1XepzlpDlKm",
+    "albumId": "2w4nmMnXhTF3aTh1ENqoa8",
+    "release_date": "1987",
+    "popularity": 42
+  },
+  {
+    "trackId": "7h2jT3YLmtDAxf4cF6rSQu",
+    "name": "Dear Jessie",
+    "duration_ms": 214666,
+    "artist": "Rollergirl",
+    "artistId": "4OA1c70ANsRopn5bWmJ0Rk",
+    "albumId": "1CRIidVn4zBI4qCIuSEMFs",
+    "release_date": "1999-05-29",
+    "popularity": 57
+  },
+  {
+    "trackId": "5Gyr938nGDm9K0dD7iUYjf",
+    "name": "Beautiful Friend",
+    "duration_ms": 194573,
+    "artist": "Cranes",
+    "artistId": "5q2ehaRqAFmM6tLl4vaVwP",
+    "albumId": "5KjbfooHQyTPM7hgmZP5lV",
+    "release_date": "1993-12-06",
+    "popularity": 32
+  },
+  {
+    "trackId": "5VUwnAnptSLf4fJLp10r7o",
+    "name": "Fiesta",
+    "duration_ms": 254623,
+    "artist": "The Sunclub",
+    "artistId": "4Q2uNd7tfauHbz83sVJmXa",
+    "albumId": "5Y41gdtNpabEKwYLZucCXH",
+    "release_date": "2011-06-27",
+    "popularity": 48
+  },
+  {
+    "trackId": "6zFMeegAMYQo0mt8rXtrli",
+    "name": "HOLIDAY",
+    "duration_ms": 154997,
+    "artist": "Lil Nas X",
+    "artistId": "7jVv8c5Fj3E9VhNjxT4snq",
+    "albumId": "4EvukZrmNBiqJbs3LwOSHu",
+    "release_date": "2020-11-13",
+    "popularity": 72
+  },
+  {
+    "trackId": "1GpnamSg9Ao9rWzPnRCIhu",
+    "name": "Paradise",
+    "duration_ms": 192573,
+    "artist": "The Shangri-Las",
+    "artistId": "1WvziZcLLYLoMMdmQx7qcN",
+    "albumId": "76fF3MnSilSrvfW1fAWHAZ",
+    "release_date": "1996-01-01",
+    "popularity": 13
+  },
+  {
+    "trackId": "3Q1uMXAuSHVhWM3yGMPmmh",
+    "name": "Clara",
+    "duration_ms": 214916,
+    "artist": "Rebecca & Fiona",
+    "artistId": "6rgEPiKjowlMKZC1DF6W75",
+    "albumId": "0fnDS7UMg248Rp5IOfPvSb",
+    "release_date": "2014-01-01",
+    "popularity": 13
+  },
+  {
+    "trackId": "3QK1fp2qIED0V6s1PIT4us",
+    "name": "Sexy Boy - 12\" Extended Mix",
+    "duration_ms": 340500,
+    "artist": "The Kinky Boyz",
+    "artistId": "4XI2V1OXjErfjBUJWBJUIN",
+    "albumId": "3zaG0TGKdlka2fJsFkpDHX",
+    "release_date": "2014-10-20",
+    "popularity": 16
+  },
+  {
+    "trackId": "4LKfcu9xLaZ6HLtTTCez5u",
+    "name": "Strawberry Fields Forever",
+    "duration_ms": 252773,
+    "artist": "Candy flip",
+    "artistId": "3r44rqvDeuasJUCcRDddtI",
+    "albumId": "15H96lem7nPXaavmnAo0uU",
+    "release_date": "1990",
+    "popularity": 36
+  },
+  {
+    "trackId": "4uhSo9cVBVpdDCNxf4MBaP",
+    "name": "Gods & Monsters",
+    "duration_ms": 237640,
+    "artist": "Lana Del Rey",
+    "artistId": "00FQb4jTyendYWaN8pK0wa",
+    "albumId": "5VoeRuTrGhTbKelUfwymwu",
+    "release_date": "2012-01-01",
+    "popularity": 59
+  },
+  {
+    "trackId": "2fZ5DgJWxdeeI5CoKJMpFB",
+    "name": "Allt har ett slut",
+    "duration_ms": 152213,
+    "artist": "Little Jinder",
+    "artistId": "5QYBoZAoupoPPuFB1KHfx0",
+    "albumId": "6s0TKDaBevGiKQKob1dNBo",
+    "release_date": "2016-12-11",
+    "popularity": 16
+  },
+  {
+    "trackId": "2Lrpt9cvJsIHvNEuaY4c6i",
+    "name": "Penelope - Ring Edit",
+    "duration_ms": 66000,
+    "artist": "Djane Pieeep",
+    "artistId": "5wqly9dpcqBG0RuPQRELIc",
+    "albumId": "5WelQig5klU4LGrdV92A60",
+    "release_date": "2018-06-20",
+    "popularity": 17
+  },
+  {
+    "trackId": "52LJ3hyknOijCrE5gCD0rE",
+    "name": "L'Amour Toujours",
+    "duration_ms": 242053,
+    "artist": "Gigi D'Agostino",
+    "artistId": "1OAjDaKgg00KCUYqDe68un",
+    "albumId": "61hGQNFwmqGHXm5eeMkd4d",
+    "release_date": "2001-05-23",
+    "popularity": 73
+  },
+  {
+    "trackId": "42ajXqVY4A1FV61TjpTOUR",
+    "name": "Introduction",
+    "duration_ms": 210906,
+    "artist": "Tindersticks",
+    "artistId": "3dmSPhg0tdao8ePj4pySJ5",
+    "albumId": "6B9NaxHOqYKTwt6sjBZRfv",
+    "release_date": "2008-04-27",
+    "popularity": 11
+  }
+]

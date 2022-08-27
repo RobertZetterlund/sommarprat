@@ -1,1 +1,112 @@
-[{"trackId":"3B78OTaAz811ekgYb27v6x","name":"'Tain't Nobody's Bizness If I Do - Live At The Great American Music Hall/1976","duration_ms":315481,"artist":"Carmen McRae","artistId":"2E3nXyfocf7qfHAIFNbBuj","albumId":"0VvWrfaAqX5s52d7AtrEX7","release_date":"1977-01-01","popularity":1},{"trackId":"0qIPeic4UDhIsWhFcH6oi1","name":"Balladen om det stora slagsmålet på Tegelbacken - Live '62","duration_ms":202293,"artist":"Olle Adolphson","artistId":"4hkOyd0eTeViYkZooM4Jay","albumId":"4zuEyMSVcHs3loG0atOIVf","release_date":"1963-01-01","popularity":18},{"trackId":"0qIPeic4UDhIsWhFcH6oi1","name":"Balladen om det stora slagsmålet på Tegelbacken - Live '62","duration_ms":202293,"artist":"Olle Adolphson","artistId":"4hkOyd0eTeViYkZooM4Jay","albumId":"4zuEyMSVcHs3loG0atOIVf","release_date":"1963-01-01","popularity":18},{"trackId":"5jkd3e1qgmsTWJm3NvQ7X4","name":"Cry Me A River","duration_ms":256866,"artist":"Ella Fitzgerald","artistId":"5V0MlUE1Bft0mbLlND7FJz","albumId":"051AdKfsuNyfiUc81mkJIR","release_date":"1989-06-20","popularity":47},{"trackId":"1RcWWgnw5fVm3wcNq11zBu","name":"Mama Laudaaa","duration_ms":215976,"artist":"Almklausi","artistId":"3f56dbtoRz7bucWJUeofzK","albumId":"4yWhxiH0UB3A6jfr0ZLe4v","release_date":"2018-02-07","popularity":63},{"trackId":"5rgMaZmipkcTqJaJTzWqpt","name":"Svantes lykkelige dag","duration_ms":189880,"artist":"Povl Dissing & Benny Andersen","artistId":"3UtVGJ2KEEedE6EEW2zHZy","albumId":"3WmoVJfWjlDvGJf8RUySv1","release_date":"1998-04-01","popularity":32},{"trackId":"5rgMaZmipkcTqJaJTzWqpt","name":"Svantes lykkelige dag","duration_ms":189880,"artist":"Povl Dissing & Benny Andersen","artistId":"3UtVGJ2KEEedE6EEW2zHZy","albumId":"3WmoVJfWjlDvGJf8RUySv1","release_date":"1998-04-01","popularity":32},{"trackId":"0FwdqCkSZkQoNVFOK2QH8h","name":"Ge mig luft - Albumversion","duration_ms":198226,"artist":"Joss Ture","artistId":"0wGGZ4yAxHbalYM33uHcOF","albumId":"4GUD3FdKcq1IYaR85bZKRA","release_date":"2018-02-23","popularity":3},{"trackId":"0FwdqCkSZkQoNVFOK2QH8h","name":"Ge mig luft - Albumversion","duration_ms":198226,"artist":"Joss Ture","artistId":"0wGGZ4yAxHbalYM33uHcOF","albumId":"4GUD3FdKcq1IYaR85bZKRA","release_date":"2018-02-23","popularity":3},{"trackId":"1oDCK7PW72XEZ1pE5rh87A","name":"Smile","duration_ms":173266,"artist":"Nat King Cole","artistId":"7v4imS0moSyGdXyLgVTIV7","albumId":"3NoP1ifIejWkGSDsO9T2xH","release_date":"1991-01-01","popularity":63},{"trackId":"4kF9AoXsb9kieb8zKU3xSw","name":"One More Cup of Coffee (Valley Below) - Live at Nippon Budokan Hall, Tokyo, Japan - February/March 1978","duration_ms":210666,"artist":"Bob Dylan","artistId":"74ASZWbe4lXaubB36ztrGX","albumId":"10iefHq2stsarq3QvPCZ7u","release_date":"1979-04-23","popularity":24}]
+[
+  {
+    "trackId": "3B78OTaAz811ekgYb27v6x",
+    "name": "'Tain't Nobody's Bizness If I Do - Live At The Great American Music Hall/1976",
+    "duration_ms": 315481,
+    "artist": "Carmen McRae",
+    "artistId": "2E3nXyfocf7qfHAIFNbBuj",
+    "albumId": "0VvWrfaAqX5s52d7AtrEX7",
+    "release_date": "1977-01-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "0qIPeic4UDhIsWhFcH6oi1",
+    "name": "Balladen om det stora slagsmålet på Tegelbacken - Live '62",
+    "duration_ms": 202293,
+    "artist": "Olle Adolphson",
+    "artistId": "4hkOyd0eTeViYkZooM4Jay",
+    "albumId": "4zuEyMSVcHs3loG0atOIVf",
+    "release_date": "1963-01-01",
+    "popularity": 18
+  },
+  {
+    "trackId": "0qIPeic4UDhIsWhFcH6oi1",
+    "name": "Balladen om det stora slagsmålet på Tegelbacken - Live '62",
+    "duration_ms": 202293,
+    "artist": "Olle Adolphson",
+    "artistId": "4hkOyd0eTeViYkZooM4Jay",
+    "albumId": "4zuEyMSVcHs3loG0atOIVf",
+    "release_date": "1963-01-01",
+    "popularity": 18
+  },
+  {
+    "trackId": "5jkd3e1qgmsTWJm3NvQ7X4",
+    "name": "Cry Me A River",
+    "duration_ms": 256866,
+    "artist": "Ella Fitzgerald",
+    "artistId": "5V0MlUE1Bft0mbLlND7FJz",
+    "albumId": "051AdKfsuNyfiUc81mkJIR",
+    "release_date": "1989-06-20",
+    "popularity": 47
+  },
+  {
+    "trackId": "1RcWWgnw5fVm3wcNq11zBu",
+    "name": "Mama Laudaaa",
+    "duration_ms": 215976,
+    "artist": "Almklausi",
+    "artistId": "3f56dbtoRz7bucWJUeofzK",
+    "albumId": "4yWhxiH0UB3A6jfr0ZLe4v",
+    "release_date": "2018-02-07",
+    "popularity": 63
+  },
+  {
+    "trackId": "5rgMaZmipkcTqJaJTzWqpt",
+    "name": "Svantes lykkelige dag",
+    "duration_ms": 189880,
+    "artist": "Povl Dissing & Benny Andersen",
+    "artistId": "3UtVGJ2KEEedE6EEW2zHZy",
+    "albumId": "3WmoVJfWjlDvGJf8RUySv1",
+    "release_date": "1998-04-01",
+    "popularity": 32
+  },
+  {
+    "trackId": "5rgMaZmipkcTqJaJTzWqpt",
+    "name": "Svantes lykkelige dag",
+    "duration_ms": 189880,
+    "artist": "Povl Dissing & Benny Andersen",
+    "artistId": "3UtVGJ2KEEedE6EEW2zHZy",
+    "albumId": "3WmoVJfWjlDvGJf8RUySv1",
+    "release_date": "1998-04-01",
+    "popularity": 32
+  },
+  {
+    "trackId": "0FwdqCkSZkQoNVFOK2QH8h",
+    "name": "Ge mig luft - Albumversion",
+    "duration_ms": 198226,
+    "artist": "Joss Ture",
+    "artistId": "0wGGZ4yAxHbalYM33uHcOF",
+    "albumId": "4GUD3FdKcq1IYaR85bZKRA",
+    "release_date": "2018-02-23",
+    "popularity": 3
+  },
+  {
+    "trackId": "0FwdqCkSZkQoNVFOK2QH8h",
+    "name": "Ge mig luft - Albumversion",
+    "duration_ms": 198226,
+    "artist": "Joss Ture",
+    "artistId": "0wGGZ4yAxHbalYM33uHcOF",
+    "albumId": "4GUD3FdKcq1IYaR85bZKRA",
+    "release_date": "2018-02-23",
+    "popularity": 3
+  },
+  {
+    "trackId": "1oDCK7PW72XEZ1pE5rh87A",
+    "name": "Smile",
+    "duration_ms": 173266,
+    "artist": "Nat King Cole",
+    "artistId": "7v4imS0moSyGdXyLgVTIV7",
+    "albumId": "3NoP1ifIejWkGSDsO9T2xH",
+    "release_date": "1991-01-01",
+    "popularity": 63
+  },
+  {
+    "trackId": "4kF9AoXsb9kieb8zKU3xSw",
+    "name": "One More Cup of Coffee (Valley Below) - Live at Nippon Budokan Hall, Tokyo, Japan - February/March 1978",
+    "duration_ms": 210666,
+    "artist": "Bob Dylan",
+    "artistId": "74ASZWbe4lXaubB36ztrGX",
+    "albumId": "10iefHq2stsarq3QvPCZ7u",
+    "release_date": "1979-04-23",
+    "popularity": 24
+  }
+]

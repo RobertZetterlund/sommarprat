@@ -1,1 +1,122 @@
-[{"trackId":"3gRlmtdCyNoKiyozn2pqc9","name":"Mathematics","duration_ms":246440,"artist":"Mos Def","artistId":"0Mz5XE0kb1GBnbLQm2VbcO","albumId":"5gK2l2LgWY0BA4p9uy27z6","release_date":"1999-10-12","popularity":63},{"trackId":"6sjGsKuInpaK3uoaWGe22W","name":"Från och med Du","duration_ms":193360,"artist":"Oskar Linnros","artistId":"3E8Mx37sikkaFoX5DRecLi","albumId":"2jCYbQBRefZrTeMXIMIsNp","release_date":"2010-01-01","popularity":58},{"trackId":"1GoTvQP3JEeA8oh5I9b2xc","name":"Cleva","duration_ms":225800,"artist":"Erykah Badu","artistId":"7IfculRW2WXyzNQ8djX8WX","albumId":"3cADvHRdKniF9ELCn1zbGH","release_date":"2000-10-31","popularity":46},{"trackId":"4Jl9Tw76XvEFJqE9sVCn31","name":"Tiden står still (feat. Timbuktu, Malcolm B & Jaqe)","duration_ms":273373,"artist":"Mack Beats","artistId":"3GulSpXnCkqwVDg45tyly4","albumId":"3A84ljn6wa9q2LezCzEJrf","release_date":"2013-06-05","popularity":8},{"trackId":"3GCdLUSnKSMJhs4Tj6CV3s","name":"All The Stars (with SZA)","duration_ms":232186,"artist":"Kendrick Lamar","artistId":"2YZyLoL8N0Wb9xBt1NhZWg","albumId":"3pLdWdkj83EYfDN6H2N8MR","release_date":"2018-02-09","popularity":82},{"trackId":"22gZR0z4d9ZxGm76RjOmoS","name":"Monument - The Inevitable End Version","duration_ms":286588,"artist":"Röyksopp","artistId":"5nPOO9iTcrs9k6yFffPxjH","albumId":"0feYndmmYH6wbYi3cAMahJ","release_date":"2014-11-07","popularity":53},{"trackId":"1dQw4QvMkxiKNtscmdl5kp","name":"Like a Man","duration_ms":205360,"artist":"Spice","artistId":"0wEvWMQRqaXcgnrZv6KtyL","albumId":"3VsPJKD7uZPIYB4SNGeLRt","release_date":"2014-11-28","popularity":27},{"trackId":"00DZ0QzhDiedhzX1KZVi4O","name":"Dream II","duration_ms":347009,"artist":"BJ The Chicago Kid","artistId":"07d5etnpjriczFBB8pxmRe","albumId":"2pGf7mMaV60uMDchGAMcXF","release_date":"2012-02-21","popularity":15},{"trackId":"2f5VHzjmNNlZHEMzSsn4gH","name":"What Can I Say (For Millicent)","duration_ms":285960,"artist":"Van Hunt","artistId":"4KZ6qvHEY7prblYD2VrOd3","albumId":"1Zs4CHZm9Cy2KQv0NEx17i","release_date":"2004-01-01","popularity":18},{"trackId":"0NTMtAO2BV4tnGvw9EgBVq","name":"Bitch Better Have My Money","duration_ms":219305,"artist":"Rihanna","artistId":"5pKCCKE2ajJHZ9KAiaK11H","albumId":"4S8F794ucXJcAtycwOZgR9","release_date":"2015-03-26","popularity":72},{"trackId":"7z8IXswTT3ua5omFbBV1lO","name":"One Away Ticket","duration_ms":214253,"artist":"Luciano","artistId":"3Vszg64mczF1dWEcW2dU5W","albumId":"1RRSjCCizrKoYuZKCTBZTX","release_date":"2009-11-10","popularity":12},{"trackId":"2W7tzqjAPXG97RthXx6pNR","name":"Sommaren är kort","duration_ms":183826,"artist":"Tomas Ledin","artistId":"518rTAIFPwQjLUSi4Pdzzn","albumId":"6Z2Q0V5dalO2v1geFWi4cp","release_date":"1982-01-01","popularity":56}]
+[
+  {
+    "trackId": "3gRlmtdCyNoKiyozn2pqc9",
+    "name": "Mathematics",
+    "duration_ms": 246440,
+    "artist": "Mos Def",
+    "artistId": "0Mz5XE0kb1GBnbLQm2VbcO",
+    "albumId": "5gK2l2LgWY0BA4p9uy27z6",
+    "release_date": "1999-10-12",
+    "popularity": 63
+  },
+  {
+    "trackId": "6sjGsKuInpaK3uoaWGe22W",
+    "name": "Från och med Du",
+    "duration_ms": 193360,
+    "artist": "Oskar Linnros",
+    "artistId": "3E8Mx37sikkaFoX5DRecLi",
+    "albumId": "2jCYbQBRefZrTeMXIMIsNp",
+    "release_date": "2010-01-01",
+    "popularity": 58
+  },
+  {
+    "trackId": "1GoTvQP3JEeA8oh5I9b2xc",
+    "name": "Cleva",
+    "duration_ms": 225800,
+    "artist": "Erykah Badu",
+    "artistId": "7IfculRW2WXyzNQ8djX8WX",
+    "albumId": "3cADvHRdKniF9ELCn1zbGH",
+    "release_date": "2000-10-31",
+    "popularity": 46
+  },
+  {
+    "trackId": "4Jl9Tw76XvEFJqE9sVCn31",
+    "name": "Tiden står still (feat. Timbuktu, Malcolm B & Jaqe)",
+    "duration_ms": 273373,
+    "artist": "Mack Beats",
+    "artistId": "3GulSpXnCkqwVDg45tyly4",
+    "albumId": "3A84ljn6wa9q2LezCzEJrf",
+    "release_date": "2013-06-05",
+    "popularity": 8
+  },
+  {
+    "trackId": "3GCdLUSnKSMJhs4Tj6CV3s",
+    "name": "All The Stars (with SZA)",
+    "duration_ms": 232186,
+    "artist": "Kendrick Lamar",
+    "artistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "albumId": "3pLdWdkj83EYfDN6H2N8MR",
+    "release_date": "2018-02-09",
+    "popularity": 82
+  },
+  {
+    "trackId": "22gZR0z4d9ZxGm76RjOmoS",
+    "name": "Monument - The Inevitable End Version",
+    "duration_ms": 286588,
+    "artist": "Röyksopp",
+    "artistId": "5nPOO9iTcrs9k6yFffPxjH",
+    "albumId": "0feYndmmYH6wbYi3cAMahJ",
+    "release_date": "2014-11-07",
+    "popularity": 53
+  },
+  {
+    "trackId": "1dQw4QvMkxiKNtscmdl5kp",
+    "name": "Like a Man",
+    "duration_ms": 205360,
+    "artist": "Spice",
+    "artistId": "0wEvWMQRqaXcgnrZv6KtyL",
+    "albumId": "3VsPJKD7uZPIYB4SNGeLRt",
+    "release_date": "2014-11-28",
+    "popularity": 27
+  },
+  {
+    "trackId": "00DZ0QzhDiedhzX1KZVi4O",
+    "name": "Dream II",
+    "duration_ms": 347009,
+    "artist": "BJ The Chicago Kid",
+    "artistId": "07d5etnpjriczFBB8pxmRe",
+    "albumId": "2pGf7mMaV60uMDchGAMcXF",
+    "release_date": "2012-02-21",
+    "popularity": 15
+  },
+  {
+    "trackId": "2f5VHzjmNNlZHEMzSsn4gH",
+    "name": "What Can I Say (For Millicent)",
+    "duration_ms": 285960,
+    "artist": "Van Hunt",
+    "artistId": "4KZ6qvHEY7prblYD2VrOd3",
+    "albumId": "1Zs4CHZm9Cy2KQv0NEx17i",
+    "release_date": "2004-01-01",
+    "popularity": 18
+  },
+  {
+    "trackId": "0NTMtAO2BV4tnGvw9EgBVq",
+    "name": "Bitch Better Have My Money",
+    "duration_ms": 219305,
+    "artist": "Rihanna",
+    "artistId": "5pKCCKE2ajJHZ9KAiaK11H",
+    "albumId": "4S8F794ucXJcAtycwOZgR9",
+    "release_date": "2015-03-26",
+    "popularity": 72
+  },
+  {
+    "trackId": "7z8IXswTT3ua5omFbBV1lO",
+    "name": "One Away Ticket",
+    "duration_ms": 214253,
+    "artist": "Luciano",
+    "artistId": "3Vszg64mczF1dWEcW2dU5W",
+    "albumId": "1RRSjCCizrKoYuZKCTBZTX",
+    "release_date": "2009-11-10",
+    "popularity": 12
+  },
+  {
+    "trackId": "2W7tzqjAPXG97RthXx6pNR",
+    "name": "Sommaren är kort",
+    "duration_ms": 183826,
+    "artist": "Tomas Ledin",
+    "artistId": "518rTAIFPwQjLUSi4Pdzzn",
+    "albumId": "6Z2Q0V5dalO2v1geFWi4cp",
+    "release_date": "1982-01-01",
+    "popularity": 56
+  }
+]

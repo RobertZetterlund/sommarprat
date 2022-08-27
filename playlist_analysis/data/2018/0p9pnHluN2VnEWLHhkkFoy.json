@@ -1,1 +1,142 @@
-[{"trackId":"6SddhDAnOCIz776PyXZrxa","name":"En vandringsdag","duration_ms":297066,"artist":"Anna Ihlis","artistId":"1bNiPK3IaQZcD8nLNxiRHA","albumId":"58uhWPJT6eipAqnhjlD5bx","release_date":"2018-06-01","popularity":2},{"trackId":"6rBzSjdrihboUkZ0YyhWLc","name":"This Is the Year","duration_ms":184666,"artist":"Marit Bergman","artistId":"1Z8YLeRzSedy0jT5D08pVU","albumId":"4hbobVgZ2HhBzeiclP1df4","release_date":"2003-05-31","popularity":33},{"trackId":"5iTKSKZjEFw0H2nYpylcHj","name":"My Secret","duration_ms":301760,"artist":"Anna Ternheim","artistId":"6xSTQT32ZxLQPe37QIC308","albumId":"5VCGkjrbMQlJnYaCJigbfK","release_date":"2004","popularity":19},{"trackId":"57SNUEngomVJnhEB3fgJky","name":"Så skimrande var aldrig havet","duration_ms":158426,"artist":"Lill Lindfors","artistId":"7CAcmPN2c4Tw70JQScmdwC","albumId":"0l537xeeUQXZAkArjKmb2H","release_date":"1997-01-01","popularity":26},{"trackId":"2rnCae7ZO9bIfQFscasS3q","name":"Andrea Chenier (1997 Digital Remaster): La mamma morta","duration_ms":292600,"artist":"Maria Callas","artistId":"0bjdfjE8XbLa2Odstu6E1E","albumId":"2FJtdO13XdtncsnpzWZOAt","release_date":"1997","popularity":37},{"trackId":"4ig7BR50EFmJRc51FLm88O","name":"Vaggvisa","duration_ms":254362,"artist":"Sofia Karlsson","artistId":"2tKGISNf0bei0IxfLQGMEt","albumId":"6zbpOJwPVtns1Yqnn9lmW1","release_date":"2005-02-23","popularity":24},{"trackId":"31xWp6w2lOwgBucTlzdk3A","name":"LET MY SHOES LEAD ME FORWARD","duration_ms":265533,"artist":"Jenny Wilson","artistId":"3axEmcxTibioxD1rZi1IOB","albumId":"4F2aABjslmakn5sLuYbyPW","release_date":"2005-04-12","popularity":32},{"trackId":"2tUyERWNGVMjC4w3136HSh","name":"Jorden är ett litet rum","duration_ms":250906,"artist":"Eva Dahlgren","artistId":"7IK2JpZglDYTrso4ILEKE0","albumId":"4sewAubkcE7IHdxJJQdvDO","release_date":"2007","popularity":27},{"trackId":"66Bzmhj4cOinK5bxjx5DAK","name":"Release Me","duration_ms":184935,"artist":"Oh Laura","artistId":"3myGY9DKqe4EcE5VMDQq7j","albumId":"7mxCAymM5G7iwKI0gtqKfz","release_date":"2007-05-23","popularity":47},{"trackId":"6Rvz1jM5eUqzNs2Pi8RMTG","name":"I'm a Fool to Want You","duration_ms":203266,"artist":"Billie Holiday","artistId":"1YzCsTRb22dQkh9lghPIrp","albumId":"4LrLP7DM1KBj8r2Sc098JA","release_date":"1958-06","popularity":48},{"trackId":"4PINSJIlBWsnVeveicq1S8","name":"I'll Be Your Mirror","duration_ms":134040,"artist":"The Velvet Underground","artistId":"1nJvji2KIlWSseXRSlNYsC","albumId":"4xwx0x7k6c5VuThz5qVqmV","release_date":"1967-03-12","popularity":57},{"trackId":"4ig7BR50EFmJRc51FLm88O","name":"Vaggvisa","duration_ms":254362,"artist":"Sofia Karlsson","artistId":"2tKGISNf0bei0IxfLQGMEt","albumId":"6zbpOJwPVtns1Yqnn9lmW1","release_date":"2005-02-23","popularity":24},{"trackId":"0ZGDxwoBaGmLIZE6rxoURK","name":"Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]","duration_ms":143506,"artist":"Singer's Edge Karaoke","artistId":"3CtgjasLNN3Ym8SHm5JuJn","albumId":"0C9piLHM2FN3c4DnfyvSlG","release_date":"2014-03-13","popularity":0},{"trackId":"6H3Wa6hWR9DRMzMSd4pZkT","name":"Make Your Own Kind Of Music","duration_ms":139533,"artist":"Cass Elliot","artistId":"5jX7X3kRkfJTRqAdT7RcHk","albumId":"3x44BijmAfm1N7Cs7yILL4","release_date":"1973-09-28","popularity":58}]
+[
+  {
+    "trackId": "6SddhDAnOCIz776PyXZrxa",
+    "name": "En vandringsdag",
+    "duration_ms": 297066,
+    "artist": "Anna Ihlis",
+    "artistId": "1bNiPK3IaQZcD8nLNxiRHA",
+    "albumId": "58uhWPJT6eipAqnhjlD5bx",
+    "release_date": "2018-06-01",
+    "popularity": 2
+  },
+  {
+    "trackId": "6rBzSjdrihboUkZ0YyhWLc",
+    "name": "This Is the Year",
+    "duration_ms": 184666,
+    "artist": "Marit Bergman",
+    "artistId": "1Z8YLeRzSedy0jT5D08pVU",
+    "albumId": "4hbobVgZ2HhBzeiclP1df4",
+    "release_date": "2003-05-31",
+    "popularity": 33
+  },
+  {
+    "trackId": "5iTKSKZjEFw0H2nYpylcHj",
+    "name": "My Secret",
+    "duration_ms": 301760,
+    "artist": "Anna Ternheim",
+    "artistId": "6xSTQT32ZxLQPe37QIC308",
+    "albumId": "5VCGkjrbMQlJnYaCJigbfK",
+    "release_date": "2004",
+    "popularity": 19
+  },
+  {
+    "trackId": "57SNUEngomVJnhEB3fgJky",
+    "name": "Så skimrande var aldrig havet",
+    "duration_ms": 158426,
+    "artist": "Lill Lindfors",
+    "artistId": "7CAcmPN2c4Tw70JQScmdwC",
+    "albumId": "0l537xeeUQXZAkArjKmb2H",
+    "release_date": "1997-01-01",
+    "popularity": 26
+  },
+  {
+    "trackId": "2rnCae7ZO9bIfQFscasS3q",
+    "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+    "duration_ms": 292600,
+    "artist": "Maria Callas",
+    "artistId": "0bjdfjE8XbLa2Odstu6E1E",
+    "albumId": "2FJtdO13XdtncsnpzWZOAt",
+    "release_date": "1997",
+    "popularity": 37
+  },
+  {
+    "trackId": "4ig7BR50EFmJRc51FLm88O",
+    "name": "Vaggvisa",
+    "duration_ms": 254362,
+    "artist": "Sofia Karlsson",
+    "artistId": "2tKGISNf0bei0IxfLQGMEt",
+    "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+    "release_date": "2005-02-23",
+    "popularity": 24
+  },
+  {
+    "trackId": "31xWp6w2lOwgBucTlzdk3A",
+    "name": "LET MY SHOES LEAD ME FORWARD",
+    "duration_ms": 265533,
+    "artist": "Jenny Wilson",
+    "artistId": "3axEmcxTibioxD1rZi1IOB",
+    "albumId": "4F2aABjslmakn5sLuYbyPW",
+    "release_date": "2005-04-12",
+    "popularity": 32
+  },
+  {
+    "trackId": "2tUyERWNGVMjC4w3136HSh",
+    "name": "Jorden är ett litet rum",
+    "duration_ms": 250906,
+    "artist": "Eva Dahlgren",
+    "artistId": "7IK2JpZglDYTrso4ILEKE0",
+    "albumId": "4sewAubkcE7IHdxJJQdvDO",
+    "release_date": "2007",
+    "popularity": 27
+  },
+  {
+    "trackId": "66Bzmhj4cOinK5bxjx5DAK",
+    "name": "Release Me",
+    "duration_ms": 184935,
+    "artist": "Oh Laura",
+    "artistId": "3myGY9DKqe4EcE5VMDQq7j",
+    "albumId": "7mxCAymM5G7iwKI0gtqKfz",
+    "release_date": "2007-05-23",
+    "popularity": 47
+  },
+  {
+    "trackId": "6Rvz1jM5eUqzNs2Pi8RMTG",
+    "name": "I'm a Fool to Want You",
+    "duration_ms": 203266,
+    "artist": "Billie Holiday",
+    "artistId": "1YzCsTRb22dQkh9lghPIrp",
+    "albumId": "4LrLP7DM1KBj8r2Sc098JA",
+    "release_date": "1958-06",
+    "popularity": 48
+  },
+  {
+    "trackId": "4PINSJIlBWsnVeveicq1S8",
+    "name": "I'll Be Your Mirror",
+    "duration_ms": 134040,
+    "artist": "The Velvet Underground",
+    "artistId": "1nJvji2KIlWSseXRSlNYsC",
+    "albumId": "4xwx0x7k6c5VuThz5qVqmV",
+    "release_date": "1967-03-12",
+    "popularity": 57
+  },
+  {
+    "trackId": "4ig7BR50EFmJRc51FLm88O",
+    "name": "Vaggvisa",
+    "duration_ms": 254362,
+    "artist": "Sofia Karlsson",
+    "artistId": "2tKGISNf0bei0IxfLQGMEt",
+    "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+    "release_date": "2005-02-23",
+    "popularity": 24
+  },
+  {
+    "trackId": "0ZGDxwoBaGmLIZE6rxoURK",
+    "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+    "duration_ms": 143506,
+    "artist": "Singer's Edge Karaoke",
+    "artistId": "3CtgjasLNN3Ym8SHm5JuJn",
+    "albumId": "0C9piLHM2FN3c4DnfyvSlG",
+    "release_date": "2014-03-13",
+    "popularity": 0
+  },
+  {
+    "trackId": "6H3Wa6hWR9DRMzMSd4pZkT",
+    "name": "Make Your Own Kind Of Music",
+    "duration_ms": 139533,
+    "artist": "Cass Elliot",
+    "artistId": "5jX7X3kRkfJTRqAdT7RcHk",
+    "albumId": "3x44BijmAfm1N7Cs7yILL4",
+    "release_date": "1973-09-28",
+    "popularity": 58
+  }
+]

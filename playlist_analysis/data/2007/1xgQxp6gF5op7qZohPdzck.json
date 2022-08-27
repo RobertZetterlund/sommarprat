@@ -1,1 +1,142 @@
-[{"trackId":"20qnQazP18TYmZjabBzJ6y","name":"Vitalins vals","duration_ms":180840,"artist":"Benny Anderssons Orkester","artistId":"5KcJSAFLAEtpCkK5EI0KLS","albumId":"0IpwjWmQNt0ceesV6p629y","release_date":"2004","popularity":15},{"trackId":"5MoDQWMDMaAGDEiWsJfeCi","name":"Eternal Flame","duration_ms":238026,"artist":"The Bangles","artistId":"51l0uqRxGaczYr4271pVIC","albumId":"4yaX6Gmlvo42PnGgBdhzGf","release_date":"2004","popularity":67},{"trackId":"1tXICN3ZSSvVAEz2LskRic","name":"Desafinado","duration_ms":251293,"artist":"Stan Getz","artistId":"0FMucZsEnCxs5pqBjHjIc8","albumId":"2LJAm2dBEBhPaHkcOhtdlS","release_date":"2022-08-05","popularity":2},{"trackId":"0lwJH1BDr8Z4wfXvi6yC9y","name":"Sol, vind och vatten","duration_ms":189560,"artist":"Ted Gärdestad","artistId":"6zpub6jbY6CdrcqQsDq8P4","albumId":"7pY0hwPU10gaH4qDsDFA6d","release_date":"1973-03-01","popularity":60},{"trackId":"29q3LvVxljm9iJZGErJ4it","name":"Line For Lyons - Instrumental","duration_ms":151600,"artist":"Gerry Mulligan Quartet","artistId":"6nLkWu5DSXItXcB6q2ISTO","albumId":"0LQ1BLetSy1432P1OfDY6e","release_date":"1992-01-01","popularity":22},{"trackId":"3oEkrIfXfSh9zGnE7eBzSV","name":"The Winner Takes It All","duration_ms":294720,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"3ZdkT5buYFi1WQaB0XNNtf","release_date":"1980","popularity":73},{"trackId":"3eOYmWvienEIgHJFAWE3ZD","name":"Live Tomorrow","duration_ms":215906,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"64o8Xiysec8ro1PqcgYWuh","release_date":"2005-03-01","popularity":43},{"trackId":"3uhF5EBcuqqXELlszBhIOy","name":"Himlen runt hörnet","duration_ms":305413,"artist":"Lisa Nilsson","artistId":"68QvqbdqwqqjW39YpUJHdG","albumId":"6OlWJqjVgsi1NJ1Y1CFesI","release_date":"1992-01-01","popularity":46},{"trackId":"1PuZw2fPU7Y1jBuij2sFLX","name":"Skenbart","duration_ms":259146,"artist":"Benny Anderssons Orkester","artistId":"5KcJSAFLAEtpCkK5EI0KLS","albumId":"0IpwjWmQNt0ceesV6p629y","release_date":"2004","popularity":15},{"trackId":"14H2fE4WEdkEem0kjVeODT","name":"Phantom of the Opera - 2015 Remaster","duration_ms":441466,"artist":"Iron Maiden","artistId":"6mdiAmATAx73kdxrNrnlao","albumId":"3DNeMApEMCo4IDXNMYnlFi","release_date":"1980","popularity":59},{"trackId":"3glXn6Hu7YJQM9wN0cWotz","name":"Captain Nemo","duration_ms":243933,"artist":"Ace of Base","artistId":"5ksRONqssB7BR161NTtJAm","albumId":"4oXtR5JbdA9PLwbR49zx9Q","release_date":"1998-01-21","popularity":17},{"trackId":"3WQG1PkTkvJPEZNnQcbfa5","name":"Underbart är kort","duration_ms":258466,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"7bDYb5Q2xcNgQ2g3u4lYiR","release_date":"1973-09-05","popularity":26},{"trackId":"5JvsxPAHsGxwNq4xto2HtM","name":"Listen To Your Heart","duration_ms":328093,"artist":"Roxette","artistId":"2SHhfs4BiDxGQ3oxqf0UHY","albumId":"4rQV5S9FhajZdyzFfcyYw9","release_date":"1988-10-21","popularity":72},{"trackId":"7FWa4VXtLrAfxoWg91snSA","name":"Fåfänglighet","duration_ms":160893,"artist":"Heine Bugge","artistId":"7nz36JXN6RMToAvvV3qgNY","albumId":"03AMKMZnuiYktgYpKodqr8","release_date":"2016-01-30","popularity":0}]
+[
+  {
+    "trackId": "20qnQazP18TYmZjabBzJ6y",
+    "name": "Vitalins vals",
+    "duration_ms": 180840,
+    "artist": "Benny Anderssons Orkester",
+    "artistId": "5KcJSAFLAEtpCkK5EI0KLS",
+    "albumId": "0IpwjWmQNt0ceesV6p629y",
+    "release_date": "2004",
+    "popularity": 15
+  },
+  {
+    "trackId": "5MoDQWMDMaAGDEiWsJfeCi",
+    "name": "Eternal Flame",
+    "duration_ms": 238026,
+    "artist": "The Bangles",
+    "artistId": "51l0uqRxGaczYr4271pVIC",
+    "albumId": "4yaX6Gmlvo42PnGgBdhzGf",
+    "release_date": "2004",
+    "popularity": 67
+  },
+  {
+    "trackId": "1tXICN3ZSSvVAEz2LskRic",
+    "name": "Desafinado",
+    "duration_ms": 251293,
+    "artist": "Stan Getz",
+    "artistId": "0FMucZsEnCxs5pqBjHjIc8",
+    "albumId": "2LJAm2dBEBhPaHkcOhtdlS",
+    "release_date": "2022-08-05",
+    "popularity": 2
+  },
+  {
+    "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
+    "name": "Sol, vind och vatten",
+    "duration_ms": 189560,
+    "artist": "Ted Gärdestad",
+    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
+    "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+    "release_date": "1973-03-01",
+    "popularity": 60
+  },
+  {
+    "trackId": "29q3LvVxljm9iJZGErJ4it",
+    "name": "Line For Lyons - Instrumental",
+    "duration_ms": 151600,
+    "artist": "Gerry Mulligan Quartet",
+    "artistId": "6nLkWu5DSXItXcB6q2ISTO",
+    "albumId": "0LQ1BLetSy1432P1OfDY6e",
+    "release_date": "1992-01-01",
+    "popularity": 22
+  },
+  {
+    "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
+    "name": "The Winner Takes It All",
+    "duration_ms": 294720,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+    "release_date": "1980",
+    "popularity": 73
+  },
+  {
+    "trackId": "3eOYmWvienEIgHJFAWE3ZD",
+    "name": "Live Tomorrow",
+    "duration_ms": 215906,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "64o8Xiysec8ro1PqcgYWuh",
+    "release_date": "2005-03-01",
+    "popularity": 43
+  },
+  {
+    "trackId": "3uhF5EBcuqqXELlszBhIOy",
+    "name": "Himlen runt hörnet",
+    "duration_ms": 305413,
+    "artist": "Lisa Nilsson",
+    "artistId": "68QvqbdqwqqjW39YpUJHdG",
+    "albumId": "6OlWJqjVgsi1NJ1Y1CFesI",
+    "release_date": "1992-01-01",
+    "popularity": 46
+  },
+  {
+    "trackId": "1PuZw2fPU7Y1jBuij2sFLX",
+    "name": "Skenbart",
+    "duration_ms": 259146,
+    "artist": "Benny Anderssons Orkester",
+    "artistId": "5KcJSAFLAEtpCkK5EI0KLS",
+    "albumId": "0IpwjWmQNt0ceesV6p629y",
+    "release_date": "2004",
+    "popularity": 15
+  },
+  {
+    "trackId": "14H2fE4WEdkEem0kjVeODT",
+    "name": "Phantom of the Opera - 2015 Remaster",
+    "duration_ms": 441466,
+    "artist": "Iron Maiden",
+    "artistId": "6mdiAmATAx73kdxrNrnlao",
+    "albumId": "3DNeMApEMCo4IDXNMYnlFi",
+    "release_date": "1980",
+    "popularity": 59
+  },
+  {
+    "trackId": "3glXn6Hu7YJQM9wN0cWotz",
+    "name": "Captain Nemo",
+    "duration_ms": 243933,
+    "artist": "Ace of Base",
+    "artistId": "5ksRONqssB7BR161NTtJAm",
+    "albumId": "4oXtR5JbdA9PLwbR49zx9Q",
+    "release_date": "1998-01-21",
+    "popularity": 17
+  },
+  {
+    "trackId": "3WQG1PkTkvJPEZNnQcbfa5",
+    "name": "Underbart är kort",
+    "duration_ms": 258466,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+    "release_date": "1973-09-05",
+    "popularity": 26
+  },
+  {
+    "trackId": "5JvsxPAHsGxwNq4xto2HtM",
+    "name": "Listen To Your Heart",
+    "duration_ms": 328093,
+    "artist": "Roxette",
+    "artistId": "2SHhfs4BiDxGQ3oxqf0UHY",
+    "albumId": "4rQV5S9FhajZdyzFfcyYw9",
+    "release_date": "1988-10-21",
+    "popularity": 72
+  },
+  {
+    "trackId": "7FWa4VXtLrAfxoWg91snSA",
+    "name": "Fåfänglighet",
+    "duration_ms": 160893,
+    "artist": "Heine Bugge",
+    "artistId": "7nz36JXN6RMToAvvV3qgNY",
+    "albumId": "03AMKMZnuiYktgYpKodqr8",
+    "release_date": "2016-01-30",
+    "popularity": 0
+  }
+]

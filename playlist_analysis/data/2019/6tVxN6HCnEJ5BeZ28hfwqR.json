@@ -1,1 +1,132 @@
-[{"trackId":"1d9H1Be35YaSYNBsEzjDlV","name":"Winter Games","duration_ms":240240,"artist":"David Foster","artistId":"0SgQK24WzZf2pXBXYqHJYF","albumId":"6D3WFW7GFkyFOSgANXUS2d","release_date":"1998-11-12","popularity":8},{"trackId":"7DVJQpBjOd0ipNN4PLzC6g","name":"Syner i lövsprickningen","duration_ms":182200,"artist":"Göran Fristorp","artistId":"2Yo1VjRnajVV0548nqI5gG","albumId":"3knAo9fIaMH8T4La9dl8YT","release_date":"1978-01-01","popularity":32},{"trackId":"0JS4a9zL4NL2JzfczPHTNt","name":"New York State of Mind (with Billy Joel)","duration_ms":286493,"artist":"Barbra Streisand","artistId":"7jmTilWYlKOuavFfmQAcu6","albumId":"0vpZmvUH5x2ByXTYtXB4mG","release_date":"2014","popularity":34},{"trackId":"4IVTPiAGQkxB4GrMGfwS18","name":"Lullaby of Birdland","duration_ms":127960,"artist":"Gals and Pals","artistId":"5jzboyuEKmtEVn8SqAnPVd","albumId":"6gphJhcsFUDA8F2sA6rOs7","release_date":"1964","popularity":2},{"trackId":"62gZY6joWPt97hbsbIdd4t","name":"Att angöra en brygga","duration_ms":153826,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"5fSDA3K2BP3bHRwOQyySo0","release_date":"2001-01-01","popularity":46},{"trackId":"3Co12nK3wlTigVjpBaUNPI","name":"Rörelseidkare på Kiviks marknad, Malte Lindeman","duration_ms":279546,"artist":"Hasse Alfredson","artistId":"7bQVHmJKaxiXYkZ2miMrwb","albumId":"0p87Zf0VK3UUKQ9xQi3hcT","release_date":"2008-01-01","popularity":12},{"trackId":"6T30IYy2T7HqayaaEUaCOp","name":"Axel Öhman - Live At Berns, Stockholm, Sweden / 1970","duration_ms":234773,"artist":"Lill Lindfors","artistId":"7CAcmPN2c4Tw70JQScmdwC","albumId":"29LUHnxH8vmAQFb5b2lUPU","release_date":"2004-01-01","popularity":6},{"trackId":"3RYlficqYpoKFGT6sphHki","name":"Drum Boogie","duration_ms":189573,"artist":"Gene Krupa","artistId":"2YODXXiVE8ABc0TfihLOFj","albumId":"5oBQr1341MYwrfGALlaZpG","release_date":"2004-06-25","popularity":20},{"trackId":"5jgFfDIR6FR0gvlA56Nakr","name":"Blackbird - Remastered 2009","duration_ms":138386,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"1klALx0u4AavZNEvC4LrTL","release_date":"1968-11-22","popularity":72},{"trackId":"53fBfX4V0MfSEyzL22v45T","name":"Better Days Ahead","duration_ms":326093,"artist":"Pat Metheny","artistId":"3t58jfUhoMLYVO14XaUFLA","albumId":"5sNliKF0xxF8BdJuCUpFUW","release_date":"2021-09-10","popularity":31},{"trackId":"6L5JFXw9BMEN5gDhZPlHb2","name":"Flickan i trädet","duration_ms":146013,"artist":"Nannie Porres","artistId":"6IboNBnbFipQmDMFJ30tEk","albumId":"4cwMAzK3kkigIP6Qit7bFY","release_date":"1976","popularity":8},{"trackId":"6L5JFXw9BMEN5gDhZPlHb2","name":"Flickan i trädet","duration_ms":146013,"artist":"Nannie Porres","artistId":"6IboNBnbFipQmDMFJ30tEk","albumId":"4cwMAzK3kkigIP6Qit7bFY","release_date":"1976","popularity":8},{"trackId":"7J6XRHiI4FrZB5KzxSFkL5","name":"Happy Blues","duration_ms":133533,"artist":"Jimmy Witherspoon","artistId":"6vth8u6Wp7k2bbzDQMCmrb","albumId":"5RrSZDq9t5t9ff48YEnKqu","release_date":"1994-01-01","popularity":3}]
+[
+  {
+    "trackId": "1d9H1Be35YaSYNBsEzjDlV",
+    "name": "Winter Games",
+    "duration_ms": 240240,
+    "artist": "David Foster",
+    "artistId": "0SgQK24WzZf2pXBXYqHJYF",
+    "albumId": "6D3WFW7GFkyFOSgANXUS2d",
+    "release_date": "1998-11-12",
+    "popularity": 8
+  },
+  {
+    "trackId": "7DVJQpBjOd0ipNN4PLzC6g",
+    "name": "Syner i lövsprickningen",
+    "duration_ms": 182200,
+    "artist": "Göran Fristorp",
+    "artistId": "2Yo1VjRnajVV0548nqI5gG",
+    "albumId": "3knAo9fIaMH8T4La9dl8YT",
+    "release_date": "1978-01-01",
+    "popularity": 32
+  },
+  {
+    "trackId": "0JS4a9zL4NL2JzfczPHTNt",
+    "name": "New York State of Mind (with Billy Joel)",
+    "duration_ms": 286493,
+    "artist": "Barbra Streisand",
+    "artistId": "7jmTilWYlKOuavFfmQAcu6",
+    "albumId": "0vpZmvUH5x2ByXTYtXB4mG",
+    "release_date": "2014",
+    "popularity": 34
+  },
+  {
+    "trackId": "4IVTPiAGQkxB4GrMGfwS18",
+    "name": "Lullaby of Birdland",
+    "duration_ms": 127960,
+    "artist": "Gals and Pals",
+    "artistId": "5jzboyuEKmtEVn8SqAnPVd",
+    "albumId": "6gphJhcsFUDA8F2sA6rOs7",
+    "release_date": "1964",
+    "popularity": 2
+  },
+  {
+    "trackId": "62gZY6joWPt97hbsbIdd4t",
+    "name": "Att angöra en brygga",
+    "duration_ms": 153826,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+    "release_date": "2001-01-01",
+    "popularity": 46
+  },
+  {
+    "trackId": "3Co12nK3wlTigVjpBaUNPI",
+    "name": "Rörelseidkare på Kiviks marknad, Malte Lindeman",
+    "duration_ms": 279546,
+    "artist": "Hasse Alfredson",
+    "artistId": "7bQVHmJKaxiXYkZ2miMrwb",
+    "albumId": "0p87Zf0VK3UUKQ9xQi3hcT",
+    "release_date": "2008-01-01",
+    "popularity": 12
+  },
+  {
+    "trackId": "6T30IYy2T7HqayaaEUaCOp",
+    "name": "Axel Öhman - Live At Berns, Stockholm, Sweden / 1970",
+    "duration_ms": 234773,
+    "artist": "Lill Lindfors",
+    "artistId": "7CAcmPN2c4Tw70JQScmdwC",
+    "albumId": "29LUHnxH8vmAQFb5b2lUPU",
+    "release_date": "2004-01-01",
+    "popularity": 6
+  },
+  {
+    "trackId": "3RYlficqYpoKFGT6sphHki",
+    "name": "Drum Boogie",
+    "duration_ms": 189573,
+    "artist": "Gene Krupa",
+    "artistId": "2YODXXiVE8ABc0TfihLOFj",
+    "albumId": "5oBQr1341MYwrfGALlaZpG",
+    "release_date": "2004-06-25",
+    "popularity": 20
+  },
+  {
+    "trackId": "5jgFfDIR6FR0gvlA56Nakr",
+    "name": "Blackbird - Remastered 2009",
+    "duration_ms": 138386,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "1klALx0u4AavZNEvC4LrTL",
+    "release_date": "1968-11-22",
+    "popularity": 72
+  },
+  {
+    "trackId": "53fBfX4V0MfSEyzL22v45T",
+    "name": "Better Days Ahead",
+    "duration_ms": 326093,
+    "artist": "Pat Metheny",
+    "artistId": "3t58jfUhoMLYVO14XaUFLA",
+    "albumId": "5sNliKF0xxF8BdJuCUpFUW",
+    "release_date": "2021-09-10",
+    "popularity": 31
+  },
+  {
+    "trackId": "6L5JFXw9BMEN5gDhZPlHb2",
+    "name": "Flickan i trädet",
+    "duration_ms": 146013,
+    "artist": "Nannie Porres",
+    "artistId": "6IboNBnbFipQmDMFJ30tEk",
+    "albumId": "4cwMAzK3kkigIP6Qit7bFY",
+    "release_date": "1976",
+    "popularity": 8
+  },
+  {
+    "trackId": "6L5JFXw9BMEN5gDhZPlHb2",
+    "name": "Flickan i trädet",
+    "duration_ms": 146013,
+    "artist": "Nannie Porres",
+    "artistId": "6IboNBnbFipQmDMFJ30tEk",
+    "albumId": "4cwMAzK3kkigIP6Qit7bFY",
+    "release_date": "1976",
+    "popularity": 8
+  },
+  {
+    "trackId": "7J6XRHiI4FrZB5KzxSFkL5",
+    "name": "Happy Blues",
+    "duration_ms": 133533,
+    "artist": "Jimmy Witherspoon",
+    "artistId": "6vth8u6Wp7k2bbzDQMCmrb",
+    "albumId": "5RrSZDq9t5t9ff48YEnKqu",
+    "release_date": "1994-01-01",
+    "popularity": 3
+  }
+]

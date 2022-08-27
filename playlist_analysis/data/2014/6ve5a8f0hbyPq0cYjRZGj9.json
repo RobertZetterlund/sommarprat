@@ -1,1 +1,142 @@
-[{"trackId":"5VC29kHMkzcaorzPKUqJbl","name":"Demons","duration_ms":175200,"artist":"Imagine Dragons","artistId":"53XhwfbYqKCa1cC15pYq2q","albumId":"1zcNZa89FXNruaesVKiVeu","release_date":"2012-09-04","popularity":58},{"trackId":"5K8cyMKcnG4rx5ocW3u7OW","name":"Ordinary Love - Extraordinary Mix","duration_ms":227173,"artist":"U2","artistId":"51Blml2LZPmy7TTiAg47vQ","albumId":"6S9YaGXnmRe8tWJ0e457HP","release_date":"2017-12-01","popularity":55},{"trackId":"0HoaLXRp7jJtdQFunUyUGc","name":"The Sun Always Shines on T.V.","duration_ms":302400,"artist":"a-ha","artistId":"2jzc5TC5TVFLXQlBNiIUzE","albumId":"1ER3B6zev5JEAaqhnyyfbf","release_date":"1985-06-01","popularity":63},{"trackId":"0yfNXxlyXdmP0ue1iJijx1","name":"Come Undone","duration_ms":256519,"artist":"Duran Duran","artistId":"0lZoBs4Pzo7R89JM9lxwoT","albumId":"0PqCkTvKFJxzr9uujq7a3T","release_date":"1993-02-15","popularity":68},{"trackId":"5TbzAWWc5eJaANpA9kfGCd","name":"Love Me Again","duration_ms":239894,"artist":"John Newman","artistId":"34v5MVKeQnIo0CWYMbbrPf","albumId":"2Bgfdyrywv3KEe0WwZdb0V","release_date":"2013-01-01","popularity":76},{"trackId":"2Foc5Q5nqNiosCNqttzHof","name":"Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit","duration_ms":248413,"artist":"Daft Punk","artistId":"4tZwfgrHOc3mvqYlEYSvVi","albumId":"2ePFIvZKMe8zefATp9ofFA","release_date":"2013-04-19","popularity":82},{"trackId":"1G3cJJ19vXeVZ7ztZdejhm","name":"This Is What It Feels Like - Armin van Buuren Mash Up","duration_ms":239800,"artist":"Armin van Buuren","artistId":"0SfsnGyD8FpIN4U4WCkBZ5","albumId":"1WEVdCa5YAK8tep9xOs2hS","release_date":"2017-05-13","popularity":30},{"trackId":"5G0toONe1lwgHlFbaZxnXY","name":"Om","duration_ms":242080,"artist":"Niklas Strömstedt","artistId":"3nEiRzdQNmkUgoknNt9IRu","albumId":"3BV8m4wlM1r0KTcYzTKBdY","release_date":"2009-12-07","popularity":44},{"trackId":"23khhseCLQqVMCIT1WMAns","name":"Magic","duration_ms":285014,"artist":"Coldplay","artistId":"4gzpq5DPGxSnKTe4SA8HAU","albumId":"2G4AUqfwxcV1UdQjm2ouYr","release_date":"2014-05-19","popularity":73},{"trackId":"7FwBtcecmlpc1sLySPXeGE","name":"Dancing In the Dark","duration_ms":241306,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"0PMasrHdpaoIRuHuhHp72O","release_date":"1984-06-04","popularity":78},{"trackId":"6yOjOnD3OYeO3zHnQki80w","name":"Red Lights - Radio Edit","duration_ms":201587,"artist":"Tiësto","artistId":"2o5jDhtHVPhrJdv3cEQ99Z","albumId":"0oX1xBF1wgMmDym723zljn","release_date":"2014-01-01","popularity":24},{"trackId":"3h5vVpJ7RlYVWtOG0403bL","name":"Hey Brother - Avicii By Avicii","duration_ms":369946,"artist":"Avicii","artistId":"1vCWHaC5f2uS3yhpwWbIA6","albumId":"0ignCov9foaLxuqND5GMtl","release_date":"2014-01-01","popularity":40},{"trackId":"7JiihoVvi5LWBUr2x45ASM","name":"Tro på varann","duration_ms":274093,"artist":"Uno Svenningsson","artistId":"65OPXmm2nfPvaX1fjHo8kR","albumId":"7uBv5UUDd1VQ0oklzZ90Ne","release_date":"1994-08-27","popularity":36},{"trackId":"2GgxS8bUT5G25QJTsfSv0R","name":"Burn","duration_ms":231211,"artist":"Ellie Goulding","artistId":"0X2BH1fck6amBIoJhDVmmJ","albumId":"2Dw4fYqDQnxsgoXDdMbqh3","release_date":"2014-01-01","popularity":70}]
+[
+  {
+    "trackId": "5VC29kHMkzcaorzPKUqJbl",
+    "name": "Demons",
+    "duration_ms": 175200,
+    "artist": "Imagine Dragons",
+    "artistId": "53XhwfbYqKCa1cC15pYq2q",
+    "albumId": "1zcNZa89FXNruaesVKiVeu",
+    "release_date": "2012-09-04",
+    "popularity": 58
+  },
+  {
+    "trackId": "5K8cyMKcnG4rx5ocW3u7OW",
+    "name": "Ordinary Love - Extraordinary Mix",
+    "duration_ms": 227173,
+    "artist": "U2",
+    "artistId": "51Blml2LZPmy7TTiAg47vQ",
+    "albumId": "6S9YaGXnmRe8tWJ0e457HP",
+    "release_date": "2017-12-01",
+    "popularity": 55
+  },
+  {
+    "trackId": "0HoaLXRp7jJtdQFunUyUGc",
+    "name": "The Sun Always Shines on T.V.",
+    "duration_ms": 302400,
+    "artist": "a-ha",
+    "artistId": "2jzc5TC5TVFLXQlBNiIUzE",
+    "albumId": "1ER3B6zev5JEAaqhnyyfbf",
+    "release_date": "1985-06-01",
+    "popularity": 63
+  },
+  {
+    "trackId": "0yfNXxlyXdmP0ue1iJijx1",
+    "name": "Come Undone",
+    "duration_ms": 256519,
+    "artist": "Duran Duran",
+    "artistId": "0lZoBs4Pzo7R89JM9lxwoT",
+    "albumId": "0PqCkTvKFJxzr9uujq7a3T",
+    "release_date": "1993-02-15",
+    "popularity": 68
+  },
+  {
+    "trackId": "5TbzAWWc5eJaANpA9kfGCd",
+    "name": "Love Me Again",
+    "duration_ms": 239894,
+    "artist": "John Newman",
+    "artistId": "34v5MVKeQnIo0CWYMbbrPf",
+    "albumId": "2Bgfdyrywv3KEe0WwZdb0V",
+    "release_date": "2013-01-01",
+    "popularity": 76
+  },
+  {
+    "trackId": "2Foc5Q5nqNiosCNqttzHof",
+    "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+    "duration_ms": 248413,
+    "artist": "Daft Punk",
+    "artistId": "4tZwfgrHOc3mvqYlEYSvVi",
+    "albumId": "2ePFIvZKMe8zefATp9ofFA",
+    "release_date": "2013-04-19",
+    "popularity": 82
+  },
+  {
+    "trackId": "1G3cJJ19vXeVZ7ztZdejhm",
+    "name": "This Is What It Feels Like - Armin van Buuren Mash Up",
+    "duration_ms": 239800,
+    "artist": "Armin van Buuren",
+    "artistId": "0SfsnGyD8FpIN4U4WCkBZ5",
+    "albumId": "1WEVdCa5YAK8tep9xOs2hS",
+    "release_date": "2017-05-13",
+    "popularity": 30
+  },
+  {
+    "trackId": "5G0toONe1lwgHlFbaZxnXY",
+    "name": "Om",
+    "duration_ms": 242080,
+    "artist": "Niklas Strömstedt",
+    "artistId": "3nEiRzdQNmkUgoknNt9IRu",
+    "albumId": "3BV8m4wlM1r0KTcYzTKBdY",
+    "release_date": "2009-12-07",
+    "popularity": 44
+  },
+  {
+    "trackId": "23khhseCLQqVMCIT1WMAns",
+    "name": "Magic",
+    "duration_ms": 285014,
+    "artist": "Coldplay",
+    "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+    "albumId": "2G4AUqfwxcV1UdQjm2ouYr",
+    "release_date": "2014-05-19",
+    "popularity": 73
+  },
+  {
+    "trackId": "7FwBtcecmlpc1sLySPXeGE",
+    "name": "Dancing In the Dark",
+    "duration_ms": 241306,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "0PMasrHdpaoIRuHuhHp72O",
+    "release_date": "1984-06-04",
+    "popularity": 78
+  },
+  {
+    "trackId": "6yOjOnD3OYeO3zHnQki80w",
+    "name": "Red Lights - Radio Edit",
+    "duration_ms": 201587,
+    "artist": "Tiësto",
+    "artistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+    "albumId": "0oX1xBF1wgMmDym723zljn",
+    "release_date": "2014-01-01",
+    "popularity": 24
+  },
+  {
+    "trackId": "3h5vVpJ7RlYVWtOG0403bL",
+    "name": "Hey Brother - Avicii By Avicii",
+    "duration_ms": 369946,
+    "artist": "Avicii",
+    "artistId": "1vCWHaC5f2uS3yhpwWbIA6",
+    "albumId": "0ignCov9foaLxuqND5GMtl",
+    "release_date": "2014-01-01",
+    "popularity": 40
+  },
+  {
+    "trackId": "7JiihoVvi5LWBUr2x45ASM",
+    "name": "Tro på varann",
+    "duration_ms": 274093,
+    "artist": "Uno Svenningsson",
+    "artistId": "65OPXmm2nfPvaX1fjHo8kR",
+    "albumId": "7uBv5UUDd1VQ0oklzZ90Ne",
+    "release_date": "1994-08-27",
+    "popularity": 36
+  },
+  {
+    "trackId": "2GgxS8bUT5G25QJTsfSv0R",
+    "name": "Burn",
+    "duration_ms": 231211,
+    "artist": "Ellie Goulding",
+    "artistId": "0X2BH1fck6amBIoJhDVmmJ",
+    "albumId": "2Dw4fYqDQnxsgoXDdMbqh3",
+    "release_date": "2014-01-01",
+    "popularity": 70
+  }
+]

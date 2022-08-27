@@ -1,1 +1,132 @@
-[{"trackId":"1XunTmhOcj3xwh4b8P3isX","name":"It's Now or Never","duration_ms":194600,"artist":"Elvis Presley","artistId":"43ZHCT0cAZBISjO8DG9PnE","albumId":"0QVoYzGd1p8Z3ohEaM0lsc","release_date":"2002-09-24","popularity":58},{"trackId":"4bl8idKCKkuvOyHRFSWot4","name":"Brev från kolonien","duration_ms":144866,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"2M1yifaX3hZ3j3o0n0sxlC","release_date":"1965","popularity":44},{"trackId":"2w4PpI4xyORL942puRJWXK","name":"Man måste vara människa","duration_ms":259933,"artist":"Lisa Nilsson","artistId":"68QvqbdqwqqjW39YpUJHdG","albumId":"2iXjmFjERWHm3VZleAVkTq","release_date":"1995","popularity":18},{"trackId":"6VTbbVjKOC2qWagIDbkJrC","name":"My Baby Just Cares for Me - 2013 Remastered Version","duration_ms":215746,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"58gOQaPc4RCw8eWdTDRes7","release_date":"1958-06-24","popularity":66},{"trackId":"1dpHVfQJYM5arwbDaa72Fo","name":"Balladen dagen efter","duration_ms":74826,"artist":"Bengt Sändh","artistId":"22wER23wjTQ82o15BavkQb","albumId":"3dy21XLWJLwSBlC9B9Mcrs","release_date":"1969-01-01","popularity":30},{"trackId":"5tB3935lICfBBLAfe5Un6l","name":"Skräckfilm","duration_ms":150000,"artist":"Sarettii","artistId":"4kUfJdASJDMPLuo1t1N2zi","albumId":"2q5XEzQtJ8Pk20TPFlRMP3","release_date":"2021-07-02","popularity":55},{"trackId":"7ckLgOcAzWictOJuiN1FYO","name":"Maraba Blue","duration_ms":250488,"artist":"The Brazz Brothers","artistId":"3bQrSgsuzgu5yxYU99L6A6","albumId":"1KRWKXIWaierDED7DvepGO","release_date":"1999","popularity":10},{"trackId":"7iN1s7xHE4ifF5povM6A48","name":"Let It Be - Remastered 2009","duration_ms":243026,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"0jTGHV5xqHPvEcwL8f6YU5","release_date":"1970-05-08","popularity":77},{"trackId":"7aleO65wxmrijCugl55XJz","name":"Michelangelo (Men så svara då!)","duration_ms":196013,"artist":"Björn Skifs","artistId":"1Ek3VdZ8EPmcvgRIqnHlrF","albumId":"5NrYkuEoZEu9QmxFQ0bV27","release_date":"1975","popularity":47},{"trackId":"1x5FkM7nX9miwNyO2zOIVG","name":"Vesperae solennes de confessore in C, K.339: Laudate Dominum omnes gentes","duration_ms":302666,"artist":"Wolfgang Amadeus Mozart","artistId":"4NJhFmfw43RLBLjQvxDuRS","albumId":"1gDL12ToPDfYXwXxGWMylh","release_date":"2010-01-01","popularity":24},{"trackId":"26e8SuGn41zKPFy7u2miqL","name":"Fragile","duration_ms":195133,"artist":"Nils Landgren","artistId":"6B3ZWSop1mrJd71rwFozVP","albumId":"5Df4tcguBo4qkUYY8vA7IV","release_date":"2002-08-26","popularity":32},{"trackId":"6A2HjAakfckp97fU7J1W57","name":"Fridas bok (Fridas Book): Den forsta gang jag sag dig (When first, my love, I Saw You) (arr. M. Samuelson and M. Bergstrom)","duration_ms":191826,"artist":"Mats Bergström","artistId":"1cK2dUALEJSsEGK3WUgruU","albumId":"5ucs7VtnAICWFuFhdn1R7T","release_date":"2012-03-01","popularity":2},{"trackId":"1m1s5bdkfjwombD1YvLCPv","name":"Underbart är kort","duration_ms":208413,"artist":"Björn Skifs","artistId":"1Ek3VdZ8EPmcvgRIqnHlrF","albumId":"2UbHEEm1Xd03HAX7vhUN5Q","release_date":"2005-12-09","popularity":16}]
+[
+  {
+    "trackId": "1XunTmhOcj3xwh4b8P3isX",
+    "name": "It's Now or Never",
+    "duration_ms": 194600,
+    "artist": "Elvis Presley",
+    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
+    "albumId": "0QVoYzGd1p8Z3ohEaM0lsc",
+    "release_date": "2002-09-24",
+    "popularity": 58
+  },
+  {
+    "trackId": "4bl8idKCKkuvOyHRFSWot4",
+    "name": "Brev från kolonien",
+    "duration_ms": 144866,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "2M1yifaX3hZ3j3o0n0sxlC",
+    "release_date": "1965",
+    "popularity": 44
+  },
+  {
+    "trackId": "2w4PpI4xyORL942puRJWXK",
+    "name": "Man måste vara människa",
+    "duration_ms": 259933,
+    "artist": "Lisa Nilsson",
+    "artistId": "68QvqbdqwqqjW39YpUJHdG",
+    "albumId": "2iXjmFjERWHm3VZleAVkTq",
+    "release_date": "1995",
+    "popularity": 18
+  },
+  {
+    "trackId": "6VTbbVjKOC2qWagIDbkJrC",
+    "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+    "duration_ms": 215746,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "58gOQaPc4RCw8eWdTDRes7",
+    "release_date": "1958-06-24",
+    "popularity": 66
+  },
+  {
+    "trackId": "1dpHVfQJYM5arwbDaa72Fo",
+    "name": "Balladen dagen efter",
+    "duration_ms": 74826,
+    "artist": "Bengt Sändh",
+    "artistId": "22wER23wjTQ82o15BavkQb",
+    "albumId": "3dy21XLWJLwSBlC9B9Mcrs",
+    "release_date": "1969-01-01",
+    "popularity": 30
+  },
+  {
+    "trackId": "5tB3935lICfBBLAfe5Un6l",
+    "name": "Skräckfilm",
+    "duration_ms": 150000,
+    "artist": "Sarettii",
+    "artistId": "4kUfJdASJDMPLuo1t1N2zi",
+    "albumId": "2q5XEzQtJ8Pk20TPFlRMP3",
+    "release_date": "2021-07-02",
+    "popularity": 55
+  },
+  {
+    "trackId": "7ckLgOcAzWictOJuiN1FYO",
+    "name": "Maraba Blue",
+    "duration_ms": 250488,
+    "artist": "The Brazz Brothers",
+    "artistId": "3bQrSgsuzgu5yxYU99L6A6",
+    "albumId": "1KRWKXIWaierDED7DvepGO",
+    "release_date": "1999",
+    "popularity": 10
+  },
+  {
+    "trackId": "7iN1s7xHE4ifF5povM6A48",
+    "name": "Let It Be - Remastered 2009",
+    "duration_ms": 243026,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+    "release_date": "1970-05-08",
+    "popularity": 77
+  },
+  {
+    "trackId": "7aleO65wxmrijCugl55XJz",
+    "name": "Michelangelo (Men så svara då!)",
+    "duration_ms": 196013,
+    "artist": "Björn Skifs",
+    "artistId": "1Ek3VdZ8EPmcvgRIqnHlrF",
+    "albumId": "5NrYkuEoZEu9QmxFQ0bV27",
+    "release_date": "1975",
+    "popularity": 47
+  },
+  {
+    "trackId": "1x5FkM7nX9miwNyO2zOIVG",
+    "name": "Vesperae solennes de confessore in C, K.339: Laudate Dominum omnes gentes",
+    "duration_ms": 302666,
+    "artist": "Wolfgang Amadeus Mozart",
+    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
+    "albumId": "1gDL12ToPDfYXwXxGWMylh",
+    "release_date": "2010-01-01",
+    "popularity": 24
+  },
+  {
+    "trackId": "26e8SuGn41zKPFy7u2miqL",
+    "name": "Fragile",
+    "duration_ms": 195133,
+    "artist": "Nils Landgren",
+    "artistId": "6B3ZWSop1mrJd71rwFozVP",
+    "albumId": "5Df4tcguBo4qkUYY8vA7IV",
+    "release_date": "2002-08-26",
+    "popularity": 32
+  },
+  {
+    "trackId": "6A2HjAakfckp97fU7J1W57",
+    "name": "Fridas bok (Fridas Book): Den forsta gang jag sag dig (When first, my love, I Saw You) (arr. M. Samuelson and M. Bergstrom)",
+    "duration_ms": 191826,
+    "artist": "Mats Bergström",
+    "artistId": "1cK2dUALEJSsEGK3WUgruU",
+    "albumId": "5ucs7VtnAICWFuFhdn1R7T",
+    "release_date": "2012-03-01",
+    "popularity": 2
+  },
+  {
+    "trackId": "1m1s5bdkfjwombD1YvLCPv",
+    "name": "Underbart är kort",
+    "duration_ms": 208413,
+    "artist": "Björn Skifs",
+    "artistId": "1Ek3VdZ8EPmcvgRIqnHlrF",
+    "albumId": "2UbHEEm1Xd03HAX7vhUN5Q",
+    "release_date": "2005-12-09",
+    "popularity": 16
+  }
+]

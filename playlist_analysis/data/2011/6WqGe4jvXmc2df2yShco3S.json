@@ -1,1 +1,122 @@
-[{"trackId":"2Am4TMJcqfQtr79278nZjj","name":"Love's Holiday","duration_ms":262079,"artist":"Earth, Wind & Fire","artistId":"4QQgXkCYTt3BlENzhyNETg","albumId":"0w0eT42Gyq6G9yXB0RirWh","release_date":"1977-11-21","popularity":52},{"trackId":"6cFtFZDbBmKedqwoFCAYv3","name":"Änglamark","duration_ms":197826,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"4ArA86KBWpxyBxVPfkAzd9","release_date":"1995-01-01","popularity":37},{"trackId":"1bOLFHXStwdSHAdz412vMG","name":"I Mean You","duration_ms":407293,"artist":"Esbjörn Svensson Trio","artistId":"3HJzLaMbS0jMabxS3wttGk","albumId":"7gIeXaWDihgMi7s925uq4A","release_date":"2000-10-23","popularity":38},{"trackId":"14oT82TcyCxmxj2lDNjSTk","name":"Nu är det gott att leva - Live","duration_ms":213520,"artist":"Tommy Körberg","artistId":"6R21HSNyo7HVac8pyqY3T2","albumId":"1QJh9i94hL18YACZoBaar3","release_date":"2007-05-30","popularity":6},{"trackId":"1FjiBN5Ey021gw8tZqxGz4","name":"Company","duration_ms":292400,"artist":"Rickie Lee Jones","artistId":"0dYkMe3wK29DulSa0uR8Rq","albumId":"6IzMnrSzyRykaltIvnlNuk","release_date":"1979-03-02","popularity":21},{"trackId":"5o83CVtVdVQl4SucqXxhkj","name":"90 000","duration_ms":234560,"artist":"Problem","artistId":"08RxjVzdq6Xk9GriL5tu6V","albumId":"10oDppBUeqkHDEecCpwofu","release_date":"1978-01-01","popularity":2},{"trackId":"6B8C0FZ1fRSZhwCCBDK0Oc","name":"I'm All Alone - Original Broadway Cast Recording: \"Spamalot\"","duration_ms":199706,"artist":"Tim Curry","artistId":"5upLeyz8OjRZcbFuXOF59B","albumId":"5To3LrXgZuZEfDTiIjKqFf","release_date":"2005-01-01","popularity":24},{"trackId":"3hNpnx2AXhIVBhNOoiBUmI","name":"Resten av ditt liv","duration_ms":234840,"artist":"Timbuktu","artistId":"4bOG1sx3QHFbOUVLNmMpPe","albumId":"3qEtXKnOn9K5YQW05IPiFq","release_date":"2011-06-06","popularity":47},{"trackId":"6N4GFeYeuBC5D3o2MLPx5a","name":"The Impossible Dream","duration_ms":164973,"artist":"Matt Monro","artistId":"06kr5yNAM2rOf4DXemM8fl","albumId":"2Ij1CdeZ9ax50zZyHy6m71","release_date":"2022-08-09","popularity":0},{"trackId":"1Let4BYaYSum46nAGO1i6v","name":"We're in This Love Together","duration_ms":226066,"artist":"Al Jarreau","artistId":"3YR92OLKlvkK5oKNekSqXe","albumId":"5rMktOHgYGeV65qjHk6W2X","release_date":"1981","popularity":52},{"trackId":"2iWTHXaFtRSMhd5OLpYD7f","name":"Life's What You Make It - 1997 Remaster","duration_ms":268893,"artist":"Talk Talk","artistId":"7Fo8TAyGJr4VmhE68QamMf","albumId":"70V1kL7w7Q9pDU4I6zDjYE","release_date":"1986","popularity":57},{"trackId":"5jzHWBOCpAHxe1TYLQEXP7","name":"Sommar, Sommar, Sommar","duration_ms":188706,"artist":"Jan Lundgren","artistId":"4yw84sobRr067mN2U8BNOI","albumId":"3ZGxz7JmoEG74JHDUkAPsg","release_date":"2009-04-24","popularity":6}]
+[
+  {
+    "trackId": "2Am4TMJcqfQtr79278nZjj",
+    "name": "Love's Holiday",
+    "duration_ms": 262079,
+    "artist": "Earth, Wind & Fire",
+    "artistId": "4QQgXkCYTt3BlENzhyNETg",
+    "albumId": "0w0eT42Gyq6G9yXB0RirWh",
+    "release_date": "1977-11-21",
+    "popularity": 52
+  },
+  {
+    "trackId": "6cFtFZDbBmKedqwoFCAYv3",
+    "name": "Änglamark",
+    "duration_ms": 197826,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "4ArA86KBWpxyBxVPfkAzd9",
+    "release_date": "1995-01-01",
+    "popularity": 37
+  },
+  {
+    "trackId": "1bOLFHXStwdSHAdz412vMG",
+    "name": "I Mean You",
+    "duration_ms": 407293,
+    "artist": "Esbjörn Svensson Trio",
+    "artistId": "3HJzLaMbS0jMabxS3wttGk",
+    "albumId": "7gIeXaWDihgMi7s925uq4A",
+    "release_date": "2000-10-23",
+    "popularity": 38
+  },
+  {
+    "trackId": "14oT82TcyCxmxj2lDNjSTk",
+    "name": "Nu är det gott att leva - Live",
+    "duration_ms": 213520,
+    "artist": "Tommy Körberg",
+    "artistId": "6R21HSNyo7HVac8pyqY3T2",
+    "albumId": "1QJh9i94hL18YACZoBaar3",
+    "release_date": "2007-05-30",
+    "popularity": 6
+  },
+  {
+    "trackId": "1FjiBN5Ey021gw8tZqxGz4",
+    "name": "Company",
+    "duration_ms": 292400,
+    "artist": "Rickie Lee Jones",
+    "artistId": "0dYkMe3wK29DulSa0uR8Rq",
+    "albumId": "6IzMnrSzyRykaltIvnlNuk",
+    "release_date": "1979-03-02",
+    "popularity": 21
+  },
+  {
+    "trackId": "5o83CVtVdVQl4SucqXxhkj",
+    "name": "90 000",
+    "duration_ms": 234560,
+    "artist": "Problem",
+    "artistId": "08RxjVzdq6Xk9GriL5tu6V",
+    "albumId": "10oDppBUeqkHDEecCpwofu",
+    "release_date": "1978-01-01",
+    "popularity": 2
+  },
+  {
+    "trackId": "6B8C0FZ1fRSZhwCCBDK0Oc",
+    "name": "I'm All Alone - Original Broadway Cast Recording: \"Spamalot\"",
+    "duration_ms": 199706,
+    "artist": "Tim Curry",
+    "artistId": "5upLeyz8OjRZcbFuXOF59B",
+    "albumId": "5To3LrXgZuZEfDTiIjKqFf",
+    "release_date": "2005-01-01",
+    "popularity": 24
+  },
+  {
+    "trackId": "3hNpnx2AXhIVBhNOoiBUmI",
+    "name": "Resten av ditt liv",
+    "duration_ms": 234840,
+    "artist": "Timbuktu",
+    "artistId": "4bOG1sx3QHFbOUVLNmMpPe",
+    "albumId": "3qEtXKnOn9K5YQW05IPiFq",
+    "release_date": "2011-06-06",
+    "popularity": 47
+  },
+  {
+    "trackId": "6N4GFeYeuBC5D3o2MLPx5a",
+    "name": "The Impossible Dream",
+    "duration_ms": 164973,
+    "artist": "Matt Monro",
+    "artistId": "06kr5yNAM2rOf4DXemM8fl",
+    "albumId": "2Ij1CdeZ9ax50zZyHy6m71",
+    "release_date": "2022-08-09",
+    "popularity": 0
+  },
+  {
+    "trackId": "1Let4BYaYSum46nAGO1i6v",
+    "name": "We're in This Love Together",
+    "duration_ms": 226066,
+    "artist": "Al Jarreau",
+    "artistId": "3YR92OLKlvkK5oKNekSqXe",
+    "albumId": "5rMktOHgYGeV65qjHk6W2X",
+    "release_date": "1981",
+    "popularity": 52
+  },
+  {
+    "trackId": "2iWTHXaFtRSMhd5OLpYD7f",
+    "name": "Life's What You Make It - 1997 Remaster",
+    "duration_ms": 268893,
+    "artist": "Talk Talk",
+    "artistId": "7Fo8TAyGJr4VmhE68QamMf",
+    "albumId": "70V1kL7w7Q9pDU4I6zDjYE",
+    "release_date": "1986",
+    "popularity": 57
+  },
+  {
+    "trackId": "5jzHWBOCpAHxe1TYLQEXP7",
+    "name": "Sommar, Sommar, Sommar",
+    "duration_ms": 188706,
+    "artist": "Jan Lundgren",
+    "artistId": "4yw84sobRr067mN2U8BNOI",
+    "albumId": "3ZGxz7JmoEG74JHDUkAPsg",
+    "release_date": "2009-04-24",
+    "popularity": 6
+  }
+]

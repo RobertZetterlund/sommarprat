@@ -1,1 +1,132 @@
-[{"trackId":"29nwG4y9NFmN76yfUfc01d","name":"Komplicerad","duration_ms":160411,"artist":"Miss Li","artistId":"04HqRx07Bv9gh7rsrMTqs7","albumId":"0we1oHYcvvjwVq5LHiKQTe","release_date":"2020-02-28","popularity":55},{"trackId":"2rsv9wM99yhMdLnSOzXrLc","name":"Freak","duration_ms":167600,"artist":"Little Jinder","artistId":"5QYBoZAoupoPPuFB1KHfx0","albumId":"6s0TKDaBevGiKQKob1dNBo","release_date":"2016-12-11","popularity":20},{"trackId":"1SZDQMXX1FrA97YY7Lt3Fj","name":"Ett sista glas","duration_ms":186085,"artist":"Miriam Bryant","artistId":"2zd9YxlsQvA5mkZ1NarYVQ","albumId":"3jBdOBQUdU4Z0GPBYahCWD","release_date":"2016-01-01","popularity":55},{"trackId":"34QCQReyRKDDyo0qfWL6R9","name":"Jag ger dig allt jag har","duration_ms":230533,"artist":"Linnea Henriksson","artistId":"3IsULVZIf4iGp9ExB7yJVq","albumId":"1ypzZi9pQ6TI2VYaMc28za","release_date":"2014-02-05","popularity":21},{"trackId":"1fGhWImpq7OSJvYy1WcfBD","name":"Det Kommer Bli Bra","duration_ms":231360,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"1TdBDgXrb8ELHqUKDl9uUa","release_date":"2022-03-25","popularity":55},{"trackId":"71q2qYTo4BzqNGpy5S7vV3","name":"Tills mitt hjärta går under","duration_ms":228433,"artist":"Myra Granberg","artistId":"6HYjkczJfUdGcwIGPOq5P2","albumId":"0fbrsEZyjK7vZG4I6ilT3B","release_date":"2019-11-21","popularity":55},{"trackId":"5CQ30WqJwcep0pYcV4AMNc","name":"Stairway to Heaven - Remaster","duration_ms":482830,"artist":"Led Zeppelin","artistId":"36QJpDe2go2KgaRleHCDTp","albumId":"44Ig8dzqOkvkGDzaUof9lK","release_date":"1971-11-08","popularity":79},{"trackId":"20eB0hhLoBykHXsnnyYhxE","name":"Hädanefter","duration_ms":212013,"artist":"Veronica Maggio","artistId":"2OIWxN9xUhgUHkeUCWCaNs","albumId":"6FDDd5kzWGXVm1qbKRGqEg","release_date":"2013-01-01","popularity":51},{"trackId":"4NB5xE2cE0Hf8cGnzSiWM7","name":"Det bästa kanske inte hänt än","duration_ms":218493,"artist":"Molly Sandén","artistId":"0NRMzT05nsc8mTm4iUvuHY","albumId":"3N6wzSEuSTAtcdlAnRADE0","release_date":"2019-05-29","popularity":53},{"trackId":"1wUVthTYPYRZJRCawAlG1D","name":"Bästis","duration_ms":175173,"artist":"Ana Diaz","artistId":"4Lw6zDFtDp7WVblSAXcQdW","albumId":"5UXggoZYAOy4l4v1vejoSp","release_date":"2020-04-24","popularity":47},{"trackId":"4SaQum2qpGFikUoO0UY7KE","name":"Ett andetag i taget","duration_ms":161678,"artist":"Renaida","artistId":"4khtDyqMsFLSV24T9g07Np","albumId":"28w8hvW4JIMs2SJaCsql1H","release_date":"2020-01-03","popularity":41},{"trackId":"3vYy9qlMPXSkr4QYEg22QA","name":"Hatar","duration_ms":176383,"artist":"Maxida Märak","artistId":"3FfnFeTonanbog4rEvYXns","albumId":"0ZH9hKKRGsRtK2pNXFNvCc","release_date":"2019-03-22","popularity":18},{"trackId":"5ZO9tKA5q3MMqmwnobTprw","name":"OKEJ","duration_ms":150243,"artist":"Alina Devecerski","artistId":"4HpFXZsVoerMLtLudMJJkb","albumId":"3GuNyx56qxDnvpdLQX1snZ","release_date":"2020-05-28","popularity":21}]
+[
+  {
+    "trackId": "29nwG4y9NFmN76yfUfc01d",
+    "name": "Komplicerad",
+    "duration_ms": 160411,
+    "artist": "Miss Li",
+    "artistId": "04HqRx07Bv9gh7rsrMTqs7",
+    "albumId": "0we1oHYcvvjwVq5LHiKQTe",
+    "release_date": "2020-02-28",
+    "popularity": 55
+  },
+  {
+    "trackId": "2rsv9wM99yhMdLnSOzXrLc",
+    "name": "Freak",
+    "duration_ms": 167600,
+    "artist": "Little Jinder",
+    "artistId": "5QYBoZAoupoPPuFB1KHfx0",
+    "albumId": "6s0TKDaBevGiKQKob1dNBo",
+    "release_date": "2016-12-11",
+    "popularity": 20
+  },
+  {
+    "trackId": "1SZDQMXX1FrA97YY7Lt3Fj",
+    "name": "Ett sista glas",
+    "duration_ms": 186085,
+    "artist": "Miriam Bryant",
+    "artistId": "2zd9YxlsQvA5mkZ1NarYVQ",
+    "albumId": "3jBdOBQUdU4Z0GPBYahCWD",
+    "release_date": "2016-01-01",
+    "popularity": 55
+  },
+  {
+    "trackId": "34QCQReyRKDDyo0qfWL6R9",
+    "name": "Jag ger dig allt jag har",
+    "duration_ms": 230533,
+    "artist": "Linnea Henriksson",
+    "artistId": "3IsULVZIf4iGp9ExB7yJVq",
+    "albumId": "1ypzZi9pQ6TI2VYaMc28za",
+    "release_date": "2014-02-05",
+    "popularity": 21
+  },
+  {
+    "trackId": "1fGhWImpq7OSJvYy1WcfBD",
+    "name": "Det Kommer Bli Bra",
+    "duration_ms": 231360,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "1TdBDgXrb8ELHqUKDl9uUa",
+    "release_date": "2022-03-25",
+    "popularity": 55
+  },
+  {
+    "trackId": "71q2qYTo4BzqNGpy5S7vV3",
+    "name": "Tills mitt hjärta går under",
+    "duration_ms": 228433,
+    "artist": "Myra Granberg",
+    "artistId": "6HYjkczJfUdGcwIGPOq5P2",
+    "albumId": "0fbrsEZyjK7vZG4I6ilT3B",
+    "release_date": "2019-11-21",
+    "popularity": 55
+  },
+  {
+    "trackId": "5CQ30WqJwcep0pYcV4AMNc",
+    "name": "Stairway to Heaven - Remaster",
+    "duration_ms": 482830,
+    "artist": "Led Zeppelin",
+    "artistId": "36QJpDe2go2KgaRleHCDTp",
+    "albumId": "44Ig8dzqOkvkGDzaUof9lK",
+    "release_date": "1971-11-08",
+    "popularity": 79
+  },
+  {
+    "trackId": "20eB0hhLoBykHXsnnyYhxE",
+    "name": "Hädanefter",
+    "duration_ms": 212013,
+    "artist": "Veronica Maggio",
+    "artistId": "2OIWxN9xUhgUHkeUCWCaNs",
+    "albumId": "6FDDd5kzWGXVm1qbKRGqEg",
+    "release_date": "2013-01-01",
+    "popularity": 51
+  },
+  {
+    "trackId": "4NB5xE2cE0Hf8cGnzSiWM7",
+    "name": "Det bästa kanske inte hänt än",
+    "duration_ms": 218493,
+    "artist": "Molly Sandén",
+    "artistId": "0NRMzT05nsc8mTm4iUvuHY",
+    "albumId": "3N6wzSEuSTAtcdlAnRADE0",
+    "release_date": "2019-05-29",
+    "popularity": 53
+  },
+  {
+    "trackId": "1wUVthTYPYRZJRCawAlG1D",
+    "name": "Bästis",
+    "duration_ms": 175173,
+    "artist": "Ana Diaz",
+    "artistId": "4Lw6zDFtDp7WVblSAXcQdW",
+    "albumId": "5UXggoZYAOy4l4v1vejoSp",
+    "release_date": "2020-04-24",
+    "popularity": 47
+  },
+  {
+    "trackId": "4SaQum2qpGFikUoO0UY7KE",
+    "name": "Ett andetag i taget",
+    "duration_ms": 161678,
+    "artist": "Renaida",
+    "artistId": "4khtDyqMsFLSV24T9g07Np",
+    "albumId": "28w8hvW4JIMs2SJaCsql1H",
+    "release_date": "2020-01-03",
+    "popularity": 41
+  },
+  {
+    "trackId": "3vYy9qlMPXSkr4QYEg22QA",
+    "name": "Hatar",
+    "duration_ms": 176383,
+    "artist": "Maxida Märak",
+    "artistId": "3FfnFeTonanbog4rEvYXns",
+    "albumId": "0ZH9hKKRGsRtK2pNXFNvCc",
+    "release_date": "2019-03-22",
+    "popularity": 18
+  },
+  {
+    "trackId": "5ZO9tKA5q3MMqmwnobTprw",
+    "name": "OKEJ",
+    "duration_ms": 150243,
+    "artist": "Alina Devecerski",
+    "artistId": "4HpFXZsVoerMLtLudMJJkb",
+    "albumId": "3GuNyx56qxDnvpdLQX1snZ",
+    "release_date": "2020-05-28",
+    "popularity": 21
+  }
+]

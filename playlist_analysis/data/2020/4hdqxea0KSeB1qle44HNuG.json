@@ -1,1 +1,142 @@
-[{"trackId":"4dIMGmkew7pLWVoJ7de8Wg","name":"Faith","duration_ms":217946,"artist":"Bon Iver","artistId":"4LEiUm1SRbFMgfqnQTwUbQ","albumId":"0aldG5AoqOUDkEbsGtI9TW","release_date":"2019-08-09","popularity":49},{"trackId":"7kK5ihEqZcXEWr1r8o99E2","name":"I Miss Those Days","duration_ms":217973,"artist":"Bleachers","artistId":"2eam0iDomRHGBypaDQLwWI","albumId":"10HKbC9lKDHGQvndGck6XJ","release_date":"2017-06-02","popularity":50},{"trackId":"5BGVuHClcjaeo615UAUUJr","name":"Du Går Aldrig Ensam","duration_ms":170706,"artist":"Tony Björkenvall","artistId":"4lzDodEWWFiQFeTaqMfys7","albumId":"2JIUKS8gKTtb2VhH2i2PMk","release_date":"2019-06-21","popularity":12},{"trackId":"6mVCP2JxeTKkT8IWRCEthm","name":"Äter upp dig","duration_ms":161613,"artist":"Maxida Märak","artistId":"3FfnFeTonanbog4rEvYXns","albumId":"5CxDWH1dwXXQ1iDxH6c346","release_date":"2016-09-23","popularity":37},{"trackId":"3Ua8amx9yPvpDNzVeoU683","name":"Into the Wild - EP Version","duration_ms":233960,"artist":"LP","artistId":"0J7U24vlOOIeMpuaO6Q85A","albumId":"3u9u8L2vp0Odr3Zgnz5sJG","release_date":"2012-04-24","popularity":21},{"trackId":"2cpudOLqYp2H009rgQ1LA4","name":"Fuel to the Fire","duration_ms":211428,"artist":"Rationale","artistId":"2IQDM5URYGYfSMmwhTCmyy","albumId":"1AjOV2yBKpS6FlDnVYeihR","release_date":"2015-08-21","popularity":34},{"trackId":"0TY07cgw8YBWnq5hGKRDQy","name":"Mitt skinn och ben","duration_ms":176146,"artist":"Sofia Jannok","artistId":"61GJGvVkImL0wkfUQ5XuR8","albumId":"0DesPPbPUEHbiLxbOblSjp","release_date":"2020-02-14","popularity":33},{"trackId":"52330Mn42K1caujwMhQOUw","name":"Sleepwalking","duration_ms":141998,"artist":"Josa","artistId":"2BUX6bhQxzfkO4CH8dmwQp","albumId":"4HdTGEkUxgKigH7tLUyoJM","release_date":"2021-07-20","popularity":48},{"trackId":"7j0blQEnlnwwFgIzFjtwh9","name":"Väck Mig När Ni Vaknat","duration_ms":276750,"artist":"Silvana Imam","artistId":"14vNE9iqS5eGAL6OogiN8g","albumId":"1WUagXFvCh1pnAj9hJSFnp","release_date":"2016-03-25","popularity":21},{"trackId":"4BrGYhbT975hwXXPBUqXNY","name":"Girl - Acoustic","duration_ms":211881,"artist":"SYML","artistId":"6AyATGg7mDgBlZ4N5uNog0","albumId":"1rKpOJytpITLf7mbE7lrkY","release_date":"2018","popularity":59},{"trackId":"466sCpPXWh5a5xmN6P7YO8","name":"Istid","duration_ms":240813,"artist":"Honungsvägen","artistId":"2oPrh5oUwZfr7FUiIuAWmP","albumId":"50tBk0e290aMSCLcf98IWg","release_date":"2019-03-01","popularity":33},{"trackId":"456WNXWhDwYOSf5SpTuqxd","name":"Dog Days Are Over","duration_ms":252818,"artist":"Florence + The Machine","artistId":"1moxjboGR7GNWYIMWsRjgG","albumId":"1rLLyY5p6HXNl2lKzINWp5","release_date":"2009","popularity":74},{"trackId":"3PVrNUGSKuAUInzpk8Ec1M","name":"Long Long Way - Acoustic Version","duration_ms":191101,"artist":"Mando Diao","artistId":"5I4eibDkC7gg0hmczTZuND","albumId":"6dWLxUoXFmU4Y5VCRSPO2I","release_date":"2020-03-13","popularity":19},{"trackId":"33yVQ4m3YHTyV3EDdRpMNE","name":"Där jag vill va - Musiken från filmen Underdogs","duration_ms":166160,"artist":"Lovisa Lindberg Lekfalk","artistId":"2k7uLQpbu5m6RtFQzyj7cc","albumId":"5k00oKzEPTc6KUm5MNJxBc","release_date":"2018-01-19","popularity":8}]
+[
+  {
+    "trackId": "4dIMGmkew7pLWVoJ7de8Wg",
+    "name": "Faith",
+    "duration_ms": 217946,
+    "artist": "Bon Iver",
+    "artistId": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "albumId": "0aldG5AoqOUDkEbsGtI9TW",
+    "release_date": "2019-08-09",
+    "popularity": 49
+  },
+  {
+    "trackId": "7kK5ihEqZcXEWr1r8o99E2",
+    "name": "I Miss Those Days",
+    "duration_ms": 217973,
+    "artist": "Bleachers",
+    "artistId": "2eam0iDomRHGBypaDQLwWI",
+    "albumId": "10HKbC9lKDHGQvndGck6XJ",
+    "release_date": "2017-06-02",
+    "popularity": 50
+  },
+  {
+    "trackId": "5BGVuHClcjaeo615UAUUJr",
+    "name": "Du Går Aldrig Ensam",
+    "duration_ms": 170706,
+    "artist": "Tony Björkenvall",
+    "artistId": "4lzDodEWWFiQFeTaqMfys7",
+    "albumId": "2JIUKS8gKTtb2VhH2i2PMk",
+    "release_date": "2019-06-21",
+    "popularity": 12
+  },
+  {
+    "trackId": "6mVCP2JxeTKkT8IWRCEthm",
+    "name": "Äter upp dig",
+    "duration_ms": 161613,
+    "artist": "Maxida Märak",
+    "artistId": "3FfnFeTonanbog4rEvYXns",
+    "albumId": "5CxDWH1dwXXQ1iDxH6c346",
+    "release_date": "2016-09-23",
+    "popularity": 37
+  },
+  {
+    "trackId": "3Ua8amx9yPvpDNzVeoU683",
+    "name": "Into the Wild - EP Version",
+    "duration_ms": 233960,
+    "artist": "LP",
+    "artistId": "0J7U24vlOOIeMpuaO6Q85A",
+    "albumId": "3u9u8L2vp0Odr3Zgnz5sJG",
+    "release_date": "2012-04-24",
+    "popularity": 21
+  },
+  {
+    "trackId": "2cpudOLqYp2H009rgQ1LA4",
+    "name": "Fuel to the Fire",
+    "duration_ms": 211428,
+    "artist": "Rationale",
+    "artistId": "2IQDM5URYGYfSMmwhTCmyy",
+    "albumId": "1AjOV2yBKpS6FlDnVYeihR",
+    "release_date": "2015-08-21",
+    "popularity": 34
+  },
+  {
+    "trackId": "0TY07cgw8YBWnq5hGKRDQy",
+    "name": "Mitt skinn och ben",
+    "duration_ms": 176146,
+    "artist": "Sofia Jannok",
+    "artistId": "61GJGvVkImL0wkfUQ5XuR8",
+    "albumId": "0DesPPbPUEHbiLxbOblSjp",
+    "release_date": "2020-02-14",
+    "popularity": 33
+  },
+  {
+    "trackId": "52330Mn42K1caujwMhQOUw",
+    "name": "Sleepwalking",
+    "duration_ms": 141998,
+    "artist": "Josa",
+    "artistId": "2BUX6bhQxzfkO4CH8dmwQp",
+    "albumId": "4HdTGEkUxgKigH7tLUyoJM",
+    "release_date": "2021-07-20",
+    "popularity": 48
+  },
+  {
+    "trackId": "7j0blQEnlnwwFgIzFjtwh9",
+    "name": "Väck Mig När Ni Vaknat",
+    "duration_ms": 276750,
+    "artist": "Silvana Imam",
+    "artistId": "14vNE9iqS5eGAL6OogiN8g",
+    "albumId": "1WUagXFvCh1pnAj9hJSFnp",
+    "release_date": "2016-03-25",
+    "popularity": 21
+  },
+  {
+    "trackId": "4BrGYhbT975hwXXPBUqXNY",
+    "name": "Girl - Acoustic",
+    "duration_ms": 211881,
+    "artist": "SYML",
+    "artistId": "6AyATGg7mDgBlZ4N5uNog0",
+    "albumId": "1rKpOJytpITLf7mbE7lrkY",
+    "release_date": "2018",
+    "popularity": 59
+  },
+  {
+    "trackId": "466sCpPXWh5a5xmN6P7YO8",
+    "name": "Istid",
+    "duration_ms": 240813,
+    "artist": "Honungsvägen",
+    "artistId": "2oPrh5oUwZfr7FUiIuAWmP",
+    "albumId": "50tBk0e290aMSCLcf98IWg",
+    "release_date": "2019-03-01",
+    "popularity": 33
+  },
+  {
+    "trackId": "456WNXWhDwYOSf5SpTuqxd",
+    "name": "Dog Days Are Over",
+    "duration_ms": 252818,
+    "artist": "Florence + The Machine",
+    "artistId": "1moxjboGR7GNWYIMWsRjgG",
+    "albumId": "1rLLyY5p6HXNl2lKzINWp5",
+    "release_date": "2009",
+    "popularity": 74
+  },
+  {
+    "trackId": "3PVrNUGSKuAUInzpk8Ec1M",
+    "name": "Long Long Way - Acoustic Version",
+    "duration_ms": 191101,
+    "artist": "Mando Diao",
+    "artistId": "5I4eibDkC7gg0hmczTZuND",
+    "albumId": "6dWLxUoXFmU4Y5VCRSPO2I",
+    "release_date": "2020-03-13",
+    "popularity": 19
+  },
+  {
+    "trackId": "33yVQ4m3YHTyV3EDdRpMNE",
+    "name": "Där jag vill va - Musiken från filmen Underdogs",
+    "duration_ms": 166160,
+    "artist": "Lovisa Lindberg Lekfalk",
+    "artistId": "2k7uLQpbu5m6RtFQzyj7cc",
+    "albumId": "5k00oKzEPTc6KUm5MNJxBc",
+    "release_date": "2018-01-19",
+    "popularity": 8
+  }
+]

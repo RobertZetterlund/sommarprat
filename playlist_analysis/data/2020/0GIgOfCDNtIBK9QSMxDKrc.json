@@ -1,1 +1,142 @@
-[{"trackId":"7oOEFDLSQscl0uGulnIEmG","name":"Love & Hate","duration_ms":427093,"artist":"Michael Kiwanuka","artistId":"0bzfPKdbXL5ezYW2z3UGQj","albumId":"0qxsfpy2VU0i4eDR9RTaAU","release_date":"2016-07-15","popularity":64},{"trackId":"3w4gsihuw6cwiMI0j0nI7t","name":"Bordsskick","duration_ms":180386,"artist":"Parham","artistId":"3ldCASdD4QRyfTt6lpPn6y","albumId":"6qYxLc1LDj2arGb0AlVAuD","release_date":"2019-10-04","popularity":27},{"trackId":"39eZwqb8cC94W1m2r1W0YO","name":"I Still Dream About Trains","duration_ms":211280,"artist":"Doctor Paul","artistId":"7BU2uXjpLbVFL6VrF7q5B3","albumId":"6fvC4BO28XxECONqoSd0jM","release_date":"2015-01-01","popularity":0},{"trackId":"2gZUPNdnz5Y45eiGxpHGSc","name":"POWER","duration_ms":292093,"artist":"Kanye West","artistId":"5K4W6rqBFWDnAN6FQUkS6x","albumId":"20r762YmB5HeofjMCiPMLv","release_date":"2010-11-22","popularity":77},{"trackId":"5xRP5iyVdGglqlY4Vcjhkx","name":"Sinnerman","duration_ms":622000,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"31pd81sWDaK2pP3ok5892z","release_date":"1965-10-01","popularity":62},{"trackId":"5xRP5iyVdGglqlY4Vcjhkx","name":"Sinnerman","duration_ms":622000,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"31pd81sWDaK2pP3ok5892z","release_date":"1965-10-01","popularity":62},{"trackId":"4WwXzj3A0VdbeXd3ANCyKi","name":"I natt jag drömde något som","duration_ms":122000,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"6we6zDeGkdF0JWDmbc5xX9","release_date":"2001","popularity":30},{"trackId":"2ahnofp2LbBWDXcJbMaSTu","name":"What Is Love - 7\" Mix","duration_ms":270373,"artist":"Haddaway","artistId":"0Suv0tRrNrUlRzAy8aXjma","albumId":"0qTVjeVP70YvQG4GctetOf","release_date":"1993-03-22","popularity":70},{"trackId":"5r3q5qzU1LoxfORgwuvLCa","name":"I've Got to Use My Imagination","duration_ms":210480,"artist":"Gladys Knight & The Pips","artistId":"0TF2NxkJZPQoX1H53rEFM1","albumId":"6pMzuVjsypAwbeKiZm56wP","release_date":"1973","popularity":38},{"trackId":"0hyTCepHLrkjWBtczMxUxZ","name":"Mothers Of The Disappeared","duration_ms":314450,"artist":"U2","artistId":"51Blml2LZPmy7TTiAg47vQ","albumId":"5y6wlw1LnqFnQFruMeiwGU","release_date":"1987-03-03","popularity":40},{"trackId":"3AyuigFWbuirWHvidbMz8O","name":"Should Have Known Better","duration_ms":307697,"artist":"Sufjan Stevens","artistId":"4MXUO7sVCaFgFjoTI5ox5c","albumId":"64xtjfsPHNHch0CZ7fPTjS","release_date":"2015-03-31","popularity":64},{"trackId":"4WGjmt1z8vCH8Tv5u7O1A5","name":"Girma Ziasela","duration_ms":324359,"artist":"Yemane Barya","artistId":"28by5BS46GMVEyPiawjZtT","albumId":"52m1JEUStzCvH1ngdKmhWr","release_date":"2014-05-16","popularity":28},{"trackId":"0tV8pOpiNsKqUys0ilUcXz","name":"Rise Up","duration_ms":253342,"artist":"Andra Day","artistId":"1c4rxrxy8eDLvMVL1DTiBe","albumId":"6Blubl1glavmervPJa3QVs","release_date":"2015-08-28","popularity":73},{"trackId":"1QXGdiZhjm8lPLJgPsXnZc","name":"Oh Freedom !","duration_ms":187866,"artist":"The Golden Gospel Singers","artistId":"1rCCHAeY46jMz4Fo2d7KwE","albumId":"329cKC4w5X9LXEJL6rZeLm","release_date":"2007","popularity":15}]
+[
+  {
+    "trackId": "7oOEFDLSQscl0uGulnIEmG",
+    "name": "Love & Hate",
+    "duration_ms": 427093,
+    "artist": "Michael Kiwanuka",
+    "artistId": "0bzfPKdbXL5ezYW2z3UGQj",
+    "albumId": "0qxsfpy2VU0i4eDR9RTaAU",
+    "release_date": "2016-07-15",
+    "popularity": 64
+  },
+  {
+    "trackId": "3w4gsihuw6cwiMI0j0nI7t",
+    "name": "Bordsskick",
+    "duration_ms": 180386,
+    "artist": "Parham",
+    "artistId": "3ldCASdD4QRyfTt6lpPn6y",
+    "albumId": "6qYxLc1LDj2arGb0AlVAuD",
+    "release_date": "2019-10-04",
+    "popularity": 27
+  },
+  {
+    "trackId": "39eZwqb8cC94W1m2r1W0YO",
+    "name": "I Still Dream About Trains",
+    "duration_ms": 211280,
+    "artist": "Doctor Paul",
+    "artistId": "7BU2uXjpLbVFL6VrF7q5B3",
+    "albumId": "6fvC4BO28XxECONqoSd0jM",
+    "release_date": "2015-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "2gZUPNdnz5Y45eiGxpHGSc",
+    "name": "POWER",
+    "duration_ms": 292093,
+    "artist": "Kanye West",
+    "artistId": "5K4W6rqBFWDnAN6FQUkS6x",
+    "albumId": "20r762YmB5HeofjMCiPMLv",
+    "release_date": "2010-11-22",
+    "popularity": 77
+  },
+  {
+    "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
+    "name": "Sinnerman",
+    "duration_ms": 622000,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "31pd81sWDaK2pP3ok5892z",
+    "release_date": "1965-10-01",
+    "popularity": 62
+  },
+  {
+    "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
+    "name": "Sinnerman",
+    "duration_ms": 622000,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "31pd81sWDaK2pP3ok5892z",
+    "release_date": "1965-10-01",
+    "popularity": 62
+  },
+  {
+    "trackId": "4WwXzj3A0VdbeXd3ANCyKi",
+    "name": "I natt jag drömde något som",
+    "duration_ms": 122000,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "6we6zDeGkdF0JWDmbc5xX9",
+    "release_date": "2001",
+    "popularity": 30
+  },
+  {
+    "trackId": "2ahnofp2LbBWDXcJbMaSTu",
+    "name": "What Is Love - 7\" Mix",
+    "duration_ms": 270373,
+    "artist": "Haddaway",
+    "artistId": "0Suv0tRrNrUlRzAy8aXjma",
+    "albumId": "0qTVjeVP70YvQG4GctetOf",
+    "release_date": "1993-03-22",
+    "popularity": 70
+  },
+  {
+    "trackId": "5r3q5qzU1LoxfORgwuvLCa",
+    "name": "I've Got to Use My Imagination",
+    "duration_ms": 210480,
+    "artist": "Gladys Knight & The Pips",
+    "artistId": "0TF2NxkJZPQoX1H53rEFM1",
+    "albumId": "6pMzuVjsypAwbeKiZm56wP",
+    "release_date": "1973",
+    "popularity": 38
+  },
+  {
+    "trackId": "0hyTCepHLrkjWBtczMxUxZ",
+    "name": "Mothers Of The Disappeared",
+    "duration_ms": 314450,
+    "artist": "U2",
+    "artistId": "51Blml2LZPmy7TTiAg47vQ",
+    "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+    "release_date": "1987-03-03",
+    "popularity": 40
+  },
+  {
+    "trackId": "3AyuigFWbuirWHvidbMz8O",
+    "name": "Should Have Known Better",
+    "duration_ms": 307697,
+    "artist": "Sufjan Stevens",
+    "artistId": "4MXUO7sVCaFgFjoTI5ox5c",
+    "albumId": "64xtjfsPHNHch0CZ7fPTjS",
+    "release_date": "2015-03-31",
+    "popularity": 64
+  },
+  {
+    "trackId": "4WGjmt1z8vCH8Tv5u7O1A5",
+    "name": "Girma Ziasela",
+    "duration_ms": 324359,
+    "artist": "Yemane Barya",
+    "artistId": "28by5BS46GMVEyPiawjZtT",
+    "albumId": "52m1JEUStzCvH1ngdKmhWr",
+    "release_date": "2014-05-16",
+    "popularity": 28
+  },
+  {
+    "trackId": "0tV8pOpiNsKqUys0ilUcXz",
+    "name": "Rise Up",
+    "duration_ms": 253342,
+    "artist": "Andra Day",
+    "artistId": "1c4rxrxy8eDLvMVL1DTiBe",
+    "albumId": "6Blubl1glavmervPJa3QVs",
+    "release_date": "2015-08-28",
+    "popularity": 73
+  },
+  {
+    "trackId": "1QXGdiZhjm8lPLJgPsXnZc",
+    "name": "Oh Freedom !",
+    "duration_ms": 187866,
+    "artist": "The Golden Gospel Singers",
+    "artistId": "1rCCHAeY46jMz4Fo2d7KwE",
+    "albumId": "329cKC4w5X9LXEJL6rZeLm",
+    "release_date": "2007",
+    "popularity": 15
+  }
+]

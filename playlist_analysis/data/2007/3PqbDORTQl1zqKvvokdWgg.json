@@ -1,1 +1,132 @@
-[{"trackId":"4rXZ7zmDDk739IWHrLcVt1","name":"Old Dan Tucker","duration_ms":151906,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"2O3avtEIE8xX9F0zcIjIZI","release_date":"2006","popularity":37},{"trackId":"05MxJsc8F0G2u3IIz6g0b2","name":"Trøstevise (Tröstevisa)","duration_ms":254680,"artist":"Finn Kalvik","artistId":"4t5H7BynY6Et5nbYwjU3an","albumId":"2INOoVCEg8h4xWkSyuYzya","release_date":"2000-09-11","popularity":38},{"trackId":"51B2qAQPxI0aaEs8NYBHrg","name":"North Print","duration_ms":121133,"artist":"Bobo Stenson Trio","artistId":"1BKStidrseaPjyjQjL3yxV","albumId":"39tOPTArYE0OWaZkx0IYIO","release_date":"2000-06-05","popularity":16},{"trackId":"5Z8EDau8uNcP1E8JvmfkZe","name":"School's Out","duration_ms":210106,"artist":"Alice Cooper","artistId":"3EhbVgyfGd7HkpsagwL9GS","albumId":"0zKjnOsXxs63unPR6TWoHq","release_date":"1972","popularity":69},{"trackId":"2lr4KMA26ikrIuf22XCSAC","name":"Mina damer och herrar","duration_ms":147422,"artist":"Olle Niklasson","artistId":"4KrAYzh9ujZZcuJsfWkMzW","albumId":"469zf1bRipjzIJWnYMRxCr","release_date":"1983-10-01","popularity":7},{"trackId":"3Dy4REq8O09IlgiwuHQ3sk","name":"Waterloo","duration_ms":168960,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"5gSBDA6ufk8UZejT4XR7av","release_date":"1974","popularity":73},{"trackId":"23ceNXbKmIR5396ze4rzCa","name":"Stormy Weather","duration_ms":204933,"artist":"Moneybrother","artistId":"6O6kWwVAL4xK4G8SBcsNJR","albumId":"5Gj0wTwgin1rkrlsbQltCZ","release_date":"2003-05-09","popularity":29},{"trackId":"6vZZtivPrtpggT5SSXsYTy","name":"Solsbury Hill","duration_ms":261560,"artist":"Peter Gabriel","artistId":"7C4sUpWGlTy7IANjruj02I","albumId":"0kDFjyfGFtiIMXlxJ120Ok","release_date":"1977","popularity":69},{"trackId":"5PNLKU1hHiol5fiNpYK0hQ","name":"Fyra vindar","duration_ms":239746,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"201qUpZCoH6LN6yHWehLb2","release_date":"1985","popularity":21},{"trackId":"3G7tRC24Uh09Hmp1KZ7LQ2","name":"I'm a Believer - 2006 Remaster","duration_ms":167373,"artist":"The Monkees","artistId":"320EPCSEezHt1rtbfwH6Ck","albumId":"50zHjIiTOZM232gnWvOydX","release_date":"1967-01-09","popularity":74},{"trackId":"2EVe9sltTybN3H0c7uTJCt","name":"För att du finns","duration_ms":182706,"artist":"Sonja Aldén","artistId":"3XyHsKlvXenLURpECPEQOJ","albumId":"7ens1nd6FrbqGdyVGFkmVV","release_date":"2007","popularity":44},{"trackId":"3cNsKppvdRWeGlE1aPyqzT","name":"Danse Mot Vår","duration_ms":217466,"artist":"Elisabeth Andreassen","artistId":"6Fn3e6ZtmKtAl9wQ6Y9Fbc","albumId":"27bzT6JUjaBWYlYG2DvDPu","release_date":"1994-01-01","popularity":31},{"trackId":"0kgHsNFvgqJo6grwWpzJLj","name":"Kvinnan för dig","duration_ms":202426,"artist":"Helen Sjöholm","artistId":"6M5pgjMS5dVG0hGRh5xADx","albumId":"54jCLtR6ejAT4N43eT1XRg","release_date":"2010-01-01","popularity":37}]
+[
+  {
+    "trackId": "4rXZ7zmDDk739IWHrLcVt1",
+    "name": "Old Dan Tucker",
+    "duration_ms": 151906,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "2O3avtEIE8xX9F0zcIjIZI",
+    "release_date": "2006",
+    "popularity": 37
+  },
+  {
+    "trackId": "05MxJsc8F0G2u3IIz6g0b2",
+    "name": "Trøstevise (Tröstevisa)",
+    "duration_ms": 254680,
+    "artist": "Finn Kalvik",
+    "artistId": "4t5H7BynY6Et5nbYwjU3an",
+    "albumId": "2INOoVCEg8h4xWkSyuYzya",
+    "release_date": "2000-09-11",
+    "popularity": 38
+  },
+  {
+    "trackId": "51B2qAQPxI0aaEs8NYBHrg",
+    "name": "North Print",
+    "duration_ms": 121133,
+    "artist": "Bobo Stenson Trio",
+    "artistId": "1BKStidrseaPjyjQjL3yxV",
+    "albumId": "39tOPTArYE0OWaZkx0IYIO",
+    "release_date": "2000-06-05",
+    "popularity": 16
+  },
+  {
+    "trackId": "5Z8EDau8uNcP1E8JvmfkZe",
+    "name": "School's Out",
+    "duration_ms": 210106,
+    "artist": "Alice Cooper",
+    "artistId": "3EhbVgyfGd7HkpsagwL9GS",
+    "albumId": "0zKjnOsXxs63unPR6TWoHq",
+    "release_date": "1972",
+    "popularity": 69
+  },
+  {
+    "trackId": "2lr4KMA26ikrIuf22XCSAC",
+    "name": "Mina damer och herrar",
+    "duration_ms": 147422,
+    "artist": "Olle Niklasson",
+    "artistId": "4KrAYzh9ujZZcuJsfWkMzW",
+    "albumId": "469zf1bRipjzIJWnYMRxCr",
+    "release_date": "1983-10-01",
+    "popularity": 7
+  },
+  {
+    "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
+    "name": "Waterloo",
+    "duration_ms": 168960,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "5gSBDA6ufk8UZejT4XR7av",
+    "release_date": "1974",
+    "popularity": 73
+  },
+  {
+    "trackId": "23ceNXbKmIR5396ze4rzCa",
+    "name": "Stormy Weather",
+    "duration_ms": 204933,
+    "artist": "Moneybrother",
+    "artistId": "6O6kWwVAL4xK4G8SBcsNJR",
+    "albumId": "5Gj0wTwgin1rkrlsbQltCZ",
+    "release_date": "2003-05-09",
+    "popularity": 29
+  },
+  {
+    "trackId": "6vZZtivPrtpggT5SSXsYTy",
+    "name": "Solsbury Hill",
+    "duration_ms": 261560,
+    "artist": "Peter Gabriel",
+    "artistId": "7C4sUpWGlTy7IANjruj02I",
+    "albumId": "0kDFjyfGFtiIMXlxJ120Ok",
+    "release_date": "1977",
+    "popularity": 69
+  },
+  {
+    "trackId": "5PNLKU1hHiol5fiNpYK0hQ",
+    "name": "Fyra vindar",
+    "duration_ms": 239746,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "201qUpZCoH6LN6yHWehLb2",
+    "release_date": "1985",
+    "popularity": 21
+  },
+  {
+    "trackId": "3G7tRC24Uh09Hmp1KZ7LQ2",
+    "name": "I'm a Believer - 2006 Remaster",
+    "duration_ms": 167373,
+    "artist": "The Monkees",
+    "artistId": "320EPCSEezHt1rtbfwH6Ck",
+    "albumId": "50zHjIiTOZM232gnWvOydX",
+    "release_date": "1967-01-09",
+    "popularity": 74
+  },
+  {
+    "trackId": "2EVe9sltTybN3H0c7uTJCt",
+    "name": "För att du finns",
+    "duration_ms": 182706,
+    "artist": "Sonja Aldén",
+    "artistId": "3XyHsKlvXenLURpECPEQOJ",
+    "albumId": "7ens1nd6FrbqGdyVGFkmVV",
+    "release_date": "2007",
+    "popularity": 44
+  },
+  {
+    "trackId": "3cNsKppvdRWeGlE1aPyqzT",
+    "name": "Danse Mot Vår",
+    "duration_ms": 217466,
+    "artist": "Elisabeth Andreassen",
+    "artistId": "6Fn3e6ZtmKtAl9wQ6Y9Fbc",
+    "albumId": "27bzT6JUjaBWYlYG2DvDPu",
+    "release_date": "1994-01-01",
+    "popularity": 31
+  },
+  {
+    "trackId": "0kgHsNFvgqJo6grwWpzJLj",
+    "name": "Kvinnan för dig",
+    "duration_ms": 202426,
+    "artist": "Helen Sjöholm",
+    "artistId": "6M5pgjMS5dVG0hGRh5xADx",
+    "albumId": "54jCLtR6ejAT4N43eT1XRg",
+    "release_date": "2010-01-01",
+    "popularity": 37
+  }
+]

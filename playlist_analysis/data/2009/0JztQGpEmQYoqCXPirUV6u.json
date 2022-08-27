@@ -1,1 +1,132 @@
-[{"trackId":"6NgYIETQ8U72CVfkzYhK30","name":"Fairytale","duration_ms":183093,"artist":"Alexander Rybak","artistId":"3LLNDXrxL4uxXtnUJS5XWM","albumId":"7k1b8wzjRsSTmIBuRlBrxp","release_date":"2009-05-29","popularity":72},{"trackId":"3DMjC1zFbmmGLpqxwhhx0R","name":"Allt du behöver","duration_ms":172607,"artist":"Dag Tolstoy","artistId":"3pqmSK0CTIQ5RGfGLm2d9y","albumId":"2G7wm63f6asEjrjSnhqSm8","release_date":"2021-11-05","popularity":36},{"trackId":"1WVjxyTSZ5UiI6TlcHyUPh","name":"Öppna landskap","duration_ms":278333,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"7aB0bPRv2elnc0Ou1whaty","release_date":"1995","popularity":49},{"trackId":"1qCQTy0fTXerET4x8VHyr9","name":"What A Wonderful World","duration_ms":137520,"artist":"Louis Armstrong","artistId":"19eLuQmk9aCobbVDHc6eek","albumId":"19UoBHanqMth4tk0rFw5RJ","release_date":"1968","popularity":72},{"trackId":"7Gc4JMIbJCX9IuoD2EGa8F","name":"Scared Of Heights","duration_ms":206120,"artist":"Espen Lind","artistId":"1N5566ZYn9C7qtdIlEeHM8","albumId":"5ElZV0Mnnoq5UuTlzqSNA1","release_date":"2008-01-01","popularity":39},{"trackId":"03maIk9W3aacdbQSdeaYwR","name":"Vad är du rädd för?","duration_ms":216733,"artist":"Lill Lindfors","artistId":"7CAcmPN2c4Tw70JQScmdwC","albumId":"3uLnFgGpUmRcvVbJY2X0YE","release_date":"1990-03-01","popularity":3},{"trackId":"5px3ShFMjwhidOFVVc0Z4R","name":"À bicyclette","duration_ms":162800,"artist":"Yves Montand","artistId":"5ru2x3pjrNn67D22BRwlFP","albumId":"2DS4hsoeFgvqhzsCJ0tmbj","release_date":"1997-01-01","popularity":42},{"trackId":"6lEPyup2Y14j5hqRGIwdDg","name":"Even If the Rain","duration_ms":289933,"artist":"Flava To Da Bone","artistId":"3k7e0dOwgmFQWX6UbE6v37","albumId":"2RZrf31A0601gdSiJi7VDr","release_date":"1995","popularity":16},{"trackId":"4MXHBiKcdqHBJ4PeHQJBHO","name":"Måndagsbarn","duration_ms":205546,"artist":"Veronica Maggio","artistId":"2OIWxN9xUhgUHkeUCWCaNs","albumId":"7K3z58HrZ2RJR2j82xWbsc","release_date":"2008-01-01","popularity":55},{"trackId":"0MGsmLjCtcSye47RvZWhpq","name":"Mysteriet deg (feat. Lisa Nilsson)","duration_ms":241000,"artist":"Bjørn Eidsvåg","artistId":"11Vny8qHe4KR50ZIjhz7sz","albumId":"5AIIeHfqDMUBqLCXZbiWKT","release_date":"2002-04-01","popularity":42},{"trackId":"3gmffaPWGIlIm6EUfWzMdw","name":"All This Time (Pick-Me-Up Song)","duration_ms":191506,"artist":"Maria Mena","artistId":"3rTRHzFfbTk5GL3LpYZGHR","albumId":"4l90ORktuCndfmoF44tRjO","release_date":"2008-07-10","popularity":44},{"trackId":"3KWJ66ISxPnB3Yw24W4j9v","name":"Neste Sommer in the Style of De Lillos","duration_ms":244000,"artist":"Sunfly Karaoke","artistId":"3tCGqGQclabrpQfcHRmDtK","albumId":"2xxn5djtXsZpJslrIWZYb4","release_date":"2011-06-02","popularity":1},{"trackId":"6Vbzzun2OIKH1axUwDmFCK","name":"I Want You","duration_ms":82616,"artist":"Tom Waits","artistId":"7x83XhcMbOTl1UdYsPTuZM","albumId":"53fzZMZ3ENBY0BpLFOMy9p","release_date":"1993-02-01","popularity":34}]
+[
+  {
+    "trackId": "6NgYIETQ8U72CVfkzYhK30",
+    "name": "Fairytale",
+    "duration_ms": 183093,
+    "artist": "Alexander Rybak",
+    "artistId": "3LLNDXrxL4uxXtnUJS5XWM",
+    "albumId": "7k1b8wzjRsSTmIBuRlBrxp",
+    "release_date": "2009-05-29",
+    "popularity": 72
+  },
+  {
+    "trackId": "3DMjC1zFbmmGLpqxwhhx0R",
+    "name": "Allt du behöver",
+    "duration_ms": 172607,
+    "artist": "Dag Tolstoy",
+    "artistId": "3pqmSK0CTIQ5RGfGLm2d9y",
+    "albumId": "2G7wm63f6asEjrjSnhqSm8",
+    "release_date": "2021-11-05",
+    "popularity": 36
+  },
+  {
+    "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
+    "name": "Öppna landskap",
+    "duration_ms": 278333,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "7aB0bPRv2elnc0Ou1whaty",
+    "release_date": "1995",
+    "popularity": 49
+  },
+  {
+    "trackId": "1qCQTy0fTXerET4x8VHyr9",
+    "name": "What A Wonderful World",
+    "duration_ms": 137520,
+    "artist": "Louis Armstrong",
+    "artistId": "19eLuQmk9aCobbVDHc6eek",
+    "albumId": "19UoBHanqMth4tk0rFw5RJ",
+    "release_date": "1968",
+    "popularity": 72
+  },
+  {
+    "trackId": "7Gc4JMIbJCX9IuoD2EGa8F",
+    "name": "Scared Of Heights",
+    "duration_ms": 206120,
+    "artist": "Espen Lind",
+    "artistId": "1N5566ZYn9C7qtdIlEeHM8",
+    "albumId": "5ElZV0Mnnoq5UuTlzqSNA1",
+    "release_date": "2008-01-01",
+    "popularity": 39
+  },
+  {
+    "trackId": "03maIk9W3aacdbQSdeaYwR",
+    "name": "Vad är du rädd för?",
+    "duration_ms": 216733,
+    "artist": "Lill Lindfors",
+    "artistId": "7CAcmPN2c4Tw70JQScmdwC",
+    "albumId": "3uLnFgGpUmRcvVbJY2X0YE",
+    "release_date": "1990-03-01",
+    "popularity": 3
+  },
+  {
+    "trackId": "5px3ShFMjwhidOFVVc0Z4R",
+    "name": "À bicyclette",
+    "duration_ms": 162800,
+    "artist": "Yves Montand",
+    "artistId": "5ru2x3pjrNn67D22BRwlFP",
+    "albumId": "2DS4hsoeFgvqhzsCJ0tmbj",
+    "release_date": "1997-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "6lEPyup2Y14j5hqRGIwdDg",
+    "name": "Even If the Rain",
+    "duration_ms": 289933,
+    "artist": "Flava To Da Bone",
+    "artistId": "3k7e0dOwgmFQWX6UbE6v37",
+    "albumId": "2RZrf31A0601gdSiJi7VDr",
+    "release_date": "1995",
+    "popularity": 16
+  },
+  {
+    "trackId": "4MXHBiKcdqHBJ4PeHQJBHO",
+    "name": "Måndagsbarn",
+    "duration_ms": 205546,
+    "artist": "Veronica Maggio",
+    "artistId": "2OIWxN9xUhgUHkeUCWCaNs",
+    "albumId": "7K3z58HrZ2RJR2j82xWbsc",
+    "release_date": "2008-01-01",
+    "popularity": 55
+  },
+  {
+    "trackId": "0MGsmLjCtcSye47RvZWhpq",
+    "name": "Mysteriet deg (feat. Lisa Nilsson)",
+    "duration_ms": 241000,
+    "artist": "Bjørn Eidsvåg",
+    "artistId": "11Vny8qHe4KR50ZIjhz7sz",
+    "albumId": "5AIIeHfqDMUBqLCXZbiWKT",
+    "release_date": "2002-04-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "3gmffaPWGIlIm6EUfWzMdw",
+    "name": "All This Time (Pick-Me-Up Song)",
+    "duration_ms": 191506,
+    "artist": "Maria Mena",
+    "artistId": "3rTRHzFfbTk5GL3LpYZGHR",
+    "albumId": "4l90ORktuCndfmoF44tRjO",
+    "release_date": "2008-07-10",
+    "popularity": 44
+  },
+  {
+    "trackId": "3KWJ66ISxPnB3Yw24W4j9v",
+    "name": "Neste Sommer in the Style of De Lillos",
+    "duration_ms": 244000,
+    "artist": "Sunfly Karaoke",
+    "artistId": "3tCGqGQclabrpQfcHRmDtK",
+    "albumId": "2xxn5djtXsZpJslrIWZYb4",
+    "release_date": "2011-06-02",
+    "popularity": 1
+  },
+  {
+    "trackId": "6Vbzzun2OIKH1axUwDmFCK",
+    "name": "I Want You",
+    "duration_ms": 82616,
+    "artist": "Tom Waits",
+    "artistId": "7x83XhcMbOTl1UdYsPTuZM",
+    "albumId": "53fzZMZ3ENBY0BpLFOMy9p",
+    "release_date": "1993-02-01",
+    "popularity": 34
+  }
+]

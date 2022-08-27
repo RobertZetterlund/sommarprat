@@ -1,1 +1,142 @@
-[{"trackId":"7n1b2jjQSD5xNyo0Bs5dpM","name":"Mondschein","duration_ms":215431,"artist":"Heinrich Schulmann","artistId":"6gOl6CDl4lz2DDYpdH8DJU","albumId":"6MRZynP88zTclx9tOUoGrx","release_date":"2021-07-01","popularity":42},{"trackId":"1MQQUwq3CWiVJuyAeLzFF2","name":"ÄCKLIGT","duration_ms":146117,"artist":"Rasmus Gozzi","artistId":"3loTvAld5Tpk5aSNbboGpj","albumId":"2Klr2cUwmHLCLsZd6KHM8J","release_date":"2021-04-30","popularity":43},{"trackId":"0W5p8kdVKbpXnwWtU8sCaR","name":"My Shining Hour","duration_ms":105586,"artist":"The Four Freshmen","artistId":"7eAF64ZiDwK2rDPSrr97D9","albumId":"1gwMdpjbIvC4TgOUabFhBk","release_date":"2006-01-01","popularity":1},{"trackId":"1YNQzldwk4CVOAztEFGu32","name":"Fjäriln vingad syns på Haga (Fredmans sång nr 64)","duration_ms":223893,"artist":"Åsa Jinder","artistId":"0WIJklwnefNN9A2XeHqTxG","albumId":"0o0sfH2UTXziiPbP5hPgXb","release_date":"2017-06-16","popularity":21},{"trackId":"2FalMRgPjsiXEMjoNaKSIi","name":"Moviestar - From Benjamin's","duration_ms":175925,"artist":"Benjamin Ingrosso","artistId":"7jEEE187pVG6InOxn03oA5","albumId":"63l9SGIzO1RX3OxRCHA6Bc","release_date":"2022-05-06","popularity":42},{"trackId":"5wIBl9qTmTP3v8eGbxNKTO","name":"Ragatan på Baggens gata","duration_ms":186653,"artist":"Lasse Berghagen","artistId":"7kdGjv0IIQJcU2bth1yoqY","albumId":"5hoO0mZDPk9gTO1THaiHSv","release_date":"2002-01-01","popularity":18},{"trackId":"73DZ1s6yXJdhJN5PLVgZMO","name":"Små lätta moln","duration_ms":277560,"artist":"Pugh Rogefeldt","artistId":"22Wo43V44RtrpJZsjeI9EA","albumId":"1hGknhDJeqGl2VR95CLGal","release_date":"2008-06-23","popularity":42},{"trackId":"7N3PAbqfTjSEU1edb2tY8j","name":"Jump - 2015 Remaster","duration_ms":241599,"artist":"Van Halen","artistId":"2cnMpRsOVqtPMfq7YiFE6K","albumId":"3REUXdj5OPKhuDTrTtCBU0","release_date":"1984-01-04","popularity":78},{"trackId":"03sHfagupAASywtosEAetj","name":"Jump","duration_ms":216013,"artist":"Paul Anka","artistId":"7ceUfdWq2t5nbatS6ollHh","albumId":"0lu611O6t7E8sd9E2LkImh","release_date":"2005-01-01","popularity":29},{"trackId":"7N0SfC8ZfEcd4XShfFMB4q","name":"Jungle Drums","duration_ms":164706,"artist":"Putte Wickman","artistId":"6sx2v1gYnSUlkVO7M5Mk95","albumId":"1PEpnvC92gJf6NtSb3ZhTl","release_date":"1997-08-25","popularity":2},{"trackId":"7N0SfC8ZfEcd4XShfFMB4q","name":"Jungle Drums","duration_ms":164706,"artist":"Putte Wickman","artistId":"6sx2v1gYnSUlkVO7M5Mk95","albumId":"1PEpnvC92gJf6NtSb3ZhTl","release_date":"1997-08-25","popularity":2},{"trackId":"5EIIjTJivaXXSJ5BNkYUsW","name":"One Morning In May","duration_ms":200640,"artist":"Pete Jolly","artistId":"1dUvwL9aCbVrB2UMFAHp0i","albumId":"2YrMVBI3BUPlf6QbrJxVUj","release_date":"1965","popularity":2},{"trackId":"70ZCXOeAkHHZXXfUoH1Hms","name":"En stilla flirt","duration_ms":155560,"artist":"Björn Skifs","artistId":"1Ek3VdZ8EPmcvgRIqnHlrF","albumId":"2UbHEEm1Xd03HAX7vhUN5Q","release_date":"2005-12-09","popularity":9},{"trackId":"3zyfGW2hODRoVgjxYgV1BE","name":"Plocka ner en stjärna","duration_ms":224840,"artist":"Svante Thuresson","artistId":"5p3OgFVHTqd8MAGGxlOYl3","albumId":"2QZJnaDKZJIrDlC90e7F1N","release_date":"1993","popularity":10}]
+[
+  {
+    "trackId": "7n1b2jjQSD5xNyo0Bs5dpM",
+    "name": "Mondschein",
+    "duration_ms": 215431,
+    "artist": "Heinrich Schulmann",
+    "artistId": "6gOl6CDl4lz2DDYpdH8DJU",
+    "albumId": "6MRZynP88zTclx9tOUoGrx",
+    "release_date": "2021-07-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "1MQQUwq3CWiVJuyAeLzFF2",
+    "name": "ÄCKLIGT",
+    "duration_ms": 146117,
+    "artist": "Rasmus Gozzi",
+    "artistId": "3loTvAld5Tpk5aSNbboGpj",
+    "albumId": "2Klr2cUwmHLCLsZd6KHM8J",
+    "release_date": "2021-04-30",
+    "popularity": 43
+  },
+  {
+    "trackId": "0W5p8kdVKbpXnwWtU8sCaR",
+    "name": "My Shining Hour",
+    "duration_ms": 105586,
+    "artist": "The Four Freshmen",
+    "artistId": "7eAF64ZiDwK2rDPSrr97D9",
+    "albumId": "1gwMdpjbIvC4TgOUabFhBk",
+    "release_date": "2006-01-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "1YNQzldwk4CVOAztEFGu32",
+    "name": "Fjäriln vingad syns på Haga (Fredmans sång nr 64)",
+    "duration_ms": 223893,
+    "artist": "Åsa Jinder",
+    "artistId": "0WIJklwnefNN9A2XeHqTxG",
+    "albumId": "0o0sfH2UTXziiPbP5hPgXb",
+    "release_date": "2017-06-16",
+    "popularity": 21
+  },
+  {
+    "trackId": "2FalMRgPjsiXEMjoNaKSIi",
+    "name": "Moviestar - From Benjamin's",
+    "duration_ms": 175925,
+    "artist": "Benjamin Ingrosso",
+    "artistId": "7jEEE187pVG6InOxn03oA5",
+    "albumId": "63l9SGIzO1RX3OxRCHA6Bc",
+    "release_date": "2022-05-06",
+    "popularity": 42
+  },
+  {
+    "trackId": "5wIBl9qTmTP3v8eGbxNKTO",
+    "name": "Ragatan på Baggens gata",
+    "duration_ms": 186653,
+    "artist": "Lasse Berghagen",
+    "artistId": "7kdGjv0IIQJcU2bth1yoqY",
+    "albumId": "5hoO0mZDPk9gTO1THaiHSv",
+    "release_date": "2002-01-01",
+    "popularity": 18
+  },
+  {
+    "trackId": "73DZ1s6yXJdhJN5PLVgZMO",
+    "name": "Små lätta moln",
+    "duration_ms": 277560,
+    "artist": "Pugh Rogefeldt",
+    "artistId": "22Wo43V44RtrpJZsjeI9EA",
+    "albumId": "1hGknhDJeqGl2VR95CLGal",
+    "release_date": "2008-06-23",
+    "popularity": 42
+  },
+  {
+    "trackId": "7N3PAbqfTjSEU1edb2tY8j",
+    "name": "Jump - 2015 Remaster",
+    "duration_ms": 241599,
+    "artist": "Van Halen",
+    "artistId": "2cnMpRsOVqtPMfq7YiFE6K",
+    "albumId": "3REUXdj5OPKhuDTrTtCBU0",
+    "release_date": "1984-01-04",
+    "popularity": 78
+  },
+  {
+    "trackId": "03sHfagupAASywtosEAetj",
+    "name": "Jump",
+    "duration_ms": 216013,
+    "artist": "Paul Anka",
+    "artistId": "7ceUfdWq2t5nbatS6ollHh",
+    "albumId": "0lu611O6t7E8sd9E2LkImh",
+    "release_date": "2005-01-01",
+    "popularity": 29
+  },
+  {
+    "trackId": "7N0SfC8ZfEcd4XShfFMB4q",
+    "name": "Jungle Drums",
+    "duration_ms": 164706,
+    "artist": "Putte Wickman",
+    "artistId": "6sx2v1gYnSUlkVO7M5Mk95",
+    "albumId": "1PEpnvC92gJf6NtSb3ZhTl",
+    "release_date": "1997-08-25",
+    "popularity": 2
+  },
+  {
+    "trackId": "7N0SfC8ZfEcd4XShfFMB4q",
+    "name": "Jungle Drums",
+    "duration_ms": 164706,
+    "artist": "Putte Wickman",
+    "artistId": "6sx2v1gYnSUlkVO7M5Mk95",
+    "albumId": "1PEpnvC92gJf6NtSb3ZhTl",
+    "release_date": "1997-08-25",
+    "popularity": 2
+  },
+  {
+    "trackId": "5EIIjTJivaXXSJ5BNkYUsW",
+    "name": "One Morning In May",
+    "duration_ms": 200640,
+    "artist": "Pete Jolly",
+    "artistId": "1dUvwL9aCbVrB2UMFAHp0i",
+    "albumId": "2YrMVBI3BUPlf6QbrJxVUj",
+    "release_date": "1965",
+    "popularity": 2
+  },
+  {
+    "trackId": "70ZCXOeAkHHZXXfUoH1Hms",
+    "name": "En stilla flirt",
+    "duration_ms": 155560,
+    "artist": "Björn Skifs",
+    "artistId": "1Ek3VdZ8EPmcvgRIqnHlrF",
+    "albumId": "2UbHEEm1Xd03HAX7vhUN5Q",
+    "release_date": "2005-12-09",
+    "popularity": 9
+  },
+  {
+    "trackId": "3zyfGW2hODRoVgjxYgV1BE",
+    "name": "Plocka ner en stjärna",
+    "duration_ms": 224840,
+    "artist": "Svante Thuresson",
+    "artistId": "5p3OgFVHTqd8MAGGxlOYl3",
+    "albumId": "2QZJnaDKZJIrDlC90e7F1N",
+    "release_date": "1993",
+    "popularity": 10
+  }
+]

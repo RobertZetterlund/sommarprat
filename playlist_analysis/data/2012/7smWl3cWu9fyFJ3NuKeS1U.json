@@ -1,1 +1,152 @@
-[{"trackId":"3RNyGLgSvmVRZ7xKUp8Wgd","name":"In the Summertime","duration_ms":215800,"artist":"Mungo Jerry","artistId":"2mbvqMGpwLsakeH45p1Jrb","albumId":"30UgyUTvmdYXNo7CeMabXY","release_date":"1970-01-01","popularity":72},{"trackId":"0m0Er7CwPddgBzrEZVVMVJ","name":"Videvisan","duration_ms":113506,"artist":"Adolf Fredriks Musikklasser","artistId":"60BNhPmsrBop6PQv3QnZH0","albumId":"5f2nVYim8IlJW3L78RXlTd","release_date":"2013-11-01","popularity":36},{"trackId":"5ktvQ11IpqlZF60d0uJmsK","name":"Blommig falukorv","duration_ms":130533,"artist":"Hans Alfredson","artistId":"2wSu2EcQojgAifviEgZmy3","albumId":"4MZqt2uT29Lhjs3C2i54Af","release_date":"1996-01-01","popularity":36},{"trackId":"4bFMmsEHIz2U5MW4gRnxB1","name":"Mamma Mu klättrar i träd","duration_ms":340253,"artist":"Jujja och Tomas Wieslander","artistId":"4ANyllSrs9LbBbyJ6v2ruK","albumId":"4zFMTHnDuHjRXnnePQplKJ","release_date":"2008-03-01","popularity":35},{"trackId":"6lCGtoFEe8Af8e0g6G2xcb","name":"Lassie","duration_ms":228506,"artist":"Ainbusk Singers","artistId":"1TWfYWNywX3nKCYfdgVHfr","albumId":"0K7lovoI3gdG27RftYCq2L","release_date":"1993-01-01","popularity":31},{"trackId":"7nLMqolwPVDtwwcakoysUb","name":"Släpp hästarna fria","duration_ms":331373,"artist":"Tomas Ledin","artistId":"518rTAIFPwQjLUSi4Pdzzn","albumId":"6idPD3BYKOfT9t90got5yE","release_date":"1993","popularity":32},{"trackId":"7AYGI7SfoNfDJs2B20wUjS","name":"Bullfest","duration_ms":172440,"artist":"Sigge Fürst","artistId":"7835xq833eMio3iZsP4vLu","albumId":"6vB3BKVHCddW6QnOElncZr","release_date":"2009-09-14","popularity":30},{"trackId":"7s25THrKz86DM225dOYwnr","name":"Respect","duration_ms":147600,"artist":"Aretha Franklin","artistId":"7nwUJBm0HE4ZxD3f5cy5ok","albumId":"5WndWfzGwCkHzAbQXVkg2V","release_date":"1967-03-10","popularity":73},{"trackId":"1WVjxyTSZ5UiI6TlcHyUPh","name":"Öppna landskap","duration_ms":278333,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"7aB0bPRv2elnc0Ou1whaty","release_date":"1995","popularity":49},{"trackId":"7l1hXDq6vDmRNjFYE4zoW9","name":"Green, Green Grass of Home","duration_ms":217040,"artist":"Elvis Presley","artistId":"43ZHCT0cAZBISjO8DG9PnE","albumId":"1NABHde4P06V7SyuYRRm2x","release_date":"1975-05-07","popularity":36},{"trackId":"3oq8gifQj05Lzfq2elkx2p","name":"Älgjakten","duration_ms":183426,"artist":"Thore Skogman","artistId":"6NTX7EIJQEEUMPIBdYpzhs","albumId":"3x0pXGHWxO2xStQupeMmvA","release_date":"2002-01-01","popularity":21},{"trackId":"2B9Q0NQcTK4BbU3LvwsSVD","name":"American Patrol","duration_ms":191640,"artist":"Ingmar Nordströms","artistId":"11v210K5CwGkgbGK3COISh","albumId":"3JTcSDHiyT6rEnwILqmvFv","release_date":"2018-09-28","popularity":5},{"trackId":"2qkma39oRZ0rzGkyE2gdHd","name":"I samma bil","duration_ms":230600,"artist":"Bo Kaspers Orkester","artistId":"2VE6Ge0qFHrqDC6KG6ECJn","albumId":"2msEb0LuMK7rE0A2gnQuEI","release_date":"2014-01-01","popularity":42},{"trackId":"5Tbc2O2q1NCux8F0lYiEo0","name":"Underbart","duration_ms":188560,"artist":"Kalle Moraeus","artistId":"1NDYAcgpsX4ony5CD0QIxW","albumId":"1RXvOiBHUXPHqMfNZYohGQ","release_date":"2010-05-17","popularity":44},{"trackId":"48nlehlMgkluf0jAoFGnv5","name":"Mitt lilla barn","duration_ms":279266,"artist":"Jojje Wadenius","artistId":"3DsJnkx1vIQfiF7LpWDCde","albumId":"6g6kDzMmzMY43SGEC7Jvxi","release_date":"2001-02-23","popularity":28}]
+[
+  {
+    "trackId": "3RNyGLgSvmVRZ7xKUp8Wgd",
+    "name": "In the Summertime",
+    "duration_ms": 215800,
+    "artist": "Mungo Jerry",
+    "artistId": "2mbvqMGpwLsakeH45p1Jrb",
+    "albumId": "30UgyUTvmdYXNo7CeMabXY",
+    "release_date": "1970-01-01",
+    "popularity": 72
+  },
+  {
+    "trackId": "0m0Er7CwPddgBzrEZVVMVJ",
+    "name": "Videvisan",
+    "duration_ms": 113506,
+    "artist": "Adolf Fredriks Musikklasser",
+    "artistId": "60BNhPmsrBop6PQv3QnZH0",
+    "albumId": "5f2nVYim8IlJW3L78RXlTd",
+    "release_date": "2013-11-01",
+    "popularity": 36
+  },
+  {
+    "trackId": "5ktvQ11IpqlZF60d0uJmsK",
+    "name": "Blommig falukorv",
+    "duration_ms": 130533,
+    "artist": "Hans Alfredson",
+    "artistId": "2wSu2EcQojgAifviEgZmy3",
+    "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+    "release_date": "1996-01-01",
+    "popularity": 36
+  },
+  {
+    "trackId": "4bFMmsEHIz2U5MW4gRnxB1",
+    "name": "Mamma Mu klättrar i träd",
+    "duration_ms": 340253,
+    "artist": "Jujja och Tomas Wieslander",
+    "artistId": "4ANyllSrs9LbBbyJ6v2ruK",
+    "albumId": "4zFMTHnDuHjRXnnePQplKJ",
+    "release_date": "2008-03-01",
+    "popularity": 35
+  },
+  {
+    "trackId": "6lCGtoFEe8Af8e0g6G2xcb",
+    "name": "Lassie",
+    "duration_ms": 228506,
+    "artist": "Ainbusk Singers",
+    "artistId": "1TWfYWNywX3nKCYfdgVHfr",
+    "albumId": "0K7lovoI3gdG27RftYCq2L",
+    "release_date": "1993-01-01",
+    "popularity": 31
+  },
+  {
+    "trackId": "7nLMqolwPVDtwwcakoysUb",
+    "name": "Släpp hästarna fria",
+    "duration_ms": 331373,
+    "artist": "Tomas Ledin",
+    "artistId": "518rTAIFPwQjLUSi4Pdzzn",
+    "albumId": "6idPD3BYKOfT9t90got5yE",
+    "release_date": "1993",
+    "popularity": 32
+  },
+  {
+    "trackId": "7AYGI7SfoNfDJs2B20wUjS",
+    "name": "Bullfest",
+    "duration_ms": 172440,
+    "artist": "Sigge Fürst",
+    "artistId": "7835xq833eMio3iZsP4vLu",
+    "albumId": "6vB3BKVHCddW6QnOElncZr",
+    "release_date": "2009-09-14",
+    "popularity": 30
+  },
+  {
+    "trackId": "7s25THrKz86DM225dOYwnr",
+    "name": "Respect",
+    "duration_ms": 147600,
+    "artist": "Aretha Franklin",
+    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+    "release_date": "1967-03-10",
+    "popularity": 73
+  },
+  {
+    "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
+    "name": "Öppna landskap",
+    "duration_ms": 278333,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "7aB0bPRv2elnc0Ou1whaty",
+    "release_date": "1995",
+    "popularity": 49
+  },
+  {
+    "trackId": "7l1hXDq6vDmRNjFYE4zoW9",
+    "name": "Green, Green Grass of Home",
+    "duration_ms": 217040,
+    "artist": "Elvis Presley",
+    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
+    "albumId": "1NABHde4P06V7SyuYRRm2x",
+    "release_date": "1975-05-07",
+    "popularity": 36
+  },
+  {
+    "trackId": "3oq8gifQj05Lzfq2elkx2p",
+    "name": "Älgjakten",
+    "duration_ms": 183426,
+    "artist": "Thore Skogman",
+    "artistId": "6NTX7EIJQEEUMPIBdYpzhs",
+    "albumId": "3x0pXGHWxO2xStQupeMmvA",
+    "release_date": "2002-01-01",
+    "popularity": 21
+  },
+  {
+    "trackId": "2B9Q0NQcTK4BbU3LvwsSVD",
+    "name": "American Patrol",
+    "duration_ms": 191640,
+    "artist": "Ingmar Nordströms",
+    "artistId": "11v210K5CwGkgbGK3COISh",
+    "albumId": "3JTcSDHiyT6rEnwILqmvFv",
+    "release_date": "2018-09-28",
+    "popularity": 5
+  },
+  {
+    "trackId": "2qkma39oRZ0rzGkyE2gdHd",
+    "name": "I samma bil",
+    "duration_ms": 230600,
+    "artist": "Bo Kaspers Orkester",
+    "artistId": "2VE6Ge0qFHrqDC6KG6ECJn",
+    "albumId": "2msEb0LuMK7rE0A2gnQuEI",
+    "release_date": "2014-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "5Tbc2O2q1NCux8F0lYiEo0",
+    "name": "Underbart",
+    "duration_ms": 188560,
+    "artist": "Kalle Moraeus",
+    "artistId": "1NDYAcgpsX4ony5CD0QIxW",
+    "albumId": "1RXvOiBHUXPHqMfNZYohGQ",
+    "release_date": "2010-05-17",
+    "popularity": 44
+  },
+  {
+    "trackId": "48nlehlMgkluf0jAoFGnv5",
+    "name": "Mitt lilla barn",
+    "duration_ms": 279266,
+    "artist": "Jojje Wadenius",
+    "artistId": "3DsJnkx1vIQfiF7LpWDCde",
+    "albumId": "6g6kDzMmzMY43SGEC7Jvxi",
+    "release_date": "2001-02-23",
+    "popularity": 28
+  }
+]

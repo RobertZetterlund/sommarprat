@@ -1,1 +1,142 @@
-[{"trackId":"4hHbeIIKO5Y5uLyIEbY9Gn","name":"Come Fly With Me - Remastered 1998","duration_ms":199093,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"66v9QmjAj0Wwhh2OpbU4BE","release_date":"1958","popularity":65},{"trackId":"1WVjxyTSZ5UiI6TlcHyUPh","name":"Öppna landskap","duration_ms":278333,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"7aB0bPRv2elnc0Ou1whaty","release_date":"1995","popularity":49},{"trackId":"2wrwIsPRwSukXvdqMYfV67","name":"Så skimrande var aldrig havet","duration_ms":122733,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"5T85NS6pAaXZ8eM21izrXe","release_date":"1989","popularity":30},{"trackId":"42LuHGLls7b5wD2gcOzJ2g","name":"This Is The Way - 2015 Adam Rickfors Version","duration_ms":211607,"artist":"E-Type","artistId":"53I4RAzuXWvaO1vzrCBJbD","albumId":"7baaTgkGlC1IXJJaxwJ1fC","release_date":"2015-05-29","popularity":28},{"trackId":"05whKmpbd0Z49dA8jBMuit","name":"Idiot School","duration_ms":215106,"artist":"Katie Melua","artistId":"5uCXJWo3WoXgqv3T1RlAbh","albumId":"3muwcymELS59jW3ghXSw8C","release_date":"2013-03-17","popularity":19},{"trackId":"57F80059mWaWFvWG3tBTbO","name":"The Edge Of Glory","duration_ms":320546,"artist":"Lady Gaga","artistId":"1HY2Jd0NmPuamShAr6KMms","albumId":"6LY3AerY6KNGOPsNPL63Kk","release_date":"2011-05-23","popularity":69},{"trackId":"36mxnaLDyIuITit9uGmYJW","name":"Finlandia, Op. 26","duration_ms":476760,"artist":"Jean Sibelius","artistId":"7jzR5qj8vFnSu5JHaXgFEr","albumId":"0zeqpsvDkcWy7VgvBeHCAH","release_date":"1981-05-01","popularity":9},{"trackId":"0GjEhVFGZW8afUYGChu3Rr","name":"Dancing Queen","duration_ms":230400,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"1V6a99EbTTIegOhWoPxYI9","release_date":"1976","popularity":83},{"trackId":"7s25THrKz86DM225dOYwnr","name":"Respect","duration_ms":147600,"artist":"Aretha Franklin","artistId":"7nwUJBm0HE4ZxD3f5cy5ok","albumId":"5WndWfzGwCkHzAbQXVkg2V","release_date":"1967-03-10","popularity":73},{"trackId":"37f4ITSlgPX81ad2EvmVQr","name":"Fight Song","duration_ms":204013,"artist":"Rachel Platten","artistId":"3QLIkT4rD2FMusaqmkepbq","albumId":"0mFDIOqypzHp6Xd0el1hoT","release_date":"2016-01-01","popularity":77},{"trackId":"7pKfPomDEeI4TPT6EOYjn9","name":"Imagine - Remastered 2010","duration_ms":187866,"artist":"John Lennon","artistId":"4x1nvY2FN8jxqAFA0DA02H","albumId":"0xzaemKucrJpYhyl7TltAk","release_date":"1971-09-09","popularity":76},{"trackId":"6stGV64pkvOGHmUfeJj07j","name":"Happy Birthday","duration_ms":357226,"artist":"Stevie Wonder","artistId":"7guDJrEfX3qb6FEbdPA5qi","albumId":"3Rj0exeUFde6hCLnJMMOVn","release_date":"2022-08-15","popularity":3},{"trackId":"66fAkxiFpuC6ISjPo4LHuN","name":"En s&#229;'n Karl (Friluftscenen)","duration_ms":165653,"artist":"Lill Lindfors","artistId":"7CAcmPN2c4Tw70JQScmdwC","albumId":"1RJnFwkma337VsKhPTZ9Kh","release_date":"2000-09-18","popularity":1},{"trackId":"3hGgNSkBGcbdYTIcCa12pt","name":"Lujon","duration_ms":158360,"artist":"Henry Mancini","artistId":"2EExdpjU4SK3xnJHO5paJf","albumId":"51wBh15iTsmho1Td2jRONc","release_date":"1960","popularity":50}]
+[
+  {
+    "trackId": "4hHbeIIKO5Y5uLyIEbY9Gn",
+    "name": "Come Fly With Me - Remastered 1998",
+    "duration_ms": 199093,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
+    "release_date": "1958",
+    "popularity": 65
+  },
+  {
+    "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
+    "name": "Öppna landskap",
+    "duration_ms": 278333,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "7aB0bPRv2elnc0Ou1whaty",
+    "release_date": "1995",
+    "popularity": 49
+  },
+  {
+    "trackId": "2wrwIsPRwSukXvdqMYfV67",
+    "name": "Så skimrande var aldrig havet",
+    "duration_ms": 122733,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "5T85NS6pAaXZ8eM21izrXe",
+    "release_date": "1989",
+    "popularity": 30
+  },
+  {
+    "trackId": "42LuHGLls7b5wD2gcOzJ2g",
+    "name": "This Is The Way - 2015 Adam Rickfors Version",
+    "duration_ms": 211607,
+    "artist": "E-Type",
+    "artistId": "53I4RAzuXWvaO1vzrCBJbD",
+    "albumId": "7baaTgkGlC1IXJJaxwJ1fC",
+    "release_date": "2015-05-29",
+    "popularity": 28
+  },
+  {
+    "trackId": "05whKmpbd0Z49dA8jBMuit",
+    "name": "Idiot School",
+    "duration_ms": 215106,
+    "artist": "Katie Melua",
+    "artistId": "5uCXJWo3WoXgqv3T1RlAbh",
+    "albumId": "3muwcymELS59jW3ghXSw8C",
+    "release_date": "2013-03-17",
+    "popularity": 19
+  },
+  {
+    "trackId": "57F80059mWaWFvWG3tBTbO",
+    "name": "The Edge Of Glory",
+    "duration_ms": 320546,
+    "artist": "Lady Gaga",
+    "artistId": "1HY2Jd0NmPuamShAr6KMms",
+    "albumId": "6LY3AerY6KNGOPsNPL63Kk",
+    "release_date": "2011-05-23",
+    "popularity": 69
+  },
+  {
+    "trackId": "36mxnaLDyIuITit9uGmYJW",
+    "name": "Finlandia, Op. 26",
+    "duration_ms": 476760,
+    "artist": "Jean Sibelius",
+    "artistId": "7jzR5qj8vFnSu5JHaXgFEr",
+    "albumId": "0zeqpsvDkcWy7VgvBeHCAH",
+    "release_date": "1981-05-01",
+    "popularity": 9
+  },
+  {
+    "trackId": "0GjEhVFGZW8afUYGChu3Rr",
+    "name": "Dancing Queen",
+    "duration_ms": 230400,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "1V6a99EbTTIegOhWoPxYI9",
+    "release_date": "1976",
+    "popularity": 83
+  },
+  {
+    "trackId": "7s25THrKz86DM225dOYwnr",
+    "name": "Respect",
+    "duration_ms": 147600,
+    "artist": "Aretha Franklin",
+    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+    "release_date": "1967-03-10",
+    "popularity": 73
+  },
+  {
+    "trackId": "37f4ITSlgPX81ad2EvmVQr",
+    "name": "Fight Song",
+    "duration_ms": 204013,
+    "artist": "Rachel Platten",
+    "artistId": "3QLIkT4rD2FMusaqmkepbq",
+    "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+    "release_date": "2016-01-01",
+    "popularity": 77
+  },
+  {
+    "trackId": "7pKfPomDEeI4TPT6EOYjn9",
+    "name": "Imagine - Remastered 2010",
+    "duration_ms": 187866,
+    "artist": "John Lennon",
+    "artistId": "4x1nvY2FN8jxqAFA0DA02H",
+    "albumId": "0xzaemKucrJpYhyl7TltAk",
+    "release_date": "1971-09-09",
+    "popularity": 76
+  },
+  {
+    "trackId": "6stGV64pkvOGHmUfeJj07j",
+    "name": "Happy Birthday",
+    "duration_ms": 357226,
+    "artist": "Stevie Wonder",
+    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
+    "albumId": "3Rj0exeUFde6hCLnJMMOVn",
+    "release_date": "2022-08-15",
+    "popularity": 3
+  },
+  {
+    "trackId": "66fAkxiFpuC6ISjPo4LHuN",
+    "name": "En s&#229;'n Karl (Friluftscenen)",
+    "duration_ms": 165653,
+    "artist": "Lill Lindfors",
+    "artistId": "7CAcmPN2c4Tw70JQScmdwC",
+    "albumId": "1RJnFwkma337VsKhPTZ9Kh",
+    "release_date": "2000-09-18",
+    "popularity": 1
+  },
+  {
+    "trackId": "3hGgNSkBGcbdYTIcCa12pt",
+    "name": "Lujon",
+    "duration_ms": 158360,
+    "artist": "Henry Mancini",
+    "artistId": "2EExdpjU4SK3xnJHO5paJf",
+    "albumId": "51wBh15iTsmho1Td2jRONc",
+    "release_date": "1960",
+    "popularity": 50
+  }
+]

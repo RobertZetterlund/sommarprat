@@ -1,1 +1,132 @@
-[{"trackId":"6mhoTz4fxHVJ5swrXe2KtL","name":"In The Beginning","duration_ms":74373,"artist":"Mötley Crüe","artistId":"0cc6vw3VN8YlIcvr1v7tBL","albumId":"7xuz2r1QalMeEVkYuDfPgY","release_date":"1983-09-26","popularity":40},{"trackId":"31dqpLUModJWNbxrXu6TWd","name":"Shot in the Dark","duration_ms":256293,"artist":"Ozzy Osbourne","artistId":"6ZLTlhejhndI4Rh53vYhrY","albumId":"2IPIumpbhrtBvjyzIgGE9j","release_date":"1986-02-22","popularity":63},{"trackId":"0TaWdoJiAJoln9OQ1RbdNs","name":"My Way - 1993 Remastered Version","duration_ms":244813,"artist":"Sid Vicious","artistId":"1YnxVTLZQkk6KJI2c5sBqU","albumId":"3EZ09EIoMr6Y5Q9aidbnhy","release_date":"2008-04-28","popularity":43},{"trackId":"1uLAI3dSVYnn1KeCTAgkHr","name":"Sleepless Nights","duration_ms":305933,"artist":"King Diamond","artistId":"5i0ph60TnwTlIGrOZAmcZa","albumId":"3soSRzbPLtJEstj20sQTnK","release_date":"1989-08-21","popularity":39},{"trackId":"55gnXnrMcV8VESW9UxTSHA","name":"The Highwayman","duration_ms":230560,"artist":"Jimmy Webb","artistId":"0YJUdunUDA1pTDxJ8AJlyB","albumId":"4CyzFJiQcpwPXle8STeAdv","release_date":"1977","popularity":29},{"trackId":"70Z9t1qhytWtG4cCmmi7mU","name":"I Wanna Rock","duration_ms":179760,"artist":"Twisted Sister","artistId":"7b85ve82Sh36a3UAx74wut","albumId":"0dzqapIToiOhULGvzDKpXm","release_date":"1984-05-10","popularity":73},{"trackId":"7AKqiTZxUtVnp7Kc3iNxCy","name":"Helan & Halvan","duration_ms":145833,"artist":"Onkel","artistId":"73nA61o9FnJGeHuk9MR6NI","albumId":"26NEB0tODtcbLzLqET64yz","release_date":"2019-05-31","popularity":9},{"trackId":"17letBj5uqJns5jJa4yDu2","name":"Dunder Och Snus","duration_ms":283626,"artist":"Fiskebyxa","artistId":"0n4cuybWprOPpyFENxVRUD","albumId":"1Gz1LhFXf6ZyeG2nKbXfPM","release_date":"2005-02-28","popularity":2},{"trackId":"3XFWhWDmkyXUN582f6BoLp","name":"Ingen saknar mig i morgon","duration_ms":204296,"artist":"Max Fenders","artistId":"215ieZeTQNtEzRxafXmn2m","albumId":"4EfUaf54vO6XOwGTNsEME0","release_date":"1977","popularity":35},{"trackId":"7nemcVsXVFZF01iqpIIo2Y","name":"It's a Long Way to the Top (If You Wanna Rock 'N' Roll)","duration_ms":301226,"artist":"AC/DC","artistId":"711MCceyCBcFnzjGY4Q7Un","albumId":"19AUoKWRAaQYrggVvdQnqq","release_date":"1976-05-14","popularity":71},{"trackId":"1BBZ7WFBkXHIaGbEZvkUCl","name":"Så länge skutan kan gå","duration_ms":190106,"artist":"Per Myrberg","artistId":"74HgFbSvwVCvess9LgMze2","albumId":"5EgZCLR6QjKs266yNJ95Y0","release_date":"2007-01-01","popularity":13},{"trackId":"7n0lp1r1yHYXN2jZvqzbAI","name":"I Can Hear Your Heartbeat","duration_ms":211146,"artist":"Chris Rea","artistId":"5KEG7G8LDYlHgFDqZyEEs2","albumId":"4FgqV1hg6SM4XRt9Y7SJyw","release_date":"1983-07-18","popularity":52},{"trackId":"6iDs7caj4dlxyTpT1mMnS4","name":"I Can Hear Your Heart beat (Karaoke Version) [In The Style Of Chris Rea]","duration_ms":198773,"artist":"Karaoke Universe","artistId":"7a2AgzWfEyFkgSAXjLe4T3","albumId":"33MiTAqDze5SploK0hJpHw","release_date":"2013-09-03","popularity":0}]
+[
+  {
+    "trackId": "6mhoTz4fxHVJ5swrXe2KtL",
+    "name": "In The Beginning",
+    "duration_ms": 74373,
+    "artist": "Mötley Crüe",
+    "artistId": "0cc6vw3VN8YlIcvr1v7tBL",
+    "albumId": "7xuz2r1QalMeEVkYuDfPgY",
+    "release_date": "1983-09-26",
+    "popularity": 40
+  },
+  {
+    "trackId": "31dqpLUModJWNbxrXu6TWd",
+    "name": "Shot in the Dark",
+    "duration_ms": 256293,
+    "artist": "Ozzy Osbourne",
+    "artistId": "6ZLTlhejhndI4Rh53vYhrY",
+    "albumId": "2IPIumpbhrtBvjyzIgGE9j",
+    "release_date": "1986-02-22",
+    "popularity": 63
+  },
+  {
+    "trackId": "0TaWdoJiAJoln9OQ1RbdNs",
+    "name": "My Way - 1993 Remastered Version",
+    "duration_ms": 244813,
+    "artist": "Sid Vicious",
+    "artistId": "1YnxVTLZQkk6KJI2c5sBqU",
+    "albumId": "3EZ09EIoMr6Y5Q9aidbnhy",
+    "release_date": "2008-04-28",
+    "popularity": 43
+  },
+  {
+    "trackId": "1uLAI3dSVYnn1KeCTAgkHr",
+    "name": "Sleepless Nights",
+    "duration_ms": 305933,
+    "artist": "King Diamond",
+    "artistId": "5i0ph60TnwTlIGrOZAmcZa",
+    "albumId": "3soSRzbPLtJEstj20sQTnK",
+    "release_date": "1989-08-21",
+    "popularity": 39
+  },
+  {
+    "trackId": "55gnXnrMcV8VESW9UxTSHA",
+    "name": "The Highwayman",
+    "duration_ms": 230560,
+    "artist": "Jimmy Webb",
+    "artistId": "0YJUdunUDA1pTDxJ8AJlyB",
+    "albumId": "4CyzFJiQcpwPXle8STeAdv",
+    "release_date": "1977",
+    "popularity": 29
+  },
+  {
+    "trackId": "70Z9t1qhytWtG4cCmmi7mU",
+    "name": "I Wanna Rock",
+    "duration_ms": 179760,
+    "artist": "Twisted Sister",
+    "artistId": "7b85ve82Sh36a3UAx74wut",
+    "albumId": "0dzqapIToiOhULGvzDKpXm",
+    "release_date": "1984-05-10",
+    "popularity": 73
+  },
+  {
+    "trackId": "7AKqiTZxUtVnp7Kc3iNxCy",
+    "name": "Helan & Halvan",
+    "duration_ms": 145833,
+    "artist": "Onkel",
+    "artistId": "73nA61o9FnJGeHuk9MR6NI",
+    "albumId": "26NEB0tODtcbLzLqET64yz",
+    "release_date": "2019-05-31",
+    "popularity": 9
+  },
+  {
+    "trackId": "17letBj5uqJns5jJa4yDu2",
+    "name": "Dunder Och Snus",
+    "duration_ms": 283626,
+    "artist": "Fiskebyxa",
+    "artistId": "0n4cuybWprOPpyFENxVRUD",
+    "albumId": "1Gz1LhFXf6ZyeG2nKbXfPM",
+    "release_date": "2005-02-28",
+    "popularity": 2
+  },
+  {
+    "trackId": "3XFWhWDmkyXUN582f6BoLp",
+    "name": "Ingen saknar mig i morgon",
+    "duration_ms": 204296,
+    "artist": "Max Fenders",
+    "artistId": "215ieZeTQNtEzRxafXmn2m",
+    "albumId": "4EfUaf54vO6XOwGTNsEME0",
+    "release_date": "1977",
+    "popularity": 35
+  },
+  {
+    "trackId": "7nemcVsXVFZF01iqpIIo2Y",
+    "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+    "duration_ms": 301226,
+    "artist": "AC/DC",
+    "artistId": "711MCceyCBcFnzjGY4Q7Un",
+    "albumId": "19AUoKWRAaQYrggVvdQnqq",
+    "release_date": "1976-05-14",
+    "popularity": 71
+  },
+  {
+    "trackId": "1BBZ7WFBkXHIaGbEZvkUCl",
+    "name": "Så länge skutan kan gå",
+    "duration_ms": 190106,
+    "artist": "Per Myrberg",
+    "artistId": "74HgFbSvwVCvess9LgMze2",
+    "albumId": "5EgZCLR6QjKs266yNJ95Y0",
+    "release_date": "2007-01-01",
+    "popularity": 13
+  },
+  {
+    "trackId": "7n0lp1r1yHYXN2jZvqzbAI",
+    "name": "I Can Hear Your Heartbeat",
+    "duration_ms": 211146,
+    "artist": "Chris Rea",
+    "artistId": "5KEG7G8LDYlHgFDqZyEEs2",
+    "albumId": "4FgqV1hg6SM4XRt9Y7SJyw",
+    "release_date": "1983-07-18",
+    "popularity": 52
+  },
+  {
+    "trackId": "6iDs7caj4dlxyTpT1mMnS4",
+    "name": "I Can Hear Your Heart beat (Karaoke Version) [In The Style Of Chris Rea]",
+    "duration_ms": 198773,
+    "artist": "Karaoke Universe",
+    "artistId": "7a2AgzWfEyFkgSAXjLe4T3",
+    "albumId": "33MiTAqDze5SploK0hJpHw",
+    "release_date": "2013-09-03",
+    "popularity": 0
+  }
+]

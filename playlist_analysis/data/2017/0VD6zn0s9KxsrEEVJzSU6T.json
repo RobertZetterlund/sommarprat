@@ -1,1 +1,112 @@
-[{"trackId":"69wtmAd9vZYkoemHJXRZtv","name":"Go Tell It On the Mountain","duration_ms":165000,"artist":"Mahalia Jackson","artistId":"6QBUIuGCAJSAtefEY1EEdB","albumId":"5xInXUBHp3zpSTpwUsgvmp","release_date":"1962","popularity":14},{"trackId":"7L1eT3XQ0OlensLhCpyOVV","name":"Inbjudan till Bohuslän","duration_ms":326933,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"5T85NS6pAaXZ8eM21izrXe","release_date":"1989","popularity":28},{"trackId":"1tiDXaCcSq83xCrJslzXGI","name":"Concerto for 2 Violins in D Minor, BWV 1043: III. Allegro","duration_ms":281086,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"1nZDgzgAZp7RTb9Xf1Rx01","release_date":"2014-04-01","popularity":0},{"trackId":"6nEkxYIEnrbYH7h1hJ8Xn6","name":"She Loves You - Mono / Remastered","duration_ms":140920,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"7vEJAtP3KgKSpOHVgwm3Eh","release_date":"2000-11-13","popularity":65},{"trackId":"0Fnb2pfBfu0ka33d6Yki17","name":"All Along the Watchtower","duration_ms":151093,"artist":"Bob Dylan","artistId":"74ASZWbe4lXaubB36ztrGX","albumId":"2KzCDxKpgLqBffHu1IZ7Kn","release_date":"1967-12-27","popularity":54},{"trackId":"3xVzts1KgGS8iGvbe0OhFn","name":"Land Efter Land - Live","duration_ms":224733,"artist":"Livets Ord Worship","artistId":"2Cca9cvhaMmE2RtInwPyMB","albumId":"10Af2LBdN7cpvowc8RZrbi","release_date":"1994-07-19","popularity":4},{"trackId":"06xX9E1BTTwyOwyaBuszSK","name":"Fångad av en stormvind - Swedish Version","duration_ms":180760,"artist":"Carola","artistId":"3uFum0NCM1PtmCO0MwsOAt","albumId":"4cotyYQgYleaHbqQEgU9Hv","release_date":"1983-03-26","popularity":53},{"trackId":"20FNvyY9tMTlgmpcQrkY5x","name":"Visa fran Utanmyra","duration_ms":293026,"artist":"Georg Riedel","artistId":"3Z1yaFUknAq52KBVmrYpqy","albumId":"47LlnxrvG1BG6Pyn8BN41q","release_date":"2003-01-01","popularity":1},{"trackId":"0klNxlwWGFhb1XJtIPTCZQ","name":"DuDu","duration_ms":331112,"artist":"Fastpoholmen","artistId":"3M4FRKJfiRXRZeYqwdbnf1","albumId":"49VeCOX2EjrR7CbpkM7nNW","release_date":"2018-11-01","popularity":33},{"trackId":"6Djg0bJXADJyZzWR6WXtEZ","name":"Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)","duration_ms":249013,"artist":"Franz Schubert","artistId":"2p0UyoPfYfI76PCStuXfOP","albumId":"7C2bSB28pcWwq3ymkz6tj5","release_date":"2022-07-29","popularity":46},{"trackId":"0Xp3q4KLTBffz9fzpUDczj","name":"The Real Setup","duration_ms":193906,"artist":"James Newton Howard","artistId":"2M4eNCvV3CJUswavkhAQg2","albumId":"4sLn5Un3pabndUD9yAwuKN","release_date":"2009-01-01","popularity":1}]
+[
+  {
+    "trackId": "69wtmAd9vZYkoemHJXRZtv",
+    "name": "Go Tell It On the Mountain",
+    "duration_ms": 165000,
+    "artist": "Mahalia Jackson",
+    "artistId": "6QBUIuGCAJSAtefEY1EEdB",
+    "albumId": "5xInXUBHp3zpSTpwUsgvmp",
+    "release_date": "1962",
+    "popularity": 14
+  },
+  {
+    "trackId": "7L1eT3XQ0OlensLhCpyOVV",
+    "name": "Inbjudan till Bohuslän",
+    "duration_ms": 326933,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "5T85NS6pAaXZ8eM21izrXe",
+    "release_date": "1989",
+    "popularity": 28
+  },
+  {
+    "trackId": "1tiDXaCcSq83xCrJslzXGI",
+    "name": "Concerto for 2 Violins in D Minor, BWV 1043: III. Allegro",
+    "duration_ms": 281086,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "1nZDgzgAZp7RTb9Xf1Rx01",
+    "release_date": "2014-04-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "6nEkxYIEnrbYH7h1hJ8Xn6",
+    "name": "She Loves You - Mono / Remastered",
+    "duration_ms": 140920,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+    "release_date": "2000-11-13",
+    "popularity": 65
+  },
+  {
+    "trackId": "0Fnb2pfBfu0ka33d6Yki17",
+    "name": "All Along the Watchtower",
+    "duration_ms": 151093,
+    "artist": "Bob Dylan",
+    "artistId": "74ASZWbe4lXaubB36ztrGX",
+    "albumId": "2KzCDxKpgLqBffHu1IZ7Kn",
+    "release_date": "1967-12-27",
+    "popularity": 54
+  },
+  {
+    "trackId": "3xVzts1KgGS8iGvbe0OhFn",
+    "name": "Land Efter Land - Live",
+    "duration_ms": 224733,
+    "artist": "Livets Ord Worship",
+    "artistId": "2Cca9cvhaMmE2RtInwPyMB",
+    "albumId": "10Af2LBdN7cpvowc8RZrbi",
+    "release_date": "1994-07-19",
+    "popularity": 4
+  },
+  {
+    "trackId": "06xX9E1BTTwyOwyaBuszSK",
+    "name": "Fångad av en stormvind - Swedish Version",
+    "duration_ms": 180760,
+    "artist": "Carola",
+    "artistId": "3uFum0NCM1PtmCO0MwsOAt",
+    "albumId": "4cotyYQgYleaHbqQEgU9Hv",
+    "release_date": "1983-03-26",
+    "popularity": 53
+  },
+  {
+    "trackId": "20FNvyY9tMTlgmpcQrkY5x",
+    "name": "Visa fran Utanmyra",
+    "duration_ms": 293026,
+    "artist": "Georg Riedel",
+    "artistId": "3Z1yaFUknAq52KBVmrYpqy",
+    "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+    "release_date": "2003-01-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "0klNxlwWGFhb1XJtIPTCZQ",
+    "name": "DuDu",
+    "duration_ms": 331112,
+    "artist": "Fastpoholmen",
+    "artistId": "3M4FRKJfiRXRZeYqwdbnf1",
+    "albumId": "49VeCOX2EjrR7CbpkM7nNW",
+    "release_date": "2018-11-01",
+    "popularity": 33
+  },
+  {
+    "trackId": "6Djg0bJXADJyZzWR6WXtEZ",
+    "name": "Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+    "duration_ms": 249013,
+    "artist": "Franz Schubert",
+    "artistId": "2p0UyoPfYfI76PCStuXfOP",
+    "albumId": "7C2bSB28pcWwq3ymkz6tj5",
+    "release_date": "2022-07-29",
+    "popularity": 46
+  },
+  {
+    "trackId": "0Xp3q4KLTBffz9fzpUDczj",
+    "name": "The Real Setup",
+    "duration_ms": 193906,
+    "artist": "James Newton Howard",
+    "artistId": "2M4eNCvV3CJUswavkhAQg2",
+    "albumId": "4sLn5Un3pabndUD9yAwuKN",
+    "release_date": "2009-01-01",
+    "popularity": 1
+  }
+]

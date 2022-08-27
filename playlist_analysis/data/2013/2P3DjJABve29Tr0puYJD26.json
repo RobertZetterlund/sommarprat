@@ -1,1 +1,152 @@
-[{"trackId":"7faWy3kAy0GkTqAzkUBhCf","name":"Piano Concerto No. 2 in F Major, Op. 102: II. Andante","duration_ms":362520,"artist":"Dmitri Shostakovich","artistId":"6s1pCNXcbdtQJlsnM1hRIA","albumId":"4qQEDWPa2G5P4G4CT0av5u","release_date":"1986-02-01","popularity":46},{"trackId":"0oSPhijdd1BqG906U76EqH","name":"Det finns ingen annan","duration_ms":135600,"artist":"Carl Eric Thörn","artistId":"6LRuMkhfGlVN26BWRNJllK","albumId":"5ZUeJny1q3n3tSVslk9j5Y","release_date":"2003-01-01","popularity":15},{"trackId":"7z88hLSesdUzt84MsPuAil","name":"Spiegel im Spiegel - Version for Cello and Piano","duration_ms":552866,"artist":"Arvo Pärt","artistId":"2P6ygesd9xg5DPOBnda2jg","albumId":"69iw6Zy6fh2dSnEgBTZKJE","release_date":"1999-10-15","popularity":35},{"trackId":"1juisCcrVdwoLbDWyVvNrX","name":"6 Impromptus, Op. 5: Impromptu VI","duration_ms":369026,"artist":"Jean Sibelius","artistId":"7jzR5qj8vFnSu5JHaXgFEr","albumId":"4lNwSgAyaE91u37nrQcRFe","release_date":"2017-09-01","popularity":57},{"trackId":"7En0S2TM4sV0dFBEaRpGzo","name":"Rondo amoroso Op. 14 nr. 7","duration_ms":215293,"artist":"Harald Sæverud","artistId":"6OL2x3B9GHdjuo6pS26kac","albumId":"5kNtawG9MlSN6KYTfFhePw","release_date":"1997-01-01","popularity":0},{"trackId":"48LoEjN0gcVOapmblZa6BV","name":"Sonatina for Piano: I. Entrée (Live)","duration_ms":374226,"artist":"Friedrich Gulda","artistId":"2sjOsPGCavFqNIgpCoy2hJ","albumId":"7ez3UNYlm9vGF7MWCDXc1K","release_date":"2021-01-22","popularity":0},{"trackId":"3LSdaNWsEMAuiXy3xYm3gZ","name":"Ska vi byta?","duration_ms":155440,"artist":"Hans Alfredson","artistId":"2wSu2EcQojgAifviEgZmy3","albumId":"4MZqt2uT29Lhjs3C2i54Af","release_date":"1996-01-01","popularity":31},{"trackId":"4KY3w8Hm8dTIqKbUFn9T3z","name":"Ballad på en soptipp","duration_ms":156826,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"6ILQonIkV5DsmZXgmzXId3","release_date":"1964","popularity":31},{"trackId":"3N44qDNFIaDBpnCPfSdUHt","name":"Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)","duration_ms":403626,"artist":"Christoph Willibald Gluck","artistId":"7vfydQ0nVBVgJ0ajs8EtRM","albumId":"6nRbwFgnL2EUMSQDLOuXzm","release_date":"2010-01-01","popularity":15},{"trackId":"3AH4EfPTgD6SECFGqowCu3","name":"Bach, JS: Brandenburg Concerto No. 3 in G Major, BWV 1048: I. (Allegro)","duration_ms":386253,"artist":"Johann Sebastian Bach","artistId":"5aIqB5nVVvmFsvSdExz408","albumId":"0pdCPqdLH5IW41NWRGGmC0","release_date":"1987","popularity":20},{"trackId":"6copqnozlU7klnzLV5em9d","name":"Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro","duration_ms":174613,"artist":"Arcangelo Corelli","artistId":"5dmMpIyAVaH6b9FLFgWPrF","albumId":"2d3if0OXl7v3oy4sTBEAgI","release_date":"1989","popularity":39},{"trackId":"6copqnozlU7klnzLV5em9d","name":"Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro","duration_ms":174613,"artist":"Arcangelo Corelli","artistId":"5dmMpIyAVaH6b9FLFgWPrF","albumId":"2d3if0OXl7v3oy4sTBEAgI","release_date":"1989","popularity":39},{"trackId":"4wmdo3Ib8VgdTDLsuAZCkY","name":"Ska nya röster sjunga","duration_ms":257866,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"1SGwC2j8q4IueKcfUCMFmV","release_date":"1991-09-30","popularity":28},{"trackId":"3EjJikGTdIra5A1I7W2HjY","name":"Theme From the Last Waltz - Concert Version","duration_ms":234066,"artist":"The Band","artistId":"4vpDg7Y7fU982Ds30zawDA","albumId":"7uqVE9qWdqjtDeLpdHyMxP","release_date":"2002-12-16","popularity":35},{"trackId":"7JqO9mOheNWFVEbSShulMx","name":"Sjörövar-Fabbe","duration_ms":140426,"artist":"Astrid Lindgren","artistId":"3MDsnjqnEd5TJaYsuacX1I","albumId":"2SYUiUnTQXOOioWUb17tgL","release_date":"1970-01-01","popularity":49}]
+[
+  {
+    "trackId": "7faWy3kAy0GkTqAzkUBhCf",
+    "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+    "duration_ms": 362520,
+    "artist": "Dmitri Shostakovich",
+    "artistId": "6s1pCNXcbdtQJlsnM1hRIA",
+    "albumId": "4qQEDWPa2G5P4G4CT0av5u",
+    "release_date": "1986-02-01",
+    "popularity": 46
+  },
+  {
+    "trackId": "0oSPhijdd1BqG906U76EqH",
+    "name": "Det finns ingen annan",
+    "duration_ms": 135600,
+    "artist": "Carl Eric Thörn",
+    "artistId": "6LRuMkhfGlVN26BWRNJllK",
+    "albumId": "5ZUeJny1q3n3tSVslk9j5Y",
+    "release_date": "2003-01-01",
+    "popularity": 15
+  },
+  {
+    "trackId": "7z88hLSesdUzt84MsPuAil",
+    "name": "Spiegel im Spiegel - Version for Cello and Piano",
+    "duration_ms": 552866,
+    "artist": "Arvo Pärt",
+    "artistId": "2P6ygesd9xg5DPOBnda2jg",
+    "albumId": "69iw6Zy6fh2dSnEgBTZKJE",
+    "release_date": "1999-10-15",
+    "popularity": 35
+  },
+  {
+    "trackId": "1juisCcrVdwoLbDWyVvNrX",
+    "name": "6 Impromptus, Op. 5: Impromptu VI",
+    "duration_ms": 369026,
+    "artist": "Jean Sibelius",
+    "artistId": "7jzR5qj8vFnSu5JHaXgFEr",
+    "albumId": "4lNwSgAyaE91u37nrQcRFe",
+    "release_date": "2017-09-01",
+    "popularity": 57
+  },
+  {
+    "trackId": "7En0S2TM4sV0dFBEaRpGzo",
+    "name": "Rondo amoroso Op. 14 nr. 7",
+    "duration_ms": 215293,
+    "artist": "Harald Sæverud",
+    "artistId": "6OL2x3B9GHdjuo6pS26kac",
+    "albumId": "5kNtawG9MlSN6KYTfFhePw",
+    "release_date": "1997-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "48LoEjN0gcVOapmblZa6BV",
+    "name": "Sonatina for Piano: I. Entrée (Live)",
+    "duration_ms": 374226,
+    "artist": "Friedrich Gulda",
+    "artistId": "2sjOsPGCavFqNIgpCoy2hJ",
+    "albumId": "7ez3UNYlm9vGF7MWCDXc1K",
+    "release_date": "2021-01-22",
+    "popularity": 0
+  },
+  {
+    "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
+    "name": "Ska vi byta?",
+    "duration_ms": 155440,
+    "artist": "Hans Alfredson",
+    "artistId": "2wSu2EcQojgAifviEgZmy3",
+    "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+    "release_date": "1996-01-01",
+    "popularity": 31
+  },
+  {
+    "trackId": "4KY3w8Hm8dTIqKbUFn9T3z",
+    "name": "Ballad på en soptipp",
+    "duration_ms": 156826,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "6ILQonIkV5DsmZXgmzXId3",
+    "release_date": "1964",
+    "popularity": 31
+  },
+  {
+    "trackId": "3N44qDNFIaDBpnCPfSdUHt",
+    "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)",
+    "duration_ms": 403626,
+    "artist": "Christoph Willibald Gluck",
+    "artistId": "7vfydQ0nVBVgJ0ajs8EtRM",
+    "albumId": "6nRbwFgnL2EUMSQDLOuXzm",
+    "release_date": "2010-01-01",
+    "popularity": 15
+  },
+  {
+    "trackId": "3AH4EfPTgD6SECFGqowCu3",
+    "name": "Bach, JS: Brandenburg Concerto No. 3 in G Major, BWV 1048: I. (Allegro)",
+    "duration_ms": 386253,
+    "artist": "Johann Sebastian Bach",
+    "artistId": "5aIqB5nVVvmFsvSdExz408",
+    "albumId": "0pdCPqdLH5IW41NWRGGmC0",
+    "release_date": "1987",
+    "popularity": 20
+  },
+  {
+    "trackId": "6copqnozlU7klnzLV5em9d",
+    "name": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro",
+    "duration_ms": 174613,
+    "artist": "Arcangelo Corelli",
+    "artistId": "5dmMpIyAVaH6b9FLFgWPrF",
+    "albumId": "2d3if0OXl7v3oy4sTBEAgI",
+    "release_date": "1989",
+    "popularity": 39
+  },
+  {
+    "trackId": "6copqnozlU7klnzLV5em9d",
+    "name": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro",
+    "duration_ms": 174613,
+    "artist": "Arcangelo Corelli",
+    "artistId": "5dmMpIyAVaH6b9FLFgWPrF",
+    "albumId": "2d3if0OXl7v3oy4sTBEAgI",
+    "release_date": "1989",
+    "popularity": 39
+  },
+  {
+    "trackId": "4wmdo3Ib8VgdTDLsuAZCkY",
+    "name": "Ska nya röster sjunga",
+    "duration_ms": 257866,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+    "release_date": "1991-09-30",
+    "popularity": 28
+  },
+  {
+    "trackId": "3EjJikGTdIra5A1I7W2HjY",
+    "name": "Theme From the Last Waltz - Concert Version",
+    "duration_ms": 234066,
+    "artist": "The Band",
+    "artistId": "4vpDg7Y7fU982Ds30zawDA",
+    "albumId": "7uqVE9qWdqjtDeLpdHyMxP",
+    "release_date": "2002-12-16",
+    "popularity": 35
+  },
+  {
+    "trackId": "7JqO9mOheNWFVEbSShulMx",
+    "name": "Sjörövar-Fabbe",
+    "duration_ms": 140426,
+    "artist": "Astrid Lindgren",
+    "artistId": "3MDsnjqnEd5TJaYsuacX1I",
+    "albumId": "2SYUiUnTQXOOioWUb17tgL",
+    "release_date": "1970-01-01",
+    "popularity": 49
+  }
+]

@@ -1,1 +1,122 @@
-[{"trackId":"0X2hKOeyBXG3PirH8HtSVh","name":"Til Ungdommen","duration_ms":203600,"artist":"Herborg Kråkevik","artistId":"5uvwGfXbw7uUF9JI0KqKK5","albumId":"5SdOIn61IrYoS5xg5sejzf","release_date":"2000-01-01","popularity":30},{"trackId":"1Wx4lXhRN6zIjwBEtafifD","name":"Barn Av Regnbuen","duration_ms":190880,"artist":"Lillebjørn Nilsen","artistId":"2cEkdzGxcB731g81iUsH6e","albumId":"1BfFFNFeWyftPoGnTxt8iW","release_date":"1973","popularity":34},{"trackId":"6ZB1dFgdUW6I9qzW7Oap6o","name":"Idyll","duration_ms":203253,"artist":"Postgirobygget","artistId":"3DdqT0OIZY3arBWnZ3NJeb","albumId":"37OHrXXHZRIiKlxbHzOalj","release_date":"1996-01-01","popularity":54},{"trackId":"01gMw6DbUQ6UHhohpWeJlg","name":"Det här är ditt land (This Land Is Your Land)","duration_ms":268866,"artist":"Mikael Wiehe","artistId":"3VOOmK7ZqJNgOPN1hopJuL","albumId":"4yrClOx6PDTDFH6sCK1Pwx","release_date":"2000","popularity":36},{"trackId":"29nbdRby3DgHTub5LVponf","name":"Kungsholmens Hamn","duration_ms":211546,"artist":"Melissa Horn","artistId":"0tOdy7SqogILIjzGU2hSr5","albumId":"357nQyU7dtZmBxRckZR1Vh","release_date":"2008-04-28","popularity":32},{"trackId":"1o6kq1BELDZPZCmxvFNaey","name":"Closer","duration_ms":158333,"artist":"Frida Amundsen","artistId":"7bWpniIKlAHKaXyn3BFPlr","albumId":"2pihsQzOwHsgI7IjpYkYQX","release_date":"2011-05-20","popularity":34},{"trackId":"1hEHAuIV8oMxyzoJ7XKTMH","name":"Firework","duration_ms":227973,"artist":"Katy Perry","artistId":"6jJ0s89eD6GaHleKKya26X","albumId":"7nTdrrCouDdiBoWIkFmjlP","release_date":"2022-08-16","popularity":3},{"trackId":"20I6sIOMTCkB6w7ryavxtO","name":"Call Me Maybe","duration_ms":193400,"artist":"Carly Rae Jepsen","artistId":"6sFIWsNpZYqfjUpaCgueju","albumId":"6SSSF9Y6MiPdQoxqBptrR2","release_date":"2012-01-01","popularity":79},{"trackId":"244AvzGQ4Ksa5637JQu5Gy","name":"You've Got The Love","duration_ms":168666,"artist":"Florence + The Machine","artistId":"1moxjboGR7GNWYIMWsRjgG","albumId":"1rLLyY5p6HXNl2lKzINWp5","release_date":"2009","popularity":71},{"trackId":"3SnGymj6ijE2iuUfWxLo1q","name":"I'm Coming Out","duration_ms":323346,"artist":"Diana Ross","artistId":"3MdG05syQeRYPPcClLaUGl","albumId":"3zgDLoVcpVGfFbDZJf3uHI","release_date":"1980-05-22","popularity":70},{"trackId":"5ufKHKkvUvnkTo31W8H7Od","name":"Va det du Jesus - Live","duration_ms":269306,"artist":"Åge Aleksandersen","artistId":"08H8B226x5IRKwbm8TD8bz","albumId":"5ljz5Gt9JQnhASw4Ka4Uu4","release_date":"2008-11-03","popularity":4},{"trackId":"7pgbMWg0N54aEySNnz1BIP","name":"Kringsatt av fiender","duration_ms":290880,"artist":"Kartellen","artistId":"3kklzjWziqW7RX5jQjsRnb","albumId":"59M3yKZsC35p9mDV97mgEg","release_date":"2012-01-01","popularity":16}]
+[
+  {
+    "trackId": "0X2hKOeyBXG3PirH8HtSVh",
+    "name": "Til Ungdommen",
+    "duration_ms": 203600,
+    "artist": "Herborg Kråkevik",
+    "artistId": "5uvwGfXbw7uUF9JI0KqKK5",
+    "albumId": "5SdOIn61IrYoS5xg5sejzf",
+    "release_date": "2000-01-01",
+    "popularity": 30
+  },
+  {
+    "trackId": "1Wx4lXhRN6zIjwBEtafifD",
+    "name": "Barn Av Regnbuen",
+    "duration_ms": 190880,
+    "artist": "Lillebjørn Nilsen",
+    "artistId": "2cEkdzGxcB731g81iUsH6e",
+    "albumId": "1BfFFNFeWyftPoGnTxt8iW",
+    "release_date": "1973",
+    "popularity": 34
+  },
+  {
+    "trackId": "6ZB1dFgdUW6I9qzW7Oap6o",
+    "name": "Idyll",
+    "duration_ms": 203253,
+    "artist": "Postgirobygget",
+    "artistId": "3DdqT0OIZY3arBWnZ3NJeb",
+    "albumId": "37OHrXXHZRIiKlxbHzOalj",
+    "release_date": "1996-01-01",
+    "popularity": 54
+  },
+  {
+    "trackId": "01gMw6DbUQ6UHhohpWeJlg",
+    "name": "Det här är ditt land (This Land Is Your Land)",
+    "duration_ms": 268866,
+    "artist": "Mikael Wiehe",
+    "artistId": "3VOOmK7ZqJNgOPN1hopJuL",
+    "albumId": "4yrClOx6PDTDFH6sCK1Pwx",
+    "release_date": "2000",
+    "popularity": 36
+  },
+  {
+    "trackId": "29nbdRby3DgHTub5LVponf",
+    "name": "Kungsholmens Hamn",
+    "duration_ms": 211546,
+    "artist": "Melissa Horn",
+    "artistId": "0tOdy7SqogILIjzGU2hSr5",
+    "albumId": "357nQyU7dtZmBxRckZR1Vh",
+    "release_date": "2008-04-28",
+    "popularity": 32
+  },
+  {
+    "trackId": "1o6kq1BELDZPZCmxvFNaey",
+    "name": "Closer",
+    "duration_ms": 158333,
+    "artist": "Frida Amundsen",
+    "artistId": "7bWpniIKlAHKaXyn3BFPlr",
+    "albumId": "2pihsQzOwHsgI7IjpYkYQX",
+    "release_date": "2011-05-20",
+    "popularity": 34
+  },
+  {
+    "trackId": "1hEHAuIV8oMxyzoJ7XKTMH",
+    "name": "Firework",
+    "duration_ms": 227973,
+    "artist": "Katy Perry",
+    "artistId": "6jJ0s89eD6GaHleKKya26X",
+    "albumId": "7nTdrrCouDdiBoWIkFmjlP",
+    "release_date": "2022-08-16",
+    "popularity": 3
+  },
+  {
+    "trackId": "20I6sIOMTCkB6w7ryavxtO",
+    "name": "Call Me Maybe",
+    "duration_ms": 193400,
+    "artist": "Carly Rae Jepsen",
+    "artistId": "6sFIWsNpZYqfjUpaCgueju",
+    "albumId": "6SSSF9Y6MiPdQoxqBptrR2",
+    "release_date": "2012-01-01",
+    "popularity": 79
+  },
+  {
+    "trackId": "244AvzGQ4Ksa5637JQu5Gy",
+    "name": "You've Got The Love",
+    "duration_ms": 168666,
+    "artist": "Florence + The Machine",
+    "artistId": "1moxjboGR7GNWYIMWsRjgG",
+    "albumId": "1rLLyY5p6HXNl2lKzINWp5",
+    "release_date": "2009",
+    "popularity": 71
+  },
+  {
+    "trackId": "3SnGymj6ijE2iuUfWxLo1q",
+    "name": "I'm Coming Out",
+    "duration_ms": 323346,
+    "artist": "Diana Ross",
+    "artistId": "3MdG05syQeRYPPcClLaUGl",
+    "albumId": "3zgDLoVcpVGfFbDZJf3uHI",
+    "release_date": "1980-05-22",
+    "popularity": 70
+  },
+  {
+    "trackId": "5ufKHKkvUvnkTo31W8H7Od",
+    "name": "Va det du Jesus - Live",
+    "duration_ms": 269306,
+    "artist": "Åge Aleksandersen",
+    "artistId": "08H8B226x5IRKwbm8TD8bz",
+    "albumId": "5ljz5Gt9JQnhASw4Ka4Uu4",
+    "release_date": "2008-11-03",
+    "popularity": 4
+  },
+  {
+    "trackId": "7pgbMWg0N54aEySNnz1BIP",
+    "name": "Kringsatt av fiender",
+    "duration_ms": 290880,
+    "artist": "Kartellen",
+    "artistId": "3kklzjWziqW7RX5jQjsRnb",
+    "albumId": "59M3yKZsC35p9mDV97mgEg",
+    "release_date": "2012-01-01",
+    "popularity": 16
+  }
+]

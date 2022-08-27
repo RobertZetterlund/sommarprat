@@ -1,1 +1,132 @@
-[{"trackId":"53c27O0rmDrrIvp6mdl5dd","name":"Det vet bara jag","duration_ms":217600,"artist":"Totta Näslund","artistId":"09J3FFqSQVVQlrakhizg9v","albumId":"1kxKEXOtXBjYLZH2RoKKBV","release_date":"2001-07-13","popularity":30},{"trackId":"6aDYn2aQT7ES8txKkXodYf","name":"Mascagni: Cavalleria rusticana: Intermezzo","duration_ms":207066,"artist":"Pietro Mascagni","artistId":"3Z5fRknMBBNfCw6pkgR9S8","albumId":"7dfTix10AyeAifYJzezTFZ","release_date":"1998-01-01","popularity":12},{"trackId":"2nXdwNjPLt1F51vCBWSnnX","name":"Smile (with Barbra Streisand)","duration_ms":279453,"artist":"Tony Bennett","artistId":"2lolQgalUvZDfp5vvVtTYV","albumId":"0RPgKTqFhjUD8KEf9vR7jX","release_date":"2006-09-26","popularity":43},{"trackId":"1utyEW4Qf1F5jeqhJSLT6g","name":"O mio babbino caro from Gianni Schicchi","duration_ms":146360,"artist":"Giacomo Puccini","artistId":"0OzxPXyowUEQ532c9AmHUR","albumId":"6pLDSIkfS0YwXrX4OuqLdZ","release_date":"1948","popularity":29},{"trackId":"50vqFoKvSNZvv9qB5VXtSj","name":"Jag är inte fri","duration_ms":223266,"artist":"Eva Dahlgren","artistId":"7IK2JpZglDYTrso4ILEKE0","albumId":"10KsWSw6r63M3MmDMWk4hG","release_date":"2007-11-09","popularity":6},{"trackId":"7n7pASJ1jMweLvIt1FvkNN","name":"Ne Cédez Jamais","duration_ms":234666,"artist":"Angelique Kidjo","artistId":"51qUDJb5AtQX6jIL4VJx6M","albumId":"7pR9BKlxr6IlLhkf4Oc1eB","release_date":"2002-03-27","popularity":8},{"trackId":"7Jh1bpe76CNTCgdgAdBw4Z","name":"Heroes - 2017 Remaster","duration_ms":371413,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"4I5zzKYd2SKDgZ9DRf5LVk","release_date":"1977","popularity":76},{"trackId":"0XEh9RqRQRci0q7UzgHdMo","name":"En dag i sänder","duration_ms":225053,"artist":"Benny Anderssons Orkester","artistId":"5KcJSAFLAEtpCkK5EI0KLS","albumId":"5L12oeXDf1ofwMyp0fviRE","release_date":"2011-01-01","popularity":44},{"trackId":"24WyDyJfAXgkcPddKdvfYA","name":"Vårens första dag","duration_ms":280533,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"1YqHIqrWx3eopxKFPqjqhT","release_date":"2012-01-10","popularity":46},{"trackId":"09mqr5EvjSQ0B2HRxjs86L","name":"Dancing the Whole Way Home","duration_ms":169693,"artist":"Miss Li","artistId":"04HqRx07Bv9gh7rsrMTqs7","albumId":"0N3uFXmSLUsA4Tc5RBWwyi","release_date":"2009-03-31","popularity":41},{"trackId":"1jDJFeK9x3OZboIAHsY9k2","name":"I'm Still Standing","duration_ms":183440,"artist":"Elton John","artistId":"3PhoLpVuITZKcymswpck5b","albumId":"0OmYuz9hwn1XoqmDaU0yJ7","release_date":"1983-05-30","popularity":82},{"trackId":"3fbnbn6A5O5RNb08tlUEgd","name":"Streets of Philadelphia - Single Edit","duration_ms":195080,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"211iJYKUbpqrykRsPG27CG","release_date":"1995-02-27","popularity":70},{"trackId":"37EpDTKWKqaR7FzGqr1BzP","name":"Rialto","duration_ms":506253,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"201qUpZCoH6LN6yHWehLb2","release_date":"1985","popularity":26}]
+[
+  {
+    "trackId": "53c27O0rmDrrIvp6mdl5dd",
+    "name": "Det vet bara jag",
+    "duration_ms": 217600,
+    "artist": "Totta Näslund",
+    "artistId": "09J3FFqSQVVQlrakhizg9v",
+    "albumId": "1kxKEXOtXBjYLZH2RoKKBV",
+    "release_date": "2001-07-13",
+    "popularity": 30
+  },
+  {
+    "trackId": "6aDYn2aQT7ES8txKkXodYf",
+    "name": "Mascagni: Cavalleria rusticana: Intermezzo",
+    "duration_ms": 207066,
+    "artist": "Pietro Mascagni",
+    "artistId": "3Z5fRknMBBNfCw6pkgR9S8",
+    "albumId": "7dfTix10AyeAifYJzezTFZ",
+    "release_date": "1998-01-01",
+    "popularity": 12
+  },
+  {
+    "trackId": "2nXdwNjPLt1F51vCBWSnnX",
+    "name": "Smile (with Barbra Streisand)",
+    "duration_ms": 279453,
+    "artist": "Tony Bennett",
+    "artistId": "2lolQgalUvZDfp5vvVtTYV",
+    "albumId": "0RPgKTqFhjUD8KEf9vR7jX",
+    "release_date": "2006-09-26",
+    "popularity": 43
+  },
+  {
+    "trackId": "1utyEW4Qf1F5jeqhJSLT6g",
+    "name": "O mio babbino caro from Gianni Schicchi",
+    "duration_ms": 146360,
+    "artist": "Giacomo Puccini",
+    "artistId": "0OzxPXyowUEQ532c9AmHUR",
+    "albumId": "6pLDSIkfS0YwXrX4OuqLdZ",
+    "release_date": "1948",
+    "popularity": 29
+  },
+  {
+    "trackId": "50vqFoKvSNZvv9qB5VXtSj",
+    "name": "Jag är inte fri",
+    "duration_ms": 223266,
+    "artist": "Eva Dahlgren",
+    "artistId": "7IK2JpZglDYTrso4ILEKE0",
+    "albumId": "10KsWSw6r63M3MmDMWk4hG",
+    "release_date": "2007-11-09",
+    "popularity": 6
+  },
+  {
+    "trackId": "7n7pASJ1jMweLvIt1FvkNN",
+    "name": "Ne Cédez Jamais",
+    "duration_ms": 234666,
+    "artist": "Angelique Kidjo",
+    "artistId": "51qUDJb5AtQX6jIL4VJx6M",
+    "albumId": "7pR9BKlxr6IlLhkf4Oc1eB",
+    "release_date": "2002-03-27",
+    "popularity": 8
+  },
+  {
+    "trackId": "7Jh1bpe76CNTCgdgAdBw4Z",
+    "name": "Heroes - 2017 Remaster",
+    "duration_ms": 371413,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "4I5zzKYd2SKDgZ9DRf5LVk",
+    "release_date": "1977",
+    "popularity": 76
+  },
+  {
+    "trackId": "0XEh9RqRQRci0q7UzgHdMo",
+    "name": "En dag i sänder",
+    "duration_ms": 225053,
+    "artist": "Benny Anderssons Orkester",
+    "artistId": "5KcJSAFLAEtpCkK5EI0KLS",
+    "albumId": "5L12oeXDf1ofwMyp0fviRE",
+    "release_date": "2011-01-01",
+    "popularity": 44
+  },
+  {
+    "trackId": "24WyDyJfAXgkcPddKdvfYA",
+    "name": "Vårens första dag",
+    "duration_ms": 280533,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "1YqHIqrWx3eopxKFPqjqhT",
+    "release_date": "2012-01-10",
+    "popularity": 46
+  },
+  {
+    "trackId": "09mqr5EvjSQ0B2HRxjs86L",
+    "name": "Dancing the Whole Way Home",
+    "duration_ms": 169693,
+    "artist": "Miss Li",
+    "artistId": "04HqRx07Bv9gh7rsrMTqs7",
+    "albumId": "0N3uFXmSLUsA4Tc5RBWwyi",
+    "release_date": "2009-03-31",
+    "popularity": 41
+  },
+  {
+    "trackId": "1jDJFeK9x3OZboIAHsY9k2",
+    "name": "I'm Still Standing",
+    "duration_ms": 183440,
+    "artist": "Elton John",
+    "artistId": "3PhoLpVuITZKcymswpck5b",
+    "albumId": "0OmYuz9hwn1XoqmDaU0yJ7",
+    "release_date": "1983-05-30",
+    "popularity": 82
+  },
+  {
+    "trackId": "3fbnbn6A5O5RNb08tlUEgd",
+    "name": "Streets of Philadelphia - Single Edit",
+    "duration_ms": 195080,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "211iJYKUbpqrykRsPG27CG",
+    "release_date": "1995-02-27",
+    "popularity": 70
+  },
+  {
+    "trackId": "37EpDTKWKqaR7FzGqr1BzP",
+    "name": "Rialto",
+    "duration_ms": 506253,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "201qUpZCoH6LN6yHWehLb2",
+    "release_date": "1985",
+    "popularity": 26
+  }
+]

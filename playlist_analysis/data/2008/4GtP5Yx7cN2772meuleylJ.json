@@ -1,1 +1,152 @@
-[{"trackId":"3MnGQy6XUGVMnno5Tyk4gx","name":"Come Down Angels","duration_ms":191939,"artist":"The Reverend Peyton's Big Damn Band","artistId":"6Ec85Uubz3lO7BIEvcBfZK","albumId":"0O7uzkFvFlzYwg5cCMrxP1","release_date":"2021-04-09","popularity":11},{"trackId":"5WRYtga1IA1iDR9kRlwJYx","name":"Jag sträcker mig mot himlen","duration_ms":180440,"artist":"Nanne","artistId":"0whAheccvr5O5qbQjNk4gi","albumId":"3CDoUVCjpSa2N08MBL8Ovy","release_date":"2005-01-01","popularity":25},{"trackId":"3eOYmWvienEIgHJFAWE3ZD","name":"Live Tomorrow","duration_ms":215906,"artist":"Laleh","artistId":"62QZPjYQMoo5g56FP9Webq","albumId":"64o8Xiysec8ro1PqcgYWuh","release_date":"2005-03-01","popularity":43},{"trackId":"6HMFtoMvv6n6Q2eOyPFyne","name":"Walk Of Life","duration_ms":248893,"artist":"Dire Straits","artistId":"0WwSkZ7LtFUFjGjMZBMt6T","albumId":"0u7sgzvlLmPLvujXxy9EeY","release_date":"1985-05-13","popularity":73},{"trackId":"4BXHphysv92271CtE2JPWC","name":"Österns röda ros","duration_ms":274026,"artist":"Imperiet","artistId":"4uWiErrlBRdqgKn5NrIJjg","albumId":"5VZ7OGUW33OhiBjWpZVOa4","release_date":"1986-01-01","popularity":24},{"trackId":"5PKrdiFDE55aKdr93iqB0i","name":"De Sålde Sina Hemman (Emigrantvisa)","duration_ms":220066,"artist":"Jan Johansson","artistId":"6DEfX2tZzx9iANmaErvLGf","albumId":"4byNirgqdVRB2GHxjxUrMO","release_date":"1961","popularity":13},{"trackId":"2M0tJhXhOibVQpQfXXLAFU","name":"Årstider","duration_ms":268026,"artist":"Allan Edwall","artistId":"6dLcR9Q2Lyik2rZBL2zLjs","albumId":"2EZcqLi0WqjbHOPoPzg9uG","release_date":"1979-01-01","popularity":30},{"trackId":"2eX3Ig8OvX9kyyE6E3opI1","name":"Kervan - Live","duration_ms":442746,"artist":"Kudsi Erguner","artistId":"5BlN5l4Xh3Hsbj91NyP9lI","albumId":"2WiXudn62LeXEusnFtXOkR","release_date":"2002-01-01","popularity":0},{"trackId":"7E9rcVjE66zO7p4IwyhjBC","name":"Under ytan","duration_ms":202706,"artist":"Uno Svenningsson","artistId":"65OPXmm2nfPvaX1fjHo8kR","albumId":"7uBv5UUDd1VQ0oklzZ90Ne","release_date":"1994-08-27","popularity":45},{"trackId":"56RLkUmDfxM6RSLZpFdxov","name":"Den lilla bäcken","duration_ms":197866,"artist":"Allan Edwall","artistId":"6dLcR9Q2Lyik2rZBL2zLjs","albumId":"23tWRkGgJ7kbsBQLirgNsS","release_date":"1984-01-01","popularity":25},{"trackId":"3ascnOSOR5MX901ylGuhcl","name":"When a Man Loves a Woman","duration_ms":231066,"artist":"Michael Bolton","artistId":"6YHEMoNPbcheiWS2haGzkn","albumId":"3tu5RTLzk7J2Oe30hspuPm","release_date":"1991-04-23","popularity":66},{"trackId":"2jmCYlV3KKoBE645STf9jV","name":"Play It For The Girls - Radio Version","duration_ms":210973,"artist":"Danny Saucedo","artistId":"5tVyieWwN9j09jXUovK2zN","albumId":"23i3pdp8wRTAI1C0NgghT0","release_date":"2007-04-26","popularity":20},{"trackId":"5dXdy6YR6lxxC3GxBZcRWv","name":"Turistens klagan","duration_ms":200400,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"10znRN0s0flCvHfoSYPUzA","release_date":"1980","popularity":48},{"trackId":"2j9B8YHcnxDwiDNZg6UXFl","name":"Mel Bedaya","duration_ms":278546,"artist":"Mohamed Hamaki","artistId":"6bb9VI1PpPTEmdgcgjTppX","albumId":"5jLCYOiVF1KkRjDJl10r4f","release_date":"2019-01-25","popularity":45},{"trackId":"1cQMD6GWMnQkyyWwiHJF6e","name":"Farväl Jupiter","duration_ms":212253,"artist":"Lars Winnerbäck","artistId":"33zLgL7tT1vg7eRpWYX5uI","albumId":"2Vknxdd3cMEEMtznXjN1rI","release_date":"2007-01-01","popularity":29}]
+[
+  {
+    "trackId": "3MnGQy6XUGVMnno5Tyk4gx",
+    "name": "Come Down Angels",
+    "duration_ms": 191939,
+    "artist": "The Reverend Peyton's Big Damn Band",
+    "artistId": "6Ec85Uubz3lO7BIEvcBfZK",
+    "albumId": "0O7uzkFvFlzYwg5cCMrxP1",
+    "release_date": "2021-04-09",
+    "popularity": 11
+  },
+  {
+    "trackId": "5WRYtga1IA1iDR9kRlwJYx",
+    "name": "Jag sträcker mig mot himlen",
+    "duration_ms": 180440,
+    "artist": "Nanne",
+    "artistId": "0whAheccvr5O5qbQjNk4gi",
+    "albumId": "3CDoUVCjpSa2N08MBL8Ovy",
+    "release_date": "2005-01-01",
+    "popularity": 25
+  },
+  {
+    "trackId": "3eOYmWvienEIgHJFAWE3ZD",
+    "name": "Live Tomorrow",
+    "duration_ms": 215906,
+    "artist": "Laleh",
+    "artistId": "62QZPjYQMoo5g56FP9Webq",
+    "albumId": "64o8Xiysec8ro1PqcgYWuh",
+    "release_date": "2005-03-01",
+    "popularity": 43
+  },
+  {
+    "trackId": "6HMFtoMvv6n6Q2eOyPFyne",
+    "name": "Walk Of Life",
+    "duration_ms": 248893,
+    "artist": "Dire Straits",
+    "artistId": "0WwSkZ7LtFUFjGjMZBMt6T",
+    "albumId": "0u7sgzvlLmPLvujXxy9EeY",
+    "release_date": "1985-05-13",
+    "popularity": 73
+  },
+  {
+    "trackId": "4BXHphysv92271CtE2JPWC",
+    "name": "Österns röda ros",
+    "duration_ms": 274026,
+    "artist": "Imperiet",
+    "artistId": "4uWiErrlBRdqgKn5NrIJjg",
+    "albumId": "5VZ7OGUW33OhiBjWpZVOa4",
+    "release_date": "1986-01-01",
+    "popularity": 24
+  },
+  {
+    "trackId": "5PKrdiFDE55aKdr93iqB0i",
+    "name": "De Sålde Sina Hemman (Emigrantvisa)",
+    "duration_ms": 220066,
+    "artist": "Jan Johansson",
+    "artistId": "6DEfX2tZzx9iANmaErvLGf",
+    "albumId": "4byNirgqdVRB2GHxjxUrMO",
+    "release_date": "1961",
+    "popularity": 13
+  },
+  {
+    "trackId": "2M0tJhXhOibVQpQfXXLAFU",
+    "name": "Årstider",
+    "duration_ms": 268026,
+    "artist": "Allan Edwall",
+    "artistId": "6dLcR9Q2Lyik2rZBL2zLjs",
+    "albumId": "2EZcqLi0WqjbHOPoPzg9uG",
+    "release_date": "1979-01-01",
+    "popularity": 30
+  },
+  {
+    "trackId": "2eX3Ig8OvX9kyyE6E3opI1",
+    "name": "Kervan - Live",
+    "duration_ms": 442746,
+    "artist": "Kudsi Erguner",
+    "artistId": "5BlN5l4Xh3Hsbj91NyP9lI",
+    "albumId": "2WiXudn62LeXEusnFtXOkR",
+    "release_date": "2002-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "7E9rcVjE66zO7p4IwyhjBC",
+    "name": "Under ytan",
+    "duration_ms": 202706,
+    "artist": "Uno Svenningsson",
+    "artistId": "65OPXmm2nfPvaX1fjHo8kR",
+    "albumId": "7uBv5UUDd1VQ0oklzZ90Ne",
+    "release_date": "1994-08-27",
+    "popularity": 45
+  },
+  {
+    "trackId": "56RLkUmDfxM6RSLZpFdxov",
+    "name": "Den lilla bäcken",
+    "duration_ms": 197866,
+    "artist": "Allan Edwall",
+    "artistId": "6dLcR9Q2Lyik2rZBL2zLjs",
+    "albumId": "23tWRkGgJ7kbsBQLirgNsS",
+    "release_date": "1984-01-01",
+    "popularity": 25
+  },
+  {
+    "trackId": "3ascnOSOR5MX901ylGuhcl",
+    "name": "When a Man Loves a Woman",
+    "duration_ms": 231066,
+    "artist": "Michael Bolton",
+    "artistId": "6YHEMoNPbcheiWS2haGzkn",
+    "albumId": "3tu5RTLzk7J2Oe30hspuPm",
+    "release_date": "1991-04-23",
+    "popularity": 66
+  },
+  {
+    "trackId": "2jmCYlV3KKoBE645STf9jV",
+    "name": "Play It For The Girls - Radio Version",
+    "duration_ms": 210973,
+    "artist": "Danny Saucedo",
+    "artistId": "5tVyieWwN9j09jXUovK2zN",
+    "albumId": "23i3pdp8wRTAI1C0NgghT0",
+    "release_date": "2007-04-26",
+    "popularity": 20
+  },
+  {
+    "trackId": "5dXdy6YR6lxxC3GxBZcRWv",
+    "name": "Turistens klagan",
+    "duration_ms": 200400,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "10znRN0s0flCvHfoSYPUzA",
+    "release_date": "1980",
+    "popularity": 48
+  },
+  {
+    "trackId": "2j9B8YHcnxDwiDNZg6UXFl",
+    "name": "Mel Bedaya",
+    "duration_ms": 278546,
+    "artist": "Mohamed Hamaki",
+    "artistId": "6bb9VI1PpPTEmdgcgjTppX",
+    "albumId": "5jLCYOiVF1KkRjDJl10r4f",
+    "release_date": "2019-01-25",
+    "popularity": 45
+  },
+  {
+    "trackId": "1cQMD6GWMnQkyyWwiHJF6e",
+    "name": "Farväl Jupiter",
+    "duration_ms": 212253,
+    "artist": "Lars Winnerbäck",
+    "artistId": "33zLgL7tT1vg7eRpWYX5uI",
+    "albumId": "2Vknxdd3cMEEMtznXjN1rI",
+    "release_date": "2007-01-01",
+    "popularity": 29
+  }
+]

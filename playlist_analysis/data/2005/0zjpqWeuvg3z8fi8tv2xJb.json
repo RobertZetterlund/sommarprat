@@ -1,1 +1,132 @@
-[{"trackId":"01LWBjJwFdRSCeovqipb3D","name":"Ta mig till havet","duration_ms":268906,"artist":"Peter Lundblad","artistId":"5yuHwiLMl8Mz5onBhn5HII","albumId":"3MShWCiAoksGMLMDAwWPkT","release_date":"1986-01-01","popularity":46},{"trackId":"10AbEUWc18C5HexW69cLVh","name":"When a Man Loves a Woman","duration_ms":219333,"artist":"Mikael Rickfors","artistId":"2Q4l7xGX0Y3u1f0m4V7kG2","albumId":"4sfrExcr7mY3pZZlR5FHi5","release_date":"1991-03-14","popularity":33},{"trackId":"7441zpS44Zw1Qd9eEvUgdG","name":"Lika hopplöst förälskad","duration_ms":239013,"artist":"Tomas Ledin","artistId":"518rTAIFPwQjLUSi4Pdzzn","albumId":"3GQwj4fIpwVik3y3UqcN7g","release_date":"1996-01-01","popularity":38},{"trackId":"1JSTJqkT5qHq8MDJnJbRE1","name":"Every Breath You Take","duration_ms":253920,"artist":"The Police","artistId":"5NGO30tJxFlKixkPSgXcFE","albumId":"5W9OT0a5iZlBr83a9WMKFY","release_date":"1983-06-17","popularity":86},{"trackId":"30RZh2iIHG6QhY0XKrqfu6","name":"Uppp","duration_ms":236329,"artist":"Mighty Mosch","artistId":"1uZxiYSZzLkc7V9jyuo9BE","albumId":"5C9vGubZbA3FLITVDn2utO","release_date":"2022-07-29","popularity":18},{"trackId":"612VcBshQcy4mpB2utGc3H","name":"Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster","duration_ms":280000,"artist":"Eric Clapton","artistId":"6PAt558ZEZl0DmdXlnjMgD","albumId":"3ebyEGol0Abc7VAxYf7vEg","release_date":"1992-08-25","popularity":70},{"trackId":"1bqIqDtDl9BJYKwppd9bbK","name":"Eiffeltornet","duration_ms":186920,"artist":"Ted Gärdestad","artistId":"6zpub6jbY6CdrcqQsDq8P4","albumId":"3jDOyKSwbE7YNQorSVfvxy","release_date":"1974","popularity":48},{"trackId":"7rZ3Gqfwh5SuM5tvHK1eAq","name":"Karlavagnen","duration_ms":190423,"artist":"Rymdpojken","artistId":"6EgpIGGBsDihJL6JucBT17","albumId":"1sqRHRlSZ1rJQwTeGP5en5","release_date":"2021-03-26","popularity":59},{"trackId":"35M0GiRCpD0yzLr42MnLKO","name":"Du Käre Lille Snickerbo","duration_ms":151600,"artist":"Drängarna","artistId":"2HwptwPQ4lvpYimzOJcYoY","albumId":"1UCfBHt065Isi3jVgqbZqX","release_date":"1995-07-01","popularity":25},{"trackId":"1DzYDC7LD4dyKSp0AeLj63","name":"Kung för en dag","duration_ms":197013,"artist":"Magnus Uggla","artistId":"30j6YCWLSp59jLF7yIYZWq","albumId":"21OkRaD7g0PJOAlcS4X9N7","release_date":"1977","popularity":54},{"trackId":"0ddCwbZ9lz4heVEFHjGP1L","name":"Bara Vi E Vänner","duration_ms":214000,"artist":"Together","artistId":"4DsweshTzPayfGuIlKBqic","albumId":"0DrYIuLN5742BMVrkYr0Bt","release_date":"2020-02-24","popularity":13},{"trackId":"1nJVcX2FHJpdoWaG3BmaAq","name":"Du lever bara en gång","duration_ms":197720,"artist":"Noice","artistId":"1TVoFA7SMYs6AG3u83FP69","albumId":"6r9cz7JKR7RnQgYys5Xg0u","release_date":"2004-01-01","popularity":50},{"trackId":"2UL2wKmovIqf0GpqZ2Irjn","name":"Gabriellas sång","duration_ms":221240,"artist":"Helen Sjöholm","artistId":"6M5pgjMS5dVG0hGRh5xADx","albumId":"6e3fJwgQ1OgmVBOjlNgcd0","release_date":"2004","popularity":49}]
+[
+  {
+    "trackId": "01LWBjJwFdRSCeovqipb3D",
+    "name": "Ta mig till havet",
+    "duration_ms": 268906,
+    "artist": "Peter Lundblad",
+    "artistId": "5yuHwiLMl8Mz5onBhn5HII",
+    "albumId": "3MShWCiAoksGMLMDAwWPkT",
+    "release_date": "1986-01-01",
+    "popularity": 46
+  },
+  {
+    "trackId": "10AbEUWc18C5HexW69cLVh",
+    "name": "When a Man Loves a Woman",
+    "duration_ms": 219333,
+    "artist": "Mikael Rickfors",
+    "artistId": "2Q4l7xGX0Y3u1f0m4V7kG2",
+    "albumId": "4sfrExcr7mY3pZZlR5FHi5",
+    "release_date": "1991-03-14",
+    "popularity": 33
+  },
+  {
+    "trackId": "7441zpS44Zw1Qd9eEvUgdG",
+    "name": "Lika hopplöst förälskad",
+    "duration_ms": 239013,
+    "artist": "Tomas Ledin",
+    "artistId": "518rTAIFPwQjLUSi4Pdzzn",
+    "albumId": "3GQwj4fIpwVik3y3UqcN7g",
+    "release_date": "1996-01-01",
+    "popularity": 38
+  },
+  {
+    "trackId": "1JSTJqkT5qHq8MDJnJbRE1",
+    "name": "Every Breath You Take",
+    "duration_ms": 253920,
+    "artist": "The Police",
+    "artistId": "5NGO30tJxFlKixkPSgXcFE",
+    "albumId": "5W9OT0a5iZlBr83a9WMKFY",
+    "release_date": "1983-06-17",
+    "popularity": 86
+  },
+  {
+    "trackId": "30RZh2iIHG6QhY0XKrqfu6",
+    "name": "Uppp",
+    "duration_ms": 236329,
+    "artist": "Mighty Mosch",
+    "artistId": "1uZxiYSZzLkc7V9jyuo9BE",
+    "albumId": "5C9vGubZbA3FLITVDn2utO",
+    "release_date": "2022-07-29",
+    "popularity": 18
+  },
+  {
+    "trackId": "612VcBshQcy4mpB2utGc3H",
+    "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+    "duration_ms": 280000,
+    "artist": "Eric Clapton",
+    "artistId": "6PAt558ZEZl0DmdXlnjMgD",
+    "albumId": "3ebyEGol0Abc7VAxYf7vEg",
+    "release_date": "1992-08-25",
+    "popularity": 70
+  },
+  {
+    "trackId": "1bqIqDtDl9BJYKwppd9bbK",
+    "name": "Eiffeltornet",
+    "duration_ms": 186920,
+    "artist": "Ted Gärdestad",
+    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
+    "albumId": "3jDOyKSwbE7YNQorSVfvxy",
+    "release_date": "1974",
+    "popularity": 48
+  },
+  {
+    "trackId": "7rZ3Gqfwh5SuM5tvHK1eAq",
+    "name": "Karlavagnen",
+    "duration_ms": 190423,
+    "artist": "Rymdpojken",
+    "artistId": "6EgpIGGBsDihJL6JucBT17",
+    "albumId": "1sqRHRlSZ1rJQwTeGP5en5",
+    "release_date": "2021-03-26",
+    "popularity": 59
+  },
+  {
+    "trackId": "35M0GiRCpD0yzLr42MnLKO",
+    "name": "Du Käre Lille Snickerbo",
+    "duration_ms": 151600,
+    "artist": "Drängarna",
+    "artistId": "2HwptwPQ4lvpYimzOJcYoY",
+    "albumId": "1UCfBHt065Isi3jVgqbZqX",
+    "release_date": "1995-07-01",
+    "popularity": 25
+  },
+  {
+    "trackId": "1DzYDC7LD4dyKSp0AeLj63",
+    "name": "Kung för en dag",
+    "duration_ms": 197013,
+    "artist": "Magnus Uggla",
+    "artistId": "30j6YCWLSp59jLF7yIYZWq",
+    "albumId": "21OkRaD7g0PJOAlcS4X9N7",
+    "release_date": "1977",
+    "popularity": 54
+  },
+  {
+    "trackId": "0ddCwbZ9lz4heVEFHjGP1L",
+    "name": "Bara Vi E Vänner",
+    "duration_ms": 214000,
+    "artist": "Together",
+    "artistId": "4DsweshTzPayfGuIlKBqic",
+    "albumId": "0DrYIuLN5742BMVrkYr0Bt",
+    "release_date": "2020-02-24",
+    "popularity": 13
+  },
+  {
+    "trackId": "1nJVcX2FHJpdoWaG3BmaAq",
+    "name": "Du lever bara en gång",
+    "duration_ms": 197720,
+    "artist": "Noice",
+    "artistId": "1TVoFA7SMYs6AG3u83FP69",
+    "albumId": "6r9cz7JKR7RnQgYys5Xg0u",
+    "release_date": "2004-01-01",
+    "popularity": 50
+  },
+  {
+    "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
+    "name": "Gabriellas sång",
+    "duration_ms": 221240,
+    "artist": "Helen Sjöholm",
+    "artistId": "6M5pgjMS5dVG0hGRh5xADx",
+    "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+    "release_date": "2004",
+    "popularity": 49
+  }
+]

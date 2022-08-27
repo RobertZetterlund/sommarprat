@@ -1,1 +1,152 @@
-[{"trackId":"28P5HAF0Kll9Xd9dX4qw7A","name":"Eye of the Tiger","duration_ms":243773,"artist":"Survivor","artistId":"26bcq2nyj5GB7uRr558iQg","albumId":"1v8q5oFweXG7AH9kjCoMyX","release_date":"1982","popularity":59},{"trackId":"37BTh5g05cxBIRYMbw8g2T","name":"Rosanna","duration_ms":331200,"artist":"TOTO","artistId":"0PFtn5NtBbbUNbU9EAmIWF","albumId":"62U7xIHcID94o20Of5ea4D","release_date":"1982-04-08","popularity":72},{"trackId":"1QOALYg3rc0C6jwr5zLU3d","name":"Pagliacci: Recitar!... Vesti la guibba","duration_ms":166200,"artist":"Jussi Björling","artistId":"4FNjPnaiiXYeG2qOhVtd8A","albumId":"5kQxC90rZ5uCHF6nRDjHPW","release_date":"2011-01-25","popularity":4},{"trackId":"0JJHdObFYUq2coYiWCJI95","name":"Pagliacci, Act I: \"Recitar! Vesti la giubba\" - Remastered","duration_ms":236533,"artist":"Ruggero Leoncavallo","artistId":"72auy9NefUbGecYVrTiPzq","albumId":"7bQo7AX8yqssZe2dg8LduG","release_date":"1951","popularity":0},{"trackId":"7N3PAbqfTjSEU1edb2tY8j","name":"Jump - 2015 Remaster","duration_ms":241599,"artist":"Van Halen","artistId":"2cnMpRsOVqtPMfq7YiFE6K","albumId":"3REUXdj5OPKhuDTrTtCBU0","release_date":"1984-01-04","popularity":78},{"trackId":"0oKOAL9nhFMieApXNLYkZ8","name":"Vem vet?","duration_ms":183413,"artist":"Lisa Ekdahl","artistId":"4SJSGUVZ04tezaGrxc96EE","albumId":"7zt7vhLaqKhVuR08UZSwNP","release_date":"1994-02-21","popularity":48},{"trackId":"1ofhfV90EnYhEr7Un2fWiv","name":"Changes","duration_ms":268826,"artist":"2Pac","artistId":"1ZwdS5xdxEREPySFridCfh","albumId":"1WBZyULtlANBKed7Zf9cDP","release_date":"1998-01-01","popularity":72},{"trackId":"6kIdjk3D8XxA2UafE0THGK","name":"Too Late For Love","duration_ms":178133,"artist":"John Lundvik","artistId":"11LbPHLi2sCqOVjknt0jmW","albumId":"3LSICBxX2cFThvsEDihibS","release_date":"2019-05-10","popularity":50},{"trackId":"3cfnGXJ9bmiWvFqEO6ff8B","name":"After the Love Has Gone","duration_ms":278040,"artist":"Earth, Wind & Fire","artistId":"4QQgXkCYTt3BlENzhyNETg","albumId":"4RLVTxnuVN5ZWZqBFnaaQt","release_date":"1979-06","popularity":67},{"trackId":"6kIdjk3D8XxA2UafE0THGK","name":"Too Late For Love","duration_ms":178133,"artist":"John Lundvik","artistId":"11LbPHLi2sCqOVjknt0jmW","albumId":"3LSICBxX2cFThvsEDihibS","release_date":"2019-05-10","popularity":50},{"trackId":"5n6RDaGFSN88oRWuGtYAIN","name":"The Show Must Go On - Remastered 2011","duration_ms":277826,"artist":"Queen","artistId":"1dfeR4HaWDbWqFHLkxsg1d","albumId":"5kffKW0sSLo6tkLg1veUGC","release_date":"1991-02-05","popularity":67},{"trackId":"4UOyU7W9EiEyQrXdvhNmP2","name":"Gråt inga tårar","duration_ms":201360,"artist":"Thorleifs","artistId":"5nFrP7P3n5fP5PVFTP4hoz","albumId":"36Fccp5Kcv7e3MBwf7Wyb3","release_date":"2010-01-08","popularity":37},{"trackId":"7s25THrKz86DM225dOYwnr","name":"Respect","duration_ms":147600,"artist":"Aretha Franklin","artistId":"7nwUJBm0HE4ZxD3f5cy5ok","albumId":"5WndWfzGwCkHzAbQXVkg2V","release_date":"1967-03-10","popularity":73},{"trackId":"6RNDeRnWsRMjPdNVgupZCs","name":"I Just Called To Say I Love You","duration_ms":262240,"artist":"Stevie Wonder","artistId":"7guDJrEfX3qb6FEbdPA5qi","albumId":"04giHQ9zptJUHUvtIyxL9Z","release_date":"1999-11-23","popularity":74},{"trackId":"11ueUwj9vh0Gp7ecJ3dtOX","name":"När ingen visste","duration_ms":250305,"artist":"Martin Hederos","artistId":"0KrueSPl32yXv6KbERkUBL","albumId":"7Miw544mP86G1gFz9fSzQS","release_date":"2006-10-11","popularity":6}]
+[
+  {
+    "trackId": "28P5HAF0Kll9Xd9dX4qw7A",
+    "name": "Eye of the Tiger",
+    "duration_ms": 243773,
+    "artist": "Survivor",
+    "artistId": "26bcq2nyj5GB7uRr558iQg",
+    "albumId": "1v8q5oFweXG7AH9kjCoMyX",
+    "release_date": "1982",
+    "popularity": 59
+  },
+  {
+    "trackId": "37BTh5g05cxBIRYMbw8g2T",
+    "name": "Rosanna",
+    "duration_ms": 331200,
+    "artist": "TOTO",
+    "artistId": "0PFtn5NtBbbUNbU9EAmIWF",
+    "albumId": "62U7xIHcID94o20Of5ea4D",
+    "release_date": "1982-04-08",
+    "popularity": 72
+  },
+  {
+    "trackId": "1QOALYg3rc0C6jwr5zLU3d",
+    "name": "Pagliacci: Recitar!... Vesti la guibba",
+    "duration_ms": 166200,
+    "artist": "Jussi Björling",
+    "artistId": "4FNjPnaiiXYeG2qOhVtd8A",
+    "albumId": "5kQxC90rZ5uCHF6nRDjHPW",
+    "release_date": "2011-01-25",
+    "popularity": 4
+  },
+  {
+    "trackId": "0JJHdObFYUq2coYiWCJI95",
+    "name": "Pagliacci, Act I: \"Recitar! Vesti la giubba\" - Remastered",
+    "duration_ms": 236533,
+    "artist": "Ruggero Leoncavallo",
+    "artistId": "72auy9NefUbGecYVrTiPzq",
+    "albumId": "7bQo7AX8yqssZe2dg8LduG",
+    "release_date": "1951",
+    "popularity": 0
+  },
+  {
+    "trackId": "7N3PAbqfTjSEU1edb2tY8j",
+    "name": "Jump - 2015 Remaster",
+    "duration_ms": 241599,
+    "artist": "Van Halen",
+    "artistId": "2cnMpRsOVqtPMfq7YiFE6K",
+    "albumId": "3REUXdj5OPKhuDTrTtCBU0",
+    "release_date": "1984-01-04",
+    "popularity": 78
+  },
+  {
+    "trackId": "0oKOAL9nhFMieApXNLYkZ8",
+    "name": "Vem vet?",
+    "duration_ms": 183413,
+    "artist": "Lisa Ekdahl",
+    "artistId": "4SJSGUVZ04tezaGrxc96EE",
+    "albumId": "7zt7vhLaqKhVuR08UZSwNP",
+    "release_date": "1994-02-21",
+    "popularity": 48
+  },
+  {
+    "trackId": "1ofhfV90EnYhEr7Un2fWiv",
+    "name": "Changes",
+    "duration_ms": 268826,
+    "artist": "2Pac",
+    "artistId": "1ZwdS5xdxEREPySFridCfh",
+    "albumId": "1WBZyULtlANBKed7Zf9cDP",
+    "release_date": "1998-01-01",
+    "popularity": 72
+  },
+  {
+    "trackId": "6kIdjk3D8XxA2UafE0THGK",
+    "name": "Too Late For Love",
+    "duration_ms": 178133,
+    "artist": "John Lundvik",
+    "artistId": "11LbPHLi2sCqOVjknt0jmW",
+    "albumId": "3LSICBxX2cFThvsEDihibS",
+    "release_date": "2019-05-10",
+    "popularity": 50
+  },
+  {
+    "trackId": "3cfnGXJ9bmiWvFqEO6ff8B",
+    "name": "After the Love Has Gone",
+    "duration_ms": 278040,
+    "artist": "Earth, Wind & Fire",
+    "artistId": "4QQgXkCYTt3BlENzhyNETg",
+    "albumId": "4RLVTxnuVN5ZWZqBFnaaQt",
+    "release_date": "1979-06",
+    "popularity": 67
+  },
+  {
+    "trackId": "6kIdjk3D8XxA2UafE0THGK",
+    "name": "Too Late For Love",
+    "duration_ms": 178133,
+    "artist": "John Lundvik",
+    "artistId": "11LbPHLi2sCqOVjknt0jmW",
+    "albumId": "3LSICBxX2cFThvsEDihibS",
+    "release_date": "2019-05-10",
+    "popularity": 50
+  },
+  {
+    "trackId": "5n6RDaGFSN88oRWuGtYAIN",
+    "name": "The Show Must Go On - Remastered 2011",
+    "duration_ms": 277826,
+    "artist": "Queen",
+    "artistId": "1dfeR4HaWDbWqFHLkxsg1d",
+    "albumId": "5kffKW0sSLo6tkLg1veUGC",
+    "release_date": "1991-02-05",
+    "popularity": 67
+  },
+  {
+    "trackId": "4UOyU7W9EiEyQrXdvhNmP2",
+    "name": "Gråt inga tårar",
+    "duration_ms": 201360,
+    "artist": "Thorleifs",
+    "artistId": "5nFrP7P3n5fP5PVFTP4hoz",
+    "albumId": "36Fccp5Kcv7e3MBwf7Wyb3",
+    "release_date": "2010-01-08",
+    "popularity": 37
+  },
+  {
+    "trackId": "7s25THrKz86DM225dOYwnr",
+    "name": "Respect",
+    "duration_ms": 147600,
+    "artist": "Aretha Franklin",
+    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+    "release_date": "1967-03-10",
+    "popularity": 73
+  },
+  {
+    "trackId": "6RNDeRnWsRMjPdNVgupZCs",
+    "name": "I Just Called To Say I Love You",
+    "duration_ms": 262240,
+    "artist": "Stevie Wonder",
+    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
+    "albumId": "04giHQ9zptJUHUvtIyxL9Z",
+    "release_date": "1999-11-23",
+    "popularity": 74
+  },
+  {
+    "trackId": "11ueUwj9vh0Gp7ecJ3dtOX",
+    "name": "När ingen visste",
+    "duration_ms": 250305,
+    "artist": "Martin Hederos",
+    "artistId": "0KrueSPl32yXv6KbERkUBL",
+    "albumId": "7Miw544mP86G1gFz9fSzQS",
+    "release_date": "2006-10-11",
+    "popularity": 6
+  }
+]

@@ -1,1 +1,142 @@
-[{"trackId":"2rwn9xJsQy2i7sOWKEQrY7","name":"Some of That","duration_ms":256075,"artist":"Sylvan Paul","artistId":"4lPYVNXkOEjmC9dlniLDU1","albumId":"6fhEdGGa0tgELbJ0psbqBP","release_date":"2021-12-10","popularity":34},{"trackId":"6HKChbfE5klrUMHo3NrqzX","name":"Tell Him (Duet with Barbra Streisand)","duration_ms":291160,"artist":"Barbra Streisand","artistId":"7jmTilWYlKOuavFfmQAcu6","albumId":"1tfS7Fo1UtAxQSf256fnYs","release_date":"1997-10-24","popularity":56},{"trackId":"19lX102fNMgBgsOr9CkrQj","name":"Xeribi - Remastered","duration_ms":290016,"artist":"Ciwan Haco","artistId":"4o7TBxtRmKEAbKYFrjv3NG","albumId":"5ffzNQrzklKkAlj7BDh2i7","release_date":"1988-12-05","popularity":40},{"trackId":"5yy1Ba0P040YFPYWuXIceK","name":"Handens fem fingrar","duration_ms":216680,"artist":"Lisa Nilsson","artistId":"68QvqbdqwqqjW39YpUJHdG","albumId":"2iXjmFjERWHm3VZleAVkTq","release_date":"1995","popularity":37},{"trackId":"4rsl5OyvvZGKdM0FmBXq4z","name":"Esma'ny","duration_ms":215426,"artist":"Carole Samaha","artistId":"0CSSBwiYmYF569NxdQedQ3","albumId":"1KhaNzsVNtdGtnfhVJgIJp","release_date":"2006-06-10","popularity":46},{"trackId":"1WVjxyTSZ5UiI6TlcHyUPh","name":"Öppna landskap","duration_ms":278333,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"7aB0bPRv2elnc0Ou1whaty","release_date":"1995","popularity":49},{"trackId":"1qCQTy0fTXerET4x8VHyr9","name":"What A Wonderful World","duration_ms":137520,"artist":"Louis Armstrong","artistId":"19eLuQmk9aCobbVDHc6eek","albumId":"19UoBHanqMth4tk0rFw5RJ","release_date":"1968","popularity":72},{"trackId":"6npFgXDmQKQzowkHxp2sxw","name":"NARNIA","duration_ms":133333,"artist":"S.T","artistId":"5997IALokFdMdLd1cPxzAD","albumId":"14Kbz03nuw8V9v9Ao6806b","release_date":"2022-06-24","popularity":32},{"trackId":"25ej6zWI7jkCfQjvm5L7uJ","name":"Bila bê","duration_ms":279707,"artist":"Sivan Perwer","artistId":"5dK1aTARS2YfxGdG3zmtYu","albumId":"03VfwWuIOMUzB2t7xCDXa0","release_date":"2014","popularity":20},{"trackId":"0Q4cCU42tyYzAi6tCKSmul","name":"Nel cuore lei","duration_ms":223521,"artist":"Andrea Bocelli","artistId":"3EA9hVIzKfFiQI0Kikz2wo","albumId":"0XLMct3Q0VJmWVxqvDagnJ","release_date":"1999-01-01","popularity":29},{"trackId":"7pKfPomDEeI4TPT6EOYjn9","name":"Imagine - Remastered 2010","duration_ms":187866,"artist":"John Lennon","artistId":"4x1nvY2FN8jxqAFA0DA02H","albumId":"0xzaemKucrJpYhyl7TltAk","release_date":"1971-09-09","popularity":76},{"trackId":"7faEb3xPn6KLhbz4mxAxGy","name":"Khushboo Ki Tarah Aaya - Live In India/1984","duration_ms":280853,"artist":"Chandan Dass","artistId":"32x821SUVRiYQX0s1Ae07c","albumId":"2MMuCOR4YNHftDWIiywvZv","release_date":"2013-01-01","popularity":0},{"trackId":"44xBxtfdZRhAXWvQD7I0x7","name":"Geri Dön","duration_ms":259102,"artist":"Sezen Aksu","artistId":"64d1rUxfizSAOE9UbMnUZd","albumId":"13JKU1RyLFS73hDvWnTHr1","release_date":"1984-09-06","popularity":62},{"trackId":"2dx09a0m8tx8Xkg3BKKkzy","name":"Yar Meleke","duration_ms":228520,"artist":"Xelil Xemgin","artistId":"6xKqJwfaE6UZe2ftWyPuWc","albumId":"2HHiSnER7iYArzuKveBDht","release_date":"2005-05-30","popularity":32}]
+[
+  {
+    "trackId": "2rwn9xJsQy2i7sOWKEQrY7",
+    "name": "Some of That",
+    "duration_ms": 256075,
+    "artist": "Sylvan Paul",
+    "artistId": "4lPYVNXkOEjmC9dlniLDU1",
+    "albumId": "6fhEdGGa0tgELbJ0psbqBP",
+    "release_date": "2021-12-10",
+    "popularity": 34
+  },
+  {
+    "trackId": "6HKChbfE5klrUMHo3NrqzX",
+    "name": "Tell Him (Duet with Barbra Streisand)",
+    "duration_ms": 291160,
+    "artist": "Barbra Streisand",
+    "artistId": "7jmTilWYlKOuavFfmQAcu6",
+    "albumId": "1tfS7Fo1UtAxQSf256fnYs",
+    "release_date": "1997-10-24",
+    "popularity": 56
+  },
+  {
+    "trackId": "19lX102fNMgBgsOr9CkrQj",
+    "name": "Xeribi - Remastered",
+    "duration_ms": 290016,
+    "artist": "Ciwan Haco",
+    "artistId": "4o7TBxtRmKEAbKYFrjv3NG",
+    "albumId": "5ffzNQrzklKkAlj7BDh2i7",
+    "release_date": "1988-12-05",
+    "popularity": 40
+  },
+  {
+    "trackId": "5yy1Ba0P040YFPYWuXIceK",
+    "name": "Handens fem fingrar",
+    "duration_ms": 216680,
+    "artist": "Lisa Nilsson",
+    "artistId": "68QvqbdqwqqjW39YpUJHdG",
+    "albumId": "2iXjmFjERWHm3VZleAVkTq",
+    "release_date": "1995",
+    "popularity": 37
+  },
+  {
+    "trackId": "4rsl5OyvvZGKdM0FmBXq4z",
+    "name": "Esma'ny",
+    "duration_ms": 215426,
+    "artist": "Carole Samaha",
+    "artistId": "0CSSBwiYmYF569NxdQedQ3",
+    "albumId": "1KhaNzsVNtdGtnfhVJgIJp",
+    "release_date": "2006-06-10",
+    "popularity": 46
+  },
+  {
+    "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
+    "name": "Öppna landskap",
+    "duration_ms": 278333,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "7aB0bPRv2elnc0Ou1whaty",
+    "release_date": "1995",
+    "popularity": 49
+  },
+  {
+    "trackId": "1qCQTy0fTXerET4x8VHyr9",
+    "name": "What A Wonderful World",
+    "duration_ms": 137520,
+    "artist": "Louis Armstrong",
+    "artistId": "19eLuQmk9aCobbVDHc6eek",
+    "albumId": "19UoBHanqMth4tk0rFw5RJ",
+    "release_date": "1968",
+    "popularity": 72
+  },
+  {
+    "trackId": "6npFgXDmQKQzowkHxp2sxw",
+    "name": "NARNIA",
+    "duration_ms": 133333,
+    "artist": "S.T",
+    "artistId": "5997IALokFdMdLd1cPxzAD",
+    "albumId": "14Kbz03nuw8V9v9Ao6806b",
+    "release_date": "2022-06-24",
+    "popularity": 32
+  },
+  {
+    "trackId": "25ej6zWI7jkCfQjvm5L7uJ",
+    "name": "Bila bê",
+    "duration_ms": 279707,
+    "artist": "Sivan Perwer",
+    "artistId": "5dK1aTARS2YfxGdG3zmtYu",
+    "albumId": "03VfwWuIOMUzB2t7xCDXa0",
+    "release_date": "2014",
+    "popularity": 20
+  },
+  {
+    "trackId": "0Q4cCU42tyYzAi6tCKSmul",
+    "name": "Nel cuore lei",
+    "duration_ms": 223521,
+    "artist": "Andrea Bocelli",
+    "artistId": "3EA9hVIzKfFiQI0Kikz2wo",
+    "albumId": "0XLMct3Q0VJmWVxqvDagnJ",
+    "release_date": "1999-01-01",
+    "popularity": 29
+  },
+  {
+    "trackId": "7pKfPomDEeI4TPT6EOYjn9",
+    "name": "Imagine - Remastered 2010",
+    "duration_ms": 187866,
+    "artist": "John Lennon",
+    "artistId": "4x1nvY2FN8jxqAFA0DA02H",
+    "albumId": "0xzaemKucrJpYhyl7TltAk",
+    "release_date": "1971-09-09",
+    "popularity": 76
+  },
+  {
+    "trackId": "7faEb3xPn6KLhbz4mxAxGy",
+    "name": "Khushboo Ki Tarah Aaya - Live In India/1984",
+    "duration_ms": 280853,
+    "artist": "Chandan Dass",
+    "artistId": "32x821SUVRiYQX0s1Ae07c",
+    "albumId": "2MMuCOR4YNHftDWIiywvZv",
+    "release_date": "2013-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "44xBxtfdZRhAXWvQD7I0x7",
+    "name": "Geri Dön",
+    "duration_ms": 259102,
+    "artist": "Sezen Aksu",
+    "artistId": "64d1rUxfizSAOE9UbMnUZd",
+    "albumId": "13JKU1RyLFS73hDvWnTHr1",
+    "release_date": "1984-09-06",
+    "popularity": 62
+  },
+  {
+    "trackId": "2dx09a0m8tx8Xkg3BKKkzy",
+    "name": "Yar Meleke",
+    "duration_ms": 228520,
+    "artist": "Xelil Xemgin",
+    "artistId": "6xKqJwfaE6UZe2ftWyPuWc",
+    "albumId": "2HHiSnER7iYArzuKveBDht",
+    "release_date": "2005-05-30",
+    "popularity": 32
+  }
+]

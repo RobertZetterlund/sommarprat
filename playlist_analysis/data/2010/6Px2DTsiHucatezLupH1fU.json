@@ -1,1 +1,132 @@
-[{"trackId":"5bZYRjoYQTVsriHnkOYXgh","name":"7 Dikter, Op. 28: No. 5, Jag längtar dig","duration_ms":137266,"artist":"Hugo Alfvén","artistId":"7oFvKLdVtXPcuZdfrWpcyj","albumId":"1bE2Bs3dOiIUA20HFQ7oY4","release_date":"2000-01-01","popularity":0},{"trackId":"0ZMdTY4ZBMyagiv9GBd06j","name":"Danny Boy","duration_ms":221133,"artist":"Eva Cassidy","artistId":"6fNmOWQzfOVyHLQ2UqUQew","albumId":"6vwrKIrmOCl4MN22Xyh0Ro","release_date":"2002","popularity":39},{"trackId":"6AjznBCgVaYESh8UHsHpDz","name":"Fly Me To The Moon","duration_ms":249666,"artist":"Tony Bennett","artistId":"2lolQgalUvZDfp5vvVtTYV","albumId":"4bx05hDVTDSbFA9iFoG4FX","release_date":"1965-04-19","popularity":51},{"trackId":"0aRpkN7kqJKjkzxv6ukKLI","name":"Rockin' Daddy","duration_ms":223946,"artist":"Howlin' Wolf","artistId":"0Wxy5Qka8BN9crcFkiAxSR","albumId":"0Ja5leAzA5UZPhQC07U10l","release_date":"1971-08-01","popularity":33},{"trackId":"2B4Y9u4ERAFiMo13XPJyGP","name":"Here, There And Everywhere - Remastered 2009","duration_ms":144880,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"3PRoXYsngSwjEQWR5PsHWR","release_date":"1966-08-05","popularity":61},{"trackId":"5t9KYe0Fhd5cW6UYT4qP8f","name":"Good Vibrations - Remastered 2001","duration_ms":219026,"artist":"The Beach Boys","artistId":"3oDbviiivRWhXwIE8hxkVV","albumId":"37rNuexqEXWeSIOiJtn3A9","release_date":"1967-09-18","popularity":72},{"trackId":"5u4BcfEwGQA1hjD2gNPspc","name":"One For My Baby (And One More For The Road) - Remastered","duration_ms":265906,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"0XCMp3IS7fWPwKo372vhjr","release_date":"1992","popularity":45},{"trackId":"2csTj5jVZnsfiLzwBLV8hl","name":"Sjuttonde balladen","duration_ms":183560,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"22jr1k8N3Iz8abiAIoe0iB","release_date":"1969","popularity":35},{"trackId":"53ZgICuYK06XmKEc24rUoF","name":"Te dans mä Karlstatösera - Remastered 2020","duration_ms":178060,"artist":"Sven-Ingvars Kvartett","artistId":"5j4r97w6r8Y8qTaNZkFrjg","albumId":"6SrnF3sVngaWYxlLhKBRs5","release_date":"2020-12-01","popularity":27},{"trackId":"4LqNNFPl9lfT5deIQiRPwI","name":"Jag vill ha en egen måne","duration_ms":198400,"artist":"Ted Gärdestad","artistId":"6zpub6jbY6CdrcqQsDq8P4","albumId":"3cT50PQXXybChUGP6TDrlr","release_date":"1972-01-01","popularity":52},{"trackId":"0DQqzCHlPyKQXfF8uL01SI","name":"Sunny Afternoon - Mono Mix","duration_ms":210525,"artist":"The Kinks","artistId":"1SQRv42e4PjEYfPhS0Tk9E","albumId":"6nkmtyFpZHm7piIFJgsxxa","release_date":"1966-10-28","popularity":64},{"trackId":"6EZUcu7GHI1sS0UPQivz7e","name":"Glad Tidings - 2013 Remaster","duration_ms":220066,"artist":"Van Morrison","artistId":"44NX2ffIYHr6D4n7RaZF7A","albumId":"7diHYi0CglGJekoM3KaWBK","release_date":"1970-02","popularity":45},{"trackId":"0xLmm2bZ0jPNbvi2yYyL6j","name":"Cherry Oh Baby","duration_ms":161500,"artist":"Byron Lee","artistId":"1qerVYQkyneFNgZfMKH6HX","albumId":"02hmx1aWBdFIAIcgchse7r","release_date":"2022-07-22","popularity":0}]
+[
+  {
+    "trackId": "5bZYRjoYQTVsriHnkOYXgh",
+    "name": "7 Dikter, Op. 28: No. 5, Jag längtar dig",
+    "duration_ms": 137266,
+    "artist": "Hugo Alfvén",
+    "artistId": "7oFvKLdVtXPcuZdfrWpcyj",
+    "albumId": "1bE2Bs3dOiIUA20HFQ7oY4",
+    "release_date": "2000-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "0ZMdTY4ZBMyagiv9GBd06j",
+    "name": "Danny Boy",
+    "duration_ms": 221133,
+    "artist": "Eva Cassidy",
+    "artistId": "6fNmOWQzfOVyHLQ2UqUQew",
+    "albumId": "6vwrKIrmOCl4MN22Xyh0Ro",
+    "release_date": "2002",
+    "popularity": 39
+  },
+  {
+    "trackId": "6AjznBCgVaYESh8UHsHpDz",
+    "name": "Fly Me To The Moon",
+    "duration_ms": 249666,
+    "artist": "Tony Bennett",
+    "artistId": "2lolQgalUvZDfp5vvVtTYV",
+    "albumId": "4bx05hDVTDSbFA9iFoG4FX",
+    "release_date": "1965-04-19",
+    "popularity": 51
+  },
+  {
+    "trackId": "0aRpkN7kqJKjkzxv6ukKLI",
+    "name": "Rockin' Daddy",
+    "duration_ms": 223946,
+    "artist": "Howlin' Wolf",
+    "artistId": "0Wxy5Qka8BN9crcFkiAxSR",
+    "albumId": "0Ja5leAzA5UZPhQC07U10l",
+    "release_date": "1971-08-01",
+    "popularity": 33
+  },
+  {
+    "trackId": "2B4Y9u4ERAFiMo13XPJyGP",
+    "name": "Here, There And Everywhere - Remastered 2009",
+    "duration_ms": 144880,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "3PRoXYsngSwjEQWR5PsHWR",
+    "release_date": "1966-08-05",
+    "popularity": 61
+  },
+  {
+    "trackId": "5t9KYe0Fhd5cW6UYT4qP8f",
+    "name": "Good Vibrations - Remastered 2001",
+    "duration_ms": 219026,
+    "artist": "The Beach Boys",
+    "artistId": "3oDbviiivRWhXwIE8hxkVV",
+    "albumId": "37rNuexqEXWeSIOiJtn3A9",
+    "release_date": "1967-09-18",
+    "popularity": 72
+  },
+  {
+    "trackId": "5u4BcfEwGQA1hjD2gNPspc",
+    "name": "One For My Baby (And One More For The Road) - Remastered",
+    "duration_ms": 265906,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "0XCMp3IS7fWPwKo372vhjr",
+    "release_date": "1992",
+    "popularity": 45
+  },
+  {
+    "trackId": "2csTj5jVZnsfiLzwBLV8hl",
+    "name": "Sjuttonde balladen",
+    "duration_ms": 183560,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+    "release_date": "1969",
+    "popularity": 35
+  },
+  {
+    "trackId": "53ZgICuYK06XmKEc24rUoF",
+    "name": "Te dans mä Karlstatösera - Remastered 2020",
+    "duration_ms": 178060,
+    "artist": "Sven-Ingvars Kvartett",
+    "artistId": "5j4r97w6r8Y8qTaNZkFrjg",
+    "albumId": "6SrnF3sVngaWYxlLhKBRs5",
+    "release_date": "2020-12-01",
+    "popularity": 27
+  },
+  {
+    "trackId": "4LqNNFPl9lfT5deIQiRPwI",
+    "name": "Jag vill ha en egen måne",
+    "duration_ms": 198400,
+    "artist": "Ted Gärdestad",
+    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
+    "albumId": "3cT50PQXXybChUGP6TDrlr",
+    "release_date": "1972-01-01",
+    "popularity": 52
+  },
+  {
+    "trackId": "0DQqzCHlPyKQXfF8uL01SI",
+    "name": "Sunny Afternoon - Mono Mix",
+    "duration_ms": 210525,
+    "artist": "The Kinks",
+    "artistId": "1SQRv42e4PjEYfPhS0Tk9E",
+    "albumId": "6nkmtyFpZHm7piIFJgsxxa",
+    "release_date": "1966-10-28",
+    "popularity": 64
+  },
+  {
+    "trackId": "6EZUcu7GHI1sS0UPQivz7e",
+    "name": "Glad Tidings - 2013 Remaster",
+    "duration_ms": 220066,
+    "artist": "Van Morrison",
+    "artistId": "44NX2ffIYHr6D4n7RaZF7A",
+    "albumId": "7diHYi0CglGJekoM3KaWBK",
+    "release_date": "1970-02",
+    "popularity": 45
+  },
+  {
+    "trackId": "0xLmm2bZ0jPNbvi2yYyL6j",
+    "name": "Cherry Oh Baby",
+    "duration_ms": 161500,
+    "artist": "Byron Lee",
+    "artistId": "1qerVYQkyneFNgZfMKH6HX",
+    "albumId": "02hmx1aWBdFIAIcgchse7r",
+    "release_date": "2022-07-22",
+    "popularity": 0
+  }
+]

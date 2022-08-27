@@ -1,1 +1,142 @@
-[{"trackId":"5BxHfyGk49gqbg5BdW6FO4","name":"Summer Madness","duration_ms":257866,"artist":"Kool & The Gang","artistId":"3VNITwohbvU5Wuy5PC6dsI","albumId":"4HwJtUuaLTfl9eP8iYdIjr","release_date":"1974-09","popularity":53},{"trackId":"3j9UIPpivEXyfV67agjXKH","name":"All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)","duration_ms":276813,"artist":"2Pac","artistId":"1ZwdS5xdxEREPySFridCfh","albumId":"78iX7tMceN0FsnmabAtlOC","release_date":"1996-02-13","popularity":66},{"trackId":"1EugvrLvaw1NTKqIO98o0M","name":"Perfect","duration_ms":197613,"artist":"Liz Mitchell","artistId":"1gU2IT7MxzJwel1SXzfTKe","albumId":"3tmEsUoBTVz1n4oUZH3QKk","release_date":"2008-11-07","popularity":3},{"trackId":"7G3bk9CP8rR6C5YhPdPi3y","name":"Anita","duration_ms":235293,"artist":"Sven-Ingvars","artistId":"1nYKikHu8WWMKYVTcNyyzs","albumId":"2aZ37mVqAeNeFfQ9prvnpd","release_date":"1971-01-01","popularity":42},{"trackId":"32vmiCUgjvm9FSjiSwR4oA","name":"Einsamer Hirte","duration_ms":262026,"artist":"James Last","artistId":"5UyJW2eCOuXtyYftgbMxZG","albumId":"2Co1LTlk5iyKk9acAdBCyr","release_date":"1992-01-01","popularity":22},{"trackId":"2UqFH74S8iMeR6DNaZndEG","name":"Cutie Mark Crusaders - (Heavygrinder Remix)","duration_ms":212213,"artist":"Daniel Ingram","artistId":"78thf0BLz9PJlwnjRAl5e3","albumId":"3Y3oM0uHWHe1ZlZBltBOxc","release_date":"2015-06-23","popularity":22},{"trackId":"6YNkItkAt6kaArPFYde8Yt","name":"The Star Of My Life","duration_ms":246906,"artist":"Peaches & Herb","artistId":"6qI4LTzMRpTxRzMZPvv2C6","albumId":"1MzEdKoD6mxji2q7k3rRcw","release_date":"1978-01-01","popularity":10},{"trackId":"4GdB5M7GbwLZLouktYocFC","name":"SpottieOttieDopaliscious","duration_ms":426853,"artist":"Outkast","artistId":"1G9G7WwrXka3Z1r7aIDjI7","albumId":"5ceB3rxgXqIRpsOvVzTG28","release_date":"1998-09-29","popularity":58},{"trackId":"7G6DSfcJNYtbRz0W3bhmCO","name":"Vaggvisa","duration_ms":166560,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"6ILQonIkV5DsmZXgmzXId3","release_date":"1964","popularity":32},{"trackId":"5EVG7BvyKXsundbKVD2QsK","name":"Krama mig och dansa","duration_ms":148840,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"1xurhGkmItsZWSAoszrDnK","release_date":"1992","popularity":7},{"trackId":"2tCO0sh3X7EaL6RIxecORL","name":"Waterfalls - Remastered 2011","duration_ms":284133,"artist":"Paul McCartney","artistId":"4STHEaNw4mPZ2tzheohgXB","albumId":"48rypPDKdKiusMXKaYcEGV","release_date":"1980-05-16","popularity":33},{"trackId":"5eFFsShr8vchESCk8HGxvn","name":"Goodbye, Old Girl","duration_ms":274333,"artist":"Art Farmer","artistId":"4L9xEztn5PKQIO5WnI5W3u","albumId":"3jsIHlh7BZr0HHvzPHi84G","release_date":"1960-09-20","popularity":49},{"trackId":"39CyGKIFqMzSuynOR8uilD","name":"Baltimore","duration_ms":278866,"artist":"Nina Simone","artistId":"7G1GBhoKtEPnP86X2PvEYO","albumId":"4UjcMSiyv8QCiZ4O8gpzXS","release_date":"1978","popularity":60},{"trackId":"029vj6wZyYinTIVR5I4pEk","name":"If I Don't Have You","duration_ms":465986,"artist":"Mando Diao","artistId":"5I4eibDkC7gg0hmczTZuND","albumId":"5qOx5ZvspQMCjHQKl6KU9V","release_date":"2014-10-16","popularity":21}]
+[
+  {
+    "trackId": "5BxHfyGk49gqbg5BdW6FO4",
+    "name": "Summer Madness",
+    "duration_ms": 257866,
+    "artist": "Kool & The Gang",
+    "artistId": "3VNITwohbvU5Wuy5PC6dsI",
+    "albumId": "4HwJtUuaLTfl9eP8iYdIjr",
+    "release_date": "1974-09",
+    "popularity": 53
+  },
+  {
+    "trackId": "3j9UIPpivEXyfV67agjXKH",
+    "name": "All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)",
+    "duration_ms": 276813,
+    "artist": "2Pac",
+    "artistId": "1ZwdS5xdxEREPySFridCfh",
+    "albumId": "78iX7tMceN0FsnmabAtlOC",
+    "release_date": "1996-02-13",
+    "popularity": 66
+  },
+  {
+    "trackId": "1EugvrLvaw1NTKqIO98o0M",
+    "name": "Perfect",
+    "duration_ms": 197613,
+    "artist": "Liz Mitchell",
+    "artistId": "1gU2IT7MxzJwel1SXzfTKe",
+    "albumId": "3tmEsUoBTVz1n4oUZH3QKk",
+    "release_date": "2008-11-07",
+    "popularity": 3
+  },
+  {
+    "trackId": "7G3bk9CP8rR6C5YhPdPi3y",
+    "name": "Anita",
+    "duration_ms": 235293,
+    "artist": "Sven-Ingvars",
+    "artistId": "1nYKikHu8WWMKYVTcNyyzs",
+    "albumId": "2aZ37mVqAeNeFfQ9prvnpd",
+    "release_date": "1971-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "32vmiCUgjvm9FSjiSwR4oA",
+    "name": "Einsamer Hirte",
+    "duration_ms": 262026,
+    "artist": "James Last",
+    "artistId": "5UyJW2eCOuXtyYftgbMxZG",
+    "albumId": "2Co1LTlk5iyKk9acAdBCyr",
+    "release_date": "1992-01-01",
+    "popularity": 22
+  },
+  {
+    "trackId": "2UqFH74S8iMeR6DNaZndEG",
+    "name": "Cutie Mark Crusaders - (Heavygrinder Remix)",
+    "duration_ms": 212213,
+    "artist": "Daniel Ingram",
+    "artistId": "78thf0BLz9PJlwnjRAl5e3",
+    "albumId": "3Y3oM0uHWHe1ZlZBltBOxc",
+    "release_date": "2015-06-23",
+    "popularity": 22
+  },
+  {
+    "trackId": "6YNkItkAt6kaArPFYde8Yt",
+    "name": "The Star Of My Life",
+    "duration_ms": 246906,
+    "artist": "Peaches & Herb",
+    "artistId": "6qI4LTzMRpTxRzMZPvv2C6",
+    "albumId": "1MzEdKoD6mxji2q7k3rRcw",
+    "release_date": "1978-01-01",
+    "popularity": 10
+  },
+  {
+    "trackId": "4GdB5M7GbwLZLouktYocFC",
+    "name": "SpottieOttieDopaliscious",
+    "duration_ms": 426853,
+    "artist": "Outkast",
+    "artistId": "1G9G7WwrXka3Z1r7aIDjI7",
+    "albumId": "5ceB3rxgXqIRpsOvVzTG28",
+    "release_date": "1998-09-29",
+    "popularity": 58
+  },
+  {
+    "trackId": "7G6DSfcJNYtbRz0W3bhmCO",
+    "name": "Vaggvisa",
+    "duration_ms": 166560,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "6ILQonIkV5DsmZXgmzXId3",
+    "release_date": "1964",
+    "popularity": 32
+  },
+  {
+    "trackId": "5EVG7BvyKXsundbKVD2QsK",
+    "name": "Krama mig och dansa",
+    "duration_ms": 148840,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "1xurhGkmItsZWSAoszrDnK",
+    "release_date": "1992",
+    "popularity": 7
+  },
+  {
+    "trackId": "2tCO0sh3X7EaL6RIxecORL",
+    "name": "Waterfalls - Remastered 2011",
+    "duration_ms": 284133,
+    "artist": "Paul McCartney",
+    "artistId": "4STHEaNw4mPZ2tzheohgXB",
+    "albumId": "48rypPDKdKiusMXKaYcEGV",
+    "release_date": "1980-05-16",
+    "popularity": 33
+  },
+  {
+    "trackId": "5eFFsShr8vchESCk8HGxvn",
+    "name": "Goodbye, Old Girl",
+    "duration_ms": 274333,
+    "artist": "Art Farmer",
+    "artistId": "4L9xEztn5PKQIO5WnI5W3u",
+    "albumId": "3jsIHlh7BZr0HHvzPHi84G",
+    "release_date": "1960-09-20",
+    "popularity": 49
+  },
+  {
+    "trackId": "39CyGKIFqMzSuynOR8uilD",
+    "name": "Baltimore",
+    "duration_ms": 278866,
+    "artist": "Nina Simone",
+    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
+    "albumId": "4UjcMSiyv8QCiZ4O8gpzXS",
+    "release_date": "1978",
+    "popularity": 60
+  },
+  {
+    "trackId": "029vj6wZyYinTIVR5I4pEk",
+    "name": "If I Don't Have You",
+    "duration_ms": 465986,
+    "artist": "Mando Diao",
+    "artistId": "5I4eibDkC7gg0hmczTZuND",
+    "albumId": "5qOx5ZvspQMCjHQKl6KU9V",
+    "release_date": "2014-10-16",
+    "popularity": 21
+  }
+]

@@ -1,1 +1,142 @@
-[{"trackId":"4T6HLdP6OcAtqC6tGnQelG","name":"Everything","duration_ms":212373,"artist":"Michael Bublé","artistId":"1GxkXlMwML1oSg5eLPiAz3","albumId":"3h4pyWRJIB9ZyRKXChbX22","release_date":"2007-04-30","popularity":70},{"trackId":"6h5ohZDThxOntsT4ublBp1","name":"Sisters In Arms","duration_ms":209200,"artist":"Calaisa","artistId":"1LbgoQujblOd8uXOQeS977","albumId":"0EM1ygtvyr5WkKbjgE8W54","release_date":"2006-01-01","popularity":10},{"trackId":"6qLfdfOdfrpD1B0V67eJpy","name":"What Kind of Fool (feat. Barry Gibb)","duration_ms":245640,"artist":"Barbra Streisand","artistId":"7jmTilWYlKOuavFfmQAcu6","albumId":"5mMebbufullX8FIhpCxwCt","release_date":"1980-09-23","popularity":55},{"trackId":"3Jx2eAScg5kKsuRlbPV7i6","name":"The World's Greatest","duration_ms":277653,"artist":"R. Kelly","artistId":"2mxe0TnaNL039ysAj51xPQ","albumId":"0MxCBUUAtMnlx43WYpO2kq","release_date":"2012-07-20","popularity":48},{"trackId":"1MXnMdktScmuPOWhXe9kHw","name":"Dark Lady","duration_ms":207133,"artist":"Cher","artistId":"72OaDtakiy6yFqkt4TsiFt","albumId":"7BwcYFAOuR2sreSCOkeReI","release_date":"1992-11-09","popularity":36},{"trackId":"6vBMTR37tnbCE0lApwor1d","name":"Tomorrow","duration_ms":95360,"artist":"Aileen Quinn","artistId":"6iQtJpslakhRaRujekcE2J","albumId":"0MVa9A8tUgkPz1TJnX0C6C","release_date":"1982","popularity":43},{"trackId":"5LxvwujISqiB8vpRYv887S","name":"I Want You Back","duration_ms":176333,"artist":"The Jackson 5","artistId":"2iE18Oxc8YSumAU232n4rW","albumId":"51uoKRa8vT5SULrlF8s2t1","release_date":"1969-12-18","popularity":76},{"trackId":"7uPmQttafLiJyju14JREY4","name":"Young Americans - 2016 Remaster","duration_ms":313706,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"0lITGovWgaQGi42EfqcE5P","release_date":"1975-03-07","popularity":63},{"trackId":"5fixvo6DFufZ1SbP8rZuha","name":"Stockholm i natt","duration_ms":301306,"artist":"Peter Jöback","artistId":"3fA5zBQWEa0uzYo43SvXaj","albumId":"5GK9WjRHMb5TSDDpePfRrV","release_date":"2007-09-17","popularity":37},{"trackId":"2qPKG6rCgFXbERoth8d4VE","name":"Natalie","duration_ms":188506,"artist":"Ola","artistId":"0C2nBa56HaSisckWUDOhp0","albumId":"2esJT43JRvizMBqNIkdWlI","release_date":"2008-01-01","popularity":37},{"trackId":"3QKmIrpqVGkXCU0x7QtTzZ","name":"Som du","duration_ms":223933,"artist":"Charlotte Perrelli","artistId":"39Waq6UmqYCBEuyv8M8kjl","albumId":"499c1mIKehif5dfKDwtkbl","release_date":"2011-05-26","popularity":4},{"trackId":"0n2pjCIMKwHSXoYfEbYMfX","name":"You Are The Sunshine Of My Life","duration_ms":178200,"artist":"Stevie Wonder","artistId":"7guDJrEfX3qb6FEbdPA5qi","albumId":"3PResMqFgQYBfzTnqTKwQw","release_date":"1972-10-28","popularity":70},{"trackId":"1TANNp5ftjmxJp820cCieS","name":"Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind","duration_ms":176266,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"6FxMKrhmWJTzwx8Iscf6uv","release_date":"1966","popularity":43},{"trackId":"7zBurf3rhsN36lKddCzePD","name":"I Roslagens famn (Calle Schewens vals)","duration_ms":197933,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"0BGvun8ookKh0B1wwEBgZn","release_date":"1975","popularity":26}]
+[
+  {
+    "trackId": "4T6HLdP6OcAtqC6tGnQelG",
+    "name": "Everything",
+    "duration_ms": 212373,
+    "artist": "Michael Bublé",
+    "artistId": "1GxkXlMwML1oSg5eLPiAz3",
+    "albumId": "3h4pyWRJIB9ZyRKXChbX22",
+    "release_date": "2007-04-30",
+    "popularity": 70
+  },
+  {
+    "trackId": "6h5ohZDThxOntsT4ublBp1",
+    "name": "Sisters In Arms",
+    "duration_ms": 209200,
+    "artist": "Calaisa",
+    "artistId": "1LbgoQujblOd8uXOQeS977",
+    "albumId": "0EM1ygtvyr5WkKbjgE8W54",
+    "release_date": "2006-01-01",
+    "popularity": 10
+  },
+  {
+    "trackId": "6qLfdfOdfrpD1B0V67eJpy",
+    "name": "What Kind of Fool (feat. Barry Gibb)",
+    "duration_ms": 245640,
+    "artist": "Barbra Streisand",
+    "artistId": "7jmTilWYlKOuavFfmQAcu6",
+    "albumId": "5mMebbufullX8FIhpCxwCt",
+    "release_date": "1980-09-23",
+    "popularity": 55
+  },
+  {
+    "trackId": "3Jx2eAScg5kKsuRlbPV7i6",
+    "name": "The World's Greatest",
+    "duration_ms": 277653,
+    "artist": "R. Kelly",
+    "artistId": "2mxe0TnaNL039ysAj51xPQ",
+    "albumId": "0MxCBUUAtMnlx43WYpO2kq",
+    "release_date": "2012-07-20",
+    "popularity": 48
+  },
+  {
+    "trackId": "1MXnMdktScmuPOWhXe9kHw",
+    "name": "Dark Lady",
+    "duration_ms": 207133,
+    "artist": "Cher",
+    "artistId": "72OaDtakiy6yFqkt4TsiFt",
+    "albumId": "7BwcYFAOuR2sreSCOkeReI",
+    "release_date": "1992-11-09",
+    "popularity": 36
+  },
+  {
+    "trackId": "6vBMTR37tnbCE0lApwor1d",
+    "name": "Tomorrow",
+    "duration_ms": 95360,
+    "artist": "Aileen Quinn",
+    "artistId": "6iQtJpslakhRaRujekcE2J",
+    "albumId": "0MVa9A8tUgkPz1TJnX0C6C",
+    "release_date": "1982",
+    "popularity": 43
+  },
+  {
+    "trackId": "5LxvwujISqiB8vpRYv887S",
+    "name": "I Want You Back",
+    "duration_ms": 176333,
+    "artist": "The Jackson 5",
+    "artistId": "2iE18Oxc8YSumAU232n4rW",
+    "albumId": "51uoKRa8vT5SULrlF8s2t1",
+    "release_date": "1969-12-18",
+    "popularity": 76
+  },
+  {
+    "trackId": "7uPmQttafLiJyju14JREY4",
+    "name": "Young Americans - 2016 Remaster",
+    "duration_ms": 313706,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "0lITGovWgaQGi42EfqcE5P",
+    "release_date": "1975-03-07",
+    "popularity": 63
+  },
+  {
+    "trackId": "5fixvo6DFufZ1SbP8rZuha",
+    "name": "Stockholm i natt",
+    "duration_ms": 301306,
+    "artist": "Peter Jöback",
+    "artistId": "3fA5zBQWEa0uzYo43SvXaj",
+    "albumId": "5GK9WjRHMb5TSDDpePfRrV",
+    "release_date": "2007-09-17",
+    "popularity": 37
+  },
+  {
+    "trackId": "2qPKG6rCgFXbERoth8d4VE",
+    "name": "Natalie",
+    "duration_ms": 188506,
+    "artist": "Ola",
+    "artistId": "0C2nBa56HaSisckWUDOhp0",
+    "albumId": "2esJT43JRvizMBqNIkdWlI",
+    "release_date": "2008-01-01",
+    "popularity": 37
+  },
+  {
+    "trackId": "3QKmIrpqVGkXCU0x7QtTzZ",
+    "name": "Som du",
+    "duration_ms": 223933,
+    "artist": "Charlotte Perrelli",
+    "artistId": "39Waq6UmqYCBEuyv8M8kjl",
+    "albumId": "499c1mIKehif5dfKDwtkbl",
+    "release_date": "2011-05-26",
+    "popularity": 4
+  },
+  {
+    "trackId": "0n2pjCIMKwHSXoYfEbYMfX",
+    "name": "You Are The Sunshine Of My Life",
+    "duration_ms": 178200,
+    "artist": "Stevie Wonder",
+    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
+    "albumId": "3PResMqFgQYBfzTnqTKwQw",
+    "release_date": "1972-10-28",
+    "popularity": 70
+  },
+  {
+    "trackId": "1TANNp5ftjmxJp820cCieS",
+    "name": "Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind",
+    "duration_ms": 176266,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "6FxMKrhmWJTzwx8Iscf6uv",
+    "release_date": "1966",
+    "popularity": 43
+  },
+  {
+    "trackId": "7zBurf3rhsN36lKddCzePD",
+    "name": "I Roslagens famn (Calle Schewens vals)",
+    "duration_ms": 197933,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "0BGvun8ookKh0B1wwEBgZn",
+    "release_date": "1975",
+    "popularity": 26
+  }
+]

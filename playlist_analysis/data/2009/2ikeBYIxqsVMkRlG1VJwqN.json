@@ -1,1 +1,132 @@
-[{"trackId":"6iw4OcYSlOg7n36qOd28sv","name":"Garota de Ipanema","duration_ms":279840,"artist":"ダニエル・ジョビン","artistId":"4AJHXsT8HrEUZW60FVRTl1","albumId":"4Pi56SuDVvDZPb6cwYrJUf","release_date":"2021-06-16","popularity":10},{"trackId":"5XthcaqqGIt194paBZqHij","name":"Contradição","duration_ms":274826,"artist":"Paulo Ricardo","artistId":"07V0GWuWYmgheREejBORmk","albumId":"6fuBNWfvZT7MzILHN3C9FA","release_date":"2006-04-03","popularity":3},{"trackId":"4hHbeIIKO5Y5uLyIEbY9Gn","name":"Come Fly With Me - Remastered 1998","duration_ms":199093,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"66v9QmjAj0Wwhh2OpbU4BE","release_date":"1958","popularity":65},{"trackId":"22UDw8rSfLbUsaAGTXQ4Z8","name":"American Boy","duration_ms":284733,"artist":"Estelle","artistId":"5T0MSzX9RC5NA6gAI6irSn","albumId":"5y4Ikuc4sLtNOpanoKKqwo","release_date":"2008-03-28","popularity":78},{"trackId":"3Dy4REq8O09IlgiwuHQ3sk","name":"Waterloo","duration_ms":168960,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"5gSBDA6ufk8UZejT4XR7av","release_date":"1974","popularity":73},{"trackId":"3ZYO0HGRFFdAGeb8o7F9KC","name":"You're The First, The Last, My Everything - Single Version","duration_ms":212906,"artist":"Barry White","artistId":"3rfgbfpPSfXY40lzRK7Syt","albumId":"3t2UIcBhhF4x11PFUr5Wbf","release_date":"2018-03-23","popularity":68},{"trackId":"3N4DI1vuTSX1tz7fa2NQZw","name":"Rehab","duration_ms":214946,"artist":"Amy Winehouse","artistId":"6Q192DXotxtaysaqNPy5yR","albumId":"0E4xv5gPjykrwBgBZzI8XG","release_date":"2006","popularity":72},{"trackId":"1oV6voskqMObmxQQGAK77h","name":"Fora do Prumo","duration_ms":190014,"artist":"Charles e Willian","artistId":"4QJXAGDMEaQt9Y1RzO1EyR","albumId":"5N0igjlulVRknxsTwQQw4t","release_date":"2022-06-08","popularity":30},{"trackId":"5J2CHimS7dWYMImCHkEFaJ","name":"A Hard Day's Night - Remastered 2009","duration_ms":154200,"artist":"The Beatles","artistId":"3WrFJ7ztbogyGnTHbHJFl2","albumId":"6wCttLq0ADzkPgtRnUihLV","release_date":"1964-07-10","popularity":66},{"trackId":"1qCQTy0fTXerET4x8VHyr9","name":"What A Wonderful World","duration_ms":137520,"artist":"Louis Armstrong","artistId":"19eLuQmk9aCobbVDHc6eek","albumId":"19UoBHanqMth4tk0rFw5RJ","release_date":"1968","popularity":72},{"trackId":"4vTT30mAGogt38JwZc0oyW","name":"Money Money","duration_ms":182000,"artist":"Joel Grey","artistId":"64WqSGPXrSf1YbxoimVNbd","albumId":"28qbOp4dEh18N5u6FInyOO","release_date":"1972-02-13","popularity":40},{"trackId":"7gbeLcFJ6ASedwjTafvbkF","name":"Throwback","duration_ms":150213,"artist":"Michael Patrick Kelly","artistId":"4OGiMt96TFUKkKWf7Imlno","albumId":"2e2T5oKXDiaXasZ87IWbRC","release_date":"2021-11-12","popularity":59},{"trackId":"1c0zagykmGPDYuxJeDqZhJ","name":"World Hold on (Children of the Sky) [Radio Edit]","duration_ms":204230,"artist":"Bob Sinclar","artistId":"5YFS41yoX0YuFY39fq21oN","albumId":"5NeL55BkApry2hAFHImIhF","release_date":"2006-06-06","popularity":68}]
+[
+  {
+    "trackId": "6iw4OcYSlOg7n36qOd28sv",
+    "name": "Garota de Ipanema",
+    "duration_ms": 279840,
+    "artist": "ダニエル・ジョビン",
+    "artistId": "4AJHXsT8HrEUZW60FVRTl1",
+    "albumId": "4Pi56SuDVvDZPb6cwYrJUf",
+    "release_date": "2021-06-16",
+    "popularity": 10
+  },
+  {
+    "trackId": "5XthcaqqGIt194paBZqHij",
+    "name": "Contradição",
+    "duration_ms": 274826,
+    "artist": "Paulo Ricardo",
+    "artistId": "07V0GWuWYmgheREejBORmk",
+    "albumId": "6fuBNWfvZT7MzILHN3C9FA",
+    "release_date": "2006-04-03",
+    "popularity": 3
+  },
+  {
+    "trackId": "4hHbeIIKO5Y5uLyIEbY9Gn",
+    "name": "Come Fly With Me - Remastered 1998",
+    "duration_ms": 199093,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
+    "release_date": "1958",
+    "popularity": 65
+  },
+  {
+    "trackId": "22UDw8rSfLbUsaAGTXQ4Z8",
+    "name": "American Boy",
+    "duration_ms": 284733,
+    "artist": "Estelle",
+    "artistId": "5T0MSzX9RC5NA6gAI6irSn",
+    "albumId": "5y4Ikuc4sLtNOpanoKKqwo",
+    "release_date": "2008-03-28",
+    "popularity": 78
+  },
+  {
+    "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
+    "name": "Waterloo",
+    "duration_ms": 168960,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "5gSBDA6ufk8UZejT4XR7av",
+    "release_date": "1974",
+    "popularity": 73
+  },
+  {
+    "trackId": "3ZYO0HGRFFdAGeb8o7F9KC",
+    "name": "You're The First, The Last, My Everything - Single Version",
+    "duration_ms": 212906,
+    "artist": "Barry White",
+    "artistId": "3rfgbfpPSfXY40lzRK7Syt",
+    "albumId": "3t2UIcBhhF4x11PFUr5Wbf",
+    "release_date": "2018-03-23",
+    "popularity": 68
+  },
+  {
+    "trackId": "3N4DI1vuTSX1tz7fa2NQZw",
+    "name": "Rehab",
+    "duration_ms": 214946,
+    "artist": "Amy Winehouse",
+    "artistId": "6Q192DXotxtaysaqNPy5yR",
+    "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+    "release_date": "2006",
+    "popularity": 72
+  },
+  {
+    "trackId": "1oV6voskqMObmxQQGAK77h",
+    "name": "Fora do Prumo",
+    "duration_ms": 190014,
+    "artist": "Charles e Willian",
+    "artistId": "4QJXAGDMEaQt9Y1RzO1EyR",
+    "albumId": "5N0igjlulVRknxsTwQQw4t",
+    "release_date": "2022-06-08",
+    "popularity": 30
+  },
+  {
+    "trackId": "5J2CHimS7dWYMImCHkEFaJ",
+    "name": "A Hard Day's Night - Remastered 2009",
+    "duration_ms": 154200,
+    "artist": "The Beatles",
+    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+    "albumId": "6wCttLq0ADzkPgtRnUihLV",
+    "release_date": "1964-07-10",
+    "popularity": 66
+  },
+  {
+    "trackId": "1qCQTy0fTXerET4x8VHyr9",
+    "name": "What A Wonderful World",
+    "duration_ms": 137520,
+    "artist": "Louis Armstrong",
+    "artistId": "19eLuQmk9aCobbVDHc6eek",
+    "albumId": "19UoBHanqMth4tk0rFw5RJ",
+    "release_date": "1968",
+    "popularity": 72
+  },
+  {
+    "trackId": "4vTT30mAGogt38JwZc0oyW",
+    "name": "Money Money",
+    "duration_ms": 182000,
+    "artist": "Joel Grey",
+    "artistId": "64WqSGPXrSf1YbxoimVNbd",
+    "albumId": "28qbOp4dEh18N5u6FInyOO",
+    "release_date": "1972-02-13",
+    "popularity": 40
+  },
+  {
+    "trackId": "7gbeLcFJ6ASedwjTafvbkF",
+    "name": "Throwback",
+    "duration_ms": 150213,
+    "artist": "Michael Patrick Kelly",
+    "artistId": "4OGiMt96TFUKkKWf7Imlno",
+    "albumId": "2e2T5oKXDiaXasZ87IWbRC",
+    "release_date": "2021-11-12",
+    "popularity": 59
+  },
+  {
+    "trackId": "1c0zagykmGPDYuxJeDqZhJ",
+    "name": "World Hold on (Children of the Sky) [Radio Edit]",
+    "duration_ms": 204230,
+    "artist": "Bob Sinclar",
+    "artistId": "5YFS41yoX0YuFY39fq21oN",
+    "albumId": "5NeL55BkApry2hAFHImIhF",
+    "release_date": "2006-06-06",
+    "popularity": 68
+  }
+]

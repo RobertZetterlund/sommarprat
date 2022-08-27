@@ -1,1 +1,142 @@
-[{"trackId":"0tlT8CryDlTCWeIyndPIPq","name":"I Can't Give You Anything But Love","duration_ms":180653,"artist":"Cliff Edwards","artistId":"0aeRagbqQCOKkVURrvcMrn","albumId":"4AcLDEEtYVp0RYDfPhmC4M","release_date":"2013-01-08","popularity":6},{"trackId":"7wxLNg9adq6SxEnYmupH9y","name":"Balladen om Briggen Blue Bird av Hull","duration_ms":266146,"artist":"Evert Taube","artistId":"3fUWKywZQbkzjqydZH15fT","albumId":"09wjd4s1OE1rAxHQcicPch","release_date":"2013-01-01","popularity":18},{"trackId":"3VQ7hwiEfaHDl3AySgyaiR","name":"Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King","duration_ms":153266,"artist":"Edvard Grieg","artistId":"5ihY290YPGc3aY2xTyx7Gy","albumId":"2Rt1JJA8IvT38kzCyZksSP","release_date":"1989","popularity":46},{"trackId":"3Dy4REq8O09IlgiwuHQ3sk","name":"Waterloo","duration_ms":168960,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"5gSBDA6ufk8UZejT4XR7av","release_date":"1974","popularity":73},{"trackId":"6OuRbvP4PgbuzBIapVzmFJ","name":"Sailing","duration_ms":277960,"artist":"Rod Stewart","artistId":"2y8Jo9CKhJvtfeKOsYzRdT","albumId":"7vV3q5jE7DSuKsnHr7OmmN","release_date":"1975","popularity":67},{"trackId":"0dRcFOOCdwbEMFLeibJhxV","name":"Island In The Sun","duration_ms":201453,"artist":"Harry Belafonte","artistId":"6Tw1ktF4xMmzaLLbe98I2z","albumId":"4OdO7cL7opGFZarQCjwQGi","release_date":"2005-08-16","popularity":45},{"trackId":"34cXeE1vGOqqsfWFXrcYXQ","name":"Nina","duration_ms":174693,"artist":"Devito","artistId":"0JQ4vokBBqHxHzRb36fSWN","albumId":"1DMj3GrMVIDqCwzcZ2cGxX","release_date":"2021-01-01","popularity":47},{"trackId":"0uGqZjILElWMOQQ1WqlDUy","name":"Passionsfrukt","duration_ms":231733,"artist":"Magnus Uggla","artistId":"30j6YCWLSp59jLF7yIYZWq","albumId":"1IYSMFv8suhmE3rKTksrve","release_date":"1986-05-02","popularity":34},{"trackId":"1WVjxyTSZ5UiI6TlcHyUPh","name":"Öppna landskap","duration_ms":278333,"artist":"Ulf Lundell","artistId":"5kFHS4mQd9W0r7qDp8ec9A","albumId":"7aB0bPRv2elnc0Ou1whaty","release_date":"1995","popularity":49},{"trackId":"3BUQr6hccjOeYauXpA1C5E","name":"Kristina från Vilhelmina - Live","duration_ms":201758,"artist":"Kent-Owes","artistId":"25YlWwGx1fQ8pxf7btIYB6","albumId":"2jt18GWNQkKNLkoDutSv1j","release_date":"2021-03-01","popularity":27},{"trackId":"3dkIE8P7hvl3tHl9KSb6dA","name":"Non, je ne regrette rien","duration_ms":142280,"artist":"Édith Piaf","artistId":"1WPcVNert9hn7mHsPKDn7j","albumId":"2k3nz0I7mJzegtkooii4za","release_date":"1987-10-31","popularity":64},{"trackId":"1vxw6aYJls2oq3gW0DujAo","name":"Crazy","duration_ms":177466,"artist":"Gnarls Barkley","artistId":"5SbkVQYYzlw1kte75QIabH","albumId":"5I0Wf7lRLZArM1K2uQ1AEA","release_date":"2006-04-24","popularity":75},{"trackId":"2NOyTijV4TGvH6zIntBIYI","name":"Strauss Jr., J.: An der schönen blauen Donau, Op. 314","duration_ms":560826,"artist":"Johann Strauss II","artistId":"5goS0v24Fc1ydjCKQRwtjM","albumId":"0t4cyanhQrhIsOY624gJ0D","release_date":"2012-11-23","popularity":9},{"trackId":"5b7OgznPJJr1vHNYGyvxau","name":"Fly Me To The Moon (In Other Words)","duration_ms":147000,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"2NCtCObbmJoJnplsR5mLAl","release_date":"1962-12-10","popularity":71}]
+[
+  {
+    "trackId": "0tlT8CryDlTCWeIyndPIPq",
+    "name": "I Can't Give You Anything But Love",
+    "duration_ms": 180653,
+    "artist": "Cliff Edwards",
+    "artistId": "0aeRagbqQCOKkVURrvcMrn",
+    "albumId": "4AcLDEEtYVp0RYDfPhmC4M",
+    "release_date": "2013-01-08",
+    "popularity": 6
+  },
+  {
+    "trackId": "7wxLNg9adq6SxEnYmupH9y",
+    "name": "Balladen om Briggen Blue Bird av Hull",
+    "duration_ms": 266146,
+    "artist": "Evert Taube",
+    "artistId": "3fUWKywZQbkzjqydZH15fT",
+    "albumId": "09wjd4s1OE1rAxHQcicPch",
+    "release_date": "2013-01-01",
+    "popularity": 18
+  },
+  {
+    "trackId": "3VQ7hwiEfaHDl3AySgyaiR",
+    "name": "Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King",
+    "duration_ms": 153266,
+    "artist": "Edvard Grieg",
+    "artistId": "5ihY290YPGc3aY2xTyx7Gy",
+    "albumId": "2Rt1JJA8IvT38kzCyZksSP",
+    "release_date": "1989",
+    "popularity": 46
+  },
+  {
+    "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
+    "name": "Waterloo",
+    "duration_ms": 168960,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "5gSBDA6ufk8UZejT4XR7av",
+    "release_date": "1974",
+    "popularity": 73
+  },
+  {
+    "trackId": "6OuRbvP4PgbuzBIapVzmFJ",
+    "name": "Sailing",
+    "duration_ms": 277960,
+    "artist": "Rod Stewart",
+    "artistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+    "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+    "release_date": "1975",
+    "popularity": 67
+  },
+  {
+    "trackId": "0dRcFOOCdwbEMFLeibJhxV",
+    "name": "Island In The Sun",
+    "duration_ms": 201453,
+    "artist": "Harry Belafonte",
+    "artistId": "6Tw1ktF4xMmzaLLbe98I2z",
+    "albumId": "4OdO7cL7opGFZarQCjwQGi",
+    "release_date": "2005-08-16",
+    "popularity": 45
+  },
+  {
+    "trackId": "34cXeE1vGOqqsfWFXrcYXQ",
+    "name": "Nina",
+    "duration_ms": 174693,
+    "artist": "Devito",
+    "artistId": "0JQ4vokBBqHxHzRb36fSWN",
+    "albumId": "1DMj3GrMVIDqCwzcZ2cGxX",
+    "release_date": "2021-01-01",
+    "popularity": 47
+  },
+  {
+    "trackId": "0uGqZjILElWMOQQ1WqlDUy",
+    "name": "Passionsfrukt",
+    "duration_ms": 231733,
+    "artist": "Magnus Uggla",
+    "artistId": "30j6YCWLSp59jLF7yIYZWq",
+    "albumId": "1IYSMFv8suhmE3rKTksrve",
+    "release_date": "1986-05-02",
+    "popularity": 34
+  },
+  {
+    "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
+    "name": "Öppna landskap",
+    "duration_ms": 278333,
+    "artist": "Ulf Lundell",
+    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
+    "albumId": "7aB0bPRv2elnc0Ou1whaty",
+    "release_date": "1995",
+    "popularity": 49
+  },
+  {
+    "trackId": "3BUQr6hccjOeYauXpA1C5E",
+    "name": "Kristina från Vilhelmina - Live",
+    "duration_ms": 201758,
+    "artist": "Kent-Owes",
+    "artistId": "25YlWwGx1fQ8pxf7btIYB6",
+    "albumId": "2jt18GWNQkKNLkoDutSv1j",
+    "release_date": "2021-03-01",
+    "popularity": 27
+  },
+  {
+    "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
+    "name": "Non, je ne regrette rien",
+    "duration_ms": 142280,
+    "artist": "Édith Piaf",
+    "artistId": "1WPcVNert9hn7mHsPKDn7j",
+    "albumId": "2k3nz0I7mJzegtkooii4za",
+    "release_date": "1987-10-31",
+    "popularity": 64
+  },
+  {
+    "trackId": "1vxw6aYJls2oq3gW0DujAo",
+    "name": "Crazy",
+    "duration_ms": 177466,
+    "artist": "Gnarls Barkley",
+    "artistId": "5SbkVQYYzlw1kte75QIabH",
+    "albumId": "5I0Wf7lRLZArM1K2uQ1AEA",
+    "release_date": "2006-04-24",
+    "popularity": 75
+  },
+  {
+    "trackId": "2NOyTijV4TGvH6zIntBIYI",
+    "name": "Strauss Jr., J.: An der schönen blauen Donau, Op. 314",
+    "duration_ms": 560826,
+    "artist": "Johann Strauss II",
+    "artistId": "5goS0v24Fc1ydjCKQRwtjM",
+    "albumId": "0t4cyanhQrhIsOY624gJ0D",
+    "release_date": "2012-11-23",
+    "popularity": 9
+  },
+  {
+    "trackId": "5b7OgznPJJr1vHNYGyvxau",
+    "name": "Fly Me To The Moon (In Other Words)",
+    "duration_ms": 147000,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "2NCtCObbmJoJnplsR5mLAl",
+    "release_date": "1962-12-10",
+    "popularity": 71
+  }
+]

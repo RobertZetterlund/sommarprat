@@ -1,1 +1,132 @@
-[{"trackId":"3SOolXGudRj8IbpmEFPAj1","name":"The Best Is Yet To Come","duration_ms":207800,"artist":"Stacey Kent","artistId":"03EYBMnqSchCMp5D9qmFXi","albumId":"1A5ThMX4BueAGS2d8geecc","release_date":"2003","popularity":40},{"trackId":"6qNCLr8GOZOMZJKjfIhxiE","name":"Theme From Mahogany (Do You Know Where You're Going To) - Single Version","duration_ms":202360,"artist":"Diana Ross","artistId":"3MdG05syQeRYPPcClLaUGl","albumId":"7BHw2NR6r6GRfsaojQL9xk","release_date":"1976-02-10","popularity":52},{"trackId":"6NqifdCpPVpkOX2soLxFXq","name":"Yentl: Papa, Can You Hear Me?","duration_ms":298733,"artist":"Michel Legrand","artistId":"1EtE0iSY6iFlN9L9c53ETy","albumId":"7fYlJ1HNLfs6JIvJCJ2rqq","release_date":"1997-05-13","popularity":25},{"trackId":"0BnxL59z0vrxjEFWsDsVQw","name":"Anthem","duration_ms":185626,"artist":"Tommy Körberg","artistId":"6R21HSNyo7HVac8pyqY3T2","albumId":"69KkOFZHGPVSrF6soNzKmA","release_date":"2012-01-01","popularity":42},{"trackId":"4m9KmD3nxPBKsFWwZRmH9E","name":"Good Song","duration_ms":254626,"artist":"Salem Al Fakir","artistId":"2MRmHQ6G4vEIIlMYbMLlQ5","albumId":"3wl5JnJ067OSNpHH0H5VXp","release_date":"2007-01-22","popularity":33},{"trackId":"6OxRX1BuBlQVH3Vi9qAJ74","name":"Lembra de Mim","duration_ms":261399,"artist":"Ivan Lins","artistId":"64neTfIIdYKNhJ9zxoz3jF","albumId":"5MDYh5HUDq8qfGFlIyGf0I","release_date":"1995","popularity":48},{"trackId":"0YaiLHNZkmOtLKqDl3nWGL","name":"Someone Took The Words Away","duration_ms":274866,"artist":"Elvis Costello","artistId":"2BGRfQgtzikz1pzAD0kaEn","albumId":"6JNPHPomTtS1DaDCr9Gr72","release_date":"2003-09-23","popularity":10},{"trackId":"0bE7ZKQFFEGulhcZtrHrWK","name":"Up On The Roof - Live At The Troubadour / 2007","duration_ms":249146,"artist":"Carole King","artistId":"319yZVtYM9MBGqmSQnMyY6","albumId":"5lDM7HLXPBVDxFru5s1lgd","release_date":"2010-01-01","popularity":25},{"trackId":"2OBy39ZgnKIB5bz95ahnuz","name":"Bananeira (Banana Tree)","duration_ms":192493,"artist":"Sérgio Mendes","artistId":"65c5si0ePAwkOCn4M35Ho7","albumId":"4sceISkCvRuDbd74AtKeEH","release_date":"2006-01-01","popularity":37},{"trackId":"6zwBDwepkToYE2axXVK3cw","name":"Shaking the Tree - Live","duration_ms":348066,"artist":"Peter Gabriel","artistId":"7C4sUpWGlTy7IANjruj02I","albumId":"6fM1m2d2Hkt4LZMN2EGP9K","release_date":"2013","popularity":12},{"trackId":"4ZoBC5MhSEzuknIgAkBaoT","name":"My Life","duration_ms":284000,"artist":"Billy Joel","artistId":"6zFYqv1mOsgBRQbae3JJ9e","albumId":"1HmCO8VK98AU6EXPOjGYyI","release_date":"1978-10-13","popularity":71},{"trackId":"4UDaVq5tm2mQ6tNgWydhUX","name":"Kom igen Lena!","duration_ms":231320,"artist":"Håkan Hellström","artistId":"3H7Ez7cwaYw4L3ELy4v3Lc","albumId":"2x39gXdLwYnTxJyxExXpTj","release_date":"2002-10-28","popularity":52},{"trackId":"0SlyoOqJ8E3uiBC6KkujYl","name":"Vackert Så (Duett Med Håkan Hellström)","duration_ms":247240,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"6ipaFvEKsfSvsTERiPiMFb","release_date":"2007-11-19","popularity":14}]
+[
+  {
+    "trackId": "3SOolXGudRj8IbpmEFPAj1",
+    "name": "The Best Is Yet To Come",
+    "duration_ms": 207800,
+    "artist": "Stacey Kent",
+    "artistId": "03EYBMnqSchCMp5D9qmFXi",
+    "albumId": "1A5ThMX4BueAGS2d8geecc",
+    "release_date": "2003",
+    "popularity": 40
+  },
+  {
+    "trackId": "6qNCLr8GOZOMZJKjfIhxiE",
+    "name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version",
+    "duration_ms": 202360,
+    "artist": "Diana Ross",
+    "artistId": "3MdG05syQeRYPPcClLaUGl",
+    "albumId": "7BHw2NR6r6GRfsaojQL9xk",
+    "release_date": "1976-02-10",
+    "popularity": 52
+  },
+  {
+    "trackId": "6NqifdCpPVpkOX2soLxFXq",
+    "name": "Yentl: Papa, Can You Hear Me?",
+    "duration_ms": 298733,
+    "artist": "Michel Legrand",
+    "artistId": "1EtE0iSY6iFlN9L9c53ETy",
+    "albumId": "7fYlJ1HNLfs6JIvJCJ2rqq",
+    "release_date": "1997-05-13",
+    "popularity": 25
+  },
+  {
+    "trackId": "0BnxL59z0vrxjEFWsDsVQw",
+    "name": "Anthem",
+    "duration_ms": 185626,
+    "artist": "Tommy Körberg",
+    "artistId": "6R21HSNyo7HVac8pyqY3T2",
+    "albumId": "69KkOFZHGPVSrF6soNzKmA",
+    "release_date": "2012-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "4m9KmD3nxPBKsFWwZRmH9E",
+    "name": "Good Song",
+    "duration_ms": 254626,
+    "artist": "Salem Al Fakir",
+    "artistId": "2MRmHQ6G4vEIIlMYbMLlQ5",
+    "albumId": "3wl5JnJ067OSNpHH0H5VXp",
+    "release_date": "2007-01-22",
+    "popularity": 33
+  },
+  {
+    "trackId": "6OxRX1BuBlQVH3Vi9qAJ74",
+    "name": "Lembra de Mim",
+    "duration_ms": 261399,
+    "artist": "Ivan Lins",
+    "artistId": "64neTfIIdYKNhJ9zxoz3jF",
+    "albumId": "5MDYh5HUDq8qfGFlIyGf0I",
+    "release_date": "1995",
+    "popularity": 48
+  },
+  {
+    "trackId": "0YaiLHNZkmOtLKqDl3nWGL",
+    "name": "Someone Took The Words Away",
+    "duration_ms": 274866,
+    "artist": "Elvis Costello",
+    "artistId": "2BGRfQgtzikz1pzAD0kaEn",
+    "albumId": "6JNPHPomTtS1DaDCr9Gr72",
+    "release_date": "2003-09-23",
+    "popularity": 10
+  },
+  {
+    "trackId": "0bE7ZKQFFEGulhcZtrHrWK",
+    "name": "Up On The Roof - Live At The Troubadour / 2007",
+    "duration_ms": 249146,
+    "artist": "Carole King",
+    "artistId": "319yZVtYM9MBGqmSQnMyY6",
+    "albumId": "5lDM7HLXPBVDxFru5s1lgd",
+    "release_date": "2010-01-01",
+    "popularity": 25
+  },
+  {
+    "trackId": "2OBy39ZgnKIB5bz95ahnuz",
+    "name": "Bananeira (Banana Tree)",
+    "duration_ms": 192493,
+    "artist": "Sérgio Mendes",
+    "artistId": "65c5si0ePAwkOCn4M35Ho7",
+    "albumId": "4sceISkCvRuDbd74AtKeEH",
+    "release_date": "2006-01-01",
+    "popularity": 37
+  },
+  {
+    "trackId": "6zwBDwepkToYE2axXVK3cw",
+    "name": "Shaking the Tree - Live",
+    "duration_ms": 348066,
+    "artist": "Peter Gabriel",
+    "artistId": "7C4sUpWGlTy7IANjruj02I",
+    "albumId": "6fM1m2d2Hkt4LZMN2EGP9K",
+    "release_date": "2013",
+    "popularity": 12
+  },
+  {
+    "trackId": "4ZoBC5MhSEzuknIgAkBaoT",
+    "name": "My Life",
+    "duration_ms": 284000,
+    "artist": "Billy Joel",
+    "artistId": "6zFYqv1mOsgBRQbae3JJ9e",
+    "albumId": "1HmCO8VK98AU6EXPOjGYyI",
+    "release_date": "1978-10-13",
+    "popularity": 71
+  },
+  {
+    "trackId": "4UDaVq5tm2mQ6tNgWydhUX",
+    "name": "Kom igen Lena!",
+    "duration_ms": 231320,
+    "artist": "Håkan Hellström",
+    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+    "albumId": "2x39gXdLwYnTxJyxExXpTj",
+    "release_date": "2002-10-28",
+    "popularity": 52
+  },
+  {
+    "trackId": "0SlyoOqJ8E3uiBC6KkujYl",
+    "name": "Vackert Så (Duett Med Håkan Hellström)",
+    "duration_ms": 247240,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "6ipaFvEKsfSvsTERiPiMFb",
+    "release_date": "2007-11-19",
+    "popularity": 14
+  }
+]

@@ -1,1 +1,122 @@
-[{"trackId":"6hW8QrypZ70yZAnEWy7AfS","name":"Den Allersidste Vals","duration_ms":221240,"artist":"Lone Kellermann & Rockbandet","artistId":"7rzd8aNFyPgVVIaACNjyvP","albumId":"1ABUwR2jsKJZf0pyDPkIWc","release_date":"1979-04-29","popularity":5},{"trackId":"3ix6K4wZY29bCujrSznwFZ","name":"Let's Dance - 2018 Remaster","duration_ms":457675,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"4NwG11AsDJluT732lSjMrV","release_date":"1983-04-14","popularity":71},{"trackId":"0lIoY4ZQsdn5QzhraM9o9u","name":"Because the Night","duration_ms":204800,"artist":"Patti Smith","artistId":"0vYkHhJ48Bs3jWcvZXvOrP","albumId":"1p6cWoueuunhpgy6131zAd","release_date":"1978","popularity":69},{"trackId":"42JtcEN0XW2mCGsMENWUox","name":"Vintersaga","duration_ms":238093,"artist":"Monica Törnell","artistId":"2mzcDa3H7xrIikDmF9rFwN","albumId":"1KrXeJBmvnDj3weYsWIFpQ","release_date":"1984-01-01","popularity":34},{"trackId":"6CqaWFOMbRL7bH3S2Py2Ds","name":"Mano A Mano","duration_ms":231944,"artist":"Hugo Díaz","artistId":"45sN1U4xtrQEyzIaOUmavp","albumId":"4LwgNmDKop1Q5gWVBN4tow","release_date":"2001","popularity":35},{"trackId":"3gv6PIx6Q6mciJt9VNGK9B","name":"Smoochy","duration_ms":222440,"artist":"Benny Anderssons Orkester","artistId":"5KcJSAFLAEtpCkK5EI0KLS","albumId":"5Dn6JTtOLT6sonWezAN7gi","release_date":"2016-06-10","popularity":15},{"trackId":"1CtAzw53AIXKjAemxy4b1j","name":"Beds Are Burning - Remastered","duration_ms":255680,"artist":"Midnight Oil","artistId":"72KyoXzp0NOQij6OcmZUxk","albumId":"243XzHQegX82bPnUVQ0SPV","release_date":"1987-10-02","popularity":72},{"trackId":"5JN70TFrbjjHVJkKfSXlAn","name":"O Mary Don't You Weep","duration_ms":364973,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"2O3avtEIE8xX9F0zcIjIZI","release_date":"2006","popularity":39},{"trackId":"1VucjBWweQcxgy9Gk3lFFK","name":"Sväs Märtas kulning/Fårlock","duration_ms":156358,"artist":"Lena Willemark","artistId":"6wMtEmlrb01e5JqZi62T4y","albumId":"2T7WS39fBsOYSERd1wX3yN","release_date":"2006-09-06","popularity":10},{"trackId":"1zOZAPt0NuqgD2gcVQ2LkU","name":"Jag Har Drömt...","duration_ms":203621,"artist":"Sofia Karlsson","artistId":"2tKGISNf0bei0IxfLQGMEt","albumId":"6zbpOJwPVtns1Yqnn9lmW1","release_date":"2005-02-23","popularity":19},{"trackId":"3WwR9Miesu2KRXioSZZhZQ","name":"Olyckskorpen","duration_ms":145384,"artist":"Stadens Hjältar","artistId":"50Zve92H088BcqrEVYyjaQ","albumId":"66mpLBOrv0XK6UB7Ibldw4","release_date":"2018-04-06","popularity":32},{"trackId":"3gU99TkodSD4pMC5wlTYkn","name":"Watch The Sunrise","duration_ms":224000,"artist":"Big Star","artistId":"3UvcmAOZt64oKpP95f6MMM","albumId":"0TDBkNvMV4M4VUaDtQit7i","release_date":"1972","popularity":30}]
+[
+  {
+    "trackId": "6hW8QrypZ70yZAnEWy7AfS",
+    "name": "Den Allersidste Vals",
+    "duration_ms": 221240,
+    "artist": "Lone Kellermann & Rockbandet",
+    "artistId": "7rzd8aNFyPgVVIaACNjyvP",
+    "albumId": "1ABUwR2jsKJZf0pyDPkIWc",
+    "release_date": "1979-04-29",
+    "popularity": 5
+  },
+  {
+    "trackId": "3ix6K4wZY29bCujrSznwFZ",
+    "name": "Let's Dance - 2018 Remaster",
+    "duration_ms": 457675,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "4NwG11AsDJluT732lSjMrV",
+    "release_date": "1983-04-14",
+    "popularity": 71
+  },
+  {
+    "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
+    "name": "Because the Night",
+    "duration_ms": 204800,
+    "artist": "Patti Smith",
+    "artistId": "0vYkHhJ48Bs3jWcvZXvOrP",
+    "albumId": "1p6cWoueuunhpgy6131zAd",
+    "release_date": "1978",
+    "popularity": 69
+  },
+  {
+    "trackId": "42JtcEN0XW2mCGsMENWUox",
+    "name": "Vintersaga",
+    "duration_ms": 238093,
+    "artist": "Monica Törnell",
+    "artistId": "2mzcDa3H7xrIikDmF9rFwN",
+    "albumId": "1KrXeJBmvnDj3weYsWIFpQ",
+    "release_date": "1984-01-01",
+    "popularity": 34
+  },
+  {
+    "trackId": "6CqaWFOMbRL7bH3S2Py2Ds",
+    "name": "Mano A Mano",
+    "duration_ms": 231944,
+    "artist": "Hugo Díaz",
+    "artistId": "45sN1U4xtrQEyzIaOUmavp",
+    "albumId": "4LwgNmDKop1Q5gWVBN4tow",
+    "release_date": "2001",
+    "popularity": 35
+  },
+  {
+    "trackId": "3gv6PIx6Q6mciJt9VNGK9B",
+    "name": "Smoochy",
+    "duration_ms": 222440,
+    "artist": "Benny Anderssons Orkester",
+    "artistId": "5KcJSAFLAEtpCkK5EI0KLS",
+    "albumId": "5Dn6JTtOLT6sonWezAN7gi",
+    "release_date": "2016-06-10",
+    "popularity": 15
+  },
+  {
+    "trackId": "1CtAzw53AIXKjAemxy4b1j",
+    "name": "Beds Are Burning - Remastered",
+    "duration_ms": 255680,
+    "artist": "Midnight Oil",
+    "artistId": "72KyoXzp0NOQij6OcmZUxk",
+    "albumId": "243XzHQegX82bPnUVQ0SPV",
+    "release_date": "1987-10-02",
+    "popularity": 72
+  },
+  {
+    "trackId": "5JN70TFrbjjHVJkKfSXlAn",
+    "name": "O Mary Don't You Weep",
+    "duration_ms": 364973,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "2O3avtEIE8xX9F0zcIjIZI",
+    "release_date": "2006",
+    "popularity": 39
+  },
+  {
+    "trackId": "1VucjBWweQcxgy9Gk3lFFK",
+    "name": "Sväs Märtas kulning/Fårlock",
+    "duration_ms": 156358,
+    "artist": "Lena Willemark",
+    "artistId": "6wMtEmlrb01e5JqZi62T4y",
+    "albumId": "2T7WS39fBsOYSERd1wX3yN",
+    "release_date": "2006-09-06",
+    "popularity": 10
+  },
+  {
+    "trackId": "1zOZAPt0NuqgD2gcVQ2LkU",
+    "name": "Jag Har Drömt...",
+    "duration_ms": 203621,
+    "artist": "Sofia Karlsson",
+    "artistId": "2tKGISNf0bei0IxfLQGMEt",
+    "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+    "release_date": "2005-02-23",
+    "popularity": 19
+  },
+  {
+    "trackId": "3WwR9Miesu2KRXioSZZhZQ",
+    "name": "Olyckskorpen",
+    "duration_ms": 145384,
+    "artist": "Stadens Hjältar",
+    "artistId": "50Zve92H088BcqrEVYyjaQ",
+    "albumId": "66mpLBOrv0XK6UB7Ibldw4",
+    "release_date": "2018-04-06",
+    "popularity": 32
+  },
+  {
+    "trackId": "3gU99TkodSD4pMC5wlTYkn",
+    "name": "Watch The Sunrise",
+    "duration_ms": 224000,
+    "artist": "Big Star",
+    "artistId": "3UvcmAOZt64oKpP95f6MMM",
+    "albumId": "0TDBkNvMV4M4VUaDtQit7i",
+    "release_date": "1972",
+    "popularity": 30
+  }
+]

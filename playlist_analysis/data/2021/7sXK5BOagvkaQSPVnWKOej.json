@@ -1,1 +1,132 @@
-[{"trackId":"7mWjpvTwmfLFerwPefpjdW","name":"Say You'll Be There","duration_ms":237933,"artist":"Spice Girls","artistId":"0uq5PttqEjj3IH1bzwcrXF","albumId":"2VGc0pYg78a2d96SQfcW6P","release_date":"2022-08-05","popularity":0},{"trackId":"73TXMz1i41sGfOuDg8gH4L","name":"Candle In The Wind - 2018 Version","duration_ms":198777,"artist":"Ed Sheeran","artistId":"6eUKZXaKkcviH0Ku9w2n3V","albumId":"2w667CqWz0JWkhxP7IfijA","release_date":"2018-04-06","popularity":60},{"trackId":"6apPqjW8ezpKEicAkkBlvO","name":"Islands in the Stream","duration_ms":250053,"artist":"Dolly Parton","artistId":"32vWCbZh0xZ4o9gkz4PsEU","albumId":"0Qk5ItMuEF2zYoHN8J1sKT","release_date":"2016-08-19","popularity":67},{"trackId":"6fSNK6QlZskYmKTvJnNH5P","name":"You'll Never Walk Alone","duration_ms":159546,"artist":"Gerry & The Pacemakers","artistId":"3UmBeGyNwr4iDWi1vTxWi8","albumId":"3OCG92zQDHdHMBRSoRR6jH","release_date":"1997-10-13","popularity":58},{"trackId":"2tUBqZG2AbRi7Q0BIrVrEj","name":"I Wanna Dance with Somebody (Who Loves Me)","duration_ms":291293,"artist":"Whitney Houston","artistId":"6XpaIBNiVzIetEPCWDvAFP","albumId":"5Vdzprr5cOqXQo44eHeV7t","release_date":"1987-06-02","popularity":81},{"trackId":"1nQRg9q9uwALGzouOX5OyQ","name":"Radio Ga Ga - Remastered 2011","duration_ms":348226,"artist":"Queen","artistId":"1dfeR4HaWDbWqFHLkxsg1d","albumId":"5RS9xkMuDmeVISqGDBmnSa","release_date":"1984-02-27","popularity":74},{"trackId":"7G3bk9CP8rR6C5YhPdPi3y","name":"Anita","duration_ms":235293,"artist":"Sven-Ingvars","artistId":"1nYKikHu8WWMKYVTcNyyzs","albumId":"2aZ37mVqAeNeFfQ9prvnpd","release_date":"1971-01-01","popularity":42},{"trackId":"0IffXbmCnEHyXnX4Rzl2bV","name":"It Takes Two (with Tina Turner)","duration_ms":252720,"artist":"Rod Stewart","artistId":"2y8Jo9CKhJvtfeKOsYzRdT","albumId":"1ZFC0iOKUp4M16eHXVaeG4","release_date":"1991-01-01","popularity":42},{"trackId":"7zrpoAJte9o12TzawqgdD0","name":"Con te partirò","duration_ms":250983,"artist":"Andrea Bocelli","artistId":"3EA9hVIzKfFiQI0Kikz2wo","albumId":"3uARqNN4bYqts3Ltg5Jku3","release_date":"1995-01-01","popularity":66},{"trackId":"0pwpljbDUUab6ykDfE40xL","name":"L'Emozione Non Ha voce (Io Non So Parlar Dámore) - Remastered","duration_ms":249133,"artist":"Adriano Celentano","artistId":"1yq9UuPp5DIb5w6eswGbKV","albumId":"0CWYt6XEAFX2NqnbD0Mx8k","release_date":"2018-09-15","popularity":40},{"trackId":"498EPEgZQ1jDoYHYpvF68F","name":"To All the Girls I've Loved Before","duration_ms":213960,"artist":"Julio Iglesias","artistId":"4etuCZVdP8yiNPn4xf0ie5","albumId":"472BgcjV7Cp8526Nhp8YVn","release_date":"1984","popularity":51},{"trackId":"61YmcO62hGjw1RlDHZ0XEg","name":"Behöver inte dig idag","duration_ms":180640,"artist":"Clara Klingenström","artistId":"3tl4Gc5RItD9lE6MJZGhLg","albumId":"55SFrQkALH1L1oXmkHG4Is","release_date":"2021-02-27","popularity":50},{"trackId":"0T15kUJIrTXNcYEbbSfgSz","name":"Skymningsland 2 år","duration_ms":200202,"artist":"Christer Lindén","artistId":"22TST7xLtdJRnaBO86usT6","albumId":"7JI33tzVVNRBElrBO9E6wy","release_date":"2020-11-13","popularity":1}]
+[
+  {
+    "trackId": "7mWjpvTwmfLFerwPefpjdW",
+    "name": "Say You'll Be There",
+    "duration_ms": 237933,
+    "artist": "Spice Girls",
+    "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+    "albumId": "2VGc0pYg78a2d96SQfcW6P",
+    "release_date": "2022-08-05",
+    "popularity": 0
+  },
+  {
+    "trackId": "73TXMz1i41sGfOuDg8gH4L",
+    "name": "Candle In The Wind - 2018 Version",
+    "duration_ms": 198777,
+    "artist": "Ed Sheeran",
+    "artistId": "6eUKZXaKkcviH0Ku9w2n3V",
+    "albumId": "2w667CqWz0JWkhxP7IfijA",
+    "release_date": "2018-04-06",
+    "popularity": 60
+  },
+  {
+    "trackId": "6apPqjW8ezpKEicAkkBlvO",
+    "name": "Islands in the Stream",
+    "duration_ms": 250053,
+    "artist": "Dolly Parton",
+    "artistId": "32vWCbZh0xZ4o9gkz4PsEU",
+    "albumId": "0Qk5ItMuEF2zYoHN8J1sKT",
+    "release_date": "2016-08-19",
+    "popularity": 67
+  },
+  {
+    "trackId": "6fSNK6QlZskYmKTvJnNH5P",
+    "name": "You'll Never Walk Alone",
+    "duration_ms": 159546,
+    "artist": "Gerry & The Pacemakers",
+    "artistId": "3UmBeGyNwr4iDWi1vTxWi8",
+    "albumId": "3OCG92zQDHdHMBRSoRR6jH",
+    "release_date": "1997-10-13",
+    "popularity": 58
+  },
+  {
+    "trackId": "2tUBqZG2AbRi7Q0BIrVrEj",
+    "name": "I Wanna Dance with Somebody (Who Loves Me)",
+    "duration_ms": 291293,
+    "artist": "Whitney Houston",
+    "artistId": "6XpaIBNiVzIetEPCWDvAFP",
+    "albumId": "5Vdzprr5cOqXQo44eHeV7t",
+    "release_date": "1987-06-02",
+    "popularity": 81
+  },
+  {
+    "trackId": "1nQRg9q9uwALGzouOX5OyQ",
+    "name": "Radio Ga Ga - Remastered 2011",
+    "duration_ms": 348226,
+    "artist": "Queen",
+    "artistId": "1dfeR4HaWDbWqFHLkxsg1d",
+    "albumId": "5RS9xkMuDmeVISqGDBmnSa",
+    "release_date": "1984-02-27",
+    "popularity": 74
+  },
+  {
+    "trackId": "7G3bk9CP8rR6C5YhPdPi3y",
+    "name": "Anita",
+    "duration_ms": 235293,
+    "artist": "Sven-Ingvars",
+    "artistId": "1nYKikHu8WWMKYVTcNyyzs",
+    "albumId": "2aZ37mVqAeNeFfQ9prvnpd",
+    "release_date": "1971-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "0IffXbmCnEHyXnX4Rzl2bV",
+    "name": "It Takes Two (with Tina Turner)",
+    "duration_ms": 252720,
+    "artist": "Rod Stewart",
+    "artistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+    "albumId": "1ZFC0iOKUp4M16eHXVaeG4",
+    "release_date": "1991-01-01",
+    "popularity": 42
+  },
+  {
+    "trackId": "7zrpoAJte9o12TzawqgdD0",
+    "name": "Con te partirò",
+    "duration_ms": 250983,
+    "artist": "Andrea Bocelli",
+    "artistId": "3EA9hVIzKfFiQI0Kikz2wo",
+    "albumId": "3uARqNN4bYqts3Ltg5Jku3",
+    "release_date": "1995-01-01",
+    "popularity": 66
+  },
+  {
+    "trackId": "0pwpljbDUUab6ykDfE40xL",
+    "name": "L'Emozione Non Ha voce (Io Non So Parlar Dámore) - Remastered",
+    "duration_ms": 249133,
+    "artist": "Adriano Celentano",
+    "artistId": "1yq9UuPp5DIb5w6eswGbKV",
+    "albumId": "0CWYt6XEAFX2NqnbD0Mx8k",
+    "release_date": "2018-09-15",
+    "popularity": 40
+  },
+  {
+    "trackId": "498EPEgZQ1jDoYHYpvF68F",
+    "name": "To All the Girls I've Loved Before",
+    "duration_ms": 213960,
+    "artist": "Julio Iglesias",
+    "artistId": "4etuCZVdP8yiNPn4xf0ie5",
+    "albumId": "472BgcjV7Cp8526Nhp8YVn",
+    "release_date": "1984",
+    "popularity": 51
+  },
+  {
+    "trackId": "61YmcO62hGjw1RlDHZ0XEg",
+    "name": "Behöver inte dig idag",
+    "duration_ms": 180640,
+    "artist": "Clara Klingenström",
+    "artistId": "3tl4Gc5RItD9lE6MJZGhLg",
+    "albumId": "55SFrQkALH1L1oXmkHG4Is",
+    "release_date": "2021-02-27",
+    "popularity": 50
+  },
+  {
+    "trackId": "0T15kUJIrTXNcYEbbSfgSz",
+    "name": "Skymningsland 2 år",
+    "duration_ms": 200202,
+    "artist": "Christer Lindén",
+    "artistId": "22TST7xLtdJRnaBO86usT6",
+    "albumId": "7JI33tzVVNRBElrBO9E6wy",
+    "release_date": "2020-11-13",
+    "popularity": 1
+  }
+]

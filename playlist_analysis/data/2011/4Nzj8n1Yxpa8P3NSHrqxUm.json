@@ -1,1 +1,142 @@
-[{"trackId":"7Mge9K9r5MOhKxhMHJXhj6","name":"Vaggsången","duration_ms":85250,"artist":"Adamson","artistId":"0Le0xLw8bmlimx2cMVtVbr","albumId":"7GCnsnbNzKKrKtz3RSeQcc","release_date":"2020-03-27","popularity":43},{"trackId":"7xCuG10zZW1uvWD2Hvw3pd","name":"Hail Smiling Morn","duration_ms":133626,"artist":"Besses o' th' Barn","artistId":"6uZAN3RbV6ob3jwVk2YvWQ","albumId":"42QuQlbB4gIg69ChCP6MPh","release_date":"2010-07-09","popularity":1},{"trackId":"7HJfSnwgPN3ZIP4WKCFQ1t","name":"Estou Aqui Arrependido","duration_ms":162943,"artist":"ELLIAS SANTOS","artistId":"0miMQT4ajWQwpUzXD98ZgT","albumId":"0RWNYiHm13pI4uw0beKXkW","release_date":"2022-07-27","popularity":46},{"trackId":"3gXV3hlrEZilq4DclC2hoW","name":"Ack, Värmeland du sköna","duration_ms":158360,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"47nQ3PCd0XrIHzFIaamtEi","release_date":"1996-05-28","popularity":33},{"trackId":"3xPsqMJQNM14OrawTBiK4G","name":"Din låt","duration_ms":165045,"artist":"Victor Leksell","artistId":"6RJXSfbIkEMoCJ8GAg2dVO","albumId":"02kiu1rc2gbB4gAEtPWqi7","release_date":"2022-07-22","popularity":77},{"trackId":"0czUXv0QZt0kIRU6onj8WS","name":"Superhjältedisco","duration_ms":139164,"artist":"Duran & Mollan","artistId":"1XzY7sGHYarxdc9u2Ks1oU","albumId":"0gPRXTxJBUXrYNL3BGFa19","release_date":"2021-07-06","popularity":15},{"trackId":"0nnkb75BbeIhmslmSI0ZVb","name":"En hund som jag","duration_ms":180880,"artist":"Bröderna Lindgren","artistId":"6O8LVdLFSAwvmKP80QUQZb","albumId":"1gN75FSg0Ze56IbycQYsYg","release_date":"2007-11-28","popularity":6},{"trackId":"5Hvotgo03sDEDnlNEAHgGe","name":"Wacko Dane","duration_ms":50769,"artist":"Billy Williams","artistId":"5PBjEDSSVVyBRqcOSZAlYx","albumId":"3ZwMiwpWPONEDK6CFTutuW","release_date":"2022-05-16","popularity":6},{"trackId":"70Owsfm89HOUxy7csSaFbB","name":"The Charleston","duration_ms":156028,"artist":"Winifred Atwell","artistId":"6dYjED5eEVQa9RdtR0KAM4","albumId":"0ZhE01AjiijgaJX03UeCLz","release_date":"2000-01-01","popularity":0},{"trackId":"7w3nPuPZAetfok6htc7NDw","name":"General Bussig","duration_ms":397720,"artist":"Åke Hodell","artistId":"37rqysc9Ybf639pz8lIkGV","albumId":"0NAeUvpsajZJs5UYVxTENY","release_date":"2004-11-14","popularity":2},{"trackId":"4PWUgGyBVJSKq4w8A6eG1H","name":"Händerna upp","duration_ms":181290,"artist":"Duran & Mollan","artistId":"1XzY7sGHYarxdc9u2Ks1oU","albumId":"5CxJuFvyZ8ESWrRU6bKoXv","release_date":"2014-06-30","popularity":42},{"trackId":"2GWeltkBZiTNfZCiEcTXUp","name":"Ingrid Dardels polska","duration_ms":100826,"artist":"Cornelis Vreeswijk","artistId":"5B38ZGYpd0msq1LKOyz2r9","albumId":"22jr1k8N3Iz8abiAIoe0iB","release_date":"1969","popularity":11},{"trackId":"15WPlZmWSohw5DxkPR7EEx","name":"Novelty Accordion","duration_ms":153680,"artist":"Erik Franks trio","artistId":"3zKGs04LJIVkQiHX8fQYV4","albumId":"2SRtOEK6qonDlUVaSKmw3a","release_date":"2009-09-08","popularity":14},{"trackId":"1gqwG8K3QImKfcp7PuU46L","name":"Turandot, Act 3: Nessun Dorma","duration_ms":186866,"artist":"Jussi Björling","artistId":"4FNjPnaiiXYeG2qOhVtd8A","albumId":"6sEwucq1e5IBhFpX4Uf5qD","release_date":"2011-01-25","popularity":21}]
+[
+  {
+    "trackId": "7Mge9K9r5MOhKxhMHJXhj6",
+    "name": "Vaggsången",
+    "duration_ms": 85250,
+    "artist": "Adamson",
+    "artistId": "0Le0xLw8bmlimx2cMVtVbr",
+    "albumId": "7GCnsnbNzKKrKtz3RSeQcc",
+    "release_date": "2020-03-27",
+    "popularity": 43
+  },
+  {
+    "trackId": "7xCuG10zZW1uvWD2Hvw3pd",
+    "name": "Hail Smiling Morn",
+    "duration_ms": 133626,
+    "artist": "Besses o' th' Barn",
+    "artistId": "6uZAN3RbV6ob3jwVk2YvWQ",
+    "albumId": "42QuQlbB4gIg69ChCP6MPh",
+    "release_date": "2010-07-09",
+    "popularity": 1
+  },
+  {
+    "trackId": "7HJfSnwgPN3ZIP4WKCFQ1t",
+    "name": "Estou Aqui Arrependido",
+    "duration_ms": 162943,
+    "artist": "ELLIAS SANTOS",
+    "artistId": "0miMQT4ajWQwpUzXD98ZgT",
+    "albumId": "0RWNYiHm13pI4uw0beKXkW",
+    "release_date": "2022-07-27",
+    "popularity": 46
+  },
+  {
+    "trackId": "3gXV3hlrEZilq4DclC2hoW",
+    "name": "Ack, Värmeland du sköna",
+    "duration_ms": 158360,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "47nQ3PCd0XrIHzFIaamtEi",
+    "release_date": "1996-05-28",
+    "popularity": 33
+  },
+  {
+    "trackId": "3xPsqMJQNM14OrawTBiK4G",
+    "name": "Din låt",
+    "duration_ms": 165045,
+    "artist": "Victor Leksell",
+    "artistId": "6RJXSfbIkEMoCJ8GAg2dVO",
+    "albumId": "02kiu1rc2gbB4gAEtPWqi7",
+    "release_date": "2022-07-22",
+    "popularity": 77
+  },
+  {
+    "trackId": "0czUXv0QZt0kIRU6onj8WS",
+    "name": "Superhjältedisco",
+    "duration_ms": 139164,
+    "artist": "Duran & Mollan",
+    "artistId": "1XzY7sGHYarxdc9u2Ks1oU",
+    "albumId": "0gPRXTxJBUXrYNL3BGFa19",
+    "release_date": "2021-07-06",
+    "popularity": 15
+  },
+  {
+    "trackId": "0nnkb75BbeIhmslmSI0ZVb",
+    "name": "En hund som jag",
+    "duration_ms": 180880,
+    "artist": "Bröderna Lindgren",
+    "artistId": "6O8LVdLFSAwvmKP80QUQZb",
+    "albumId": "1gN75FSg0Ze56IbycQYsYg",
+    "release_date": "2007-11-28",
+    "popularity": 6
+  },
+  {
+    "trackId": "5Hvotgo03sDEDnlNEAHgGe",
+    "name": "Wacko Dane",
+    "duration_ms": 50769,
+    "artist": "Billy Williams",
+    "artistId": "5PBjEDSSVVyBRqcOSZAlYx",
+    "albumId": "3ZwMiwpWPONEDK6CFTutuW",
+    "release_date": "2022-05-16",
+    "popularity": 6
+  },
+  {
+    "trackId": "70Owsfm89HOUxy7csSaFbB",
+    "name": "The Charleston",
+    "duration_ms": 156028,
+    "artist": "Winifred Atwell",
+    "artistId": "6dYjED5eEVQa9RdtR0KAM4",
+    "albumId": "0ZhE01AjiijgaJX03UeCLz",
+    "release_date": "2000-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "7w3nPuPZAetfok6htc7NDw",
+    "name": "General Bussig",
+    "duration_ms": 397720,
+    "artist": "Åke Hodell",
+    "artistId": "37rqysc9Ybf639pz8lIkGV",
+    "albumId": "0NAeUvpsajZJs5UYVxTENY",
+    "release_date": "2004-11-14",
+    "popularity": 2
+  },
+  {
+    "trackId": "4PWUgGyBVJSKq4w8A6eG1H",
+    "name": "Händerna upp",
+    "duration_ms": 181290,
+    "artist": "Duran & Mollan",
+    "artistId": "1XzY7sGHYarxdc9u2Ks1oU",
+    "albumId": "5CxJuFvyZ8ESWrRU6bKoXv",
+    "release_date": "2014-06-30",
+    "popularity": 42
+  },
+  {
+    "trackId": "2GWeltkBZiTNfZCiEcTXUp",
+    "name": "Ingrid Dardels polska",
+    "duration_ms": 100826,
+    "artist": "Cornelis Vreeswijk",
+    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
+    "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+    "release_date": "1969",
+    "popularity": 11
+  },
+  {
+    "trackId": "15WPlZmWSohw5DxkPR7EEx",
+    "name": "Novelty Accordion",
+    "duration_ms": 153680,
+    "artist": "Erik Franks trio",
+    "artistId": "3zKGs04LJIVkQiHX8fQYV4",
+    "albumId": "2SRtOEK6qonDlUVaSKmw3a",
+    "release_date": "2009-09-08",
+    "popularity": 14
+  },
+  {
+    "trackId": "1gqwG8K3QImKfcp7PuU46L",
+    "name": "Turandot, Act 3: Nessun Dorma",
+    "duration_ms": 186866,
+    "artist": "Jussi Björling",
+    "artistId": "4FNjPnaiiXYeG2qOhVtd8A",
+    "albumId": "6sEwucq1e5IBhFpX4Uf5qD",
+    "release_date": "2011-01-25",
+    "popularity": 21
+  }
+]

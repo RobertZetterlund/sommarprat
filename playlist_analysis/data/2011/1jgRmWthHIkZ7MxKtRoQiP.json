@@ -1,1 +1,152 @@
-[{"trackId":"0lIoY4ZQsdn5QzhraM9o9u","name":"Because the Night","duration_ms":204800,"artist":"Patti Smith","artistId":"0vYkHhJ48Bs3jWcvZXvOrP","albumId":"1p6cWoueuunhpgy6131zAd","release_date":"1978","popularity":69},{"trackId":"5H6Jp0syB5yEPk7SWYdlmk","name":"The Wind Cries Mary","duration_ms":200733,"artist":"Jimi Hendrix","artistId":"776Uo845nYHJpNaStv1Ds4","albumId":"7rSZXXHHvIhF4yUFdaOCy9","release_date":"1967-05-12","popularity":62},{"trackId":"6OWonlTNJpRwNRI6IYDY0a","name":"World Of Pain","duration_ms":182453,"artist":"Cream","artistId":"74oJ4qxwOZvX6oSsu1DGnw","albumId":"3W6CI0Lw7lElAPID2Fd3B4","release_date":"1967-11","popularity":45},{"trackId":"1xKQbqQtQWrtQS47fUJBtl","name":"Piece of My Heart","duration_ms":253333,"artist":"Big Brother & The Holding Company","artistId":"4J69yWrKwWJgjv3DKTZcGo","albumId":"2rogKfOpmCFuqNhtGKf2dX","release_date":"1968-08-12","popularity":69},{"trackId":"0shPL30nWzEkJzPZ2Anb2m","name":"Do The Strand","duration_ms":243800,"artist":"Roxy Music","artistId":"3fhOTtm0LBJ3Ojn4hIljLo","albumId":"6gKMWnGptVs6yT2MgCxw29","release_date":"1973-03-01","popularity":41},{"trackId":"2H82AQCQNc4TH2yVcYKIID","name":"Cowboy Song","duration_ms":314440,"artist":"Thin Lizzy","artistId":"6biWAmrHyiMkX49LkycGqQ","albumId":"6Cf545T4jkaiyvMnTRPOB2","release_date":"1976","popularity":54},{"trackId":"4p4XgwnZJCYOWSvz8ruiOY","name":"Take the \"A\" Train","duration_ms":332640,"artist":"Duke Ellington","artistId":"4F7Q5NV6h5TSwCainz8S5A","albumId":"4s4871wdDSNm19UrKt10jW","release_date":"2008-07-14","popularity":43},{"trackId":"5lmGgOaixbwKHtpTzjJoqx","name":"Under My Thumb","duration_ms":221533,"artist":"The Rolling Stones","artistId":"22bE4uQ6baNwSHPVcDxLCe","albumId":"72qrnM4yUNMDDlWiqKc8iY","release_date":"1966-04-15","popularity":65},{"trackId":"3Dy4REq8O09IlgiwuHQ3sk","name":"Waterloo","duration_ms":168960,"artist":"ABBA","artistId":"0LcJLqbBmaGUft1e9Mm8HV","albumId":"5gSBDA6ufk8UZejT4XR7av","release_date":"1974","popularity":73},{"trackId":"7nemcVsXVFZF01iqpIIo2Y","name":"It's a Long Way to the Top (If You Wanna Rock 'N' Roll)","duration_ms":301226,"artist":"AC/DC","artistId":"711MCceyCBcFnzjGY4Q7Un","albumId":"19AUoKWRAaQYrggVvdQnqq","release_date":"1976-05-14","popularity":71},{"trackId":"6kvoHl80mfCVTv7XnZkjQn","name":"It Must Have Been Love - From the Film \"Pretty Woman\"","duration_ms":258786,"artist":"Roxette","artistId":"2SHhfs4BiDxGQ3oxqf0UHY","albumId":"3dWX1xFUaalRlaaVpe4EPF","release_date":"1990-05-20","popularity":75},{"trackId":"5moTxUGPZXgGmosl4rIELm","name":"Anarchy In The UK","duration_ms":212480,"artist":"Sex Pistols","artistId":"1u7kkVrr14iBvrpYnZILJR","albumId":"6ggO3YVhyonYuFWUPBRyIv","release_date":"1977-10-27","popularity":61},{"trackId":"26PwuMotZqcczKLHi4Htz3","name":"Redemption Song","duration_ms":233560,"artist":"Bob Marley & The Wailers","artistId":"2QsynagSdAqZj3U9HgDzjD","albumId":"321q9p7PELvzcFAWxml7VX","release_date":"1980","popularity":70},{"trackId":"6E6xVYnTszA6MerlIuiAoY","name":"The Wrestler","duration_ms":230786,"artist":"Bruce Springsteen","artistId":"3eqjTLE0HfPfh78zjh6TqT","albumId":"5xJSVog0izeuIURO34C7Qa","release_date":"2009-01-27","popularity":40},{"trackId":"6uhIL0PAovizquifzGH0lk","name":"Signatur - från \"Bamse - världens starkaste björn\"","duration_ms":33506,"artist":"Bamse","artistId":"1V95p8oWGxXlpcFRYqXV3w","albumId":"7J4mWRMb0BY6LVUGKLhtzg","release_date":"1973-01-01","popularity":49}]
+[
+  {
+    "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
+    "name": "Because the Night",
+    "duration_ms": 204800,
+    "artist": "Patti Smith",
+    "artistId": "0vYkHhJ48Bs3jWcvZXvOrP",
+    "albumId": "1p6cWoueuunhpgy6131zAd",
+    "release_date": "1978",
+    "popularity": 69
+  },
+  {
+    "trackId": "5H6Jp0syB5yEPk7SWYdlmk",
+    "name": "The Wind Cries Mary",
+    "duration_ms": 200733,
+    "artist": "Jimi Hendrix",
+    "artistId": "776Uo845nYHJpNaStv1Ds4",
+    "albumId": "7rSZXXHHvIhF4yUFdaOCy9",
+    "release_date": "1967-05-12",
+    "popularity": 62
+  },
+  {
+    "trackId": "6OWonlTNJpRwNRI6IYDY0a",
+    "name": "World Of Pain",
+    "duration_ms": 182453,
+    "artist": "Cream",
+    "artistId": "74oJ4qxwOZvX6oSsu1DGnw",
+    "albumId": "3W6CI0Lw7lElAPID2Fd3B4",
+    "release_date": "1967-11",
+    "popularity": 45
+  },
+  {
+    "trackId": "1xKQbqQtQWrtQS47fUJBtl",
+    "name": "Piece of My Heart",
+    "duration_ms": 253333,
+    "artist": "Big Brother & The Holding Company",
+    "artistId": "4J69yWrKwWJgjv3DKTZcGo",
+    "albumId": "2rogKfOpmCFuqNhtGKf2dX",
+    "release_date": "1968-08-12",
+    "popularity": 69
+  },
+  {
+    "trackId": "0shPL30nWzEkJzPZ2Anb2m",
+    "name": "Do The Strand",
+    "duration_ms": 243800,
+    "artist": "Roxy Music",
+    "artistId": "3fhOTtm0LBJ3Ojn4hIljLo",
+    "albumId": "6gKMWnGptVs6yT2MgCxw29",
+    "release_date": "1973-03-01",
+    "popularity": 41
+  },
+  {
+    "trackId": "2H82AQCQNc4TH2yVcYKIID",
+    "name": "Cowboy Song",
+    "duration_ms": 314440,
+    "artist": "Thin Lizzy",
+    "artistId": "6biWAmrHyiMkX49LkycGqQ",
+    "albumId": "6Cf545T4jkaiyvMnTRPOB2",
+    "release_date": "1976",
+    "popularity": 54
+  },
+  {
+    "trackId": "4p4XgwnZJCYOWSvz8ruiOY",
+    "name": "Take the \"A\" Train",
+    "duration_ms": 332640,
+    "artist": "Duke Ellington",
+    "artistId": "4F7Q5NV6h5TSwCainz8S5A",
+    "albumId": "4s4871wdDSNm19UrKt10jW",
+    "release_date": "2008-07-14",
+    "popularity": 43
+  },
+  {
+    "trackId": "5lmGgOaixbwKHtpTzjJoqx",
+    "name": "Under My Thumb",
+    "duration_ms": 221533,
+    "artist": "The Rolling Stones",
+    "artistId": "22bE4uQ6baNwSHPVcDxLCe",
+    "albumId": "72qrnM4yUNMDDlWiqKc8iY",
+    "release_date": "1966-04-15",
+    "popularity": 65
+  },
+  {
+    "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
+    "name": "Waterloo",
+    "duration_ms": 168960,
+    "artist": "ABBA",
+    "artistId": "0LcJLqbBmaGUft1e9Mm8HV",
+    "albumId": "5gSBDA6ufk8UZejT4XR7av",
+    "release_date": "1974",
+    "popularity": 73
+  },
+  {
+    "trackId": "7nemcVsXVFZF01iqpIIo2Y",
+    "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+    "duration_ms": 301226,
+    "artist": "AC/DC",
+    "artistId": "711MCceyCBcFnzjGY4Q7Un",
+    "albumId": "19AUoKWRAaQYrggVvdQnqq",
+    "release_date": "1976-05-14",
+    "popularity": 71
+  },
+  {
+    "trackId": "6kvoHl80mfCVTv7XnZkjQn",
+    "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+    "duration_ms": 258786,
+    "artist": "Roxette",
+    "artistId": "2SHhfs4BiDxGQ3oxqf0UHY",
+    "albumId": "3dWX1xFUaalRlaaVpe4EPF",
+    "release_date": "1990-05-20",
+    "popularity": 75
+  },
+  {
+    "trackId": "5moTxUGPZXgGmosl4rIELm",
+    "name": "Anarchy In The UK",
+    "duration_ms": 212480,
+    "artist": "Sex Pistols",
+    "artistId": "1u7kkVrr14iBvrpYnZILJR",
+    "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+    "release_date": "1977-10-27",
+    "popularity": 61
+  },
+  {
+    "trackId": "26PwuMotZqcczKLHi4Htz3",
+    "name": "Redemption Song",
+    "duration_ms": 233560,
+    "artist": "Bob Marley & The Wailers",
+    "artistId": "2QsynagSdAqZj3U9HgDzjD",
+    "albumId": "321q9p7PELvzcFAWxml7VX",
+    "release_date": "1980",
+    "popularity": 70
+  },
+  {
+    "trackId": "6E6xVYnTszA6MerlIuiAoY",
+    "name": "The Wrestler",
+    "duration_ms": 230786,
+    "artist": "Bruce Springsteen",
+    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
+    "albumId": "5xJSVog0izeuIURO34C7Qa",
+    "release_date": "2009-01-27",
+    "popularity": 40
+  },
+  {
+    "trackId": "6uhIL0PAovizquifzGH0lk",
+    "name": "Signatur - från \"Bamse - världens starkaste björn\"",
+    "duration_ms": 33506,
+    "artist": "Bamse",
+    "artistId": "1V95p8oWGxXlpcFRYqXV3w",
+    "albumId": "7J4mWRMb0BY6LVUGKLhtzg",
+    "release_date": "1973-01-01",
+    "popularity": 49
+  }
+]

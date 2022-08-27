@@ -1,1 +1,142 @@
-[{"trackId":"6LCEyZZHFF4ebF1Mike1s5","name":"Not Ready to Make Nice","duration_ms":237296,"artist":"The Chicks","artistId":"25IG9fa7cbdmCIy3OnuH57","albumId":"2NeJdEWras0uSuzLPlJZk5","release_date":"2006-05-23","popularity":62},{"trackId":"5st5644IlBmKiiRE73UsoZ","name":"Fuck You","duration_ms":219893,"artist":"Lily Allen","artistId":"13saZpZnCDWOI9D4IJhp1f","albumId":"2OUL7ZpAvUaWyylZ1lXpe0","release_date":"2009-01-26","popularity":62},{"trackId":"30lfkjYbhJRm6WMYwPaFbI","name":"Easy - Acoustic","duration_ms":208337,"artist":"Seinabo Sey","artistId":"4X0v8sFoDZ6rIfkeOeVm2i","albumId":"3Y3JrYtUIiqBBXMXmpVCs6","release_date":"2016-12-30","popularity":30},{"trackId":"5Vxbco7QhrigI5UQ6elXZl","name":"Jag behöver Dig","duration_ms":263586,"artist":"Sofia Andersson","artistId":"3k453pI3D7rEqbMDKzLATN","albumId":"1WD3ZV6lbXEe3j8MLGvZYB","release_date":"2017-02-24","popularity":15},{"trackId":"6m2qba8pt0oa13nBLA2Nt2","name":"Survivor / I Will Survive","duration_ms":208573,"artist":"Glee Cast","artistId":"0SCbttzoZTnLFebDYmAWCm","albumId":"082BH67sSIDefLxUp8GgNm","release_date":"2012-08-28","popularity":55},{"trackId":"53c27O0rmDrrIvp6mdl5dd","name":"Det vet bara jag","duration_ms":217600,"artist":"Totta Näslund","artistId":"09J3FFqSQVVQlrakhizg9v","albumId":"1kxKEXOtXBjYLZH2RoKKBV","release_date":"2001-07-13","popularity":30},{"trackId":"1ZqHjApl3pfzwjweTfMi0g","name":"Violet Hill","duration_ms":222653,"artist":"Coldplay","artistId":"4gzpq5DPGxSnKTe4SA8HAU","albumId":"1CEODgTmTwLyabvwd7HBty","release_date":"2008-05-26","popularity":62},{"trackId":"7ueP5u2qkdZbIPN2YA6LR0","name":"Sail","duration_ms":259093,"artist":"AWOLNATION","artistId":"4njdEjTnLfcGImKZu1iSrz","albumId":"1fag8cnc5p4Umu4tRMAsLv","release_date":"2011-03-15","popularity":74},{"trackId":"1ZhrShLNwL3t15KFtS8OYp","name":"Hon har ett sätt (Det hon vill ha) - Ny version 2011","duration_ms":237360,"artist":"Plura","artistId":"22nh3odnqoCNzVGwEzXILk","albumId":"0EEDXHv5jBeRHECadnp4ll","release_date":"2011-10-21","popularity":30},{"trackId":"0Kho40qp8dvZYbzXHMfSWN","name":"Dunka mig gul & blå","duration_ms":215826,"artist":"Frida","artistId":"29arE7CIm3KL75GqajaVa7","albumId":"3wQt5GZaTTHejBLUZzJgIr","release_date":"2008","popularity":42},{"trackId":"1brpdmqkx3kSxyqzqXfW7J","name":"Heaven's On Fire","duration_ms":201400,"artist":"KISS","artistId":"07XSN3sPlIlB2L2XNcTwJw","albumId":"5UxqSH1Ez2fcNVLqvLjsgB","release_date":"1984-09-13","popularity":67},{"trackId":"3fUgLmFQy2xkJpHyYWS8kX","name":"Ta Min Vals - Take This Waltz","duration_ms":372600,"artist":"Ebba Forsberg","artistId":"1MrzQFvlf2DzLE1qP98ehk","albumId":"7xKD57aCrKYPPVYoX6PGAN","release_date":"2009-09-16","popularity":28},{"trackId":"5pMczL7XliMaUYYuciD6Hq","name":"Innan livet är förbi","duration_ms":163375,"artist":"Andreas Mattsson","artistId":"4Vff2nZMDC6c3GBrVL2y8n","albumId":"2ZzPrsqXxPL5mUbeJuTsj2","release_date":"2021-12-18","popularity":31},{"trackId":"2L93TdW2GMue1H2zlkt30F","name":"Suzanne","duration_ms":229293,"artist":"Leonard Cohen","artistId":"5l8VQNuIg0turYE1VtM9zV","albumId":"2Aiv0ThDpFa7lqHphR6MN5","release_date":"1967-12-27","popularity":63}]
+[
+  {
+    "trackId": "6LCEyZZHFF4ebF1Mike1s5",
+    "name": "Not Ready to Make Nice",
+    "duration_ms": 237296,
+    "artist": "The Chicks",
+    "artistId": "25IG9fa7cbdmCIy3OnuH57",
+    "albumId": "2NeJdEWras0uSuzLPlJZk5",
+    "release_date": "2006-05-23",
+    "popularity": 62
+  },
+  {
+    "trackId": "5st5644IlBmKiiRE73UsoZ",
+    "name": "Fuck You",
+    "duration_ms": 219893,
+    "artist": "Lily Allen",
+    "artistId": "13saZpZnCDWOI9D4IJhp1f",
+    "albumId": "2OUL7ZpAvUaWyylZ1lXpe0",
+    "release_date": "2009-01-26",
+    "popularity": 62
+  },
+  {
+    "trackId": "30lfkjYbhJRm6WMYwPaFbI",
+    "name": "Easy - Acoustic",
+    "duration_ms": 208337,
+    "artist": "Seinabo Sey",
+    "artistId": "4X0v8sFoDZ6rIfkeOeVm2i",
+    "albumId": "3Y3JrYtUIiqBBXMXmpVCs6",
+    "release_date": "2016-12-30",
+    "popularity": 30
+  },
+  {
+    "trackId": "5Vxbco7QhrigI5UQ6elXZl",
+    "name": "Jag behöver Dig",
+    "duration_ms": 263586,
+    "artist": "Sofia Andersson",
+    "artistId": "3k453pI3D7rEqbMDKzLATN",
+    "albumId": "1WD3ZV6lbXEe3j8MLGvZYB",
+    "release_date": "2017-02-24",
+    "popularity": 15
+  },
+  {
+    "trackId": "6m2qba8pt0oa13nBLA2Nt2",
+    "name": "Survivor / I Will Survive",
+    "duration_ms": 208573,
+    "artist": "Glee Cast",
+    "artistId": "0SCbttzoZTnLFebDYmAWCm",
+    "albumId": "082BH67sSIDefLxUp8GgNm",
+    "release_date": "2012-08-28",
+    "popularity": 55
+  },
+  {
+    "trackId": "53c27O0rmDrrIvp6mdl5dd",
+    "name": "Det vet bara jag",
+    "duration_ms": 217600,
+    "artist": "Totta Näslund",
+    "artistId": "09J3FFqSQVVQlrakhizg9v",
+    "albumId": "1kxKEXOtXBjYLZH2RoKKBV",
+    "release_date": "2001-07-13",
+    "popularity": 30
+  },
+  {
+    "trackId": "1ZqHjApl3pfzwjweTfMi0g",
+    "name": "Violet Hill",
+    "duration_ms": 222653,
+    "artist": "Coldplay",
+    "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+    "albumId": "1CEODgTmTwLyabvwd7HBty",
+    "release_date": "2008-05-26",
+    "popularity": 62
+  },
+  {
+    "trackId": "7ueP5u2qkdZbIPN2YA6LR0",
+    "name": "Sail",
+    "duration_ms": 259093,
+    "artist": "AWOLNATION",
+    "artistId": "4njdEjTnLfcGImKZu1iSrz",
+    "albumId": "1fag8cnc5p4Umu4tRMAsLv",
+    "release_date": "2011-03-15",
+    "popularity": 74
+  },
+  {
+    "trackId": "1ZhrShLNwL3t15KFtS8OYp",
+    "name": "Hon har ett sätt (Det hon vill ha) - Ny version 2011",
+    "duration_ms": 237360,
+    "artist": "Plura",
+    "artistId": "22nh3odnqoCNzVGwEzXILk",
+    "albumId": "0EEDXHv5jBeRHECadnp4ll",
+    "release_date": "2011-10-21",
+    "popularity": 30
+  },
+  {
+    "trackId": "0Kho40qp8dvZYbzXHMfSWN",
+    "name": "Dunka mig gul & blå",
+    "duration_ms": 215826,
+    "artist": "Frida",
+    "artistId": "29arE7CIm3KL75GqajaVa7",
+    "albumId": "3wQt5GZaTTHejBLUZzJgIr",
+    "release_date": "2008",
+    "popularity": 42
+  },
+  {
+    "trackId": "1brpdmqkx3kSxyqzqXfW7J",
+    "name": "Heaven's On Fire",
+    "duration_ms": 201400,
+    "artist": "KISS",
+    "artistId": "07XSN3sPlIlB2L2XNcTwJw",
+    "albumId": "5UxqSH1Ez2fcNVLqvLjsgB",
+    "release_date": "1984-09-13",
+    "popularity": 67
+  },
+  {
+    "trackId": "3fUgLmFQy2xkJpHyYWS8kX",
+    "name": "Ta Min Vals - Take This Waltz",
+    "duration_ms": 372600,
+    "artist": "Ebba Forsberg",
+    "artistId": "1MrzQFvlf2DzLE1qP98ehk",
+    "albumId": "7xKD57aCrKYPPVYoX6PGAN",
+    "release_date": "2009-09-16",
+    "popularity": 28
+  },
+  {
+    "trackId": "5pMczL7XliMaUYYuciD6Hq",
+    "name": "Innan livet är förbi",
+    "duration_ms": 163375,
+    "artist": "Andreas Mattsson",
+    "artistId": "4Vff2nZMDC6c3GBrVL2y8n",
+    "albumId": "2ZzPrsqXxPL5mUbeJuTsj2",
+    "release_date": "2021-12-18",
+    "popularity": 31
+  },
+  {
+    "trackId": "2L93TdW2GMue1H2zlkt30F",
+    "name": "Suzanne",
+    "duration_ms": 229293,
+    "artist": "Leonard Cohen",
+    "artistId": "5l8VQNuIg0turYE1VtM9zV",
+    "albumId": "2Aiv0ThDpFa7lqHphR6MN5",
+    "release_date": "1967-12-27",
+    "popularity": 63
+  }
+]

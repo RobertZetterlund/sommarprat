@@ -1,1 +1,152 @@
-[{"trackId":"3LXzqwjJWhoHYIScm4JHY8","name":"White Foxes","duration_ms":256453,"artist":"Susanne Sundfør","artistId":"54KCNI7URCrG6yjQK3Ukow","albumId":"6uPqtAJoByvOAp5I8bM4mu","release_date":"2012-03-26","popularity":41},{"trackId":"12qn5Rg58QRyN3QxhSPoap","name":"Skånska slott och herresäten","duration_ms":170773,"artist":"Edvard Persson","artistId":"3Fuk9YN8A4IYlV3xmywbvX","albumId":"7dPPdyIZPjJeGEkylzlN7z","release_date":"2005-01-19","popularity":26},{"trackId":"3LSdaNWsEMAuiXy3xYm3gZ","name":"Ska vi byta?","duration_ms":155440,"artist":"Hans Alfredson","artistId":"2wSu2EcQojgAifviEgZmy3","albumId":"4MZqt2uT29Lhjs3C2i54Af","release_date":"1996-01-01","popularity":31},{"trackId":"045r42TrPujfND88MNCLEl","name":"Good Vibrations - 2021 Stereo Mix","duration_ms":224026,"artist":"The Beach Boys","artistId":"3oDbviiivRWhXwIE8hxkVV","albumId":"7o1TsJgTlyE5IspzERWwU6","release_date":"2022-05-27","popularity":49},{"trackId":"7uTRVmNxfbKZ98AgQI0AXV","name":"Amerikabrevet","duration_ms":134466,"artist":"Fred Åkerström","artistId":"66se5dgU4TBgWvHtXrYrz0","albumId":"2MX0ExqaZ1Srf5jEO5W5hb","release_date":"1963","popularity":13},{"trackId":"6z6SxLCvDJGMnfoTMkUvqb","name":"Spelmannen","duration_ms":207666,"artist":"Thorstein Bergman","artistId":"6RN0Wp8CBr7bij8JzB1qG2","albumId":"55SIYzqiP09PVpXwDMzuxS","release_date":"1967","popularity":20},{"trackId":"6HKbu5ZvKkVY7hR8uFCiVY","name":"Husförhörsvisan","duration_ms":215986,"artist":"Nina Wengberg","artistId":"1v91TPCdB50lJdrIpTXhyy","albumId":"59k2NMFubbddeTUNxLSW1O","release_date":"2008-08-15","popularity":0},{"trackId":"6pYxHGfZbb9kCS6PpAwXmo","name":"Kapitel 4 - Die Zauberflöte","duration_ms":180009,"artist":"Oper für die Kleinsten","artistId":"2nnUgLSidA5wTg1635zzX4","albumId":"414Ox7ePChKGXWKINnsxJY","release_date":"2019-12-20","popularity":13},{"trackId":"54EEuKcvf9lvytQ7r8n8hG","name":"Bei Mir Bist Du Schon (Means That You're Grand)","duration_ms":184040,"artist":"The Andrews Sisters","artistId":"2NCGI6dLTxLdI9XHdv7QfM","albumId":"7CG24YVhe2YlW2Ui1cumez","release_date":"1991-08-26","popularity":39},{"trackId":"7dQnK9JPGHY8QAG5GLfsv9","name":"Wien du Stadt Meiner Träume","duration_ms":193760,"artist":"Richard Tauber","artistId":"3i3fzCE5RlDGN5HSshHe4B","albumId":"3XazYqa6W5eJK1V18u0F26","release_date":"2011-03-01","popularity":12},{"trackId":"0iA3xXSkSCiJywKyo1UKjQ","name":"Louie Louie","duration_ms":165381,"artist":"The Kingsmen","artistId":"2iIn8H3l2NNBNHFpYKWbfo","albumId":"2SMBIc9VqCmLvWAd9srlSx","release_date":"2006-01-31","popularity":65},{"trackId":"4szrtx7R6qBhaCjDCIC55r","name":"Brown Boots","duration_ms":215120,"artist":"Stanley Holloway","artistId":"4vxeI1WNgRCQVQdmLuA42v","albumId":"38jH0UMdcRyjo6IOhINJPJ","release_date":"2011-07-01","popularity":0},{"trackId":"57cnFRfbT72kiF0Lix6JxT","name":"Cântec Oltenesc","duration_ms":79573,"artist":"Marcel Budala","artistId":"1nKkJthh4qZrrjAz27MrxS","albumId":"21xo6CGVhJIr3C0cSUuNbh","release_date":"2009-01-01","popularity":1},{"trackId":"4qvtuC21f6N31aWmHbWdoi","name":"Jagat Ke Rang Kya Dekhu","duration_ms":462744,"artist":"Jaya Kishori","artistId":"6bTYG6GepzhsmJsbYv9DCI","albumId":"4paOLBfyLmFk8cLwcVlYSP","release_date":"2021-12-02","popularity":29},{"trackId":"7JqO9mOheNWFVEbSShulMx","name":"Sjörövar-Fabbe","duration_ms":140426,"artist":"Astrid Lindgren","artistId":"3MDsnjqnEd5TJaYsuacX1I","albumId":"2SYUiUnTQXOOioWUb17tgL","release_date":"1970-01-01","popularity":49}]
+[
+  {
+    "trackId": "3LXzqwjJWhoHYIScm4JHY8",
+    "name": "White Foxes",
+    "duration_ms": 256453,
+    "artist": "Susanne Sundfør",
+    "artistId": "54KCNI7URCrG6yjQK3Ukow",
+    "albumId": "6uPqtAJoByvOAp5I8bM4mu",
+    "release_date": "2012-03-26",
+    "popularity": 41
+  },
+  {
+    "trackId": "12qn5Rg58QRyN3QxhSPoap",
+    "name": "Skånska slott och herresäten",
+    "duration_ms": 170773,
+    "artist": "Edvard Persson",
+    "artistId": "3Fuk9YN8A4IYlV3xmywbvX",
+    "albumId": "7dPPdyIZPjJeGEkylzlN7z",
+    "release_date": "2005-01-19",
+    "popularity": 26
+  },
+  {
+    "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
+    "name": "Ska vi byta?",
+    "duration_ms": 155440,
+    "artist": "Hans Alfredson",
+    "artistId": "2wSu2EcQojgAifviEgZmy3",
+    "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+    "release_date": "1996-01-01",
+    "popularity": 31
+  },
+  {
+    "trackId": "045r42TrPujfND88MNCLEl",
+    "name": "Good Vibrations - 2021 Stereo Mix",
+    "duration_ms": 224026,
+    "artist": "The Beach Boys",
+    "artistId": "3oDbviiivRWhXwIE8hxkVV",
+    "albumId": "7o1TsJgTlyE5IspzERWwU6",
+    "release_date": "2022-05-27",
+    "popularity": 49
+  },
+  {
+    "trackId": "7uTRVmNxfbKZ98AgQI0AXV",
+    "name": "Amerikabrevet",
+    "duration_ms": 134466,
+    "artist": "Fred Åkerström",
+    "artistId": "66se5dgU4TBgWvHtXrYrz0",
+    "albumId": "2MX0ExqaZ1Srf5jEO5W5hb",
+    "release_date": "1963",
+    "popularity": 13
+  },
+  {
+    "trackId": "6z6SxLCvDJGMnfoTMkUvqb",
+    "name": "Spelmannen",
+    "duration_ms": 207666,
+    "artist": "Thorstein Bergman",
+    "artistId": "6RN0Wp8CBr7bij8JzB1qG2",
+    "albumId": "55SIYzqiP09PVpXwDMzuxS",
+    "release_date": "1967",
+    "popularity": 20
+  },
+  {
+    "trackId": "6HKbu5ZvKkVY7hR8uFCiVY",
+    "name": "Husförhörsvisan",
+    "duration_ms": 215986,
+    "artist": "Nina Wengberg",
+    "artistId": "1v91TPCdB50lJdrIpTXhyy",
+    "albumId": "59k2NMFubbddeTUNxLSW1O",
+    "release_date": "2008-08-15",
+    "popularity": 0
+  },
+  {
+    "trackId": "6pYxHGfZbb9kCS6PpAwXmo",
+    "name": "Kapitel 4 - Die Zauberflöte",
+    "duration_ms": 180009,
+    "artist": "Oper für die Kleinsten",
+    "artistId": "2nnUgLSidA5wTg1635zzX4",
+    "albumId": "414Ox7ePChKGXWKINnsxJY",
+    "release_date": "2019-12-20",
+    "popularity": 13
+  },
+  {
+    "trackId": "54EEuKcvf9lvytQ7r8n8hG",
+    "name": "Bei Mir Bist Du Schon (Means That You're Grand)",
+    "duration_ms": 184040,
+    "artist": "The Andrews Sisters",
+    "artistId": "2NCGI6dLTxLdI9XHdv7QfM",
+    "albumId": "7CG24YVhe2YlW2Ui1cumez",
+    "release_date": "1991-08-26",
+    "popularity": 39
+  },
+  {
+    "trackId": "7dQnK9JPGHY8QAG5GLfsv9",
+    "name": "Wien du Stadt Meiner Träume",
+    "duration_ms": 193760,
+    "artist": "Richard Tauber",
+    "artistId": "3i3fzCE5RlDGN5HSshHe4B",
+    "albumId": "3XazYqa6W5eJK1V18u0F26",
+    "release_date": "2011-03-01",
+    "popularity": 12
+  },
+  {
+    "trackId": "0iA3xXSkSCiJywKyo1UKjQ",
+    "name": "Louie Louie",
+    "duration_ms": 165381,
+    "artist": "The Kingsmen",
+    "artistId": "2iIn8H3l2NNBNHFpYKWbfo",
+    "albumId": "2SMBIc9VqCmLvWAd9srlSx",
+    "release_date": "2006-01-31",
+    "popularity": 65
+  },
+  {
+    "trackId": "4szrtx7R6qBhaCjDCIC55r",
+    "name": "Brown Boots",
+    "duration_ms": 215120,
+    "artist": "Stanley Holloway",
+    "artistId": "4vxeI1WNgRCQVQdmLuA42v",
+    "albumId": "38jH0UMdcRyjo6IOhINJPJ",
+    "release_date": "2011-07-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "57cnFRfbT72kiF0Lix6JxT",
+    "name": "Cântec Oltenesc",
+    "duration_ms": 79573,
+    "artist": "Marcel Budala",
+    "artistId": "1nKkJthh4qZrrjAz27MrxS",
+    "albumId": "21xo6CGVhJIr3C0cSUuNbh",
+    "release_date": "2009-01-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "4qvtuC21f6N31aWmHbWdoi",
+    "name": "Jagat Ke Rang Kya Dekhu",
+    "duration_ms": 462744,
+    "artist": "Jaya Kishori",
+    "artistId": "6bTYG6GepzhsmJsbYv9DCI",
+    "albumId": "4paOLBfyLmFk8cLwcVlYSP",
+    "release_date": "2021-12-02",
+    "popularity": 29
+  },
+  {
+    "trackId": "7JqO9mOheNWFVEbSShulMx",
+    "name": "Sjörövar-Fabbe",
+    "duration_ms": 140426,
+    "artist": "Astrid Lindgren",
+    "artistId": "3MDsnjqnEd5TJaYsuacX1I",
+    "albumId": "2SYUiUnTQXOOioWUb17tgL",
+    "release_date": "1970-01-01",
+    "popularity": 49
+  }
+]

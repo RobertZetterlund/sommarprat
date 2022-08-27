@@ -1,1 +1,132 @@
-[{"trackId":"2WaYW84yWij5NSCpgSeU2R","name":"You Make Me Feel So Young - Remastered 1998","duration_ms":177400,"artist":"Frank Sinatra","artistId":"1Mxqyy3pSjf8kZZL4QVxS0","albumId":"4kca7vXd1Wo5GE2DMafvMc","release_date":"1956-03","popularity":63},{"trackId":"7Ma4ykGEYiOofyWiR6tfEG","name":"The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2","duration_ms":180066,"artist":"Billie Holiday","artistId":"1YzCsTRb22dQkh9lghPIrp","albumId":"61OLLuUN2R0ZO24IrS3W2T","release_date":"1936","popularity":37},{"trackId":"0U6aJWhKp8pPmyC9ghgDMe","name":"Kom","duration_ms":151293,"artist":"Allan Edwall","artistId":"6dLcR9Q2Lyik2rZBL2zLjs","albumId":"1CFg6iqO1IOcYA5Q8tQorL","release_date":"1981-01-01","popularity":29},{"trackId":"2xKA09QfYiRJXR8ef7mmRo","name":"Polly-Wolly-Doodle","duration_ms":113253,"artist":"Shirley Temple","artistId":"325LVWNjKZv6UwNq5xuPHt","albumId":"0Ucf1sBgQbLpPa2AmbfYEi","release_date":"1948-12-10","popularity":34},{"trackId":"1oMKnJ5JhdzWbQij6zVorg","name":"Farfars vals","duration_ms":144533,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"4R1VaMnchZIwrVmJZJTQer","release_date":"2004-01-01","popularity":20},{"trackId":"5dae01pKNjRQtgOeAkFzPY","name":"Mona Lisa","duration_ms":194986,"artist":"Nat King Cole","artistId":"7v4imS0moSyGdXyLgVTIV7","albumId":"7GBvXtxnvBluo2f4xBVNkm","release_date":"1954-01-01","popularity":51},{"trackId":"6W1qRvgpnkWWqG0HvqFzBU","name":"Jag står i regnet (Ich Steh' Im Regen)","duration_ms":172000,"artist":"Zarah Leander","artistId":"5R15K0QUPe4AhP1vaPoaX3","albumId":"5bcGc9JTqDpFLFVhBxcBnp","release_date":"2005-01-14","popularity":4},{"trackId":"5xaDfseGaJm6rB8l7c4erH","name":"Någonting att äta, någonting att dricka","duration_ms":188000,"artist":"Karl Wehle","artistId":"2OB8Ouz8B6FzNehn9LYk5g","albumId":"6ohEGOi3mUvOKeFXpwcCPL","release_date":"2005","popularity":16},{"trackId":"78xgFkpTfqn4aVF7Hn6DaI","name":"Jag är blott en man","duration_ms":182106,"artist":"Jarl Kulle","artistId":"0hKn16bO6B1EKezikYo9lF","albumId":"1pVtxVKXwhU2nsvrTI1WqT","release_date":"1973","popularity":23},{"trackId":"372QMjJGrYnp80Fdv2hgzf","name":"Tre kärlekar","duration_ms":234026,"artist":"Lars Molin","artistId":"7DishTcvi3tpliAhAFpNf4","albumId":"5Fs7UR5Sxu1qkaozj6igFS","release_date":"1999-01-01","popularity":9},{"trackId":"4hkDZchmRrkbOIhslG14e3","name":"Rocket \"88\"","duration_ms":152400,"artist":"Bill Haley & His Comets","artistId":"3MFp4cYuYtTZe3d3xkLLbr","albumId":"5SftszBDlSvYmoBtYNDUnm","release_date":"2005-06-13","popularity":9},{"trackId":"3sJI7yMJz2RwLtS31z3Dgc","name":"Vallåt från Jämtland","duration_ms":114693,"artist":"Jan Johansson","artistId":"6DEfX2tZzx9iANmaErvLGf","albumId":"6JAj80R40giQEAg3Le4CPE","release_date":"1964","popularity":33},{"trackId":"7AFy1aN1RQVgGOXzCtrK87","name":"Cabaret","duration_ms":211200,"artist":"Liza Minnelli","artistId":"1pdGj6Gak10Q2ajig4l1Dm","albumId":"28qbOp4dEh18N5u6FInyOO","release_date":"1972-02-13","popularity":48}]
+[
+  {
+    "trackId": "2WaYW84yWij5NSCpgSeU2R",
+    "name": "You Make Me Feel So Young - Remastered 1998",
+    "duration_ms": 177400,
+    "artist": "Frank Sinatra",
+    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "albumId": "4kca7vXd1Wo5GE2DMafvMc",
+    "release_date": "1956-03",
+    "popularity": 63
+  },
+  {
+    "trackId": "7Ma4ykGEYiOofyWiR6tfEG",
+    "name": "The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2",
+    "duration_ms": 180066,
+    "artist": "Billie Holiday",
+    "artistId": "1YzCsTRb22dQkh9lghPIrp",
+    "albumId": "61OLLuUN2R0ZO24IrS3W2T",
+    "release_date": "1936",
+    "popularity": 37
+  },
+  {
+    "trackId": "0U6aJWhKp8pPmyC9ghgDMe",
+    "name": "Kom",
+    "duration_ms": 151293,
+    "artist": "Allan Edwall",
+    "artistId": "6dLcR9Q2Lyik2rZBL2zLjs",
+    "albumId": "1CFg6iqO1IOcYA5Q8tQorL",
+    "release_date": "1981-01-01",
+    "popularity": 29
+  },
+  {
+    "trackId": "2xKA09QfYiRJXR8ef7mmRo",
+    "name": "Polly-Wolly-Doodle",
+    "duration_ms": 113253,
+    "artist": "Shirley Temple",
+    "artistId": "325LVWNjKZv6UwNq5xuPHt",
+    "albumId": "0Ucf1sBgQbLpPa2AmbfYEi",
+    "release_date": "1948-12-10",
+    "popularity": 34
+  },
+  {
+    "trackId": "1oMKnJ5JhdzWbQij6zVorg",
+    "name": "Farfars vals",
+    "duration_ms": 144533,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "4R1VaMnchZIwrVmJZJTQer",
+    "release_date": "2004-01-01",
+    "popularity": 20
+  },
+  {
+    "trackId": "5dae01pKNjRQtgOeAkFzPY",
+    "name": "Mona Lisa",
+    "duration_ms": 194986,
+    "artist": "Nat King Cole",
+    "artistId": "7v4imS0moSyGdXyLgVTIV7",
+    "albumId": "7GBvXtxnvBluo2f4xBVNkm",
+    "release_date": "1954-01-01",
+    "popularity": 51
+  },
+  {
+    "trackId": "6W1qRvgpnkWWqG0HvqFzBU",
+    "name": "Jag står i regnet (Ich Steh' Im Regen)",
+    "duration_ms": 172000,
+    "artist": "Zarah Leander",
+    "artistId": "5R15K0QUPe4AhP1vaPoaX3",
+    "albumId": "5bcGc9JTqDpFLFVhBxcBnp",
+    "release_date": "2005-01-14",
+    "popularity": 4
+  },
+  {
+    "trackId": "5xaDfseGaJm6rB8l7c4erH",
+    "name": "Någonting att äta, någonting att dricka",
+    "duration_ms": 188000,
+    "artist": "Karl Wehle",
+    "artistId": "2OB8Ouz8B6FzNehn9LYk5g",
+    "albumId": "6ohEGOi3mUvOKeFXpwcCPL",
+    "release_date": "2005",
+    "popularity": 16
+  },
+  {
+    "trackId": "78xgFkpTfqn4aVF7Hn6DaI",
+    "name": "Jag är blott en man",
+    "duration_ms": 182106,
+    "artist": "Jarl Kulle",
+    "artistId": "0hKn16bO6B1EKezikYo9lF",
+    "albumId": "1pVtxVKXwhU2nsvrTI1WqT",
+    "release_date": "1973",
+    "popularity": 23
+  },
+  {
+    "trackId": "372QMjJGrYnp80Fdv2hgzf",
+    "name": "Tre kärlekar",
+    "duration_ms": 234026,
+    "artist": "Lars Molin",
+    "artistId": "7DishTcvi3tpliAhAFpNf4",
+    "albumId": "5Fs7UR5Sxu1qkaozj6igFS",
+    "release_date": "1999-01-01",
+    "popularity": 9
+  },
+  {
+    "trackId": "4hkDZchmRrkbOIhslG14e3",
+    "name": "Rocket \"88\"",
+    "duration_ms": 152400,
+    "artist": "Bill Haley & His Comets",
+    "artistId": "3MFp4cYuYtTZe3d3xkLLbr",
+    "albumId": "5SftszBDlSvYmoBtYNDUnm",
+    "release_date": "2005-06-13",
+    "popularity": 9
+  },
+  {
+    "trackId": "3sJI7yMJz2RwLtS31z3Dgc",
+    "name": "Vallåt från Jämtland",
+    "duration_ms": 114693,
+    "artist": "Jan Johansson",
+    "artistId": "6DEfX2tZzx9iANmaErvLGf",
+    "albumId": "6JAj80R40giQEAg3Le4CPE",
+    "release_date": "1964",
+    "popularity": 33
+  },
+  {
+    "trackId": "7AFy1aN1RQVgGOXzCtrK87",
+    "name": "Cabaret",
+    "duration_ms": 211200,
+    "artist": "Liza Minnelli",
+    "artistId": "1pdGj6Gak10Q2ajig4l1Dm",
+    "albumId": "28qbOp4dEh18N5u6FInyOO",
+    "release_date": "1972-02-13",
+    "popularity": 48
+  }
+]

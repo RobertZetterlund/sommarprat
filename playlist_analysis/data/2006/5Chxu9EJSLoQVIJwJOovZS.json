@@ -1,1 +1,152 @@
-[{"trackId":"2fQ2rXKUwIve6N67tvNW2F","name":"Upiak Siti","duration_ms":255451,"artist":"Ratu Sikumbang","artistId":"6cy876q2nLJNR0GQiFakkC","albumId":"1879TqNjsIQK7sIzVKLruC","release_date":"2022-06-18","popularity":11},{"trackId":"0BbA7S30mOQB94e4IBnqCt","name":"Tainted Love - Single Version","duration_ms":131160,"artist":"Gloria Jones","artistId":"08BQmH2M3Ew9XjMHaHsl1l","albumId":"6LCp71FPGO7wdTzkzEe4Cj","release_date":"1982-01-01","popularity":54},{"trackId":"240TdtPPErcvqxv2EqUNgB","name":"She Caught The Katy And Left Me A Mule To Ride (from The Blues Brothers)","duration_ms":265066,"artist":"The Broadway Stars","artistId":"752XDhnIo0GRKK77PKW6Qg","albumId":"0D35CVI4wMP8Sc9jKB860v","release_date":"2008-01-01","popularity":0},{"trackId":"2SMMdZ66KHX3VfdWFtXgHa","name":"Freylach von L.A.","duration_ms":157506,"artist":"Sabbath Hela Veckan","artistId":"39LwMFVTn0qWPH12rNDsrZ","albumId":"6DDyI7XuYCCV3B5uF9HXds","release_date":"2000","popularity":1},{"trackId":"5TWL2K9Q9QuUTW15I6ZLpP","name":"Kiss Kiss","duration_ms":204400,"artist":"Holly Valance","artistId":"7gRmesSjINzb4xXApfMV5E","albumId":"0canrrqYujUeehzkS9sUZV","release_date":"2002-01-01","popularity":56},{"trackId":"7hiu02q8aCacUeavW9XGWt","name":"Köp inte en zebra","duration_ms":163946,"artist":"Povel Ramel","artistId":"2JXHbGSfNgJ25884YBIruo","albumId":"03Ag2lO1J74QDfvA7ibh9r","release_date":"2005-01-19","popularity":15},{"trackId":"6FN0g79NTumROpFmRUUaKR","name":"East London Street - Drums Only Version","duration_ms":161960,"artist":"Hidden Orchestra","artistId":"4Rj2COYs5hQsw8rYIxSviz","albumId":"5Q5j2jlwAKTOvWmOtRqW2d","release_date":"2017-09-22","popularity":43},{"trackId":"3c8JemHol1XwFFruXQxjCO","name":"Everybody's Talkin'","duration_ms":152226,"artist":"Harry Nilsson","artistId":"3RTzAwFprBqiskp550eSJX","albumId":"4si97m2YFhhUxllFaZxbST","release_date":"1985-01-01","popularity":64},{"trackId":"79aG7UBk7jkIG02EKaxzTc","name":"Send In the Clowns/ Straight No Chaser","duration_ms":407293,"artist":"Lynette Washington & Dennis Bell Jazz NY","artistId":"1fM55z0lEPBnnqZHMz4tLH","albumId":"3wJvOLSQpAQVvBQ5YBVYS7","release_date":"2012-01-01","popularity":0},{"trackId":"4yQw7FR9lcvL6RHtegbJBh","name":"Think","duration_ms":139733,"artist":"Aretha Franklin","artistId":"7nwUJBm0HE4ZxD3f5cy5ok","albumId":"55HZ2ectg1mMTEKDqIq3kC","release_date":"1968-06-14","popularity":65},{"trackId":"383iO1NzeBeENbxHtT274A","name":"Småland","duration_ms":273173,"artist":"Jan Lundgren Trio","artistId":"3kfAk1i7bmKvhjBoGEAQqy","albumId":"5AupyGdGVLw6JSwYrqLXH9","release_date":"2003-07-01","popularity":1},{"trackId":"3ZE3wv8V3w2T2f7nOCjV0N","name":"Life on Mars? - 2015 Remaster","duration_ms":235986,"artist":"David Bowie","artistId":"0oSGxfWSnnOXhD2fKuz2Gy","albumId":"6fQElzBNTiEMGdIeY0hy5l","release_date":"1971-12-17","popularity":70},{"trackId":"6A9zhI2LCl3vpqqZ507cva","name":"Snö","duration_ms":215426,"artist":"Stefan Demert","artistId":"7HwSQNpfHo6HBGfJe9QRWO","albumId":"4cR9aBtLRFgvQBT3EGXUJr","release_date":"1971-01-01","popularity":7},{"trackId":"0LCgNW4PZQ5lpZFpWMuHn0","name":"Sång om syrsor","duration_ms":182386,"artist":"Zarah Leander","artistId":"5R15K0QUPe4AhP1vaPoaX3","albumId":"5bcGc9JTqDpFLFVhBxcBnp","release_date":"2005-01-14","popularity":17},{"trackId":"1EHsprXBsOHOlFFomTvTOM","name":"Stilla natt, heliga natt (Stille Nacht) - 2002 Remaster","duration_ms":168293,"artist":"Åke Jelvings Orkester","artistId":"5bKyv4bGcm72TEQsozPSGk","albumId":"6JESHCylTds6kZY7agGJ2d","release_date":"1962","popularity":0}]
+[
+  {
+    "trackId": "2fQ2rXKUwIve6N67tvNW2F",
+    "name": "Upiak Siti",
+    "duration_ms": 255451,
+    "artist": "Ratu Sikumbang",
+    "artistId": "6cy876q2nLJNR0GQiFakkC",
+    "albumId": "1879TqNjsIQK7sIzVKLruC",
+    "release_date": "2022-06-18",
+    "popularity": 11
+  },
+  {
+    "trackId": "0BbA7S30mOQB94e4IBnqCt",
+    "name": "Tainted Love - Single Version",
+    "duration_ms": 131160,
+    "artist": "Gloria Jones",
+    "artistId": "08BQmH2M3Ew9XjMHaHsl1l",
+    "albumId": "6LCp71FPGO7wdTzkzEe4Cj",
+    "release_date": "1982-01-01",
+    "popularity": 54
+  },
+  {
+    "trackId": "240TdtPPErcvqxv2EqUNgB",
+    "name": "She Caught The Katy And Left Me A Mule To Ride (from The Blues Brothers)",
+    "duration_ms": 265066,
+    "artist": "The Broadway Stars",
+    "artistId": "752XDhnIo0GRKK77PKW6Qg",
+    "albumId": "0D35CVI4wMP8Sc9jKB860v",
+    "release_date": "2008-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "2SMMdZ66KHX3VfdWFtXgHa",
+    "name": "Freylach von L.A.",
+    "duration_ms": 157506,
+    "artist": "Sabbath Hela Veckan",
+    "artistId": "39LwMFVTn0qWPH12rNDsrZ",
+    "albumId": "6DDyI7XuYCCV3B5uF9HXds",
+    "release_date": "2000",
+    "popularity": 1
+  },
+  {
+    "trackId": "5TWL2K9Q9QuUTW15I6ZLpP",
+    "name": "Kiss Kiss",
+    "duration_ms": 204400,
+    "artist": "Holly Valance",
+    "artistId": "7gRmesSjINzb4xXApfMV5E",
+    "albumId": "0canrrqYujUeehzkS9sUZV",
+    "release_date": "2002-01-01",
+    "popularity": 56
+  },
+  {
+    "trackId": "7hiu02q8aCacUeavW9XGWt",
+    "name": "Köp inte en zebra",
+    "duration_ms": 163946,
+    "artist": "Povel Ramel",
+    "artistId": "2JXHbGSfNgJ25884YBIruo",
+    "albumId": "03Ag2lO1J74QDfvA7ibh9r",
+    "release_date": "2005-01-19",
+    "popularity": 15
+  },
+  {
+    "trackId": "6FN0g79NTumROpFmRUUaKR",
+    "name": "East London Street - Drums Only Version",
+    "duration_ms": 161960,
+    "artist": "Hidden Orchestra",
+    "artistId": "4Rj2COYs5hQsw8rYIxSviz",
+    "albumId": "5Q5j2jlwAKTOvWmOtRqW2d",
+    "release_date": "2017-09-22",
+    "popularity": 43
+  },
+  {
+    "trackId": "3c8JemHol1XwFFruXQxjCO",
+    "name": "Everybody's Talkin'",
+    "duration_ms": 152226,
+    "artist": "Harry Nilsson",
+    "artistId": "3RTzAwFprBqiskp550eSJX",
+    "albumId": "4si97m2YFhhUxllFaZxbST",
+    "release_date": "1985-01-01",
+    "popularity": 64
+  },
+  {
+    "trackId": "79aG7UBk7jkIG02EKaxzTc",
+    "name": "Send In the Clowns/ Straight No Chaser",
+    "duration_ms": 407293,
+    "artist": "Lynette Washington & Dennis Bell Jazz NY",
+    "artistId": "1fM55z0lEPBnnqZHMz4tLH",
+    "albumId": "3wJvOLSQpAQVvBQ5YBVYS7",
+    "release_date": "2012-01-01",
+    "popularity": 0
+  },
+  {
+    "trackId": "4yQw7FR9lcvL6RHtegbJBh",
+    "name": "Think",
+    "duration_ms": 139733,
+    "artist": "Aretha Franklin",
+    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+    "release_date": "1968-06-14",
+    "popularity": 65
+  },
+  {
+    "trackId": "383iO1NzeBeENbxHtT274A",
+    "name": "Småland",
+    "duration_ms": 273173,
+    "artist": "Jan Lundgren Trio",
+    "artistId": "3kfAk1i7bmKvhjBoGEAQqy",
+    "albumId": "5AupyGdGVLw6JSwYrqLXH9",
+    "release_date": "2003-07-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "3ZE3wv8V3w2T2f7nOCjV0N",
+    "name": "Life on Mars? - 2015 Remaster",
+    "duration_ms": 235986,
+    "artist": "David Bowie",
+    "artistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+    "release_date": "1971-12-17",
+    "popularity": 70
+  },
+  {
+    "trackId": "6A9zhI2LCl3vpqqZ507cva",
+    "name": "Snö",
+    "duration_ms": 215426,
+    "artist": "Stefan Demert",
+    "artistId": "7HwSQNpfHo6HBGfJe9QRWO",
+    "albumId": "4cR9aBtLRFgvQBT3EGXUJr",
+    "release_date": "1971-01-01",
+    "popularity": 7
+  },
+  {
+    "trackId": "0LCgNW4PZQ5lpZFpWMuHn0",
+    "name": "Sång om syrsor",
+    "duration_ms": 182386,
+    "artist": "Zarah Leander",
+    "artistId": "5R15K0QUPe4AhP1vaPoaX3",
+    "albumId": "5bcGc9JTqDpFLFVhBxcBnp",
+    "release_date": "2005-01-14",
+    "popularity": 17
+  },
+  {
+    "trackId": "1EHsprXBsOHOlFFomTvTOM",
+    "name": "Stilla natt, heliga natt (Stille Nacht) - 2002 Remaster",
+    "duration_ms": 168293,
+    "artist": "Åke Jelvings Orkester",
+    "artistId": "5bKyv4bGcm72TEQsozPSGk",
+    "albumId": "6JESHCylTds6kZY7agGJ2d",
+    "release_date": "1962",
+    "popularity": 0
+  }
+]

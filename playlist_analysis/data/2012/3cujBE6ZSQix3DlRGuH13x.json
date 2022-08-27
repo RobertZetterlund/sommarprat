@@ -1,1 +1,112 @@
-[{"trackId":"06rWBPnq8cNfLlZEAyP1FL","name":"Nocturne","duration_ms":180960,"artist":"Sven-Bertil Taube","artistId":"7Gl6zw4YYJQ1CAgs7oEBPY","albumId":"5T85NS6pAaXZ8eM21izrXe","release_date":"1989","popularity":21},{"trackId":"6eMSo5M3xhDg3k9pwNNUku","name":"Svart-vit calypso","duration_ms":195360,"artist":"Monica Zetterlund","artistId":"7mvvG63CNSY93JWAJ37rnD","albumId":"7bDYb5Q2xcNgQ2g3u4lYiR","release_date":"1973-09-05","popularity":10},{"trackId":"34BZRKHeouOJqnHwSKMTvm","name":"Wiggen","duration_ms":160160,"artist":"Thore Skogman","artistId":"6NTX7EIJQEEUMPIBdYpzhs","albumId":"3x0pXGHWxO2xStQupeMmvA","release_date":"2002-01-01","popularity":31},{"trackId":"5wQyinakPBe6ZhNaq1jSeu","name":"Barn","duration_ms":287253,"artist":"Ulf Dageby","artistId":"3bO9mFv5ArliHJs4RejB7z","albumId":"422LCvkhruTkVI0iYg0SOE","release_date":"1989-01-01","popularity":28},{"trackId":"1Jm7bRx1AupKYpqpPtPFWK","name":"La Lega","duration_ms":216520,"artist":"Röda Bönor","artistId":"38Dkdgms2HWirOGTIsvyCq","albumId":"6nyPuPCKiS6l8punTDbQh0","release_date":"1976-01-01","popularity":14},{"trackId":"5QARxy7t3c3vpZdR4H2fZi","name":"Isa Bell","duration_ms":291173,"artist":"Ola Magnell","artistId":"0EcjEGUjRcoFoVinJpwi91","albumId":"18qn6UNYahqmDOMOjfe5R4","release_date":"1983","popularity":10},{"trackId":"55VX2nGsYj2ulAYNerp7Fx","name":"Farväl till släkt och vänner","duration_ms":162599,"artist":"Björn Afzelius","artistId":"0PXQ16KY3iwdfvluCikdn0","albumId":"1lFg2iF2hsofvNGD6zXfCT","release_date":"1999-01-01","popularity":38},{"trackId":"2kf5wkHagdem1gOXK4bpyU","name":"Barn av vår tid","duration_ms":362626,"artist":"Björn Afzelius","artistId":"0PXQ16KY3iwdfvluCikdn0","albumId":"1SVBi5tjjQvxtlOFQSAfH7","release_date":"2011-11-21","popularity":7},{"trackId":"3Uqn1tn6mUH9wz7eC5J4bL","name":"Legenden om soldaten i tredje världskriget, eller: Visa till Karin","duration_ms":154493,"artist":"Wolf Biermann","artistId":"6DnJnXNndN4xnoL1LN2lEx","albumId":"6yU7zgFQFz31ke10bTVHNf","release_date":"2014-04-01","popularity":1},{"trackId":"5fdYc5wpLgnN5BWrgdiNDj","name":"Sagan Om Lilla Sofie","duration_ms":203640,"artist":"Hep Stars","artistId":"7FZqbNdkNb0UVVze7L8PGp","albumId":"2uFvZdiW9iDnXUpksD2meg","release_date":"2014-01-22","popularity":30},{"trackId":"73TEYEuPJc1NaHynxoBwko","name":"En vintersaga - Live","duration_ms":342533,"artist":"Jerry Williams","artistId":"1PJOXqvEZQjdDAV1R5rS07","albumId":"4B4FcvnGtQ8nsLtl5PkhIH","release_date":"2004-01-01","popularity":14}]
+[
+  {
+    "trackId": "06rWBPnq8cNfLlZEAyP1FL",
+    "name": "Nocturne",
+    "duration_ms": 180960,
+    "artist": "Sven-Bertil Taube",
+    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
+    "albumId": "5T85NS6pAaXZ8eM21izrXe",
+    "release_date": "1989",
+    "popularity": 21
+  },
+  {
+    "trackId": "6eMSo5M3xhDg3k9pwNNUku",
+    "name": "Svart-vit calypso",
+    "duration_ms": 195360,
+    "artist": "Monica Zetterlund",
+    "artistId": "7mvvG63CNSY93JWAJ37rnD",
+    "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+    "release_date": "1973-09-05",
+    "popularity": 10
+  },
+  {
+    "trackId": "34BZRKHeouOJqnHwSKMTvm",
+    "name": "Wiggen",
+    "duration_ms": 160160,
+    "artist": "Thore Skogman",
+    "artistId": "6NTX7EIJQEEUMPIBdYpzhs",
+    "albumId": "3x0pXGHWxO2xStQupeMmvA",
+    "release_date": "2002-01-01",
+    "popularity": 31
+  },
+  {
+    "trackId": "5wQyinakPBe6ZhNaq1jSeu",
+    "name": "Barn",
+    "duration_ms": 287253,
+    "artist": "Ulf Dageby",
+    "artistId": "3bO9mFv5ArliHJs4RejB7z",
+    "albumId": "422LCvkhruTkVI0iYg0SOE",
+    "release_date": "1989-01-01",
+    "popularity": 28
+  },
+  {
+    "trackId": "1Jm7bRx1AupKYpqpPtPFWK",
+    "name": "La Lega",
+    "duration_ms": 216520,
+    "artist": "Röda Bönor",
+    "artistId": "38Dkdgms2HWirOGTIsvyCq",
+    "albumId": "6nyPuPCKiS6l8punTDbQh0",
+    "release_date": "1976-01-01",
+    "popularity": 14
+  },
+  {
+    "trackId": "5QARxy7t3c3vpZdR4H2fZi",
+    "name": "Isa Bell",
+    "duration_ms": 291173,
+    "artist": "Ola Magnell",
+    "artistId": "0EcjEGUjRcoFoVinJpwi91",
+    "albumId": "18qn6UNYahqmDOMOjfe5R4",
+    "release_date": "1983",
+    "popularity": 10
+  },
+  {
+    "trackId": "55VX2nGsYj2ulAYNerp7Fx",
+    "name": "Farväl till släkt och vänner",
+    "duration_ms": 162599,
+    "artist": "Björn Afzelius",
+    "artistId": "0PXQ16KY3iwdfvluCikdn0",
+    "albumId": "1lFg2iF2hsofvNGD6zXfCT",
+    "release_date": "1999-01-01",
+    "popularity": 38
+  },
+  {
+    "trackId": "2kf5wkHagdem1gOXK4bpyU",
+    "name": "Barn av vår tid",
+    "duration_ms": 362626,
+    "artist": "Björn Afzelius",
+    "artistId": "0PXQ16KY3iwdfvluCikdn0",
+    "albumId": "1SVBi5tjjQvxtlOFQSAfH7",
+    "release_date": "2011-11-21",
+    "popularity": 7
+  },
+  {
+    "trackId": "3Uqn1tn6mUH9wz7eC5J4bL",
+    "name": "Legenden om soldaten i tredje världskriget, eller: Visa till Karin",
+    "duration_ms": 154493,
+    "artist": "Wolf Biermann",
+    "artistId": "6DnJnXNndN4xnoL1LN2lEx",
+    "albumId": "6yU7zgFQFz31ke10bTVHNf",
+    "release_date": "2014-04-01",
+    "popularity": 1
+  },
+  {
+    "trackId": "5fdYc5wpLgnN5BWrgdiNDj",
+    "name": "Sagan Om Lilla Sofie",
+    "duration_ms": 203640,
+    "artist": "Hep Stars",
+    "artistId": "7FZqbNdkNb0UVVze7L8PGp",
+    "albumId": "2uFvZdiW9iDnXUpksD2meg",
+    "release_date": "2014-01-22",
+    "popularity": 30
+  },
+  {
+    "trackId": "73TEYEuPJc1NaHynxoBwko",
+    "name": "En vintersaga - Live",
+    "duration_ms": 342533,
+    "artist": "Jerry Williams",
+    "artistId": "1PJOXqvEZQjdDAV1R5rS07",
+    "albumId": "4B4FcvnGtQ8nsLtl5PkhIH",
+    "release_date": "2004-01-01",
+    "popularity": 14
+  }
+]
