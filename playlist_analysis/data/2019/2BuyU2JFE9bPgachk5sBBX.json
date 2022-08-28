@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/d2a42197-396e-4d4d-8307-5baac0768d65.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3VyaFDf706JddMz27syc2P",
-      "name": "Ghost Town",
+      "track": {
+        "id": "3VyaFDf706JddMz27syc2P",
+        "name": "Ghost Town"
+      },
       "duration_ms": 249590,
-      "artist": [
-        "Sam Outlaw"
+      "artists": [
+        {
+          "name": "Sam Outlaw",
+          "id": "7H7Gnji0UkEt9bWGPRP55r"
+        }
       ],
-      "artistId": [
-        "7H7Gnji0UkEt9bWGPRP55r"
-      ],
-      "albumId": "0L6BdxBJYW6HieE71EJwnO",
+      "album": {
+        "id": "0L6BdxBJYW6HieE71EJwnO",
+        "name": "Angeleno",
+        "img": "https://i.scdn.co/image/ab67616d00001e022f1eb0da9b15538bdc6d8f3d"
+      },
       "release_date": "2015-06-09",
       "popularity": 38
     },
     {
-      "trackId": "0dVfC8fDqrviifa2KmYeiZ",
-      "name": "Iowa",
+      "track": {
+        "id": "0dVfC8fDqrviifa2KmYeiZ",
+        "name": "Iowa"
+      },
       "duration_ms": 287040,
-      "artist": [
-        "Dar Williams"
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "id": "4Aarr7f0itQ2WFmmiPcriK"
+        }
       ],
-      "artistId": [
-        "4Aarr7f0itQ2WFmmiPcriK"
-      ],
-      "albumId": "2OotJV8VLNPFyvkTBR3iSc",
+      "album": {
+        "id": "2OotJV8VLNPFyvkTBR3iSc",
+        "name": "Mortal City",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c103f8e6ce6f00f2a13cb1b1"
+      },
       "release_date": "1996",
       "popularity": 24
     },
     {
-      "trackId": "5rYFLJs90KQuXU2ef7qdeq",
-      "name": "Pikku valssi",
+      "track": {
+        "id": "5rYFLJs90KQuXU2ef7qdeq",
+        "name": "Pikku valssi"
+      },
       "duration_ms": 195066,
-      "artist": [
-        "JP Nyströms"
+      "artists": [
+        {
+          "name": "JP Nyströms",
+          "id": "2EbUtZs7ksL5In9qEjMQKu"
+        }
       ],
-      "artistId": [
-        "2EbUtZs7ksL5In9qEjMQKu"
-      ],
-      "albumId": "6mt8fB6lU5dgilxR7N3TxJ",
+      "album": {
+        "id": "6mt8fB6lU5dgilxR7N3TxJ",
+        "name": "Klingelikling",
+        "img": "https://i.scdn.co/image/ab67616d00001e022880b0a237600c61aa6288e5"
+      },
       "release_date": "2003",
       "popularity": 5
     },
     {
-      "trackId": "521OqfUz23ErHfqvtwMcuO",
-      "name": "Prestige",
+      "track": {
+        "id": "521OqfUz23ErHfqvtwMcuO",
+        "name": "Prestige"
+      },
       "duration_ms": 205186,
-      "artist": [
-        "Gian Piero Reverberi",
-        "Ivano Pavesi",
-        "Rondò Veneziano"
+      "artists": [
+        {
+          "name": "Gian Piero Reverberi",
+          "id": "3x4ZOtvWL1tRd6aFUxeBoK"
+        },
+        {
+          "name": "Ivano Pavesi",
+          "id": "2TxjMLPmkZbpAErpHnV7FL"
+        },
+        {
+          "name": "Rondò Veneziano",
+          "id": "6YH4dTGIZZvVO55Sb3095Q"
+        }
       ],
-      "artistId": [
-        "3x4ZOtvWL1tRd6aFUxeBoK",
-        "2TxjMLPmkZbpAErpHnV7FL",
-        "6YH4dTGIZZvVO55Sb3095Q"
-      ],
-      "albumId": "2sGsGtHpHKeRswj1bAVzv2",
+      "album": {
+        "id": "2sGsGtHpHKeRswj1bAVzv2",
+        "name": "Rondò Veneziano - Best Of 3 CD",
+        "img": "https://i.scdn.co/image/ab67616d00001e02861327bf6ea2e9f1b883df03"
+      },
       "release_date": "2012-01-30",
       "popularity": 19
     },
     {
-      "trackId": "2lvfxqLIa2k6JYwUHbsnPm",
-      "name": "Another Town",
+      "track": {
+        "id": "2lvfxqLIa2k6JYwUHbsnPm",
+        "name": "Another Town"
+      },
       "duration_ms": 142333,
-      "artist": [
-        "Steve Earle"
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "id": "2UBTfUoLI07iRqGeUrwhZh"
+        }
       ],
-      "artistId": [
-        "2UBTfUoLI07iRqGeUrwhZh"
-      ],
-      "albumId": "15FbLxuzw8MuuIC1AOob6k",
+      "album": {
+        "id": "15FbLxuzw8MuuIC1AOob6k",
+        "name": "Transcendental Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d90d159ef7128dccce0a4172"
+      },
       "release_date": "2000-06-06",
       "popularity": 23
     },
     {
-      "trackId": "1v4vH3SaIJEJ5zkcmzpouJ",
-      "name": "Changing of the Guards",
+      "track": {
+        "id": "1v4vH3SaIJEJ5zkcmzpouJ",
+        "name": "Changing of the Guards"
+      },
       "duration_ms": 321413,
-      "artist": [
-        "The Gaslight Anthem"
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "id": "7If8DXZN7mlGdQkLE2FaMo"
+        }
       ],
-      "artistId": [
-        "7If8DXZN7mlGdQkLE2FaMo"
-      ],
-      "albumId": "0TWZh4CgXyEhMVyl1ti3IE",
+      "album": {
+        "id": "0TWZh4CgXyEhMVyl1ti3IE",
+        "name": "Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f84bfdc36cbdd56174ee537f"
+      },
       "release_date": "2012-01-24",
       "popularity": 31
     },
     {
-      "trackId": "2qHRGSbRwBuyz88Iwc5fRT",
-      "name": "Kungarna Af Stan I",
+      "track": {
+        "id": "2qHRGSbRwBuyz88Iwc5fRT",
+        "name": "Kungarna Af Stan I"
+      },
       "duration_ms": 204000,
-      "artist": [
-        "Charta 77"
+      "artists": [
+        {
+          "name": "Charta 77",
+          "id": "4l3QLs54bIREe8aDr8o3Iq"
+        }
       ],
-      "artistId": [
-        "4l3QLs54bIREe8aDr8o3Iq"
-      ],
-      "albumId": "0yM8lXI9LwAGhXDPGrNeLQ",
+      "album": {
+        "id": "0yM8lXI9LwAGhXDPGrNeLQ",
+        "name": "Grisfesten",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d237b249b13f06c8ee04d80"
+      },
       "release_date": "1993-02-01",
       "popularity": 14
     },
     {
-      "trackId": "2yBn1VAZDm6jcWMgZdqQgc",
-      "name": "The Road I Must Travel",
+      "track": {
+        "id": "2yBn1VAZDm6jcWMgZdqQgc",
+        "name": "The Road I Must Travel"
+      },
       "duration_ms": 230600,
-      "artist": [
-        "Tom Morello: the Nightwatchman"
+      "artists": [
+        {
+          "name": "Tom Morello: the Nightwatchman",
+          "id": "34QsDw2FoLKi9BPllU1na9"
+        }
       ],
-      "artistId": [
-        "34QsDw2FoLKi9BPllU1na9"
-      ],
-      "albumId": "2APB0vF6W5lbtvWwAV3x1p",
+      "album": {
+        "id": "2APB0vF6W5lbtvWwAV3x1p",
+        "name": "One Man Revolution",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228e7c8091f52fd73db45292d"
+      },
       "release_date": "2007-04-24",
       "popularity": 30
     },
     {
-      "trackId": "3UMXhDBYe7eIXUe2HLUn0v",
-      "name": "Solitary Man",
+      "track": {
+        "id": "3UMXhDBYe7eIXUe2HLUn0v",
+        "name": "Solitary Man"
+      },
       "duration_ms": 143853,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2zCyI9fuV5JrQzrO3kMwbw",
+      "album": {
+        "id": "2zCyI9fuV5JrQzrO3kMwbw",
+        "name": "American III: Solitary Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c26357620e211089bf6b45e9"
+      },
       "release_date": "2000-01-01",
       "popularity": 53
     },
     {
-      "trackId": "1mgqMZg8ojUUkrJvSvt9w3",
-      "name": "Colour Of A Carnival",
+      "track": {
+        "id": "1mgqMZg8ojUUkrJvSvt9w3",
+        "name": "Colour Of A Carnival"
+      },
       "duration_ms": 203080,
-      "artist": [
-        "Kasey Chambers"
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "id": "6uATIQFyydDXPc2RlLzcUE"
+        }
       ],
-      "artistId": [
-        "6uATIQFyydDXPc2RlLzcUE"
-      ],
-      "albumId": "144KQ83Z4klmzhlhMJADq3",
+      "album": {
+        "id": "144KQ83Z4klmzhlhMJADq3",
+        "name": "Carnival",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ec6b85fa47769fb7fce6d98"
+      },
       "release_date": "2006-01-01",
       "popularity": 18
     },
     {
-      "trackId": "3oEzrtqz88BwPYNlDsAsC4",
-      "name": "Kelly",
+      "track": {
+        "id": "3oEzrtqz88BwPYNlDsAsC4",
+        "name": "Kelly"
+      },
       "duration_ms": 141800,
-      "artist": [
-        "Songs Of Soil"
+      "artists": [
+        {
+          "name": "Songs Of Soil",
+          "id": "0oejAJg6QsZfWuGieDXXe5"
+        }
       ],
-      "artistId": [
-        "0oejAJg6QsZfWuGieDXXe5"
-      ],
-      "albumId": "44pRwRJgx4bXCiucorbznf",
+      "album": {
+        "id": "44pRwRJgx4bXCiucorbznf",
+        "name": "The Painted Trees of Ghostwood",
+        "img": "https://i.scdn.co/image/ab67616d00001e020152dc524c11fa0efa32f0ba"
+      },
       "release_date": "2000-01-01",
       "popularity": 9
     },
     {
-      "trackId": "5jU0BtJMYAKFMjLnMKvTnN",
-      "name": "Abide With Me",
+      "track": {
+        "id": "5jU0BtJMYAKFMjLnMKvTnN",
+        "name": "Abide With Me"
+      },
       "duration_ms": 167640,
-      "artist": [
-        "London Community Gospel Choir"
+      "artists": [
+        {
+          "name": "London Community Gospel Choir",
+          "id": "5DhdFUvQCHgY2F9mVL8uoz"
+        }
       ],
-      "artistId": [
-        "5DhdFUvQCHgY2F9mVL8uoz"
-      ],
-      "albumId": "5ENMKGCFHRBLiPrkV1owpc",
+      "album": {
+        "id": "5ENMKGCFHRBLiPrkV1owpc",
+        "name": "London Community Gospel Choir",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc44a143e3df5b905b725316"
+      },
       "release_date": "2010-03-28",
       "popularity": 15
     }

@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3256402_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1dAOP2gLUmD9wrjlmHmzZQ",
-      "name": "The Journey: Part 4 - Hope",
+      "track": {
+        "id": "1dAOP2gLUmD9wrjlmHmzZQ",
+        "name": "The Journey: Part 4 - Hope"
+      },
       "duration_ms": 290432,
-      "artist": [
-        "Mick Harvey",
-        "The Letter String Quartet"
+      "artists": [
+        {
+          "name": "Mick Harvey",
+          "id": "5RyAbJ3y4yw8EbDcRblB8S"
+        },
+        {
+          "name": "The Letter String Quartet",
+          "id": "3oQREvMX3aO1Omt4Y9W0hE"
+        }
       ],
-      "artistId": [
-        "5RyAbJ3y4yw8EbDcRblB8S",
-        "3oQREvMX3aO1Omt4Y9W0hE"
-      ],
-      "albumId": "35mqK6rCShTCztfr28VxmL",
+      "album": {
+        "id": "35mqK6rCShTCztfr28VxmL",
+        "name": "Waves of Anzac (Music from the Documentary) / The Journey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f48409918b2b34eb7ff16fca"
+      },
       "release_date": "2020-04-17",
       "popularity": 0
     },
     {
-      "trackId": "27hhIs2fp6w06N5zx4Eaa5",
-      "name": "Dream A Little Dream Of Me",
+      "track": {
+        "id": "27hhIs2fp6w06N5zx4Eaa5",
+        "name": "Dream A Little Dream Of Me"
+      },
       "duration_ms": 194426,
-      "artist": [
-        "The Mamas & The Papas"
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "id": "1bs7HoMkSyQwcobCpE9KpN"
+        }
       ],
-      "artistId": [
-        "1bs7HoMkSyQwcobCpE9KpN"
-      ],
-      "albumId": "0JJMI060q086v9ul5gHdey",
+      "album": {
+        "id": "0JJMI060q086v9ul5gHdey",
+        "name": "The Papas & The Mamas",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a7ffb7ecffe490b3abd82af"
+      },
       "release_date": "1968-05-01",
       "popularity": 71
     },
     {
-      "trackId": "3UDmHZcBTQp8Iu8droNtUl",
-      "name": "Revolution - Remastered 2009",
+      "track": {
+        "id": "3UDmHZcBTQp8Iu8droNtUl",
+        "name": "Revolution - Remastered 2009"
+      },
       "duration_ms": 205293,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1cTeNkeINtXiaMLlashAKs",
+      "album": {
+        "id": "1cTeNkeINtXiaMLlashAKs",
+        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e3d3c964df32136fb1cd594"
+      },
       "release_date": "1973-04-02",
       "popularity": 63
     },
     {
-      "trackId": "0EqtsCvcDjEz6svFsaV5HN",
-      "name": "Save Me",
+      "track": {
+        "id": "0EqtsCvcDjEz6svFsaV5HN",
+        "name": "Save Me"
+      },
       "duration_ms": 274493,
-      "artist": [
-        "Aimee Mann"
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "id": "3UpIbyXfGzmHG6TMH4dJEk"
+        }
       ],
-      "artistId": [
-        "3UpIbyXfGzmHG6TMH4dJEk"
-      ],
-      "albumId": "6jbjx0LGKl11H6UtrgS2nV",
+      "album": {
+        "id": "6jbjx0LGKl11H6UtrgS2nV",
+        "name": "Magnolia (Music from the Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273655b413287069edbbfc412"
+      },
       "release_date": "1999-12-07",
       "popularity": 55
     },
     {
-      "trackId": "3NMvVmKyjNGs91aSYje0RZ",
-      "name": "Tuxedo Junction",
+      "track": {
+        "id": "3NMvVmKyjNGs91aSYje0RZ",
+        "name": "Tuxedo Junction"
+      },
       "duration_ms": 185600,
-      "artist": [
-        "The Manhattan Transfer"
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "id": "2dogRElUKV20C2khRHqjRc"
+        }
       ],
-      "artistId": [
-        "2dogRElUKV20C2khRHqjRc"
-      ],
-      "albumId": "2xpz9Rm7NSVyOGN5zBODNx",
+      "album": {
+        "id": "2xpz9Rm7NSVyOGN5zBODNx",
+        "name": "The Manhattan Transfer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238552ffbe1d7b28e69a9826a"
+      },
       "release_date": "1975-04-02",
       "popularity": 46
     },
     {
-      "trackId": "58e84BHUgwwSJns0YjyF9F",
-      "name": "My Personality",
+      "track": {
+        "id": "58e84BHUgwwSJns0YjyF9F",
+        "name": "My Personality"
+      },
       "duration_ms": 228760,
-      "artist": [
-        "Eric Gadd"
+      "artists": [
+        {
+          "name": "Eric Gadd",
+          "id": "0NANKIINMQ9u4DYD5YqM0L"
+        }
       ],
-      "artistId": [
-        "0NANKIINMQ9u4DYD5YqM0L"
-      ],
-      "albumId": "5hgkUAoYRPmQcaBMfav3yn",
+      "album": {
+        "id": "5hgkUAoYRPmQcaBMfav3yn",
+        "name": "The Right Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d4aa09e3c9bd86cd14043d8"
+      },
       "release_date": "1997",
       "popularity": 31
     },
     {
-      "trackId": "1sSMRfy3HPjuuHqxqsUR69",
-      "name": "Kysser solen",
+      "track": {
+        "id": "1sSMRfy3HPjuuHqxqsUR69",
+        "name": "Kysser solen"
+      },
       "duration_ms": 236866,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "0mFVscExJSpYhATY4hZyOH",
+      "album": {
+        "id": "0mFVscExJSpYhATY4hZyOH",
+        "name": "Fria världen 1.989",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234be43c089ff4a6d2f558065"
+      },
       "release_date": "1989-02-22",
       "popularity": 5
     },
     {
-      "trackId": "2yXKOBQQ2Hx9hJ2HuzOxP8",
-      "name": "Yes It's Fucking Political",
+      "track": {
+        "id": "2yXKOBQQ2Hx9hJ2HuzOxP8",
+        "name": "Yes It's Fucking Political"
+      },
       "duration_ms": 231666,
-      "artist": [
-        "Skunk Anansie"
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "id": "5HlXA01kcjssYDT7EoqUJF"
+        }
       ],
-      "artistId": [
-        "5HlXA01kcjssYDT7EoqUJF"
-      ],
-      "albumId": "4S7eZrznxAyzv8IaoztDDR",
+      "album": {
+        "id": "4S7eZrznxAyzv8IaoztDDR",
+        "name": "Stoosh",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce0aba43c6cb48d8517d26df"
+      },
       "release_date": "1996-04-01",
       "popularity": 32
     },
     {
-      "trackId": "0lpwPMtbFAgn9TL22nJPkO",
-      "name": "Bionic Woman",
+      "track": {
+        "id": "0lpwPMtbFAgn9TL22nJPkO",
+        "name": "Bionic Woman"
+      },
       "duration_ms": 277200,
-      "artist": [
-        "Messestadt Ost"
+      "artists": [
+        {
+          "name": "Messestadt Ost",
+          "id": "1SGChdrdt7jq0ErUiCeSw4"
+        }
       ],
-      "artistId": [
-        "1SGChdrdt7jq0ErUiCeSw4"
-      ],
-      "albumId": "1UQ4TGxBIawn6clYQHnQYt",
+      "album": {
+        "id": "1UQ4TGxBIawn6clYQHnQYt",
+        "name": "Bionic Woman",
+        "img": "https://i.scdn.co/image/ab67616d00001e020366bda4d625eea7ed7b1f79"
+      },
       "release_date": "2022-03-18",
       "popularity": 23
     },
     {
-      "trackId": "7aCJXI4Kd52NoYQajXTd9H",
-      "name": "Crash and Burn Girl",
+      "track": {
+        "id": "7aCJXI4Kd52NoYQajXTd9H",
+        "name": "Crash and Burn Girl"
+      },
       "duration_ms": 215506,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "266CFxboeTc5o0E5wQdCkt",
+      "album": {
+        "id": "266CFxboeTc5o0E5wQdCkt",
+        "name": "Robyn (Special Online Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d8367e6626c54dd60af79f9"
+      },
       "release_date": "2005-04-27",
       "popularity": 23
     },
     {
-      "trackId": "0Aso7kqDwTVoSyL46qPSaR",
-      "name": "Wegåstjil",
+      "track": {
+        "id": "0Aso7kqDwTVoSyL46qPSaR",
+        "name": "Wegåstjil"
+      },
       "duration_ms": 350666,
-      "artist": [
-        "Lena Willemark"
+      "artists": [
+        {
+          "name": "Lena Willemark",
+          "id": "6wMtEmlrb01e5JqZi62T4y"
+        }
       ],
-      "artistId": [
-        "6wMtEmlrb01e5JqZi62T4y"
-      ],
-      "albumId": "7gT9pKdcUQ1ccjbXW6dk68",
+      "album": {
+        "id": "7gT9pKdcUQ1ccjbXW6dk68",
+        "name": "Windogur",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261da158238e9cd09eeaa2e55"
+      },
       "release_date": "2000-02-01",
       "popularity": 0
     },
     {
-      "trackId": "7IEitsLwojW6iLl19tlUfA",
-      "name": "\"Hem ljuva hem\"",
+      "track": {
+        "id": "7IEitsLwojW6iLl19tlUfA",
+        "name": "\"Hem ljuva hem\""
+      },
       "duration_ms": 135160,
-      "artist": [
-        "Detektivbyrån"
+      "artists": [
+        {
+          "name": "Detektivbyrån",
+          "id": "25IOiTtNlrRS3SaIcKbo7h"
+        }
       ],
-      "artistId": [
-        "25IOiTtNlrRS3SaIcKbo7h"
-      ],
-      "albumId": "7t4OrfCRSUiheM0HCWIooo",
+      "album": {
+        "id": "7t4OrfCRSUiheM0HCWIooo",
+        "name": "E18",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3f8e16f7d3b7ea9431eb7e7"
+      },
       "release_date": "2007-01-01",
       "popularity": 16
     },
     {
-      "trackId": "6gSo4hRA5KtA2v9m5qil5q",
-      "name": "Woyaho",
+      "track": {
+        "id": "6gSo4hRA5KtA2v9m5qil5q",
+        "name": "Woyaho"
+      },
       "duration_ms": 154226,
-      "artist": [
-        "Edie Brickell & New Bohemians"
+      "artists": [
+        {
+          "name": "Edie Brickell & New Bohemians",
+          "id": "4awU3JRQXIYoxabdwO92AU"
+        }
       ],
-      "artistId": [
-        "4awU3JRQXIYoxabdwO92AU"
-      ],
-      "albumId": "3DKuaIs6SPOZVdDmxAkz7j",
+      "album": {
+        "id": "3DKuaIs6SPOZVdDmxAkz7j",
+        "name": "Ghost Of A Dog",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223bf87a91c8d4ff70cd8d60b"
+      },
       "release_date": "1990-01-01",
       "popularity": 20
     }

@@ -7,226 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300153_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3e9BareWvE1p6YiFqlFEx7",
-      "name": "Misa Criolla: 1. Kyrie",
+      "track": {
+        "id": "3e9BareWvE1p6YiFqlFEx7",
+        "name": "Misa Criolla: 1. Kyrie"
+      },
       "duration_ms": 231426,
-      "artist": [
-        "Ariel Ramírez",
-        "José Carreras",
-        "Domingo Cura"
+      "artists": [
+        {
+          "name": "Ariel Ramírez",
+          "id": "2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "José Carreras",
+          "id": "1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Domingo Cura",
+          "id": "0PyBsZlcv8KxT5BsBFnmwG"
+        }
       ],
-      "artistId": [
-        "2dTieljE0C4ydCdUPIPLRW",
-        "1ahGKezyX9Rl7GuEF2tc15",
-        "0PyBsZlcv8KxT5BsBFnmwG"
-      ],
-      "albumId": "5WRU8YI00n28ZMvNAwZ2cB",
+      "album": {
+        "id": "5WRU8YI00n28ZMvNAwZ2cB",
+        "name": "Ramirez: Missa Criolla; Navidad Nuestra; Navidad en Verano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3db92b487f131ddc5168f60"
+      },
       "release_date": "1988-01-01",
       "popularity": 23
     },
     {
-      "trackId": "1dwm3o8uv51QUvKZ17mcLj",
-      "name": "Lugnare Vatten",
+      "track": {
+        "id": "1dwm3o8uv51QUvKZ17mcLj",
+        "name": "Lugnare Vatten"
+      },
       "duration_ms": 174160,
-      "artist": [
-        "Kjell Höglund"
+      "artists": [
+        {
+          "name": "Kjell Höglund",
+          "id": "69QSI0DPSaFVzYphVOWiv2"
+        }
       ],
-      "artistId": [
-        "69QSI0DPSaFVzYphVOWiv2"
-      ],
-      "albumId": "7HuKaWcI2ipRK2cva85OV1",
+      "album": {
+        "id": "7HuKaWcI2ipRK2cva85OV1",
+        "name": "Doktor Jekylls Testamente",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228ea9b835da82edb3c547e0c"
+      },
       "release_date": "1979",
       "popularity": 30
     },
     {
-      "trackId": "7uWPGOYJ5VD9ygh33Eemex",
-      "name": "La Flor de la Canela (with Joaquín Sabina)",
+      "track": {
+        "id": "7uWPGOYJ5VD9ygh33Eemex",
+        "name": "La Flor de la Canela (with Joaquín Sabina)"
+      },
       "duration_ms": 193000,
-      "artist": [
-        "Maria Dolores Pradera",
-        "Joaquín Sabina"
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "id": "58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Joaquín Sabina",
+          "id": "4aeIWo5CMF1uRmqgJdwkZW"
+        }
       ],
-      "artistId": [
-        "58LNn3iNPmmHusH1EkyBm4",
-        "4aeIWo5CMF1uRmqgJdwkZW"
-      ],
-      "albumId": "0U2kCRus4ANRCL4SoDkNRO",
+      "album": {
+        "id": "0U2kCRus4ANRCL4SoDkNRO",
+        "name": "Gracias A Vosotros",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bd36e70c91fbfaa016abc0d8"
+      },
       "release_date": "2012-11-27",
       "popularity": 50
     },
     {
-      "trackId": "1KqV8uw64FFQ8JNemG7hTF",
-      "name": "Saeta",
+      "track": {
+        "id": "1KqV8uw64FFQ8JNemG7hTF",
+        "name": "Saeta"
+      },
       "duration_ms": 335506,
-      "artist": [
-        "Gil Evans",
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "id": "7g9DeYASD3RzlT4kDchsQZ"
+        },
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "7g9DeYASD3RzlT4kDchsQZ",
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "2xyhltm9XWSQ5xok4C81BD",
+      "album": {
+        "id": "2xyhltm9XWSQ5xok4C81BD",
+        "name": "Sketches of Spain",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a75349dfe07dd14b5c3e6b1"
+      },
       "release_date": "1960-07-18",
       "popularity": 31
     },
     {
-      "trackId": "6ToM0uwxtPKo9CMpbPGYvM",
-      "name": "Break on Through (To the Other Side)",
+      "track": {
+        "id": "6ToM0uwxtPKo9CMpbPGYvM",
+        "name": "Break on Through (To the Other Side)"
+      },
       "duration_ms": 145866,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "1jWmEhn3ggaL6isoyLfwBn",
+      "album": {
+        "id": "1jWmEhn3ggaL6isoyLfwBn",
+        "name": "The Doors",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b96a8c5d61be8878452f8f1"
+      },
       "release_date": "1967-01-04",
       "popularity": 71
     },
     {
-      "trackId": "1IIydYQ6LTzZpgLXYpNlNy",
-      "name": "Libertango",
+      "track": {
+        "id": "1IIydYQ6LTzZpgLXYpNlNy",
+        "name": "Libertango"
+      },
       "duration_ms": 166103,
-      "artist": [
-        "Astor Piazzolla"
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "id": "7dsugSamBB7enWE2IrlbFg"
+        }
       ],
-      "artistId": [
-        "7dsugSamBB7enWE2IrlbFg"
-      ],
-      "albumId": "5aCJMfaCFKWA8Lek74q7no",
+      "album": {
+        "id": "5aCJMfaCFKWA8Lek74q7no",
+        "name": "Libertango - Buenos Aires Hora Cero",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220c497810f503069b27c0bdd"
+      },
       "release_date": "2010-06-02",
       "popularity": 45
     },
     {
-      "trackId": "4tXR895KKljrC2VptgyEhJ",
-      "name": "La Gota Fria",
+      "track": {
+        "id": "4tXR895KKljrC2VptgyEhJ",
+        "name": "La Gota Fria"
+      },
       "duration_ms": 215493,
-      "artist": [
-        "Carlos Vives"
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "id": "4vhNDa5ycK0ST968ek7kRr"
+        }
       ],
-      "artistId": [
-        "4vhNDa5ycK0ST968ek7kRr"
-      ],
-      "albumId": "2WtC5PE25yxWNPpAinn2in",
+      "album": {
+        "id": "2WtC5PE25yxWNPpAinn2in",
+        "name": "Clasicos de la Provincia",
+        "img": "https://i.scdn.co/image/ab67616d00001e0219620bc7b11768a982b843cd"
+      },
       "release_date": "1994-02-22",
       "popularity": 67
     },
     {
-      "trackId": "21vJz0yBSnY0CwRT3Zcq7V",
-      "name": "Preguntitas Sobre Dios",
+      "track": {
+        "id": "21vJz0yBSnY0CwRT3Zcq7V",
+        "name": "Preguntitas Sobre Dios"
+      },
       "duration_ms": 223560,
-      "artist": [
-        "Atahualpa Yupanqui"
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "id": "6I2DJf8fZwixA0GTLAvR1b"
+        }
       ],
-      "artistId": [
-        "6I2DJf8fZwixA0GTLAvR1b"
-      ],
-      "albumId": "48GuQ9Q84dS8KbamckRHnO",
+      "album": {
+        "id": "48GuQ9Q84dS8KbamckRHnO",
+        "name": "2",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ef9e8e094932608105f6b61"
+      },
       "release_date": "2013-09-07",
       "popularity": 14
     },
     {
-      "trackId": "1UiGBnDSOCdK7LmOHsDmWd",
-      "name": "Tonada De Luna Llena",
+      "track": {
+        "id": "1UiGBnDSOCdK7LmOHsDmWd",
+        "name": "Tonada De Luna Llena"
+      },
       "duration_ms": 194093,
-      "artist": [
-        "Caetano Veloso"
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "id": "7HGNYPmbDrMkylWqeFCOIQ"
+        }
       ],
-      "artistId": [
-        "7HGNYPmbDrMkylWqeFCOIQ"
-      ],
-      "albumId": "6fBP4q8gYKo4LU9V6zVT3i",
+      "album": {
+        "id": "6fBP4q8gYKo4LU9V6zVT3i",
+        "name": "Fina Estampa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02795193773593a1dae9bc0b12"
+      },
       "release_date": "1994-01-01",
       "popularity": 33
     },
     {
-      "trackId": "1wHKgpL6wb7V922tOJCIl3",
-      "name": "Django",
+      "track": {
+        "id": "1wHKgpL6wb7V922tOJCIl3",
+        "name": "Django"
+      },
       "duration_ms": 275333,
-      "artist": [
-        "The Modern Jazz Quartet"
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "id": "7wBFjZMHsC6nfV0HOSd6uI"
+        }
       ],
-      "artistId": [
-        "7wBFjZMHsC6nfV0HOSd6uI"
-      ],
-      "albumId": "53JQWUSeq9LeRsSLMrXVKZ",
+      "album": {
+        "id": "53JQWUSeq9LeRsSLMrXVKZ",
+        "name": "Pyramid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02691ac689e0497305a3c1d5e4"
+      },
       "release_date": "1960-01-01",
       "popularity": 35
     },
     {
-      "trackId": "5OpMfhKjpreUmcI0Gm0Cgb",
-      "name": "Satin Summer Nights",
+      "track": {
+        "id": "5OpMfhKjpreUmcI0Gm0Cgb",
+        "name": "Satin Summer Nights"
+      },
       "duration_ms": 345626,
-      "artist": [
-        "Paul Simon",
-        "Marc Anthony"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Marc Anthony",
+          "id": "4wLXwxDeWQ8mtUIRPxGiD6"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI",
-        "4wLXwxDeWQ8mtUIRPxGiD6"
-      ],
-      "albumId": "0MAkP3PbzMzNquRefQe1mn",
+      "album": {
+        "id": "0MAkP3PbzMzNquRefQe1mn",
+        "name": "Songs From The Capeman",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236af1a2dc03ee0598d3167eb"
+      },
       "release_date": "1997-11-18",
       "popularity": 19
     },
     {
-      "trackId": "40LHlo3yP8lieHoqslpq2A",
-      "name": "Familjelycka",
+      "track": {
+        "id": "40LHlo3yP8lieHoqslpq2A",
+        "name": "Familjelycka"
+      },
       "duration_ms": 194360,
-      "artist": [
-        "Bernt Staf"
+      "artists": [
+        {
+          "name": "Bernt Staf",
+          "id": "51qCcetCtThTLWrPh7jAue"
+        }
       ],
-      "artistId": [
-        "51qCcetCtThTLWrPh7jAue"
-      ],
-      "albumId": "3hPaLm6rT12IaxUMdYrcOz",
+      "album": {
+        "id": "3hPaLm6rT12IaxUMdYrcOz",
+        "name": "När dimman lättar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506fb44e9831fefaa7b78dae"
+      },
       "release_date": "1970",
       "popularity": 32
     },
     {
-      "trackId": "78ZqE2tjAxbqEGGlvGnQfT",
-      "name": "A Whiter Shade of Pale - Original Single Version",
+      "track": {
+        "id": "78ZqE2tjAxbqEGGlvGnQfT",
+        "name": "A Whiter Shade of Pale - Original Single Version"
+      },
       "duration_ms": 248946,
-      "artist": [
-        "Procol Harum"
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "id": "0GbqW5TJr7n4is453VOY4C"
+        }
       ],
-      "artistId": [
-        "0GbqW5TJr7n4is453VOY4C"
-      ],
-      "albumId": "4fKEheMhcigQBenkttp5CU",
+      "album": {
+        "id": "4fKEheMhcigQBenkttp5CU",
+        "name": "Hits'n'Flips",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d713ba3dce10df2b943dc6a"
+      },
       "release_date": "2019-05-03",
       "popularity": 68
     },
     {
-      "trackId": "5hV0uMeGIUtKASyf25htAo",
-      "name": "Caruso",
+      "track": {
+        "id": "5hV0uMeGIUtKASyf25htAo",
+        "name": "Caruso"
+      },
       "duration_ms": 319493,
-      "artist": [
-        "Lucio Dalla",
-        "Luciano Pavarotti",
-        "Unknown Artist"
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "id": "25MkkfEousyfp2eyh38FUl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Unknown Artist",
+          "id": "3POLGp1PDjloqIXcgfJZZl"
+        }
       ],
-      "artistId": [
-        "25MkkfEousyfp2eyh38FUl",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "3POLGp1PDjloqIXcgfJZZl"
-      ],
-      "albumId": "01gyhMRB3RBxhgkfqbBNVi",
+      "album": {
+        "id": "01gyhMRB3RBxhgkfqbBNVi",
+        "name": "Tutto Pavarotti",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a15daea966d92e6d59d903f3"
+      },
       "release_date": "1988-01-01",
       "popularity": 45
     },
     {
-      "trackId": "3HSt1ZgyKd8MONJ722o8PT",
-      "name": "Vi kommer aldrig att dö",
+      "track": {
+        "id": "3HSt1ZgyKd8MONJ722o8PT",
+        "name": "Vi kommer aldrig att dö"
+      },
       "duration_ms": 264226,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "6eDA4i4dMMeLZ3HJtU65sF",
+      "album": {
+        "id": "6eDA4i4dMMeLZ3HJtU65sF",
+        "name": "Amerika",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3417f3aed4b81357618a6f9"
+      },
       "release_date": "1996-09-26",
       "popularity": 37
     }

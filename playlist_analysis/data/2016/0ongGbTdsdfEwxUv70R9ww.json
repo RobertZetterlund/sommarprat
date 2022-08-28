@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/82b20ec6-c4f1-46b7-9f53-354ca9807e8b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6hW8QrypZ70yZAnEWy7AfS",
-      "name": "Den Allersidste Vals",
+      "track": {
+        "id": "6hW8QrypZ70yZAnEWy7AfS",
+        "name": "Den Allersidste Vals"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Lone Kellermann & Rockbandet"
+      "artists": [
+        {
+          "name": "Lone Kellermann & Rockbandet",
+          "id": "7rzd8aNFyPgVVIaACNjyvP"
+        }
       ],
-      "artistId": [
-        "7rzd8aNFyPgVVIaACNjyvP"
-      ],
-      "albumId": "1ABUwR2jsKJZf0pyDPkIWc",
+      "album": {
+        "id": "1ABUwR2jsKJZf0pyDPkIWc",
+        "name": "Tilfældigt Forbi",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cfa3a1ee32fa7ae3927a742"
+      },
       "release_date": "1979-04-29",
       "popularity": 5
     },
     {
-      "trackId": "3ix6K4wZY29bCujrSznwFZ",
-      "name": "Let's Dance - 2018 Remaster",
+      "track": {
+        "id": "3ix6K4wZY29bCujrSznwFZ",
+        "name": "Let's Dance - 2018 Remaster"
+      },
       "duration_ms": 457675,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "4NwG11AsDJluT732lSjMrV",
+      "album": {
+        "id": "4NwG11AsDJluT732lSjMrV",
+        "name": "Let's Dance (2018 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db0917ddd4139153bc1d1a1a"
+      },
       "release_date": "1983-04-14",
       "popularity": 71
     },
     {
-      "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
-      "name": "Because the Night",
+      "track": {
+        "id": "0lIoY4ZQsdn5QzhraM9o9u",
+        "name": "Because the Night"
+      },
       "duration_ms": 204800,
-      "artist": [
-        "Patti Smith"
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "id": "0vYkHhJ48Bs3jWcvZXvOrP"
+        }
       ],
-      "artistId": [
-        "0vYkHhJ48Bs3jWcvZXvOrP"
-      ],
-      "albumId": "1p6cWoueuunhpgy6131zAd",
+      "album": {
+        "id": "1p6cWoueuunhpgy6131zAd",
+        "name": "Easter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a"
+      },
       "release_date": "1978",
       "popularity": 69
     },
     {
-      "trackId": "42JtcEN0XW2mCGsMENWUox",
-      "name": "Vintersaga",
+      "track": {
+        "id": "42JtcEN0XW2mCGsMENWUox",
+        "name": "Vintersaga"
+      },
       "duration_ms": 238093,
-      "artist": [
-        "Monica Törnell"
+      "artists": [
+        {
+          "name": "Monica Törnell",
+          "id": "2mzcDa3H7xrIikDmF9rFwN"
+        }
       ],
-      "artistId": [
-        "2mzcDa3H7xrIikDmF9rFwN"
-      ],
-      "albumId": "1KrXeJBmvnDj3weYsWIFpQ",
+      "album": {
+        "id": "1KrXeJBmvnDj3weYsWIFpQ",
+        "name": "Mica",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283495c6a24a87307236c670f"
+      },
       "release_date": "1984-01-01",
       "popularity": 34
     },
     {
-      "trackId": "6CqaWFOMbRL7bH3S2Py2Ds",
-      "name": "Mano A Mano",
+      "track": {
+        "id": "6CqaWFOMbRL7bH3S2Py2Ds",
+        "name": "Mano A Mano"
+      },
       "duration_ms": 231944,
-      "artist": [
-        "Hugo Díaz"
+      "artists": [
+        {
+          "name": "Hugo Díaz",
+          "id": "45sN1U4xtrQEyzIaOUmavp"
+        }
       ],
-      "artistId": [
-        "45sN1U4xtrQEyzIaOUmavp"
-      ],
-      "albumId": "4LwgNmDKop1Q5gWVBN4tow",
+      "album": {
+        "id": "4LwgNmDKop1Q5gWVBN4tow",
+        "name": "Tangos",
+        "img": "https://i.scdn.co/image/ab67616d00001e02631039394e782fa8d1a22bf8"
+      },
       "release_date": "2001",
       "popularity": 35
     },
     {
-      "trackId": "3gv6PIx6Q6mciJt9VNGK9B",
-      "name": "Smoochy",
+      "track": {
+        "id": "3gv6PIx6Q6mciJt9VNGK9B",
+        "name": "Smoochy"
+      },
       "duration_ms": 222440,
-      "artist": [
-        "Benny Anderssons Orkester"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS"
-      ],
-      "albumId": "5Dn6JTtOLT6sonWezAN7gi",
+      "album": {
+        "id": "5Dn6JTtOLT6sonWezAN7gi",
+        "name": "Mitt hjärta klappar för dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02319cf06e00c661268c483520"
+      },
       "release_date": "2016-06-10",
       "popularity": 15
     },
     {
-      "trackId": "1CtAzw53AIXKjAemxy4b1j",
-      "name": "Beds Are Burning - Remastered",
+      "track": {
+        "id": "1CtAzw53AIXKjAemxy4b1j",
+        "name": "Beds Are Burning - Remastered"
+      },
       "duration_ms": 255680,
-      "artist": [
-        "Midnight Oil"
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "id": "72KyoXzp0NOQij6OcmZUxk"
+        }
       ],
-      "artistId": [
-        "72KyoXzp0NOQij6OcmZUxk"
-      ],
-      "albumId": "243XzHQegX82bPnUVQ0SPV",
+      "album": {
+        "id": "243XzHQegX82bPnUVQ0SPV",
+        "name": "Diesel And Dust",
+        "img": "https://i.scdn.co/image/ab67616d00001e020dd350beeb5ac73672ad6e80"
+      },
       "release_date": "1987-10-02",
       "popularity": 72
     },
     {
-      "trackId": "5JN70TFrbjjHVJkKfSXlAn",
-      "name": "O Mary Don't You Weep",
+      "track": {
+        "id": "5JN70TFrbjjHVJkKfSXlAn",
+        "name": "O Mary Don't You Weep"
+      },
       "duration_ms": 364973,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "2O3avtEIE8xX9F0zcIjIZI",
+      "album": {
+        "id": "2O3avtEIE8xX9F0zcIjIZI",
+        "name": "We Shall Overcome: The Seeger Sessions (American Land Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8f9434375ea01571d149eb2"
+      },
       "release_date": "2006",
       "popularity": 39
     },
     {
-      "trackId": "1VucjBWweQcxgy9Gk3lFFK",
-      "name": "Sväs Märtas kulning/Fårlock",
+      "track": {
+        "id": "1VucjBWweQcxgy9Gk3lFFK",
+        "name": "Sväs Märtas kulning/Fårlock"
+      },
       "duration_ms": 156358,
-      "artist": [
-        "Lena Willemark"
+      "artists": [
+        {
+          "name": "Lena Willemark",
+          "id": "6wMtEmlrb01e5JqZi62T4y"
+        }
       ],
-      "artistId": [
-        "6wMtEmlrb01e5JqZi62T4y"
-      ],
-      "albumId": "2T7WS39fBsOYSERd1wX3yN",
+      "album": {
+        "id": "2T7WS39fBsOYSERd1wX3yN",
+        "name": "Älvdalens elektriska",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268956fb1f2d0f721a6ae8abb"
+      },
       "release_date": "2006-09-06",
       "popularity": 10
     },
     {
-      "trackId": "1zOZAPt0NuqgD2gcVQ2LkU",
-      "name": "Jag Har Drömt...",
+      "track": {
+        "id": "1zOZAPt0NuqgD2gcVQ2LkU",
+        "name": "Jag Har Drömt..."
+      },
       "duration_ms": 203621,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 19
     },
     {
-      "trackId": "3WwR9Miesu2KRXioSZZhZQ",
-      "name": "Olyckskorpen",
+      "track": {
+        "id": "3WwR9Miesu2KRXioSZZhZQ",
+        "name": "Olyckskorpen"
+      },
       "duration_ms": 145384,
-      "artist": [
-        "Stadens Hjältar"
+      "artists": [
+        {
+          "name": "Stadens Hjältar",
+          "id": "50Zve92H088BcqrEVYyjaQ"
+        }
       ],
-      "artistId": [
-        "50Zve92H088BcqrEVYyjaQ"
-      ],
-      "albumId": "66mpLBOrv0XK6UB7Ibldw4",
+      "album": {
+        "id": "66mpLBOrv0XK6UB7Ibldw4",
+        "name": "Barnmusik för små hjältar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02957df5d779f2f48ef3f16281"
+      },
       "release_date": "2018-04-06",
       "popularity": 32
     },
     {
-      "trackId": "3gU99TkodSD4pMC5wlTYkn",
-      "name": "Watch The Sunrise",
+      "track": {
+        "id": "3gU99TkodSD4pMC5wlTYkn",
+        "name": "Watch The Sunrise"
+      },
       "duration_ms": 224000,
-      "artist": [
-        "Big Star"
+      "artists": [
+        {
+          "name": "Big Star",
+          "id": "3UvcmAOZt64oKpP95f6MMM"
+        }
       ],
-      "artistId": [
-        "3UvcmAOZt64oKpP95f6MMM"
-      ],
-      "albumId": "0TDBkNvMV4M4VUaDtQit7i",
+      "album": {
+        "id": "0TDBkNvMV4M4VUaDtQit7i",
+        "name": "#1 Record (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df6db6e75b87f002ab397d33"
+      },
       "release_date": "1972",
       "popularity": 30
     }

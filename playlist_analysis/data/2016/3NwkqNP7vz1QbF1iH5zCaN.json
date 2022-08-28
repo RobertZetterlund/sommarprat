@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/9b1f7ce1-8237-4d71-ade0-feb1c277d2ba.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3fbnbn6A5O5RNb08tlUEgd",
-      "name": "Streets of Philadelphia - Single Edit",
+      "track": {
+        "id": "3fbnbn6A5O5RNb08tlUEgd",
+        "name": "Streets of Philadelphia - Single Edit"
+      },
       "duration_ms": 195080,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "211iJYKUbpqrykRsPG27CG",
+      "album": {
+        "id": "211iJYKUbpqrykRsPG27CG",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274a921f2425482a1addca0a9"
+      },
       "release_date": "1995-02-27",
       "popularity": 70
     },
     {
-      "trackId": "1Yk0cQdMLx5RzzFTYwmuld",
-      "name": "Hello",
+      "track": {
+        "id": "1Yk0cQdMLx5RzzFTYwmuld",
+        "name": "Hello"
+      },
       "duration_ms": 295502,
-      "artist": [
-        "Adele"
+      "artists": [
+        {
+          "name": "Adele",
+          "id": "4dpARuHxo51G3z768sgnrY"
+        }
       ],
-      "artistId": [
-        "4dpARuHxo51G3z768sgnrY"
-      ],
-      "albumId": "6TVfiWmo8KtflUAmkK9gGF",
+      "album": {
+        "id": "6TVfiWmo8KtflUAmkK9gGF",
+        "name": "25",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1ea3305aa003425dda05882"
+      },
       "release_date": "2015-11-20",
       "popularity": 73
     },
     {
-      "trackId": "2FnUyLhe7sjXgnZlK9sc0z",
-      "name": "Bara Få Va Mig Själv",
+      "track": {
+        "id": "2FnUyLhe7sjXgnZlK9sc0z",
+        "name": "Bara Få Va Mig Själv"
+      },
       "duration_ms": 214887,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "4sVpJJTw1dKDGlTprOvafq",
+      "album": {
+        "id": "4sVpJJTw1dKDGlTprOvafq",
+        "name": "Kristaller",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e5deed9a2a9ae9a5c8766cb"
+      },
       "release_date": "2016-09-16",
       "popularity": 51
     },
     {
-      "trackId": "4nYKI0JqkWfr1YbmH4ADEM",
-      "name": "Higher Love (feat. Viktor Norén & Gustaf Norén)",
+      "track": {
+        "id": "4nYKI0JqkWfr1YbmH4ADEM",
+        "name": "Higher Love (feat. Viktor Norén & Gustaf Norén)"
+      },
       "duration_ms": 244207,
-      "artist": [
-        "State of Sound",
-        "Viktor Norén",
-        "Gustaf Norén"
+      "artists": [
+        {
+          "name": "State of Sound",
+          "id": "05o1zW8b6PV6rEquXr74sB"
+        },
+        {
+          "name": "Viktor Norén",
+          "id": "16iB35jaW8fuKzq3iTIYQe"
+        },
+        {
+          "name": "Gustaf Norén",
+          "id": "1zR67M6RSKhUxeHfjZ1TWf"
+        }
       ],
-      "artistId": [
-        "05o1zW8b6PV6rEquXr74sB",
-        "16iB35jaW8fuKzq3iTIYQe",
-        "1zR67M6RSKhUxeHfjZ1TWf"
-      ],
-      "albumId": "5sCEcgPww70kjRlgW7Z1Q3",
+      "album": {
+        "id": "5sCEcgPww70kjRlgW7Z1Q3",
+        "name": "Higher Love (feat. Viktor Norén & Gustaf Norén)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a494e3bc86b0112b4acfe7b"
+      },
       "release_date": "2016-01-29",
       "popularity": 41
     },
     {
-      "trackId": "7iN1s7xHE4ifF5povM6A48",
-      "name": "Let It Be - Remastered 2009",
+      "track": {
+        "id": "7iN1s7xHE4ifF5povM6A48",
+        "name": "Let It Be - Remastered 2009"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+      "album": {
+        "id": "0jTGHV5xqHPvEcwL8f6YU5",
+        "name": "Let It Be (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1"
+      },
       "release_date": "1970-05-08",
       "popularity": 77
     },
     {
-      "trackId": "0SVZV4iQ9Qi5mEpijs63v1",
-      "name": "Ängeln i rummet",
+      "track": {
+        "id": "0SVZV4iQ9Qi5mEpijs63v1",
+        "name": "Ängeln i rummet"
+      },
       "duration_ms": 253946,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "38FYkaPius8Wt9iV1eeojZ",
+      "album": {
+        "id": "38FYkaPius8Wt9iV1eeojZ",
+        "name": "Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d33a2b24c121b88b5296c5e"
+      },
       "release_date": "2011-12-25",
       "popularity": 39
     },
     {
-      "trackId": "2U7DYT889EWjFnDyrYfwdk",
-      "name": "The Best Thing",
+      "track": {
+        "id": "2U7DYT889EWjFnDyrYfwdk",
+        "name": "The Best Thing"
+      },
       "duration_ms": 275573,
-      "artist": [
-        "Richard Page"
+      "artists": [
+        {
+          "name": "Richard Page",
+          "id": "7vdEaXxp1JG1mnRdwYJxVx"
+        }
       ],
-      "artistId": [
-        "7vdEaXxp1JG1mnRdwYJxVx"
-      ],
-      "albumId": "1CrTCW8HOmAk7kHGUJz70S",
+      "album": {
+        "id": "1CrTCW8HOmAk7kHGUJz70S",
+        "name": "Shelter Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cad2e04cca24a7bc70a11769"
+      },
       "release_date": "1996-01-01",
       "popularity": 14
     },
     {
-      "trackId": "703M5IA0dH98bxMSHU58BY",
-      "name": "Vandraren",
+      "track": {
+        "id": "703M5IA0dH98bxMSHU58BY",
+        "name": "Vandraren"
+      },
       "duration_ms": 181341,
-      "artist": [
-        "Cleo",
-        "Näääk",
-        "Ayla"
+      "artists": [
+        {
+          "name": "Cleo",
+          "id": "1SwDFc5jX708XR3XtzLrRs"
+        },
+        {
+          "name": "Näääk",
+          "id": "4zJlp9X6E6IpfUrIzwrg7S"
+        },
+        {
+          "name": "Ayla",
+          "id": "2bhXhHd607n9Ax6GhaNbPD"
+        }
       ],
-      "artistId": [
-        "1SwDFc5jX708XR3XtzLrRs",
-        "4zJlp9X6E6IpfUrIzwrg7S",
-        "2bhXhHd607n9Ax6GhaNbPD"
-      ],
-      "albumId": "17fs62pUBL6r42gcGQiiUK",
+      "album": {
+        "id": "17fs62pUBL6r42gcGQiiUK",
+        "name": "Vandraren",
+        "img": "https://i.scdn.co/image/ab67616d00001e024120535fb92e96220783b671"
+      },
       "release_date": "2016-04-19",
       "popularity": 29
     },
     {
-      "trackId": "7vHshinTU8161w69EPbabY",
-      "name": "Younger - Kygo Remix",
+      "track": {
+        "id": "7vHshinTU8161w69EPbabY",
+        "name": "Younger - Kygo Remix"
+      },
       "duration_ms": 351578,
-      "artist": [
-        "Seinabo Sey",
-        "Kygo"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Kygo",
+          "id": "23fqKkggKUBHNkbKtXEls4"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i",
-        "23fqKkggKUBHNkbKtXEls4"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 65
     },
     {
-      "trackId": "3bMsT2EiXYKSUjc9uvIkI3",
-      "name": "Wake Me Up - Avicii By Avicii",
+      "track": {
+        "id": "3bMsT2EiXYKSUjc9uvIkI3",
+        "name": "Wake Me Up - Avicii By Avicii"
+      },
       "duration_ms": 425760,
-      "artist": [
-        "Avicii",
-        "Tim Bergling"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Tim Bergling",
+          "id": "5baGk14NDI3ZDPbr6wJilc"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5baGk14NDI3ZDPbr6wJilc"
-      ],
-      "albumId": "0ignCov9foaLxuqND5GMtl",
+      "album": {
+        "id": "0ignCov9foaLxuqND5GMtl",
+        "name": "True: Avicii By Avicii",
+        "img": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8"
+      },
       "release_date": "2014-01-01",
       "popularity": 49
     },
     {
-      "trackId": "2MpXdpwJUPgN26SXVvQzVF",
-      "name": "Aldrig ska jag sluta älska dig",
+      "track": {
+        "id": "2MpXdpwJUPgN26SXVvQzVF",
+        "name": "Aldrig ska jag sluta älska dig"
+      },
       "duration_ms": 246452,
-      "artist": [
-        "Jonas Gardell"
+      "artists": [
+        {
+          "name": "Jonas Gardell",
+          "id": "5JAuEHFIUj9FqnQRrsmISo"
+        }
       ],
-      "artistId": [
-        "5JAuEHFIUj9FqnQRrsmISo"
-      ],
-      "albumId": "6HR1JQfwBYaxdj5BOYjjNq",
+      "album": {
+        "id": "6HR1JQfwBYaxdj5BOYjjNq",
+        "name": "Nästan vackra",
+        "img": "https://i.scdn.co/image/ab67616d00001e024958746358e361d801f11628"
+      },
       "release_date": "2006-08-09",
       "popularity": 42
     },
     {
-      "trackId": "4JehYebiI9JE8sR8MisGVb",
-      "name": "Halo",
+      "track": {
+        "id": "4JehYebiI9JE8sR8MisGVb",
+        "name": "Halo"
+      },
       "duration_ms": 261640,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "39P7VD7qlg3Z0ltq60eHp7",
+      "album": {
+        "id": "39P7VD7qlg3Z0ltq60eHp7",
+        "name": "I AM...SASHA FIERCE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02801c4d205accdba0a468a10b"
+      },
       "release_date": "2008-11-17",
       "popularity": 74
     }

@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3302735_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4waP1ya1FPFF48gwFAtgF3",
-      "name": "Beväpna er",
+      "track": {
+        "id": "4waP1ya1FPFF48gwFAtgF3",
+        "name": "Beväpna er"
+      },
       "duration_ms": 223000,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 5
     },
     {
-      "trackId": "7jFRvmM6aJFLVre8umne84",
-      "name": "Svarta tupp",
+      "track": {
+        "id": "7jFRvmM6aJFLVre8umne84",
+        "name": "Svarta tupp"
+      },
       "duration_ms": 230000,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 3
     },
     {
-      "trackId": "6dAWV21df0Txl9X0N9XyhW",
-      "name": "Cold War",
+      "track": {
+        "id": "6dAWV21df0Txl9X0N9XyhW",
+        "name": "Cold War"
+      },
       "duration_ms": 47865,
-      "artist": [
-        "Mikael Karlsson"
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "id": "1XNtgBboL5YQGHqM8zFFDx"
+        }
       ],
-      "artistId": [
-        "1XNtgBboL5YQGHqM8zFFDx"
-      ],
-      "albumId": "5Ng1Pl9BTKiPb8dPwzMpyY",
+      "album": {
+        "id": "5Ng1Pl9BTKiPb8dPwzMpyY",
+        "name": "Battlefield: Bad Company 2 (Original Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021de8ab7596541987c401c4e1"
+      },
       "release_date": "2010-02-02",
       "popularity": 24
     },
     {
-      "trackId": "560Fmt8vTDNNC9v28mOgsW",
-      "name": "Världens bästa Karlsson",
+      "track": {
+        "id": "560Fmt8vTDNNC9v28mOgsW",
+        "name": "Världens bästa Karlsson"
+      },
       "duration_ms": 115626,
-      "artist": [
-        "Astrid Lindgren",
-        "Karlsson på taket"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Karlsson på taket",
+          "id": "29J0FCLB5tolwMwiSAlYa3"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "29J0FCLB5tolwMwiSAlYa3"
-      ],
-      "albumId": "0gqvzrj5RJ5rCX2Ho58doX",
+      "album": {
+        "id": "0gqvzrj5RJ5rCX2Ho58doX",
+        "name": "Karlsson på taket",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f10323d3507334aa3e37b6b8"
+      },
       "release_date": "1974-01-01",
       "popularity": 43
     },
     {
-      "trackId": "560Fmt8vTDNNC9v28mOgsW",
-      "name": "Världens bästa Karlsson",
+      "track": {
+        "id": "560Fmt8vTDNNC9v28mOgsW",
+        "name": "Världens bästa Karlsson"
+      },
       "duration_ms": 115626,
-      "artist": [
-        "Astrid Lindgren",
-        "Karlsson på taket"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Karlsson på taket",
+          "id": "29J0FCLB5tolwMwiSAlYa3"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "29J0FCLB5tolwMwiSAlYa3"
-      ],
-      "albumId": "0gqvzrj5RJ5rCX2Ho58doX",
+      "album": {
+        "id": "0gqvzrj5RJ5rCX2Ho58doX",
+        "name": "Karlsson på taket",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f10323d3507334aa3e37b6b8"
+      },
       "release_date": "1974-01-01",
       "popularity": 43
     },
     {
-      "trackId": "4HC4ZmPmmXeSGyg8sG8ymN",
-      "name": "Man Down",
+      "track": {
+        "id": "4HC4ZmPmmXeSGyg8sG8ymN",
+        "name": "Man Down"
+      },
       "duration_ms": 237562,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 0
     },
     {
-      "trackId": "5FvhCfX5jqbbSgZioNsF0u",
-      "name": "You Are My Sister",
+      "track": {
+        "id": "5FvhCfX5jqbbSgZioNsF0u",
+        "name": "You Are My Sister"
+      },
       "duration_ms": 173875,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 0
     },
     {
-      "trackId": "560Fmt8vTDNNC9v28mOgsW",
-      "name": "Världens bästa Karlsson",
+      "track": {
+        "id": "560Fmt8vTDNNC9v28mOgsW",
+        "name": "Världens bästa Karlsson"
+      },
       "duration_ms": 115626,
-      "artist": [
-        "Astrid Lindgren",
-        "Karlsson på taket"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Karlsson på taket",
+          "id": "29J0FCLB5tolwMwiSAlYa3"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "29J0FCLB5tolwMwiSAlYa3"
-      ],
-      "albumId": "0gqvzrj5RJ5rCX2Ho58doX",
+      "album": {
+        "id": "0gqvzrj5RJ5rCX2Ho58doX",
+        "name": "Karlsson på taket",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f10323d3507334aa3e37b6b8"
+      },
       "release_date": "1974-01-01",
       "popularity": 43
     },
     {
-      "trackId": "38iTUAY4OKORfE2wj8pSh7",
-      "name": "Nine to Five",
+      "track": {
+        "id": "38iTUAY4OKORfE2wj8pSh7",
+        "name": "Nine to Five"
+      },
       "duration_ms": 223500,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 0
     },
     {
-      "trackId": "4t4nTqqa87MtIthvwcjArC",
-      "name": "It isn't Nice",
+      "track": {
+        "id": "4t4nTqqa87MtIthvwcjArC",
+        "name": "It isn't Nice"
+      },
       "duration_ms": 250250,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 1
     },
     {
-      "trackId": "5ik6r3elwgWLwCvEJuXV40",
-      "name": "They Don't Really Care About Us",
+      "track": {
+        "id": "5ik6r3elwgWLwCvEJuXV40",
+        "name": "They Don't Really Care About Us"
+      },
       "duration_ms": 254625,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 1
     },
     {
-      "trackId": "19NkfCgmEqLCXihs2PCAOu",
-      "name": "Because the Night",
+      "track": {
+        "id": "19NkfCgmEqLCXihs2PCAOu",
+        "name": "Because the Night"
+      },
       "duration_ms": 164000,
-      "artist": [
-        "Karlsson & Karlsson"
+      "artists": [
+        {
+          "name": "Karlsson & Karlsson",
+          "id": "4Tebhatd8sfi7mTj2EZixk"
+        }
       ],
-      "artistId": [
-        "4Tebhatd8sfi7mTj2EZixk"
-      ],
-      "albumId": "35yK1ik9sQw3kgDUunhJKb",
+      "album": {
+        "id": "35yK1ik9sQw3kgDUunhJKb",
+        "name": "Sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278fffd2e73a1ac71a806c8ad"
+      },
       "release_date": "2015-10-10",
       "popularity": 1
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

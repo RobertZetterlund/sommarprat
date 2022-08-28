@@ -7,276 +7,406 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/685e8db8-d39e-49bd-90d5-9adb8dcdba29.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5P0tWr5JZqDoi5wq2OalFH",
-      "name": "Je t'aime moi non plus",
+      "track": {
+        "id": "5P0tWr5JZqDoi5wq2OalFH",
+        "name": "Je t'aime moi non plus"
+      },
       "duration_ms": 268600,
-      "artist": [
-        "Serge Gainsbourg",
-        "Jane Birkin"
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "id": "01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "id": "4XYH5Be5pn1qkxhfaID3J5"
+        }
       ],
-      "artistId": [
-        "01C9OoXDvCKkGcf735Tcfo",
-        "4XYH5Be5pn1qkxhfaID3J5"
-      ],
-      "albumId": "0K7Rapnz35iffV4NNGWtPG",
+      "album": {
+        "id": "0K7Rapnz35iffV4NNGWtPG",
+        "name": "Comic Strip",
+        "img": "https://i.scdn.co/image/ab67616d00001e02243695a2f99da1403306c6b8"
+      },
       "release_date": "1996",
       "popularity": 52
     },
     {
-      "trackId": "3JVYnKW43PB7aO1X9kSDxH",
-      "name": "In Vein",
+      "track": {
+        "id": "3JVYnKW43PB7aO1X9kSDxH",
+        "name": "In Vein"
+      },
       "duration_ms": 261853,
-      "artist": [
-        "Rick Ross",
-        "The Weeknd"
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "id": "1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "The Weeknd",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+        }
       ],
-      "artistId": [
-        "1sBkRIssrMs1AbVkOJbc7a",
-        "1Xyo4u8uXC1ZmMpatF05PJ"
-      ],
-      "albumId": "6a4HHZe13SySfC50BGy8Hm",
+      "album": {
+        "id": "6a4HHZe13SySfC50BGy8Hm",
+        "name": "Mastermind (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204913584f114904f7646d637"
+      },
       "release_date": "2014-01-01",
       "popularity": 56
     },
     {
-      "trackId": "00TPSqB5Ia35PZkMbTVpZz",
-      "name": "Chiribim Chiribom",
+      "track": {
+        "id": "00TPSqB5Ia35PZkMbTVpZz",
+        "name": "Chiribim Chiribom"
+      },
       "duration_ms": 157600,
-      "artist": [
-        "The Barry Sisters"
+      "artists": [
+        {
+          "name": "The Barry Sisters",
+          "id": "3jgKYSu1RdgirlYnF9lTsG"
+        }
       ],
-      "artistId": [
-        "3jgKYSu1RdgirlYnF9lTsG"
-      ],
-      "albumId": "4kmk2XKO7SYjQRlEhTkL2C",
+      "album": {
+        "id": "4kmk2XKO7SYjQRlEhTkL2C",
+        "name": "Their Greatest Yiddish Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc2b556ad8caec085f56e444"
+      },
       "release_date": "1965-10-16",
       "popularity": 33
     },
     {
-      "trackId": "6gz6rxRge7BLRreM9uJXxI",
-      "name": "Schoenberg: Verklärte Nacht, Op. 4: I. Grave",
+      "track": {
+        "id": "6gz6rxRge7BLRreM9uJXxI",
+        "name": "Schoenberg: Verklärte Nacht, Op. 4: I. Grave"
+      },
       "duration_ms": 397733,
-      "artist": [
-        "Arnold Schoenberg",
-        "Daniel Barenboim",
-        "Chicago Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "id": "5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "id": "78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "id": "6TD08jYeuN128P2MZTbc8E"
+        }
       ],
-      "artistId": [
-        "5U827e4jbYz6EjtN0fIDt9",
-        "78sEozQOEJxzXegUuqRSgH",
-        "6TD08jYeuN128P2MZTbc8E"
-      ],
-      "albumId": "7A9kmvlfvRQqkzcTDeAUhs",
+      "album": {
+        "id": "7A9kmvlfvRQqkzcTDeAUhs",
+        "name": "Schonberg : Verklärte Nacht, 5 Orchestral Pieces & Piano Works",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243a9cd16cbce2d72625a024b"
+      },
       "release_date": "1995-04-27",
       "popularity": 29
     },
     {
-      "trackId": "6gz6rxRge7BLRreM9uJXxI",
-      "name": "Schoenberg: Verklärte Nacht, Op. 4: I. Grave",
+      "track": {
+        "id": "6gz6rxRge7BLRreM9uJXxI",
+        "name": "Schoenberg: Verklärte Nacht, Op. 4: I. Grave"
+      },
       "duration_ms": 397733,
-      "artist": [
-        "Arnold Schoenberg",
-        "Daniel Barenboim",
-        "Chicago Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "id": "5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "id": "78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "id": "6TD08jYeuN128P2MZTbc8E"
+        }
       ],
-      "artistId": [
-        "5U827e4jbYz6EjtN0fIDt9",
-        "78sEozQOEJxzXegUuqRSgH",
-        "6TD08jYeuN128P2MZTbc8E"
-      ],
-      "albumId": "7A9kmvlfvRQqkzcTDeAUhs",
+      "album": {
+        "id": "7A9kmvlfvRQqkzcTDeAUhs",
+        "name": "Schonberg : Verklärte Nacht, 5 Orchestral Pieces & Piano Works",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243a9cd16cbce2d72625a024b"
+      },
       "release_date": "1995-04-27",
       "popularity": 29
     },
     {
-      "trackId": "0lTMVmJXdOsGLlZyzFP6Og",
-      "name": "Apres un reve, Op. 7, No. 1 (arr. for violin and piano)",
+      "track": {
+        "id": "0lTMVmJXdOsGLlZyzFP6Og",
+        "name": "Apres un reve, Op. 7, No. 1 (arr. for violin and piano)"
+      },
       "duration_ms": 178133,
-      "artist": [
-        "Anonymous",
-        "Gabriel Fauré",
-        "Christian Svarfvar"
+      "artists": [
+        {
+          "name": "Anonymous",
+          "id": "4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Gabriel Fauré",
+          "id": "2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christian Svarfvar",
+          "id": "0jcR7ThUTzrELU3Ho4ko9U"
+        }
       ],
-      "artistId": [
-        "4kCZ5nyurc9eIqLJfUcW0Y",
-        "2gClsBep1tt1rv1CN210SO",
-        "0jcR7ThUTzrELU3Ho4ko9U"
-      ],
-      "albumId": "6Bgqkmf095spyt1tE1njYd",
+      "album": {
+        "id": "6Bgqkmf095spyt1tE1njYd",
+        "name": "Après un rêve",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3f9d55f5bb3cbc7c5ad0b02"
+      },
       "release_date": "2016-09-02",
       "popularity": 4
     },
     {
-      "trackId": "6fcqnQf44Ppvc36jKd4uch",
-      "name": "Çayelinden Öteye/Yali Yali",
+      "track": {
+        "id": "6fcqnQf44Ppvc36jKd4uch",
+        "name": "Çayelinden Öteye/Yali Yali"
+      },
       "duration_ms": 161564,
-      "artist": [
-        "Neşe Karaböcek"
+      "artists": [
+        {
+          "name": "Neşe Karaböcek",
+          "id": "2LyOwgMY8RSQU5iK9rHj0B"
+        }
       ],
-      "artistId": [
-        "2LyOwgMY8RSQU5iK9rHj0B"
-      ],
-      "albumId": "3SAlmME2G8dReliNrcJQ45",
+      "album": {
+        "id": "3SAlmME2G8dReliNrcJQ45",
+        "name": "Dost Bahçesi",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a6d446dec9e09907603f2c7a"
+      },
       "release_date": "1979-01-14",
       "popularity": 35
     },
     {
-      "trackId": "3OzNi0pIuKw2TislAAD83I",
-      "name": "In A Landscape",
+      "track": {
+        "id": "3OzNi0pIuKw2TislAAD83I",
+        "name": "In A Landscape"
+      },
       "duration_ms": 768173,
-      "artist": [
-        "John Cage",
-        "Herbert Henck"
+      "artists": [
+        {
+          "name": "John Cage",
+          "id": "1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Herbert Henck",
+          "id": "3oUiU2Wni97F5yPnZm1kUx"
+        }
       ],
-      "artistId": [
-        "1Z3fF5lZdCM0ZHugkGoH8s",
-        "3oUiU2Wni97F5yPnZm1kUx"
-      ],
-      "albumId": "20optSDwQBFOLOgkIvM7fo",
+      "album": {
+        "id": "20optSDwQBFOLOgkIvM7fo",
+        "name": "Cage: Early Piano Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0266b13d741336aa617c95a1c0"
+      },
       "release_date": "2005-06-06",
       "popularity": 36
     },
     {
-      "trackId": "0kdOSSWcYye98wID8RIhdl",
-      "name": "Tänd Alla Ljus",
+      "track": {
+        "id": "0kdOSSWcYye98wID8RIhdl",
+        "name": "Tänd Alla Ljus"
+      },
       "duration_ms": 230233,
-      "artist": [
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "4TGIEEN54PKQe0GuQGjZ4M",
+      "album": {
+        "id": "4TGIEEN54PKQe0GuQGjZ4M",
+        "name": "Jag Dör För Dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e023365bba583b1ac748627a507"
+      },
       "release_date": "2015-04-29",
       "popularity": 41
     },
     {
-      "trackId": "7KXjTSCq5nL1LoYtL7XAwS",
-      "name": "HUMBLE.",
+      "track": {
+        "id": "7KXjTSCq5nL1LoYtL7XAwS",
+        "name": "HUMBLE."
+      },
       "duration_ms": 177000,
-      "artist": [
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "4eLPsYPBmXABThSJ821sqY",
+      "album": {
+        "id": "4eLPsYPBmXABThSJ821sqY",
+        "name": "DAMN.",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699"
+      },
       "release_date": "2017-04-14",
       "popularity": 82
     },
     {
-      "trackId": "0VgkVdmE4gld66l8iyGjgx",
-      "name": "Mask Off",
+      "track": {
+        "id": "0VgkVdmE4gld66l8iyGjgx",
+        "name": "Mask Off"
+      },
       "duration_ms": 204600,
-      "artist": [
-        "Future"
+      "artists": [
+        {
+          "name": "Future",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i"
+        }
       ],
-      "artistId": [
-        "1RyvyyTE3xzB2ZywiAwp0i"
-      ],
-      "albumId": "17FBoXK1NU2rvJBbzdzw0r",
+      "album": {
+        "id": "17FBoXK1NU2rvJBbzdzw0r",
+        "name": "FUTURE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0b64c8be3c4e804abcb2696"
+      },
       "release_date": "2017-06-30",
       "popularity": 79
     },
     {
-      "trackId": "5rK0pyEObO4DBFLy682QvR",
-      "name": "Mask Off - Marshmello Remix",
+      "track": {
+        "id": "5rK0pyEObO4DBFLy682QvR",
+        "name": "Mask Off - Marshmello Remix"
+      },
       "duration_ms": 179200,
-      "artist": [
-        "Future",
-        "Marshmello"
+      "artists": [
+        {
+          "name": "Future",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Marshmello",
+          "id": "64KEffDW9EtZ1y2vBYgq8T"
+        }
       ],
-      "artistId": [
-        "1RyvyyTE3xzB2ZywiAwp0i",
-        "64KEffDW9EtZ1y2vBYgq8T"
-      ],
-      "albumId": "5kDL875bDZtpRKtl51ED3X",
+      "album": {
+        "id": "5kDL875bDZtpRKtl51ED3X",
+        "name": "Mask Off (Marshmello Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d338f56a62eabfe658ff5e9d"
+      },
       "release_date": "2017-06-16",
       "popularity": 65
     },
     {
-      "trackId": "7hhM28lj2IoC2Nr6vpPHMe",
-      "name": "Längtan till landet (Vintern rasat ut)",
+      "track": {
+        "id": "7hhM28lj2IoC2Nr6vpPHMe",
+        "name": "Längtan till landet (Vintern rasat ut)"
+      },
       "duration_ms": 110200,
-      "artist": [
-        "Stockholms Studentsångare"
+      "artists": [
+        {
+          "name": "Stockholms Studentsångare",
+          "id": "3IKIBP0fJdLLSog5SEem8p"
+        }
       ],
-      "artistId": [
-        "3IKIBP0fJdLLSog5SEem8p"
-      ],
-      "albumId": "4ZS1wr0Q35iDyaC6NwY2Ci",
+      "album": {
+        "id": "4ZS1wr0Q35iDyaC6NwY2Ci",
+        "name": "Vårkonsert med Stockholms studentsångare",
+        "img": "https://i.scdn.co/image/ab67616d00001e02769ec5c0010b23d0b63e7a5d"
+      },
       "release_date": "1992-01-01",
       "popularity": 29
     },
     {
-      "trackId": "0o8pNcu6bxaxQI0G0AJuk5",
-      "name": "Sveriges favoritturkar",
+      "track": {
+        "id": "0o8pNcu6bxaxQI0G0AJuk5",
+        "name": "Sveriges favoritturkar"
+      },
       "duration_ms": 221072,
-      "artist": [
-        "Sångturkarna"
+      "artists": [
+        {
+          "name": "Sångturkarna",
+          "id": "12JFNY38lo94XMz3cFSyQg"
+        }
       ],
-      "artistId": [
-        "12JFNY38lo94XMz3cFSyQg"
-      ],
-      "albumId": "7xbGGam42QAbl5no8TqeRV",
+      "album": {
+        "id": "7xbGGam42QAbl5no8TqeRV",
+        "name": "Sveriges favoritturkar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0d81922a3b6a66be55545ce"
+      },
       "release_date": "2021-10-06",
       "popularity": 43
     },
     {
-      "trackId": "0GAY8D7SCWCASXPr98bzJv",
-      "name": "Lev så",
+      "track": {
+        "id": "0GAY8D7SCWCASXPr98bzJv",
+        "name": "Lev så"
+      },
       "duration_ms": 301800,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "1gpNgZzbVcWCtHREPUkVRV",
+      "album": {
+        "id": "1gpNgZzbVcWCtHREPUkVRV",
+        "name": "En blekt blondins hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ecb81fc5f561ea4e429de30"
+      },
       "release_date": "1991-09-12",
       "popularity": 28
     },
     {
-      "trackId": "0GAY8D7SCWCASXPr98bzJv",
-      "name": "Lev så",
+      "track": {
+        "id": "0GAY8D7SCWCASXPr98bzJv",
+        "name": "Lev så"
+      },
       "duration_ms": 301800,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "1gpNgZzbVcWCtHREPUkVRV",
+      "album": {
+        "id": "1gpNgZzbVcWCtHREPUkVRV",
+        "name": "En blekt blondins hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ecb81fc5f561ea4e429de30"
+      },
       "release_date": "1991-09-12",
       "popularity": 28
     },
     {
-      "trackId": "5zb7npjQqoJ7Kcpq4yD9qn",
-      "name": "You Want It Darker",
+      "track": {
+        "id": "5zb7npjQqoJ7Kcpq4yD9qn",
+        "name": "You Want It Darker"
+      },
       "duration_ms": 284373,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3jeTB3j3QmUs8SPIVleHtU",
+      "album": {
+        "id": "3jeTB3j3QmUs8SPIVleHtU",
+        "name": "You Want It Darker",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fc3f01275cae3d8ecb1c26b"
+      },
       "release_date": "2016-10-21",
       "popularity": 59
     },
     {
-      "trackId": "5HdJitDuI2rye6aaHNpV4Z",
-      "name": "Nigun - Pt. II",
+      "track": {
+        "id": "5HdJitDuI2rye6aaHNpV4Z",
+        "name": "Nigun - Pt. II"
+      },
       "duration_ms": 176560,
-      "artist": [
-        "Jacob Mühlrad",
-        "Swedish Radio Choir"
+      "artists": [
+        {
+          "name": "Jacob Mühlrad",
+          "id": "0P9g1ss8CfLwU62fzm8Ldf"
+        },
+        {
+          "name": "Swedish Radio Choir",
+          "id": "1A9umzen6B9Shk2spCzR9y"
+        }
       ],
-      "artistId": [
-        "0P9g1ss8CfLwU62fzm8Ldf",
-        "1A9umzen6B9Shk2spCzR9y"
-      ],
-      "albumId": "18nt45a1s5rb2jChrnXoas",
+      "album": {
+        "id": "18nt45a1s5rb2jChrnXoas",
+        "name": "Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b4ef3ab3105b2f1e07e1e095"
+      },
       "release_date": "2021-03-26",
       "popularity": 3
     }

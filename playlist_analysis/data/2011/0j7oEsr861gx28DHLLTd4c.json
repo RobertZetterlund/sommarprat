@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242191_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4BhsX6AnwjQya7ayMM0GH7",
-      "name": "In the Good Old Summertime",
+      "track": {
+        "id": "4BhsX6AnwjQya7ayMM0GH7",
+        "name": "In the Good Old Summertime"
+      },
       "duration_ms": 74386,
-      "artist": [
-        "Sophie Tucker"
+      "artists": [
+        {
+          "name": "Sophie Tucker",
+          "id": "58nEgrqod6YO5ZATASjIQ8"
+        }
       ],
-      "artistId": [
-        "58nEgrqod6YO5ZATASjIQ8"
-      ],
-      "albumId": "0UOXYWJd5xVrDzP1fU3vn2",
+      "album": {
+        "id": "0UOXYWJd5xVrDzP1fU3vn2",
+        "name": "Sophie Tucker for President",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249a43a4ef8923ad4cdac2234"
+      },
       "release_date": "2010-02-14",
       "popularity": 0
     },
     {
-      "trackId": "02YrJmoMxJEzpede9KDnu6",
-      "name": "Sofa fra IKEA",
+      "track": {
+        "id": "02YrJmoMxJEzpede9KDnu6",
+        "name": "Sofa fra IKEA"
+      },
       "duration_ms": 154400,
-      "artist": [
-        "Ole Hartz"
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "id": "7J8OsnJjGfG1uHd348LZPI"
+        }
       ],
-      "artistId": [
-        "7J8OsnJjGfG1uHd348LZPI"
-      ],
-      "albumId": "7HSWhHfsWZf8EbFrq3fGtG",
+      "album": {
+        "id": "7HSWhHfsWZf8EbFrq3fGtG",
+        "name": "Sofa fra IKEA",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef0f7efb7ece15d2c92f1c8e"
+      },
       "release_date": "2021-10-15",
       "popularity": 38
     },
     {
-      "trackId": "2qSSdPHhL8QBC0oDEXuHRm",
-      "name": "Simsalabim",
+      "track": {
+        "id": "2qSSdPHhL8QBC0oDEXuHRm",
+        "name": "Simsalabim"
+      },
       "duration_ms": 149426,
-      "artist": [
-        "Frida"
+      "artists": [
+        {
+          "name": "Frida",
+          "id": "5uOVb4hLSQVbHbVVt27tV1"
+        }
       ],
-      "artistId": [
-        "5uOVb4hLSQVbHbVVt27tV1"
-      ],
-      "albumId": "3Czd06Jlruu7TuSgDQLL0X",
+      "album": {
+        "id": "3Czd06Jlruu7TuSgDQLL0X",
+        "name": "Frida 1967-1972",
+        "img": "https://i.scdn.co/image/ab67616d00001e020daf2dd0f241ae751fa5660d"
+      },
       "release_date": "1997-10-16",
       "popularity": 10
     },
     {
-      "trackId": "31HaEmRsorxQ3LynGDvEFT",
-      "name": "Where Did They Go?",
+      "track": {
+        "id": "31HaEmRsorxQ3LynGDvEFT",
+        "name": "Where Did They Go?"
+      },
       "duration_ms": 233040,
-      "artist": [
-        "Peggy Lee"
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "id": "602DnpaSXJB4b9DZrvxbDc"
+        }
       ],
-      "artistId": [
-        "602DnpaSXJB4b9DZrvxbDc"
-      ],
-      "albumId": "3wVKHzB23841VoNRJoj2nk",
+      "album": {
+        "id": "3wVKHzB23841VoNRJoj2nk",
+        "name": "Where Did They Go?",
+        "img": "https://i.scdn.co/image/ab67616d00001e028034f1b8829d342d8bc71418"
+      },
       "release_date": "1971-07-01",
       "popularity": 7
     },
     {
-      "trackId": "6JjQa0tlBsWqyHm0wGM8Ih",
-      "name": "Gay Pirates",
+      "track": {
+        "id": "6JjQa0tlBsWqyHm0wGM8Ih",
+        "name": "Gay Pirates"
+      },
       "duration_ms": 356793,
-      "artist": [
-        "Cosmo Jarvis"
+      "artists": [
+        {
+          "name": "Cosmo Jarvis",
+          "id": "0NDo2VdtffaIv45HjQx7R4"
+        }
       ],
-      "artistId": [
-        "0NDo2VdtffaIv45HjQx7R4"
-      ],
-      "albumId": "2Z2eTicn6CvMZv3iFfPJhj",
+      "album": {
+        "id": "2Z2eTicn6CvMZv3iFfPJhj",
+        "name": "Is The World Strange Or Am I Strange?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270ceee2ba5f205014fce506e"
+      },
       "release_date": "2011-09-26",
       "popularity": 38
     },
     {
-      "trackId": "3HUWXjxseUk3nslnHUh8lZ",
-      "name": "Caresse sur l'océan",
+      "track": {
+        "id": "3HUWXjxseUk3nslnHUh8lZ",
+        "name": "Caresse sur l'océan"
+      },
       "duration_ms": 130093,
-      "artist": [
-        "Bruno Coulais",
-        "Les Petits Chanteurs de Saint-Marc"
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "id": "5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Les Petits Chanteurs de Saint-Marc",
+          "id": "026nk210FPO26xMwpoew70"
+        }
       ],
-      "artistId": [
-        "5kjb55jtwPnbYXXDvP4x7R",
-        "026nk210FPO26xMwpoew70"
-      ],
-      "albumId": "4VVDHVgGIOh68k2VRq9tq0",
+      "album": {
+        "id": "4VVDHVgGIOh68k2VRq9tq0",
+        "name": "The Chorus (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d53b9f935af7857c6da2d3e8"
+      },
       "release_date": "2004-03-17",
       "popularity": 40
     },
     {
-      "trackId": "4rC8PZ7ISEUecMSd5OWeiP",
-      "name": "Schön ist es auf der Welt zu sein",
+      "track": {
+        "id": "4rC8PZ7ISEUecMSd5OWeiP",
+        "name": "Schön ist es auf der Welt zu sein"
+      },
       "duration_ms": 203413,
-      "artist": [
-        "Roy Black",
-        "Anita"
+      "artists": [
+        {
+          "name": "Roy Black",
+          "id": "6MZV0zLjOvDN1gIYUB2GxB"
+        },
+        {
+          "name": "Anita",
+          "id": "0JIlOFjnJSjpxz8mmCBZHx"
+        }
       ],
-      "artistId": [
-        "6MZV0zLjOvDN1gIYUB2GxB",
-        "0JIlOFjnJSjpxz8mmCBZHx"
-      ],
-      "albumId": "30bQApMAvDLxeISYFfbo6u",
+      "album": {
+        "id": "30bQApMAvDLxeISYFfbo6u",
+        "name": "Gestern - Heute",
+        "img": "https://i.scdn.co/image/ab67616d00001e02038c21fc378a57b9e1a959be"
+      },
       "release_date": "1977-01-01",
       "popularity": 41
     },
     {
-      "trackId": "3XniC7WeOxE4AGxKlS1XNX",
-      "name": "Innan Du Gar",
+      "track": {
+        "id": "3XniC7WeOxE4AGxKlS1XNX",
+        "name": "Innan Du Gar"
+      },
       "duration_ms": 222613,
-      "artist": [
-        "Theresa Andersson",
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Theresa Andersson",
+          "id": "5jKJR6tGtn5xrkgOWeZzuO"
+        },
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "5jKJR6tGtn5xrkgOWeZzuO",
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "1gIVvEdBvYqiBTNWJIxQFL",
+      "album": {
+        "id": "1gIVvEdBvYqiBTNWJIxQFL",
+        "name": "Hummingbird, Go!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02240f4bd920d3c68c735cd878"
+      },
       "release_date": "2008-09-02",
       "popularity": 20
     },
     {
-      "trackId": "4zIT3WduXRKcyb3oOKQuVC",
-      "name": "Älskade ängel",
+      "track": {
+        "id": "4zIT3WduXRKcyb3oOKQuVC",
+        "name": "Älskade ängel"
+      },
       "duration_ms": 154626,
-      "artist": [
-        "Lill-Babs",
-        "Sören & Anders",
-        "Bert & Heman Hunters"
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "id": "1YlYLkI3GlVDFSQGjMXWbt"
+        },
+        {
+          "name": "Sören & Anders",
+          "id": "3n4p7wiZHa895ypVSqN19H"
+        },
+        {
+          "name": "Bert & Heman Hunters",
+          "id": "3dtjkAGNDCeoUAF09lWNAN"
+        }
       ],
-      "artistId": [
-        "1YlYLkI3GlVDFSQGjMXWbt",
-        "3n4p7wiZHa895ypVSqN19H",
-        "3dtjkAGNDCeoUAF09lWNAN"
-      ],
-      "albumId": "31E0B8ViVDRjZXRVuPbjZa",
+      "album": {
+        "id": "31E0B8ViVDRjZXRVuPbjZa",
+        "name": "Svenska Tokhits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e72a0bd3373fa1b0bb99178c"
+      },
       "release_date": "2008-07-14",
       "popularity": 38
     },
     {
-      "trackId": "4BhsX6AnwjQya7ayMM0GH7",
-      "name": "In the Good Old Summertime",
+      "track": {
+        "id": "4BhsX6AnwjQya7ayMM0GH7",
+        "name": "In the Good Old Summertime"
+      },
       "duration_ms": 74386,
-      "artist": [
-        "Sophie Tucker"
+      "artists": [
+        {
+          "name": "Sophie Tucker",
+          "id": "58nEgrqod6YO5ZATASjIQ8"
+        }
       ],
-      "artistId": [
-        "58nEgrqod6YO5ZATASjIQ8"
-      ],
-      "albumId": "0UOXYWJd5xVrDzP1fU3vn2",
+      "album": {
+        "id": "0UOXYWJd5xVrDzP1fU3vn2",
+        "name": "Sophie Tucker for President",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249a43a4ef8923ad4cdac2234"
+      },
       "release_date": "2010-02-14",
       "popularity": 0
     },
     {
-      "trackId": "5WZOkFoR9bObtNgfjwwuMK",
-      "name": "Månstråle",
+      "track": {
+        "id": "5WZOkFoR9bObtNgfjwwuMK",
+        "name": "Månstråle"
+      },
       "duration_ms": 492280,
-      "artist": [
-        "Uffe Börjesson"
+      "artists": [
+        {
+          "name": "Uffe Börjesson",
+          "id": "4lB6k5rtFhXvcu5eGYIT02"
+        }
       ],
-      "artistId": [
-        "4lB6k5rtFhXvcu5eGYIT02"
-      ],
-      "albumId": "6alWKIvTmk8T4woOHDh0wB",
+      "album": {
+        "id": "6alWKIvTmk8T4woOHDh0wB",
+        "name": "SPA-Serien - Lugna rum",
+        "img": "https://i.scdn.co/image/ab67616d00001e023dce4362728c6a81510f7e02"
+      },
       "release_date": "2002",
       "popularity": 30
     },
     {
-      "trackId": "7kxvn9nO0j9g0M8LfEciWu",
-      "name": "Visa dina tuttar",
+      "track": {
+        "id": "7kxvn9nO0j9g0M8LfEciWu",
+        "name": "Visa dina tuttar"
+      },
       "duration_ms": 144039,
-      "artist": [
-        "Nikotinhora"
+      "artists": [
+        {
+          "name": "Nikotinhora",
+          "id": "2DtpGpXxwiS2CZ10a09fp6"
+        }
       ],
-      "artistId": [
-        "2DtpGpXxwiS2CZ10a09fp6"
-      ],
-      "albumId": "6FrvJnfBf6TcKQypnzk8is",
+      "album": {
+        "id": "6FrvJnfBf6TcKQypnzk8is",
+        "name": "Synder",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efa13033f8c5ed7ecab158c8"
+      },
       "release_date": "2020-05-26",
       "popularity": 46
     }

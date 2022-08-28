@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/74c13de0-efa4-43d8-b328-91ed0b08a158.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "56lhDZNQ5J47aog6mGKeGk",
-      "name": "Thunder Road",
+      "track": {
+        "id": "56lhDZNQ5J47aog6mGKeGk",
+        "name": "Thunder Road"
+      },
       "duration_ms": 288720,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "43YIoHKSrEw2GJsWmhZIpu",
+      "album": {
+        "id": "43YIoHKSrEw2GJsWmhZIpu",
+        "name": "Born To Run",
+        "img": "https://i.scdn.co/image/ab67616d00001e02503143a281a3f30268dcd9f9"
+      },
       "release_date": "1975-08-25",
       "popularity": 65
     },
     {
-      "trackId": "5m6livL7ccIS92wq16n52r",
-      "name": "Monkey Man",
+      "track": {
+        "id": "5m6livL7ccIS92wq16n52r",
+        "name": "Monkey Man"
+      },
       "duration_ms": 251453,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "4l4u9e9jSbotSXNjYfOugy",
+      "album": {
+        "id": "4l4u9e9jSbotSXNjYfOugy",
+        "name": "Let It Bleed",
+        "img": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99"
+      },
       "release_date": "1969-12-05",
       "popularity": 54
     },
     {
-      "trackId": "6Phlvy4vI8cIrM0puZLgSt",
-      "name": "A Rainy Night in Soho",
+      "track": {
+        "id": "6Phlvy4vI8cIrM0puZLgSt",
+        "name": "A Rainy Night in Soho"
+      },
       "duration_ms": 283826,
-      "artist": [
-        "The Pogues"
+      "artists": [
+        {
+          "name": "The Pogues",
+          "id": "2wzMOQwNT6ZvVB4amvhFAH"
+        }
       ],
-      "artistId": [
-        "2wzMOQwNT6ZvVB4amvhFAH"
-      ],
-      "albumId": "2wRH4pcI8TIQFCK1MeByWO",
+      "album": {
+        "id": "2wRH4pcI8TIQFCK1MeByWO",
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028dcbee93733dd5393e629653"
+      },
       "release_date": "1985",
       "popularity": 49
     },
     {
-      "trackId": "1AQYE6CcYKlzM8e9Df5i1g",
-      "name": "In God's Country",
+      "track": {
+        "id": "1AQYE6CcYKlzM8e9Df5i1g",
+        "name": "In God's Country"
+      },
       "duration_ms": 176596,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 52
     },
     {
-      "trackId": "3uCkIqD0VzQUijbs8WIizs",
-      "name": "These Days",
+      "track": {
+        "id": "3uCkIqD0VzQUijbs8WIizs",
+        "name": "These Days"
+      },
       "duration_ms": 210653,
-      "artist": [
-        "Nico"
+      "artists": [
+        {
+          "name": "Nico",
+          "id": "0IwlY33zbBXN7zlS9DP2Cj"
+        }
       ],
-      "artistId": [
-        "0IwlY33zbBXN7zlS9DP2Cj"
-      ],
-      "albumId": "6O62Cqi0YqOytEbFmeLyjU",
+      "album": {
+        "id": "6O62Cqi0YqOytEbFmeLyjU",
+        "name": "Chelsea Girl",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b1235c0092f6658466e96819"
+      },
       "release_date": "1967-10-09",
       "popularity": 63
     },
     {
-      "trackId": "6PAGJfVrbxdIhIJmbsDLim",
-      "name": "Desperados Under the Eaves",
+      "track": {
+        "id": "6PAGJfVrbxdIhIJmbsDLim",
+        "name": "Desperados Under the Eaves"
+      },
       "duration_ms": 287733,
-      "artist": [
-        "Warren Zevon"
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "id": "3mY9Ii0cL5SQxpOTAm8SHx"
+        }
       ],
-      "artistId": [
-        "3mY9Ii0cL5SQxpOTAm8SHx"
-      ],
-      "albumId": "5wY8fZoi9eFh3WMjLcHFps",
+      "album": {
+        "id": "5wY8fZoi9eFh3WMjLcHFps",
+        "name": "Warren Zevon",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c74c785283ac399b784ee6f"
+      },
       "release_date": "1976",
       "popularity": 41
     },
     {
-      "trackId": "4M1zcX803dgkDkISHZDPYi",
-      "name": "Don't Play That Song",
+      "track": {
+        "id": "4M1zcX803dgkDkISHZDPYi",
+        "name": "Don't Play That Song"
+      },
       "duration_ms": 182040,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "1s3FSienS5KcpWckmq4NHO",
+      "album": {
+        "id": "1s3FSienS5KcpWckmq4NHO",
+        "name": "Spirit in the Dark",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270de3def267a4ca716171842"
+      },
       "release_date": "1970-08-24",
       "popularity": 50
     },
     {
-      "trackId": "1VsoNmgANye8Z4qf3XhT3k",
-      "name": "1984 - 2016 Remaster",
+      "track": {
+        "id": "1VsoNmgANye8Z4qf3XhT3k",
+        "name": "1984 - 2016 Remaster"
+      },
       "duration_ms": 207400,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "72mfhbEsMtXR6s7v9UhKe3",
+      "album": {
+        "id": "72mfhbEsMtXR6s7v9UhKe3",
+        "name": "Diamond Dogs (2016 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad22c83a6e1567f8453c32b3"
+      },
       "release_date": "1974-05-24",
       "popularity": 39
     },
     {
-      "trackId": "0fzCtVM9D5UEwiLqcY8Ouq",
-      "name": "Hard Sun",
+      "track": {
+        "id": "0fzCtVM9D5UEwiLqcY8Ouq",
+        "name": "Hard Sun"
+      },
       "duration_ms": 322080,
-      "artist": [
-        "Eddie Vedder"
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "id": "0mXTJETA4XUa12MmmXxZJh"
+        }
       ],
-      "artistId": [
-        "0mXTJETA4XUa12MmmXxZJh"
-      ],
-      "albumId": "13xlpKbai3GGoMSr75lOeX",
+      "album": {
+        "id": "13xlpKbai3GGoMSr75lOeX",
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ed52339ae78ac1b695e8d80"
+      },
       "release_date": "2007-09-18",
       "popularity": 64
     },
     {
-      "trackId": "4MiX7j4kYbWZlGOimqFvtE",
-      "name": "Killing The Blues",
+      "track": {
+        "id": "4MiX7j4kYbWZlGOimqFvtE",
+        "name": "Killing The Blues"
+      },
       "duration_ms": 255826,
-      "artist": [
-        "Robert Plant",
-        "Alison Krauss"
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "id": "1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "id": "5J6L7N6B4nI1M5cwa29mQG"
+        }
       ],
-      "artistId": [
-        "1OwarW4LEHnoep20ixRA0y",
-        "5J6L7N6B4nI1M5cwa29mQG"
-      ],
-      "albumId": "3Z5nkL4z2Tsa3b79vv6LXb",
+      "album": {
+        "id": "3Z5nkL4z2Tsa3b79vv6LXb",
+        "name": "Raising Sand",
+        "img": "https://i.scdn.co/image/ab67616d00001e020224cca4340d0e5f1f535129"
+      },
       "release_date": "2007-10-23",
       "popularity": 51
     },
     {
-      "trackId": "3h5vVpJ7RlYVWtOG0403bL",
-      "name": "Hey Brother - Avicii By Avicii",
+      "track": {
+        "id": "3h5vVpJ7RlYVWtOG0403bL",
+        "name": "Hey Brother - Avicii By Avicii"
+      },
       "duration_ms": 369946,
-      "artist": [
-        "Avicii",
-        "Tim Bergling"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Tim Bergling",
+          "id": "5baGk14NDI3ZDPbr6wJilc"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5baGk14NDI3ZDPbr6wJilc"
-      ],
-      "albumId": "0ignCov9foaLxuqND5GMtl",
+      "album": {
+        "id": "0ignCov9foaLxuqND5GMtl",
+        "name": "True: Avicii By Avicii",
+        "img": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8"
+      },
       "release_date": "2014-01-01",
       "popularity": 40
     },
     {
-      "trackId": "0P5wCXpGqItUpYbj2bUK0d",
-      "name": "Sommarkort",
+      "track": {
+        "id": "0P5wCXpGqItUpYbj2bUK0d",
+        "name": "Sommarkort"
+      },
       "duration_ms": 216533,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5KoclB3QR9GWTPBQcKj5R9",
+      "album": {
+        "id": "5KoclB3QR9GWTPBQcKj5R9",
+        "name": "En fattig trubadur",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfe52dab7427e3de74b33f3e"
+      },
       "release_date": "2000-01-01",
       "popularity": 47
     }

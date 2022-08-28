@@ -7,162 +7,234 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258535_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3Lk7RWStfLaHG7lXsuS87j",
-      "name": "One",
+      "track": {
+        "id": "3Lk7RWStfLaHG7lXsuS87j",
+        "name": "One"
+      },
       "duration_ms": 260466,
-      "artist": [
-        "Mary J. Blige",
-        "U2"
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "1XkoF8ryArs86LZvFOkbyr",
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "13HYuDhB1soZvHzwoymXoV",
+      "album": {
+        "id": "13HYuDhB1soZvHzwoymXoV",
+        "name": "The Breakthrough",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f6c43d16c3d2c3685f81735"
+      },
       "release_date": "2005-01-01",
       "popularity": 64
     },
     {
-      "trackId": "3AfeqqbWGlrJjOICHxUpCk",
-      "name": "Heaven's Open - 2000 Remaster",
+      "track": {
+        "id": "3AfeqqbWGlrJjOICHxUpCk",
+        "name": "Heaven's Open - 2000 Remaster"
+      },
       "duration_ms": 271666,
-      "artist": [
-        "Mike Oldfield"
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "id": "562Od3CffWedyz2BbeYWVn"
+        }
       ],
-      "artistId": [
-        "562Od3CffWedyz2BbeYWVn"
-      ],
-      "albumId": "2P4gGEWFH9zpJFXiLVRAJR",
+      "album": {
+        "id": "2P4gGEWFH9zpJFXiLVRAJR",
+        "name": "Heaven's Open",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd1c554382c58ce0fb521435"
+      },
       "release_date": "2000-01-01",
       "popularity": 28
     },
     {
-      "trackId": "5fmvZgUFuUq1SnzT3S6y4o",
-      "name": "Ring Ring - English Version",
+      "track": {
+        "id": "5fmvZgUFuUq1SnzT3S6y4o",
+        "name": "Ring Ring - English Version"
+      },
       "duration_ms": 184733,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1pVtxVKXwhU2nsvrTI1WqT",
+      "album": {
+        "id": "1pVtxVKXwhU2nsvrTI1WqT",
+        "name": "Ring Ring (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ca4eeb638139fd840250b9e"
+      },
       "release_date": "1973",
       "popularity": 55
     },
     {
-      "trackId": "5Gti7ED5ilOIsYCSouxKBl",
-      "name": "Bara lite mig",
+      "track": {
+        "id": "5Gti7ED5ilOIsYCSouxKBl",
+        "name": "Bara lite mig"
+      },
       "duration_ms": 239973,
-      "artist": [
-        "Vera"
+      "artists": [
+        {
+          "name": "Vera",
+          "id": "0BXZupDIadYPMR02ycdur3"
+        }
       ],
-      "artistId": [
-        "0BXZupDIadYPMR02ycdur3"
-      ],
-      "albumId": "1tDuzpoCcTYEb4p2QEEkJi",
+      "album": {
+        "id": "1tDuzpoCcTYEb4p2QEEkJi",
+        "name": "Bara lite mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290486c7185f4c1c68ae942f4"
+      },
       "release_date": "2006-01-01",
       "popularity": 0
     },
     {
-      "trackId": "21NPhKvaZdnmBWxo0CYVJ4",
-      "name": "Amanda",
+      "track": {
+        "id": "21NPhKvaZdnmBWxo0CYVJ4",
+        "name": "Amanda"
+      },
       "duration_ms": 179639,
-      "artist": [
-        "Jimmy Jansson"
+      "artists": [
+        {
+          "name": "Jimmy Jansson",
+          "id": "3i7yhYt2s1AK269jue0DDs"
+        }
       ],
-      "artistId": [
-        "3i7yhYt2s1AK269jue0DDs"
-      ],
-      "albumId": "7CSIQLO2OpfI9ZuVFmdp4V",
+      "album": {
+        "id": "7CSIQLO2OpfI9ZuVFmdp4V",
+        "name": "Sån e' jag",
+        "img": "https://i.scdn.co/image/ab67616d00001e029951c99e12a89084b6e91e56"
+      },
       "release_date": "2007-01-01",
       "popularity": 34
     },
     {
-      "trackId": "6wpGqhRvJGNNXwWlPmkMyO",
-      "name": "I Still Haven't Found What I'm Looking For",
+      "track": {
+        "id": "6wpGqhRvJGNNXwWlPmkMyO",
+        "name": "I Still Haven't Found What I'm Looking For"
+      },
       "duration_ms": 277476,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 77
     },
     {
-      "trackId": "0W1uTK6I97CbjFKAVtRGfK",
-      "name": "Too Much Love Will Kill You - Remastered 2011",
+      "track": {
+        "id": "0W1uTK6I97CbjFKAVtRGfK",
+        "name": "Too Much Love Will Kill You - Remastered 2011"
+      },
       "duration_ms": 259213,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "391ScNR3xKywWSpfDwP3n0",
+      "album": {
+        "id": "391ScNR3xKywWSpfDwP3n0",
+        "name": "Made In Heaven (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f8c271d01157fdb59478f14"
+      },
       "release_date": "1995-11-06",
       "popularity": 62
     },
     {
-      "trackId": "72BnKkKnrOeCDY9vy2avFk",
-      "name": "Ti Sento",
+      "track": {
+        "id": "72BnKkKnrOeCDY9vy2avFk",
+        "name": "Ti Sento"
+      },
       "duration_ms": 255000,
-      "artist": [
-        "Matia Bazar"
+      "artists": [
+        {
+          "name": "Matia Bazar",
+          "id": "449mAbddAC2PAgNM3TLyc5"
+        }
       ],
-      "artistId": [
-        "449mAbddAC2PAgNM3TLyc5"
-      ],
-      "albumId": "7fK9JzCaIIIWehaWd7IoUE",
+      "album": {
+        "id": "7fK9JzCaIIIWehaWd7IoUE",
+        "name": "Melanchólia",
+        "img": "https://i.scdn.co/image/ab67616d00001e025151b4752642e355c13ed72a"
+      },
       "release_date": "1991-01-01",
       "popularity": 55
     },
     {
-      "trackId": "2FTZeRHQ4gRPViPMpWL9uX",
-      "name": "I'm Alive",
+      "track": {
+        "id": "2FTZeRHQ4gRPViPMpWL9uX",
+        "name": "I'm Alive"
+      },
       "duration_ms": 210226,
-      "artist": [
-        "Céline Dion"
+      "artists": [
+        {
+          "name": "Céline Dion",
+          "id": "4S9EykWXhStSc15wEx8QFK"
+        }
       ],
-      "artistId": [
-        "4S9EykWXhStSc15wEx8QFK"
-      ],
-      "albumId": "1YQ5V21NSxR9ZauQ3RUbfZ",
+      "album": {
+        "id": "1YQ5V21NSxR9ZauQ3RUbfZ",
+        "name": "A New Day Has Come",
+        "img": "https://i.scdn.co/image/ab67616d00001e029891473cf4b39151f3feeb38"
+      },
       "release_date": "2001-01-01",
       "popularity": 68
     },
     {
-      "trackId": "2kvg4AwMIstkygdQhfFfSf",
-      "name": "Calleth You, Cometh I",
+      "track": {
+        "id": "2kvg4AwMIstkygdQhfFfSf",
+        "name": "Calleth You, Cometh I"
+      },
       "duration_ms": 272360,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "2853c5Z7BEfJCaFltIQ0C7",
+      "album": {
+        "id": "2853c5Z7BEfJCaFltIQ0C7",
+        "name": "In Lust We Trust",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256fe793a2b8978c57049f28c"
+      },
       "release_date": "2002-08-26",
       "popularity": 48
     },
     {
-      "trackId": "4aLcGMxwFtcZRpl7NDtNW2",
-      "name": "Time To Say Goodbye",
+      "track": {
+        "id": "4aLcGMxwFtcZRpl7NDtNW2",
+        "name": "Time To Say Goodbye"
+      },
       "duration_ms": 245893,
-      "artist": [
-        "Francesco Sartori",
-        "Lucio Quarantotto",
-        "Sarah Brightman"
+      "artists": [
+        {
+          "name": "Francesco Sartori",
+          "id": "0VtVDsLKIsyiBa1DeAdKbU"
+        },
+        {
+          "name": "Lucio Quarantotto",
+          "id": "1lMNYBJkRVsauCctH6Scvn"
+        },
+        {
+          "name": "Sarah Brightman",
+          "id": "7Ead768rc4ShGxnqtqccU5"
+        }
       ],
-      "artistId": [
-        "0VtVDsLKIsyiBa1DeAdKbU",
-        "1lMNYBJkRVsauCctH6Scvn",
-        "7Ead768rc4ShGxnqtqccU5"
-      ],
-      "albumId": "6O4lYKMQFLDcaUrBocYSRz",
+      "album": {
+        "id": "6O4lYKMQFLDcaUrBocYSRz",
+        "name": "The Best of Andrea Bocelli - 'Vivere'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1fef75fd377a1dd08dc3e2a"
+      },
       "release_date": "2007-01-01",
       "popularity": 59
     }

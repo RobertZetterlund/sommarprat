@@ -7,134 +7,194 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3238764_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6V486jCRSNHh0tBAMSLwI0",
-      "name": "Who Knows Where the Time Goes - Live",
+      "track": {
+        "id": "6V486jCRSNHh0tBAMSLwI0",
+        "name": "Who Knows Where the Time Goes - Live"
+      },
       "duration_ms": 298773,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "5iFgWpYe8TI36apXgwlJlR",
+      "album": {
+        "id": "5iFgWpYe8TI36apXgwlJlR",
+        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b850490d43845550d2c8a7c"
+      },
       "release_date": "2007-05-14",
       "popularity": 37
     },
     {
-      "trackId": "1Mi6uegC4pRxQZw1CB5Fk9",
-      "name": "Can It Be All So Simple / Intermission (feat. RZA, Raekwon & Ghostface Killah)",
+      "track": {
+        "id": "1Mi6uegC4pRxQZw1CB5Fk9",
+        "name": "Can It Be All So Simple / Intermission (feat. RZA, Raekwon & Ghostface Killah)"
+      },
       "duration_ms": 413000,
-      "artist": [
-        "Wu-Tang Clan",
-        "RZA",
-        "Raekwon"
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "id": "34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "RZA",
+          "id": "4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Raekwon",
+          "id": "2yQf6b8hxahZaT5dHlWaB1"
+        }
       ],
-      "artistId": [
-        "34EP7KEpOjXcM2TCat1ISk",
-        "4iCwCMnqsNZ6atvRiADgtn",
-        "2yQf6b8hxahZaT5dHlWaB1"
-      ],
-      "albumId": "3tQd5mwBtVyxCoEo4htGAV",
+      "album": {
+        "id": "3tQd5mwBtVyxCoEo4htGAV",
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "img": "https://i.scdn.co/image/ab67616d00001e025901aaa980d3e714bf01171c"
+      },
       "release_date": "1993-11-09",
       "popularity": 52
     },
     {
-      "trackId": "66ZtqKhYSA8XyPr0aAUFsm",
-      "name": "Nés sous la même étoile",
+      "track": {
+        "id": "66ZtqKhYSA8XyPr0aAUFsm",
+        "name": "Nés sous la même étoile"
+      },
       "duration_ms": 231160,
-      "artist": [
-        "IAM"
+      "artists": [
+        {
+          "name": "IAM",
+          "id": "56Q6weEROZ1RsVrTak8Bm7"
+        }
       ],
-      "artistId": [
-        "56Q6weEROZ1RsVrTak8Bm7"
-      ],
-      "albumId": "3atPIVCVIIgak6KeB1ANnK",
+      "album": {
+        "id": "3atPIVCVIIgak6KeB1ANnK",
+        "name": "L'école du micro d'argent",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276438cc21de1d139cd68d528"
+      },
       "release_date": "1997",
       "popularity": 51
     },
     {
-      "trackId": "6DoenX36UcAKSp6wR9UKxM",
-      "name": "Blinded by the Lights",
+      "track": {
+        "id": "6DoenX36UcAKSp6wR9UKxM",
+        "name": "Blinded by the Lights"
+      },
       "duration_ms": 284600,
-      "artist": [
-        "The Streets"
+      "artists": [
+        {
+          "name": "The Streets",
+          "id": "4GvOygVQquMaPm8oAc0vXi"
+        }
       ],
-      "artistId": [
-        "4GvOygVQquMaPm8oAc0vXi"
-      ],
-      "albumId": "365ETCJBUmEWroc4UGBS1u",
+      "album": {
+        "id": "365ETCJBUmEWroc4UGBS1u",
+        "name": "A Grand Don't Come for Free",
+        "img": "https://i.scdn.co/image/ab67616d00001e024bf409ede02e2a4069fd02a8"
+      },
       "release_date": "2004",
       "popularity": 54
     },
     {
-      "trackId": "0KOE1hat4SIer491XKk4Pa",
-      "name": "A Change Is Gonna Come",
+      "track": {
+        "id": "0KOE1hat4SIer491XKk4Pa",
+        "name": "A Change Is Gonna Come"
+      },
       "duration_ms": 191160,
-      "artist": [
-        "Sam Cooke"
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "id": "6hnWRPzGGKiapVX1UCdEAC"
+        }
       ],
-      "artistId": [
-        "6hnWRPzGGKiapVX1UCdEAC"
-      ],
-      "albumId": "2NFd4ApYFitFtJhGTSfDdP",
+      "album": {
+        "id": "2NFd4ApYFitFtJhGTSfDdP",
+        "name": "Ain't That Good News",
+        "img": "https://i.scdn.co/image/ab67616d00001e027329db55d8ec4e851b694aa1"
+      },
       "release_date": "1964-03-01",
       "popularity": 66
     },
     {
-      "trackId": "1yg7fwwYmx9DQ2TdXUmfpJ",
-      "name": "Holding Back the Years - 2008 Remaster",
+      "track": {
+        "id": "1yg7fwwYmx9DQ2TdXUmfpJ",
+        "name": "Holding Back the Years - 2008 Remaster"
+      },
       "duration_ms": 269840,
-      "artist": [
-        "Simply Red"
+      "artists": [
+        {
+          "name": "Simply Red",
+          "id": "1fa0cOhromAZdq2xRA4vv8"
+        }
       ],
-      "artistId": [
-        "1fa0cOhromAZdq2xRA4vv8"
-      ],
-      "albumId": "4pk3tltFMVlT06MLJfmWTT",
+      "album": {
+        "id": "4pk3tltFMVlT06MLJfmWTT",
+        "name": "Picture Book (Expanded Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02580a410d9914101d45be0efa"
+      },
       "release_date": "1985",
       "popularity": 67
     },
     {
-      "trackId": "7Bsfh7tZyAf6L5iQti86Rq",
-      "name": "I Could Never Take the Place of Your Man",
+      "track": {
+        "id": "7Bsfh7tZyAf6L5iQti86Rq",
+        "name": "I Could Never Take the Place of Your Man"
+      },
       "duration_ms": 389226,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "1XsXHctYSQNyAd9BANCk2B",
+      "album": {
+        "id": "1XsXHctYSQNyAd9BANCk2B",
+        "name": "Sign \"O\" the Times",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b67e4695d120ebfe9ca359a"
+      },
       "release_date": "1987-03-30",
       "popularity": 38
     },
     {
-      "trackId": "1QnLbfLk02EXAJ01pTUsvs",
-      "name": "Once Upon A Summertime",
+      "track": {
+        "id": "1QnLbfLk02EXAJ01pTUsvs",
+        "name": "Once Upon A Summertime"
+      },
       "duration_ms": 183733,
-      "artist": [
-        "Monica Zetterlund",
-        "Bill Evans"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "id": "4jXfFzeP66Zy67HM2mvIIF"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD",
-        "4jXfFzeP66Zy67HM2mvIIF"
-      ],
-      "albumId": "5jMKNvYYHH08quqLK3ylTC",
+      "album": {
+        "id": "5jMKNvYYHH08quqLK3ylTC",
+        "name": "Waltz For Debby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4e6d8633c7f37f127d66f8e"
+      },
       "release_date": "1964-12-01",
       "popularity": 38
     },
     {
-      "trackId": "7qXzftboLI8bovjXxYhriu",
-      "name": "Time After Time - Live",
+      "track": {
+        "id": "7qXzftboLI8bovjXxYhriu",
+        "name": "Time After Time - Live"
+      },
       "duration_ms": 596040,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "0YBvNUUwBf23f5hKhk8xLj",
+      "album": {
+        "id": "0YBvNUUwBf23f5hKhk8xLj",
+        "name": "Live Around the World",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c40773d3de814309d86726b"
+      },
       "release_date": "1996-05-10",
       "popularity": 37
     }

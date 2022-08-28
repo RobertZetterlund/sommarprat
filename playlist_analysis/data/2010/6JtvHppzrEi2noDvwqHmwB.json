@@ -7,168 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3236126_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0VNzEY1G4GLqcNx5qaaTl6",
-      "name": "Vincent",
+      "track": {
+        "id": "0VNzEY1G4GLqcNx5qaaTl6",
+        "name": "Vincent"
+      },
       "duration_ms": 243493,
-      "artist": [
-        "Don McLean"
+      "artists": [
+        {
+          "name": "Don McLean",
+          "id": "1gRNBaI4yn6wCCTvRhGWh8"
+        }
       ],
-      "artistId": [
-        "1gRNBaI4yn6wCCTvRhGWh8"
-      ],
-      "albumId": "10jsW2NYd9blCrDITMh2zS",
+      "album": {
+        "id": "10jsW2NYd9blCrDITMh2zS",
+        "name": "American Pie",
+        "img": "https://i.scdn.co/image/ab67616d00001e020085dd4362653ef4c54ebbeb"
+      },
       "release_date": "1971",
       "popularity": 68
     },
     {
-      "trackId": "7fAFoIehXy4Aou20Z63k8y",
-      "name": "Violin Concerto in D Minor, Op. 47: I. Allegro moderato",
+      "track": {
+        "id": "7fAFoIehXy4Aou20Z63k8y",
+        "name": "Violin Concerto in D Minor, Op. 47: I. Allegro moderato"
+      },
       "duration_ms": 1039653,
-      "artist": [
-        "Jean Sibelius",
-        "Hilary Hahn",
-        "Swedish Radio Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "id": "7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hilary Hahn",
+          "id": "5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "id": "0K6ufQj8JzIZPPkvZrEwJS"
+        }
       ],
-      "artistId": [
-        "7jzR5qj8vFnSu5JHaXgFEr",
-        "5JdT0LYJdlPbTC58p60WTX",
-        "0K6ufQj8JzIZPPkvZrEwJS"
-      ],
-      "albumId": "0YHrFLfeGjkhEhYSCimYdB",
+      "album": {
+        "id": "0YHrFLfeGjkhEhYSCimYdB",
+        "name": "Schoenberg: Violin Concerto / Sibelius: Violin Concerto op.47",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c6332396dc6307ab7a90e99"
+      },
       "release_date": "2008-01-01",
       "popularity": 40
     },
     {
-      "trackId": "1rI0sMuAEeAOPihDEwPa3y",
-      "name": "Farewell, Angelina",
+      "track": {
+        "id": "1rI0sMuAEeAOPihDEwPa3y",
+        "name": "Farewell, Angelina"
+      },
       "duration_ms": 198293,
-      "artist": [
-        "Joan Baez"
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "id": "1EevBGfUh3RSQSGpluxgBm"
+        }
       ],
-      "artistId": [
-        "1EevBGfUh3RSQSGpluxgBm"
-      ],
-      "albumId": "0KWZmGhxNlNMOQgi4LPWun",
+      "album": {
+        "id": "0KWZmGhxNlNMOQgi4LPWun",
+        "name": "Farewell, Angelina",
+        "img": "https://i.scdn.co/image/ab67616d00001e0206179d3c1c7154edd0a7d8e5"
+      },
       "release_date": "1965",
       "popularity": 42
     },
     {
-      "trackId": "2qEOi1bAUWrAF9vvFQEqa5",
-      "name": "Fritiof i Arkadien",
+      "track": {
+        "id": "2qEOi1bAUWrAF9vvFQEqa5",
+        "name": "Fritiof i Arkadien"
+      },
       "duration_ms": 203800,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "1Gx5b6ApFjeTVsVCZrWEBe",
+      "album": {
+        "id": "1Gx5b6ApFjeTVsVCZrWEBe",
+        "name": "EVERT! EVERT! EVERT!",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a2cf14df9d4cd2156271b71"
+      },
       "release_date": "2022-01-14",
       "popularity": 17
     },
     {
-      "trackId": "5UOzQpO62ljPFDqquxGDqT",
-      "name": "Como El Agua",
+      "track": {
+        "id": "5UOzQpO62ljPFDqquxGDqT",
+        "name": "Como El Agua"
+      },
       "duration_ms": 221080,
-      "artist": [
-        "Camaron De La Isla"
+      "artists": [
+        {
+          "name": "Camaron De La Isla",
+          "id": "5MnhtFXEfqi637k6NfKuZI"
+        }
       ],
-      "artistId": [
-        "5MnhtFXEfqi637k6NfKuZI"
-      ],
-      "albumId": "3y4pOpTnklRaypuKCZLZgg",
+      "album": {
+        "id": "3y4pOpTnklRaypuKCZLZgg",
+        "name": "Como El Agua (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bebaf9a49085366ba0c0c672"
+      },
       "release_date": "2005-01-01",
       "popularity": 54
     },
     {
-      "trackId": "2L93TdW2GMue1H2zlkt30F",
-      "name": "Suzanne",
+      "track": {
+        "id": "2L93TdW2GMue1H2zlkt30F",
+        "name": "Suzanne"
+      },
       "duration_ms": 229293,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "2Aiv0ThDpFa7lqHphR6MN5",
+      "album": {
+        "id": "2Aiv0ThDpFa7lqHphR6MN5",
+        "name": "Songs Of Leonard Cohen",
+        "img": "https://i.scdn.co/image/ab67616d00001e020633b57b08b40f3e776e7151"
+      },
       "release_date": "1967-12-27",
       "popularity": 63
     },
     {
-      "trackId": "7qZ8IkWfZJ7tWUP8CC2VLc",
-      "name": "Carrickfergus",
+      "track": {
+        "id": "7qZ8IkWfZJ7tWUP8CC2VLc",
+        "name": "Carrickfergus"
+      },
       "duration_ms": 265466,
-      "artist": [
-        "Van Morrison",
-        "The Chieftains"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        },
+        {
+          "name": "The Chieftains",
+          "id": "6AnrSlk5Gp1YMXgaI3mWCL"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A",
-        "6AnrSlk5Gp1YMXgaI3mWCL"
-      ],
-      "albumId": "0qTjwpf7Oqh8MGtK3aflgO",
+      "album": {
+        "id": "0qTjwpf7Oqh8MGtK3aflgO",
+        "name": "Irish Heartbeat",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bae46abffa2ea72f07d85d9c"
+      },
       "release_date": "1988-06",
       "popularity": 44
     },
     {
-      "trackId": "4JtFA9ITIOeudAmRUOfNMk",
-      "name": "Oblivion",
+      "track": {
+        "id": "4JtFA9ITIOeudAmRUOfNMk",
+        "name": "Oblivion"
+      },
       "duration_ms": 216066,
-      "artist": [
-        "Anders Widmark",
-        "Sara Isaksson"
+      "artists": [
+        {
+          "name": "Anders Widmark",
+          "id": "4ZgY2pumPsq9z3kNxGTDef"
+        },
+        {
+          "name": "Sara Isaksson",
+          "id": "40XQj4kRF9goPrVi2M3g1g"
+        }
       ],
-      "artistId": [
-        "4ZgY2pumPsq9z3kNxGTDef",
-        "40XQj4kRF9goPrVi2M3g1g"
-      ],
-      "albumId": "5BjxQC1EkXyeCqO1WEOiz0",
+      "album": {
+        "id": "5BjxQC1EkXyeCqO1WEOiz0",
+        "name": "Anders Widmark featuring Sara Isaksson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2d624722802cb0534f843e8"
+      },
       "release_date": "2002-01-01",
       "popularity": 15
     },
     {
-      "trackId": "7HrzErXq3TsKOY1gmdIShB",
-      "name": "The River",
+      "track": {
+        "id": "7HrzErXq3TsKOY1gmdIShB",
+        "name": "The River"
+      },
       "duration_ms": 301546,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "6YNIEeDWqC09YIWzhoSVLg",
+      "album": {
+        "id": "6YNIEeDWqC09YIWzhoSVLg",
+        "name": "The River",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e987064364e2b62ae1925b4"
+      },
       "release_date": "1980-10-17",
       "popularity": 66
     },
     {
-      "trackId": "5rlgpm7n5f9mWc5LQU42bI",
-      "name": "Lately",
+      "track": {
+        "id": "5rlgpm7n5f9mWc5LQU42bI",
+        "name": "Lately"
+      },
       "duration_ms": 245240,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "2tO3rrZ6q3OjHJMGVo13dh",
+      "album": {
+        "id": "2tO3rrZ6q3OjHJMGVo13dh",
+        "name": "Hotter Than July",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa5e6a681840021eb63e75ad"
+      },
       "release_date": "1980-09-29",
       "popularity": 52
     },
     {
-      "trackId": "1XgTqDYeR2L4AWObBUu5rC",
-      "name": "Concierto De Aranjuez: 2. Adagio",
+      "track": {
+        "id": "1XgTqDYeR2L4AWObBUu5rC",
+        "name": "Concierto De Aranjuez: 2. Adagio"
+      },
       "duration_ms": 692373,
-      "artist": [
-        "Paco de Lucía",
-        "Joaquín Rodrigo",
-        "Orquesta De Cadaques"
+      "artists": [
+        {
+          "name": "Paco de Lucía",
+          "id": "3h8OjAdgYXVRoMZ8jFd6Uw"
+        },
+        {
+          "name": "Joaquín Rodrigo",
+          "id": "3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Orquesta De Cadaques",
+          "id": "1cmiYraSsNQzA3FD1KkmDU"
+        }
       ],
-      "artistId": [
-        "3h8OjAdgYXVRoMZ8jFd6Uw",
-        "3eqv9LW7ZXlYWXVFjHS4Mr",
-        "1cmiYraSsNQzA3FD1KkmDU"
-      ],
-      "albumId": "0LuEOgpfOw7alMC8fXCF3E",
+      "album": {
+        "id": "0LuEOgpfOw7alMC8fXCF3E",
+        "name": "Integral",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6d9f00b7d0d72262c94d337"
+      },
       "release_date": "2010-01-04",
       "popularity": 47
     }

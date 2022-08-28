@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/540c2e7a-273d-427b-9034-392846afd958.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4Tf2pYCjXDnVd5nZutQrds",
-      "name": "Storseglare",
+      "track": {
+        "id": "4Tf2pYCjXDnVd5nZutQrds",
+        "name": "Storseglare"
+      },
       "duration_ms": 100040,
-      "artist": [
-        "Ulla Sjöblom"
+      "artists": [
+        {
+          "name": "Ulla Sjöblom",
+          "id": "00huu4jcNo6480UfSsL3qR"
+        }
       ],
-      "artistId": [
-        "00huu4jcNo6480UfSsL3qR"
-      ],
-      "albumId": "4wH71thA61zejn7rUIRqT8",
+      "album": {
+        "id": "4wH71thA61zejn7rUIRqT8",
+        "name": "Sonjas sånger",
+        "img": "https://i.scdn.co/image/ab67616d00001e027951f6a9db079e3a4c2cfd97"
+      },
       "release_date": "1983-01-01",
       "popularity": 0
     },
     {
-      "trackId": "39CyGKIFqMzSuynOR8uilD",
-      "name": "Baltimore",
+      "track": {
+        "id": "39CyGKIFqMzSuynOR8uilD",
+        "name": "Baltimore"
+      },
       "duration_ms": 278866,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "4UjcMSiyv8QCiZ4O8gpzXS",
+      "album": {
+        "id": "4UjcMSiyv8QCiZ4O8gpzXS",
+        "name": "Baltimore",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3e94aa06432d0fa06e54f76"
+      },
       "release_date": "1978",
       "popularity": 60
     },
     {
-      "trackId": "29Kn3OIyJwrUMf6CzvLgeq",
-      "name": "Common Threads",
+      "track": {
+        "id": "29Kn3OIyJwrUMf6CzvLgeq",
+        "name": "Common Threads"
+      },
       "duration_ms": 256800,
-      "artist": [
-        "Bobby McFerrin"
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "id": "2FjkZT851ez950cyPjeYid"
+        }
       ],
-      "artistId": [
-        "2FjkZT851ez950cyPjeYid"
-      ],
-      "albumId": "3O8SYerrdr1Ezdixi55X05",
+      "album": {
+        "id": "3O8SYerrdr1Ezdixi55X05",
+        "name": "Medicine Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd701821c8d09c79174029eb"
+      },
       "release_date": "1990-01-01",
       "popularity": 37
     },
     {
-      "trackId": "0xkBvoq86DzLUZid2KUvOc",
-      "name": "The Star Spangled Banner (United States National Anthem)",
+      "track": {
+        "id": "0xkBvoq86DzLUZid2KUvOc",
+        "name": "The Star Spangled Banner (United States National Anthem)"
+      },
       "duration_ms": 80960,
-      "artist": [
-        "John Philip Sousa",
-        "John Phlip Sousa",
-        "United States Marine Band"
+      "artists": [
+        {
+          "name": "John Philip Sousa",
+          "id": "6jNyNAMv2gNLnfaP0bzo7y"
+        },
+        {
+          "name": "John Phlip Sousa",
+          "id": "4UA4x7qakgc2xOSghQAMnG"
+        },
+        {
+          "name": "United States Marine Band",
+          "id": "3QeUCeRZhvSxjokyg2zImM"
+        }
       ],
-      "artistId": [
-        "6jNyNAMv2gNLnfaP0bzo7y",
-        "4UA4x7qakgc2xOSghQAMnG",
-        "3QeUCeRZhvSxjokyg2zImM"
-      ],
-      "albumId": "7LpsM7lRlSkscvDz2tn6EO",
+      "album": {
+        "id": "7LpsM7lRlSkscvDz2tn6EO",
+        "name": "United States Military and Patriotic Favorites: US Marines Classics Vol.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4a52c129e46ed1b87899b2a"
+      },
       "release_date": "2010-06-29",
       "popularity": 32
     },
     {
-      "trackId": "0NQtxQ5wkRf8A1gxC0zNcZ",
-      "name": "The Internationale ( Russian Version)",
+      "track": {
+        "id": "0NQtxQ5wkRf8A1gxC0zNcZ",
+        "name": "The Internationale ( Russian Version)"
+      },
       "duration_ms": 239830,
-      "artist": [
-        "Urss Soviet Chorus"
+      "artists": [
+        {
+          "name": "Urss Soviet Chorus",
+          "id": "0aTjtTxEcUiybavC1S4u3X"
+        }
       ],
-      "artistId": [
-        "0aTjtTxEcUiybavC1S4u3X"
-      ],
-      "albumId": "2gXegPRpTmNUd78xfI5JCX",
+      "album": {
+        "id": "2gXegPRpTmNUd78xfI5JCX",
+        "name": "La Internacional Ante La Crisis (Communist and Socialist) Versiones Del Himno Y Canciones Históricas De Izquierdas",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c010650b50cc1b7831f7291b"
+      },
       "release_date": "2011-12-02",
       "popularity": 33
     },
     {
-      "trackId": "0NQtxQ5wkRf8A1gxC0zNcZ",
-      "name": "The Internationale ( Russian Version)",
+      "track": {
+        "id": "0NQtxQ5wkRf8A1gxC0zNcZ",
+        "name": "The Internationale ( Russian Version)"
+      },
       "duration_ms": 239830,
-      "artist": [
-        "Urss Soviet Chorus"
+      "artists": [
+        {
+          "name": "Urss Soviet Chorus",
+          "id": "0aTjtTxEcUiybavC1S4u3X"
+        }
       ],
-      "artistId": [
-        "0aTjtTxEcUiybavC1S4u3X"
-      ],
-      "albumId": "2gXegPRpTmNUd78xfI5JCX",
+      "album": {
+        "id": "2gXegPRpTmNUd78xfI5JCX",
+        "name": "La Internacional Ante La Crisis (Communist and Socialist) Versiones Del Himno Y Canciones Históricas De Izquierdas",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c010650b50cc1b7831f7291b"
+      },
       "release_date": "2011-12-02",
       "popularity": 33
     },
     {
-      "trackId": "6Zgd7SomLTZkL1WPh4CUnV",
-      "name": "Wolf Like Me",
+      "track": {
+        "id": "6Zgd7SomLTZkL1WPh4CUnV",
+        "name": "Wolf Like Me"
+      },
       "duration_ms": 277466,
-      "artist": [
-        "TV On The Radio"
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "id": "3HJIB8sYPyxrFGuwvKXSLR"
+        }
       ],
-      "artistId": [
-        "3HJIB8sYPyxrFGuwvKXSLR"
-      ],
-      "albumId": "4sD8WQQ8f1x3L4YFa9qFIO",
+      "album": {
+        "id": "4sD8WQQ8f1x3L4YFa9qFIO",
+        "name": "Return To Cookie Mountain",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a9c25a9f9f7adb419694a4b"
+      },
       "release_date": "2006-07-03",
       "popularity": 58
     },
     {
-      "trackId": "3GQETOg4ZXyQ1jEFqfMoac",
-      "name": "I Will Follow Him",
+      "track": {
+        "id": "3GQETOg4ZXyQ1jEFqfMoac",
+        "name": "I Will Follow Him"
+      },
       "duration_ms": 148160,
-      "artist": [
-        "Little Peggy March"
+      "artists": [
+        {
+          "name": "Little Peggy March",
+          "id": "09vvlnqwFaimZwGAvpXgqy"
+        }
       ],
-      "artistId": [
-        "09vvlnqwFaimZwGAvpXgqy"
-      ],
-      "albumId": "5R0M6bpjLmFutJBcFhqNlg",
+      "album": {
+        "id": "5R0M6bpjLmFutJBcFhqNlg",
+        "name": "I Will Follow Him",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd2c27a99e0aff7b9210bf69"
+      },
       "release_date": "1963-12-10",
       "popularity": 54
     },
     {
-      "trackId": "1lFW0nPUMFuPb10Ltz1bzi",
-      "name": "Iris",
+      "track": {
+        "id": "1lFW0nPUMFuPb10Ltz1bzi",
+        "name": "Iris"
+      },
       "duration_ms": 598029,
-      "artist": [
-        "Wim Mertens"
+      "artists": [
+        {
+          "name": "Wim Mertens",
+          "id": "7zW6wPmVLv4JDJM271gbFc"
+        }
       ],
-      "artistId": [
-        "7zW6wPmVLv4JDJM271gbFc"
-      ],
-      "albumId": "41pnRbkKOGTe8hDLsTBYGD",
+      "album": {
+        "id": "41pnRbkKOGTe8hDLsTBYGD",
+        "name": "Stratégie de la rupture",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e12734e7bb8d84ad184157f"
+      },
       "release_date": "1991-01-01",
       "popularity": 41
     },
     {
-      "trackId": "4wSmqFg31t6LsQWtzYAJob",
-      "name": "Genesis",
+      "track": {
+        "id": "4wSmqFg31t6LsQWtzYAJob",
+        "name": "Genesis"
+      },
       "duration_ms": 234960,
-      "artist": [
-        "Justice"
+      "artists": [
+        {
+          "name": "Justice",
+          "id": "1gR0gsQYfi6joyO1dlp76N"
+        }
       ],
-      "artistId": [
-        "1gR0gsQYfi6joyO1dlp76N"
-      ],
-      "albumId": "4GGazqHvuKwxBjWLFaJkDL",
+      "album": {
+        "id": "4GGazqHvuKwxBjWLFaJkDL",
+        "name": "Justice",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c0bcf8b536295438d26c70d"
+      },
       "release_date": "2007-06-11",
       "popularity": 58
     },
     {
-      "trackId": "7wvy3ROg2vEJyWgjDvMD8m",
-      "name": "The Lamb",
+      "track": {
+        "id": "7wvy3ROg2vEJyWgjDvMD8m",
+        "name": "The Lamb"
+      },
       "duration_ms": 236826,
-      "artist": [
-        "John Tavener",
-        "12 Ensemble"
+      "artists": [
+        {
+          "name": "John Tavener",
+          "id": "45ff9QmiC1LkmDPk5TBN21"
+        },
+        {
+          "name": "12 Ensemble",
+          "id": "2em3FOAFG3NssO0tWItWuj"
+        }
       ],
-      "artistId": [
-        "45ff9QmiC1LkmDPk5TBN21",
-        "2em3FOAFG3NssO0tWItWuj"
-      ],
-      "albumId": "3zJcJo6VSWFF43NIzNuC7x",
+      "album": {
+        "id": "3zJcJo6VSWFF43NIzNuC7x",
+        "name": "Tavener: The Lamb",
+        "img": "https://i.scdn.co/image/ab67616d00001e0237a0d06ae8d1765d3915219a"
+      },
       "release_date": "2019-08-09",
       "popularity": 41
     },
     {
-      "trackId": "4CVoUXpLItPsn72A85rDQt",
-      "name": "This Is How We Walk on the Moon",
+      "track": {
+        "id": "4CVoUXpLItPsn72A85rDQt",
+        "name": "This Is How We Walk on the Moon"
+      },
       "duration_ms": 283000,
-      "artist": [
-        "Arthur Russell"
+      "artists": [
+        {
+          "name": "Arthur Russell",
+          "id": "3iJJD5v7oIFUevW4N5w5cj"
+        }
       ],
-      "artistId": [
-        "3iJJD5v7oIFUevW4N5w5cj"
-      ],
-      "albumId": "5F0LvsxkeHIvpvQRT8fyUT",
+      "album": {
+        "id": "5F0LvsxkeHIvpvQRT8fyUT",
+        "name": "Love Life (Music from the Original TV Series)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02812285c370f3876a15ec44f4"
+      },
       "release_date": "2020-05-27",
       "popularity": 31
     },
     {
-      "trackId": "4ln15s6VJBguAQceXGFBg8",
-      "name": "Om du nå'n gång är i Stockholm",
+      "track": {
+        "id": "4ln15s6VJBguAQceXGFBg8",
+        "name": "Om du nå'n gång är i Stockholm"
+      },
       "duration_ms": 209986,
-      "artist": [
-        "Alf Robertson"
+      "artists": [
+        {
+          "name": "Alf Robertson",
+          "id": "4UKsrYPsnr0VD22nV1URlI"
+        }
       ],
-      "artistId": [
-        "4UKsrYPsnr0VD22nV1URlI"
-      ],
-      "albumId": "7iTEyrv7NNUIutmfNJJWp3",
+      "album": {
+        "id": "7iTEyrv7NNUIutmfNJJWp3",
+        "name": "En Liten Femöreskola + Bonuslåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e02f0fa41172af571a35f37"
+      },
       "release_date": "2002",
       "popularity": 1
     }

@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249294_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6Wiamk8BAAP50gAAJopsy2",
-      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "track": {
+        "id": "6Wiamk8BAAP50gAAJopsy2",
+        "name": "Don't Get Me Wrong - 2007 Remaster"
+      },
       "duration_ms": 227626,
-      "artist": [
-        "Pretenders"
+      "artists": [
+        {
+          "name": "Pretenders",
+          "id": "0GByy3DcfbQwDvXGCWmzv9"
+        }
       ],
-      "artistId": [
-        "0GByy3DcfbQwDvXGCWmzv9"
-      ],
-      "albumId": "1d7D1MLaFW6rp9N1kBZDn3",
+      "album": {
+        "id": "1d7D1MLaFW6rp9N1kBZDn3",
+        "name": "Get Close (Expanded & Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5c42c2a11a52c6d06177ba5"
+      },
       "release_date": "1986-11-04",
       "popularity": 63
     },
     {
-      "trackId": "21JUNIvU6Zay38fPwGQrGT",
-      "name": "The Times They Are a Changing",
+      "track": {
+        "id": "21JUNIvU6Zay38fPwGQrGT",
+        "name": "The Times They Are a Changing"
+      },
       "duration_ms": 180584,
-      "artist": [
-        "Inspired Skylight Orchestra St. Petersburg"
+      "artists": [
+        {
+          "name": "Inspired Skylight Orchestra St. Petersburg",
+          "id": "4vzBZXvOPc16dFdXgdJEHR"
+        }
       ],
-      "artistId": [
-        "4vzBZXvOPc16dFdXgdJEHR"
-      ],
-      "albumId": "785DFZAtIHP9RP94UZUn8w",
+      "album": {
+        "id": "785DFZAtIHP9RP94UZUn8w",
+        "name": "Infinite Impressions of Bob Dylan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe90b18ec15e229dabb92570"
+      },
       "release_date": "2010-01-01",
       "popularity": 0
     },
     {
-      "trackId": "3r6lBKYbdru7e7ky2MiF75",
-      "name": "Fading Like A Flower (Every Time You Leave)",
+      "track": {
+        "id": "3r6lBKYbdru7e7ky2MiF75",
+        "name": "Fading Like A Flower (Every Time You Leave)"
+      },
       "duration_ms": 230680,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "5WVNP6IBwMSULc0wehXW8N",
+      "album": {
+        "id": "5WVNP6IBwMSULc0wehXW8N",
+        "name": "Joyride (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f8706e78f75327a99b57607"
+      },
       "release_date": "1991-04-02",
       "popularity": 63
     },
     {
-      "trackId": "0shvytkpuidgRlbdB04Sv8",
-      "name": "Where Is the Love (Arr. for Choir) [Live]",
+      "track": {
+        "id": "0shvytkpuidgRlbdB04Sv8",
+        "name": "Where Is the Love (Arr. for Choir) [Live]"
+      },
       "duration_ms": 112693,
-      "artist": [
-        "Justin Timberlake",
-        "Printz Board",
-        "Michael Fratantuno"
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "id": "31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Printz Board",
+          "id": "1KlC8iz3iS3z0OuMNPw68J"
+        },
+        {
+          "name": "Michael Fratantuno",
+          "id": "2tufkRx8ufhDcHBvw5TuaM"
+        }
       ],
-      "artistId": [
-        "31TPClRtHm23RisEBtV3X7",
-        "1KlC8iz3iS3z0OuMNPw68J",
-        "2tufkRx8ufhDcHBvw5TuaM"
-      ],
-      "albumId": "6HZWCSigZSuvi1h3JJkkcf",
+      "album": {
+        "id": "6HZWCSigZSuvi1h3JJkkcf",
+        "name": "2018 Music for All (Indianapolis, IN): Logan High School Chamber Singers [Live]",
+        "img": "https://i.scdn.co/image/ab67616d00001e028161176322e0d357ea740f81"
+      },
       "release_date": "2019-12-14",
       "popularity": 3
     },
     {
-      "trackId": "62TAu3E39TJfAlCgs830wv",
-      "name": "Tell Me Why",
+      "track": {
+        "id": "62TAu3E39TJfAlCgs830wv",
+        "name": "Tell Me Why"
+      },
       "duration_ms": 206333,
-      "artist": [
-        "Luff"
+      "artists": [
+        {
+          "name": "Luff",
+          "id": "4dht1OnJruNfMQxs6dA0xk"
+        }
       ],
-      "artistId": [
-        "4dht1OnJruNfMQxs6dA0xk"
-      ],
-      "albumId": "7vrflvOti0OSiIlDKI2OVD",
+      "album": {
+        "id": "7vrflvOti0OSiIlDKI2OVD",
+        "name": "Cinnamon Girl: Women Artists Cover Neil Young for Charity",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a16ee1dee8e85d13af88dd8"
+      },
       "release_date": "2008-02-12",
       "popularity": 7
     },
     {
-      "trackId": "7iWIdiJlKvJ4PjFYVrWLUU",
-      "name": "Avalon",
+      "track": {
+        "id": "7iWIdiJlKvJ4PjFYVrWLUU",
+        "name": "Avalon"
+      },
       "duration_ms": 256839,
-      "artist": [
-        "Roxy Music"
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+        }
       ],
-      "artistId": [
-        "3fhOTtm0LBJ3Ojn4hIljLo"
-      ],
-      "albumId": "3JXODSjT9mUz2lIb4YIErw",
+      "album": {
+        "id": "3JXODSjT9mUz2lIb4YIErw",
+        "name": "Avalon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7972702cff224328b39f8a6"
+      },
       "release_date": "1982-05-01",
       "popularity": 62
     },
     {
-      "trackId": "4belbX1OWVvBww7znD1JU4",
-      "name": "GENESIS",
+      "track": {
+        "id": "4belbX1OWVvBww7znD1JU4",
+        "name": "GENESIS"
+      },
       "duration_ms": 116043,
-      "artist": [
-        "SHADXWBXRN"
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "id": "5ZzO786ViqgegCIoa28OPx"
+        }
       ],
-      "artistId": [
-        "5ZzO786ViqgegCIoa28OPx"
-      ],
-      "albumId": "3KOGO02PbVKKj7MLvDJzC0",
+      "album": {
+        "id": "3KOGO02PbVKKj7MLvDJzC0",
+        "name": "GENESIS",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0215ee858850f92c84ac23e"
+      },
       "release_date": "2022-07-29",
       "popularity": 48
     },
     {
-      "trackId": "1r5sw5ZdWTQYyXbva03U4g",
-      "name": "Homewrecker",
+      "track": {
+        "id": "1r5sw5ZdWTQYyXbva03U4g",
+        "name": "Homewrecker"
+      },
       "duration_ms": 205973,
-      "artist": [
-        "Gretchen Wilson"
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "id": "0IdYRFTswLdsGwSnzOaGNF"
+        }
       ],
-      "artistId": [
-        "0IdYRFTswLdsGwSnzOaGNF"
-      ],
-      "albumId": "5OYkhSnpSoztkCKind5tap",
+      "album": {
+        "id": "5OYkhSnpSoztkCKind5tap",
+        "name": "Here For The Party",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddf15202c076358827b81302"
+      },
       "release_date": "2004-05-11",
       "popularity": 43
     },
     {
-      "trackId": "7M13FwBAKWNa2jqcZeUhL6",
-      "name": "Love Generation - Radio Edit",
+      "track": {
+        "id": "7M13FwBAKWNa2jqcZeUhL6",
+        "name": "Love Generation - Radio Edit"
+      },
       "duration_ms": 204798,
-      "artist": [
-        "Bob Sinclar",
-        "Gary Pine"
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "id": "5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "id": "2cSQyZg5t274Y3Nv0uuwjd"
+        }
       ],
-      "artistId": [
-        "5YFS41yoX0YuFY39fq21oN",
-        "2cSQyZg5t274Y3Nv0uuwjd"
-      ],
-      "albumId": "18K5xK91s36fWgIcfzkcEt",
+      "album": {
+        "id": "18K5xK91s36fWgIcfzkcEt",
+        "name": "Love Generation (Radio Edit)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282feaca18c25474ce8de175f"
+      },
       "release_date": "2005-06-20",
       "popularity": 68
     },
     {
-      "trackId": "4exQWqZNQ4aQzasBj3Dir9",
-      "name": "Nam Myoho Renge Kyo Mantra (Devotion to the Mystic Law)",
+      "track": {
+        "id": "4exQWqZNQ4aQzasBj3Dir9",
+        "name": "Nam Myoho Renge Kyo Mantra (Devotion to the Mystic Law)"
+      },
       "duration_ms": 251360,
-      "artist": [
-        "Deva Premal",
-        "Miten",
-        "Manose"
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "id": "2970BxpdOBQmkMit6i9kVF"
+        },
+        {
+          "name": "Miten",
+          "id": "4jrXM6oLQfV9L458Luwc3P"
+        },
+        {
+          "name": "Manose",
+          "id": "4JuGrH8E5Xgddd61nqIViQ"
+        }
       ],
-      "artistId": [
-        "2970BxpdOBQmkMit6i9kVF",
-        "4jrXM6oLQfV9L458Luwc3P",
-        "4JuGrH8E5Xgddd61nqIViQ"
-      ],
-      "albumId": "74COwDRGbAiTH04LbYsYUP",
+      "album": {
+        "id": "74COwDRGbAiTH04LbYsYUP",
+        "name": "Mantras for Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e025de170ad4ec0a687bb51eb03"
+      },
       "release_date": "2014-05-19",
       "popularity": 42
     },
     {
-      "trackId": "1sTsuZTdANkiFd7T34H3nb",
-      "name": "Human",
+      "track": {
+        "id": "1sTsuZTdANkiFd7T34H3nb",
+        "name": "Human"
+      },
       "duration_ms": 245373,
-      "artist": [
-        "The Killers"
+      "artists": [
+        {
+          "name": "The Killers",
+          "id": "0C0XlULifJtAgn6ZNCW2eu"
+        }
       ],
-      "artistId": [
-        "0C0XlULifJtAgn6ZNCW2eu"
-      ],
-      "albumId": "0Ug5scDXUIgGN8yanDBLQw",
+      "album": {
+        "id": "0Ug5scDXUIgGN8yanDBLQw",
+        "name": "Day & Age (Bonus Tracks)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a43cd43ef4f3b2d5413b17f9"
+      },
       "release_date": "2008-11-18",
       "popularity": 75
     },
     {
-      "trackId": "2nzJIBrCRpvIkdw5REiKDf",
-      "name": "I'm in Peace",
+      "track": {
+        "id": "2nzJIBrCRpvIkdw5REiKDf",
+        "name": "I'm in Peace"
+      },
       "duration_ms": 216320,
-      "artist": [
-        "Justin Nozuka"
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "id": "1uquUYtkdKei0zuhBY9P0t"
+        }
       ],
-      "artistId": [
-        "1uquUYtkdKei0zuhBY9P0t"
-      ],
-      "albumId": "7rFacbhdlN3E1N3KlcSAsp",
+      "album": {
+        "id": "7rFacbhdlN3E1N3KlcSAsp",
+        "name": "Holly",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e40d5238a61d76800f8c2dd"
+      },
       "release_date": "2007-05-06",
       "popularity": 13
     },
     {
-      "trackId": "2ociAEeCpK830GuqJBdQLH",
-      "name": "Kort biografi med litet testamente",
+      "track": {
+        "id": "2ociAEeCpK830GuqJBdQLH",
+        "name": "Kort biografi med litet testamente"
+      },
       "duration_ms": 307093,
-      "artist": [
-        "Thåström"
+      "artists": [
+        {
+          "name": "Thåström",
+          "id": "2PBhJmRqee1QAyQU2kBu1H"
+        }
       ],
-      "artistId": [
-        "2PBhJmRqee1QAyQU2kBu1H"
-      ],
-      "albumId": "35j3sPYg9Xs7iZayy1V3PU",
+      "album": {
+        "id": "35j3sPYg9Xs7iZayy1V3PU",
+        "name": "Kärlek är för dom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac0b6d904f07a324f8fd9958"
+      },
       "release_date": "2009-03-13",
       "popularity": 33
     },
     {
-      "trackId": "5Yx5PhdnwhNzLMBl34TZw4",
-      "name": "Both Sides Now",
+      "track": {
+        "id": "5Yx5PhdnwhNzLMBl34TZw4",
+        "name": "Both Sides Now"
+      },
       "duration_ms": 273573,
-      "artist": [
-        "Joni Mitchell"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve"
-      ],
-      "albumId": "02piRJBAWgCu2Et3rOkK4w",
+      "album": {
+        "id": "02piRJBAWgCu2Et3rOkK4w",
+        "name": "Easy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f94f1f43a1bbce6bfd98d303"
+      },
       "release_date": "2019-02-15",
       "popularity": 58
     }

@@ -7,148 +7,214 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/7f63a13d-6238-45a6-9c6e-582d1f9b0a96.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "542C7PqR1oEfl63hlhQO4V",
-      "name": "The Most Beautiful Girl",
+      "track": {
+        "id": "542C7PqR1oEfl63hlhQO4V",
+        "name": "The Most Beautiful Girl"
+      },
       "duration_ms": 161906,
-      "artist": [
-        "Charlie Rich"
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "id": "218kRJZ7FJs0hWIk8Ynzhz"
+        }
       ],
-      "artistId": [
-        "218kRJZ7FJs0hWIk8Ynzhz"
-      ],
-      "albumId": "6waJgGNygMY0KJb3g06uA6",
+      "album": {
+        "id": "6waJgGNygMY0KJb3g06uA6",
+        "name": "Behind Closed Doors",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ab57ee295e3cb04b037378c"
+      },
       "release_date": "1972",
       "popularity": 59
     },
     {
-      "trackId": "2olVm1lHicpveMAo4AUDRB",
-      "name": "The Power Of Love",
+      "track": {
+        "id": "2olVm1lHicpveMAo4AUDRB",
+        "name": "The Power Of Love"
+      },
       "duration_ms": 234333,
-      "artist": [
-        "Huey Lewis & The News"
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "id": "7A9yZMTrFZcgEWAX2kBfK6"
+        }
       ],
-      "artistId": [
-        "7A9yZMTrFZcgEWAX2kBfK6"
-      ],
-      "albumId": "0u34k1ANjgZ47uQfG9yaLj",
+      "album": {
+        "id": "0u34k1ANjgZ47uQfG9yaLj",
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "img": "https://i.scdn.co/image/ab67616d00001e025306ed42ae78f317258c51bb"
+      },
       "release_date": "2006-01-01",
       "popularity": 75
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "51EKPuV1uAWryjNMqZLtgJ",
-      "name": "Seven Spanish Angels (with Ray Charles)",
+      "track": {
+        "id": "51EKPuV1uAWryjNMqZLtgJ",
+        "name": "Seven Spanish Angels (with Ray Charles)"
+      },
       "duration_ms": 231026,
-      "artist": [
-        "Willie Nelson",
-        "Ray Charles"
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Ray Charles",
+          "id": "1eYhYunlNJlDoQhtYBvPsi"
+        }
       ],
-      "artistId": [
-        "5W5bDNCqJ1jbCgTxDD0Cb3",
-        "1eYhYunlNJlDoQhtYBvPsi"
-      ],
-      "albumId": "4tgLQ8VwHXVBkRi3beX95g",
+      "album": {
+        "id": "4tgLQ8VwHXVBkRi3beX95g",
+        "name": "Friendship",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7f591dfe6f46e3dafaa78dc"
+      },
       "release_date": "1984",
       "popularity": 56
     },
     {
-      "trackId": "4yugZvBYaoREkJKtbG08Qr",
-      "name": "Take It Easy - 2013 Remaster",
+      "track": {
+        "id": "4yugZvBYaoREkJKtbG08Qr",
+        "name": "Take It Easy - 2013 Remaster"
+      },
       "duration_ms": 211577,
-      "artist": [
-        "Eagles"
+      "artists": [
+        {
+          "name": "Eagles",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL"
+        }
       ],
-      "artistId": [
-        "0ECwFtbIWEVNwjlrfc6xoL"
-      ],
-      "albumId": "51B7LbLWgYLKBVSpkan8Z7",
+      "album": {
+        "id": "51B7LbLWgYLKBVSpkan8Z7",
+        "name": "Eagles (2013 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b"
+      },
       "release_date": "1972",
       "popularity": 77
     },
     {
-      "trackId": "2D4D3hiOf5U0W6SvJoCQph",
-      "name": "Get Outta My Dreams, Get Into My Car",
+      "track": {
+        "id": "2D4D3hiOf5U0W6SvJoCQph",
+        "name": "Get Outta My Dreams, Get Into My Car"
+      },
       "duration_ms": 284373,
-      "artist": [
-        "Billy Ocean"
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "id": "5IDs1CK15HegSAhGEbSYXo"
+        }
       ],
-      "artistId": [
-        "5IDs1CK15HegSAhGEbSYXo"
-      ],
-      "albumId": "7n4OT3zEZaEiyKKd6mFAhi",
+      "album": {
+        "id": "7n4OT3zEZaEiyKKd6mFAhi",
+        "name": "The Very Best of Billy Ocean",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299ee23dac7128cb5754f593c"
+      },
       "release_date": "2010-04-26",
       "popularity": 61
     },
     {
-      "trackId": "6xJukhaxDzOOgerLMcSu80",
-      "name": "Trouble boys",
+      "track": {
+        "id": "6xJukhaxDzOOgerLMcSu80",
+        "name": "Trouble boys"
+      },
       "duration_ms": 197200,
-      "artist": [
-        "The Refreshments"
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "id": "31oqOoeYTFXYaENhMINVl8"
+        }
       ],
-      "artistId": [
-        "31oqOoeYTFXYaENhMINVl8"
-      ],
-      "albumId": "5R3k3zAB5GJyCOCtUKkd3n",
+      "album": {
+        "id": "5R3k3zAB5GJyCOCtUKkd3n",
+        "name": "Trouble Boys",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290d4fe61b7e2035679d77ab9"
+      },
       "release_date": "1997-02-17",
       "popularity": 7
     },
     {
-      "trackId": "3RNyGLgSvmVRZ7xKUp8Wgd",
-      "name": "In the Summertime",
+      "track": {
+        "id": "3RNyGLgSvmVRZ7xKUp8Wgd",
+        "name": "In the Summertime"
+      },
       "duration_ms": 215800,
-      "artist": [
-        "Mungo Jerry"
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "id": "2mbvqMGpwLsakeH45p1Jrb"
+        }
       ],
-      "artistId": [
-        "2mbvqMGpwLsakeH45p1Jrb"
-      ],
-      "albumId": "30UgyUTvmdYXNo7CeMabXY",
+      "album": {
+        "id": "30UgyUTvmdYXNo7CeMabXY",
+        "name": "In the Summertime",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b06c1fa0b4f3dd5ed8c58c0b"
+      },
       "release_date": "1970-01-01",
       "popularity": 72
     },
     {
-      "trackId": "45POm9nAtHVc15YCSoli6q",
-      "name": "Tell Me About It",
+      "track": {
+        "id": "45POm9nAtHVc15YCSoli6q",
+        "name": "Tell Me About It"
+      },
       "duration_ms": 227600,
-      "artist": [
-        "Tanya Tucker",
-        "Delbert McClinton"
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "id": "7dmeVSH4lJqxXU7C87dKIB"
+        },
+        {
+          "name": "Delbert McClinton",
+          "id": "3Ri72CuuQSCLLkDRJgniFU"
+        }
       ],
-      "artistId": [
-        "7dmeVSH4lJqxXU7C87dKIB",
-        "3Ri72CuuQSCLLkDRJgniFU"
-      ],
-      "albumId": "6AFaPe8uSnqCqP6kbq0CuS",
+      "album": {
+        "id": "6AFaPe8uSnqCqP6kbq0CuS",
+        "name": "Can't Run From Yourself",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8da6cc04443869aedab6143"
+      },
       "release_date": "1992-01-01",
       "popularity": 37
     },
     {
-      "trackId": "2leoM4YyOpJiQbebjXMswB",
-      "name": "Leva mitt liv",
+      "track": {
+        "id": "2leoM4YyOpJiQbebjXMswB",
+        "name": "Leva mitt liv"
+      },
       "duration_ms": 154280,
-      "artist": [
-        "Svante Thuresson"
+      "artists": [
+        {
+          "name": "Svante Thuresson",
+          "id": "5p3OgFVHTqd8MAGGxlOYl3"
+        }
       ],
-      "artistId": [
-        "5p3OgFVHTqd8MAGGxlOYl3"
-      ],
-      "albumId": "5dtigiOKDLWYlGUkBSitUU",
+      "album": {
+        "id": "5dtigiOKDLWYlGUkBSitUU",
+        "name": "Du Ser En Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3bf86f6c145eaff0c287ad4"
+      },
       "release_date": "1968",
       "popularity": 30
     }

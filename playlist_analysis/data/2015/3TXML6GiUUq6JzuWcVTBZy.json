@@ -7,198 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531092_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3RNyGLgSvmVRZ7xKUp8Wgd",
-      "name": "In the Summertime",
+      "track": {
+        "id": "3RNyGLgSvmVRZ7xKUp8Wgd",
+        "name": "In the Summertime"
+      },
       "duration_ms": 215800,
-      "artist": [
-        "Mungo Jerry"
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "id": "2mbvqMGpwLsakeH45p1Jrb"
+        }
       ],
-      "artistId": [
-        "2mbvqMGpwLsakeH45p1Jrb"
-      ],
-      "albumId": "30UgyUTvmdYXNo7CeMabXY",
+      "album": {
+        "id": "30UgyUTvmdYXNo7CeMabXY",
+        "name": "In the Summertime",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b06c1fa0b4f3dd5ed8c58c0b"
+      },
       "release_date": "1970-01-01",
       "popularity": 72
     },
     {
-      "trackId": "27ilMN1oiW9849fReEYgOj",
-      "name": "I Love It",
+      "track": {
+        "id": "27ilMN1oiW9849fReEYgOj",
+        "name": "I Love It"
+      },
       "duration_ms": 156773,
-      "artist": [
-        "Icona Pop",
-        "Charli XCX"
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "id": "1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "id": "25uiPmTg16RbhZWAqwLBy5"
+        }
       ],
-      "artistId": [
-        "1VBflYyxBhnDc9uVib98rw",
-        "25uiPmTg16RbhZWAqwLBy5"
-      ],
-      "albumId": "5ntm6HNABamnxHMI3T3OUb",
+      "album": {
+        "id": "5ntm6HNABamnxHMI3T3OUb",
+        "name": "Icona Pop",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297e035c0a2f5c869aafd2471"
+      },
       "release_date": "2012-01-01",
       "popularity": 51
     },
     {
-      "trackId": "3iB8eciGU9vZkaDYkz7Ir9",
-      "name": "Bamboléo",
+      "track": {
+        "id": "3iB8eciGU9vZkaDYkz7Ir9",
+        "name": "Bamboléo"
+      },
       "duration_ms": 203333,
-      "artist": [
-        "Gipsy Kings"
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "id": "3jc496ljiyrS3ECrD7QiqL"
+        }
       ],
-      "artistId": [
-        "3jc496ljiyrS3ECrD7QiqL"
-      ],
-      "albumId": "43uh4QoHA259dOUkXte7dl",
+      "album": {
+        "id": "43uh4QoHA259dOUkXte7dl",
+        "name": "Gipsy Kings",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e7cb1429534f0d21133b714"
+      },
       "release_date": "1987-08-24",
       "popularity": 69
     },
     {
-      "trackId": "0bIGNGUqgpB82sAksxonkZ",
-      "name": "My Back Pages - Live at Madison Square Garden, New York, NY - October 1992",
+      "track": {
+        "id": "0bIGNGUqgpB82sAksxonkZ",
+        "name": "My Back Pages - Live at Madison Square Garden, New York, NY - October 1992"
+      },
       "duration_ms": 279906,
-      "artist": [
-        "Bob Dylan",
-        "Roger McGuinn",
-        "Tom Petty"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Roger McGuinn",
+          "id": "3ExrAwcOqgGjt9kFRwdM76"
+        },
+        {
+          "name": "Tom Petty",
+          "id": "2UZMlIwnkgAEDBsw1Rejkn"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX",
-        "3ExrAwcOqgGjt9kFRwdM76",
-        "2UZMlIwnkgAEDBsw1Rejkn"
-      ],
-      "albumId": "5OlEEw6gIk32eMhOqRlfGu",
+      "album": {
+        "id": "5OlEEw6gIk32eMhOqRlfGu",
+        "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283d8116743c8b818a18666c5"
+      },
       "release_date": "1993-03-03",
       "popularity": 52
     },
     {
-      "trackId": "36I8o5FnN9f12DePkYYMQy",
-      "name": "Madama Butterfly / Act 2: Coro a bocca chiusa (Humming Chorus)",
+      "track": {
+        "id": "36I8o5FnN9f12DePkYYMQy",
+        "name": "Madama Butterfly / Act 2: Coro a bocca chiusa (Humming Chorus)"
+      },
       "duration_ms": 183573,
-      "artist": [
-        "Giacomo Puccini",
-        "Vienna State Opera Chorus",
-        "Wiener Philharmoniker"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "id": "7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "7dG0oG7NmmndPNaORvzwj9",
-        "003f4bk13c6Q3gAUXv7dGJ"
-      ],
-      "albumId": "23W9Axn8o18Lyz7twID47Q",
+      "album": {
+        "id": "23W9Axn8o18Lyz7twID47Q",
+        "name": "Puccini: Madama Butterfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256765dc4179c565acd8d29b7"
+      },
       "release_date": "1974-01-01",
       "popularity": 38
     },
     {
-      "trackId": "0S3gpZzlT9Hb7CCSV2owX7",
-      "name": "Mama, I'm Coming Home",
+      "track": {
+        "id": "0S3gpZzlT9Hb7CCSV2owX7",
+        "name": "Mama, I'm Coming Home"
+      },
       "duration_ms": 251866,
-      "artist": [
-        "Ozzy Osbourne"
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "id": "6ZLTlhejhndI4Rh53vYhrY"
+        }
       ],
-      "artistId": [
-        "6ZLTlhejhndI4Rh53vYhrY"
-      ],
-      "albumId": "6eh82ojicL8RSJF7GkYTh7",
+      "album": {
+        "id": "6eh82ojicL8RSJF7GkYTh7",
+        "name": "No More Tears (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2b61984b54ad58c8d6fdd19"
+      },
       "release_date": "1991-09-17",
       "popularity": 68
     },
     {
-      "trackId": "79pPmsFEtHnerEkOBvrIMZ",
-      "name": "Jag har hört om en stad ovan molnen",
+      "track": {
+        "id": "79pPmsFEtHnerEkOBvrIMZ",
+        "name": "Jag har hört om en stad ovan molnen"
+      },
       "duration_ms": 282560,
-      "artist": [
-        "Carola"
+      "artists": [
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        }
       ],
-      "artistId": [
-        "3uFum0NCM1PtmCO0MwsOAt"
-      ],
-      "albumId": "1Q5XQTRPqltzIwftMvs711",
+      "album": {
+        "id": "1Q5XQTRPqltzIwftMvs711",
+        "name": "Störst av allt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee853644446f22745d199704"
+      },
       "release_date": "2005-05-04",
       "popularity": 21
     },
     {
-      "trackId": "4UCTgh5jvtqoaMX6MAhUNn",
-      "name": "Personal Jesus - Single Version",
+      "track": {
+        "id": "4UCTgh5jvtqoaMX6MAhUNn",
+        "name": "Personal Jesus - Single Version"
+      },
       "duration_ms": 224933,
-      "artist": [
-        "Depeche Mode"
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "id": "762310PdDnwsDxAQxzQkfX"
+        }
       ],
-      "artistId": [
-        "762310PdDnwsDxAQxzQkfX"
-      ],
-      "albumId": "61h3VS8XDROIpvQznjTPTT",
+      "album": {
+        "id": "61h3VS8XDROIpvQznjTPTT",
+        "name": "The Singles 86-98",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a7d45a345534966a4ad2c39"
+      },
       "release_date": "1998-09-28",
       "popularity": 67
     },
     {
-      "trackId": "5LYEWrdrOQNYRB42h65WNB",
-      "name": "Marianne",
+      "track": {
+        "id": "5LYEWrdrOQNYRB42h65WNB",
+        "name": "Marianne"
+      },
       "duration_ms": 123933,
-      "artist": [
-        "Hootenanny Singers"
+      "artists": [
+        {
+          "name": "Hootenanny Singers",
+          "id": "3ad93MNniE0byDdOcRNT3Y"
+        }
       ],
-      "artistId": [
-        "3ad93MNniE0byDdOcRNT3Y"
-      ],
-      "albumId": "04TBz72MhMxqbt7ZqmD9Dh",
+      "album": {
+        "id": "04TBz72MhMxqbt7ZqmD9Dh",
+        "name": "Många ansikten / Many Faces",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f12638ffe9ec6f599dabce16"
+      },
       "release_date": "1966-01-01",
       "popularity": 26
     },
     {
-      "trackId": "4Bh3FuYbXgUVyUH1Ht8zif",
-      "name": "Over the Rainbow",
+      "track": {
+        "id": "4Bh3FuYbXgUVyUH1Ht8zif",
+        "name": "Over the Rainbow"
+      },
       "duration_ms": 300893,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "3XqJP3zCQMeEdJrk7IGiTJ",
+      "album": {
+        "id": "3XqJP3zCQMeEdJrk7IGiTJ",
+        "name": "Songbird 20",
+        "img": "https://i.scdn.co/image/ab67616d00001e027453ed8ae3395305e7be307f"
+      },
       "release_date": "2018-03-02",
       "popularity": 49
     },
     {
-      "trackId": "6FDT4KmAZlINVzEj20yDR1",
-      "name": "Turandot / Act II: Das erste Rätsel: \"Straniero, ascolta\" (Turandot)",
+      "track": {
+        "id": "6FDT4KmAZlINVzEj20yDR1",
+        "name": "Turandot / Act II: Das erste Rätsel: \"Straniero, ascolta\" (Turandot)"
+      },
       "duration_ms": 122640,
-      "artist": [
-        "Giacomo Puccini",
-        "Katia Ricciarelli",
-        "Wiener Philharmoniker"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Katia Ricciarelli",
+          "id": "23g65hwLAhIc38UPUsqNtc"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "23g65hwLAhIc38UPUsqNtc",
-        "003f4bk13c6Q3gAUXv7dGJ"
-      ],
-      "albumId": "3Qyf2bOvsNuyZw3abtCBbQ",
+      "album": {
+        "id": "3Qyf2bOvsNuyZw3abtCBbQ",
+        "name": "Puccini: Turandot",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b09496d4a8dd81a7dabafce1"
+      },
       "release_date": "1982-01-01",
       "popularity": 7
     },
     {
-      "trackId": "2AvMA7gOOhQpDDUjBs89ap",
-      "name": "Where Do You Go To (My Lovely)",
+      "track": {
+        "id": "2AvMA7gOOhQpDDUjBs89ap",
+        "name": "Where Do You Go To (My Lovely)"
+      },
       "duration_ms": 284706,
-      "artist": [
-        "Peter Sarstedt"
+      "artists": [
+        {
+          "name": "Peter Sarstedt",
+          "id": "3ExGDjEKejMhyciAgxPe0B"
+        }
       ],
-      "artistId": [
-        "3ExGDjEKejMhyciAgxPe0B"
-      ],
-      "albumId": "6dBpKIruDjddNXc5ps2eW3",
+      "album": {
+        "id": "6dBpKIruDjddNXc5ps2eW3",
+        "name": "Playlist: The Best Of Peter Sarstedt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be8f688f6b18a9e29ee1477b"
+      },
       "release_date": "2016-05-20",
       "popularity": 54
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

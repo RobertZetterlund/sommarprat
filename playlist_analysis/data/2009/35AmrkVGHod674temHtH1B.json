@@ -7,246 +7,354 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249356_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0zZ8oet7ZTriXO1IkUtZBX",
-      "name": "The Late Great Cassiopia",
+      "track": {
+        "id": "0zZ8oet7ZTriXO1IkUtZBX",
+        "name": "The Late Great Cassiopia"
+      },
       "duration_ms": 211360,
-      "artist": [
-        "The Essex Green"
+      "artists": [
+        {
+          "name": "The Essex Green",
+          "id": "2hLQppESVnOV9ntMD3uA4G"
+        }
       ],
-      "artistId": [
-        "2hLQppESVnOV9ntMD3uA4G"
-      ],
-      "albumId": "14mtXn7yMdyZ1ncXB0w2AU",
+      "album": {
+        "id": "14mtXn7yMdyZ1ncXB0w2AU",
+        "name": "The Long Goodbye",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d31ff6164c0776ed644d9430"
+      },
       "release_date": "2003-04-08",
       "popularity": 35
     },
     {
-      "trackId": "0j3p1p06deJ7f9xmJ9yG22",
-      "name": "Back In The U.S.S.R. - Remastered 2009",
+      "track": {
+        "id": "0j3p1p06deJ7f9xmJ9yG22",
+        "name": "Back In The U.S.S.R. - Remastered 2009"
+      },
       "duration_ms": 163453,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 65
     },
     {
-      "trackId": "7f4JFbl7p9N55XkmFTlXWP",
-      "name": "I Hang on to My Vertigo",
+      "track": {
+        "id": "7f4JFbl7p9N55XkmFTlXWP",
+        "name": "I Hang on to My Vertigo"
+      },
       "duration_ms": 301880,
-      "artist": [
-        "Rupert Hine"
+      "artists": [
+        {
+          "name": "Rupert Hine",
+          "id": "4y0Cb1j7NWmbzt8P8p8TBb"
+        }
       ],
-      "artistId": [
-        "4y0Cb1j7NWmbzt8P8p8TBb"
-      ],
-      "albumId": "5CB5eYTieJ0LQRK90qxmKp",
+      "album": {
+        "id": "5CB5eYTieJ0LQRK90qxmKp",
+        "name": "Unshy on the Skyline: The Best of Rupert Hine",
+        "img": "https://i.scdn.co/image/ab67616d00001e025bee66007fcd8b9f19ca91da"
+      },
       "release_date": "2015-03-30",
       "popularity": 23
     },
     {
-      "trackId": "36CKza28wMxYdjdzji7ine",
-      "name": "I Started A Joke",
+      "track": {
+        "id": "36CKza28wMxYdjdzji7ine",
+        "name": "I Started A Joke"
+      },
       "duration_ms": 188306,
-      "artist": [
-        "Bee Gees"
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "id": "1LZEQNv7sE11VDY3SdxQeN"
+        }
       ],
-      "artistId": [
-        "1LZEQNv7sE11VDY3SdxQeN"
-      ],
-      "albumId": "3LcOOTBvHj22Nl90AuRsro",
+      "album": {
+        "id": "3LcOOTBvHj22Nl90AuRsro",
+        "name": "Idea (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d40610074e9816f2a2004336"
+      },
       "release_date": "1968-08-11",
       "popularity": 66
     },
     {
-      "trackId": "6GpaH4wT5Rj95Nf1ahFdN4",
-      "name": "Mr. Soft - 2012 Remaster",
+      "track": {
+        "id": "6GpaH4wT5Rj95Nf1ahFdN4",
+        "name": "Mr. Soft - 2012 Remaster"
+      },
       "duration_ms": 197373,
-      "artist": [
-        "Steve Harley & Cockney Rebel"
+      "artists": [
+        {
+          "name": "Steve Harley & Cockney Rebel",
+          "id": "6EL5GD53kaaVgJCHgdtdLz"
+        }
       ],
-      "artistId": [
-        "6EL5GD53kaaVgJCHgdtdLz"
-      ],
-      "albumId": "4Kc4MLmc2TGtq5CQMNiT2z",
+      "album": {
+        "id": "4Kc4MLmc2TGtq5CQMNiT2z",
+        "name": "The Psychomodo (2012 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260e3a56a95ee979b1074756f"
+      },
       "release_date": "1974-06-01",
       "popularity": 30
     },
     {
-      "trackId": "5pd5hmhFHYyqhOdhcTNckB",
-      "name": "The Worrying Kind",
+      "track": {
+        "id": "5pd5hmhFHYyqhOdhcTNckB",
+        "name": "The Worrying Kind"
+      },
       "duration_ms": 221920,
-      "artist": [
-        "Maia Hirasawa"
+      "artists": [
+        {
+          "name": "Maia Hirasawa",
+          "id": "2xtgYE7gox5t043BJWi7bd"
+        }
       ],
-      "artistId": [
-        "2xtgYE7gox5t043BJWi7bd"
-      ],
-      "albumId": "6HBHt2gESeUf3bvLBI56MF",
+      "album": {
+        "id": "6HBHt2gESeUf3bvLBI56MF",
+        "name": "Though, I'm Just Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfd85fd1edcb5009599df4be"
+      },
       "release_date": "2007",
       "popularity": 34
     },
     {
-      "trackId": "5Ts1DYOuouQLgzTaisxWYh",
-      "name": "Love Grows (Where My Rosemary Goes)",
+      "track": {
+        "id": "5Ts1DYOuouQLgzTaisxWYh",
+        "name": "Love Grows (Where My Rosemary Goes)"
+      },
       "duration_ms": 174760,
-      "artist": [
-        "Edison Lighthouse"
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "id": "1NRzxuPpdGushT8YmF5NAa"
+        }
       ],
-      "artistId": [
-        "1NRzxuPpdGushT8YmF5NAa"
-      ],
-      "albumId": "4XDWk7zU6KDgLaqLxEYi8y",
+      "album": {
+        "id": "4XDWk7zU6KDgLaqLxEYi8y",
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a0011cc9d31cf969b656905"
+      },
       "release_date": "1970-01-01",
       "popularity": 77
     },
     {
-      "trackId": "2pXCZ67EJskroV53ke7lZ2",
-      "name": "DJ Uper Nachu",
+      "track": {
+        "id": "2pXCZ67EJskroV53ke7lZ2",
+        "name": "DJ Uper Nachu"
+      },
       "duration_ms": 303989,
-      "artist": [
-        "Phool Singh Rawat",
-        "Shilpa Bidawat"
+      "artists": [
+        {
+          "name": "Phool Singh Rawat",
+          "id": "3PEfDnzfrJMViX0ZWhrWvN"
+        },
+        {
+          "name": "Shilpa Bidawat",
+          "id": "1PjEjI2W36I0pQ2Dni6wZh"
+        }
       ],
-      "artistId": [
-        "3PEfDnzfrJMViX0ZWhrWvN",
-        "1PjEjI2W36I0pQ2Dni6wZh"
-      ],
-      "albumId": "3ScZdqYgQuzNPTzOAwy5AW",
+      "album": {
+        "id": "3ScZdqYgQuzNPTzOAwy5AW",
+        "name": "DJ Uper Nachu",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277cd6488c6d6079ad9e40968"
+      },
       "release_date": "2019-05-23",
       "popularity": 25
     },
     {
-      "trackId": "3zvCfZ0ygZV83XSjelgcgp",
-      "name": "Shree Ganesh Mantra",
+      "track": {
+        "id": "3zvCfZ0ygZV83XSjelgcgp",
+        "name": "Shree Ganesh Mantra"
+      },
       "duration_ms": 490289,
-      "artist": [
-        "Sanjayraj Gaurinandan"
+      "artists": [
+        {
+          "name": "Sanjayraj Gaurinandan",
+          "id": "364SUutxNBI1jqUp4DBqZB"
+        }
       ],
-      "artistId": [
-        "364SUutxNBI1jqUp4DBqZB"
-      ],
-      "albumId": "7jQmvtRagRVpHGFst3Hx4A",
+      "album": {
+        "id": "7jQmvtRagRVpHGFst3Hx4A",
+        "name": "Shree Siddhivinayak",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e113ce31a178a48715e3a2c"
+      },
       "release_date": "2016-08-31",
       "popularity": 23
     },
     {
-      "trackId": "0qdQUeKVyevrbKhAo0ibxS",
-      "name": "My Sweet Lord - Remastered 2014",
+      "track": {
+        "id": "0qdQUeKVyevrbKhAo0ibxS",
+        "name": "My Sweet Lord - Remastered 2014"
+      },
       "duration_ms": 281226,
-      "artist": [
-        "George Harrison"
+      "artists": [
+        {
+          "name": "George Harrison",
+          "id": "7FIoB5PHdrMZVC3q2HE5MS"
+        }
       ],
-      "artistId": [
-        "7FIoB5PHdrMZVC3q2HE5MS"
-      ],
-      "albumId": "4I4xtHaIFOzhZfp1NIHkY6",
+      "album": {
+        "id": "4I4xtHaIFOzhZfp1NIHkY6",
+        "name": "All Things Must Pass (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02acc11d868a59008935e72299"
+      },
       "release_date": "1970-11-27",
       "popularity": 75
     },
     {
-      "trackId": "2DFRFqWNahKtFD112H2iEZ",
-      "name": "Do You Realize??",
+      "track": {
+        "id": "2DFRFqWNahKtFD112H2iEZ",
+        "name": "Do You Realize??"
+      },
       "duration_ms": 213173,
-      "artist": [
-        "The Flaming Lips"
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "id": "16eRpMNXSQ15wuJoeqguaB"
+        }
       ],
-      "artistId": [
-        "16eRpMNXSQ15wuJoeqguaB"
-      ],
-      "albumId": "49LA20VMk65fQyEaIzYdvf",
+      "album": {
+        "id": "49LA20VMk65fQyEaIzYdvf",
+        "name": "Yoshimi Battles the Pink Robots",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca69f52416a728ebd0b9103c"
+      },
       "release_date": "2002-05-13",
       "popularity": 61
     },
     {
-      "trackId": "7aiEVqId1OoUJ2W60DiCxv",
-      "name": "Superstar",
+      "track": {
+        "id": "7aiEVqId1OoUJ2W60DiCxv",
+        "name": "Superstar"
+      },
       "duration_ms": 238466,
-      "artist": [
-        "Andrew Lloyd Webber",
-        "‘Jesus Christ Superstar’ 1996 London Cast",
-        "Zubin Varla"
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "id": "4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "‘Jesus Christ Superstar’ 1996 London Cast",
+          "id": "5RzauMZQELIuit9D6Y2KKd"
+        },
+        {
+          "name": "Zubin Varla",
+          "id": "4ytuGInRcR4K5to1P3I93x"
+        }
       ],
-      "artistId": [
-        "4aP1lp10BRYZO658B2NwkG",
-        "5RzauMZQELIuit9D6Y2KKd",
-        "4ytuGInRcR4K5to1P3I93x"
-      ],
-      "albumId": "07yuGQWbSrSzFij9ammAfR",
+      "album": {
+        "id": "07yuGQWbSrSzFij9ammAfR",
+        "name": "Jesus Christ Superstar (Remastered 2005)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264ec35401f919e9d8bcf7e3d"
+      },
       "release_date": "2005-06-19",
       "popularity": 38
     },
     {
-      "trackId": "2e8xQXP6m25f8Kmhb4NoC0",
-      "name": "Heaven On Their Minds",
+      "track": {
+        "id": "2e8xQXP6m25f8Kmhb4NoC0",
+        "name": "Heaven On Their Minds"
+      },
       "duration_ms": 182653,
-      "artist": [
-        "Sam Taylor"
+      "artists": [
+        {
+          "name": "Sam Taylor",
+          "id": "1hpiv1Zxz6kzvMvxw0Cbc5"
+        }
       ],
-      "artistId": [
-        "1hpiv1Zxz6kzvMvxw0Cbc5"
-      ],
-      "albumId": "3AtToFTc9RqdrGpyQrP9CV",
+      "album": {
+        "id": "3AtToFTc9RqdrGpyQrP9CV",
+        "name": "Good God! A Gospel Funk Hymnal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9d47d6e94ffde8bad5717b3"
+      },
       "release_date": "2006-08-29",
       "popularity": 10
     },
     {
-      "trackId": "1O6oVo1yN5S7bN1ktRY5we",
-      "name": "Getsemane (Gethsemane - I Only Want To Say)",
+      "track": {
+        "id": "1O6oVo1yN5S7bN1ktRY5we",
+        "name": "Getsemane (Gethsemane - I Only Want To Say)"
+      },
       "duration_ms": 319280,
-      "artist": [
-        "Ola Salo"
+      "artists": [
+        {
+          "name": "Ola Salo",
+          "id": "3IfjzLJe109UiT5EXAhjV1"
+        }
       ],
-      "artistId": [
-        "3IfjzLJe109UiT5EXAhjV1"
-      ],
-      "albumId": "1roPYclz11NR7hNkdNSfzR",
+      "album": {
+        "id": "1roPYclz11NR7hNkdNSfzR",
+        "name": "Jesus Christ Superstar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02522d0ef4e9806d8e07510501"
+      },
       "release_date": "2009-01-01",
       "popularity": 11
     },
     {
-      "trackId": "2Ig0jJJZgED8v1D9xPNKtn",
-      "name": "Build It Up - Instrumental",
+      "track": {
+        "id": "2Ig0jJJZgED8v1D9xPNKtn",
+        "name": "Build It Up - Instrumental"
+      },
       "duration_ms": 333533,
-      "artist": [
-        "The Byrds"
+      "artists": [
+        {
+          "name": "The Byrds",
+          "id": "1PCZpxHJz7WAMF8EEq8bfc"
+        }
       ],
-      "artistId": [
-        "1PCZpxHJz7WAMF8EEq8bfc"
-      ],
-      "albumId": "3bqZfeoWeeF14oR1k2S30A",
+      "album": {
+        "id": "3bqZfeoWeeF14oR1k2S30A",
+        "name": "Ballad Of Easy Rider",
+        "img": "https://i.scdn.co/image/ab67616d00001e02939fca4074de7d01098f78cf"
+      },
       "release_date": "1969-11-10",
       "popularity": 7
     },
     {
-      "trackId": "7xRemq7GLu0Tbqe9OckG87",
-      "name": "The Man in Me",
+      "track": {
+        "id": "7xRemq7GLu0Tbqe9OckG87",
+        "name": "The Man in Me"
+      },
       "duration_ms": 186213,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "48efaobqOTbvnlxbETstey",
+      "album": {
+        "id": "48efaobqOTbvnlxbETstey",
+        "name": "New Morning",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be634898c4b925ad6611ac64"
+      },
       "release_date": "1970-10-21",
       "popularity": 60
     },
     {
-      "trackId": "6lSV4XSDYdktizPCP5CBZc",
-      "name": "Rock And Roll",
+      "track": {
+        "id": "6lSV4XSDYdktizPCP5CBZc",
+        "name": "Rock And Roll"
+      },
       "duration_ms": 365960,
-      "artist": [
-        "The Velvet Underground"
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "id": "1nJvji2KIlWSseXRSlNYsC"
+        }
       ],
-      "artistId": [
-        "1nJvji2KIlWSseXRSlNYsC"
-      ],
-      "albumId": "3JtjFSIYNbSipiiWvYjpno",
+      "album": {
+        "id": "3JtjFSIYNbSipiiWvYjpno",
+        "name": "1969: Velvet Underground Live with Lou Reed Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278ffaa56f407f6d9881c1c38"
+      },
       "release_date": "1974-09",
       "popularity": 26
     }

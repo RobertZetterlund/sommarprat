@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234552_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5FrbEiNS4IT5AAlU60XoVn",
-      "name": "Heaven Can Wait",
+      "track": {
+        "id": "5FrbEiNS4IT5AAlU60XoVn",
+        "name": "Heaven Can Wait"
+      },
       "duration_ms": 160442,
-      "artist": [
-        "Charlotte Gainsbourg",
-        "Beck"
+      "artists": [
+        {
+          "name": "Charlotte Gainsbourg",
+          "id": "2rBcvLKWCZs9w1qIWv560v"
+        },
+        {
+          "name": "Beck",
+          "id": "3vbKDsSS70ZX9D2OcvbZmS"
+        }
       ],
-      "artistId": [
-        "2rBcvLKWCZs9w1qIWv560v",
-        "3vbKDsSS70ZX9D2OcvbZmS"
-      ],
-      "albumId": "3yskvqosKohzIMFeEAHAFt",
+      "album": {
+        "id": "3yskvqosKohzIMFeEAHAFt",
+        "name": "IRM (Version Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029452b7dd6298a632b7aaa35e"
+      },
       "release_date": "2009-12-07",
       "popularity": 35
     },
     {
-      "trackId": "3v8aPisqoGRZEwwf2rCeXQ",
-      "name": "Time Lapse",
+      "track": {
+        "id": "3v8aPisqoGRZEwwf2rCeXQ",
+        "name": "Time Lapse"
+      },
       "duration_ms": 185314,
-      "artist": [
-        "TheFatRat"
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "id": "3OKg7YbOIatODzkRIbLJR4"
+        }
       ],
-      "artistId": [
-        "3OKg7YbOIatODzkRIbLJR4"
-      ],
-      "albumId": "3jcZqlAXX3LVDO4PiQ4mpO",
+      "album": {
+        "id": "3jcZqlAXX3LVDO4PiQ4mpO",
+        "name": "Time Lapse",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3358aa871947bba742f03b3"
+      },
       "release_date": "2015-04-16",
       "popularity": 54
     },
     {
-      "trackId": "40PWaZHk7UClKfhm8mcz0V",
-      "name": "Natten har sitt sätt",
+      "track": {
+        "id": "40PWaZHk7UClKfhm8mcz0V",
+        "name": "Natten har sitt sätt"
+      },
       "duration_ms": 173840,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "5qLruMuOkGyiBqOiTjcGTs",
+      "album": {
+        "id": "5qLruMuOkGyiBqOiTjcGTs",
+        "name": "Nådens År",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d6d1f92f8c68691fee6561f"
+      },
       "release_date": "1978",
       "popularity": 10
     },
     {
-      "trackId": "3vNFsxBbA4dPkymPF5Jm1b",
-      "name": "This Mess We're In",
+      "track": {
+        "id": "3vNFsxBbA4dPkymPF5Jm1b",
+        "name": "This Mess We're In"
+      },
       "duration_ms": 235840,
-      "artist": [
-        "PJ Harvey",
-        "Thom Yorke"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        },
+        {
+          "name": "Thom Yorke",
+          "id": "4CvTDPKA6W06DRfBnZKrau"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz",
-        "4CvTDPKA6W06DRfBnZKrau"
-      ],
-      "albumId": "0hBWhJEmVyNPG2Jq71CJXz",
+      "album": {
+        "id": "0hBWhJEmVyNPG2Jq71CJXz",
+        "name": "Stories From The City, Stories From The Sea",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209e4ac9a68d9ea5ef0ad9b05"
+      },
       "release_date": "2000-01-01",
       "popularity": 58
     },
     {
-      "trackId": "1lDo24S34NvI1pAg7Oxldc",
-      "name": "The Name Of The Game",
+      "track": {
+        "id": "1lDo24S34NvI1pAg7Oxldc",
+        "name": "The Name Of The Game"
+      },
       "duration_ms": 291866,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5fLOHW1UXr1cJrnXiU3FBt",
+      "album": {
+        "id": "5fLOHW1UXr1cJrnXiU3FBt",
+        "name": "The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f705bef76c1d861c4d51d8c"
+      },
       "release_date": "1977",
       "popularity": 58
     },
     {
-      "trackId": "1AAmQJO43qsQGc1pWRmTxN",
-      "name": "Beautiful Tango - Unplugged",
+      "track": {
+        "id": "1AAmQJO43qsQGc1pWRmTxN",
+        "name": "Beautiful Tango - Unplugged"
+      },
       "duration_ms": 265400,
-      "artist": [
-        "Hindi Zahra"
+      "artists": [
+        {
+          "name": "Hindi Zahra",
+          "id": "6QncudMSOiKxYRIKRDks6S"
+        }
       ],
-      "artistId": [
-        "6QncudMSOiKxYRIKRDks6S"
-      ],
-      "albumId": "6D8piOqptylpneNaEcBiaM",
+      "album": {
+        "id": "6D8piOqptylpneNaEcBiaM",
+        "name": "Handmade (Bonus Track Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d326f8e3f6a1d8b31fa43f4"
+      },
       "release_date": "2009",
       "popularity": 52
     },
     {
-      "trackId": "6BrMEbPSSj55nQhkgf6DnE",
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "track": {
+        "id": "6BrMEbPSSj55nQhkgf6DnE",
+        "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster"
+      },
       "duration_ms": 112706,
-      "artist": [
-        "The Smiths"
+      "artists": [
+        {
+          "name": "The Smiths",
+          "id": "3yY2gUcIsjMr8hjo51PoJ8"
+        }
       ],
-      "artistId": [
-        "3yY2gUcIsjMr8hjo51PoJ8"
-      ],
-      "albumId": "1j57Q5ntVi7crpibb0h4sv",
+      "album": {
+        "id": "1j57Q5ntVi7crpibb0h4sv",
+        "name": "Hatful of Hollow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b"
+      },
       "release_date": "1984",
       "popularity": 67
     },
     {
-      "trackId": "32e2HfZO0uA3o2OtsunEyR",
-      "name": "Fool's Gold",
+      "track": {
+        "id": "32e2HfZO0uA3o2OtsunEyR",
+        "name": "Fool's Gold"
+      },
       "duration_ms": 181546,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "3sQmnzinwjBm9aXlW28imE",
+      "album": {
+        "id": "3sQmnzinwjBm9aXlW28imE",
+        "name": "Lhasa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4c8923d07e86d2139c16278"
+      },
       "release_date": "2009-04-21",
       "popularity": 41
     },
     {
-      "trackId": "158DIbrVt4YbqNnWyRCS3P",
-      "name": "Hate Me Now (feat. Diddy)",
+      "track": {
+        "id": "158DIbrVt4YbqNnWyRCS3P",
+        "name": "Hate Me Now (feat. Diddy)"
+      },
       "duration_ms": 284000,
-      "artist": [
-        "Nas",
-        "Diddy"
+      "artists": [
+        {
+          "name": "Nas",
+          "id": "20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Diddy",
+          "id": "59wfkuBoNyhDMQGCljbUbA"
+        }
       ],
-      "artistId": [
-        "20qISvAhX20dpIbOOzGK3q",
-        "59wfkuBoNyhDMQGCljbUbA"
-      ],
-      "albumId": "4UhEjfIRx4tE1XRY21vwNa",
+      "album": {
+        "id": "4UhEjfIRx4tE1XRY21vwNa",
+        "name": "I Am...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e80a5aa8d7224edc04b1dc28"
+      },
       "release_date": "1999-04-06",
       "popularity": 60
     },
     {
-      "trackId": "2VXXg9gFT8086ujNrOiJp9",
-      "name": "Selve amiche",
+      "track": {
+        "id": "2VXXg9gFT8086ujNrOiJp9",
+        "name": "Selve amiche"
+      },
       "duration_ms": 187173,
-      "artist": [
-        "Antonio Caldara",
-        "Cecilia Bartoli",
-        "György Fischer"
+      "artists": [
+        {
+          "name": "Antonio Caldara",
+          "id": "5K2RzBcPJRkr7qrYwSQdH8"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "id": "3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "György Fischer",
+          "id": "7dWuGG0jn90EWtzJDoGIzB"
+        }
       ],
-      "artistId": [
-        "5K2RzBcPJRkr7qrYwSQdH8",
-        "3uw6GzeL10NfFrcikMo9Na",
-        "7dWuGG0jn90EWtzJDoGIzB"
-      ],
-      "albumId": "6K4I2VmJYqTjMbiC0fxqGZ",
+      "album": {
+        "id": "6K4I2VmJYqTjMbiC0fxqGZ",
+        "name": "Cecilia Bartoli - Arie Antiche: Se tu m'ami",
+        "img": "https://i.scdn.co/image/ab67616d00001e02102116b847272b080a1272a3"
+      },
       "release_date": "1992-01-01",
       "popularity": 22
     },
     {
-      "trackId": "1j3qE65hw8vxZU1QFqck8b",
-      "name": "Con Toda Palabra",
+      "track": {
+        "id": "1j3qE65hw8vxZU1QFqck8b",
+        "name": "Con Toda Palabra"
+      },
       "duration_ms": 269533,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "45GGSs0jmsNbIAesZ1Rkwp",
+      "album": {
+        "id": "45GGSs0jmsNbIAesZ1Rkwp",
+        "name": "The Living Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfee69e0b4938bfff2219b8f"
+      },
       "release_date": "2003-10-22",
       "popularity": 38
     },
     {
-      "trackId": "4Cnp3vk6Cl0RC0A4dieUid",
-      "name": "I denna ljuva sommartid",
+      "track": {
+        "id": "4Cnp3vk6Cl0RC0A4dieUid",
+        "name": "I denna ljuva sommartid"
+      },
       "duration_ms": 162826,
-      "artist": [
-        "Anders Widmark"
+      "artists": [
+        {
+          "name": "Anders Widmark",
+          "id": "4ZgY2pumPsq9z3kNxGTDef"
+        }
       ],
-      "artistId": [
-        "4ZgY2pumPsq9z3kNxGTDef"
-      ],
-      "albumId": "58TQrEfi5T1bi5KQVhRJ9r",
+      "album": {
+        "id": "58TQrEfi5T1bi5KQVhRJ9r",
+        "name": "Psalmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc7b5002f93dfd6037bdac0"
+      },
       "release_date": "1997-09-01",
       "popularity": 35
     },
     {
-      "trackId": "0SIzIfR6913S1oqTbyg8YC",
-      "name": "Blue Skies",
+      "track": {
+        "id": "0SIzIfR6913S1oqTbyg8YC",
+        "name": "Blue Skies"
+      },
       "duration_ms": 226360,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "4y9NGBV1nMcJKedGL22d8n",
+      "album": {
+        "id": "4y9NGBV1nMcJKedGL22d8n",
+        "name": "Get Happy! (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227be1c908d41f00d3e53a308"
+      },
       "release_date": "1959-01-01",
       "popularity": 51
     }

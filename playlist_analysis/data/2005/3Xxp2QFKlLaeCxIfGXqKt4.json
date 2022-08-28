@@ -7,282 +7,410 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3230502_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2vkcE0lbbo8ZiZqMFM6uuP",
-      "name": "Jack Miraculous",
+      "track": {
+        "id": "2vkcE0lbbo8ZiZqMFM6uuP",
+        "name": "Jack Miraculous"
+      },
       "duration_ms": 162133,
-      "artist": [
-        "Gino Vannelli"
+      "artists": [
+        {
+          "name": "Gino Vannelli",
+          "id": "6ltcwvni6HdZAJaWhmIvNR"
+        }
       ],
-      "artistId": [
-        "6ltcwvni6HdZAJaWhmIvNR"
-      ],
-      "albumId": "4nvSQNHUXTqJgfzAnyBI8V",
+      "album": {
+        "id": "4nvSQNHUXTqJgfzAnyBI8V",
+        "name": "Powerful People",
+        "img": "https://i.scdn.co/image/ab67616d00001e021490ce6392ba62932177b8f7"
+      },
       "release_date": "1974-01-01",
       "popularity": 21
     },
     {
-      "trackId": "57hTtydRPvTQ5cxbKTz6C0",
-      "name": "Ac-Cent-Tchu-Ate The Positive",
+      "track": {
+        "id": "57hTtydRPvTQ5cxbKTz6C0",
+        "name": "Ac-Cent-Tchu-Ate The Positive"
+      },
       "duration_ms": 242746,
-      "artist": [
-        "Al Jarreau"
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "id": "3YR92OLKlvkK5oKNekSqXe"
+        }
       ],
-      "artistId": [
-        "3YR92OLKlvkK5oKNekSqXe"
-      ],
-      "albumId": "4m3qSBTNCgaTMhpPzZDH3R",
+      "album": {
+        "id": "4m3qSBTNCgaTMhpPzZDH3R",
+        "name": "Accentuate The Positive",
+        "img": "https://i.scdn.co/image/ab67616d00001e026c1d17e4576360c06309f4ee"
+      },
       "release_date": "2004-01-01",
       "popularity": 9
     },
     {
-      "trackId": "3Y0LpU5kqQ3vSZvwcGjl1M",
-      "name": "Splanky",
+      "track": {
+        "id": "3Y0LpU5kqQ3vSZvwcGjl1M",
+        "name": "Splanky"
+      },
       "duration_ms": 217373,
-      "artist": [
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "03M3VID0s2wANlxJIJBWKb",
+      "album": {
+        "id": "03M3VID0s2wANlxJIJBWKb",
+        "name": "The Atomic Mr Basie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1134f6accac04d6a3d137fd"
+      },
       "release_date": "1958",
       "popularity": 48
     },
     {
-      "trackId": "0nkaFmQeTn4c49u9OR927j",
-      "name": "Calle Schewens vals",
+      "track": {
+        "id": "0nkaFmQeTn4c49u9OR927j",
+        "name": "Calle Schewens vals"
+      },
       "duration_ms": 228173,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "2vL7xlTjr6uGh84TSFkUYp",
+      "album": {
+        "id": "2vL7xlTjr6uGh84TSFkUYp",
+        "name": "Diamanter 2 - Olle Adolphson Sjunger Taube, Adolphson & Ferlin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e423860f61d6f166eb255ef5"
+      },
       "release_date": "2004-01-07",
       "popularity": 6
     },
     {
-      "trackId": "1rBaKSZseq5RzL94X1sG6F",
-      "name": "Trubbel",
+      "track": {
+        "id": "1rBaKSZseq5RzL94X1sG6F",
+        "name": "Trubbel"
+      },
       "duration_ms": 243666,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "7lyQfx7ajQQyrc5pIhqPfS",
+      "album": {
+        "id": "7lyQfx7ajQQyrc5pIhqPfS",
+        "name": "Visor under 10 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230e8af7de684468cb0109fcc"
+      },
       "release_date": "1967-01-01",
       "popularity": 32
     },
     {
-      "trackId": "19r7VEmSWi5nTE5jXGZyan",
-      "name": "Älskar inte jag dig då",
+      "track": {
+        "id": "19r7VEmSWi5nTE5jXGZyan",
+        "name": "Älskar inte jag dig då"
+      },
       "duration_ms": 234026,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "69ogyWdJTdIa6NE6h444Fy",
+      "album": {
+        "id": "69ogyWdJTdIa6NE6h444Fy",
+        "name": "Älskar inte jag dig då",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8bf323b95a6b1a07b0964f2"
+      },
       "release_date": "1994-01-01",
       "popularity": 8
     },
     {
-      "trackId": "4wr2HgyYMvJourcfOMzPCb",
-      "name": "Polisen",
+      "track": {
+        "id": "4wr2HgyYMvJourcfOMzPCb",
+        "name": "Polisen"
+      },
       "duration_ms": 154433,
-      "artist": [
-        "Ringnes-Ronny"
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "id": "4TNb6OInXahdseLnzAY1eL"
+        }
       ],
-      "artistId": [
-        "4TNb6OInXahdseLnzAY1eL"
-      ],
-      "albumId": "4dVz4LIb33QKCJoxQPYyNL",
+      "album": {
+        "id": "4dVz4LIb33QKCJoxQPYyNL",
+        "name": "Polisen",
+        "img": "https://i.scdn.co/image/ab67616d00001e023899e6080651b0c9dfd300c6"
+      },
       "release_date": "2021-04-09",
       "popularity": 60
     },
     {
-      "trackId": "4UBYbC0qKvmUvgJgyDKJDV",
-      "name": "Dansar i månens sken",
+      "track": {
+        "id": "4UBYbC0qKvmUvgJgyDKJDV",
+        "name": "Dansar i månens sken"
+      },
       "duration_ms": 237600,
-      "artist": [
-        "Suzzies Orkester"
+      "artists": [
+        {
+          "name": "Suzzies Orkester",
+          "id": "1YqNwBtZfItNvcpXzLbX4M"
+        }
       ],
-      "artistId": [
-        "1YqNwBtZfItNvcpXzLbX4M"
-      ],
-      "albumId": "3LnNKQXTmNjM4H9ZDs4ZO3",
+      "album": {
+        "id": "3LnNKQXTmNjM4H9ZDs4ZO3",
+        "name": "Om",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255066164971077a719e619a5"
+      },
       "release_date": "1988-01-01",
       "popularity": 45
     },
     {
-      "trackId": "3sOKYtKXr4Vt9j40f1KuqC",
-      "name": "carpe diem feat. itori",
+      "track": {
+        "id": "3sOKYtKXr4Vt9j40f1KuqC",
+        "name": "carpe diem feat. itori"
+      },
       "duration_ms": 189265,
-      "artist": [
-        "ZYTOKINE",
-        "itori"
+      "artists": [
+        {
+          "name": "ZYTOKINE",
+          "id": "35rRbEecpKHkVVYnp7RArh"
+        },
+        {
+          "name": "itori",
+          "id": "4TPkVDX4rMa5ehAXK6IW9B"
+        }
       ],
-      "artistId": [
-        "35rRbEecpKHkVVYnp7RArh",
-        "4TPkVDX4rMa5ehAXK6IW9B"
-      ],
-      "albumId": "3bw7Vsy5tPISJ2pTh3aS6O",
+      "album": {
+        "id": "3bw7Vsy5tPISJ2pTh3aS6O",
+        "name": "♮ NATURAL",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a102fdac08ccdb9216dc350"
+      },
       "release_date": "2020-05-05",
       "popularity": 18
     },
     {
-      "trackId": "72zhtYECxT2Zt0NN7pvDhG",
-      "name": "Summertime",
+      "track": {
+        "id": "72zhtYECxT2Zt0NN7pvDhG",
+        "name": "Summertime"
+      },
       "duration_ms": 143066,
-      "artist": [
-        "The George Benson Quartet",
-        "Dorothy Heyward"
+      "artists": [
+        {
+          "name": "The George Benson Quartet",
+          "id": "42kNEUc1iesdBMeqb89oi1"
+        },
+        {
+          "name": "Dorothy Heyward",
+          "id": "2WJ217NsERyuqCHKwSbmAh"
+        }
       ],
-      "artistId": [
-        "42kNEUc1iesdBMeqb89oi1",
-        "2WJ217NsERyuqCHKwSbmAh"
-      ],
-      "albumId": "6haQ84o7v7VBAxC3sWH3Ml",
+      "album": {
+        "id": "6haQ84o7v7VBAxC3sWH3Ml",
+        "name": "It's Uptown",
+        "img": "https://i.scdn.co/image/ab67616d00001e02398ea32be79e4ab414139da6"
+      },
       "release_date": "1966",
       "popularity": 35
     },
     {
-      "trackId": "1ilxSBlf4IUb9p5ZCoLFcO",
-      "name": "Slängpolska efter Byss-Kalle",
+      "track": {
+        "id": "1ilxSBlf4IUb9p5ZCoLFcO",
+        "name": "Slängpolska efter Byss-Kalle"
+      },
       "duration_ms": 281613,
-      "artist": [
-        "Jan Lundgren Trio"
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "id": "3kfAk1i7bmKvhjBoGEAQqy"
+        }
       ],
-      "artistId": [
-        "3kfAk1i7bmKvhjBoGEAQqy"
-      ],
-      "albumId": "5AupyGdGVLw6JSwYrqLXH9",
+      "album": {
+        "id": "5AupyGdGVLw6JSwYrqLXH9",
+        "name": "Svenska Landskap",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208390e9647e8c9bf1bc639ad"
+      },
       "release_date": "2003-07-01",
       "popularity": 2
     },
     {
-      "trackId": "7DgXgP8rZZuIgh8vjhiQ0c",
-      "name": "Everyday",
+      "track": {
+        "id": "7DgXgP8rZZuIgh8vjhiQ0c",
+        "name": "Everyday"
+      },
       "duration_ms": 185239,
-      "artist": [
-        "Mendez"
+      "artists": [
+        {
+          "name": "Mendez",
+          "id": "5z9PI0y6MRnL9BCHOI5ilL"
+        }
       ],
-      "artistId": [
-        "5z9PI0y6MRnL9BCHOI5ilL"
-      ],
-      "albumId": "3H8RhX7BEs0wvFLAkZXVlW",
+      "album": {
+        "id": "3H8RhX7BEs0wvFLAkZXVlW",
+        "name": "Everyday",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b9b92774d2434412be997ea"
+      },
       "release_date": "2018-02-17",
       "popularity": 41
     },
     {
-      "trackId": "2ZkgSDO9ToVeO2Gpv1gqLu",
-      "name": "Jesus' Blood Never Failed Me Yet",
+      "track": {
+        "id": "2ZkgSDO9ToVeO2Gpv1gqLu",
+        "name": "Jesus' Blood Never Failed Me Yet"
+      },
       "duration_ms": 245000,
-      "artist": [
-        "Gavin Bryars",
-        "Tom Waits",
-        "Gavin Bryars Ensemble"
+      "artists": [
+        {
+          "name": "Gavin Bryars",
+          "id": "0lVWTWT1YdiNwuW9Gv3mUF"
+        },
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        },
+        {
+          "name": "Gavin Bryars Ensemble",
+          "id": "6mryekUCcRUohBwPEfo8We"
+        }
       ],
-      "artistId": [
-        "0lVWTWT1YdiNwuW9Gv3mUF",
-        "7x83XhcMbOTl1UdYsPTuZM",
-        "6mryekUCcRUohBwPEfo8We"
-      ],
-      "albumId": "2Sgm5xEtdvzW4x7M3XgYVW",
+      "album": {
+        "id": "2Sgm5xEtdvzW4x7M3XgYVW",
+        "name": "Gavin Bryars Anniversary Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e024760d49a64b75d6bb383c5dd"
+      },
       "release_date": "2002-12-02",
       "popularity": 17
     },
     {
-      "trackId": "08p69RXAJkciqf4SoACJOy",
-      "name": "Fritiof och Carmencita (Tango i Samborombon)",
+      "track": {
+        "id": "08p69RXAJkciqf4SoACJOy",
+        "name": "Fritiof och Carmencita (Tango i Samborombon)"
+      },
       "duration_ms": 187039,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "5T85NS6pAaXZ8eM21izrXe",
+      "album": {
+        "id": "5T85NS6pAaXZ8eM21izrXe",
+        "name": "Taube Sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e021198d2f05715ff2e2584b61b"
+      },
       "release_date": "1989",
       "popularity": 23
     },
     {
-      "trackId": "7DD42mPt1wojJyF1crfxPc",
-      "name": "Kapitel 14 - Die Zauberflöte",
+      "track": {
+        "id": "7DD42mPt1wojJyF1crfxPc",
+        "name": "Kapitel 14 - Die Zauberflöte"
+      },
       "duration_ms": 307652,
-      "artist": [
-        "Oper für die Kleinsten",
-        "Wolfgang Amadeus Mozart",
-        "Loretta Stern"
+      "artists": [
+        {
+          "name": "Oper für die Kleinsten",
+          "id": "2nnUgLSidA5wTg1635zzX4"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Loretta Stern",
+          "id": "3cuzV0xBp1E1zQvopykXd5"
+        }
       ],
-      "artistId": [
-        "2nnUgLSidA5wTg1635zzX4",
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3cuzV0xBp1E1zQvopykXd5"
-      ],
-      "albumId": "414Ox7ePChKGXWKINnsxJY",
+      "album": {
+        "id": "414Ox7ePChKGXWKINnsxJY",
+        "name": "Die Zauberflöte (Hörspiel mit Musik)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228eecaca9f871b4075abd100"
+      },
       "release_date": "2019-12-20",
       "popularity": 9
     },
     {
-      "trackId": "3UmVHDIf4R41jZeo5k7WKo",
-      "name": "The Girl From Ipanema - Remastered",
+      "track": {
+        "id": "3UmVHDIf4R41jZeo5k7WKo",
+        "name": "The Girl From Ipanema - Remastered"
+      },
       "duration_ms": 188426,
-      "artist": [
-        "Mrs. Miller"
+      "artists": [
+        {
+          "name": "Mrs. Miller",
+          "id": "70Hyp1IGyZ3Tgy7fXDiJdb"
+        }
       ],
-      "artistId": [
-        "70Hyp1IGyZ3Tgy7fXDiJdb"
-      ],
-      "albumId": "0S3YykYoMV05EB6bp9X6NY",
+      "album": {
+        "id": "0S3YykYoMV05EB6bp9X6NY",
+        "name": "Wild, Cool & Swingin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e022957d1d3a32a3be2b1166e1d"
+      },
       "release_date": "1999-01-01",
       "popularity": 7
     },
     {
-      "trackId": "5GAquGGfttkVXKZBn8LwaI",
-      "name": "The Dry Cleaner from Des Moines - Live",
+      "track": {
+        "id": "5GAquGGfttkVXKZBn8LwaI",
+        "name": "The Dry Cleaner from Des Moines - Live"
+      },
       "duration_ms": 219813,
-      "artist": [
-        "Joni Mitchell",
-        "Herbie Hancock"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Herbie Hancock",
+          "id": "2ZvrvbQNrHKwjT7qfGFFUW"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve",
-        "2ZvrvbQNrHKwjT7qfGFFUW"
-      ],
-      "albumId": "50nfVAh4vEHYcKbMAYT6eH",
+      "album": {
+        "id": "50nfVAh4vEHYcKbMAYT6eH",
+        "name": "Live at the Bread & Roses Festival 1978",
+        "img": "https://i.scdn.co/image/ab67616d00001e02655e6d0de6e5e79e070b12cb"
+      },
       "release_date": "2020-03-11",
       "popularity": 35
     },
     {
-      "trackId": "6epliQaVoVJFtOs6bgBd1C",
-      "name": "Beijo Partido - Ao Vivo",
+      "track": {
+        "id": "6epliQaVoVJFtOs6bgBd1C",
+        "name": "Beijo Partido - Ao Vivo"
+      },
       "duration_ms": 287760,
-      "artist": [
-        "Toninho Horta"
+      "artists": [
+        {
+          "name": "Toninho Horta",
+          "id": "1HQIztYT50mMS3PZR0qgFk"
+        }
       ],
-      "artistId": [
-        "1HQIztYT50mMS3PZR0qgFk"
-      ],
-      "albumId": "6jCXCesemwUg9bdwAV9Myv",
+      "album": {
+        "id": "6jCXCesemwUg9bdwAV9Myv",
+        "name": "Solo (Ao Vivo)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1e61c79a2ddcf4ddd0017e1"
+      },
       "release_date": "2007",
       "popularity": 1
     },
     {
-      "trackId": "29uB7oRRGxVVkv0HI1PUNo",
-      "name": "zeltplatz",
+      "track": {
+        "id": "29uB7oRRGxVVkv0HI1PUNo",
+        "name": "zeltplatz"
+      },
       "duration_ms": 33250,
-      "artist": [
-        "Sommernacht"
+      "artists": [
+        {
+          "name": "Sommernacht",
+          "id": "1T61hVZAUSkZ8qCB3UJ6be"
+        }
       ],
-      "artistId": [
-        "1T61hVZAUSkZ8qCB3UJ6be"
-      ],
-      "albumId": "0cEfEy5wBGfHBErcO9nl0Q",
+      "album": {
+        "id": "0cEfEy5wBGfHBErcO9nl0Q",
+        "name": "mitternachts im zelt",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a99b5ceef250be77de23ce9"
+      },
       "release_date": "2022-07-08",
       "popularity": 14
     }

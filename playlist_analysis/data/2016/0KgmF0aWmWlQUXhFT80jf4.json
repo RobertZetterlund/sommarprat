@@ -7,144 +7,206 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/70d1c12d-f428-43ad-85d8-a01a15953bf0.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1ul9ZfkWWeAjA3HiRwK4Op",
-      "name": "Nathalie",
+      "track": {
+        "id": "1ul9ZfkWWeAjA3HiRwK4Op",
+        "name": "Nathalie"
+      },
       "duration_ms": 245213,
-      "artist": [
-        "Gilbert Bécaud"
+      "artists": [
+        {
+          "name": "Gilbert Bécaud",
+          "id": "31GFatrHl2ijnS4ZAWA9s0"
+        }
       ],
-      "artistId": [
-        "31GFatrHl2ijnS4ZAWA9s0"
-      ],
-      "albumId": "0bqhxtnErNPLd6Ez7GqBJF",
+      "album": {
+        "id": "0bqhxtnErNPLd6Ez7GqBJF",
+        "name": "Gilbert Becaud (1964-1966) [2011 Remastered] [Deluxe version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bbe572209fdce79ba77173"
+      },
       "release_date": "1964",
       "popularity": 52
     },
     {
-      "trackId": "3TWsKfuu2QgnEg8a9T7SJS",
-      "name": "Tusen dagar härifrån",
+      "track": {
+        "id": "3TWsKfuu2QgnEg8a9T7SJS",
+        "name": "Tusen dagar härifrån"
+      },
       "duration_ms": 248120,
-      "artist": [
-        "Perssons Pack"
+      "artists": [
+        {
+          "name": "Perssons Pack",
+          "id": "0H8GJ568lnrhJZRqqeroUa"
+        }
       ],
-      "artistId": [
-        "0H8GJ568lnrhJZRqqeroUa"
-      ],
-      "albumId": "1q434niZ1bUi9v7oEsTpzL",
+      "album": {
+        "id": "1q434niZ1bUi9v7oEsTpzL",
+        "name": "Äkta Hjärtan",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d2d1f0bb91d3dd0e1ae3ac8"
+      },
       "release_date": "1991-08-15",
       "popularity": 40
     },
     {
-      "trackId": "0iqZ4dOgbvNofCebH3zwXU",
-      "name": "The Real Thing",
+      "track": {
+        "id": "0iqZ4dOgbvNofCebH3zwXU",
+        "name": "The Real Thing"
+      },
       "duration_ms": 249840,
-      "artist": [
-        "Gwen Stefani"
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "id": "4yiQZ8tQPux8cPriYMWUFP"
+        }
       ],
-      "artistId": [
-        "4yiQZ8tQPux8cPriYMWUFP"
-      ],
-      "albumId": "34y7m68F7rN9ou6m5GWohR",
+      "album": {
+        "id": "34y7m68F7rN9ou6m5GWohR",
+        "name": "Love Angel Music Baby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f049fc9322f0c93646cdcc77"
+      },
       "release_date": "2004-11-22",
       "popularity": 30
     },
     {
-      "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
-      "name": "Sinnerman",
+      "track": {
+        "id": "5xRP5iyVdGglqlY4Vcjhkx",
+        "name": "Sinnerman"
+      },
       "duration_ms": 622000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "album": {
+        "id": "31pd81sWDaK2pP3ok5892z",
+        "name": "Pastel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda3269eebbf31611d10bda6"
+      },
       "release_date": "1965-10-01",
       "popularity": 62
     },
     {
-      "trackId": "7v02Sn9vYRQ6pc1lqhnkWY",
-      "name": "Save Tonight",
+      "track": {
+        "id": "7v02Sn9vYRQ6pc1lqhnkWY",
+        "name": "Save Tonight"
+      },
       "duration_ms": 236040,
-      "artist": [
-        "Eagle-Eye Cherry"
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "id": "3ngKsDXZAssmljeXCvEgOe"
+        }
       ],
-      "artistId": [
-        "3ngKsDXZAssmljeXCvEgOe"
-      ],
-      "albumId": "77iqlwJ5GPlF98kTpd3ZjE",
+      "album": {
+        "id": "77iqlwJ5GPlF98kTpd3ZjE",
+        "name": "Desireless",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a962755f305c19dda52a30d7"
+      },
       "release_date": "1997-07-21",
       "popularity": 53
     },
     {
-      "trackId": "0JdgJIZGuKmXuVZdgMwAtk",
-      "name": "Vi får dö en annan dag",
+      "track": {
+        "id": "0JdgJIZGuKmXuVZdgMwAtk",
+        "name": "Vi får dö en annan dag"
+      },
       "duration_ms": 260209,
-      "artist": [
-        "Tomas Andersson Wij"
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "id": "2j8XNrT8TQH4JMeyEMJYfL"
+        }
       ],
-      "artistId": [
-        "2j8XNrT8TQH4JMeyEMJYfL"
-      ],
-      "albumId": "4AGWaefibQeDvxoSiHNvmt",
+      "album": {
+        "id": "4AGWaefibQeDvxoSiHNvmt",
+        "name": "Vi får dö en annan dag",
+        "img": "https://i.scdn.co/image/ab67616d00001e02940728dd1d8c296752a05db1"
+      },
       "release_date": "2016-12-01",
       "popularity": 12
     },
     {
-      "trackId": "7hkOgKKybgawYUcrkZD3wV",
-      "name": "Live Is Life - Live",
+      "track": {
+        "id": "7hkOgKKybgawYUcrkZD3wV",
+        "name": "Live Is Life - Live"
+      },
       "duration_ms": 254600,
-      "artist": [
-        "Opus"
+      "artists": [
+        {
+          "name": "Opus",
+          "id": "5pf1217gT8zcjOFc7oMi47"
+        }
       ],
-      "artistId": [
-        "5pf1217gT8zcjOFc7oMi47"
-      ],
-      "albumId": "2Mm8j7VVnnUHyoEhr99oWk",
+      "album": {
+        "id": "2Mm8j7VVnnUHyoEhr99oWk",
+        "name": "Die Grössten Hits Aus 15 Jahren",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc5a99718dd955ee877f094f"
+      },
       "release_date": "1997-01-01",
       "popularity": 61
     },
     {
-      "trackId": "2Ry6arkPobqjO7skQBJoUb",
-      "name": "In My City",
+      "track": {
+        "id": "2Ry6arkPobqjO7skQBJoUb",
+        "name": "In My City"
+      },
       "duration_ms": 220853,
-      "artist": [
-        "Priyanka Chopra",
-        "will.i.am"
+      "artists": [
+        {
+          "name": "Priyanka Chopra",
+          "id": "5TPY1mgCEaVjJQnpDPFJVF"
+        },
+        {
+          "name": "will.i.am",
+          "id": "085pc2PYOi8bGKj0PNjekA"
+        }
       ],
-      "artistId": [
-        "5TPY1mgCEaVjJQnpDPFJVF",
-        "085pc2PYOi8bGKj0PNjekA"
-      ],
-      "albumId": "4fDZE7ejUIYa5tY0HtzNVA",
+      "album": {
+        "id": "4fDZE7ejUIYa5tY0HtzNVA",
+        "name": "In My City",
+        "img": "https://i.scdn.co/image/ab67616d00001e0250be0b34ee8b48900e22250a"
+      },
       "release_date": "2012-01-01",
       "popularity": 35
     },
     {
-      "trackId": "38VGUniscpQ4yXBM9Lgku3",
-      "name": "En sångarsaga",
+      "track": {
+        "id": "38VGUniscpQ4yXBM9Lgku3",
+        "name": "En sångarsaga"
+      },
       "duration_ms": 400320,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 35
     },
     {
-      "trackId": "0FS5rceUP4gFVn3sau5XWz",
-      "name": "Inte stor nog",
+      "track": {
+        "id": "0FS5rceUP4gFVn3sau5XWz",
+        "name": "Inte stor nog"
+      },
       "duration_ms": 176757,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "3id0anoggWxjvIC4xWJA7l",
+      "album": {
+        "id": "3id0anoggWxjvIC4xWJA7l",
+        "name": "Inte stor nog - från Hokus Pokus Alfons Åberg",
+        "img": "https://i.scdn.co/image/ab67616d00001e02889ad60f67bfd6506753f785"
+      },
       "release_date": "2013-08-26",
       "popularity": 46
     }

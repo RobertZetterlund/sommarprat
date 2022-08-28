@@ -7,206 +7,298 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243389_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2soxUQx6rPfOk0kHNePbhq",
-      "name": "You Can't Put Your Arms Round a Memory",
+      "track": {
+        "id": "2soxUQx6rPfOk0kHNePbhq",
+        "name": "You Can't Put Your Arms Round a Memory"
+      },
       "duration_ms": 226079,
-      "artist": [
-        "Johnny Thunders"
+      "artists": [
+        {
+          "name": "Johnny Thunders",
+          "id": "421A23lYymEUE6SozCfWbr"
+        }
       ],
-      "artistId": [
-        "421A23lYymEUE6SozCfWbr"
-      ],
-      "albumId": "1RUZkUP7Fj7vqbfQaNjBZC",
+      "album": {
+        "id": "1RUZkUP7Fj7vqbfQaNjBZC",
+        "name": "So Alone",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b41c9e0398c8b3c1a8acf6a"
+      },
       "release_date": "1978",
       "popularity": 43
     },
     {
-      "trackId": "5IPEy9jMguqxZzAiZVNSiV",
-      "name": "(Wish I Could Fly Like) Superman",
+      "track": {
+        "id": "5IPEy9jMguqxZzAiZVNSiV",
+        "name": "(Wish I Could Fly Like) Superman"
+      },
       "duration_ms": 216968,
-      "artist": [
-        "The Kinks"
+      "artists": [
+        {
+          "name": "The Kinks",
+          "id": "1SQRv42e4PjEYfPhS0Tk9E"
+        }
       ],
-      "artistId": [
-        "1SQRv42e4PjEYfPhS0Tk9E"
-      ],
-      "albumId": "0cxTEM4sP06J9szRECrSIZ",
+      "album": {
+        "id": "0cxTEM4sP06J9szRECrSIZ",
+        "name": "Low Budget",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5bf420988c0744dd79da911"
+      },
       "release_date": "1979-07-10",
       "popularity": 42
     },
     {
-      "trackId": "1jaTQ3nqY3oAAYyCTbIvnM",
-      "name": "WHATS POPPIN",
+      "track": {
+        "id": "1jaTQ3nqY3oAAYyCTbIvnM",
+        "name": "WHATS POPPIN"
+      },
       "duration_ms": 139741,
-      "artist": [
-        "Jack Harlow"
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "id": "2LIk90788K0zvyj2JJVwkJ"
+        }
       ],
-      "artistId": [
-        "2LIk90788K0zvyj2JJVwkJ"
-      ],
-      "albumId": "7AaqMMiYMvnMB3RcS8u3EY",
+      "album": {
+        "id": "7AaqMMiYMvnMB3RcS8u3EY",
+        "name": "Sweet Action",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205a448540b069450ccfba889"
+      },
       "release_date": "2020-03-13",
       "popularity": 77
     },
     {
-      "trackId": "2gwGzXWy8HjqEWpgkEBLth",
-      "name": "The Only One",
+      "track": {
+        "id": "2gwGzXWy8HjqEWpgkEBLth",
+        "name": "The Only One"
+      },
       "duration_ms": 202786,
-      "artist": [
-        "Me And My Army",
-        "Kleerup"
+      "artists": [
+        {
+          "name": "Me And My Army",
+          "id": "3XM0iWXMItJCNYCrhcx9nj"
+        },
+        {
+          "name": "Kleerup",
+          "id": "2YL0l5fnyHE9FEf1bwFGCc"
+        }
       ],
-      "artistId": [
-        "3XM0iWXMItJCNYCrhcx9nj",
-        "2YL0l5fnyHE9FEf1bwFGCc"
-      ],
-      "albumId": "3pte3yIVEUKPPPrEuiSh0B",
+      "album": {
+        "id": "3pte3yIVEUKPPPrEuiSh0B",
+        "name": "Thank God For Sending Demons",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c051fa81addf0f08a669411"
+      },
       "release_date": "2011-02-11",
       "popularity": 33
     },
     {
-      "trackId": "5jBLlSUxNjEWOCxr6ujdnd",
-      "name": "Ain´t Your Business",
+      "track": {
+        "id": "5jBLlSUxNjEWOCxr6ujdnd",
+        "name": "Ain´t Your Business"
+      },
       "duration_ms": 161826,
-      "artist": [
-        "Tottas Bluesband"
+      "artists": [
+        {
+          "name": "Tottas Bluesband",
+          "id": "0ah4PGeYJtiQEWu1ojPRCJ"
+        }
       ],
-      "artistId": [
-        "0ah4PGeYJtiQEWu1ojPRCJ"
-      ],
-      "albumId": "4DKvTGmNvsLAXD3tMLX4lZ",
+      "album": {
+        "id": "4DKvTGmNvsLAXD3tMLX4lZ",
+        "name": "Compilation Boogie",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251b4d859b26d1681f02cd6d6"
+      },
       "release_date": "1988-01-01",
       "popularity": 39
     },
     {
-      "trackId": "6v3VwiYjFuSYe1pwXGkrOV",
-      "name": "White Lines (Don't Do It) [feat. Melle Mel & Grandmaster Flash & the Furious Five]",
+      "track": {
+        "id": "6v3VwiYjFuSYe1pwXGkrOV",
+        "name": "White Lines (Don't Do It) [feat. Melle Mel & Grandmaster Flash & the Furious Five]"
+      },
       "duration_ms": 331426,
-      "artist": [
-        "Duran Duran",
-        "Grandmaster Melle Mel",
-        "Grandmaster Flash"
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "id": "0lZoBs4Pzo7R89JM9lxwoT"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "id": "0AWhixY9hX7LEPyPMjh4O0"
+        },
+        {
+          "name": "Grandmaster Flash",
+          "id": "1JfnADNz5yYEq3hrzlZHLk"
+        }
       ],
-      "artistId": [
-        "0lZoBs4Pzo7R89JM9lxwoT",
-        "0AWhixY9hX7LEPyPMjh4O0",
-        "1JfnADNz5yYEq3hrzlZHLk"
-      ],
-      "albumId": "2XIlp6UgHAQYNg3OTtoD54",
+      "album": {
+        "id": "2XIlp6UgHAQYNg3OTtoD54",
+        "name": "Thank You",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a6e2802b16ede8493157df8"
+      },
       "release_date": "1995-03-27",
       "popularity": 40
     },
     {
-      "trackId": "2dpO3NteNWUDL2S9e0t0Mi",
-      "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
+      "track": {
+        "id": "2dpO3NteNWUDL2S9e0t0Mi",
+        "name": "Make Me Smile (Come up and See Me) - 2014 Remaster"
+      },
       "duration_ms": 239213,
-      "artist": [
-        "Steve Harley",
-        "Steve Harley & Cockney Rebel"
+      "artists": [
+        {
+          "name": "Steve Harley",
+          "id": "3dS8rLINyM7EYuMXryXJym"
+        },
+        {
+          "name": "Steve Harley & Cockney Rebel",
+          "id": "6EL5GD53kaaVgJCHgdtdLz"
+        }
       ],
-      "artistId": [
-        "3dS8rLINyM7EYuMXryXJym",
-        "6EL5GD53kaaVgJCHgdtdLz"
-      ],
-      "albumId": "4D1oAjj0nxeAlsAJWAJn8g",
+      "album": {
+        "id": "4D1oAjj0nxeAlsAJWAJn8g",
+        "name": "The Best Years of Our Lives (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3613926b1b8bbd69c49a3e2"
+      },
       "release_date": "1975-03-22",
       "popularity": 64
     },
     {
-      "trackId": "4tNbk8k8mCbHt6Z7cqxqEu",
-      "name": "The Problem",
+      "track": {
+        "id": "4tNbk8k8mCbHt6Z7cqxqEu",
+        "name": "The Problem"
+      },
       "duration_ms": 271493,
-      "artist": [
-        "J.J. Cale"
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "id": "06nsZ3qSOYZ2hPVIMcr1IN"
+        }
       ],
-      "artistId": [
-        "06nsZ3qSOYZ2hPVIMcr1IN"
-      ],
-      "albumId": "1cvdwIgFk1hkY42HcMNPaQ",
+      "album": {
+        "id": "1cvdwIgFk1hkY42HcMNPaQ",
+        "name": "To Tulsa and Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a61939a5548a8b33167ed34"
+      },
       "release_date": "2004-08-03",
       "popularity": 28
     },
     {
-      "trackId": "4sYqfv5tI9yeAkDlwDdIMS",
-      "name": "My Wheels Won't Turn",
+      "track": {
+        "id": "4sYqfv5tI9yeAkDlwDdIMS",
+        "name": "My Wheels Won't Turn"
+      },
       "duration_ms": 322426,
-      "artist": [
-        "Bachman-Turner Overdrive"
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "id": "5q4AzEtCoYJyXjMMoEkSU5"
+        }
       ],
-      "artistId": [
-        "5q4AzEtCoYJyXjMMoEkSU5"
-      ],
-      "albumId": "6hF29JImPK8y1esHbxJXGJ",
+      "album": {
+        "id": "6hF29JImPK8y1esHbxJXGJ",
+        "name": "Freeways",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256b5129df742e467a884c0df"
+      },
       "release_date": "1977-02-01",
       "popularity": 21
     },
     {
-      "trackId": "4EoNrE75AtcCC6RgbNOqBB",
-      "name": "Staden Göteborg",
+      "track": {
+        "id": "4EoNrE75AtcCC6RgbNOqBB",
+        "name": "Staden Göteborg"
+      },
       "duration_ms": 117258,
-      "artist": [
-        "Troublemakers"
+      "artists": [
+        {
+          "name": "Troublemakers",
+          "id": "1TCOtUmprjwM5jPw5Exicn"
+        }
       ],
-      "artistId": [
-        "1TCOtUmprjwM5jPw5Exicn"
-      ],
-      "albumId": "6YNPKOXoKIius0KGSZq8wn",
+      "album": {
+        "id": "6YNPKOXoKIius0KGSZq8wn",
+        "name": "1995-2000",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac49529680fe6bf2cef77a45"
+      },
       "release_date": "2009-10-15",
       "popularity": 34
     },
     {
-      "trackId": "0LeygX1WkkHIuun0b2Mh3q",
-      "name": "Så är det (Idiologi)",
+      "track": {
+        "id": "0LeygX1WkkHIuun0b2Mh3q",
+        "name": "Så är det (Idiologi)"
+      },
       "duration_ms": 152786,
-      "artist": [
-        "Roffe Ruff"
+      "artists": [
+        {
+          "name": "Roffe Ruff",
+          "id": "6FkSZBvBZ74ADdf5aWrT1O"
+        }
       ],
-      "artistId": [
-        "6FkSZBvBZ74ADdf5aWrT1O"
-      ],
-      "albumId": "7KdfUl8nBO4Hn3Ihv3jYzb",
+      "album": {
+        "id": "7KdfUl8nBO4Hn3Ihv3jYzb",
+        "name": "Barrabas",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276bd3b437a1edd09f9a41110"
+      },
       "release_date": "2011-05-28",
       "popularity": 30
     },
     {
-      "trackId": "7FfM6CHqEe0uTcqhzjXnrU",
-      "name": "Real Fine Love",
+      "track": {
+        "id": "7FfM6CHqEe0uTcqhzjXnrU",
+        "name": "Real Fine Love"
+      },
       "duration_ms": 262400,
-      "artist": [
-        "John Hiatt"
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "id": "4Sld5LOPbAm1QSq9U32fFV"
+        }
       ],
-      "artistId": [
-        "4Sld5LOPbAm1QSq9U32fFV"
-      ],
-      "albumId": "0sv3z5HEKbNIbA5nMncNOw",
+      "album": {
+        "id": "0sv3z5HEKbNIbA5nMncNOw",
+        "name": "Stolen Moments",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299294b213109cd4d028c371f"
+      },
       "release_date": "1990-01-01",
       "popularity": 35
     },
     {
-      "trackId": "22E4DawD7ygxnfdMWebVae",
-      "name": "Turn to Me",
+      "track": {
+        "id": "22E4DawD7ygxnfdMWebVae",
+        "name": "Turn to Me"
+      },
       "duration_ms": 263666,
-      "artist": [
-        "Lou Reed"
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "id": "42TFhl7WlMRXiNqzSrnzPL"
+        }
       ],
-      "artistId": [
-        "42TFhl7WlMRXiNqzSrnzPL"
-      ],
-      "albumId": "0H1QdJdBc1roGFZ6g2U9Dx",
+      "album": {
+        "id": "0H1QdJdBc1roGFZ6g2U9Dx",
+        "name": "New Sensations",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a50a27a235917d129eb73a4d"
+      },
       "release_date": "1984-04-01",
       "popularity": 21
     },
     {
-      "trackId": "15BQ7vEDv2LJuh8TxWIhtd",
-      "name": "The Passenger",
+      "track": {
+        "id": "15BQ7vEDv2LJuh8TxWIhtd",
+        "name": "The Passenger"
+      },
       "duration_ms": 283360,
-      "artist": [
-        "Iggy Pop"
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "id": "33EUXrFKGjpUSGacqEHhU4"
+        }
       ],
-      "artistId": [
-        "33EUXrFKGjpUSGacqEHhU4"
-      ],
-      "albumId": "2jnV6ytZOmt71iEC5xHEYz",
+      "album": {
+        "id": "2jnV6ytZOmt71iEC5xHEYz",
+        "name": "Lust For Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e024aa5f679427e35409a06f225"
+      },
       "release_date": "1977-08-29",
       "popularity": 73
     }

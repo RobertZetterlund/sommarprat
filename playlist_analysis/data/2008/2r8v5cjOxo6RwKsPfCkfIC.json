@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3255399_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "32gyYqj6gwZvFRoGgsrFhy",
-      "name": "Gotlandsk Sommarnatt",
+      "track": {
+        "id": "32gyYqj6gwZvFRoGgsrFhy",
+        "name": "Gotlandsk Sommarnatt"
+      },
       "duration_ms": 110800,
-      "artist": [
-        "Ernie Englund"
+      "artists": [
+        {
+          "name": "Ernie Englund",
+          "id": "4RpMbrHkRdDu2QOgJwyiet"
+        }
       ],
-      "artistId": [
-        "4RpMbrHkRdDu2QOgJwyiet"
-      ],
-      "albumId": "0h2OVSK1cBJd3x8SzO6om7",
+      "album": {
+        "id": "0h2OVSK1cBJd3x8SzO6om7",
+        "name": "Svenska sommarhits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f02743bf64da1629f8a726b8"
+      },
       "release_date": "2002-01-01",
       "popularity": 30
     },
     {
-      "trackId": "10O40HVnpxWPs8cpe84i5y",
-      "name": "Soul Searchin'",
+      "track": {
+        "id": "10O40HVnpxWPs8cpe84i5y",
+        "name": "Soul Searchin'"
+      },
       "duration_ms": 239466,
-      "artist": [
-        "Solomon Burke"
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "id": "4nts0oxMT67lVUoi5Kjxrb"
+        }
       ],
-      "artistId": [
-        "4nts0oxMT67lVUoi5Kjxrb"
-      ],
-      "albumId": "5fPt2yO2JG9ymtO1PNz5iK",
+      "album": {
+        "id": "5fPt2yO2JG9ymtO1PNz5iK",
+        "name": "Don't Give Up On Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02558ba952fda997e0955b286a"
+      },
       "release_date": "2002",
       "popularity": 21
     },
     {
-      "trackId": "6ypwkGGZS9L9xTYnxH9UAp",
-      "name": "Klaras hoppsång",
+      "track": {
+        "id": "6ypwkGGZS9L9xTYnxH9UAp",
+        "name": "Klaras hoppsång"
+      },
       "duration_ms": 123026,
-      "artist": [
-        "Kerstin Andeby",
-        "Peter Wanngren"
+      "artists": [
+        {
+          "name": "Kerstin Andeby",
+          "id": "1X2sJH0sllWBiGvllUr3ak"
+        },
+        {
+          "name": "Peter Wanngren",
+          "id": "3epPd1w0ICggaYUZA6Migx"
+        }
       ],
-      "artistId": [
-        "1X2sJH0sllWBiGvllUr3ak",
-        "3epPd1w0ICggaYUZA6Migx"
-      ],
-      "albumId": "3vJU3mjcjErlqb6rjcYa5v",
+      "album": {
+        "id": "3vJU3mjcjErlqb6rjcYa5v",
+        "name": "Klara färdiga gå!",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cafc70ca6a33e32fd7d5eef"
+      },
       "release_date": "1994-01-01",
       "popularity": 28
     },
     {
-      "trackId": "4XTuSMs47SIg35KxhNIUGe",
-      "name": "White Winter Hymnal",
+      "track": {
+        "id": "4XTuSMs47SIg35KxhNIUGe",
+        "name": "White Winter Hymnal"
+      },
       "duration_ms": 147026,
-      "artist": [
-        "Fleet Foxes"
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "id": "4EVpmkEwrLYEg6jIsiPMIb"
+        }
       ],
-      "artistId": [
-        "4EVpmkEwrLYEg6jIsiPMIb"
-      ],
-      "albumId": "1rfgmU0AYNwWfS88pCOlX7",
+      "album": {
+        "id": "1rfgmU0AYNwWfS88pCOlX7",
+        "name": "Fleet Foxes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02561726f8053f54775e7d5bfe"
+      },
       "release_date": "2008-06-09",
       "popularity": 55
     },
     {
-      "trackId": "0BTsivWO76a0QuZ6mGr4zv",
-      "name": "To Open Up My Heart",
+      "track": {
+        "id": "0BTsivWO76a0QuZ6mGr4zv",
+        "name": "To Open Up My Heart"
+      },
       "duration_ms": 248160,
-      "artist": [
-        "Anders Widmark",
-        "Sara Isaksson"
+      "artists": [
+        {
+          "name": "Anders Widmark",
+          "id": "4ZgY2pumPsq9z3kNxGTDef"
+        },
+        {
+          "name": "Sara Isaksson",
+          "id": "40XQj4kRF9goPrVi2M3g1g"
+        }
       ],
-      "artistId": [
-        "4ZgY2pumPsq9z3kNxGTDef",
-        "40XQj4kRF9goPrVi2M3g1g"
-      ],
-      "albumId": "5BjxQC1EkXyeCqO1WEOiz0",
+      "album": {
+        "id": "5BjxQC1EkXyeCqO1WEOiz0",
+        "name": "Anders Widmark featuring Sara Isaksson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2d624722802cb0534f843e8"
+      },
       "release_date": "2002-01-01",
       "popularity": 30
     },
     {
-      "trackId": "6jbmKRyrd02VqYozk94SFL",
-      "name": "En vänlig grönskas rika dräkt (Psalm 201)",
+      "track": {
+        "id": "6jbmKRyrd02VqYozk94SFL",
+        "name": "En vänlig grönskas rika dräkt (Psalm 201)"
+      },
       "duration_ms": 224666,
-      "artist": [
-        "Anders Widmark Trio"
+      "artists": [
+        {
+          "name": "Anders Widmark Trio",
+          "id": "74lV0oMFa3sSpDxUlfZ5yI"
+        }
       ],
-      "artistId": [
-        "74lV0oMFa3sSpDxUlfZ5yI"
-      ],
-      "albumId": "58TQrEfi5T1bi5KQVhRJ9r",
+      "album": {
+        "id": "58TQrEfi5T1bi5KQVhRJ9r",
+        "name": "Psalmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc7b5002f93dfd6037bdac0"
+      },
       "release_date": "1997-09-01",
       "popularity": 34
     },
     {
-      "trackId": "5LHqxKauqQUsZeDKwllkmf",
-      "name": "Please Don't Stop",
+      "track": {
+        "id": "5LHqxKauqQUsZeDKwllkmf",
+        "name": "Please Don't Stop"
+      },
       "duration_ms": 239613,
-      "artist": [
-        "Richard Bona",
-        "John Legend"
+      "artists": [
+        {
+          "name": "Richard Bona",
+          "id": "70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "John Legend",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t"
+        }
       ],
-      "artistId": [
-        "70wm2qxYZ4i2KqcyyH2GyT",
-        "5y2Xq6xcjJb2jVM54GHK3t"
-      ],
-      "albumId": "4lWf9e9vJjbMehRGUgH8Fu",
+      "album": {
+        "id": "4lWf9e9vJjbMehRGUgH8Fu",
+        "name": "Tiki",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db0a9d80e297f182d0c3f144"
+      },
       "release_date": "2006",
       "popularity": 44
     },
     {
-      "trackId": "1INWPr855fwWdAOeecbu0W",
-      "name": "Let's Twist Again",
+      "track": {
+        "id": "1INWPr855fwWdAOeecbu0W",
+        "name": "Let's Twist Again"
+      },
       "duration_ms": 137360,
-      "artist": [
-        "Chubby Checker"
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "id": "7qQJQ3YtcGlqaLg5tcypN2"
+        }
       ],
-      "artistId": [
-        "7qQJQ3YtcGlqaLg5tcypN2"
-      ],
-      "albumId": "4btfmKwgAHFtN7BQUSHta0",
+      "album": {
+        "id": "4btfmKwgAHFtN7BQUSHta0",
+        "name": "It's Pony Time/Let's Twist Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d14cd6c24470c6de13265d0a"
+      },
       "release_date": "1961-01-01",
       "popularity": 66
     },
     {
-      "trackId": "1tH8ycIrUoZt94f82MrVL5",
-      "name": "These Boots Are Made For Walking",
+      "track": {
+        "id": "1tH8ycIrUoZt94f82MrVL5",
+        "name": "These Boots Are Made For Walking"
+      },
       "duration_ms": 162600,
-      "artist": [
-        "Nancy Sinatra"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2"
-      ],
-      "albumId": "2xPqWOuRbw3VS1CqwlQ2R1",
+      "album": {
+        "id": "2xPqWOuRbw3VS1CqwlQ2R1",
+        "name": "The Mexican - Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239280b45b3afd15392d3421c"
+      },
       "release_date": "2001-01-01",
       "popularity": 26
     },
     {
-      "trackId": "60e5PcqGmlVFQ0HHgUagCJ",
-      "name": "I Shot The Sheriff",
+      "track": {
+        "id": "60e5PcqGmlVFQ0HHgUagCJ",
+        "name": "I Shot The Sheriff"
+      },
       "duration_ms": 280466,
-      "artist": [
-        "The Wailers"
+      "artists": [
+        {
+          "name": "The Wailers",
+          "id": "6uSKeCyQEhvPC2NODgiqFE"
+        }
       ],
-      "artistId": [
-        "6uSKeCyQEhvPC2NODgiqFE"
-      ],
-      "albumId": "4jKeipwuUTjlx9USNYdhZn",
+      "album": {
+        "id": "4jKeipwuUTjlx9USNYdhZn",
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02413a6c2c7b296d98171e5e21"
+      },
       "release_date": "2002-01-01",
       "popularity": 58
     },
     {
-      "trackId": "14dIzjiPTcuE5h9DL4Zb0X",
-      "name": "Lennart",
+      "track": {
+        "id": "14dIzjiPTcuE5h9DL4Zb0X",
+        "name": "Lennart"
+      },
       "duration_ms": 178186,
-      "artist": [
-        "Björn Rosenström"
+      "artists": [
+        {
+          "name": "Björn Rosenström",
+          "id": "11xRVFTsfUOVt4vSVX865Q"
+        }
       ],
-      "artistId": [
-        "11xRVFTsfUOVt4vSVX865Q"
-      ],
-      "albumId": "27fTvZwbG1y0FCJrBapo80",
+      "album": {
+        "id": "27fTvZwbG1y0FCJrBapo80",
+        "name": "Låtar som är sådär",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bcd9c35a41ffb259661d999"
+      },
       "release_date": "1995",
       "popularity": 34
     },
     {
-      "trackId": "3K4r00KlXytLJDfuytngmx",
-      "name": "Warwick Avenue",
+      "track": {
+        "id": "3K4r00KlXytLJDfuytngmx",
+        "name": "Warwick Avenue"
+      },
       "duration_ms": 226386,
-      "artist": [
-        "Duffy"
+      "artists": [
+        {
+          "name": "Duffy",
+          "id": "37NqXwtb6nIEqRt4EJSoIO"
+        }
       ],
-      "artistId": [
-        "37NqXwtb6nIEqRt4EJSoIO"
-      ],
-      "albumId": "6Yw7f0kqQ1gbt2OHa7fi1g",
+      "album": {
+        "id": "6Yw7f0kqQ1gbt2OHa7fi1g",
+        "name": "Rockferry",
+        "img": "https://i.scdn.co/image/ab67616d00001e02618eb90c1c10d299e51f3822"
+      },
       "release_date": "2008",
       "popularity": 65
     },
     {
-      "trackId": "1Rb7WCZZ010xxxsvdvxQp3",
-      "name": "The Lion Sleeps Tonight",
+      "track": {
+        "id": "1Rb7WCZZ010xxxsvdvxQp3",
+        "name": "The Lion Sleeps Tonight"
+      },
       "duration_ms": 148800,
-      "artist": [
-        "The Hounds"
+      "artists": [
+        {
+          "name": "The Hounds",
+          "id": "5jvsryQNB2mWJLw2nrIEHv"
+        }
       ],
-      "artistId": [
-        "5jvsryQNB2mWJLw2nrIEHv"
-      ],
-      "albumId": "3Svj75DdPXA2gj6t51Zlwx",
+      "album": {
+        "id": "3Svj75DdPXA2gj6t51Zlwx",
+        "name": "The Singles 1966-1968",
+        "img": "https://i.scdn.co/image/ab67616d00001e02992dd2db2017a89d6fcb1f8b"
+      },
       "release_date": "2014-01-01",
       "popularity": 23
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     }

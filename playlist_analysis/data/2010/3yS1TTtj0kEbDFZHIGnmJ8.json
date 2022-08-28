@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3233906_2048_1152.gif?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2XDK0I9gcU23EvGHzV0MW1",
-      "name": "The Streets of San Francisco",
+      "track": {
+        "id": "2XDK0I9gcU23EvGHzV0MW1",
+        "name": "The Streets of San Francisco"
+      },
       "duration_ms": 168853,
-      "artist": [
-        "Henry Mancini"
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "id": "2EExdpjU4SK3xnJHO5paJf"
+        }
       ],
-      "artistId": [
-        "2EExdpjU4SK3xnJHO5paJf"
-      ],
-      "albumId": "0q3HFDUlVPQaAUVofSfHt6",
+      "album": {
+        "id": "0q3HFDUlVPQaAUVofSfHt6",
+        "name": "The Cop Show Themes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b55b03e0d3d0087613d842bd"
+      },
       "release_date": "1976",
       "popularity": 21
     },
     {
-      "trackId": "6VTbbVjKOC2qWagIDbkJrC",
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "track": {
+        "id": "6VTbbVjKOC2qWagIDbkJrC",
+        "name": "My Baby Just Cares for Me - 2013 Remastered Version"
+      },
       "duration_ms": 215746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "58gOQaPc4RCw8eWdTDRes7",
+      "album": {
+        "id": "58gOQaPc4RCw8eWdTDRes7",
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7cd1d8168aaca9041daad61"
+      },
       "release_date": "1958-06-24",
       "popularity": 66
     },
     {
-      "trackId": "2ppLZeDwYkxRGE6BpkVzAq",
-      "name": "Handclapping Song",
+      "track": {
+        "id": "2ppLZeDwYkxRGE6BpkVzAq",
+        "name": "Handclapping Song"
+      },
       "duration_ms": 179880,
-      "artist": [
-        "Killer Meters"
+      "artists": [
+        {
+          "name": "Killer Meters",
+          "id": "72lIR0dDwh44RGYRcFvRum"
+        }
       ],
-      "artistId": [
-        "72lIR0dDwh44RGYRcFvRum"
-      ],
-      "albumId": "0ocKNiZ5K639XahDIiYAD5",
+      "album": {
+        "id": "0ocKNiZ5K639XahDIiYAD5",
+        "name": "Killer Meters",
+        "img": "https://i.scdn.co/image/ab67616d00001e023de73dfa8d5b6087d9c88b5a"
+      },
       "release_date": "2005-03-08",
       "popularity": 34
     },
     {
-      "trackId": "01LHRsK7lpB6zBTIQxh8TP",
-      "name": "Djindji Rindji Bubamara",
+      "track": {
+        "id": "01LHRsK7lpB6zBTIQxh8TP",
+        "name": "Djindji Rindji Bubamara"
+      },
       "duration_ms": 301053,
-      "artist": [
-        "Emir Kusturica & The No Smoking Orchestra"
+      "artists": [
+        {
+          "name": "Emir Kusturica & The No Smoking Orchestra",
+          "id": "7yy1z6ahPRPKWXOp2z0CPp"
+        }
       ],
-      "artistId": [
-        "7yy1z6ahPRPKWXOp2z0CPp"
-      ],
-      "albumId": "6Bgez78gzfUMHxOFzDIdv3",
+      "album": {
+        "id": "6Bgez78gzfUMHxOFzDIdv3",
+        "name": "The Best Of Emir Kusturica & The No Smoking Orchestra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e77b67650e1684dad76c984d"
+      },
       "release_date": "2009-01-01",
       "popularity": 15
     },
     {
-      "trackId": "7smXtBV1LZXk261okQpJl7",
-      "name": "Gott folk",
+      "track": {
+        "id": "7smXtBV1LZXk261okQpJl7",
+        "name": "Gott folk"
+      },
       "duration_ms": 253413,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "6k7czbIKvC0VISqGEjk7gW",
+      "album": {
+        "id": "6k7czbIKvC0VISqGEjk7gW",
+        "name": "Wått's dö maddefakking diil?",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f7b01cab83bdbc1eb2fa811"
+      },
       "release_date": "2002-05-31",
       "popularity": 30
     },
     {
-      "trackId": "1Li9HBLXG2LJSeD4fEhtcd",
-      "name": "Concrete Reservation",
+      "track": {
+        "id": "1Li9HBLXG2LJSeD4fEhtcd",
+        "name": "Concrete Reservation"
+      },
       "duration_ms": 147280,
-      "artist": [
-        "Syl Johnson"
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "id": "6XItHNeKXecnFpkJHOn5JL"
+        }
       ],
-      "artistId": [
-        "6XItHNeKXecnFpkJHOn5JL"
-      ],
-      "albumId": "7Iw4TahLkIe8RtKT8e4HIJ",
+      "album": {
+        "id": "7Iw4TahLkIe8RtKT8e4HIJ",
+        "name": "Is It Because I'm Black",
+        "img": "https://i.scdn.co/image/ab67616d00001e02191edb0b7c9a27d5bf6795a9"
+      },
       "release_date": "1969-01-01",
       "popularity": 48
     },
     {
-      "trackId": "11X4Gw3T4hoktVruLgTnm1",
-      "name": "Heartbeats",
+      "track": {
+        "id": "11X4Gw3T4hoktVruLgTnm1",
+        "name": "Heartbeats"
+      },
       "duration_ms": 160240,
-      "artist": [
-        "José González"
+      "artists": [
+        {
+          "name": "José González",
+          "id": "6xrCU6zdcSTsG2hLrojpmI"
+        }
       ],
-      "artistId": [
-        "6xrCU6zdcSTsG2hLrojpmI"
-      ],
-      "albumId": "7M6XGBvDi3smtRuPUkrqsG",
+      "album": {
+        "id": "7M6XGBvDi3smtRuPUkrqsG",
+        "name": "Veneer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289c5e55db6ad58527a6a1206"
+      },
       "release_date": "2003-07-02",
       "popularity": 64
     },
     {
-      "trackId": "0j5FJJOmmnXPd0XajFWkMF",
-      "name": "Unfinished Sympathy - 2012 Mix/Master",
+      "track": {
+        "id": "0j5FJJOmmnXPd0XajFWkMF",
+        "name": "Unfinished Sympathy - 2012 Mix/Master"
+      },
       "duration_ms": 308426,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "5mAPk4qeNqVLtNydaWbWlf",
+      "album": {
+        "id": "5mAPk4qeNqVLtNydaWbWlf",
+        "name": "Blue Lines (2012 Mix/Master)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af5beb00d940f5ede452d6b5"
+      },
       "release_date": "1991-06-10",
       "popularity": 64
     },
     {
-      "trackId": "0st8AeAbPUnyqw652CDQat",
-      "name": "N.T.",
+      "track": {
+        "id": "0st8AeAbPUnyqw652CDQat",
+        "name": "N.T."
+      },
       "duration_ms": 236066,
-      "artist": [
-        "Q-Tip"
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "id": "3ZotbHeyVQKxQCPDJuQ4SU"
+        }
       ],
-      "artistId": [
-        "3ZotbHeyVQKxQCPDJuQ4SU"
-      ],
-      "albumId": "2SGHbXwTsuIOoAdBPsnIDW",
+      "album": {
+        "id": "2SGHbXwTsuIOoAdBPsnIDW",
+        "name": "Amplified",
+        "img": "https://i.scdn.co/image/ab67616d00001e024aac780cc34bb47de4b04816"
+      },
       "release_date": "1999-11-23",
       "popularity": 33
     },
     {
-      "trackId": "4pdLZsxq0y5oJDb6Cxlokw",
-      "name": "You Got Me",
+      "track": {
+        "id": "4pdLZsxq0y5oJDb6Cxlokw",
+        "name": "You Got Me"
+      },
       "duration_ms": 259306,
-      "artist": [
-        "The Roots",
-        "Tariq Trotter",
-        "Erykah Badu"
+      "artists": [
+        {
+          "name": "The Roots",
+          "id": "78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Tariq Trotter",
+          "id": "7i3os1iEWOn5UpaylRiMw5"
+        },
+        {
+          "name": "Erykah Badu",
+          "id": "7IfculRW2WXyzNQ8djX8WX"
+        }
       ],
-      "artistId": [
-        "78xUyw6FkVZrRAtziFdtdu",
-        "7i3os1iEWOn5UpaylRiMw5",
-        "7IfculRW2WXyzNQ8djX8WX"
-      ],
-      "albumId": "0qbl8aNaCUOvX8HGsZYLfh",
+      "album": {
+        "id": "0qbl8aNaCUOvX8HGsZYLfh",
+        "name": "Things Fall Apart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bac8015c7e47644fb86e27e2"
+      },
       "release_date": "1999-02-23",
       "popularity": 65
     },
     {
-      "trackId": "0ZYdUkAQmKHsaKRmq8tWSE",
-      "name": "Lullaby - Remastered",
+      "track": {
+        "id": "0ZYdUkAQmKHsaKRmq8tWSE",
+        "name": "Lullaby - Remastered"
+      },
       "duration_ms": 248186,
-      "artist": [
-        "The Cure"
+      "artists": [
+        {
+          "name": "The Cure",
+          "id": "7bu3H8JO7d0UbMoVzbo70s"
+        }
       ],
-      "artistId": [
-        "7bu3H8JO7d0UbMoVzbo70s"
-      ],
-      "albumId": "0H6TddUF2M63ZSHGvhk5yy",
+      "album": {
+        "id": "0H6TddUF2M63ZSHGvhk5yy",
+        "name": "Disintegration (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee8b603d6c666ba428daac30"
+      },
       "release_date": "1989-05-02",
       "popularity": 61
     },
     {
-      "trackId": "5wD0OP3jK8lz47EvLFYeeA",
-      "name": "The Message",
+      "track": {
+        "id": "5wD0OP3jK8lz47EvLFYeeA",
+        "name": "The Message"
+      },
       "duration_ms": 429293,
-      "artist": [
-        "Grandmaster Flash"
+      "artists": [
+        {
+          "name": "Grandmaster Flash",
+          "id": "1JfnADNz5yYEq3hrzlZHLk"
+        }
       ],
-      "artistId": [
-        "1JfnADNz5yYEq3hrzlZHLk"
-      ],
-      "albumId": "1VCA8ST9weQ2GcaaEqXyiz",
+      "album": {
+        "id": "1VCA8ST9weQ2GcaaEqXyiz",
+        "name": "Kings of the Streets - The Definitive Anthology",
+        "img": "https://i.scdn.co/image/ab67616d00001e02569c3fe855a65b8e9dc6c311"
+      },
       "release_date": "2010-07-19",
       "popularity": 49
     },
     {
-      "trackId": "2fDHuS1PTkHBbCWWZF1ph9",
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "track": {
+        "id": "2fDHuS1PTkHBbCWWZF1ph9",
+        "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968"
+      },
       "duration_ms": 162653,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "4TJIdlY9hGSSTO1kUs1neh",
+      "album": {
+        "id": "4TJIdlY9hGSSTO1kUs1neh",
+        "name": "At Folsom Prison",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a04593b7c149dc7b725683e"
+      },
       "release_date": "1968-05-01",
       "popularity": 68
     }

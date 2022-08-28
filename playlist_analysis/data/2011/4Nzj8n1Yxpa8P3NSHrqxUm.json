@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243212_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7Mge9K9r5MOhKxhMHJXhj6",
-      "name": "Vaggsången",
+      "track": {
+        "id": "7Mge9K9r5MOhKxhMHJXhj6",
+        "name": "Vaggsången"
+      },
       "duration_ms": 85250,
-      "artist": [
-        "Adamson",
-        "Vaggvisor"
+      "artists": [
+        {
+          "name": "Adamson",
+          "id": "0Le0xLw8bmlimx2cMVtVbr"
+        },
+        {
+          "name": "Vaggvisor",
+          "id": "5yLTSEQlxtbK0dyLmYAP3T"
+        }
       ],
-      "artistId": [
-        "0Le0xLw8bmlimx2cMVtVbr",
-        "5yLTSEQlxtbK0dyLmYAP3T"
-      ],
-      "albumId": "7GCnsnbNzKKrKtz3RSeQcc",
+      "album": {
+        "id": "7GCnsnbNzKKrKtz3RSeQcc",
+        "name": "Vaggvisor på piano 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b160076a03c92aff2e71746"
+      },
       "release_date": "2020-03-27",
       "popularity": 43
     },
     {
-      "trackId": "7xCuG10zZW1uvWD2Hvw3pd",
-      "name": "Hail Smiling Morn",
+      "track": {
+        "id": "7xCuG10zZW1uvWD2Hvw3pd",
+        "name": "Hail Smiling Morn"
+      },
       "duration_ms": 133626,
-      "artist": [
-        "Besses o' th' Barn"
+      "artists": [
+        {
+          "name": "Besses o' th' Barn",
+          "id": "6uZAN3RbV6ob3jwVk2YvWQ"
+        }
       ],
-      "artistId": [
-        "6uZAN3RbV6ob3jwVk2YvWQ"
-      ],
-      "albumId": "42QuQlbB4gIg69ChCP6MPh",
+      "album": {
+        "id": "42QuQlbB4gIg69ChCP6MPh",
+        "name": "Bands for Britain, Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b02c171c5df5bbe05c8c132a"
+      },
       "release_date": "2010-07-09",
       "popularity": 1
     },
     {
-      "trackId": "7HJfSnwgPN3ZIP4WKCFQ1t",
-      "name": "Estou Aqui Arrependido",
+      "track": {
+        "id": "7HJfSnwgPN3ZIP4WKCFQ1t",
+        "name": "Estou Aqui Arrependido"
+      },
       "duration_ms": 162943,
-      "artist": [
-        "ELLIAS SANTOS"
+      "artists": [
+        {
+          "name": "ELLIAS SANTOS",
+          "id": "0miMQT4ajWQwpUzXD98ZgT"
+        }
       ],
-      "artistId": [
-        "0miMQT4ajWQwpUzXD98ZgT"
-      ],
-      "albumId": "0RWNYiHm13pI4uw0beKXkW",
+      "album": {
+        "id": "0RWNYiHm13pI4uw0beKXkW",
+        "name": "Estou Aqui Arrependido",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfa58accfe8ccea11b3f7ef9"
+      },
       "release_date": "2022-07-27",
       "popularity": 46
     },
     {
-      "trackId": "3gXV3hlrEZilq4DclC2hoW",
-      "name": "Ack, Värmeland du sköna",
+      "track": {
+        "id": "3gXV3hlrEZilq4DclC2hoW",
+        "name": "Ack, Värmeland du sköna"
+      },
       "duration_ms": 158360,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "47nQ3PCd0XrIHzFIaamtEi",
+      "album": {
+        "id": "47nQ3PCd0XrIHzFIaamtEi",
+        "name": "The Lost Tapes",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233cb267657c4ff8f172605dd"
+      },
       "release_date": "1996-05-28",
       "popularity": 33
     },
     {
-      "trackId": "3xPsqMJQNM14OrawTBiK4G",
-      "name": "Din låt",
+      "track": {
+        "id": "3xPsqMJQNM14OrawTBiK4G",
+        "name": "Din låt"
+      },
       "duration_ms": 165045,
-      "artist": [
-        "Victor Leksell",
-        "Einár"
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "id": "6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Einár",
+          "id": "0kKygNaCQjqVLrImIftRDJ"
+        }
       ],
-      "artistId": [
-        "6RJXSfbIkEMoCJ8GAg2dVO",
-        "0kKygNaCQjqVLrImIftRDJ"
-      ],
-      "albumId": "02kiu1rc2gbB4gAEtPWqi7",
+      "album": {
+        "id": "02kiu1rc2gbB4gAEtPWqi7",
+        "name": "Din låt",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235027e7d4cca5bc700687e19"
+      },
       "release_date": "2022-07-22",
       "popularity": 77
     },
     {
-      "trackId": "0czUXv0QZt0kIRU6onj8WS",
-      "name": "Superhjältedisco",
+      "track": {
+        "id": "0czUXv0QZt0kIRU6onj8WS",
+        "name": "Superhjältedisco"
+      },
       "duration_ms": 139164,
-      "artist": [
-        "Duran & Mollan"
+      "artists": [
+        {
+          "name": "Duran & Mollan",
+          "id": "1XzY7sGHYarxdc9u2Ks1oU"
+        }
       ],
-      "artistId": [
-        "1XzY7sGHYarxdc9u2Ks1oU"
-      ],
-      "albumId": "0gPRXTxJBUXrYNL3BGFa19",
+      "album": {
+        "id": "0gPRXTxJBUXrYNL3BGFa19",
+        "name": "Superhjältedisco",
+        "img": "https://i.scdn.co/image/ab67616d00001e0294a7a3b1c6146c938996e984"
+      },
       "release_date": "2021-07-06",
       "popularity": 15
     },
     {
-      "trackId": "0nnkb75BbeIhmslmSI0ZVb",
-      "name": "En hund som jag",
+      "track": {
+        "id": "0nnkb75BbeIhmslmSI0ZVb",
+        "name": "En hund som jag"
+      },
       "duration_ms": 180880,
-      "artist": [
-        "Bröderna Lindgren"
+      "artists": [
+        {
+          "name": "Bröderna Lindgren",
+          "id": "6O8LVdLFSAwvmKP80QUQZb"
+        }
       ],
-      "artistId": [
-        "6O8LVdLFSAwvmKP80QUQZb"
-      ],
-      "albumId": "1gN75FSg0Ze56IbycQYsYg",
+      "album": {
+        "id": "1gN75FSg0Ze56IbycQYsYg",
+        "name": "Vuxen Barnmusik",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209de1a377f9743cc949c1873"
+      },
       "release_date": "2007-11-28",
       "popularity": 6
     },
     {
-      "trackId": "5Hvotgo03sDEDnlNEAHgGe",
-      "name": "Wacko Dane",
+      "track": {
+        "id": "5Hvotgo03sDEDnlNEAHgGe",
+        "name": "Wacko Dane"
+      },
       "duration_ms": 50769,
-      "artist": [
-        "Billy Williams"
+      "artists": [
+        {
+          "name": "Billy Williams",
+          "id": "5PBjEDSSVVyBRqcOSZAlYx"
+        }
       ],
-      "artistId": [
-        "5PBjEDSSVVyBRqcOSZAlYx"
-      ],
-      "albumId": "3ZwMiwpWPONEDK6CFTutuW",
+      "album": {
+        "id": "3ZwMiwpWPONEDK6CFTutuW",
+        "name": "Wacko Dane",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff92474958fa4b3d09e3365f"
+      },
       "release_date": "2022-05-16",
       "popularity": 6
     },
     {
-      "trackId": "70Owsfm89HOUxy7csSaFbB",
-      "name": "The Charleston",
+      "track": {
+        "id": "70Owsfm89HOUxy7csSaFbB",
+        "name": "The Charleston"
+      },
       "duration_ms": 156028,
-      "artist": [
-        "Winifred Atwell"
+      "artists": [
+        {
+          "name": "Winifred Atwell",
+          "id": "6dYjED5eEVQa9RdtR0KAM4"
+        }
       ],
-      "artistId": [
-        "6dYjED5eEVQa9RdtR0KAM4"
-      ],
-      "albumId": "0ZhE01AjiijgaJX03UeCLz",
+      "album": {
+        "id": "0ZhE01AjiijgaJX03UeCLz",
+        "name": "Winifred Atwell Plays",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f07ab98a6d42af33497f3a70"
+      },
       "release_date": "2000-01-01",
       "popularity": 0
     },
     {
-      "trackId": "7w3nPuPZAetfok6htc7NDw",
-      "name": "General Bussig",
+      "track": {
+        "id": "7w3nPuPZAetfok6htc7NDw",
+        "name": "General Bussig"
+      },
       "duration_ms": 397720,
-      "artist": [
-        "Åke Hodell"
+      "artists": [
+        {
+          "name": "Åke Hodell",
+          "id": "37rqysc9Ybf639pz8lIkGV"
+        }
       ],
-      "artistId": [
-        "37rqysc9Ybf639pz8lIkGV"
-      ],
-      "albumId": "0NAeUvpsajZJs5UYVxTENY",
+      "album": {
+        "id": "0NAeUvpsajZJs5UYVxTENY",
+        "name": "Igevär/Yellow Sky",
+        "img": "https://i.scdn.co/image/ab67616d00001e02063503aac1e552ea872f6420"
+      },
       "release_date": "2004-11-14",
-      "popularity": 2
+      "popularity": 1
     },
     {
-      "trackId": "4PWUgGyBVJSKq4w8A6eG1H",
-      "name": "Händerna upp",
+      "track": {
+        "id": "4PWUgGyBVJSKq4w8A6eG1H",
+        "name": "Händerna upp"
+      },
       "duration_ms": 181290,
-      "artist": [
-        "Duran & Mollan"
+      "artists": [
+        {
+          "name": "Duran & Mollan",
+          "id": "1XzY7sGHYarxdc9u2Ks1oU"
+        }
       ],
-      "artistId": [
-        "1XzY7sGHYarxdc9u2Ks1oU"
-      ],
-      "albumId": "5CxJuFvyZ8ESWrRU6bKoXv",
+      "album": {
+        "id": "5CxJuFvyZ8ESWrRU6bKoXv",
+        "name": "Rymdraket",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b822d45f64cde5b7b3f6c94f"
+      },
       "release_date": "2014-06-30",
       "popularity": 42
     },
     {
-      "trackId": "2GWeltkBZiTNfZCiEcTXUp",
-      "name": "Ingrid Dardels polska",
+      "track": {
+        "id": "2GWeltkBZiTNfZCiEcTXUp",
+        "name": "Ingrid Dardels polska"
+      },
       "duration_ms": 100826,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+      "album": {
+        "id": "22jr1k8N3Iz8abiAIoe0iB",
+        "name": "Cornelis sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e32ae3048034e79c68b3ce15"
+      },
       "release_date": "1969",
       "popularity": 11
     },
     {
-      "trackId": "15WPlZmWSohw5DxkPR7EEx",
-      "name": "Novelty Accordion",
+      "track": {
+        "id": "15WPlZmWSohw5DxkPR7EEx",
+        "name": "Novelty Accordion"
+      },
       "duration_ms": 153680,
-      "artist": [
-        "Erik Franks trio"
+      "artists": [
+        {
+          "name": "Erik Franks trio",
+          "id": "3zKGs04LJIVkQiHX8fQYV4"
+        }
       ],
-      "artistId": [
-        "3zKGs04LJIVkQiHX8fQYV4"
-      ],
-      "albumId": "2SRtOEK6qonDlUVaSKmw3a",
+      "album": {
+        "id": "2SRtOEK6qonDlUVaSKmw3a",
+        "name": "Populärmusik Från 1944",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258b30b9f7b55d55f321a77b7"
+      },
       "release_date": "2009-09-08",
       "popularity": 14
     },
     {
-      "trackId": "1gqwG8K3QImKfcp7PuU46L",
-      "name": "Turandot, Act 3: Nessun Dorma",
+      "track": {
+        "id": "1gqwG8K3QImKfcp7PuU46L",
+        "name": "Turandot, Act 3: Nessun Dorma"
+      },
       "duration_ms": 186866,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "6sEwucq1e5IBhFpX4Uf5qD",
+      "album": {
+        "id": "6sEwucq1e5IBhFpX4Uf5qD",
+        "name": "Jussi Bjorling 100th Anniversary Anthology",
+        "img": "https://i.scdn.co/image/ab67616d00001e025dd7a8dc8942765cf2907a02"
+      },
       "release_date": "2011-01-25",
       "popularity": 21
     }

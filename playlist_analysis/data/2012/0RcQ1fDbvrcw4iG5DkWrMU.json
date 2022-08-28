@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344855_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3FvfIXacwBpkSSSXxHFOvs",
-      "name": "Here Comes the Sun",
+      "track": {
+        "id": "3FvfIXacwBpkSSSXxHFOvs",
+        "name": "Here Comes the Sun"
+      },
       "duration_ms": 177733,
-      "artist": [
-        "Steve Harley",
-        "Steve Harley & Cockney Rebel"
+      "artists": [
+        {
+          "name": "Steve Harley",
+          "id": "3dS8rLINyM7EYuMXryXJym"
+        },
+        {
+          "name": "Steve Harley & Cockney Rebel",
+          "id": "6EL5GD53kaaVgJCHgdtdLz"
+        }
       ],
-      "artistId": [
-        "3dS8rLINyM7EYuMXryXJym",
-        "6EL5GD53kaaVgJCHgdtdLz"
-      ],
-      "albumId": "7vVinMaU6MJuXQnCt69QDu",
+      "album": {
+        "id": "7vVinMaU6MJuXQnCt69QDu",
+        "name": "The Cream of Steve Harley & Cockney Rebel",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3d922432db72f6bacdf1f0d"
+      },
       "release_date": "1999-01-01",
       "popularity": 36
     },
     {
-      "trackId": "0YNaC18YzZHB610787YKud",
-      "name": "Fat Old Sun - 2011 Remastered Version",
+      "track": {
+        "id": "0YNaC18YzZHB610787YKud",
+        "name": "Fat Old Sun - 2011 Remastered Version"
+      },
       "duration_ms": 323946,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "5c1ZTzT4oSkiiFS4wmEuOe",
+      "album": {
+        "id": "5c1ZTzT4oSkiiFS4wmEuOe",
+        "name": "Atom Heart Mother (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1e9ff73dae4f4599bdb6f09"
+      },
       "release_date": "1970-10-02",
       "popularity": 40
     },
     {
-      "trackId": "63R7AsDpVkRlIdVLZQFWJJ",
-      "name": "White Blues",
+      "track": {
+        "id": "63R7AsDpVkRlIdVLZQFWJJ",
+        "name": "White Blues"
+      },
       "duration_ms": 302533,
-      "artist": [
-        "Chet Baker"
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "id": "3rxeQlsv0Sc2nyYaZ5W71T"
+        }
       ],
-      "artistId": [
-        "3rxeQlsv0Sc2nyYaZ5W71T"
-      ],
-      "albumId": "2JHLz0zaw5KkGBU7tQwUet",
+      "album": {
+        "id": "2JHLz0zaw5KkGBU7tQwUet",
+        "name": "Mister B.",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7de24450c578a72d21e0d3c"
+      },
       "release_date": "1989",
       "popularity": 5
     },
     {
-      "trackId": "4T4e06YhupuZAoln2qZ6Fa",
-      "name": "Independence Day",
+      "track": {
+        "id": "4T4e06YhupuZAoln2qZ6Fa",
+        "name": "Independence Day"
+      },
       "duration_ms": 285946,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "6YNIEeDWqC09YIWzhoSVLg",
+      "album": {
+        "id": "6YNIEeDWqC09YIWzhoSVLg",
+        "name": "The River",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e987064364e2b62ae1925b4"
+      },
       "release_date": "1980-10-17",
       "popularity": 43
     },
     {
-      "trackId": "1ZXiwDb7LapIP0ewzS0LkR",
-      "name": "Di Derre 2021",
+      "track": {
+        "id": "1ZXiwDb7LapIP0ewzS0LkR",
+        "name": "Di Derre 2021"
+      },
       "duration_ms": 182511,
-      "artist": [
-        "SCHTÆGER",
-        "Onkel Aune"
+      "artists": [
+        {
+          "name": "SCHTÆGER",
+          "id": "6bZHKYsq3HKvY6elC7fcto"
+        },
+        {
+          "name": "Onkel Aune",
+          "id": "4KURdwqui2cwLdRiT2YX9E"
+        }
       ],
-      "artistId": [
-        "6bZHKYsq3HKvY6elC7fcto",
-        "4KURdwqui2cwLdRiT2YX9E"
-      ],
-      "albumId": "60ZT8PETBI5cxvJQGV64HD",
+      "album": {
+        "id": "60ZT8PETBI5cxvJQGV64HD",
+        "name": "Di Derre 2021",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283fed5f4cffea7101f15ad7c"
+      },
       "release_date": "2021-04-16",
       "popularity": 0
     },
     {
-      "trackId": "0kyM6MaS573Gt9Yna1rsqd",
-      "name": "Can't Let Go",
+      "track": {
+        "id": "0kyM6MaS573Gt9Yna1rsqd",
+        "name": "Can't Let Go"
+      },
       "duration_ms": 208733,
-      "artist": [
-        "Lucinda Williams"
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "id": "60ht0hWRy1yjUDfNsLuHuP"
+        }
       ],
-      "artistId": [
-        "60ht0hWRy1yjUDfNsLuHuP"
-      ],
-      "albumId": "3iC6dJobZulVXp0F4Bojig",
+      "album": {
+        "id": "3iC6dJobZulVXp0F4Bojig",
+        "name": "Car Wheels On A Gravel Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1601ac181badf6013e0c936"
+      },
       "release_date": "1998-01-01",
       "popularity": 51
     },
     {
-      "trackId": "4YnHY5YzUWMBY8fRLTooKC",
-      "name": "Perfect Skin",
+      "track": {
+        "id": "4YnHY5YzUWMBY8fRLTooKC",
+        "name": "Perfect Skin"
+      },
       "duration_ms": 196533,
-      "artist": [
-        "Lloyd Cole and the Commotions"
+      "artists": [
+        {
+          "name": "Lloyd Cole and the Commotions",
+          "id": "6juuiuCv8jRHZOcvP2BqKp"
+        }
       ],
-      "artistId": [
-        "6juuiuCv8jRHZOcvP2BqKp"
-      ],
-      "albumId": "4OfGDQC3Z2CdHMknAQMdig",
+      "album": {
+        "id": "4OfGDQC3Z2CdHMknAQMdig",
+        "name": "Rattlesnakes",
+        "img": "https://i.scdn.co/image/ab67616d00001e023dca09f28b68349c22e1f5c0"
+      },
       "release_date": "1984-01-01",
       "popularity": 46
     },
     {
-      "trackId": "0k4XkPxJMQKQa7Ali1qske",
-      "name": "A Remark You Made",
+      "track": {
+        "id": "0k4XkPxJMQKQa7Ali1qske",
+        "name": "A Remark You Made"
+      },
       "duration_ms": 410533,
-      "artist": [
-        "Weather Report"
+      "artists": [
+        {
+          "name": "Weather Report",
+          "id": "162DCkd8aDKwvjBb74Gu8b"
+        }
       ],
-      "artistId": [
-        "162DCkd8aDKwvjBb74Gu8b"
-      ],
-      "albumId": "2M9F2yYsUvqiBPwUGeNvn1",
+      "album": {
+        "id": "2M9F2yYsUvqiBPwUGeNvn1",
+        "name": "Heavy Weather",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5e3abdd3cb309fa4c77f7f3"
+      },
       "release_date": "1977-03-01",
       "popularity": 40
     },
     {
-      "trackId": "40tnCfx2mTtHozyaRDcYC5",
-      "name": "The Bitch Is Back",
+      "track": {
+        "id": "40tnCfx2mTtHozyaRDcYC5",
+        "name": "The Bitch Is Back"
+      },
       "duration_ms": 224933,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "2R5dzEQT6MDsnwiZSpWgqC",
+      "album": {
+        "id": "2R5dzEQT6MDsnwiZSpWgqC",
+        "name": "Caribou",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268f5959744717483eed212b2"
+      },
       "release_date": "1974-06-28",
       "popularity": 58
     },
     {
-      "trackId": "1iW2ktyrQHNKZwFTvgP0Ta",
-      "name": "Burn - Remastered 2004",
+      "track": {
+        "id": "1iW2ktyrQHNKZwFTvgP0Ta",
+        "name": "Burn - Remastered 2004"
+      },
       "duration_ms": 364933,
-      "artist": [
-        "Deep Purple"
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "id": "568ZhdwyaiCyOGJRtNYhWf"
+        }
       ],
-      "artistId": [
-        "568ZhdwyaiCyOGJRtNYhWf"
-      ],
-      "albumId": "3wR7UC2ij2dx0TbtiMP4J9",
+      "album": {
+        "id": "3wR7UC2ij2dx0TbtiMP4J9",
+        "name": "Burn (30th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02189077bdd7db03dfa349afee"
+      },
       "release_date": "1974-02-15",
       "popularity": 56
     },
     {
-      "trackId": "0jj2ArKpC8JiitdG0Qp69N",
-      "name": "Shipbuilding",
+      "track": {
+        "id": "0jj2ArKpC8JiitdG0Qp69N",
+        "name": "Shipbuilding"
+      },
       "duration_ms": 293320,
-      "artist": [
-        "Elvis Costello & The Attractions"
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "id": "4qmHkMxr6pTWh5Zo74odpH"
+        }
       ],
-      "artistId": [
-        "4qmHkMxr6pTWh5Zo74odpH"
-      ],
-      "albumId": "1bY21Hf0ISCQf7h6FFVyC2",
+      "album": {
+        "id": "1bY21Hf0ISCQf7h6FFVyC2",
+        "name": "Protest Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289a900c840d7d27fcb05edac"
+      },
       "release_date": "2020-06-12",
       "popularity": 21
     }

@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ac95f126-f4d2-4b03-bd8a-cb2cc367e8f8.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "21rosfCj4q0CfM7E0QFqVb",
-      "name": "Ooh Child - In the Style of 5 Stairsteps (Karaoke Version Teaching Vocal)",
+      "track": {
+        "id": "21rosfCj4q0CfM7E0QFqVb",
+        "name": "Ooh Child - In the Style of 5 Stairsteps (Karaoke Version Teaching Vocal)"
+      },
       "duration_ms": 194643,
-      "artist": [
-        "Musical Creations Studio Musicians (Karaoke)"
+      "artists": [
+        {
+          "name": "Musical Creations Studio Musicians (Karaoke)",
+          "id": "6kNzSsqYaKS4Lu2D7E82n0"
+        }
       ],
-      "artistId": [
-        "6kNzSsqYaKS4Lu2D7E82n0"
-      ],
-      "albumId": "5BPAlF7LoOqngpDp18kM7L",
+      "album": {
+        "id": "5BPAlF7LoOqngpDp18kM7L",
+        "name": "Karaoke - Ooh Child",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4ad64533b25ec9ec24a8d44"
+      },
       "release_date": "2010-02-01",
       "popularity": 7
     },
     {
-      "trackId": "38llcrfX1arUqrEe0DRRzW",
-      "name": "I Got a Name - Stereo Version",
+      "track": {
+        "id": "38llcrfX1arUqrEe0DRRzW",
+        "name": "I Got a Name - Stereo Version"
+      },
       "duration_ms": 194493,
-      "artist": [
-        "Jim Croce"
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "id": "1R6Hx1tJ2VOUyodEpC12xM"
+        }
       ],
-      "artistId": [
-        "1R6Hx1tJ2VOUyodEpC12xM"
-      ],
-      "albumId": "4ieaeNOAdq6VoYQrY0hkhq",
+      "album": {
+        "id": "4ieaeNOAdq6VoYQrY0hkhq",
+        "name": "I Got a Name",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249a715e1cb9d83b6a8c0ec58"
+      },
       "release_date": "1973-12-01",
       "popularity": 64
     },
     {
-      "trackId": "4y3zMZxuqFpNV3MuDQN72f",
-      "name": "Je vais orner ton corps",
+      "track": {
+        "id": "4y3zMZxuqFpNV3MuDQN72f",
+        "name": "Je vais orner ton corps"
+      },
       "duration_ms": 192640,
-      "artist": [
-        "Youssou N'Dour - Rokia Traoré"
+      "artists": [
+        {
+          "name": "Youssou N'Dour - Rokia Traoré",
+          "id": "1oIKHJwgwyF5mpXOcc4fDK"
+        }
       ],
-      "artistId": [
-        "1oIKHJwgwyF5mpXOcc4fDK"
-      ],
-      "albumId": "1ZJjpTJdnAOiVfNvaS0Iug",
+      "album": {
+        "id": "1ZJjpTJdnAOiVfNvaS0Iug",
+        "name": "Comédie Musicale Kirikou",
+        "img": "https://i.scdn.co/image/ab67616d00001e02450c994b3b737b32e771ba4d"
+      },
       "release_date": "2007-10-12",
       "popularity": 9
     },
     {
-      "trackId": "0ARK753YaiJbpLUk7z5yIM",
-      "name": "Dilemma",
+      "track": {
+        "id": "0ARK753YaiJbpLUk7z5yIM",
+        "name": "Dilemma"
+      },
       "duration_ms": 289160,
-      "artist": [
-        "Nelly",
-        "Kelly Rowland"
+      "artists": [
+        {
+          "name": "Nelly",
+          "id": "2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Kelly Rowland",
+          "id": "3AuMNF8rQAKOzjYppFNAoB"
+        }
       ],
-      "artistId": [
-        "2gBjLmx6zQnFGQJCAQpRgw",
-        "3AuMNF8rQAKOzjYppFNAoB"
-      ],
-      "albumId": "4HUUHHXBXImwksfbSPqE7q",
+      "album": {
+        "id": "4HUUHHXBXImwksfbSPqE7q",
+        "name": "Nellyville",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8b9f97b9ea065b9a857e93f"
+      },
       "release_date": "2002-06-25",
       "popularity": 77
     },
     {
-      "trackId": "17hZQHHHsF1JWcPHV9tzgp",
-      "name": "Heaven/ Where True Love Goes",
+      "track": {
+        "id": "17hZQHHHsF1JWcPHV9tzgp",
+        "name": "Heaven/ Where True Love Goes"
+      },
       "duration_ms": 289866,
-      "artist": [
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "4HvKu6dInngrggvpHDUdEH",
+      "album": {
+        "id": "4HvKu6dInngrggvpHDUdEH",
+        "name": "An Other Cup",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239992634d64b7cd070c2cc08"
+      },
       "release_date": "2006-11-14",
       "popularity": 39
     },
     {
-      "trackId": "3Ui4BMHapr00Iul1kB7lHC",
-      "name": "One Drop",
+      "track": {
+        "id": "3Ui4BMHapr00Iul1kB7lHC",
+        "name": "One Drop"
+      },
       "duration_ms": 231773,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "09Df7mUZBQwbDYgvE0t30r",
+      "album": {
+        "id": "09Df7mUZBQwbDYgvE0t30r",
+        "name": "Survival",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d"
+      },
       "release_date": "1979",
       "popularity": 63
     },
     {
-      "trackId": "2wyMXnb3ahyTOAJTZg89zZ",
-      "name": "MVH",
+      "track": {
+        "id": "2wyMXnb3ahyTOAJTZg89zZ",
+        "name": "MVH"
+      },
       "duration_ms": 247053,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "0wQgwysg1F7YUC2uXkB246",
+      "album": {
+        "id": "0wQgwysg1F7YUC2uXkB246",
+        "name": "T2: Kontrakultur",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f99eb8e0f60509896d28d2f8"
+      },
       "release_date": "2000-06-02",
       "popularity": 27
     },
     {
-      "trackId": "1bGSy8Y0mY0AMZzp4d4xTK",
-      "name": "Suedi",
+      "track": {
+        "id": "1bGSy8Y0mY0AMZzp4d4xTK",
+        "name": "Suedi"
+      },
       "duration_ms": 260399,
-      "artist": [
-        "Erik Lundin"
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "id": "0dCSPVQ30JS4cRaCTtbEmp"
+        }
       ],
-      "artistId": [
-        "0dCSPVQ30JS4cRaCTtbEmp"
-      ],
-      "albumId": "5zuqeiwaG7raGKk6ERT2gf",
+      "album": {
+        "id": "5zuqeiwaG7raGKk6ERT2gf",
+        "name": "Suedi",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce7533f808e92adf88fb05d"
+      },
       "release_date": "2015-11-06",
       "popularity": 34
     },
     {
-      "trackId": "627vP3nl9eI4xF4yEQEyze",
-      "name": "All That I Got Is You (feat. Mary J. Blige)",
+      "track": {
+        "id": "627vP3nl9eI4xF4yEQEyze",
+        "name": "All That I Got Is You (feat. Mary J. Blige)"
+      },
       "duration_ms": 320813,
-      "artist": [
-        "Ghostface Killah",
-        "Mary J. Blige"
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "id": "6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        }
       ],
-      "artistId": [
-        "6FD0unjzGQhX3b6eMccMJe",
-        "1XkoF8ryArs86LZvFOkbyr"
-      ],
-      "albumId": "2jCjUgaDh9lVGju6u3cGvK",
+      "album": {
+        "id": "2jCjUgaDh9lVGju6u3cGvK",
+        "name": "Ironman",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e6809e08578c7c250112046"
+      },
       "release_date": "1996",
       "popularity": 44
     },
     {
-      "trackId": "70uktTEq3AiRQAtqdl20qG",
-      "name": "I Ain't Mad At Cha (ft. Danny Boy)",
+      "track": {
+        "id": "70uktTEq3AiRQAtqdl20qG",
+        "name": "I Ain't Mad At Cha (ft. Danny Boy)"
+      },
       "duration_ms": 293666,
-      "artist": [
-        "2Pac",
-        "Danny Boy"
+      "artists": [
+        {
+          "name": "2Pac",
+          "id": "1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Danny Boy",
+          "id": "215MtFtfMM8uQYMnaWt0I3"
+        }
       ],
-      "artistId": [
-        "1ZwdS5xdxEREPySFridCfh",
-        "215MtFtfMM8uQYMnaWt0I3"
-      ],
-      "albumId": "78iX7tMceN0FsnmabAtlOC",
+      "album": {
+        "id": "78iX7tMceN0FsnmabAtlOC",
+        "name": "All Eyez On Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02073aebff28f79959d2543596"
+      },
       "release_date": "1996-02-13",
       "popularity": 59
     },
     {
-      "trackId": "7caP3UAf8ZtIMVpWfEIA4H",
-      "name": "Battle Cry",
+      "track": {
+        "id": "7caP3UAf8ZtIMVpWfEIA4H",
+        "name": "Battle Cry"
+      },
       "duration_ms": 192080,
-      "artist": [
-        "Polo G"
+      "artists": [
+        {
+          "name": "Polo G",
+          "id": "6AgTAQt8XS6jRWi4sX7w49"
+        }
       ],
-      "artistId": [
-        "6AgTAQt8XS6jRWi4sX7w49"
-      ],
-      "albumId": "26ztFK3E69j5THJQdyxC5w",
+      "album": {
+        "id": "26ztFK3E69j5THJQdyxC5w",
+        "name": "Die A Legend",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae8b07ecdcf7aadefe00264f"
+      },
       "release_date": "2019-06-07",
       "popularity": 58
     },
     {
-      "trackId": "5Tl0HJvynZtKdSUMKbFVVX",
-      "name": "Hard Knock Life (Ghetto Anthem)",
+      "track": {
+        "id": "5Tl0HJvynZtKdSUMKbFVVX",
+        "name": "Hard Knock Life (Ghetto Anthem)"
+      },
       "duration_ms": 238466,
-      "artist": [
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "3j1xCJdBMCl6wYQXurz2tb",
+      "album": {
+        "id": "3j1xCJdBMCl6wYQXurz2tb",
+        "name": "Vol.2... Hard Knock Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e029700390e9c33c62cfcd915ce"
+      },
       "release_date": "1998-11-29",
       "popularity": 67
     },
     {
-      "trackId": "7KWoeBqSdZHEloYKVxssfG",
-      "name": "In the Ghetto",
+      "track": {
+        "id": "7KWoeBqSdZHEloYKVxssfG",
+        "name": "In the Ghetto"
+      },
       "duration_ms": 167413,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ekkFrfotMsEAKc5g71GHk",
+      "album": {
+        "id": "3ekkFrfotMsEAKc5g71GHk",
+        "name": "From Elvis in Memphis (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7"
+      },
       "release_date": "1969-06-17",
       "popularity": 69
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

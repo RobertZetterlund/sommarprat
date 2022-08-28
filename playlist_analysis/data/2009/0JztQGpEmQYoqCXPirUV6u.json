@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247525_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6NgYIETQ8U72CVfkzYhK30",
-      "name": "Fairytale",
+      "track": {
+        "id": "6NgYIETQ8U72CVfkzYhK30",
+        "name": "Fairytale"
+      },
       "duration_ms": 183093,
-      "artist": [
-        "Alexander Rybak"
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "id": "3LLNDXrxL4uxXtnUJS5XWM"
+        }
       ],
-      "artistId": [
-        "3LLNDXrxL4uxXtnUJS5XWM"
-      ],
-      "albumId": "7k1b8wzjRsSTmIBuRlBrxp",
+      "album": {
+        "id": "7k1b8wzjRsSTmIBuRlBrxp",
+        "name": "Fairytales",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e1c6382b5cb1571270aad83"
+      },
       "release_date": "2009-05-29",
       "popularity": 72
     },
     {
-      "trackId": "3DMjC1zFbmmGLpqxwhhx0R",
-      "name": "Allt du behöver",
+      "track": {
+        "id": "3DMjC1zFbmmGLpqxwhhx0R",
+        "name": "Allt du behöver"
+      },
       "duration_ms": 172607,
-      "artist": [
-        "Dag Tolstoy"
+      "artists": [
+        {
+          "name": "Dag Tolstoy",
+          "id": "3pqmSK0CTIQ5RGfGLm2d9y"
+        }
       ],
-      "artistId": [
-        "3pqmSK0CTIQ5RGfGLm2d9y"
-      ],
-      "albumId": "2G7wm63f6asEjrjSnhqSm8",
+      "album": {
+        "id": "2G7wm63f6asEjrjSnhqSm8",
+        "name": "Allt du behöver",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa282685b9cd8f05dc165ee9"
+      },
       "release_date": "2021-11-05",
       "popularity": 35
     },
     {
-      "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
-      "name": "Öppna landskap",
+      "track": {
+        "id": "1WVjxyTSZ5UiI6TlcHyUPh",
+        "name": "Öppna landskap"
+      },
       "duration_ms": 278333,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "7aB0bPRv2elnc0Ou1whaty",
+      "album": {
+        "id": "7aB0bPRv2elnc0Ou1whaty",
+        "name": "Öppna Landskap 7595",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cec4d71708dbf4f7f02f8a6a"
+      },
       "release_date": "1995",
       "popularity": 49
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     },
     {
-      "trackId": "7Gc4JMIbJCX9IuoD2EGa8F",
-      "name": "Scared Of Heights",
+      "track": {
+        "id": "7Gc4JMIbJCX9IuoD2EGa8F",
+        "name": "Scared Of Heights"
+      },
       "duration_ms": 206120,
-      "artist": [
-        "Espen Lind"
+      "artists": [
+        {
+          "name": "Espen Lind",
+          "id": "1N5566ZYn9C7qtdIlEeHM8"
+        }
       ],
-      "artistId": [
-        "1N5566ZYn9C7qtdIlEeHM8"
-      ],
-      "albumId": "5ElZV0Mnnoq5UuTlzqSNA1",
+      "album": {
+        "id": "5ElZV0Mnnoq5UuTlzqSNA1",
+        "name": "Army Of One (Telenor Exclusive)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bbe006c43c3696266fff8ba7"
+      },
       "release_date": "2008-01-01",
       "popularity": 39
     },
     {
-      "trackId": "03maIk9W3aacdbQSdeaYwR",
-      "name": "Vad är du rädd för?",
+      "track": {
+        "id": "03maIk9W3aacdbQSdeaYwR",
+        "name": "Vad är du rädd för?"
+      },
       "duration_ms": 216733,
-      "artist": [
-        "Lill Lindfors"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC"
-      ],
-      "albumId": "3uLnFgGpUmRcvVbJY2X0YE",
+      "album": {
+        "id": "3uLnFgGpUmRcvVbJY2X0YE",
+        "name": "Och människor ser igen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263fe18e9d22ccd794cdb6e48"
+      },
       "release_date": "1990-03-01",
       "popularity": 3
     },
     {
-      "trackId": "5px3ShFMjwhidOFVVc0Z4R",
-      "name": "À bicyclette",
+      "track": {
+        "id": "5px3ShFMjwhidOFVVc0Z4R",
+        "name": "À bicyclette"
+      },
       "duration_ms": 162800,
-      "artist": [
-        "Yves Montand"
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "id": "5ru2x3pjrNn67D22BRwlFP"
+        }
       ],
-      "artistId": [
-        "5ru2x3pjrNn67D22BRwlFP"
-      ],
-      "albumId": "2DS4hsoeFgvqhzsCJ0tmbj",
+      "album": {
+        "id": "2DS4hsoeFgvqhzsCJ0tmbj",
+        "name": "La Bicyclette",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfab43b78afb0e62163feddb"
+      },
       "release_date": "1997-01-01",
       "popularity": 42
     },
     {
-      "trackId": "6lEPyup2Y14j5hqRGIwdDg",
-      "name": "Even If the Rain",
+      "track": {
+        "id": "6lEPyup2Y14j5hqRGIwdDg",
+        "name": "Even If the Rain"
+      },
       "duration_ms": 289933,
-      "artist": [
-        "Flava To Da Bone"
+      "artists": [
+        {
+          "name": "Flava To Da Bone",
+          "id": "3k7e0dOwgmFQWX6UbE6v37"
+        }
       ],
-      "artistId": [
-        "3k7e0dOwgmFQWX6UbE6v37"
-      ],
-      "albumId": "2RZrf31A0601gdSiJi7VDr",
+      "album": {
+        "id": "2RZrf31A0601gdSiJi7VDr",
+        "name": "Feelin Da Flava",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfcad90e21fdc3247bbe1016"
+      },
       "release_date": "1995",
       "popularity": 16
     },
     {
-      "trackId": "4MXHBiKcdqHBJ4PeHQJBHO",
-      "name": "Måndagsbarn",
+      "track": {
+        "id": "4MXHBiKcdqHBJ4PeHQJBHO",
+        "name": "Måndagsbarn"
+      },
       "duration_ms": 205546,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "7K3z58HrZ2RJR2j82xWbsc",
+      "album": {
+        "id": "7K3z58HrZ2RJR2j82xWbsc",
+        "name": "Och vinnaren är...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8f600439b138e7fdceb5c93"
+      },
       "release_date": "2008-01-01",
       "popularity": 55
     },
     {
-      "trackId": "0MGsmLjCtcSye47RvZWhpq",
-      "name": "Mysteriet deg (feat. Lisa Nilsson)",
+      "track": {
+        "id": "0MGsmLjCtcSye47RvZWhpq",
+        "name": "Mysteriet deg (feat. Lisa Nilsson)"
+      },
       "duration_ms": 241000,
-      "artist": [
-        "Bjørn Eidsvåg",
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Bjørn Eidsvåg",
+          "id": "11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "11Vny8qHe4KR50ZIjhz7sz",
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "5AIIeHfqDMUBqLCXZbiWKT",
+      "album": {
+        "id": "5AIIeHfqDMUBqLCXZbiWKT",
+        "name": "Tålt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af134bd21a2786876b7fbd17"
+      },
       "release_date": "2002-04-01",
       "popularity": 42
     },
     {
-      "trackId": "3gmffaPWGIlIm6EUfWzMdw",
-      "name": "All This Time (Pick-Me-Up Song)",
+      "track": {
+        "id": "3gmffaPWGIlIm6EUfWzMdw",
+        "name": "All This Time (Pick-Me-Up Song)"
+      },
       "duration_ms": 191506,
-      "artist": [
-        "Maria Mena"
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "id": "3rTRHzFfbTk5GL3LpYZGHR"
+        }
       ],
-      "artistId": [
-        "3rTRHzFfbTk5GL3LpYZGHR"
-      ],
-      "albumId": "4l90ORktuCndfmoF44tRjO",
+      "album": {
+        "id": "4l90ORktuCndfmoF44tRjO",
+        "name": "Cause and Effect",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ff6a8b8ce5d6c579c2d7f08"
+      },
       "release_date": "2008-07-10",
       "popularity": 44
     },
     {
-      "trackId": "3KWJ66ISxPnB3Yw24W4j9v",
-      "name": "Neste Sommer in the Style of De Lillos",
+      "track": {
+        "id": "3KWJ66ISxPnB3Yw24W4j9v",
+        "name": "Neste Sommer in the Style of De Lillos"
+      },
       "duration_ms": 244000,
-      "artist": [
-        "Sunfly Karaoke"
+      "artists": [
+        {
+          "name": "Sunfly Karaoke",
+          "id": "3tCGqGQclabrpQfcHRmDtK"
+        }
       ],
-      "artistId": [
-        "3tCGqGQclabrpQfcHRmDtK"
-      ],
-      "albumId": "2xxn5djtXsZpJslrIWZYb4",
+      "album": {
+        "id": "2xxn5djtXsZpJslrIWZYb4",
+        "name": "Norsk Party: Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e026054b51695ef74373a116ab2"
+      },
       "release_date": "2011-06-02",
       "popularity": 1
     },
     {
-      "trackId": "6Vbzzun2OIKH1axUwDmFCK",
-      "name": "I Want You",
+      "track": {
+        "id": "6Vbzzun2OIKH1axUwDmFCK",
+        "name": "I Want You"
+      },
       "duration_ms": 82616,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "53fzZMZ3ENBY0BpLFOMy9p",
+      "album": {
+        "id": "53fzZMZ3ENBY0BpLFOMy9p",
+        "name": "The Early Years Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc263d2c85f2d1640e8ebaea"
+      },
       "release_date": "1993-02-01",
       "popularity": 34
     }

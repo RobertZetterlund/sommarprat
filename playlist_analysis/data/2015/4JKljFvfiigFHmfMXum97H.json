@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531102_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2BKO62jJN0ZgaeL5GrGIsr",
-      "name": "Everything Is Borrowed",
+      "track": {
+        "id": "2BKO62jJN0ZgaeL5GrGIsr",
+        "name": "Everything Is Borrowed"
+      },
       "duration_ms": 244186,
-      "artist": [
-        "The Streets"
+      "artists": [
+        {
+          "name": "The Streets",
+          "id": "4GvOygVQquMaPm8oAc0vXi"
+        }
       ],
-      "artistId": [
-        "4GvOygVQquMaPm8oAc0vXi"
-      ],
-      "albumId": "6sNM00boft0RbnsGVKujVN",
+      "album": {
+        "id": "6sNM00boft0RbnsGVKujVN",
+        "name": "Everything Is Borrowed",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281f48bb0d7ccd6dcd63f231d"
+      },
       "release_date": "2008",
       "popularity": 39
     },
     {
-      "trackId": "20j7B6mL9gnNvG3ic6Vwh5",
-      "name": "Hate To Say I Told You So",
+      "track": {
+        "id": "20j7B6mL9gnNvG3ic6Vwh5",
+        "name": "Hate To Say I Told You So"
+      },
       "duration_ms": 200693,
-      "artist": [
-        "The Hives"
+      "artists": [
+        {
+          "name": "The Hives",
+          "id": "4DToQR3aKrHQSSRzSz8Nzt"
+        }
       ],
-      "artistId": [
-        "4DToQR3aKrHQSSRzSz8Nzt"
-      ],
-      "albumId": "1C4UGzx5gD9b3X0UfAhY7z",
+      "album": {
+        "id": "1C4UGzx5gD9b3X0UfAhY7z",
+        "name": "Veni Vidi Vicious",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285c160f9951c570a8e81f998"
+      },
       "release_date": "2000-09-12",
       "popularity": 68
     },
     {
-      "trackId": "2yw7T5jS9Vy8GGYJ8OibdR",
-      "name": "Fint väder (Single Version)",
+      "track": {
+        "id": "2yw7T5jS9Vy8GGYJ8OibdR",
+        "name": "Fint väder (Single Version)"
+      },
       "duration_ms": 156280,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "21o2V9h5XWvUY6sBdc9Ddi",
+      "album": {
+        "id": "21o2V9h5XWvUY6sBdc9Ddi",
+        "name": "Sommarhits - 75 svenska sommarlåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc4fbf1e61fdde07f28ebe93"
+      },
       "release_date": "2017-06-03",
       "popularity": 18
     },
     {
-      "trackId": "0M1YQiRGel1tTMjA3orfRd",
-      "name": "Badlands",
+      "track": {
+        "id": "0M1YQiRGel1tTMjA3orfRd",
+        "name": "Badlands"
+      },
       "duration_ms": 242453,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "4KT6G8fj8EEIfsyr75hbgc",
+      "album": {
+        "id": "4KT6G8fj8EEIfsyr75hbgc",
+        "name": "Darkness On the Edge of Town",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2bb936c55fb54b0b9fdc666"
+      },
       "release_date": "1978-06-02",
       "popularity": 58
     },
     {
-      "trackId": "1KVNgxCjXXI74Y3XK47xfk",
-      "name": "Det kommer bara leda till nåt ont",
+      "track": {
+        "id": "1KVNgxCjXXI74Y3XK47xfk",
+        "name": "Det kommer bara leda till nåt ont"
+      },
       "duration_ms": 222906,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "5DgxERJ0OOJKS3Jx7UkEwi",
+      "album": {
+        "id": "5DgxERJ0OOJKS3Jx7UkEwi",
+        "name": "Säkert!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f74b459fcbfedbf2eed745"
+      },
       "release_date": "2007-03-15",
       "popularity": 29
     },
     {
-      "trackId": "0H891KFUg15VBMWBZEiIVy",
-      "name": "Här kommer lyckan för hundar som oss",
+      "track": {
+        "id": "0H891KFUg15VBMWBZEiIVy",
+        "name": "Här kommer lyckan för hundar som oss"
+      },
       "duration_ms": 247840,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "2x39gXdLwYnTxJyxExXpTj",
+      "album": {
+        "id": "2x39gXdLwYnTxJyxExXpTj",
+        "name": "Det är så jag säger det",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db1ff210fd90fce8b4c1f949"
+      },
       "release_date": "2002-10-28",
       "popularity": 36
     },
     {
-      "trackId": "4JWfPMjVEh4SusNs8V3gt5",
-      "name": "From Gagarin's Point of View",
+      "track": {
+        "id": "4JWfPMjVEh4SusNs8V3gt5",
+        "name": "From Gagarin's Point of View"
+      },
       "duration_ms": 243333,
-      "artist": [
-        "Esbjörn Svensson Trio"
+      "artists": [
+        {
+          "name": "Esbjörn Svensson Trio",
+          "id": "3HJzLaMbS0jMabxS3wttGk"
+        }
       ],
-      "artistId": [
-        "3HJzLaMbS0jMabxS3wttGk"
-      ],
-      "albumId": "4jM7MG25QkVfp0SSkQ6138",
+      "album": {
+        "id": "4jM7MG25QkVfp0SSkQ6138",
+        "name": "From Gagarin's Point of View",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5513ec998df897c0c91bcd0"
+      },
       "release_date": "1999-04-26",
       "popularity": 51
     },
     {
-      "trackId": "4HU8drwBFpVQusCwixXwTy",
-      "name": "Vaggvisa",
+      "track": {
+        "id": "4HU8drwBFpVQusCwixXwTy",
+        "name": "Vaggvisa"
+      },
       "duration_ms": 211360,
-      "artist": [
-        "Allan Edwall"
+      "artists": [
+        {
+          "name": "Allan Edwall",
+          "id": "6dLcR9Q2Lyik2rZBL2zLjs"
+        }
       ],
-      "artistId": [
-        "6dLcR9Q2Lyik2rZBL2zLjs"
-      ],
-      "albumId": "23tWRkGgJ7kbsBQLirgNsS",
+      "album": {
+        "id": "23tWRkGgJ7kbsBQLirgNsS",
+        "name": "Vetahuteri",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc765b0ded0cd6e701d8532a"
+      },
       "release_date": "1984-01-01",
       "popularity": 34
     },
     {
-      "trackId": "7bOYOD0d7ByMTXvJnQVl8d",
-      "name": "Maria",
+      "track": {
+        "id": "7bOYOD0d7ByMTXvJnQVl8d",
+        "name": "Maria"
+      },
       "duration_ms": 249426,
-      "artist": [
-        "Blondie"
+      "artists": [
+        {
+          "name": "Blondie",
+          "id": "4tpUmLEVLCGFr93o8hFFIB"
+        }
       ],
-      "artistId": [
-        "4tpUmLEVLCGFr93o8hFFIB"
-      ],
-      "albumId": "4pIYJsJ8GkYWM1rvqy45ug",
+      "album": {
+        "id": "4pIYJsJ8GkYWM1rvqy45ug",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e022847f04f9de392e290b5a0be"
+      },
       "release_date": "2002-01-01",
       "popularity": 66
     },
     {
-      "trackId": "76jO62VR6xiDUTBtkZB9nV",
-      "name": "Flykten",
+      "track": {
+        "id": "76jO62VR6xiDUTBtkZB9nV",
+        "name": "Flykten"
+      },
       "duration_ms": 233720,
-      "artist": [
-        "Mohammed Ali",
-        "Samson For President"
+      "artists": [
+        {
+          "name": "Mohammed Ali",
+          "id": "0PwLAFedFpxos2G2tlZ2ES"
+        },
+        {
+          "name": "Samson For President",
+          "id": "1lHLXaNa0HOLMFDwst1Vzb"
+        }
       ],
-      "artistId": [
-        "0PwLAFedFpxos2G2tlZ2ES",
-        "1lHLXaNa0HOLMFDwst1Vzb"
-      ],
-      "albumId": "76pM5bgKq3CXoslzBk0LdI",
+      "album": {
+        "id": "76pM5bgKq3CXoslzBk0LdI",
+        "name": "Vi",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b420ba64942f42b9ae1e5b93"
+      },
       "release_date": "2011",
       "popularity": 3
     },
     {
-      "trackId": "1iOCbl30nha2zr676QCioo",
-      "name": "Sång till friheten",
+      "track": {
+        "id": "1iOCbl30nha2zr676QCioo",
+        "name": "Sång till friheten"
+      },
       "duration_ms": 247613,
-      "artist": [
-        "Björn Afzelius"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0"
-      ],
-      "albumId": "3TsDsv1c8G0q9K5c9uZ8GE",
+      "album": {
+        "id": "3TsDsv1c8G0q9K5c9uZ8GE",
+        "name": "Innan tystnaden...",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274f64e08c824e25e84404caf"
+      },
       "release_date": "1982-01-01",
       "popularity": 41
     },
     {
-      "trackId": "1OOpbNvU0ACtjQvFVSOLWo",
-      "name": "Jag har bott vid en landsväg",
+      "track": {
+        "id": "1OOpbNvU0ACtjQvFVSOLWo",
+        "name": "Jag har bott vid en landsväg"
+      },
       "duration_ms": 157200,
-      "artist": [
-        "Edvard Persson"
+      "artists": [
+        {
+          "name": "Edvard Persson",
+          "id": "3Fuk9YN8A4IYlV3xmywbvX"
+        }
       ],
-      "artistId": [
-        "3Fuk9YN8A4IYlV3xmywbvX"
-      ],
-      "albumId": "7dPPdyIZPjJeGEkylzlN7z",
+      "album": {
+        "id": "7dPPdyIZPjJeGEkylzlN7z",
+        "name": "Svenska Sångfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5f0d756496cc348e0da32e5"
+      },
       "release_date": "2005-01-19",
       "popularity": 31
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     }

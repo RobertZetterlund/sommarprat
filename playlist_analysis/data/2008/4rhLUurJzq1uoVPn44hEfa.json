@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252071_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3aVMTaruI0kAZNN1k90ZOM",
-      "name": "Apri la bocca - E fai fuoco",
+      "track": {
+        "id": "3aVMTaruI0kAZNN1k90ZOM",
+        "name": "Apri la bocca - E fai fuoco"
+      },
       "duration_ms": 213706,
-      "artist": [
-        "Fiorella Mannoia"
+      "artists": [
+        {
+          "name": "Fiorella Mannoia",
+          "id": "5VxhGHbcuvqTLRUWzBUN8L"
+        }
       ],
-      "artistId": [
-        "5VxhGHbcuvqTLRUWzBUN8L"
-      ],
-      "albumId": "5xPs7TY9nN2bJOHGKQL5TK",
+      "album": {
+        "id": "5xPs7TY9nN2bJOHGKQL5TK",
+        "name": "Belle speranze",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246d4deb92993d670e2c4631f"
+      },
       "release_date": "1998",
       "popularity": 4
     },
     {
-      "trackId": "1ZK8WJqkD1XhEYI1AlkMHG",
-      "name": "La mer",
+      "track": {
+        "id": "1ZK8WJqkD1XhEYI1AlkMHG",
+        "name": "La mer"
+      },
       "duration_ms": 201840,
-      "artist": [
-        "Charles Trenet"
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "id": "4a16JEaHldo5vZuRojtGTZ"
+        }
       ],
-      "artistId": [
-        "4a16JEaHldo5vZuRojtGTZ"
-      ],
-      "albumId": "2BgO56jZnE4xbfvlZOjK0L",
+      "album": {
+        "id": "2BgO56jZnE4xbfvlZOjK0L",
+        "name": "Disque D'or",
+        "img": "https://i.scdn.co/image/ab67616d00001e028555817419b10e2b4757c242"
+      },
       "release_date": "1992",
       "popularity": 54
     },
     {
-      "trackId": "0TgcNqPYpw6jcX6YOmRm2W",
-      "name": "Una giornata al mare",
+      "track": {
+        "id": "0TgcNqPYpw6jcX6YOmRm2W",
+        "name": "Una giornata al mare"
+      },
       "duration_ms": 216573,
-      "artist": [
-        "Paolo Conte"
+      "artists": [
+        {
+          "name": "Paolo Conte",
+          "id": "7bAIYB0KGbYXlGbIjyFAcI"
+        }
       ],
-      "artistId": [
-        "7bAIYB0KGbYXlGbIjyFAcI"
-      ],
-      "albumId": "4BEkewfUXzpP6TCH5n1ZwP",
+      "album": {
+        "id": "4BEkewfUXzpP6TCH5n1ZwP",
+        "name": "Paolo Conte",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dc70e393bb98f97fd6a6962"
+      },
       "release_date": "1974-01-16",
       "popularity": 34
     },
     {
-      "trackId": "5DDk55ahAYeNCUHigddaYi",
-      "name": "Ett stilla regn",
+      "track": {
+        "id": "5DDk55ahAYeNCUHigddaYi",
+        "name": "Ett stilla regn"
+      },
       "duration_ms": 208146,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "3cT50PQXXybChUGP6TDrlr",
+      "album": {
+        "id": "3cT50PQXXybChUGP6TDrlr",
+        "name": "Undringar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cb77aa3a5ff8114f478413a"
+      },
       "release_date": "1972-01-01",
       "popularity": 35
     },
     {
-      "trackId": "2Dba7y4iRqKnwtkNPRxZQv",
-      "name": "All I Want - Live",
+      "track": {
+        "id": "2Dba7y4iRqKnwtkNPRxZQv",
+        "name": "All I Want - Live"
+      },
       "duration_ms": 226403,
-      "artist": [
-        "Rufus Wainwright"
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "id": "2PfBzriIMRsCXPDtSy9vg8"
+        }
       ],
-      "artistId": [
-        "2PfBzriIMRsCXPDtSy9vg8"
-      ],
-      "albumId": "1YTSVDA02Rm7YKZkxQrQYY",
+      "album": {
+        "id": "1YTSVDA02Rm7YKZkxQrQYY",
+        "name": "Joni 75: A Joni Mitchell Birthday Celebration (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db02a2659d32d80ce2f11212"
+      },
       "release_date": "2019-03-08",
       "popularity": 26
     },
     {
-      "trackId": "4hXZFdsKBKMQFHiESOIcgO",
-      "name": "For Today I Am A Boy",
+      "track": {
+        "id": "4hXZFdsKBKMQFHiESOIcgO",
+        "name": "For Today I Am A Boy"
+      },
       "duration_ms": 156173,
-      "artist": [
-        "Antony and the Johnsons"
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "id": "4fxp616ALtFWnXfwxnjLzW"
+        }
       ],
-      "artistId": [
-        "4fxp616ALtFWnXfwxnjLzW"
-      ],
-      "albumId": "24Xm5zS2KvwojChzxLGdn9",
+      "album": {
+        "id": "24Xm5zS2KvwojChzxLGdn9",
+        "name": "I Am A Bird Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0591c5bfd1d391228e8423c"
+      },
       "release_date": "2005-02-07",
       "popularity": 32
     },
     {
-      "trackId": "7tRQlhcFzHyGmhKeruPE4S",
-      "name": "Relationsteorin",
+      "track": {
+        "id": "7tRQlhcFzHyGmhKeruPE4S",
+        "name": "Relationsteorin"
+      },
       "duration_ms": 214160,
-      "artist": [
-        "Melinda Wrede"
+      "artists": [
+        {
+          "name": "Melinda Wrede",
+          "id": "76PMFYSJy7zJcq2LAvgtAa"
+        }
       ],
-      "artistId": [
-        "76PMFYSJy7zJcq2LAvgtAa"
-      ],
-      "albumId": "2JEZeJFL8Cn8EpjflFUEwH",
+      "album": {
+        "id": "2JEZeJFL8Cn8EpjflFUEwH",
+        "name": "Femme Fatale",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c01061a7df33847c38775db6"
+      },
       "release_date": "2001-03-15",
       "popularity": 21
     },
     {
-      "trackId": "4IRHwIZHzlHT1FQpRa5RdE",
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "track": {
+        "id": "4IRHwIZHzlHT1FQpRa5RdE",
+        "name": "Goodbye Yellow Brick Road - Remastered 2014"
+      },
       "duration_ms": 192826,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "5WupqgR68HfuHt3BMJtgun",
+      "album": {
+        "id": "5WupqgR68HfuHt3BMJtgun",
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b"
+      },
       "release_date": "1973-10-05",
       "popularity": 73
     },
     {
-      "trackId": "2Ms2q3vxknl3tj8Y4ZyVEE",
-      "name": "L'Elisir D'Amore",
+      "track": {
+        "id": "2Ms2q3vxknl3tj8Y4ZyVEE",
+        "name": "L'Elisir D'Amore"
+      },
       "duration_ms": 296001,
-      "artist": [
-        "Giuseppe Verdi",
-        "Gaetano Donizetti",
-        "Giacomo Puccini"
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "id": "1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Gaetano Donizetti",
+          "id": "2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        }
       ],
-      "artistId": [
-        "1JOQXgYdQV2yfrhewqx96o",
-        "2jCGEMSZXMSOImpD8sqo56",
-        "0OzxPXyowUEQ532c9AmHUR"
-      ],
-      "albumId": "3AAZVLhSCoz6eHMbKmyHC6",
+      "album": {
+        "id": "3AAZVLhSCoz6eHMbKmyHC6",
+        "name": "The Golden Voice Of Jussi Bjorling, Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02546700b283804c037db474d5"
+      },
       "release_date": "2000-01-01",
       "popularity": 0
     },
     {
-      "trackId": "01gMw6DbUQ6UHhohpWeJlg",
-      "name": "Det här är ditt land (This Land Is Your Land)",
+      "track": {
+        "id": "01gMw6DbUQ6UHhohpWeJlg",
+        "name": "Det här är ditt land (This Land Is Your Land)"
+      },
       "duration_ms": 268866,
-      "artist": [
-        "Mikael Wiehe"
+      "artists": [
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        }
       ],
-      "artistId": [
-        "3VOOmK7ZqJNgOPN1hopJuL"
-      ],
-      "albumId": "4yrClOx6PDTDFH6sCK1Pwx",
+      "album": {
+        "id": "4yrClOx6PDTDFH6sCK1Pwx",
+        "name": "En Sång Till Modet",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e37b9438eef4a5ece35fa6f"
+      },
       "release_date": "2000",
       "popularity": 36
     },
     {
-      "trackId": "6O0NefwIzq9aF9Xnjr21EU",
-      "name": "Han tuggar kex - Akustisk",
+      "track": {
+        "id": "6O0NefwIzq9aF9Xnjr21EU",
+        "name": "Han tuggar kex - Akustisk"
+      },
       "duration_ms": 222040,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "64o8Xiysec8ro1PqcgYWuh",
+      "album": {
+        "id": "64o8Xiysec8ro1PqcgYWuh",
+        "name": "Laleh",
+        "img": "https://i.scdn.co/image/ab67616d00001e028222e77e2fbf4a3ce0c6c6b0"
+      },
       "release_date": "2005-03-01",
       "popularity": 19
     },
     {
-      "trackId": "4rr0gWiMrF4sOIefs3IEvZ",
-      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "track": {
+        "id": "4rr0gWiMrF4sOIefs3IEvZ",
+        "name": "A Little Less Conversation - JXL Radio Edit Remix"
+      },
       "duration_ms": 211506,
-      "artist": [
-        "Elvis Presley",
-        "Junkie XL"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Junkie XL",
+          "id": "5svDnd8joFhbpbA3Ar0CfN"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE",
-        "5svDnd8joFhbpbA3Ar0CfN"
-      ],
-      "albumId": "3nZRriUOOM8Gvv3ox8ybn1",
+      "album": {
+        "id": "3nZRriUOOM8Gvv3ox8ybn1",
+        "name": "A Little Less Conversation: Elvis vs JXL",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff186ce2c8d8cdfe4e65d710"
+      },
       "release_date": "2002-08-01",
       "popularity": 67
     }

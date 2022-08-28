@@ -7,248 +7,358 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531031_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7i0GRg4OOImfw5DDGka9mP",
-      "name": "(I Can't Get No) Satisfaction - Live From Madison Square Garden, New York/1969",
+      "track": {
+        "id": "7i0GRg4OOImfw5DDGka9mP",
+        "name": "(I Can't Get No) Satisfaction - Live From Madison Square Garden, New York/1969"
+      },
       "duration_ms": 340626,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "2EPa1og1S4URMd6mEpU9uJ",
+      "album": {
+        "id": "2EPa1og1S4URMd6mEpU9uJ",
+        "name": "Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f22aa72e9e787f12685f64ae"
+      },
       "release_date": "1970-09-04",
       "popularity": 24
     },
     {
-      "trackId": "2PzU4IB8Dr6mxV3lHuaG34",
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "track": {
+        "id": "2PzU4IB8Dr6mxV3lHuaG34",
+        "name": "(I Can't Get No) Satisfaction - Mono Version"
+      },
       "duration_ms": 222813,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "2Q5MwpTmtjscaS34mJFXQQ",
+      "album": {
+        "id": "2Q5MwpTmtjscaS34mJFXQQ",
+        "name": "Out Of Our Heads",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b"
+      },
       "release_date": "1965-07-30",
       "popularity": 76
     },
     {
-      "trackId": "5C4NMi4fPpdFPnMZVsyG8H",
-      "name": "Something New",
+      "track": {
+        "id": "5C4NMi4fPpdFPnMZVsyG8H",
+        "name": "Something New"
+      },
       "duration_ms": 247146,
-      "artist": [
-        "Axwell /\\ Ingrosso",
-        "Axwell",
-        "Sebastian Ingrosso"
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "id": "2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Axwell",
+          "id": "1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "id": "6hyMWrxGBsOx6sWcVj1DqP"
+        }
       ],
-      "artistId": [
-        "2XnBwblw31dfGnspMIwgWz",
-        "1xNmvlEiICkRlRGqlNFZ43",
-        "6hyMWrxGBsOx6sWcVj1DqP"
-      ],
-      "albumId": "6Ei5WWek37m1x9AjpSXTcJ",
+      "album": {
+        "id": "6Ei5WWek37m1x9AjpSXTcJ",
+        "name": "More Than You Know",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fba6de0b38b0168d480b1a27"
+      },
       "release_date": "2017-07-28",
       "popularity": 59
     },
     {
-      "trackId": "1OT3z6YE4iwQTEO1Ad8dAF",
-      "name": "Something New - Amtrac Remix",
+      "track": {
+        "id": "1OT3z6YE4iwQTEO1Ad8dAF",
+        "name": "Something New - Amtrac Remix"
+      },
       "duration_ms": 301013,
-      "artist": [
-        "Axwell /\\ Ingrosso",
-        "Amtrac"
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "id": "2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Amtrac",
+          "id": "3ifxHfYz2pqHku0bwx8H5J"
+        }
       ],
-      "artistId": [
-        "2XnBwblw31dfGnspMIwgWz",
-        "3ifxHfYz2pqHku0bwx8H5J"
-      ],
-      "albumId": "7crqJCzf4IntaUl4rg6lfz",
+      "album": {
+        "id": "7crqJCzf4IntaUl4rg6lfz",
+        "name": "Body By Jake: Tough, Tight And Toned Workout (BPM 118-128)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029234d656a24527d4fc27ec15"
+      },
       "release_date": "2016-04-22",
       "popularity": 3
     },
     {
-      "trackId": "5vKkaZHPzuqQheytfKuXzp",
-      "name": "Circle of Life - From \"The Lion King\"/Soundtrack Version",
+      "track": {
+        "id": "5vKkaZHPzuqQheytfKuXzp",
+        "name": "Circle of Life - From \"The Lion King\"/Soundtrack Version"
+      },
       "duration_ms": 291600,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "3YA5DdB3wSz4pdfEXoMyRd",
+      "album": {
+        "id": "3YA5DdB3wSz4pdfEXoMyRd",
+        "name": "The Lion King",
+        "img": "https://i.scdn.co/image/ab67616d00001e02660aadbda2da6b1c2dd3d1a5"
+      },
       "release_date": "1994-01-01",
       "popularity": 55
     },
     {
-      "trackId": "3zx4jAzUO6HQSsu6oFj8Wh",
-      "name": "Circle Of Life",
+      "track": {
+        "id": "3zx4jAzUO6HQSsu6oFj8Wh",
+        "name": "Circle Of Life"
+      },
       "duration_ms": 290560,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "5wNitMGZs4mCBdbKFbzwzn",
+      "album": {
+        "id": "5wNitMGZs4mCBdbKFbzwzn",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02995be10a6b380541b2717be8"
+      },
       "release_date": "2002",
       "popularity": 44
     },
     {
-      "trackId": "5DuPRYuYk8J5h1nfrcAkvA",
-      "name": "Two Out Of Three Ain't Bad - Live From United States / 1993 / Remastered 2006",
+      "track": {
+        "id": "5DuPRYuYk8J5h1nfrcAkvA",
+        "name": "Two Out Of Three Ain't Bad - Live From United States / 1993 / Remastered 2006"
+      },
       "duration_ms": 458036,
-      "artist": [
-        "Meat Loaf"
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "id": "7dnB1wSxbYa8CejeVg98hz"
+        }
       ],
-      "artistId": [
-        "7dnB1wSxbYa8CejeVg98hz"
-      ],
-      "albumId": "4yIGqIF5oroPCLDUOOLYSO",
+      "album": {
+        "id": "4yIGqIF5oroPCLDUOOLYSO",
+        "name": "Bat Out Of Hell II: Back Into Hell...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b03e7ff9f9bd9aa8edd6e829"
+      },
       "release_date": "1993",
       "popularity": 21
     },
     {
-      "trackId": "2ph0hzV1kCVhR82E2La4q5",
-      "name": "Two Out of Three Ain't Bad",
+      "track": {
+        "id": "2ph0hzV1kCVhR82E2La4q5",
+        "name": "Two Out of Three Ain't Bad"
+      },
       "duration_ms": 324440,
-      "artist": [
-        "Meat Loaf"
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "id": "7dnB1wSxbYa8CejeVg98hz"
+        }
       ],
-      "artistId": [
-        "7dnB1wSxbYa8CejeVg98hz"
-      ],
-      "albumId": "6mvI80w5r78niBmwtu7RF9",
+      "album": {
+        "id": "6mvI80w5r78niBmwtu7RF9",
+        "name": "Bat Out Of Hell",
+        "img": "https://i.scdn.co/image/ab67616d00001e024111af27787499f6d8752e9f"
+      },
       "release_date": "1977-10-21",
       "popularity": 62
     },
     {
-      "trackId": "0uDmaiVFDHhIFE6mIjHpQq",
-      "name": "Are You With Me (ANR119) **Label Spotlight (The Bearded Man) - Blast From The Past**",
+      "track": {
+        "id": "0uDmaiVFDHhIFE6mIjHpQq",
+        "name": "Are You With Me (ANR119) **Label Spotlight (The Bearded Man) - Blast From The Past**"
+      },
       "duration_ms": 141390,
-      "artist": [
-        "Lost Frequencies"
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "id": "7f5Zgnp2spUuuzKplmRkt7"
+        }
       ],
-      "artistId": [
-        "7f5Zgnp2spUuuzKplmRkt7"
-      ],
-      "albumId": "4UFp2BKjqSqtWqnb2GMkV2",
+      "album": {
+        "id": "4UFp2BKjqSqtWqnb2GMkV2",
+        "name": "Armada Night Radio 119 (Incl. Estiva Guest Mix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211119cc39d324840beef33a6"
+      },
       "release_date": "2016-08-30",
       "popularity": 60
     },
     {
-      "trackId": "4255amV4enzl28KAn16rUO",
-      "name": "Are You With Me",
+      "track": {
+        "id": "4255amV4enzl28KAn16rUO",
+        "name": "Are You With Me"
+      },
       "duration_ms": 138013,
-      "artist": [
-        "Lost Frequencies"
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "id": "7f5Zgnp2spUuuzKplmRkt7"
+        }
       ],
-      "artistId": [
-        "7f5Zgnp2spUuuzKplmRkt7"
-      ],
-      "albumId": "5ofMsLtz8HogkhrlTQ1UaG",
+      "album": {
+        "id": "5ofMsLtz8HogkhrlTQ1UaG",
+        "name": "Less Is More",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e056afc5f00279a58891aa8"
+      },
       "release_date": "2016-10-21",
       "popularity": 74
     },
     {
-      "trackId": "1XVe8hcChFb86lBgD7F0Va",
-      "name": "Top Gun Anthem (The Intro) - 2016 Composers Cut",
+      "track": {
+        "id": "1XVe8hcChFb86lBgD7F0Va",
+        "name": "Top Gun Anthem (The Intro) - 2016 Composers Cut"
+      },
       "duration_ms": 164982,
-      "artist": [
-        "Harold Faltermeyer"
+      "artists": [
+        {
+          "name": "Harold Faltermeyer",
+          "id": "7Cf73Z3RZQTH4V69GSDxnv"
+        }
       ],
-      "artistId": [
-        "7Cf73Z3RZQTH4V69GSDxnv"
-      ],
-      "albumId": "2TxmljY9XoMl3pHmVhGvUD",
+      "album": {
+        "id": "2TxmljY9XoMl3pHmVhGvUD",
+        "name": "The Best Of Harold Faltermeyer Composers Cut Vol 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a02f49e69765db9e2a060ff"
+      },
       "release_date": "2016-09-09",
       "popularity": 49
     },
     {
-      "trackId": "16umabsUYAkuS1ZX8D1WcJ",
-      "name": "Av längtan till dig",
+      "track": {
+        "id": "16umabsUYAkuS1ZX8D1WcJ",
+        "name": "Av längtan till dig"
+      },
       "duration_ms": 211426,
-      "artist": [
-        "Åsa Jinder",
-        "Cajsa Stina Åkerström"
+      "artists": [
+        {
+          "name": "Åsa Jinder",
+          "id": "0WIJklwnefNN9A2XeHqTxG"
+        },
+        {
+          "name": "Cajsa Stina Åkerström",
+          "id": "0N98N0DiskOexjlZjJ6YZ7"
+        }
       ],
-      "artistId": [
-        "0WIJklwnefNN9A2XeHqTxG",
-        "0N98N0DiskOexjlZjJ6YZ7"
-      ],
-      "albumId": "2CQUMllZ0HtN1DSsttmn41",
+      "album": {
+        "id": "2CQUMllZ0HtN1DSsttmn41",
+        "name": "Folkmusik På Svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02455d7ca79bfb1bfc01eac9db"
+      },
       "release_date": "2001",
       "popularity": 48
     },
     {
-      "trackId": "5Ezu5OibFoeTQOsnkLkgld",
-      "name": "Heal the World (In the Style of Michael Jackson) [Karaoke Version]",
+      "track": {
+        "id": "5Ezu5OibFoeTQOsnkLkgld",
+        "name": "Heal the World (In the Style of Michael Jackson) [Karaoke Version]"
+      },
       "duration_ms": 319425,
-      "artist": [
-        "Karaoke - Ameritz"
+      "artists": [
+        {
+          "name": "Karaoke - Ameritz",
+          "id": "5aEMARkjW3SYYnGLTLgCks"
+        }
       ],
-      "artistId": [
-        "5aEMARkjW3SYYnGLTLgCks"
-      ],
-      "albumId": "0RhyNrbcgL8w0oZd34svmD",
+      "album": {
+        "id": "0RhyNrbcgL8w0oZd34svmD",
+        "name": "Karaoke Hits from the 1990's, Vol. 12",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b45d766cf15dfda4b227e33"
+      },
       "release_date": "2013-10-22",
       "popularity": 0
     },
     {
-      "trackId": "7woW97CfcWaKtuC6W5BP2K",
-      "name": "Heal the World",
+      "track": {
+        "id": "7woW97CfcWaKtuC6W5BP2K",
+        "name": "Heal the World"
+      },
       "duration_ms": 384306,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "0oX4SealMgNXrvRDhqqOKg",
+      "album": {
+        "id": "0oX4SealMgNXrvRDhqqOKg",
+        "name": "Dangerous",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b9f8b18cc685e1502128aa8"
+      },
       "release_date": "1991-11-13",
       "popularity": 67
     },
     {
-      "trackId": "4bofKUmzk2mYjUlsL3NVeF",
-      "name": "Staten & kapitalet",
+      "track": {
+        "id": "4bofKUmzk2mYjUlsL3NVeF",
+        "name": "Staten & kapitalet"
+      },
       "duration_ms": 326400,
-      "artist": [
-        "Ebba Grön"
+      "artists": [
+        {
+          "name": "Ebba Grön",
+          "id": "2gvwV7CcpLmKyaE0fiSKI9"
+        }
       ],
-      "artistId": [
-        "2gvwV7CcpLmKyaE0fiSKI9"
-      ],
-      "albumId": "2zP275pJAbZbZFifh5av6R",
+      "album": {
+        "id": "2zP275pJAbZbZFifh5av6R",
+        "name": "Ebba Grön 1978 - 1982",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c12767a5b413c794d2c5a569"
+      },
       "release_date": "1987-01-01",
       "popularity": 47
     },
     {
-      "trackId": "1uXbwHHfgsXcUKfSZw5ZJ0",
-      "name": "Run the World (Girls)",
+      "track": {
+        "id": "1uXbwHHfgsXcUKfSZw5ZJ0",
+        "name": "Run the World (Girls)"
+      },
       "duration_ms": 236093,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "name": "4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd"
+      },
       "release_date": "2011-06-24",
       "popularity": 72
     },
     {
-      "trackId": "5eJ314ozT4CTPlyjdsGq78",
-      "name": "Utan dina andetag",
+      "track": {
+        "id": "5eJ314ozT4CTPlyjdsGq78",
+        "name": "Utan dina andetag"
+      },
       "duration_ms": 264066,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "7mfwgTEuC1G6kj0BNovhS0",
+      "album": {
+        "id": "7mfwgTEuC1G6kj0BNovhS0",
+        "name": "Om Du Var Här",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c447c48ddac6e8a417d0f77a"
+      },
       "release_date": "1997-10-06",
       "popularity": 52
     }

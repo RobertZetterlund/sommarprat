@@ -7,212 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/1f52b2da-0ce7-4e09-95ac-7969d4ec9f45.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2gNn2IDqAovFWIlSir9m59",
-      "name": "The Gräsänklingsblues",
+      "track": {
+        "id": "2gNn2IDqAovFWIlSir9m59",
+        "name": "The Gräsänklingsblues"
+      },
       "duration_ms": 269280,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "6ohEGOi3mUvOKeFXpwcCPL",
+      "album": {
+        "id": "6ohEGOi3mUvOKeFXpwcCPL",
+        "name": "Någonting att äta, någonting att dricka",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe8504ae63d93226f33ab1a0"
+      },
       "release_date": "2005",
       "popularity": 1
     },
     {
-      "trackId": "7gN27iAHOIjpSFow4PHvjj",
-      "name": "Concerto Grosso In B Minor, Op.3/10, RV 580: 2. Largo -",
+      "track": {
+        "id": "7gN27iAHOIjpSFow4PHvjj",
+        "name": "Concerto Grosso In B Minor, Op.3/10, RV 580: 2. Largo -"
+      },
       "duration_ms": 91533,
-      "artist": [
-        "Antonio Vivaldi",
-        "Michel Schwalbé",
-        "Thomas Brandis"
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "id": "2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Michel Schwalbé",
+          "id": "4fZVzi00xb3DKLG1GSSCUE"
+        },
+        {
+          "name": "Thomas Brandis",
+          "id": "3QfwNwowTadJWTHU8R2G60"
+        }
       ],
-      "artistId": [
-        "2QOIawHpSlOwXDvSqQ9YJR",
-        "4fZVzi00xb3DKLG1GSSCUE",
-        "3QfwNwowTadJWTHU8R2G60"
-      ],
-      "albumId": "31hcz2kQutYRu4rYH7uzdR",
+      "album": {
+        "id": "31hcz2kQutYRu4rYH7uzdR",
+        "name": "Soft Mornings with Vivaldi",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce675102f1f09c0fb8668bf1"
+      },
       "release_date": "2022-08-13",
       "popularity": 4
     },
     {
-      "trackId": "3QksrtI9VFCBHWA4rgvcV8",
-      "name": "Theme From New York, New York",
+      "track": {
+        "id": "3QksrtI9VFCBHWA4rgvcV8",
+        "name": "Theme From New York, New York"
+      },
       "duration_ms": 206066,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "4Cv61B08yHx3fwkylkhCxe",
+      "album": {
+        "id": "4Cv61B08yHx3fwkylkhCxe",
+        "name": "Trilogy: Past, Present & Future",
+        "img": "https://i.scdn.co/image/ab67616d00001e02525feb64b8c90fa8fff368ef"
+      },
       "release_date": "1980-03-26",
       "popularity": 62
     },
     {
-      "trackId": "4LiCsUlmB2teOElYxVyyiz",
-      "name": "Den fjortonde april",
+      "track": {
+        "id": "4LiCsUlmB2teOElYxVyyiz",
+        "name": "Den fjortonde april"
+      },
       "duration_ms": 105493,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "2it5uMnhq2PwFEGe9cK0ma",
+      "album": {
+        "id": "2it5uMnhq2PwFEGe9cK0ma",
+        "name": "Olle Adolphson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273437ecc551e4f8ea85baef8"
+      },
       "release_date": "1956-11-01",
-      "popularity": 2
+      "popularity": 1
     },
     {
-      "trackId": "5mEq1h4aijQ8X5WRvblRMd",
-      "name": "Sommarnatt",
+      "track": {
+        "id": "5mEq1h4aijQ8X5WRvblRMd",
+        "name": "Sommarnatt"
+      },
       "duration_ms": 163146,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "5T85NS6pAaXZ8eM21izrXe",
+      "album": {
+        "id": "5T85NS6pAaXZ8eM21izrXe",
+        "name": "Taube Sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e021198d2f05715ff2e2584b61b"
+      },
       "release_date": "1989",
       "popularity": 17
     },
     {
-      "trackId": "4xUqqie4bBKufHtlMuZS3k",
-      "name": "Are You Lonesome Tonight?",
+      "track": {
+        "id": "4xUqqie4bBKufHtlMuZS3k",
+        "name": "Are You Lonesome Tonight?"
+      },
       "duration_ms": 186666,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+      "album": {
+        "id": "0gv5aiVS1WBUZOKeb7YawE",
+        "name": "Platinum - A Life In Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843"
+      },
       "release_date": "1997-07-15",
       "popularity": 56
     },
     {
-      "trackId": "5gBWGTO2prExy9yVwhUbOU",
-      "name": "Sakta vi gå genom stan",
+      "track": {
+        "id": "5gBWGTO2prExy9yVwhUbOU",
+        "name": "Sakta vi gå genom stan"
+      },
       "duration_ms": 202360,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "2iflMrGtjzufU2Jw7JhoLE",
+      "album": {
+        "id": "2iflMrGtjzufU2Jw7JhoLE",
+        "name": "Ahh! Monica!",
+        "img": "https://i.scdn.co/image/ab67616d00001e021be2287322ce09930868607c"
+      },
       "release_date": "1962-04-03",
       "popularity": 44
     },
     {
-      "trackId": "23UbRcbWIsgqDDAExRJqS1",
-      "name": "Mack The Knife",
+      "track": {
+        "id": "23UbRcbWIsgqDDAExRJqS1",
+        "name": "Mack The Knife"
+      },
       "duration_ms": 292240,
-      "artist": [
-        "Frank Sinatra",
-        "Quincy Jones"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "3rxIQc9kWT6Ueg4BhnOwRK"
-      ],
-      "albumId": "4zvku3SSgsUaVRsvcCZ1aU",
+      "album": {
+        "id": "4zvku3SSgsUaVRsvcCZ1aU",
+        "name": "L.A. Is My Lady",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5f9d048d29057ea7b872ea3"
+      },
       "release_date": "1984-01-01",
       "popularity": 38
     },
     {
-      "trackId": "5Tzj0wZIA7149YYlrA5oiT",
-      "name": "Tosca: Act I: Ora stammi a sentir - stasera canto (Tosca, Cavaradossi)",
+      "track": {
+        "id": "5Tzj0wZIA7149YYlrA5oiT",
+        "name": "Tosca: Act I: Ora stammi a sentir - stasera canto (Tosca, Cavaradossi)"
+      },
       "duration_ms": 54346,
-      "artist": [
-        "Giacomo Puccini",
-        "Renata Tebaldi",
-        "Giuseppe Di Stefano"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Renata Tebaldi",
+          "id": "2RWHmppBK4tjdqxtuesmZI"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "id": "6kjCrVbejP0Aw6otiMaxNt"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "2RWHmppBK4tjdqxtuesmZI",
-        "6kjCrVbejP0Aw6otiMaxNt"
-      ],
-      "albumId": "2GbGLgKH5jVhm7lTHxUYVg",
+      "album": {
+        "id": "2GbGLgKH5jVhm7lTHxUYVg",
+        "name": "Puccini: Tosca (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a6bcc7ba8972399b74e091de"
+      },
       "release_date": "2015-01-01",
       "popularity": 0
     },
     {
-      "trackId": "7wYGAXri3bvEfU5Fle1GSI",
-      "name": "Omkring tiggarn från Luossa",
+      "track": {
+        "id": "7wYGAXri3bvEfU5Fle1GSI",
+        "name": "Omkring tiggarn från Luossa"
+      },
       "duration_ms": 280560,
-      "artist": [
-        "Hootenanny Singers"
+      "artists": [
+        {
+          "name": "Hootenanny Singers",
+          "id": "3ad93MNniE0byDdOcRNT3Y"
+        }
       ],
-      "artistId": [
-        "3ad93MNniE0byDdOcRNT3Y"
-      ],
-      "albumId": "1hDmhRcFuOXCqgeIOw1uhh",
+      "album": {
+        "id": "1hDmhRcFuOXCqgeIOw1uhh",
+        "name": "Våra vackraste visor 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02188b0dbb5102172e85b611ec"
+      },
       "release_date": "1972-01-01",
       "popularity": 40
     },
     {
-      "trackId": "78MI7mu1LV1k4IA2HzKmHe",
-      "name": "Dream A Little Dream Of Me - Single Version",
+      "track": {
+        "id": "78MI7mu1LV1k4IA2HzKmHe",
+        "name": "Dream A Little Dream Of Me - Single Version"
+      },
       "duration_ms": 185160,
-      "artist": [
-        "Ella Fitzgerald",
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz",
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "1y5KGkUKO0NG32MhIIagCA",
+      "album": {
+        "id": "1y5KGkUKO0NG32MhIIagCA",
+        "name": "Love, Ella",
+        "img": "https://i.scdn.co/image/ab67616d00001e0288ab39d88260598e95ebf5f4"
+      },
       "release_date": "2007-05-03",
       "popularity": 66
     },
     {
-      "trackId": "3POuw6qjxYxsySeGC3my1c",
-      "name": "Serse, HWV 40: Ombra mai fù",
+      "track": {
+        "id": "3POuw6qjxYxsySeGC3my1c",
+        "name": "Serse, HWV 40: Ombra mai fù"
+      },
       "duration_ms": 176546,
-      "artist": [
-        "George Frideric Handel",
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "0h8iIqw8uv8Rif7zPK8iml",
+      "album": {
+        "id": "0h8iIqw8uv8Rif7zPK8iml",
+        "name": "La voix du nord",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4bf2684ed19f5ae803cf0ca"
+      },
       "release_date": "2010-07-26",
       "popularity": 41
     },
     {
-      "trackId": "4bpqcGVSveDZ5E3rgr9v2y",
-      "name": "Sommar och sol",
+      "track": {
+        "id": "4bpqcGVSveDZ5E3rgr9v2y",
+        "name": "Sommar och sol"
+      },
       "duration_ms": 192973,
-      "artist": [
-        "Markoolio"
+      "artists": [
+        {
+          "name": "Markoolio",
+          "id": "0cAOG10Gh3ORpBRZ9c7Zam"
+        }
       ],
-      "artistId": [
-        "0cAOG10Gh3ORpBRZ9c7Zam"
-      ],
-      "albumId": "1tr1spUupX5qRCMERn63fu",
+      "album": {
+        "id": "1tr1spUupX5qRCMERn63fu",
+        "name": "Sticker hårt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02602c6ce198a325b301ad2fad"
+      },
       "release_date": "1998-10-22",
       "popularity": 48
     },
     {
-      "trackId": "3OWyJEPUErKptjRySqQRXu",
-      "name": "18 juli",
+      "track": {
+        "id": "3OWyJEPUErKptjRySqQRXu",
+        "name": "18 juli"
+      },
       "duration_ms": 229680,
-      "artist": [
-        "Musette"
+      "artists": [
+        {
+          "name": "Musette",
+          "id": "6ld45E426cWmpNVKMX413P"
+        }
       ],
-      "artistId": [
-        "6ld45E426cWmpNVKMX413P"
-      ],
-      "albumId": "7o6tWbekj6RIdthnkZrjnG",
+      "album": {
+        "id": "7o6tWbekj6RIdthnkZrjnG",
+        "name": "Datum",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ace8ad3abca6cdabd8fe030"
+      },
       "release_date": "2008-02-24",
       "popularity": 7
     }

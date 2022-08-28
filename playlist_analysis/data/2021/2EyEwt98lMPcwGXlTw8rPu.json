@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/8838313b-351d-4543-8985-0e7631172574.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3U8zlWgcHKfXneQmTzBTvk",
-      "name": "Things Will Never Be The Same",
+      "track": {
+        "id": "3U8zlWgcHKfXneQmTzBTvk",
+        "name": "Things Will Never Be The Same"
+      },
       "duration_ms": 241840,
-      "artist": [
-        "Nils Landgren"
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "id": "6B3ZWSop1mrJd71rwFozVP"
+        }
       ],
-      "artistId": [
-        "6B3ZWSop1mrJd71rwFozVP"
-      ],
-      "albumId": "458svZyBTnxwOgqOjSQqEN",
+      "album": {
+        "id": "458svZyBTnxwOgqOjSQqEN",
+        "name": "Things Will Never Be The Same",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d7b9745bc6c9d6181ac9860"
+      },
       "release_date": "2022-07-29",
       "popularity": 34
     },
     {
-      "trackId": "0M1YQiRGel1tTMjA3orfRd",
-      "name": "Badlands",
+      "track": {
+        "id": "0M1YQiRGel1tTMjA3orfRd",
+        "name": "Badlands"
+      },
       "duration_ms": 242453,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "4KT6G8fj8EEIfsyr75hbgc",
+      "album": {
+        "id": "4KT6G8fj8EEIfsyr75hbgc",
+        "name": "Darkness On the Edge of Town",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2bb936c55fb54b0b9fdc666"
+      },
       "release_date": "1978-06-02",
       "popularity": 58
     },
     {
-      "trackId": "5AQpbyFoQmkOVwmlhKN4ii",
-      "name": "Call Me The Breeze",
+      "track": {
+        "id": "5AQpbyFoQmkOVwmlhKN4ii",
+        "name": "Call Me The Breeze"
+      },
       "duration_ms": 156840,
-      "artist": [
-        "J.J. Cale"
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "id": "06nsZ3qSOYZ2hPVIMcr1IN"
+        }
       ],
-      "artistId": [
-        "06nsZ3qSOYZ2hPVIMcr1IN"
-      ],
-      "albumId": "3cpNHI7xhNIosF9WjSk8Zh",
+      "album": {
+        "id": "3cpNHI7xhNIosF9WjSk8Zh",
+        "name": "Naturally",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236f87f70bd74db7f54652179"
+      },
       "release_date": "1972",
       "popularity": 60
     },
     {
-      "trackId": "5xevij8uHkQz3gH9vn0kY8",
-      "name": "Skallgång",
+      "track": {
+        "id": "5xevij8uHkQz3gH9vn0kY8",
+        "name": "Skallgång"
+      },
       "duration_ms": 224733,
-      "artist": [
-        "Benny Andersson",
-        "Orsa Spelmän"
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        },
+        {
+          "name": "Orsa Spelmän",
+          "id": "2XmqtWcNsjq5XxlE6p5WrT"
+        }
       ],
-      "artistId": [
-        "0kV0e99xlTJcLKSu8KrLyp",
-        "2XmqtWcNsjq5XxlE6p5WrT"
-      ],
-      "albumId": "74Fsj7aXlw9N6qqLnKTefW",
+      "album": {
+        "id": "74Fsj7aXlw9N6qqLnKTefW",
+        "name": "November 1989",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222750bb72c02e5bf4db6ee14"
+      },
       "release_date": "2007-01-01",
       "popularity": 26
     },
     {
-      "trackId": "63PqHOkcrMH4tgbq2tYbwT",
-      "name": "Malmö stad - TV version",
+      "track": {
+        "id": "63PqHOkcrMH4tgbq2tYbwT",
+        "name": "Malmö stad - TV version"
+      },
       "duration_ms": 233480,
-      "artist": [
-        "Familjen"
+      "artists": [
+        {
+          "name": "Familjen",
+          "id": "1jBFgqfCh0pz5eNIWFvJGQ"
+        }
       ],
-      "artistId": [
-        "1jBFgqfCh0pz5eNIWFvJGQ"
-      ],
-      "albumId": "2nGkk5mzLZBJYL9Kw4G40B",
+      "album": {
+        "id": "2nGkk5mzLZBJYL9Kw4G40B",
+        "name": "Malmö stad (TV version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e2d5361c0c759536843b5a0"
+      },
       "release_date": "2021-01-17",
       "popularity": 46
     },
     {
-      "trackId": "33C7qtT7kA4ILMz6cm3ofa",
-      "name": "Váimmuluohti",
+      "track": {
+        "id": "33C7qtT7kA4ILMz6cm3ofa",
+        "name": "Váimmuluohti"
+      },
       "duration_ms": 306080,
-      "artist": [
-        "Wimme Saari",
-        "Looptroop Rockers"
+      "artists": [
+        {
+          "name": "Wimme Saari",
+          "id": "3c3YYwJt7fBGEUaWWdcCZV"
+        },
+        {
+          "name": "Looptroop Rockers",
+          "id": "53bap4fIHfhPGNrU4STPpe"
+        }
       ],
-      "artistId": [
-        "3c3YYwJt7fBGEUaWWdcCZV",
-        "53bap4fIHfhPGNrU4STPpe"
-      ],
-      "albumId": "6paZZ2fN3PDs6AggQ1CvaG",
+      "album": {
+        "id": "6paZZ2fN3PDs6AggQ1CvaG",
+        "name": "Sapmi Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02074163914f4c76fdf94c71df"
+      },
       "release_date": "2011-01-01",
       "popularity": 6
     },
     {
-      "trackId": "6WFN2f7IptgrM2QA9LPtaE",
-      "name": "Girl From The North Country",
+      "track": {
+        "id": "6WFN2f7IptgrM2QA9LPtaE",
+        "name": "Girl From The North Country"
+      },
       "duration_ms": 240080,
-      "artist": [
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "62EG6ravDzMqNtGb1CCYjy",
+      "album": {
+        "id": "62EG6ravDzMqNtGb1CCYjy",
+        "name": "Leave Me Breathless",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f595b32dc04137255c584bae"
+      },
       "release_date": "2017-10-06",
       "popularity": 35
     },
     {
-      "trackId": "1CtAzw53AIXKjAemxy4b1j",
-      "name": "Beds Are Burning - Remastered",
+      "track": {
+        "id": "1CtAzw53AIXKjAemxy4b1j",
+        "name": "Beds Are Burning - Remastered"
+      },
       "duration_ms": 255680,
-      "artist": [
-        "Midnight Oil"
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "id": "72KyoXzp0NOQij6OcmZUxk"
+        }
       ],
-      "artistId": [
-        "72KyoXzp0NOQij6OcmZUxk"
-      ],
-      "albumId": "243XzHQegX82bPnUVQ0SPV",
+      "album": {
+        "id": "243XzHQegX82bPnUVQ0SPV",
+        "name": "Diesel And Dust",
+        "img": "https://i.scdn.co/image/ab67616d00001e020dd350beeb5ac73672ad6e80"
+      },
       "release_date": "1987-10-02",
       "popularity": 72
     },
     {
-      "trackId": "0zTQNvBLEXzqb8KPXtdJbK",
-      "name": "Petroleum",
+      "track": {
+        "id": "0zTQNvBLEXzqb8KPXtdJbK",
+        "name": "Petroleum"
+      },
       "duration_ms": 242840,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "3OApHAjrkQTDjfCJPdtxgm",
+      "album": {
+        "id": "3OApHAjrkQTDjfCJPdtxgm",
+        "name": "Jag är inte rädd för mörkret",
+        "img": "https://i.scdn.co/image/ab67616d00001e023579e3561cae0c199e7eab3c"
+      },
       "release_date": "2012-01-01",
       "popularity": 34
     },
     {
-      "trackId": "5imShWWzwqfAJ9gXFpGAQh",
-      "name": "Waiting On the World to Change",
+      "track": {
+        "id": "5imShWWzwqfAJ9gXFpGAQh",
+        "name": "Waiting On the World to Change"
+      },
       "duration_ms": 201173,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "1Xsprdt1q9rOzTic7b9zYM",
+      "album": {
+        "id": "1Xsprdt1q9rOzTic7b9zYM",
+        "name": "Continuum",
+        "img": "https://i.scdn.co/image/ab67616d00001e027af5fdc5ef048a68db62b85f"
+      },
       "release_date": "2006-09-11",
       "popularity": 73
     },
     {
-      "trackId": "4noBSpuFSwvj8dRwJ9SfR6",
-      "name": "Arktiska oceanen",
+      "track": {
+        "id": "4noBSpuFSwvj8dRwJ9SfR6",
+        "name": "Arktiska oceanen"
+      },
       "duration_ms": 273213,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "3nS209ct98DJcPqFUuh68V",
+      "album": {
+        "id": "3nS209ct98DJcPqFUuh68V",
+        "name": "Arktiska oceanen - EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278e734f453db20a6c91fb589"
+      },
       "release_date": "2018-05-25",
       "popularity": 32
     },
     {
-      "trackId": "6ngxsLZQEbpF76MKWcimnP",
-      "name": "Finns det lite stolthet kvar finns det också hopp om bättring - Live",
+      "track": {
+        "id": "6ngxsLZQEbpF76MKWcimnP",
+        "name": "Finns det lite stolthet kvar finns det också hopp om bättring - Live"
+      },
       "duration_ms": 172173,
-      "artist": [
-        "Pugh Rogefeldt"
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "id": "22Wo43V44RtrpJZsjeI9EA"
+        }
       ],
-      "artistId": [
-        "22Wo43V44RtrpJZsjeI9EA"
-      ],
-      "albumId": "2QfoHj05up8TrBAiQNpB5T",
+      "album": {
+        "id": "2QfoHj05up8TrBAiQNpB5T",
+        "name": "Ett steg till",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d27abe1ee0fc8499fe5e33fd"
+      },
       "release_date": "1975",
       "popularity": 32
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3255384_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3CMVjlbvNJMHDfYPX7xCpi",
-      "name": "It's Oh So Quiet",
+      "track": {
+        "id": "3CMVjlbvNJMHDfYPX7xCpi",
+        "name": "It's Oh So Quiet"
+      },
       "duration_ms": 218733,
-      "artist": [
-        "Björk"
+      "artists": [
+        {
+          "name": "Björk",
+          "id": "7w29UYBi0qsHi5RTcv3lmA"
+        }
       ],
-      "artistId": [
-        "7w29UYBi0qsHi5RTcv3lmA"
-      ],
-      "albumId": "3p7WXDBxhC5KS9IFXnwae7",
+      "album": {
+        "id": "3p7WXDBxhC5KS9IFXnwae7",
+        "name": "Post",
+        "img": "https://i.scdn.co/image/ab67616d00001e025092260f47e0d95717b834c3"
+      },
       "release_date": "1995-06-13",
       "popularity": 57
     },
     {
-      "trackId": "1hTUFqJuQAMjXVGwUPWDqi",
-      "name": "We Can Work It Out - Remastered 2015",
+      "track": {
+        "id": "1hTUFqJuQAMjXVGwUPWDqi",
+        "name": "We Can Work It Out - Remastered 2015"
+      },
       "duration_ms": 135693,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+      "album": {
+        "id": "7vEJAtP3KgKSpOHVgwm3Eh",
+        "name": "1 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02582d56ce20fe0146ffa0e5cf"
+      },
       "release_date": "2000-11-13",
       "popularity": 59
     },
     {
-      "trackId": "7Dprt8s1FohodJYtCNcM4a",
-      "name": "In My Life",
+      "track": {
+        "id": "7Dprt8s1FohodJYtCNcM4a",
+        "name": "In My Life"
+      },
       "duration_ms": 177000,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2BlL4Gv2DLPu8p58Wcmlm9",
+      "album": {
+        "id": "2BlL4Gv2DLPu8p58Wcmlm9",
+        "name": "American IV: The Man Comes Around",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f4f62da3d811b6501a69ffa"
+      },
       "release_date": "2002-01-01",
       "popularity": 53
     },
     {
-      "trackId": "2ZkgSDO9ToVeO2Gpv1gqLu",
-      "name": "Jesus' Blood Never Failed Me Yet",
+      "track": {
+        "id": "2ZkgSDO9ToVeO2Gpv1gqLu",
+        "name": "Jesus' Blood Never Failed Me Yet"
+      },
       "duration_ms": 245000,
-      "artist": [
-        "Gavin Bryars",
-        "Tom Waits",
-        "Gavin Bryars Ensemble"
+      "artists": [
+        {
+          "name": "Gavin Bryars",
+          "id": "0lVWTWT1YdiNwuW9Gv3mUF"
+        },
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        },
+        {
+          "name": "Gavin Bryars Ensemble",
+          "id": "6mryekUCcRUohBwPEfo8We"
+        }
       ],
-      "artistId": [
-        "0lVWTWT1YdiNwuW9Gv3mUF",
-        "7x83XhcMbOTl1UdYsPTuZM",
-        "6mryekUCcRUohBwPEfo8We"
-      ],
-      "albumId": "2Sgm5xEtdvzW4x7M3XgYVW",
+      "album": {
+        "id": "2Sgm5xEtdvzW4x7M3XgYVW",
+        "name": "Gavin Bryars Anniversary Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e024760d49a64b75d6bb383c5dd"
+      },
       "release_date": "2002-12-02",
       "popularity": 17
     },
     {
-      "trackId": "4LqNNFPl9lfT5deIQiRPwI",
-      "name": "Jag vill ha en egen måne",
+      "track": {
+        "id": "4LqNNFPl9lfT5deIQiRPwI",
+        "name": "Jag vill ha en egen måne"
+      },
       "duration_ms": 198400,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "3cT50PQXXybChUGP6TDrlr",
+      "album": {
+        "id": "3cT50PQXXybChUGP6TDrlr",
+        "name": "Undringar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cb77aa3a5ff8114f478413a"
+      },
       "release_date": "1972-01-01",
       "popularity": 52
     },
     {
-      "trackId": "45WX2cfbL8bCIqv3rOq1G3",
-      "name": "I'll Follow The Sun - Remastered 2009",
+      "track": {
+        "id": "45WX2cfbL8bCIqv3rOq1G3",
+        "name": "I'll Follow The Sun - Remastered 2009"
+      },
       "duration_ms": 108853,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1vANZV20H5B4Fk6yf7Ot9a",
+      "album": {
+        "id": "1vANZV20H5B4Fk6yf7Ot9a",
+        "name": "Beatles For Sale (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255612ece447bec5d62c68375"
+      },
       "release_date": "1964-12-04",
       "popularity": 59
     },
     {
-      "trackId": "3JPykdXkCds32OP5hzxm7j",
-      "name": "Night And Day - Remastered",
+      "track": {
+        "id": "3JPykdXkCds32OP5hzxm7j",
+        "name": "Night And Day - Remastered"
+      },
       "duration_ms": 240893,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "5Jxf3eOoGvWDGg957iXEkj",
+      "album": {
+        "id": "5Jxf3eOoGvWDGg957iXEkj",
+        "name": "A Swingin' Affair! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7f0ec699936033ee1cb2c8d"
+      },
       "release_date": "1957-06",
       "popularity": 38
     },
     {
-      "trackId": "1BLXxFPDL2BT37nHKD7KrA",
-      "name": "Pata Pata - Stereo Version",
+      "track": {
+        "id": "1BLXxFPDL2BT37nHKD7KrA",
+        "name": "Pata Pata - Stereo Version"
+      },
       "duration_ms": 180174,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "4xPYddRQPYB5jbTB3e7tL5",
+      "album": {
+        "id": "4xPYddRQPYB5jbTB3e7tL5",
+        "name": "Pata Pata",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d46caefb22d460eb8ca14db0"
+      },
       "release_date": "2017",
       "popularity": 58
     },
     {
-      "trackId": "2LBXHmODxCjJjD6puwDAE8",
-      "name": "Knockin' On Heaven's Door",
+      "track": {
+        "id": "2LBXHmODxCjJjD6puwDAE8",
+        "name": "Knockin' On Heaven's Door"
+      },
       "duration_ms": 254680,
-      "artist": [
-        "Antony and the Johnsons"
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "id": "4fxp616ALtFWnXfwxnjLzW"
+        }
       ],
-      "artistId": [
-        "4fxp616ALtFWnXfwxnjLzW"
-      ],
-      "albumId": "1CDAlRhqngtJc6oaauLtJe",
+      "album": {
+        "id": "1CDAlRhqngtJc6oaauLtJe",
+        "name": "Knockin' On Heaven's Door",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e23a98d3698f78b1e434b19f"
+      },
       "release_date": "2019-04-15",
       "popularity": 49
     },
     {
-      "trackId": "3wqYQbDzFYKytO7uVLQtHD",
-      "name": "Tusind stykker",
+      "track": {
+        "id": "3wqYQbDzFYKytO7uVLQtHD",
+        "name": "Tusind stykker"
+      },
       "duration_ms": 261959,
-      "artist": [
-        "Anne Linnet"
+      "artists": [
+        {
+          "name": "Anne Linnet",
+          "id": "6AWEo7TFXeaDNDMMFuE2YY"
+        }
       ],
-      "artistId": [
-        "6AWEo7TFXeaDNDMMFuE2YY"
-      ],
-      "albumId": "1G1Ck0pVl2zluufmNIhrd7",
+      "album": {
+        "id": "1G1Ck0pVl2zluufmNIhrd7",
+        "name": "Jeg Er Jo Lige Her",
+        "img": "https://i.scdn.co/image/ab67616d00001e022399800164beed2657b38fad"
+      },
       "release_date": "1988-07-19",
       "popularity": 47
     },
     {
-      "trackId": "2t77hjgJY4sC9DoX5uaVUD",
-      "name": "Don't Give Up",
+      "track": {
+        "id": "2t77hjgJY4sC9DoX5uaVUD",
+        "name": "Don't Give Up"
+      },
       "duration_ms": 394826,
-      "artist": [
-        "Peter Gabriel"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I"
-      ],
-      "albumId": "0hQb1KT6L3iEYRkS5u8cjm",
+      "album": {
+        "id": "0hQb1KT6L3iEYRkS5u8cjm",
+        "name": "So (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211bb04f55be562c76d8e8ecf"
+      },
       "release_date": "1986-05-19",
       "popularity": 60
     },
     {
-      "trackId": "52mBjLuMyZVI6dxAYNLBq8",
-      "name": "Fimpen",
+      "track": {
+        "id": "52mBjLuMyZVI6dxAYNLBq8",
+        "name": "Fimpen"
+      },
       "duration_ms": 139600,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "2aiSzUHEkbwKAuDYkhIVl9",
+      "album": {
+        "id": "2aiSzUHEkbwKAuDYkhIVl9",
+        "name": "Victor Jara \"Rätten Till Ett Eget Liv\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5f77e9ba3591e08445d1471"
+      },
       "release_date": "1978",
       "popularity": 10
     }

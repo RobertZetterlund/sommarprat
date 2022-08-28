@@ -7,230 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2355325_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3mDOHVY9MWZOTODSNF5GBj",
-      "name": "Indian Reservation (The Lament of the Cherokee Reservation Indian)",
+      "track": {
+        "id": "3mDOHVY9MWZOTODSNF5GBj",
+        "name": "Indian Reservation (The Lament of the Cherokee Reservation Indian)"
+      },
       "duration_ms": 171933,
-      "artist": [
-        "Paul Revere & The Raiders",
-        "The Raiders"
+      "artists": [
+        {
+          "name": "Paul Revere & The Raiders",
+          "id": "32HPpJAhgnGPT3V7UOggzi"
+        },
+        {
+          "name": "The Raiders",
+          "id": "6VGkOHRnGhPYrzy9qM7CVj"
+        }
       ],
-      "artistId": [
-        "32HPpJAhgnGPT3V7UOggzi",
-        "6VGkOHRnGhPYrzy9qM7CVj"
-      ],
-      "albumId": "6HJj4X26Xp7buj1zIfFjyb",
+      "album": {
+        "id": "6HJj4X26Xp7buj1zIfFjyb",
+        "name": "Indian Reservation",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f37a8c5ba9c162ff70bc3731"
+      },
       "release_date": "1971",
       "popularity": 48
     },
     {
-      "trackId": "2JvDQFSXhDEE8mrgiYGlXf",
-      "name": "Don't Leave Me Alone With Her",
+      "track": {
+        "id": "2JvDQFSXhDEE8mrgiYGlXf",
+        "name": "Don't Leave Me Alone With Her"
+      },
       "duration_ms": 180746,
-      "artist": [
-        "Sparks"
+      "artists": [
+        {
+          "name": "Sparks",
+          "id": "7pwjGKaqnfkvS7eQbHaqyH"
+        }
       ],
-      "artistId": [
-        "7pwjGKaqnfkvS7eQbHaqyH"
-      ],
-      "albumId": "1rlCSXl4oodSDQRUYDUgiP",
+      "album": {
+        "id": "1rlCSXl4oodSDQRUYDUgiP",
+        "name": "Propaganda",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290e3d2bc51ca3de752e468ef"
+      },
       "release_date": "1974-11",
       "popularity": 22
     },
     {
-      "trackId": "42JtcEN0XW2mCGsMENWUox",
-      "name": "Vintersaga",
+      "track": {
+        "id": "42JtcEN0XW2mCGsMENWUox",
+        "name": "Vintersaga"
+      },
       "duration_ms": 238093,
-      "artist": [
-        "Monica Törnell"
+      "artists": [
+        {
+          "name": "Monica Törnell",
+          "id": "2mzcDa3H7xrIikDmF9rFwN"
+        }
       ],
-      "artistId": [
-        "2mzcDa3H7xrIikDmF9rFwN"
-      ],
-      "albumId": "1KrXeJBmvnDj3weYsWIFpQ",
+      "album": {
+        "id": "1KrXeJBmvnDj3weYsWIFpQ",
+        "name": "Mica",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283495c6a24a87307236c670f"
+      },
       "release_date": "1984-01-01",
       "popularity": 34
     },
     {
-      "trackId": "1MXnMdktScmuPOWhXe9kHw",
-      "name": "Dark Lady",
+      "track": {
+        "id": "1MXnMdktScmuPOWhXe9kHw",
+        "name": "Dark Lady"
+      },
       "duration_ms": 207133,
-      "artist": [
-        "Cher"
+      "artists": [
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "7BwcYFAOuR2sreSCOkeReI",
+      "album": {
+        "id": "7BwcYFAOuR2sreSCOkeReI",
+        "name": "Cher's Greatest Hits: 1965-1992",
+        "img": "https://i.scdn.co/image/ab67616d00001e026554d777d86732f33913bca5"
+      },
       "release_date": "1992-11-09",
       "popularity": 36
     },
     {
-      "trackId": "4eLWfZveSsEzx2qwiY4tOq",
-      "name": "Angel Eyes",
+      "track": {
+        "id": "4eLWfZveSsEzx2qwiY4tOq",
+        "name": "Angel Eyes"
+      },
       "duration_ms": 354560,
-      "artist": [
-        "Rebecka Törnqvist"
+      "artists": [
+        {
+          "name": "Rebecka Törnqvist",
+          "id": "563fbLxFoPNypwvAbgNPhd"
+        }
       ],
-      "artistId": [
-        "563fbLxFoPNypwvAbgNPhd"
-      ],
-      "albumId": "0uf6ceADB4XYVYjkXBMp2D",
+      "album": {
+        "id": "0uf6ceADB4XYVYjkXBMp2D",
+        "name": "A Night Like This",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b51951d8fc8cbd2273d304a9"
+      },
       "release_date": "1993-10-06",
       "popularity": 38
     },
     {
-      "trackId": "0jVW4PqXqZcV2fHfZutW4a",
-      "name": "What Have I Done",
+      "track": {
+        "id": "0jVW4PqXqZcV2fHfZutW4a",
+        "name": "What Have I Done"
+      },
       "duration_ms": 202000,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "0dA7a6gwmTh5tn42LGbc1C",
+      "album": {
+        "id": "0dA7a6gwmTh5tn42LGbc1C",
+        "name": "Leaving On A Mayday (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c17e2f804d61d7c6feff082d"
+      },
       "release_date": "2008-01-01",
       "popularity": 35
     },
     {
-      "trackId": "2wi62tt4R2dSVVBhMOpsdl",
-      "name": "The Most Wanted Song",
+      "track": {
+        "id": "2wi62tt4R2dSVVBhMOpsdl",
+        "name": "The Most Wanted Song"
+      },
       "duration_ms": 309386,
-      "artist": [
-        "Dave Soldier, Komar & Melamid"
+      "artists": [
+        {
+          "name": "Dave Soldier, Komar & Melamid",
+          "id": "5gGz5xG3RjIKIgQBC6tIiR"
+        }
       ],
-      "artistId": [
-        "5gGz5xG3RjIKIgQBC6tIiR"
-      ],
-      "albumId": "5HTUWZNkfVLQfLTsWpIge8",
+      "album": {
+        "id": "5HTUWZNkfVLQfLTsWpIge8",
+        "name": "The People's Choice Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0237e4808edd4c00f9552431de"
+      },
       "release_date": "2001-01-01",
       "popularity": 2
     },
     {
-      "trackId": "2EBCVPNAG46nbgs6jXPGvv",
-      "name": "Starships",
+      "track": {
+        "id": "2EBCVPNAG46nbgs6jXPGvv",
+        "name": "Starships"
+      },
       "duration_ms": 210626,
-      "artist": [
-        "Nicki Minaj"
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "id": "0hCNtLu0JehylgoiP8L4Gh"
+        }
       ],
-      "artistId": [
-        "0hCNtLu0JehylgoiP8L4Gh"
-      ],
-      "albumId": "22F5ZYY1sxoJjk6HzZfmC1",
+      "album": {
+        "id": "22F5ZYY1sxoJjk6HzZfmC1",
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef9ad61e2a4f15606fd4ab15"
+      },
       "release_date": "2012-01-01",
       "popularity": 75
     },
     {
-      "trackId": "4Zjf4XQZushvULDYoYq7VG",
-      "name": "Hobo Humpin' Slobo Babe",
+      "track": {
+        "id": "4Zjf4XQZushvULDYoYq7VG",
+        "name": "Hobo Humpin' Slobo Babe"
+      },
       "duration_ms": 239506,
-      "artist": [
-        "Whale"
+      "artists": [
+        {
+          "name": "Whale",
+          "id": "0onGQPlD4DgLZ7qboYLdgi"
+        }
       ],
-      "artistId": [
-        "0onGQPlD4DgLZ7qboYLdgi"
-      ],
-      "albumId": "3TgmBpNScivl2SxxEJkR4W",
+      "album": {
+        "id": "3TgmBpNScivl2SxxEJkR4W",
+        "name": "We Care",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274eafe75bc1009a5922b592e"
+      },
       "release_date": "1995-01-01",
       "popularity": 41
     },
     {
-      "trackId": "4DCAqulmH2Tvv6xzxxRXY8",
-      "name": "Tankar och ord",
+      "track": {
+        "id": "4DCAqulmH2Tvv6xzxxRXY8",
+        "name": "Tankar och ord"
+      },
       "duration_ms": 224120,
-      "artist": [
-        "Sylvia Vrethammar"
+      "artists": [
+        {
+          "name": "Sylvia Vrethammar",
+          "id": "1wOhrP0NunS8jFFaHMrHg4"
+        }
       ],
-      "artistId": [
-        "1wOhrP0NunS8jFFaHMrHg4"
-      ],
-      "albumId": "6IS9ReHUeXlGfDYLEYCQeK",
+      "album": {
+        "id": "6IS9ReHUeXlGfDYLEYCQeK",
+        "name": "Jag sjunger för dej",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e5e3cfab819d02cb37f42fd"
+      },
       "release_date": "1973-01-01",
       "popularity": 1
     },
     {
-      "trackId": "3NDIt3ghpNH6yZi5c5Gj2g",
-      "name": "Inget",
+      "track": {
+        "id": "3NDIt3ghpNH6yZi5c5Gj2g",
+        "name": "Inget"
+      },
       "duration_ms": 218466,
-      "artist": [
-        "Reeperbahn"
+      "artists": [
+        {
+          "name": "Reeperbahn",
+          "id": "6P8sG88viK5GpVoKliTc1b"
+        }
       ],
-      "artistId": [
-        "6P8sG88viK5GpVoKliTc1b"
-      ],
-      "albumId": "6BIap7cvfKV155MlXOU4la",
+      "album": {
+        "id": "6BIap7cvfKV155MlXOU4la",
+        "name": "Samlade singlar (Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cafe38e17fd6f0c2aabcf2c1"
+      },
       "release_date": "2010-01-01",
       "popularity": 10
     },
     {
-      "trackId": "1jDJFeK9x3OZboIAHsY9k2",
-      "name": "I'm Still Standing",
+      "track": {
+        "id": "1jDJFeK9x3OZboIAHsY9k2",
+        "name": "I'm Still Standing"
+      },
       "duration_ms": 183440,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "0OmYuz9hwn1XoqmDaU0yJ7",
+      "album": {
+        "id": "0OmYuz9hwn1XoqmDaU0yJ7",
+        "name": "Too Low For Zero",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89"
+      },
       "release_date": "1983-05-30",
       "popularity": 82
     },
     {
-      "trackId": "1vqFYi27JWIhrQvYuO7uCb",
-      "name": "Konstnasaren",
+      "track": {
+        "id": "1vqFYi27JWIhrQvYuO7uCb",
+        "name": "Konstnasaren"
+      },
       "duration_ms": 281773,
-      "artist": [
-        "Nina Ramsby",
-        "Martin Hederos"
+      "artists": [
+        {
+          "name": "Nina Ramsby",
+          "id": "6ydrBmge20NnUZiq2Ep4jP"
+        },
+        {
+          "name": "Martin Hederos",
+          "id": "0KrueSPl32yXv6KbERkUBL"
+        }
       ],
-      "artistId": [
-        "6ydrBmge20NnUZiq2Ep4jP",
-        "0KrueSPl32yXv6KbERkUBL"
-      ],
-      "albumId": "1szTKEWpHY0OGq01JkOD6d",
+      "album": {
+        "id": "1szTKEWpHY0OGq01JkOD6d",
+        "name": "Visorna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d44e8b9ac084b66a91cdc793"
+      },
       "release_date": "2004",
       "popularity": 21
     },
     {
-      "trackId": "25vKhXxpUh9J7R4gyM5xrV",
-      "name": "California",
+      "track": {
+        "id": "25vKhXxpUh9J7R4gyM5xrV",
+        "name": "California"
+      },
       "duration_ms": 297680,
-      "artist": [
-        "Jerry Ryan"
+      "artists": [
+        {
+          "name": "Jerry Ryan",
+          "id": "5OwgDTlbMYZgqhyTQwQuqz"
+        }
       ],
-      "artistId": [
-        "5OwgDTlbMYZgqhyTQwQuqz"
-      ],
-      "albumId": "6COKazqrTHTh4mf6sL9Ymh",
+      "album": {
+        "id": "6COKazqrTHTh4mf6sL9Ymh",
+        "name": "Flash & the Pan",
+        "img": "https://i.scdn.co/image/ab67616d00001e025087960608513783a79026d6"
+      },
       "release_date": "2015-12-15",
       "popularity": 1
     },
     {
-      "trackId": "6xYeTISkTw4S9K9hJgr1KJ",
-      "name": "En kväll i juni",
+      "track": {
+        "id": "6xYeTISkTw4S9K9hJgr1KJ",
+        "name": "En kväll i juni"
+      },
       "duration_ms": 192533,
-      "artist": [
-        "Lasse Berghagen"
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "id": "7kdGjv0IIQJcU2bth1yoqY"
+        }
       ],
-      "artistId": [
-        "7kdGjv0IIQJcU2bth1yoqY"
-      ],
-      "albumId": "1P6QyxSmdRVaAPaHHfox4i",
+      "album": {
+        "id": "1P6QyxSmdRVaAPaHHfox4i",
+        "name": "20 av Lars Berghagens bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c24dcd036aecb7ad674d1a"
+      },
       "release_date": "1989-01-01",
       "popularity": 53
     },
     {
-      "trackId": "3ijwOhVxJ7B2m6aIPlmRVF",
-      "name": "Aldrig mej",
+      "track": {
+        "id": "3ijwOhVxJ7B2m6aIPlmRVF",
+        "name": "Aldrig mej"
+      },
       "duration_ms": 244093,
-      "artist": [
-        "Frida"
+      "artists": [
+        {
+          "name": "Frida",
+          "id": "5uOVb4hLSQVbHbVVt27tV1"
+        }
       ],
-      "artistId": [
-        "5uOVb4hLSQVbHbVVt27tV1"
-      ],
-      "albumId": "1ouUG98KhHgIBkw7yUJTnA",
+      "album": {
+        "id": "1ouUG98KhHgIBkw7yUJTnA",
+        "name": "Ensam",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0ce065fd451d41e1440176f"
+      },
       "release_date": "1975-11-10",
       "popularity": 12
     }

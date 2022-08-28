@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2f51bdc0-65a1-4d8f-9b2b-752bb270d46d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1k1p9BJOHPraNMbqEaelAP",
-      "name": "Raised on Robbery",
+      "track": {
+        "id": "1k1p9BJOHPraNMbqEaelAP",
+        "name": "Raised on Robbery"
+      },
       "duration_ms": 191503,
-      "artist": [
-        "Piano Project"
+      "artists": [
+        {
+          "name": "Piano Project",
+          "id": "0sOfFTIMocxq5mPB8SFLHn"
+        }
       ],
-      "artistId": [
-        "0sOfFTIMocxq5mPB8SFLHn"
-      ],
-      "albumId": "5kLPnzPxClCmU5XGcye7Lz",
+      "album": {
+        "id": "5kLPnzPxClCmU5XGcye7Lz",
+        "name": "Piano Renditions of Joni Mitchell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c411d6d5a1d50722681a6520"
+      },
       "release_date": "2021-06-11",
       "popularity": 1
     },
     {
-      "trackId": "064ZfHnqVIwRzH4sepZWTa",
-      "name": "Magnus Uggla Partymedley: Baby Boom / Passionsfrukt / Mitt liv / Fula gubbar / Tjena Alena / Johnny the Rucker / Skandal Bjotis / Mälarö Kyrka",
+      "track": {
+        "id": "064ZfHnqVIwRzH4sepZWTa",
+        "name": "Magnus Uggla Partymedley: Baby Boom / Passionsfrukt / Mitt liv / Fula gubbar / Tjena Alena / Johnny the Rucker / Skandal Bjotis / Mälarö Kyrka"
+      },
       "duration_ms": 398732,
-      "artist": [
-        "Uggly Strix"
+      "artists": [
+        {
+          "name": "Uggly Strix",
+          "id": "11lYM4XWTI2sX1jgdQf8Zx"
+        }
       ],
-      "artistId": [
-        "11lYM4XWTI2sX1jgdQf8Zx"
-      ],
-      "albumId": "6ZpOmje3aHowYXkiibrotB",
+      "album": {
+        "id": "6ZpOmje3aHowYXkiibrotB",
+        "name": "Magnus Uggla Partymedley: Baby Boom / Passionsfrukt / Mitt liv / Fula gubbar / Tjena Alena / Johnny the Rucker / Skandal Bjotis / Mälarö Kyrka",
+        "img": "https://i.scdn.co/image/ab67616d00001e02574e115ace5474c08e881f56"
+      },
       "release_date": "2020-05-06",
       "popularity": 2
     },
     {
-      "trackId": "1jOLTO379yIu9aMnCkpMQl",
-      "name": "You Never Give Me Your Money - Remastered 2009",
+      "track": {
+        "id": "1jOLTO379yIu9aMnCkpMQl",
+        "name": "You Never Give Me Your Money - Remastered 2009"
+      },
       "duration_ms": 242973,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 57
     },
     {
-      "trackId": "1jBbbJQfOKyBsJNVng8eIy",
-      "name": "I Know What I Know (with General M.D.Shirinda & The Gaza Sisters)",
+      "track": {
+        "id": "1jBbbJQfOKyBsJNVng8eIy",
+        "name": "I Know What I Know (with General M.D.Shirinda & The Gaza Sisters)"
+      },
       "duration_ms": 193373,
-      "artist": [
-        "Paul Simon",
-        "General M.D.Shirinda",
-        "The Gaza Sisters"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "General M.D.Shirinda",
+          "id": "3cOiQ23Zwbq4gIXuJzszTo"
+        },
+        {
+          "name": "The Gaza Sisters",
+          "id": "0W7SKlJUIteiwrg1x7evYd"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI",
-        "3cOiQ23Zwbq4gIXuJzszTo",
-        "0W7SKlJUIteiwrg1x7evYd"
-      ],
-      "albumId": "6WgGWYw6XXQyLTsWt7tXky",
+      "album": {
+        "id": "6WgGWYw6XXQyLTsWt7tXky",
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209880a7b8636c5a0615dc0c8"
+      },
       "release_date": "1986-08-12",
       "popularity": 50
     },
     {
-      "trackId": "4HA2jo7wkMdN1lmLO6ryzE",
-      "name": "End Of The Line",
+      "track": {
+        "id": "4HA2jo7wkMdN1lmLO6ryzE",
+        "name": "End Of The Line"
+      },
       "duration_ms": 209520,
-      "artist": [
-        "Traveling Wilburys"
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "id": "2hO4YtXUFJiUYS2uYFvHNK"
+        }
       ],
-      "artistId": [
-        "2hO4YtXUFJiUYS2uYFvHNK"
-      ],
-      "albumId": "7K3OJcdtRxv7miXfQBzvbi",
+      "album": {
+        "id": "7K3OJcdtRxv7miXfQBzvbi",
+        "name": "The Traveling Wilburys, Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9e06f988048ecf3c54ca749"
+      },
       "release_date": "1988-10-18",
       "popularity": 72
     },
     {
-      "trackId": "3QcuZo6WLcFkqqLmDs0d95",
-      "name": "Doctor My Eyes",
+      "track": {
+        "id": "3QcuZo6WLcFkqqLmDs0d95",
+        "name": "Doctor My Eyes"
+      },
       "duration_ms": 199906,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "0n93YRc9GP3ZgREgTHvP5u",
+      "album": {
+        "id": "0n93YRc9GP3ZgREgTHvP5u",
+        "name": "Jackson Browne (Saturate Before Using)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02759f9719982a240d02539e38"
+      },
       "release_date": "1972",
       "popularity": 67
     },
     {
-      "trackId": "6a41rCqZhb2W6rpMolDR08",
-      "name": "Vara vänner",
+      "track": {
+        "id": "6a41rCqZhb2W6rpMolDR08",
+        "name": "Vara vänner"
+      },
       "duration_ms": 219600,
-      "artist": [
-        "Jakob Hellman"
+      "artists": [
+        {
+          "name": "Jakob Hellman",
+          "id": "74terC9ol9zMo8rfzhSOiG"
+        }
       ],
-      "artistId": [
-        "74terC9ol9zMo8rfzhSOiG"
-      ],
-      "albumId": "6kGjc8k2YvmmZGqspJuRlK",
+      "album": {
+        "id": "6kGjc8k2YvmmZGqspJuRlK",
+        "name": "...och stora havet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280d8f3d5241e4a5b1fd6b4db"
+      },
       "release_date": "1989-02-13",
       "popularity": 43
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "49wCXknXA1NeHHRpPJdVRp",
-      "name": "Old Folks At Home",
+      "track": {
+        "id": "49wCXknXA1NeHHRpPJdVRp",
+        "name": "Old Folks At Home"
+      },
       "duration_ms": 127003,
-      "artist": [
-        "Cletus Charles Ray",
-        "His Brothers"
+      "artists": [
+        {
+          "name": "Cletus Charles Ray",
+          "id": "5t83d1ExO9bTtYKMfoaVmz"
+        },
+        {
+          "name": "His Brothers",
+          "id": "250ISg3Iz4evXjTiDAkBfu"
+        }
       ],
-      "artistId": [
-        "5t83d1ExO9bTtYKMfoaVmz",
-        "250ISg3Iz4evXjTiDAkBfu"
-      ],
-      "albumId": "4kbRGxmMrDUGwByNPi39th",
+      "album": {
+        "id": "4kbRGxmMrDUGwByNPi39th",
+        "name": "100 Country & Western Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0206d58915cfed443259818718"
+      },
       "release_date": "2018-06-29",
       "popularity": 1
     },
     {
-      "trackId": "1AhCfhPuGUrGjMMxCf7NtC",
-      "name": "Tjena allena",
+      "track": {
+        "id": "1AhCfhPuGUrGjMMxCf7NtC",
+        "name": "Tjena allena"
+      },
       "duration_ms": 285826,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "4zJuxAhEabujl4PorLtVDa",
+      "album": {
+        "id": "4zJuxAhEabujl4PorLtVDa",
+        "name": "Välkommen till folkhemmet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce60294314a365a90b07c026"
+      },
       "release_date": "1983-05-06",
       "popularity": 25
     },
     {
-      "trackId": "6fUDNcmsnnUVyOtEnA9xdC",
-      "name": "Orange Colored Sky",
+      "track": {
+        "id": "6fUDNcmsnnUVyOtEnA9xdC",
+        "name": "Orange Colored Sky"
+      },
       "duration_ms": 153866,
-      "artist": [
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "3NoP1ifIejWkGSDsO9T2xH",
+      "album": {
+        "id": "3NoP1ifIejWkGSDsO9T2xH",
+        "name": "The Nat King Cole Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e02deac5adf07affb5fec422701"
+      },
       "release_date": "1991-01-01",
       "popularity": 55
     },
     {
-      "trackId": "7KOegFQMd13ETQry4A6Tu1",
-      "name": "Strövtåg i hembygden",
+      "track": {
+        "id": "7KOegFQMd13ETQry4A6Tu1",
+        "name": "Strövtåg i hembygden"
+      },
       "duration_ms": 249573,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 56
     },
     {
-      "trackId": "5uhJnZd0m9Xz3GafDeMJxK",
-      "name": "Kingdom Come",
+      "track": {
+        "id": "5uhJnZd0m9Xz3GafDeMJxK",
+        "name": "Kingdom Come"
+      },
       "duration_ms": 252080,
-      "artist": [
-        "The Souljazz Orchestra"
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "id": "0MiCOT2cVYso39XSskiUUo"
+        }
       ],
-      "artistId": [
-        "0MiCOT2cVYso39XSskiUUo"
-      ],
-      "albumId": "2w28yTFohFkW0UnIGKqLdY",
+      "album": {
+        "id": "2w28yTFohFkW0UnIGKqLdY",
+        "name": "Inner Fire",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ec8168b682d187436172fe6"
+      },
       "release_date": "2014-02-24",
       "popularity": 44
     }

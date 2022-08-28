@@ -7,220 +7,318 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/7b9604cd-c86e-4611-ae94-8e633bec2bb0.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3eVaxhG4hN7vNeTE2KS8cW",
-      "name": "Little Girl Blue (Live Tom Jones TV Show 4th December 1969)",
+      "track": {
+        "id": "3eVaxhG4hN7vNeTE2KS8cW",
+        "name": "Little Girl Blue (Live Tom Jones TV Show 4th December 1969)"
+      },
       "duration_ms": 229264,
-      "artist": [
-        "Janis Joplin"
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "id": "4NgfOZCL9Ml67xzM0xzIvC"
+        }
       ],
-      "artistId": [
-        "4NgfOZCL9Ml67xzM0xzIvC"
-      ],
-      "albumId": "7bZBijUEXmuM3ekfJ943oz",
+      "album": {
+        "id": "7bZBijUEXmuM3ekfJ943oz",
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249efcbb38dfc2b887bb25284"
+      },
       "release_date": "2017-09-26",
       "popularity": 13
     },
     {
-      "trackId": "3eVaxhG4hN7vNeTE2KS8cW",
-      "name": "Little Girl Blue (Live Tom Jones TV Show 4th December 1969)",
+      "track": {
+        "id": "3eVaxhG4hN7vNeTE2KS8cW",
+        "name": "Little Girl Blue (Live Tom Jones TV Show 4th December 1969)"
+      },
       "duration_ms": 229264,
-      "artist": [
-        "Janis Joplin"
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "id": "4NgfOZCL9Ml67xzM0xzIvC"
+        }
       ],
-      "artistId": [
-        "4NgfOZCL9Ml67xzM0xzIvC"
-      ],
-      "albumId": "7bZBijUEXmuM3ekfJ943oz",
+      "album": {
+        "id": "7bZBijUEXmuM3ekfJ943oz",
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249efcbb38dfc2b887bb25284"
+      },
       "release_date": "2017-09-26",
       "popularity": 13
     },
     {
-      "trackId": "7MF7QAodbGzNYav5ZfIhAY",
-      "name": "Midnight Train to Georgia",
+      "track": {
+        "id": "7MF7QAodbGzNYav5ZfIhAY",
+        "name": "Midnight Train to Georgia"
+      },
       "duration_ms": 279333,
-      "artist": [
-        "Gladys Knight & The Pips"
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "id": "0TF2NxkJZPQoX1H53rEFM1"
+        }
       ],
-      "artistId": [
-        "0TF2NxkJZPQoX1H53rEFM1"
-      ],
-      "albumId": "6pMzuVjsypAwbeKiZm56wP",
+      "album": {
+        "id": "6pMzuVjsypAwbeKiZm56wP",
+        "name": "Imagination (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9c903069dab033b532c4f7a"
+      },
       "release_date": "1973",
       "popularity": 71
     },
     {
-      "trackId": "7nuBU1HCcOwG5f1orN4ByW",
-      "name": "A Night Like This",
+      "track": {
+        "id": "7nuBU1HCcOwG5f1orN4ByW",
+        "name": "A Night Like This"
+      },
       "duration_ms": 225931,
-      "artist": [
-        "Caro Emerald"
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "id": "492hDmhPyuIjP3MgTcIqgm"
+        }
       ],
-      "artistId": [
-        "492hDmhPyuIjP3MgTcIqgm"
-      ],
-      "albumId": "7KYgUgJTrsxT4gkHRALi3R",
+      "album": {
+        "id": "7KYgUgJTrsxT4gkHRALi3R",
+        "name": "Deleted Scenes From The Cutting Room Floor",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b664c138b2f3b886d137909"
+      },
       "release_date": "2010-10-18",
       "popularity": 47
     },
     {
-      "trackId": "6DjRrgnIppWgyccDDEFAqe",
-      "name": "Cycles",
+      "track": {
+        "id": "6DjRrgnIppWgyccDDEFAqe",
+        "name": "Cycles"
+      },
       "duration_ms": 190373,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "4N6a1fTmJmyPJp9HmrNyVO",
+      "album": {
+        "id": "4N6a1fTmJmyPJp9HmrNyVO",
+        "name": "Cycles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0209db6a0a102cae469d4f9"
+      },
       "release_date": "1968-11",
       "popularity": 37
     },
     {
-      "trackId": "7i9j71qyzApojSXT52a6Vi",
-      "name": "Cut Copy Me",
+      "track": {
+        "id": "7i9j71qyzApojSXT52a6Vi",
+        "name": "Cut Copy Me"
+      },
       "duration_ms": 228960,
-      "artist": [
-        "Petula Clark"
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "id": "6nKqt1nbSBEq3iUXD1Xgz8"
+        }
       ],
-      "artistId": [
-        "6nKqt1nbSBEq3iUXD1Xgz8"
-      ],
-      "albumId": "16j28hrfdyxKiKq58WtnVr",
+      "album": {
+        "id": "16j28hrfdyxKiKq58WtnVr",
+        "name": "Petula Clark",
+        "img": "https://i.scdn.co/image/ab67616d00001e02342d84657b5e183cabcfbad0"
+      },
       "release_date": "2012-03-12",
       "popularity": 19
     },
     {
-      "trackId": "6m1gsuDTpeWfiQqB8BQAur",
-      "name": "Play Dead",
+      "track": {
+        "id": "6m1gsuDTpeWfiQqB8BQAur",
+        "name": "Play Dead"
+      },
       "duration_ms": 237240,
-      "artist": [
-        "Björk",
-        "David Arnold"
+      "artists": [
+        {
+          "name": "Björk",
+          "id": "7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "David Arnold",
+          "id": "0mCdmt2O8dd8jJWv7m24EE"
+        }
       ],
-      "artistId": [
-        "7w29UYBi0qsHi5RTcv3lmA",
-        "0mCdmt2O8dd8jJWv7m24EE"
-      ],
-      "albumId": "12xYo4U9LASuSrxTjFYpBW",
+      "album": {
+        "id": "12xYo4U9LASuSrxTjFYpBW",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285633659209b658fbcb4ea40"
+      },
       "release_date": "2002-11-04",
       "popularity": 44
     },
     {
-      "trackId": "6m1gsuDTpeWfiQqB8BQAur",
-      "name": "Play Dead",
+      "track": {
+        "id": "6m1gsuDTpeWfiQqB8BQAur",
+        "name": "Play Dead"
+      },
       "duration_ms": 237240,
-      "artist": [
-        "Björk",
-        "David Arnold"
+      "artists": [
+        {
+          "name": "Björk",
+          "id": "7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "David Arnold",
+          "id": "0mCdmt2O8dd8jJWv7m24EE"
+        }
       ],
-      "artistId": [
-        "7w29UYBi0qsHi5RTcv3lmA",
-        "0mCdmt2O8dd8jJWv7m24EE"
-      ],
-      "albumId": "12xYo4U9LASuSrxTjFYpBW",
+      "album": {
+        "id": "12xYo4U9LASuSrxTjFYpBW",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285633659209b658fbcb4ea40"
+      },
       "release_date": "2002-11-04",
       "popularity": 44
     },
     {
-      "trackId": "29A28JjjELDyZL1mUekhkC",
-      "name": "Meet Ze Monsta",
+      "track": {
+        "id": "29A28JjjELDyZL1mUekhkC",
+        "name": "Meet Ze Monsta"
+      },
       "duration_ms": 209040,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2yMg8ronKfVDHngnlLNnl8",
+      "album": {
+        "id": "2yMg8ronKfVDHngnlLNnl8",
+        "name": "To Bring You My Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ea4af8437d78b607f30c8f0"
+      },
       "release_date": "1995-01-01",
       "popularity": 38
     },
     {
-      "trackId": "29A28JjjELDyZL1mUekhkC",
-      "name": "Meet Ze Monsta",
+      "track": {
+        "id": "29A28JjjELDyZL1mUekhkC",
+        "name": "Meet Ze Monsta"
+      },
       "duration_ms": 209040,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2yMg8ronKfVDHngnlLNnl8",
+      "album": {
+        "id": "2yMg8ronKfVDHngnlLNnl8",
+        "name": "To Bring You My Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ea4af8437d78b607f30c8f0"
+      },
       "release_date": "1995-01-01",
       "popularity": 38
     },
     {
-      "trackId": "4h0igWYayzteBtSNpWYQ9h",
-      "name": "Memories Are Made Of This",
+      "track": {
+        "id": "4h0igWYayzteBtSNpWYQ9h",
+        "name": "Memories Are Made Of This"
+      },
       "duration_ms": 138080,
-      "artist": [
-        "Dean Martin"
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "id": "49e4v89VmlDcFCMyDv9wQ9"
+        }
       ],
-      "artistId": [
-        "49e4v89VmlDcFCMyDv9wQ9"
-      ],
-      "albumId": "4FGYCziMpKskiKoujCTMj8",
+      "album": {
+        "id": "4FGYCziMpKskiKoujCTMj8",
+        "name": "Hey, Brother Pour The Wine",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ca838e4066dce47c2b7eb8e"
+      },
       "release_date": "1964",
       "popularity": 53
     },
     {
-      "trackId": "6DCQXcbPEX25XI5cM4TF1u",
-      "name": "Das kleine Hotel",
+      "track": {
+        "id": "6DCQXcbPEX25XI5cM4TF1u",
+        "name": "Das kleine Hotel"
+      },
       "duration_ms": 184293,
-      "artist": [
-        "Augst & Daemgen"
+      "artists": [
+        {
+          "name": "Augst & Daemgen",
+          "id": "1Z1McfCmWDfHCHBVSezs4L"
+        }
       ],
-      "artistId": [
-        "1Z1McfCmWDfHCHBVSezs4L"
-      ],
-      "albumId": "73jWdmPA8icMhKcHbbPeR0",
+      "album": {
+        "id": "73jWdmPA8icMhKcHbbPeR0",
+        "name": "Chansons von Peer Raben: In zehn Sekunden ist alles vorbei (In Ten Seconds It Will Be All Over)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7e60d1f830f6d68d702f332"
+      },
       "release_date": "2012-05-21",
       "popularity": 2
     },
     {
-      "trackId": "4eKvz0TlpHvUmYGyG6GM6w",
-      "name": "Jesus Lay Down Beside Me",
+      "track": {
+        "id": "4eKvz0TlpHvUmYGyG6GM6w",
+        "name": "Jesus Lay Down Beside Me"
+      },
       "duration_ms": 245040,
-      "artist": [
-        "Mavis Staples"
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "id": "0cTSCsVx04SSht9V6cpKN0"
+        }
       ],
-      "artistId": [
-        "0cTSCsVx04SSht9V6cpKN0"
-      ],
-      "albumId": "4lvagLkQiGD8Q1Z84IicvM",
+      "album": {
+        "id": "4lvagLkQiGD8Q1Z84IicvM",
+        "name": "Livin' On A High Note",
+        "img": "https://i.scdn.co/image/ab67616d00001e026df76357285b46116e4f3610"
+      },
       "release_date": "2016-02-19",
-      "popularity": 7
+      "popularity": 8
     },
     {
-      "trackId": "5Ak28Ki2c87QrmZrH3vusL",
-      "name": "Vier letzte Lieder, TrV 296: I. Frühling",
+      "track": {
+        "id": "5Ak28Ki2c87QrmZrH3vusL",
+        "name": "Vier letzte Lieder, TrV 296: I. Frühling"
+      },
       "duration_ms": 243960,
-      "artist": [
-        "Richard Strauss",
-        "Gundula Janowitz",
-        "Berliner Philharmoniker"
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "id": "6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Gundula Janowitz",
+          "id": "2VMPE6OWfNkGhnPe4KFLgX"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        }
       ],
-      "artistId": [
-        "6pAwHPeExeUbMd5w7Iny6D",
-        "2VMPE6OWfNkGhnPe4KFLgX",
-        "6uRJnvQ3f8whVnmeoecv5Z"
-      ],
-      "albumId": "2sPacQ0tF6kBnb3CAORoVc",
+      "album": {
+        "id": "2sPacQ0tF6kBnb3CAORoVc",
+        "name": "Strauss: Vier letzte Lieder, TrV 296, Capriccio, Op. 85, TrV 279",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c90e2c1ea439a4b517d6780"
+      },
       "release_date": "2021-10-01",
       "popularity": 9
     },
     {
-      "trackId": "2f9Wq2T8qty2EmsUMNNPxq",
-      "name": "Visa vid vindens ängar",
+      "track": {
+        "id": "2f9Wq2T8qty2EmsUMNNPxq",
+        "name": "Visa vid vindens ängar"
+      },
       "duration_ms": 174946,
-      "artist": [
-        "Mats Paulson"
+      "artists": [
+        {
+          "name": "Mats Paulson",
+          "id": "0HW2OAV5XOPQgKoFx2Q6uJ"
+        }
       ],
-      "artistId": [
-        "0HW2OAV5XOPQgKoFx2Q6uJ"
-      ],
-      "albumId": "5B8wRCBPCy55DWEPPS5viG",
+      "album": {
+        "id": "5B8wRCBPCy55DWEPPS5viG",
+        "name": "Visor vid vindens ängar",
+        "img": "https://i.scdn.co/image/ab67616d00001e029159c1c449c1b9f35cc4d5cb"
+      },
       "release_date": "1978-01-01",
       "popularity": 43
     }

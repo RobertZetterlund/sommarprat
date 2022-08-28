@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3253015_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5wwPdWKbDEiybmWkZqsGGn",
-      "name": "Next Up - S4-E2, Pt. 1",
+      "track": {
+        "id": "5wwPdWKbDEiybmWkZqsGGn",
+        "name": "Next Up - S4-E2, Pt. 1"
+      },
       "duration_ms": 120839,
-      "artist": [
-        "JBee",
-        "Mixtape Madness"
+      "artists": [
+        {
+          "name": "JBee",
+          "id": "3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "id": "4ocdD0Bi1syVqLs1GiHqQ9"
+        }
       ],
-      "artistId": [
-        "3LIh5lV3zpZkgmO0K6R6bq",
-        "4ocdD0Bi1syVqLs1GiHqQ9"
-      ],
-      "albumId": "0j070iW9OV0gL2IbSWIHcE",
+      "album": {
+        "id": "0j070iW9OV0gL2IbSWIHcE",
+        "name": "Next Up - S4-E2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b02c20ea0da1686e6f6ece01"
+      },
       "release_date": "2022-02-10",
       "popularity": 77
     },
     {
-      "trackId": "3no8LQSAWfJSQdn41Ocq6A",
-      "name": "Live And Learn",
+      "track": {
+        "id": "3no8LQSAWfJSQdn41Ocq6A",
+        "name": "Live And Learn"
+      },
       "duration_ms": 256396,
-      "artist": [
-        "The Cardigans"
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "id": "1tqZaCwM57UFKjWoYwMLrw"
+        }
       ],
-      "artistId": [
-        "1tqZaCwM57UFKjWoYwMLrw"
-      ],
-      "albumId": "5D2ioAPlvrY2OL5sCPc6wo",
+      "album": {
+        "id": "5D2ioAPlvrY2OL5sCPc6wo",
+        "name": "Long Gone Before Daylight (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02000566b775a028056b554aa4"
+      },
       "release_date": "2003-01-01",
       "popularity": 42
     },
     {
-      "trackId": "40hL7WMyGnjKDyudaUibL1",
-      "name": "My Number One",
+      "track": {
+        "id": "40hL7WMyGnjKDyudaUibL1",
+        "name": "My Number One"
+      },
       "duration_ms": 176040,
-      "artist": [
-        "Helena Paparizou"
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "id": "7D7k550IB6EszWmzVVCJSK"
+        }
       ],
-      "artistId": [
-        "7D7k550IB6EszWmzVVCJSK"
-      ],
-      "albumId": "0ohbHTmG7Rh3ORCKyMUErN",
+      "album": {
+        "id": "0ohbHTmG7Rh3ORCKyMUErN",
+        "name": "Greatest Hits ... and more",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bcba41bc398a8caf152a8ec5"
+      },
       "release_date": "2011-05-20",
       "popularity": 16
     },
     {
-      "trackId": "7tNo4tgIsEt5YZ8QTcw2nh",
-      "name": "She's a Lady",
+      "track": {
+        "id": "7tNo4tgIsEt5YZ8QTcw2nh",
+        "name": "She's a Lady"
+      },
       "duration_ms": 246549,
-      "artist": [
-        "Tom Jones",
-        "Funkstar De Luxe"
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "id": "1T0wRBO0CK0vK8ouUMqEl5"
+        },
+        {
+          "name": "Funkstar De Luxe",
+          "id": "1R5R9EyBe8MxRuD3BIXaV2"
+        }
       ],
-      "artistId": [
-        "1T0wRBO0CK0vK8ouUMqEl5",
-        "1R5R9EyBe8MxRuD3BIXaV2"
-      ],
-      "albumId": "6UEC2CKDFOXfA5blhyw9ZP",
+      "album": {
+        "id": "6UEC2CKDFOXfA5blhyw9ZP",
+        "name": "Clubber's Guide to Deep House",
+        "img": "https://i.scdn.co/image/ab67616d00001e025464d1c0c558090278e07c0c"
+      },
       "release_date": "2004-01-01",
       "popularity": 18
     },
     {
-      "trackId": "3zBhihYUHBmGd2bcQIobrF",
-      "name": "(Sittin' On) the Dock of the Bay",
+      "track": {
+        "id": "3zBhihYUHBmGd2bcQIobrF",
+        "name": "(Sittin' On) the Dock of the Bay"
+      },
       "duration_ms": 163755,
-      "artist": [
-        "Otis Redding"
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "id": "60df5JBRRPcnSpsIMxxwQm"
+        }
       ],
-      "artistId": [
-        "60df5JBRRPcnSpsIMxxwQm"
-      ],
-      "albumId": "03HMOcANauhLD0WNrMkmLU",
+      "album": {
+        "id": "03HMOcANauhLD0WNrMkmLU",
+        "name": "The Dock of the Bay (Mono)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213a5da9563c438059afa7ad4"
+      },
       "release_date": "1968",
       "popularity": 75
     },
     {
-      "trackId": "2uWK6uBDfyg78xfiH1iiFP",
-      "name": "Ella Elle L A",
+      "track": {
+        "id": "2uWK6uBDfyg78xfiH1iiFP",
+        "name": "Ella Elle L A"
+      },
       "duration_ms": 184693,
-      "artist": [
-        "Kate Ryan"
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "id": "47BNWfpngeFHYvBlPPyraM"
+        }
       ],
-      "artistId": [
-        "47BNWfpngeFHYvBlPPyraM"
-      ],
-      "albumId": "4SPD09dxTSb1isoxVSNhAq",
+      "album": {
+        "id": "4SPD09dxTSb1isoxVSNhAq",
+        "name": "Free",
+        "img": "https://i.scdn.co/image/ab67616d00001e026501bc9a5adf510d342ee2cd"
+      },
       "release_date": "2008-01-01",
       "popularity": 58
     },
     {
-      "trackId": "2xN5aLehyqECSDf3mGwkWB",
-      "name": "Blå, blå känslor",
+      "track": {
+        "id": "2xN5aLehyqECSDf3mGwkWB",
+        "name": "Blå, blå känslor"
+      },
       "duration_ms": 285000,
-      "artist": [
-        "Tomas Ledin"
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "id": "518rTAIFPwQjLUSi4Pdzzn"
+        }
       ],
-      "artistId": [
-        "518rTAIFPwQjLUSi4Pdzzn"
-      ],
-      "albumId": "04qsFXOxxXF58NGR4hgAe4",
+      "album": {
+        "id": "04qsFXOxxXF58NGR4hgAe4",
+        "name": "Hjärtats rytm (Bonus Track Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c044d326befe8e9b1947189a"
+      },
       "release_date": "1973-01-01",
       "popularity": 33
     },
     {
-      "trackId": "53QYikjOLsEHaoqfMAwP6M",
-      "name": "Before You Know It",
+      "track": {
+        "id": "53QYikjOLsEHaoqfMAwP6M",
+        "name": "Before You Know It"
+      },
       "duration_ms": 184732,
-      "artist": [
-        "Adam Tensta",
-        "Sophia Somajo"
+      "artists": [
+        {
+          "name": "Adam Tensta",
+          "id": "5ICm42Qd6Mxunp1xyBGUp0"
+        },
+        {
+          "name": "Sophia Somajo",
+          "id": "5T8zbK3dic52T9bFu0aY8z"
+        }
       ],
-      "artistId": [
-        "5ICm42Qd6Mxunp1xyBGUp0",
-        "5T8zbK3dic52T9bFu0aY8z"
-      ],
-      "albumId": "2oAysLHdaDvClX18MvwrVL",
+      "album": {
+        "id": "2oAysLHdaDvClX18MvwrVL",
+        "name": "It's A Tensta Thing",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252e2003b040408dd33596374"
+      },
       "release_date": "2007",
       "popularity": 22
     },
     {
-      "trackId": "5juryyEeVwJG2nHDuHLT4i",
-      "name": "Koyo",
+      "track": {
+        "id": "5juryyEeVwJG2nHDuHLT4i",
+        "name": "Koyo"
+      },
       "duration_ms": 126500,
-      "artist": [
-        "Amami Oshima"
+      "artists": [
+        {
+          "name": "Amami Oshima",
+          "id": "3S4EUNJNI6Rvi939alMocZ"
+        }
       ],
-      "artistId": [
-        "3S4EUNJNI6Rvi939alMocZ"
-      ],
-      "albumId": "5GEEErkulHZWoKwmPAMwGt",
+      "album": {
+        "id": "5GEEErkulHZWoKwmPAMwGt",
+        "name": "Koyo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285394b046efb282c59a32bce"
+      },
       "release_date": "2022-07-08",
       "popularity": 45
     },
     {
-      "trackId": "0j7zV0njYYnzBGSZHcFCib",
-      "name": "Savvato",
+      "track": {
+        "id": "0j7zV0njYYnzBGSZHcFCib",
+        "name": "Savvato"
+      },
       "duration_ms": 229714,
-      "artist": [
-        "Giorgos Mazonakis"
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "id": "1gyBRbQACz4JJX2HRROigK"
+        }
       ],
-      "artistId": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ],
-      "albumId": "4eksvrTCLm08Z9rJljxzBP",
+      "album": {
+        "id": "4eksvrTCLm08Z9rJljxzBP",
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027afe7eb6e4af41915e2b34f3"
+      },
       "release_date": "2002",
       "popularity": 42
     },
     {
-      "trackId": "7mjSHL2Eb0kAwiKbvNNyD9",
-      "name": "Wild World",
+      "track": {
+        "id": "7mjSHL2Eb0kAwiKbvNNyD9",
+        "name": "Wild World"
+      },
       "duration_ms": 200560,
-      "artist": [
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "44VxbAytHpVi3Rq8hRhild",
+      "album": {
+        "id": "44VxbAytHpVi3Rq8hRhild",
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d"
+      },
       "release_date": "1970-11-23",
       "popularity": 76
     },
     {
-      "trackId": "1VIMJ84snstO50Bf9uXcdJ",
-      "name": "Tonight",
+      "track": {
+        "id": "1VIMJ84snstO50Bf9uXcdJ",
+        "name": "Tonight"
+      },
       "duration_ms": 214666,
-      "artist": [
-        "Reamonn"
+      "artists": [
+        {
+          "name": "Reamonn",
+          "id": "4VH2QabEORUUhN1F1cYQ6N"
+        }
       ],
-      "artistId": [
-        "4VH2QabEORUUhN1F1cYQ6N"
-      ],
-      "albumId": "6x9OThXFNc1SsCcXD79JPi",
+      "album": {
+        "id": "6x9OThXFNc1SsCcXD79JPi",
+        "name": "Wish",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fc2fdab387b79cd2a2bb1e7"
+      },
       "release_date": "2006-01-01",
       "popularity": 50
     }

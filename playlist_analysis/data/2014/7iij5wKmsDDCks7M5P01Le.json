@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300122_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "392vUI7jq3HTTl2LmEmiFs",
-      "name": "Concerto in D for Trumpet and Strings (ed. Thilde): II. Andante",
+      "track": {
+        "id": "392vUI7jq3HTTl2LmEmiFs",
+        "name": "Concerto in D for Trumpet and Strings (ed. Thilde): II. Andante"
+      },
       "duration_ms": 173693,
-      "artist": [
-        "Maurice André",
-        "Academy of St. Martin in the Fields",
-        "Sir Neville Marriner"
+      "artists": [
+        {
+          "name": "Maurice André",
+          "id": "12LdOpXPkvTuU6nauFBh41"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "id": "77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "id": "6NUhQz7eAEsZvjEHTKHux9"
+        }
       ],
-      "artistId": [
-        "12LdOpXPkvTuU6nauFBh41",
-        "77CaCn32H4mOMQA7UElzfF",
-        "6NUhQz7eAEsZvjEHTKHux9"
-      ],
-      "albumId": "3WAlDPq2YQsMamFGWWF99d",
+      "album": {
+        "id": "3WAlDPq2YQsMamFGWWF99d",
+        "name": "Telemann/Vivaldi/Torelli: Barocke Trompetenkonzerte",
+        "img": "https://i.scdn.co/image/ab67616d00001e0219031215c2688ae0bad091d7"
+      },
       "release_date": "1997",
       "popularity": 5
     },
     {
-      "trackId": "2STqplYkSLD5ovON11dwcB",
-      "name": "West End Blues",
+      "track": {
+        "id": "2STqplYkSLD5ovON11dwcB",
+        "name": "West End Blues"
+      },
       "duration_ms": 195440,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "2xRcy7P8BrID3FSCWfD8nQ",
+      "album": {
+        "id": "2xRcy7P8BrID3FSCWfD8nQ",
+        "name": "This Is Jazz #1",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275e33805ac122adcd29e1852"
+      },
       "release_date": "1996-03-22",
       "popularity": 39
     },
     {
-      "trackId": "5e7yRyDNz3nzGUXhPOdhln",
-      "name": "Jumpin' At The Woodside",
+      "track": {
+        "id": "5e7yRyDNz3nzGUXhPOdhln",
+        "name": "Jumpin' At The Woodside"
+      },
       "duration_ms": 190360,
-      "artist": [
-        "Count Basie and His Orchestra"
+      "artists": [
+        {
+          "name": "Count Basie and His Orchestra",
+          "id": "3mATHi0690pFOIG0VhalBL"
+        }
       ],
-      "artistId": [
-        "3mATHi0690pFOIG0VhalBL"
-      ],
-      "albumId": "7FeVg3KPVvG6aRtUIYdfFj",
+      "album": {
+        "id": "7FeVg3KPVvG6aRtUIYdfFj",
+        "name": "Limitless Jazz, Vol. 11",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c0667c1beea85709ba7c9f3"
+      },
       "release_date": "2021-05-31",
       "popularity": 28
     },
     {
-      "trackId": "2LXKryr21UcmWOkdgR7kdZ",
-      "name": "Man With The Horn",
+      "track": {
+        "id": "2LXKryr21UcmWOkdgR7kdZ",
+        "name": "Man With The Horn"
+      },
       "duration_ms": 239000,
-      "artist": [
-        "Anita O'Day"
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "id": "5QGnprJtpZmk3OiDqspPlB"
+        }
       ],
-      "artistId": [
-        "5QGnprJtpZmk3OiDqspPlB"
-      ],
-      "albumId": "4TV0FwdpyfgYBYp5HJAb7b",
+      "album": {
+        "id": "4TV0FwdpyfgYBYp5HJAb7b",
+        "name": "Pick Yourself Up (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02050c489a53c77ce26c1a27be"
+      },
       "release_date": "1956-01-01",
       "popularity": 9
     },
     {
-      "trackId": "5Uvw1Orddpj4tdwWPPPk7Y",
-      "name": "Wie Man Sich Bettet So Liegt Man (Original Mix)",
+      "track": {
+        "id": "5Uvw1Orddpj4tdwWPPPk7Y",
+        "name": "Wie Man Sich Bettet So Liegt Man (Original Mix)"
+      },
       "duration_ms": 238628,
-      "artist": [
-        "Lotte Lenya"
+      "artists": [
+        {
+          "name": "Lotte Lenya",
+          "id": "08vxGaKJwejhTncds9qgUB"
+        }
       ],
-      "artistId": [
-        "08vxGaKJwejhTncds9qgUB"
-      ],
-      "albumId": "6Sy9rfeDJFWc0f4YpHvQ6s",
+      "album": {
+        "id": "6Sy9rfeDJFWc0f4YpHvQ6s",
+        "name": "Green Up Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e023af0fd8a27b4bb8e19d8f167"
+      },
       "release_date": "2019-04-12",
       "popularity": 0
     },
     {
-      "trackId": "52vA3CYKZqZVdQnzRrdZt6",
-      "name": "The Times They Are A-Changin'",
+      "track": {
+        "id": "52vA3CYKZqZVdQnzRrdZt6",
+        "name": "The Times They Are A-Changin'"
+      },
       "duration_ms": 192053,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "7DZeLXvr9eTVpyI1OlqtcS",
+      "album": {
+        "id": "7DZeLXvr9eTVpyI1OlqtcS",
+        "name": "The Times They Are A-Changin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b812eed53f0d7e134fe446e"
+      },
       "release_date": "1964-01-13",
       "popularity": 66
     },
     {
-      "trackId": "5dEtLUyWpytqzZEJbJ0bgX",
-      "name": "I Feel Pretty",
+      "track": {
+        "id": "5dEtLUyWpytqzZEJbJ0bgX",
+        "name": "I Feel Pretty"
+      },
       "duration_ms": 200133,
-      "artist": [
-        "Ulla Neumann"
+      "artists": [
+        {
+          "name": "Ulla Neumann",
+          "id": "1ek9dwHAaYQurSTBUUCn9q"
+        }
       ],
-      "artistId": [
-        "1ek9dwHAaYQurSTBUUCn9q"
-      ],
-      "albumId": "6KVqH3lm0q1lgGmqrhCvbC",
+      "album": {
+        "id": "6KVqH3lm0q1lgGmqrhCvbC",
+        "name": "With Joy and Feelings",
+        "img": "https://i.scdn.co/image/ab67616d00001e024678e916c318f04164366928"
+      },
       "release_date": "1993",
       "popularity": 0
     },
     {
-      "trackId": "29erJjtgdbh1KbG7MuPJCj",
-      "name": "Confirmation - Take 3 / Master",
+      "track": {
+        "id": "29erJjtgdbh1KbG7MuPJCj",
+        "name": "Confirmation - Take 3 / Master"
+      },
       "duration_ms": 178866,
-      "artist": [
-        "Charlie Parker Quartet"
+      "artists": [
+        {
+          "name": "Charlie Parker Quartet",
+          "id": "5GBe2GMfPm3IFagD5XuKKs"
+        }
       ],
-      "artistId": [
-        "5GBe2GMfPm3IFagD5XuKKs"
-      ],
-      "albumId": "7KLwxAG5safFwMgxd0XlH3",
+      "album": {
+        "id": "7KLwxAG5safFwMgxd0XlH3",
+        "name": "Now’s The Time: The Genius Of Charlie Parker #3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aeb39f276dde87a22496665f"
+      },
       "release_date": "1952-12-12",
       "popularity": 50
     },
     {
-      "trackId": "2TelyhKcmyYm9twxYBMcOF",
-      "name": "It's All Over",
+      "track": {
+        "id": "2TelyhKcmyYm9twxYBMcOF",
+        "name": "It's All Over"
+      },
       "duration_ms": 202426,
-      "artist": [
-        "Muddy Waters"
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "id": "4y6J8jwRAwO4dssiSmN91R"
+        }
       ],
-      "artistId": [
-        "4y6J8jwRAwO4dssiSmN91R"
-      ],
-      "albumId": "0aJT4s4u7E1ixb7WEtfPjO",
+      "album": {
+        "id": "0aJT4s4u7E1ixb7WEtfPjO",
+        "name": "They Call Me Muddy Waters",
+        "img": "https://i.scdn.co/image/ab67616d00001e024dfb936a34e79c17d5e693a9"
+      },
       "release_date": "1971-03-04",
       "popularity": 25
     },
     {
-      "trackId": "2g4zxggyax2ABxVM4jRF39",
-      "name": "One Night Stand",
+      "track": {
+        "id": "2g4zxggyax2ABxVM4jRF39",
+        "name": "One Night Stand"
+      },
       "duration_ms": 184266,
-      "artist": [
-        "The Paul Butterfield Blues Band",
-        "Janis Joplin"
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "id": "6kz7WuPaUa4QVreP27I33i"
+        },
+        {
+          "name": "Janis Joplin",
+          "id": "4NgfOZCL9Ml67xzM0xzIvC"
+        }
       ],
-      "artistId": [
-        "6kz7WuPaUa4QVreP27I33i",
-        "4NgfOZCL9Ml67xzM0xzIvC"
-      ],
-      "albumId": "19hplTy1akI7ypHeZnXx00",
+      "album": {
+        "id": "19hplTy1akI7ypHeZnXx00",
+        "name": "Farewell Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7b4b23739e2b0a832f28531"
+      },
       "release_date": "1982-02-01",
       "popularity": 41
     },
     {
-      "trackId": "63cWgMUnBmDbN6dWrSdhHK",
-      "name": "Sign. \"Karlsson - Evig vår\"",
+      "track": {
+        "id": "63cWgMUnBmDbN6dWrSdhHK",
+        "name": "Sign. \"Karlsson - Evig vår\""
+      },
       "duration_ms": 127640,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "6Y4w9FA2R5r2GyXNCfS9gB",
+      "album": {
+        "id": "6Y4w9FA2R5r2GyXNCfS9gB",
+        "name": "Diamanter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8a08c82a95a3276bd413071"
+      },
       "release_date": "2005-01-02",
       "popularity": 6
     },
     {
-      "trackId": "5OwH2YXbDrU5HOIyZDRFtg",
-      "name": "Oh boy",
+      "track": {
+        "id": "5OwH2YXbDrU5HOIyZDRFtg",
+        "name": "Oh boy"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "Peps Persson"
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "id": "5xmgC1jISe31QZSp8gqKUJ"
+        }
       ],
-      "artistId": [
-        "5xmgC1jISe31QZSp8gqKUJ"
-      ],
-      "albumId": "1pIYOXNx3EJIX8c3zoZZGN",
+      "album": {
+        "id": "1pIYOXNx3EJIX8c3zoZZGN",
+        "name": "Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02526fbed31942217ef35d019b"
+      },
       "release_date": "2004-01-01",
       "popularity": 53
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

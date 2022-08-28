@@ -7,238 +7,346 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243759_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2eKwjJkBUaeaGq5GA1wTwc",
-      "name": "Strange Fruit",
+      "track": {
+        "id": "2eKwjJkBUaeaGq5GA1wTwc",
+        "name": "Strange Fruit"
+      },
       "duration_ms": 208933,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "album": {
+        "id": "31pd81sWDaK2pP3ok5892z",
+        "name": "Pastel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda3269eebbf31611d10bda6"
+      },
       "release_date": "1965-10-01",
       "popularity": 48
     },
     {
-      "trackId": "1BLXxFPDL2BT37nHKD7KrA",
-      "name": "Pata Pata - Stereo Version",
+      "track": {
+        "id": "1BLXxFPDL2BT37nHKD7KrA",
+        "name": "Pata Pata - Stereo Version"
+      },
       "duration_ms": 180174,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "4xPYddRQPYB5jbTB3e7tL5",
+      "album": {
+        "id": "4xPYddRQPYB5jbTB3e7tL5",
+        "name": "Pata Pata",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d46caefb22d460eb8ca14db0"
+      },
       "release_date": "2017",
       "popularity": 58
     },
     {
-      "trackId": "34zWZOSpU2V1ab0PiZCcv4",
-      "name": "Uptown Top Ranking - Remastered 2001",
+      "track": {
+        "id": "34zWZOSpU2V1ab0PiZCcv4",
+        "name": "Uptown Top Ranking - Remastered 2001"
+      },
       "duration_ms": 229160,
-      "artist": [
-        "Althea And Donna"
+      "artists": [
+        {
+          "name": "Althea And Donna",
+          "id": "5E8FbSTegbOlYAH4b2rZj2"
+        }
       ],
-      "artistId": [
-        "5E8FbSTegbOlYAH4b2rZj2"
-      ],
-      "albumId": "1FWimRgPFwDVyVlHe9EEnP",
+      "album": {
+        "id": "1FWimRgPFwDVyVlHe9EEnP",
+        "name": "Uptown Top Ranking",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c2aaee37878484f092d488d"
+      },
       "release_date": "1978-01-01",
       "popularity": 62
     },
     {
-      "trackId": "4zoZQvmST8gliv9S9L8lUw",
-      "name": "Please Don't Go",
+      "track": {
+        "id": "4zoZQvmST8gliv9S9L8lUw",
+        "name": "Please Don't Go"
+      },
       "duration_ms": 230440,
-      "artist": [
-        "KC & The Sunshine Band"
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "id": "3mQBpAOMWYqAZyxtyeo4Lo"
+        }
       ],
-      "artistId": [
-        "3mQBpAOMWYqAZyxtyeo4Lo"
-      ],
-      "albumId": "3veSKEBvveTdMZk35f6QBs",
+      "album": {
+        "id": "3veSKEBvveTdMZk35f6QBs",
+        "name": "Do You Wanna Go Party",
+        "img": "https://i.scdn.co/image/ab67616d00001e026332e2da57a38ffee8e8fb41"
+      },
       "release_date": "1979",
       "popularity": 60
     },
     {
-      "trackId": "0cYX51Hneb8qIOx0tHm7ng",
-      "name": "Aïcha - Version Mixte",
+      "track": {
+        "id": "0cYX51Hneb8qIOx0tHm7ng",
+        "name": "Aïcha - Version Mixte"
+      },
       "duration_ms": 259600,
-      "artist": [
-        "Khaled"
+      "artists": [
+        {
+          "name": "Khaled",
+          "id": "28ztjHIXceRRntmTUfnmUX"
+        }
       ],
-      "artistId": [
-        "28ztjHIXceRRntmTUfnmUX"
-      ],
-      "albumId": "2Ul6M5sIJdZjKVxwgDG7dC",
+      "album": {
+        "id": "2Ul6M5sIJdZjKVxwgDG7dC",
+        "name": "Sahra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1b1864f0ac9fc86215c3c85"
+      },
       "release_date": "1996-01-01",
       "popularity": 57
     },
     {
-      "trackId": "34jtsFqKNRSJFa0r6ZRqQh",
-      "name": "Last Night a D.J. Saved My Life",
+      "track": {
+        "id": "34jtsFqKNRSJFa0r6ZRqQh",
+        "name": "Last Night a D.J. Saved My Life"
+      },
       "duration_ms": 252653,
-      "artist": [
-        "Indeep"
+      "artists": [
+        {
+          "name": "Indeep",
+          "id": "50xejJlMNloQ4PUB7lGP9h"
+        }
       ],
-      "artistId": [
-        "50xejJlMNloQ4PUB7lGP9h"
-      ],
-      "albumId": "1ADDWk1kGAsgKes4fik49O",
+      "album": {
+        "id": "1ADDWk1kGAsgKes4fik49O",
+        "name": "A Night to Remember (Mixed By Tony Okungbowa & Jojoflores)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02489e3d47204a86ebd21ea0c8"
+      },
       "release_date": "2012-05-01",
       "popularity": 59
     },
     {
-      "trackId": "7CjSjWTdVPD0ov82Qz55Xb",
-      "name": "Aquele Abraço",
+      "track": {
+        "id": "7CjSjWTdVPD0ov82Qz55Xb",
+        "name": "Aquele Abraço"
+      },
       "duration_ms": 323773,
-      "artist": [
-        "Gilberto Gil"
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "id": "7oEkUINVIj1Nr3Wnj8tzqr"
+        }
       ],
-      "artistId": [
-        "7oEkUINVIj1Nr3Wnj8tzqr"
-      ],
-      "albumId": "53eqd316Rs3te41yGRovYz",
+      "album": {
+        "id": "53eqd316Rs3te41yGRovYz",
+        "name": "Gilberto Gil (1969)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02736a08e23f212a2fea618eaa"
+      },
       "release_date": "1969-01-01",
       "popularity": 52
     },
     {
-      "trackId": "5YwgJ6lpZ3SiAQwBEpjqey",
-      "name": "Rose Garden",
+      "track": {
+        "id": "5YwgJ6lpZ3SiAQwBEpjqey",
+        "name": "Rose Garden"
+      },
       "duration_ms": 175866,
-      "artist": [
-        "Lynn Anderson"
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "id": "502FY8XQYRxClWgolQ3Hf2"
+        }
       ],
-      "artistId": [
-        "502FY8XQYRxClWgolQ3Hf2"
-      ],
-      "albumId": "2JItlMgM1n2GfKOmqYr8af",
+      "album": {
+        "id": "2JItlMgM1n2GfKOmqYr8af",
+        "name": "Rose Garden",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c88a398a82acc86bb938ebda"
+      },
       "release_date": "1971",
       "popularity": 62
     },
     {
-      "trackId": "1JxrrJ6942vcfEmwtzbfv2",
-      "name": "Pushback 5 - Ayesha Erotica Remix",
+      "track": {
+        "id": "1JxrrJ6942vcfEmwtzbfv2",
+        "name": "Pushback 5 - Ayesha Erotica Remix"
+      },
       "duration_ms": 219847,
-      "artist": [
-        "Aura",
-        "Ayesha Erotica"
+      "artists": [
+        {
+          "name": "Aura",
+          "id": "5bfbqVepB9jL5gBANS74iU"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "id": "6TMGw1UYn6DFEtn2f9mv8J"
+        }
       ],
-      "artistId": [
-        "5bfbqVepB9jL5gBANS74iU",
-        "6TMGw1UYn6DFEtn2f9mv8J"
-      ],
-      "albumId": "6jQsPmln0I2PJIaWYG99YD",
+      "album": {
+        "id": "6jQsPmln0I2PJIaWYG99YD",
+        "name": "Pushback 5: The Remixes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc0f4ee5748d8bce3253f58d"
+      },
       "release_date": "2019-06-19",
       "popularity": 25
     },
     {
-      "trackId": "362zcsyXMLbL7PNLhOovvm",
-      "name": "Computer Love",
+      "track": {
+        "id": "362zcsyXMLbL7PNLhOovvm",
+        "name": "Computer Love"
+      },
       "duration_ms": 283626,
-      "artist": [
-        "Zapp"
+      "artists": [
+        {
+          "name": "Zapp",
+          "id": "396Kh0m4wGUvcMUULw71yi"
+        }
       ],
-      "artistId": [
-        "396Kh0m4wGUvcMUULw71yi"
-      ],
-      "albumId": "3C9IDn2KBTZKRQ3Ldmm2Vr",
+      "album": {
+        "id": "3C9IDn2KBTZKRQ3Ldmm2Vr",
+        "name": "The New Zapp IV U",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c344708fbfd3541296bdda9"
+      },
       "release_date": "1985-01-01",
       "popularity": 54
     },
     {
-      "trackId": "5j6ODxGVhAWeCS49bBKuxz",
-      "name": "Old Time's Sake",
+      "track": {
+        "id": "5j6ODxGVhAWeCS49bBKuxz",
+        "name": "Old Time's Sake"
+      },
       "duration_ms": 278160,
-      "artist": [
-        "Eminem",
-        "Dr. Dre"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR",
-        "6DPYiyq5kWVQS4RGwxzPC7"
-      ],
-      "albumId": "7MZzYkbHL9Tk3O6WeD4Z0Z",
+      "album": {
+        "id": "7MZzYkbHL9Tk3O6WeD4Z0Z",
+        "name": "Relapse: Refill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506c4cc93e5a6234164125e1"
+      },
       "release_date": "2009-05-15",
       "popularity": 53
     },
     {
-      "trackId": "5KUiLOgwUB2Y8dzTBv8j7R",
-      "name": "Point of No Return",
+      "track": {
+        "id": "5KUiLOgwUB2Y8dzTBv8j7R",
+        "name": "Point of No Return"
+      },
       "duration_ms": 241826,
-      "artist": [
-        "Immortal Technique"
+      "artists": [
+        {
+          "name": "Immortal Technique",
+          "id": "7h8ja4JSORo2sXJPmCXRxa"
+        }
       ],
-      "artistId": [
-        "7h8ja4JSORo2sXJPmCXRxa"
-      ],
-      "albumId": "7wFFgBFdFJDvAM8ZHue160",
+      "album": {
+        "id": "7wFFgBFdFJDvAM8ZHue160",
+        "name": "Revolutionary Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02352008cb9cc9eebee4b9a0c2"
+      },
       "release_date": "2003-11-18",
       "popularity": 56
     },
     {
-      "trackId": "5ytEPt5WBgOBSQvy1S61e0",
-      "name": "En la Disco",
+      "track": {
+        "id": "5ytEPt5WBgOBSQvy1S61e0",
+        "name": "En la Disco"
+      },
       "duration_ms": 191666,
-      "artist": [
-        "Lady V",
-        "Linda Pira"
+      "artists": [
+        {
+          "name": "Lady V",
+          "id": "3oxpEEANO5X0pEDJfFtCzy"
+        },
+        {
+          "name": "Linda Pira",
+          "id": "3SeR7DBOGUlAX5Sw3wjPeM"
+        }
       ],
-      "artistId": [
-        "3oxpEEANO5X0pEDJfFtCzy",
-        "3SeR7DBOGUlAX5Sw3wjPeM"
-      ],
-      "albumId": "7x1qrzTbrv8pW1luhI2vvy",
+      "album": {
+        "id": "7x1qrzTbrv8pW1luhI2vvy",
+        "name": "En La Disco",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282486bea0eb6302cf875e4ed"
+      },
       "release_date": "2006-09-18",
       "popularity": 3
     },
     {
-      "trackId": "5QozZMQY8pD7xRb0BMf2O7",
-      "name": "vacation bible school",
+      "track": {
+        "id": "5QozZMQY8pD7xRb0BMf2O7",
+        "name": "vacation bible school"
+      },
       "duration_ms": 291692,
-      "artist": [
-        "Ayesha Erotica"
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "id": "6TMGw1UYn6DFEtn2f9mv8J"
+        }
       ],
-      "artistId": [
-        "6TMGw1UYn6DFEtn2f9mv8J"
-      ],
-      "albumId": "20Jp8MaLDkKBUoWtOP70im",
+      "album": {
+        "id": "20Jp8MaLDkKBUoWtOP70im",
+        "name": "horny.4u",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bd049448947d505d5c0f53dc"
+      },
       "release_date": "2018",
       "popularity": 66
     },
     {
-      "trackId": "1tI2y0Ga5Nyq5O6ao9akNr",
-      "name": "Violin Sonata No. 3: Fast & Intense – Very Slowly - Suddenly Fast - Very Lively - Very Slowly - Like a Waltz, Gracefully - Fast & Intense",
+      "track": {
+        "id": "1tI2y0Ga5Nyq5O6ao9akNr",
+        "name": "Violin Sonata No. 3: Fast & Intense – Very Slowly - Suddenly Fast - Very Lively - Very Slowly - Like a Waltz, Gracefully - Fast & Intense"
+      },
       "duration_ms": 968360,
-      "artist": [
-        "Samuel Adler",
-        "Michelle Ross",
-        "Michael Brown"
+      "artists": [
+        {
+          "name": "Samuel Adler",
+          "id": "3sUgRStdSSfAYxfjpRC87B"
+        },
+        {
+          "name": "Michelle Ross",
+          "id": "3ZtLL9qBFOp5nnCFoAdFjN"
+        },
+        {
+          "name": "Michael Brown",
+          "id": "4wTEZAuW45UHt83kcttRGi"
+        }
       ],
-      "artistId": [
-        "3sUgRStdSSfAYxfjpRC87B",
-        "3ZtLL9qBFOp5nnCFoAdFjN",
-        "4wTEZAuW45UHt83kcttRGi"
-      ],
-      "albumId": "4Un11ok6ucBbETi8nSPSn0",
+      "album": {
+        "id": "4Un11ok6ucBbETi8nSPSn0",
+        "name": "Samuel Adler: Chamber & Instrumental Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e021adc23ff1bc85e9abb13bee4"
+      },
       "release_date": "2022-01-07",
       "popularity": 0
     },
     {
-      "trackId": "0pQldnN72JHBdBZhnTEzxq",
-      "name": "Ain't Good Enough (Bonita Señorita) - DJ Krusty Remix",
+      "track": {
+        "id": "0pQldnN72JHBdBZhnTEzxq",
+        "name": "Ain't Good Enough (Bonita Señorita) - DJ Krusty Remix"
+      },
       "duration_ms": 217200,
-      "artist": [
-        "Bes Rakthai",
-        "Linda Pira"
+      "artists": [
+        {
+          "name": "Bes Rakthai",
+          "id": "1gl5oPCRDqZ1bdH3FkxnZz"
+        },
+        {
+          "name": "Linda Pira",
+          "id": "3SeR7DBOGUlAX5Sw3wjPeM"
+        }
       ],
-      "artistId": [
-        "1gl5oPCRDqZ1bdH3FkxnZz",
-        "3SeR7DBOGUlAX5Sw3wjPeM"
-      ],
-      "albumId": "2VNW1T5FC13b13BRXMCCVF",
+      "album": {
+        "id": "2VNW1T5FC13b13BRXMCCVF",
+        "name": "Ain't Good Enough (Bonita Señorita)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273824299eeb28a2ad1de80c1"
+      },
       "release_date": "2006-10-19",
       "popularity": 1
     }

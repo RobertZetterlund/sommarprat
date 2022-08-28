@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354639_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0chnUaWM073cQdQJLSMkAB",
-      "name": "(I Wish I Knew How It Would Feel To Be) Free / One - Medley",
+      "track": {
+        "id": "0chnUaWM073cQdQJLSMkAB",
+        "name": "(I Wish I Knew How It Would Feel To Be) Free / One - Medley"
+      },
       "duration_ms": 316360,
-      "artist": [
-        "Lighthouse Family"
+      "artists": [
+        {
+          "name": "Lighthouse Family",
+          "id": "6edGSAX5dVpeJVwu1Q0NwJ"
+        }
       ],
-      "artistId": [
-        "6edGSAX5dVpeJVwu1Q0NwJ"
-      ],
-      "albumId": "3bqtPZ5OFyLSjribXic2uj",
+      "album": {
+        "id": "3bqtPZ5OFyLSjribXic2uj",
+        "name": "Whatever Gets You Through The Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4abf38ab1b78088badaa792"
+      },
       "release_date": "2001-01-01",
       "popularity": 53
     },
     {
-      "trackId": "4aFC7Mes7CW5vHcb8ZApAx",
-      "name": "Ohne dich",
+      "track": {
+        "id": "4aFC7Mes7CW5vHcb8ZApAx",
+        "name": "Ohne dich"
+      },
       "duration_ms": 271173,
-      "artist": [
-        "Rammstein"
+      "artists": [
+        {
+          "name": "Rammstein",
+          "id": "6wWVKhxIU2cEi0K81v7HvP"
+        }
       ],
-      "artistId": [
-        "6wWVKhxIU2cEi0K81v7HvP"
-      ],
-      "albumId": "74ydDCcXTco741y42ceRJ5",
+      "album": {
+        "id": "74ydDCcXTco741y42ceRJ5",
+        "name": "Reise, Reise",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cbe7573e1175f842e24b34c2"
+      },
       "release_date": "2004-09-27",
       "popularity": 63
     },
     {
-      "trackId": "65f8Ca4HbZCMLhpZPTHW4O",
-      "name": "What It Is",
+      "track": {
+        "id": "65f8Ca4HbZCMLhpZPTHW4O",
+        "name": "What It Is"
+      },
       "duration_ms": 295893,
-      "artist": [
-        "Mark Knopfler"
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "id": "0FI0kxP0BWurTz8cB8BBug"
+        }
       ],
-      "artistId": [
-        "0FI0kxP0BWurTz8cB8BBug"
-      ],
-      "albumId": "7oIBSEe5L89s2UXK0I8tYg",
+      "album": {
+        "id": "7oIBSEe5L89s2UXK0I8tYg",
+        "name": "Sailing To Philadelphia",
+        "img": "https://i.scdn.co/image/ab67616d00001e02659eb0074558c8b6827df2ec"
+      },
       "release_date": "2000-09-26",
       "popularity": 59
     },
     {
-      "trackId": "7DvzeBaK7cZ4jJTL2OeYS4",
-      "name": "True Happiness This Way Lies",
+      "track": {
+        "id": "7DvzeBaK7cZ4jJTL2OeYS4",
+        "name": "True Happiness This Way Lies"
+      },
       "duration_ms": 190800,
-      "artist": [
-        "The The"
+      "artists": [
+        {
+          "name": "The The",
+          "id": "7cKtqv9cYVlOwnuCFH95ce"
+        }
       ],
-      "artistId": [
-        "7cKtqv9cYVlOwnuCFH95ce"
-      ],
-      "albumId": "2l787tSnzSfpfvgPNsR5O2",
+      "album": {
+        "id": "2l787tSnzSfpfvgPNsR5O2",
+        "name": "Dusk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c00d72d7d364109a77666c8c"
+      },
       "release_date": "1993",
       "popularity": 25
     },
     {
-      "trackId": "1kYeYUOjvEX9Vg3Tb8VIHR",
-      "name": "Gayatri Mantra",
+      "track": {
+        "id": "1kYeYUOjvEX9Vg3Tb8VIHR",
+        "name": "Gayatri Mantra"
+      },
       "duration_ms": 589266,
-      "artist": [
-        "Deva Premal"
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "id": "2970BxpdOBQmkMit6i9kVF"
+        }
       ],
-      "artistId": [
-        "2970BxpdOBQmkMit6i9kVF"
-      ],
-      "albumId": "5NbWbF9zhfw1SsCimjJh1y",
+      "album": {
+        "id": "5NbWbF9zhfw1SsCimjJh1y",
+        "name": "The Essence",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295b97ef88091246e1349337d"
+      },
       "release_date": "1998-03-01",
       "popularity": 58
     },
     {
-      "trackId": "2DK9tcwyNbAVWefmh7c53O",
-      "name": "I Only Ask of God",
+      "track": {
+        "id": "2DK9tcwyNbAVWefmh7c53O",
+        "name": "I Only Ask of God"
+      },
       "duration_ms": 221866,
-      "artist": [
-        "Outlandish"
+      "artists": [
+        {
+          "name": "Outlandish",
+          "id": "5tqMW5dSAlvh0GvgD3XfDy"
+        }
       ],
-      "artistId": [
-        "5tqMW5dSAlvh0GvgD3XfDy"
-      ],
-      "albumId": "4vSkSyRg0hlq71A9hxFqK0",
+      "album": {
+        "id": "4vSkSyRg0hlq71A9hxFqK0",
+        "name": "Closer Than Veins - Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bbf15531ede794620270916e"
+      },
       "release_date": "2006-07-01",
       "popularity": 29
     },
     {
-      "trackId": "615auKcis6sGDrHk6UTeog",
-      "name": "Hands",
+      "track": {
+        "id": "615auKcis6sGDrHk6UTeog",
+        "name": "Hands"
+      },
       "duration_ms": 235000,
-      "artist": [
-        "Jewel"
+      "artists": [
+        {
+          "name": "Jewel",
+          "id": "6FbDoZnMBTdhhhLuJBOOqP"
+        }
       ],
-      "artistId": [
-        "6FbDoZnMBTdhhhLuJBOOqP"
-      ],
-      "albumId": "6H5fEtBshFd291nOIy09ef",
+      "album": {
+        "id": "6H5fEtBshFd291nOIy09ef",
+        "name": "Spirit",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d0982b51c4cbb67c22c473"
+      },
       "release_date": "1998-11-17",
       "popularity": 57
     },
     {
-      "trackId": "4k7P2LIQco8YCVbIZl1vZB",
-      "name": "Just Say Yes",
+      "track": {
+        "id": "4k7P2LIQco8YCVbIZl1vZB",
+        "name": "Just Say Yes"
+      },
       "duration_ms": 281346,
-      "artist": [
-        "Snow Patrol"
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "id": "3rIZMv9rysU7JkLzEaC5Jp"
+        }
       ],
-      "artistId": [
-        "3rIZMv9rysU7JkLzEaC5Jp"
-      ],
-      "albumId": "1IN1tRZL4wr52v3iZBz4Qb",
+      "album": {
+        "id": "1IN1tRZL4wr52v3iZBz4Qb",
+        "name": "Up To Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209e243a09405dcfc10de9935"
+      },
       "release_date": "2009-01-01",
       "popularity": 59
     },
     {
-      "trackId": "3ZFTkvIE7kyPt6Nu3PEa7V",
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "track": {
+        "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
+        "name": "Hips Don't Lie (feat. Wyclef Jean)"
+      },
       "duration_ms": 218093,
-      "artist": [
-        "Shakira",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "5ppnlEoj4HdRRdRihnY3jU",
+      "album": {
+        "id": "5ppnlEoj4HdRRdRihnY3jU",
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227ddd747545c0d0cfe7595fa"
+      },
       "release_date": "2005-11-28",
       "popularity": 83
     },
     {
-      "trackId": "2ieh90nZLvQSJM4pWDr0s9",
-      "name": "Swimming In Your Ocean",
+      "track": {
+        "id": "2ieh90nZLvQSJM4pWDr0s9",
+        "name": "Swimming In Your Ocean"
+      },
       "duration_ms": 229066,
-      "artist": [
-        "Crash Test Dummies"
+      "artists": [
+        {
+          "name": "Crash Test Dummies",
+          "id": "1YEGETLT2p8k97LIo3deHL"
+        }
       ],
-      "artistId": [
-        "1YEGETLT2p8k97LIo3deHL"
-      ],
-      "albumId": "03dlqdFWY9gwJxGl3AREVy",
+      "album": {
+        "id": "03dlqdFWY9gwJxGl3AREVy",
+        "name": "God Shuffled His Feet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df9d39dded05faa9ed520ca6"
+      },
       "release_date": "1993-04-05",
       "popularity": 37
     },
     {
-      "trackId": "17hZQHHHsF1JWcPHV9tzgp",
-      "name": "Heaven/ Where True Love Goes",
+      "track": {
+        "id": "17hZQHHHsF1JWcPHV9tzgp",
+        "name": "Heaven/ Where True Love Goes"
+      },
       "duration_ms": 289866,
-      "artist": [
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "4HvKu6dInngrggvpHDUdEH",
+      "album": {
+        "id": "4HvKu6dInngrggvpHDUdEH",
+        "name": "An Other Cup",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239992634d64b7cd070c2cc08"
+      },
       "release_date": "2006-11-14",
       "popularity": 39
     }

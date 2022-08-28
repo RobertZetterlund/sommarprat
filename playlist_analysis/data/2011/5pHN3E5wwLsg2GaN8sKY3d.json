@@ -7,206 +7,298 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242446_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1OC0F8WF5s1P6Jjv9be04K",
-      "name": "The Flying Slayers",
+      "track": {
+        "id": "1OC0F8WF5s1P6Jjv9be04K",
+        "name": "The Flying Slayers"
+      },
       "duration_ms": 41025,
-      "artist": [
-        "Zondash"
+      "artists": [
+        {
+          "name": "Zondash",
+          "id": "3551jBT9G6VarbcRKu5Q4F"
+        }
       ],
-      "artistId": [
-        "3551jBT9G6VarbcRKu5Q4F"
-      ],
-      "albumId": "3nAFjTE0iDJyeaqZ3i09kd",
+      "album": {
+        "id": "3nAFjTE0iDJyeaqZ3i09kd",
+        "name": "The Flying Slayers",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202fe23b4a3abd81424b36c51"
+      },
       "release_date": "2022-07-10",
       "popularity": 24
     },
     {
-      "trackId": "5hhQFmHXcN6lqnID3zi51O",
-      "name": "I Forget You Every Day",
+      "track": {
+        "id": "5hhQFmHXcN6lqnID3zi51O",
+        "name": "I Forget You Every Day"
+      },
       "duration_ms": 273266,
-      "artist": [
-        "Chris Whitley"
+      "artists": [
+        {
+          "name": "Chris Whitley",
+          "id": "48oNDvKRqviSFzow0ZXHXa"
+        }
       ],
-      "artistId": [
-        "48oNDvKRqviSFzow0ZXHXa"
-      ],
-      "albumId": "2tUWC0QhUtONSwRD3YKMdT",
+      "album": {
+        "id": "2tUWC0QhUtONSwRD3YKMdT",
+        "name": "Living With The Law",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f81ed6b9de2b3f3092483c13"
+      },
       "release_date": "1991-07-02",
       "popularity": 16
     },
     {
-      "trackId": "1wo3sPQ60rUkV0GMJioik9",
-      "name": "Daughters - Live in Ohio, August 2004",
+      "track": {
+        "id": "1wo3sPQ60rUkV0GMJioik9",
+        "name": "Daughters - Live in Ohio, August 2004"
+      },
       "duration_ms": 497586,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "0u3x6X6FRE23fJEhPJoo6Q",
+      "album": {
+        "id": "0u3x6X6FRE23fJEhPJoo6Q",
+        "name": "As/Is: Live In Cleveland/Cincinnati, OH - 8/03-8/04/04",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fd5ead06cda1f0f0caa7e6d"
+      },
       "release_date": "2004-09-28",
       "popularity": 24
     },
     {
-      "trackId": "5xQLjEHGibyfh8YkAtMuWx",
-      "name": "Tiny Bubbles",
+      "track": {
+        "id": "5xQLjEHGibyfh8YkAtMuWx",
+        "name": "Tiny Bubbles"
+      },
       "duration_ms": 162786,
-      "artist": [
-        "Don Ho"
+      "artists": [
+        {
+          "name": "Don Ho",
+          "id": "3Ew1ynSmASX9Uec5FzBYrL"
+        }
       ],
-      "artistId": [
-        "3Ew1ynSmASX9Uec5FzBYrL"
-      ],
-      "albumId": "12jlS1kFwsM3EP6PrKYj9y",
+      "album": {
+        "id": "12jlS1kFwsM3EP6PrKYj9y",
+        "name": "Tiny Bubbles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9e5c10eb7699721b9eb50e1"
+      },
       "release_date": "2005-02-08",
       "popularity": 41
     },
     {
-      "trackId": "0yrPAg7GOSXNLthRWW620d",
-      "name": "California Gurls",
+      "track": {
+        "id": "0yrPAg7GOSXNLthRWW620d",
+        "name": "California Gurls"
+      },
       "duration_ms": 235081,
-      "artist": [
-        "Katy Perry",
-        "Snoop Dogg"
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "id": "6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "id": "7hJcb9fa4alzcOq3EaNPoG"
+        }
       ],
-      "artistId": [
-        "6jJ0s89eD6GaHleKKya26X",
-        "7hJcb9fa4alzcOq3EaNPoG"
-      ],
-      "albumId": "6o578137gjbSU5TkGD8biS",
+      "album": {
+        "id": "6o578137gjbSU5TkGD8biS",
+        "name": "Beach Girls",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e463dba5035f8bc7dd859d16"
+      },
       "release_date": "2021-11-26",
       "popularity": 13
     },
     {
-      "trackId": "4HCdu48LScraIfJ7Ik7EhE",
-      "name": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
+      "track": {
+        "id": "4HCdu48LScraIfJ7Ik7EhE",
+        "name": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version"
+      },
       "duration_ms": 392360,
-      "artist": [
-        "Trio"
+      "artists": [
+        {
+          "name": "Trio",
+          "id": "417rMeQ1e1B90lsiS1iMZ1"
+        }
       ],
-      "artistId": [
-        "417rMeQ1e1B90lsiS1iMZ1"
-      ],
-      "albumId": "39HzuoE8coAbqrKpPapa58",
+      "album": {
+        "id": "39HzuoE8coAbqrKpPapa58",
+        "name": "Da Da Da",
+        "img": "https://i.scdn.co/image/ab67616d00001e02622522eb397b53d5e9c05557"
+      },
       "release_date": "1996-01-01",
       "popularity": 47
     },
     {
-      "trackId": "2YtnggOozYXxbKccWUnrIu",
-      "name": "Good Thing",
+      "track": {
+        "id": "2YtnggOozYXxbKccWUnrIu",
+        "name": "Good Thing"
+      },
       "duration_ms": 223746,
-      "artist": [
-        "Rebecka Törnqvist"
+      "artists": [
+        {
+          "name": "Rebecka Törnqvist",
+          "id": "563fbLxFoPNypwvAbgNPhd"
+        }
       ],
-      "artistId": [
-        "563fbLxFoPNypwvAbgNPhd"
-      ],
-      "albumId": "2Yn8TaZxPDKyzNbR4froUt",
+      "album": {
+        "id": "2Yn8TaZxPDKyzNbR4froUt",
+        "name": "Good Thing",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264c62428424326cdce5482d2"
+      },
       "release_date": "1996-03-11",
       "popularity": 33
     },
     {
-      "trackId": "3KHef90iBi5MQp6O6eaPqo",
-      "name": "The Unknown",
+      "track": {
+        "id": "3KHef90iBi5MQp6O6eaPqo",
+        "name": "The Unknown"
+      },
       "duration_ms": 282053,
-      "artist": [
-        "Athlete"
+      "artists": [
+        {
+          "name": "Athlete",
+          "id": "6C0JkmxU2cgkVzotHJgfW7"
+        }
       ],
-      "artistId": [
-        "6C0JkmxU2cgkVzotHJgfW7"
-      ],
-      "albumId": "2YyShhrlUzkgVjHhn0Nmoo",
+      "album": {
+        "id": "2YyShhrlUzkgVjHhn0Nmoo",
+        "name": "Black Swan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280015b932f7342b1b155ec55"
+      },
       "release_date": "2009-01-01",
       "popularity": 27
     },
     {
-      "trackId": "06DSI8L6IT8SizCw3JLckz",
-      "name": "Cantaloop (Flip Fantasia)",
+      "track": {
+        "id": "06DSI8L6IT8SizCw3JLckz",
+        "name": "Cantaloop (Flip Fantasia)"
+      },
       "duration_ms": 279360,
-      "artist": [
-        "Us3",
-        "Rahsaan",
-        "Gerard Presencer"
+      "artists": [
+        {
+          "name": "Us3",
+          "id": "4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Rahsaan",
+          "id": "2cNCyL3WSlAatld5duatyD"
+        },
+        {
+          "name": "Gerard Presencer",
+          "id": "5A8UenAZRv51yZVv13nFQo"
+        }
       ],
-      "artistId": [
-        "4LtIfuFeAamus9OOItuWDD",
-        "2cNCyL3WSlAatld5duatyD",
-        "5A8UenAZRv51yZVv13nFQo"
-      ],
-      "albumId": "4Cm1wXjw6YCbkaiZZGNiZ1",
+      "album": {
+        "id": "4Cm1wXjw6YCbkaiZZGNiZ1",
+        "name": "Hand On The Torch",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243652f722c146ccaf19e2019"
+      },
       "release_date": "1993-01-01",
       "popularity": 54
     },
     {
-      "trackId": "1fDsrQ23eTAVFElUMaf38X",
-      "name": "American Pie",
+      "track": {
+        "id": "1fDsrQ23eTAVFElUMaf38X",
+        "name": "American Pie"
+      },
       "duration_ms": 516893,
-      "artist": [
-        "Don McLean"
+      "artists": [
+        {
+          "name": "Don McLean",
+          "id": "1gRNBaI4yn6wCCTvRhGWh8"
+        }
       ],
-      "artistId": [
-        "1gRNBaI4yn6wCCTvRhGWh8"
-      ],
-      "albumId": "10jsW2NYd9blCrDITMh2zS",
+      "album": {
+        "id": "10jsW2NYd9blCrDITMh2zS",
+        "name": "American Pie",
+        "img": "https://i.scdn.co/image/ab67616d00001e020085dd4362653ef4c54ebbeb"
+      },
       "release_date": "1971",
       "popularity": 76
     },
     {
-      "trackId": "5r5cp9IpziiIsR6b93vcnQ",
-      "name": "Walking On A Dream",
+      "track": {
+        "id": "5r5cp9IpziiIsR6b93vcnQ",
+        "name": "Walking On A Dream"
+      },
       "duration_ms": 198440,
-      "artist": [
-        "Empire of the Sun"
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "id": "67hb7towEyKvt5Z8Bx306c"
+        }
       ],
-      "artistId": [
-        "67hb7towEyKvt5Z8Bx306c"
-      ],
-      "albumId": "5B6XfyHHYawyLkEvNvhSPh",
+      "album": {
+        "id": "5B6XfyHHYawyLkEvNvhSPh",
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3aa0e6ca22a382007f61e4d"
+      },
       "release_date": "2008-10-03",
       "popularity": 78
     },
     {
-      "trackId": "00SmB7n85SKROGjybsyq5i",
-      "name": "Bongo Bong",
+      "track": {
+        "id": "00SmB7n85SKROGjybsyq5i",
+        "name": "Bongo Bong"
+      },
       "duration_ms": 158426,
-      "artist": [
-        "Manu Chao"
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "id": "6wH6iStAh4KIaWfuhf0NYM"
+        }
       ],
-      "artistId": [
-        "6wH6iStAh4KIaWfuhf0NYM"
-      ],
-      "albumId": "3xoAUqjKs7Ps7wR26VAMbq",
+      "album": {
+        "id": "3xoAUqjKs7Ps7wR26VAMbq",
+        "name": "Clandestino",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272c5875a8e4b49075978cd04"
+      },
       "release_date": "1998-10-06",
       "popularity": 68
     },
     {
-      "trackId": "3Lk7RWStfLaHG7lXsuS87j",
-      "name": "One",
+      "track": {
+        "id": "3Lk7RWStfLaHG7lXsuS87j",
+        "name": "One"
+      },
       "duration_ms": 260466,
-      "artist": [
-        "Mary J. Blige",
-        "U2"
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "1XkoF8ryArs86LZvFOkbyr",
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "13HYuDhB1soZvHzwoymXoV",
+      "album": {
+        "id": "13HYuDhB1soZvHzwoymXoV",
+        "name": "The Breakthrough",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f6c43d16c3d2c3685f81735"
+      },
       "release_date": "2005-01-01",
       "popularity": 64
     },
     {
-      "trackId": "3oQomOPRNQ5NVFUmLJHbAV",
-      "name": "Over the Rainbow",
+      "track": {
+        "id": "3oQomOPRNQ5NVFUmLJHbAV",
+        "name": "Over the Rainbow"
+      },
       "duration_ms": 211933,
-      "artist": [
-        "Israel Kamakawiwo'ole"
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "id": "4ogvuDRerGhZfSf7TtzHlr"
+        }
       ],
-      "artistId": [
-        "4ogvuDRerGhZfSf7TtzHlr"
-      ],
-      "albumId": "4aM85igbrBcoRZVt7L11Zn",
+      "album": {
+        "id": "4aM85igbrBcoRZVt7L11Zn",
+        "name": "Alone In Iz World",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256c868c8c85e7e4e62bd9ec1"
+      },
       "release_date": "2001-09-25",
       "popularity": 71
     }

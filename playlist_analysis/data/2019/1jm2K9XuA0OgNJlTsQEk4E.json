@@ -7,228 +7,334 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ae2cccec-e8ba-4181-879c-baf3f8bb9437.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "42ydLwx4i5V49RXHOozJZq",
-      "name": "Scars To Your Beautiful",
+      "track": {
+        "id": "42ydLwx4i5V49RXHOozJZq",
+        "name": "Scars To Your Beautiful"
+      },
       "duration_ms": 230226,
-      "artist": [
-        "Alessia Cara"
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "id": "2wUjUUtkb5lvLKcGKsKqsR"
+        }
       ],
-      "artistId": [
-        "2wUjUUtkb5lvLKcGKsKqsR"
-      ],
-      "albumId": "2AGNF8r2y8HL85yVk2bwmS",
+      "album": {
+        "id": "2AGNF8r2y8HL85yVk2bwmS",
+        "name": "Know-It-All (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a48794d471447a030998815"
+      },
       "release_date": "2016-03-11",
       "popularity": 73
     },
     {
-      "trackId": "7rWq6WfZNwilZgRvZUw6CQ",
-      "name": "Try",
+      "track": {
+        "id": "7rWq6WfZNwilZgRvZUw6CQ",
+        "name": "Try"
+      },
       "duration_ms": 224573,
-      "artist": [
-        "Colbie Caillat"
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "id": "6aZyMrc4doVtZyKNilOmwu"
+        }
       ],
-      "artistId": [
-        "6aZyMrc4doVtZyKNilOmwu"
-      ],
-      "albumId": "3Gvp7hk4YWaWg2mF0XAauA",
+      "album": {
+        "id": "3Gvp7hk4YWaWg2mF0XAauA",
+        "name": "Gypsy Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02554a0203a8fce451870f56ad"
+      },
       "release_date": "2014-09-29",
       "popularity": 47
     },
     {
-      "trackId": "1yHnRzLXEOOpK0JBRQruzJ",
-      "name": "Tack För Idag",
+      "track": {
+        "id": "1yHnRzLXEOOpK0JBRQruzJ",
+        "name": "Tack För Idag"
+      },
       "duration_ms": 203894,
-      "artist": [
-        "Albin Johnsén"
+      "artists": [
+        {
+          "name": "Albin Johnsén",
+          "id": "6IfZesOI3vKCZy8pjzVknj"
+        }
       ],
-      "artistId": [
-        "6IfZesOI3vKCZy8pjzVknj"
-      ],
-      "albumId": "0kDWZrSCvVTB1muHes8D2t",
+      "album": {
+        "id": "0kDWZrSCvVTB1muHes8D2t",
+        "name": "Du & Jag För Aldrig",
+        "img": "https://i.scdn.co/image/ab67616d00001e026664809c5ab38b6a8c465987"
+      },
       "release_date": "2018-06-15",
       "popularity": 34
     },
     {
-      "trackId": "5hDowhxXBk5POQppBYONeO",
-      "name": "Vart jag än går",
+      "track": {
+        "id": "5hDowhxXBk5POQppBYONeO",
+        "name": "Vart jag än går"
+      },
       "duration_ms": 207333,
-      "artist": [
-        "Stiftelsen"
+      "artists": [
+        {
+          "name": "Stiftelsen",
+          "id": "00PLVqZ4oaOmbI4lacLUBO"
+        }
       ],
-      "artistId": [
-        "00PLVqZ4oaOmbI4lacLUBO"
-      ],
-      "albumId": "02l3IMmYpgTPixONhItSBp",
+      "album": {
+        "id": "02l3IMmYpgTPixONhItSBp",
+        "name": "Ljungaverk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcb40ffbc7c5d2f20b62b0aa"
+      },
       "release_date": "2012-01-01",
       "popularity": 54
     },
     {
-      "trackId": "6hTcuIQa0sxrrByu9wTD7s",
-      "name": "Born to Run",
+      "track": {
+        "id": "6hTcuIQa0sxrrByu9wTD7s",
+        "name": "Born to Run"
+      },
       "duration_ms": 269920,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "43YIoHKSrEw2GJsWmhZIpu",
+      "album": {
+        "id": "43YIoHKSrEw2GJsWmhZIpu",
+        "name": "Born To Run",
+        "img": "https://i.scdn.co/image/ab67616d00001e02503143a281a3f30268dcd9f9"
+      },
       "release_date": "1975-08-25",
       "popularity": 72
     },
     {
-      "trackId": "5FQEeo3o0tPNxrsQPcmwlX",
-      "name": "Changes",
+      "track": {
+        "id": "5FQEeo3o0tPNxrsQPcmwlX",
+        "name": "Changes"
+      },
       "duration_ms": 142019,
-      "artist": [
-        "Mike Perry",
-        "Dimitri Vangelis & Wyman",
-        "TEN TIMES"
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "id": "6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "id": "10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "TEN TIMES",
+          "id": "3NccRg2H1XTSVekaTZZ3Xd"
+        }
       ],
-      "artistId": [
-        "6lB8vOoI4DRrrVxXwuV19c",
-        "10hGPIDZi33LRaYRIq3Bh4",
-        "3NccRg2H1XTSVekaTZZ3Xd"
-      ],
-      "albumId": "4aMTPu5UxcRpH0DGxPvxHj",
+      "album": {
+        "id": "4aMTPu5UxcRpH0DGxPvxHj",
+        "name": "Changes",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f9b807199246c1cf5533ef5"
+      },
       "release_date": "2019-04-12",
       "popularity": 58
     },
     {
-      "trackId": "0VGJt0JmgzBM1qh4PbLJE8",
-      "name": "La même",
+      "track": {
+        "id": "0VGJt0JmgzBM1qh4PbLJE8",
+        "name": "La même"
+      },
       "duration_ms": 199040,
-      "artist": [
-        "GIMS",
-        "Vianney"
+      "artists": [
+        {
+          "name": "GIMS",
+          "id": "0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Vianney",
+          "id": "4Nrd0CtP8txoQhnnlRA6V6"
+        }
       ],
-      "artistId": [
-        "0GOx72r5AAEKRGQFn3xqXK",
-        "4Nrd0CtP8txoQhnnlRA6V6"
-      ],
-      "albumId": "1M6fzuQYFey2QmayH1Mb13",
+      "album": {
+        "id": "1M6fzuQYFey2QmayH1Mb13",
+        "name": "Ceinture noire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4e779ff4e3092a3e73bab91"
+      },
       "release_date": "2018-03-23",
       "popularity": 51
     },
     {
-      "trackId": "2x0RZdkZcD8QRI53XT4GI5",
-      "name": "SOS (feat. Aloe Blacc)",
+      "track": {
+        "id": "2x0RZdkZcD8QRI53XT4GI5",
+        "name": "SOS (feat. Aloe Blacc)"
+      },
       "duration_ms": 157202,
-      "artist": [
-        "Avicii",
-        "Aloe Blacc"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Aloe Blacc",
+          "id": "0id62QV2SZZfvBn9xpmuCl"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "0id62QV2SZZfvBn9xpmuCl"
-      ],
-      "albumId": "6Ad1E9vl75ZB3Ir87zwXIJ",
+      "album": {
+        "id": "6Ad1E9vl75ZB3Ir87zwXIJ",
+        "name": "TIM",
+        "img": "https://i.scdn.co/image/ab67616d00001e02660ee24281a547103f466ff5"
+      },
       "release_date": "2019-06-06",
       "popularity": 71
     },
     {
-      "trackId": "4Chm6I1JQxs0y9iOXrwz0J",
-      "name": "Regnet (feat. Molly Sandén & SAMI)",
+      "track": {
+        "id": "4Chm6I1JQxs0y9iOXrwz0J",
+        "name": "Regnet (feat. Molly Sandén & SAMI)"
+      },
       "duration_ms": 217949,
-      "artist": [
-        "Petter",
-        "Molly Sandén",
-        "SAMI"
+      "artists": [
+        {
+          "name": "Petter",
+          "id": "5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Molly Sandén",
+          "id": "0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "SAMI",
+          "id": "0GYJScAPulF6GTFYJOpHVr"
+        }
       ],
-      "artistId": [
-        "5A0Bu9azuFEnud3q7t0V2r",
-        "0NRMzT05nsc8mTm4iUvuHY",
-        "0GYJScAPulF6GTFYJOpHVr"
-      ],
-      "albumId": "0gHhGVAa2evTww6NEwZI4G",
+      "album": {
+        "id": "0gHhGVAa2evTww6NEwZI4G",
+        "name": "Regnet (feat. Molly Sandén & SAMI)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af2d30ba77d9cc83be946d11"
+      },
       "release_date": "2018-05-25",
       "popularity": 34
     },
     {
-      "trackId": "5x5IZUp23tcwoD34HmMbkr",
-      "name": "Be the One - Ten Ven Remix",
+      "track": {
+        "id": "5x5IZUp23tcwoD34HmMbkr",
+        "name": "Be the One - Ten Ven Remix"
+      },
       "duration_ms": 324028,
-      "artist": [
-        "Dua Lipa",
-        "Ten Ven"
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "id": "6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Ten Ven",
+          "id": "0ZSLz27xUnI816MMtYfLMI"
+        }
       ],
-      "artistId": [
-        "6M2wZ9GZgrQXHCFfjv46we",
-        "0ZSLz27xUnI816MMtYfLMI"
-      ],
-      "albumId": "3gEg7Ts1cq2I5dmFm0vanu",
+      "album": {
+        "id": "3gEg7Ts1cq2I5dmFm0vanu",
+        "name": "Club Beats",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3f334a876a6edd627ce9d02"
+      },
       "release_date": "2022-08-05",
       "popularity": 1
     },
     {
-      "trackId": "5Hroj5K7vLpIG4FNCRIjbP",
-      "name": "Best Day Of My Life",
+      "track": {
+        "id": "5Hroj5K7vLpIG4FNCRIjbP",
+        "name": "Best Day Of My Life"
+      },
       "duration_ms": 194240,
-      "artist": [
-        "American Authors"
+      "artists": [
+        {
+          "name": "American Authors",
+          "id": "0MlOPi3zIDMVrfA9R04Fe3"
+        }
       ],
-      "artistId": [
-        "0MlOPi3zIDMVrfA9R04Fe3"
-      ],
-      "albumId": "0V4laGZGshNCpurfIdUhHv",
+      "album": {
+        "id": "0V4laGZGshNCpurfIdUhHv",
+        "name": "Oh, What A Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc761ba55b0e7abad4539abe"
+      },
       "release_date": "2014-01-01",
       "popularity": 80
     },
     {
-      "trackId": "0cv1Mnb47oMvjVKMc2cyZw",
-      "name": "Can't Hold Us Down (feat. Lil' Kim)",
+      "track": {
+        "id": "0cv1Mnb47oMvjVKMc2cyZw",
+        "name": "Can't Hold Us Down (feat. Lil' Kim)"
+      },
       "duration_ms": 255266,
-      "artist": [
-        "Christina Aguilera",
-        "Lil' Kim"
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "id": "1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "id": "5tth2a3v0sWwV1C7bApBdX"
+        }
       ],
-      "artistId": [
-        "1l7ZsJRRS8wlW3WfJfPfNS",
-        "5tth2a3v0sWwV1C7bApBdX"
-      ],
-      "albumId": "2USigX9DhGuAini71XZEEK",
+      "album": {
+        "id": "2USigX9DhGuAini71XZEEK",
+        "name": "Stripped",
+        "img": "https://i.scdn.co/image/ab67616d00001e027cd872c7701c4737b2f81d87"
+      },
       "release_date": "2002-07-19",
       "popularity": 61
     },
     {
-      "trackId": "3uVO0fpvKhuPCfGCAjJev0",
-      "name": "Ju Mer Dom Spottar",
+      "track": {
+        "id": "3uVO0fpvKhuPCfGCAjJev0",
+        "name": "Ju Mer Dom Spottar"
+      },
       "duration_ms": 192028,
-      "artist": [
-        "Kapten Röd"
+      "artists": [
+        {
+          "name": "Kapten Röd",
+          "id": "4G2UDRhQLUDq0f93giGYwA"
+        }
       ],
-      "artistId": [
-        "4G2UDRhQLUDq0f93giGYwA"
-      ],
-      "albumId": "0EvdD2eeFZDmzvuAZcGDdA",
+      "album": {
+        "id": "0EvdD2eeFZDmzvuAZcGDdA",
+        "name": "Fläcken Som Aldrig Går Bort",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a109d38660c27417fdf6049a"
+      },
       "release_date": "2011-07-06",
       "popularity": 51
     },
     {
-      "trackId": "15EZ0MVbTowb8ZvzgB02eO",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "15EZ0MVbTowb8ZvzgB02eO",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 174093,
-      "artist": [
-        "Nationalteatern"
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "id": "3GBq0lnwXpfnLmMndLDZ6U"
+        }
       ],
-      "artistId": [
-        "3GBq0lnwXpfnLmMndLDZ6U"
-      ],
-      "albumId": "0mwdXf3cr5jJnDaXTfcOIK",
+      "album": {
+        "id": "0mwdXf3cr5jJnDaXTfcOIK",
+        "name": "Barn av vår tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277e2729f5435fc8b778ed924"
+      },
       "release_date": "1978",
       "popularity": 49
     },
     {
-      "trackId": "2374M0fQpWi3dLnB54qaLX",
-      "name": "Africa",
+      "track": {
+        "id": "2374M0fQpWi3dLnB54qaLX",
+        "name": "Africa"
+      },
       "duration_ms": 295893,
-      "artist": [
-        "TOTO"
+      "artists": [
+        {
+          "name": "TOTO",
+          "id": "0PFtn5NtBbbUNbU9EAmIWF"
+        }
       ],
-      "artistId": [
-        "0PFtn5NtBbbUNbU9EAmIWF"
-      ],
-      "albumId": "62U7xIHcID94o20Of5ea4D",
+      "album": {
+        "id": "62U7xIHcID94o20Of5ea4D",
+        "name": "Toto IV",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b"
+      },
       "release_date": "1982-04-08",
       "popularity": 83
     }

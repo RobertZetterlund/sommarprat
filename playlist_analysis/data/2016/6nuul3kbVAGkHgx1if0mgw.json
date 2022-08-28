@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/457899ab-534f-4943-9da7-9202417c5b7a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0xljZqZHvXhVfse33fQ9bK",
-      "name": "Vem tänder stjärnorna",
+      "track": {
+        "id": "0xljZqZHvXhVfse33fQ9bK",
+        "name": "Vem tänder stjärnorna"
+      },
       "duration_ms": 243426,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "1gpNgZzbVcWCtHREPUkVRV",
+      "album": {
+        "id": "1gpNgZzbVcWCtHREPUkVRV",
+        "name": "En blekt blondins hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ecb81fc5f561ea4e429de30"
+      },
       "release_date": "1991-09-12",
       "popularity": 44
     },
     {
-      "trackId": "5MoDQWMDMaAGDEiWsJfeCi",
-      "name": "Eternal Flame",
+      "track": {
+        "id": "5MoDQWMDMaAGDEiWsJfeCi",
+        "name": "Eternal Flame"
+      },
       "duration_ms": 238026,
-      "artist": [
-        "The Bangles"
+      "artists": [
+        {
+          "name": "The Bangles",
+          "id": "51l0uqRxGaczYr4271pVIC"
+        }
       ],
-      "artistId": [
-        "51l0uqRxGaczYr4271pVIC"
-      ],
-      "albumId": "4yaX6Gmlvo42PnGgBdhzGf",
+      "album": {
+        "id": "4yaX6Gmlvo42PnGgBdhzGf",
+        "name": "The Essential Bangles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fed4a89ebe66064c67f2f4ea"
+      },
       "release_date": "2004",
       "popularity": 67
     },
     {
-      "trackId": "7o9uu2GDtVDr9nsR7ZRN73",
-      "name": "Time After Time",
+      "track": {
+        "id": "7o9uu2GDtVDr9nsR7ZRN73",
+        "name": "Time After Time"
+      },
       "duration_ms": 241333,
-      "artist": [
-        "Cyndi Lauper"
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY"
+        }
       ],
-      "artistId": [
-        "2BTZIqw0ntH9MvilQ3ewNY"
-      ],
-      "albumId": "1FvdZ1oizXwF9bxogujoF0",
+      "album": {
+        "id": "1FvdZ1oizXwF9bxogujoF0",
+        "name": "She's So Unusual",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252f532df7ba3269b0242fed9"
+      },
       "release_date": "1983-10-14",
       "popularity": 75
     },
     {
-      "trackId": "0FQJnOrMXL2r6OiGI1L6om",
-      "name": "Wind of Change (Made Popular By Scorpions) [Vocal Version]",
+      "track": {
+        "id": "0FQJnOrMXL2r6OiGI1L6om",
+        "name": "Wind of Change (Made Popular By Scorpions) [Vocal Version]"
+      },
       "duration_ms": 315654,
-      "artist": [
-        "Party Tyme Karaoke"
+      "artists": [
+        {
+          "name": "Party Tyme Karaoke",
+          "id": "3JoDcjZtpq0ccldFgYmeAB"
+        }
       ],
-      "artistId": [
-        "3JoDcjZtpq0ccldFgYmeAB"
-      ],
-      "albumId": "6KyN0iOK7BTR5LACGfZ0Ka",
+      "album": {
+        "id": "6KyN0iOK7BTR5LACGfZ0Ka",
+        "name": "Party Tyme Karaoke - Rock Male Hits 6 (Vocal Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02586b99fe3757161d2d952bf4"
+      },
       "release_date": "2020-12-18",
       "popularity": 0
     },
     {
-      "trackId": "15MJ5NThPjj6xhPcts8MiY",
-      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "track": {
+        "id": "15MJ5NThPjj6xhPcts8MiY",
+        "name": "Take My Breath Away - Love Theme from \"Top Gun\""
+      },
       "duration_ms": 255733,
-      "artist": [
-        "Berlin"
+      "artists": [
+        {
+          "name": "Berlin",
+          "id": "2aS6jYh7ysTL1ZUsHneNgM"
+        }
       ],
-      "artistId": [
-        "2aS6jYh7ysTL1ZUsHneNgM"
-      ],
-      "albumId": "6K8iDZW8jPaoiqSzFFebJA",
+      "album": {
+        "id": "6K8iDZW8jPaoiqSzFFebJA",
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa183fdd680f1d249ba2f893"
+      },
       "release_date": "1999-01-01",
       "popularity": 77
     },
     {
-      "trackId": "4jDmJ51x1o9NZB5Nxxc7gY",
-      "name": "Careless Whisper",
+      "track": {
+        "id": "4jDmJ51x1o9NZB5Nxxc7gY",
+        "name": "Careless Whisper"
+      },
       "duration_ms": 300106,
-      "artist": [
-        "George Michael"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo"
-      ],
-      "albumId": "3coLNlyStg9h7f8CZ103Rl",
+      "album": {
+        "id": "3coLNlyStg9h7f8CZ103Rl",
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264c19b24ce947ffa363f8f96"
+      },
       "release_date": "1998-11-09",
       "popularity": 79
     },
     {
-      "trackId": "5EQzuYfTZt7B2LqlvTF49l",
-      "name": "It's All Coming Back to Me Now",
+      "track": {
+        "id": "5EQzuYfTZt7B2LqlvTF49l",
+        "name": "It's All Coming Back to Me Now"
+      },
       "duration_ms": 456866,
-      "artist": [
-        "Céline Dion"
+      "artists": [
+        {
+          "name": "Céline Dion",
+          "id": "4S9EykWXhStSc15wEx8QFK"
+        }
       ],
-      "artistId": [
-        "4S9EykWXhStSc15wEx8QFK"
-      ],
-      "albumId": "2vk0n8aeQSO74VtQBbNDPR",
+      "album": {
+        "id": "2vk0n8aeQSO74VtQBbNDPR",
+        "name": "Falling into You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6aebd89b2dcda3348649633"
+      },
       "release_date": "1996-02-28",
       "popularity": 72
     },
     {
-      "trackId": "225xvV8r1yKMHErSWivnow",
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "track": {
+        "id": "225xvV8r1yKMHErSWivnow",
+        "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack"
+      },
       "duration_ms": 298760,
-      "artist": [
-        "Aerosmith"
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "id": "7Ey4PD4MYsKc5I2dolUwbH"
+        }
       ],
-      "artistId": [
-        "7Ey4PD4MYsKc5I2dolUwbH"
-      ],
-      "albumId": "4f7HKjBnjpMsDBDTHYV890",
+      "album": {
+        "id": "4f7HKjBnjpMsDBDTHYV890",
+        "name": "Armageddon - The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da8d92affd796f7e20af7375"
+      },
       "release_date": "1998-06-23",
       "popularity": 74
     },
     {
-      "trackId": "7Ewz6bJ97vUqk5HdkvguFQ",
-      "name": "Heaven",
+      "track": {
+        "id": "7Ewz6bJ97vUqk5HdkvguFQ",
+        "name": "Heaven"
+      },
       "duration_ms": 243360,
-      "artist": [
-        "Bryan Adams"
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "id": "3Z02hBLubJxuFJfhacLSDc"
+        }
       ],
-      "artistId": [
-        "3Z02hBLubJxuFJfhacLSDc"
-      ],
-      "albumId": "2o2G49EPi4lua5zgxUKhLL",
+      "album": {
+        "id": "2o2G49EPi4lua5zgxUKhLL",
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1fee2a55e98e22bf358512"
+      },
       "release_date": "1984-11-05",
       "popularity": 76
     },
     {
-      "trackId": "1eyq8cjUQ2daFthW2PC2GM",
-      "name": "Glory of Love",
+      "track": {
+        "id": "1eyq8cjUQ2daFthW2PC2GM",
+        "name": "Glory of Love"
+      },
       "duration_ms": 258333,
-      "artist": [
-        "Peter Cetera"
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "id": "5xWPOujQqd4wXyB08slZ9Z"
+        }
       ],
-      "artistId": [
-        "5xWPOujQqd4wXyB08slZ9Z"
-      ],
-      "albumId": "1O2sEdKLsSHROEyYgUQmnb",
+      "album": {
+        "id": "1O2sEdKLsSHROEyYgUQmnb",
+        "name": "Solitude / Solitaire",
+        "img": "https://i.scdn.co/image/ab67616d00001e029cd3665c5518c19b9ba36676"
+      },
       "release_date": "1986",
       "popularity": 72
     },
     {
-      "trackId": "4eHbdreAnSOrDDsFfc4Fpm",
-      "name": "I Will Always Love You",
+      "track": {
+        "id": "4eHbdreAnSOrDDsFfc4Fpm",
+        "name": "I Will Always Love You"
+      },
       "duration_ms": 271093,
-      "artist": [
-        "Whitney Houston"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP"
-      ],
-      "albumId": "7JVJlkNNobS0GSoy4tCS96",
+      "album": {
+        "id": "7JVJlkNNobS0GSoy4tCS96",
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02456c0b5d0316a80dc600802e"
+      },
       "release_date": "1992-11-17",
       "popularity": 76
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

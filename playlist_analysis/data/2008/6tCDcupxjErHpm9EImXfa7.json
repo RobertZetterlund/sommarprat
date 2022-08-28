@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252794_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "06Gdd6zfAHBy7B5DxaBugm",
-      "name": "Cashen dom tas",
+      "track": {
+        "id": "06Gdd6zfAHBy7B5DxaBugm",
+        "name": "Cashen dom tas"
+      },
       "duration_ms": 287893,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "5kdYKxMey0V4SNP3geTX9k",
+      "album": {
+        "id": "5kdYKxMey0V4SNP3geTX9k",
+        "name": "Cashen dom tas",
+        "img": "https://i.scdn.co/image/ab67616d00001e022bff445b58be18b9c053bed6"
+      },
       "release_date": "2003",
       "popularity": 45
     },
     {
-      "trackId": "39eZwqb8cC94W1m2r1W0YO",
-      "name": "I Still Dream About Trains",
+      "track": {
+        "id": "39eZwqb8cC94W1m2r1W0YO",
+        "name": "I Still Dream About Trains"
+      },
       "duration_ms": 211280,
-      "artist": [
-        "Doctor Paul"
+      "artists": [
+        {
+          "name": "Doctor Paul",
+          "id": "7BU2uXjpLbVFL6VrF7q5B3"
+        }
       ],
-      "artistId": [
-        "7BU2uXjpLbVFL6VrF7q5B3"
-      ],
-      "albumId": "6fvC4BO28XxECONqoSd0jM",
+      "album": {
+        "id": "6fvC4BO28XxECONqoSd0jM",
+        "name": "The Old Home Place",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dae74dd55e5120496cb06d3"
+      },
       "release_date": "2015-01-01",
       "popularity": 0
     },
     {
-      "trackId": "0UAEHlFR79k9CJvknSGUNf",
-      "name": "Pump Up The Jam - Edit",
+      "track": {
+        "id": "0UAEHlFR79k9CJvknSGUNf",
+        "name": "Pump Up The Jam - Edit"
+      },
       "duration_ms": 215040,
-      "artist": [
-        "Technotronic",
-        "Felly"
+      "artists": [
+        {
+          "name": "Technotronic",
+          "id": "2Cd98zHVdZeOCisc6Gi2sB"
+        },
+        {
+          "name": "Felly",
+          "id": "1pvibpCqTQG4mnbZ7vVSDj"
+        }
       ],
-      "artistId": [
-        "2Cd98zHVdZeOCisc6Gi2sB",
-        "1pvibpCqTQG4mnbZ7vVSDj"
-      ],
-      "albumId": "5uuAdNhG4ruMYRFPVCW8gL",
+      "album": {
+        "id": "5uuAdNhG4ruMYRFPVCW8gL",
+        "name": "Best Of",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1291485a66e5cbd0d9c878d"
+      },
       "release_date": "2011-01-01",
       "popularity": 68
     },
     {
-      "trackId": "719wxPtF8JSRENN2Rh0CuU",
-      "name": "Calleth You, Cometh I - Single Edit",
+      "track": {
+        "id": "719wxPtF8JSRENN2Rh0CuU",
+        "name": "Calleth You, Cometh I - Single Edit"
+      },
       "duration_ms": 231906,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "7e3xHc20MdU87k8YqMTMFf",
+      "album": {
+        "id": "7e3xHc20MdU87k8YqMTMFf",
+        "name": "It Takes A Fool To Remain Sane 2000 - 2011",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d3cfa8844d0f3895e1b6c97"
+      },
       "release_date": "2019-03-01",
       "popularity": 23
     },
     {
-      "trackId": "4bl8idKCKkuvOyHRFSWot4",
-      "name": "Brev från kolonien",
+      "track": {
+        "id": "4bl8idKCKkuvOyHRFSWot4",
+        "name": "Brev från kolonien"
+      },
       "duration_ms": 144866,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "2M1yifaX3hZ3j3o0n0sxlC",
+      "album": {
+        "id": "2M1yifaX3hZ3j3o0n0sxlC",
+        "name": "Visor och oförskämdheter",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d8c4872e0a0cb5cccc044c3"
+      },
       "release_date": "1965",
       "popularity": 44
     },
     {
-      "trackId": "21Ko7CH62N6s0sq2nfttv2",
-      "name": "Det blir alltid värre framåt natten",
+      "track": {
+        "id": "21Ko7CH62N6s0sq2nfttv2",
+        "name": "Det blir alltid värre framåt natten"
+      },
       "duration_ms": 182613,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "7eL1KLHKp4jJufO6wG6YsT",
+      "album": {
+        "id": "7eL1KLHKp4jJufO6wG6YsT",
+        "name": "Skifs Hits!",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b6331dc16a2187b2fb7c252"
+      },
       "release_date": "2005-04-08",
       "popularity": 29
     },
     {
-      "trackId": "5wwPdWKbDEiybmWkZqsGGn",
-      "name": "Next Up - S4-E2, Pt. 1",
+      "track": {
+        "id": "5wwPdWKbDEiybmWkZqsGGn",
+        "name": "Next Up - S4-E2, Pt. 1"
+      },
       "duration_ms": 120839,
-      "artist": [
-        "JBee",
-        "Mixtape Madness"
+      "artists": [
+        {
+          "name": "JBee",
+          "id": "3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "id": "4ocdD0Bi1syVqLs1GiHqQ9"
+        }
       ],
-      "artistId": [
-        "3LIh5lV3zpZkgmO0K6R6bq",
-        "4ocdD0Bi1syVqLs1GiHqQ9"
-      ],
-      "albumId": "0j070iW9OV0gL2IbSWIHcE",
+      "album": {
+        "id": "0j070iW9OV0gL2IbSWIHcE",
+        "name": "Next Up - S4-E2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b02c20ea0da1686e6f6ece01"
+      },
       "release_date": "2022-02-10",
       "popularity": 77
     },
     {
-      "trackId": "5kxcj63GYiractdCBUUU1G",
-      "name": "With Every Heartbeat",
+      "track": {
+        "id": "5kxcj63GYiractdCBUUU1G",
+        "name": "With Every Heartbeat"
+      },
       "duration_ms": 253186,
-      "artist": [
-        "Kleerup",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Kleerup",
+          "id": "2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "2YL0l5fnyHE9FEf1bwFGCc",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "6f3hgA3I0KTeH10Xw8IPZK",
+      "album": {
+        "id": "6f3hgA3I0KTeH10Xw8IPZK",
+        "name": "Kleerup (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258b18b34c02bbab701cd9e4d"
+      },
       "release_date": "2008-05-19",
       "popularity": 49
     },
     {
-      "trackId": "4LGMSdeKOUoy5Wf75Je0Hl",
-      "name": "Can I Get A...",
+      "track": {
+        "id": "4LGMSdeKOUoy5Wf75Je0Hl",
+        "name": "Can I Get A..."
+      },
       "duration_ms": 309773,
-      "artist": [
-        "JAY-Z",
-        "Amil",
-        "Ja Rule"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Amil",
+          "id": "6NzM38IkXdbQsQ4qW9CG7z"
+        },
+        {
+          "name": "Ja Rule",
+          "id": "1J2VVASYAamtQ3Bt8wGgA6"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB",
-        "6NzM38IkXdbQsQ4qW9CG7z",
-        "1J2VVASYAamtQ3Bt8wGgA6"
-      ],
-      "albumId": "3j1xCJdBMCl6wYQXurz2tb",
+      "album": {
+        "id": "3j1xCJdBMCl6wYQXurz2tb",
+        "name": "Vol.2... Hard Knock Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e029700390e9c33c62cfcd915ce"
+      },
       "release_date": "1998-11-29",
       "popularity": 60
     },
     {
-      "trackId": "7cS8Z27XiJmHQfi7f2jKBZ",
-      "name": "Mina Hundar",
+      "track": {
+        "id": "7cS8Z27XiJmHQfi7f2jKBZ",
+        "name": "Mina Hundar"
+      },
       "duration_ms": 230800,
-      "artist": [
-        "Fattaru",
-        "Henok"
+      "artists": [
+        {
+          "name": "Fattaru",
+          "id": "1Utg7DGaiaN2w4oEM3TcbY"
+        },
+        {
+          "name": "Henok",
+          "id": "09gGhXTRhShSaeZJav3skI"
+        }
       ],
-      "artistId": [
-        "1Utg7DGaiaN2w4oEM3TcbY",
-        "09gGhXTRhShSaeZJav3skI"
-      ],
-      "albumId": "67y8uqPKK8kHHEMtvsWJeE",
+      "album": {
+        "id": "67y8uqPKK8kHHEMtvsWJeE",
+        "name": "Fatta Eld",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b068a8356cb557c9651fd016"
+      },
       "release_date": "2001-01-01",
       "popularity": 35
     },
     {
-      "trackId": "0abILBsLamo00k8DZPMdZB",
-      "name": "Jag skiter",
+      "track": {
+        "id": "0abILBsLamo00k8DZPMdZB",
+        "name": "Jag skiter"
+      },
       "duration_ms": 204426,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "0EOaMsXZUkDxDNYi5rNt8u",
+      "album": {
+        "id": "0EOaMsXZUkDxDNYi5rNt8u",
+        "name": "Va ska man ta livet av sig för när man ändå inte får höra snacket efteråt",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297058fe013748dbbd5433caf"
+      },
       "release_date": "1977-05-06",
       "popularity": 38
     },
     {
-      "trackId": "3SCVtAJq8li6HlKfM4M08u",
-      "name": "Gimme the Light",
+      "track": {
+        "id": "3SCVtAJq8li6HlKfM4M08u",
+        "name": "Gimme the Light"
+      },
       "duration_ms": 228000,
-      "artist": [
-        "Sean Paul"
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "id": "3Isy6kedDrgPYoTS1dazA9"
+        }
       ],
-      "artistId": [
-        "3Isy6kedDrgPYoTS1dazA9"
-      ],
-      "albumId": "3nAwSh2fcp3M8voQKZS2as",
+      "album": {
+        "id": "3nAwSh2fcp3M8voQKZS2as",
+        "name": "Dutty Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df82ce803b2a84ce68e66e6d"
+      },
       "release_date": "2002-11-12",
       "popularity": 61
     }

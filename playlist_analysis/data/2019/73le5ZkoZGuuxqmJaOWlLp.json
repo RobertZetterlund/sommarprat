@@ -7,258 +7,370 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/6ac52eca-0380-4d0d-8b3c-c660be404ff8.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5yMXAaSvxo12QkYU75Ixv0",
-      "name": "Luka",
+      "track": {
+        "id": "5yMXAaSvxo12QkYU75Ixv0",
+        "name": "Luka"
+      },
       "duration_ms": 231933,
-      "artist": [
-        "Suzanne Vega"
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "id": "3X0tJzVYoWlfjLYI0Ridsw"
+        }
       ],
-      "artistId": [
-        "3X0tJzVYoWlfjLYI0Ridsw"
-      ],
-      "albumId": "5w4IN5bPXAQD5iAVPNqvMg",
+      "album": {
+        "id": "5w4IN5bPXAQD5iAVPNqvMg",
+        "name": "Solitude Standing",
+        "img": "https://i.scdn.co/image/ab67616d00001e02680490be41cefe6655496c68"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "01QLHKTM642evmldSobVQw",
-      "name": "Flickan och kråkan",
+      "track": {
+        "id": "01QLHKTM642evmldSobVQw",
+        "name": "Flickan och kråkan"
+      },
       "duration_ms": 211386,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "7qwiuPpSVbqtYvi2YuyhB9",
+      "album": {
+        "id": "7qwiuPpSVbqtYvi2YuyhB9",
+        "name": "Versioner",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d47d475a9e6bd64dfccc815"
+      },
       "release_date": "2011-12-23",
       "popularity": 45
     },
     {
-      "trackId": "1XNFR1ubdBnvYTsUjdeqjz",
-      "name": "Little Me - Unplugged",
+      "track": {
+        "id": "1XNFR1ubdBnvYTsUjdeqjz",
+        "name": "Little Me - Unplugged"
+      },
       "duration_ms": 236920,
-      "artist": [
-        "Little Mix"
+      "artists": [
+        {
+          "name": "Little Mix",
+          "id": "3e7awlrlDSwF3iM0WBjGMp"
+        }
       ],
-      "artistId": [
-        "3e7awlrlDSwF3iM0WBjGMp"
-      ],
-      "albumId": "4cH9WxyfNWlfR257RitWBt",
+      "album": {
+        "id": "4cH9WxyfNWlfR257RitWBt",
+        "name": "Salute (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3d3d1ba43e085f5ab80e56a"
+      },
       "release_date": "2013-11-11",
       "popularity": 40
     },
     {
-      "trackId": "7nLMZKhfkFZLr9rz4VyOpF",
-      "name": "Vart jag mig i världen vänder",
+      "track": {
+        "id": "7nLMZKhfkFZLr9rz4VyOpF",
+        "name": "Vart jag mig i världen vänder"
+      },
       "duration_ms": 212109,
-      "artist": [
-        "Den svenska björnstammen"
+      "artists": [
+        {
+          "name": "Den svenska björnstammen",
+          "id": "0NyrvUybTePmsuED5vZi4G"
+        }
       ],
-      "artistId": [
-        "0NyrvUybTePmsuED5vZi4G"
-      ],
-      "albumId": "5GkyGLEWLO3RNzZAmOZgLt",
+      "album": {
+        "id": "5GkyGLEWLO3RNzZAmOZgLt",
+        "name": "Ett fel närmare rätt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae427f91828f26f16e62a6a1"
+      },
       "release_date": "2012-01-01",
       "popularity": 59
     },
     {
-      "trackId": "4w3tQBXhn5345eUXDGBWZG",
-      "name": "9 to 5",
+      "track": {
+        "id": "4w3tQBXhn5345eUXDGBWZG",
+        "name": "9 to 5"
+      },
       "duration_ms": 162466,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "64Ky1tqKPfwxhJs6msphWd",
+      "album": {
+        "id": "64Ky1tqKPfwxhJs6msphWd",
+        "name": "9 To 5 And Odd Jobs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02060ccf36ab5b0e0a739799ec"
+      },
       "release_date": "1980",
       "popularity": 76
     },
     {
-      "trackId": "29nbdRby3DgHTub5LVponf",
-      "name": "Kungsholmens Hamn",
+      "track": {
+        "id": "29nbdRby3DgHTub5LVponf",
+        "name": "Kungsholmens Hamn"
+      },
       "duration_ms": 211546,
-      "artist": [
-        "Melissa Horn"
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "id": "0tOdy7SqogILIjzGU2hSr5"
+        }
       ],
-      "artistId": [
-        "0tOdy7SqogILIjzGU2hSr5"
-      ],
-      "albumId": "357nQyU7dtZmBxRckZR1Vh",
+      "album": {
+        "id": "357nQyU7dtZmBxRckZR1Vh",
+        "name": "Långa Nätter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa994846ca8fe4ec4698c5f1"
+      },
       "release_date": "2008-04-28",
       "popularity": 32
     },
     {
-      "trackId": "0b9oOr2ZgvyQu88wzixux9",
-      "name": "This Is America",
+      "track": {
+        "id": "0b9oOr2ZgvyQu88wzixux9",
+        "name": "This Is America"
+      },
       "duration_ms": 225773,
-      "artist": [
-        "Childish Gambino"
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "id": "73sIBHcqh3Z3NyqHKZ7FOL"
+        }
       ],
-      "artistId": [
-        "73sIBHcqh3Z3NyqHKZ7FOL"
-      ],
-      "albumId": "7arx9qPJexCsDz67El4qvk",
+      "album": {
+        "id": "7arx9qPJexCsDz67El4qvk",
+        "name": "This Is America",
+        "img": "https://i.scdn.co/image/ab67616d00001e023504664c17b7b99a3cb7d116"
+      },
       "release_date": "2018-05-06",
       "popularity": 70
     },
     {
-      "trackId": "5YFEqFTmsbqyamFvFA7Wdc",
-      "name": "Wire To Wire",
+      "track": {
+        "id": "5YFEqFTmsbqyamFvFA7Wdc",
+        "name": "Wire To Wire"
+      },
       "duration_ms": 178280,
-      "artist": [
-        "Razorlight"
+      "artists": [
+        {
+          "name": "Razorlight",
+          "id": "450iujbtN6XgiA9pv6fVZz"
+        }
       ],
-      "artistId": [
-        "450iujbtN6XgiA9pv6fVZz"
-      ],
-      "albumId": "00OgN62HrBU8XAeo1k6oCI",
+      "album": {
+        "id": "00OgN62HrBU8XAeo1k6oCI",
+        "name": "Slipway Fires",
+        "img": "https://i.scdn.co/image/ab67616d00001e02804f0338abfe67b043c17e47"
+      },
       "release_date": "2008-01-01",
       "popularity": 59
     },
     {
-      "trackId": "4t7ix01Vh1QIZfKEeerLLZ",
-      "name": "Colored People - Remastered 2013",
+      "track": {
+        "id": "4t7ix01Vh1QIZfKEeerLLZ",
+        "name": "Colored People - Remastered 2013"
+      },
       "duration_ms": 266413,
-      "artist": [
-        "DC Talk"
+      "artists": [
+        {
+          "name": "DC Talk",
+          "id": "1zK4ACgLi1lVPpfmmcwOTh"
+        }
       ],
-      "artistId": [
-        "1zK4ACgLi1lVPpfmmcwOTh"
-      ],
-      "albumId": "6KbHC5ADEGbnvl7Ge3GVQF",
+      "album": {
+        "id": "6KbHC5ADEGbnvl7Ge3GVQF",
+        "name": "Jesus Freak (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c592d8aca952dacc3df87487"
+      },
       "release_date": "1995",
       "popularity": 38
     },
     {
-      "trackId": "07nHpBQ9itIMxguWZOk5Fb",
-      "name": "Used To Love You",
+      "track": {
+        "id": "07nHpBQ9itIMxguWZOk5Fb",
+        "name": "Used To Love You"
+      },
       "duration_ms": 227680,
-      "artist": [
-        "Gwen Stefani"
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "id": "4yiQZ8tQPux8cPriYMWUFP"
+        }
       ],
-      "artistId": [
-        "4yiQZ8tQPux8cPriYMWUFP"
-      ],
-      "albumId": "2es3eRI3drhe6WKdCuHjGM",
+      "album": {
+        "id": "2es3eRI3drhe6WKdCuHjGM",
+        "name": "This Is What The Truth Feels Like",
+        "img": "https://i.scdn.co/image/ab67616d00001e02207babffed2c37e43256bd15"
+      },
       "release_date": "2016-03-18",
       "popularity": 40
     },
     {
-      "trackId": "1ue71r2sNUvl4LSqvgVVcZ",
-      "name": "Molitva - Serbian Version",
+      "track": {
+        "id": "1ue71r2sNUvl4LSqvgVVcZ",
+        "name": "Molitva - Serbian Version"
+      },
       "duration_ms": 182533,
-      "artist": [
-        "Marija Šerifović"
+      "artists": [
+        {
+          "name": "Marija Šerifović",
+          "id": "1TaKcFKO3X4wmPNcOVTJJ4"
+        }
       ],
-      "artistId": [
-        "1TaKcFKO3X4wmPNcOVTJJ4"
-      ],
-      "albumId": "0imvU8odxMmfZFf1rn6uGB",
+      "album": {
+        "id": "0imvU8odxMmfZFf1rn6uGB",
+        "name": "Molitva Destiny (Eurovision Winner 2007 - Serbia)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297995dacc8da89f2cc65ddd0"
+      },
       "release_date": "2007-07-30",
       "popularity": 38
     },
     {
-      "trackId": "0DDZoIXfwsqUjCXJHomP1G",
-      "name": "Molitva (ESC) - Serbian Version",
+      "track": {
+        "id": "0DDZoIXfwsqUjCXJHomP1G",
+        "name": "Molitva (ESC) - Serbian Version"
+      },
       "duration_ms": 182533,
-      "artist": [
-        "Marija Šerifović"
+      "artists": [
+        {
+          "name": "Marija Šerifović",
+          "id": "1TaKcFKO3X4wmPNcOVTJJ4"
+        }
       ],
-      "artistId": [
-        "1TaKcFKO3X4wmPNcOVTJJ4"
-      ],
-      "albumId": "110tseEnEeZGKkcwzUWxUf",
+      "album": {
+        "id": "110tseEnEeZGKkcwzUWxUf",
+        "name": "Molitva Destiny (Eurovision Winner 2007 - Serbia)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208cba6ac5125e114ec2a1106"
+      },
       "release_date": "2007-07-31",
       "popularity": 14
     },
     {
-      "trackId": "623lYBOJ7bLwh1bu3yeN5V",
-      "name": "God Bless The U.S.A.",
+      "track": {
+        "id": "623lYBOJ7bLwh1bu3yeN5V",
+        "name": "God Bless The U.S.A."
+      },
       "duration_ms": 191600,
-      "artist": [
-        "Lee Greenwood"
+      "artists": [
+        {
+          "name": "Lee Greenwood",
+          "id": "3g229vTyhsdwm9SO2p1FPL"
+        }
       ],
-      "artistId": [
-        "3g229vTyhsdwm9SO2p1FPL"
-      ],
-      "albumId": "5YeR8Om8eLONq8C8pluHn7",
+      "album": {
+        "id": "5YeR8Om8eLONq8C8pluHn7",
+        "name": "American Patriot",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfe3b9117702b68a09e54ca8"
+      },
       "release_date": "1992-01-01",
       "popularity": 56
     },
     {
-      "trackId": "6tp27J7xy18DQiQXut3GsF",
-      "name": "Don't Lie",
+      "track": {
+        "id": "6tp27J7xy18DQiQXut3GsF",
+        "name": "Don't Lie"
+      },
       "duration_ms": 219000,
-      "artist": [
-        "Black Eyed Peas"
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "id": "1yxSLGMDHlW21z4YXirZDS"
+        }
       ],
-      "artistId": [
-        "1yxSLGMDHlW21z4YXirZDS"
-      ],
-      "albumId": "6VsJamdhvYKcnpwHAKULI0",
+      "album": {
+        "id": "6VsJamdhvYKcnpwHAKULI0",
+        "name": "Monkey Business",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354"
+      },
       "release_date": "2005-01-01",
       "popularity": 63
     },
     {
-      "trackId": "6tp27J7xy18DQiQXut3GsF",
-      "name": "Don't Lie",
+      "track": {
+        "id": "6tp27J7xy18DQiQXut3GsF",
+        "name": "Don't Lie"
+      },
       "duration_ms": 219000,
-      "artist": [
-        "Black Eyed Peas"
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "id": "1yxSLGMDHlW21z4YXirZDS"
+        }
       ],
-      "artistId": [
-        "1yxSLGMDHlW21z4YXirZDS"
-      ],
-      "albumId": "6VsJamdhvYKcnpwHAKULI0",
+      "album": {
+        "id": "6VsJamdhvYKcnpwHAKULI0",
+        "name": "Monkey Business",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354"
+      },
       "release_date": "2005-01-01",
       "popularity": 63
     },
     {
-      "trackId": "2gnZad0pb6QtUqMLTj2AjI",
-      "name": "Please Don't Leave Me",
+      "track": {
+        "id": "2gnZad0pb6QtUqMLTj2AjI",
+        "name": "Please Don't Leave Me"
+      },
       "duration_ms": 231560,
-      "artist": [
-        "P!nk"
+      "artists": [
+        {
+          "name": "P!nk",
+          "id": "1KCSPY1glIKqW2TotWuXOR"
+        }
       ],
-      "artistId": [
-        "1KCSPY1glIKqW2TotWuXOR"
-      ],
-      "albumId": "1LOJfNDxQhbpssKx7oM7at",
+      "album": {
+        "id": "1LOJfNDxQhbpssKx7oM7at",
+        "name": "Funhouse (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a45d5041e4ffcb9f756f740"
+      },
       "release_date": "2008-10-24",
       "popularity": 61
     },
     {
-      "trackId": "4TTV7EcfroSLWzXRY6gLv6",
-      "name": "Alexander Hamilton",
+      "track": {
+        "id": "4TTV7EcfroSLWzXRY6gLv6",
+        "name": "Alexander Hamilton"
+      },
       "duration_ms": 236737,
-      "artist": [
-        "Leslie Odom Jr.",
-        "Daveed Diggs",
-        "Okieriete Onaodowan"
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "id": "3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "id": "3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "id": "6G3sPhnj4JBCsBVBGvZnkk"
+        }
       ],
-      "artistId": [
-        "3cR4rhS2hBWqI7rJEBacvN",
-        "3twuAojvYNrlWZpMkxLm3P",
-        "6G3sPhnj4JBCsBVBGvZnkk"
-      ],
-      "albumId": "1kCHru7uhxBUdzkm4gzRQc",
+      "album": {
+        "id": "1kCHru7uhxBUdzkm4gzRQc",
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d72fb5571087bca0a2fed008"
+      },
       "release_date": "2015-09-25",
       "popularity": 69
     },
     {
-      "trackId": "1DK2JuYarBeNwcLNPw1Qyo",
-      "name": "Paper Trails",
+      "track": {
+        "id": "1DK2JuYarBeNwcLNPw1Qyo",
+        "name": "Paper Trails"
+      },
       "duration_ms": 289840,
-      "artist": [
-        "DARKSIDE"
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "id": "2933wDUojoQmvqSdTAE5NB"
+        }
       ],
-      "artistId": [
-        "2933wDUojoQmvqSdTAE5NB"
-      ],
-      "albumId": "2Q7l5NR9ZY8gfkkTtBnlBt",
+      "album": {
+        "id": "2Q7l5NR9ZY8gfkkTtBnlBt",
+        "name": "Psychic",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260fb53fd28a1debe0dc716a9"
+      },
       "release_date": "2013-10-07",
       "popularity": 53
     }

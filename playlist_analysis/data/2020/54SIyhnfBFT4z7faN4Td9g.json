@@ -7,228 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/68b818d7-805d-4e9d-9f43-e527d1265cfc.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3gXV3hlrEZilq4DclC2hoW",
-      "name": "Ack, Värmeland du sköna",
+      "track": {
+        "id": "3gXV3hlrEZilq4DclC2hoW",
+        "name": "Ack, Värmeland du sköna"
+      },
       "duration_ms": 158360,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "47nQ3PCd0XrIHzFIaamtEi",
+      "album": {
+        "id": "47nQ3PCd0XrIHzFIaamtEi",
+        "name": "The Lost Tapes",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233cb267657c4ff8f172605dd"
+      },
       "release_date": "1996-05-28",
       "popularity": 33
     },
     {
-      "trackId": "4EtW3t5xOAXgVPRAQ9d6Qj",
-      "name": "Alice",
+      "track": {
+        "id": "4EtW3t5xOAXgVPRAQ9d6Qj",
+        "name": "Alice"
+      },
       "duration_ms": 130000,
-      "artist": [
-        "Fabio D'amato"
+      "artists": [
+        {
+          "name": "Fabio D'amato",
+          "id": "6EwgM3iiUdpIg388UGbU4p"
+        }
       ],
-      "artistId": [
-        "6EwgM3iiUdpIg388UGbU4p"
-      ],
-      "albumId": "6HNRUm8nnVvwyDCZrCKYdb",
+      "album": {
+        "id": "6HNRUm8nnVvwyDCZrCKYdb",
+        "name": "Essential Songs (Music for Movies)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281fc68ea76dcf958244b3ada"
+      },
       "release_date": "2017-05-15",
       "popularity": 34
     },
     {
-      "trackId": "3Qf0WeE4W3ZxaSWfSYFUWy",
-      "name": "March Of The Women",
+      "track": {
+        "id": "3Qf0WeE4W3ZxaSWfSYFUWy",
+        "name": "March Of The Women"
+      },
       "duration_ms": 195447,
-      "artist": [
-        "Suffrage Sinfonia"
+      "artists": [
+        {
+          "name": "Suffrage Sinfonia",
+          "id": "4jL0oZsSF6u5Bo6tfwjuqG"
+        }
       ],
-      "artistId": [
-        "4jL0oZsSF6u5Bo6tfwjuqG"
-      ],
-      "albumId": "2rtbNvwT0sX3bDgZcsvIqa",
+      "album": {
+        "id": "2rtbNvwT0sX3bDgZcsvIqa",
+        "name": "The Lost Women Of Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1209942958b169f20e5af1c"
+      },
       "release_date": "2019-03-08",
       "popularity": 7
     },
     {
-      "trackId": "0OCxJdB8KzFclud9KJdyvo",
-      "name": "Tin Man",
+      "track": {
+        "id": "0OCxJdB8KzFclud9KJdyvo",
+        "name": "Tin Man"
+      },
       "duration_ms": 228933,
-      "artist": [
-        "John Edwards"
+      "artists": [
+        {
+          "name": "John Edwards",
+          "id": "0380jsc7ep8CVfB09E5a3E"
+        }
       ],
-      "artistId": [
-        "0380jsc7ep8CVfB09E5a3E"
-      ],
-      "albumId": "31w3UbX815fiqHSjXmdCIr",
+      "album": {
+        "id": "31w3UbX815fiqHSjXmdCIr",
+        "name": "Careful Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b21672d6a08fc61d3dd81a38"
+      },
       "release_date": "2011-02-21",
       "popularity": 30
     },
     {
-      "trackId": "5OtACD6uzSz0ukVy3JzkkB",
-      "name": "Concertino da Camera (1935): Allegro con moto",
+      "track": {
+        "id": "5OtACD6uzSz0ukVy3JzkkB",
+        "name": "Concertino da Camera (1935): Allegro con moto"
+      },
       "duration_ms": 260133,
-      "artist": [
-        "Jacques Ibert",
-        "Juha Kangas"
+      "artists": [
+        {
+          "name": "Jacques Ibert",
+          "id": "3KSFGteIQYY5pgE3veclRk"
+        },
+        {
+          "name": "Juha Kangas",
+          "id": "5gMz7LgQQAyDNGAVUrMCFB"
+        }
       ],
-      "artistId": [
-        "3KSFGteIQYY5pgE3veclRk",
-        "5gMz7LgQQAyDNGAVUrMCFB"
-      ],
-      "albumId": "57rokY0Lhyak4bpPJd2FvP",
+      "album": {
+        "id": "57rokY0Lhyak4bpPJd2FvP",
+        "name": "Ibert/Martin/Lasson: Saxophon Concertos",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa9c1581047b84258e76a347"
+      },
       "release_date": "1995-06-23",
       "popularity": 0
     },
     {
-      "trackId": "3Arbc3sFz3TLPWqHEzuqf0",
-      "name": "Mayer am Pfarrplatz",
+      "track": {
+        "id": "3Arbc3sFz3TLPWqHEzuqf0",
+        "name": "Mayer am Pfarrplatz"
+      },
       "duration_ms": 84466,
-      "artist": [
-        "Manfred Hanifl"
+      "artists": [
+        {
+          "name": "Manfred Hanifl",
+          "id": "15sYnYl8qqf5fiJl91BgEv"
+        }
       ],
-      "artistId": [
-        "15sYnYl8qqf5fiJl91BgEv"
-      ],
-      "albumId": "0yoQM4v7qtRU1z4R3q6IrO",
+      "album": {
+        "id": "0yoQM4v7qtRU1z4R3q6IrO",
+        "name": "Wiener Heurigenmusik vom Mayer am Pfarrplatz",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfd3f30c3fda41a08990259f"
+      },
       "release_date": "2021-11-25",
       "popularity": 12
     },
     {
-      "trackId": "0Bg70fyCFqNJpERbu9UaxJ",
-      "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
+      "track": {
+        "id": "0Bg70fyCFqNJpERbu9UaxJ",
+        "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio"
+      },
       "duration_ms": 361493,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Zoltán Kocsis",
-        "Liszt Ferenc Chamber Orchestra"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Zoltán Kocsis",
+          "id": "5Gi9bw3svtZMwonzcQG2wm"
+        },
+        {
+          "name": "Liszt Ferenc Chamber Orchestra",
+          "id": "6QZkgt4JiF3RQcvxggrMxr"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5Gi9bw3svtZMwonzcQG2wm",
-        "6QZkgt4JiF3RQcvxggrMxr"
-      ],
-      "albumId": "7BgQdVLNI9mmO5P1ijJ5wT",
+      "album": {
+        "id": "7BgQdVLNI9mmO5P1ijJ5wT",
+        "name": "Zoltán Kocsis: A Tribute",
+        "img": "https://i.scdn.co/image/ab67616d00001e022349124e1daa05d17bff0201"
+      },
       "release_date": "2017-06-02",
       "popularity": 41
     },
     {
-      "trackId": "2PbjBaGl2u0S22aw2ef61u",
-      "name": "Voices of Namibia (Original Soundtrack)",
+      "track": {
+        "id": "2PbjBaGl2u0S22aw2ef61u",
+        "name": "Voices of Namibia (Original Soundtrack)"
+      },
       "duration_ms": 225385,
-      "artist": [
-        "Patryk Scelina"
+      "artists": [
+        {
+          "name": "Patryk Scelina",
+          "id": "0Fni4pCfrEfXXfuTBwRhPI"
+        }
       ],
-      "artistId": [
-        "0Fni4pCfrEfXXfuTBwRhPI"
-      ],
-      "albumId": "0xt6ghn0bUL4pZitRllHba",
+      "album": {
+        "id": "0xt6ghn0bUL4pZitRllHba",
+        "name": "Voices of Namibia (Original Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026dec5bf8077cea2fa8ea161b"
+      },
       "release_date": "2016-02-21",
       "popularity": 26
     },
     {
-      "trackId": "1juisCcrVdwoLbDWyVvNrX",
-      "name": "6 Impromptus, Op. 5: Impromptu VI",
+      "track": {
+        "id": "1juisCcrVdwoLbDWyVvNrX",
+        "name": "6 Impromptus, Op. 5: Impromptu VI"
+      },
       "duration_ms": 369026,
-      "artist": [
-        "Jean Sibelius",
-        "Leif Ove Andsnes"
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "id": "7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "id": "7J9Fo9dMjGNYY8usNMietL"
+        }
       ],
-      "artistId": [
-        "7jzR5qj8vFnSu5JHaXgFEr",
-        "7J9Fo9dMjGNYY8usNMietL"
-      ],
-      "albumId": "4lNwSgAyaE91u37nrQcRFe",
+      "album": {
+        "id": "4lNwSgAyaE91u37nrQcRFe",
+        "name": "Sibelius",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b697be3706f05c2d9c5a13a"
+      },
       "release_date": "2017-09-01",
       "popularity": 57
     },
     {
-      "trackId": "4tXktBBrKGTebkYjvzFA3i",
-      "name": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]",
+      "track": {
+        "id": "4tXktBBrKGTebkYjvzFA3i",
+        "name": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]"
+      },
       "duration_ms": 332320,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Trevor Pinnock",
-        "European Brandenburg Ensemble"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "id": "25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "European Brandenburg Ensemble",
+          "id": "2T2bi3cWva2cY4A3FMGVzZ"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "25mbgceDJKxXGP8c5FmC83",
-        "2T2bi3cWva2cY4A3FMGVzZ"
-      ],
-      "albumId": "0ZWboVnn5YWjPEB79FCwWV",
+      "album": {
+        "id": "0ZWboVnn5YWjPEB79FCwWV",
+        "name": "Bach: Six Concertos for the Margrave of Brandenburg",
+        "img": "https://i.scdn.co/image/ab67616d00001e024747d8d612db02dd7791a699"
+      },
       "release_date": "2008-01-03",
       "popularity": 47
     },
     {
-      "trackId": "4w3tQBXhn5345eUXDGBWZG",
-      "name": "9 to 5",
+      "track": {
+        "id": "4w3tQBXhn5345eUXDGBWZG",
+        "name": "9 to 5"
+      },
       "duration_ms": 162466,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "64Ky1tqKPfwxhJs6msphWd",
+      "album": {
+        "id": "64Ky1tqKPfwxhJs6msphWd",
+        "name": "9 To 5 And Odd Jobs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02060ccf36ab5b0e0a739799ec"
+      },
       "release_date": "1980",
       "popularity": 76
     },
     {
-      "trackId": "4tnGeMJnPJNhiMmOpu6PBW",
-      "name": "Carnaval, Op.9 - Préambule",
+      "track": {
+        "id": "4tnGeMJnPJNhiMmOpu6PBW",
+        "name": "Carnaval, Op.9 - Préambule"
+      },
       "duration_ms": 140486,
-      "artist": [
-        "Robert Schumann",
-        "Sigurd Slåttebrekk"
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "id": "2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sigurd Slåttebrekk",
+          "id": "5LXgOST9FvQSfyrBGaQ0UV"
+        }
       ],
-      "artistId": [
-        "2UqjDAXnDxejEyE0CzfUrZ",
-        "5LXgOST9FvQSfyrBGaQ0UV"
-      ],
-      "albumId": "6QaDQmmNiidDSTldcc0KJy",
+      "album": {
+        "id": "6QaDQmmNiidDSTldcc0KJy",
+        "name": "Robert Schumann Carnaval - Kreisleriana - Arabeske",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2f5bd19ab77280c0abc7ea5"
+      },
       "release_date": "2003-11-07",
       "popularity": 0
     },
     {
-      "trackId": "50rAtROHfYmC1XOdqp22pP",
-      "name": "Soirées Musicales, Op. 6: I. Toccatina",
+      "track": {
+        "id": "50rAtROHfYmC1XOdqp22pP",
+        "name": "Soirées Musicales, Op. 6: I. Toccatina"
+      },
       "duration_ms": 129052,
-      "artist": [
-        "Clara Schumann",
-        "Eugenie Russo"
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "id": "2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Eugenie Russo",
+          "id": "4TIopt20Fc7BpPFdew1WaB"
+        }
       ],
-      "artistId": [
-        "2yzaWNFV3cxmcRZtwtr5WC",
-        "4TIopt20Fc7BpPFdew1WaB"
-      ],
-      "albumId": "7a6ro1kTy1W5YcqTIAK0AH",
+      "album": {
+        "id": "7a6ro1kTy1W5YcqTIAK0AH",
+        "name": "Clara Schumann: Piano Works",
+        "img": "https://i.scdn.co/image/ab67616d00001e02894b029d4021fefd850dcee7"
+      },
       "release_date": "2013-06-01",
       "popularity": 1
     },
     {
-      "trackId": "5cKa7NcQikilB1K7C6mmSl",
-      "name": "Soirées musicales, Op. 6: I. Toccatina",
-      "duration_ms": 129053,
-      "artist": [
-        "Eugenie Russo"
+      "track": {
+        "id": "50rAtROHfYmC1XOdqp22pP",
+        "name": "Soirées Musicales, Op. 6: I. Toccatina"
+      },
+      "duration_ms": 129052,
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "id": "2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Eugenie Russo",
+          "id": "4TIopt20Fc7BpPFdew1WaB"
+        }
       ],
-      "artistId": [
-        "4TIopt20Fc7BpPFdew1WaB"
-      ],
-      "albumId": "5KC2mb3ykCT1Sz10erc1Hg",
-      "release_date": "2013",
-      "popularity": 0
+      "album": {
+        "id": "7a6ro1kTy1W5YcqTIAK0AH",
+        "name": "Clara Schumann: Piano Works",
+        "img": "https://i.scdn.co/image/ab67616d00001e02894b029d4021fefd850dcee7"
+      },
+      "release_date": "2013-06-01",
+      "popularity": 1
     },
     {
-      "trackId": "5dXdy6YR6lxxC3GxBZcRWv",
-      "name": "Turistens klagan",
+      "track": {
+        "id": "5dXdy6YR6lxxC3GxBZcRWv",
+        "name": "Turistens klagan"
+      },
       "duration_ms": 200400,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "10znRN0s0flCvHfoSYPUzA",
+      "album": {
+        "id": "10znRN0s0flCvHfoSYPUzA",
+        "name": "Turistens klagan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfe8deb32bd4dbe31d35b0be"
+      },
       "release_date": "1980",
       "popularity": 48
     }

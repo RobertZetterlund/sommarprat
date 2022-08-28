@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a8a522dd-d232-4d5c-a9a8-86af4f45d9fc.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7rvGZDlfqCjY9EWEUg3Xs6",
-      "name": "Rock Steady",
+      "track": {
+        "id": "7rvGZDlfqCjY9EWEUg3Xs6",
+        "name": "Rock Steady"
+      },
       "duration_ms": 193573,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "0k5C3Z7w7uQpyGFQEzl7yB",
+      "album": {
+        "id": "0k5C3Z7w7uQpyGFQEzl7yB",
+        "name": "Young, Gifted and Black",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee5fcff519d1098aa5de990d"
+      },
       "release_date": "1972-01-24",
       "popularity": 55
     },
     {
-      "trackId": "3MFa9idQuY4iJLWsZl3tIQ",
-      "name": "Young Hearts Run Free",
+      "track": {
+        "id": "3MFa9idQuY4iJLWsZl3tIQ",
+        "name": "Young Hearts Run Free"
+      },
       "duration_ms": 248360,
-      "artist": [
-        "Candi Staton"
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "id": "3S34Unhn5yRcaH5K9aU5Et"
+        }
       ],
-      "artistId": [
-        "3S34Unhn5yRcaH5K9aU5Et"
-      ],
-      "albumId": "39ntuIhbcC8rsmRV2qXkmZ",
+      "album": {
+        "id": "39ntuIhbcC8rsmRV2qXkmZ",
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022fda39ea1a0524624719d8aa"
+      },
       "release_date": "1976",
       "popularity": 67
     },
     {
-      "trackId": "7K7tyOLR2KyOdwIasop3Q0",
-      "name": "Sometimes",
+      "track": {
+        "id": "7K7tyOLR2KyOdwIasop3Q0",
+        "name": "Sometimes"
+      },
       "duration_ms": 243640,
-      "artist": [
-        "Raphael Saadiq"
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "id": "6g0Wah2YFtb1rFgKhUktlo"
+        }
       ],
-      "artistId": [
-        "6g0Wah2YFtb1rFgKhUktlo"
-      ],
-      "albumId": "4pZGQstlWtYIPjDMX79HDB",
+      "album": {
+        "id": "4pZGQstlWtYIPjDMX79HDB",
+        "name": "The Way I See It",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bcdbbea9bbaf6e61e3853974"
+      },
       "release_date": "2008-09-15",
       "popularity": 29
     },
     {
-      "trackId": "5jSz894ljfWE0IcHBSM39i",
-      "name": "Raspberry Beret",
+      "track": {
+        "id": "5jSz894ljfWE0IcHBSM39i",
+        "name": "Raspberry Beret"
+      },
       "duration_ms": 215173,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "5FbrTPPlaNSOsChhKUZxcu",
+      "album": {
+        "id": "5FbrTPPlaNSOsChhKUZxcu",
+        "name": "Around the World in a Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02214f0bd9dc1ed0c65ae81760"
+      },
       "release_date": "1985-04-22",
       "popularity": 66
     },
     {
-      "trackId": "7aBxcRw77817BrkdPChAGY",
-      "name": "Freedom (feat. Kendrick Lamar)",
+      "track": {
+        "id": "7aBxcRw77817BrkdPChAGY",
+        "name": "Freedom (feat. Kendrick Lamar)"
+      },
       "duration_ms": 289760,
-      "artist": [
-        "Beyoncé",
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m",
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "7dK54iZuOxXFarGhXwEXfF",
+      "album": {
+        "id": "7dK54iZuOxXFarGhXwEXfF",
+        "name": "Lemonade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289992f4d7d4ab94937bf9e23"
+      },
       "release_date": "2016-04-23",
       "popularity": 62
     },
     {
-      "trackId": "2LWwXk56lQAa5zuHd6snBB",
-      "name": "Sommardag",
+      "track": {
+        "id": "2LWwXk56lQAa5zuHd6snBB",
+        "name": "Sommardag"
+      },
       "duration_ms": 199034,
-      "artist": [
-        "Cherrie"
+      "artists": [
+        {
+          "name": "Cherrie",
+          "id": "59E9dYtwLTUAGuAppwFKAW"
+        }
       ],
-      "artistId": [
-        "59E9dYtwLTUAGuAppwFKAW"
-      ],
-      "albumId": "1UTctXDMnBfSheaCnpT7O5",
+      "album": {
+        "id": "1UTctXDMnBfSheaCnpT7O5",
+        "name": "Naag Nool",
+        "img": "https://i.scdn.co/image/ab67616d00001e02424db9c5126cb63d5e3f4ab9"
+      },
       "release_date": "2021-06-04",
       "popularity": 37
     },
     {
-      "trackId": "222G3hi6hSEbPYd2pfpLz2",
-      "name": "Come Give Me Love - Swedish Version",
+      "track": {
+        "id": "222G3hi6hSEbPYd2pfpLz2",
+        "name": "Come Give Me Love - Swedish Version"
+      },
       "duration_ms": 240111,
-      "artist": [
-        "First Aid Kit"
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "id": "21egYD1eInY6bGFcniCRT1"
+        }
       ],
-      "artistId": [
-        "21egYD1eInY6bGFcniCRT1"
-      ],
-      "albumId": "4Q2SIzTIZXzWykvl3DGVPK",
+      "album": {
+        "id": "4Q2SIzTIZXzWykvl3DGVPK",
+        "name": "Come Give Me Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfa3463a649509f8b214d87c"
+      },
       "release_date": "2020-09-25",
       "popularity": 39
     },
     {
-      "trackId": "7yAslROTLRHGwuiLBpdErT",
-      "name": "It's My House",
+      "track": {
+        "id": "7yAslROTLRHGwuiLBpdErT",
+        "name": "It's My House"
+      },
       "duration_ms": 274560,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "7jqe6yQ9qtHqahli8WSYH4",
+      "album": {
+        "id": "7jqe6yQ9qtHqahli8WSYH4",
+        "name": "The Boss (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02303a1d40609b8aa537b607c1"
+      },
       "release_date": "1979-05-23",
       "popularity": 53
     },
     {
-      "trackId": "6aBUnkXuCEQQHAlTokv9or",
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "track": {
+        "id": "6aBUnkXuCEQQHAlTokv9or",
+        "name": "This Must Be the Place (Naive Melody) - 2005 Remaster"
+      },
       "duration_ms": 296146,
-      "artist": [
-        "Talking Heads"
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "id": "2x9SpqnPi8rlE9pjHBwmSC"
+        }
       ],
-      "artistId": [
-        "2x9SpqnPi8rlE9pjHBwmSC"
-      ],
-      "albumId": "4sLCQxMRfn3gAHrBNZtbTH",
+      "album": {
+        "id": "4sLCQxMRfn3gAHrBNZtbTH",
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e35e2e2a4bfa8a30a78fc532"
+      },
       "release_date": "1983-05-31",
       "popularity": 70
     },
     {
-      "trackId": "1Cwsd5xI8CajJz795oy4XF",
-      "name": "You Get What You Give",
+      "track": {
+        "id": "1Cwsd5xI8CajJz795oy4XF",
+        "name": "You Get What You Give"
+      },
       "duration_ms": 300773,
-      "artist": [
-        "New Radicals"
+      "artists": [
+        {
+          "name": "New Radicals",
+          "id": "0Grjlu7ncIuCaSYvCs9fcd"
+        }
       ],
-      "artistId": [
-        "0Grjlu7ncIuCaSYvCs9fcd"
-      ],
-      "albumId": "13btXEnBerpA1UjIVtsMAR",
+      "album": {
+        "id": "13btXEnBerpA1UjIVtsMAR",
+        "name": "Maybe You've Been Brainwashed Too",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfdedd4553b40bbaab342dae"
+      },
       "release_date": "1998-01-01",
       "popularity": 74
     },
     {
-      "trackId": "0Af0H9tIvZnclAXyLIlFsr",
-      "name": "Good In You",
+      "track": {
+        "id": "0Af0H9tIvZnclAXyLIlFsr",
+        "name": "Good In You"
+      },
       "duration_ms": 207613,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "0yaanxtB24lLgKvzXPw4gi",
+      "album": {
+        "id": "0yaanxtB24lLgKvzXPw4gi",
+        "name": "I'm A Dream",
+        "img": "https://i.scdn.co/image/ab67616d00001e02616c5000415c589f3d2dd83e"
+      },
       "release_date": "2018-09-07",
       "popularity": 33
     },
     {
-      "trackId": "0MHXrqn909p0LRTPsNsGEi",
-      "name": "Move on Up - Single Edit",
+      "track": {
+        "id": "0MHXrqn909p0LRTPsNsGEi",
+        "name": "Move on Up - Single Edit"
+      },
       "duration_ms": 165789,
-      "artist": [
-        "Curtis Mayfield"
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "id": "2AV6XDIs32ofIJhkkDevjm"
+        }
       ],
-      "artistId": [
-        "2AV6XDIs32ofIJhkkDevjm"
-      ],
-      "albumId": "2EwoYRFQRJqw7BTVG6GlTw",
+      "album": {
+        "id": "2EwoYRFQRJqw7BTVG6GlTw",
+        "name": "Move on Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b97b45e7885537d42ed46cdf"
+      },
       "release_date": "1970",
       "popularity": 69
     }

@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3ae823ef-6668-424a-8b5d-68425ac4970a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "30HS5aI90o2DputyA69iOX",
-      "name": "Embryo",
+      "track": {
+        "id": "30HS5aI90o2DputyA69iOX",
+        "name": "Embryo"
+      },
       "duration_ms": 27266,
-      "artist": [
-        "Black Sabbath"
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "id": "5M52tdBnJaKSvOpJGz8mfZ"
+        }
       ],
-      "artistId": [
-        "5M52tdBnJaKSvOpJGz8mfZ"
-      ],
-      "albumId": "3kBG6q0aXKxzn01wKTwZr5",
+      "album": {
+        "id": "3kBG6q0aXKxzn01wKTwZr5",
+        "name": "Master of Reality (2009 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7ec2b4b9c76b3b737990a42"
+      },
       "release_date": "1971-07-21",
       "popularity": 8
     },
     {
-      "trackId": "7xbyHZkCgDexB08YK5jr1l",
-      "name": "Far Finta non Sia Vero",
+      "track": {
+        "id": "7xbyHZkCgDexB08YK5jr1l",
+        "name": "Far Finta non Sia Vero"
+      },
       "duration_ms": 133000,
-      "artist": [
-        "Il Pharaone"
+      "artists": [
+        {
+          "name": "Il Pharaone",
+          "id": "2fYy1t0RIwJBzFlOER8E1c"
+        }
       ],
-      "artistId": [
-        "2fYy1t0RIwJBzFlOER8E1c"
-      ],
-      "albumId": "5qhFP9Yf078jwuP3Tcv0NI",
+      "album": {
+        "id": "5qhFP9Yf078jwuP3Tcv0NI",
+        "name": "Far Finta non Sia Vero",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a37a1c9a8af7db54af0d4f3"
+      },
       "release_date": "2018-01-27",
       "popularity": 0
     },
     {
-      "trackId": "5ebgXFpdY6sGhgIBtuS1xS",
-      "name": "Sermon",
+      "track": {
+        "id": "5ebgXFpdY6sGhgIBtuS1xS",
+        "name": "Sermon"
+      },
       "duration_ms": 271346,
-      "artist": [
-        "Mercury Rev",
-        "Margo Price"
+      "artists": [
+        {
+          "name": "Mercury Rev",
+          "id": "77oD8X9qLXZhpbCjv53l5n"
+        },
+        {
+          "name": "Margo Price",
+          "id": "09yvLritEUxHrzx5TlFvbl"
+        }
       ],
-      "artistId": [
-        "77oD8X9qLXZhpbCjv53l5n",
-        "09yvLritEUxHrzx5TlFvbl"
-      ],
-      "albumId": "4Q7eic3K7kXF6NcnCee5Q9",
+      "album": {
+        "id": "4Q7eic3K7kXF6NcnCee5Q9",
+        "name": "Bobbie Gentry's The Delta Sweete Revisited",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e105ccd93cf7c5f29768407f"
+      },
       "release_date": "2019-02-08",
       "popularity": 16
     },
     {
-      "trackId": "51p3jvvaTRllGIxdmRVnRr",
-      "name": "Theme from ''Hill Street Blues'' (feat. Larry Carlton)",
+      "track": {
+        "id": "51p3jvvaTRllGIxdmRVnRr",
+        "name": "Theme from ''Hill Street Blues'' (feat. Larry Carlton)"
+      },
       "duration_ms": 193893,
-      "artist": [
-        "Mike Post",
-        "Larry Carlton"
+      "artists": [
+        {
+          "name": "Mike Post",
+          "id": "2roaPGR1goiiLQxrG5dXiF"
+        },
+        {
+          "name": "Larry Carlton",
+          "id": "7aRi9OzdA2ciputfuguaPK"
+        }
       ],
-      "artistId": [
-        "2roaPGR1goiiLQxrG5dXiF",
-        "7aRi9OzdA2ciputfuguaPK"
-      ],
-      "albumId": "4WZbpVLIYH9KGn3x75g5nz",
+      "album": {
+        "id": "4WZbpVLIYH9KGn3x75g5nz",
+        "name": "Television Theme Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a6c872dcc924a0e212c4478c"
+      },
       "release_date": "2005-02-08",
       "popularity": 34
     },
     {
-      "trackId": "2Aam4iNrt4xW55H80hxWra",
-      "name": "The Beat(en) Generation",
+      "track": {
+        "id": "2Aam4iNrt4xW55H80hxWra",
+        "name": "The Beat(en) Generation"
+      },
       "duration_ms": 182733,
-      "artist": [
-        "The The"
+      "artists": [
+        {
+          "name": "The The",
+          "id": "7cKtqv9cYVlOwnuCFH95ce"
+        }
       ],
-      "artistId": [
-        "7cKtqv9cYVlOwnuCFH95ce"
-      ],
-      "albumId": "5PcsZo2bpPGgZ32Zw1oHlq",
+      "album": {
+        "id": "5PcsZo2bpPGgZ32Zw1oHlq",
+        "name": "Mind Bomb",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a210664abd106a0018af69eb"
+      },
       "release_date": "1989-05-12",
       "popularity": 35
     },
     {
-      "trackId": "5W85yorVH2r2QvhLaiGPRC",
-      "name": "Min hemstad",
+      "track": {
+        "id": "5W85yorVH2r2QvhLaiGPRC",
+        "name": "Min hemstad"
+      },
       "duration_ms": 220880,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "1SeQ3rzMKf2WYYXZXuNqxt",
+      "album": {
+        "id": "1SeQ3rzMKf2WYYXZXuNqxt",
+        "name": "Razzia vol 2 - There's A Razzia Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a232313dd5fd5ac46e55daa8"
+      },
       "release_date": "2010-05-31",
       "popularity": 20
     },
     {
-      "trackId": "2CJ9wTckMqRjjVVSLTs8QZ",
-      "name": "God Of Thunder",
+      "track": {
+        "id": "2CJ9wTckMqRjjVVSLTs8QZ",
+        "name": "God Of Thunder"
+      },
       "duration_ms": 253840,
-      "artist": [
-        "KISS"
+      "artists": [
+        {
+          "name": "KISS",
+          "id": "07XSN3sPlIlB2L2XNcTwJw"
+        }
       ],
-      "artistId": [
-        "07XSN3sPlIlB2L2XNcTwJw"
-      ],
-      "albumId": "59plsPcJYFlSA5ImekNQJ0",
+      "album": {
+        "id": "59plsPcJYFlSA5ImekNQJ0",
+        "name": "Destroyer",
+        "img": "https://i.scdn.co/image/ab67616d00001e029309dd399ed75be936b8c1b6"
+      },
       "release_date": "1976-03-15",
       "popularity": 53
     },
     {
-      "trackId": "1icyef1nNmLusODA03FLGf",
-      "name": "Pink Turns to Blue",
+      "track": {
+        "id": "1icyef1nNmLusODA03FLGf",
+        "name": "Pink Turns to Blue"
+      },
       "duration_ms": 162933,
-      "artist": [
-        "Hüsker Dü"
+      "artists": [
+        {
+          "name": "Hüsker Dü",
+          "id": "16bN8mhtDFdegWbg0z3s10"
+        }
       ],
-      "artistId": [
-        "16bN8mhtDFdegWbg0z3s10"
-      ],
-      "albumId": "0J1DP5GvKrzWumwzlcFhLc",
+      "album": {
+        "id": "0J1DP5GvKrzWumwzlcFhLc",
+        "name": "Zen Arcade",
+        "img": "https://i.scdn.co/image/f27eda51e3f6c69751bb0f600b1528a38d3fecbd"
+      },
       "release_date": "1984-01-01",
       "popularity": 42
     },
     {
-      "trackId": "66c6RdQx7Mi40upX4dtV7O",
-      "name": "Finally Falling (feat. Victoria Justice)",
+      "track": {
+        "id": "66c6RdQx7Mi40upX4dtV7O",
+        "name": "Finally Falling (feat. Victoria Justice)"
+      },
       "duration_ms": 170346,
-      "artist": [
-        "Victorious Cast",
-        "Victoria Justice"
+      "artists": [
+        {
+          "name": "Victorious Cast",
+          "id": "1KYszkVzlhV3rAqmAcYIgd"
+        },
+        {
+          "name": "Victoria Justice",
+          "id": "2OTfr6S2kuHRYStjt1IkY6"
+        }
       ],
-      "artistId": [
-        "1KYszkVzlhV3rAqmAcYIgd",
-        "2OTfr6S2kuHRYStjt1IkY6"
-      ],
-      "albumId": "1VM5qKftnTKFU9rthvEgYx",
+      "album": {
+        "id": "1VM5qKftnTKFU9rthvEgYx",
+        "name": "Victorious: Music From The Hit TV Show (feat. Victoria Justice)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c21bd3065630998bcd1e92ac"
+      },
       "release_date": "2011-08-01",
       "popularity": 50
     },
     {
-      "trackId": "2GtzX7UjLuAhnDH9C8p4Da",
-      "name": "You Can't Hurry Love",
+      "track": {
+        "id": "2GtzX7UjLuAhnDH9C8p4Da",
+        "name": "You Can't Hurry Love"
+      },
       "duration_ms": 124706,
-      "artist": [
-        "The Concretes"
+      "artists": [
+        {
+          "name": "The Concretes",
+          "id": "4uFpoTqyXb2tfvetAjmJQT"
+        }
       ],
-      "artistId": [
-        "4uFpoTqyXb2tfvetAjmJQT"
-      ],
-      "albumId": "4jBr1aLZRQrZ3uJD78XG4U",
+      "album": {
+        "id": "4jBr1aLZRQrZ3uJD78XG4U",
+        "name": "The Concretes",
+        "img": "https://i.scdn.co/image/ab67616d00001e026219c1fe05dab5993f6260f0"
+      },
       "release_date": "2003-05-23",
       "popularity": 19
     },
     {
-      "trackId": "1AHbCDFj5w7QWCfePQwCII",
-      "name": "Min stad",
+      "track": {
+        "id": "1AHbCDFj5w7QWCfePQwCII",
+        "name": "Min stad"
+      },
       "duration_ms": 262226,
-      "artist": [
-        "Frida Hyvönen"
+      "artists": [
+        {
+          "name": "Frida Hyvönen",
+          "id": "58XdW0XyGukvmGatf7NC2R"
+        }
       ],
-      "artistId": [
-        "58XdW0XyGukvmGatf7NC2R"
-      ],
-      "albumId": "5vvefHi9yyhwwyZhMsR1LZ",
+      "album": {
+        "id": "5vvefHi9yyhwwyZhMsR1LZ",
+        "name": "Kvinnor och barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ceee34f253767380e74670f"
+      },
       "release_date": "2016-11-04",
       "popularity": 33
     },
     {
-      "trackId": "4M1vNaWd2QguiYkIF1JXWj",
-      "name": "Namlösas Här",
+      "track": {
+        "id": "4M1vNaWd2QguiYkIF1JXWj",
+        "name": "Namlösas Här"
+      },
       "duration_ms": 258081,
-      "artist": [
-        "Euskefeurat"
+      "artists": [
+        {
+          "name": "Euskefeurat",
+          "id": "3XHatvGN7740pLPHUVgwA6"
+        }
       ],
-      "artistId": [
-        "3XHatvGN7740pLPHUVgwA6"
-      ],
-      "albumId": "2XKhgRpq9wryEY2AZ69G6O",
+      "album": {
+        "id": "2XKhgRpq9wryEY2AZ69G6O",
+        "name": "Ägge Borte Katta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e370dd667f7dbc284c90b368"
+      },
       "release_date": "1982-05-20",
       "popularity": 13
     },
     {
-      "trackId": "2MCkr9UQ7q0hYLUjbpFMCz",
-      "name": "Ragnar",
+      "track": {
+        "id": "2MCkr9UQ7q0hYLUjbpFMCz",
+        "name": "Ragnar"
+      },
       "duration_ms": 220773,
-      "artist": [
-        "Mattias Alkberg"
+      "artists": [
+        {
+          "name": "Mattias Alkberg",
+          "id": "5p8AjcGi5g19fWNvC2zhqE"
+        }
       ],
-      "artistId": [
-        "5p8AjcGi5g19fWNvC2zhqE"
-      ],
-      "albumId": "3mdYfZtmEqLryxiyFNnHlz",
+      "album": {
+        "id": "3mdYfZtmEqLryxiyFNnHlz",
+        "name": "Jag ska bli en bättre vän",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7d6da67d61f46cd95f46587"
+      },
       "release_date": "2005-09-15",
       "popularity": 30
     },
     {
-      "trackId": "3l74onnBd0AcjqkqN8LTOh",
-      "name": "Månsken över Ångermanälven",
+      "track": {
+        "id": "3l74onnBd0AcjqkqN8LTOh",
+        "name": "Månsken över Ångermanälven"
+      },
       "duration_ms": 194866,
-      "artist": [
-        "Jörgen Sundeqvist"
+      "artists": [
+        {
+          "name": "Jörgen Sundeqvist",
+          "id": "6kvRFNPeJSd3uFEtnLGIRb"
+        }
       ],
-      "artistId": [
-        "6kvRFNPeJSd3uFEtnLGIRb"
-      ],
-      "albumId": "7qa1jNFyyWd992N5FMowYV",
+      "album": {
+        "id": "7qa1jNFyyWd992N5FMowYV",
+        "name": "Vid Dragspelsälven",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a447fb9765c14960d15c47c6"
+      },
       "release_date": "2014",
       "popularity": 0
     }

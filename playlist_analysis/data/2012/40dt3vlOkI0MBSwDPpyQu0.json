@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354540_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3gwZapcSZyIDUE3GUTSzA1",
-      "name": "Get Up",
+      "track": {
+        "id": "3gwZapcSZyIDUE3GUTSzA1",
+        "name": "Get Up"
+      },
       "duration_ms": 227240,
-      "artist": [
-        "Fibes, Oh Fibes!"
+      "artists": [
+        {
+          "name": "Fibes, Oh Fibes!",
+          "id": "0MGJBcGDyvsk2Qczlmvx8W"
+        }
       ],
-      "artistId": [
-        "0MGJBcGDyvsk2Qczlmvx8W"
-      ],
-      "albumId": "2bjvlVOZi18N5iKrMSg5rr",
+      "album": {
+        "id": "2bjvlVOZi18N5iKrMSg5rr",
+        "name": "Emotional",
+        "img": "https://i.scdn.co/image/ab67616d00001e022daa47662cfeebfdcc301950"
+      },
       "release_date": "2006",
       "popularity": 29
     },
     {
-      "trackId": "2Uup75DRkJ03P91XyITXGC",
-      "name": "'Til I Die - Remastered 2009",
+      "track": {
+        "id": "2Uup75DRkJ03P91XyITXGC",
+        "name": "'Til I Die - Remastered 2009"
+      },
       "duration_ms": 153240,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "5NJHGcHNdLURknY2LfzjZg",
+      "album": {
+        "id": "5NJHGcHNdLURknY2LfzjZg",
+        "name": "Surf's Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c1beae13a297091bf515275"
+      },
       "release_date": "1971-08-30",
       "popularity": 43
     },
     {
-      "trackId": "3fPqUl4lPDUQmY0T7dKUv2",
-      "name": "Downtown Train",
+      "track": {
+        "id": "3fPqUl4lPDUQmY0T7dKUv2",
+        "name": "Downtown Train"
+      },
       "duration_ms": 230000,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "5bbb7E51zaDCuD85uLyFkK",
+      "album": {
+        "id": "5bbb7E51zaDCuD85uLyFkK",
+        "name": "Rain Dogs",
+        "img": "https://i.scdn.co/image/ab67616d00001e022549b23da8bec3c24653b619"
+      },
       "release_date": "1985-09-30",
       "popularity": 54
     },
     {
-      "trackId": "5i57BBhq5eNVS5cBkDD69j",
-      "name": "You and I",
+      "track": {
+        "id": "5i57BBhq5eNVS5cBkDD69j",
+        "name": "You and I"
+      },
       "duration_ms": 204706,
-      "artist": [
-        "Wilco"
+      "artists": [
+        {
+          "name": "Wilco",
+          "id": "2QoU3awHVdcHS8LrZEKvSM"
+        }
       ],
-      "artistId": [
-        "2QoU3awHVdcHS8LrZEKvSM"
-      ],
-      "albumId": "3UeSYkvpAJfXp97Os7Y1sK",
+      "album": {
+        "id": "3UeSYkvpAJfXp97Os7Y1sK",
+        "name": "Wilco (The Album)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e39e6ca011ab378cf955ba7a"
+      },
       "release_date": "2009",
       "popularity": 42
     },
     {
-      "trackId": "4Ulh0OzG7AsYQif69JtIgS",
-      "name": "MJB Da MVP",
+      "track": {
+        "id": "4Ulh0OzG7AsYQif69JtIgS",
+        "name": "MJB Da MVP"
+      },
       "duration_ms": 201213,
-      "artist": [
-        "Mary J. Blige"
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        }
       ],
-      "artistId": [
-        "1XkoF8ryArs86LZvFOkbyr"
-      ],
-      "albumId": "13HYuDhB1soZvHzwoymXoV",
+      "album": {
+        "id": "13HYuDhB1soZvHzwoymXoV",
+        "name": "The Breakthrough",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f6c43d16c3d2c3685f81735"
+      },
       "release_date": "2005-01-01",
       "popularity": 53
     },
     {
-      "trackId": "7jqzZyJJLrpkRFYGpkqSK6",
-      "name": "Breathe Me",
+      "track": {
+        "id": "7jqzZyJJLrpkRFYGpkqSK6",
+        "name": "Breathe Me"
+      },
       "duration_ms": 272800,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "5HRQFmLEuzQP8e12o8DzB5",
+      "album": {
+        "id": "5HRQFmLEuzQP8e12o8DzB5",
+        "name": "Colour The Small One",
+        "img": "https://i.scdn.co/image/ab67616d00001e02940e6dd89f311e726fb5687c"
+      },
       "release_date": "2004-01-01",
       "popularity": 63
     },
     {
-      "trackId": "351fwrWO6CkL7Knl94qKye",
-      "name": "Easy",
+      "track": {
+        "id": "351fwrWO6CkL7Knl94qKye",
+        "name": "Easy"
+      },
       "duration_ms": 256693,
-      "artist": [
-        "Commodores"
+      "artists": [
+        {
+          "name": "Commodores",
+          "id": "6twIAGnYuIT1pncMAsXnEm"
+        }
       ],
-      "artistId": [
-        "6twIAGnYuIT1pncMAsXnEm"
-      ],
-      "albumId": "1ET5QG3pd6NGqEFuZh0Qiz",
+      "album": {
+        "id": "1ET5QG3pd6NGqEFuZh0Qiz",
+        "name": "Back To Front",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a47127db3e929f64a2795666"
+      },
       "release_date": "1992-01-01",
       "popularity": 38
     },
     {
-      "trackId": "2TzjPxQFukz0habQRkxhU7",
-      "name": "Du är snart där",
+      "track": {
+        "id": "2TzjPxQFukz0habQRkxhU7",
+        "name": "Du är snart där"
+      },
       "duration_ms": 442733,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "2nOzYO8LlFATIKd9S3qNUt",
+      "album": {
+        "id": "2nOzYO8LlFATIKd9S3qNUt",
+        "name": "2 steg från paradise (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e40fe235b308f0a0832f6af5"
+      },
       "release_date": "2010-10-13",
       "popularity": 47
     },
     {
-      "trackId": "3mlMpmY8oZIBFc39D9zLbh",
-      "name": "The Long And Winding Road - Remastered 2009",
+      "track": {
+        "id": "3mlMpmY8oZIBFc39D9zLbh",
+        "name": "The Long And Winding Road - Remastered 2009"
+      },
       "duration_ms": 218186,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+      "album": {
+        "id": "0jTGHV5xqHPvEcwL8f6YU5",
+        "name": "Let It Be (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1"
+      },
       "release_date": "1970-05-08",
       "popularity": 63
     },
     {
-      "trackId": "28aXgyWOaPzOzJAquz6dvm",
-      "name": "Roffe & Jag",
+      "track": {
+        "id": "28aXgyWOaPzOzJAquz6dvm",
+        "name": "Roffe & Jag"
+      },
       "duration_ms": 182333,
-      "artist": [
-        "Hofmästarn",
-        "Roffe Ruff"
+      "artists": [
+        {
+          "name": "Hofmästarn",
+          "id": "5TgOBj4v5RI1Guk1F0bfGA"
+        },
+        {
+          "name": "Roffe Ruff",
+          "id": "6FkSZBvBZ74ADdf5aWrT1O"
+        }
       ],
-      "artistId": [
-        "5TgOBj4v5RI1Guk1F0bfGA",
-        "6FkSZBvBZ74ADdf5aWrT1O"
-      ],
-      "albumId": "7vLpE6x7Sb9G0zeOeL85yI",
+      "album": {
+        "id": "7vLpE6x7Sb9G0zeOeL85yI",
+        "name": "Panterparken",
+        "img": "https://i.scdn.co/image/ab67616d00001e02daf1b4457b82c411d5342616"
+      },
       "release_date": "2010-03-26",
       "popularity": 22
     },
     {
-      "trackId": "1MaI6NwdrqnE3mRzOYTpoo",
-      "name": "Bomb Intro / Pass That Dutch",
+      "track": {
+        "id": "1MaI6NwdrqnE3mRzOYTpoo",
+        "name": "Bomb Intro / Pass That Dutch"
+      },
       "duration_ms": 217200,
-      "artist": [
-        "Missy Elliott"
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "id": "2wIVse2owClT7go1WT98tk"
+        }
       ],
-      "artistId": [
-        "2wIVse2owClT7go1WT98tk"
-      ],
-      "albumId": "4ffXByMAjLpd25ZyzEJNMK",
+      "album": {
+        "id": "4ffXByMAjLpd25ZyzEJNMK",
+        "name": "This Is Not a Test!",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e689561b438186f17cc190e"
+      },
       "release_date": "2003-11-01",
       "popularity": 58
     },
     {
-      "trackId": "6T9mVHuZrR0SITlUiu72HJ",
-      "name": "Let's Leave",
+      "track": {
+        "id": "6T9mVHuZrR0SITlUiu72HJ",
+        "name": "Let's Leave"
+      },
       "duration_ms": 266400,
-      "artist": [
-        "The Plan"
+      "artists": [
+        {
+          "name": "The Plan",
+          "id": "1xp8n7sGGGHKO6pwxH8RCI"
+        }
       ],
-      "artistId": [
-        "1xp8n7sGGGHKO6pwxH8RCI"
-      ],
-      "albumId": "4KlUqRzW0bNtNlMSgja6Ve",
+      "album": {
+        "id": "4KlUqRzW0bNtNlMSgja6Ve",
+        "name": "The Plan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b00bb141c8eeb0912b988a25"
+      },
       "release_date": "2001-08-24",
       "popularity": 32
     }

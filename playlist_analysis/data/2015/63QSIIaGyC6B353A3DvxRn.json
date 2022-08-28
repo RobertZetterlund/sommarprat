@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530728_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6ayKgleoMF26lvU1Z7wVm7",
-      "name": "Cruel World",
+      "track": {
+        "id": "6ayKgleoMF26lvU1Z7wVm7",
+        "name": "Cruel World"
+      },
       "duration_ms": 399083,
-      "artist": [
-        "Lana Del Rey"
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "id": "00FQb4jTyendYWaN8pK0wa"
+        }
       ],
-      "artistId": [
-        "00FQb4jTyendYWaN8pK0wa"
-      ],
-      "albumId": "1ORxRsK3MrSLvh7VQTF01F",
+      "album": {
+        "id": "1ORxRsK3MrSLvh7VQTF01F",
+        "name": "Ultraviolence (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021624590458126fc8b8c64c2f"
+      },
       "release_date": "2014-01-01",
       "popularity": 62
     },
     {
-      "trackId": "2E7TBOZUxIaSmZ0RoLzoW8",
-      "name": "Unna Nieiddas",
+      "track": {
+        "id": "2E7TBOZUxIaSmZ0RoLzoW8",
+        "name": "Unna Nieiddas"
+      },
       "duration_ms": 225040,
-      "artist": [
-        "Adjagas"
+      "artists": [
+        {
+          "name": "Adjagas",
+          "id": "0anEu43cPG00OjwdaBxR91"
+        }
       ],
-      "artistId": [
-        "0anEu43cPG00OjwdaBxR91"
-      ],
-      "albumId": "72Oa7MPJkp5NuUguOSgqfE",
+      "album": {
+        "id": "72Oa7MPJkp5NuUguOSgqfE",
+        "name": "Mánu Rávdnji",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d87ad8db6242f66e0136686b"
+      },
       "release_date": "2009-10-05",
       "popularity": 13
     },
     {
-      "trackId": "13kiXTWqDhjZFh6A8dsJvl",
-      "name": "Battle Cry",
+      "track": {
+        "id": "13kiXTWqDhjZFh6A8dsJvl",
+        "name": "Battle Cry"
+      },
       "duration_ms": 292097,
-      "artist": [
-        "Angel Haze",
-        "Sia"
+      "artists": [
+        {
+          "name": "Angel Haze",
+          "id": "2cyyGl4qnHZL0o16t0fpJl"
+        },
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "2cyyGl4qnHZL0o16t0fpJl",
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "44OLN0q78wTRrMcAWzSDLy",
+      "album": {
+        "id": "44OLN0q78wTRrMcAWzSDLy",
+        "name": "Dirty Gold (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02519d6ccbae52c975ba0bf038"
+      },
       "release_date": "2013-01-01",
       "popularity": 42
     },
     {
-      "trackId": "0uQ1qKAyIvDevO4XsR2J3X",
-      "name": "Calm Down 2.0",
+      "track": {
+        "id": "0uQ1qKAyIvDevO4XsR2J3X",
+        "name": "Calm Down 2.0"
+      },
       "duration_ms": 159399,
-      "artist": [
-        "Busta Rhymes"
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK"
+        }
       ],
-      "artistId": [
-        "1YfEcTuGvBQ8xSD1f53UnK"
-      ],
-      "albumId": "09YLnp3QKJ2uLwXfP5iLMQ",
+      "album": {
+        "id": "09YLnp3QKJ2uLwXfP5iLMQ",
+        "name": "Calm Down: The Clash EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c24910ae25860ec104b0b16e"
+      },
       "release_date": "2014-08-26",
       "popularity": 11
     },
     {
-      "trackId": "3wbaWwkyIthZf4xgukRmC3",
-      "name": "Ke Sakihitin Awasis (I Love You Baby)",
+      "track": {
+        "id": "3wbaWwkyIthZf4xgukRmC3",
+        "name": "Ke Sakihitin Awasis (I Love You Baby)"
+      },
       "duration_ms": 248788,
-      "artist": [
-        "Buffy Sainte-Marie"
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "id": "5exO2eW84QucBhrRhcK76x"
+        }
       ],
-      "artistId": [
-        "5exO2eW84QucBhrRhcK76x"
-      ],
-      "albumId": "2XnHsaJ8L2sDj4p1Yrx9cz",
+      "album": {
+        "id": "2XnHsaJ8L2sDj4p1Yrx9cz",
+        "name": "Power In The Blood",
+        "img": "https://i.scdn.co/image/ab67616d00001e029afa3c9d22da04f9e8f40ebb"
+      },
       "release_date": "2015-05-12",
       "popularity": 16
     },
     {
-      "trackId": "0eds2BJZz1TAv1rlBkgMLr",
-      "name": "Shut up Bitch",
+      "track": {
+        "id": "0eds2BJZz1TAv1rlBkgMLr",
+        "name": "Shut up Bitch"
+      },
       "duration_ms": 259360,
-      "artist": [
-        "Lil' Kim",
-        "Katt Williams aka Money Mike for Kattpack Investments"
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "id": "5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Katt Williams aka Money Mike for Kattpack Investments",
+          "id": "3C4EkapvGNBoqvGEiqK3PN"
+        }
       ],
-      "artistId": [
-        "5tth2a3v0sWwV1C7bApBdX",
-        "3C4EkapvGNBoqvGEiqK3PN"
-      ],
-      "albumId": "0f0p5YbL8yy5aFtCNGlmvg",
+      "album": {
+        "id": "0f0p5YbL8yy5aFtCNGlmvg",
+        "name": "The Naked Truth",
+        "img": "https://i.scdn.co/image/ab67616d00001e021aaa00a5ded35c4401da33c0"
+      },
       "release_date": "2005-09-26",
       "popularity": 23
     },
     {
-      "trackId": "4qiNXztjMSjfLclOZ8Z2RW",
-      "name": "Halleluja (krossa eller krossas)",
+      "track": {
+        "id": "4qiNXztjMSjfLclOZ8Z2RW",
+        "name": "Halleluja (krossa eller krossas)"
+      },
       "duration_ms": 264480,
-      "artist": [
-        "Kitok"
+      "artists": [
+        {
+          "name": "Kitok",
+          "id": "1PcWAfzz0pTRP7GxaBDvo4"
+        }
       ],
-      "artistId": [
-        "1PcWAfzz0pTRP7GxaBDvo4"
-      ],
-      "albumId": "3Dyk174GWy9vAS2gO4MEi0",
+      "album": {
+        "id": "3Dyk174GWy9vAS2gO4MEi0",
+        "name": "Paradise Jokkmokk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e92801c913cd3dd61181e181"
+      },
       "release_date": "2015-01-14",
       "popularity": 30
     },
     {
-      "trackId": "18dZ7FMuL9uTnzk06eZEkF",
-      "name": "Speadjárnávdi",
+      "track": {
+        "id": "18dZ7FMuL9uTnzk06eZEkF",
+        "name": "Speadjárnávdi"
+      },
       "duration_ms": 386933,
-      "artist": [
-        "Ára"
+      "artists": [
+        {
+          "name": "Ára",
+          "id": "1C6XggLAqIDVeLOJgaDjAF"
+        }
       ],
-      "artistId": [
-        "1C6XggLAqIDVeLOJgaDjAF"
-      ],
-      "albumId": "5DPt54kJZurgFig2LHl1Gd",
+      "album": {
+        "id": "5DPt54kJZurgFig2LHl1Gd",
+        "name": "Vuoste Virdái",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b1260618f030c6a020e992b4"
+      },
       "release_date": "2014-09-15",
       "popularity": 4
     },
     {
-      "trackId": "56Ly9LE3NGsO4EZeYKABZT",
-      "name": "Mitt Största Fan",
+      "track": {
+        "id": "56Ly9LE3NGsO4EZeYKABZT",
+        "name": "Mitt Största Fan"
+      },
       "duration_ms": 293871,
-      "artist": [
-        "Maxida Märak"
+      "artists": [
+        {
+          "name": "Maxida Märak",
+          "id": "3FfnFeTonanbog4rEvYXns"
+        }
       ],
-      "artistId": [
-        "3FfnFeTonanbog4rEvYXns"
-      ],
-      "albumId": "0z8iGelyo7WapuQJaO4imO",
+      "album": {
+        "id": "0z8iGelyo7WapuQJaO4imO",
+        "name": "Mitt Största Fan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c83176ce5e6a758021ce4d16"
+      },
       "release_date": "2015",
       "popularity": 15
     },
     {
-      "trackId": "75vOrBs2oxpCXnlEoyXi3Y",
-      "name": "Elle",
+      "track": {
+        "id": "75vOrBs2oxpCXnlEoyXi3Y",
+        "name": "Elle"
+      },
       "duration_ms": 193333,
-      "artist": [
-        "Mari Boine"
+      "artists": [
+        {
+          "name": "Mari Boine",
+          "id": "4t4unGD2iYlkONGDmBbkcE"
+        }
       ],
-      "artistId": [
-        "4t4unGD2iYlkONGDmBbkcE"
-      ],
-      "albumId": "3xHiiWaGjOwbAuAjdJ45Eg",
+      "album": {
+        "id": "3xHiiWaGjOwbAuAjdJ45Eg",
+        "name": "It Ain't Necessarily Evil - Bodes Bat Gal Buot Biros (Mari Boine Remixed, Vol. II)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a8e0056ea5f03f451b4d585"
+      },
       "release_date": "2007-01-01",
       "popularity": 28
     },
     {
-      "trackId": "53ByYZu6zObvhYEmtqItC2",
-      "name": "Native Puppy Love",
+      "track": {
+        "id": "53ByYZu6zObvhYEmtqItC2",
+        "name": "Native Puppy Love"
+      },
       "duration_ms": 223586,
-      "artist": [
-        "The Halluci Nation"
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "id": "2jlWF9ltd8UtoaqW0PxY4z"
+        }
       ],
-      "artistId": [
-        "2jlWF9ltd8UtoaqW0PxY4z"
-      ],
-      "albumId": "1FYVy6b5R41tMIAhWS6fXJ",
+      "album": {
+        "id": "1FYVy6b5R41tMIAhWS6fXJ",
+        "name": "A Tribe Called Red",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef0124a7f7337ff71908ce8c"
+      },
       "release_date": "2013-03-12",
       "popularity": 39
     }

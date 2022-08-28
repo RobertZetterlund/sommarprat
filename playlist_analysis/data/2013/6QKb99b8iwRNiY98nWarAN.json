@@ -7,216 +7,318 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2939281_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "1TZ80n0lFTAKGBkErUn8dT",
-      "name": "Miri",
+      "track": {
+        "id": "1TZ80n0lFTAKGBkErUn8dT",
+        "name": "Miri"
+      },
       "duration_ms": 235600,
-      "artist": [
-        "Bassekou Kouyate",
-        "Ngoni ba"
+      "artists": [
+        {
+          "name": "Bassekou Kouyate",
+          "id": "2reknFuZPFjVat474Q35SQ"
+        },
+        {
+          "name": "Ngoni ba",
+          "id": "2wgNtcVFxnFkxrjpPZxXiw"
+        }
       ],
-      "artistId": [
-        "2reknFuZPFjVat474Q35SQ",
-        "2wgNtcVFxnFkxrjpPZxXiw"
-      ],
-      "albumId": "3ljV9B3dtM8PPBa3hxgF02",
+      "album": {
+        "id": "3ljV9B3dtM8PPBa3hxgF02",
+        "name": "Miri",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a06a523f28ac5d759b24c2b"
+      },
       "release_date": "2019-01-25",
       "popularity": 40
     },
     {
-      "trackId": "1YjoOTolX1diB4V6dBCnpl",
-      "name": "Talk to Me - Single Version #2",
+      "track": {
+        "id": "1YjoOTolX1diB4V6dBCnpl",
+        "name": "Talk to Me - Single Version #2"
+      },
       "duration_ms": 234466,
-      "artist": [
-        "Anita Baker"
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "id": "46CH1Gp8l8QVly8bpG9JFG"
+        }
       ],
-      "artistId": [
-        "46CH1Gp8l8QVly8bpG9JFG"
-      ],
-      "albumId": "2dfknhyrFffWkQMYAAQnww",
+      "album": {
+        "id": "2dfknhyrFffWkQMYAAQnww",
+        "name": "The Best of Anita Baker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02693800cfa6e1897afbaf198a"
+      },
       "release_date": "2002-06-18",
       "popularity": 26
     },
     {
-      "trackId": "1XYsgTaD4aHnBpNWjsbTyI",
-      "name": "Mass in B Minor, BWV 232 / Sanctus: 22. Sanctus",
+      "track": {
+        "id": "1XYsgTaD4aHnBpNWjsbTyI",
+        "name": "Mass in B Minor, BWV 232 / Sanctus: 22. Sanctus"
+      },
       "duration_ms": 311066,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Chicago Symphony Chorus",
-        "Chicago Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Chicago Symphony Chorus",
+          "id": "18PZhbpywoKUnS1nCmXIPK"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "id": "6TD08jYeuN128P2MZTbc8E"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "18PZhbpywoKUnS1nCmXIPK",
-        "6TD08jYeuN128P2MZTbc8E"
-      ],
-      "albumId": "7cHhuxIbttVKgmrEkQ47Xb",
+      "album": {
+        "id": "7cHhuxIbttVKgmrEkQ47Xb",
+        "name": "Bach, J.S.: Mass in B minor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02005aa610822496eaf484ea83"
+      },
       "release_date": "1991-03-21",
       "popularity": 1
     },
     {
-      "trackId": "6NMUKnUp0SdUMkLte3Shd0",
-      "name": "Vila vid denna källa - Fredmans epistel nr 82",
+      "track": {
+        "id": "6NMUKnUp0SdUMkLte3Shd0",
+        "name": "Vila vid denna källa - Fredmans epistel nr 82"
+      },
       "duration_ms": 538706,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "3RTWHlXtxXsxFgHE7o5Cpb",
+      "album": {
+        "id": "3RTWHlXtxXsxFgHE7o5Cpb",
+        "name": "Playlist: Fred Åkerström",
+        "img": "https://i.scdn.co/image/ab67616d00001e020030f5e66d7ccfeb99ccf57b"
+      },
       "release_date": "2011-06-20",
       "popularity": 2
     },
     {
-      "trackId": "08p69RXAJkciqf4SoACJOy",
-      "name": "Fritiof och Carmencita (Tango i Samborombon)",
+      "track": {
+        "id": "08p69RXAJkciqf4SoACJOy",
+        "name": "Fritiof och Carmencita (Tango i Samborombon)"
+      },
       "duration_ms": 187039,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "5T85NS6pAaXZ8eM21izrXe",
+      "album": {
+        "id": "5T85NS6pAaXZ8eM21izrXe",
+        "name": "Taube Sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e021198d2f05715ff2e2584b61b"
+      },
       "release_date": "1989",
       "popularity": 23
     },
     {
-      "trackId": "5VnmpPZ1eUkA7EpyUQ8T0e",
-      "name": "Symphony No. 5 in C-Sharp Minor: V. Rondo-Finale. Allegro",
+      "track": {
+        "id": "5VnmpPZ1eUkA7EpyUQ8T0e",
+        "name": "Symphony No. 5 in C-Sharp Minor: V. Rondo-Finale. Allegro"
+      },
       "duration_ms": 899863,
-      "artist": [
-        "Gustav Mahler",
-        "Berliner Philharmoniker",
-        "Gustavo Dudamel"
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "id": "2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "id": "0cxXnDhpgxcMMkKddhORHY"
+        }
       ],
-      "artistId": [
-        "2ANtgfhQkKpsW6EYSDqldz",
-        "6uRJnvQ3f8whVnmeoecv5Z",
-        "0cxXnDhpgxcMMkKddhORHY"
-      ],
-      "albumId": "2VWmD3pRSVbfTfTckrIwpg",
+      "album": {
+        "id": "2VWmD3pRSVbfTfTckrIwpg",
+        "name": "Mahler: Symphony No. 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e022efa2ee6c07c470af8a98aeb"
+      },
       "release_date": "2022-05-20",
       "popularity": 21
     },
     {
-      "trackId": "4ME2YQNThxEW63fxojzHvN",
-      "name": "One - Single Version",
+      "track": {
+        "id": "4ME2YQNThxEW63fxojzHvN",
+        "name": "One - Single Version"
+      },
       "duration_ms": 185826,
-      "artist": [
-        "Three Dog Night"
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "id": "4FAEZeJcsYYBkNq2D3KGTV"
+        }
       ],
-      "artistId": [
-        "4FAEZeJcsYYBkNq2D3KGTV"
-      ],
-      "albumId": "3EQ412rAdAuGsxADDEarJ4",
+      "album": {
+        "id": "3EQ412rAdAuGsxADDEarJ4",
+        "name": "Three Dog Night",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f54486350a5c681ba9ec382"
+      },
       "release_date": "1968-01-01",
       "popularity": 59
     },
     {
-      "trackId": "290NqcCUbY5jp7OADgtQ7i",
-      "name": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam",
+      "track": {
+        "id": "290NqcCUbY5jp7OADgtQ7i",
+        "name": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam"
+      },
       "duration_ms": 576262,
-      "artist": [
-        "Gustav Mahler",
-        "Berliner Philharmoniker",
-        "Gustavo Dudamel"
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "id": "2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "id": "0cxXnDhpgxcMMkKddhORHY"
+        }
       ],
-      "artistId": [
-        "2ANtgfhQkKpsW6EYSDqldz",
-        "6uRJnvQ3f8whVnmeoecv5Z",
-        "0cxXnDhpgxcMMkKddhORHY"
-      ],
-      "albumId": "5T18NJVjbEudTij5JTxUuB",
+      "album": {
+        "id": "5T18NJVjbEudTij5JTxUuB",
+        "name": "Mahler: Symphony No. 5: IV. Adagietto. Sehr langsam",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283798d5e52d05a55083ff8ae"
+      },
       "release_date": "2022-05-13",
       "popularity": 20
     },
     {
-      "trackId": "0cqcRqZgkNHanWQ8slYA0v",
-      "name": "Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam",
+      "track": {
+        "id": "0cqcRqZgkNHanWQ8slYA0v",
+        "name": "Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam"
+      },
       "duration_ms": 583293,
-      "artist": [
-        "Gustav Mahler",
-        "Daniel Barenboim",
-        "Chicago Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "id": "2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "id": "78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "id": "6TD08jYeuN128P2MZTbc8E"
+        }
       ],
-      "artistId": [
-        "2ANtgfhQkKpsW6EYSDqldz",
-        "78sEozQOEJxzXegUuqRSgH",
-        "6TD08jYeuN128P2MZTbc8E"
-      ],
-      "albumId": "2xhhbZySK489esUAtrs65j",
+      "album": {
+        "id": "2xhhbZySK489esUAtrs65j",
+        "name": "Mahler : Symphony No.5",
+        "img": "https://i.scdn.co/image/ab67616d00001e02783958b7925dd51636a85ca6"
+      },
       "release_date": "1998-08-14",
       "popularity": 56
     },
     {
-      "trackId": "4FCb4CUbFCMNRkI6lYc1zI",
-      "name": "Hero",
+      "track": {
+        "id": "4FCb4CUbFCMNRkI6lYc1zI",
+        "name": "Hero"
+      },
       "duration_ms": 257733,
-      "artist": [
-        "Mariah Carey"
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+        }
       ],
-      "artistId": [
-        "4iHNK0tOyZPYnBU7nGAgpQ"
-      ],
-      "albumId": "2NKxb7pk04CuZab5udkGUl",
+      "album": {
+        "id": "2NKxb7pk04CuZab5udkGUl",
+        "name": "Music Box",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f688fa11af022f0210e21cb"
+      },
       "release_date": "1993-08-31",
       "popularity": 69
     },
     {
-      "trackId": "0GCvEcU3yBkC4mwGtuMvhD",
-      "name": "Min plats på jorden",
+      "track": {
+        "id": "0GCvEcU3yBkC4mwGtuMvhD",
+        "name": "Min plats på jorden"
+      },
       "duration_ms": 277106,
-      "artist": [
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "5KuquR01zcC8NeiRiCQFYW",
+      "album": {
+        "id": "5KuquR01zcC8NeiRiCQFYW",
+        "name": "Min plats på jorden",
+        "img": "https://i.scdn.co/image/ab67616d00001e025eb84de99e0a9792beaa6fb1"
+      },
       "release_date": "2009-01-01",
       "popularity": 26
     },
     {
-      "trackId": "3HSt1ZgyKd8MONJ722o8PT",
-      "name": "Vi kommer aldrig att dö",
+      "track": {
+        "id": "3HSt1ZgyKd8MONJ722o8PT",
+        "name": "Vi kommer aldrig att dö"
+      },
       "duration_ms": 264226,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "6eDA4i4dMMeLZ3HJtU65sF",
+      "album": {
+        "id": "6eDA4i4dMMeLZ3HJtU65sF",
+        "name": "Amerika",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3417f3aed4b81357618a6f9"
+      },
       "release_date": "1996-09-26",
       "popularity": 37
     },
     {
-      "trackId": "7441zpS44Zw1Qd9eEvUgdG",
-      "name": "Lika hopplöst förälskad",
+      "track": {
+        "id": "7441zpS44Zw1Qd9eEvUgdG",
+        "name": "Lika hopplöst förälskad"
+      },
       "duration_ms": 239013,
-      "artist": [
-        "Tomas Ledin"
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "id": "518rTAIFPwQjLUSi4Pdzzn"
+        }
       ],
-      "artistId": [
-        "518rTAIFPwQjLUSi4Pdzzn"
-      ],
-      "albumId": "3GQwj4fIpwVik3y3UqcN7g",
+      "album": {
+        "id": "3GQwj4fIpwVik3y3UqcN7g",
+        "name": "T",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdba743699a66fff7f6a4a9d"
+      },
       "release_date": "1996-01-01",
       "popularity": 37
     }

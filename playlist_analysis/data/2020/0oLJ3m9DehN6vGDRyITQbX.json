@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ce8c8837-a16a-404d-9a59-5c67892b630e.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7KOegFQMd13ETQry4A6Tu1",
-      "name": "Strövtåg i hembygden",
+      "track": {
+        "id": "7KOegFQMd13ETQry4A6Tu1",
+        "name": "Strövtåg i hembygden"
+      },
       "duration_ms": 249573,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 56
     },
     {
-      "trackId": "6yLIqXX9edg1x0HZS7cZEv",
-      "name": "The Air That I Breathe - 2008 Remaster",
+      "track": {
+        "id": "6yLIqXX9edg1x0HZS7cZEv",
+        "name": "The Air That I Breathe - 2008 Remaster"
+      },
       "duration_ms": 257106,
-      "artist": [
-        "The Hollies"
+      "artists": [
+        {
+          "name": "The Hollies",
+          "id": "6waa8mKu91GjzD4NlONlNJ"
+        }
       ],
-      "artistId": [
-        "6waa8mKu91GjzD4NlONlNJ"
-      ],
-      "albumId": "17gEubRfhqZEFoYEnHVV5H",
+      "album": {
+        "id": "17gEubRfhqZEFoYEnHVV5H",
+        "name": "Hollies",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d39fe8d82388fcaa345273b"
+      },
       "release_date": "1974-03-01",
       "popularity": 66
     },
     {
-      "trackId": "6RUKPb4LETWmmr3iAEQktW",
-      "name": "Something Just Like This",
+      "track": {
+        "id": "6RUKPb4LETWmmr3iAEQktW",
+        "name": "Something Just Like This"
+      },
       "duration_ms": 247160,
-      "artist": [
-        "The Chainsmokers",
-        "Coldplay"
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "id": "69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "69GGBxA162lTqCwzJG5jLp",
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "4JPguzRps3kuWDD5GS6oXr",
+      "album": {
+        "id": "4JPguzRps3kuWDD5GS6oXr",
+        "name": "Memories...Do Not Open",
+        "img": "https://i.scdn.co/image/ab67616d00001e020c13d3d5a503c84fcc60ae94"
+      },
       "release_date": "2017-04-07",
       "popularity": 84
     },
     {
-      "trackId": "6L89mwZXSOwYl76YXfX13s",
-      "name": "Basket Case",
+      "track": {
+        "id": "6L89mwZXSOwYl76YXfX13s",
+        "name": "Basket Case"
+      },
       "duration_ms": 181533,
-      "artist": [
-        "Green Day"
+      "artists": [
+        {
+          "name": "Green Day",
+          "id": "7oPftvlwr6VrsViSDV7fJY"
+        }
       ],
-      "artistId": [
-        "7oPftvlwr6VrsViSDV7fJY"
-      ],
-      "albumId": "4uG8q3GPuWHQlRbswMIRS6",
+      "album": {
+        "id": "4uG8q3GPuWHQlRbswMIRS6",
+        "name": "Dookie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db89b08034de626ebee6823d"
+      },
       "release_date": "1994-02-01",
       "popularity": 80
     },
     {
-      "trackId": "7EZC6E7UjZe63f1jRmkWxt",
-      "name": "Zombie",
+      "track": {
+        "id": "7EZC6E7UjZe63f1jRmkWxt",
+        "name": "Zombie"
+      },
       "duration_ms": 306440,
-      "artist": [
-        "The Cranberries"
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "id": "7t0rwkOPGlDPEhaOcVtOt9"
+        }
       ],
-      "artistId": [
-        "7t0rwkOPGlDPEhaOcVtOt9"
-      ],
-      "albumId": "1Bwo9JkbVwxGyvtQNMRK21",
+      "album": {
+        "id": "1Bwo9JkbVwxGyvtQNMRK21",
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272d481a5999197ef5f42f796"
+      },
       "release_date": "1994-10-03",
       "popularity": 81
     },
     {
-      "trackId": "6pkmsBSvrgzFgkIIMQJxVw",
-      "name": "What's The Point",
+      "track": {
+        "id": "6pkmsBSvrgzFgkIIMQJxVw",
+        "name": "What's The Point"
+      },
       "duration_ms": 255706,
-      "artist": [
-        "Johnossi"
+      "artists": [
+        {
+          "name": "Johnossi",
+          "id": "0k5NrYJAazGYrIhzrDslcT"
+        }
       ],
-      "artistId": [
-        "0k5NrYJAazGYrIhzrDslcT"
-      ],
-      "albumId": "59MXLAWsbAbq9nANWwFzTY",
+      "album": {
+        "id": "59MXLAWsbAbq9nANWwFzTY",
+        "name": "Mavericks",
+        "img": "https://i.scdn.co/image/ab67616d00001e02684b31dc8bab890f01492566"
+      },
       "release_date": "2010-01-01",
       "popularity": 44
     },
     {
-      "trackId": "14AJI1RloVWTh8bJe9gBPM",
-      "name": "Händerna mot himlen",
+      "track": {
+        "id": "14AJI1RloVWTh8bJe9gBPM",
+        "name": "Händerna mot himlen"
+      },
       "duration_ms": 237813,
-      "artist": [
-        "Petra Marklund"
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "id": "2ZX1rncu0C7WOuSFC1aEbh"
+        }
       ],
-      "artistId": [
-        "2ZX1rncu0C7WOuSFC1aEbh"
-      ],
-      "albumId": "0Pkg2U6eM9f15PN9ZXefNq",
+      "album": {
+        "id": "0Pkg2U6eM9f15PN9ZXefNq",
+        "name": "Inferno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7d0677a82379a373bc93d34"
+      },
       "release_date": "2012-10-17",
       "popularity": 61
     },
     {
-      "trackId": "4bHsxqR3GMrXTxEPLuK5ue",
-      "name": "Don't Stop Believin'",
+      "track": {
+        "id": "4bHsxqR3GMrXTxEPLuK5ue",
+        "name": "Don't Stop Believin'"
+      },
       "duration_ms": 250986,
-      "artist": [
-        "Journey"
+      "artists": [
+        {
+          "name": "Journey",
+          "id": "0rvjqX7ttXeg3mTy8Xscbt"
+        }
       ],
-      "artistId": [
-        "0rvjqX7ttXeg3mTy8Xscbt"
-      ],
-      "albumId": "43wpzak9OmQfrjyksuGwp0",
+      "album": {
+        "id": "43wpzak9OmQfrjyksuGwp0",
+        "name": "Escape (Bonus Track Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5653f9038e42efad2f8a266"
+      },
       "release_date": "1981",
       "popularity": 82
     },
     {
-      "trackId": "1fGhWImpq7OSJvYy1WcfBD",
-      "name": "Det Kommer Bli Bra",
+      "track": {
+        "id": "1fGhWImpq7OSJvYy1WcfBD",
+        "name": "Det Kommer Bli Bra"
+      },
       "duration_ms": 231360,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "1TdBDgXrb8ELHqUKDl9uUa",
+      "album": {
+        "id": "1TdBDgXrb8ELHqUKDl9uUa",
+        "name": "Vatten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7a7440d118a30aa50833a5b"
+      },
       "release_date": "2022-03-25",
       "popularity": 55
     },
     {
-      "trackId": "0MmwUriVJZ3auqQ6CLKGnZ",
-      "name": "On Top Of The World",
+      "track": {
+        "id": "0MmwUriVJZ3auqQ6CLKGnZ",
+        "name": "On Top Of The World"
+      },
       "duration_ms": 192800,
-      "artist": [
-        "Imagine Dragons"
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "id": "53XhwfbYqKCa1cC15pYq2q"
+        }
       ],
-      "artistId": [
-        "53XhwfbYqKCa1cC15pYq2q"
-      ],
-      "albumId": "5s7nQXAAXWUZiIkyniCb2T",
+      "album": {
+        "id": "5s7nQXAAXWUZiIkyniCb2T",
+        "name": "Kids Songs: Family Day!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02362f86f844060049d4debd53"
+      },
       "release_date": "2022-08-17",
       "popularity": 5
     },
     {
-      "trackId": "4kbj5MwxO1bq9wjT5g9HaA",
-      "name": "Shut Up and Dance",
+      "track": {
+        "id": "4kbj5MwxO1bq9wjT5g9HaA",
+        "name": "Shut Up and Dance"
+      },
       "duration_ms": 199080,
-      "artist": [
-        "WALK THE MOON"
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "id": "6DIS6PRrLS3wbnZsf7vYic"
+        }
       ],
-      "artistId": [
-        "6DIS6PRrLS3wbnZsf7vYic"
-      ],
-      "albumId": "3mNoFlD1wsoXfkljfFzExT",
+      "album": {
+        "id": "3mNoFlD1wsoXfkljfFzExT",
+        "name": "TALKING IS HARD",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243294cfa2688055c9d821bf3"
+      },
       "release_date": "2014-12-02",
       "popularity": 83
     },
     {
-      "trackId": "4TBEx9Vq1TyuVoIope0DMK",
-      "name": "Just idag är jag stark",
+      "track": {
+        "id": "4TBEx9Vq1TyuVoIope0DMK",
+        "name": "Just idag är jag stark"
+      },
       "duration_ms": 218066,
-      "artist": [
-        "Kenta"
+      "artists": [
+        {
+          "name": "Kenta",
+          "id": "432eI2RoKNEXW7EK2UON6R"
+        }
       ],
-      "artistId": [
-        "432eI2RoKNEXW7EK2UON6R"
-      ],
-      "albumId": "5bIPIDLNlvUWHOm6UhRxs8",
+      "album": {
+        "id": "5bIPIDLNlvUWHOm6UhRxs8",
+        "name": "Kenta",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d87645b7bee75043027bdea"
+      },
       "release_date": "1979",
       "popularity": 49
     },
     {
-      "trackId": "7bVwUOySQGO2afJ0LArAMi",
-      "name": "Stad i ljus",
+      "track": {
+        "id": "7bVwUOySQGO2afJ0LArAMi",
+        "name": "Stad i ljus"
+      },
       "duration_ms": 188293,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "1nfObC0Ykmpy6vYLwlsg4Z",
+      "album": {
+        "id": "1nfObC0Ykmpy6vYLwlsg4Z",
+        "name": "Är",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea718cef99b43189becc5975"
+      },
       "release_date": "1995-04-24",
       "popularity": 52
     }

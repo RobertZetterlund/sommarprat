@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257779_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3XH4UlE0nfBcHRPCjRjh9i",
-      "name": "Concerto For Violin And Orchestra In D Minor, Op. 47",
+      "track": {
+        "id": "3XH4UlE0nfBcHRPCjRjh9i",
+        "name": "Concerto For Violin And Orchestra In D Minor, Op. 47"
+      },
       "duration_ms": 862346,
-      "artist": [
-        "Jascha Heifetz"
+      "artists": [
+        {
+          "name": "Jascha Heifetz",
+          "id": "7yaBUcdjmqPP2vIv6F5bFD"
+        }
       ],
-      "artistId": [
-        "7yaBUcdjmqPP2vIv6F5bFD"
-      ],
-      "albumId": "3Dy5drtbAqLaoaZ70pCw4T",
+      "album": {
+        "id": "3Dy5drtbAqLaoaZ70pCw4T",
+        "name": "Complete Violin Performances",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d3b713d8a8c37e003de6126"
+      },
       "release_date": "2012-02-14",
       "popularity": 0
     },
     {
-      "trackId": "7Codqj9B5oMniYPUhfv26I",
-      "name": "Dedicated To You",
+      "track": {
+        "id": "7Codqj9B5oMniYPUhfv26I",
+        "name": "Dedicated To You"
+      },
       "duration_ms": 202773,
-      "artist": [
-        "Freddie Hubbard"
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "id": "0fTHKjepK5HWOrb2rkS5Em"
+        }
       ],
-      "artistId": [
-        "0fTHKjepK5HWOrb2rkS5Em"
-      ],
-      "albumId": "4HI73mieaBFtwKS37HmvQH",
+      "album": {
+        "id": "4HI73mieaBFtwKS37HmvQH",
+        "name": "The Body & The Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285b5449cfc7df0e04ef3ebbb"
+      },
       "release_date": "1964-07-15",
       "popularity": 47
     },
     {
-      "trackId": "0QwZfbw26QeUoIy82Z2jYp",
-      "name": "Good Times Bad Times - 1993 Remaster",
+      "track": {
+        "id": "0QwZfbw26QeUoIy82Z2jYp",
+        "name": "Good Times Bad Times - 1993 Remaster"
+      },
       "duration_ms": 166266,
-      "artist": [
-        "Led Zeppelin"
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "id": "36QJpDe2go2KgaRleHCDTp"
+        }
       ],
-      "artistId": [
-        "36QJpDe2go2KgaRleHCDTp"
-      ],
-      "albumId": "3ycjBixZf7S3WpC5WZhhUK",
+      "album": {
+        "id": "3ycjBixZf7S3WpC5WZhhUK",
+        "name": "Led Zeppelin",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f2f499c1df1f210c9b34b32"
+      },
       "release_date": "1969-01-12",
       "popularity": 68
     },
     {
-      "trackId": "4piLHbn2d4v8Ie3NNC0bI5",
-      "name": "Man skall tala idag (Ur dikten \"Imorgon\")",
+      "track": {
+        "id": "4piLHbn2d4v8Ie3NNC0bI5",
+        "name": "Man skall tala idag (Ur dikten \"Imorgon\")"
+      },
       "duration_ms": 234040,
-      "artist": [
-        "Solar Plexus"
+      "artists": [
+        {
+          "name": "Solar Plexus",
+          "id": "1QNDdzVhiMYXlRiGfD5XDj"
+        }
       ],
-      "artistId": [
-        "1QNDdzVhiMYXlRiGfD5XDj"
-      ],
-      "albumId": "28vF9xbWdnIjZ0U0mmgaHF",
+      "album": {
+        "id": "28vF9xbWdnIjZ0U0mmgaHF",
+        "name": "Heavy Prog, Psych & Blues of the World",
+        "img": "https://i.scdn.co/image/ab67616d00001e023373b2f8a57088ed3628da56"
+      },
       "release_date": "2018-05-11",
       "popularity": 0
     },
     {
-      "trackId": "2MaLglXXcouyoh03rUROQ2",
-      "name": "Peg",
+      "track": {
+        "id": "2MaLglXXcouyoh03rUROQ2",
+        "name": "Peg"
+      },
       "duration_ms": 240333,
-      "artist": [
-        "Steely Dan"
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "id": "6P7H3ai06vU1sGvdpBwDmE"
+        }
       ],
-      "artistId": [
-        "6P7H3ai06vU1sGvdpBwDmE"
-      ],
-      "albumId": "5Zxv8bCtxjz11jjypNdkEa",
+      "album": {
+        "id": "5Zxv8bCtxjz11jjypNdkEa",
+        "name": "Aja",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5dd0952c693529017743e39"
+      },
       "release_date": "1977-01-01",
       "popularity": 61
     },
     {
-      "trackId": "1RTnm3X7m7ugfVYIDIlAho",
-      "name": "Chicken",
+      "track": {
+        "id": "1RTnm3X7m7ugfVYIDIlAho",
+        "name": "Chicken"
+      },
       "duration_ms": 502000,
-      "artist": [
-        "Maceo Parker"
+      "artists": [
+        {
+          "name": "Maceo Parker",
+          "id": "4RAQZfFgR7NPAWjKwUpEeC"
+        }
       ],
-      "artistId": [
-        "4RAQZfFgR7NPAWjKwUpEeC"
-      ],
-      "albumId": "5CrzqlkumMXwqDmxtniQkt",
+      "album": {
+        "id": "5CrzqlkumMXwqDmxtniQkt",
+        "name": "Mo' Roots",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e366dfaa897950cc97e65910"
+      },
       "release_date": "1991",
       "popularity": 33
     },
     {
-      "trackId": "1ezz4zLDNIrtjul2PnWf46",
-      "name": "You're Everything",
+      "track": {
+        "id": "1ezz4zLDNIrtjul2PnWf46",
+        "name": "You're Everything"
+      },
       "duration_ms": 314733,
-      "artist": [
-        "Chick Corea",
-        "Return To Forever"
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "id": "5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Return To Forever",
+          "id": "1txWOvvuItlRlkB4rM0cUK"
+        }
       ],
-      "artistId": [
-        "5olDKSsFhhmwh8UCWwKtpq",
-        "1txWOvvuItlRlkB4rM0cUK"
-      ],
-      "albumId": "2b53ZhXIiCGr3rPTYkpVeF",
+      "album": {
+        "id": "2b53ZhXIiCGr3rPTYkpVeF",
+        "name": "Light As A Feather",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4f672078a1e58460b23e1ea"
+      },
       "release_date": "1973-01-01",
       "popularity": 34
     },
     {
-      "trackId": "7k1WUlStyekc31k8CMucXy",
-      "name": "Juicy (Remastered) - Live",
+      "track": {
+        "id": "7k1WUlStyekc31k8CMucXy",
+        "name": "Juicy (Remastered) - Live"
+      },
       "duration_ms": 704706,
-      "artist": [
-        "Billy Cobham",
-        "George Duke"
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "id": "0IwfuIL3gUJxjzUqY3wJ3j"
+        },
+        {
+          "name": "George Duke",
+          "id": "3EB0uKE2lGw6BB1UFJrONl"
+        }
       ],
-      "artistId": [
-        "0IwfuIL3gUJxjzUqY3wJ3j",
-        "3EB0uKE2lGw6BB1UFJrONl"
-      ],
-      "albumId": "7p3lzWWphukTjKu5DGyDqV",
+      "album": {
+        "id": "7p3lzWWphukTjKu5DGyDqV",
+        "name": "Juicy (Remastered) [Live - Electric Ballroom, Dallas. New Year’s Day 1975]",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277dd01d2712df6e9df35156d"
+      },
       "release_date": "1976",
       "popularity": 0
     },
     {
-      "trackId": "3uvEsp3LWHowImpBbZnAtS",
-      "name": "Rock and Roll Doctor",
+      "track": {
+        "id": "3uvEsp3LWHowImpBbZnAtS",
+        "name": "Rock and Roll Doctor"
+      },
       "duration_ms": 178666,
-      "artist": [
-        "Little Feat"
+      "artists": [
+        {
+          "name": "Little Feat",
+          "id": "0ZIwOAzDuGPspzK7yiTc4S"
+        }
       ],
-      "artistId": [
-        "0ZIwOAzDuGPspzK7yiTc4S"
-      ],
-      "albumId": "5nflfddG6Tlrt2YiZhXJAD",
+      "album": {
+        "id": "5nflfddG6Tlrt2YiZhXJAD",
+        "name": "Feats Don't Fail Me Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e022eeed88541975d891c03e3b1"
+      },
       "release_date": "1974",
       "popularity": 52
     },
     {
-      "trackId": "3EGI5qmVmGlfgy9BmNb1R8",
-      "name": "Lessons In Love",
+      "track": {
+        "id": "3EGI5qmVmGlfgy9BmNb1R8",
+        "name": "Lessons In Love"
+      },
       "duration_ms": 246013,
-      "artist": [
-        "Level 42"
+      "artists": [
+        {
+          "name": "Level 42",
+          "id": "0L9xkvBPcEp1nrhDrodxc5"
+        }
       ],
-      "artistId": [
-        "0L9xkvBPcEp1nrhDrodxc5"
-      ],
-      "albumId": "1yAkrIyJL8D55sWTjS6U1n",
+      "album": {
+        "id": "1yAkrIyJL8D55sWTjS6U1n",
+        "name": "Running In The Family",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cefb195c53a73383add7f5f7"
+      },
       "release_date": "1987",
       "popularity": 69
     },
     {
-      "trackId": "1jvrVS6fcf3jaFIVi5AGQC",
-      "name": "Varför",
+      "track": {
+        "id": "1jvrVS6fcf3jaFIVi5AGQC",
+        "name": "Varför"
+      },
       "duration_ms": 160561,
-      "artist": [
-        "Ville och Valle och Viktor"
+      "artists": [
+        {
+          "name": "Ville och Valle och Viktor",
+          "id": "51i1CPF3D4v1fxsabFQP25"
+        }
       ],
-      "artistId": [
-        "51i1CPF3D4v1fxsabFQP25"
-      ],
-      "albumId": "5ucqwZ9gYFRaUFsu5DyXeh",
+      "album": {
+        "id": "5ucqwZ9gYFRaUFsu5DyXeh",
+        "name": "Här kommer Ville och Valle och Viktor",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265020cc7b61b9fe5fe3834cf"
+      },
       "release_date": "1971-01-01",
       "popularity": 2
     },
     {
-      "trackId": "7M8lVjy8ht8UZbMl7kd9qq",
-      "name": "Valles dröm",
+      "track": {
+        "id": "7M8lVjy8ht8UZbMl7kd9qq",
+        "name": "Valles dröm"
+      },
       "duration_ms": 122588,
-      "artist": [
-        "Ville och Valle och Viktor"
+      "artists": [
+        {
+          "name": "Ville och Valle och Viktor",
+          "id": "51i1CPF3D4v1fxsabFQP25"
+        }
       ],
-      "artistId": [
-        "51i1CPF3D4v1fxsabFQP25"
-      ],
-      "albumId": "5ucqwZ9gYFRaUFsu5DyXeh",
+      "album": {
+        "id": "5ucqwZ9gYFRaUFsu5DyXeh",
+        "name": "Här kommer Ville och Valle och Viktor",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265020cc7b61b9fe5fe3834cf"
+      },
       "release_date": "1971-01-01",
       "popularity": 4
     },
     {
-      "trackId": "5ViRKzrwTy8yiqKQYoP77r",
-      "name": "Light Blue",
+      "track": {
+        "id": "5ViRKzrwTy8yiqKQYoP77r",
+        "name": "Light Blue"
+      },
       "duration_ms": 353854,
-      "artist": [
-        "Steve Lacy"
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "id": "1BEsuwAkTQMG50TeHB5qny"
+        }
       ],
-      "artistId": [
-        "1BEsuwAkTQMG50TeHB5qny"
-      ],
-      "albumId": "6Q5UPYvpLaL9tPBeFPUjca",
+      "album": {
+        "id": "6Q5UPYvpLaL9tPBeFPUjca",
+        "name": "Steve Lacy Plays Monk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02797ee57b16dc8069a93a6726"
+      },
       "release_date": "2007",
       "popularity": 0
     },
     {
-      "trackId": "1oq7xG1nriM7kw7u4Z13Ar",
-      "name": "Almustafa the Beloved",
+      "track": {
+        "id": "1oq7xG1nriM7kw7u4Z13Ar",
+        "name": "Almustafa the Beloved"
+      },
       "duration_ms": 411573,
-      "artist": [
-        "Billy Cobham"
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "id": "0IwfuIL3gUJxjzUqY3wJ3j"
+        }
       ],
-      "artistId": [
-        "0IwfuIL3gUJxjzUqY3wJ3j"
-      ],
-      "albumId": "4NiHLeuOSjKmUSD7iEfV1h",
+      "album": {
+        "id": "4NiHLeuOSjKmUSD7iEfV1h",
+        "name": "The Atlantic Years 1973-1978",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b1c75ea586e8bd68fc46285"
+      },
       "release_date": "2015-09-25",
       "popularity": 21
     },
     {
-      "trackId": "3TkHZOECTMUOfQylIyUnqN",
-      "name": "Oleo De Mujer Con Sombrero",
+      "track": {
+        "id": "3TkHZOECTMUOfQylIyUnqN",
+        "name": "Oleo De Mujer Con Sombrero"
+      },
       "duration_ms": 510933,
-      "artist": [
-        "Bobo Stenson Trio"
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "id": "1BKStidrseaPjyjQjL3yxV"
+        }
       ],
-      "artistId": [
-        "1BKStidrseaPjyjQjL3yxV"
-      ],
-      "albumId": "0vFPcvzSwDcyRueMX0pftk",
+      "album": {
+        "id": "0vFPcvzSwDcyRueMX0pftk",
+        "name": "War Orphans",
+        "img": "https://i.scdn.co/image/ab67616d00001e02834285880bdff6945d4b2ea0"
+      },
       "release_date": "1998-01-26",
       "popularity": 18
     }

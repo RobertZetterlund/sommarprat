@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/0223ac35-bdae-4afb-a01b-f134ed26ce57.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0k6JSyiha1dAI1UDrIkoG9",
-      "name": "Så länge du är med mig",
+      "track": {
+        "id": "0k6JSyiha1dAI1UDrIkoG9",
+        "name": "Så länge du är med mig"
+      },
       "duration_ms": 191173,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "0CwugDDeAhiwEPzBi7AJvF",
+      "album": {
+        "id": "0CwugDDeAhiwEPzBi7AJvF",
+        "name": "Nåt gammalt, nåt nytt, nåt lånat, nåt blått",
+        "img": "https://i.scdn.co/image/ab67616d00001e021370b51d3cadf3107ef1a55e"
+      },
       "release_date": "2005-12-28",
       "popularity": 33
     },
     {
-      "trackId": "2pAiQXcChO89LC1Bw9v1H2",
-      "name": "Fotboll I Mitt Hjärta",
+      "track": {
+        "id": "2pAiQXcChO89LC1Bw9v1H2",
+        "name": "Fotboll I Mitt Hjärta"
+      },
       "duration_ms": 149533,
-      "artist": [
-        "Azalea BK Flickor 93"
+      "artists": [
+        {
+          "name": "Azalea BK Flickor 93",
+          "id": "27IEL7EJfUrEEBaZAiQJV4"
+        }
       ],
-      "artistId": [
-        "27IEL7EJfUrEEBaZAiQJV4"
-      ],
-      "albumId": "3Wjvgj771lHvEJSi0fE6zc",
+      "album": {
+        "id": "3Wjvgj771lHvEJSi0fE6zc",
+        "name": "Fotboll I Mitt Hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02603ed780c946d2f179b21a1e"
+      },
       "release_date": "2008-04-07",
       "popularity": 1
     },
     {
-      "trackId": "1AHPsqF3EtHeWpOM06Y3Y4",
-      "name": "Hope There's Someone",
+      "track": {
+        "id": "1AHPsqF3EtHeWpOM06Y3Y4",
+        "name": "Hope There's Someone"
+      },
       "duration_ms": 261200,
-      "artist": [
-        "Antony and the Johnsons"
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "id": "4fxp616ALtFWnXfwxnjLzW"
+        }
       ],
-      "artistId": [
-        "4fxp616ALtFWnXfwxnjLzW"
-      ],
-      "albumId": "24Xm5zS2KvwojChzxLGdn9",
+      "album": {
+        "id": "24Xm5zS2KvwojChzxLGdn9",
+        "name": "I Am A Bird Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0591c5bfd1d391228e8423c"
+      },
       "release_date": "2005-02-07",
       "popularity": 48
     },
     {
-      "trackId": "77jVczOFXfbdugN4djsIqs",
-      "name": "Shoreline",
+      "track": {
+        "id": "77jVczOFXfbdugN4djsIqs",
+        "name": "Shoreline"
+      },
       "duration_ms": 259920,
-      "artist": [
-        "Broder Daniel"
+      "artists": [
+        {
+          "name": "Broder Daniel",
+          "id": "0IcwumPFXL1XWQ0Z9CCuCV"
+        }
       ],
-      "artistId": [
-        "0IcwumPFXL1XWQ0Z9CCuCV"
-      ],
-      "albumId": "29DJbv239AmBY50Y5e4ru2",
+      "album": {
+        "id": "29DJbv239AmBY50Y5e4ru2",
+        "name": "Cruel Town",
+        "img": "https://i.scdn.co/image/ab67616d00001e02195e3207476e1d7eff03e88a"
+      },
       "release_date": "2003-10-01",
       "popularity": 47
     },
     {
-      "trackId": "1KQimPlN4pDbXyiCBIt3cz",
-      "name": "The Letter",
+      "track": {
+        "id": "1KQimPlN4pDbXyiCBIt3cz",
+        "name": "The Letter"
+      },
       "duration_ms": 117546,
-      "artist": [
-        "Johan Söderqvist",
-        "Hans Ek",
-        "Philharmonia Orchestra"
+      "artists": [
+        {
+          "name": "Johan Söderqvist",
+          "id": "0Z6bE6kOVhh2DHZPMUz2Sr"
+        },
+        {
+          "name": "Hans Ek",
+          "id": "446mV2yNk82K3T6TW1j7Ot"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "id": "09KZU0NsS7jRa5p0SflmGY"
+        }
       ],
-      "artistId": [
-        "0Z6bE6kOVhh2DHZPMUz2Sr",
-        "446mV2yNk82K3T6TW1j7Ot",
-        "09KZU0NsS7jRa5p0SflmGY"
-      ],
-      "albumId": "0oWKPVuvYjGTPD34hh5Pee",
+      "album": {
+        "id": "0oWKPVuvYjGTPD34hh5Pee",
+        "name": "Kon Tiki (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205dc1eefa70f8a6b4fb32cab"
+      },
       "release_date": "2013-04-26",
       "popularity": 19
     },
     {
-      "trackId": "6EdxqqcuxD6K12GLO33CLM",
-      "name": "I den stora sorgens famn",
+      "track": {
+        "id": "6EdxqqcuxD6K12GLO33CLM",
+        "name": "I den stora sorgens famn"
+      },
       "duration_ms": 277533,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "27UeA6gHS0oDPrMYaJa9QI",
+      "album": {
+        "id": "27UeA6gHS0oDPrMYaJa9QI",
+        "name": "Äntligen på väg (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024eed0eb8fb737993c7dc9d73"
+      },
       "release_date": "1994",
       "popularity": 39
     },
     {
-      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-      "name": "En stund på jorden",
+      "track": {
+        "id": "0Zii0Q4Z17kd1XMB27CQ2t",
+        "name": "En stund på jorden"
+      },
       "duration_ms": 232858,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 50
     },
     {
-      "trackId": "35bIVevGZDFHHpXqv69XEX",
-      "name": "Dig äger ingen",
+      "track": {
+        "id": "35bIVevGZDFHHpXqv69XEX",
+        "name": "Dig äger ingen"
+      },
       "duration_ms": 189213,
-      "artist": [
-        "Joel Alme"
+      "artists": [
+        {
+          "name": "Joel Alme",
+          "id": "6hSnbFV44BMzWgP9alWsTc"
+        }
       ],
-      "artistId": [
-        "6hSnbFV44BMzWgP9alWsTc"
-      ],
-      "albumId": "4IhnCDeCnQQWyCTxRtFhQ4",
+      "album": {
+        "id": "4IhnCDeCnQQWyCTxRtFhQ4",
+        "name": "Flyktligan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6d916b860931f472dd8127c"
+      },
       "release_date": "2015-03-11",
       "popularity": 35
     },
     {
-      "trackId": "2m6QrPiTpQjlDjLuFCn6oQ",
-      "name": "Tusen bitar",
+      "track": {
+        "id": "2m6QrPiTpQjlDjLuFCn6oQ",
+        "name": "Tusen bitar"
+      },
       "duration_ms": 188053,
-      "artist": [
-        "Maia Hirasawa"
+      "artists": [
+        {
+          "name": "Maia Hirasawa",
+          "id": "2xtgYE7gox5t043BJWi7bd"
+        }
       ],
-      "artistId": [
-        "2xtgYE7gox5t043BJWi7bd"
-      ],
-      "albumId": "3E4Kn11L3wf1X0Nm4BgDj4",
+      "album": {
+        "id": "3E4Kn11L3wf1X0Nm4BgDj4",
+        "name": "Dröm bort mig igen",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e401f5019b01cb52db883bf"
+      },
       "release_date": "2010-01-26",
       "popularity": 34
     },
     {
-      "trackId": "61o5tmzK4TdftIGykP7stT",
-      "name": "Lyckligare nu",
+      "track": {
+        "id": "61o5tmzK4TdftIGykP7stT",
+        "name": "Lyckligare nu"
+      },
       "duration_ms": 200466,
-      "artist": [
-        "Linnea Henriksson"
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "id": "3IsULVZIf4iGp9ExB7yJVq"
+        }
       ],
-      "artistId": [
-        "3IsULVZIf4iGp9ExB7yJVq"
-      ],
-      "albumId": "4GT1R1qWhevQETcLMwrXxJ",
+      "album": {
+        "id": "4GT1R1qWhevQETcLMwrXxJ",
+        "name": "Till mina älskade och älskare",
+        "img": "https://i.scdn.co/image/ab67616d00001e027047bdf439a178e29d16ae41"
+      },
       "release_date": "2012-05-28",
       "popularity": 54
     },
     {
-      "trackId": "67pFbpLFx4HoI1aSBGCDCj",
-      "name": "Mitt enda liv",
+      "track": {
+        "id": "67pFbpLFx4HoI1aSBGCDCj",
+        "name": "Mitt enda liv"
+      },
       "duration_ms": 171489,
-      "artist": [
-        "Gertrud Stenung"
+      "artists": [
+        {
+          "name": "Gertrud Stenung",
+          "id": "2uUhfQPcgzvNRGtQuOBEOc"
+        }
       ],
-      "artistId": [
-        "2uUhfQPcgzvNRGtQuOBEOc"
-      ],
-      "albumId": "4OsimsziY5I5JnutrFnmGg",
+      "album": {
+        "id": "4OsimsziY5I5JnutrFnmGg",
+        "name": "Torka Aldrig Tårar Utan Handskar, Originalmusiken från SVTs dramaserie",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227d913a4007438c70b5542bb"
+      },
       "release_date": "2012-11-21",
       "popularity": 23
     },
     {
-      "trackId": "5BT0sejkliP4fAzR59DW1N",
-      "name": "Sommaren",
+      "track": {
+        "id": "5BT0sejkliP4fAzR59DW1N",
+        "name": "Sommaren"
+      },
       "duration_ms": 250866,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "57L1BhAXZaS0xyiXRAZLag",
+      "album": {
+        "id": "57L1BhAXZaS0xyiXRAZLag",
+        "name": "Redo att gå sönder",
+        "img": "https://i.scdn.co/image/ab67616d00001e022f1aaa43c1ac0b58874d18cc"
+      },
       "release_date": "2015-10-23",
       "popularity": 39
     },
     {
-      "trackId": "0jWzC7ItKrZ3M4eLJNmDBC",
-      "name": "Ulla och Åke",
+      "track": {
+        "id": "0jWzC7ItKrZ3M4eLJNmDBC",
+        "name": "Ulla och Åke"
+      },
       "duration_ms": 238280,
-      "artist": [
-        "Oskar Linnros"
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "id": "3E8Mx37sikkaFoX5DRecLi"
+        }
       ],
-      "artistId": [
-        "3E8Mx37sikkaFoX5DRecLi"
-      ],
-      "albumId": "2jCYbQBRefZrTeMXIMIsNp",
+      "album": {
+        "id": "2jCYbQBRefZrTeMXIMIsNp",
+        "name": "Vilja Bli",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a11d74ed7e8d845053c1096d"
+      },
       "release_date": "2010-01-01",
       "popularity": 27
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

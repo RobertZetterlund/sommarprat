@@ -7,142 +7,202 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354562_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "75VaR01CuZD1TOePotCu16",
-      "name": "The Modern Things",
+      "track": {
+        "id": "75VaR01CuZD1TOePotCu16",
+        "name": "The Modern Things"
+      },
       "duration_ms": 250026,
-      "artist": [
-        "Björk"
+      "artists": [
+        {
+          "name": "Björk",
+          "id": "7w29UYBi0qsHi5RTcv3lmA"
+        }
       ],
-      "artistId": [
-        "7w29UYBi0qsHi5RTcv3lmA"
-      ],
-      "albumId": "3p7WXDBxhC5KS9IFXnwae7",
+      "album": {
+        "id": "3p7WXDBxhC5KS9IFXnwae7",
+        "name": "Post",
+        "img": "https://i.scdn.co/image/ab67616d00001e025092260f47e0d95717b834c3"
+      },
       "release_date": "1995-06-13",
       "popularity": 39
     },
     {
-      "trackId": "03wn5kP9qGwFHz2hpP2GrY",
-      "name": "Little Drop Of Poison",
+      "track": {
+        "id": "03wn5kP9qGwFHz2hpP2GrY",
+        "name": "Little Drop Of Poison"
+      },
       "duration_ms": 189306,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "0hSKsAfvBPfJupYNmzRfHt",
+      "album": {
+        "id": "0hSKsAfvBPfJupYNmzRfHt",
+        "name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259237cc9e74983afdbdde78e"
+      },
       "release_date": "2006-11-21",
       "popularity": 47
     },
     {
-      "trackId": "0iadQ50k6EQoENKlyLtKpE",
-      "name": "Daylight and the Sun - Live",
+      "track": {
+        "id": "0iadQ50k6EQoENKlyLtKpE",
+        "name": "Daylight and the Sun - Live"
+      },
       "duration_ms": 343586,
-      "artist": [
-        "Antony and the Johnsons"
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "id": "4fxp616ALtFWnXfwxnjLzW"
+        }
       ],
-      "artistId": [
-        "4fxp616ALtFWnXfwxnjLzW"
-      ],
-      "albumId": "5E7RTI2PQpY0r1UMdB9j3G",
+      "album": {
+        "id": "5E7RTI2PQpY0r1UMdB9j3G",
+        "name": "Turning",
+        "img": "https://i.scdn.co/image/ab67616d00001e023cba7f138460fcf2e989a106"
+      },
       "release_date": "2014-11-10",
       "popularity": 16
     },
     {
-      "trackId": "648BMGrt98kUbLo24A4vgj",
-      "name": "Hip To Be Square",
+      "track": {
+        "id": "648BMGrt98kUbLo24A4vgj",
+        "name": "Hip To Be Square"
+      },
       "duration_ms": 245466,
-      "artist": [
-        "Huey Lewis & The News"
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "id": "7A9yZMTrFZcgEWAX2kBfK6"
+        }
       ],
-      "artistId": [
-        "7A9yZMTrFZcgEWAX2kBfK6"
-      ],
-      "albumId": "5L0vaNLbzgP8RIJqs1zamE",
+      "album": {
+        "id": "5L0vaNLbzgP8RIJqs1zamE",
+        "name": "Fore!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f511dc00e29c2a2bdf483b53"
+      },
       "release_date": "1986-01-01",
       "popularity": 67
     },
     {
-      "trackId": "4R61dwj0qyIRDhfMnqMupz",
-      "name": "Hon har blommor i sitt hår",
+      "track": {
+        "id": "4R61dwj0qyIRDhfMnqMupz",
+        "name": "Hon har blommor i sitt hår"
+      },
       "duration_ms": 181666,
-      "artist": [
-        "Anders Glenmark"
+      "artists": [
+        {
+          "name": "Anders Glenmark",
+          "id": "7gfRiWYacImpHbcXRpIl5F"
+        }
       ],
-      "artistId": [
-        "7gfRiWYacImpHbcXRpIl5F"
-      ],
-      "albumId": "4XUqBeyBiuf7hSEOn7163v",
+      "album": {
+        "id": "4XUqBeyBiuf7hSEOn7163v",
+        "name": "Jag Finns Här För Dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e028ed146ae15721394c21d544d"
+      },
       "release_date": "1990-01-26",
       "popularity": 41
     },
     {
-      "trackId": "4I7DV3MIgxJGlObiy9s6nx",
-      "name": "That Don't Impress Me Much",
+      "track": {
+        "id": "4I7DV3MIgxJGlObiy9s6nx",
+        "name": "That Don't Impress Me Much"
+      },
       "duration_ms": 238706,
-      "artist": [
-        "Shania Twain"
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "id": "5e4Dhzv426EvQe3aDb64jL"
+        }
       ],
-      "artistId": [
-        "5e4Dhzv426EvQe3aDb64jL"
-      ],
-      "albumId": "5MUiqH86VtEvtVIY1loBDi",
+      "album": {
+        "id": "5MUiqH86VtEvtVIY1loBDi",
+        "name": "Come On Over (International Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022da577b0a17e5b2dabacf0f4"
+      },
       "release_date": "1999-11-09",
       "popularity": 66
     },
     {
-      "trackId": "4u7EnebtmKWzUH433cf5Qv",
-      "name": "Bohemian Rhapsody - Remastered 2011",
+      "track": {
+        "id": "4u7EnebtmKWzUH433cf5Qv",
+        "name": "Bohemian Rhapsody - Remastered 2011"
+      },
       "duration_ms": 354320,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "1GbtB4zTqAsyfZEsm1RZfx",
+      "album": {
+        "id": "1GbtB4zTqAsyfZEsm1RZfx",
+        "name": "A Night At The Opera (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e319baafd16e84f0408af2a0"
+      },
       "release_date": "1975-11-21",
       "popularity": 82
     },
     {
-      "trackId": "0xQdisF8CHkso4LnJcaIMr",
-      "name": "Nine Million Bicycles",
+      "track": {
+        "id": "0xQdisF8CHkso4LnJcaIMr",
+        "name": "Nine Million Bicycles"
+      },
       "duration_ms": 197160,
-      "artist": [
-        "Katie Melua"
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "id": "5uCXJWo3WoXgqv3T1RlAbh"
+        }
       ],
-      "artistId": [
-        "5uCXJWo3WoXgqv3T1RlAbh"
-      ],
-      "albumId": "39LGwjgf2oV1BlCPsuLp4S",
+      "album": {
+        "id": "39LGwjgf2oV1BlCPsuLp4S",
+        "name": "Piece By Piece",
+        "img": "https://i.scdn.co/image/ab67616d00001e024762c4f5409bebf59076ab49"
+      },
       "release_date": "2005-09-23",
       "popularity": 60
     },
     {
-      "trackId": "1nP9aZCgrsbPjyjCNZ5lUA",
-      "name": "Moje Bivse Zene",
+      "track": {
+        "id": "1nP9aZCgrsbPjyjCNZ5lUA",
+        "name": "Moje Bivse Zene"
+      },
       "duration_ms": 199090,
-      "artist": [
-        "Darko Lazic"
+      "artists": [
+        {
+          "name": "Darko Lazic",
+          "id": "4qIMDyBxQpbwIJIl19Lq2w"
+        }
       ],
-      "artistId": [
-        "4qIMDyBxQpbwIJIl19Lq2w"
-      ],
-      "albumId": "7gSd7KAI68YWZUC6LR64qn",
+      "album": {
+        "id": "7gSd7KAI68YWZUC6LR64qn",
+        "name": "Moje Bivse Zene",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261a94b264d74c88d904e0ea0"
+      },
       "release_date": "2022-05-25",
       "popularity": 50
     },
     {
-      "trackId": "3Hid9YH6GIgtenoZXUoccZ",
-      "name": "Heimdalsgate Like A Promethean Curse",
+      "track": {
+        "id": "3Hid9YH6GIgtenoZXUoccZ",
+        "name": "Heimdalsgate Like A Promethean Curse"
+      },
       "duration_ms": 198600,
-      "artist": [
-        "of Montreal"
+      "artists": [
+        {
+          "name": "of Montreal",
+          "id": "5xeBMeW0YzWIXSVzAxhM8O"
+        }
       ],
-      "artistId": [
-        "5xeBMeW0YzWIXSVzAxhM8O"
-      ],
-      "albumId": "6EHyUWhxAzolO2lQBvuxTH",
+      "album": {
+        "id": "6EHyUWhxAzolO2lQBvuxTH",
+        "name": "Hissing Fauna, Are You The Destroyer?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02717eede6d02281524ad2953e"
+      },
       "release_date": "2007-01-23",
       "popularity": 34
     }

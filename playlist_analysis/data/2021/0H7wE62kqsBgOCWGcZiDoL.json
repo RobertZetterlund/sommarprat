@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/72764c3d-40f9-47f0-82fe-afd0784727f1.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1NcSixtkG20Ip6rjQYbcbu",
-      "name": "U.N.I.T.Y.",
+      "track": {
+        "id": "1NcSixtkG20Ip6rjQYbcbu",
+        "name": "U.N.I.T.Y."
+      },
       "duration_ms": 252407,
-      "artist": [
-        "Queen Latifah"
+      "artists": [
+        {
+          "name": "Queen Latifah",
+          "id": "5m7wCUhYhBh7A3A3YMxrbt"
+        }
       ],
-      "artistId": [
-        "5m7wCUhYhBh7A3A3YMxrbt"
-      ],
-      "albumId": "7c0jejSKzJ7Wf6knemuBzN",
+      "album": {
+        "id": "7c0jejSKzJ7Wf6knemuBzN",
+        "name": "Women Of Hip Hop",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8632efa37893325413ff352"
+      },
       "release_date": "2018-08-31",
       "popularity": 49
     },
     {
-      "trackId": "6q26FbrCmwzSr869JeYXaT",
-      "name": "'Sey",
+      "track": {
+        "id": "6q26FbrCmwzSr869JeYXaT",
+        "name": "'Sey"
+      },
       "duration_ms": 285021,
-      "artist": [
-        "Ephrem Amare"
+      "artists": [
+        {
+          "name": "Ephrem Amare",
+          "id": "6l7ED7MvvS43jtq5TUMB95"
+        }
       ],
-      "artistId": [
-        "6l7ED7MvvS43jtq5TUMB95"
-      ],
-      "albumId": "2n1YBeI82wlaiLQkg1POZ0",
+      "album": {
+        "id": "2n1YBeI82wlaiLQkg1POZ0",
+        "name": "'Sey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee09d45bc53027f877aa8b68"
+      },
       "release_date": "2018-09-07",
       "popularity": 33
     },
     {
-      "trackId": "6YqdbEEX9FxMVtgRXNpN0E",
-      "name": "Fördomar 2",
+      "track": {
+        "id": "6YqdbEEX9FxMVtgRXNpN0E",
+        "name": "Fördomar 2"
+      },
       "duration_ms": 111826,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "3KVd387YbvDT5hHGclCsHE",
+      "album": {
+        "id": "3KVd387YbvDT5hHGclCsHE",
+        "name": "Mitt Kvarter",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e1755edae8f697408f4c728"
+      },
       "release_date": "2000-01-01",
       "popularity": 23
     },
     {
-      "trackId": "2M9ro2krNb7nr7HSprkEgo",
-      "name": "Fast Car",
+      "track": {
+        "id": "2M9ro2krNb7nr7HSprkEgo",
+        "name": "Fast Car"
+      },
       "duration_ms": 296800,
-      "artist": [
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "6hmmX5UP4rIvOpGSaPerV8",
+      "album": {
+        "id": "6hmmX5UP4rIvOpGSaPerV8",
+        "name": "Tracy Chapman",
+        "img": "https://i.scdn.co/image/ab67616d00001e027602becfedf6e25752cb54ff"
+      },
       "release_date": "1988-04-05",
       "popularity": 77
     },
     {
-      "trackId": "4abVwdCy5QUcyI3KS2lMJK",
-      "name": "Here I Come",
+      "track": {
+        "id": "4abVwdCy5QUcyI3KS2lMJK",
+        "name": "Here I Come"
+      },
       "duration_ms": 217200,
-      "artist": [
-        "Barrington Levy"
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "id": "5mMuiFhh7faS7qxnTLRA6u"
+        }
       ],
-      "artistId": [
-        "5mMuiFhh7faS7qxnTLRA6u"
-      ],
-      "albumId": "55FfXQVWDbB3tEC7L9lvzA",
+      "album": {
+        "id": "55FfXQVWDbB3tEC7L9lvzA",
+        "name": "Reggae Anthology: Sweet Reggae Music (1979-84)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d529c2a8138775510d303ff4"
+      },
       "release_date": "2012-12-14",
       "popularity": 60
     },
     {
-      "trackId": "0B8drtTSp68pZdkmVrG9ZA",
-      "name": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+      "track": {
+        "id": "0B8drtTSp68pZdkmVrG9ZA",
+        "name": "Twinz (Deep Cover 98) (feat. Fat Joe)"
+      },
       "duration_ms": 228173,
-      "artist": [
-        "Big Pun",
-        "Fat Joe"
+      "artists": [
+        {
+          "name": "Big Pun",
+          "id": "2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "id": "3ScY9CQxNLQei8Umvpx5g6"
+        }
       ],
-      "artistId": [
-        "2Xu7q46Hf02xOoEIm4E1Qs",
-        "3ScY9CQxNLQei8Umvpx5g6"
-      ],
-      "albumId": "3IIHk2ZLXKWuVAjCbQ9g4Y",
+      "album": {
+        "id": "3IIHk2ZLXKWuVAjCbQ9g4Y",
+        "name": "Capital Punishment (Explicit Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c7a8e68dc5c20bb72f713f2"
+      },
       "release_date": "1998-04-28",
       "popularity": 67
     },
     {
-      "trackId": "71mNLAZsr1frFhpCa3JI8G",
-      "name": "Renee",
+      "track": {
+        "id": "71mNLAZsr1frFhpCa3JI8G",
+        "name": "Renee"
+      },
       "duration_ms": 293866,
-      "artist": [
-        "Lost Boyz"
+      "artists": [
+        {
+          "name": "Lost Boyz",
+          "id": "0OtigLoCgLYvXnMxbE5qH5"
+        }
       ],
-      "artistId": [
-        "0OtigLoCgLYvXnMxbE5qH5"
-      ],
-      "albumId": "6DciMZgZkLpqsjJUd5XgpF",
+      "album": {
+        "id": "6DciMZgZkLpqsjJUd5XgpF",
+        "name": "Legal Drug Money",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e8ff2a0d62093254e884499"
+      },
       "release_date": "1996",
       "popularity": 57
     },
     {
-      "trackId": "0WceatAiRoWqE5xOwg0y6m",
-      "name": "After Laughter (Comes Tears)",
+      "track": {
+        "id": "0WceatAiRoWqE5xOwg0y6m",
+        "name": "After Laughter (Comes Tears)"
+      },
       "duration_ms": 182893,
-      "artist": [
-        "Wendy Rene"
+      "artists": [
+        {
+          "name": "Wendy Rene",
+          "id": "4ba7uNtpOq0us2C5Nx19zN"
+        }
       ],
-      "artistId": [
-        "4ba7uNtpOq0us2C5Nx19zN"
-      ],
-      "albumId": "3asHhMpIHJT8I12qzviPXZ",
+      "album": {
+        "id": "3asHhMpIHJT8I12qzviPXZ",
+        "name": "After Laughter Comes Tears: Complete Stax & Volt Singles + Rarities (1964-65)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0229dd855e2384303abeb3054d"
+      },
       "release_date": "2012-02-10",
       "popularity": 35
     },
     {
-      "trackId": "3iO9HBIBWvHwm7F6ZqYWNb",
-      "name": "INDECISIVE",
+      "track": {
+        "id": "3iO9HBIBWvHwm7F6ZqYWNb",
+        "name": "INDECISIVE"
+      },
       "duration_ms": 195040,
-      "artist": [
-        "Snoh Aalegra"
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "id": "1A9o3Ljt67pFZ89YtPPL5X"
+        }
       ],
-      "artistId": [
-        "1A9o3Ljt67pFZ89YtPPL5X"
-      ],
-      "albumId": "57ttk3xzHMWLr6CGrEa8F3",
+      "album": {
+        "id": "57ttk3xzHMWLr6CGrEa8F3",
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "img": "https://i.scdn.co/image/ab67616d00001e022802d4dbc9dfd83ba79290ca"
+      },
       "release_date": "2021-07-09",
       "popularity": 54
     },
     {
-      "trackId": "3ABG1UQTk0eLYUAeWkmfMi",
-      "name": "Shimmy Shimmy Ya",
+      "track": {
+        "id": "3ABG1UQTk0eLYUAeWkmfMi",
+        "name": "Shimmy Shimmy Ya"
+      },
       "duration_ms": 161400,
-      "artist": [
-        "Ol' Dirty Bastard"
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "id": "50NoVNy9GU1lCrDV8iGpyu"
+        }
       ],
-      "artistId": [
-        "50NoVNy9GU1lCrDV8iGpyu"
-      ],
-      "albumId": "4tI4WJdTN5MzDMRMl2i7VR",
+      "album": {
+        "id": "4tI4WJdTN5MzDMRMl2i7VR",
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a8410531478e54ec963c606"
+      },
       "release_date": "1995",
       "popularity": 67
     },
     {
-      "trackId": "3vZO25GdYuqFrR1kzZADnp",
-      "name": "Ready or Not",
+      "track": {
+        "id": "3vZO25GdYuqFrR1kzZADnp",
+        "name": "Ready or Not"
+      },
       "duration_ms": 226986,
-      "artist": [
-        "Fugees",
-        "Ms. Lauryn Hill",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Fugees",
+          "id": "2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "2WKdxPFRD7IqZvlIAvhMgY",
-        "2Mu5NfyYm8n5iTomuKAEHl",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "18XFe4CPBgVezXkxZP6rTb",
+      "album": {
+        "id": "18XFe4CPBgVezXkxZP6rTb",
+        "name": "The Score (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137"
+      },
       "release_date": "1996-02-13",
       "popularity": 71
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

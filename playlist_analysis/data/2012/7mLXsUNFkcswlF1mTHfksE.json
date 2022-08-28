@@ -7,166 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344886_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3sYbnk1vLjNMxevpne08ts",
-      "name": "Long Summer Nights",
+      "track": {
+        "id": "3sYbnk1vLjNMxevpne08ts",
+        "name": "Long Summer Nights"
+      },
       "duration_ms": 174019,
-      "artist": [
-        "Oliver Nelson",
-        "Lilla Vargen"
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "id": "4QAp87iZerUP9PKxtLhmW1"
+        },
+        {
+          "name": "Lilla Vargen",
+          "id": "1bYTiIHnxEdBncCHYCfE4j"
+        }
       ],
-      "artistId": [
-        "4QAp87iZerUP9PKxtLhmW1",
-        "1bYTiIHnxEdBncCHYCfE4j"
-      ],
-      "albumId": "2pyz3hqxKFFJ1rg2diDWoT",
+      "album": {
+        "id": "2pyz3hqxKFFJ1rg2diDWoT",
+        "name": "Long Summer Nights",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f63bedefde6499c10e61970e"
+      },
       "release_date": "2022-05-27",
       "popularity": 53
     },
     {
-      "trackId": "23WaWv0Yrjw9ER1J0rZQ9T",
-      "name": "Truths & Rights",
+      "track": {
+        "id": "23WaWv0Yrjw9ER1J0rZQ9T",
+        "name": "Truths & Rights"
+      },
       "duration_ms": 191960,
-      "artist": [
-        "Johnny Osbourne"
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "id": "5TUTGRG0FlRoYTZ4GEdOVO"
+        }
       ],
-      "artistId": [
-        "5TUTGRG0FlRoYTZ4GEdOVO"
-      ],
-      "albumId": "3wONVayHtxYkGXATUdmPQi",
+      "album": {
+        "id": "3wONVayHtxYkGXATUdmPQi",
+        "name": "Roots& Culture Unite",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e563e8b984a9358f6fe72a55"
+      },
       "release_date": "2006-04-20",
       "popularity": 34
     },
     {
-      "trackId": "1n0iHqATRnMzoxsIGmzIoR",
-      "name": "Ruin",
+      "track": {
+        "id": "1n0iHqATRnMzoxsIGmzIoR",
+        "name": "Ruin"
+      },
       "duration_ms": 272986,
-      "artist": [
-        "Cat Power"
+      "artists": [
+        {
+          "name": "Cat Power",
+          "id": "6G7OerKc3eBO9sVkRNopFC"
+        }
       ],
-      "artistId": [
-        "6G7OerKc3eBO9sVkRNopFC"
-      ],
-      "albumId": "1IoiJGsAHdL0OL9IOjTflm",
+      "album": {
+        "id": "1IoiJGsAHdL0OL9IOjTflm",
+        "name": "Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaac5479cd9db05e896db80f"
+      },
       "release_date": "2012-09-03",
       "popularity": 38
     },
     {
-      "trackId": "5OGfBbWmRRkDiZiJbu5WIr",
-      "name": "Blank Generation - 2013 Remaster",
+      "track": {
+        "id": "5OGfBbWmRRkDiZiJbu5WIr",
+        "name": "Blank Generation - 2013 Remaster"
+      },
       "duration_ms": 167840,
-      "artist": [
-        "Richard Hell"
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "id": "121Q6oslYCMBYZHhOFL1RB"
+        }
       ],
-      "artistId": [
-        "121Q6oslYCMBYZHhOFL1RB"
-      ],
-      "albumId": "0nejx6WUKHja3fesKClRCF",
+      "album": {
+        "id": "0nejx6WUKHja3fesKClRCF",
+        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a29e55234e00945e97fefab0"
+      },
       "release_date": "2005-08-02",
       "popularity": 50
     },
     {
-      "trackId": "4wr2HgyYMvJourcfOMzPCb",
-      "name": "Polisen",
+      "track": {
+        "id": "4wr2HgyYMvJourcfOMzPCb",
+        "name": "Polisen"
+      },
       "duration_ms": 154433,
-      "artist": [
-        "Ringnes-Ronny"
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "id": "4TNb6OInXahdseLnzAY1eL"
+        }
       ],
-      "artistId": [
-        "4TNb6OInXahdseLnzAY1eL"
-      ],
-      "albumId": "4dVz4LIb33QKCJoxQPYyNL",
+      "album": {
+        "id": "4dVz4LIb33QKCJoxQPYyNL",
+        "name": "Polisen",
+        "img": "https://i.scdn.co/image/ab67616d00001e023899e6080651b0c9dfd300c6"
+      },
       "release_date": "2021-04-09",
       "popularity": 60
     },
     {
-      "trackId": "18WswjCcjs3vmz4qWNOrSC",
-      "name": "Oh Bondage, Up Yours!",
+      "track": {
+        "id": "18WswjCcjs3vmz4qWNOrSC",
+        "name": "Oh Bondage, Up Yours!"
+      },
       "duration_ms": 169760,
-      "artist": [
-        "X-Ray Spex"
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "id": "5BgWMOdEUJYdUBH3WXfMWt"
+        }
       ],
-      "artistId": [
-        "5BgWMOdEUJYdUBH3WXfMWt"
-      ],
-      "albumId": "3jnQzZuyVOAgtlHWlTST1W",
+      "album": {
+        "id": "3jnQzZuyVOAgtlHWlTST1W",
+        "name": "Never Trust A Hippy (Punk & New Wave '76 - '79)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238d86e0e22a61c080451c389"
+      },
       "release_date": "2013-01-01",
       "popularity": 38
     },
     {
-      "trackId": "3ebYtLVuV4HzEZUDcpZB9p",
-      "name": "Lovin' You",
+      "track": {
+        "id": "3ebYtLVuV4HzEZUDcpZB9p",
+        "name": "Lovin' You"
+      },
       "duration_ms": 223143,
-      "artist": [
-        "Minnie Riperton"
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "id": "2i1IdHG5w0wiSmJGoqAGlj"
+        }
       ],
-      "artistId": [
-        "2i1IdHG5w0wiSmJGoqAGlj"
-      ],
-      "albumId": "3TFzRE2Mm1uZcJeu91UNs9",
+      "album": {
+        "id": "3TFzRE2Mm1uZcJeu91UNs9",
+        "name": "Perfect Angel",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d3aab58dd4e235e7059b6a1"
+      },
       "release_date": "1974",
       "popularity": 60
     },
     {
-      "trackId": "1RF4p4rl0z1B1LGHMWPszl",
-      "name": "Poison (with DEKKO)",
+      "track": {
+        "id": "1RF4p4rl0z1B1LGHMWPszl",
+        "name": "Poison (with DEKKO)"
+      },
       "duration_ms": 174285,
-      "artist": [
-        "Nobeat",
-        "DEKKO"
+      "artists": [
+        {
+          "name": "Nobeat",
+          "id": "3TKS1JzWOLAnicuOCOyVlW"
+        },
+        {
+          "name": "DEKKO",
+          "id": "6ZvYYrrfpb1Z7kICDyxWQE"
+        }
       ],
-      "artistId": [
-        "3TKS1JzWOLAnicuOCOyVlW",
-        "6ZvYYrrfpb1Z7kICDyxWQE"
-      ],
-      "albumId": "4wjKpS0AOa1CJqTUOXqssA",
+      "album": {
+        "id": "4wjKpS0AOa1CJqTUOXqssA",
+        "name": "Poison (with DEKKO)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024617e8cfe7d30ee0267ae9b6"
+      },
       "release_date": "2021-09-02",
       "popularity": 42
     },
     {
-      "trackId": "7zzdV8LC1jdtjdbis5eH9c",
-      "name": "Dream Baby Dream",
+      "track": {
+        "id": "7zzdV8LC1jdtjdbis5eH9c",
+        "name": "Dream Baby Dream"
+      },
       "duration_ms": 504560,
-      "artist": [
-        "Neneh Cherry",
-        "The Thing"
+      "artists": [
+        {
+          "name": "Neneh Cherry",
+          "id": "3JxCEqL9zjKnDJgUhRuRJD"
+        },
+        {
+          "name": "The Thing",
+          "id": "5cRUJxzcgpZmzM6rZdKMjA"
+        }
       ],
-      "artistId": [
-        "3JxCEqL9zjKnDJgUhRuRJD",
-        "5cRUJxzcgpZmzM6rZdKMjA"
-      ],
-      "albumId": "2PfR2GcoIBZIfpfCZlTnfm",
+      "album": {
+        "id": "2PfR2GcoIBZIfpfCZlTnfm",
+        "name": "The Cherry Thing",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ea83935f77cc11e7ce83bc0"
+      },
       "release_date": "2012-06-18",
       "popularity": 12
     },
     {
-      "trackId": "1BVhNhZwX2DQBOKcUwn6HZ",
-      "name": "Bite This 2010 (feat. DJ Jab, Sadat X, A.G. & Roxanne Shante)",
+      "track": {
+        "id": "1BVhNhZwX2DQBOKcUwn6HZ",
+        "name": "Bite This 2010 (feat. DJ Jab, Sadat X, A.G. & Roxanne Shante)"
+      },
       "duration_ms": 238533,
-      "artist": [
-        "Trinity",
-        "Sadat X",
-        "DJ Jab"
+      "artists": [
+        {
+          "name": "Trinity",
+          "id": "4apnjfHFw0AAU5jpyLI02K"
+        },
+        {
+          "name": "Sadat X",
+          "id": "7fDLDq2weBagiAFD2j17Al"
+        },
+        {
+          "name": "DJ Jab",
+          "id": "1EKWMZMdJ1tMSybiiIjuWx"
+        }
       ],
-      "artistId": [
-        "4apnjfHFw0AAU5jpyLI02K",
-        "7fDLDq2weBagiAFD2j17Al",
-        "1EKWMZMdJ1tMSybiiIjuWx"
-      ],
-      "albumId": "2vc1Ff6pqaqylU7Xsvl7hL",
+      "album": {
+        "id": "2vc1Ff6pqaqylU7Xsvl7hL",
+        "name": "20 In",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3338cf7d07f391a919cba77"
+      },
       "release_date": "2013-03-26",
       "popularity": 4
     },
     {
-      "trackId": "0ycb2zVgjpzJU6PSXZGn34",
-      "name": "Flyin' High (In The Friendly Sky)",
+      "track": {
+        "id": "0ycb2zVgjpzJU6PSXZGn34",
+        "name": "Flyin' High (In The Friendly Sky)"
+      },
       "duration_ms": 229573,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "album": {
+        "id": "2v6ANhWhZBUKkg6pJJBs3B",
+        "name": "What's Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
+      },
       "release_date": "1971-05-21",
       "popularity": 48
     }

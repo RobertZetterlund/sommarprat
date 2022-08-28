@@ -7,114 +7,162 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234093_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7rMD5meOy1CjxmMQVPkBDF",
-      "name": "This Is",
+      "track": {
+        "id": "7rMD5meOy1CjxmMQVPkBDF",
+        "name": "This Is"
+      },
       "duration_ms": 340066,
-      "artist": [
-        "Grace Jones"
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "id": "2f9ZiYA2ic1r1voObUimdd"
+        }
       ],
-      "artistId": [
-        "2f9ZiYA2ic1r1voObUimdd"
-      ],
-      "albumId": "3h5DLqKfSJGO2RDB5ahLA5",
+      "album": {
+        "id": "3h5DLqKfSJGO2RDB5ahLA5",
+        "name": "Hurricane",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a2361074a3c97700f07d9594"
+      },
       "release_date": "2008-11-10",
       "popularity": 31
     },
     {
-      "trackId": "1j3qE65hw8vxZU1QFqck8b",
-      "name": "Con Toda Palabra",
+      "track": {
+        "id": "1j3qE65hw8vxZU1QFqck8b",
+        "name": "Con Toda Palabra"
+      },
       "duration_ms": 269533,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "45GGSs0jmsNbIAesZ1Rkwp",
+      "album": {
+        "id": "45GGSs0jmsNbIAesZ1Rkwp",
+        "name": "The Living Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfee69e0b4938bfff2219b8f"
+      },
       "release_date": "2003-10-22",
       "popularity": 38
     },
     {
-      "trackId": "431G9fGdBKvXdaw1jJYAnj",
-      "name": "Penis Song (Not The Noel Coward Song)",
+      "track": {
+        "id": "431G9fGdBKvXdaw1jJYAnj",
+        "name": "Penis Song (Not The Noel Coward Song)"
+      },
       "duration_ms": 42733,
-      "artist": [
-        "Monty Python"
+      "artists": [
+        {
+          "name": "Monty Python",
+          "id": "5IxfhXIHjAOAqibxl90NZO"
+        }
       ],
-      "artistId": [
-        "5IxfhXIHjAOAqibxl90NZO"
-      ],
-      "albumId": "57awupvncNEIad7j0lkOuT",
+      "album": {
+        "id": "57awupvncNEIad7j0lkOuT",
+        "name": "Monty Python Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a012346ea07d0b1d6fc22a87"
+      },
       "release_date": "1989-01-01",
       "popularity": 31
     },
     {
-      "trackId": "7HCiwUGsV1C44nmZ2wNCUS",
-      "name": "Miss Celie's Blues",
+      "track": {
+        "id": "7HCiwUGsV1C44nmZ2wNCUS",
+        "name": "Miss Celie's Blues"
+      },
       "duration_ms": 227800,
-      "artist": [
-        "Tata Vega"
+      "artists": [
+        {
+          "name": "Tata Vega",
+          "id": "1BwDmDGJ3hROn90wmD1nqi"
+        }
       ],
-      "artistId": [
-        "1BwDmDGJ3hROn90wmD1nqi"
-      ],
-      "albumId": "6uODhqv8xeoE1knMCZObuY",
+      "album": {
+        "id": "6uODhqv8xeoE1knMCZObuY",
+        "name": "This Joy",
+        "img": "https://i.scdn.co/image/ab67616d00001e022de711c9d68a3764038156cf"
+      },
       "release_date": "2013-01-01",
       "popularity": 19
     },
     {
-      "trackId": "6WdxUix0wtxxoAMTAcG71I",
-      "name": "Walk Like A Panther - 7\" Version",
+      "track": {
+        "id": "6WdxUix0wtxxoAMTAcG71I",
+        "name": "Walk Like A Panther - 7\" Version"
+      },
       "duration_ms": 267760,
-      "artist": [
-        "The All Seeing I"
+      "artists": [
+        {
+          "name": "The All Seeing I",
+          "id": "0A0yu52zNGKe2rtr9wHfkD"
+        }
       ],
-      "artistId": [
-        "0A0yu52zNGKe2rtr9wHfkD"
-      ],
-      "albumId": "63FlYaIy0oT8gYdCxBqBNe",
+      "album": {
+        "id": "63FlYaIy0oT8gYdCxBqBNe",
+        "name": "Pickled Eggs and Sherbet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc80caff36582593c27120c3"
+      },
       "release_date": "1999-01-01",
       "popularity": 41
     },
     {
-      "trackId": "3KBMeEwL4FCVCWLzDRY9aF",
-      "name": "I Believe In Miracles",
+      "track": {
+        "id": "3KBMeEwL4FCVCWLzDRY9aF",
+        "name": "I Believe In Miracles"
+      },
       "duration_ms": 290266,
-      "artist": [
-        "Jackson Sisters"
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "id": "4Nud0bPKFFBGWHxedLdHOZ"
+        }
       ],
-      "artistId": [
-        "4Nud0bPKFFBGWHxedLdHOZ"
-      ],
-      "albumId": "5uorwHhjLzAiFsw1eL0lMn",
+      "album": {
+        "id": "5uorwHhjLzAiFsw1eL0lMn",
+        "name": "Funked! : Volume 2 1973-1977",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210a9b88453d9d4a3aeb55a18"
+      },
       "release_date": "2001-01-01",
       "popularity": 50
     },
     {
-      "trackId": "2ytwDkF0RLOi6qL2uJ2cQG",
-      "name": "Licence To Kill",
+      "track": {
+        "id": "2ytwDkF0RLOi6qL2uJ2cQG",
+        "name": "Licence To Kill"
+      },
       "duration_ms": 314466,
-      "artist": [
-        "Gladys Knight"
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "id": "2aXiJJHJei5BmCykxI37y0"
+        }
       ],
-      "artistId": [
-        "2aXiJJHJei5BmCykxI37y0"
-      ],
-      "albumId": "5V870FgJNzMTiLAGo6OMmE",
+      "album": {
+        "id": "5V870FgJNzMTiLAGo6OMmE",
+        "name": "Licence To Kill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ededf4f7867b6854c1fee843"
+      },
       "release_date": "1989-01-01",
       "popularity": 50
     },
     {
-      "trackId": "1BWsOxeMx83OrKGCV4gxly",
-      "name": "I Feel the Earth Move",
+      "track": {
+        "id": "1BWsOxeMx83OrKGCV4gxly",
+        "name": "I Feel the Earth Move"
+      },
       "duration_ms": 178560,
-      "artist": [
-        "Carole King"
+      "artists": [
+        {
+          "name": "Carole King",
+          "id": "319yZVtYM9MBGqmSQnMyY6"
+        }
       ],
-      "artistId": [
-        "319yZVtYM9MBGqmSQnMyY6"
-      ],
-      "albumId": "12n11cgnpjXKLeqrnIERoS",
+      "album": {
+        "id": "12n11cgnpjXKLeqrnIERoS",
+        "name": "Tapestry",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223350feac07f56d8b96f33d5"
+      },
       "release_date": "1971",
       "popularity": 64
     }

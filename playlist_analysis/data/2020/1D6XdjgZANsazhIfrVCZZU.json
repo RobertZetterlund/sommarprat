@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/edbb04e7-8827-4785-8253-0ca821dc045a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1xc7t8yW8Yl5pOZM52kPLH",
-      "name": "Fashion",
+      "track": {
+        "id": "1xc7t8yW8Yl5pOZM52kPLH",
+        "name": "Fashion"
+      },
       "duration_ms": 213933,
-      "artist": [
-        "The Royal Concept"
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "id": "7LAucJAvbQa7ZIA0qP8YI2"
+        }
       ],
-      "artistId": [
-        "7LAucJAvbQa7ZIA0qP8YI2"
-      ],
-      "albumId": "2o2OBi6cES2hCgyZGbeBx6",
+      "album": {
+        "id": "2o2OBi6cES2hCgyZGbeBx6",
+        "name": "Smile",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ce76622e6e99d9a03dbc398"
+      },
       "release_date": "2015-08-21",
       "popularity": 21
     },
     {
-      "trackId": "4meuuzxgLlq0IDT10s6SFc",
-      "name": "That's Life",
+      "track": {
+        "id": "4meuuzxgLlq0IDT10s6SFc",
+        "name": "That's Life"
+      },
       "duration_ms": 230053,
-      "artist": [
-        "Shawn James"
+      "artists": [
+        {
+          "name": "Shawn James",
+          "id": "2HPYUQ6GsPbZHvkyYe2jdm"
+        }
       ],
-      "artistId": [
-        "2HPYUQ6GsPbZHvkyYe2jdm"
-      ],
-      "albumId": "2zC6TiIKWEoL2q29VVJhDT",
+      "album": {
+        "id": "2zC6TiIKWEoL2q29VVJhDT",
+        "name": "The Madrid Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b539d4d12dc3769adebe1eb9"
+      },
       "release_date": "2018-02-28",
       "popularity": 46
     },
     {
-      "trackId": "4KjPPpRbthW8dSNdisR2Wi",
-      "name": "Too Funky - Single Edit",
+      "track": {
+        "id": "4KjPPpRbthW8dSNdisR2Wi",
+        "name": "Too Funky - Single Edit"
+      },
       "duration_ms": 224933,
-      "artist": [
-        "George Michael"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo"
-      ],
-      "albumId": "3coLNlyStg9h7f8CZ103Rl",
+      "album": {
+        "id": "3coLNlyStg9h7f8CZ103Rl",
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264c19b24ce947ffa363f8f96"
+      },
       "release_date": "1998-11-09",
       "popularity": 52
     },
     {
-      "trackId": "2Y36tgwhi4gykzF0jXwYH2",
-      "name": "Fever",
+      "track": {
+        "id": "2Y36tgwhi4gykzF0jXwYH2",
+        "name": "Fever"
+      },
       "duration_ms": 212893,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "10w5joVHMAc9WMfGrQQMmo",
+      "album": {
+        "id": "10w5joVHMAc9WMfGrQQMmo",
+        "name": "Fever",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c240158150b9bc02f4ef65ce"
+      },
       "release_date": "2010-02-08",
       "popularity": 40
     },
     {
-      "trackId": "6Hrexd4AZ7tBmGKJ71P4ao",
-      "name": "Use Me",
+      "track": {
+        "id": "6Hrexd4AZ7tBmGKJ71P4ao",
+        "name": "Use Me"
+      },
       "duration_ms": 216280,
-      "artist": [
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Liza Minnelli",
+          "id": "3lQpSzdPxoF1FYk7ilbe37"
+        }
       ],
-      "artistId": [
-        "3lQpSzdPxoF1FYk7ilbe37"
-      ],
-      "albumId": "1X4EbrwvSDCQ1ENxt2Rgp1",
+      "album": {
+        "id": "1X4EbrwvSDCQ1ENxt2Rgp1",
+        "name": "The Singer (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022af2526e14bde40f16ea2997"
+      },
       "release_date": "1972-05-01",
       "popularity": 31
     },
     {
-      "trackId": "3bNf9uutsm3cbPs2LnrlVW",
-      "name": "Jus Dance",
+      "track": {
+        "id": "3bNf9uutsm3cbPs2LnrlVW",
+        "name": "Jus Dance"
+      },
       "duration_ms": 415680,
-      "artist": [
-        "Mr V"
+      "artists": [
+        {
+          "name": "Mr V",
+          "id": "42gpwkOlK8m00RBmB54sQD"
+        }
       ],
-      "artistId": [
-        "42gpwkOlK8m00RBmB54sQD"
-      ],
-      "albumId": "2fBXchCWGXcGViKCTRG3Bi",
+      "album": {
+        "id": "2fBXchCWGXcGViKCTRG3Bi",
+        "name": "WELCOME HOME",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdb6cf88be80d27b6adf1d89"
+      },
       "release_date": "2006-11-06",
       "popularity": 31
     },
     {
-      "trackId": "6FYwnJ9Qx1EzSXWDGTkueW",
-      "name": "Sous le ciel de Paris",
+      "track": {
+        "id": "6FYwnJ9Qx1EzSXWDGTkueW",
+        "name": "Sous le ciel de Paris"
+      },
       "duration_ms": 213640,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 49
     },
     {
-      "trackId": "70Vdd1gx5tn84jkAU31ASv",
-      "name": "Sexy And I Know It",
+      "track": {
+        "id": "70Vdd1gx5tn84jkAU31ASv",
+        "name": "Sexy And I Know It"
+      },
       "duration_ms": 199480,
-      "artist": [
-        "LMFAO"
+      "artists": [
+        {
+          "name": "LMFAO",
+          "id": "3sgFRtyBnxXD5ESfmbK4dl"
+        }
       ],
-      "artistId": [
-        "3sgFRtyBnxXD5ESfmbK4dl"
-      ],
-      "albumId": "0D49RvtlLCKyxeDKDnBU2R",
+      "album": {
+        "id": "0D49RvtlLCKyxeDKDnBU2R",
+        "name": "Sorry For Party Rocking",
+        "img": "https://i.scdn.co/image/ab67616d00001e021db908d5f66645cb158837ca"
+      },
       "release_date": "2011-01-01",
       "popularity": 68
     },
     {
-      "trackId": "3KliPMvk1EvFZu9cvkj8p1",
-      "name": "Work Bitch",
+      "track": {
+        "id": "3KliPMvk1EvFZu9cvkj8p1",
+        "name": "Work Bitch"
+      },
       "duration_ms": 247960,
-      "artist": [
-        "Britney Spears"
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "id": "26dSoYclwsYLMAKD3tpOr4"
+        }
       ],
-      "artistId": [
-        "26dSoYclwsYLMAKD3tpOr4"
-      ],
-      "albumId": "5rlB2HPoNHg2m1wmmh0TRv",
+      "album": {
+        "id": "5rlB2HPoNHg2m1wmmh0TRv",
+        "name": "Britney Jean (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c9f7b8faf039c7607d12255"
+      },
       "release_date": "2013-11-30",
       "popularity": 70
     },
     {
-      "trackId": "3uXfYljIQAhATWWGjjCSJA",
-      "name": "Cog in the Wheel",
+      "track": {
+        "id": "3uXfYljIQAhATWWGjjCSJA",
+        "name": "Cog in the Wheel"
+      },
       "duration_ms": 319600,
-      "artist": [
-        "Baba Ali"
+      "artists": [
+        {
+          "name": "Baba Ali",
+          "id": "48US3n5ecZ1TS4RjzsdWrm"
+        }
       ],
-      "artistId": [
-        "48US3n5ecZ1TS4RjzsdWrm"
-      ],
-      "albumId": "4hmZkn8K8JoUch7jzFNjeb",
+      "album": {
+        "id": "4hmZkn8K8JoUch7jzFNjeb",
+        "name": "Nomad EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3d99f94d4f90dda3c191f0b"
+      },
       "release_date": "2017-03-03",
       "popularity": 43
     },
     {
-      "trackId": "3dS6UNRJOxlQSyh5SVflYK",
-      "name": "Note to Self",
+      "track": {
+        "id": "3dS6UNRJOxlQSyh5SVflYK",
+        "name": "Note to Self"
+      },
       "duration_ms": 290385,
-      "artist": [
-        "Oren Lavie"
+      "artists": [
+        {
+          "name": "Oren Lavie",
+          "id": "6v2Tk7PHt26abpm7NBR34b"
+        }
       ],
-      "artistId": [
-        "6v2Tk7PHt26abpm7NBR34b"
-      ],
-      "albumId": "5UCmPZNjbaW46eA6cSZnjB",
+      "album": {
+        "id": "5UCmPZNjbaW46eA6cSZnjB",
+        "name": "Bedroom Crimes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac08e96083d0d85a559be3b1"
+      },
       "release_date": "2017-05-26",
       "popularity": 30
     },
     {
-      "trackId": "43IpC2t4If3yLz6IWc4m3f",
-      "name": "Home",
+      "track": {
+        "id": "43IpC2t4If3yLz6IWc4m3f",
+        "name": "Home"
+      },
       "duration_ms": 242533,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "2QrINaaKpAWNtQfjzNaP5y",
+      "album": {
+        "id": "2QrINaaKpAWNtQfjzNaP5y",
+        "name": "The Wiz",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cab9abcfe45386e21e8b8376"
+      },
       "release_date": "1978-01-01",
       "popularity": 34
     },
     {
-      "trackId": "0kM5i4fVB2gHH8d0nWZoGT",
-      "name": "Höga gärdet",
+      "track": {
+        "id": "0kM5i4fVB2gHH8d0nWZoGT",
+        "name": "Höga gärdet"
+      },
       "duration_ms": 138693,
-      "artist": [
-        "Swedish Radio Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "id": "0K6ufQj8JzIZPPkvZrEwJS"
+        }
       ],
-      "artistId": [
-        "0K6ufQj8JzIZPPkvZrEwJS"
-      ],
-      "albumId": "1PPRGiNFc6j5qndQXALNaS",
+      "album": {
+        "id": "1PPRGiNFc6j5qndQXALNaS",
+        "name": "Änglagård: Andra sommaren (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223fd34957e42c134db9d6cf3"
+      },
       "release_date": "1994-05-18",
       "popularity": 24
     }

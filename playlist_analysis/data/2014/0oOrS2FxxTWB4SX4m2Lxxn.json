@@ -7,150 +7,218 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300151_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7FQsdKvkCaNYnfd8eboSgU",
-      "name": "Moon River(Vocal Johnny Mercer)",
+      "track": {
+        "id": "7FQsdKvkCaNYnfd8eboSgU",
+        "name": "Moon River(Vocal Johnny Mercer)"
+      },
       "duration_ms": 222479,
-      "artist": [
-        "Henry Mancini",
-        "Johnny Mercer"
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "id": "2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Johnny Mercer",
+          "id": "5cBHm2CXrbncYIDzrxF4Vi"
+        }
       ],
-      "artistId": [
-        "2EExdpjU4SK3xnJHO5paJf",
-        "5cBHm2CXrbncYIDzrxF4Vi"
-      ],
-      "albumId": "53mCG3mQnybqhQfgH5ULUK",
+      "album": {
+        "id": "53mCG3mQnybqhQfgH5ULUK",
+        "name": "Breakfast At Tiffany's (50th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028caffb84e5ffc60a902263c0"
+      },
       "release_date": "1961",
       "popularity": 25
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "25FJtwokc905OMHwyJsEbJ",
-      "name": "Avinu Malkeinu",
+      "track": {
+        "id": "25FJtwokc905OMHwyJsEbJ",
+        "name": "Avinu Malkeinu"
+      },
       "duration_ms": 246960,
-      "artist": [
-        "Barbra Streisand"
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "id": "7jmTilWYlKOuavFfmQAcu6"
+        }
       ],
-      "artistId": [
-        "7jmTilWYlKOuavFfmQAcu6"
-      ],
-      "albumId": "6RJIZ5P4cI57apjUkWhAH7",
+      "album": {
+        "id": "6RJIZ5P4cI57apjUkWhAH7",
+        "name": "Higher Ground",
+        "img": "https://i.scdn.co/image/ab67616d00001e02311b3c5fbdf00441eac680f5"
+      },
       "release_date": "1997-10-28",
       "popularity": 31
     },
     {
-      "trackId": "7yzbimr8WVyAtBX3Eg6UL9",
-      "name": "Hallelujah",
+      "track": {
+        "id": "7yzbimr8WVyAtBX3Eg6UL9",
+        "name": "Hallelujah"
+      },
       "duration_ms": 277160,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "6I58qJMqZHhb8jtNT3CuJB",
+      "album": {
+        "id": "6I58qJMqZHhb8jtNT3CuJB",
+        "name": "Various Positions",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c56267153920f9c0df36c5b"
+      },
       "release_date": "1984-12-11",
       "popularity": 63
     },
     {
-      "trackId": "7uvdA3kdzlzv7OLCJ3kbxj",
-      "name": "Fäbodpsalm från Älvdalen",
+      "track": {
+        "id": "7uvdA3kdzlzv7OLCJ3kbxj",
+        "name": "Fäbodpsalm från Älvdalen"
+      },
       "duration_ms": 143200,
-      "artist": [
-        "Busk Margit Jonsson"
+      "artists": [
+        {
+          "name": "Busk Margit Jonsson",
+          "id": "3RekXTpIxw7wQmiFHdQcGL"
+        }
       ],
-      "artistId": [
-        "3RekXTpIxw7wQmiFHdQcGL"
-      ],
-      "albumId": "23Jq8HBt73LrsGl2bxesU7",
+      "album": {
+        "id": "23Jq8HBt73LrsGl2bxesU7",
+        "name": "Kom Hjärtans Fröjd...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cad7913c1c73422c75d114fd"
+      },
       "release_date": "1996-01-01",
       "popularity": 1
     },
     {
-      "trackId": "1wgzBPjnTdNGJa2SFwUQnW",
-      "name": "Kinder Yorn",
+      "track": {
+        "id": "1wgzBPjnTdNGJa2SFwUQnW",
+        "name": "Kinder Yorn"
+      },
       "duration_ms": 172946,
-      "artist": [
-        "Theodore Bikel"
+      "artists": [
+        {
+          "name": "Theodore Bikel",
+          "id": "67p0NB8haJlULQy2gr4iKZ"
+        }
       ],
-      "artistId": [
-        "67p0NB8haJlULQy2gr4iKZ"
-      ],
-      "albumId": "3CqQ7sLS5tbeVsthtDUbNX",
+      "album": {
+        "id": "3CqQ7sLS5tbeVsthtDUbNX",
+        "name": "Theodore Bikel Sings More Jewish Folk Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed504ee1e2828b79d7bf5b40"
+      },
       "release_date": "2003",
       "popularity": 0
     },
     {
-      "trackId": "76H3fADyZDi7Zh0qXknTFk",
-      "name": "על כל אלה",
+      "track": {
+        "id": "76H3fADyZDi7Zh0qXknTFk",
+        "name": "על כל אלה"
+      },
       "duration_ms": 235493,
-      "artist": [
-        "Yossi Banai"
+      "artists": [
+        {
+          "name": "Yossi Banai",
+          "id": "0qyW8XnyYBblpgc9FpEaNh"
+        }
       ],
-      "artistId": [
-        "0qyW8XnyYBblpgc9FpEaNh"
-      ],
-      "albumId": "69xUqLfjaVlBPZuo0WNXIl",
+      "album": {
+        "id": "69xUqLfjaVlBPZuo0WNXIl",
+        "name": "ארבע אחרי הצהריים - חלק ג'",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d90765a8f23143a131cc61c"
+      },
       "release_date": "2011-01-01",
       "popularity": 1
     },
     {
-      "trackId": "45KJsBxGHuTc7rK4oAY3qz",
-      "name": "ברוך הבא",
+      "track": {
+        "id": "45KJsBxGHuTc7rK4oAY3qz",
+        "name": "ברוך הבא"
+      },
       "duration_ms": 229560,
-      "artist": [
-        "Chava Alberstein"
+      "artists": [
+        {
+          "name": "Chava Alberstein",
+          "id": "5UbgVjyCkpIMOzQuOI4DOW"
+        }
       ],
-      "artistId": [
-        "5UbgVjyCkpIMOzQuOI4DOW"
-      ],
-      "albumId": "6Gs1DXhv3WEeoMs7TgeZbB",
+      "album": {
+        "id": "6Gs1DXhv3WEeoMs7TgeZbB",
+        "name": "ברוך הבא",
+        "img": "https://i.scdn.co/image/ab67616d00001e02730862865fc1f102e4640d3d"
+      },
       "release_date": "2010-03-01",
       "popularity": 12
     },
     {
-      "trackId": "4m3PsBLxR3Dc8TEFVFbf0u",
-      "name": "(I'm Spending) Hanukkah In Santa Monica",
+      "track": {
+        "id": "4m3PsBLxR3Dc8TEFVFbf0u",
+        "name": "(I'm Spending) Hanukkah In Santa Monica"
+      },
       "duration_ms": 140293,
-      "artist": [
-        "Tom Lehrer",
-        "Jody Applebaum",
-        "Marc-André Hamelin"
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "id": "5iNvbRVX9W8t1RpD2SHpAO"
+        },
+        {
+          "name": "Jody Applebaum",
+          "id": "4yPuTOZHoBZ7FY7uCVmFzj"
+        },
+        {
+          "name": "Marc-André Hamelin",
+          "id": "0pm0LWiklLtNXUP2GVwdqY"
+        }
       ],
-      "artistId": [
-        "5iNvbRVX9W8t1RpD2SHpAO",
-        "4yPuTOZHoBZ7FY7uCVmFzj",
-        "0pm0LWiklLtNXUP2GVwdqY"
-      ],
-      "albumId": "0RKMR3nvvowz0ofGOk8TEr",
+      "album": {
+        "id": "0RKMR3nvvowz0ofGOk8TEr",
+        "name": "Serious Fun!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275bdf1ea4c15e9722cdfd84a"
+      },
       "release_date": "2005-06-01",
       "popularity": 0
     },
     {
-      "trackId": "0aym2LBJBk9DAYuHHutrIl",
-      "name": "Hey Jude - Remastered 2015",
+      "track": {
+        "id": "0aym2LBJBk9DAYuHHutrIl",
+        "name": "Hey Jude - Remastered 2015"
+      },
       "duration_ms": 425653,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+      "album": {
+        "id": "7vEJAtP3KgKSpOHVgwm3Eh",
+        "name": "1 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02582d56ce20fe0146ffa0e5cf"
+      },
       "release_date": "2000-11-13",
       "popularity": 72
     }

@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/20912b40-2c6c-42f7-80fa-ba17a855da40.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "254bXAqt3zP6P50BdQvEsq",
-      "name": "Everywhere - 2017 Remaster",
+      "track": {
+        "id": "254bXAqt3zP6P50BdQvEsq",
+        "name": "Everywhere - 2017 Remaster"
+      },
       "duration_ms": 226653,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "4AsXQ17Arq1cUVoa9dKJ3F",
+      "album": {
+        "id": "4AsXQ17Arq1cUVoa9dKJ3F",
+        "name": "Tango In the Night (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6"
+      },
       "release_date": "1987-04-13",
       "popularity": 77
     },
     {
-      "trackId": "37iZ4R2PWzI8MSByRCXIuY",
-      "name": "Río",
+      "track": {
+        "id": "37iZ4R2PWzI8MSByRCXIuY",
+        "name": "Río"
+      },
       "duration_ms": 133645,
-      "artist": [
-        "Silvio Rodríguez"
+      "artists": [
+        {
+          "name": "Silvio Rodríguez",
+          "id": "4rUyBlggM5tZUH5QZn9ZuO"
+        }
       ],
-      "artistId": [
-        "4rUyBlggM5tZUH5QZn9ZuO"
-      ],
-      "albumId": "48FzOcD1g5y2FSs0f76g5l",
+      "album": {
+        "id": "48FzOcD1g5y2FSs0f76g5l",
+        "name": "Mujeres",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab92a662cdd8c5052fd0cbce"
+      },
       "release_date": "1978-01-01",
       "popularity": 34
     },
     {
-      "trackId": "0MDi8eJKTGkVzib7RZpjyD",
-      "name": "Ganesh Invocation",
+      "track": {
+        "id": "0MDi8eJKTGkVzib7RZpjyD",
+        "name": "Ganesh Invocation"
+      },
       "duration_ms": 322120,
-      "artist": [
-        "Craig Pruess & Ananda"
+      "artists": [
+        {
+          "name": "Craig Pruess & Ananda",
+          "id": "4ntmrafQBL0Ar8VtOOu5sx"
+        }
       ],
-      "artistId": [
-        "4ntmrafQBL0Ar8VtOOu5sx"
-      ],
-      "albumId": "6OYb8Vb4WeCGfDzwaG6QA4",
+      "album": {
+        "id": "6OYb8Vb4WeCGfDzwaG6QA4",
+        "name": "108 Sacred Names of Mother Divine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c41ba4f80fc1ffd9aa147a26"
+      },
       "release_date": "2002-12-18",
       "popularity": 46
     },
     {
-      "trackId": "7dbI4g3m8A0isJVvYk2xdD",
-      "name": "I'd Like To Walk Around In Your Mind",
+      "track": {
+        "id": "7dbI4g3m8A0isJVvYk2xdD",
+        "name": "I'd Like To Walk Around In Your Mind"
+      },
       "duration_ms": 135453,
-      "artist": [
-        "Vashti Bunyan"
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "id": "4chuPfKtATDZvbRLExsTp2"
+        }
       ],
-      "artistId": [
-        "4chuPfKtATDZvbRLExsTp2"
-      ],
-      "albumId": "4KerqbIPBSPn5S2YTKwKys",
+      "album": {
+        "id": "4KerqbIPBSPn5S2YTKwKys",
+        "name": "Just Another Diamond Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db24c9a2f4b32c0fdde0b708"
+      },
       "release_date": "1970",
       "popularity": 46
     },
     {
-      "trackId": "3hfh3VfPtFVtB9KnuNtJXo",
-      "name": "Bhupali",
+      "track": {
+        "id": "3hfh3VfPtFVtB9KnuNtJXo",
+        "name": "Bhupali"
+      },
       "duration_ms": 214666,
-      "artist": [
-        "Hariprasad Chaurasia"
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "id": "7CozfB3IEACZpAelpwkUon"
+        }
       ],
-      "artistId": [
-        "7CozfB3IEACZpAelpwkUon"
-      ],
-      "albumId": "6LX6cgc3VpmVozT2wz83yy",
+      "album": {
+        "id": "6LX6cgc3VpmVozT2wz83yy",
+        "name": "The Raga Guide",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282fb8c08c86da7f2c0dda823"
+      },
       "release_date": "1999-08-10",
       "popularity": 43
     },
     {
-      "trackId": "3hfh3VfPtFVtB9KnuNtJXo",
-      "name": "Bhupali",
+      "track": {
+        "id": "3hfh3VfPtFVtB9KnuNtJXo",
+        "name": "Bhupali"
+      },
       "duration_ms": 214666,
-      "artist": [
-        "Hariprasad Chaurasia"
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "id": "7CozfB3IEACZpAelpwkUon"
+        }
       ],
-      "artistId": [
-        "7CozfB3IEACZpAelpwkUon"
-      ],
-      "albumId": "6LX6cgc3VpmVozT2wz83yy",
+      "album": {
+        "id": "6LX6cgc3VpmVozT2wz83yy",
+        "name": "The Raga Guide",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282fb8c08c86da7f2c0dda823"
+      },
       "release_date": "1999-08-10",
       "popularity": 43
     },
     {
-      "trackId": "6g2RtR71Qj12dKQIwPpFJc",
-      "name": "Bold Soul Sister",
+      "track": {
+        "id": "6g2RtR71Qj12dKQIwPpFJc",
+        "name": "Bold Soul Sister"
+      },
       "duration_ms": 158507,
-      "artist": [
-        "Ike & Tina Turner"
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "id": "1ZikppG9dPedbIgMfnfx8k"
+        }
       ],
-      "artistId": [
-        "1ZikppG9dPedbIgMfnfx8k"
-      ],
-      "albumId": "56W1pDZ5cNvbEX7EkPy2EN",
+      "album": {
+        "id": "56W1pDZ5cNvbEX7EkPy2EN",
+        "name": "The Hunter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a70f1ebc6bee4161880a699c"
+      },
       "release_date": "1969-01-17",
       "popularity": 34
     },
     {
-      "trackId": "64nURlDtuuHFBraXc827lf",
-      "name": "Yalla Tenam Reema",
+      "track": {
+        "id": "64nURlDtuuHFBraXc827lf",
+        "name": "Yalla Tenam Reema"
+      },
       "duration_ms": 144979,
-      "artist": [
-        "Fairuz"
+      "artists": [
+        {
+          "name": "Fairuz",
+          "id": "0dwFxqYkvZLSA6U6XfQcDV"
+        }
       ],
-      "artistId": [
-        "0dwFxqYkvZLSA6U6XfQcDV"
-      ],
-      "albumId": "0lf0V72GGI3YVA6d7jA9M5",
+      "album": {
+        "id": "0lf0V72GGI3YVA6d7jA9M5",
+        "name": "Bent El Hares",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217a8f7d8aa2df1fc9971aa47"
+      },
       "release_date": "1967-01-01",
       "popularity": 42
     },
     {
-      "trackId": "6g0Orsxv6glTJCt4cHsRsQ",
-      "name": "Formation",
+      "track": {
+        "id": "6g0Orsxv6glTJCt4cHsRsQ",
+        "name": "Formation"
+      },
       "duration_ms": 206080,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "7dK54iZuOxXFarGhXwEXfF",
+      "album": {
+        "id": "7dK54iZuOxXFarGhXwEXfF",
+        "name": "Lemonade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289992f4d7d4ab94937bf9e23"
+      },
       "release_date": "2016-04-23",
       "popularity": 72
     },
     {
-      "trackId": "1QJTBTHxAjjOaFrXi66k3B",
-      "name": "Maimouna",
+      "track": {
+        "id": "1QJTBTHxAjjOaFrXi66k3B",
+        "name": "Maimouna"
+      },
       "duration_ms": 214240,
-      "artist": [
-        "Ballaké Sissoko"
+      "artists": [
+        {
+          "name": "Ballaké Sissoko",
+          "id": "0OQeMFqoRD5clB0cPYVbxY"
+        }
       ],
-      "artistId": [
-        "0OQeMFqoRD5clB0cPYVbxY"
-      ],
-      "albumId": "6bkKjwvykGpXwZoBUjmWh1",
+      "album": {
+        "id": "6bkKjwvykGpXwZoBUjmWh1",
+        "name": "At Peace",
+        "img": "https://i.scdn.co/image/ab67616d00001e02005d08a6e85b3725e06c5c70"
+      },
       "release_date": "2012-12-29",
       "popularity": 31
     },
     {
-      "trackId": "0MHXrqn909p0LRTPsNsGEi",
-      "name": "Move on Up - Single Edit",
+      "track": {
+        "id": "0MHXrqn909p0LRTPsNsGEi",
+        "name": "Move on Up - Single Edit"
+      },
       "duration_ms": 165789,
-      "artist": [
-        "Curtis Mayfield"
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "id": "2AV6XDIs32ofIJhkkDevjm"
+        }
       ],
-      "artistId": [
-        "2AV6XDIs32ofIJhkkDevjm"
-      ],
-      "albumId": "2EwoYRFQRJqw7BTVG6GlTw",
+      "album": {
+        "id": "2EwoYRFQRJqw7BTVG6GlTw",
+        "name": "Move on Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b97b45e7885537d42ed46cdf"
+      },
       "release_date": "1970",
       "popularity": 69
     },
     {
-      "trackId": "5VgcM58bybW45T2WgTdbeY",
-      "name": "Ain't Got No - I Got Life (From the musical production \"Hair\")",
+      "track": {
+        "id": "5VgcM58bybW45T2WgTdbeY",
+        "name": "Ain't Got No - I Got Life (From the musical production \"Hair\")"
+      },
       "duration_ms": 127800,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "1ZRMX4V4gDAJzRmwUfjMYg",
+      "album": {
+        "id": "1ZRMX4V4gDAJzRmwUfjMYg",
+        "name": "'Nuff Said (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0596142a9796e4709e9a4ba"
+      },
       "release_date": "1968",
       "popularity": 50
     }

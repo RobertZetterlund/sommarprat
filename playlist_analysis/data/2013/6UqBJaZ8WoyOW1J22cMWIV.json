@@ -7,198 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2897840_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1hd68jkjdUoyZkqGonjeIS",
-      "name": "Eagle Man - Changing Woman",
+      "track": {
+        "id": "1hd68jkjdUoyZkqGonjeIS",
+        "name": "Eagle Man - Changing Woman"
+      },
       "duration_ms": 340933,
-      "artist": [
-        "Mari Boine"
+      "artists": [
+        {
+          "name": "Mari Boine",
+          "id": "4t4unGD2iYlkONGDmBbkcE"
+        }
       ],
-      "artistId": [
-        "4t4unGD2iYlkONGDmBbkcE"
-      ],
-      "albumId": "4DHU8JV88pMUx30KXVEA6R",
+      "album": {
+        "id": "4DHU8JV88pMUx30KXVEA6R",
+        "name": "Room of Worship - Bálvvoslatjna",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d55f4ba5b290cb8d189a4fc"
+      },
       "release_date": "1998-01-01",
       "popularity": 9
     },
     {
-      "trackId": "5CMjjywI0eZMixPeqNd75R",
-      "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+      "track": {
+        "id": "5CMjjywI0eZMixPeqNd75R",
+        "name": "Lose Yourself to Dance (feat. Pharrell Williams)"
+      },
       "duration_ms": 353893,
-      "artist": [
-        "Daft Punk",
-        "Pharrell Williams"
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
+        }
       ],
-      "artistId": [
-        "4tZwfgrHOc3mvqYlEYSvVi",
-        "2RdwBSPQiwcmiDo9kixcl8"
-      ],
-      "albumId": "4m2880jivSbbyEGAKfITCa",
+      "album": {
+        "id": "4m2880jivSbbyEGAKfITCa",
+        "name": "Random Access Memories",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d97ca7376f835055f828139"
+      },
       "release_date": "2013-05-17",
       "popularity": 69
     },
     {
-      "trackId": "2kovtUAaJSf9jg9aKdflok",
-      "name": "The Great Surrender",
+      "track": {
+        "id": "2kovtUAaJSf9jg9aKdflok",
+        "name": "The Great Surrender"
+      },
       "duration_ms": 474683,
-      "artist": [
-        "Krister Linder"
+      "artists": [
+        {
+          "name": "Krister Linder",
+          "id": "3FugpKpWvlo60nJebN2PJj"
+        }
       ],
-      "artistId": [
-        "3FugpKpWvlo60nJebN2PJj"
-      ],
-      "albumId": "2mxuO9O3WYSWVCLWqfAuS5",
+      "album": {
+        "id": "2mxuO9O3WYSWVCLWqfAuS5",
+        "name": "Across the Never",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274782d3f478fa89137fea320"
+      },
       "release_date": "2019-02-08",
       "popularity": 3
     },
     {
-      "trackId": "6F3qCHHZzqkAUHfv989dgm",
-      "name": "Mieleni Alenevi",
+      "track": {
+        "id": "6F3qCHHZzqkAUHfv989dgm",
+        "name": "Mieleni Alenevi"
+      },
       "duration_ms": 177333,
-      "artist": [
-        "Värttinä"
+      "artists": [
+        {
+          "name": "Värttinä",
+          "id": "4sn9fZDCAH3l0Pb0lGW1wt"
+        }
       ],
-      "artistId": [
-        "4sn9fZDCAH3l0Pb0lGW1wt"
-      ],
-      "albumId": "4FF6T9sHJIT2Juuz2cS7oE",
+      "album": {
+        "id": "4FF6T9sHJIT2Juuz2cS7oE",
+        "name": "Vihma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a6eec423d42a9b1bb561716e"
+      },
       "release_date": "1998-08-10",
       "popularity": 15
     },
     {
-      "trackId": "0bYyoyVbtnoMaRS8Ti0UZP",
-      "name": "Opening the Gates",
+      "track": {
+        "id": "0bYyoyVbtnoMaRS8Ti0UZP",
+        "name": "Opening the Gates"
+      },
       "duration_ms": 416844,
-      "artist": [
-        "Jai Uttal"
+      "artists": [
+        {
+          "name": "Jai Uttal",
+          "id": "00DkRCKgM6Ku90WtOfoYlw"
+        }
       ],
-      "artistId": [
-        "00DkRCKgM6Ku90WtOfoYlw"
-      ],
-      "albumId": "6TfWuUKZbhMY5JhmuSciAq",
+      "album": {
+        "id": "6TfWuUKZbhMY5JhmuSciAq",
+        "name": "Nectar: Live Kirtan & Pagan Remixes",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ddc2a7a3ace217bccfc6f5c"
+      },
       "release_date": "2005-01-01",
       "popularity": 4
     },
     {
-      "trackId": "6fFPpLDXA784RzWqyvnz6w",
-      "name": "Lully's Turquerie As Interpreted By an Advanced Script",
+      "track": {
+        "id": "6fFPpLDXA784RzWqyvnz6w",
+        "name": "Lully's Turquerie As Interpreted By an Advanced Script"
+      },
       "duration_ms": 401906,
-      "artist": [
-        "Murcof"
+      "artists": [
+        {
+          "name": "Murcof",
+          "id": "0liG9qD19eWrt5Ur4cnsYd"
+        }
       ],
-      "artistId": [
-        "0liG9qD19eWrt5Ur4cnsYd"
-      ],
-      "albumId": "1NDwFQjlSDozCoGFhyrjm6",
+      "album": {
+        "id": "1NDwFQjlSDozCoGFhyrjm6",
+        "name": "The Versailles Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea4735990db29ccc317c52c2"
+      },
       "release_date": "2008-12-01",
       "popularity": 6
     },
     {
-      "trackId": "0QNNSlVbsT9qJT8ClSkLvB",
-      "name": "Moussolou - Con La Colaboración de Salif Keita",
+      "track": {
+        "id": "0QNNSlVbsT9qJT8ClSkLvB",
+        "name": "Moussolou - Con La Colaboración de Salif Keita"
+      },
       "duration_ms": 313560,
-      "artist": [
-        "Gala Evora"
+      "artists": [
+        {
+          "name": "Gala Evora",
+          "id": "6C8u9DVP6zoouKt1mdFyxU"
+        }
       ],
-      "artistId": [
-        "6C8u9DVP6zoouKt1mdFyxU"
-      ],
-      "albumId": "4cqj30hMQngOPwnzpTIVCE",
+      "album": {
+        "id": "4cqj30hMQngOPwnzpTIVCE",
+        "name": "Agua Y Luz",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2be9fab4d196c1946d60fbf"
+      },
       "release_date": "2008-06-02",
       "popularity": 9
     },
     {
-      "trackId": "4cR6T6pPcUacH2ZEwvk9s2",
-      "name": "Corporate Cannibal",
+      "track": {
+        "id": "4cR6T6pPcUacH2ZEwvk9s2",
+        "name": "Corporate Cannibal"
+      },
       "duration_ms": 355560,
-      "artist": [
-        "Grace Jones"
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "id": "2f9ZiYA2ic1r1voObUimdd"
+        }
       ],
-      "artistId": [
-        "2f9ZiYA2ic1r1voObUimdd"
-      ],
-      "albumId": "3h5DLqKfSJGO2RDB5ahLA5",
+      "album": {
+        "id": "3h5DLqKfSJGO2RDB5ahLA5",
+        "name": "Hurricane",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a2361074a3c97700f07d9594"
+      },
       "release_date": "2008-11-10",
       "popularity": 24
     },
     {
-      "trackId": "3vLbpLGk04yxNb754R7YFR",
-      "name": "De Vuelta Pa Casa",
+      "track": {
+        "id": "3vLbpLGk04yxNb754R7YFR",
+        "name": "De Vuelta Pa Casa"
+      },
       "duration_ms": 167234,
-      "artist": [
-        "Eman Munia",
-        "Albert Del Rio"
+      "artists": [
+        {
+          "name": "Eman Munia",
+          "id": "4y3d1Dhff5ejfZXdUdjfmx"
+        },
+        {
+          "name": "Albert Del Rio",
+          "id": "3JSexzBNC1H8MNF702azjN"
+        }
       ],
-      "artistId": [
-        "4y3d1Dhff5ejfZXdUdjfmx",
-        "3JSexzBNC1H8MNF702azjN"
-      ],
-      "albumId": "6xRP0MPuxHO0otNXdlOyVI",
+      "album": {
+        "id": "6xRP0MPuxHO0otNXdlOyVI",
+        "name": "De Vuelta Pa Casa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7818262f6c4e196a495449d"
+      },
       "release_date": "2022-06-10",
       "popularity": 25
     },
     {
-      "trackId": "0M3XpICYg2V32PIlh4EafH",
-      "name": "Knights Of The Jaguar",
+      "track": {
+        "id": "0M3XpICYg2V32PIlh4EafH",
+        "name": "Knights Of The Jaguar"
+      },
       "duration_ms": 150453,
-      "artist": [
-        "DJ Rolando"
+      "artists": [
+        {
+          "name": "DJ Rolando",
+          "id": "6d596lgGxYcfIG0hDl6dhp"
+        }
       ],
-      "artistId": [
-        "6d596lgGxYcfIG0hDl6dhp"
-      ],
-      "albumId": "0PUH0ycv1VDQsxwHbrO0pJ",
+      "album": {
+        "id": "0PUH0ycv1VDQsxwHbrO0pJ",
+        "name": "Somewhere In Detroit Mix Series Vol.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260e243d06b2faf3b4f6dbeee"
+      },
       "release_date": "2009-04-01",
       "popularity": 41
     },
     {
-      "trackId": "2DNN12nSAWmUERBKNvyeip",
-      "name": "Traveller's Defense",
+      "track": {
+        "id": "2DNN12nSAWmUERBKNvyeip",
+        "name": "Traveller's Defense"
+      },
       "duration_ms": 263020,
-      "artist": [
-        "Lars Danielsson",
-        "Leszek Możdżer",
-        "John Parricelli"
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "id": "7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Leszek Możdżer",
+          "id": "4iJve8QGQMl0PpIDmRG73G"
+        },
+        {
+          "name": "John Parricelli",
+          "id": "55Ib86Ob0dKLELhJ1gvUri"
+        }
       ],
-      "artistId": [
-        "7c9O0hfRy2u32JVcWhoope",
-        "4iJve8QGQMl0PpIDmRG73G",
-        "55Ib86Ob0dKLELhJ1gvUri"
-      ],
-      "albumId": "7KOGT89lKdtNopWnvBWYzz",
+      "album": {
+        "id": "7KOGT89lKdtNopWnvBWYzz",
+        "name": "Tarantella",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e776d8c4f683b4312a1fc5d"
+      },
       "release_date": "2009-02-27",
       "popularity": 16
     },
     {
-      "trackId": "2IrdRIvE3y6wWkx4pP0orb",
-      "name": "Speechless - Gesaffelstein Remix",
+      "track": {
+        "id": "2IrdRIvE3y6wWkx4pP0orb",
+        "name": "Speechless - Gesaffelstein Remix"
+      },
       "duration_ms": 384799,
-      "artist": [
-        "Agoria",
-        "Carl Craig",
-        "La Scalars"
+      "artists": [
+        {
+          "name": "Agoria",
+          "id": "4lu50np3LdTkRL09T7x8UP"
+        },
+        {
+          "name": "Carl Craig",
+          "id": "17dbJyUCrxh4I7iyUrjaHU"
+        },
+        {
+          "name": "La Scalars",
+          "id": "06Tj7eH0OiHvJxrnWWxw0g"
+        }
       ],
-      "artistId": [
-        "4lu50np3LdTkRL09T7x8UP",
-        "17dbJyUCrxh4I7iyUrjaHU",
-        "06Tj7eH0OiHvJxrnWWxw0g"
-      ],
-      "albumId": "0wiF3SK5aALUV8KduqCvG0",
+      "album": {
+        "id": "0wiF3SK5aALUV8KduqCvG0",
+        "name": "Speechless (Remixes, Vol. 1)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e88d9abe95968816c4bf967b"
+      },
       "release_date": "2011-10-10",
       "popularity": 23
     },
     {
-      "trackId": "0xbSaxBeoTOiWRCwBVnWHG",
-      "name": "Seemann",
+      "track": {
+        "id": "0xbSaxBeoTOiWRCwBVnWHG",
+        "name": "Seemann"
+      },
       "duration_ms": 283146,
-      "artist": [
-        "Apocalyptica",
-        "Nina Hagen"
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "id": "4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Nina Hagen",
+          "id": "7xZHrltZh8zIRvjimgABvj"
+        }
       ],
-      "artistId": [
-        "4Lm0pUvmisUHMdoky5ch2I",
-        "7xZHrltZh8zIRvjimgABvj"
-      ],
-      "albumId": "3KmWBOoHbutZ085tMzCFdP",
+      "album": {
+        "id": "3KmWBOoHbutZ085tMzCFdP",
+        "name": "Reflections",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f307d524108ced1c6c0f7d48"
+      },
       "release_date": "2003-11-17",
       "popularity": 41
     }

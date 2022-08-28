@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300170_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7ynwkFhXbrQqnMIWqFfRUS",
-      "name": "Wild Is the Wind - 2016 Remaster",
+      "track": {
+        "id": "7ynwkFhXbrQqnMIWqFfRUS",
+        "name": "Wild Is the Wind - 2016 Remaster"
+      },
       "duration_ms": 366360,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "0MWrKayUshRuT8maG4ZAOU",
+      "album": {
+        "id": "0MWrKayUshRuT8maG4ZAOU",
+        "name": "Station to Station (2016 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f3cdfeac0678371b16f601d"
+      },
       "release_date": "1976-01-23",
       "popularity": 52
     },
     {
-      "trackId": "5lWRaa0fBxDE5yU91npPq7",
-      "name": "Just A Girl",
+      "track": {
+        "id": "5lWRaa0fBxDE5yU91npPq7",
+        "name": "Just A Girl"
+      },
       "duration_ms": 209200,
-      "artist": [
-        "No Doubt"
+      "artists": [
+        {
+          "name": "No Doubt",
+          "id": "0cQbJU1aAzvbEmTuljWLlF"
+        }
       ],
-      "artistId": [
-        "0cQbJU1aAzvbEmTuljWLlF"
-      ],
-      "albumId": "3VekjWskUut57hx6W9wqL8",
+      "album": {
+        "id": "3VekjWskUut57hx6W9wqL8",
+        "name": "Tragic Kingdom",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ebd5e789646a833b8f7d4ba"
+      },
       "release_date": "1995-10-10",
       "popularity": 70
     },
     {
-      "trackId": "0fVl2tiOsjevIDkCsQEiGB",
-      "name": "If It Be Your Will",
+      "track": {
+        "id": "0fVl2tiOsjevIDkCsQEiGB",
+        "name": "If It Be Your Will"
+      },
       "duration_ms": 213466,
-      "artist": [
-        "The Webb Sisters"
+      "artists": [
+        {
+          "name": "The Webb Sisters",
+          "id": "5WVYK25IDrN0y1ExA69Lr7"
+        }
       ],
-      "artistId": [
-        "5WVYK25IDrN0y1ExA69Lr7"
-      ],
-      "albumId": "6JsUEUdnnPvTd303m4lEfo",
+      "album": {
+        "id": "6JsUEUdnnPvTd303m4lEfo",
+        "name": "If It Be Your Will",
+        "img": "https://i.scdn.co/image/ab67616d00001e025af0e19c7b72f838def4cc74"
+      },
       "release_date": "2011",
       "popularity": 39
     },
     {
-      "trackId": "75FYqcxt1YEAtqDLrOeIJn",
-      "name": "Three Little Birds",
+      "track": {
+        "id": "75FYqcxt1YEAtqDLrOeIJn",
+        "name": "Three Little Birds"
+      },
       "duration_ms": 180266,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "2mBbV0Ad6B4ydHMZlzAY7S",
+      "album": {
+        "id": "2mBbV0Ad6B4ydHMZlzAY7S",
+        "name": "Exodus",
+        "img": "https://i.scdn.co/image/ab67616d00001e02811bfdc4f55b3a7484524aaf"
+      },
       "release_date": "1977-06-03",
       "popularity": 77
     },
     {
-      "trackId": "27SKv59f63dYn8DszKnOgb",
-      "name": "Dom som skiner",
+      "track": {
+        "id": "27SKv59f63dYn8DszKnOgb",
+        "name": "Dom som skiner"
+      },
       "duration_ms": 231120,
-      "artist": [
-        "Thåström"
+      "artists": [
+        {
+          "name": "Thåström",
+          "id": "2PBhJmRqee1QAyQU2kBu1H"
+        }
       ],
-      "artistId": [
-        "2PBhJmRqee1QAyQU2kBu1H"
-      ],
-      "albumId": "02XOvr5H64KeNF4bqHIcfh",
+      "album": {
+        "id": "02XOvr5H64KeNF4bqHIcfh",
+        "name": "Dom som skiner",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270bf51ad9033c3d73d9318da"
+      },
       "release_date": "2021-11-12",
       "popularity": 40
     },
     {
-      "trackId": "4zH28Bfp5yFKZmP6pEvlSv",
-      "name": "One Silver Dollar",
+      "track": {
+        "id": "4zH28Bfp5yFKZmP6pEvlSv",
+        "name": "One Silver Dollar"
+      },
       "duration_ms": 122566,
-      "artist": [
-        "Marilyn Monroe"
+      "artists": [
+        {
+          "name": "Marilyn Monroe",
+          "id": "5sEocv1pFst7o3pam69obY"
+        }
       ],
-      "artistId": [
-        "5sEocv1pFst7o3pam69obY"
-      ],
-      "albumId": "2VRqHAAcXudM5Fj3ntm0Nz",
+      "album": {
+        "id": "2VRqHAAcXudM5Fj3ntm0Nz",
+        "name": "Marilyn Monroe 50th Anniversary Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246bdf8becaa8833f5afa57a0"
+      },
       "release_date": "2012-08-20",
       "popularity": 39
     },
     {
-      "trackId": "0INUE1K7cEiE8VH63Rv5RJ",
-      "name": "Happy?",
+      "track": {
+        "id": "0INUE1K7cEiE8VH63Rv5RJ",
+        "name": "Happy?"
+      },
       "duration_ms": 216426,
-      "artist": [
-        "Mudvayne"
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "id": "2Pfv2w8a20xzC7Dr7QXRqM"
+        }
       ],
-      "artistId": [
-        "2Pfv2w8a20xzC7Dr7QXRqM"
-      ],
-      "albumId": "0dCRu5tVhx9fvbVZSxfjfP",
+      "album": {
+        "id": "0dCRu5tVhx9fvbVZSxfjfP",
+        "name": "Lost and Found",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d23c71c684a6e4d669e8deff"
+      },
       "release_date": "2005",
       "popularity": 69
     },
     {
-      "trackId": "6lPGFpim0Mpfm55JUAQqWU",
-      "name": "Andas",
+      "track": {
+        "id": "6lPGFpim0Mpfm55JUAQqWU",
+        "name": "Andas"
+      },
       "duration_ms": 271920,
-      "artist": [
-        "Cleo",
-        "Kristin Amparo",
-        "Broke n Tipsy"
+      "artists": [
+        {
+          "name": "Cleo",
+          "id": "1SwDFc5jX708XR3XtzLrRs"
+        },
+        {
+          "name": "Kristin Amparo",
+          "id": "2vxWDuk2inw00eo3Hag2QR"
+        },
+        {
+          "name": "Broke n Tipsy",
+          "id": "6JrqOWN63xkJdBaeysAddn"
+        }
       ],
-      "artistId": [
-        "1SwDFc5jX708XR3XtzLrRs",
-        "2vxWDuk2inw00eo3Hag2QR",
-        "6JrqOWN63xkJdBaeysAddn"
-      ],
-      "albumId": "4eW4fy6Q2yAhVTg8wzfUir",
+      "album": {
+        "id": "4eW4fy6Q2yAhVTg8wzfUir",
+        "name": "Vem e han",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d92243c9b2ac373d169640fa"
+      },
       "release_date": "2014-01-26",
       "popularity": 16
     },
     {
-      "trackId": "1mXqCED8vAyj9tsXXUiNHe",
-      "name": "Man of a Thousand Faces",
+      "track": {
+        "id": "1mXqCED8vAyj9tsXXUiNHe",
+        "name": "Man of a Thousand Faces"
+      },
       "duration_ms": 191746,
-      "artist": [
-        "Regina Spektor"
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "id": "3z6Gk257P9jNcZbBXJNX5i"
+        }
       ],
-      "artistId": [
-        "3z6Gk257P9jNcZbBXJNX5i"
-      ],
-      "albumId": "5t0lQDPLF22wmWCtSZkIVv",
+      "album": {
+        "id": "5t0lQDPLF22wmWCtSZkIVv",
+        "name": "Far",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c8d5428b693308705e7caca"
+      },
       "release_date": "2009-06-09",
       "popularity": 33
     },
     {
-      "trackId": "1aDNYyeU62BuQsBAY18i48",
-      "name": "Stargazer",
+      "track": {
+        "id": "1aDNYyeU62BuQsBAY18i48",
+        "name": "Stargazer"
+      },
       "duration_ms": 506160,
-      "artist": [
-        "Rainbow"
+      "artists": [
+        {
+          "name": "Rainbow",
+          "id": "6SLAMfhOi7UJI0fMztaK0m"
+        }
       ],
-      "artistId": [
-        "6SLAMfhOi7UJI0fMztaK0m"
-      ],
-      "albumId": "3uIT4I4Dy7Pq1j0aSjzPW9",
+      "album": {
+        "id": "3uIT4I4Dy7Pq1j0aSjzPW9",
+        "name": "Rising",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fef85212f7a490f833612275"
+      },
       "release_date": "1976-01-01",
       "popularity": 61
     },
     {
-      "trackId": "0U0p8weaMIbIFMJ0CPlvHV",
-      "name": "Sprawl II (Mountains Beyond Mountains)",
+      "track": {
+        "id": "0U0p8weaMIbIFMJ0CPlvHV",
+        "name": "Sprawl II (Mountains Beyond Mountains)"
+      },
       "duration_ms": 325546,
-      "artist": [
-        "Arcade Fire"
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "id": "3kjuyTCjPG1WMFCiyc5IuB"
+        }
       ],
-      "artistId": [
-        "3kjuyTCjPG1WMFCiyc5IuB"
-      ],
-      "albumId": "3DrgM5X3yX1JP1liNLAOHI",
+      "album": {
+        "id": "3DrgM5X3yX1JP1liNLAOHI",
+        "name": "The Suburbs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02532391d63cfd6d32677f7af6"
+      },
       "release_date": "2010-08-02",
       "popularity": 54
     }

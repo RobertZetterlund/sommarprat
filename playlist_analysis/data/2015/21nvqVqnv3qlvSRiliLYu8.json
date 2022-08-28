@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531098_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5x9RZg7HfXGY3JayXL3seF",
-      "name": "Cats In The Cradle",
+      "track": {
+        "id": "5x9RZg7HfXGY3JayXL3seF",
+        "name": "Cats In The Cradle"
+      },
       "duration_ms": 241893,
-      "artist": [
-        "Ugly Kid Joe"
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "id": "3XsgWn63EnA4wYZBjVyxjf"
+        }
       ],
-      "artistId": [
-        "3XsgWn63EnA4wYZBjVyxjf"
-      ],
-      "albumId": "0lQjdBr2n0WQg5sjGzLVfR",
+      "album": {
+        "id": "0lQjdBr2n0WQg5sjGzLVfR",
+        "name": "America's Least Wanted",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259afd13f40fa2b0aab89bb0e"
+      },
       "release_date": "1992-01-01",
       "popularity": 68
     },
     {
-      "trackId": "3dsWNUQ22VlcgGJARum7OW",
-      "name": "Believe In You (Radio Edit) - Touched By An Angel Soundtrack",
+      "track": {
+        "id": "3dsWNUQ22VlcgGJARum7OW",
+        "name": "Believe In You (Radio Edit) - Touched By An Angel Soundtrack"
+      },
       "duration_ms": 269866,
-      "artist": [
-        "Amanda Marshall"
+      "artists": [
+        {
+          "name": "Amanda Marshall",
+          "id": "2ON3fLFbL1rHfHEjeYNKsO"
+        }
       ],
-      "artistId": [
-        "2ON3fLFbL1rHfHEjeYNKsO"
-      ],
-      "albumId": "4g040PGHFRHmGDGvbUQyM8",
+      "album": {
+        "id": "4g040PGHFRHmGDGvbUQyM8",
+        "name": "Tuesday's Child",
+        "img": "https://i.scdn.co/image/ab67616d00001e022df1a3564f1b703557527d77"
+      },
       "release_date": "1999-04-12",
       "popularity": 37
     },
     {
-      "trackId": "5Wz9a5T5T3JgVDxMpX9BFu",
-      "name": "Better As A Memory",
+      "track": {
+        "id": "5Wz9a5T5T3JgVDxMpX9BFu",
+        "name": "Better As A Memory"
+      },
       "duration_ms": 252706,
-      "artist": [
-        "Kenny Chesney"
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "id": "3grHWM9bx2E9vwJCdlRv9O"
+        }
       ],
-      "artistId": [
-        "3grHWM9bx2E9vwJCdlRv9O"
-      ],
-      "albumId": "7E1BiscM3O6aifwtcLdUG7",
+      "album": {
+        "id": "7E1BiscM3O6aifwtcLdUG7",
+        "name": "Just Who I Am: Poets & Pirates",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d112aa979880ae25bf612c1"
+      },
       "release_date": "2007-09-11",
       "popularity": 43
     },
     {
-      "trackId": "5KqldkCunQ2rWxruMEtGh0",
-      "name": "The Gambler",
+      "track": {
+        "id": "5KqldkCunQ2rWxruMEtGh0",
+        "name": "The Gambler"
+      },
       "duration_ms": 214880,
-      "artist": [
-        "Kenny Rogers"
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "id": "4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
       ],
-      "artistId": [
-        "4tw2Lmn9tTPUv7Gy7mVPI4"
-      ],
-      "albumId": "3XdvQjIMjdwxRivZrg1ziJ",
+      "album": {
+        "id": "3XdvQjIMjdwxRivZrg1ziJ",
+        "name": "The Gambler",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c289ed4316aaab5a5b7376c1"
+      },
       "release_date": "1978-11-20",
       "popularity": 74
     },
     {
-      "trackId": "6ORqU0bHbVCRjXm9AjyHyZ",
-      "name": "Good Riddance (Time of Your Life)",
+      "track": {
+        "id": "6ORqU0bHbVCRjXm9AjyHyZ",
+        "name": "Good Riddance (Time of Your Life)"
+      },
       "duration_ms": 153466,
-      "artist": [
-        "Green Day"
+      "artists": [
+        {
+          "name": "Green Day",
+          "id": "7oPftvlwr6VrsViSDV7fJY"
+        }
       ],
-      "artistId": [
-        "7oPftvlwr6VrsViSDV7fJY"
-      ],
-      "albumId": "3x2uer6Xh0d5rF8toWpRDA",
+      "album": {
+        "id": "3x2uer6Xh0d5rF8toWpRDA",
+        "name": "Nimrod",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da4f6706ae0f2501c61ce776"
+      },
       "release_date": "1997-10-14",
       "popularity": 76
     },
     {
-      "trackId": "4qgZs0RNjdzKAS22lP0QjY",
-      "name": "Where The Streets Have No Name - Remastered",
+      "track": {
+        "id": "4qgZs0RNjdzKAS22lP0QjY",
+        "name": "Where The Streets Have No Name - Remastered"
+      },
       "duration_ms": 337505,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 67
     },
     {
-      "trackId": "0MhCb3iakymVqQIOeYPSUf",
-      "name": "Soldier",
+      "track": {
+        "id": "0MhCb3iakymVqQIOeYPSUf",
+        "name": "Soldier"
+      },
       "duration_ms": 211386,
-      "artist": [
-        "Gavin DeGraw"
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "id": "5DYAABs8rkY9VhwtENoQCz"
+        }
       ],
-      "artistId": [
-        "5DYAABs8rkY9VhwtENoQCz"
-      ],
-      "albumId": "2zVRgW8bXd7ukXRZSWw81j",
+      "album": {
+        "id": "2zVRgW8bXd7ukXRZSWw81j",
+        "name": "Sweeter",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b3b5436a48203e35b89b9ba"
+      },
       "release_date": "2011-09-16",
       "popularity": 56
     },
     {
-      "trackId": "2HsjJJL4DhPCzMlnaGv7ap",
-      "name": "Small Town",
+      "track": {
+        "id": "2HsjJJL4DhPCzMlnaGv7ap",
+        "name": "Small Town"
+      },
       "duration_ms": 221626,
-      "artist": [
-        "John Mellencamp"
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "id": "3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
       ],
-      "artistId": [
-        "3lPQ2Fk5JOwGWAF3ORFCqH"
-      ],
-      "albumId": "1BYEhfr8qQGNhbqPAbfnxk",
+      "album": {
+        "id": "1BYEhfr8qQGNhbqPAbfnxk",
+        "name": "Scarecrow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b46e7ea6a6b2fa45caa23393"
+      },
       "release_date": "1985",
       "popularity": 65
     },
     {
-      "trackId": "0T9tbj6zsRKLiUx06sbOWX",
-      "name": "In Loving Memory",
+      "track": {
+        "id": "0T9tbj6zsRKLiUx06sbOWX",
+        "name": "In Loving Memory"
+      },
       "duration_ms": 340106,
-      "artist": [
-        "Alter Bridge"
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "id": "4DWX7u8BV0vZIQSpJQQDWU"
+        }
       ],
-      "artistId": [
-        "4DWX7u8BV0vZIQSpJQQDWU"
-      ],
-      "albumId": "6hqietEuZCikevdO2oGTcx",
+      "album": {
+        "id": "6hqietEuZCikevdO2oGTcx",
+        "name": "One Day Remains",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc7ddb77993dd1d8d19c22a2"
+      },
       "release_date": "2004-08-10",
       "popularity": 56
     },
     {
-      "trackId": "3P2XAL8UpPBM3nfvuEjHHE",
-      "name": "Turn The Page - Live",
+      "track": {
+        "id": "3P2XAL8UpPBM3nfvuEjHHE",
+        "name": "Turn The Page - Live"
+      },
       "duration_ms": 302563,
-      "artist": [
-        "Bob Seger"
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "id": "485uL27bPomh29R4JmQehQ"
+        }
       ],
-      "artistId": [
-        "485uL27bPomh29R4JmQehQ"
-      ],
-      "albumId": "3RRcYI9ZM3nOiIo3bzaLeJ",
+      "album": {
+        "id": "3RRcYI9ZM3nOiIo3bzaLeJ",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afb6c3ee7af97d45370accd2"
+      },
       "release_date": "1994-10-25",
       "popularity": 59
     },
     {
-      "trackId": "1aXFBWnnPFRKUN7vuIA5h0",
-      "name": "Turn The Page",
+      "track": {
+        "id": "1aXFBWnnPFRKUN7vuIA5h0",
+        "name": "Turn The Page"
+      },
       "duration_ms": 366466,
-      "artist": [
-        "Metallica"
+      "artists": [
+        {
+          "name": "Metallica",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB"
+        }
       ],
-      "artistId": [
-        "2ye2Wgw4gimLv2eAKyk1NB"
-      ],
-      "albumId": "0vshXZYhBkbIoqxyC2fXcF",
+      "album": {
+        "id": "0vshXZYhBkbIoqxyC2fXcF",
+        "name": "Garage Inc.",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275e6375e11550746705a9645"
+      },
       "release_date": "1998-01-01",
       "popularity": 64
     }

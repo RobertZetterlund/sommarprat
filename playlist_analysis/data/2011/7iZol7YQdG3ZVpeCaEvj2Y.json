@@ -7,148 +7,214 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243417_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2vdfMNIPqowjIrpxOZ7Gdg",
-      "name": "Rosensfole",
+      "track": {
+        "id": "2vdfMNIPqowjIrpxOZ7Gdg",
+        "name": "Rosensfole"
+      },
       "duration_ms": 167666,
-      "artist": [
-        "Agnes Buen Garnås",
-        "Jan Garbarek"
+      "artists": [
+        {
+          "name": "Agnes Buen Garnås",
+          "id": "56qvc0HLwV0RQpYFvheegB"
+        },
+        {
+          "name": "Jan Garbarek",
+          "id": "7MEyCD4G0Zl6kmikEAZsym"
+        }
       ],
-      "artistId": [
-        "56qvc0HLwV0RQpYFvheegB",
-        "7MEyCD4G0Zl6kmikEAZsym"
-      ],
-      "albumId": "07zm5wkiMnA5JwhnuTBAu2",
+      "album": {
+        "id": "07zm5wkiMnA5JwhnuTBAu2",
+        "name": "Rosensfole",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae090d204bb4a0a34e4ab379"
+      },
       "release_date": "1989-05-01",
       "popularity": 12
     },
     {
-      "trackId": "3JI0qCDbYMQNa44CZAh8ql",
-      "name": "One by One",
+      "track": {
+        "id": "3JI0qCDbYMQNa44CZAh8ql",
+        "name": "One by One"
+      },
       "duration_ms": 205960,
-      "artist": [
-        "Billy Bragg",
-        "Wilco"
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "id": "5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Wilco",
+          "id": "2QoU3awHVdcHS8LrZEKvSM"
+        }
       ],
-      "artistId": [
-        "5yXAFDZNUNyO92l5WTImkO",
-        "2QoU3awHVdcHS8LrZEKvSM"
-      ],
-      "albumId": "0yTmT1i6yHb5EVyJOmIwGw",
+      "album": {
+        "id": "0yTmT1i6yHb5EVyJOmIwGw",
+        "name": "Mermaid Avenue",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bee802eae45543f3010c2ca9"
+      },
       "release_date": "1998",
       "popularity": 36
     },
     {
-      "trackId": "3boUavIi1pXlifQ4VPHMg5",
-      "name": "Orpheus",
+      "track": {
+        "id": "3boUavIi1pXlifQ4VPHMg5",
+        "name": "Orpheus"
+      },
       "duration_ms": 291573,
-      "artist": [
-        "David Sylvian"
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "id": "2oyWkw7sq99yqj12hVUHtw"
+        }
       ],
-      "artistId": [
-        "2oyWkw7sq99yqj12hVUHtw"
-      ],
-      "albumId": "0LqXwbrREllWtu2s1dW2eN",
+      "album": {
+        "id": "0LqXwbrREllWtu2s1dW2eN",
+        "name": "Secrets Of The Beehive (Remastered 2003)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299af698bc95bfd1bfdfbaaec"
+      },
       "release_date": "1987-11-07",
       "popularity": 47
     },
     {
-      "trackId": "55q3Ro66yXWi9rsEddeEN4",
-      "name": "Pyramid Song",
+      "track": {
+        "id": "55q3Ro66yXWi9rsEddeEN4",
+        "name": "Pyramid Song"
+      },
       "duration_ms": 288733,
-      "artist": [
-        "Radiohead"
+      "artists": [
+        {
+          "name": "Radiohead",
+          "id": "4Z8W4fKeB5YxbusRsdQVPb"
+        }
       ],
-      "artistId": [
-        "4Z8W4fKeB5YxbusRsdQVPb"
-      ],
-      "albumId": "1HrMmB5useeZ0F5lHrMvl0",
+      "album": {
+        "id": "1HrMmB5useeZ0F5lHrMvl0",
+        "name": "Amnesiac",
+        "img": "https://i.scdn.co/image/ab67616d00001e02863e0e305637100311c91aa7"
+      },
       "release_date": "2001-03-12",
       "popularity": 60
     },
     {
-      "trackId": "1SZZKYA2kKygq95TSfr3cn",
-      "name": "Kakonita",
+      "track": {
+        "id": "1SZZKYA2kKygq95TSfr3cn",
+        "name": "Kakonita"
+      },
       "duration_ms": 299640,
-      "artist": [
-        "Nils Petter Molvær"
+      "artists": [
+        {
+          "name": "Nils Petter Molvær",
+          "id": "2r1f1zkIjuQ7ETeJHsXpsc"
+        }
       ],
-      "artistId": [
-        "2r1f1zkIjuQ7ETeJHsXpsc"
-      ],
-      "albumId": "5rbrFbZIHGQtGchq4LBH3R",
+      "album": {
+        "id": "5rbrFbZIHGQtGchq4LBH3R",
+        "name": "Solid Ether",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ec616159ef0e5f7c6e1c8b9"
+      },
       "release_date": "2000-05-05",
       "popularity": 29
     },
     {
-      "trackId": "7qtjJ3TDiSyy4WxUP6Qfom",
-      "name": "Bring Down",
+      "track": {
+        "id": "7qtjJ3TDiSyy4WxUP6Qfom",
+        "name": "Bring Down"
+      },
       "duration_ms": 219600,
-      "artist": [
-        "Midlake"
+      "artists": [
+        {
+          "name": "Midlake",
+          "id": "4YsP5zmteLQ7etNjHAOu30"
+        }
       ],
-      "artistId": [
-        "4YsP5zmteLQ7etNjHAOu30"
-      ],
-      "albumId": "5k89CRLcQnmWk0dzRI5tPV",
+      "album": {
+        "id": "5k89CRLcQnmWk0dzRI5tPV",
+        "name": "The Courage of Others",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b5b203e2866b892f4c57afb"
+      },
       "release_date": "2010-02-01",
       "popularity": 23
     },
     {
-      "trackId": "4QdXm5C9xS6p3DxRrOuss9",
-      "name": "Loud as Hope",
+      "track": {
+        "id": "4QdXm5C9xS6p3DxRrOuss9",
+        "name": "Loud as Hope"
+      },
       "duration_ms": 176906,
-      "artist": [
-        "Iron & Wine"
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "id": "4M5nCE77Qaxayuhp3fVn4V"
+        }
       ],
-      "artistId": [
-        "4M5nCE77Qaxayuhp3fVn4V"
-      ],
-      "albumId": "5tOzXq44rU4yCCVY94f6m7",
+      "album": {
+        "id": "5tOzXq44rU4yCCVY94f6m7",
+        "name": "Around the Well",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1bda10582c382a04e3e6140"
+      },
       "release_date": "2009-05-19",
       "popularity": 24
     },
     {
-      "trackId": "6gVGdTdzRWSMDeFt7silw0",
-      "name": "If I Had a Heart",
+      "track": {
+        "id": "6gVGdTdzRWSMDeFt7silw0",
+        "name": "If I Had a Heart"
+      },
       "duration_ms": 229933,
-      "artist": [
-        "Fever Ray"
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "id": "5hE6NCoobhyEu6TRSbjOJY"
+        }
       ],
-      "artistId": [
-        "5hE6NCoobhyEu6TRSbjOJY"
-      ],
-      "albumId": "4ACzZPgP2JJJ1fg85qNWmT",
+      "album": {
+        "id": "4ACzZPgP2JJJ1fg85qNWmT",
+        "name": "Fever Ray",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d30e619b4c7dad2da5ba3e95"
+      },
       "release_date": "2009-01-12",
       "popularity": 49
     },
     {
-      "trackId": "2Bq7faFS8aMKxKjSEIv2jP",
-      "name": "I Think It's Gonna Rain Today",
+      "track": {
+        "id": "2Bq7faFS8aMKxKjSEIv2jP",
+        "name": "I Think It's Gonna Rain Today"
+      },
       "duration_ms": 258063,
-      "artist": [
-        "Sidsel Endresen",
-        "Bugge Wesseltoft"
+      "artists": [
+        {
+          "name": "Sidsel Endresen",
+          "id": "3nXJ669yt47ssgwwGeFat3"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "id": "4p35pLn1lRgqoVVsnqNZEK"
+        }
       ],
-      "artistId": [
-        "3nXJ669yt47ssgwwGeFat3",
-        "4p35pLn1lRgqoVVsnqNZEK"
-      ],
-      "albumId": "7wAAWehlJ9GQfcXF40quzp",
+      "album": {
+        "id": "7wAAWehlJ9GQfcXF40quzp",
+        "name": "Nightsong",
+        "img": "https://i.scdn.co/image/ab67616d00001e025fbf0b6ed86f70a5396acd6e"
+      },
       "release_date": "1994",
       "popularity": 15
     },
     {
-      "trackId": "4k7a1QizLnSshmGxnRVaKj",
-      "name": "Stupid Little Love Song",
+      "track": {
+        "id": "4k7a1QizLnSshmGxnRVaKj",
+        "name": "Stupid Little Love Song"
+      },
       "duration_ms": 232571,
-      "artist": [
-        "George Whistler"
+      "artists": [
+        {
+          "name": "George Whistler",
+          "id": "5atKdtiLsOGLO6XiSjsvqM"
+        }
       ],
-      "artistId": [
-        "5atKdtiLsOGLO6XiSjsvqM"
-      ],
-      "albumId": "5YIB2ggpo0D04RohEbSCLG",
+      "album": {
+        "id": "5YIB2ggpo0D04RohEbSCLG",
+        "name": "Unknown Situations Pt.II",
+        "img": "https://i.scdn.co/image/ab67616d00001e021620e1d901c913f73660bf63"
+      },
       "release_date": "2019-12-09",
       "popularity": 15
     }

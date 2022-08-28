@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2414757_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "21PO9XYbLfRg68MZpSg9fr",
-      "name": "Escándalo",
+      "track": {
+        "id": "21PO9XYbLfRg68MZpSg9fr",
+        "name": "Escándalo"
+      },
       "duration_ms": 187013,
-      "artist": [
-        "Carmen Linares"
+      "artists": [
+        {
+          "name": "Carmen Linares",
+          "id": "5nJo9d4dYPQ9MiimCUdOhI"
+        }
       ],
-      "artistId": [
-        "5nJo9d4dYPQ9MiimCUdOhI"
-      ],
-      "albumId": "6HkqQvugtJIuUhHhwQ8a2v",
+      "album": {
+        "id": "6HkqQvugtJIuUhHhwQ8a2v",
+        "name": "¿Por Qué Se Frotan Las Patitas?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279dd0979babce095a64e6ddc"
+      },
       "release_date": "2006-11-01",
       "popularity": 27
     },
     {
-      "trackId": "1z3ugFmUKoCzGsI6jdY4Ci",
-      "name": "Like a Prayer",
+      "track": {
+        "id": "1z3ugFmUKoCzGsI6jdY4Ci",
+        "name": "Like a Prayer"
+      },
       "duration_ms": 342680,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "43lok9zd7BW5CoYkXZs7S0",
+      "album": {
+        "id": "43lok9zd7BW5CoYkXZs7S0",
+        "name": "Celebration (double disc version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f9f218b386e6aeb27184307"
+      },
       "release_date": "2009-09-18",
       "popularity": 73
     },
     {
-      "trackId": "0UMutZqIUWgDi8DDMrQTFY",
-      "name": "Only Here for the Fight",
+      "track": {
+        "id": "0UMutZqIUWgDi8DDMrQTFY",
+        "name": "Only Here for the Fight"
+      },
       "duration_ms": 295066,
-      "artist": [
-        "Jenny Wilson"
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "id": "3axEmcxTibioxD1rZi1IOB"
+        }
       ],
-      "artistId": [
-        "3axEmcxTibioxD1rZi1IOB"
-      ],
-      "albumId": "00avgNqb6OhpbQmh2EOdBo",
+      "album": {
+        "id": "00avgNqb6OhpbQmh2EOdBo",
+        "name": "Hardships!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263aad775646c219e0399e49f"
+      },
       "release_date": "2009-02-25",
       "popularity": 12
     },
     {
-      "trackId": "6nzXkCBOhb2mxctNihOqbb",
-      "name": "Bad Girls",
+      "track": {
+        "id": "6nzXkCBOhb2mxctNihOqbb",
+        "name": "Bad Girls"
+      },
       "duration_ms": 227520,
-      "artist": [
-        "M.I.A."
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "id": "0QJIPDAEDILuo8AIq3pMuU"
+        }
       ],
-      "artistId": [
-        "0QJIPDAEDILuo8AIq3pMuU"
-      ],
-      "albumId": "3dAxXNscIj0p53lBMEziYR",
+      "album": {
+        "id": "3dAxXNscIj0p53lBMEziYR",
+        "name": "Matangi",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d6fa293f49903ed38fbe0de"
+      },
       "release_date": "2013-01-01",
       "popularity": 76
     },
     {
-      "trackId": "26q6YTrXt9l8qshIveiTX9",
-      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "track": {
+        "id": "26q6YTrXt9l8qshIveiTX9",
+        "name": "Rebirth Of Slick (Cool Like Dat)"
+      },
       "duration_ms": 261266,
-      "artist": [
-        "Digable Planets"
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "id": "0gqIrDRL7CEPBWMmkuZPdQ"
+        }
       ],
-      "artistId": [
-        "0gqIrDRL7CEPBWMmkuZPdQ"
-      ],
-      "albumId": "5snUbps5KleLIP0cVI72lP",
+      "album": {
+        "id": "5snUbps5KleLIP0cVI72lP",
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9f6a742f2337f938e89f599"
+      },
       "release_date": "1993-01-01",
       "popularity": 58
     },
     {
-      "trackId": "4eMLfxmceIO1xLKaIAe0MC",
-      "name": "Oummi'l Habiba",
+      "track": {
+        "id": "4eMLfxmceIO1xLKaIAe0MC",
+        "name": "Oummi'l Habiba"
+      },
       "duration_ms": 371160,
-      "artist": [
-        "Fairuz"
+      "artists": [
+        {
+          "name": "Fairuz",
+          "id": "0dwFxqYkvZLSA6U6XfQcDV"
+        }
       ],
-      "artistId": [
-        "0dwFxqYkvZLSA6U6XfQcDV"
-      ],
-      "albumId": "7K188g7n7CbJAlD6SK5AEV",
+      "album": {
+        "id": "7K188g7n7CbJAlD6SK5AEV",
+        "name": "Chante Zaki Nassif",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d6dd4ed3418233a6ed0c2c91"
+      },
       "release_date": "1994-01-01",
       "popularity": 17
     },
     {
-      "trackId": "0Glf2lc1gdlbHKor9LbxA4",
-      "name": "Tutti Frutti",
+      "track": {
+        "id": "0Glf2lc1gdlbHKor9LbxA4",
+        "name": "Tutti Frutti"
+      },
       "duration_ms": 232600,
-      "artist": [
-        "Adrian Simionescu",
-        "Orchestre Marin Ioan"
+      "artists": [
+        {
+          "name": "Adrian Simionescu",
+          "id": "6HIhcVgsO5IIoNBaM5wpa7"
+        },
+        {
+          "name": "Orchestre Marin Ioan",
+          "id": "5JlGkUb4M6GfEbKgRVEo1a"
+        }
       ],
-      "artistId": [
-        "6HIhcVgsO5IIoNBaM5wpa7",
-        "5JlGkUb4M6GfEbKgRVEo1a"
-      ],
-      "albumId": "3kl6xtIeqefjS7aixFm7wy",
+      "album": {
+        "id": "3kl6xtIeqefjS7aixFm7wy",
+        "name": "Gadjo Dilo (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02763c9a4537a11219a0f406bb"
+      },
       "release_date": "2006-05-16",
       "popularity": 23
     },
     {
-      "trackId": "2ruPHNgJMjKVbjcsV30KU0",
-      "name": "Silver Stallion",
+      "track": {
+        "id": "2ruPHNgJMjKVbjcsV30KU0",
+        "name": "Silver Stallion"
+      },
       "duration_ms": 173720,
-      "artist": [
-        "Cat Power"
+      "artists": [
+        {
+          "name": "Cat Power",
+          "id": "6G7OerKc3eBO9sVkRNopFC"
+        }
       ],
-      "artistId": [
-        "6G7OerKc3eBO9sVkRNopFC"
-      ],
-      "albumId": "4bg645KAAKGJKBYLSPxD5u",
+      "album": {
+        "id": "4bg645KAAKGJKBYLSPxD5u",
+        "name": "Jukebox",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a465dbc8f9f6cfaf44ee5121"
+      },
       "release_date": "2008-01-21",
       "popularity": 25
     },
     {
-      "trackId": "6DST3HT8zF8WpNmg9tHuaa",
-      "name": "Let England Shake",
+      "track": {
+        "id": "6DST3HT8zF8WpNmg9tHuaa",
+        "name": "Let England Shake"
+      },
       "duration_ms": 189280,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2JfiVMvVhdueC48EmskS7t",
+      "album": {
+        "id": "2JfiVMvVhdueC48EmskS7t",
+        "name": "Let England Shake",
+        "img": "https://i.scdn.co/image/ab67616d00001e020682f13c108d0aa9fb3a7e7a"
+      },
       "release_date": "2011-01-01",
       "popularity": 40
     },
     {
-      "trackId": "3BoBTYdPUHblgZXqAWnFFG",
-      "name": "Misery and Gin - Original Gusto Recordings",
+      "track": {
+        "id": "3BoBTYdPUHblgZXqAWnFFG",
+        "name": "Misery and Gin - Original Gusto Recordings"
+      },
       "duration_ms": 171480,
-      "artist": [
-        "Merle Haggard"
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "id": "2ptmyXoL7poH6Zq62h1QT9"
+        }
       ],
-      "artistId": [
-        "2ptmyXoL7poH6Zq62h1QT9"
-      ],
-      "albumId": "6GBldLBO5gMbjpLCnLiv2B",
+      "album": {
+        "id": "6GBldLBO5gMbjpLCnLiv2B",
+        "name": "Fightin' Side Of Me (Original Gusto Recordings)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a928f9c317e6946a6809d2de"
+      },
       "release_date": "1976",
       "popularity": 41
     },
     {
-      "trackId": "39RFivtAkYw9y8zOWrqC7x",
-      "name": "Pollywanacraka",
+      "track": {
+        "id": "39RFivtAkYw9y8zOWrqC7x",
+        "name": "Pollywanacraka"
+      },
       "duration_ms": 232226,
-      "artist": [
-        "Public Enemy"
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "id": "6Mo9PoU6svvhgEum7wh2Nd"
+        }
       ],
-      "artistId": [
-        "6Mo9PoU6svvhgEum7wh2Nd"
-      ],
-      "albumId": "0aFNb4RDk2hmKKLa0bzXNz",
+      "album": {
+        "id": "0aFNb4RDk2hmKKLa0bzXNz",
+        "name": "Fear Of A Black Planet",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e3d1de8b2f61a477ae1ed6c"
+      },
       "release_date": "1990-04-10",
       "popularity": 23
     },
     {
-      "trackId": "2eJwc24p9att3RNiUWnSsJ",
-      "name": "Sad Sad Song",
+      "track": {
+        "id": "2eJwc24p9att3RNiUWnSsJ",
+        "name": "Sad Sad Song"
+      },
       "duration_ms": 190346,
-      "artist": [
-        "M. Ward"
+      "artists": [
+        {
+          "name": "M. Ward",
+          "id": "6nXSnNEdLuKTzAQozRtqiI"
+        }
       ],
-      "artistId": [
-        "6nXSnNEdLuKTzAQozRtqiI"
-      ],
-      "albumId": "4Xw5NzjoYxnjyHznahee84",
+      "album": {
+        "id": "4Xw5NzjoYxnjyHznahee84",
+        "name": "Transfiguration of Vincent",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afd87f03b95757336f3e54e7"
+      },
       "release_date": "2003-01-01",
       "popularity": 19
     }

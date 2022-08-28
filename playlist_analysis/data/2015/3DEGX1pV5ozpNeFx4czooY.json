@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3527677_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "01noJYGB8kT65mi8Pc2Ola",
-      "name": "I'm A Woman - Remastered",
+      "track": {
+        "id": "01noJYGB8kT65mi8Pc2Ola",
+        "name": "I'm A Woman - Remastered"
+      },
       "duration_ms": 274440,
-      "artist": [
-        "Koko Taylor"
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "id": "04qIJRFjTmvW5I1DMyGE1R"
+        }
       ],
-      "artistId": [
-        "04qIJRFjTmvW5I1DMyGE1R"
-      ],
-      "albumId": "30aecilbP86mA0dVdWcFp0",
+      "album": {
+        "id": "30aecilbP86mA0dVdWcFp0",
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258ec8488fe62becd1d1c47d8"
+      },
       "release_date": "2021-06-18",
       "popularity": 45
     },
     {
-      "trackId": "7d8XI4XryEEn5PSEU0Qucw",
-      "name": "I Put A Spell On You",
+      "track": {
+        "id": "7d8XI4XryEEn5PSEU0Qucw",
+        "name": "I Put A Spell On You"
+      },
       "duration_ms": 222800,
-      "artist": [
-        "Natacha Atlas"
+      "artists": [
+        {
+          "name": "Natacha Atlas",
+          "id": "0aVJmlOwIxTZeHzhFiFL5Y"
+        }
       ],
-      "artistId": [
-        "0aVJmlOwIxTZeHzhFiFL5Y"
-      ],
-      "albumId": "6jh1Z1LrIk15IVIO5zceAH",
+      "album": {
+        "id": "6jh1Z1LrIk15IVIO5zceAH",
+        "name": "Ayeshteni",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ed3692b5cf7e1059236abd7"
+      },
       "release_date": "2001-04-23",
       "popularity": 27
     },
     {
-      "trackId": "0OHqcxHQPTzeu2nkvurIBO",
-      "name": "Handgrenade",
+      "track": {
+        "id": "0OHqcxHQPTzeu2nkvurIBO",
+        "name": "Handgrenade"
+      },
       "duration_ms": 272000,
-      "artist": [
-        "Nina Hagen"
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "id": "7xZHrltZh8zIRvjimgABvj"
+        }
       ],
-      "artistId": [
-        "7xZHrltZh8zIRvjimgABvj"
-      ],
-      "albumId": "6rRB5mgQEqNQi0yjglzXhT",
+      "album": {
+        "id": "6rRB5mgQEqNQi0yjglzXhT",
+        "name": "Return Of The Mother",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfa89726baf3eeb22fb99d93"
+      },
       "release_date": "2000-02-14",
       "popularity": 7
     },
     {
-      "trackId": "4HzTglAWhVCUmRdhpYwDGw",
-      "name": "Joy",
+      "track": {
+        "id": "4HzTglAWhVCUmRdhpYwDGw",
+        "name": "Joy"
+      },
       "duration_ms": 235533,
-      "artist": [
-        "Bettye LaVette"
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "id": "55U998XxmxjicLMKDSz6R3"
+        }
       ],
-      "artistId": [
-        "55U998XxmxjicLMKDSz6R3"
-      ],
-      "albumId": "0JTNbX0ZE6zvhxk02nfLLC",
+      "album": {
+        "id": "0JTNbX0ZE6zvhxk02nfLLC",
+        "name": "I've Got My Own Hell To Raise",
+        "img": "https://i.scdn.co/image/ab67616d00001e02833be36afe77b9c7d2bdc7f9"
+      },
       "release_date": "2005-09-27",
       "popularity": 29
     },
     {
-      "trackId": "0tc0fqsZ7YshTdOyiow2iE",
-      "name": "Oj Varmeland du shejne",
+      "track": {
+        "id": "0tc0fqsZ7YshTdOyiow2iE",
+        "name": "Oj Varmeland du shejne"
+      },
       "duration_ms": 172000,
-      "artist": [
-        "Traditional",
-        "Basia Frydman",
-        "Kjell Westling"
+      "artists": [
+        {
+          "name": "Traditional",
+          "id": "1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Basia Frydman",
+          "id": "0etVNLaLBujohPEYSUjTGk"
+        },
+        {
+          "name": "Kjell Westling",
+          "id": "3obFUx7cPBOtlqJNj9G2la"
+        }
       ],
-      "artistId": [
-        "1U5zgr455OGyIkLNXvDdrf",
-        "0etVNLaLBujohPEYSUjTGk",
-        "3obFUx7cPBOtlqJNj9G2la"
-      ],
-      "albumId": "1bIyLOR736cB3XmYRqyDqC",
+      "album": {
+        "id": "1bIyLOR736cB3XmYRqyDqC",
+        "name": "A Fremde In Der Nacht",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b29efe977ee5fba2eebf325"
+      },
       "release_date": "2000-01-01",
       "popularity": 0
     },
     {
-      "trackId": "41F7lEdNBoahtejzKNzT7p",
-      "name": "Anti Love Song",
+      "track": {
+        "id": "41F7lEdNBoahtejzKNzT7p",
+        "name": "Anti Love Song"
+      },
       "duration_ms": 272426,
-      "artist": [
-        "Betty Davis"
+      "artists": [
+        {
+          "name": "Betty Davis",
+          "id": "5Ryxgm3uLvQOsw4H5ZpHDn"
+        }
       ],
-      "artistId": [
-        "5Ryxgm3uLvQOsw4H5ZpHDn"
-      ],
-      "albumId": "2xCCWtXwKneTJ5ycqDtZ0d",
+      "album": {
+        "id": "2xCCWtXwKneTJ5ycqDtZ0d",
+        "name": "Betty Davis",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bd3c62b94167d283c6f5556d"
+      },
       "release_date": "2015-12-18",
       "popularity": 24
     },
     {
-      "trackId": "15H9DPk3RWlr7ymUmqPOui",
-      "name": "La Bruja - Son Jarocho Tradicional",
+      "track": {
+        "id": "15H9DPk3RWlr7ymUmqPOui",
+        "name": "La Bruja - Son Jarocho Tradicional"
+      },
       "duration_ms": 117333,
-      "artist": [
-        "Salma Hayek",
-        "Los Vega"
+      "artists": [
+        {
+          "name": "Salma Hayek",
+          "id": "2mKLeAa4vJqwWe73teVs4h"
+        },
+        {
+          "name": "Los Vega",
+          "id": "2rtoQWzN7JEpiVUmLvyNVe"
+        }
       ],
-      "artistId": [
-        "2mKLeAa4vJqwWe73teVs4h",
-        "2rtoQWzN7JEpiVUmLvyNVe"
-      ],
-      "albumId": "1VU7NezUvswRnFjNM0M5li",
+      "album": {
+        "id": "1VU7NezUvswRnFjNM0M5li",
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a343a71217a92d6db7147173"
+      },
       "release_date": "2002-01-01",
       "popularity": 43
     },
     {
-      "trackId": "1bzpLKCC6vO617GiFs5LtI",
-      "name": "Om dagen vid mitt arbete",
+      "track": {
+        "id": "1bzpLKCC6vO617GiFs5LtI",
+        "name": "Om dagen vid mitt arbete"
+      },
       "duration_ms": 273360,
-      "artist": [
-        "Louise Hoffsten"
+      "artists": [
+        {
+          "name": "Louise Hoffsten",
+          "id": "5GG0pdHtmalM60Fzer1Yei"
+        }
       ],
-      "artistId": [
-        "5GG0pdHtmalM60Fzer1Yei"
-      ],
-      "albumId": "3WqD8ppjKCJo2UySSTTLrm",
+      "album": {
+        "id": "3WqD8ppjKCJo2UySSTTLrm",
+        "name": "Kära du",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db4fbc413ba0db2be4f19649"
+      },
       "release_date": "1996-09-30",
       "popularity": 2
     },
     {
-      "trackId": "1ENacfBRtodZmmChUN8Yi1",
-      "name": "Please, Don't Be Sad",
+      "track": {
+        "id": "1ENacfBRtodZmmChUN8Yi1",
+        "name": "Please, Don't Be Sad"
+      },
       "duration_ms": 227276,
-      "artist": [
-        "Youn Sun Nah"
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "id": "10tYA1kHmiT7kCfF6HX0Wj"
+        }
       ],
-      "artistId": [
-        "10tYA1kHmiT7kCfF6HX0Wj"
-      ],
-      "albumId": "4J12DNGFaxKJvuacO3LjZY",
+      "album": {
+        "id": "4J12DNGFaxKJvuacO3LjZY",
+        "name": "Voyage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1eea96b8fb0e328d12889a3"
+      },
       "release_date": "2009-04-24",
       "popularity": 15
     },
     {
-      "trackId": "3kcj2MJXSJBAlSdi99Td7p",
-      "name": "Katie Cruel",
+      "track": {
+        "id": "3kcj2MJXSJBAlSdi99Td7p",
+        "name": "Katie Cruel"
+      },
       "duration_ms": 142413,
-      "artist": [
-        "Karen Dalton"
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "id": "5O5V29YvM6AzAQ0rNt59fy"
+        }
       ],
-      "artistId": [
-        "5O5V29YvM6AzAQ0rNt59fy"
-      ],
-      "albumId": "0FckCr8rMZnr8stCT7a77y",
+      "album": {
+        "id": "0FckCr8rMZnr8stCT7a77y",
+        "name": "In My Own Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8cdc3bde49f5c949e4cc637"
+      },
       "release_date": "2006-11-24",
       "popularity": 18
     },
     {
-      "trackId": "4qBdU64PKx8DFzW465C6n6",
-      "name": "Beautiful",
+      "track": {
+        "id": "4qBdU64PKx8DFzW465C6n6",
+        "name": "Beautiful"
+      },
       "duration_ms": 228209,
-      "artist": [
-        "Lera Lynn"
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "id": "2iul6etLF5hjjpxo43rzz7"
+        }
       ],
-      "artistId": [
-        "2iul6etLF5hjjpxo43rzz7"
-      ],
-      "albumId": "4EjcWrBKjjWwQWtzmSItk4",
+      "album": {
+        "id": "4EjcWrBKjjWwQWtzmSItk4",
+        "name": "Unsung Heroes: Songs of Eleni Mandell",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243e04783c89ddd29393f3b98"
+      },
       "release_date": "2007",
       "popularity": 1
     },
     {
-      "trackId": "38zrpSjlDXUv33vcF1MUPf",
-      "name": "På gatan där jag bor",
+      "track": {
+        "id": "38zrpSjlDXUv33vcF1MUPf",
+        "name": "På gatan där jag bor"
+      },
       "duration_ms": 172026,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "38FYkaPius8Wt9iV1eeojZ",
+      "album": {
+        "id": "38FYkaPius8Wt9iV1eeojZ",
+        "name": "Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d33a2b24c121b88b5296c5e"
+      },
       "release_date": "2011-12-25",
       "popularity": 31
     }

@@ -140,7 +140,7 @@ app.get("/callback", function (req, res) {
 const fetchSpotifyPlayListItems = async (playListId, access_token) => {
   return await fetch(
     `https://api.spotify.com/v1/playlists/${playListId}/tracks?fields=${encodeURIComponent(
-      "items(track(id,name,popularity,duration_ms,artists(name,id),album(release_date,id)))"
+      "items(track(id,name,popularity,duration_ms,artists(name,id),album(release_date,id,name,images)))"
     )}&market=SE`,
     {
       headers: {
@@ -158,12 +158,17 @@ const fetchSpotifyPlayListItems = async (playListId, access_token) => {
         return res.items.map((item) => {
           const artists = item.track.artists.slice(0, 3);
           return {
-            trackId: item.track.id,
-            name: item.track.name,
+            track: { id: item.track.id, name: item.track.name },
             duration_ms: item.track.duration_ms,
-            artist: artists.map((a) => a.name),
-            artistId: artists.map((a) => a.id),
-            albumId: item.track.album.id,
+            artists: artists.map((a) => ({ name: a.name, id: a.id })),
+            album: {
+              id: item.track.album.id,
+              name: item.track.album.name,
+              img:
+                item.track.album.images?.find((i) => i.height === 300)?.url ??
+                item.track.album.images.at(-1)?.url ??
+                undefined,
+            },
             release_date: item.track.album.release_date,
             popularity: item.track.popularity,
           };

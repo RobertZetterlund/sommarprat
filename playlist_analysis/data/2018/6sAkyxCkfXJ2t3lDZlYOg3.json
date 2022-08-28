@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/e13bb45c-4b2f-4786-a750-302b88686b1a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0E8q2Fx2XuzXCO2NSAppkR",
-      "name": "In A Sentimental Mood",
+      "track": {
+        "id": "0E8q2Fx2XuzXCO2NSAppkR",
+        "name": "In A Sentimental Mood"
+      },
       "duration_ms": 255226,
-      "artist": [
-        "Duke Ellington",
-        "John Coltrane"
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "id": "4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        }
       ],
-      "artistId": [
-        "4F7Q5NV6h5TSwCainz8S5A",
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "albumId": "1OvmilWKtrabJGEpPRlgK5",
+      "album": {
+        "id": "1OvmilWKtrabJGEpPRlgK5",
+        "name": "Duke Ellington & John Coltrane",
+        "img": "https://i.scdn.co/image/ab67616d00001e022def9ef3f6a82c8d6fd8c143"
+      },
       "release_date": "1963-02",
       "popularity": 63
     },
     {
-      "trackId": "6dfhF1BDGmhM69fnCb6wSC",
-      "name": "America",
+      "track": {
+        "id": "6dfhF1BDGmhM69fnCb6wSC",
+        "name": "America"
+      },
       "duration_ms": 215293,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "3bzgbgiytguTDnwzflAZr2",
+      "album": {
+        "id": "3bzgbgiytguTDnwzflAZr2",
+        "name": "Bookends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8fb5b4308dc27f210064ef4"
+      },
       "release_date": "1968-04-03",
       "popularity": 63
     },
     {
-      "trackId": "4UDmDIqJIbrW0hMBQMFOsM",
-      "name": "Stayin' Alive",
+      "track": {
+        "id": "4UDmDIqJIbrW0hMBQMFOsM",
+        "name": "Stayin' Alive"
+      },
       "duration_ms": 92866,
-      "artist": [
-        "Bee Gees"
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "id": "1LZEQNv7sE11VDY3SdxQeN"
+        }
       ],
-      "artistId": [
-        "1LZEQNv7sE11VDY3SdxQeN"
-      ],
-      "albumId": "6iqFb4EhmlHHjJGFcRgJmQ",
+      "album": {
+        "id": "6iqFb4EhmlHHjJGFcRgJmQ",
+        "name": "Staying Alive (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255fb38fda5321a8923911ff9"
+      },
       "release_date": "1977-12-13",
       "popularity": 70
     },
     {
-      "trackId": "5ubvP9oKmxLUVq506fgLhk",
-      "name": "Stayin Alive",
+      "track": {
+        "id": "5ubvP9oKmxLUVq506fgLhk",
+        "name": "Stayin Alive"
+      },
       "duration_ms": 285373,
-      "artist": [
-        "Bee Gees"
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "id": "1LZEQNv7sE11VDY3SdxQeN"
+        }
       ],
-      "artistId": [
-        "1LZEQNv7sE11VDY3SdxQeN"
-      ],
-      "albumId": "4vAhQeeWkSjVn0p5GAaLBx",
+      "album": {
+        "id": "4vAhQeeWkSjVn0p5GAaLBx",
+        "name": "How Can You Mend A Broken Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1f748bf1c1e69b3e36a21ea"
+      },
       "release_date": "2020-12-11",
       "popularity": 80
     },
     {
-      "trackId": "3jaXc4ahmlLwl6mFJuuoP4",
-      "name": "800 Grader (Αs performed by Ebba Gron)",
+      "track": {
+        "id": "3jaXc4ahmlLwl6mFJuuoP4",
+        "name": "800 Grader (Αs performed by Ebba Gron)"
+      },
       "duration_ms": 186640,
-      "artist": [
-        "Pop Music Workshop"
+      "artists": [
+        {
+          "name": "Pop Music Workshop",
+          "id": "5D13RHlJ2Le5Iytcl2xzE9"
+        }
       ],
-      "artistId": [
-        "5D13RHlJ2Le5Iytcl2xzE9"
-      ],
-      "albumId": "0KM0dCUltHTl6jJ9OQbad0",
+      "album": {
+        "id": "0KM0dCUltHTl6jJ9OQbad0",
+        "name": "Pro Backing Tracks E, Vol.2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef4a7a715d1167ecffac35f5"
+      },
       "release_date": "2019-05-01",
       "popularity": 0
     },
     {
-      "trackId": "7ynwkFhXbrQqnMIWqFfRUS",
-      "name": "Wild Is the Wind - 2016 Remaster",
+      "track": {
+        "id": "7ynwkFhXbrQqnMIWqFfRUS",
+        "name": "Wild Is the Wind - 2016 Remaster"
+      },
       "duration_ms": 366360,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "0MWrKayUshRuT8maG4ZAOU",
+      "album": {
+        "id": "0MWrKayUshRuT8maG4ZAOU",
+        "name": "Station to Station (2016 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f3cdfeac0678371b16f601d"
+      },
       "release_date": "1976-01-23",
       "popularity": 52
     },
     {
-      "trackId": "1z6WtY7X4HQJvzxC4UgkSf",
-      "name": "Love On Top",
+      "track": {
+        "id": "1z6WtY7X4HQJvzxC4UgkSf",
+        "name": "Love On Top"
+      },
       "duration_ms": 267413,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "name": "4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd"
+      },
       "release_date": "2011-06-24",
       "popularity": 74
     },
     {
-      "trackId": "3ou9rSNUQnE7XYmJkUUIOc",
-      "name": "Green Eyes",
+      "track": {
+        "id": "3ou9rSNUQnE7XYmJkUUIOc",
+        "name": "Green Eyes"
+      },
       "duration_ms": 223040,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "0RHX9XECH8IVI3LNgWDpmQ",
+      "album": {
+        "id": "0RHX9XECH8IVI3LNgWDpmQ",
+        "name": "A Rush of Blood to the Head",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82"
+      },
       "release_date": "2002-08-08",
       "popularity": 64
     },
     {
-      "trackId": "7KX65PC1UZuImsUInThbav",
-      "name": "Cold Little Heart - Radio Edit",
+      "track": {
+        "id": "7KX65PC1UZuImsUInThbav",
+        "name": "Cold Little Heart - Radio Edit"
+      },
       "duration_ms": 210299,
-      "artist": [
-        "Michael Kiwanuka"
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "id": "0bzfPKdbXL5ezYW2z3UGQj"
+        }
       ],
-      "artistId": [
-        "0bzfPKdbXL5ezYW2z3UGQj"
-      ],
-      "albumId": "55A6d8TOuiAs6zDiKj2c3A",
+      "album": {
+        "id": "55A6d8TOuiAs6zDiKj2c3A",
+        "name": "Cold Little Heart (Radio Edit)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d38e121683bc208a4530fb22"
+      },
       "release_date": "2017-02-24",
       "popularity": 69
     },
     {
-      "trackId": "5Yx5PhdnwhNzLMBl34TZw4",
-      "name": "Both Sides Now",
+      "track": {
+        "id": "5Yx5PhdnwhNzLMBl34TZw4",
+        "name": "Both Sides Now"
+      },
       "duration_ms": 273573,
-      "artist": [
-        "Joni Mitchell"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve"
-      ],
-      "albumId": "02piRJBAWgCu2Et3rOkK4w",
+      "album": {
+        "id": "02piRJBAWgCu2Et3rOkK4w",
+        "name": "Easy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f94f1f43a1bbce6bfd98d303"
+      },
       "release_date": "2019-02-15",
       "popularity": 58
     },
     {
-      "trackId": "7nQW27BBL39SRBLygSZuSY",
-      "name": "Orden i vinden",
+      "track": {
+        "id": "7nQW27BBL39SRBLygSZuSY",
+        "name": "Orden i vinden"
+      },
       "duration_ms": 252115,
-      "artist": [
-        "Sabina Ddumba"
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "id": "2Mp409M6EpFr3kGdQ1mwjS"
+        }
       ],
-      "artistId": [
-        "2Mp409M6EpFr3kGdQ1mwjS"
-      ],
-      "albumId": "2jhuNL8Y8J65VfQS77WDL6",
+      "album": {
+        "id": "2jhuNL8Y8J65VfQS77WDL6",
+        "name": "Så Mycket Bättre 2017: Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5b5a6e00b6adaba52e83276"
+      },
       "release_date": "2017-12-11",
       "popularity": 17
     },
     {
-      "trackId": "63Q2whR0MNIKhjBB95yXsG",
-      "name": "I Can Buy You",
+      "track": {
+        "id": "63Q2whR0MNIKhjBB95yXsG",
+        "name": "I Can Buy You"
+      },
       "duration_ms": 229653,
-      "artist": [
-        "A Camp"
+      "artists": [
+        {
+          "name": "A Camp",
+          "id": "1OVhxcft9d7zP1RUrvf3t6"
+        }
       ],
-      "artistId": [
-        "1OVhxcft9d7zP1RUrvf3t6"
-      ],
-      "albumId": "1L1egAGPf92JUlkSRO7ptu",
+      "album": {
+        "id": "1L1egAGPf92JUlkSRO7ptu",
+        "name": "A Camp",
+        "img": "https://i.scdn.co/image/ab67616d00001e02faab975a907cf3bec32b797b"
+      },
       "release_date": "2001-09-03",
       "popularity": 32
     },
     {
-      "trackId": "5e9TFTbltYBg2xThimr0rU",
-      "name": "The Chain - 2004 Remaster",
+      "track": {
+        "id": "5e9TFTbltYBg2xThimr0rU",
+        "name": "The Chain - 2004 Remaster"
+      },
       "duration_ms": 270213,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "0BwWUstDMUbgq2NYONRqlu",
+      "album": {
+        "id": "0BwWUstDMUbgq2NYONRqlu",
+        "name": "Rumours (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b"
+      },
       "release_date": "1977-02-04",
       "popularity": 80
     },
     {
-      "trackId": "2RTfKlmOnzEZGTvZAIhm9W",
-      "name": "The Good Life (La Belle Vie)",
+      "track": {
+        "id": "2RTfKlmOnzEZGTvZAIhm9W",
+        "name": "The Good Life (La Belle Vie)"
+      },
       "duration_ms": 239093,
-      "artist": [
-        "Marie Fredriksson"
+      "artists": [
+        {
+          "name": "Marie Fredriksson",
+          "id": "4YkPXMsmFf3K2XFHPddqFU"
+        }
       ],
-      "artistId": [
-        "4YkPXMsmFf3K2XFHPddqFU"
-      ],
-      "albumId": "0PB5tsjIWqApvp0s6Z2l42",
+      "album": {
+        "id": "0PB5tsjIWqApvp0s6Z2l42",
+        "name": "The Change",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab1e75c8a86f79218fc7c90e"
+      },
       "release_date": "2004-10-10",
       "popularity": 5
     }

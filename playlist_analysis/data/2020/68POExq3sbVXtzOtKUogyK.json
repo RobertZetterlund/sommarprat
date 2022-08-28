@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/e1a8e34b-4d13-4157-abb6-5a264f5ab20a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7zmVAVcT1oho7iWJGpApkE",
-      "name": "Summer Wine",
+      "track": {
+        "id": "7zmVAVcT1oho7iWJGpApkE",
+        "name": "Summer Wine"
+      },
       "duration_ms": 256279,
-      "artist": [
-        "Nancy Sinatra",
-        "Lee Hazlewood"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "id": "2aVHDjRHRM7dcFkGwahXLG"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2",
-        "2aVHDjRHRM7dcFkGwahXLG"
-      ],
-      "albumId": "7I7z6Lfwyc1nghsFImEhYq",
+      "album": {
+        "id": "7I7z6Lfwyc1nghsFImEhYq",
+        "name": "Nancy & Lee",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a3c0fda11b85a7b00bc2c70"
+      },
       "release_date": "1968-01-01",
       "popularity": 61
     },
     {
-      "trackId": "0tNuJpBgtE65diL6Q8Q7fI",
-      "name": "On & On",
+      "track": {
+        "id": "0tNuJpBgtE65diL6Q8Q7fI",
+        "name": "On & On"
+      },
       "duration_ms": 226133,
-      "artist": [
-        "Erykah Badu"
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "id": "7IfculRW2WXyzNQ8djX8WX"
+        }
       ],
-      "artistId": [
-        "7IfculRW2WXyzNQ8djX8WX"
-      ],
-      "albumId": "3qr4pTBWEU1SVf01j6RAx3",
+      "album": {
+        "id": "3qr4pTBWEU1SVf01j6RAx3",
+        "name": "Baduizm",
+        "img": "https://i.scdn.co/image/ab67616d00001e029968770f3f0e45aa99b2ac29"
+      },
       "release_date": "1997-01-01",
       "popularity": 66
     },
     {
-      "trackId": "3ZCTVFBt2Brf31RLEnCkWJ",
-      "name": "everything i wanted",
+      "track": {
+        "id": "3ZCTVFBt2Brf31RLEnCkWJ",
+        "name": "everything i wanted"
+      },
       "duration_ms": 245425,
-      "artist": [
-        "Billie Eilish"
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH"
+        }
       ],
-      "artistId": [
-        "6qqNVTkY8uBg9cP3Jd7DAH"
-      ],
-      "albumId": "4i3rAwPw7Ln2YrKDusaWyT",
+      "album": {
+        "id": "4i3rAwPw7Ln2YrKDusaWyT",
+        "name": "everything i wanted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f2248cf6dad1d6c062587249"
+      },
       "release_date": "2019-11-13",
       "popularity": 84
     },
     {
-      "trackId": "5atFAXIgMXP378op4FaxBm",
-      "name": "I'm Your Man",
+      "track": {
+        "id": "5atFAXIgMXP378op4FaxBm",
+        "name": "I'm Your Man"
+      },
       "duration_ms": 265186,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3gUw30X6A7WEGcRdv1nFr9",
+      "album": {
+        "id": "3gUw30X6A7WEGcRdv1nFr9",
+        "name": "I'm Your Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225b12e3030dcf540319f687e"
+      },
       "release_date": "1988-02-02",
       "popularity": 55
     },
     {
-      "trackId": "0dkvbYmXYEPK7gGMdytmfI",
-      "name": "sex money feelings die - slowed version",
+      "track": {
+        "id": "0dkvbYmXYEPK7gGMdytmfI",
+        "name": "sex money feelings die - slowed version"
+      },
       "duration_ms": 168810,
-      "artist": [
-        "Lykke Li"
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "id": "6oBm8HB0yfrIc9IHbxs6in"
+        }
       ],
-      "artistId": [
-        "6oBm8HB0yfrIc9IHbxs6in"
-      ],
-      "albumId": "7bL1fTsGeOyxv29BNVtMb1",
+      "album": {
+        "id": "7bL1fTsGeOyxv29BNVtMb1",
+        "name": "sex money feelings die (slowed version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e520169fed8748fcb8317ad"
+      },
       "release_date": "2019-10-18",
       "popularity": 74
     },
     {
-      "trackId": "1TfqLAPs4K3s2rJMoCokcS",
-      "name": "Sweet Dreams (Are Made of This) - Remastered",
+      "track": {
+        "id": "1TfqLAPs4K3s2rJMoCokcS",
+        "name": "Sweet Dreams (Are Made of This) - Remastered"
+      },
       "duration_ms": 216933,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "5jNDWA19BJbE24x1UUJGRY",
+      "album": {
+        "id": "5jNDWA19BJbE24x1UUJGRY",
+        "name": "Sweet Dreams (Are Made Of This)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3994c94dfb241923664bb4d"
+      },
       "release_date": "1983-01-04",
       "popularity": 81
     },
     {
-      "trackId": "2zkJp4LxwKmgmWr8av3KkI",
-      "name": "Zu Asche, Zu Staub (Psycho Nikoros) [Radio Edit] [Music from the Original TV Series]",
+      "track": {
+        "id": "2zkJp4LxwKmgmWr8av3KkI",
+        "name": "Zu Asche, Zu Staub (Psycho Nikoros) [Radio Edit] [Music from the Original TV Series]"
+      },
       "duration_ms": 224973,
-      "artist": [
-        "Severija"
+      "artists": [
+        {
+          "name": "Severija",
+          "id": "3nDH6EjuwvBVAV3svkiKT9"
+        }
       ],
-      "artistId": [
-        "3nDH6EjuwvBVAV3svkiKT9"
-      ],
-      "albumId": "0m8hYFhPf19c99jfJbXkw4",
+      "album": {
+        "id": "0m8hYFhPf19c99jfJbXkw4",
+        "name": "Zu Asche, Zu Staub (Psycho Nikoros) [Radio Edit] [Music from the Original TV Series]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd8e16d5332e4cdc778be88f"
+      },
       "release_date": "2017-11-03",
       "popularity": 28
     },
     {
-      "trackId": "121so7t3AeX6nLMvxy9ZP9",
-      "name": "Hide and Seek",
+      "track": {
+        "id": "121so7t3AeX6nLMvxy9ZP9",
+        "name": "Hide and Seek"
+      },
       "duration_ms": 268866,
-      "artist": [
-        "Imogen Heap"
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "id": "6Xb4ezwoAQC4516kI89nWz"
+        }
       ],
-      "artistId": [
-        "6Xb4ezwoAQC4516kI89nWz"
-      ],
-      "albumId": "5bxeKufn9YmJ3WNBQpBXlx",
+      "album": {
+        "id": "5bxeKufn9YmJ3WNBQpBXlx",
+        "name": "Speak For Yourself",
+        "img": "https://i.scdn.co/image/ab67616d00001e02354d106dcafb7e165189477e"
+      },
       "release_date": "2006-04-08",
       "popularity": 47
     },
     {
-      "trackId": "5mld5kbGFor8dhkQEYtp4E",
-      "name": "Soptippsvärld",
+      "track": {
+        "id": "5mld5kbGFor8dhkQEYtp4E",
+        "name": "Soptippsvärld"
+      },
       "duration_ms": 227190,
-      "artist": [
-        "Titiyo"
+      "artists": [
+        {
+          "name": "Titiyo",
+          "id": "2s5enJCtVBAAdWD94jOIbM"
+        }
       ],
-      "artistId": [
-        "2s5enJCtVBAAdWD94jOIbM"
-      ],
-      "albumId": "26GXkdH5ETbbvZ9HwqKpcx",
+      "album": {
+        "id": "26GXkdH5ETbbvZ9HwqKpcx",
+        "name": "Soptippsvärld",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b92c775cb183199514c88fde"
+      },
       "release_date": "2019-11-09",
       "popularity": 31
     },
     {
-      "trackId": "2dLLR6qlu5UJ5gk0dKz0h3",
-      "name": "Royals",
+      "track": {
+        "id": "2dLLR6qlu5UJ5gk0dKz0h3",
+        "name": "Royals"
+      },
       "duration_ms": 190185,
-      "artist": [
-        "Lorde"
+      "artists": [
+        {
+          "name": "Lorde",
+          "id": "163tK9Wjr9P9DmM0AVK7lm"
+        }
       ],
-      "artistId": [
-        "163tK9Wjr9P9DmM0AVK7lm"
-      ],
-      "albumId": "0rmhjUgoVa17LZuS8xWQ3v",
+      "album": {
+        "id": "0rmhjUgoVa17LZuS8xWQ3v",
+        "name": "Pure Heroine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98"
+      },
       "release_date": "2013-09-27",
       "popularity": 78
     },
     {
-      "trackId": "2Foc5Q5nqNiosCNqttzHof",
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "track": {
+        "id": "2Foc5Q5nqNiosCNqttzHof",
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit"
+      },
       "duration_ms": 248413,
-      "artist": [
-        "Daft Punk",
-        "Pharrell Williams",
-        "Nile Rodgers"
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "id": "3yDIp0kaq9EFKe07X1X2rz"
+        }
       ],
-      "artistId": [
-        "4tZwfgrHOc3mvqYlEYSvVi",
-        "2RdwBSPQiwcmiDo9kixcl8",
-        "3yDIp0kaq9EFKe07X1X2rz"
-      ],
-      "albumId": "2ePFIvZKMe8zefATp9ofFA",
+      "album": {
+        "id": "2ePFIvZKMe8zefATp9ofFA",
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d5cf960a92bb8b03fc2be7f"
+      },
       "release_date": "2013-04-19",
       "popularity": 82
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

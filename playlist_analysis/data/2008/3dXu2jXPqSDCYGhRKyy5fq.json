@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252957_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0GmLrYUBXDC5vti77zBZfJ",
-      "name": "(The Angels Wanna Wear My) Red Shoes",
+      "track": {
+        "id": "0GmLrYUBXDC5vti77zBZfJ",
+        "name": "(The Angels Wanna Wear My) Red Shoes"
+      },
       "duration_ms": 167680,
-      "artist": [
-        "Elvis Costello"
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "id": "2BGRfQgtzikz1pzAD0kaEn"
+        }
       ],
-      "artistId": [
-        "2BGRfQgtzikz1pzAD0kaEn"
-      ],
-      "albumId": "1aucGNKimhgARC7iO2xLt2",
+      "album": {
+        "id": "1aucGNKimhgARC7iO2xLt2",
+        "name": "My Aim Is True",
+        "img": "https://i.scdn.co/image/ab67616d00001e02008a93d976cfd5a76ba06b9b"
+      },
       "release_date": "1977-07-22",
       "popularity": 38
     },
     {
-      "trackId": "4cAlWy0jWMtn5AdtZy4dHi",
-      "name": "Before They Make Me Run - Remastered",
+      "track": {
+        "id": "4cAlWy0jWMtn5AdtZy4dHi",
+        "name": "Before They Make Me Run - Remastered"
+      },
       "duration_ms": 204960,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "1Jv2AqzhgsduUik2p4k3cS",
+      "album": {
+        "id": "1Jv2AqzhgsduUik2p4k3cS",
+        "name": "Some Girls",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205c7aec05eabf142cc33b936"
+      },
       "release_date": "1978-06-09",
       "popularity": 41
     },
     {
-      "trackId": "7EUEl5wJb8VI777UAUvRnH",
-      "name": "Brain Damage - 2011 Remastered Version",
+      "track": {
+        "id": "7EUEl5wJb8VI777UAUvRnH",
+        "name": "Brain Damage - 2011 Remastered Version"
+      },
       "duration_ms": 225826,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "2WT1pbYjLJciAR26yMebkH",
+      "album": {
+        "id": "2WT1pbYjLJciAR26yMebkH",
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3709135d1005baa36939d80"
+      },
       "release_date": "1973-03-01",
       "popularity": 58
     },
     {
-      "trackId": "7zrHnJ87htwgS20PzFmgTr",
-      "name": "Radio Nowhere",
+      "track": {
+        "id": "7zrHnJ87htwgS20PzFmgTr",
+        "name": "Radio Nowhere"
+      },
       "duration_ms": 199066,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "7A830iYFt7vb0n0aMLyj5Z",
+      "album": {
+        "id": "7A830iYFt7vb0n0aMLyj5Z",
+        "name": "Magic",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49"
+      },
       "release_date": "2007-09-25",
       "popularity": 55
     },
     {
-      "trackId": "25H0Wd1ugPRXGM2LlpjVXM",
-      "name": "Summertime",
+      "track": {
+        "id": "25H0Wd1ugPRXGM2LlpjVXM",
+        "name": "Summertime"
+      },
       "duration_ms": 197426,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "5TZUz4IkdUZY8i1cnbaAHz",
+      "album": {
+        "id": "5TZUz4IkdUZY8i1cnbaAHz",
+        "name": "Porgy And Bess",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d7683097cc1f201aa935d39"
+      },
       "release_date": "1959",
       "popularity": 40
     },
     {
-      "trackId": "5vS2ky90PSmhqbppsCy0Sw",
-      "name": "No Spitting On the Bus - Live",
+      "track": {
+        "id": "5vS2ky90PSmhqbppsCy0Sw",
+        "name": "No Spitting On the Bus - Live"
+      },
       "duration_ms": 288760,
-      "artist": [
-        "Steve Gibbons Band"
+      "artists": [
+        {
+          "name": "Steve Gibbons Band",
+          "id": "6RkiX4TZoTYPFLJiG0QTIZ"
+        }
       ],
-      "artistId": [
-        "6RkiX4TZoTYPFLJiG0QTIZ"
-      ],
-      "albumId": "0HF5atedT1pfPY2jimug6Q",
+      "album": {
+        "id": "0HF5atedT1pfPY2jimug6Q",
+        "name": "Live At Rockpalast (Live at Metropol, Berlin 03.11.1981)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228303993ab3edba97051ab88"
+      },
       "release_date": "2011-03-25",
       "popularity": 25
     },
     {
-      "trackId": "3jS7bB0oXVOwGFZn3aE5NV",
-      "name": "You Oughta Know - 2015 Remaster",
+      "track": {
+        "id": "3jS7bB0oXVOwGFZn3aE5NV",
+        "name": "You Oughta Know - 2015 Remaster"
+      },
       "duration_ms": 249493,
-      "artist": [
-        "Alanis Morissette"
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "id": "6ogn9necmbUdCppmNnGOdi"
+        }
       ],
-      "artistId": [
-        "6ogn9necmbUdCppmNnGOdi"
-      ],
-      "albumId": "5Ap3F8CxjjsQKZGASDcHNA",
+      "album": {
+        "id": "5Ap3F8CxjjsQKZGASDcHNA",
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef"
+      },
       "release_date": "1995",
       "popularity": 68
     },
     {
-      "trackId": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "Heroes - 2017 Remaster",
+      "track": {
+        "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+        "name": "Heroes - 2017 Remaster"
+      },
       "duration_ms": 371413,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "4I5zzKYd2SKDgZ9DRf5LVk",
+      "album": {
+        "id": "4I5zzKYd2SKDgZ9DRf5LVk",
+        "name": "\"Heroes\" (2017 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985"
+      },
       "release_date": "1977",
       "popularity": 76
     },
     {
-      "trackId": "21wC5i3a5qEEPpXn3hXt8V",
-      "name": "Been It",
+      "track": {
+        "id": "21wC5i3a5qEEPpXn3hXt8V",
+        "name": "Been It"
+      },
       "duration_ms": 244964,
-      "artist": [
-        "The Cardigans"
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "id": "1tqZaCwM57UFKjWoYwMLrw"
+        }
       ],
-      "artistId": [
-        "1tqZaCwM57UFKjWoYwMLrw"
-      ],
-      "albumId": "56vFkneGivqQcoNQq362iZ",
+      "album": {
+        "id": "56vFkneGivqQcoNQq362iZ",
+        "name": "First Band On The Moon (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020aac8ca880151fda470e91af"
+      },
       "release_date": "1996-01-01",
       "popularity": 37
     },
     {
-      "trackId": "3RT4RYbwP0PagmsOnz0RiQ",
-      "name": "Columbus",
+      "track": {
+        "id": "3RT4RYbwP0PagmsOnz0RiQ",
+        "name": "Columbus"
+      },
       "duration_ms": 266693,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "1edEYBq0FFwnn0ZEEaH4DM",
+      "album": {
+        "id": "1edEYBq0FFwnn0ZEEaH4DM",
+        "name": "Tillbaka Till Samtiden",
+        "img": "https://i.scdn.co/image/ab67616d00001e024604ba67380d0397c42719f8"
+      },
       "release_date": "2007-10-17",
       "popularity": 39
     },
     {
-      "trackId": "6Nd6pyYPybRKDOjpg4c7fu",
-      "name": "So It Goes",
+      "track": {
+        "id": "6Nd6pyYPybRKDOjpg4c7fu",
+        "name": "So It Goes"
+      },
       "duration_ms": 154013,
-      "artist": [
-        "Nick Lowe"
+      "artists": [
+        {
+          "name": "Nick Lowe",
+          "id": "3BqaUtuQmqIHg7B5Bc7fP7"
+        }
       ],
-      "artistId": [
-        "3BqaUtuQmqIHg7B5Bc7fP7"
-      ],
-      "albumId": "72HOQgqHp31n34U5HzBqmS",
+      "album": {
+        "id": "72HOQgqHp31n34U5HzBqmS",
+        "name": "Jesus of Cool (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9d53ebc6b07ab72d1af7bf0"
+      },
       "release_date": "2008",
       "popularity": 32
     },
     {
-      "trackId": "15EZ0MVbTowb8ZvzgB02eO",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "15EZ0MVbTowb8ZvzgB02eO",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 174093,
-      "artist": [
-        "Nationalteatern"
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "id": "3GBq0lnwXpfnLmMndLDZ6U"
+        }
       ],
-      "artistId": [
-        "3GBq0lnwXpfnLmMndLDZ6U"
-      ],
-      "albumId": "0mwdXf3cr5jJnDaXTfcOIK",
+      "album": {
+        "id": "0mwdXf3cr5jJnDaXTfcOIK",
+        "name": "Barn av vår tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277e2729f5435fc8b778ed924"
+      },
       "release_date": "1978",
       "popularity": 49
     }

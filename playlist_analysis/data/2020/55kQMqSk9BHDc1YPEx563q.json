@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/b20493a2-ea70-412c-81e5-f1e1ddf6452b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "50CjXiDFzVBVvwNv0LxAm3",
-      "name": "Sing Me Back Home",
+      "track": {
+        "id": "50CjXiDFzVBVvwNv0LxAm3",
+        "name": "Sing Me Back Home"
+      },
       "duration_ms": 238990,
-      "artist": [
-        "Don Williams"
+      "artists": [
+        {
+          "name": "Don Williams",
+          "id": "4Ti0EKl2PVEms2NRMVGqNe"
+        }
       ],
-      "artistId": [
-        "4Ti0EKl2PVEms2NRMVGqNe"
-      ],
-      "albumId": "4OJ1zJCzIkLBmhki2oeKMd",
+      "album": {
+        "id": "4OJ1zJCzIkLBmhki2oeKMd",
+        "name": "Reflections",
+        "img": "https://i.scdn.co/image/ab67616d00001e027940cf1a329bfd66ef61c4c7"
+      },
       "release_date": "2014-01-01",
       "popularity": 44
     },
     {
-      "trackId": "2Kz4F0d2tveAas7QG33RPj",
-      "name": "When I Need You - Live",
+      "track": {
+        "id": "2Kz4F0d2tveAas7QG33RPj",
+        "name": "When I Need You - Live"
+      },
       "duration_ms": 247226,
-      "artist": [
-        "Leo Sayer"
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "id": "04LIHk1SobiQwt2tlupoAV"
+        }
       ],
-      "artistId": [
-        "04LIHk1SobiQwt2tlupoAV"
-      ],
-      "albumId": "4D2fgAlZKeO6DRJhWTkIKP",
+      "album": {
+        "id": "4D2fgAlZKeO6DRJhWTkIKP",
+        "name": "Leo Sayer (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232d86c4e1a1a962243a18724"
+      },
       "release_date": "2009-01-01",
       "popularity": 53
     },
     {
-      "trackId": "1VMYy1ayXtVt1Jx7JJryZm",
-      "name": "Den jag kunde va",
+      "track": {
+        "id": "1VMYy1ayXtVt1Jx7JJryZm",
+        "name": "Den jag kunde va"
+      },
       "duration_ms": 238680,
-      "artist": [
-        "Hoola Bandoola Band"
+      "artists": [
+        {
+          "name": "Hoola Bandoola Band",
+          "id": "5nKrlPFxyS6Al128p3vQG7"
+        }
       ],
-      "artistId": [
-        "5nKrlPFxyS6Al128p3vQG7"
-      ],
-      "albumId": "0jG1Xq6a89ZxXO3DClQOw7",
+      "album": {
+        "id": "0jG1Xq6a89ZxXO3DClQOw7",
+        "name": "1971-2011",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d09ffb3966f67bcaf920c79"
+      },
       "release_date": "2011-01-01",
       "popularity": 31
     },
     {
-      "trackId": "3W6E0EIMLTn8fUjOhjAjcX",
-      "name": "Wand'rin' Star (From the \"Amazon Prime - Dog With A Bad Leg\" TV Advert)",
+      "track": {
+        "id": "3W6E0EIMLTn8fUjOhjAjcX",
+        "name": "Wand'rin' Star (From the \"Amazon Prime - Dog With A Bad Leg\" TV Advert)"
+      },
       "duration_ms": 264869,
-      "artist": [
-        "Lee Marvin"
+      "artists": [
+        {
+          "name": "Lee Marvin",
+          "id": "7GbjN1ab1LJcJV2JOhTqBK"
+        }
       ],
-      "artistId": [
-        "7GbjN1ab1LJcJV2JOhTqBK"
-      ],
-      "albumId": "2aT7GlbvfY2I9dMhO2VsTx",
+      "album": {
+        "id": "2aT7GlbvfY2I9dMhO2VsTx",
+        "name": "Wand'rin' Star (From the \"Amazon Prime - Dog With A Bad Leg\" TV Advert)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02842621f70d000cab198500fb"
+      },
       "release_date": "2015-08-12",
       "popularity": 33
     },
     {
-      "trackId": "2Dsw0QFS4kM6o4XjlQiRRQ",
-      "name": "Mustapha",
+      "track": {
+        "id": "2Dsw0QFS4kM6o4XjlQiRRQ",
+        "name": "Mustapha"
+      },
       "duration_ms": 166611,
-      "artist": [
-        "Bob Azzam"
+      "artists": [
+        {
+          "name": "Bob Azzam",
+          "id": "6aHHLKbMeqAmTkdwcogHjE"
+        }
       ],
-      "artistId": [
-        "6aHHLKbMeqAmTkdwcogHjE"
-      ],
-      "albumId": "3jCrdWXShgNRz8mBWM5iDJ",
+      "album": {
+        "id": "3jCrdWXShgNRz8mBWM5iDJ",
+        "name": "Tres Chic",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0486d6cf7dce3770cd1d2b5"
+      },
       "release_date": "2012-07-10",
       "popularity": 25
     },
     {
-      "trackId": "1hXxIhG7vUfwLlTh9imMST",
-      "name": "Jag tror på sommaren",
+      "track": {
+        "id": "1hXxIhG7vUfwLlTh9imMST",
+        "name": "Jag tror på sommaren"
+      },
       "duration_ms": 207733,
-      "artist": [
-        "Mats Olin"
+      "artists": [
+        {
+          "name": "Mats Olin",
+          "id": "5HfK3VuVDpr1eCeYgE6h7Z"
+        }
       ],
-      "artistId": [
-        "5HfK3VuVDpr1eCeYgE6h7Z"
-      ],
-      "albumId": "0l537xeeUQXZAkArjKmb2H",
+      "album": {
+        "id": "0l537xeeUQXZAkArjKmb2H",
+        "name": "Sommar, sommar, sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec33b6331501e4f4fcc2ff1d"
+      },
       "release_date": "1997-01-01",
       "popularity": 33
     },
     {
-      "trackId": "1PtJclc46wTk367PlsU6Uj",
-      "name": "I Have A Dream",
+      "track": {
+        "id": "1PtJclc46wTk367PlsU6Uj",
+        "name": "I Have A Dream"
+      },
       "duration_ms": 285413,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "7iLuHJkrb9KHPkMgddYigh",
+      "album": {
+        "id": "7iLuHJkrb9KHPkMgddYigh",
+        "name": "Voulez-Vous",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa22899360d8ba6704732dec"
+      },
       "release_date": "1979",
       "popularity": 63
     },
     {
-      "trackId": "5odXFIUE5YFAbA7iEdL0w8",
-      "name": "Tusen bitar",
+      "track": {
+        "id": "5odXFIUE5YFAbA7iEdL0w8",
+        "name": "Tusen bitar"
+      },
       "duration_ms": 276559,
-      "artist": [
-        "Björn Afzelius"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0"
-      ],
-      "albumId": "2CU896kswgsU4w2VWHbbub",
+      "album": {
+        "id": "2CU896kswgsU4w2VWHbbub",
+        "name": "Tusen bitar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0955427ff70077701c7fda2"
+      },
       "release_date": "1990-01-01",
       "popularity": 48
     },
     {
-      "trackId": "4VJrTc5QPr13zgkwxaTjjN",
-      "name": "Little Boxes",
+      "track": {
+        "id": "4VJrTc5QPr13zgkwxaTjjN",
+        "name": "Little Boxes"
+      },
       "duration_ms": 114773,
-      "artist": [
-        "Pete Seeger"
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "id": "1P9syEkl41IFowWIJN7ZBY"
+        }
       ],
-      "artistId": [
-        "1P9syEkl41IFowWIJN7ZBY"
-      ],
-      "albumId": "1ggnnzHVxJFuTDIY78ZF1R",
+      "album": {
+        "id": "1ggnnzHVxJFuTDIY78ZF1R",
+        "name": "Headlines and Footnotes: A Collection of Topical Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02923085005648d417752508da"
+      },
       "release_date": "1999-05-18",
       "popularity": 45
     },
     {
-      "trackId": "3DJJaahjp6HqRo9B23H36e",
-      "name": "En sång om frihet",
+      "track": {
+        "id": "3DJJaahjp6HqRo9B23H36e",
+        "name": "En sång om frihet"
+      },
       "duration_ms": 302215,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "7mNV8U2sBdTH1tvQy7yPVz",
+      "album": {
+        "id": "7mNV8U2sBdTH1tvQy7yPVz",
+        "name": "Big-5 : Sven-Bertil Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e02daa7db3a7af460e4a59df6a8"
+      },
       "release_date": "2010-11-26",
       "popularity": 27
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

@@ -7,270 +7,386 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243412_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7kixCGSpKVDPF7nOqfWQcx",
-      "name": "The Third Man Theme (The Harry Lime Theme) - Original Version",
+      "track": {
+        "id": "7kixCGSpKVDPF7nOqfWQcx",
+        "name": "The Third Man Theme (The Harry Lime Theme) - Original Version"
+      },
       "duration_ms": 133520,
-      "artist": [
-        "Anton Karas"
+      "artists": [
+        {
+          "name": "Anton Karas",
+          "id": "1N6hAy84Nd6KdUhr4BjXWS"
+        }
       ],
-      "artistId": [
-        "1N6hAy84Nd6KdUhr4BjXWS"
-      ],
-      "albumId": "7tW9Jnbk3HCz5TrpzgDGWp",
+      "album": {
+        "id": "7tW9Jnbk3HCz5TrpzgDGWp",
+        "name": "Anton Karas plays \"The Third Man Theme\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff13f203d3046a909d650cf9"
+      },
       "release_date": "2002",
       "popularity": 33
     },
     {
-      "trackId": "3sLhMSePzxSrmxluIqeoAZ",
-      "name": "I Put a Spell On You",
+      "track": {
+        "id": "3sLhMSePzxSrmxluIqeoAZ",
+        "name": "I Put a Spell On You"
+      },
       "duration_ms": 144866,
-      "artist": [
-        "Screamin' Jay Hawkins"
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "id": "3VBpsrUi2vV7Uj87ONHu7Z"
+        }
       ],
-      "artistId": [
-        "3VBpsrUi2vV7Uj87ONHu7Z"
-      ],
-      "albumId": "2lKtE0pl4RtMD2bUwKzdcz",
+      "album": {
+        "id": "2lKtE0pl4RtMD2bUwKzdcz",
+        "name": "At Home with Screamin' Jay Hawkins",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8a1366f0f2073775e931aa3"
+      },
       "release_date": "1958",
       "popularity": 50
     },
     {
-      "trackId": "3c2z1HWhSYSWHgb0dxgKgk",
-      "name": "Chera3 Ghana",
+      "track": {
+        "id": "3c2z1HWhSYSWHgb0dxgKgk",
+        "name": "Chera3 Ghana"
+      },
       "duration_ms": 134675,
-      "artist": [
-        "Naqqa"
+      "artists": [
+        {
+          "name": "Naqqa",
+          "id": "65D6dxtE0d7MoKoJfxOEyH"
+        }
       ],
-      "artistId": [
-        "65D6dxtE0d7MoKoJfxOEyH"
-      ],
-      "albumId": "28I4VoodffqfM5yyigxLkb",
+      "album": {
+        "id": "28I4VoodffqfM5yyigxLkb",
+        "name": "BAD ANGEL",
+        "img": "https://i.scdn.co/image/ab67616d00001e02377930b226752c79637c65b4"
+      },
       "release_date": "2021-05-22",
       "popularity": 37
     },
     {
-      "trackId": "4n1Xu4LhWBuWQdtAWSYz9R",
-      "name": "Klaunstance",
+      "track": {
+        "id": "4n1Xu4LhWBuWQdtAWSYz9R",
+        "name": "Klaunstance"
+      },
       "duration_ms": 163933,
-      "artist": [
-        "Charlie Parker"
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "id": "4Ww5mwS7BWYjoZTUIrMHfC"
+        }
       ],
-      "artistId": [
-        "4Ww5mwS7BWYjoZTUIrMHfC"
-      ],
-      "albumId": "2c6BUJGIxa4SA94iYX4JkT",
+      "album": {
+        "id": "2c6BUJGIxa4SA94iYX4JkT",
+        "name": "The Complete Savoy & Dial Master Takes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efeacf1513a1afa979a1a730"
+      },
       "release_date": "2002-09-10",
       "popularity": 9
     },
     {
-      "trackId": "7Lfcy8xqRZh11SEcU8tjSS",
-      "name": "Havsörnsvalsen",
+      "track": {
+        "id": "7Lfcy8xqRZh11SEcU8tjSS",
+        "name": "Havsörnsvalsen"
+      },
       "duration_ms": 198173,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "1Gx5b6ApFjeTVsVCZrWEBe",
+      "album": {
+        "id": "1Gx5b6ApFjeTVsVCZrWEBe",
+        "name": "EVERT! EVERT! EVERT!",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a2cf14df9d4cd2156271b71"
+      },
       "release_date": "2022-01-14",
       "popularity": 15
     },
     {
-      "trackId": "35GqeIWfBgzt4gM56iit50",
-      "name": "Nonsense Song (Titine) - From \"Modern Times\"",
+      "track": {
+        "id": "35GqeIWfBgzt4gM56iit50",
+        "name": "Nonsense Song (Titine) - From \"Modern Times\""
+      },
       "duration_ms": 222440,
-      "artist": [
-        "Charlie Chaplin"
+      "artists": [
+        {
+          "name": "Charlie Chaplin",
+          "id": "6AmG7SNdlV9boPZ7dFVnLY"
+        }
       ],
-      "artistId": [
-        "6AmG7SNdlV9boPZ7dFVnLY"
-      ],
-      "albumId": "5siY0QeUhwFtmQoSIKUhea",
+      "album": {
+        "id": "5siY0QeUhwFtmQoSIKUhea",
+        "name": "Charlie Chaplin Film Music Anthology",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddba4b4bbcc6cfcff4a60058"
+      },
       "release_date": "2019-04-12",
       "popularity": 28
     },
     {
-      "trackId": "3WnnELJcFxYXw8a2EcErW0",
-      "name": "ARTH150.2",
+      "track": {
+        "id": "3WnnELJcFxYXw8a2EcErW0",
+        "name": "ARTH150.2"
+      },
       "duration_ms": 207991,
-      "artist": [
-        "Arthur.Lrmn"
+      "artists": [
+        {
+          "name": "Arthur.Lrmn",
+          "id": "5qqe3e0qLUWodacr3zgqod"
+        }
       ],
-      "artistId": [
-        "5qqe3e0qLUWodacr3zgqod"
-      ],
-      "albumId": "33RSovgval9a3ZBWtCMuAU",
+      "album": {
+        "id": "33RSovgval9a3ZBWtCMuAU",
+        "name": "Arthur.Lrmn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d09e8391f57315b629a357eb"
+      },
       "release_date": "2022-06-30",
       "popularity": 22
     },
     {
-      "trackId": "0tm6gsXe0LSm9zeSspyMQu",
-      "name": "Rapper's Delight - Single Version",
+      "track": {
+        "id": "0tm6gsXe0LSm9zeSspyMQu",
+        "name": "Rapper's Delight - Single Version"
+      },
       "duration_ms": 235840,
-      "artist": [
-        "The Sugarhill Gang"
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "id": "7zliF6Q946WznVk3ZMYhZX"
+        }
       ],
-      "artistId": [
-        "7zliF6Q946WznVk3ZMYhZX"
-      ],
-      "albumId": "1oQef7548sivCtMQwK8Wgo",
+      "album": {
+        "id": "1oQef7548sivCtMQwK8Wgo",
+        "name": "The Sugarhill Gang - 30th Anniversary Edition (Expanded Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022f10e55030e7f80771283cd2"
+      },
       "release_date": "2010-01-01",
       "popularity": 61
     },
     {
-      "trackId": "62gZY6joWPt97hbsbIdd4t",
-      "name": "Att angöra en brygga",
+      "track": {
+        "id": "62gZY6joWPt97hbsbIdd4t",
+        "name": "Att angöra en brygga"
+      },
       "duration_ms": 153826,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 46
     },
     {
-      "trackId": "4l9hml2UCnxoNI3yCdL1BW",
-      "name": "My Funny Valentine",
+      "track": {
+        "id": "4l9hml2UCnxoNI3yCdL1BW",
+        "name": "My Funny Valentine"
+      },
       "duration_ms": 141133,
-      "artist": [
-        "Chet Baker"
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "id": "3rxeQlsv0Sc2nyYaZ5W71T"
+        }
       ],
-      "artistId": [
-        "3rxeQlsv0Sc2nyYaZ5W71T"
-      ],
-      "albumId": "5JJ779nrbHx0KB2lBrMMa4",
+      "album": {
+        "id": "5JJ779nrbHx0KB2lBrMMa4",
+        "name": "Chet Baker Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bcaf6f097b310e20504f2de0"
+      },
       "release_date": "1956",
       "popularity": 62
     },
     {
-      "trackId": "7rZPVMXSYn63KC2Fco2vr6",
-      "name": "El Atlal",
+      "track": {
+        "id": "7rZPVMXSYn63KC2Fco2vr6",
+        "name": "El Atlal"
+      },
       "duration_ms": 2394493,
-      "artist": [
-        "Umm Kulthum"
+      "artists": [
+        {
+          "name": "Umm Kulthum",
+          "id": "52lsD82iOqGtyfEMqWgk4f"
+        }
       ],
-      "artistId": [
-        "52lsD82iOqGtyfEMqWgk4f"
-      ],
-      "albumId": "5Y0Gq6g4awj8woRvOiJZ3I",
+      "album": {
+        "id": "5Y0Gq6g4awj8woRvOiJZ3I",
+        "name": "The Best Of Umm Kulthum 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02703a95507746c62f4845ea59"
+      },
       "release_date": "1966-04-07",
       "popularity": 31
     },
     {
-      "trackId": "3yfqSUWxFvZELEM4PmlwIR",
-      "name": "The Real Slim Shady",
+      "track": {
+        "id": "3yfqSUWxFvZELEM4PmlwIR",
+        "name": "The Real Slim Shady"
+      },
       "duration_ms": 284200,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "6t7956yu5zYf5A829XRiHC",
+      "album": {
+        "id": "6t7956yu5zYf5A829XRiHC",
+        "name": "The Marshall Mathers LP",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42"
+      },
       "release_date": "2000-05-23",
       "popularity": 86
     },
     {
-      "trackId": "46UIqnjfYaMdPCZMmxqcbn",
-      "name": "Piano Sonata No. 30 in E Major, Op. 109: IIIc. Variation II: Leggiermente",
+      "track": {
+        "id": "46UIqnjfYaMdPCZMmxqcbn",
+        "name": "Piano Sonata No. 30 in E Major, Op. 109: IIIc. Variation II: Leggiermente"
+      },
       "duration_ms": 94266,
-      "artist": [
-        "Ludwig van Beethoven",
-        "Daniel Barenboim"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "id": "78sEozQOEJxzXegUuqRSgH"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "78sEozQOEJxzXegUuqRSgH"
-      ],
-      "albumId": "210AqCWih4kCiPjNX2Uw9H",
+      "album": {
+        "id": "210AqCWih4kCiPjNX2Uw9H",
+        "name": "Innovations: Beethoven",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212ef6a1c59487e7063fb9379"
+      },
       "release_date": "2022-08-15",
       "popularity": 6
     },
     {
-      "trackId": "3mwIoHzwnTnGWjAUVqajLr",
-      "name": "Stormy Weather",
+      "track": {
+        "id": "3mwIoHzwnTnGWjAUVqajLr",
+        "name": "Stormy Weather"
+      },
       "duration_ms": 221280,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "2mvImLm7gwMWXS83pxYU73",
+      "album": {
+        "id": "2mvImLm7gwMWXS83pxYU73",
+        "name": "An Evening With Billie Holiday",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8ecaac00adb2c639ef4860f"
+      },
       "release_date": "1953-03-01",
       "popularity": 48
     },
     {
-      "trackId": "35z8wkNUOBRKYBiO9ullhG",
-      "name": "Le Nozze di Figaro, K. 492: \"Voi ce sapete\"",
+      "track": {
+        "id": "35z8wkNUOBRKYBiO9ullhG",
+        "name": "Le Nozze di Figaro, K. 492: \"Voi ce sapete\""
+      },
       "duration_ms": 166733,
-      "artist": [
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "4WByLjLCA9LwO4QwNkwv5V",
+      "album": {
+        "id": "4WByLjLCA9LwO4QwNkwv5V",
+        "name": "Molanders (Originalmusiken från TV serien)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd132339d1d192f674fa7d3f"
+      },
       "release_date": "2013-10-09",
       "popularity": 12
     },
     {
-      "trackId": "7gZS7VI2hlFXOLRIINrVUP",
-      "name": "Oop-Pop-A-Da - 1994 Remastered",
+      "track": {
+        "id": "7gZS7VI2hlFXOLRIINrVUP",
+        "name": "Oop-Pop-A-Da - 1994 Remastered"
+      },
       "duration_ms": 193240,
-      "artist": [
-        "Dizzy Gillespie"
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "id": "5RzjqfPS0Bu4bUMkyNNDpn"
+        }
       ],
-      "artistId": [
-        "5RzjqfPS0Bu4bUMkyNNDpn"
-      ],
-      "albumId": "23CDAtj0sfiYYuoDWYR6cf",
+      "album": {
+        "id": "23CDAtj0sfiYYuoDWYR6cf",
+        "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02908ed8613a72960fc7aeb106"
+      },
       "release_date": "1946",
       "popularity": 11
     },
     {
-      "trackId": "1chsFxuRdocgGwhhCYfZ9m",
-      "name": "Ahwak",
+      "track": {
+        "id": "1chsFxuRdocgGwhhCYfZ9m",
+        "name": "Ahwak"
+      },
       "duration_ms": 298292,
-      "artist": [
-        "Abdel Halim Hafez"
+      "artists": [
+        {
+          "name": "Abdel Halim Hafez",
+          "id": "6IW026WCYU8L1WF79dfwss"
+        }
       ],
-      "artistId": [
-        "6IW026WCYU8L1WF79dfwss"
-      ],
-      "albumId": "2Dx9s3ceWiu7go3xMkdAs3",
+      "album": {
+        "id": "2Dx9s3ceWiu7go3xMkdAs3",
+        "name": "Rawaeaa Abd El Halim 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a2b05f0da79333ab7dbc670"
+      },
       "release_date": "1976-01-01",
       "popularity": 48
     },
     {
-      "trackId": "5U8XUFluYhz1o3EpHCO68r",
-      "name": "Bråttom, bråttom, bråttom",
+      "track": {
+        "id": "5U8XUFluYhz1o3EpHCO68r",
+        "name": "Bråttom, bråttom, bråttom"
+      },
       "duration_ms": 153026,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "03Ag2lO1J74QDfvA7ibh9r",
+      "album": {
+        "id": "03Ag2lO1J74QDfvA7ibh9r",
+        "name": "Svenska Sångfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242f467b0660e06dd572980bb"
+      },
       "release_date": "2005-01-19",
       "popularity": 10
     },
     {
-      "trackId": "2AYzOru82DqkgImjfKpLRH",
-      "name": "Good Bait - Rudy Van Gelder Remaster",
+      "track": {
+        "id": "2AYzOru82DqkgImjfKpLRH",
+        "name": "Good Bait - Rudy Van Gelder Remaster"
+      },
       "duration_ms": 724466,
-      "artist": [
-        "John Coltrane"
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        }
       ],
-      "artistId": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "albumId": "7pU5qUNqbOMToIyqzF0Nmg",
+      "album": {
+        "id": "7pU5qUNqbOMToIyqzF0Nmg",
+        "name": "Soultrane",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a829662488fbe3888069b486"
+      },
       "release_date": "1958",
       "popularity": 22
     }

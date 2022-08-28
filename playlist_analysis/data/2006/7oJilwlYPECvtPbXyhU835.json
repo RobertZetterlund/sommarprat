@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242962_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4XtmSv2ZmiTPBJCADLsWaw",
-      "name": "August Day Song",
+      "track": {
+        "id": "4XtmSv2ZmiTPBJCADLsWaw",
+        "name": "August Day Song"
+      },
       "duration_ms": 277226,
-      "artist": [
-        "Bebel Gilberto"
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "id": "6gk4ierjjSVPoZep27VfZz"
+        }
       ],
-      "artistId": [
-        "6gk4ierjjSVPoZep27VfZz"
-      ],
-      "albumId": "4HVc4yoKzUdtHvZ8zGGHe4",
+      "album": {
+        "id": "4HVc4yoKzUdtHvZ8zGGHe4",
+        "name": "Tanto Tempo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02137dfa74b0c51b7dbea199d8"
+      },
       "release_date": "1996-04-14",
       "popularity": 38
     },
     {
-      "trackId": "5RAYXbdGywNOk2WFmD6QZC",
-      "name": "Halálos Tavasz",
+      "track": {
+        "id": "5RAYXbdGywNOk2WFmD6QZC",
+        "name": "Halálos Tavasz"
+      },
       "duration_ms": 194066,
-      "artist": [
-        "Katalin Karady"
+      "artists": [
+        {
+          "name": "Katalin Karady",
+          "id": "22g05oWHICDQ1KgOwK9jrn"
+        }
       ],
-      "artistId": [
-        "22g05oWHICDQ1KgOwK9jrn"
-      ],
-      "albumId": "0DhPoq19MkLQnslzqsgjzW",
+      "album": {
+        "id": "0DhPoq19MkLQnslzqsgjzW",
+        "name": "Karády Katalin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02554ddfe9bfe715af75809606"
+      },
       "release_date": "1995-01-01",
       "popularity": 0
     },
     {
-      "trackId": "4HyP3LwGsebwQU4aDs47oE",
-      "name": "Ese Momento",
+      "track": {
+        "id": "4HyP3LwGsebwQU4aDs47oE",
+        "name": "Ese Momento"
+      },
       "duration_ms": 242440,
-      "artist": [
-        "Mísia"
+      "artists": [
+        {
+          "name": "Mísia",
+          "id": "0YJLjcCzXjIoXUwcBfLODJ"
+        }
       ],
-      "artistId": [
-        "0YJLjcCzXjIoXUwcBfLODJ"
-      ],
-      "albumId": "6djCwCJQeVy5TxYaikptpD",
+      "album": {
+        "id": "6djCwCJQeVy5TxYaikptpD",
+        "name": "Do Primeiro Fado Ao Último Tango",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ff80f3ebf8546c8c9094b68"
+      },
       "release_date": "2016-11-18",
       "popularity": 15
     },
     {
-      "trackId": "1XMr0CfVAuZ5ueoDe8yUNq",
-      "name": "Tadieu Bone",
+      "track": {
+        "id": "1XMr0CfVAuZ5ueoDe8yUNq",
+        "name": "Tadieu Bone"
+      },
       "duration_ms": 263440,
-      "artist": [
-        "Ismaël Lô"
+      "artists": [
+        {
+          "name": "Ismaël Lô",
+          "id": "4EBRPnSYtrfmwptEMOSCV8"
+        }
       ],
-      "artistId": [
-        "4EBRPnSYtrfmwptEMOSCV8"
-      ],
-      "albumId": "2hyXbgiRlM3PORB5GEAkLw",
+      "album": {
+        "id": "2hyXbgiRlM3PORB5GEAkLw",
+        "name": "Natt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02004e7e28f357a4396e15813f"
+      },
       "release_date": "1987-01-01",
       "popularity": 40
     },
     {
-      "trackId": "4D29OkcSb2znDjruGtzhdG",
-      "name": "Miénk itt a tér",
+      "track": {
+        "id": "4D29OkcSb2znDjruGtzhdG",
+        "name": "Miénk itt a tér"
+      },
       "duration_ms": 173600,
-      "artist": [
-        "Locomotiv GT"
+      "artists": [
+        {
+          "name": "Locomotiv GT",
+          "id": "7LyNzazhGasc5A4Pt2d8rU"
+        }
       ],
-      "artistId": [
-        "7LyNzazhGasc5A4Pt2d8rU"
-      ],
-      "albumId": "6LVimgwF3EfFnuzgIKmRnT",
+      "album": {
+        "id": "6LVimgwF3EfFnuzgIKmRnT",
+        "name": "Bummm!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02956fc0f9c1f1a1b17c426c0a"
+      },
       "release_date": "1973",
       "popularity": 13
     },
     {
-      "trackId": "42juBvAuH9xTPhTXVaxK4W",
-      "name": "Te Extraño - Bachata Version",
+      "track": {
+        "id": "42juBvAuH9xTPhTXVaxK4W",
+        "name": "Te Extraño - Bachata Version"
+      },
       "duration_ms": 212973,
-      "artist": [
-        "Xtreme"
+      "artists": [
+        {
+          "name": "Xtreme",
+          "id": "47bVt95bvBMpmJFWoyhH0C"
+        }
       ],
-      "artistId": [
-        "47bVt95bvBMpmJFWoyhH0C"
-      ],
-      "albumId": "6hCmSUOUDX3y603ekbKmGE",
+      "album": {
+        "id": "6hCmSUOUDX3y603ekbKmGE",
+        "name": "Xtreme",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e04956cece61209c3f2fac6"
+      },
       "release_date": "2005-05-18",
       "popularity": 51
     },
     {
-      "trackId": "0G6Ws8Gbdt0S7pZeuYmkmm",
-      "name": "Flowers In December",
+      "track": {
+        "id": "0G6Ws8Gbdt0S7pZeuYmkmm",
+        "name": "Flowers In December"
+      },
       "duration_ms": 297893,
-      "artist": [
-        "Mazzy Star"
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "id": "37w38cCSGgKLdayTRjna4W"
+        }
       ],
-      "artistId": [
-        "37w38cCSGgKLdayTRjna4W"
-      ],
-      "albumId": "4mhpbf7jYc0L1nBceoebIE",
+      "album": {
+        "id": "4mhpbf7jYc0L1nBceoebIE",
+        "name": "Among My Swan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0240f8e560e743f9b5d382c0af"
+      },
       "release_date": "1996-10-29",
       "popularity": 53
     },
     {
-      "trackId": "5MsDusri5ziMXXiZFhqzml",
-      "name": "Ama-Gents",
+      "track": {
+        "id": "5MsDusri5ziMXXiZFhqzml",
+        "name": "Ama-Gents"
+      },
       "duration_ms": 208706,
-      "artist": [
-        "Brenda Fassie"
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "id": "07Pw9XQo0hIwtKRrBwo0Rl"
+        }
       ],
-      "artistId": [
-        "07Pw9XQo0hIwtKRrBwo0Rl"
-      ],
-      "albumId": "2MguyNr104cINCbY5HYtH5",
+      "album": {
+        "id": "2MguyNr104cINCbY5HYtH5",
+        "name": "Strictly Kwaito",
+        "img": "https://i.scdn.co/image/ab67616d00001e02217da6298e7a168a74757dc3"
+      },
       "release_date": "2022-08-05",
       "popularity": 5
     },
     {
-      "trackId": "6yANzxMz52hOICHdkNqQS5",
-      "name": "Detni Essekra",
+      "track": {
+        "id": "6yANzxMz52hOICHdkNqQS5",
+        "name": "Detni Essekra"
+      },
       "duration_ms": 296600,
-      "artist": [
-        "Khaled"
+      "artists": [
+        {
+          "name": "Khaled",
+          "id": "28ztjHIXceRRntmTUfnmUX"
+        }
       ],
-      "artistId": [
-        "28ztjHIXceRRntmTUfnmUX"
-      ],
-      "albumId": "2Ul6M5sIJdZjKVxwgDG7dC",
+      "album": {
+        "id": "2Ul6M5sIJdZjKVxwgDG7dC",
+        "name": "Sahra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1b1864f0ac9fc86215c3c85"
+      },
       "release_date": "1996-01-01",
       "popularity": 36
     },
     {
-      "trackId": "3mP1OcZJZ2dakD725XxtPA",
-      "name": "Raki",
+      "track": {
+        "id": "3mP1OcZJZ2dakD725XxtPA",
+        "name": "Raki"
+      },
       "duration_ms": 426520,
-      "artist": [
-        "Oliver Mtukudzi"
+      "artists": [
+        {
+          "name": "Oliver Mtukudzi",
+          "id": "0HC2dfJHpORLT21AxEiTXJ"
+        }
       ],
-      "artistId": [
-        "0HC2dfJHpORLT21AxEiTXJ"
-      ],
-      "albumId": "59zeCFn0HefkNC3ly2gXgd",
+      "album": {
+        "id": "59zeCFn0HefkNC3ly2gXgd",
+        "name": "Bvuma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db7072f7466e16d6cc0d0dc8"
+      },
       "release_date": "2001-10-03",
       "popularity": 32
     },
     {
-      "trackId": "3T4Bm7q0yGIVHpoZY5dP1G",
-      "name": "Habibti",
+      "track": {
+        "id": "3T4Bm7q0yGIVHpoZY5dP1G",
+        "name": "Habibti"
+      },
       "duration_ms": 234733,
-      "artist": [
-        "Abdel Ali Slimani",
-        "Natacha Atlas"
+      "artists": [
+        {
+          "name": "Abdel Ali Slimani",
+          "id": "0An9JIHH4XMebNEu6UYEHx"
+        },
+        {
+          "name": "Natacha Atlas",
+          "id": "0aVJmlOwIxTZeHzhFiFL5Y"
+        }
       ],
-      "artistId": [
-        "0An9JIHH4XMebNEu6UYEHx",
-        "0aVJmlOwIxTZeHzhFiFL5Y"
-      ],
-      "albumId": "26LSy5hIwHBQwT2MarE9MR",
+      "album": {
+        "id": "26LSy5hIwHBQwT2MarE9MR",
+        "name": "Mraya",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba09c23b250a13a29523cfff"
+      },
       "release_date": "1995",
       "popularity": 3
     },
     {
-      "trackId": "1xNmF1Uep5OGutizZSbKvd",
-      "name": "One Of Us",
+      "track": {
+        "id": "1xNmF1Uep5OGutizZSbKvd",
+        "name": "One Of Us"
+      },
       "duration_ms": 320466,
-      "artist": [
-        "Joan Osborne"
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "id": "0djV4iaxhNfYWpH60ia85o"
+        }
       ],
-      "artistId": [
-        "0djV4iaxhNfYWpH60ia85o"
-      ],
-      "albumId": "1qgjfFOO3IMDimAuAWZLLt",
+      "album": {
+        "id": "1qgjfFOO3IMDimAuAWZLLt",
+        "name": "Relish",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278cb3d2e25c2424c1eee3fe5"
+      },
       "release_date": "1995-01-01",
       "popularity": 68
     }

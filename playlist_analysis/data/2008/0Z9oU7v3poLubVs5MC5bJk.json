@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3253021_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3sKpv29OT60Bj1nqMTk5vp",
-      "name": "Äntligen på väg",
+      "track": {
+        "id": "3sKpv29OT60Bj1nqMTk5vp",
+        "name": "Äntligen på väg"
+      },
       "duration_ms": 148840,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "58nibN4cRCN643kIiqIG5W",
+      "album": {
+        "id": "58nibN4cRCN643kIiqIG5W",
+        "name": "Luften bor i mina steg",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d30b1b866c0169bc4b4dee56"
+      },
       "release_date": "2002",
       "popularity": 36
     },
     {
-      "trackId": "3xINh6YqkLfucEtjoa4x7D",
-      "name": "Days Like This",
+      "track": {
+        "id": "3xINh6YqkLfucEtjoa4x7D",
+        "name": "Days Like This"
+      },
       "duration_ms": 197160,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "2J2QLpbe1EBRP65w9v8CRL",
+      "album": {
+        "id": "2J2QLpbe1EBRP65w9v8CRL",
+        "name": "Days Like This",
+        "img": "https://i.scdn.co/image/ab67616d00001e02716d4cf4ddd514e2acc6844c"
+      },
       "release_date": "1995-06",
       "popularity": 66
     },
     {
-      "trackId": "6pKXvWDcXdcPFTOqAngugj",
-      "name": "Jag Väntar...",
+      "track": {
+        "id": "6pKXvWDcXdcPFTOqAngugj",
+        "name": "Jag Väntar..."
+      },
       "duration_ms": 242632,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 35
     },
     {
-      "trackId": "5O9nsK7sYwD5nOa7CyXRvG",
-      "name": "Äppelknyckarjazz",
+      "track": {
+        "id": "5O9nsK7sYwD5nOa7CyXRvG",
+        "name": "Äppelknyckarjazz"
+      },
       "duration_ms": 191773,
-      "artist": [
-        "Movits!"
+      "artists": [
+        {
+          "name": "Movits!",
+          "id": "3Rjud126EhtcSDte9lORR7"
+        }
       ],
-      "artistId": [
-        "3Rjud126EhtcSDte9lORR7"
-      ],
-      "albumId": "4U7Qvs6YMMLTPZ8kwyT4nI",
+      "album": {
+        "id": "4U7Qvs6YMMLTPZ8kwyT4nI",
+        "name": "Äppelknyckarjazz",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ab5d7b8daab6ccded99168b"
+      },
       "release_date": "2008-11-26",
       "popularity": 37
     },
     {
-      "trackId": "59qPP8coY8EWIQ9nQDThui",
-      "name": "Give It 2 Me",
+      "track": {
+        "id": "59qPP8coY8EWIQ9nQDThui",
+        "name": "Give It 2 Me"
+      },
       "duration_ms": 287906,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "1Ms3J8LcSCMH29tG5bSKLu",
+      "album": {
+        "id": "1Ms3J8LcSCMH29tG5bSKLu",
+        "name": "Hard Candy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca17b707a24b6ccae72e3a15"
+      },
       "release_date": "2008-04-19",
       "popularity": 57
     },
     {
-      "trackId": "4lrxXWAcHZWUkbB6PRrJ5M",
-      "name": "Lasting",
+      "track": {
+        "id": "4lrxXWAcHZWUkbB6PRrJ5M",
+        "name": "Lasting"
+      },
       "duration_ms": 94680,
-      "artist": [
-        "Daniel Bloom",
-        "Leszek Możdżer"
+      "artists": [
+        {
+          "name": "Daniel Bloom",
+          "id": "4TDLFnTINY3fKOX6Bozfzd"
+        },
+        {
+          "name": "Leszek Możdżer",
+          "id": "4iJve8QGQMl0PpIDmRG73G"
+        }
       ],
-      "artistId": [
-        "4TDLFnTINY3fKOX6Bozfzd",
-        "4iJve8QGQMl0PpIDmRG73G"
-      ],
-      "albumId": "3WzfQsYf4i2oLaf3ywnaib",
+      "album": {
+        "id": "3WzfQsYf4i2oLaf3ywnaib",
+        "name": "Nieulotne (Lasting) [Original Motion Picture Soundtrack]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02207c7053c1cd88e8de7ff39a"
+      },
       "release_date": "2013-01-01",
       "popularity": 23
     },
     {
-      "trackId": "0GAY8D7SCWCASXPr98bzJv",
-      "name": "Lev så",
+      "track": {
+        "id": "0GAY8D7SCWCASXPr98bzJv",
+        "name": "Lev så"
+      },
       "duration_ms": 301800,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "1gpNgZzbVcWCtHREPUkVRV",
+      "album": {
+        "id": "1gpNgZzbVcWCtHREPUkVRV",
+        "name": "En blekt blondins hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ecb81fc5f561ea4e429de30"
+      },
       "release_date": "1991-09-12",
       "popularity": 28
     },
     {
-      "trackId": "3Moapzla75y7fVWx4Y7aka",
-      "name": "Milfen Marianne",
+      "track": {
+        "id": "3Moapzla75y7fVWx4Y7aka",
+        "name": "Milfen Marianne"
+      },
       "duration_ms": 181818,
-      "artist": [
-        "Dansbandskungen"
+      "artists": [
+        {
+          "name": "Dansbandskungen",
+          "id": "0TJGsik9gk8T22j7UNrLe6"
+        }
       ],
-      "artistId": [
-        "0TJGsik9gk8T22j7UNrLe6"
-      ],
-      "albumId": "23fODvPnPRNhnPEaJuBRmX",
+      "album": {
+        "id": "23fODvPnPRNhnPEaJuBRmX",
+        "name": "Milfen Marianne",
+        "img": "https://i.scdn.co/image/ab67616d00001e029bf57f37186e182379fc7861"
+      },
       "release_date": "2019-02-08",
       "popularity": 31
     },
     {
-      "trackId": "1HMNeCm1zf6efSTQTfgW1A",
-      "name": "Radiosignalisten",
+      "track": {
+        "id": "1HMNeCm1zf6efSTQTfgW1A",
+        "name": "Radiosignalisten"
+      },
       "duration_ms": 229866,
-      "artist": [
-        "Torsson"
+      "artists": [
+        {
+          "name": "Torsson",
+          "id": "3QQOx64tLX3UIjImu2ANtc"
+        }
       ],
-      "artistId": [
-        "3QQOx64tLX3UIjImu2ANtc"
-      ],
-      "albumId": "7I5FX1KpLtH00EHRiNUKsy",
+      "album": {
+        "id": "7I5FX1KpLtH00EHRiNUKsy",
+        "name": "Lingonplockning",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f9e28aa12f55357345fd34c"
+      },
       "release_date": "1989-11-23",
       "popularity": 11
     },
     {
-      "trackId": "7LbR3tMWDFLwu3EQfLQBgf",
-      "name": "The Moon Is a Harsh Mistress",
+      "track": {
+        "id": "7LbR3tMWDFLwu3EQfLQBgf",
+        "name": "The Moon Is a Harsh Mistress"
+      },
       "duration_ms": 190000,
-      "artist": [
-        "Radka Toneff"
+      "artists": [
+        {
+          "name": "Radka Toneff",
+          "id": "4zUpW8OD0YnE6hRmdVv1Go"
+        }
       ],
-      "artistId": [
-        "4zUpW8OD0YnE6hRmdVv1Go"
-      ],
-      "albumId": "2EHAqPVIc3KQ5PNMflpeO6",
+      "album": {
+        "id": "2EHAqPVIc3KQ5PNMflpeO6",
+        "name": "Some Time Ago (A Collection Of Her Finest Moments)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02886b625dd4c499c08ebb103c"
+      },
       "release_date": "2003-01-01",
       "popularity": 39
     },
     {
-      "trackId": "1gKne6xEAyvSrlDIOfOI9F",
-      "name": "Zenobia 2017",
+      "track": {
+        "id": "1gKne6xEAyvSrlDIOfOI9F",
+        "name": "Zenobia 2017"
+      },
       "duration_ms": 170675,
-      "artist": [
-        "Technosnaus"
+      "artists": [
+        {
+          "name": "Technosnaus",
+          "id": "6xFnxGZ0APuqVrHxEoOJL2"
+        }
       ],
-      "artistId": [
-        "6xFnxGZ0APuqVrHxEoOJL2"
-      ],
-      "albumId": "5pSW5Ergvol0dkXBduyB9h",
+      "album": {
+        "id": "5pSW5Ergvol0dkXBduyB9h",
+        "name": "Zenobia 2017",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e8160f7a8dd4cc905bb84b2"
+      },
       "release_date": "2016-11-14",
       "popularity": 38
     },
     {
-      "trackId": "3Zto5R7ZDD1G5wqw71Gfez",
-      "name": "Mot Ljuset",
+      "track": {
+        "id": "3Zto5R7ZDD1G5wqw71Gfez",
+        "name": "Mot Ljuset"
+      },
       "duration_ms": 224194,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 15
     }

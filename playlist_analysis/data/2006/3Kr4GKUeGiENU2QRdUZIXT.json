@@ -7,150 +7,218 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242164_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2A6yzRGMgSQCUapR2ptm6A",
-      "name": "True Colors",
+      "track": {
+        "id": "2A6yzRGMgSQCUapR2ptm6A",
+        "name": "True Colors"
+      },
       "duration_ms": 227600,
-      "artist": [
-        "Cyndi Lauper"
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY"
+        }
       ],
-      "artistId": [
-        "2BTZIqw0ntH9MvilQ3ewNY"
-      ],
-      "albumId": "31TRqoVBTQi0lzlPLtvINn",
+      "album": {
+        "id": "31TRqoVBTQi0lzlPLtvINn",
+        "name": "True Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e025128af6747a56ccb3c7ea5b3"
+      },
       "release_date": "1986-10-14",
       "popularity": 69
     },
     {
-      "trackId": "3Xc3cH6j8zgbrVQZgaJHmY",
-      "name": "Blå blå är kärleken",
+      "track": {
+        "id": "3Xc3cH6j8zgbrVQZgaJHmY",
+        "name": "Blå blå är kärleken"
+      },
       "duration_ms": 181760,
-      "artist": [
-        "Britt Bergstrom"
+      "artists": [
+        {
+          "name": "Britt Bergstrom",
+          "id": "19zxn7McfboAEUSGQv3dne"
+        }
       ],
-      "artistId": [
-        "19zxn7McfboAEUSGQv3dne"
-      ],
-      "albumId": "1AcxgbtWm9qtHlUxze1T2w",
+      "album": {
+        "id": "1AcxgbtWm9qtHlUxze1T2w",
+        "name": "Gamla fina låtar 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a492bbf10f70ec263635337"
+      },
       "release_date": "1991-01-01",
       "popularity": 28
     },
     {
-      "trackId": "3xIu6hYXz0gTjJtmGu60M8",
-      "name": "Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, \"Mélodie\" (arr. I. Friedman for piano)",
+      "track": {
+        "id": "3xIu6hYXz0gTjJtmGu60M8",
+        "name": "Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, \"Mélodie\" (arr. I. Friedman for piano)"
+      },
       "duration_ms": 251733,
-      "artist": [
-        "Ignaz Friedman",
-        "Christoph Willibald Gluck",
-        "Joseph Banowetz"
+      "artists": [
+        {
+          "name": "Ignaz Friedman",
+          "id": "5AKZimIhSv9dORIVH1MChg"
+        },
+        {
+          "name": "Christoph Willibald Gluck",
+          "id": "7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Joseph Banowetz",
+          "id": "0ufn7M4jawS5MQ03CIluFo"
+        }
       ],
-      "artistId": [
-        "5AKZimIhSv9dORIVH1MChg",
-        "7vfydQ0nVBVgJ0ajs8EtRM",
-        "0ufn7M4jawS5MQ03CIluFo"
-      ],
-      "albumId": "4L8tF28TUH4Ude4IEhMH1b",
+      "album": {
+        "id": "4L8tF28TUH4Ude4IEhMH1b",
+        "name": "Friedman: Piano Transcriptions",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222dd4e3d831398df548f9225"
+      },
       "release_date": "2016-08-12",
       "popularity": 52
     },
     {
-      "trackId": "08mG3Y1vljYA6bvDt4Wqkj",
-      "name": "Back In Black",
+      "track": {
+        "id": "08mG3Y1vljYA6bvDt4Wqkj",
+        "name": "Back In Black"
+      },
       "duration_ms": 255493,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "6mUdeDZCsExyJLMdAfDuwh",
+      "album": {
+        "id": "6mUdeDZCsExyJLMdAfDuwh",
+        "name": "Back In Black",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b51f8d91f3a21e8426361ae"
+      },
       "release_date": "1980-07-25",
       "popularity": 84
     },
     {
-      "trackId": "6sBTKQIgBx9W6MWnlI8un9",
-      "name": "Den bästa dagen",
+      "track": {
+        "id": "6sBTKQIgBx9W6MWnlI8un9",
+        "name": "Den bästa dagen"
+      },
       "duration_ms": 257813,
-      "artist": [
-        "Marie Fredriksson"
+      "artists": [
+        {
+          "name": "Marie Fredriksson",
+          "id": "4YkPXMsmFf3K2XFHPddqFU"
+        }
       ],
-      "artistId": [
-        "4YkPXMsmFf3K2XFHPddqFU"
-      ],
-      "albumId": "1f1ukED316vbiPCgE0Zd6d",
+      "album": {
+        "id": "1f1ukED316vbiPCgE0Zd6d",
+        "name": "Den bästa dagen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6eeea2bd9cd8e7f795d9fcf"
+      },
       "release_date": "1985-10-04",
       "popularity": 38
     },
     {
-      "trackId": "2gVl6JlyutUioIH5yHFoZ3",
-      "name": "Glimmande nymf",
+      "track": {
+        "id": "2gVl6JlyutUioIH5yHFoZ3",
+        "name": "Glimmande nymf"
+      },
       "duration_ms": 394293,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "13LevyBuVKNmKF95P8JDCA",
+      "album": {
+        "id": "13LevyBuVKNmKF95P8JDCA",
+        "name": "Fred Åkerström Sjunger Bellman Till Carl Michael",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e3a9a61943c99e1e3e9f60d"
+      },
       "release_date": "1964",
       "popularity": 29
     },
     {
-      "trackId": "23nCJgceeHQQhdu28g3sww",
-      "name": "Riksdagsmarsch, VB 154",
+      "track": {
+        "id": "23nCJgceeHQQhdu28g3sww",
+        "name": "Riksdagsmarsch, VB 154"
+      },
       "duration_ms": 230573,
-      "artist": [
-        "Joseph Martin Kraus",
-        "Orchestra of the Age of Enlightenment",
-        "Anthony Halstead"
+      "artists": [
+        {
+          "name": "Joseph Martin Kraus",
+          "id": "5Sh5bcsXTZJZlRgIrK1NxW"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "id": "1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Anthony Halstead",
+          "id": "2SSWdLQmVLFOZ2tTm2PqHS"
+        }
       ],
-      "artistId": [
-        "5Sh5bcsXTZJZlRgIrK1NxW",
-        "1WWZAYN8d4n4iwjYALmmKB",
-        "2SSWdLQmVLFOZ2tTm2PqHS"
-      ],
-      "albumId": "2ZXvWJczkJOc133q9ZmRZP",
+      "album": {
+        "id": "2ZXvWJczkJOc133q9ZmRZP",
+        "name": "Kraus: Symfonier / Symphonies",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e053778d1e5a429ada5569de"
+      },
       "release_date": "2012-03-01",
       "popularity": 0
     },
     {
-      "trackId": "4wGFTaengFG4o6nYZAK1Xg",
-      "name": "Samma gamla vanliga",
+      "track": {
+        "id": "4wGFTaengFG4o6nYZAK1Xg",
+        "name": "Samma gamla vanliga"
+      },
       "duration_ms": 129985,
-      "artist": [
-        "A36"
+      "artists": [
+        {
+          "name": "A36",
+          "id": "4QcudLddRQCbX8wrs6i2Gt"
+        }
       ],
-      "artistId": [
-        "4QcudLddRQCbX8wrs6i2Gt"
-      ],
-      "albumId": "5TtnZy1zAuJPcveJgGoHpP",
+      "album": {
+        "id": "5TtnZy1zAuJPcveJgGoHpP",
+        "name": "AREA 36",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b6f262d332a8d0eb1bdf5ee"
+      },
       "release_date": "2021-11-12",
       "popularity": 63
     },
     {
-      "trackId": "3AoLyMaCVjiAvuLqdlYjBN",
-      "name": "Medley",
+      "track": {
+        "id": "3AoLyMaCVjiAvuLqdlYjBN",
+        "name": "Medley"
+      },
       "duration_ms": 436733,
-      "artist": [
-        "The 78th Highlanders Pipe Band"
+      "artists": [
+        {
+          "name": "The 78th Highlanders Pipe Band",
+          "id": "1poj2pnTHein6jo35ZSvF4"
+        }
       ],
-      "artistId": [
-        "1poj2pnTHein6jo35ZSvF4"
-      ],
-      "albumId": "2jTBLCnteOplyisZyamgxi",
+      "album": {
+        "id": "2jTBLCnteOplyisZyamgxi",
+        "name": "Live in Scotland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd2ea78dcb1e1cf7839a67cd"
+      },
       "release_date": "1994-01-01",
       "popularity": 0
     },
     {
-      "trackId": "4jRJWlkCn3pAwezfqFODU3",
-      "name": "For Your Eyes Only",
+      "track": {
+        "id": "4jRJWlkCn3pAwezfqFODU3",
+        "name": "For Your Eyes Only"
+      },
       "duration_ms": 184480,
-      "artist": [
-        "Sheena Easton"
+      "artists": [
+        {
+          "name": "Sheena Easton",
+          "id": "5dcOK4stT4JDkP6Dqhbz5s"
+        }
       ],
-      "artistId": [
-        "5dcOK4stT4JDkP6Dqhbz5s"
-      ],
-      "albumId": "4Enc1z5S8zcRxrVKcgnTyn",
+      "album": {
+        "id": "4Enc1z5S8zcRxrVKcgnTyn",
+        "name": "You Could Have Been With Me [Bonus Tracks Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265169e9d81f021532fb65293"
+      },
       "release_date": "1981",
       "popularity": 58
     }

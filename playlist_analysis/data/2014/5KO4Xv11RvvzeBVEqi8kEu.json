@@ -7,198 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300193_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2LI5nLSU6LUbrSDofofv3W",
-      "name": "Någonstans i Sverige (Min Soldat) - Instrumental",
+      "track": {
+        "id": "2LI5nLSU6LUbrSDofofv3W",
+        "name": "Någonstans i Sverige (Min Soldat) - Instrumental"
+      },
       "duration_ms": 165165,
-      "artist": [
-        "Tommy Bergs"
+      "artists": [
+        {
+          "name": "Tommy Bergs",
+          "id": "3R8TMTUi3v0kp1s5zzeJyT"
+        }
       ],
-      "artistId": [
-        "3R8TMTUi3v0kp1s5zzeJyT"
-      ],
-      "albumId": "1S4kaFwMzBrTh8npelWeHX",
+      "album": {
+        "id": "1S4kaFwMzBrTh8npelWeHX",
+        "name": "Dansgoa låtar 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e0240f2ab2318fffa5e7f3e42f0"
+      },
       "release_date": "1984",
       "popularity": 13
     },
     {
-      "trackId": "07GvNcU1WdyZJq3XxP0kZa",
-      "name": "Go Your Own Way - 2004 Remaster",
+      "track": {
+        "id": "07GvNcU1WdyZJq3XxP0kZa",
+        "name": "Go Your Own Way - 2004 Remaster"
+      },
       "duration_ms": 223613,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "1bt6q2SruMsBtcerNVtpZB",
+      "album": {
+        "id": "1bt6q2SruMsBtcerNVtpZB",
+        "name": "Rumours",
+        "img": "https://i.scdn.co/image/ab67616d00001e020001af4f80be77069fc8fd41"
+      },
       "release_date": "1977-02-04",
       "popularity": 77
     },
     {
-      "trackId": "6w5j6CHKVppZRanO9Z0Mhd",
-      "name": "A Fine, Fine Boy",
+      "track": {
+        "id": "6w5j6CHKVppZRanO9Z0Mhd",
+        "name": "A Fine, Fine Boy"
+      },
       "duration_ms": 165746,
-      "artist": [
-        "Darlene Love"
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "id": "391oLRVmoTkumiN79HkTWu"
+        }
       ],
-      "artistId": [
-        "391oLRVmoTkumiN79HkTWu"
-      ],
-      "albumId": "020ep2kmPRC8tgh95hMP2i",
+      "album": {
+        "id": "020ep2kmPRC8tgh95hMP2i",
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d195ccf784713dbf548d9e92"
+      },
       "release_date": "2011-02-22",
       "popularity": 15
     },
     {
-      "trackId": "5jtLEtQarKHIjqO04aHXKj",
-      "name": "Stoned Love - 2003 Remix",
+      "track": {
+        "id": "5jtLEtQarKHIjqO04aHXKj",
+        "name": "Stoned Love - 2003 Remix"
+      },
       "duration_ms": 198600,
-      "artist": [
-        "The Supremes"
+      "artists": [
+        {
+          "name": "The Supremes",
+          "id": "57bUPid8xztkieZfS7OlEV"
+        }
       ],
-      "artistId": [
-        "57bUPid8xztkieZfS7OlEV"
-      ],
-      "albumId": "3LDMWTjlz9zvKuC7B1czYA",
+      "album": {
+        "id": "3LDMWTjlz9zvKuC7B1czYA",
+        "name": "The #1's",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be7494081cab2b5884d94151"
+      },
       "release_date": "2003-01-01",
       "popularity": 9
     },
     {
-      "trackId": "4EgKcG7aswxVfQEqa3dl8S",
-      "name": "It's All over Now, Baby Blue",
+      "track": {
+        "id": "4EgKcG7aswxVfQEqa3dl8S",
+        "name": "It's All over Now, Baby Blue"
+      },
       "duration_ms": 252066,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "1lPoRKSgZHQAYXxzBsOQ7v",
+      "album": {
+        "id": "1lPoRKSgZHQAYXxzBsOQ7v",
+        "name": "Bringing It All Back Home",
+        "img": "https://i.scdn.co/image/ab67616d00001e026960c5f4eb72f0c06aa92181"
+      },
       "release_date": "1965-03-22",
       "popularity": 51
     },
     {
-      "trackId": "2GtzX7UjLuAhnDH9C8p4Da",
-      "name": "You Can't Hurry Love",
+      "track": {
+        "id": "2GtzX7UjLuAhnDH9C8p4Da",
+        "name": "You Can't Hurry Love"
+      },
       "duration_ms": 124706,
-      "artist": [
-        "The Concretes"
+      "artists": [
+        {
+          "name": "The Concretes",
+          "id": "4uFpoTqyXb2tfvetAjmJQT"
+        }
       ],
-      "artistId": [
-        "4uFpoTqyXb2tfvetAjmJQT"
-      ],
-      "albumId": "4jBr1aLZRQrZ3uJD78XG4U",
+      "album": {
+        "id": "4jBr1aLZRQrZ3uJD78XG4U",
+        "name": "The Concretes",
+        "img": "https://i.scdn.co/image/ab67616d00001e026219c1fe05dab5993f6260f0"
+      },
       "release_date": "2003-05-23",
       "popularity": 19
     },
     {
-      "trackId": "1y4AtH1GrdHkIIaj6VX9bY",
-      "name": "Calling My Children Home - Live",
+      "track": {
+        "id": "1y4AtH1GrdHkIIaj6VX9bY",
+        "name": "Calling My Children Home - Live"
+      },
       "duration_ms": 195133,
-      "artist": [
-        "Emmylou Harris"
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "id": "5s6TJEuHTr9GR894wc6VfP"
+        }
       ],
-      "artistId": [
-        "5s6TJEuHTr9GR894wc6VfP"
-      ],
-      "albumId": "6QU3H8XFMeYIylEhEFmIIy",
+      "album": {
+        "id": "6QU3H8XFMeYIylEhEFmIIy",
+        "name": "At the Ryman (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c326a0a7fd8d791c47ba17b"
+      },
       "release_date": "1992-01-10",
       "popularity": 13
     },
     {
-      "trackId": "7COcoiWy4fuz0nH2v8BkRD",
-      "name": "Crash",
+      "track": {
+        "id": "7COcoiWy4fuz0nH2v8BkRD",
+        "name": "Crash"
+      },
       "duration_ms": 152200,
-      "artist": [
-        "The Primitives"
+      "artists": [
+        {
+          "name": "The Primitives",
+          "id": "4FPmAi3p4T3p0AsthfqHMA"
+        }
       ],
-      "artistId": [
-        "4FPmAi3p4T3p0AsthfqHMA"
-      ],
-      "albumId": "17BSRPsfwXoQwwGoRVHPBw",
+      "album": {
+        "id": "17BSRPsfwXoQwwGoRVHPBw",
+        "name": "Best Of",
+        "img": "https://i.scdn.co/image/ab67616d00001e02026c97edb4b984cccdc91204"
+      },
       "release_date": "1996-07-09",
       "popularity": 51
     },
     {
-      "trackId": "5OWsea313ovaQoXvsgWq79",
-      "name": "Whatever - Remastered",
+      "track": {
+        "id": "5OWsea313ovaQoXvsgWq79",
+        "name": "Whatever - Remastered"
+      },
       "duration_ms": 382266,
-      "artist": [
-        "Oasis"
+      "artists": [
+        {
+          "name": "Oasis",
+          "id": "2DaxqgrOhkeH0fpeiQq2f4"
+        }
       ],
-      "artistId": [
-        "2DaxqgrOhkeH0fpeiQq2f4"
-      ],
-      "albumId": "3AMHMM2aNG6k3d7ybcQ5bY",
+      "album": {
+        "id": "3AMHMM2aNG6k3d7ybcQ5bY",
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d86a1e021e7acc7c07c7d668"
+      },
       "release_date": "1994",
       "popularity": 59
     },
     {
-      "trackId": "1KdwPeY1WRWQGHCmRJTveb",
-      "name": "Cannonball",
+      "track": {
+        "id": "1KdwPeY1WRWQGHCmRJTveb",
+        "name": "Cannonball"
+      },
       "duration_ms": 213693,
-      "artist": [
-        "The Breeders"
+      "artists": [
+        {
+          "name": "The Breeders",
+          "id": "1xgFexIwrf2QjbU0buCNnp"
+        }
       ],
-      "artistId": [
-        "1xgFexIwrf2QjbU0buCNnp"
-      ],
-      "albumId": "57F44c0MTziVzHPEuJtH9A",
+      "album": {
+        "id": "57F44c0MTziVzHPEuJtH9A",
+        "name": "Last Splash",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd6cef9805781ced011653d6"
+      },
       "release_date": "1993-08-30",
       "popularity": 64
     },
     {
-      "trackId": "0rJ11PgSzRDjDPBQOQ3wLP",
-      "name": "Askan är den bästa jorden",
+      "track": {
+        "id": "0rJ11PgSzRDjDPBQOQ3wLP",
+        "name": "Askan är den bästa jorden"
+      },
       "duration_ms": 187280,
-      "artist": [
-        "Markus Krunegård"
+      "artists": [
+        {
+          "name": "Markus Krunegård",
+          "id": "3P6ePaE5unCm7vjccfcBAe"
+        }
       ],
-      "artistId": [
-        "3P6ePaE5unCm7vjccfcBAe"
-      ],
-      "albumId": "0snLl5NOtBxWegGE6BHJ4Y",
+      "album": {
+        "id": "0snLl5NOtBxWegGE6BHJ4Y",
+        "name": "Mänsklig värme",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3f007246c7d0984b27db227"
+      },
       "release_date": "2012-01-01",
       "popularity": 44
     },
     {
-      "trackId": "5pvxe9Bx9VgL59ScsM11mt",
-      "name": "I'm Always in Love",
+      "track": {
+        "id": "5pvxe9Bx9VgL59ScsM11mt",
+        "name": "I'm Always in Love"
+      },
       "duration_ms": 221133,
-      "artist": [
-        "Wilco"
+      "artists": [
+        {
+          "name": "Wilco",
+          "id": "2QoU3awHVdcHS8LrZEKvSM"
+        }
       ],
-      "artistId": [
-        "2QoU3awHVdcHS8LrZEKvSM"
-      ],
-      "albumId": "1JpaFJzzcsiulO6MdIcQdK",
+      "album": {
+        "id": "1JpaFJzzcsiulO6MdIcQdK",
+        "name": "Summerteeth",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221c8fd8cba79e6aaccc8ebf8"
+      },
       "release_date": "1999-03-08",
       "popularity": 35
     },
     {
-      "trackId": "05amtAu0JlaYUWLEqPKCtP",
-      "name": "Drömmen om Elin",
+      "track": {
+        "id": "05amtAu0JlaYUWLEqPKCtP",
+        "name": "Drömmen om Elin"
+      },
       "duration_ms": 148360,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "69KkOFZHGPVSrF6soNzKmA",
+      "album": {
+        "id": "69KkOFZHGPVSrF6soNzKmA",
+        "name": "Gränslös - Det bästa med Tommy Körberg (2012 version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f972c947ea7261f5465a1db6"
+      },
       "release_date": "2012-01-01",
       "popularity": 36
     },
     {
-      "trackId": "5RiFMt12WuYYJ2w3DtLKzN",
-      "name": "Eating U",
+      "track": {
+        "id": "5RiFMt12WuYYJ2w3DtLKzN",
+        "name": "Eating U"
+      },
       "duration_ms": 250482,
-      "artist": [
-        "The Muttons"
+      "artists": [
+        {
+          "name": "The Muttons",
+          "id": "6gUdWsdOb74cMBXpgut4uH"
+        }
       ],
-      "artistId": [
-        "6gUdWsdOb74cMBXpgut4uH"
-      ],
-      "albumId": "0KiSq3aQOhH2f0wlR2z1UN",
+      "album": {
+        "id": "0KiSq3aQOhH2f0wlR2z1UN",
+        "name": "Eating U",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd2cb0f9d8cc210c449ece21"
+      },
       "release_date": "2022-05-27",
       "popularity": 9
     }

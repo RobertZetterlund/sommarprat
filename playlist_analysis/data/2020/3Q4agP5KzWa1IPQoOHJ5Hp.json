@@ -7,218 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/00cd267a-8b22-4063-805d-1f010055616d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7MMHXZAMavcZW2r1NyUPGX",
-      "name": "Ca plane pour moi",
+      "track": {
+        "id": "7MMHXZAMavcZW2r1NyUPGX",
+        "name": "Ca plane pour moi"
+      },
       "duration_ms": 349133,
-      "artist": [
-        "Leila K"
+      "artists": [
+        {
+          "name": "Leila K",
+          "id": "61Da4fqVMgPoo9mYY0R3k6"
+        }
       ],
-      "artistId": [
-        "61Da4fqVMgPoo9mYY0R3k6"
-      ],
-      "albumId": "2Lb5mIrqMfoTYcxxUVthrA",
+      "album": {
+        "id": "2Lb5mIrqMfoTYcxxUVthrA",
+        "name": "Carousel",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280c4a0558837c2878b685616"
+      },
       "release_date": "1993",
       "popularity": 33
     },
     {
-      "trackId": "0jJvA3N7Ab9U5me5v1Jpgh",
-      "name": "Dela på hälften",
+      "track": {
+        "id": "0jJvA3N7Ab9U5me5v1Jpgh",
+        "name": "Dela på hälften"
+      },
       "duration_ms": 205384,
-      "artist": [
-        "Parham"
+      "artists": [
+        {
+          "name": "Parham",
+          "id": "3ldCASdD4QRyfTt6lpPn6y"
+        }
       ],
-      "artistId": [
-        "3ldCASdD4QRyfTt6lpPn6y"
-      ],
-      "albumId": "3BbUVqXNE5VWcd5LDDZ1AX",
+      "album": {
+        "id": "3BbUVqXNE5VWcd5LDDZ1AX",
+        "name": "Pojk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02400c8121474b5339358c4939"
+      },
       "release_date": "2014-05-28",
       "popularity": 21
     },
     {
-      "trackId": "4rLsbV5mXnwyn5JWpmHoys",
-      "name": "As We Enter",
+      "track": {
+        "id": "4rLsbV5mXnwyn5JWpmHoys",
+        "name": "As We Enter"
+      },
       "duration_ms": 147906,
-      "artist": [
-        "Nas & Damian \"Jr. Gong\" Marley"
+      "artists": [
+        {
+          "name": "Nas & Damian \"Jr. Gong\" Marley",
+          "id": "3w2WYNyPCPkZFoC1EqfCMe"
+        }
       ],
-      "artistId": [
-        "3w2WYNyPCPkZFoC1EqfCMe"
-      ],
-      "albumId": "6Cj4gSdavyZCIhmeoCcrI6",
+      "album": {
+        "id": "6Cj4gSdavyZCIhmeoCcrI6",
+        "name": "Distant Relatives",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcc94ef1f8605f3fbd4a4144"
+      },
       "release_date": "2010-05-18",
       "popularity": 48
     },
     {
-      "trackId": "7uWVT3UkCAZyANvv0bdyQn",
-      "name": "These Walls",
+      "track": {
+        "id": "7uWVT3UkCAZyANvv0bdyQn",
+        "name": "These Walls"
+      },
       "duration_ms": 300973,
-      "artist": [
-        "Kendrick Lamar",
-        "Bilal",
-        "Anna Wise"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Bilal",
+          "id": "4jCbgl5Dmt3uOh8WRQfpPs"
+        },
+        {
+          "name": "Anna Wise",
+          "id": "0N41KJ4H6bkPAm2tx7VS8C"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg",
-        "4jCbgl5Dmt3uOh8WRQfpPs",
-        "0N41KJ4H6bkPAm2tx7VS8C"
-      ],
-      "albumId": "7ycBtnsMtyVbbwTfJwRjSP",
+      "album": {
+        "id": "7ycBtnsMtyVbbwTfJwRjSP",
+        "name": "To Pimp A Butterfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1"
+      },
       "release_date": "2015-03-16",
       "popularity": 65
     },
     {
-      "trackId": "2I9LhidNNRRLKFKzIU9pkg",
-      "name": "Bittersweet Symphony",
+      "track": {
+        "id": "2I9LhidNNRRLKFKzIU9pkg",
+        "name": "Bittersweet Symphony"
+      },
       "duration_ms": 205813,
-      "artist": [
-        "Scala & Kolacny Brothers"
+      "artists": [
+        {
+          "name": "Scala & Kolacny Brothers",
+          "id": "5cXCuJjbyxee1uCILXatYZ"
+        }
       ],
-      "artistId": [
-        "5cXCuJjbyxee1uCILXatYZ"
-      ],
-      "albumId": "4qjoXLZRCAtui4PWpoRosO",
+      "album": {
+        "id": "4qjoXLZRCAtui4PWpoRosO",
+        "name": "Dream On",
+        "img": "https://i.scdn.co/image/ab67616d00001e022805466fec497ec813899e2b"
+      },
       "release_date": "2004-01-24",
       "popularity": 24
     },
     {
-      "trackId": "4KK5zXPdms6SRj1uZn1cmn",
-      "name": "BORN FREE",
+      "track": {
+        "id": "4KK5zXPdms6SRj1uZn1cmn",
+        "name": "BORN FREE"
+      },
       "duration_ms": 247493,
-      "artist": [
-        "M.I.A."
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "id": "0QJIPDAEDILuo8AIq3pMuU"
+        }
       ],
-      "artistId": [
-        "0QJIPDAEDILuo8AIq3pMuU"
-      ],
-      "albumId": "7BIbGgOmGMhLscZqowMSDV",
+      "album": {
+        "id": "7BIbGgOmGMhLscZqowMSDV",
+        "name": "/\\/\\ /\\ Y /\\",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b80ef28f07784e3e6036a65"
+      },
       "release_date": "2010-07-12",
       "popularity": 40
     },
     {
-      "trackId": "0SlVvyU9LWTzsnPc8lcoUs",
-      "name": "Ghost Rider - 2019 - Remaster",
+      "track": {
+        "id": "0SlVvyU9LWTzsnPc8lcoUs",
+        "name": "Ghost Rider - 2019 - Remaster"
+      },
       "duration_ms": 153440,
-      "artist": [
-        "Suicide"
+      "artists": [
+        {
+          "name": "Suicide",
+          "id": "6uVeWolwyRDrT84lLsaZyW"
+        }
       ],
-      "artistId": [
-        "6uVeWolwyRDrT84lLsaZyW"
-      ],
-      "albumId": "0wKU4153oTf5Ne3Wbbcykd",
+      "album": {
+        "id": "0wKU4153oTf5Ne3Wbbcykd",
+        "name": "Suicide (2019 - Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f3c21dcc76950daea2661b0"
+      },
       "release_date": "1977-12-28",
       "popularity": 44
     },
     {
-      "trackId": "7daIxTIYKMuIE7uzgG7iuQ",
-      "name": "On the Radio (Music from the Netflix Original Series Sex Education)",
+      "track": {
+        "id": "7daIxTIYKMuIE7uzgG7iuQ",
+        "name": "On the Radio (Music from the Netflix Original Series Sex Education)"
+      },
       "duration_ms": 276174,
-      "artist": [
-        "Chip Taylor"
+      "artists": [
+        {
+          "name": "Chip Taylor",
+          "id": "4J9k7L7BrJ7NMWAcvgox1B"
+        }
       ],
-      "artistId": [
-        "4J9k7L7BrJ7NMWAcvgox1B"
-      ],
-      "albumId": "3dCTdZvUfwAX5wxzvGDYz8",
+      "album": {
+        "id": "3dCTdZvUfwAX5wxzvGDYz8",
+        "name": "On the Radio (Music from the Netflix Original Series Sex Education)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1a1a69bae89209a132d5e0f"
+      },
       "release_date": "2020-01-17",
       "popularity": 43
     },
     {
-      "trackId": "3muTNIF0ZzgkTrkksQW4TS",
-      "name": "Demme / Ala Gözlü Nazlı Pirim",
+      "track": {
+        "id": "3muTNIF0ZzgkTrkksQW4TS",
+        "name": "Demme / Ala Gözlü Nazlı Pirim"
+      },
       "duration_ms": 337173,
-      "artist": [
-        "Kardes Türküler"
+      "artists": [
+        {
+          "name": "Kardes Türküler",
+          "id": "3MbsT2QoYOphVRqqMPQksZ"
+        }
       ],
-      "artistId": [
-        "3MbsT2QoYOphVRqqMPQksZ"
-      ],
-      "albumId": "7Awh3gx16G3gdZykOBjqS5",
+      "album": {
+        "id": "7Awh3gx16G3gdZykOBjqS5",
+        "name": "Kardeş Türküler",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270d6a8c3e16168786ee63a3f"
+      },
       "release_date": "1997-01-05",
       "popularity": 38
     },
     {
-      "trackId": "159F1pdX35fbRevVBbjTFw",
-      "name": "The Times They Are A-Changin' - Outtake",
+      "track": {
+        "id": "159F1pdX35fbRevVBbjTFw",
+        "name": "The Times They Are A-Changin' - Outtake"
+      },
       "duration_ms": 58426,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "5pSGlGB1DVrSlvQBcvlPyB",
+      "album": {
+        "id": "5pSGlGB1DVrSlvQBcvlPyB",
+        "name": "A Single Woman (Expanded)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d693ccbdcda6568bb4491ee"
+      },
       "release_date": "1993",
       "popularity": 42
     },
     {
-      "trackId": "2FnTv6M207HiLskOeAda8k",
-      "name": "400 Years",
+      "track": {
+        "id": "2FnTv6M207HiLskOeAda8k",
+        "name": "400 Years"
+      },
       "duration_ms": 178000,
-      "artist": [
-        "J Ghost the Conscious Hippy"
+      "artists": [
+        {
+          "name": "J Ghost the Conscious Hippy",
+          "id": "18ZKouDsacgX29O3kwjytv"
+        }
       ],
-      "artistId": [
-        "18ZKouDsacgX29O3kwjytv"
-      ],
-      "albumId": "5PHJ2AqqUtJa9NycRoKbiI",
+      "album": {
+        "id": "5PHJ2AqqUtJa9NycRoKbiI",
+        "name": "400 Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e020fa454f8586a08f88f7af73e"
+      },
       "release_date": "2022-07-17",
       "popularity": 0
     },
     {
-      "trackId": "3PAAraURTeoxX4XOF7F2zU",
-      "name": "Sevda Türküsü",
+      "track": {
+        "id": "3PAAraURTeoxX4XOF7F2zU",
+        "name": "Sevda Türküsü"
+      },
       "duration_ms": 294940,
-      "artist": [
-        "Grup Yorum"
+      "artists": [
+        {
+          "name": "Grup Yorum",
+          "id": "4FjxqqOXKI1eGLrYn3GUq4"
+        }
       ],
-      "artistId": [
-        "4FjxqqOXKI1eGLrYn3GUq4"
-      ],
-      "albumId": "4faqx3YE3E1VbKXedsmz3J",
+      "album": {
+        "id": "4faqx3YE3E1VbKXedsmz3J",
+        "name": "Cesaret",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277047d32ddc92c596ae62b10"
+      },
       "release_date": "1993-01-20",
       "popularity": 43
     },
     {
-      "trackId": "1nupohP9Nrf0iGzPa9FPra",
-      "name": "Jag låg med henne i Tjeckoslovakien",
+      "track": {
+        "id": "1nupohP9Nrf0iGzPa9FPra",
+        "name": "Jag låg med henne i Tjeckoslovakien"
+      },
       "duration_ms": 161626,
-      "artist": [
-        "Doktor Kosmos"
+      "artists": [
+        {
+          "name": "Doktor Kosmos",
+          "id": "1n14d4zMN8otdsf3PU0krI"
+        }
       ],
-      "artistId": [
-        "1n14d4zMN8otdsf3PU0krI"
-      ],
-      "albumId": "3dJicoL4gaQ38sXZFJNwS7",
+      "album": {
+        "id": "3dJicoL4gaQ38sXZFJNwS7",
+        "name": "Reportage!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e80cc14146d0693a440bf462"
+      },
       "release_date": "2002-01-01",
       "popularity": 27
     },
     {
-      "trackId": "0725YWm6Z0TpZ6wrNk64Eb",
-      "name": "Super Rich Kids",
+      "track": {
+        "id": "0725YWm6Z0TpZ6wrNk64Eb",
+        "name": "Super Rich Kids"
+      },
       "duration_ms": 304760,
-      "artist": [
-        "Frank Ocean",
-        "Earl Sweatshirt"
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "id": "2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "id": "3A5tHz1SfngyOZM2gItYKu"
+        }
       ],
-      "artistId": [
-        "2h93pZq0e7k5yf4dywlkpM",
-        "3A5tHz1SfngyOZM2gItYKu"
-      ],
-      "albumId": "392p3shh2jkxUxY2VHvlH8",
+      "album": {
+        "id": "392p3shh2jkxUxY2VHvlH8",
+        "name": "channel ORANGE",
+        "img": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5"
+      },
       "release_date": "2012-07-10",
       "popularity": 73
     },
     {
-      "trackId": "1x9ahz0ALGHgbN9wwDjmre",
-      "name": "Here Comes the Sun",
+      "track": {
+        "id": "1x9ahz0ALGHgbN9wwDjmre",
+        "name": "Here Comes the Sun"
+      },
       "duration_ms": 214093,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3bm8jq96m8I1FZc8BsfG8g",
+      "album": {
+        "id": "3bm8jq96m8I1FZc8BsfG8g",
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e61aa18bbda3f9c5dbb499b7"
+      },
       "release_date": "1971",
       "popularity": 55
     }

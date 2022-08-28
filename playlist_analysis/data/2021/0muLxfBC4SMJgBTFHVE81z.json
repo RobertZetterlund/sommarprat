@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f4615eb3-23ab-4ba7-88c2-f7d29909a7b3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1iNeZGJsoC0D7ZyJTdIbDS",
-      "name": "Technologic",
+      "track": {
+        "id": "1iNeZGJsoC0D7ZyJTdIbDS",
+        "name": "Technologic"
+      },
       "duration_ms": 284280,
-      "artist": [
-        "Daft Punk"
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi"
+        }
       ],
-      "artistId": [
-        "4tZwfgrHOc3mvqYlEYSvVi"
-      ],
-      "albumId": "2T7DdrOvsqOqU9bGTkjBYu",
+      "album": {
+        "id": "2T7DdrOvsqOqU9bGTkjBYu",
+        "name": "Human After All",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ed719bad67261c7bf090c70"
+      },
       "release_date": "2005-03-14",
       "popularity": 55
     },
     {
-      "trackId": "7wMq5n8mYSKlQIGECKUgTX",
-      "name": "Hall of Fame (feat. will.i.am)",
+      "track": {
+        "id": "7wMq5n8mYSKlQIGECKUgTX",
+        "name": "Hall of Fame (feat. will.i.am)"
+      },
       "duration_ms": 202533,
-      "artist": [
-        "The Script",
-        "will.i.am"
+      "artists": [
+        {
+          "name": "The Script",
+          "id": "3AQRLZ9PuTAozP28Skbq8V"
+        },
+        {
+          "name": "will.i.am",
+          "id": "085pc2PYOi8bGKj0PNjekA"
+        }
       ],
-      "artistId": [
-        "3AQRLZ9PuTAozP28Skbq8V",
-        "085pc2PYOi8bGKj0PNjekA"
-      ],
-      "albumId": "7JOCOjZTcLysDMkZGWlcIj",
+      "album": {
+        "id": "7JOCOjZTcLysDMkZGWlcIj",
+        "name": "#3 Deluxe Version",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e3049fef96abebf336b7366"
+      },
       "release_date": "2012-09-10",
       "popularity": 78
     },
     {
-      "trackId": "4OSBTYWVwsQhGLF9NHvIbR",
-      "name": "Rolling in the Deep",
+      "track": {
+        "id": "4OSBTYWVwsQhGLF9NHvIbR",
+        "name": "Rolling in the Deep"
+      },
       "duration_ms": 228093,
-      "artist": [
-        "Adele"
+      "artists": [
+        {
+          "name": "Adele",
+          "id": "4dpARuHxo51G3z768sgnrY"
+        }
       ],
-      "artistId": [
-        "4dpARuHxo51G3z768sgnrY"
-      ],
-      "albumId": "5duyQokC4FMcWPYTV9Gpf9",
+      "album": {
+        "id": "5duyQokC4FMcWPYTV9Gpf9",
+        "name": "21",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb7eedd9877b0c60597ef3e5"
+      },
       "release_date": "2011-01-24",
       "popularity": 79
     },
     {
-      "trackId": "6slsXkKry3wmfgQB72uBOY",
-      "name": "Indestructible",
+      "track": {
+        "id": "6slsXkKry3wmfgQB72uBOY",
+        "name": "Indestructible"
+      },
       "duration_ms": 221797,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "18yDzTr0dsuw268dHopO43",
+      "album": {
+        "id": "18yDzTr0dsuw268dHopO43",
+        "name": "Body Talk",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bfb416d8152f65f857fbcb0"
+      },
       "release_date": "2010-11-22",
       "popularity": 39
     },
     {
-      "trackId": "617Aca3P9fZ3KHHIdVfz4K",
-      "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar",
+      "track": {
+        "id": "617Aca3P9fZ3KHHIdVfz4K",
+        "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar"
+      },
       "duration_ms": 135306,
-      "artist": [
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "7LqQIEXYenRZEB0qoMsVVu",
+      "album": {
+        "id": "7LqQIEXYenRZEB0qoMsVVu",
+        "name": "Lådan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ed8333ce014fc546bf997c"
+      },
       "release_date": "1968-01-01",
       "popularity": 23
     },
     {
-      "trackId": "617Aca3P9fZ3KHHIdVfz4K",
-      "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar",
+      "track": {
+        "id": "617Aca3P9fZ3KHHIdVfz4K",
+        "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar"
+      },
       "duration_ms": 135306,
-      "artist": [
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "7LqQIEXYenRZEB0qoMsVVu",
+      "album": {
+        "id": "7LqQIEXYenRZEB0qoMsVVu",
+        "name": "Lådan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ed8333ce014fc546bf997c"
+      },
       "release_date": "1968-01-01",
       "popularity": 23
     },
     {
-      "trackId": "6lOWoTqVnAWXchddtTH31W",
-      "name": "Leave a Light On",
+      "track": {
+        "id": "6lOWoTqVnAWXchddtTH31W",
+        "name": "Leave a Light On"
+      },
       "duration_ms": 185863,
-      "artist": [
-        "Tom Walker"
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "id": "7z2avKuuiMAT4XZJFv8Rvh"
+        }
       ],
-      "artistId": [
-        "7z2avKuuiMAT4XZJFv8Rvh"
-      ],
-      "albumId": "3pczowjToa5SYsI6Th4KO8",
+      "album": {
+        "id": "3pczowjToa5SYsI6Th4KO8",
+        "name": "Leave a Light On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc1a09ac82f9aa9af62f2ca4"
+      },
       "release_date": "2017-10-13",
       "popularity": 70
     },
     {
-      "trackId": "7mkm8ry8rZEzJ9C5wQZZrY",
-      "name": "No Matter (Basic Tape vs. Frances)",
+      "track": {
+        "id": "7mkm8ry8rZEzJ9C5wQZZrY",
+        "name": "No Matter (Basic Tape vs. Frances)"
+      },
       "duration_ms": 191199,
-      "artist": [
-        "Basic Tape"
+      "artists": [
+        {
+          "name": "Basic Tape",
+          "id": "6EzGm3fYBR8QcdIZ0xvHsl"
+        }
       ],
-      "artistId": [
-        "6EzGm3fYBR8QcdIZ0xvHsl"
-      ],
-      "albumId": "3UNZJKalAvsZuzsystxHCO",
+      "album": {
+        "id": "3UNZJKalAvsZuzsystxHCO",
+        "name": "No Matter (Basic Tape vs. Frances)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d0367d074ea460f11f8be73"
+      },
       "release_date": "2017-03-10",
       "popularity": 46
     },
     {
-      "trackId": "6Tio0ZoDeSQnI7EBAqWer2",
-      "name": "Cover Me In Sunshine",
+      "track": {
+        "id": "6Tio0ZoDeSQnI7EBAqWer2",
+        "name": "Cover Me In Sunshine"
+      },
       "duration_ms": 141050,
-      "artist": [
-        "P!nk",
-        "Willow Sage Hart"
+      "artists": [
+        {
+          "name": "P!nk",
+          "id": "1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Willow Sage Hart",
+          "id": "0gAILSEru1PKMwP0tAqNLS"
+        }
       ],
-      "artistId": [
-        "1KCSPY1glIKqW2TotWuXOR",
-        "0gAILSEru1PKMwP0tAqNLS"
-      ],
-      "albumId": "7p0HJKqXo2WpApHFp1iDcI",
+      "album": {
+        "id": "7p0HJKqXo2WpApHFp1iDcI",
+        "name": "Cover Me In Sunshine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e465904fbcc8de1920c60867"
+      },
       "release_date": "2021-02-12",
       "popularity": 75
     },
     {
-      "trackId": "2KWI43agrQEFVLM3soOmKW",
-      "name": "Something Has to Change",
+      "track": {
+        "id": "2KWI43agrQEFVLM3soOmKW",
+        "name": "Something Has to Change"
+      },
       "duration_ms": 191200,
-      "artist": [
-        "The Japanese House"
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "id": "3IunaFjvNKj98JW89JYv9u"
+        }
       ],
-      "artistId": [
-        "3IunaFjvNKj98JW89JYv9u"
-      ],
-      "albumId": "1OlByJ5jsP9Eklfp03Xn8z",
+      "album": {
+        "id": "1OlByJ5jsP9Eklfp03Xn8z",
+        "name": "Chewing Cotton Wool",
+        "img": "https://i.scdn.co/image/ab67616d00001e028935646998a8d28d13bc348d"
+      },
       "release_date": "2020-08-12",
       "popularity": 58
     },
     {
-      "trackId": "6kga9ZYARzHBprnLOENrMQ",
-      "name": "194 Länder - Single Version",
+      "track": {
+        "id": "6kga9ZYARzHBprnLOENrMQ",
+        "name": "194 Länder - Single Version"
+      },
       "duration_ms": 220893,
-      "artist": [
-        "Mark Forster"
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "id": "7qXzy6c5RWT0XlVQcOBIDG"
+        }
       ],
-      "artistId": [
-        "7qXzy6c5RWT0XlVQcOBIDG"
-      ],
-      "albumId": "0L0xCOeLaNEErHE74qOfED",
+      "album": {
+        "id": "0L0xCOeLaNEErHE74qOfED",
+        "name": "194 Länder",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b42f4741339793013a85c11b"
+      },
       "release_date": "2019-09-13",
       "popularity": 49
     },
     {
-      "trackId": "60BaGPl1azzysIqYL1hIrh",
-      "name": "Take The World By Storm",
+      "track": {
+        "id": "60BaGPl1azzysIqYL1hIrh",
+        "name": "Take The World By Storm"
+      },
       "duration_ms": 191760,
-      "artist": [
-        "Lukas Graham"
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "id": "25u4wHJWxCA9vO0CzxAbK7"
+        }
       ],
-      "artistId": [
-        "25u4wHJWxCA9vO0CzxAbK7"
-      ],
-      "albumId": "0o2W2d2Zl7Bur5jph6phkm",
+      "album": {
+        "id": "0o2W2d2Zl7Bur5jph6phkm",
+        "name": "Lukas Graham (Blue Album) [International Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c732ca822365cf776553473d"
+      },
       "release_date": "2016-04-01",
       "popularity": 34
     },
     {
-      "trackId": "4rg0qXQd00nfQTTpu5U6sP",
-      "name": "Himlen är oskyldigt blå",
+      "track": {
+        "id": "4rg0qXQd00nfQTTpu5U6sP",
+        "name": "Himlen är oskyldigt blå"
+      },
       "duration_ms": 273320,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 51
     }

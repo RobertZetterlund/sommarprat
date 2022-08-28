@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344786_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "20OFwXhEXf12DzwXmaV7fj",
-      "name": "Bad Moon Rising",
+      "track": {
+        "id": "20OFwXhEXf12DzwXmaV7fj",
+        "name": "Bad Moon Rising"
+      },
       "duration_ms": 141600,
-      "artist": [
-        "Creedence Clearwater Revival"
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": "3IYUhFvPQItj6xySrBmZkd"
+        }
       ],
-      "artistId": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ],
-      "albumId": "0i9mOB6mPGqwVvtJEXiwPG",
+      "album": {
+        "id": "0i9mOB6mPGqwVvtJEXiwPG",
+        "name": "Green River (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023efcd243aaa5638f55318f91"
+      },
       "release_date": "1969-08-03",
       "popularity": 78
     },
     {
-      "trackId": "7JkzG4VpYdYnaLvigLaSJO",
-      "name": "Paktiya",
+      "track": {
+        "id": "7JkzG4VpYdYnaLvigLaSJO",
+        "name": "Paktiya"
+      },
       "duration_ms": 220000,
-      "artist": [
-        "Wajiha & Farid Rastagar"
+      "artists": [
+        {
+          "name": "Wajiha & Farid Rastagar",
+          "id": "0gCb4kGtOpjgh8TzTxDcbh"
+        }
       ],
-      "artistId": [
-        "0gCb4kGtOpjgh8TzTxDcbh"
-      ],
-      "albumId": "2CEHpOawgzAYOhGJ8c68V6",
+      "album": {
+        "id": "2CEHpOawgzAYOhGJ8c68V6",
+        "name": "Khanaye Del",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d819b88ce1db5965f6f0230"
+      },
       "release_date": "1999-05-11",
       "popularity": 1
     },
     {
-      "trackId": "2Urp97HsYkMWMLwxEOlYqD",
-      "name": "Saqi",
+      "track": {
+        "id": "2Urp97HsYkMWMLwxEOlYqD",
+        "name": "Saqi"
+      },
       "duration_ms": 345226,
-      "artist": [
-        "Ahmad Wali"
+      "artists": [
+        {
+          "name": "Ahmad Wali",
+          "id": "3Okynjads8xRKpz7pQ7JMY"
+        }
       ],
-      "artistId": [
-        "3Okynjads8xRKpz7pQ7JMY"
-      ],
-      "albumId": "2OjfkrN4MnFmV9UR4iLxI4",
+      "album": {
+        "id": "2OjfkrN4MnFmV9UR4iLxI4",
+        "name": "Aftab",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e037f9d08477f545a14629ca"
+      },
       "release_date": "2021-08-04",
       "popularity": 15
     },
     {
-      "trackId": "5rhOhycv6OSpRMFBWHdH9S",
-      "name": "Yehi Hai Fasana",
+      "track": {
+        "id": "5rhOhycv6OSpRMFBWHdH9S",
+        "name": "Yehi Hai Fasana"
+      },
       "duration_ms": 362213,
-      "artist": [
-        "Pankaj Udhas"
+      "artists": [
+        {
+          "name": "Pankaj Udhas",
+          "id": "4Qpbhxe0sO2zhvUVfODdZw"
+        }
       ],
-      "artistId": [
-        "4Qpbhxe0sO2zhvUVfODdZw"
-      ],
-      "albumId": "6Le4Bn0L40UlmtcygezaWN",
+      "album": {
+        "id": "6Le4Bn0L40UlmtcygezaWN",
+        "name": "The Legend Forever - Pankaj Udhas - Vol.4",
+        "img": "https://i.scdn.co/image/ab67616d00001e0207e1d8398a7f5ab9f79d5c9d"
+      },
       "release_date": "2012-01-01",
       "popularity": 1
     },
     {
-      "trackId": "7feXfWmlyq4GDNO1j581Oc",
-      "name": "Mahalul Qiyam",
+      "track": {
+        "id": "7feXfWmlyq4GDNO1j581Oc",
+        "name": "Mahalul Qiyam"
+      },
       "duration_ms": 359292,
-      "artist": [
-        "Habib Syech Bin Abdul Qadir Assegaf"
+      "artists": [
+        {
+          "name": "Habib Syech Bin Abdul Qadir Assegaf",
+          "id": "4kS72YSTm1t9GozFSKipUl"
+        }
       ],
-      "artistId": [
-        "4kS72YSTm1t9GozFSKipUl"
-      ],
-      "albumId": "5ZAMKQHhVtGbbNMnCZE3Qd",
+      "album": {
+        "id": "5ZAMKQHhVtGbbNMnCZE3Qd",
+        "name": "The Best Live Shalawat Habib Syech (Vol.2)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0215f31d8167dead4faed3bc63"
+      },
       "release_date": "2021-04-20",
       "popularity": 27
     },
     {
-      "trackId": "0GjEhVFGZW8afUYGChu3Rr",
-      "name": "Dancing Queen",
+      "track": {
+        "id": "0GjEhVFGZW8afUYGChu3Rr",
+        "name": "Dancing Queen"
+      },
       "duration_ms": 230400,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1V6a99EbTTIegOhWoPxYI9",
+      "album": {
+        "id": "1V6a99EbTTIegOhWoPxYI9",
+        "name": "Arrival",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0"
+      },
       "release_date": "1976",
       "popularity": 83
     },
     {
-      "trackId": "4XIGVSYCN3CBXabZMwa11F",
-      "name": "Africa",
+      "track": {
+        "id": "4XIGVSYCN3CBXabZMwa11F",
+        "name": "Africa"
+      },
       "duration_ms": 291946,
-      "artist": [
-        "Habib Koité"
+      "artists": [
+        {
+          "name": "Habib Koité",
+          "id": "2laFwNRffMM18LvKKDxCs9"
+        }
       ],
-      "artistId": [
-        "2laFwNRffMM18LvKKDxCs9"
-      ],
-      "albumId": "1rTWfR3inrijFNyDBnoxGU",
+      "album": {
+        "id": "1rTWfR3inrijFNyDBnoxGU",
+        "name": "Afriki",
+        "img": "https://i.scdn.co/image/ab67616d00001e02feaa9185717a53864f6bbd86"
+      },
       "release_date": "2007-09-25",
       "popularity": 31
     },
     {
-      "trackId": "5HTeHz54J8QuXS5pyuLkfF",
-      "name": "Nadanestam",
+      "track": {
+        "id": "5HTeHz54J8QuXS5pyuLkfF",
+        "name": "Nadanestam"
+      },
       "duration_ms": 211200,
-      "artist": [
-        "Ahmad Zahir"
+      "artists": [
+        {
+          "name": "Ahmad Zahir",
+          "id": "7CLiUunU7RG85NX7bhjvw7"
+        }
       ],
-      "artistId": [
-        "7CLiUunU7RG85NX7bhjvw7"
-      ],
-      "albumId": "0h3rIvaHMLgJSpj2QLTO9i",
+      "album": {
+        "id": "0h3rIvaHMLgJSpj2QLTO9i",
+        "name": "Saaghi",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e33f7d98e9e1fd25462d535"
+      },
       "release_date": "1968-10-04",
       "popularity": 21
     },
     {
-      "trackId": "7hQgwzBCXsdIRsaFonrS3P",
-      "name": "Life Is a Flower",
+      "track": {
+        "id": "7hQgwzBCXsdIRsaFonrS3P",
+        "name": "Life Is a Flower"
+      },
       "duration_ms": 227040,
-      "artist": [
-        "Ace of Base"
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "id": "5ksRONqssB7BR161NTtJAm"
+        }
       ],
-      "artistId": [
-        "5ksRONqssB7BR161NTtJAm"
-      ],
-      "albumId": "4oXtR5JbdA9PLwbR49zx9Q",
+      "album": {
+        "id": "4oXtR5JbdA9PLwbR49zx9Q",
+        "name": "Flowers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f82c35d0067cd13f928330d1"
+      },
       "release_date": "1998-01-21",
       "popularity": 57
     },
     {
-      "trackId": "1yDNiVpmZBQ2MWoPvdv5sV",
-      "name": "Marco Polo",
+      "track": {
+        "id": "1yDNiVpmZBQ2MWoPvdv5sV",
+        "name": "Marco Polo"
+      },
       "duration_ms": 317369,
-      "artist": [
-        "Loreena McKennitt"
+      "artists": [
+        {
+          "name": "Loreena McKennitt",
+          "id": "1JdeDdujDbS6ZeSlkXqx3a"
+        }
       ],
-      "artistId": [
-        "1JdeDdujDbS6ZeSlkXqx3a"
-      ],
-      "albumId": "3cgsVPDpdP8P5y9TteUuhI",
+      "album": {
+        "id": "3cgsVPDpdP8P5y9TteUuhI",
+        "name": "The Book of Secrets",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a2736898dd0d1c6221b3ceba"
+      },
       "release_date": "1997-03-07",
       "popularity": 41
     },
     {
-      "trackId": "0KrREEYTfky4kLhTn9heA4",
-      "name": "Har Simrat",
+      "track": {
+        "id": "0KrREEYTfky4kLhTn9heA4",
+        "name": "Har Simrat"
+      },
       "duration_ms": 299607,
-      "artist": [
-        "Bhai Jagjit Singh Ji Gurdaspur Wale"
+      "artists": [
+        {
+          "name": "Bhai Jagjit Singh Ji Gurdaspur Wale",
+          "id": "2I7qqudAVjRN0Hgq36HEZ3"
+        }
       ],
-      "artistId": [
-        "2I7qqudAVjRN0Hgq36HEZ3"
-      ],
-      "albumId": "0NKtJzPJ7wNVKCYCGKuv2L",
+      "album": {
+        "id": "0NKtJzPJ7wNVKCYCGKuv2L",
+        "name": "Mann Mereya",
+        "img": "https://i.scdn.co/image/ab67616d00001e02332b1b2541dea2f0e3a3a99c"
+      },
       "release_date": "2022-04-08",
       "popularity": 21
     },
     {
-      "trackId": "6sF00zbIWUVUqM88L6BCOJ",
-      "name": "Escucha Me - Single Version",
+      "track": {
+        "id": "6sF00zbIWUVUqM88L6BCOJ",
+        "name": "Escucha Me - Single Version"
+      },
       "duration_ms": 278546,
-      "artist": [
-        "Gipsy Kings",
-        "Mafia & Fluxy"
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "id": "3jc496ljiyrS3ECrD7QiqL"
+        },
+        {
+          "name": "Mafia & Fluxy",
+          "id": "0KugybhXAdH8ApMHpyTX62"
+        }
       ],
-      "artistId": [
-        "3jc496ljiyrS3ECrD7QiqL",
-        "0KugybhXAdH8ApMHpyTX62"
-      ],
-      "albumId": "0z3CJqJX13QgNoJWPpzKUl",
+      "album": {
+        "id": "0z3CJqJX13QgNoJWPpzKUl",
+        "name": "Love & Liberté",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6bcc8012458e9bab39f0392"
+      },
       "release_date": "1993-11-08",
       "popularity": 45
     }

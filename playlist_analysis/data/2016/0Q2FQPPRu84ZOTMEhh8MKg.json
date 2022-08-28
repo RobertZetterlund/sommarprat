@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/b17c69a0-1e86-4ad0-bd80-f99f04305083.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3BQHpFgAp4l80e1XslIjNI",
-      "name": "Yesterday - Remastered 2009",
+      "track": {
+        "id": "3BQHpFgAp4l80e1XslIjNI",
+        "name": "Yesterday - Remastered 2009"
+      },
       "duration_ms": 125666,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+      "album": {
+        "id": "0PT5m6hwPRrpBwIHVnvbFX",
+        "name": "Help! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa"
+      },
       "release_date": "1965-08-06",
       "popularity": 75
     },
     {
-      "trackId": "5U7MyRNbuZrWkyAI4bm3Ja",
-      "name": "Gracias a la Vida",
+      "track": {
+        "id": "5U7MyRNbuZrWkyAI4bm3Ja",
+        "name": "Gracias a la Vida"
+      },
       "duration_ms": 278040,
-      "artist": [
-        "Violeta Parra"
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "id": "4ejp2yEDQIIJIy0iFpoI5B"
+        }
       ],
-      "artistId": [
-        "4ejp2yEDQIIJIy0iFpoI5B"
-      ],
-      "albumId": "16KWkUYL6MuyJwzyO5onbl",
+      "album": {
+        "id": "16KWkUYL6MuyJwzyO5onbl",
+        "name": "Mi Chile Lindo",
+        "img": "https://i.scdn.co/image/ab67616d00001e028393077fd051247aa2237923"
+      },
       "release_date": "2014-03-31",
       "popularity": 50
     },
     {
-      "trackId": "2FnUyLhe7sjXgnZlK9sc0z",
-      "name": "Bara Få Va Mig Själv",
+      "track": {
+        "id": "2FnUyLhe7sjXgnZlK9sc0z",
+        "name": "Bara Få Va Mig Själv"
+      },
       "duration_ms": 214887,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "4sVpJJTw1dKDGlTprOvafq",
+      "album": {
+        "id": "4sVpJJTw1dKDGlTprOvafq",
+        "name": "Kristaller",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e5deed9a2a9ae9a5c8766cb"
+      },
       "release_date": "2016-09-16",
       "popularity": 51
     },
     {
-      "trackId": "44noNMO0iv87Tds7dwcpQU",
-      "name": "Insieme: 1992",
+      "track": {
+        "id": "44noNMO0iv87Tds7dwcpQU",
+        "name": "Insieme: 1992"
+      },
       "duration_ms": 263902,
-      "artist": [
-        "Toto Cutugno"
+      "artists": [
+        {
+          "name": "Toto Cutugno",
+          "id": "6elIiwc8OyeqKxXe2rmPXZ"
+        }
       ],
-      "artistId": [
-        "6elIiwc8OyeqKxXe2rmPXZ"
-      ],
-      "albumId": "7pTrGP2wcqUmhSUPebJK6x",
+      "album": {
+        "id": "7pTrGP2wcqUmhSUPebJK6x",
+        "name": "Ritratto di Toto Cutugno, Vol. 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e026dc8d4845eeeb475b45bd5f9"
+      },
       "release_date": "2010",
       "popularity": 50
     },
     {
-      "trackId": "5dae01pKNjRQtgOeAkFzPY",
-      "name": "Mona Lisa",
+      "track": {
+        "id": "5dae01pKNjRQtgOeAkFzPY",
+        "name": "Mona Lisa"
+      },
       "duration_ms": 194986,
-      "artist": [
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "7GBvXtxnvBluo2f4xBVNkm",
+      "album": {
+        "id": "7GBvXtxnvBluo2f4xBVNkm",
+        "name": "Unforgettable",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdd261528e3590ac36bb85f0"
+      },
       "release_date": "1954-01-01",
       "popularity": 51
     },
     {
-      "trackId": "0vBIKxDMpIuZeyGSH358t9",
-      "name": "Longing For Lullabies",
+      "track": {
+        "id": "0vBIKxDMpIuZeyGSH358t9",
+        "name": "Longing For Lullabies"
+      },
       "duration_ms": 267906,
-      "artist": [
-        "Titiyo"
+      "artists": [
+        {
+          "name": "Titiyo",
+          "id": "2s5enJCtVBAAdWD94jOIbM"
+        }
       ],
-      "artistId": [
-        "2s5enJCtVBAAdWD94jOIbM"
-      ],
-      "albumId": "5QsVksxkQ6lU4bzZl22OQS",
+      "album": {
+        "id": "5QsVksxkQ6lU4bzZl22OQS",
+        "name": "Hidden (NEW)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020865adbd69cbc0355d3a2e5e"
+      },
       "release_date": "2008-10-29",
       "popularity": 26
     },
     {
-      "trackId": "7kwCAXd0GeQvWvfTgCjaNX",
-      "name": "Die Hochzeit des Figaro, K. 492, 3. Akt: Canzonetta sull aria… Che soave zeffiretto (Die Verurteilten): Sinfonia",
+      "track": {
+        "id": "7kwCAXd0GeQvWvfTgCjaNX",
+        "name": "Die Hochzeit des Figaro, K. 492, 3. Akt: Canzonetta sull aria… Che soave zeffiretto (Die Verurteilten): Sinfonia"
+      },
       "duration_ms": 244560,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Marina Mescheriakova",
-        "Judith Halász"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Marina Mescheriakova",
+          "id": "1FbLTpOJ10VKZsleWBBBqi"
+        },
+        {
+          "name": "Judith Halász",
+          "id": "6NPdiJft6tPl8ZyLSjdR1H"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "1FbLTpOJ10VKZsleWBBBqi",
-        "6NPdiJft6tPl8ZyLSjdR1H"
-      ],
-      "albumId": "0xmgxCDdFzA3a5d7r17hNY",
+      "album": {
+        "id": "0xmgxCDdFzA3a5d7r17hNY",
+        "name": "Mozart: Nozze Di Figaro (Le) (The Marriage of Figaro)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b012549be399a40c870aad5"
+      },
       "release_date": "2004-05-08",
       "popularity": 54
     },
     {
-      "trackId": "5OjWZJWyPwC2PREwrVflfc",
-      "name": "Requiem In D Minor, K. 626: Sanctus",
+      "track": {
+        "id": "5OjWZJWyPwC2PREwrVflfc",
+        "name": "Requiem In D Minor, K. 626: Sanctus"
+      },
       "duration_ms": 98000,
-      "artist": [
-        "Slovak Philharmonic",
-        "Jozef Kundlák",
-        "Jaroslava Horska"
+      "artists": [
+        {
+          "name": "Slovak Philharmonic",
+          "id": "2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Jozef Kundlák",
+          "id": "7rqISdBrqKEzmMgsIth0v5"
+        },
+        {
+          "name": "Jaroslava Horska",
+          "id": "6UhWIdPqpOwvdLS2Y9BL92"
+        }
       ],
-      "artistId": [
-        "2rfkmr5WzRN9D9gAfb2ycd",
-        "7rqISdBrqKEzmMgsIth0v5",
-        "6UhWIdPqpOwvdLS2Y9BL92"
-      ],
-      "albumId": "4tar8qSUz4gxnXV9H6xwjM",
+      "album": {
+        "id": "4tar8qSUz4gxnXV9H6xwjM",
+        "name": "Mozart: Requiem In D Minor",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093"
+      },
       "release_date": "1989-04-15",
       "popularity": 43
     },
     {
-      "trackId": "2Uz5iX4KWFLBHe2oswcaPQ",
-      "name": "Swing it Magistern",
+      "track": {
+        "id": "2Uz5iX4KWFLBHe2oswcaPQ",
+        "name": "Swing it Magistern"
+      },
       "duration_ms": 214253,
-      "artist": [
-        "Titti Sjöblom",
-        "Ehrling Eliasson"
+      "artists": [
+        {
+          "name": "Titti Sjöblom",
+          "id": "5kPYwmgz8UgnBTI2tmqIHP"
+        },
+        {
+          "name": "Ehrling Eliasson",
+          "id": "5z1pe4m6P1ywiOwsICM1fT"
+        }
       ],
-      "artistId": [
-        "5kPYwmgz8UgnBTI2tmqIHP",
-        "5z1pe4m6P1ywiOwsICM1fT"
-      ],
-      "albumId": "6KakL7a9GCFqVve7PKHJAi",
+      "album": {
+        "id": "6KakL7a9GCFqVve7PKHJAi",
+        "name": "Alice Babs - Mamma & Idol",
+        "img": "https://i.scdn.co/image/ab67616d00001e02937f101a5c3c36ac38b7b968"
+      },
       "release_date": "2014",
       "popularity": 0
     },
     {
-      "trackId": "2lFFiNm0XtgJ6wkdncTB4k",
-      "name": "Drive - 2017 Remaster",
+      "track": {
+        "id": "2lFFiNm0XtgJ6wkdncTB4k",
+        "name": "Drive - 2017 Remaster"
+      },
       "duration_ms": 234332,
-      "artist": [
-        "The Cars"
+      "artists": [
+        {
+          "name": "The Cars",
+          "id": "6DCIj8jNaNpBz8e5oKFPtp"
+        }
       ],
-      "artistId": [
-        "6DCIj8jNaNpBz8e5oKFPtp"
-      ],
-      "albumId": "7LPfdVDw4uXf9Bw5LQDESf",
+      "album": {
+        "id": "7LPfdVDw4uXf9Bw5LQDESf",
+        "name": "Heartbeat City (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f607580794ed5b352884fd47"
+      },
       "release_date": "1984",
       "popularity": 69
     },
     {
-      "trackId": "1uXbwHHfgsXcUKfSZw5ZJ0",
-      "name": "Run the World (Girls)",
+      "track": {
+        "id": "1uXbwHHfgsXcUKfSZw5ZJ0",
+        "name": "Run the World (Girls)"
+      },
       "duration_ms": 236093,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "name": "4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd"
+      },
       "release_date": "2011-06-24",
       "popularity": 72
     },
     {
-      "trackId": "6RNDeRnWsRMjPdNVgupZCs",
-      "name": "I Just Called To Say I Love You",
+      "track": {
+        "id": "6RNDeRnWsRMjPdNVgupZCs",
+        "name": "I Just Called To Say I Love You"
+      },
       "duration_ms": 262240,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "04giHQ9zptJUHUvtIyxL9Z",
+      "album": {
+        "id": "04giHQ9zptJUHUvtIyxL9Z",
+        "name": "At The Close Of A Century",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f97219e49a23bfdd4de7eed1"
+      },
       "release_date": "1999-11-23",
       "popularity": 74
     },
     {
-      "trackId": "1r2Dds6Yo1lhZEfyFmYjun",
-      "name": "Båtlåt - 1998 Remastered Version",
+      "track": {
+        "id": "1r2Dds6Yo1lhZEfyFmYjun",
+        "name": "Båtlåt - 1998 Remastered Version"
+      },
       "duration_ms": 138853,
-      "artist": [
-        "Robert Broberg"
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "id": "05JNHlwtdHqPJ6wcW7Mil5"
+        }
       ],
-      "artistId": [
-        "05JNHlwtdHqPJ6wcW7Mil5"
-      ],
-      "albumId": "1eK1vnRIbR5mDbzRDm1iTl",
+      "album": {
+        "id": "1eK1vnRIbR5mDbzRDm1iTl",
+        "name": "Robert Brobergs Älskade Original",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e731490ed8345ae3e98de5f1"
+      },
       "release_date": "2000-06-13",
       "popularity": 39
     },
     {
-      "trackId": "7HZUTtnCiw3Hah5x0rS27G",
-      "name": "My Sisters' And My Brothers' Day Is Comin'",
+      "track": {
+        "id": "7HZUTtnCiw3Hah5x0rS27G",
+        "name": "My Sisters' And My Brothers' Day Is Comin'"
+      },
       "duration_ms": 140626,
-      "artist": [
-        "Dyke & The Blazers"
+      "artists": [
+        {
+          "name": "Dyke & The Blazers",
+          "id": "5dORjaew9A94A25xvTMiTg"
+        }
       ],
-      "artistId": [
-        "5dORjaew9A94A25xvTMiTg"
-      ],
-      "albumId": "1zv9Oq5IrsdEuOzor9DxZj",
+      "album": {
+        "id": "1zv9Oq5IrsdEuOzor9DxZj",
+        "name": "Dyke's Greatest Hits - The Complete Singles",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a7af41ddb6d5342046692f8"
+      },
       "release_date": "2013-01-01",
       "popularity": 11
     }

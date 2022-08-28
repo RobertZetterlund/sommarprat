@@ -7,212 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/046f0c84-b513-456c-94a4-200d2df92ae6.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2qKKICULsMj7qX7lVdNjEm",
-      "name": "Sista dansen",
+      "track": {
+        "id": "2qKKICULsMj7qX7lVdNjEm",
+        "name": "Sista dansen"
+      },
       "duration_ms": 175986,
-      "artist": [
-        "Marianne Kock"
+      "artists": [
+        {
+          "name": "Marianne Kock",
+          "id": "5udF7qET2R1Vz7FFFMsqnG"
+        }
       ],
-      "artistId": [
-        "5udF7qET2R1Vz7FFFMsqnG"
-      ],
-      "albumId": "7CPtxCYZgTSOd5hUNkYRQV",
+      "album": {
+        "id": "7CPtxCYZgTSOd5hUNkYRQV",
+        "name": "Det bästa med",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ee6f2f91f14dde29b29aa6e"
+      },
       "release_date": "2006-02-10",
       "popularity": 11
     },
     {
-      "trackId": "5XQT4jVpbrZtpYrVEr1H81",
-      "name": "Uma casa portuguesa",
+      "track": {
+        "id": "5XQT4jVpbrZtpYrVEr1H81",
+        "name": "Uma casa portuguesa"
+      },
       "duration_ms": 165280,
-      "artist": [
-        "Amália Rodrigues"
+      "artists": [
+        {
+          "name": "Amália Rodrigues",
+          "id": "0DBF33ctUe4yhxKP3eTcCt"
+        }
       ],
-      "artistId": [
-        "0DBF33ctUe4yhxKP3eTcCt"
-      ],
-      "albumId": "3gydwAuFdj4RoQ0NsjyN9I",
+      "album": {
+        "id": "3gydwAuFdj4RoQ0NsjyN9I",
+        "name": "The art of Amalia Rodrigues vol.I",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d27f1b6e4ce229607002b181"
+      },
       "release_date": "1998-06-29",
       "popularity": 41
     },
     {
-      "trackId": "2bWg5nW4SG8JZfUM1mi2zt",
-      "name": "The Sexual Loneliness of Jesus Christ",
+      "track": {
+        "id": "2bWg5nW4SG8JZfUM1mi2zt",
+        "name": "The Sexual Loneliness of Jesus Christ"
+      },
       "duration_ms": 379826,
-      "artist": [
-        "Jackie Leven"
+      "artists": [
+        {
+          "name": "Jackie Leven",
+          "id": "18ailiqwf48qRCfDXNVx4Y"
+        }
       ],
-      "artistId": [
-        "18ailiqwf48qRCfDXNVx4Y"
-      ],
-      "albumId": "0LmNfsI89SiTIt6Kmh61sk",
+      "album": {
+        "id": "0LmNfsI89SiTIt6Kmh61sk",
+        "name": "Creatures of Light & Darkness",
+        "img": "https://i.scdn.co/image/ab67616d00001e0288248176a53325ba89442204"
+      },
       "release_date": "2001-01-01",
       "popularity": 36
     },
     {
-      "trackId": "5XMjXjwCkJVmk0AHm7z8IV",
-      "name": "Jerk It Out",
+      "track": {
+        "id": "5XMjXjwCkJVmk0AHm7z8IV",
+        "name": "Jerk It Out"
+      },
       "duration_ms": 195666,
-      "artist": [
-        "Caesars"
+      "artists": [
+        {
+          "name": "Caesars",
+          "id": "4rGrN4XDYhP6dUAZMvcuHr"
+        }
       ],
-      "artistId": [
-        "4rGrN4XDYhP6dUAZMvcuHr"
-      ],
-      "albumId": "2ucS4apziMY7gaBIQc2tal",
+      "album": {
+        "id": "2ucS4apziMY7gaBIQc2tal",
+        "name": "Love For The Streets",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246ed4ae9343359e5965baf7b"
+      },
       "release_date": "2002",
       "popularity": 66
     },
     {
-      "trackId": "2gNjmvuQiEd2z9SqyYi8HH",
-      "name": "Summertime",
+      "track": {
+        "id": "2gNjmvuQiEd2z9SqyYi8HH",
+        "name": "Summertime"
+      },
       "duration_ms": 298133,
-      "artist": [
-        "Louis Armstrong",
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek",
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "1vvnTmmNWnGmqvVFjVIINf",
+      "album": {
+        "id": "1vvnTmmNWnGmqvVFjVIINf",
+        "name": "Porgy And Bess",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211aafea0ad62648d4669626f"
+      },
       "release_date": "1958-01-01",
       "popularity": 63
     },
     {
-      "trackId": "7ILXw84zphdLuIQtvHJLI9",
-      "name": "La Passerella Di Otto E Mezzo",
+      "track": {
+        "id": "7ILXw84zphdLuIQtvHJLI9",
+        "name": "La Passerella Di Otto E Mezzo"
+      },
       "duration_ms": 145533,
-      "artist": [
-        "Nino Rota"
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "id": "0RYyGExpy57GLGa1GtFoVo"
+        }
       ],
-      "artistId": [
-        "0RYyGExpy57GLGa1GtFoVo"
-      ],
-      "albumId": "2UaWMvVZz5JgBN41rKgfw7",
+      "album": {
+        "id": "2UaWMvVZz5JgBN41rKgfw7",
+        "name": "Otto e Mezzo (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0250ad83a5ea363116fde6f2d1"
+      },
       "release_date": "1999",
       "popularity": 22
     },
     {
-      "trackId": "7LcypCVM2DeybABIv1Ydaa",
-      "name": "Pergolesi: Stabat Mater: I. Stabat Mater dolorosa",
+      "track": {
+        "id": "7LcypCVM2DeybABIv1Ydaa",
+        "name": "Pergolesi: Stabat Mater: I. Stabat Mater dolorosa"
+      },
       "duration_ms": 269360,
-      "artist": [
-        "Giovanni Battista Pergolesi",
-        "Philippe Jaroussky",
-        "Julia Lezhneva"
+      "artists": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "id": "08ewVs9B2qQZ2Gy3xfTFyo"
+        },
+        {
+          "name": "Philippe Jaroussky",
+          "id": "17aC1wctGme2P8YC6LVov2"
+        },
+        {
+          "name": "Julia Lezhneva",
+          "id": "4lXqCIiOQaKszIABIsOyrI"
+        }
       ],
-      "artistId": [
-        "08ewVs9B2qQZ2Gy3xfTFyo",
-        "17aC1wctGme2P8YC6LVov2",
-        "4lXqCIiOQaKszIABIsOyrI"
-      ],
-      "albumId": "6KY891prXZa5OvJHljJdro",
+      "album": {
+        "id": "6KY891prXZa5OvJHljJdro",
+        "name": "Pergolesi: Stabat Mater, Laudate pueri & Confitebor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02183fd71c3f96810230c36878"
+      },
       "release_date": "2013-10-28",
       "popularity": 40
     },
     {
-      "trackId": "73XQBWHSVLL1939hb8cQTm",
-      "name": "Georgy Girl",
+      "track": {
+        "id": "73XQBWHSVLL1939hb8cQTm",
+        "name": "Georgy Girl"
+      },
       "duration_ms": 140440,
-      "artist": [
-        "The Seekers"
+      "artists": [
+        {
+          "name": "The Seekers",
+          "id": "7dedWAqd0IKTdCiqiadUrV"
+        }
       ],
-      "artistId": [
-        "7dedWAqd0IKTdCiqiadUrV"
-      ],
-      "albumId": "3vMmPXoijRRhpE9lPpUyq4",
+      "album": {
+        "id": "3vMmPXoijRRhpE9lPpUyq4",
+        "name": "The Seekers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e517ee64fd625057c25108fc"
+      },
       "release_date": "1989-01-30",
       "popularity": 58
     },
     {
-      "trackId": "2rgHxOarlO4W35mg0IZ5u8",
-      "name": "This Town Ain't Big Enough For Both Of Us",
+      "track": {
+        "id": "2rgHxOarlO4W35mg0IZ5u8",
+        "name": "This Town Ain't Big Enough For Both Of Us"
+      },
       "duration_ms": 184600,
-      "artist": [
-        "Sparks"
+      "artists": [
+        {
+          "name": "Sparks",
+          "id": "7pwjGKaqnfkvS7eQbHaqyH"
+        }
       ],
-      "artistId": [
-        "7pwjGKaqnfkvS7eQbHaqyH"
-      ],
-      "albumId": "7KOmuu3cbJQEQYGt3XmLmY",
+      "album": {
+        "id": "7KOmuu3cbJQEQYGt3XmLmY",
+        "name": "Kimono My House",
+        "img": "https://i.scdn.co/image/ab67616d00001e027aebbd28dd4cfaca652008b7"
+      },
       "release_date": "1974-05",
       "popularity": 53
     },
     {
-      "trackId": "2YluMpqPrxWB6ny63DORHp",
-      "name": "Götterdämmerung, WWV 86D / Act 1: \"Altgewohntes Geräusch raunt meinem Ohr in die Ferne\"",
+      "track": {
+        "id": "2YluMpqPrxWB6ny63DORHp",
+        "name": "Götterdämmerung, WWV 86D / Act 1: \"Altgewohntes Geräusch raunt meinem Ohr in die Ferne\""
+      },
       "duration_ms": 437821,
-      "artist": [
-        "Richard Wagner",
-        "Birgit Nilsson",
-        "Christa Ludwig"
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "id": "1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Birgit Nilsson",
+          "id": "6ljM6B2XmSU7BtG3tZLQ1K"
+        },
+        {
+          "name": "Christa Ludwig",
+          "id": "1Jgntox16Lhl0bFoRhV3Ar"
+        }
       ],
-      "artistId": [
-        "1C1x4MVkql8AiABuTw6DgE",
-        "6ljM6B2XmSU7BtG3tZLQ1K",
-        "1Jgntox16Lhl0bFoRhV3Ar"
-      ],
-      "albumId": "4tEj5Vtog4QUL7PdLHqyGN",
+      "album": {
+        "id": "4tEj5Vtog4QUL7PdLHqyGN",
+        "name": "Wagner: Götterdämmerung",
+        "img": "https://i.scdn.co/image/ab67616d00001e028dc42f6223d28d2f02b1d9d2"
+      },
       "release_date": "2013-01-01",
       "popularity": 4
     },
     {
-      "trackId": "3g98x0UrsfWzpiRR2gmLtR",
-      "name": "Appalachian Spring - 1945 Suite: 1. Very slowly",
+      "track": {
+        "id": "3g98x0UrsfWzpiRR2gmLtR",
+        "name": "Appalachian Spring - 1945 Suite: 1. Very slowly"
+      },
       "duration_ms": 174800,
-      "artist": [
-        "Aaron Copland",
-        "Los Angeles Philharmonic",
-        "Zubin Mehta"
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "id": "0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "id": "6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Zubin Mehta",
+          "id": "3FEd0qHPFOgcpfw7bCXB4x"
+        }
       ],
-      "artistId": [
-        "0nJvyjVTb8sAULPYyA1bqU",
-        "6yeL5iw4hXNZtd8T7FOoFU",
-        "3FEd0qHPFOgcpfw7bCXB4x"
-      ],
-      "albumId": "5zvghsnDtzK4CVC4blFo9T",
+      "album": {
+        "id": "5zvghsnDtzK4CVC4blFo9T",
+        "name": "Copland: Appalachian Spring; Lincoln Portrait; Fanfare; Rodeo, etc.",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fab9c220d550c49ee0bb2167"
+      },
       "release_date": "1996-01-01",
       "popularity": 46
     },
     {
-      "trackId": "4DInUfvF0cHJPnbfexdxZj",
-      "name": "Mythos",
+      "track": {
+        "id": "4DInUfvF0cHJPnbfexdxZj",
+        "name": "Mythos"
+      },
       "duration_ms": 121874,
-      "artist": [
-        "Soppgirobygget"
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "id": "03SBMfoHX3EUENFwFoLN5i"
+        }
       ],
-      "artistId": [
-        "03SBMfoHX3EUENFwFoLN5i"
-      ],
-      "albumId": "1DkvbFxKkl99a3SKHllxLg",
+      "album": {
+        "id": "1DkvbFxKkl99a3SKHllxLg",
+        "name": "Mythos",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a8ea63e605356894902fad8"
+      },
       "release_date": "2022-04-08",
       "popularity": 52
     },
     {
-      "trackId": "7rGOWzo4evAQQ2FzrSKp0B",
-      "name": "Tell Him - Single Version",
+      "track": {
+        "id": "7rGOWzo4evAQQ2FzrSKp0B",
+        "name": "Tell Him - Single Version"
+      },
       "duration_ms": 156160,
-      "artist": [
-        "The Exciters"
+      "artists": [
+        {
+          "name": "The Exciters",
+          "id": "2GF1B0GIaFrLFLdfH6ufRO"
+        }
       ],
-      "artistId": [
-        "2GF1B0GIaFrLFLdfH6ufRO"
-      ],
-      "albumId": "1i2c4K7HnASzLOo6cagJVg",
+      "album": {
+        "id": "1i2c4K7HnASzLOo6cagJVg",
+        "name": "Tell Him",
+        "img": "https://i.scdn.co/image/ab67616d00001e02134320d50562d6b2dfbdd2a9"
+      },
       "release_date": "2012-01-01",
       "popularity": 51
     },
     {
-      "trackId": "6IDHh3FcwLVcG5NsmpQgg2",
-      "name": "It's a Sin - 2001 Remaster",
+      "track": {
+        "id": "6IDHh3FcwLVcG5NsmpQgg2",
+        "name": "It's a Sin - 2001 Remaster"
+      },
       "duration_ms": 299306,
-      "artist": [
-        "Pet Shop Boys"
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "id": "2ycnb8Er79LoH2AsR5ldjh"
+        }
       ],
-      "artistId": [
-        "2ycnb8Er79LoH2AsR5ldjh"
-      ],
-      "albumId": "7hkIf8sKiJKRjADB2xan74",
+      "album": {
+        "id": "7hkIf8sKiJKRjADB2xan74",
+        "name": "Actually",
+        "img": "https://i.scdn.co/image/ab67616d00001e02462f0658a21d6baeea08c3c0"
+      },
       "release_date": "1987-09-07",
       "popularity": 65
     }

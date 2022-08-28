@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344869_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0KOE1hat4SIer491XKk4Pa",
-      "name": "A Change Is Gonna Come",
+      "track": {
+        "id": "0KOE1hat4SIer491XKk4Pa",
+        "name": "A Change Is Gonna Come"
+      },
       "duration_ms": 191160,
-      "artist": [
-        "Sam Cooke"
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "id": "6hnWRPzGGKiapVX1UCdEAC"
+        }
       ],
-      "artistId": [
-        "6hnWRPzGGKiapVX1UCdEAC"
-      ],
-      "albumId": "2NFd4ApYFitFtJhGTSfDdP",
+      "album": {
+        "id": "2NFd4ApYFitFtJhGTSfDdP",
+        "name": "Ain't That Good News",
+        "img": "https://i.scdn.co/image/ab67616d00001e027329db55d8ec4e851b694aa1"
+      },
       "release_date": "1964-03-01",
       "popularity": 66
     },
     {
-      "trackId": "2NuRBgLeZ4gtIIrVqsVXBG",
-      "name": "Čaje Šukarije",
+      "track": {
+        "id": "2NuRBgLeZ4gtIIrVqsVXBG",
+        "name": "Čaje Šukarije"
+      },
       "duration_ms": 207760,
-      "artist": [
-        "Esma Redzepova",
-        "Harem Iii"
+      "artists": [
+        {
+          "name": "Esma Redzepova",
+          "id": "3hqJ0OoW1ck5ET6lUyV0OQ"
+        },
+        {
+          "name": "Harem Iii",
+          "id": "6RhL3FRLda3qHpMpOqQEDE"
+        }
       ],
-      "artistId": [
-        "3hqJ0OoW1ck5ET6lUyV0OQ",
-        "6RhL3FRLda3qHpMpOqQEDE"
-      ],
-      "albumId": "4o6Uzk4qudvQ0AtJk5yo5b",
+      "album": {
+        "id": "4o6Uzk4qudvQ0AtJk5yo5b",
+        "name": "Čaje Šukarije (18 Izvornih Snimaka 1961)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d91198c30855e7adf389253f"
+      },
       "release_date": "2012-03-27",
       "popularity": 25
     },
     {
-      "trackId": "4MLBqAEzNN89o2M9h92Z26",
-      "name": "Get Back - Remastered 2009",
+      "track": {
+        "id": "4MLBqAEzNN89o2M9h92Z26",
+        "name": "Get Back - Remastered 2009"
+      },
       "duration_ms": 189386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+      "album": {
+        "id": "0jTGHV5xqHPvEcwL8f6YU5",
+        "name": "Let It Be (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1"
+      },
       "release_date": "1970-05-08",
       "popularity": 65
     },
     {
-      "trackId": "3dQVP8KyTTqH2eLh5vhE2r",
-      "name": "HIGH CHAPARRAL, THE",
+      "track": {
+        "id": "3dQVP8KyTTqH2eLh5vhE2r",
+        "name": "HIGH CHAPARRAL, THE"
+      },
       "duration_ms": 73520,
-      "artist": [
-        "David Rose"
+      "artists": [
+        {
+          "name": "David Rose",
+          "id": "2nv8pUrGHqpVzYvQCyiKjk"
+        }
       ],
-      "artistId": [
-        "2nv8pUrGHqpVzYvQCyiKjk"
-      ],
-      "albumId": "0Jb8GjDfrHi73bIr9uRB3V",
+      "album": {
+        "id": "0Jb8GjDfrHi73bIr9uRB3V",
+        "name": "Way Out West",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c0d6032df4fada08c966f9b"
+      },
       "release_date": "2002-01-01",
       "popularity": 10
     },
     {
-      "trackId": "3uMmllZo1AfoEnVT4ENCD3",
-      "name": "Highway Star - Remastered 2012",
+      "track": {
+        "id": "3uMmllZo1AfoEnVT4ENCD3",
+        "name": "Highway Star - Remastered 2012"
+      },
       "duration_ms": 366136,
-      "artist": [
-        "Deep Purple"
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "id": "568ZhdwyaiCyOGJRtNYhWf"
+        }
       ],
-      "artistId": [
-        "568ZhdwyaiCyOGJRtNYhWf"
-      ],
-      "albumId": "32NQ56VZDTXSH3SMv4XSGN",
+      "album": {
+        "id": "32NQ56VZDTXSH3SMv4XSGN",
+        "name": "Machine Head (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a729c9c3dec04b99d889c66f"
+      },
       "release_date": "1972-03-25",
       "popularity": 67
     },
     {
-      "trackId": "6V8bwf2SMbET7DiH05oTiK",
-      "name": "Falla fritt",
+      "track": {
+        "id": "6V8bwf2SMbET7DiH05oTiK",
+        "name": "Falla fritt"
+      },
       "duration_ms": 240106,
-      "artist": [
-        "Melissa Horn"
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "id": "0tOdy7SqogILIjzGU2hSr5"
+        }
       ],
-      "artistId": [
-        "0tOdy7SqogILIjzGU2hSr5"
-      ],
-      "albumId": "1YecbRHvwtF6mu08slHB31",
+      "album": {
+        "id": "1YecbRHvwtF6mu08slHB31",
+        "name": "Säg ingenting till mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02418e91259ba3b79e2336e42e"
+      },
       "release_date": "2009-10-12",
       "popularity": 40
     },
     {
-      "trackId": "06Gdd6zfAHBy7B5DxaBugm",
-      "name": "Cashen dom tas",
+      "track": {
+        "id": "06Gdd6zfAHBy7B5DxaBugm",
+        "name": "Cashen dom tas"
+      },
       "duration_ms": 287893,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "5kdYKxMey0V4SNP3geTX9k",
+      "album": {
+        "id": "5kdYKxMey0V4SNP3geTX9k",
+        "name": "Cashen dom tas",
+        "img": "https://i.scdn.co/image/ab67616d00001e022bff445b58be18b9c053bed6"
+      },
       "release_date": "2003",
       "popularity": 45
     },
     {
-      "trackId": "3E6JdxThmDrogRbVK4sgaG",
-      "name": "Va, Pensiero - Remastered 2007",
+      "track": {
+        "id": "3E6JdxThmDrogRbVK4sgaG",
+        "name": "Va, Pensiero - Remastered 2007"
+      },
       "duration_ms": 230933,
-      "artist": [
-        "Zucchero"
+      "artists": [
+        {
+          "name": "Zucchero",
+          "id": "2KftmGt9sk1yLjsAoloC3M"
+        }
       ],
-      "artistId": [
-        "2KftmGt9sk1yLjsAoloC3M"
-      ],
-      "albumId": "0RxtWmjDExug0K5PZhhttP",
+      "album": {
+        "id": "0RxtWmjDExug0K5PZhhttP",
+        "name": "All The Best",
+        "img": "https://i.scdn.co/image/ab67616d00001e0201812d836e6c7f949eb81e35"
+      },
       "release_date": "2007-01-01",
       "popularity": 36
     },
     {
-      "trackId": "6zlY4xmlgqvn4LxjzoS2mz",
-      "name": "The Prayer",
+      "track": {
+        "id": "6zlY4xmlgqvn4LxjzoS2mz",
+        "name": "The Prayer"
+      },
       "duration_ms": 268933,
-      "artist": [
-        "Céline Dion",
-        "Andrea Bocelli"
+      "artists": [
+        {
+          "name": "Céline Dion",
+          "id": "4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "id": "3EA9hVIzKfFiQI0Kikz2wo"
+        }
       ],
-      "artistId": [
-        "4S9EykWXhStSc15wEx8QFK",
-        "3EA9hVIzKfFiQI0Kikz2wo"
-      ],
-      "albumId": "5k27z7TrQn2O0mKMoiwHzN",
+      "album": {
+        "id": "5k27z7TrQn2O0mKMoiwHzN",
+        "name": "These are Special Times",
+        "img": "https://i.scdn.co/image/ab67616d00001e023095cc2cb7ce3079685d4787"
+      },
       "release_date": "1998",
       "popularity": 61
     },
     {
-      "trackId": "1Pao4DTLMB4gJPTnqmLgSQ",
-      "name": "You Can Get It If You Really Want",
+      "track": {
+        "id": "1Pao4DTLMB4gJPTnqmLgSQ",
+        "name": "You Can Get It If You Really Want"
+      },
       "duration_ms": 158893,
-      "artist": [
-        "Jimmy Cliff"
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "id": "3rJ3m1tM6vUgiWLjfV8sRf"
+        }
       ],
-      "artistId": [
-        "3rJ3m1tM6vUgiWLjfV8sRf"
-      ],
-      "albumId": "4oxdKcC9epGo9viy1j8fN7",
+      "album": {
+        "id": "4oxdKcC9epGo9viy1j8fN7",
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026033eb0ca150f7d26d897581"
+      },
       "release_date": "1972-07-07",
       "popularity": 64
     },
     {
-      "trackId": "76TZCvJ8GitQ2FA1q5dKu0",
-      "name": "The Boxer",
+      "track": {
+        "id": "76TZCvJ8GitQ2FA1q5dKu0",
+        "name": "The Boxer"
+      },
       "duration_ms": 308520,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "0JwHz5SSvpYWuuCNbtYZoV",
+      "album": {
+        "id": "0JwHz5SSvpYWuuCNbtYZoV",
+        "name": "Bridge Over Troubled Water",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba7fe7dd76cd4307e57dd75f"
+      },
       "release_date": "1970-01-26",
       "popularity": 70
     }

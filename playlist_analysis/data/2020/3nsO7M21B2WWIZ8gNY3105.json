@@ -7,236 +7,350 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3adeb1a9-5379-4366-894a-1ca6ad7bf3ab.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "65BPW8Azpqtejg6y7ZKrhZ",
-      "name": "Mjölkchoklad",
+      "track": {
+        "id": "65BPW8Azpqtejg6y7ZKrhZ",
+        "name": "Mjölkchoklad"
+      },
       "duration_ms": 226586,
-      "artist": [
-        "Anders Teglund"
+      "artists": [
+        {
+          "name": "Anders Teglund",
+          "id": "0hf14Zht9TUOdTQu2UWerr"
+        }
       ],
-      "artistId": [
-        "0hf14Zht9TUOdTQu2UWerr"
-      ],
-      "albumId": "5pfg9AKrFfEVvuPtEFfMxv",
+      "album": {
+        "id": "5pfg9AKrFfEVvuPtEFfMxv",
+        "name": "Mjölkchoklad",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210cadd9001a2b715eea62bba"
+      },
       "release_date": "2020-03-27",
       "popularity": 1
     },
     {
-      "trackId": "1qtyxe4cE7cHcZxXlJg9dE",
-      "name": "Villanelle (Les Nuits D'Ete Op7)",
+      "track": {
+        "id": "1qtyxe4cE7cHcZxXlJg9dE",
+        "name": "Villanelle (Les Nuits D'Ete Op7)"
+      },
       "duration_ms": 132773,
-      "artist": [
-        "Dame Janet Baker"
+      "artists": [
+        {
+          "name": "Dame Janet Baker",
+          "id": "4ThA3BeHNucwqI7wKyKS8h"
+        }
       ],
-      "artistId": [
-        "4ThA3BeHNucwqI7wKyKS8h"
-      ],
-      "albumId": "6K4ls5I3wYcfAeTeHlmKns",
+      "album": {
+        "id": "6K4ls5I3wYcfAeTeHlmKns",
+        "name": "Les Nuits D'Ete/La Sensitiva",
+        "img": "https://i.scdn.co/image/ab67616d00001e02140dc430c625dcb43d390efb"
+      },
       "release_date": "2003-03-03",
       "popularity": 0
     },
     {
-      "trackId": "0vWOk0qR2hs2ONuIpIz3nX",
-      "name": "Berlioz: Les Nuits d'été, Op. 7, H. 81b: I. Villanelle, H. 82b",
+      "track": {
+        "id": "0vWOk0qR2hs2ONuIpIz3nX",
+        "name": "Berlioz: Les Nuits d'été, Op. 7, H. 81b: I. Villanelle, H. 82b"
+      },
       "duration_ms": 142333,
-      "artist": [
-        "Hector Berlioz",
-        "Dame Janet Baker",
-        "Sir John Barbirolli"
+      "artists": [
+        {
+          "name": "Hector Berlioz",
+          "id": "11T8SOX82xraocZzUXzkvM"
+        },
+        {
+          "name": "Dame Janet Baker",
+          "id": "4ThA3BeHNucwqI7wKyKS8h"
+        },
+        {
+          "name": "Sir John Barbirolli",
+          "id": "5X3hmAle6klG0VvstAnvyD"
+        }
       ],
-      "artistId": [
-        "11T8SOX82xraocZzUXzkvM",
-        "4ThA3BeHNucwqI7wKyKS8h",
-        "5X3hmAle6klG0VvstAnvyD"
-      ],
-      "albumId": "521yvPmYPeHp2XJyiMuVWa",
+      "album": {
+        "id": "521yvPmYPeHp2XJyiMuVWa",
+        "name": "Berlioz: Les Nuits d'été",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ffeec31d89cf18da6641e75d"
+      },
       "release_date": "1968",
       "popularity": 3
     },
     {
-      "trackId": "0arUMs7TmbXdINlD9fLA9P",
-      "name": "You Can't Hurry Love - 2003 Remix",
+      "track": {
+        "id": "0arUMs7TmbXdINlD9fLA9P",
+        "name": "You Can't Hurry Love - 2003 Remix"
+      },
       "duration_ms": 178920,
-      "artist": [
-        "The Supremes"
+      "artists": [
+        {
+          "name": "The Supremes",
+          "id": "57bUPid8xztkieZfS7OlEV"
+        }
       ],
-      "artistId": [
-        "57bUPid8xztkieZfS7OlEV"
-      ],
-      "albumId": "3LDMWTjlz9zvKuC7B1czYA",
+      "album": {
+        "id": "3LDMWTjlz9zvKuC7B1czYA",
+        "name": "The #1's",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be7494081cab2b5884d94151"
+      },
       "release_date": "2003-01-01",
       "popularity": 19
     },
     {
-      "trackId": "0MLA8ZOYmWzOUdznyPugTt",
-      "name": "Laurie",
+      "track": {
+        "id": "0MLA8ZOYmWzOUdznyPugTt",
+        "name": "Laurie"
+      },
       "duration_ms": 151394,
-      "artist": [
-        "Hamyai"
+      "artists": [
+        {
+          "name": "Hamyai",
+          "id": "6VqaRXMH0bc8SZ7mPVJ9sS"
+        }
       ],
-      "artistId": [
-        "6VqaRXMH0bc8SZ7mPVJ9sS"
-      ],
-      "albumId": "31cY2EZkIb9cX8kzc1m1Hs",
+      "album": {
+        "id": "31cY2EZkIb9cX8kzc1m1Hs",
+        "name": "Laurie",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251dbfa26b98245a885f1f175"
+      },
       "release_date": "2019-06-27",
       "popularity": 14
     },
     {
-      "trackId": "4MUQqFdBeVWHGPP296j9dP",
-      "name": "O vis eternitatis",
+      "track": {
+        "id": "4MUQqFdBeVWHGPP296j9dP",
+        "name": "O vis eternitatis"
+      },
       "duration_ms": 479360,
-      "artist": [
-        "Hildegard von Bingen",
-        "Sequentia",
-        "Barbara Thornton"
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "id": "2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "Sequentia",
+          "id": "4s4tJIkBOaNEuXvPPkyk7k"
+        },
+        {
+          "name": "Barbara Thornton",
+          "id": "4P50YH9GHjydDBKdNVbPy4"
+        }
       ],
-      "artistId": [
-        "2xt1t3lfZ5FGaEKrs0jp0d",
-        "4s4tJIkBOaNEuXvPPkyk7k",
-        "4P50YH9GHjydDBKdNVbPy4"
-      ],
-      "albumId": "5RxwfhArWtyPN8bdOQlkt2",
+      "album": {
+        "id": "5RxwfhArWtyPN8bdOQlkt2",
+        "name": "Sequentia: Hildegard von Bingen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232ebdf004bd48c0db825235d"
+      },
       "release_date": "1994",
       "popularity": 25
     },
     {
-      "trackId": "7s25THrKz86DM225dOYwnr",
-      "name": "Respect",
+      "track": {
+        "id": "7s25THrKz86DM225dOYwnr",
+        "name": "Respect"
+      },
       "duration_ms": 147600,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+      "album": {
+        "id": "5WndWfzGwCkHzAbQXVkg2V",
+        "name": "I Never Loved a Man the Way I Love You",
+        "img": "https://i.scdn.co/image/ab67616d00001e026aa9314b7ddfbd8f036ba3ac"
+      },
       "release_date": "1967-03-10",
       "popularity": 73
     },
     {
-      "trackId": "4Ur1gKGdZaKUf86o5bUEIh",
-      "name": "Second livre de pièces de clavecin, Ordre VI: No. 5, Les baricades mistérieuses",
+      "track": {
+        "id": "4Ur1gKGdZaKUf86o5bUEIh",
+        "name": "Second livre de pièces de clavecin, Ordre VI: No. 5, Les baricades mistérieuses"
+      },
       "duration_ms": 164373,
-      "artist": [
-        "François Couperin",
-        "Blandine Verlet"
+      "artists": [
+        {
+          "name": "François Couperin",
+          "id": "4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Blandine Verlet",
+          "id": "4UxZ2IJjJ0zDgjJVk2EljJ"
+        }
       ],
-      "artistId": [
-        "4kVLtXuKJTE7SgYd2sQtaL",
-        "4UxZ2IJjJ0zDgjJVk2EljJ"
-      ],
-      "albumId": "6K2K7ad9GSVLugmRF1Nso1",
+      "album": {
+        "id": "6K2K7ad9GSVLugmRF1Nso1",
+        "name": "Pièces de clavecin, Vol. 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253c16d82778033b43ae667a8"
+      },
       "release_date": "1986-01-01",
       "popularity": 36
     },
     {
-      "trackId": "0OvmIscyZUuZVntCTBdkcp",
-      "name": "Dirt In The Ground",
+      "track": {
+        "id": "0OvmIscyZUuZVntCTBdkcp",
+        "name": "Dirt In The Ground"
+      },
       "duration_ms": 247573,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "5blxyZRgkA735vO40p56MA",
+      "album": {
+        "id": "5blxyZRgkA735vO40p56MA",
+        "name": "Bone Machine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286fc23b8ae19c2455ae00e82"
+      },
       "release_date": "1992-01-01",
       "popularity": 33
     },
     {
-      "trackId": "2YGtQqSZ6a4VNPN1Xlnd2m",
-      "name": "Don Giovanni, K.527 / Act 1: \"Là ci darem la mano\"",
+      "track": {
+        "id": "2YGtQqSZ6a4VNPN1Xlnd2m",
+        "name": "Don Giovanni, K.527 / Act 1: \"Là ci darem la mano\""
+      },
       "duration_ms": 192000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Cecilia Bartoli",
-        "Bryn Terfel"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "id": "3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Bryn Terfel",
+          "id": "6ILd69yy67k6OU7cwpGNSl"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3uw6GzeL10NfFrcikMo9Na",
-        "6ILd69yy67k6OU7cwpGNSl"
-      ],
-      "albumId": "1j4ex40BEDd4jWIKPkg69n",
+      "album": {
+        "id": "1j4ex40BEDd4jWIKPkg69n",
+        "name": "Mozart Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269b4fa4443a228d9b78c484d"
+      },
       "release_date": "2005-01-01",
       "popularity": 35
     },
     {
-      "trackId": "4AE032Y0x1WPOi5CsmggnU",
-      "name": "Maple Leaf Rag",
+      "track": {
+        "id": "4AE032Y0x1WPOi5CsmggnU",
+        "name": "Maple Leaf Rag"
+      },
       "duration_ms": 189906,
-      "artist": [
-        "Scott Joplin",
-        "Alexander Peskanov"
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "id": "5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Alexander Peskanov",
+          "id": "3ign9P0e3deW95GcSEhCBU"
+        }
       ],
-      "artistId": [
-        "5FgkTUuCNKDlilidPvZqOq",
-        "3ign9P0e3deW95GcSEhCBU"
-      ],
-      "albumId": "2meaIE0Kf7fTDZ3W4VJggk",
+      "album": {
+        "id": "2meaIE0Kf7fTDZ3W4VJggk",
+        "name": "Joplin: Piano Rags, Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f24fe794987d2af1efc06db7"
+      },
       "release_date": "2004-07-28",
       "popularity": 44
     },
     {
-      "trackId": "7ImuASnzYk9YHn3isFjZ0j",
-      "name": "Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro",
+      "track": {
+        "id": "7ImuASnzYk9YHn3isFjZ0j",
+        "name": "Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro"
+      },
       "duration_ms": 636426,
-      "artist": [
-        "Johann Sebastian Bach",
-        "English Chamber Orchestra",
-        "Benjamin Britten"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "id": "2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Benjamin Britten",
+          "id": "7MJ1pB5d6Vjmzep2zQlorn"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "2DO4p3CPDnInsJfg0jFfaF",
-        "7MJ1pB5d6Vjmzep2zQlorn"
-      ],
-      "albumId": "11FzhwtOFCPB4vpgWo33xV",
+      "album": {
+        "id": "11FzhwtOFCPB4vpgWo33xV",
+        "name": "Bach, J.S.: Brandenburg Concertos etc.",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208f25ef15caf048a49a69ee5"
+      },
       "release_date": "1995-01-01",
       "popularity": 45
     },
     {
-      "trackId": "7qbVFPJJRzk0nonhDNly1U",
-      "name": "Rising Sun",
+      "track": {
+        "id": "7qbVFPJJRzk0nonhDNly1U",
+        "name": "Rising Sun"
+      },
       "duration_ms": 238346,
-      "artist": [
-        "Sophie Auster"
+      "artists": [
+        {
+          "name": "Sophie Auster",
+          "id": "00ADJx9UolqyBRnMyY8DT6"
+        }
       ],
-      "artistId": [
-        "00ADJx9UolqyBRnMyY8DT6"
-      ],
-      "albumId": "2efTrO65k7TQUzvD3qXoOc",
+      "album": {
+        "id": "2efTrO65k7TQUzvD3qXoOc",
+        "name": "Next Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d25adf39ae03b595fbc6e560"
+      },
       "release_date": "2019-04-12",
       "popularity": 12
     },
     {
-      "trackId": "7L6RpEC15niB0WRfpPaOvc",
-      "name": "An die Musik, D.547",
+      "track": {
+        "id": "7L6RpEC15niB0WRfpPaOvc",
+        "name": "An die Musik, D.547"
+      },
       "duration_ms": 176000,
-      "artist": [
-        "Franz Schubert",
-        "Elly Ameling",
-        "Dalton Baldwin"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Elly Ameling",
+          "id": "6EF4HWfjexcF6EmdoRnSVC"
+        },
+        {
+          "name": "Dalton Baldwin",
+          "id": "2pbSEyAiiPwFivKqxXLhiB"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "6EF4HWfjexcF6EmdoRnSVC",
-        "2pbSEyAiiPwFivKqxXLhiB"
-      ],
-      "albumId": "6XnMytI4e4JFzibW9ag3tK",
+      "album": {
+        "id": "6XnMytI4e4JFzibW9ag3tK",
+        "name": "An die Musik: Schubert Lieder",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b00e025c06501f54d3c1011"
+      },
       "release_date": "1983-01-26",
       "popularity": 28
     },
     {
-      "trackId": "6eSqZVvZmiUVTnRI8ea6we",
-      "name": "Nudisten Leifö",
+      "track": {
+        "id": "6eSqZVvZmiUVTnRI8ea6we",
+        "name": "Nudisten Leifö"
+      },
       "duration_ms": 156373,
-      "artist": [
-        "Karsten Torebjer"
+      "artists": [
+        {
+          "name": "Karsten Torebjer",
+          "id": "7EiiQpG5ZtiHzX106P9gAk"
+        }
       ],
-      "artistId": [
-        "7EiiQpG5ZtiHzX106P9gAk"
-      ],
-      "albumId": "6p2oRaoMjVKfizIRVVCeyJ",
+      "album": {
+        "id": "6p2oRaoMjVKfizIRVVCeyJ",
+        "name": "Nudisten Leifö",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281be8905c984a2bdb8b39d74"
+      },
       "release_date": "2018-06-05",
       "popularity": 27
     }

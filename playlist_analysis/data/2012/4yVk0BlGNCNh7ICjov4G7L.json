@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344810_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0oi3XBxDxpo6S0NUSOnU1G",
-      "name": "Show Me What You Got",
+      "track": {
+        "id": "0oi3XBxDxpo6S0NUSOnU1G",
+        "name": "Show Me What You Got"
+      },
       "duration_ms": 223080,
-      "artist": [
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "34leStU1anAKH5RsU607zz",
+      "album": {
+        "id": "34leStU1anAKH5RsU607zz",
+        "name": "Kingdom Come",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ffdd7a885159b73d0d15e0f9"
+      },
       "release_date": "2006-11-21",
       "popularity": 40
     },
     {
-      "trackId": "4qWV8gbLtvMc4F97HDg2z0",
-      "name": "D-D-Dance",
+      "track": {
+        "id": "4qWV8gbLtvMc4F97HDg2z0",
+        "name": "D-D-Dance"
+      },
       "duration_ms": 222280,
-      "artist": [
-        "The Royal Concept"
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "id": "7LAucJAvbQa7ZIA0qP8YI2"
+        }
       ],
-      "artistId": [
-        "7LAucJAvbQa7ZIA0qP8YI2"
-      ],
-      "albumId": "30p1meHBKVwMY9lsOabmwd",
+      "album": {
+        "id": "30p1meHBKVwMY9lsOabmwd",
+        "name": "Goldrushed",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f36e9b275897aa518ec1e21d"
+      },
       "release_date": "2013-09-11",
       "popularity": 19
     },
     {
-      "trackId": "3SnGymj6ijE2iuUfWxLo1q",
-      "name": "I'm Coming Out",
+      "track": {
+        "id": "3SnGymj6ijE2iuUfWxLo1q",
+        "name": "I'm Coming Out"
+      },
       "duration_ms": 323346,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "3zgDLoVcpVGfFbDZJf3uHI",
+      "album": {
+        "id": "3zgDLoVcpVGfFbDZJf3uHI",
+        "name": "Diana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02abc5193decc1a2984a93f31e"
+      },
       "release_date": "1980-05-22",
       "popularity": 70
     },
     {
-      "trackId": "3vZO25GdYuqFrR1kzZADnp",
-      "name": "Ready or Not",
+      "track": {
+        "id": "3vZO25GdYuqFrR1kzZADnp",
+        "name": "Ready or Not"
+      },
       "duration_ms": 226986,
-      "artist": [
-        "Fugees",
-        "Ms. Lauryn Hill",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Fugees",
+          "id": "2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "2WKdxPFRD7IqZvlIAvhMgY",
-        "2Mu5NfyYm8n5iTomuKAEHl",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "18XFe4CPBgVezXkxZP6rTb",
+      "album": {
+        "id": "18XFe4CPBgVezXkxZP6rTb",
+        "name": "The Score (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137"
+      },
       "release_date": "1996-02-13",
       "popularity": 71
     },
     {
-      "trackId": "7nnWIPM5hwE3DaUBkvOIpy",
-      "name": "Drive",
+      "track": {
+        "id": "7nnWIPM5hwE3DaUBkvOIpy",
+        "name": "Drive"
+      },
       "duration_ms": 232453,
-      "artist": [
-        "Incubus"
+      "artists": [
+        {
+          "name": "Incubus",
+          "id": "3YcBF2ttyueytpXtEzn1Za"
+        }
       ],
-      "artistId": [
-        "3YcBF2ttyueytpXtEzn1Za"
-      ],
-      "albumId": "2i6nd4FV6y7K9fln6eelmR",
+      "album": {
+        "id": "2i6nd4FV6y7K9fln6eelmR",
+        "name": "Make Yourself",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274fad40214d982351347e46e"
+      },
       "release_date": "1999-10-26",
       "popularity": 75
     },
     {
-      "trackId": "7d0CtYjwokZNIOOpFAQhot",
-      "name": "We Should Go To France",
+      "track": {
+        "id": "7d0CtYjwokZNIOOpFAQhot",
+        "name": "We Should Go To France"
+      },
       "duration_ms": 186946,
-      "artist": [
-        "Urban Cone"
+      "artists": [
+        {
+          "name": "Urban Cone",
+          "id": "3WOOglGBDGvr6c2WBeMAWn"
+        }
       ],
-      "artistId": [
-        "3WOOglGBDGvr6c2WBeMAWn"
-      ],
-      "albumId": "2vUSFbWh8iPEquWeGhVL0u",
+      "album": {
+        "id": "2vUSFbWh8iPEquWeGhVL0u",
+        "name": "Our Youth",
+        "img": "https://i.scdn.co/image/ab67616d00001e02125938df3423178f818f4eba"
+      },
       "release_date": "2012-01-01",
       "popularity": 19
     },
     {
-      "trackId": "1FTSo4v6BOZH9QxKc3MbVM",
-      "name": "Song 2 - 2012 Remaster",
+      "track": {
+        "id": "1FTSo4v6BOZH9QxKc3MbVM",
+        "name": "Song 2 - 2012 Remaster"
+      },
       "duration_ms": 121160,
-      "artist": [
-        "Blur"
+      "artists": [
+        {
+          "name": "Blur",
+          "id": "7MhMgCo0Bl0Kukl93PZbYS"
+        }
       ],
-      "artistId": [
-        "7MhMgCo0Bl0Kukl93PZbYS"
-      ],
-      "albumId": "7HvIrSkKGJCzd8AKyjTJ6Q",
+      "album": {
+        "id": "7HvIrSkKGJCzd8AKyjTJ6Q",
+        "name": "Blur (Special Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6"
+      },
       "release_date": "1997-02-10",
       "popularity": 77
     },
     {
-      "trackId": "0CcL4kSHKIEwF3IW0BGgb6",
-      "name": "I Can't Stand the Rain",
+      "track": {
+        "id": "0CcL4kSHKIEwF3IW0BGgb6",
+        "name": "I Can't Stand the Rain"
+      },
       "duration_ms": 150400,
-      "artist": [
-        "Ann Peebles"
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "id": "5dM7jA0PXh0Ozz8LT2YOCB"
+        }
       ],
-      "artistId": [
-        "5dM7jA0PXh0Ozz8LT2YOCB"
-      ],
-      "albumId": "67Sjm7EwrWbnnyojmhP4KL",
+      "album": {
+        "id": "67Sjm7EwrWbnnyojmhP4KL",
+        "name": "I Can't Stand the Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02943b4cc92b7af0f22190eaef"
+      },
       "release_date": "1974-06-11",
       "popularity": 60
     },
     {
-      "trackId": "2F79HavLHwJlfvvJOkkIQD",
-      "name": "The Cave",
+      "track": {
+        "id": "2F79HavLHwJlfvvJOkkIQD",
+        "name": "The Cave"
+      },
       "duration_ms": 215626,
-      "artist": [
-        "Mumford & Sons"
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "id": "3gd8FJtBJtkRxdfbTu19U2"
+        }
       ],
-      "artistId": [
-        "3gd8FJtBJtkRxdfbTu19U2"
-      ],
-      "albumId": "0kjj3EUl6EOrKSC9iDurZq",
+      "album": {
+        "id": "0kjj3EUl6EOrKSC9iDurZq",
+        "name": "Sigh No More",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b457397404b3890a6dc2e51"
+      },
       "release_date": "2009-01-01",
       "popularity": 60
     },
     {
-      "trackId": "5W3cjX2J3tjhG8zb6u0qHn",
-      "name": "Harder, Better, Faster, Stronger",
+      "track": {
+        "id": "5W3cjX2J3tjhG8zb6u0qHn",
+        "name": "Harder, Better, Faster, Stronger"
+      },
       "duration_ms": 224693,
-      "artist": [
-        "Daft Punk"
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi"
+        }
       ],
-      "artistId": [
-        "4tZwfgrHOc3mvqYlEYSvVi"
-      ],
-      "albumId": "2noRn2Aes5aoNVsU6iWThc",
+      "album": {
+        "id": "2noRn2Aes5aoNVsU6iWThc",
+        "name": "Discovery",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b33d46dfa2635a47eebf63b2"
+      },
       "release_date": "2001-03-12",
       "popularity": 71
     },
     {
-      "trackId": "6HOcAwQAAKaj1GHntfmSoI",
-      "name": "When You Were Young - Calvin Harris Remix",
+      "track": {
+        "id": "6HOcAwQAAKaj1GHntfmSoI",
+        "name": "When You Were Young - Calvin Harris Remix"
+      },
       "duration_ms": 372800,
-      "artist": [
-        "The Killers",
-        "Calvin Harris"
+      "artists": [
+        {
+          "name": "The Killers",
+          "id": "0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Calvin Harris",
+          "id": "7CajNmpbOovFoOoasH2HaY"
+        }
       ],
-      "artistId": [
-        "0C0XlULifJtAgn6ZNCW2eu",
-        "7CajNmpbOovFoOoasH2HaY"
-      ],
-      "albumId": "3T5bbO2BOnnjun6jKhJdjV",
+      "album": {
+        "id": "3T5bbO2BOnnjun6jKhJdjV",
+        "name": "Direct Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248488c2eee5727efc30bf657"
+      },
       "release_date": "2013-01-01",
       "popularity": 43
     },
     {
-      "trackId": "22zbgTMLuj0sNFLxCJGdHR",
-      "name": "Jumpin' Jack Flash",
+      "track": {
+        "id": "22zbgTMLuj0sNFLxCJGdHR",
+        "name": "Jumpin' Jack Flash"
+      },
       "duration_ms": 208253,
-      "artist": [
-        "Thelma Houston"
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "id": "3sgUnR8TF35euWEV07RPyO"
+        }
       ],
-      "artistId": [
-        "3sgUnR8TF35euWEV07RPyO"
-      ],
-      "albumId": "60Jkr2fEYoC7EQrVTv5aQ5",
+      "album": {
+        "id": "60Jkr2fEYoC7EQrVTv5aQ5",
+        "name": "Sunshower (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac4e9e05135888570f1650f9"
+      },
       "release_date": "1969-01-10",
       "popularity": 36
     },
     {
-      "trackId": "6UkYZGZLSN31QaX0HGUzkV",
-      "name": "Paparazzi",
+      "track": {
+        "id": "6UkYZGZLSN31QaX0HGUzkV",
+        "name": "Paparazzi"
+      },
       "duration_ms": 208173,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "2VGc0pYg78a2d96SQfcW6P",
+      "album": {
+        "id": "2VGc0pYg78a2d96SQfcW6P",
+        "name": "OO's Hits It's Party Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e028da07f0317da3fb6e453f99b"
+      },
       "release_date": "2022-08-05",
       "popularity": 4
     },
     {
-      "trackId": "25nzKGDiua1lE9Qo5V19GL",
-      "name": "Young Blood",
+      "track": {
+        "id": "25nzKGDiua1lE9Qo5V19GL",
+        "name": "Young Blood"
+      },
       "duration_ms": 246600,
-      "artist": [
-        "The Naked And Famous"
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "id": "0oeUpvxWsC8bWS6SnpU8b9"
+        }
       ],
-      "artistId": [
-        "0oeUpvxWsC8bWS6SnpU8b9"
-      ],
-      "albumId": "5ImvJCAX33Pt2XGMaYaMia",
+      "album": {
+        "id": "5ImvJCAX33Pt2XGMaYaMia",
+        "name": "Passive Me, Aggressive You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02494e33d225ef37180f88c8ce"
+      },
       "release_date": "2010",
       "popularity": 67
     }

@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/16e477b8-96c8-41ad-ab16-d9a126f2d813.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0Ui05Ov0s4PnRc4JI3Pilg",
-      "name": "My Favourite Game",
+      "track": {
+        "id": "0Ui05Ov0s4PnRc4JI3Pilg",
+        "name": "My Favourite Game"
+      },
       "duration_ms": 220467,
-      "artist": [
-        "The Cardigans"
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "id": "1tqZaCwM57UFKjWoYwMLrw"
+        }
       ],
-      "artistId": [
-        "1tqZaCwM57UFKjWoYwMLrw"
-      ],
-      "albumId": "5DiOwioOBqVCSH6IwGBXEc",
+      "album": {
+        "id": "5DiOwioOBqVCSH6IwGBXEc",
+        "name": "Gran Turismo (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ef700b0fb079793f8b0d774"
+      },
       "release_date": "1998-01-01",
       "popularity": 68
     },
     {
-      "trackId": "4y1LsJpmMti1PfRQV9AWWe",
-      "name": "Girls Just Want to Have Fun",
+      "track": {
+        "id": "4y1LsJpmMti1PfRQV9AWWe",
+        "name": "Girls Just Want to Have Fun"
+      },
       "duration_ms": 238266,
-      "artist": [
-        "Cyndi Lauper"
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY"
+        }
       ],
-      "artistId": [
-        "2BTZIqw0ntH9MvilQ3ewNY"
-      ],
-      "albumId": "1FvdZ1oizXwF9bxogujoF0",
+      "album": {
+        "id": "1FvdZ1oizXwF9bxogujoF0",
+        "name": "She's So Unusual",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252f532df7ba3269b0242fed9"
+      },
       "release_date": "1983-10-14",
       "popularity": 79
     },
     {
-      "trackId": "0W0WE17i79I4SvzNfxOES1",
-      "name": "Dance With Somebody - Radio Version",
+      "track": {
+        "id": "0W0WE17i79I4SvzNfxOES1",
+        "name": "Dance With Somebody - Radio Version"
+      },
       "duration_ms": 239400,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "5Xfk73ruFjnYTYIZsFMvqh",
+      "album": {
+        "id": "5Xfk73ruFjnYTYIZsFMvqh",
+        "name": "Dance with Somebody",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c4cefdf0aa0bbdd3bdc4ac2"
+      },
       "release_date": "2009-01-01",
       "popularity": 48
     },
     {
-      "trackId": "2UT3iEU7uQAXNUxCKfiZAj",
-      "name": "Dancing on My Own",
+      "track": {
+        "id": "2UT3iEU7uQAXNUxCKfiZAj",
+        "name": "Dancing on My Own"
+      },
       "duration_ms": 288670,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0uQvFZsNoC7MZpcZZLtlYs",
+      "album": {
+        "id": "0uQvFZsNoC7MZpcZZLtlYs",
+        "name": "Body Talk, Pt.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a9b4d6c5fb4461ed90c200a"
+      },
       "release_date": "2010-01-01",
       "popularity": 55
     },
     {
-      "trackId": "1TfqLAPs4K3s2rJMoCokcS",
-      "name": "Sweet Dreams (Are Made of This) - Remastered",
+      "track": {
+        "id": "1TfqLAPs4K3s2rJMoCokcS",
+        "name": "Sweet Dreams (Are Made of This) - Remastered"
+      },
       "duration_ms": 216933,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "5jNDWA19BJbE24x1UUJGRY",
+      "album": {
+        "id": "5jNDWA19BJbE24x1UUJGRY",
+        "name": "Sweet Dreams (Are Made Of This)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3994c94dfb241923664bb4d"
+      },
       "release_date": "1983-01-04",
       "popularity": 81
     },
     {
-      "trackId": "3hNpnx2AXhIVBhNOoiBUmI",
-      "name": "Resten av ditt liv",
+      "track": {
+        "id": "3hNpnx2AXhIVBhNOoiBUmI",
+        "name": "Resten av ditt liv"
+      },
       "duration_ms": 234840,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "3qEtXKnOn9K5YQW05IPiFq",
+      "album": {
+        "id": "3qEtXKnOn9K5YQW05IPiFq",
+        "name": "Sagolandet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3abd66a1f315935e5933847"
+      },
       "release_date": "2011-06-06",
       "popularity": 47
     },
     {
-      "trackId": "37SVPyQETIKEMYvWB3oxeZ",
-      "name": "Vintersaga",
+      "track": {
+        "id": "37SVPyQETIKEMYvWB3oxeZ",
+        "name": "Vintersaga"
+      },
       "duration_ms": 242226,
-      "artist": [
-        "Amanda Bergman"
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "id": "4FmkyL0ggkDBUUoPzBlo80"
+        }
       ],
-      "artistId": [
-        "4FmkyL0ggkDBUUoPzBlo80"
-      ],
-      "albumId": "744znYXORcYsjxrgKWok7Y",
+      "album": {
+        "id": "744znYXORcYsjxrgKWok7Y",
+        "name": "Vintersaga",
+        "img": "https://i.scdn.co/image/ab67616d00001e02359ca014f993f1c1502efb32"
+      },
       "release_date": "2015-01-15",
       "popularity": 44
     },
     {
-      "trackId": "4VrWlk8IQxevMvERoX08iC",
-      "name": "Chandelier",
+      "track": {
+        "id": "4VrWlk8IQxevMvERoX08iC",
+        "name": "Chandelier"
+      },
       "duration_ms": 216120,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "3xFSl9lIRaYXIYkIn3OIl9",
+      "album": {
+        "id": "3xFSl9lIRaYXIYkIn3OIl9",
+        "name": "1000 Forms Of Fear",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d199c9f6e6562aafa5aa357"
+      },
       "release_date": "2014-07-04",
       "popularity": 79
     },
     {
-      "trackId": "5eJ314ozT4CTPlyjdsGq78",
-      "name": "Utan dina andetag",
+      "track": {
+        "id": "5eJ314ozT4CTPlyjdsGq78",
+        "name": "Utan dina andetag"
+      },
       "duration_ms": 264066,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "7mfwgTEuC1G6kj0BNovhS0",
+      "album": {
+        "id": "7mfwgTEuC1G6kj0BNovhS0",
+        "name": "Om Du Var Här",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c447c48ddac6e8a417d0f77a"
+      },
       "release_date": "1997-10-06",
       "popularity": 52
     },
     {
-      "trackId": "65E62rOSbm7SZbAMYjNTJq",
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "track": {
+        "id": "65E62rOSbm7SZbAMYjNTJq",
+        "name": "Pride (In The Name Of Love) - Remastered 2009"
+      },
       "duration_ms": 228426,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "6akaB3XfTnCwrY4DahsBCY",
+      "album": {
+        "id": "6akaB3XfTnCwrY4DahsBCY",
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277df2aceaf90f06a20b56b14"
+      },
       "release_date": "1984-10-01",
       "popularity": 68
     },
     {
-      "trackId": "2FnUyLhe7sjXgnZlK9sc0z",
-      "name": "Bara Få Va Mig Själv",
+      "track": {
+        "id": "2FnUyLhe7sjXgnZlK9sc0z",
+        "name": "Bara Få Va Mig Själv"
+      },
       "duration_ms": 214887,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "4sVpJJTw1dKDGlTprOvafq",
+      "album": {
+        "id": "4sVpJJTw1dKDGlTprOvafq",
+        "name": "Kristaller",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e5deed9a2a9ae9a5c8766cb"
+      },
       "release_date": "2016-09-16",
       "popularity": 51
     }

@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242438_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1JIzFhI9Lt5FyslawmHCBi",
-      "name": "Five Years - 2012 Remaster",
+      "track": {
+        "id": "1JIzFhI9Lt5FyslawmHCBi",
+        "name": "Five Years - 2012 Remaster"
+      },
       "duration_ms": 283752,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "48D1hRORqJq52qsnUYZX56",
+      "album": {
+        "id": "48D1hRORqJq52qsnUYZX56",
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680"
+      },
       "release_date": "1972-06-06",
       "popularity": 59
     },
     {
-      "trackId": "5xf5hPViqHM3PCwidDiRK7",
-      "name": "Helpless",
+      "track": {
+        "id": "5xf5hPViqHM3PCwidDiRK7",
+        "name": "Helpless"
+      },
       "duration_ms": 257106,
-      "artist": [
-        "k.d. lang"
+      "artists": [
+        {
+          "name": "k.d. lang",
+          "id": "6W1BHDF0T4a4KYcSwzD586"
+        }
       ],
-      "artistId": [
-        "6W1BHDF0T4a4KYcSwzD586"
-      ],
-      "albumId": "7aTcKEqDqi1NoR2RggubbX",
+      "album": {
+        "id": "7aTcKEqDqi1NoR2RggubbX",
+        "name": "Hymns of the 49th Parallel",
+        "img": "https://i.scdn.co/image/ab67616d00001e023172fb8a260c80df1635e4cf"
+      },
       "release_date": "2004-07-27",
       "popularity": 39
     },
     {
-      "trackId": "2xpWJmLvPl6KJENgmvNPig",
-      "name": "Wayfaring Stranger - Acoustic",
+      "track": {
+        "id": "2xpWJmLvPl6KJENgmvNPig",
+        "name": "Wayfaring Stranger - Acoustic"
+      },
       "duration_ms": 188746,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "3pEdAUi98rw0eI143OUwAX",
+      "album": {
+        "id": "3pEdAUi98rw0eI143OUwAX",
+        "name": "Acoustic",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5f51e96e4f8d273c103b7ad"
+      },
       "release_date": "2017-12-08",
       "popularity": 34
     },
     {
-      "trackId": "71CDY3Hu5Yzy0ctjFB8kgl",
-      "name": "Mrs. Bartolozzi - 2018 Remaster",
+      "track": {
+        "id": "71CDY3Hu5Yzy0ctjFB8kgl",
+        "name": "Mrs. Bartolozzi - 2018 Remaster"
+      },
       "duration_ms": 358960,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "0xo3ZL0B9982pr08stcNlt",
+      "album": {
+        "id": "0xo3ZL0B9982pr08stcNlt",
+        "name": "Aerial (2018 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02639b5d6334f08ce04de0fc03"
+      },
       "release_date": "2005-11-07",
       "popularity": 30
     },
     {
-      "trackId": "1UmIWsuzcitp1VhsEKviJZ",
-      "name": "Your Song - From \"Moulin Rouge\" Soundtrack",
+      "track": {
+        "id": "1UmIWsuzcitp1VhsEKviJZ",
+        "name": "Your Song - From \"Moulin Rouge\" Soundtrack"
+      },
       "duration_ms": 218773,
-      "artist": [
-        "Ewan McGregor",
-        "Alessandro Safina"
+      "artists": [
+        {
+          "name": "Ewan McGregor",
+          "id": "105Paee9vmV5rfLSG652e1"
+        },
+        {
+          "name": "Alessandro Safina",
+          "id": "5ITJs06INM9JWxK5hROEj3"
+        }
       ],
-      "artistId": [
-        "105Paee9vmV5rfLSG652e1",
-        "5ITJs06INM9JWxK5hROEj3"
-      ],
-      "albumId": "5cbAqQZSEgRiiNjuEHWTXc",
+      "album": {
+        "id": "5cbAqQZSEgRiiNjuEHWTXc",
+        "name": "Moulin Rouge",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6e0891de00a924b0f186d0c"
+      },
       "release_date": "2001-09-03",
       "popularity": 54
     },
     {
-      "trackId": "5L0C9gHy8649ZqJts6KVtB",
-      "name": "Luonnonlapsi",
+      "track": {
+        "id": "5L0C9gHy8649ZqJts6KVtB",
+        "name": "Luonnonlapsi"
+      },
       "duration_ms": 163693,
-      "artist": [
-        "Olavi Virta"
+      "artists": [
+        {
+          "name": "Olavi Virta",
+          "id": "1KP3rfrlCPI7fNr7aTJK6e"
+        }
       ],
-      "artistId": [
-        "1KP3rfrlCPI7fNr7aTJK6e"
-      ],
-      "albumId": "0DfIzMtva1VDVyZAscD6Nm",
+      "album": {
+        "id": "0DfIzMtva1VDVyZAscD6Nm",
+        "name": "Olavi Virta",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d235b7149849a6b51d5515e"
+      },
       "release_date": "1961",
       "popularity": 0
     },
     {
-      "trackId": "3mX6toBgklMnN0bneo47ZS",
-      "name": "Viiniä! Malja marttyyreille",
+      "track": {
+        "id": "3mX6toBgklMnN0bneo47ZS",
+        "name": "Viiniä! Malja marttyyreille"
+      },
       "duration_ms": 176426,
-      "artist": [
-        "Tuomari Nurmio",
-        "Viides Kolonna"
+      "artists": [
+        {
+          "name": "Tuomari Nurmio",
+          "id": "7zBD3u7aYHxNPlLWc5CAdh"
+        },
+        {
+          "name": "Viides Kolonna",
+          "id": "7gbUX9KKKSgNhjR7dMCIFA"
+        }
       ],
-      "artistId": [
-        "7zBD3u7aYHxNPlLWc5CAdh",
-        "7gbUX9KKKSgNhjR7dMCIFA"
-      ],
-      "albumId": "5HASdoQOptMAPZbI4DsdqI",
+      "album": {
+        "id": "5HASdoQOptMAPZbI4DsdqI",
+        "name": "Johanna-vuodet 1979-1982",
+        "img": "https://i.scdn.co/image/ab67616d00001e02446fdb5c03142007e7cced91"
+      },
       "release_date": "2014-08-29",
       "popularity": 23
     },
     {
-      "trackId": "4ydoBYv3fNQAwnVuXocCXj",
-      "name": "När hjulen rullar",
+      "track": {
+        "id": "4ydoBYv3fNQAwnVuXocCXj",
+        "name": "När hjulen rullar"
+      },
       "duration_ms": 280506,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "5fWPwAePaHcvQB3ZEHOGv1",
+      "album": {
+        "id": "5fWPwAePaHcvQB3ZEHOGv1",
+        "name": "Själ och hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a1220dc94244d81aa31350c"
+      },
       "release_date": "2022-04-29",
       "popularity": 49
     },
     {
-      "trackId": "0uHYplBhwLYey7f9qAmnSM",
-      "name": "The Night They Drove Old Dixie Down",
+      "track": {
+        "id": "0uHYplBhwLYey7f9qAmnSM",
+        "name": "The Night They Drove Old Dixie Down"
+      },
       "duration_ms": 206066,
-      "artist": [
-        "Joan Baez"
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "id": "1EevBGfUh3RSQSGpluxgBm"
+        }
       ],
-      "artistId": [
-        "1EevBGfUh3RSQSGpluxgBm"
-      ],
-      "albumId": "7q86S3pRwfE5sWVWa8x1ye",
+      "album": {
+        "id": "7q86S3pRwfE5sWVWa8x1ye",
+        "name": "Blessed Are...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e07e9acfb0d37857447a3b69"
+      },
       "release_date": "1971",
       "popularity": 57
     },
     {
-      "trackId": "5K09WxKdlkroDyEVyOSySy",
-      "name": "(You Make Me Feel Like) A Natural Woman",
+      "track": {
+        "id": "5K09WxKdlkroDyEVyOSySy",
+        "name": "(You Make Me Feel Like) A Natural Woman"
+      },
       "duration_ms": 165333,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "7lEOKZaOpqP70UYqdLPejG",
+      "album": {
+        "id": "7lEOKZaOpqP70UYqdLPejG",
+        "name": "Lady Soul (With Bonus Selections)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029e5af96086574b76499dcf70"
+      },
       "release_date": "1968-01-22",
       "popularity": 67
     },
     {
-      "trackId": "7H5zNKil738cdbARAvQnMC",
-      "name": "Rakkaudesta",
+      "track": {
+        "id": "7H5zNKil738cdbARAvQnMC",
+        "name": "Rakkaudesta"
+      },
       "duration_ms": 268573,
-      "artist": [
-        "Sielun Veljet"
+      "artists": [
+        {
+          "name": "Sielun Veljet",
+          "id": "53kRF2DbU7dNLQYklttuPA"
+        }
       ],
-      "artistId": [
-        "53kRF2DbU7dNLQYklttuPA"
-      ],
-      "albumId": "1iR1AVI0BhYUFgARzeqW9Y",
+      "album": {
+        "id": "1iR1AVI0BhYUFgARzeqW9Y",
+        "name": "Aina Nälkä",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1505c65419d3c53fe4161fd"
+      },
       "release_date": "2003-01-01",
       "popularity": 26
     },
     {
-      "trackId": "4ObhpadI19PparqIbj9pmR",
-      "name": "Ievan Polkka 2K18 - Melbourne Bounce Mix",
+      "track": {
+        "id": "4ObhpadI19PparqIbj9pmR",
+        "name": "Ievan Polkka 2K18 - Melbourne Bounce Mix"
+      },
       "duration_ms": 202259,
-      "artist": [
-        "Teknova"
+      "artists": [
+        {
+          "name": "Teknova",
+          "id": "6FBF58Fa0KpfkpLeFGqk7z"
+        }
       ],
-      "artistId": [
-        "6FBF58Fa0KpfkpLeFGqk7z"
-      ],
-      "albumId": "1bV2f1Mag0f4tO6eyLVOsL",
+      "album": {
+        "id": "1bV2f1Mag0f4tO6eyLVOsL",
+        "name": "Ievan Polkka 2K18 (Melbourne Bounce Mix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c88d2f2b57f3ebb1ba293dd2"
+      },
       "release_date": "2018-05-31",
       "popularity": 50
     },
     {
-      "trackId": "3ePV5FIM21C8mLZBPtBMjI",
-      "name": "Lännen lokari",
+      "track": {
+        "id": "3ePV5FIM21C8mLZBPtBMjI",
+        "name": "Lännen lokari"
+      },
       "duration_ms": 190228,
-      "artist": [
-        "Hiski Salomaa"
+      "artists": [
+        {
+          "name": "Hiski Salomaa",
+          "id": "2r7Oo409kwM0BsEOnGDgI9"
+        }
       ],
-      "artistId": [
-        "2r7Oo409kwM0BsEOnGDgI9"
-      ],
-      "albumId": "0drz8ADXUgcE5cR88lQ0oi",
+      "album": {
+        "id": "0drz8ADXUgcE5cR88lQ0oi",
+        "name": "Rentoa meininkiä",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273685b8a2537760df0eb92a7"
+      },
       "release_date": "1955",
       "popularity": 20
     },
     {
-      "trackId": "2z3Zy3WnBBbHeXTBTdvJjd",
-      "name": "Mbube",
+      "track": {
+        "id": "2z3Zy3WnBBbHeXTBTdvJjd",
+        "name": "Mbube"
+      },
       "duration_ms": 202426,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "660kKC1wgzwtHYOn5aza9N",
+      "album": {
+        "id": "660kKC1wgzwtHYOn5aza9N",
+        "name": "The Click Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e022fb4d5946ea2118b443f67ce"
+      },
       "release_date": "1989",
       "popularity": 17
     },
     {
-      "trackId": "4euAGZTszWPrriggYK0HG9",
-      "name": "Lay All Your Love On Me",
+      "track": {
+        "id": "4euAGZTszWPrriggYK0HG9",
+        "name": "Lay All Your Love On Me"
+      },
       "duration_ms": 274466,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 74
     }

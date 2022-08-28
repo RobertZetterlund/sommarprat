@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3251341_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4kP69y3GKHi9tXckfgp4bK",
-      "name": "For Once In My Life",
+      "track": {
+        "id": "4kP69y3GKHi9tXckfgp4bK",
+        "name": "For Once In My Life"
+      },
       "duration_ms": 169800,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "3pPBbp1Nl9n1AM9xFpdKtZ",
+      "album": {
+        "id": "3pPBbp1Nl9n1AM9xFpdKtZ",
+        "name": "For Once In My Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cab4dfee401a04dacfa11784"
+      },
       "release_date": "1968-12-01",
       "popularity": 72
     },
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "5eLal2UVIB5c848RQZAcxH",
-      "name": "Hildringstimen",
+      "track": {
+        "id": "5eLal2UVIB5c848RQZAcxH",
+        "name": "Hildringstimen"
+      },
       "duration_ms": 245106,
-      "artist": [
-        "Erik Bye"
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "id": "1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
       ],
-      "artistId": [
-        "1qqBCY3Scz9Ea1mjkCDgaZ"
-      ],
-      "albumId": "4X6WfA9EytPzpNZI9awNMz",
+      "album": {
+        "id": "4X6WfA9EytPzpNZI9awNMz",
+        "name": "Jeg Vet En Vind",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ef3a8019ed2881cef51622c"
+      },
       "release_date": "1972-01-01",
       "popularity": 26
     },
     {
-      "trackId": "3obrfotpr4kLCKiOu2GZ4Q",
-      "name": "My Little Town",
+      "track": {
+        "id": "3obrfotpr4kLCKiOu2GZ4Q",
+        "name": "My Little Town"
+      },
       "duration_ms": 231946,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "4A366gjTrYQwmRtkTezF2W",
+      "album": {
+        "id": "4A366gjTrYQwmRtkTezF2W",
+        "name": "Still Crazy After All These Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e023879ef4375b97d2b58bf0768"
+      },
       "release_date": "1975-10-25",
       "popularity": 47
     },
     {
-      "trackId": "01XeqKYJlg5TI9IYPIJ8LB",
-      "name": "Rocking In the Free World (Neil Young - Rockhead Tribute Mix)",
+      "track": {
+        "id": "01XeqKYJlg5TI9IYPIJ8LB",
+        "name": "Rocking In the Free World (Neil Young - Rockhead Tribute Mix)"
+      },
       "duration_ms": 227480,
-      "artist": [
-        "Rockhead"
+      "artists": [
+        {
+          "name": "Rockhead",
+          "id": "77KaUWfcNvzLGKtrXugjM1"
+        }
       ],
-      "artistId": [
-        "77KaUWfcNvzLGKtrXugjM1"
-      ],
-      "albumId": "6QzZmWuZ9ABYSdekbHITGx",
+      "album": {
+        "id": "6QzZmWuZ9ABYSdekbHITGx",
+        "name": "Damn! Look At My Gigantic American Hits! Vol.8",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ecb23b10bc2048429695dfde"
+      },
       "release_date": "2014-06-24",
       "popularity": 0
     },
     {
-      "trackId": "08BSHFPXmclm8AYat5hXM7",
-      "name": "You Wear It Well",
+      "track": {
+        "id": "08BSHFPXmclm8AYat5hXM7",
+        "name": "You Wear It Well"
+      },
       "duration_ms": 262960,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "1V0trkg3Pt4pGCyxfztFLZ",
+      "album": {
+        "id": "1V0trkg3Pt4pGCyxfztFLZ",
+        "name": "Never A Dull Moment",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a9bcb31e5e18c2ea9011520"
+      },
       "release_date": "1972",
       "popularity": 51
     },
     {
-      "trackId": "7uPmQttafLiJyju14JREY4",
-      "name": "Young Americans - 2016 Remaster",
+      "track": {
+        "id": "7uPmQttafLiJyju14JREY4",
+        "name": "Young Americans - 2016 Remaster"
+      },
       "duration_ms": 313706,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "0lITGovWgaQGi42EfqcE5P",
+      "album": {
+        "id": "0lITGovWgaQGi42EfqcE5P",
+        "name": "Young Americans (2016 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3bd6493ad6e29dcd2ad5a37"
+      },
       "release_date": "1975-03-07",
       "popularity": 63
     },
     {
-      "trackId": "6PDiKJjEDgtDv5S0J60PND",
-      "name": "It's All Right Baby's Coming Back (Αs performed by Eurythmics)",
+      "track": {
+        "id": "6PDiKJjEDgtDv5S0J60PND",
+        "name": "It's All Right Baby's Coming Back (Αs performed by Eurythmics)"
+      },
       "duration_ms": 212240,
-      "artist": [
-        "Pop Music Workshop"
+      "artists": [
+        {
+          "name": "Pop Music Workshop",
+          "id": "5D13RHlJ2Le5Iytcl2xzE9"
+        }
       ],
-      "artistId": [
-        "5D13RHlJ2Le5Iytcl2xzE9"
-      ],
-      "albumId": "1QgNf4JJNlVWj9NQZYeT5O",
+      "album": {
+        "id": "1QgNf4JJNlVWj9NQZYeT5O",
+        "name": "Pro Backing Tracks E, Vol.22",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290c102cc0030593dd1b57b52"
+      },
       "release_date": "2019-05-09",
       "popularity": 0
     },
     {
-      "trackId": "476V2d6iA2tWXgQboKmTtA",
-      "name": "Father And Son",
+      "track": {
+        "id": "476V2d6iA2tWXgQboKmTtA",
+        "name": "Father And Son"
+      },
       "duration_ms": 221120,
-      "artist": [
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "44VxbAytHpVi3Rq8hRhild",
+      "album": {
+        "id": "44VxbAytHpVi3Rq8hRhild",
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d"
+      },
       "release_date": "1970-11-23",
       "popularity": 73
     },
     {
-      "trackId": "6RlrffhveGnVpVP5cbr9cn",
-      "name": "I Remember You",
+      "track": {
+        "id": "6RlrffhveGnVpVP5cbr9cn",
+        "name": "I Remember You"
+      },
       "duration_ms": 143653,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "6SESAIqP8sQTVp0ZRVcdOq",
+      "album": {
+        "id": "6SESAIqP8sQTVp0ZRVcdOq",
+        "name": "Sings Sweet Songs For Swingers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee717b7780dd30cee28bca1e"
+      },
       "release_date": "1958-01-01",
       "popularity": 10
     },
     {
-      "trackId": "1tjK9HhmpEfk0ijyIKsoUk",
-      "name": "Hey Nineteen",
+      "track": {
+        "id": "1tjK9HhmpEfk0ijyIKsoUk",
+        "name": "Hey Nineteen"
+      },
       "duration_ms": 307400,
-      "artist": [
-        "Steely Dan"
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "id": "6P7H3ai06vU1sGvdpBwDmE"
+        }
       ],
-      "artistId": [
-        "6P7H3ai06vU1sGvdpBwDmE"
-      ],
-      "albumId": "5fIBtKHWGjbjK9C4i1Z11L",
+      "album": {
+        "id": "5fIBtKHWGjbjK9C4i1Z11L",
+        "name": "Gaucho",
+        "img": "https://i.scdn.co/image/ab67616d00001e02412d0a3ed734b885c1fed05d"
+      },
       "release_date": "1980",
       "popularity": 62
     },
     {
-      "trackId": "60s0QWaOZ2UTzqdIHBCt3x",
-      "name": "Everybody Knows",
+      "track": {
+        "id": "60s0QWaOZ2UTzqdIHBCt3x",
+        "name": "Everybody Knows"
+      },
       "duration_ms": 334866,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3gUw30X6A7WEGcRdv1nFr9",
+      "album": {
+        "id": "3gUw30X6A7WEGcRdv1nFr9",
+        "name": "I'm Your Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225b12e3030dcf540319f687e"
+      },
       "release_date": "1988-02-02",
       "popularity": 54
     },
     {
-      "trackId": "1UmIWsuzcitp1VhsEKviJZ",
-      "name": "Your Song - From \"Moulin Rouge\" Soundtrack",
+      "track": {
+        "id": "1UmIWsuzcitp1VhsEKviJZ",
+        "name": "Your Song - From \"Moulin Rouge\" Soundtrack"
+      },
       "duration_ms": 218773,
-      "artist": [
-        "Ewan McGregor",
-        "Alessandro Safina"
+      "artists": [
+        {
+          "name": "Ewan McGregor",
+          "id": "105Paee9vmV5rfLSG652e1"
+        },
+        {
+          "name": "Alessandro Safina",
+          "id": "5ITJs06INM9JWxK5hROEj3"
+        }
       ],
-      "artistId": [
-        "105Paee9vmV5rfLSG652e1",
-        "5ITJs06INM9JWxK5hROEj3"
-      ],
-      "albumId": "5cbAqQZSEgRiiNjuEHWTXc",
+      "album": {
+        "id": "5cbAqQZSEgRiiNjuEHWTXc",
+        "name": "Moulin Rouge",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6e0891de00a924b0f186d0c"
+      },
       "release_date": "2001-09-03",
       "popularity": 54
     }

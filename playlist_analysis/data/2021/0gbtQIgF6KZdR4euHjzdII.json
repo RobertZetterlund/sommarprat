@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/9ceb3d5c-a6dc-4f48-beb8-1073899a2402.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3lh3iiiJeiBXHSZw6u0kh6",
-      "name": "Into the Mystic - 2013 Remaster",
+      "track": {
+        "id": "3lh3iiiJeiBXHSZw6u0kh6",
+        "name": "Into the Mystic - 2013 Remaster"
+      },
       "duration_ms": 205613,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "5PfnCqRbdfIDMb1x3MPQam",
+      "album": {
+        "id": "5PfnCqRbdfIDMb1x3MPQam",
+        "name": "Moondance",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d828b182ee9b7193a0f8b5d6"
+      },
       "release_date": "1970-02",
       "popularity": 72
     },
     {
-      "trackId": "4bEcoz1OcfMgUbp2ft8ieQ",
-      "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+      "track": {
+        "id": "4bEcoz1OcfMgUbp2ft8ieQ",
+        "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)"
+      },
       "duration_ms": 255653,
-      "artist": [
-        "Tyler, The Creator",
-        "Frank Ocean",
-        "Steve Lacy"
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "id": "4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "id": "2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Steve Lacy",
+          "id": "57vWImR43h4CaDao012Ofp"
+        }
       ],
-      "artistId": [
-        "4V8LLVI7PbaPR0K2TGSxFF",
-        "2h93pZq0e7k5yf4dywlkpM",
-        "57vWImR43h4CaDao012Ofp"
-      ],
-      "albumId": "2nkto6YNI4rUYTLqEwWJ3o",
+      "album": {
+        "id": "2nkto6YNI4rUYTLqEwWJ3o",
+        "name": "Flower Boy",
+        "img": "https://i.scdn.co/image/ab67616d00001e028940ac99f49e44f59e6f7fb3"
+      },
       "release_date": "2017-07-21",
       "popularity": 74
     },
     {
-      "trackId": "3M8FzayQWtkvOhqMn2V4T2",
-      "name": "Lean on Me",
+      "track": {
+        "id": "3M8FzayQWtkvOhqMn2V4T2",
+        "name": "Lean on Me"
+      },
       "duration_ms": 258834,
-      "artist": [
-        "Bill Withers"
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "id": "1ThoqLcyIYvZn7iWbj8fsj"
+        }
       ],
-      "artistId": [
-        "1ThoqLcyIYvZn7iWbj8fsj"
-      ],
-      "albumId": "0sFuW4rH5mFZUjNKnckO3v",
+      "album": {
+        "id": "0sFuW4rH5mFZUjNKnckO3v",
+        "name": "Still Bill",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298e08f603553915a041b6937"
+      },
       "release_date": "1972-05-01",
       "popularity": 70
     },
     {
-      "trackId": "2oFxITGDiTZ1JRwP8yinRt",
-      "name": "On Broadway",
+      "track": {
+        "id": "2oFxITGDiTZ1JRwP8yinRt",
+        "name": "On Broadway"
+      },
       "duration_ms": 316160,
-      "artist": [
-        "George Benson"
+      "artists": [
+        {
+          "name": "George Benson",
+          "id": "4N8BwYTEC6XqykGvXXlmfv"
+        }
       ],
-      "artistId": [
-        "4N8BwYTEC6XqykGvXXlmfv"
-      ],
-      "albumId": "1IcNxT9zu74BfNhuHD9MBN",
+      "album": {
+        "id": "1IcNxT9zu74BfNhuHD9MBN",
+        "name": "The George Benson Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a3c381f6910a4fe51c2640b"
+      },
       "release_date": "1981",
       "popularity": 54
     },
     {
-      "trackId": "4fw9tzAk23Os1aeHVfvPeE",
-      "name": "What's Going On - Live At Spotify, NY/2012",
+      "track": {
+        "id": "4fw9tzAk23Os1aeHVfvPeE",
+        "name": "What's Going On - Live At Spotify, NY/2012"
+      },
       "duration_ms": 281559,
-      "artist": [
-        "Allen Stone"
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "id": "536osqBGKzeozje8BfcGsa"
+        }
       ],
-      "artistId": [
-        "536osqBGKzeozje8BfcGsa"
-      ],
-      "albumId": "4SciWnD9PHmrHe2dnw916K",
+      "album": {
+        "id": "4SciWnD9PHmrHe2dnw916K",
+        "name": "Spotify Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270da6a1d6481c0521caffdd4"
+      },
       "release_date": "2013-01-10",
       "popularity": 41
     },
     {
-      "trackId": "28EL5veTZtx38TqxIZwFyQ",
-      "name": "Golden",
+      "track": {
+        "id": "28EL5veTZtx38TqxIZwFyQ",
+        "name": "Golden"
+      },
       "duration_ms": 231560,
-      "artist": [
-        "Jill Scott"
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "id": "6AVLthptCPhfrxlHadOBJD"
+        }
       ],
-      "artistId": [
-        "6AVLthptCPhfrxlHadOBJD"
-      ],
-      "albumId": "2w9BYQcL8keWGjEHSJRwa9",
+      "album": {
+        "id": "2w9BYQcL8keWGjEHSJRwa9",
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236dc9ea817eb078d10d0fa1c"
+      },
       "release_date": "2004-08-31",
       "popularity": 55
     },
     {
-      "trackId": "3oiVJNFAQQ77Yp3rXWGsVp",
-      "name": "Lonely Town, Lonely Street",
+      "track": {
+        "id": "3oiVJNFAQQ77Yp3rXWGsVp",
+        "name": "Lonely Town, Lonely Street"
+      },
       "duration_ms": 225149,
-      "artist": [
-        "Bill Withers"
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "id": "1ThoqLcyIYvZn7iWbj8fsj"
+        }
       ],
-      "artistId": [
-        "1ThoqLcyIYvZn7iWbj8fsj"
-      ],
-      "albumId": "0sFuW4rH5mFZUjNKnckO3v",
+      "album": {
+        "id": "0sFuW4rH5mFZUjNKnckO3v",
+        "name": "Still Bill",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298e08f603553915a041b6937"
+      },
       "release_date": "1972-05-01",
       "popularity": 42
     },
     {
-      "trackId": "3xpYezT1QcdjHSN19P4Yxh",
-      "name": "Faith",
+      "track": {
+        "id": "3xpYezT1QcdjHSN19P4Yxh",
+        "name": "Faith"
+      },
       "duration_ms": 214986,
-      "artist": [
-        "Amp Fiddler"
+      "artists": [
+        {
+          "name": "Amp Fiddler",
+          "id": "39g75EmRFeFbvHhsGjUpLU"
+        }
       ],
-      "artistId": [
-        "39g75EmRFeFbvHhsGjUpLU"
-      ],
-      "albumId": "3M3Rn4Rln8j3Ww4qqAApQC",
+      "album": {
+        "id": "3M3Rn4Rln8j3Ww4qqAApQC",
+        "name": "Afro Strut (US Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020c8d8bcedb0b756ec3f37556"
+      },
       "release_date": "2007-05-27",
       "popularity": 35
     },
     {
-      "trackId": "3DG4WI5bE5IyfTteCgrXa6",
-      "name": "Since I Fell For You",
+      "track": {
+        "id": "3DG4WI5bE5IyfTteCgrXa6",
+        "name": "Since I Fell For You"
+      },
       "duration_ms": 231746,
-      "artist": [
-        "Gladys Knight"
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "id": "2aXiJJHJei5BmCykxI37y0"
+        }
       ],
-      "artistId": [
-        "2aXiJJHJei5BmCykxI37y0"
-      ],
-      "albumId": "2epCdnoKoOoYA3heqJs5WP",
+      "album": {
+        "id": "2epCdnoKoOoYA3heqJs5WP",
+        "name": "Before Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264dcbbf2e86cb96b875d178c"
+      },
       "release_date": "2006-01-01",
       "popularity": 50
     },
     {
-      "trackId": "3GZD6HmiNUhxXYf8Gch723",
-      "name": "Lost",
+      "track": {
+        "id": "3GZD6HmiNUhxXYf8Gch723",
+        "name": "Lost"
+      },
       "duration_ms": 234093,
-      "artist": [
-        "Frank Ocean"
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "id": "2h93pZq0e7k5yf4dywlkpM"
+        }
       ],
-      "artistId": [
-        "2h93pZq0e7k5yf4dywlkpM"
-      ],
-      "albumId": "392p3shh2jkxUxY2VHvlH8",
+      "album": {
+        "id": "392p3shh2jkxUxY2VHvlH8",
+        "name": "channel ORANGE",
+        "img": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5"
+      },
       "release_date": "2012-07-10",
       "popularity": 84
     },
     {
-      "trackId": "34OVc2NvUGP5jGzPcME2ge",
-      "name": "Game Over",
+      "track": {
+        "id": "34OVc2NvUGP5jGzPcME2ge",
+        "name": "Game Over"
+      },
       "duration_ms": 284334,
-      "artist": [
-        "Bobby Caldwell",
-        "Jack Splash",
-        "Mayer Hawthorne"
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "id": "4V4Z3qMCwYofWHtip6ePF6"
+        },
+        {
+          "name": "Jack Splash",
+          "id": "0FWhHIfPV3MjJbmdMws8Tn"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "id": "4d53BMrRlQkrQMz5d59f2O"
+        }
       ],
-      "artistId": [
-        "4V4Z3qMCwYofWHtip6ePF6",
-        "0FWhHIfPV3MjJbmdMws8Tn",
-        "4d53BMrRlQkrQMz5d59f2O"
-      ],
-      "albumId": "1wtiPnIbQQasysdndqU0ZX",
+      "album": {
+        "id": "1wtiPnIbQQasysdndqU0ZX",
+        "name": "Cool Uncle",
+        "img": "https://i.scdn.co/image/16f3e9efe7c13a1b5e1fa4731c853e15b669cd9c"
+      },
       "release_date": "2015-11-13",
       "popularity": 41
     },
     {
-      "trackId": "0mFlpIqPuZxAB3G6MX3DEZ",
-      "name": "Spit It Out - Live",
+      "track": {
+        "id": "0mFlpIqPuZxAB3G6MX3DEZ",
+        "name": "Spit It Out - Live"
+      },
       "duration_ms": 486250,
-      "artist": [
-        "Zafer Taylor",
-        "B-fam"
+      "artists": [
+        {
+          "name": "Zafer Taylor",
+          "id": "0QXumhSSBM4nozmouTyBZl"
+        },
+        {
+          "name": "B-fam",
+          "id": "6ppcYEypCSMnPXpjO9aYwT"
+        }
       ],
-      "artistId": [
-        "0QXumhSSBM4nozmouTyBZl",
-        "6ppcYEypCSMnPXpjO9aYwT"
-      ],
-      "albumId": "5bglPwuEySz02oZWUgC363",
+      "album": {
+        "id": "5bglPwuEySz02oZWUgC363",
+        "name": "Spit It Out (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d96f88d676ad1a8d3ed080b3"
+      },
       "release_date": "2021-05-22",
       "popularity": 3
     },
     {
-      "trackId": "0T15kUJIrTXNcYEbbSfgSz",
-      "name": "Skymningsland 2 år",
+      "track": {
+        "id": "0T15kUJIrTXNcYEbbSfgSz",
+        "name": "Skymningsland 2 år"
+      },
       "duration_ms": 200202,
-      "artist": [
-        "Christer Lindén"
+      "artists": [
+        {
+          "name": "Christer Lindén",
+          "id": "22TST7xLtdJRnaBO86usT6"
+        }
       ],
-      "artistId": [
-        "22TST7xLtdJRnaBO86usT6"
-      ],
-      "albumId": "7JI33tzVVNRBElrBO9E6wy",
+      "album": {
+        "id": "7JI33tzVVNRBElrBO9E6wy",
+        "name": "Allt Var bra tills Jag Vakna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea0edf0c5184a35675aadc38"
+      },
       "release_date": "2020-11-13",
       "popularity": 1
     }

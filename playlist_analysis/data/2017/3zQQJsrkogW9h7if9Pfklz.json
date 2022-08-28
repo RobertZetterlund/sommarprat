@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/0a6f05d5-832f-4f61-980b-1bae958709c3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7FywawaL45oYAqPHBM4YDk",
-      "name": "Indirectas",
+      "track": {
+        "id": "7FywawaL45oYAqPHBM4YDk",
+        "name": "Indirectas"
+      },
       "duration_ms": 190693,
-      "artist": [
-        "Corvje"
+      "artists": [
+        {
+          "name": "Corvje",
+          "id": "42lMX6nPhKNggJbRtEMQK3"
+        }
       ],
-      "artistId": [
-        "42lMX6nPhKNggJbRtEMQK3"
-      ],
-      "albumId": "7wQOmI6hL0HoMPExNumQAf",
+      "album": {
+        "id": "7wQOmI6hL0HoMPExNumQAf",
+        "name": "Indirectas",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fa582012f168e31542c5ef4"
+      },
       "release_date": "2021-03-12",
       "popularity": 14
     },
     {
-      "trackId": "0Jcc1FAMRPwov2LuqiAJAZ",
-      "name": "Hold Me Like I'm Her",
+      "track": {
+        "id": "0Jcc1FAMRPwov2LuqiAJAZ",
+        "name": "Hold Me Like I'm Her"
+      },
       "duration_ms": 198798,
-      "artist": [
-        "Hanna Nutti"
+      "artists": [
+        {
+          "name": "Hanna Nutti",
+          "id": "1t19TCFaOVYxocW5VTKksP"
+        }
       ],
-      "artistId": [
-        "1t19TCFaOVYxocW5VTKksP"
-      ],
-      "albumId": "43pXbfHx2vJcTbvYIrMF34",
+      "album": {
+        "id": "43pXbfHx2vJcTbvYIrMF34",
+        "name": "Hold Me Like I'm Her",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2fe3b9e373a324519cb078c"
+      },
       "release_date": "2016-06-10",
       "popularity": 13
     },
     {
-      "trackId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "name": "Landslide",
+      "track": {
+        "id": "5ihS6UUlyQAfmp48eSkxuQ",
+        "name": "Landslide"
+      },
       "duration_ms": 199493,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "5VIQ3VaAoRKOEpJ0fewdvo",
+      "album": {
+        "id": "5VIQ3VaAoRKOEpJ0fewdvo",
+        "name": "Fleetwood Mac",
+        "img": "https://i.scdn.co/image/ab67616d00001e024fb043195e8d07e72edc7226"
+      },
       "release_date": "1975-07-11",
       "popularity": 76
     },
     {
-      "trackId": "2FnUyLhe7sjXgnZlK9sc0z",
-      "name": "Bara Få Va Mig Själv",
+      "track": {
+        "id": "2FnUyLhe7sjXgnZlK9sc0z",
+        "name": "Bara Få Va Mig Själv"
+      },
       "duration_ms": 214887,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "4sVpJJTw1dKDGlTprOvafq",
+      "album": {
+        "id": "4sVpJJTw1dKDGlTprOvafq",
+        "name": "Kristaller",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e5deed9a2a9ae9a5c8766cb"
+      },
       "release_date": "2016-09-16",
       "popularity": 51
     },
     {
-      "trackId": "142Nb5q6ss2DnoB1yMbBKe",
-      "name": "Kruuvamies",
+      "track": {
+        "id": "142Nb5q6ss2DnoB1yMbBKe",
+        "name": "Kruuvamies"
+      },
       "duration_ms": 204026,
-      "artist": [
-        "Fagervall/Björkenvall"
+      "artists": [
+        {
+          "name": "Fagervall/Björkenvall",
+          "id": "0FSlpgSlPRu8ozYc3lwgTU"
+        }
       ],
-      "artistId": [
-        "0FSlpgSlPRu8ozYc3lwgTU"
-      ],
-      "albumId": "0ir1m9qXgmTy8uKXb8WxfH",
+      "album": {
+        "id": "0ir1m9qXgmTy8uKXb8WxfH",
+        "name": "The Silence",
+        "img": "https://i.scdn.co/image/ab67616d00001e029369159f97eae0e59a64c585"
+      },
       "release_date": "2013-01-01",
       "popularity": 14
     },
     {
-      "trackId": "4kDxEgxDsxbvepRR3LwpOn",
-      "name": "Andromeda",
+      "track": {
+        "id": "4kDxEgxDsxbvepRR3LwpOn",
+        "name": "Andromeda"
+      },
       "duration_ms": 276253,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "6DlnFlZTrd19WA41zUjZUh",
+      "album": {
+        "id": "6DlnFlZTrd19WA41zUjZUh",
+        "name": "Då Som Nu För Alltid",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246654ced34cdf02ded1bb507"
+      },
       "release_date": "2016-05-20",
       "popularity": 40
     },
     {
-      "trackId": "72YPN10Ant607McDiG76Oh",
-      "name": "Killers in a Ghost Town",
+      "track": {
+        "id": "72YPN10Ant607McDiG76Oh",
+        "name": "Killers in a Ghost Town"
+      },
       "duration_ms": 209773,
-      "artist": [
-        "The Magnettes"
+      "artists": [
+        {
+          "name": "The Magnettes",
+          "id": "2v7NkjMDChkzTs7uoVh4tU"
+        }
       ],
-      "artistId": [
-        "2v7NkjMDChkzTs7uoVh4tU"
-      ],
-      "albumId": "6Ds1jmACRW0e0PInvX6Y5p",
+      "album": {
+        "id": "6Ds1jmACRW0e0PInvX6Y5p",
+        "name": "Ugly Youth",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdb0312ae4906acc94d3dda1"
+      },
       "release_date": "2017-06-30",
       "popularity": 10
     },
     {
-      "trackId": "4k5qw1ttiP2iaDdmReIPQn",
-      "name": "Lars Biette Heaika",
+      "track": {
+        "id": "4k5qw1ttiP2iaDdmReIPQn",
+        "name": "Lars Biette Heaika"
+      },
       "duration_ms": 107346,
-      "artist": [
-        "Nils Anders Påve"
+      "artists": [
+        {
+          "name": "Nils Anders Påve",
+          "id": "3yoiIqbWUyfteFPu5COEta"
+        }
       ],
-      "artistId": [
-        "3yoiIqbWUyfteFPu5COEta"
-      ],
-      "albumId": "6zoENmqNbYotLTFpVaKuNz",
+      "album": {
+        "id": "6zoENmqNbYotLTFpVaKuNz",
+        "name": "Čokču",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff71b3d01686f6ec832d84a5"
+      },
       "release_date": "2007-02-05",
       "popularity": 0
     },
     {
-      "trackId": "4S1VYqwfkLit9mKVY3MXoo",
-      "name": "Forever Young",
+      "track": {
+        "id": "4S1VYqwfkLit9mKVY3MXoo",
+        "name": "Forever Young"
+      },
       "duration_ms": 226706,
-      "artist": [
-        "Alphaville"
+      "artists": [
+        {
+          "name": "Alphaville",
+          "id": "0xliTEbFfy5HQHvsTknTkX"
+        }
       ],
-      "artistId": [
-        "0xliTEbFfy5HQHvsTknTkX"
-      ],
-      "albumId": "2256qKBSQdt53T5dz4Kdcs",
+      "album": {
+        "id": "2256qKBSQdt53T5dz4Kdcs",
+        "name": "Forever Young",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b89690216baf8e04fdd3056"
+      },
       "release_date": "1984-09-27",
       "popularity": 72
     },
     {
-      "trackId": "5Sl4ayNzYNxDnHKCsebe5g",
-      "name": "Broken Promise Land",
+      "track": {
+        "id": "5Sl4ayNzYNxDnHKCsebe5g",
+        "name": "Broken Promise Land"
+      },
       "duration_ms": 278973,
-      "artist": [
-        "Weeping Willows"
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "id": "6f3he2xOHHHSZ0JVhTRIVj"
+        }
       ],
-      "artistId": [
-        "6f3he2xOHHHSZ0JVhTRIVj"
-      ],
-      "albumId": "6rYJc3ziFhTYNO53BrHS8u",
+      "album": {
+        "id": "6rYJc3ziFhTYNO53BrHS8u",
+        "name": "Broken Promise Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d92235e16cee19eb1e25fcef"
+      },
       "release_date": "1997-06-15",
       "popularity": 41
     },
     {
-      "trackId": "7gjw30LK6nGtPs1eNpBDlO",
-      "name": "SNöLEJONINNA (snow lioness) – Bonus Track",
+      "track": {
+        "id": "7gjw30LK6nGtPs1eNpBDlO",
+        "name": "SNöLEJONINNA (snow lioness) – Bonus Track"
+      },
       "duration_ms": 211029,
-      "artist": [
-        "Sofia Jannok"
+      "artists": [
+        {
+          "name": "Sofia Jannok",
+          "id": "61GJGvVkImL0wkfUQ5XuR8"
+        }
       ],
-      "artistId": [
-        "61GJGvVkImL0wkfUQ5XuR8"
-      ],
-      "albumId": "69wOjfSUPqUFoNvhufYCkk",
+      "album": {
+        "id": "69wOjfSUPqUFoNvhufYCkk",
+        "name": "ORDA - This Is My Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e023777eefc862e0def35536b46"
+      },
       "release_date": "2016-04-08",
       "popularity": 22
     },
     {
-      "trackId": "1V9Ca7Am0NPxo98fqYIqEA",
-      "name": "Favorite Town",
+      "track": {
+        "id": "1V9Ca7Am0NPxo98fqYIqEA",
+        "name": "Favorite Town"
+      },
       "duration_ms": 177226,
-      "artist": [
-        "Ellen Sundberg"
+      "artists": [
+        {
+          "name": "Ellen Sundberg",
+          "id": "0q4Ew41VWdsP9ZYEbM8JAp"
+        }
       ],
-      "artistId": [
-        "0q4Ew41VWdsP9ZYEbM8JAp"
-      ],
-      "albumId": "2Sj7H3t1RoWd4dvH6zH8GR",
+      "album": {
+        "id": "2Sj7H3t1RoWd4dvH6zH8GR",
+        "name": "Cigarette Secrets",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baf7d962680d15a018ee41e7"
+      },
       "release_date": "2016-09-07",
       "popularity": 17
     }

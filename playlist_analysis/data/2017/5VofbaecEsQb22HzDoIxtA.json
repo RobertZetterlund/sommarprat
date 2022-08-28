@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/752720e5-32b6-4259-ae03-04a0843a6937.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1j5T5WWFzuSsF6Cj4v2x76",
-      "name": "Can’t We Be Friends?",
+      "track": {
+        "id": "1j5T5WWFzuSsF6Cj4v2x76",
+        "name": "Can’t We Be Friends?"
+      },
       "duration_ms": 274826,
-      "artist": [
-        "Jane Powell",
-        "Buddy Bregman And His Orchestra"
+      "artists": [
+        {
+          "name": "Jane Powell",
+          "id": "66evJDOWrOPaGFd4hVtCWN"
+        },
+        {
+          "name": "Buddy Bregman And His Orchestra",
+          "id": "4SVxG5qlcgmSadA12to73z"
+        }
       ],
-      "artistId": [
-        "66evJDOWrOPaGFd4hVtCWN",
-        "4SVxG5qlcgmSadA12to73z"
-      ],
-      "albumId": "3z7VE35XwMLPgpHVupDE7Y",
+      "album": {
+        "id": "3z7VE35XwMLPgpHVupDE7Y",
+        "name": "Can’t We Be Friends?",
+        "img": "https://i.scdn.co/image/ab67616d00001e024130086db168e6e14a352f52"
+      },
       "release_date": "2017-06-20",
       "popularity": 0
     },
     {
-      "trackId": "2FgAFG3HHAHg72KpEdqAEq",
-      "name": "I Cain't Say No - From \"Oklahoma!\" Soundtrack",
+      "track": {
+        "id": "2FgAFG3HHAHg72KpEdqAEq",
+        "name": "I Cain't Say No - From \"Oklahoma!\" Soundtrack"
+      },
       "duration_ms": 190026,
-      "artist": [
-        "Gloria Grahame",
-        "Darcy M. Proper"
+      "artists": [
+        {
+          "name": "Gloria Grahame",
+          "id": "6S6vNgwUc1xRMgnmuyGQY7"
+        },
+        {
+          "name": "Darcy M. Proper",
+          "id": "2LaIJDDpfnZ333bEuONwtJ"
+        }
       ],
-      "artistId": [
-        "6S6vNgwUc1xRMgnmuyGQY7",
-        "2LaIJDDpfnZ333bEuONwtJ"
-      ],
-      "albumId": "6Wg4qjJy5oNbhJ2p5JC3P8",
+      "album": {
+        "id": "6Wg4qjJy5oNbhJ2p5JC3P8",
+        "name": "Oklahoma! (Expanded Edition/Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ae43018095303787e20ee89"
+      },
       "release_date": "2001-01-01",
       "popularity": 28
     },
     {
-      "trackId": "35GqeIWfBgzt4gM56iit50",
-      "name": "Nonsense Song (Titine) - From \"Modern Times\"",
+      "track": {
+        "id": "35GqeIWfBgzt4gM56iit50",
+        "name": "Nonsense Song (Titine) - From \"Modern Times\""
+      },
       "duration_ms": 222440,
-      "artist": [
-        "Charlie Chaplin"
+      "artists": [
+        {
+          "name": "Charlie Chaplin",
+          "id": "6AmG7SNdlV9boPZ7dFVnLY"
+        }
       ],
-      "artistId": [
-        "6AmG7SNdlV9boPZ7dFVnLY"
-      ],
-      "albumId": "5siY0QeUhwFtmQoSIKUhea",
+      "album": {
+        "id": "5siY0QeUhwFtmQoSIKUhea",
+        "name": "Charlie Chaplin Film Music Anthology",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddba4b4bbcc6cfcff4a60058"
+      },
       "release_date": "2019-04-12",
       "popularity": 28
     },
     {
-      "trackId": "3ZE3wv8V3w2T2f7nOCjV0N",
-      "name": "Life on Mars? - 2015 Remaster",
+      "track": {
+        "id": "3ZE3wv8V3w2T2f7nOCjV0N",
+        "name": "Life on Mars? - 2015 Remaster"
+      },
       "duration_ms": 235986,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 70
     },
     {
-      "trackId": "6IRA4KOVbtiGiTdYoEThJN",
-      "name": "Ne me quitte pas",
+      "track": {
+        "id": "6IRA4KOVbtiGiTdYoEThJN",
+        "name": "Ne me quitte pas"
+      },
       "duration_ms": 229400,
-      "artist": [
-        "Jacques Brel"
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "id": "4RN2vlFWepLa46qQIU2PHs"
+        }
       ],
-      "artistId": [
-        "4RN2vlFWepLa46qQIU2PHs"
-      ],
-      "albumId": "0PVjDkptaHbw2wrpsWupoV",
+      "album": {
+        "id": "0PVjDkptaHbw2wrpsWupoV",
+        "name": "La Valse A Mille Temps (Vol.4)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2fd135e270391bc72623986"
+      },
       "release_date": "2004-01-01",
       "popularity": 57
     },
     {
-      "trackId": "558ALilSaemDOzvVhwPbPS",
-      "name": "Triplets",
+      "track": {
+        "id": "558ALilSaemDOzvVhwPbPS",
+        "name": "Triplets"
+      },
       "duration_ms": 295866,
-      "artist": [
-        "Hansson & Karlsson"
+      "artists": [
+        {
+          "name": "Hansson & Karlsson",
+          "id": "2PBSTQgXteXJJToUTgTwmA"
+        }
       ],
-      "artistId": [
-        "2PBSTQgXteXJJToUTgTwmA"
-      ],
-      "albumId": "6g6Nj3vrYLbFePkVLv5FUb",
+      "album": {
+        "id": "6g6Nj3vrYLbFePkVLv5FUb",
+        "name": "Monument",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b5606265d6c25bbe4695d51"
+      },
       "release_date": "1967-01-01",
       "popularity": 18
     },
     {
-      "trackId": "1guHQac8sGYR17kRUJVJN4",
-      "name": "C'est Si Bon",
+      "track": {
+        "id": "1guHQac8sGYR17kRUJVJN4",
+        "name": "C'est Si Bon"
+      },
       "duration_ms": 179906,
-      "artist": [
-        "Eartha Kitt"
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "id": "1AwO9pWEBSBoWdEZu28XDC"
+        }
       ],
-      "artistId": [
-        "1AwO9pWEBSBoWdEZu28XDC"
-      ],
-      "albumId": "1B9CLt71zBlS87qDLXqcqQ",
+      "album": {
+        "id": "1B9CLt71zBlS87qDLXqcqQ",
+        "name": "That Bad Eartha",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297cfe12185da8979c227d735"
+      },
       "release_date": "1957",
       "popularity": 44
     },
     {
-      "trackId": "2usba4Vw5KZJziq3ULIZ1g",
-      "name": "Ett bloss för moster Lillie",
+      "track": {
+        "id": "2usba4Vw5KZJziq3ULIZ1g",
+        "name": "Ett bloss för moster Lillie"
+      },
       "duration_ms": 222200,
-      "artist": [
-        "Lena Nyman"
+      "artists": [
+        {
+          "name": "Lena Nyman",
+          "id": "1UZ0FcVCkQFtDSMUqnwNrB"
+        }
       ],
-      "artistId": [
-        "1UZ0FcVCkQFtDSMUqnwNrB"
-      ],
-      "albumId": "1Ks5V46wA2zwxNAPl4PDWx",
+      "album": {
+        "id": "1Ks5V46wA2zwxNAPl4PDWx",
+        "name": "Bloss",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fdecc88ad8081a02f3f23f3"
+      },
       "release_date": "1997",
       "popularity": 27
     },
     {
-      "trackId": "0SLHoGP4ISrtaVzwOq9HnK",
-      "name": "Filmen om oss",
+      "track": {
+        "id": "0SLHoGP4ISrtaVzwOq9HnK",
+        "name": "Filmen om oss"
+      },
       "duration_ms": 247853,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "0kLd0laHXTbyPxOUi0x3OV",
+      "album": {
+        "id": "0kLd0laHXTbyPxOUi0x3OV",
+        "name": "Jag sjunger ljuset",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b728c167ac04e51c22dcb9e"
+      },
       "release_date": "2016-04-22",
       "popularity": 17
     },
     {
-      "trackId": "6A5dQ7NG2utUAnVnYeUpZX",
-      "name": "Filmen om oss - Single Version",
+      "track": {
+        "id": "6A5dQ7NG2utUAnVnYeUpZX",
+        "name": "Filmen om oss - Single Version"
+      },
       "duration_ms": 276920,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "2WmqebsHoNZBJbcICMPHTZ",
+      "album": {
+        "id": "2WmqebsHoNZBJbcICMPHTZ",
+        "name": "Filmen om oss / The Movie About Us",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5b5b7b6dee9cead43a9f8bb"
+      },
       "release_date": "2015-08-14",
       "popularity": 20
     },
     {
-      "trackId": "5rgMaZmipkcTqJaJTzWqpt",
-      "name": "Svantes lykkelige dag",
+      "track": {
+        "id": "5rgMaZmipkcTqJaJTzWqpt",
+        "name": "Svantes lykkelige dag"
+      },
       "duration_ms": 189880,
-      "artist": [
-        "Povl Dissing & Benny Andersen"
+      "artists": [
+        {
+          "name": "Povl Dissing & Benny Andersen",
+          "id": "3UtVGJ2KEEedE6EEW2zHZy"
+        }
       ],
-      "artistId": [
-        "3UtVGJ2KEEedE6EEW2zHZy"
-      ],
-      "albumId": "3WmoVJfWjlDvGJf8RUySv1",
+      "album": {
+        "id": "3WmoVJfWjlDvGJf8RUySv1",
+        "name": "Svantes Viser",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223011f1891628ac4f23fba4f"
+      },
       "release_date": "1998-04-01",
       "popularity": 32
     },
     {
-      "trackId": "2cgXbDqTWmrjchnSNQEnXr",
-      "name": "Mazurka No. 47 in A Minor, Op. 68, No. 2",
+      "track": {
+        "id": "2cgXbDqTWmrjchnSNQEnXr",
+        "name": "Mazurka No. 47 in A Minor, Op. 68, No. 2"
+      },
       "duration_ms": 172733,
-      "artist": [
-        "Frédéric Chopin",
-        "Käbi Laretei"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Käbi Laretei",
+          "id": "0WaQdkcyX1fvYKNfc0fr2U"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "0WaQdkcyX1fvYKNfc0fr2U"
-      ],
-      "albumId": "0Q7idfrWSBsspC508uZDQx",
+      "album": {
+        "id": "0Q7idfrWSBsspC508uZDQx",
+        "name": "Exil - \"Home - Elsewhere\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5e5404b76a72a6d17260276"
+      },
       "release_date": "1994-10-01",
       "popularity": 0
     }

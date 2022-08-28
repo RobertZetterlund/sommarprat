@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234281_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6hewgaPPeGRR4P92bEQZqg",
-      "name": "Cavatina",
+      "track": {
+        "id": "6hewgaPPeGRR4P92bEQZqg",
+        "name": "Cavatina"
+      },
       "duration_ms": 193066,
-      "artist": [
-        "John Williams"
+      "artists": [
+        {
+          "name": "John Williams",
+          "id": "6mBYeMZZUhJKEvRXagJYzY"
+        }
       ],
-      "artistId": [
-        "6mBYeMZZUhJKEvRXagJYzY"
-      ],
-      "albumId": "1uj0YV7CfF8YFPd1OhdUGF",
+      "album": {
+        "id": "1uj0YV7CfF8YFPd1OhdUGF",
+        "name": "John Williams Plays the Movies",
+        "img": "https://i.scdn.co/image/ab67616d00001e027bb359b457ac11b7373a1b62"
+      },
       "release_date": "1993-07-16",
       "popularity": 42
     },
     {
-      "trackId": "3i1bPoDO6HieDmE7RFtdfJ",
-      "name": "Vågorna",
+      "track": {
+        "id": "3i1bPoDO6HieDmE7RFtdfJ",
+        "name": "Vågorna"
+      },
       "duration_ms": 239613,
-      "artist": [
-        "Uno Svenningsson"
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "id": "65OPXmm2nfPvaX1fjHo8kR"
+        }
       ],
-      "artistId": [
-        "65OPXmm2nfPvaX1fjHo8kR"
-      ],
-      "albumId": "3wLJOMbVpxk0FqJ9Md8c4d",
+      "album": {
+        "id": "3wLJOMbVpxk0FqJ9Md8c4d",
+        "name": "Samling",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e4ae172f45f81b11e81b627"
+      },
       "release_date": "2003-07-14",
       "popularity": 46
     },
     {
-      "trackId": "3r855WKOFyxFVPtxnRzaJS",
-      "name": "Liebesträume, S541/R211: Nr. 3. Nocturne As-Dur",
+      "track": {
+        "id": "3r855WKOFyxFVPtxnRzaJS",
+        "name": "Liebesträume, S541/R211: Nr. 3. Nocturne As-Dur"
+      },
       "duration_ms": 223840,
-      "artist": [
-        "Franz Liszt",
-        "Balazs Szokolay"
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "id": "1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Balazs Szokolay",
+          "id": "6kJSScipaoehxfUqUTpiFw"
+        }
       ],
-      "artistId": [
-        "1385hLNbrnbCJGokfH2ac2",
-        "6kJSScipaoehxfUqUTpiFw"
-      ],
-      "albumId": "4oMQTbbGPpzFRKzDYzVO3F",
+      "album": {
+        "id": "4oMQTbbGPpzFRKzDYzVO3F",
+        "name": "Klassik ohne Krise: Tastenträume",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f683a9a0aea9a2eaac4639fe"
+      },
       "release_date": "2013-10-29",
       "popularity": 0
     },
     {
-      "trackId": "4ZALd5LmXSciq8xuorcS0K",
-      "name": "Hon gör allt för att göra mig lycklig",
+      "track": {
+        "id": "4ZALd5LmXSciq8xuorcS0K",
+        "name": "Hon gör allt för att göra mig lycklig"
+      },
       "duration_ms": 204640,
-      "artist": [
-        "Tomas Ledin"
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "id": "518rTAIFPwQjLUSi4Pdzzn"
+        }
       ],
-      "artistId": [
-        "518rTAIFPwQjLUSi4Pdzzn"
-      ],
-      "albumId": "2P3TPbHSZ43pHXbyrwZyhn",
+      "album": {
+        "id": "2P3TPbHSZ43pHXbyrwZyhn",
+        "name": "Tillfälligheternas spel",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e2d987177ffb76222a857ca"
+      },
       "release_date": "1990",
       "popularity": 53
     },
     {
-      "trackId": "1mea3bSkSGXuIRvnydlB5b",
-      "name": "Viva La Vida",
+      "track": {
+        "id": "1mea3bSkSGXuIRvnydlB5b",
+        "name": "Viva La Vida"
+      },
       "duration_ms": 242373,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "1CEODgTmTwLyabvwd7HBty",
+      "album": {
+        "id": "1CEODgTmTwLyabvwd7HBty",
+        "name": "Viva La Vida or Death and All His Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e"
+      },
       "release_date": "2008-05-26",
       "popularity": 81
     },
     {
-      "trackId": "7FwBtcecmlpc1sLySPXeGE",
-      "name": "Dancing In the Dark",
+      "track": {
+        "id": "7FwBtcecmlpc1sLySPXeGE",
+        "name": "Dancing In the Dark"
+      },
       "duration_ms": 241306,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "0PMasrHdpaoIRuHuhHp72O",
+      "album": {
+        "id": "0PMasrHdpaoIRuHuhHp72O",
+        "name": "Born In The U.S.A.",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7865e686c36a4adda6c9978"
+      },
       "release_date": "1984-06-04",
       "popularity": 78
     },
     {
-      "trackId": "4JehYebiI9JE8sR8MisGVb",
-      "name": "Halo",
+      "track": {
+        "id": "4JehYebiI9JE8sR8MisGVb",
+        "name": "Halo"
+      },
       "duration_ms": 261640,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "39P7VD7qlg3Z0ltq60eHp7",
+      "album": {
+        "id": "39P7VD7qlg3Z0ltq60eHp7",
+        "name": "I AM...SASHA FIERCE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02801c4d205accdba0a468a10b"
+      },
       "release_date": "2008-11-17",
       "popularity": 74
     },
     {
-      "trackId": "7fw7xzh8bw4euzo7ccnFn2",
-      "name": "Everybody Hurts",
+      "track": {
+        "id": "7fw7xzh8bw4euzo7ccnFn2",
+        "name": "Everybody Hurts"
+      },
       "duration_ms": 323853,
-      "artist": [
-        "Helping Haiti"
+      "artists": [
+        {
+          "name": "Helping Haiti",
+          "id": "132JDH5tGCgQ6teym7nvlt"
+        }
       ],
-      "artistId": [
-        "132JDH5tGCgQ6teym7nvlt"
-      ],
-      "albumId": "7DLo5qAnLTuLWvEwDXgc4I",
+      "album": {
+        "id": "7DLo5qAnLTuLWvEwDXgc4I",
+        "name": "Everybody Hurts",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289d56a7dc84e5f3c874c9312"
+      },
       "release_date": "2010-02-07",
       "popularity": 26
     },
     {
-      "trackId": "78ZqE2tjAxbqEGGlvGnQfT",
-      "name": "A Whiter Shade of Pale - Original Single Version",
+      "track": {
+        "id": "78ZqE2tjAxbqEGGlvGnQfT",
+        "name": "A Whiter Shade of Pale - Original Single Version"
+      },
       "duration_ms": 248946,
-      "artist": [
-        "Procol Harum"
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "id": "0GbqW5TJr7n4is453VOY4C"
+        }
       ],
-      "artistId": [
-        "0GbqW5TJr7n4is453VOY4C"
-      ],
-      "albumId": "4fKEheMhcigQBenkttp5CU",
+      "album": {
+        "id": "4fKEheMhcigQBenkttp5CU",
+        "name": "Hits'n'Flips",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d713ba3dce10df2b943dc6a"
+      },
       "release_date": "2019-05-03",
       "popularity": 68
     },
     {
-      "trackId": "3ze452XofBjygNhbn0aeBh",
-      "name": "FF",
+      "track": {
+        "id": "3ze452XofBjygNhbn0aeBh",
+        "name": "FF"
+      },
       "duration_ms": 253480,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "2DGzTm2R2v3G0IjnxXtP3Y",
+      "album": {
+        "id": "2DGzTm2R2v3G0IjnxXtP3Y",
+        "name": "Vapen & ammunition",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238195e65555be2b7f9324e1c"
+      },
       "release_date": "2002-04-15",
       "popularity": 47
     },
     {
-      "trackId": "6fnachl7fIn5dqIjakfJ57",
-      "name": "School",
+      "track": {
+        "id": "6fnachl7fIn5dqIjakfJ57",
+        "name": "School"
+      },
       "duration_ms": 335286,
-      "artist": [
-        "Supertramp"
+      "artists": [
+        {
+          "name": "Supertramp",
+          "id": "3JsMj0DEzyWc0VDlHuy9Bx"
+        }
       ],
-      "artistId": [
-        "3JsMj0DEzyWc0VDlHuy9Bx"
-      ],
-      "albumId": "2wrHaulTgqqkVKx0k7Kq4r",
+      "album": {
+        "id": "2wrHaulTgqqkVKx0k7Kq4r",
+        "name": "Crime Of The Century (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2"
+      },
       "release_date": "1974-09-01",
       "popularity": 63
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "5wM97s08iqwl5AevmjX6ze",
-      "name": "Jag sjöng varje sång för dig",
+      "track": {
+        "id": "5wM97s08iqwl5AevmjX6ze",
+        "name": "Jag sjöng varje sång för dig"
+      },
       "duration_ms": 305080,
-      "artist": [
-        "Peter Jöback"
+      "artists": [
+        {
+          "name": "Peter Jöback",
+          "id": "3fA5zBQWEa0uzYo43SvXaj"
+        }
       ],
-      "artistId": [
-        "3fA5zBQWEa0uzYo43SvXaj"
-      ],
-      "albumId": "5GK9WjRHMb5TSDDpePfRrV",
+      "album": {
+        "id": "5GK9WjRHMb5TSDDpePfRrV",
+        "name": "Människor som du och jag",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221804d532baa1f91d9d73924"
+      },
       "release_date": "2007-09-17",
       "popularity": 5
     }

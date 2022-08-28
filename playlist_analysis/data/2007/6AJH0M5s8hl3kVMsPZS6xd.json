@@ -7,16 +7,22 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258628_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6obXvjVF91KAeLNDOECFvi",
-      "name": "Töntarna",
+      "track": {
+        "id": "6obXvjVF91KAeLNDOECFvi",
+        "name": "Töntarna"
+      },
       "duration_ms": 277826,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "3ohoOaSAg6Mp64nFNYB5bM",
+      "album": {
+        "id": "3ohoOaSAg6Mp64nFNYB5bM",
+        "name": "Röd",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f9093a0407f79c02159e7ca"
+      },
       "release_date": "2009-11-05",
       "popularity": 37
     }

@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4cc2c8e2-ca60-4bee-8dd6-0ebf93e6311b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0jZ4fre462hosE6k5EgRVS",
-      "name": "Dansa i neon",
+      "track": {
+        "id": "0jZ4fre462hosE6k5EgRVS",
+        "name": "Dansa i neon"
+      },
       "duration_ms": 202746,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "2w4nmMnXhTF3aTh1ENqoa8",
+      "album": {
+        "id": "2w4nmMnXhTF3aTh1ENqoa8",
+        "name": "Dansa i neon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfe1bc46b21169a7f07a6fdb"
+      },
       "release_date": "1987",
       "popularity": 42
     },
     {
-      "trackId": "7h2jT3YLmtDAxf4cF6rSQu",
-      "name": "Dear Jessie",
+      "track": {
+        "id": "7h2jT3YLmtDAxf4cF6rSQu",
+        "name": "Dear Jessie"
+      },
       "duration_ms": 214666,
-      "artist": [
-        "Rollergirl"
+      "artists": [
+        {
+          "name": "Rollergirl",
+          "id": "4OA1c70ANsRopn5bWmJ0Rk"
+        }
       ],
-      "artistId": [
-        "4OA1c70ANsRopn5bWmJ0Rk"
-      ],
-      "albumId": "1CRIidVn4zBI4qCIuSEMFs",
+      "album": {
+        "id": "1CRIidVn4zBI4qCIuSEMFs",
+        "name": "Now I'm Singin'... (And the Party Keeps on Rollin')",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fe0f03f409fcaaf4471fd5e"
+      },
       "release_date": "1999-05-29",
       "popularity": 57
     },
     {
-      "trackId": "5Gyr938nGDm9K0dD7iUYjf",
-      "name": "Beautiful Friend",
+      "track": {
+        "id": "5Gyr938nGDm9K0dD7iUYjf",
+        "name": "Beautiful Friend"
+      },
       "duration_ms": 194573,
-      "artist": [
-        "Cranes"
+      "artists": [
+        {
+          "name": "Cranes",
+          "id": "5q2ehaRqAFmM6tLl4vaVwP"
+        }
       ],
-      "artistId": [
-        "5q2ehaRqAFmM6tLl4vaVwP"
-      ],
-      "albumId": "5KjbfooHQyTPM7hgmZP5lV",
+      "album": {
+        "id": "5KjbfooHQyTPM7hgmZP5lV",
+        "name": "Loved",
+        "img": "https://i.scdn.co/image/ab67616d00001e02614ba8cfaedf04c2a4c45656"
+      },
       "release_date": "1993-12-06",
       "popularity": 32
     },
     {
-      "trackId": "5VUwnAnptSLf4fJLp10r7o",
-      "name": "Fiesta",
+      "track": {
+        "id": "5VUwnAnptSLf4fJLp10r7o",
+        "name": "Fiesta"
+      },
       "duration_ms": 254623,
-      "artist": [
-        "The Sunclub"
+      "artists": [
+        {
+          "name": "The Sunclub",
+          "id": "4Q2uNd7tfauHbz83sVJmXa"
+        }
       ],
-      "artistId": [
-        "4Q2uNd7tfauHbz83sVJmXa"
-      ],
-      "albumId": "5Y41gdtNpabEKwYLZucCXH",
+      "album": {
+        "id": "5Y41gdtNpabEKwYLZucCXH",
+        "name": "Fiesta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e681de492048c210638960a0"
+      },
       "release_date": "2011-06-27",
       "popularity": 48
     },
     {
-      "trackId": "6zFMeegAMYQo0mt8rXtrli",
-      "name": "HOLIDAY",
+      "track": {
+        "id": "6zFMeegAMYQo0mt8rXtrli",
+        "name": "HOLIDAY"
+      },
       "duration_ms": 154997,
-      "artist": [
-        "Lil Nas X"
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "id": "7jVv8c5Fj3E9VhNjxT4snq"
+        }
       ],
-      "artistId": [
-        "7jVv8c5Fj3E9VhNjxT4snq"
-      ],
-      "albumId": "4EvukZrmNBiqJbs3LwOSHu",
+      "album": {
+        "id": "4EvukZrmNBiqJbs3LwOSHu",
+        "name": "HOLIDAY",
+        "img": "https://i.scdn.co/image/ab67616d00001e026771a05f34d77e5fc2bde64c"
+      },
       "release_date": "2020-11-13",
       "popularity": 72
     },
     {
-      "trackId": "1GpnamSg9Ao9rWzPnRCIhu",
-      "name": "Paradise",
+      "track": {
+        "id": "1GpnamSg9Ao9rWzPnRCIhu",
+        "name": "Paradise"
+      },
       "duration_ms": 192573,
-      "artist": [
-        "The Shangri-Las"
+      "artists": [
+        {
+          "name": "The Shangri-Las",
+          "id": "1WvziZcLLYLoMMdmQx7qcN"
+        }
       ],
-      "artistId": [
-        "1WvziZcLLYLoMMdmQx7qcN"
-      ],
-      "albumId": "76fF3MnSilSrvfW1fAWHAZ",
+      "album": {
+        "id": "76fF3MnSilSrvfW1fAWHAZ",
+        "name": "The Best Of The Shangri-Las",
+        "img": "https://i.scdn.co/image/ab67616d00001e029bd4306ef696c6fcfd8e417b"
+      },
       "release_date": "1996-01-01",
       "popularity": 13
     },
     {
-      "trackId": "3Q1uMXAuSHVhWM3yGMPmmh",
-      "name": "Clara",
+      "track": {
+        "id": "3Q1uMXAuSHVhWM3yGMPmmh",
+        "name": "Clara"
+      },
       "duration_ms": 214916,
-      "artist": [
-        "Rebecca & Fiona"
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "id": "6rgEPiKjowlMKZC1DF6W75"
+        }
       ],
-      "artistId": [
-        "6rgEPiKjowlMKZC1DF6W75"
-      ],
-      "albumId": "0fnDS7UMg248Rp5IOfPvSb",
+      "album": {
+        "id": "0fnDS7UMg248Rp5IOfPvSb",
+        "name": "Beauty Is Pain",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bcf463e44b31130e9a4369e"
+      },
       "release_date": "2014-01-01",
       "popularity": 13
     },
     {
-      "trackId": "3QK1fp2qIED0V6s1PIT4us",
-      "name": "Sexy Boy - 12\" Extended Mix",
+      "track": {
+        "id": "3QK1fp2qIED0V6s1PIT4us",
+        "name": "Sexy Boy - 12\" Extended Mix"
+      },
       "duration_ms": 340500,
-      "artist": [
-        "The Kinky Boyz",
-        "Kia"
+      "artists": [
+        {
+          "name": "The Kinky Boyz",
+          "id": "4XI2V1OXjErfjBUJWBJUIN"
+        },
+        {
+          "name": "Kia",
+          "id": "6X5v01EN0SsDFEmTJAyNZ6"
+        }
       ],
-      "artistId": [
-        "4XI2V1OXjErfjBUJWBJUIN",
-        "6X5v01EN0SsDFEmTJAyNZ6"
-      ],
-      "albumId": "3zaG0TGKdlka2fJsFkpDHX",
+      "album": {
+        "id": "3zaG0TGKdlka2fJsFkpDHX",
+        "name": "Almighty Presents: We Love the 90's (Vol. 2)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e33256be2aca52c17ee598df"
+      },
       "release_date": "2014-10-20",
       "popularity": 16
     },
     {
-      "trackId": "4LKfcu9xLaZ6HLtTTCez5u",
-      "name": "Strawberry Fields Forever",
+      "track": {
+        "id": "4LKfcu9xLaZ6HLtTTCez5u",
+        "name": "Strawberry Fields Forever"
+      },
       "duration_ms": 252773,
-      "artist": [
-        "Candy flip"
+      "artists": [
+        {
+          "name": "Candy flip",
+          "id": "3r44rqvDeuasJUCcRDddtI"
+        }
       ],
-      "artistId": [
-        "3r44rqvDeuasJUCcRDddtI"
-      ],
-      "albumId": "15H96lem7nPXaavmnAo0uU",
+      "album": {
+        "id": "15H96lem7nPXaavmnAo0uU",
+        "name": "Madstock...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a2ebea0bc22ba3da2ea776fe"
+      },
       "release_date": "1990",
       "popularity": 36
     },
     {
-      "trackId": "4uhSo9cVBVpdDCNxf4MBaP",
-      "name": "Gods & Monsters",
+      "track": {
+        "id": "4uhSo9cVBVpdDCNxf4MBaP",
+        "name": "Gods & Monsters"
+      },
       "duration_ms": 237640,
-      "artist": [
-        "Lana Del Rey"
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "id": "00FQb4jTyendYWaN8pK0wa"
+        }
       ],
-      "artistId": [
-        "00FQb4jTyendYWaN8pK0wa"
-      ],
-      "albumId": "5VoeRuTrGhTbKelUfwymwu",
+      "album": {
+        "id": "5VoeRuTrGhTbKelUfwymwu",
+        "name": "Born To Die - The Paradise Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ebc8cfac8b586bc475b04918"
+      },
       "release_date": "2012-01-01",
       "popularity": 59
     },
     {
-      "trackId": "2fZ5DgJWxdeeI5CoKJMpFB",
-      "name": "Allt har ett slut",
+      "track": {
+        "id": "2fZ5DgJWxdeeI5CoKJMpFB",
+        "name": "Allt har ett slut"
+      },
       "duration_ms": 152213,
-      "artist": [
-        "Little Jinder"
+      "artists": [
+        {
+          "name": "Little Jinder",
+          "id": "5QYBoZAoupoPPuFB1KHfx0"
+        }
       ],
-      "artistId": [
-        "5QYBoZAoupoPPuFB1KHfx0"
-      ],
-      "albumId": "6s0TKDaBevGiKQKob1dNBo",
+      "album": {
+        "id": "6s0TKDaBevGiKQKob1dNBo",
+        "name": "Så mycket bättre - Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa6ee49d081d993612c7a814"
+      },
       "release_date": "2016-12-11",
       "popularity": 16
     },
     {
-      "trackId": "2Lrpt9cvJsIHvNEuaY4c6i",
-      "name": "Penelope - Ring Edit",
+      "track": {
+        "id": "2Lrpt9cvJsIHvNEuaY4c6i",
+        "name": "Penelope - Ring Edit"
+      },
       "duration_ms": 66000,
-      "artist": [
-        "Djane Pieeep"
+      "artists": [
+        {
+          "name": "Djane Pieeep",
+          "id": "5wqly9dpcqBG0RuPQRELIc"
+        }
       ],
-      "artistId": [
-        "5wqly9dpcqBG0RuPQRELIc"
-      ],
-      "albumId": "5WelQig5klU4LGrdV92A60",
+      "album": {
+        "id": "5WelQig5klU4LGrdV92A60",
+        "name": "Ringtone, Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d647a3a9a7c616ec91da6fa"
+      },
       "release_date": "2018-06-20",
       "popularity": 17
     },
     {
-      "trackId": "52LJ3hyknOijCrE5gCD0rE",
-      "name": "L'Amour Toujours",
+      "track": {
+        "id": "52LJ3hyknOijCrE5gCD0rE",
+        "name": "L'Amour Toujours"
+      },
       "duration_ms": 242053,
-      "artist": [
-        "Gigi D'Agostino"
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "id": "1OAjDaKgg00KCUYqDe68un"
+        }
       ],
-      "artistId": [
-        "1OAjDaKgg00KCUYqDe68un"
-      ],
-      "albumId": "61hGQNFwmqGHXm5eeMkd4d",
+      "album": {
+        "id": "61hGQNFwmqGHXm5eeMkd4d",
+        "name": "L'Amour Toujours",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295c70cc04573417548b47199"
+      },
       "release_date": "2001-05-23",
       "popularity": 73
     },
     {
-      "trackId": "42ajXqVY4A1FV61TjpTOUR",
-      "name": "Introduction",
+      "track": {
+        "id": "42ajXqVY4A1FV61TjpTOUR",
+        "name": "Introduction"
+      },
       "duration_ms": 210906,
-      "artist": [
-        "Tindersticks"
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "id": "3dmSPhg0tdao8ePj4pySJ5"
+        }
       ],
-      "artistId": [
-        "3dmSPhg0tdao8ePj4pySJ5"
-      ],
-      "albumId": "6B9NaxHOqYKTwt6sjBZRfv",
+      "album": {
+        "id": "6B9NaxHOqYKTwt6sjBZRfv",
+        "name": "The Hungry Saw",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297d09c0c6b9fb91082918890"
+      },
       "release_date": "2008-04-27",
       "popularity": 11
     }

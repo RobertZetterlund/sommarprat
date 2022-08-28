@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3255416_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "21ErfxP4uvnGlKGggr6OT1",
-      "name": "Arrival of the Queen of Sheba to Galway",
+      "track": {
+        "id": "21ErfxP4uvnGlKGggr6OT1",
+        "name": "Arrival of the Queen of Sheba to Galway"
+      },
       "duration_ms": 186280,
-      "artist": [
-        "De Dannan"
+      "artists": [
+        {
+          "name": "De Dannan",
+          "id": "09RBtr6JUJprt2li2NsdU8"
+        }
       ],
-      "artistId": [
-        "09RBtr6JUJprt2li2NsdU8"
-      ],
-      "albumId": "0NeRigU9qhLPnvuQeCR9KI",
+      "album": {
+        "id": "0NeRigU9qhLPnvuQeCR9KI",
+        "name": "How the West Was Won",
+        "img": "https://i.scdn.co/image/ab67616d00001e026285cf8c938fea992f1e71f2"
+      },
       "release_date": "1999-01-01",
       "popularity": 21
     },
     {
-      "trackId": "0uGX8jXm27FBIDGLjorOlJ",
-      "name": "Sean",
+      "track": {
+        "id": "0uGX8jXm27FBIDGLjorOlJ",
+        "name": "Sean"
+      },
       "duration_ms": 100380,
-      "artist": [
-        "Mastard"
+      "artists": [
+        {
+          "name": "Mastard",
+          "id": "5kTCZX9jfrNXc82QoHP7kL"
+        }
       ],
-      "artistId": [
-        "5kTCZX9jfrNXc82QoHP7kL"
-      ],
-      "albumId": "7jYcYiAJWfTvvdUlA24v5r",
+      "album": {
+        "id": "7jYcYiAJWfTvvdUlA24v5r",
+        "name": "Whedon",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278deeb00d9a3e4e5dedaafb9"
+      },
       "release_date": "2021-07-16",
       "popularity": 22
     },
     {
-      "trackId": "4HqJTQrRrbd2b89joRkOl7",
-      "name": "My Land Is Too Green",
+      "track": {
+        "id": "4HqJTQrRrbd2b89joRkOl7",
+        "name": "My Land Is Too Green"
+      },
       "duration_ms": 169173,
-      "artist": [
-        "Mary Coughlan"
+      "artists": [
+        {
+          "name": "Mary Coughlan",
+          "id": "7lqVTxfOywIDg6yGHUiwTJ"
+        }
       ],
-      "artistId": [
-        "7lqVTxfOywIDg6yGHUiwTJ"
-      ],
-      "albumId": "4St0M1eKLBGMwDaGGEpefQ",
+      "album": {
+        "id": "4St0M1eKLBGMwDaGGEpefQ",
+        "name": "Under the Influence",
+        "img": "https://i.scdn.co/image/ab67616d00001e02651982b9e7259828fa52297c"
+      },
       "release_date": "1987-09-15",
-      "popularity": 3
+      "popularity": 4
     },
     {
-      "trackId": "3VTNVsTTu05dmTsVFrmGpK",
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "track": {
+        "id": "3VTNVsTTu05dmTsVFrmGpK",
+        "name": "Fairytale of New York (feat. Kirsty MacColl)"
+      },
       "duration_ms": 272466,
-      "artist": [
-        "The Pogues",
-        "Kirsty MacColl"
+      "artists": [
+        {
+          "name": "The Pogues",
+          "id": "2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "id": "6UlNIFEuWlBqb4TvlVCekq"
+        }
       ],
-      "artistId": [
-        "2wzMOQwNT6ZvVB4amvhFAH",
-        "6UlNIFEuWlBqb4TvlVCekq"
-      ],
-      "albumId": "4V92Puney9WxGPecKtLG4L",
+      "album": {
+        "id": "4V92Puney9WxGPecKtLG4L",
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0ccf94a2d981db731f5dab8"
+      },
       "release_date": "1988-09-05",
       "popularity": 55
     },
     {
-      "trackId": "0Db6ciT3uXIpkn5gdfSJUB",
-      "name": "The Town I Loved So Well",
+      "track": {
+        "id": "0Db6ciT3uXIpkn5gdfSJUB",
+        "name": "The Town I Loved So Well"
+      },
       "duration_ms": 382026,
-      "artist": [
-        "The Dubliners"
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "id": "72RvmgEg2omdlMV9aExO6a"
+        }
       ],
-      "artistId": [
-        "72RvmgEg2omdlMV9aExO6a"
-      ],
-      "albumId": "2JaU7begujrJQaORvAnVwD",
+      "album": {
+        "id": "2JaU7begujrJQaORvAnVwD",
+        "name": "The Dubliners",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238b5bc1c257c04657e0ec960"
+      },
       "release_date": "2007-06-01",
       "popularity": 40
     },
     {
-      "trackId": "05KvSXpXEWd3YCwTPG0xu9",
-      "name": "Lisdoonvarna",
+      "track": {
+        "id": "05KvSXpXEWd3YCwTPG0xu9",
+        "name": "Lisdoonvarna"
+      },
       "duration_ms": 306346,
-      "artist": [
-        "Christy Moore"
+      "artists": [
+        {
+          "name": "Christy Moore",
+          "id": "3Ebn7mKYzD0L3DaUB1gNJZ"
+        }
       ],
-      "artistId": [
-        "3Ebn7mKYzD0L3DaUB1gNJZ"
-      ],
-      "albumId": "0pGk5GqEidvPcTratzBAyJ",
+      "album": {
+        "id": "0pGk5GqEidvPcTratzBAyJ",
+        "name": "On the Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2c72f93d6358cdcf5ac5e36"
+      },
       "release_date": "2017-11-17",
       "popularity": 42
     },
     {
-      "trackId": "6wpGqhRvJGNNXwWlPmkMyO",
-      "name": "I Still Haven't Found What I'm Looking For",
+      "track": {
+        "id": "6wpGqhRvJGNNXwWlPmkMyO",
+        "name": "I Still Haven't Found What I'm Looking For"
+      },
       "duration_ms": 277476,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 77
     },
     {
-      "trackId": "6SwtZxvn8u52zTiHTiEHWD",
-      "name": "Brynn Thomson",
+      "track": {
+        "id": "6SwtZxvn8u52zTiHTiEHWD",
+        "name": "Brynn Thomson"
+      },
       "duration_ms": 37612,
-      "artist": [
-        "Jeremiah Howard"
+      "artists": [
+        {
+          "name": "Jeremiah Howard",
+          "id": "60oj20A7YrwFkYKK7ZGu1c"
+        }
       ],
-      "artistId": [
-        "60oj20A7YrwFkYKK7ZGu1c"
-      ],
-      "albumId": "0Kms30YBbV7DpxSe24yyov",
+      "album": {
+        "id": "0Kms30YBbV7DpxSe24yyov",
+        "name": "Brynn Thomson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d627d4d511848c8bc1ca142c"
+      },
       "release_date": "2022-04-30",
-      "popularity": 11
+      "popularity": 10
     },
     {
-      "trackId": "1GeNWyZtCHbcp3ZWp8GTOO",
-      "name": "The Lady In Red",
+      "track": {
+        "id": "1GeNWyZtCHbcp3ZWp8GTOO",
+        "name": "The Lady In Red"
+      },
       "duration_ms": 256173,
-      "artist": [
-        "Chris de Burgh"
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "id": "2RpHsROrX075xfIwHn6B2U"
+        }
       ],
-      "artistId": [
-        "2RpHsROrX075xfIwHn6B2U"
-      ],
-      "albumId": "5Yi08NDFoVAnvHoXqpp9O5",
+      "album": {
+        "id": "5Yi08NDFoVAnvHoXqpp9O5",
+        "name": "Into The Light",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5b341a19b01d6b3d89a8e6a"
+      },
       "release_date": "1986-01-01",
       "popularity": 76
     },
     {
-      "trackId": "0VYQH7xBUMyCDJ9oxirmMv",
-      "name": "Mickey Finn's",
+      "track": {
+        "id": "0VYQH7xBUMyCDJ9oxirmMv",
+        "name": "Mickey Finn's"
+      },
       "duration_ms": 245666,
-      "artist": [
-        "Sean Ryan"
+      "artists": [
+        {
+          "name": "Sean Ryan",
+          "id": "6dgMOt6fRV1QjYwc9ubfU9"
+        }
       ],
-      "artistId": [
-        "6dgMOt6fRV1QjYwc9ubfU9"
-      ],
-      "albumId": "0jHgocgzZfXOwLk029FYqu",
+      "album": {
+        "id": "0jHgocgzZfXOwLk029FYqu",
+        "name": "Minstrel's Fancy",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269c03fafbd966bc84350b4b3"
+      },
       "release_date": "2010-03-05",
       "popularity": 0
     },
     {
-      "trackId": "0SrLTvlEoJit5zRzgbGX6h",
-      "name": "Taghdir",
+      "track": {
+        "id": "0SrLTvlEoJit5zRzgbGX6h",
+        "name": "Taghdir"
+      },
       "duration_ms": 137508,
-      "artist": [
-        "Mohammad Kasiri"
+      "artists": [
+        {
+          "name": "Mohammad Kasiri",
+          "id": "4FYDO0GWyH1a3NddpMgrGb"
+        }
       ],
-      "artistId": [
-        "4FYDO0GWyH1a3NddpMgrGb"
-      ],
-      "albumId": "1RmN8oXqF2kXspQDHpU3FU",
+      "album": {
+        "id": "1RmN8oXqF2kXspQDHpU3FU",
+        "name": "Zendegi Shirin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac7928da84608608fa3be4c3"
+      },
       "release_date": "2021-10-25",
       "popularity": 11
     }

@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3251970_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3bADVOkhaS96TqCcAfQBql",
-      "name": "Crazy",
+      "track": {
+        "id": "3bADVOkhaS96TqCcAfQBql",
+        "name": "Crazy"
+      },
       "duration_ms": 269333,
-      "artist": [
-        "Valerie Carter"
+      "artists": [
+        {
+          "name": "Valerie Carter",
+          "id": "2D2wLloXc41DWmZf3NBtl0"
+        }
       ],
-      "artistId": [
-        "2D2wLloXc41DWmZf3NBtl0"
-      ],
-      "albumId": "5ZH16dKHhOMAIbm0xpTLkP",
+      "album": {
+        "id": "5ZH16dKHhOMAIbm0xpTLkP",
+        "name": "Wild Child",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247a6fbed6a4a5db560462773"
+      },
       "release_date": "1978-07-01",
       "popularity": 25
     },
     {
-      "trackId": "7aAkwqs3Yp94iIiPRRD7QA",
-      "name": "My Father's Eyes - 2015 Remaster",
+      "track": {
+        "id": "7aAkwqs3Yp94iIiPRRD7QA",
+        "name": "My Father's Eyes - 2015 Remaster"
+      },
       "duration_ms": 323053,
-      "artist": [
-        "Eric Clapton"
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "id": "6PAt558ZEZl0DmdXlnjMgD"
+        }
       ],
-      "artistId": [
-        "6PAt558ZEZl0DmdXlnjMgD"
-      ],
-      "albumId": "3gaFg68VkhrZUU9wfaLp5T",
+      "album": {
+        "id": "3gaFg68VkhrZUU9wfaLp5T",
+        "name": "Forever Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e021a4b277e3bf902464b1ab186"
+      },
       "release_date": "2015-04-28",
       "popularity": 53
     },
     {
-      "trackId": "7DFawVSjI88xR9mjnWwURg",
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "track": {
+        "id": "7DFawVSjI88xR9mjnWwURg",
+        "name": "If You Don't Know Me by Now - 2008 Remaster"
+      },
       "duration_ms": 204000,
-      "artist": [
-        "Simply Red"
+      "artists": [
+        {
+          "name": "Simply Red",
+          "id": "1fa0cOhromAZdq2xRA4vv8"
+        }
       ],
-      "artistId": [
-        "1fa0cOhromAZdq2xRA4vv8"
-      ],
-      "albumId": "0R8Pl54TXSwXWtAEVaP7ew",
+      "album": {
+        "id": "0R8Pl54TXSwXWtAEVaP7ew",
+        "name": "A New Flame (Expanded Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f8dc242b396ddc31c01d36c"
+      },
       "release_date": "1989",
       "popularity": 70
     },
     {
-      "trackId": "2rE1NrgivtRiR0titnZQZb",
-      "name": "Löftena kunna ej svika",
+      "track": {
+        "id": "2rE1NrgivtRiR0titnZQZb",
+        "name": "Löftena kunna ej svika"
+      },
       "duration_ms": 175653,
-      "artist": [
-        "Lewi Pethrus",
-        "Einar Ekberg",
-        "Artist Unknown"
+      "artists": [
+        {
+          "name": "Lewi Pethrus",
+          "id": "0pyXZ9YezasqVzsSCFjIRF"
+        },
+        {
+          "name": "Einar Ekberg",
+          "id": "0BZKPU9xjUNwHWkMPXR1Uu"
+        },
+        {
+          "name": "Artist Unknown",
+          "id": "6gjAbs229sNHhSskJpQ2mG"
+        }
       ],
-      "artistId": [
-        "0pyXZ9YezasqVzsSCFjIRF",
-        "0BZKPU9xjUNwHWkMPXR1Uu",
-        "6gjAbs229sNHhSskJpQ2mG"
-      ],
-      "albumId": "1ObWsjv624sMMQtKvEb7ib",
+      "album": {
+        "id": "1ObWsjv624sMMQtKvEb7ib",
+        "name": "Mästersångaren Einar Ekberg (1938-1944)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dccd929e7a04f76efb3d370"
+      },
       "release_date": "2011-05-01",
       "popularity": 2
     },
     {
-      "trackId": "0LrwgdLsFaWh9VXIjBRe8t",
-      "name": "Changes - 2015 Remaster",
+      "track": {
+        "id": "0LrwgdLsFaWh9VXIjBRe8t",
+        "name": "Changes - 2015 Remaster"
+      },
       "duration_ms": 217746,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 68
     },
     {
-      "trackId": "26PwuMotZqcczKLHi4Htz3",
-      "name": "Redemption Song",
+      "track": {
+        "id": "26PwuMotZqcczKLHi4Htz3",
+        "name": "Redemption Song"
+      },
       "duration_ms": 233560,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 70
     },
     {
-      "trackId": "6smwQ3KDuGOGQp3fDXZh5x",
-      "name": "Känns som om Gud hört min bön",
+      "track": {
+        "id": "6smwQ3KDuGOGQp3fDXZh5x",
+        "name": "Känns som om Gud hört min bön"
+      },
       "duration_ms": 316293,
-      "artist": [
-        "Ingmar Johánsson",
-        "Monica Yngvesson",
-        "Ingemar Berglind"
+      "artists": [
+        {
+          "name": "Ingmar Johánsson",
+          "id": "5q6PJB33CYSw2fn4OIjCKj"
+        },
+        {
+          "name": "Monica Yngvesson",
+          "id": "6zldZxY8bAjcsnP5YT4qyw"
+        },
+        {
+          "name": "Ingemar Berglind",
+          "id": "4UfXwg6sZUPkbM8nm7vIHI"
+        }
       ],
-      "artistId": [
-        "5q6PJB33CYSw2fn4OIjCKj",
-        "6zldZxY8bAjcsnP5YT4qyw",
-        "4UfXwg6sZUPkbM8nm7vIHI"
-      ],
-      "albumId": "7AbsCMzVObkRnWQJevAyiY",
+      "album": {
+        "id": "7AbsCMzVObkRnWQJevAyiY",
+        "name": "En sång som bara du kan sjunga",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a688900150247c10e626b2cb"
+      },
       "release_date": "2011-05-01",
       "popularity": 17
     },
     {
-      "trackId": "3Z1dySMSEhuuGhLxGI4WCV",
-      "name": "#VIKINGCLAP",
+      "track": {
+        "id": "3Z1dySMSEhuuGhLxGI4WCV",
+        "name": "#VIKINGCLAP"
+      },
       "duration_ms": 191946,
-      "artist": [
-        "Bodybangers",
-        "DJ Muscleboy"
+      "artists": [
+        {
+          "name": "Bodybangers",
+          "id": "7koJQAjVzXoUpH6pXrihXA"
+        },
+        {
+          "name": "DJ Muscleboy",
+          "id": "0xDprXJm0c2N6J90T2zr3f"
+        }
       ],
-      "artistId": [
-        "7koJQAjVzXoUpH6pXrihXA",
-        "0xDprXJm0c2N6J90T2zr3f"
-      ],
-      "albumId": "5bpW2kDXUx9rsv1eWqG0TG",
+      "album": {
+        "id": "5bpW2kDXUx9rsv1eWqG0TG",
+        "name": "#VIKINGCLAP",
+        "img": "https://i.scdn.co/image/ab67616d00001e028bc8ee8b7f00f45d0fa7b0b7"
+      },
       "release_date": "2018-06-15",
       "popularity": 30
     },
     {
-      "trackId": "3WJ8xIHrNTtP5YsXOqqyml",
-      "name": "Down To The River To Pray - From “O Brother, Where Art Thou” Soundtrack",
+      "track": {
+        "id": "3WJ8xIHrNTtP5YsXOqqyml",
+        "name": "Down To The River To Pray - From “O Brother, Where Art Thou” Soundtrack"
+      },
       "duration_ms": 176360,
-      "artist": [
-        "Alison Krauss"
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "id": "5J6L7N6B4nI1M5cwa29mQG"
+        }
       ],
-      "artistId": [
-        "5J6L7N6B4nI1M5cwa29mQG"
-      ],
-      "albumId": "2i3Fr0qXGyR57MfWNPcMKP",
+      "album": {
+        "id": "2i3Fr0qXGyR57MfWNPcMKP",
+        "name": "A Hundred Miles Or More: A Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e020343574603e6094988bfedda"
+      },
       "release_date": "2007-01-01",
       "popularity": 53
     },
     {
-      "trackId": "2tUECxw7IzgpZeWPNHoiXp",
-      "name": "För att jag älskar dej - To Make You Feel My Love",
+      "track": {
+        "id": "2tUECxw7IzgpZeWPNHoiXp",
+        "name": "För att jag älskar dej - To Make You Feel My Love"
+      },
       "duration_ms": 303666,
-      "artist": [
-        "Mikael Wiehe",
-        "Ebba Forsberg"
+      "artists": [
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        },
+        {
+          "name": "Ebba Forsberg",
+          "id": "1MrzQFvlf2DzLE1qP98ehk"
+        }
       ],
-      "artistId": [
-        "3VOOmK7ZqJNgOPN1hopJuL",
-        "1MrzQFvlf2DzLE1qP98ehk"
-      ],
-      "albumId": "01TN1Jnvk8ZFvqf8PQVEA9",
+      "album": {
+        "id": "01TN1Jnvk8ZFvqf8PQVEA9",
+        "name": "Dylan på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e9d30dee616ee6cc7d793f31"
+      },
       "release_date": "2007-01-01",
       "popularity": 40
     },
     {
-      "trackId": "4LloVtxNZpeh7q7xdi1DQc",
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "track": {
+        "id": "4LloVtxNZpeh7q7xdi1DQc",
+        "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007"
+      },
       "duration_ms": 263573,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "4Dgxy95K9BWkDUvQPTaYBb",
+      "album": {
+        "id": "4Dgxy95K9BWkDUvQPTaYBb",
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b9c332f9f76cabc137e400f"
+      },
       "release_date": "2008",
       "popularity": 71
     },
     {
-      "trackId": "132ZSnHdeb0wHa03IarUaA",
-      "name": "Pressing On",
+      "track": {
+        "id": "132ZSnHdeb0wHa03IarUaA",
+        "name": "Pressing On"
+      },
       "duration_ms": 314253,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "6ytk4mtIgQP7F67XL1nozV",
+      "album": {
+        "id": "6ytk4mtIgQP7F67XL1nozV",
+        "name": "Saved",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0789bcb434ebcc1f9727ae8"
+      },
       "release_date": "1980-06-20",
       "popularity": 26
     }

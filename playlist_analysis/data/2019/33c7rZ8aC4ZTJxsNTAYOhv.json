@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/be30a1bb-ad50-4718-94a5-9e16d731bcef.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0rufkWXOB4dWDhCN9UAK7c",
-      "name": "Fool for You (feat. Philip Bailey)",
+      "track": {
+        "id": "0rufkWXOB4dWDhCN9UAK7c",
+        "name": "Fool for You (feat. Philip Bailey)"
+      },
       "duration_ms": 220653,
-      "artist": [
-        "CeeLo Green"
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+        }
       ],
-      "artistId": [
-        "5nLYd9ST4Cnwy6NHaCxbj8"
-      ],
-      "albumId": "5uR0dqBMYWZFYJT7mvPZ82",
+      "album": {
+        "id": "5uR0dqBMYWZFYJT7mvPZ82",
+        "name": "The Lady Killer (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c44d79c994c1a26aa387617"
+      },
       "release_date": "2010-11-09",
       "popularity": 29
     },
     {
-      "trackId": "1q4U2zOXyMAlVoA5stAN04",
-      "name": "Soltane Ghalbha",
+      "track": {
+        "id": "1q4U2zOXyMAlVoA5stAN04",
+        "name": "Soltane Ghalbha"
+      },
       "duration_ms": 279693,
-      "artist": [
-        "Aref"
+      "artists": [
+        {
+          "name": "Aref",
+          "id": "1FEABcMZtFitRlvH8V0UJI"
+        }
       ],
-      "artistId": [
-        "1FEABcMZtFitRlvH8V0UJI"
-      ],
-      "albumId": "5Bvp4WQHji4HIdc1lMbNAW",
+      "album": {
+        "id": "5Bvp4WQHji4HIdc1lMbNAW",
+        "name": "Aref Greatest Hits - Persian Music",
+        "img": "https://i.scdn.co/image/097a926e4fafeab56871ba5b3cbd8b632ed14fb5"
+      },
       "release_date": "1993-02-24",
       "popularity": 33
     },
     {
-      "trackId": "0B9x2BRHqj3Qer7biM3pU3",
-      "name": "You're The One That I Want - From “Grease”",
+      "track": {
+        "id": "0B9x2BRHqj3Qer7biM3pU3",
+        "name": "You're The One That I Want - From “Grease”"
+      },
       "duration_ms": 169840,
-      "artist": [
-        "John Travolta",
-        "Olivia Newton-John"
+      "artists": [
+        {
+          "name": "John Travolta",
+          "id": "4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "id": "4BoRxUdrcgbbq1rxJvvhg9"
+        }
       ],
-      "artistId": [
-        "4hKkEHkaqCsyxNxXEsszVH",
-        "4BoRxUdrcgbbq1rxJvvhg9"
-      ],
-      "albumId": "5n47Dui0H3pGpZSOxITmoq",
+      "album": {
+        "id": "5n47Dui0H3pGpZSOxITmoq",
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8"
+      },
       "release_date": "1978-04-04",
       "popularity": 78
     },
     {
-      "trackId": "1OOtq8tRnDM8kG2gqUPjAj",
-      "name": "Beat It",
+      "track": {
+        "id": "1OOtq8tRnDM8kG2gqUPjAj",
+        "name": "Beat It"
+      },
       "duration_ms": 258040,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 81
     },
     {
-      "trackId": "6eco7d0bNN7iQWTaUW3qdf",
-      "name": "Shazdeh Khanoom",
+      "track": {
+        "id": "6eco7d0bNN7iQWTaUW3qdf",
+        "name": "Shazdeh Khanoom"
+      },
       "duration_ms": 232906,
-      "artist": [
-        "Sattar"
+      "artists": [
+        {
+          "name": "Sattar",
+          "id": "7F3Cjk0SeVN410JfnpVzGu"
+        }
       ],
-      "artistId": [
-        "7F3Cjk0SeVN410JfnpVzGu"
-      ],
-      "albumId": "0MTNx82Z7rAOvwn5Fzzs4K",
+      "album": {
+        "id": "0MTNx82Z7rAOvwn5Fzzs4K",
+        "name": "Hamsafar - Persian Music",
+        "img": "https://i.scdn.co/image/0b5d0bf939a9e2db5f0e2fe5c9771f4f3632cce8"
+      },
       "release_date": "1976-05-12",
       "popularity": 32
     },
     {
-      "trackId": "4pFgAIjcZbNtWsvzJ9BqMj",
-      "name": "Om igen",
+      "track": {
+        "id": "4pFgAIjcZbNtWsvzJ9BqMj",
+        "name": "Om igen"
+      },
       "duration_ms": 185440,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 35
     },
     {
-      "trackId": "48IH2Gl47XiQY25kaefZoj",
-      "name": "Royaye Ma",
+      "track": {
+        "id": "48IH2Gl47XiQY25kaefZoj",
+        "name": "Royaye Ma"
+      },
       "duration_ms": 200933,
-      "artist": [
-        "Shadmehr Aghili",
-        "Ebi"
+      "artists": [
+        {
+          "name": "Shadmehr Aghili",
+          "id": "3IDPcBP4OoTNvm3b4h46cW"
+        },
+        {
+          "name": "Ebi",
+          "id": "3pI1XXzzKOYdYCLWurc2Ky"
+        }
       ],
-      "artistId": [
-        "3IDPcBP4OoTNvm3b4h46cW",
-        "3pI1XXzzKOYdYCLWurc2Ky"
-      ],
-      "albumId": "6czTruG9MserNiMB0iDAls",
+      "album": {
+        "id": "6czTruG9MserNiMB0iDAls",
+        "name": "Royaye Ma",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e73032546e84481088472c8"
+      },
       "release_date": "2012-08-12",
       "popularity": 23
     },
     {
-      "trackId": "7cYcaVZQodQ4gSOV43EkmE",
-      "name": "Svenska 2",
+      "track": {
+        "id": "7cYcaVZQodQ4gSOV43EkmE",
+        "name": "Svenska 2"
+      },
       "duration_ms": 182922,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pzVbtbIFa5MFEos2M69aR",
+      "album": {
+        "id": "0pzVbtbIFa5MFEos2M69aR",
+        "name": "Vänta!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd8d60bc7232270a9b0aea8a"
+      },
       "release_date": "2019-05-31",
       "popularity": 28
     },
     {
-      "trackId": "3h5vVpJ7RlYVWtOG0403bL",
-      "name": "Hey Brother - Avicii By Avicii",
+      "track": {
+        "id": "3h5vVpJ7RlYVWtOG0403bL",
+        "name": "Hey Brother - Avicii By Avicii"
+      },
       "duration_ms": 369946,
-      "artist": [
-        "Avicii",
-        "Tim Bergling"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Tim Bergling",
+          "id": "5baGk14NDI3ZDPbr6wJilc"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5baGk14NDI3ZDPbr6wJilc"
-      ],
-      "albumId": "0ignCov9foaLxuqND5GMtl",
+      "album": {
+        "id": "0ignCov9foaLxuqND5GMtl",
+        "name": "True: Avicii By Avicii",
+        "img": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8"
+      },
       "release_date": "2014-01-01",
       "popularity": 40
     },
     {
-      "trackId": "1uXbwHHfgsXcUKfSZw5ZJ0",
-      "name": "Run the World (Girls)",
+      "track": {
+        "id": "1uXbwHHfgsXcUKfSZw5ZJ0",
+        "name": "Run the World (Girls)"
+      },
       "duration_ms": 236093,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "name": "4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd"
+      },
       "release_date": "2011-06-24",
       "popularity": 72
     },
     {
-      "trackId": "3ikWUJso9QP3frQKgBM03p",
-      "name": "Only Love",
+      "track": {
+        "id": "3ikWUJso9QP3frQKgBM03p",
+        "name": "Only Love"
+      },
       "duration_ms": 226426,
-      "artist": [
-        "Mary J. Blige"
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        }
       ],
-      "artistId": [
-        "1XkoF8ryArs86LZvFOkbyr"
-      ],
-      "albumId": "3XkTivx1ut6UoVBI8nECbo",
+      "album": {
+        "id": "3XkTivx1ut6UoVBI8nECbo",
+        "name": "Only Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02188b2746b32139aa37d23e44"
+      },
       "release_date": "2018-07-12",
       "popularity": 28
     },
     {
-      "trackId": "7KOegFQMd13ETQry4A6Tu1",
-      "name": "Strövtåg i hembygden",
+      "track": {
+        "id": "7KOegFQMd13ETQry4A6Tu1",
+        "name": "Strövtåg i hembygden"
+      },
       "duration_ms": 249573,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 56
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

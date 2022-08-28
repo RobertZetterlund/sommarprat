@@ -7,128 +7,182 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2ca5acdd-57b0-4e10-8450-a4285b46ebde.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6QhJngmKqelOcCc3bUiKYY",
-      "name": "What the World Needs Now (Is Love)",
+      "track": {
+        "id": "6QhJngmKqelOcCc3bUiKYY",
+        "name": "What the World Needs Now (Is Love)"
+      },
       "duration_ms": 191000,
-      "artist": [
-        "Dionne Warwick"
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "id": "2JSjCHK79gdaiPWdKiNUNp"
+        }
       ],
-      "artistId": [
-        "2JSjCHK79gdaiPWdKiNUNp"
-      ],
-      "albumId": "1I5H0kXxePgiHJMFNhJws3",
+      "album": {
+        "id": "1I5H0kXxePgiHJMFNhJws3",
+        "name": "Here Where There Is Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02923c3d5014dd5830528b0c07"
+      },
       "release_date": "1967",
       "popularity": 53
     },
     {
-      "trackId": "2gs8HVC6KXOQe76XggzZH5",
-      "name": "Stand by Me - Live at the Late Show with David Letterman",
+      "track": {
+        "id": "2gs8HVC6KXOQe76XggzZH5",
+        "name": "Stand by Me - Live at the Late Show with David Letterman"
+      },
       "duration_ms": 169013,
-      "artist": [
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "6UadJ2GvNZBAIRZadmbii4",
+      "album": {
+        "id": "6UadJ2GvNZBAIRZadmbii4",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e32df254f1da182512f5a90"
+      },
       "release_date": "2015-11-20",
       "popularity": 58
     },
     {
-      "trackId": "3NfxSdJnVdon1axzloJgba",
-      "name": "I Say a Little Prayer",
+      "track": {
+        "id": "3NfxSdJnVdon1axzloJgba",
+        "name": "I Say a Little Prayer"
+      },
       "duration_ms": 216773,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+      "album": {
+        "id": "55HZ2ectg1mMTEKDqIq3kC",
+        "name": "Aretha Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246c31f64babcbfca6e061b6b"
+      },
       "release_date": "1968-06-14",
       "popularity": 74
     },
     {
-      "trackId": "5uRVTGbhK15pO3DNLaG4cb",
-      "name": "Romance (Gadfly Op 97)",
+      "track": {
+        "id": "5uRVTGbhK15pO3DNLaG4cb",
+        "name": "Romance (Gadfly Op 97)"
+      },
       "duration_ms": 191933,
-      "artist": [
-        "Tasmin Little"
+      "artists": [
+        {
+          "name": "Tasmin Little",
+          "id": "0yB2SgzCCYb9uhjd4BG4pP"
+        }
       ],
-      "artistId": [
-        "0yB2SgzCCYb9uhjd4BG4pP"
-      ],
-      "albumId": "13eCZ4pfWhWlAh9De5Xxpn",
+      "album": {
+        "id": "13eCZ4pfWhWlAh9De5Xxpn",
+        "name": "Virtuoso Violin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9c5aecebf65145141345250"
+      },
       "release_date": "2003-03-03",
       "popularity": 30
     },
     {
-      "trackId": "1lCRw5FEZ1gPDNPzy1K4zW",
-      "name": "We Are The Champions - Remastered 2011",
+      "track": {
+        "id": "1lCRw5FEZ1gPDNPzy1K4zW",
+        "name": "We Are The Champions - Remastered 2011"
+      },
       "duration_ms": 179200,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "7tB40pGzj6Tg0HePj2jWZt",
+      "album": {
+        "id": "7tB40pGzj6Tg0HePj2jWZt",
+        "name": "News Of The World (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f7077ae1018b5fbab08dfa8"
+      },
       "release_date": "1977-10-28",
       "popularity": 74
     },
     {
-      "trackId": "0sEOzS1lp4sGGld1jFL5lJ",
-      "name": "L'amitié",
+      "track": {
+        "id": "0sEOzS1lp4sGGld1jFL5lJ",
+        "name": "L'amitié"
+      },
       "duration_ms": 143066,
-      "artist": [
-        "Françoise Hardy"
+      "artists": [
+        {
+          "name": "Françoise Hardy",
+          "id": "7x3f7c0fBanNlQwpx1255g"
+        }
       ],
-      "artistId": [
-        "7x3f7c0fBanNlQwpx1255g"
-      ],
-      "albumId": "2A20Ip3jvhlFCzvnA4hrlV",
+      "album": {
+        "id": "2A20Ip3jvhlFCzvnA4hrlV",
+        "name": "Françoise Hardy (L'amitié)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d0dec90dfe69c87fb113f28"
+      },
       "release_date": "1965-06-30",
       "popularity": 43
     },
     {
-      "trackId": "4FQyXa8ukqSgGsyp3JafRX",
-      "name": "Roses & Wine",
+      "track": {
+        "id": "4FQyXa8ukqSgGsyp3JafRX",
+        "name": "Roses & Wine"
+      },
       "duration_ms": 162813,
-      "artist": [
-        "ALA.NI"
+      "artists": [
+        {
+          "name": "ALA.NI",
+          "id": "3BCNtA8XR8vzu0uTMdMJrF"
+        }
       ],
-      "artistId": [
-        "3BCNtA8XR8vzu0uTMdMJrF"
-      ],
-      "albumId": "40lgy95tfZX8pXHOsQdQkZ",
+      "album": {
+        "id": "40lgy95tfZX8pXHOsQdQkZ",
+        "name": "You & I",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d626f5fb86561c95c01f2d7e"
+      },
       "release_date": "2016-06-03",
       "popularity": 28
     },
     {
-      "trackId": "7pKfPomDEeI4TPT6EOYjn9",
-      "name": "Imagine - Remastered 2010",
+      "track": {
+        "id": "7pKfPomDEeI4TPT6EOYjn9",
+        "name": "Imagine - Remastered 2010"
+      },
       "duration_ms": 187866,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "0xzaemKucrJpYhyl7TltAk",
+      "album": {
+        "id": "0xzaemKucrJpYhyl7TltAk",
+        "name": "Imagine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc"
+      },
       "release_date": "1971-09-09",
       "popularity": 76
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     }

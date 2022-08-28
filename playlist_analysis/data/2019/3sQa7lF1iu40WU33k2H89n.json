@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/93683ec6-a02d-44b4-8b88-11d73703c944.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7qVolkMRCpLPKFJh6dCyUQ",
-      "name": "Eahket - Livaid Áigi",
+      "track": {
+        "id": "7qVolkMRCpLPKFJh6dCyUQ",
+        "name": "Eahket - Livaid Áigi"
+      },
       "duration_ms": 246946,
-      "artist": [
-        "Nils-Aslak Valkeapää"
+      "artists": [
+        {
+          "name": "Nils-Aslak Valkeapää",
+          "id": "0Rsmks8T6CLmfnCp3Ry8BU"
+        }
       ],
-      "artistId": [
-        "0Rsmks8T6CLmfnCp3Ry8BU"
-      ],
-      "albumId": "5TqyUV0RVkM6f1bC4i4tZu",
+      "album": {
+        "id": "5TqyUV0RVkM6f1bC4i4tZu",
+        "name": "Vuoi, Biret: Máret, Vuoi!",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a582fc0177ff571a5fdedcd"
+      },
       "release_date": "2009-11-09",
       "popularity": 1
     },
     {
-      "trackId": "64ZxBE1ZgK4C0lGljXzDcG",
-      "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
+      "track": {
+        "id": "64ZxBE1ZgK4C0lGljXzDcG",
+        "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto"
+      },
       "duration_ms": 204146,
-      "artist": [
-        "Antonio Vivaldi",
-        "Joshua Bell",
-        "Academy of St. Martin in the Fields"
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "id": "2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Joshua Bell",
+          "id": "3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "id": "77CaCn32H4mOMQA7UElzfF"
+        }
       ],
-      "artistId": [
-        "2QOIawHpSlOwXDvSqQ9YJR",
-        "3Ka1nDpDzxDveEqUPzIeom",
-        "77CaCn32H4mOMQA7UElzfF"
-      ],
-      "albumId": "1BxxmokA4eBg1EBpfYP1fC",
+      "album": {
+        "id": "1BxxmokA4eBg1EBpfYP1fC",
+        "name": "Vivaldi: The Four Seasons",
+        "img": "https://i.scdn.co/image/ab67616d00001e02310ab274e47cbc0d152d53ad"
+      },
       "release_date": "2008",
       "popularity": 56
     },
     {
-      "trackId": "27TFfAFo4sE4fw04QDqJmD",
-      "name": "Himlen är oskyldigt blå",
+      "track": {
+        "id": "27TFfAFo4sE4fw04QDqJmD",
+        "name": "Himlen är oskyldigt blå"
+      },
       "duration_ms": 273266,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7vQoYBKkBQc3TK3gGPwehn",
+      "album": {
+        "id": "7vQoYBKkBQc3TK3gGPwehn",
+        "name": "Droppar av solregn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e931d6bb79f4959257a2daa8"
+      },
       "release_date": "2001-01-01",
       "popularity": 49
     },
     {
-      "trackId": "6VHMtNLYV8eW8C9EVxrOAy",
-      "name": "Akto Báhcán Lean (Solitude)",
+      "track": {
+        "id": "6VHMtNLYV8eW8C9EVxrOAy",
+        "name": "Akto Báhcán Lean (Solitude)"
+      },
       "duration_ms": 332840,
-      "artist": [
-        "Sancuari"
+      "artists": [
+        {
+          "name": "Sancuari",
+          "id": "35C6GAX9qoKnruJpijvQf7"
+        }
       ],
-      "artistId": [
-        "35C6GAX9qoKnruJpijvQf7"
-      ],
-      "albumId": "0lDDsGqnsskvmTgk4SjE85",
+      "album": {
+        "id": "0lDDsGqnsskvmTgk4SjE85",
+        "name": "Stállangazza",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601e9fb56882b4acac2f0bb5"
+      },
       "release_date": "1997",
       "popularity": 6
     },
     {
-      "trackId": "6bn1tuWNNSYTaJoICqb6Jt",
-      "name": "Le messie, HWV 56 : no. 42 hallelujah !",
+      "track": {
+        "id": "6bn1tuWNNSYTaJoICqb6Jt",
+        "name": "Le messie, HWV 56 : no. 42 hallelujah !"
+      },
       "duration_ms": 317626,
-      "artist": [
-        "Les Petits Chanteurs à la Croix de Bois"
+      "artists": [
+        {
+          "name": "Les Petits Chanteurs à la Croix de Bois",
+          "id": "0UXyLRUQ3iE8obGNrGvMWT"
+        }
       ],
-      "artistId": [
-        "0UXyLRUQ3iE8obGNrGvMWT"
-      ],
-      "albumId": "5EWDhFirVmVRwnJXTdFl36",
+      "album": {
+        "id": "5EWDhFirVmVRwnJXTdFl36",
+        "name": "Les Plus Beaux Chants Religieux Et Profanes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a007385edad342cb95600bc3"
+      },
       "release_date": "2020-04-05",
       "popularity": 0
     },
     {
-      "trackId": "3RzCcZ05bVMHfsebF5PHmw",
-      "name": "Nils Has a New Piano",
+      "track": {
+        "id": "3RzCcZ05bVMHfsebF5PHmw",
+        "name": "Nils Has a New Piano"
+      },
       "duration_ms": 245438,
-      "artist": [
-        "Nils Frahm"
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "id": "5gqhueRUZEa7VDnQt4HODp"
+        }
       ],
-      "artistId": [
-        "5gqhueRUZEa7VDnQt4HODp"
-      ],
-      "albumId": "1Urrycrm9pFy2F3xSoQ3fj",
+      "album": {
+        "id": "1Urrycrm9pFy2F3xSoQ3fj",
+        "name": "Old Friends New Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02924fbbf589eafb42df1fb51b"
+      },
       "release_date": "2021-12-03",
       "popularity": 52
     },
     {
-      "trackId": "6McaBiY64mLXWSgauTiWTc",
-      "name": "Vuoi Vuoi Mu - Schwarz Remix",
+      "track": {
+        "id": "6McaBiY64mLXWSgauTiWTc",
+        "name": "Vuoi Vuoi Mu - Schwarz Remix"
+      },
       "duration_ms": 412893,
-      "artist": [
-        "Mari Boine",
-        "Henrik Schwarz"
+      "artists": [
+        {
+          "name": "Mari Boine",
+          "id": "4t4unGD2iYlkONGDmBbkcE"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "id": "1ooAqaFu4Ac3BO2HpL4V2R"
+        }
       ],
-      "artistId": [
-        "4t4unGD2iYlkONGDmBbkcE",
-        "1ooAqaFu4Ac3BO2HpL4V2R"
-      ],
-      "albumId": "3xHiiWaGjOwbAuAjdJ45Eg",
+      "album": {
+        "id": "3xHiiWaGjOwbAuAjdJ45Eg",
+        "name": "It Ain't Necessarily Evil - Bodes Bat Gal Buot Biros (Mari Boine Remixed, Vol. II)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a8e0056ea5f03f451b4d585"
+      },
       "release_date": "2007-01-01",
       "popularity": 22
     },
     {
-      "trackId": "3SZmAGysox2Q9GhBNTKtYa",
-      "name": "Irene",
+      "track": {
+        "id": "3SZmAGysox2Q9GhBNTKtYa",
+        "name": "Irene"
+      },
       "duration_ms": 230066,
-      "artist": [
-        "Sofia Jannok"
+      "artists": [
+        {
+          "name": "Sofia Jannok",
+          "id": "61GJGvVkImL0wkfUQ5XuR8"
+        }
       ],
-      "artistId": [
-        "61GJGvVkImL0wkfUQ5XuR8"
-      ],
-      "albumId": "07Cs4k66UMMQ0t35UjXVu3",
+      "album": {
+        "id": "07Cs4k66UMMQ0t35UjXVu3",
+        "name": "Áššogáttis: By the Embers",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d6351ae3fee47afba349c7d"
+      },
       "release_date": "2010-09-01",
       "popularity": 27
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     },
     {
-      "trackId": "3bJpttcjvy6NHkjmHZi4yZ",
-      "name": "Gulatgo mu?",
+      "track": {
+        "id": "3bJpttcjvy6NHkjmHZi4yZ",
+        "name": "Gulatgo mu?"
+      },
       "duration_ms": 228773,
-      "artist": [
-        "rOlfFa"
+      "artists": [
+        {
+          "name": "rOlfFa",
+          "id": "4Rdh0AevBwePcuPgt8fNeM"
+        }
       ],
-      "artistId": [
-        "4Rdh0AevBwePcuPgt8fNeM"
-      ],
-      "albumId": "3shwdZY9LBfiRuAHpt3TNT",
+      "album": {
+        "id": "3shwdZY9LBfiRuAHpt3TNT",
+        "name": "Geasseijat",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8e950ed39f606ed5a5610dc"
+      },
       "release_date": "2011-06-13",
       "popularity": 26
     },
     {
-      "trackId": "6aXKbU2QGsOms8UT3eUOg1",
-      "name": "Catch the Wind",
+      "track": {
+        "id": "6aXKbU2QGsOms8UT3eUOg1",
+        "name": "Catch the Wind"
+      },
       "duration_ms": 173813,
-      "artist": [
-        "Donovan"
+      "artists": [
+        {
+          "name": "Donovan",
+          "id": "6vLlQYujOujIrm7zAKzEdG"
+        }
       ],
-      "artistId": [
-        "6vLlQYujOujIrm7zAKzEdG"
-      ],
-      "albumId": "3lpCSdIUmTWkb3BrAxDZSR",
+      "album": {
+        "id": "3lpCSdIUmTWkb3BrAxDZSR",
+        "name": "What's Bin Did and What's Bin Hid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02359e44fe4d628897a65e3250"
+      },
       "release_date": "1965-05-14",
       "popularity": 61
     },
     {
-      "trackId": "2DRMuw0U0QbkVQxWxdJV3M",
-      "name": "Water Under the Bridge",
+      "track": {
+        "id": "2DRMuw0U0QbkVQxWxdJV3M",
+        "name": "Water Under the Bridge"
+      },
       "duration_ms": 240439,
-      "artist": [
-        "Adele"
+      "artists": [
+        {
+          "name": "Adele",
+          "id": "4dpARuHxo51G3z768sgnrY"
+        }
       ],
-      "artistId": [
-        "4dpARuHxo51G3z768sgnrY"
-      ],
-      "albumId": "6TVfiWmo8KtflUAmkK9gGF",
+      "album": {
+        "id": "6TVfiWmo8KtflUAmkK9gGF",
+        "name": "25",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1ea3305aa003425dda05882"
+      },
       "release_date": "2015-11-20",
       "popularity": 69
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

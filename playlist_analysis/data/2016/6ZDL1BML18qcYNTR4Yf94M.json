@@ -7,146 +7,210 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/dd208575-94af-4e06-a55d-d25ec2ae4b90.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3FnDOCLdIhHo0LyCJ3Ct23",
-      "name": "Overture (Jesus Christ Superstar/Soundtrack) - From \"Jesus Christ Superstar\" Soundtrack",
+      "track": {
+        "id": "3FnDOCLdIhHo0LyCJ3Ct23",
+        "name": "Overture (Jesus Christ Superstar/Soundtrack) - From \"Jesus Christ Superstar\" Soundtrack"
+      },
       "duration_ms": 329826,
-      "artist": [
-        "André Previn"
+      "artists": [
+        {
+          "name": "André Previn",
+          "id": "2tfWguHr2nj4e8KXLKciVq"
+        }
       ],
-      "artistId": [
-        "2tfWguHr2nj4e8KXLKciVq"
-      ],
-      "albumId": "72B4nP6lGLaenlP8Bdrrrj",
+      "album": {
+        "id": "72B4nP6lGLaenlP8Bdrrrj",
+        "name": "Jesus Christ Superstar (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02691370196aac16e31f5416d6"
+      },
       "release_date": "1973-01-01",
       "popularity": 33
     },
     {
-      "trackId": "1tdtOEagwm8QI3vMsamLj6",
-      "name": "I'm Alive",
+      "track": {
+        "id": "1tdtOEagwm8QI3vMsamLj6",
+        "name": "I'm Alive"
+      },
       "duration_ms": 224040,
-      "artist": [
-        "Electric Light Orchestra"
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "id": "7jefIIksOi1EazgRTfW2Pk"
+        }
       ],
-      "artistId": [
-        "7jefIIksOi1EazgRTfW2Pk"
-      ],
-      "albumId": "325AF2IWtxrY0jcoW25N45",
+      "album": {
+        "id": "325AF2IWtxrY0jcoW25N45",
+        "name": "Xanadu - Original Motion Picture Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ae21bf9c1a1b685d2b994a6"
+      },
       "release_date": "1980-06-01",
       "popularity": 43
     },
     {
-      "trackId": "5h8VwRGm6Gj5R6DxP5cPBg",
-      "name": "Acropolis adieu",
+      "track": {
+        "id": "5h8VwRGm6Gj5R6DxP5cPBg",
+        "name": "Acropolis adieu"
+      },
       "duration_ms": 206973,
-      "artist": [
-        "Mireille Mathieu"
+      "artists": [
+        {
+          "name": "Mireille Mathieu",
+          "id": "6fAg4jVV9zANHej0mzaMG6"
+        }
       ],
-      "artistId": [
-        "6fAg4jVV9zANHej0mzaMG6"
-      ],
-      "albumId": "4YF7c0pMd6BSi6aIo7CE42",
+      "album": {
+        "id": "4YF7c0pMd6BSi6aIo7CE42",
+        "name": "Une vie d'amour (Best Of)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029839a01a2b0097e68787bf10"
+      },
       "release_date": "2014-10-06",
       "popularity": 37
     },
     {
-      "trackId": "7rQNFUx60fb15OpypXYOEG",
-      "name": "Där va vi förenade",
+      "track": {
+        "id": "7rQNFUx60fb15OpypXYOEG",
+        "name": "Där va vi förenade"
+      },
       "duration_ms": 234093,
-      "artist": [
-        "Andreas Grega"
+      "artists": [
+        {
+          "name": "Andreas Grega",
+          "id": "7lVzaolIf7yhA6DSnQuxaD"
+        }
       ],
-      "artistId": [
-        "7lVzaolIf7yhA6DSnQuxaD"
-      ],
-      "albumId": "2jAMEg59tVQYGRSG7QvjSj",
+      "album": {
+        "id": "2jAMEg59tVQYGRSG7QvjSj",
+        "name": "En sak i taget",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ac3dfce511c29ea4966b96a"
+      },
       "release_date": "2010-01-01",
       "popularity": 20
     },
     {
-      "trackId": "14xZtVbG1Ue1Bv8fbVVSl5",
-      "name": "För Evigt",
+      "track": {
+        "id": "14xZtVbG1Ue1Bv8fbVVSl5",
+        "name": "För Evigt"
+      },
       "duration_ms": 203937,
-      "artist": [
-        "Silvana Imam",
-        "Marlene"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Marlene",
+          "id": "0pAV5GaO9ak8wk1NnF37Cl"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g",
-        "0pAV5GaO9ak8wk1NnF37Cl"
-      ],
-      "albumId": "66gGBaMEf92Tt8mPpGxTMx",
+      "album": {
+        "id": "66gGBaMEf92Tt8mPpGxTMx",
+        "name": "För Evigt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a575154339e442675445dba7"
+      },
       "release_date": "2015-01-17",
       "popularity": 35
     },
     {
-      "trackId": "3zxgN1ON3BkHSK8OIoTxr2",
-      "name": "Wealth - 1997 Remaster",
+      "track": {
+        "id": "3zxgN1ON3BkHSK8OIoTxr2",
+        "name": "Wealth - 1997 Remaster"
+      },
       "duration_ms": 403826,
-      "artist": [
-        "Talk Talk"
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "id": "7Fo8TAyGJr4VmhE68QamMf"
+        }
       ],
-      "artistId": [
-        "7Fo8TAyGJr4VmhE68QamMf"
-      ],
-      "albumId": "4YXo7p7aubyVIbNLoVlBp9",
+      "album": {
+        "id": "4YXo7p7aubyVIbNLoVlBp9",
+        "name": "Spirit of Eden",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ffe0a3da07cf3df21fe4d79b"
+      },
       "release_date": "1988",
       "popularity": 33
     },
     {
-      "trackId": "0l0CvurVUrr2w3Jj1hOVFc",
-      "name": "NO",
+      "track": {
+        "id": "0l0CvurVUrr2w3Jj1hOVFc",
+        "name": "NO"
+      },
       "duration_ms": 213506,
-      "artist": [
-        "Meghan Trainor"
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "id": "6JL8zeS1NmiOftqZTRgdTz"
+        }
       ],
-      "artistId": [
-        "6JL8zeS1NmiOftqZTRgdTz"
-      ],
-      "albumId": "08eweM0IZoZPCCxODbrMoL",
+      "album": {
+        "id": "08eweM0IZoZPCCxODbrMoL",
+        "name": "Thank You (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0262edffdb4d8b52cf89f39db6"
+      },
       "release_date": "2017-05-12",
       "popularity": 69
     },
     {
-      "trackId": "6RJPUfQC1ZZdEodrcAy1TN",
-      "name": "Single Ladies (Put a Ring on It)",
+      "track": {
+        "id": "6RJPUfQC1ZZdEodrcAy1TN",
+        "name": "Single Ladies (Put a Ring on It)"
+      },
       "duration_ms": 177013,
-      "artist": [
-        "The Chipettes"
+      "artists": [
+        {
+          "name": "The Chipettes",
+          "id": "4Ls9gLyJVIUIC0kD37hDZA"
+        }
       ],
-      "artistId": [
-        "4Ls9gLyJVIUIC0kD37hDZA"
-      ],
-      "albumId": "1DK5zBtzEe9n791KLfpmAV",
+      "album": {
+        "id": "1DK5zBtzEe9n791KLfpmAV",
+        "name": "Alvin and the Chipmunks: The Squeakquel (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7702c7a2c9d35d7e2fbaaff"
+      },
       "release_date": "2009-11-27",
       "popularity": 30
     },
     {
-      "trackId": "0SLHoGP4ISrtaVzwOq9HnK",
-      "name": "Filmen om oss",
+      "track": {
+        "id": "0SLHoGP4ISrtaVzwOq9HnK",
+        "name": "Filmen om oss"
+      },
       "duration_ms": 247853,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "0kLd0laHXTbyPxOUi0x3OV",
+      "album": {
+        "id": "0kLd0laHXTbyPxOUi0x3OV",
+        "name": "Jag sjunger ljuset",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b728c167ac04e51c22dcb9e"
+      },
       "release_date": "2016-04-22",
       "popularity": 17
     },
     {
-      "trackId": "7r3KzVwHtr2iMZtqJvFn9A",
-      "name": "As",
+      "track": {
+        "id": "7r3KzVwHtr2iMZtqJvFn9A",
+        "name": "As"
+      },
       "duration_ms": 282040,
-      "artist": [
-        "George Michael",
-        "Mary J. Blige"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo",
-        "1XkoF8ryArs86LZvFOkbyr"
-      ],
-      "albumId": "3coLNlyStg9h7f8CZ103Rl",
+      "album": {
+        "id": "3coLNlyStg9h7f8CZ103Rl",
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264c19b24ce947ffa363f8f96"
+      },
       "release_date": "1998-11-09",
       "popularity": 60
     }

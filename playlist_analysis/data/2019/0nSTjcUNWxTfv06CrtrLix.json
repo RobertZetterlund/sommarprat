@@ -7,220 +7,318 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/b9855a93-67d4-4ebc-adf7-8248d58732fb.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2xtC6kb6H26qVX4ZdncS7f",
-      "name": "God Bless The Child",
+      "track": {
+        "id": "2xtC6kb6H26qVX4ZdncS7f",
+        "name": "God Bless The Child"
+      },
       "duration_ms": 190733,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "12Ie61TJvvha9qm27suytg",
+      "album": {
+        "id": "12Ie61TJvvha9qm27suytg",
+        "name": "The Lady Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8e03d36b6f731ad737c48cf"
+      },
       "release_date": "1956-01-01",
       "popularity": 40
     },
     {
-      "trackId": "7qsXX1PCCCsGusfjU7gTFu",
-      "name": "I See A Star",
+      "track": {
+        "id": "7qsXX1PCCCsGusfjU7gTFu",
+        "name": "I See A Star"
+      },
       "duration_ms": 176026,
-      "artist": [
-        "Mouth & MacNeal"
+      "artists": [
+        {
+          "name": "Mouth & MacNeal",
+          "id": "51RYnAHfrE4xnMomva5kFq"
+        }
       ],
-      "artistId": [
-        "51RYnAHfrE4xnMomva5kFq"
-      ],
-      "albumId": "48yOqmMIGCwGJIKSeQxeVJ",
+      "album": {
+        "id": "48yOqmMIGCwGJIKSeQxeVJ",
+        "name": "How Do You Do?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac31509694bc7d7b46daed64"
+      },
       "release_date": "2014-10-24",
       "popularity": 33
     },
     {
-      "trackId": "2zbL4HT7m2C8vvsZ850nO5",
-      "name": "Birds and Ships (feat. Natalie Merchant)",
+      "track": {
+        "id": "2zbL4HT7m2C8vvsZ850nO5",
+        "name": "Birds and Ships (feat. Natalie Merchant)"
+      },
       "duration_ms": 135706,
-      "artist": [
-        "Billy Bragg",
-        "Wilco",
-        "Natalie Merchant"
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "id": "5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Wilco",
+          "id": "2QoU3awHVdcHS8LrZEKvSM"
+        },
+        {
+          "name": "Natalie Merchant",
+          "id": "73JEBdDEFeVaOLg3y0HhBD"
+        }
       ],
-      "artistId": [
-        "5yXAFDZNUNyO92l5WTImkO",
-        "2QoU3awHVdcHS8LrZEKvSM",
-        "73JEBdDEFeVaOLg3y0HhBD"
-      ],
-      "albumId": "0yTmT1i6yHb5EVyJOmIwGw",
+      "album": {
+        "id": "0yTmT1i6yHb5EVyJOmIwGw",
+        "name": "Mermaid Avenue",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bee802eae45543f3010c2ca9"
+      },
       "release_date": "1998",
       "popularity": 36
     },
     {
-      "trackId": "30lfkjYbhJRm6WMYwPaFbI",
-      "name": "Easy - Acoustic",
+      "track": {
+        "id": "30lfkjYbhJRm6WMYwPaFbI",
+        "name": "Easy - Acoustic"
+      },
       "duration_ms": 208337,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "3Y3JrYtUIiqBBXMXmpVCs6",
+      "album": {
+        "id": "3Y3JrYtUIiqBBXMXmpVCs6",
+        "name": "Easy (Acoustic)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02852d945ec18ea71907bf9783"
+      },
       "release_date": "2016-12-30",
       "popularity": 30
     },
     {
-      "trackId": "3IBDXz8f3k78Tb46ipwQau",
-      "name": "Ooh La La",
+      "track": {
+        "id": "3IBDXz8f3k78Tb46ipwQau",
+        "name": "Ooh La La"
+      },
       "duration_ms": 353400,
-      "artist": [
-        "The Wiseguys"
+      "artists": [
+        {
+          "name": "The Wiseguys",
+          "id": "7oBJEgh7PQKJuxXb1lUEKA"
+        }
       ],
-      "artistId": [
-        "7oBJEgh7PQKJuxXb1lUEKA"
-      ],
-      "albumId": "5WXggaUoLfWMBL4QfJ6R4I",
+      "album": {
+        "id": "5WXggaUoLfWMBL4QfJ6R4I",
+        "name": "The Antidote",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b48b2b56078e8513b01764c4"
+      },
       "release_date": "1998",
       "popularity": 47
     },
     {
-      "trackId": "644es5aYPJghtZLjM1rmSP",
-      "name": "Concerning Hobbits",
+      "track": {
+        "id": "644es5aYPJghtZLjM1rmSP",
+        "name": "Concerning Hobbits"
+      },
       "duration_ms": 175040,
-      "artist": [
-        "Howard Shore"
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "id": "0OcclcP5o8VKH2TRqSY2A7"
+        }
       ],
-      "artistId": [
-        "0OcclcP5o8VKH2TRqSY2A7"
-      ],
-      "albumId": "04rz93AqGy9JduzV3K81Dh",
+      "album": {
+        "id": "04rz93AqGy9JduzV3K81Dh",
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02128ca6b63d83d47c909a43ce"
+      },
       "release_date": "2001-11-19",
       "popularity": 62
     },
     {
-      "trackId": "5ondyRZec0o7QozmadKxgq",
-      "name": "Pour que l'amour me quitte",
+      "track": {
+        "id": "5ondyRZec0o7QozmadKxgq",
+        "name": "Pour que l'amour me quitte"
+      },
       "duration_ms": 166720,
-      "artist": [
-        "Camille"
+      "artists": [
+        {
+          "name": "Camille",
+          "id": "0gOsZcHl7H3ewXVIEnWFZX"
+        }
       ],
-      "artistId": [
-        "0gOsZcHl7H3ewXVIEnWFZX"
-      ],
-      "albumId": "2Ee68ldGNltX6l3KpTgvIZ",
+      "album": {
+        "id": "2Ee68ldGNltX6l3KpTgvIZ",
+        "name": "Le fil",
+        "img": "https://i.scdn.co/image/ab67616d00001e0201a8682746dc47bdc738a0a8"
+      },
       "release_date": "2005-02-14",
       "popularity": 28
     },
     {
-      "trackId": "73yIws4bfOjywozSf3w2ds",
-      "name": "Water Drums",
+      "track": {
+        "id": "73yIws4bfOjywozSf3w2ds",
+        "name": "Water Drums"
+      },
       "duration_ms": 546066,
-      "artist": [
-        "Union Jack"
+      "artists": [
+        {
+          "name": "Union Jack",
+          "id": "2MiaJc5Vbck2Bkkm19eUx0"
+        }
       ],
-      "artistId": [
-        "2MiaJc5Vbck2Bkkm19eUx0"
-      ],
-      "albumId": "4OgxrFxrO8DWMA4W7jDwnU",
+      "album": {
+        "id": "4OgxrFxrO8DWMA4W7jDwnU",
+        "name": "There Will Be No Armageddon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da7eb71cb8fd29bee34945b8"
+      },
       "release_date": "1995",
       "popularity": 31
     },
     {
-      "trackId": "283rbDvcggqNx2alQipKxe",
-      "name": "Come Un'Onda",
+      "track": {
+        "id": "283rbDvcggqNx2alQipKxe",
+        "name": "Come Un'Onda"
+      },
       "duration_ms": 283200,
-      "artist": [
-        "Marina Rei"
+      "artists": [
+        {
+          "name": "Marina Rei",
+          "id": "0TUkDO5OBbWdmEqS2hWu8S"
+        }
       ],
-      "artistId": [
-        "0TUkDO5OBbWdmEqS2hWu8S"
-      ],
-      "albumId": "0lDQ0w4seDUJQ4B2Dc7rfK",
+      "album": {
+        "id": "0lDQ0w4seDUJQ4B2Dc7rfK",
+        "name": "Animebelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216d10723ef991eff316975be"
+      },
       "release_date": "1998-01-01",
       "popularity": 1
     },
     {
-      "trackId": "23XJhVjS63zwdr6du8XnTi",
-      "name": "Water Drums 1",
+      "track": {
+        "id": "23XJhVjS63zwdr6du8XnTi",
+        "name": "Water Drums 1"
+      },
       "duration_ms": 114933,
-      "artist": [
-        "Baka Beyond / Baka Forest People"
+      "artists": [
+        {
+          "name": "Baka Beyond / Baka Forest People",
+          "id": "5mFhryxokNl1sZdPyTZprN"
+        }
       ],
-      "artistId": [
-        "5mFhryxokNl1sZdPyTZprN"
-      ],
-      "albumId": "16xh2X2NRC3IV42jes2I4D",
+      "album": {
+        "id": "16xh2X2NRC3IV42jes2I4D",
+        "name": "Heart Of The Forest",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f821c3b7b27320f60e7ff54c"
+      },
       "release_date": "1993",
       "popularity": 10
     },
     {
-      "trackId": "6wCXnKJBcInWW9p4p1oHxw",
-      "name": "Boeves Psalm",
+      "track": {
+        "id": "6wCXnKJBcInWW9p4p1oHxw",
+        "name": "Boeves Psalm"
+      },
       "duration_ms": 150733,
-      "artist": [
-        "Lars Hollmer"
+      "artists": [
+        {
+          "name": "Lars Hollmer",
+          "id": "5NDGsql3uVOyEdQoelgBGM"
+        }
       ],
-      "artistId": [
-        "5NDGsql3uVOyEdQoelgBGM"
-      ],
-      "albumId": "4p5qxuDaY0Jsa69MboxWBL",
+      "album": {
+        "id": "4p5qxuDaY0Jsa69MboxWBL",
+        "name": "XII Sibiriska Cyklar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216c29c612eeb495a74e4b7d6"
+      },
       "release_date": "1981-03-20",
       "popularity": 35
     },
     {
-      "trackId": "6HbcmHs5jy5fgnUOmtoQZt",
-      "name": "Ingen soldat",
+      "track": {
+        "id": "6HbcmHs5jy5fgnUOmtoQZt",
+        "name": "Ingen soldat"
+      },
       "duration_ms": 299040,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "54zOez6AcH47XM4BhGHFkr",
+      "album": {
+        "id": "54zOez6AcH47XM4BhGHFkr",
+        "name": "Utanför album 1 (SinglarDemosOutgivet)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e309c33f859d15d3e4f55f4f"
+      },
       "release_date": "2012-01-01",
       "popularity": 47
     },
     {
-      "trackId": "0BfgAJp38kMHN5vpZ85h4O",
-      "name": "On and on",
+      "track": {
+        "id": "0BfgAJp38kMHN5vpZ85h4O",
+        "name": "On and on"
+      },
       "duration_ms": 282146,
-      "artist": [
-        "Stina Wollter"
+      "artists": [
+        {
+          "name": "Stina Wollter",
+          "id": "1Ny7UZ1mO95uKYhSPL6tV4"
+        }
       ],
-      "artistId": [
-        "1Ny7UZ1mO95uKYhSPL6tV4"
-      ],
-      "albumId": "03bf7mnp6PZWD64v2JYfCD",
+      "album": {
+        "id": "03bf7mnp6PZWD64v2JYfCD",
+        "name": "Garden songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248c565de13fab0cb64dbec9f"
+      },
       "release_date": "2018-04-06",
       "popularity": 19
     },
     {
-      "trackId": "2QsquiKBcjvDUlO6QyvMEs",
-      "name": "Nina Cried Power",
+      "track": {
+        "id": "2QsquiKBcjvDUlO6QyvMEs",
+        "name": "Nina Cried Power"
+      },
       "duration_ms": 225306,
-      "artist": [
-        "Hozier",
-        "Mavis Staples"
+      "artists": [
+        {
+          "name": "Hozier",
+          "id": "2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Mavis Staples",
+          "id": "0cTSCsVx04SSht9V6cpKN0"
+        }
       ],
-      "artistId": [
-        "2FXC3k01G6Gw61bmprjgqS",
-        "0cTSCsVx04SSht9V6cpKN0"
-      ],
-      "albumId": "5j1ZsFyNCsnt62prbs85eE",
+      "album": {
+        "id": "5j1ZsFyNCsnt62prbs85eE",
+        "name": "Wasteland, Baby!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02299e8e9983e2b0455e5e8505"
+      },
       "release_date": "2019-03-01",
       "popularity": 51
     },
     {
-      "trackId": "6v7Bsrjgt1erkHOupuYx03",
-      "name": "Ouverture",
+      "track": {
+        "id": "6v7Bsrjgt1erkHOupuYx03",
+        "name": "Ouverture"
+      },
       "duration_ms": 281391,
-      "artist": [
-        "Leonard Bernstein",
-        "Johnny Green & His Orchestra"
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "id": "2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "id": "2Edo6eXjeCmuIFAfksW3Z6"
+        }
       ],
-      "artistId": [
-        "2LmyJyCF5V1eQyvHgJNbTn",
-        "2Edo6eXjeCmuIFAfksW3Z6"
-      ],
-      "albumId": "4FY2VrYtSVukvY4bE3lLXB",
+      "album": {
+        "id": "4FY2VrYtSVukvY4bE3lLXB",
+        "name": "West Side Story (The Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02912d9c0b899a878ca6062cd1"
+      },
       "release_date": "1960",
       "popularity": 0
     }

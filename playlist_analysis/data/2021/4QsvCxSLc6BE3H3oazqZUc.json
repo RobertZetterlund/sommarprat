@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/97752a2a-f040-4f52-a339-501b3f1406b9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0LpF3BJplNYWei6BmgZJwq",
-      "name": "Tom's Diner",
+      "track": {
+        "id": "0LpF3BJplNYWei6BmgZJwq",
+        "name": "Tom's Diner"
+      },
       "duration_ms": 133400,
-      "artist": [
-        "Suzanne Vega"
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "id": "3X0tJzVYoWlfjLYI0Ridsw"
+        }
       ],
-      "artistId": [
-        "3X0tJzVYoWlfjLYI0Ridsw"
-      ],
-      "albumId": "3iaUAs1zHrPBaYIpLmskEV",
+      "album": {
+        "id": "3iaUAs1zHrPBaYIpLmskEV",
+        "name": "Tom's Diner",
+        "img": "https://i.scdn.co/image/ab67616d00001e023069ced96d8f44abed93fb59"
+      },
       "release_date": "1987-01-01",
       "popularity": 56
     },
     {
-      "trackId": "4MCI71gpCGwHsK2rv7c8pv",
-      "name": "Universal Soldier",
+      "track": {
+        "id": "4MCI71gpCGwHsK2rv7c8pv",
+        "name": "Universal Soldier"
+      },
       "duration_ms": 140000,
-      "artist": [
-        "Buffy Sainte-Marie"
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "id": "5exO2eW84QucBhrRhcK76x"
+        }
       ],
-      "artistId": [
-        "5exO2eW84QucBhrRhcK76x"
-      ],
-      "albumId": "3xqpKfDsGJYbCdMndvxZmd",
+      "album": {
+        "id": "3xqpKfDsGJYbCdMndvxZmd",
+        "name": "It's My Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf7d38ca838c54f4a55e2319"
+      },
       "release_date": "1964",
       "popularity": 43
     },
     {
-      "trackId": "0lw0Ejfrzo3FzzELETgD9x",
-      "name": "Ná darvanii jáhkku",
+      "track": {
+        "id": "0lw0Ejfrzo3FzzELETgD9x",
+        "name": "Ná darvanii jáhkku"
+      },
       "duration_ms": 200653,
-      "artist": [
-        "Mari Boine"
+      "artists": [
+        {
+          "name": "Mari Boine",
+          "id": "4t4unGD2iYlkONGDmBbkcE"
+        }
       ],
-      "artistId": [
-        "4t4unGD2iYlkONGDmBbkcE"
-      ],
-      "albumId": "6dt4snNzEcPSizx38IuD1n",
+      "album": {
+        "id": "6dt4snNzEcPSizx38IuD1n",
+        "name": "Jaskatvuođa maŋŋá - Etter stillheten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a70b17ba805bc328d979a0dd"
+      },
       "release_date": "1986-09-01",
       "popularity": 7
     },
     {
-      "trackId": "751npbPSbyKyIqzGGCF8KC",
-      "name": "De fördömdas ö",
+      "track": {
+        "id": "751npbPSbyKyIqzGGCF8KC",
+        "name": "De fördömdas ö"
+      },
       "duration_ms": 317614,
-      "artist": [
-        "Ellen Sundberg"
+      "artists": [
+        {
+          "name": "Ellen Sundberg",
+          "id": "0q4Ew41VWdsP9ZYEbM8JAp"
+        }
       ],
-      "artistId": [
-        "0q4Ew41VWdsP9ZYEbM8JAp"
-      ],
-      "albumId": "5tpNygfXAZr4pr83W3M9yb",
+      "album": {
+        "id": "5tpNygfXAZr4pr83W3M9yb",
+        "name": "Du sålde min biljett - Ellen Sundberg sjunger Kjell Höglund",
+        "img": "https://i.scdn.co/image/ab67616d00001e022601fa8921bc5e97c879481c"
+      },
       "release_date": "2018-02-16",
       "popularity": 37
     },
     {
-      "trackId": "6g0Orsxv6glTJCt4cHsRsQ",
-      "name": "Formation",
+      "track": {
+        "id": "6g0Orsxv6glTJCt4cHsRsQ",
+        "name": "Formation"
+      },
       "duration_ms": 206080,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "7dK54iZuOxXFarGhXwEXfF",
+      "album": {
+        "id": "7dK54iZuOxXFarGhXwEXfF",
+        "name": "Lemonade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289992f4d7d4ab94937bf9e23"
+      },
       "release_date": "2016-04-23",
       "popularity": 72
     },
     {
-      "trackId": "1xaRuLkOMbu5LZR6TAZWHr",
-      "name": "Noise Cancellation",
+      "track": {
+        "id": "1xaRuLkOMbu5LZR6TAZWHr",
+        "name": "Noise Cancellation"
+      },
       "duration_ms": 197078,
-      "artist": [
-        "Molly Sandén"
+      "artists": [
+        {
+          "name": "Molly Sandén",
+          "id": "0NRMzT05nsc8mTm4iUvuHY"
+        }
       ],
-      "artistId": [
-        "0NRMzT05nsc8mTm4iUvuHY"
-      ],
-      "albumId": "48vIZKupNW6lDWwjCyCgeA",
+      "album": {
+        "id": "48vIZKupNW6lDWwjCyCgeA",
+        "name": "DOM SKA VETA",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f406d7a7fb82c7db87027ee"
+      },
       "release_date": "2021-05-07",
       "popularity": 45
     },
     {
-      "trackId": "5QEFFJ5tAeRlVquCUNpAJY",
-      "name": "Vreden",
+      "track": {
+        "id": "5QEFFJ5tAeRlVquCUNpAJY",
+        "name": "Vreden"
+      },
       "duration_ms": 201227,
-      "artist": [
-        "Sara Parkman"
+      "artists": [
+        {
+          "name": "Sara Parkman",
+          "id": "3QKspYZWuPR8sJ6WW1zAdw"
+        }
       ],
-      "artistId": [
-        "3QKspYZWuPR8sJ6WW1zAdw"
-      ],
-      "albumId": "7MrmWL1kgifFLnUd0PiQ8S",
+      "album": {
+        "id": "7MrmWL1kgifFLnUd0PiQ8S",
+        "name": "Vesper",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277fc9a75ed023232b7fbc2ba"
+      },
       "release_date": "2019-11-01",
       "popularity": 36
     },
     {
-      "trackId": "1bP9FHjUQQOy5gUGUjZvfN",
-      "name": "Jåhkåmåhkke",
+      "track": {
+        "id": "1bP9FHjUQQOy5gUGUjZvfN",
+        "name": "Jåhkåmåhkke"
+      },
       "duration_ms": 190933,
-      "artist": [
-        "Maxida Märak"
+      "artists": [
+        {
+          "name": "Maxida Märak",
+          "id": "3FfnFeTonanbog4rEvYXns"
+        }
       ],
-      "artistId": [
-        "3FfnFeTonanbog4rEvYXns"
-      ],
-      "albumId": "4juUXrdivvymjaeO5ONtK2",
+      "album": {
+        "id": "4juUXrdivvymjaeO5ONtK2",
+        "name": "Jåhkåmåhkke",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ffc509579aa2296a4b5fb68"
+      },
       "release_date": "2021-02-02",
       "popularity": 34
     },
     {
-      "trackId": "26mg5XX5LBvXLRDtF3gvMB",
-      "name": "Allting flyter",
+      "track": {
+        "id": "26mg5XX5LBvXLRDtF3gvMB",
+        "name": "Allting flyter"
+      },
       "duration_ms": 267840,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "3bSgmderTD253oYZN3HdTr",
+      "album": {
+        "id": "3bSgmderTD253oYZN3HdTr",
+        "name": "Däggdjur",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdfdedafed7e18fc2cb536e5"
+      },
       "release_date": "2017-02-03",
       "popularity": 31
     },
     {
-      "trackId": "1AKfRtyLn3g1sjxtEmKpfe",
-      "name": "Vuortjis",
+      "track": {
+        "id": "1AKfRtyLn3g1sjxtEmKpfe",
+        "name": "Vuortjis"
+      },
       "duration_ms": 205361,
-      "artist": [
-        "Jörgen Stenberg"
+      "artists": [
+        {
+          "name": "Jörgen Stenberg",
+          "id": "4uh3Csfcxa0e1IpSx0yVqg"
+        }
       ],
-      "artistId": [
-        "4uh3Csfcxa0e1IpSx0yVqg"
-      ],
-      "albumId": "4hujzoEoftj46rXQVMQKlZ",
+      "album": {
+        "id": "4hujzoEoftj46rXQVMQKlZ",
+        "name": "Jörgen Stenberg",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245f00984dc79dc6e86cf09c9"
+      },
       "release_date": "2013-08-16",
       "popularity": 2
     },
     {
-      "trackId": "4YV9RA1IMv06pR4NbFP7Cr",
-      "name": "Boom",
+      "track": {
+        "id": "4YV9RA1IMv06pR4NbFP7Cr",
+        "name": "Boom"
+      },
       "duration_ms": 247335,
-      "artist": [
-        "Sofia Jannok"
+      "artists": [
+        {
+          "name": "Sofia Jannok",
+          "id": "61GJGvVkImL0wkfUQ5XuR8"
+        }
       ],
-      "artistId": [
-        "61GJGvVkImL0wkfUQ5XuR8"
-      ],
-      "albumId": "0zvzj5Tvfylx80DYkC2auF",
+      "album": {
+        "id": "0zvzj5Tvfylx80DYkC2auF",
+        "name": "LÁVV U",
+        "img": "https://i.scdn.co/image/ab67616d00001e02790483ef8f93b4189311611f"
+      },
       "release_date": "2021-03-19",
       "popularity": 22
     },
     {
-      "trackId": "7wAdTNysFCJrb8jpoGtRlt",
-      "name": "Jag Räcker",
+      "track": {
+        "id": "7wAdTNysFCJrb8jpoGtRlt",
+        "name": "Jag Räcker"
+      },
       "duration_ms": 242346,
-      "artist": [
-        "Erik Lundin"
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "id": "0dCSPVQ30JS4cRaCTtbEmp"
+        }
       ],
-      "artistId": [
-        "0dCSPVQ30JS4cRaCTtbEmp"
-      ],
-      "albumId": "60yJfXrhCuEsAqX7DCCr2S",
+      "album": {
+        "id": "60yJfXrhCuEsAqX7DCCr2S",
+        "name": "Zebrapojken",
+        "img": "https://i.scdn.co/image/ab67616d00001e02222219423342e03d85cecfd2"
+      },
       "release_date": "2019-03-15",
       "popularity": 26
     },
     {
-      "trackId": "1u6SF9v8sspJjDF7ZEdiih",
-      "name": "Brevväxlingar",
+      "track": {
+        "id": "1u6SF9v8sspJjDF7ZEdiih",
+        "name": "Brevväxlingar"
+      },
       "duration_ms": 188506,
-      "artist": [
-        "Iiris Viljanen",
-        "Patrik Berger",
-        "Nils Törnqvist"
+      "artists": [
+        {
+          "name": "Iiris Viljanen",
+          "id": "1IYVBUvVz1UbdQboARe43I"
+        },
+        {
+          "name": "Patrik Berger",
+          "id": "26l5n4WXxvIBIt4ETdp5wE"
+        },
+        {
+          "name": "Nils Törnqvist",
+          "id": "6xqbscTAdtdFWVutEVfaTv"
+        }
       ],
-      "artistId": [
-        "1IYVBUvVz1UbdQboARe43I",
-        "26l5n4WXxvIBIt4ETdp5wE",
-        "6xqbscTAdtdFWVutEVfaTv"
-      ],
-      "albumId": "2eTwMnr1j9piVhavIsToDq",
+      "album": {
+        "id": "2eTwMnr1j9piVhavIsToDq",
+        "name": "En finsk jul",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d3d824d2e956cce9f1eb060"
+      },
       "release_date": "2020-11-20",
       "popularity": 21
     },
     {
-      "trackId": "4POf00uVmzszcH0QF4zPm8",
-      "name": "Behöver inte dig mer",
+      "track": {
+        "id": "4POf00uVmzszcH0QF4zPm8",
+        "name": "Behöver inte dig mer"
+      },
       "duration_ms": 183478,
-      "artist": [
-        "Patrik Isaksson",
-        "Ellen Bergström"
+      "artists": [
+        {
+          "name": "Patrik Isaksson",
+          "id": "79XSzUC0yAPPoxiuss55qC"
+        },
+        {
+          "name": "Ellen Bergström",
+          "id": "599Tb2eQCx5tniSMn2w2Ll"
+        }
       ],
-      "artistId": [
-        "79XSzUC0yAPPoxiuss55qC",
-        "599Tb2eQCx5tniSMn2w2Ll"
-      ],
-      "albumId": "6lEWxntEx3FUvLPh48ljZK",
+      "album": {
+        "id": "6lEWxntEx3FUvLPh48ljZK",
+        "name": "Behöver inte dig mer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02116b5af02fa36883f81d565d"
+      },
       "release_date": "2019-05-03",
       "popularity": 30
     }

@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234059_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4XcvJNAhPWmlvbd1Hd2B6h",
-      "name": "Hård stad",
+      "track": {
+        "id": "4XcvJNAhPWmlvbd1Hd2B6h",
+        "name": "Hård stad"
+      },
       "duration_ms": 201226,
-      "artist": [
-        "Anne-Lie Rydé"
+      "artists": [
+        {
+          "name": "Anne-Lie Rydé",
+          "id": "3EZPbpmB5cPVWmxUMpwpQw"
+        }
       ],
-      "artistId": [
-        "3EZPbpmB5cPVWmxUMpwpQw"
-      ],
-      "albumId": "1apXKuM6FY8GGolEYMIYqa",
+      "album": {
+        "id": "1apXKuM6FY8GGolEYMIYqa",
+        "name": "Stulna Kyssar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026215b62229d07244f6ac93d0"
+      },
       "release_date": "1992-01-01",
       "popularity": 5
     },
     {
-      "trackId": "24Mi1vVBzYLMZ26gwhnOIE",
-      "name": "Topsy",
+      "track": {
+        "id": "24Mi1vVBzYLMZ26gwhnOIE",
+        "name": "Topsy"
+      },
       "duration_ms": 194492,
-      "artist": [
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "22oDCpyHsYIYxMGcmieLDY",
+      "album": {
+        "id": "22oDCpyHsYIYxMGcmieLDY",
+        "name": "The Complete Decca Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a7864231a834edbd0f36394"
+      },
       "release_date": "1992-01-01",
       "popularity": 35
     },
     {
-      "trackId": "3xPKmj8TYOD5SRXUV2rvDT",
-      "name": "En valsmelodi",
+      "track": {
+        "id": "3xPKmj8TYOD5SRXUV2rvDT",
+        "name": "En valsmelodi"
+      },
       "duration_ms": 417346,
-      "artist": [
-        "Claes Janson"
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "id": "0E2Jf1UHMqdQDdH12mc712"
+        }
       ],
-      "artistId": [
-        "0E2Jf1UHMqdQDdH12mc712"
-      ],
-      "albumId": "6MRzRmxou3bnQk25pbsiee",
+      "album": {
+        "id": "6MRzRmxou3bnQk25pbsiee",
+        "name": "Blågel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e122a5084682df892b79db78"
+      },
       "release_date": "2002-01-01",
       "popularity": 3
     },
     {
-      "trackId": "3SdTKo2uVsxFblQjpScoHy",
-      "name": "Stand by Me",
+      "track": {
+        "id": "3SdTKo2uVsxFblQjpScoHy",
+        "name": "Stand by Me"
+      },
       "duration_ms": 180055,
-      "artist": [
-        "Ben E. King"
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "id": "3plJVWt88EqjvtuB4ZDRV3"
+        }
       ],
-      "artistId": [
-        "3plJVWt88EqjvtuB4ZDRV3"
-      ],
-      "albumId": "18Fj7coTfyMi7mEPXIweN7",
+      "album": {
+        "id": "18Fj7coTfyMi7mEPXIweN7",
+        "name": "Don't Play That Song (Mono)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021813ea8f590a0aab2820f922"
+      },
       "release_date": "1962-08-20",
       "popularity": 79
     },
     {
-      "trackId": "002DkDzzQ7lrgaqWBF2o1M",
-      "name": "Snabbköpskassörskan",
+      "track": {
+        "id": "002DkDzzQ7lrgaqWBF2o1M",
+        "name": "Snabbköpskassörskan"
+      },
       "duration_ms": 205280,
-      "artist": [
-        "Di sma undar jordi"
+      "artists": [
+        {
+          "name": "Di sma undar jordi",
+          "id": "4nMn2UgtOPeVl1xyTh0Xir"
+        }
       ],
-      "artistId": [
-        "4nMn2UgtOPeVl1xyTh0Xir"
-      ],
-      "albumId": "1v82audGlaOn9NmevB6fhx",
+      "album": {
+        "id": "1v82audGlaOn9NmevB6fhx",
+        "name": "Rauk'n'roll å lite lettje",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7f8d5f0615d7c4c0b1dd78a"
+      },
       "release_date": "1985-01-01",
       "popularity": 43
     },
     {
-      "trackId": "6RwrIdFFWPBRVGBibhiEPW",
-      "name": "Beautiful",
+      "track": {
+        "id": "6RwrIdFFWPBRVGBibhiEPW",
+        "name": "Beautiful"
+      },
       "duration_ms": 249065,
-      "artist": [
-        "maurici"
+      "artists": [
+        {
+          "name": "maurici",
+          "id": "4pE1ynwzAvIS9v3Ol3GJhV"
+        }
       ],
-      "artistId": [
-        "4pE1ynwzAvIS9v3Ol3GJhV"
-      ],
-      "albumId": "19Aqevc7hIC7IWzwiifdJt",
+      "album": {
+        "id": "19Aqevc7hIC7IWzwiifdJt",
+        "name": "Beautiful",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7088f2009391b83a8987fd3"
+      },
       "release_date": "2022-06-23",
       "popularity": 30
     },
     {
-      "trackId": "1MXnMdktScmuPOWhXe9kHw",
-      "name": "Dark Lady",
+      "track": {
+        "id": "1MXnMdktScmuPOWhXe9kHw",
+        "name": "Dark Lady"
+      },
       "duration_ms": 207133,
-      "artist": [
-        "Cher"
+      "artists": [
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "7BwcYFAOuR2sreSCOkeReI",
+      "album": {
+        "id": "7BwcYFAOuR2sreSCOkeReI",
+        "name": "Cher's Greatest Hits: 1965-1992",
+        "img": "https://i.scdn.co/image/ab67616d00001e026554d777d86732f33913bca5"
+      },
       "release_date": "1992-11-09",
       "popularity": 36
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "4ZCLM74MYhUy80TPiaAuee",
-      "name": "When the Children Cry",
+      "track": {
+        "id": "4ZCLM74MYhUy80TPiaAuee",
+        "name": "When the Children Cry"
+      },
       "duration_ms": 258600,
-      "artist": [
-        "White Lion"
+      "artists": [
+        {
+          "name": "White Lion",
+          "id": "3nLYJvqbEzs5kg2TlprxIG"
+        }
       ],
-      "artistId": [
-        "3nLYJvqbEzs5kg2TlprxIG"
-      ],
-      "albumId": "571UdIx8tcDmBPgLSW8KG2",
+      "album": {
+        "id": "571UdIx8tcDmBPgLSW8KG2",
+        "name": "Pride",
+        "img": "https://i.scdn.co/image/ab67616d00001e02512d0dd80663f528b6cb43ed"
+      },
       "release_date": "1987",
       "popularity": 60
     },
     {
-      "trackId": "2CeqxyOZEyiL6pTDYZ9gPH",
-      "name": "Fever",
+      "track": {
+        "id": "2CeqxyOZEyiL6pTDYZ9gPH",
+        "name": "Fever"
+      },
       "duration_ms": 201333,
-      "artist": [
-        "Peggy Lee"
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "id": "602DnpaSXJB4b9DZrvxbDc"
+        }
       ],
-      "artistId": [
-        "602DnpaSXJB4b9DZrvxbDc"
-      ],
-      "albumId": "16BF4fvjjxlzrdKrUl4k5F",
+      "album": {
+        "id": "16BF4fvjjxlzrdKrUl4k5F",
+        "name": "The Capitol Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7087466d74c3470d191cf37"
+      },
       "release_date": "1988-01-01",
       "popularity": 57
     },
     {
-      "trackId": "2vokBkDrygTzBvIb5uJQkf",
-      "name": "Ebudae - 2009 Remaster",
+      "track": {
+        "id": "2vokBkDrygTzBvIb5uJQkf",
+        "name": "Ebudae - 2009 Remaster"
+      },
       "duration_ms": 115760,
-      "artist": [
-        "Enya"
+      "artists": [
+        {
+          "name": "Enya",
+          "id": "6uothxMWeLWIhsGeF7cyo4"
+        }
       ],
-      "artistId": [
-        "6uothxMWeLWIhsGeF7cyo4"
-      ],
-      "albumId": "6ZuPbMe6CvQKl1nvAy0nZm",
+      "album": {
+        "id": "6ZuPbMe6CvQKl1nvAy0nZm",
+        "name": "Shepherd Moons",
+        "img": "https://i.scdn.co/image/ab67616d00001e023184c671068d02838d47b277"
+      },
       "release_date": "1991-11-15",
       "popularity": 44
     },
     {
-      "trackId": "7brc41T70B1IIwg2jCIX1Z",
-      "name": "Autumn Leaves",
+      "track": {
+        "id": "7brc41T70B1IIwg2jCIX1Z",
+        "name": "Autumn Leaves"
+      },
       "duration_ms": 289560,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "1w72yNvC0RLKYHkm41TXqy",
+      "album": {
+        "id": "1w72yNvC0RLKYHkm41TXqy",
+        "name": "Live At Blues Alley",
+        "img": "https://i.scdn.co/image/ab67616d00001e023743a8f779f6f5b4f421cb01"
+      },
       "release_date": "1997",
       "popularity": 48
     }

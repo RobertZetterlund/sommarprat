@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242526_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5PP9JkZoAw2MS1RRPLQJk7",
-      "name": "I Want You",
+      "track": {
+        "id": "5PP9JkZoAw2MS1RRPLQJk7",
+        "name": "I Want You"
+      },
       "duration_ms": 167146,
-      "artist": [
-        "Claus Hempler",
-        "Liv Lykke"
+      "artists": [
+        {
+          "name": "Claus Hempler",
+          "id": "79tOI0xq2p477VYBgHagHg"
+        },
+        {
+          "name": "Liv Lykke",
+          "id": "2M2hPW7fy3KDyT3FGyPyfE"
+        }
       ],
-      "artistId": [
-        "79tOI0xq2p477VYBgHagHg",
-        "2M2hPW7fy3KDyT3FGyPyfE"
-      ],
-      "albumId": "6dBMEoxTYdt7wdotDYbADO",
+      "album": {
+        "id": "6dBMEoxTYdt7wdotDYbADO",
+        "name": "Teaterkoncert - Bob Dylan (af Cederholm & Brdr. Hellemann)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02117968bf13544cf114ed736a"
+      },
       "release_date": "2010-08-02",
       "popularity": 2
     },
     {
-      "trackId": "5rYFLJs90KQuXU2ef7qdeq",
-      "name": "Pikku valssi",
+      "track": {
+        "id": "5rYFLJs90KQuXU2ef7qdeq",
+        "name": "Pikku valssi"
+      },
       "duration_ms": 195066,
-      "artist": [
-        "JP Nyströms"
+      "artists": [
+        {
+          "name": "JP Nyströms",
+          "id": "2EbUtZs7ksL5In9qEjMQKu"
+        }
       ],
-      "artistId": [
-        "2EbUtZs7ksL5In9qEjMQKu"
-      ],
-      "albumId": "6mt8fB6lU5dgilxR7N3TxJ",
+      "album": {
+        "id": "6mt8fB6lU5dgilxR7N3TxJ",
+        "name": "Klingelikling",
+        "img": "https://i.scdn.co/image/ab67616d00001e022880b0a237600c61aa6288e5"
+      },
       "release_date": "2003",
       "popularity": 5
     },
     {
-      "trackId": "0j5FJJOmmnXPd0XajFWkMF",
-      "name": "Unfinished Sympathy - 2012 Mix/Master",
+      "track": {
+        "id": "0j5FJJOmmnXPd0XajFWkMF",
+        "name": "Unfinished Sympathy - 2012 Mix/Master"
+      },
       "duration_ms": 308426,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "5mAPk4qeNqVLtNydaWbWlf",
+      "album": {
+        "id": "5mAPk4qeNqVLtNydaWbWlf",
+        "name": "Blue Lines (2012 Mix/Master)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af5beb00d940f5ede452d6b5"
+      },
       "release_date": "1991-06-10",
       "popularity": 64
     },
     {
-      "trackId": "6vZZtivPrtpggT5SSXsYTy",
-      "name": "Solsbury Hill",
+      "track": {
+        "id": "6vZZtivPrtpggT5SSXsYTy",
+        "name": "Solsbury Hill"
+      },
       "duration_ms": 261560,
-      "artist": [
-        "Peter Gabriel"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I"
-      ],
-      "albumId": "0kDFjyfGFtiIMXlxJ120Ok",
+      "album": {
+        "id": "0kDFjyfGFtiIMXlxJ120Ok",
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b141e77892ab2ccb60cf3cf"
+      },
       "release_date": "1977",
       "popularity": 69
     },
     {
-      "trackId": "3TPJuhT3GZnSZJFC8NKK0G",
-      "name": "Silver Bird",
+      "track": {
+        "id": "3TPJuhT3GZnSZJFC8NKK0G",
+        "name": "Silver Bird"
+      },
       "duration_ms": 196106,
-      "artist": [
-        "Vikingarna"
+      "artists": [
+        {
+          "name": "Vikingarna",
+          "id": "0kWWPlF3hudGPbahg5Xt9n"
+        }
       ],
-      "artistId": [
-        "0kWWPlF3hudGPbahg5Xt9n"
-      ],
-      "albumId": "3D4Drjkm8SBMhpnhV2C4kt",
+      "album": {
+        "id": "3D4Drjkm8SBMhpnhV2C4kt",
+        "name": "Kramgoa låtar 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0ca56272dc7a4250b221c13"
+      },
       "release_date": "1977-01-01",
       "popularity": 20
     },
     {
-      "trackId": "5YSI1311X8t31PBjkBG4CZ",
-      "name": "Wuthering Heights",
+      "track": {
+        "id": "5YSI1311X8t31PBjkBG4CZ",
+        "name": "Wuthering Heights"
+      },
       "duration_ms": 269066,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "5NKTuBLCYhN0OwqFiGdXd1",
+      "album": {
+        "id": "5NKTuBLCYhN0OwqFiGdXd1",
+        "name": "The Kick Inside",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230da683c0c018535adbaf0e5"
+      },
       "release_date": "1978-02-17",
       "popularity": 72
     },
     {
-      "trackId": "5vd1QZ0tdXOExiegC55IAS",
-      "name": "Heart Of Gold",
+      "track": {
+        "id": "5vd1QZ0tdXOExiegC55IAS",
+        "name": "Heart Of Gold"
+      },
       "duration_ms": 188440,
-      "artist": [
-        "Neil Young"
+      "artists": [
+        {
+          "name": "Neil Young",
+          "id": "6v8FB84lnmJs434UJf2Mrm"
+        }
       ],
-      "artistId": [
-        "6v8FB84lnmJs434UJf2Mrm"
-      ],
-      "albumId": "6AnpM7DFltgJLIjlToxYJ1",
+      "album": {
+        "id": "6AnpM7DFltgJLIjlToxYJ1",
+        "name": "Eat, Pray, Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02426288df0f8a68ea555c8d97"
+      },
       "release_date": "2010-01-01",
       "popularity": 74
     },
     {
-      "trackId": "3Uk3eretfrOC54iXnyQ1c4",
-      "name": "BIG",
+      "track": {
+        "id": "3Uk3eretfrOC54iXnyQ1c4",
+        "name": "BIG"
+      },
       "duration_ms": 141320,
-      "artist": [
-        "Miss Universum"
+      "artists": [
+        {
+          "name": "Miss Universum",
+          "id": "09lmIjcHLjdRtidCj9gLir"
+        }
       ],
-      "artistId": [
-        "09lmIjcHLjdRtidCj9gLir"
-      ],
-      "albumId": "0AZolQQul1DvLfZyhCyj7K",
+      "album": {
+        "id": "0AZolQQul1DvLfZyhCyj7K",
+        "name": "Selfelected",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bebf69f239878fc01ebafeac"
+      },
       "release_date": "2003-01-01",
       "popularity": 2
     },
     {
-      "trackId": "29bQPrp6BT0w3kaXTqIo8A",
-      "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
+      "track": {
+        "id": "29bQPrp6BT0w3kaXTqIo8A",
+        "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version"
+      },
       "duration_ms": 249040,
-      "artist": [
-        "Julie Andrews"
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "id": "5RdqZVi36tpDPYNPw8jJbO"
+        }
       ],
-      "artistId": [
-        "5RdqZVi36tpDPYNPw8jJbO"
-      ],
-      "albumId": "4I53uIfFAiQPKjXFNN2k4d",
+      "album": {
+        "id": "4I53uIfFAiQPKjXFNN2k4d",
+        "name": "Mary Poppins",
+        "img": "https://i.scdn.co/image/ab67616d00001e02611b2c88997324926c0d2c96"
+      },
       "release_date": "1997-01-01",
       "popularity": 56
     },
     {
-      "trackId": "0hNVjU6JKydHts0SAjHCno",
-      "name": "One Of These Things First",
+      "track": {
+        "id": "0hNVjU6JKydHts0SAjHCno",
+        "name": "One Of These Things First"
+      },
       "duration_ms": 290733,
-      "artist": [
-        "Nick Drake"
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "id": "5c3GLXai8YOMid29ZEuR9y"
+        }
       ],
-      "artistId": [
-        "5c3GLXai8YOMid29ZEuR9y"
-      ],
-      "albumId": "04FfqGvZJ9oUBGRVrq2FE5",
+      "album": {
+        "id": "04FfqGvZJ9oUBGRVrq2FE5",
+        "name": "Bryter Layter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f624fdadb511452a2093694d"
+      },
       "release_date": "1970-03-06",
       "popularity": 60
     },
     {
-      "trackId": "5gAgLlYQYVfkS6ZirofYKD",
-      "name": "Anseio (Fuga apressada) Anxiety (Rushing Fugue)",
+      "track": {
+        "id": "5gAgLlYQYVfkS6ZirofYKD",
+        "name": "Anseio (Fuga apressada) Anxiety (Rushing Fugue)"
+      },
       "duration_ms": 220066,
-      "artist": [
-        "Madredeus"
+      "artists": [
+        {
+          "name": "Madredeus",
+          "id": "3mlxV3eHtMwvoOSLzR6CFj"
+        }
       ],
-      "artistId": [
-        "3mlxV3eHtMwvoOSLzR6CFj"
-      ],
-      "albumId": "4Wa1kuGqTBsqUotSg42Mas",
+      "album": {
+        "id": "4Wa1kuGqTBsqUotSg42Mas",
+        "name": "Movimento",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4fae736445f63412b9d774e"
+      },
       "release_date": "2001-04-09",
       "popularity": 9
     },
     {
-      "trackId": "4JkSOLkMYqzBcpL9mbYFZS",
-      "name": "Ligga lågt",
+      "track": {
+        "id": "4JkSOLkMYqzBcpL9mbYFZS",
+        "name": "Ligga lågt"
+      },
       "duration_ms": 196613,
-      "artist": [
-        "Tomas Andersson Wij"
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "id": "2j8XNrT8TQH4JMeyEMJYfL"
+        }
       ],
-      "artistId": [
-        "2j8XNrT8TQH4JMeyEMJYfL"
-      ],
-      "albumId": "3Y4rgJpTx96M0D741TuZ5d",
+      "album": {
+        "id": "3Y4rgJpTx96M0D741TuZ5d",
+        "name": "Stjärnorna i oss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de8db543188cb17eeff69606"
+      },
       "release_date": "2004-01-28",
       "popularity": 7
     }

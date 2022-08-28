@@ -7,218 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531094_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0NMevTK2rJhBi4D4ugqLmW",
-      "name": "There's Good Rockin' Tonight",
+      "track": {
+        "id": "0NMevTK2rJhBi4D4ugqLmW",
+        "name": "There's Good Rockin' Tonight"
+      },
       "duration_ms": 253173,
-      "artist": [
-        "Jimmy Witherspoon"
+      "artists": [
+        {
+          "name": "Jimmy Witherspoon",
+          "id": "6vth8u6Wp7k2bbzDQMCmrb"
+        }
       ],
-      "artistId": [
-        "6vth8u6Wp7k2bbzDQMCmrb"
-      ],
-      "albumId": "36jSATuOHKvFHBpA82yZD0",
+      "album": {
+        "id": "36jSATuOHKvFHBpA82yZD0",
+        "name": "The Essential Jimmy Witherspoon Vol 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a0c15460bb59df30d50bc81"
+      },
       "release_date": "2000-01-01",
       "popularity": 1
     },
     {
-      "trackId": "2NgYu4ssrAbFB01RxT9S7F",
-      "name": "Il Giorni Dell'Arcobaleno",
+      "track": {
+        "id": "2NgYu4ssrAbFB01RxT9S7F",
+        "name": "Il Giorni Dell'Arcobaleno"
+      },
       "duration_ms": 182186,
-      "artist": [
-        "Nicola Di Bari"
+      "artists": [
+        {
+          "name": "Nicola Di Bari",
+          "id": "31Pfw9p5mZPeKqZSaiXzqk"
+        }
       ],
-      "artistId": [
-        "31Pfw9p5mZPeKqZSaiXzqk"
-      ],
-      "albumId": "5jYYJ5bmXUWcP3BLHcEGnJ",
+      "album": {
+        "id": "5jYYJ5bmXUWcP3BLHcEGnJ",
+        "name": "Todo Nicola",
+        "img": "https://i.scdn.co/image/ab67616d00001e02386debea34b8d7607b8b07fb"
+      },
       "release_date": "2004-01-01",
       "popularity": 37
     },
     {
-      "trackId": "5RkRXGGRP33dTkap9loPcT",
-      "name": "Fascination",
+      "track": {
+        "id": "5RkRXGGRP33dTkap9loPcT",
+        "name": "Fascination"
+      },
       "duration_ms": 148200,
-      "artist": [
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "75ACPS5OekCM9MFGAqRmy5",
+      "album": {
+        "id": "75ACPS5OekCM9MFGAqRmy5",
+        "name": "Simply ... King Cole! (2020 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226447a2fa6ac60b320230445"
+      },
       "release_date": "2020-04-03",
       "popularity": 44
     },
     {
-      "trackId": "4gj5Wv7rAJYhBrGPu01mxD",
-      "name": "The Ballad Of Lucy Jordan",
+      "track": {
+        "id": "4gj5Wv7rAJYhBrGPu01mxD",
+        "name": "The Ballad Of Lucy Jordan"
+      },
       "duration_ms": 249533,
-      "artist": [
-        "Marianne Faithfull"
+      "artists": [
+        {
+          "name": "Marianne Faithfull",
+          "id": "7mlge4peaoNgzTsY6M32RB"
+        }
       ],
-      "artistId": [
-        "7mlge4peaoNgzTsY6M32RB"
-      ],
-      "albumId": "3H0cWLh4X4x5TB8TTkE3LE",
+      "album": {
+        "id": "3H0cWLh4X4x5TB8TTkE3LE",
+        "name": "Broken English",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c252389bd832c823935d550"
+      },
       "release_date": "1979-11-02",
       "popularity": 53
     },
     {
-      "trackId": "53JiVzsbDi8PFENlIsgyI0",
-      "name": "Jag är främling, jag är en pilgrim",
+      "track": {
+        "id": "53JiVzsbDi8PFENlIsgyI0",
+        "name": "Jag är främling, jag är en pilgrim"
+      },
       "duration_ms": 205200,
-      "artist": [
-        "Edmund Simon Lorenz",
-        "Einar Ekberg",
-        "Philadelphia Choir"
+      "artists": [
+        {
+          "name": "Edmund Simon Lorenz",
+          "id": "6qfCSBpkFOCiseq7P6yYhs"
+        },
+        {
+          "name": "Einar Ekberg",
+          "id": "0BZKPU9xjUNwHWkMPXR1Uu"
+        },
+        {
+          "name": "Philadelphia Choir",
+          "id": "0wXpez6fE5vr86iS3Xs8OH"
+        }
       ],
-      "artistId": [
-        "6qfCSBpkFOCiseq7P6yYhs",
-        "0BZKPU9xjUNwHWkMPXR1Uu",
-        "0wXpez6fE5vr86iS3Xs8OH"
-      ],
-      "albumId": "1GpeRuOrDJufCyQAZH8Fkb",
+      "album": {
+        "id": "1GpeRuOrDJufCyQAZH8Fkb",
+        "name": "Så sjung då, mitt hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d53dffd326b1f9c7f124c16f"
+      },
       "release_date": "2011-05-01",
       "popularity": 14
     },
     {
-      "trackId": "5wcGbcOLgYB7BnpkXjBifi",
-      "name": "Omkring Tiggarn Från Luossa...",
+      "track": {
+        "id": "5wcGbcOLgYB7BnpkXjBifi",
+        "name": "Omkring Tiggarn Från Luossa..."
+      },
       "duration_ms": 251864,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 19
     },
     {
-      "trackId": "1y0QMDbqjFuZcUzEUDPQyH",
-      "name": "Come a Little Bit Closer",
+      "track": {
+        "id": "1y0QMDbqjFuZcUzEUDPQyH",
+        "name": "Come a Little Bit Closer"
+      },
       "duration_ms": 204746,
-      "artist": [
-        "Willy DeVille"
+      "artists": [
+        {
+          "name": "Willy DeVille",
+          "id": "4I7KSNpB2zt6XTyCXw7ca9"
+        }
       ],
-      "artistId": [
-        "4I7KSNpB2zt6XTyCXw7ca9"
-      ],
-      "albumId": "0YWjXo2ecxX1QjAP49zims",
+      "album": {
+        "id": "0YWjXo2ecxX1QjAP49zims",
+        "name": "Crow Jane Alley",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe68117dfee97bd14a2934b7"
+      },
       "release_date": "2004-03-25",
       "popularity": 41
     },
     {
-      "trackId": "5Xg0sSvg7QWWdwW7eCpIE3",
-      "name": "One For My Baby (And One More For The Road)",
+      "track": {
+        "id": "5Xg0sSvg7QWWdwW7eCpIE3",
+        "name": "One For My Baby (And One More For The Road)"
+      },
       "duration_ms": 340266,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "4aVrAD83svetEEqiANmvmw",
+      "album": {
+        "id": "4aVrAD83svetEEqiANmvmw",
+        "name": "Songs For Distingué Lovers",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ecb6a80fa97dbeb77b96d1b"
+      },
       "release_date": "1957-01-01",
       "popularity": 24
     },
     {
-      "trackId": "2csA2nDUNR5TfQEn1I7nt4",
-      "name": "September In The Rain",
+      "track": {
+        "id": "2csA2nDUNR5TfQEn1I7nt4",
+        "name": "September In The Rain"
+      },
       "duration_ms": 129333,
-      "artist": [
-        "Dinah Washington"
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "id": "32LHRiof0sa4taYew9i3Fa"
+        }
       ],
-      "artistId": [
-        "32LHRiof0sa4taYew9i3Fa"
-      ],
-      "albumId": "1UMCHEE4nXBN2JLOgk7rQV",
+      "album": {
+        "id": "1UMCHEE4nXBN2JLOgk7rQV",
+        "name": "September In The Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233a5cd1e1963752951c585d9"
+      },
       "release_date": "1961-01-01",
       "popularity": 56
     },
     {
-      "trackId": "3WQG1PkTkvJPEZNnQcbfa5",
-      "name": "Underbart är kort",
+      "track": {
+        "id": "3WQG1PkTkvJPEZNnQcbfa5",
+        "name": "Underbart är kort"
+      },
       "duration_ms": 258466,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+      "album": {
+        "id": "7bDYb5Q2xcNgQ2g3u4lYiR",
+        "name": "Den sista jäntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281ddc01043d8abd1e8945194"
+      },
       "release_date": "1973-09-05",
       "popularity": 26
     },
     {
-      "trackId": "3siUpVmwuvpdci6Dnlkcmm",
-      "name": "Blues för Dubrovnik",
+      "track": {
+        "id": "3siUpVmwuvpdci6Dnlkcmm",
+        "name": "Blues för Dubrovnik"
+      },
       "duration_ms": 246066,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "2t6Ezy920z47A3eqoDrRgQ",
+      "album": {
+        "id": "2t6Ezy920z47A3eqoDrRgQ",
+        "name": "Mannen Som Älskade Träd",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f8ef1b3cd63eb024a4852d6"
+      },
       "release_date": "1985-01-01",
       "popularity": 7
     },
     {
-      "trackId": "0kLwCunUfno6de4ICQaMcf",
-      "name": "Cielito Lindo",
+      "track": {
+        "id": "0kLwCunUfno6de4ICQaMcf",
+        "name": "Cielito Lindo"
+      },
       "duration_ms": 237000,
-      "artist": [
-        "Marta Gómez"
+      "artists": [
+        {
+          "name": "Marta Gómez",
+          "id": "759Wbu0yM5VsYUEFnWcYHY"
+        }
       ],
-      "artistId": [
-        "759Wbu0yM5VsYUEFnWcYHY"
-      ],
-      "albumId": "2NGcqwaGXfBbKNsa3ScGbt",
+      "album": {
+        "id": "2NGcqwaGXfBbKNsa3ScGbt",
+        "name": "Entre Cada Palabra",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e06f14eb19d0ac6e58192c8"
+      },
       "release_date": "2006-03-28",
       "popularity": 32
     },
     {
-      "trackId": "6kXgxp7BFZ17euRy4toW61",
-      "name": "Under vinrankan",
+      "track": {
+        "id": "6kXgxp7BFZ17euRy4toW61",
+        "name": "Under vinrankan"
+      },
       "duration_ms": 258372,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 36
     },
     {
-      "trackId": "0fGTaZYl8Tj1aswPU2amMo",
-      "name": "Wild Cat Blues",
+      "track": {
+        "id": "0fGTaZYl8Tj1aswPU2amMo",
+        "name": "Wild Cat Blues"
+      },
       "duration_ms": 178160,
-      "artist": [
-        "Chris Barber's Jazz Band",
-        "Monty Sunshine"
+      "artists": [
+        {
+          "name": "Chris Barber's Jazz Band",
+          "id": "48CW1rjPSOgZbMsV4LpqoP"
+        },
+        {
+          "name": "Monty Sunshine",
+          "id": "42AJfxnbtIFT4DbZcUf11d"
+        }
       ],
-      "artistId": [
-        "48CW1rjPSOgZbMsV4LpqoP",
-        "42AJfxnbtIFT4DbZcUf11d"
-      ],
-      "albumId": "5KPlbRnLx2mIeLMPG42u5D",
+      "album": {
+        "id": "5KPlbRnLx2mIeLMPG42u5D",
+        "name": "The Nixa Jazz Today Albums",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b1eb0f28a981f47cc332a7a"
+      },
       "release_date": "2004-06-07",
       "popularity": 34
     },
     {
-      "trackId": "5Kym78q9KwK48CfmdNpDW4",
-      "name": "Förläst Jävel",
+      "track": {
+        "id": "5Kym78q9KwK48CfmdNpDW4",
+        "name": "Förläst Jävel"
+      },
       "duration_ms": 187338,
-      "artist": [
-        "Hörförståelse"
+      "artists": [
+        {
+          "name": "Hörförståelse",
+          "id": "2PxSCmCWxAo9a5He6M5OfX"
+        }
       ],
-      "artistId": [
-        "2PxSCmCWxAo9a5He6M5OfX"
-      ],
-      "albumId": "51aQASY77PukvmVQ0toiw5",
+      "album": {
+        "id": "51aQASY77PukvmVQ0toiw5",
+        "name": "Listening Comprehension",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b8ff648fad7711e4c650518"
+      },
       "release_date": "2016-10-28",
       "popularity": 2
     }

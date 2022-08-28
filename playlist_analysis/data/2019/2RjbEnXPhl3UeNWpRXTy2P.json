@@ -7,198 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/905f7b45-680d-4246-86a2-24ab4a317d36.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3BQHpFgAp4l80e1XslIjNI",
-      "name": "Yesterday - Remastered 2009",
+      "track": {
+        "id": "3BQHpFgAp4l80e1XslIjNI",
+        "name": "Yesterday - Remastered 2009"
+      },
       "duration_ms": 125666,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+      "album": {
+        "id": "0PT5m6hwPRrpBwIHVnvbFX",
+        "name": "Help! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa"
+      },
       "release_date": "1965-08-06",
       "popularity": 75
     },
     {
-      "trackId": "4lwhl74qt01u3U9ZOiQh3s",
-      "name": "Corazón De Melón",
+      "track": {
+        "id": "4lwhl74qt01u3U9ZOiQh3s",
+        "name": "Corazón De Melón"
+      },
       "duration_ms": 130658,
-      "artist": [
-        "Hermanas Benítez"
+      "artists": [
+        {
+          "name": "Hermanas Benítez",
+          "id": "67P9zHn7NV6r6bADkkr1TG"
+        }
       ],
-      "artistId": [
-        "67P9zHn7NV6r6bADkkr1TG"
-      ],
-      "albumId": "7vN2pXl35jihF5vLGrK0JB",
+      "album": {
+        "id": "7vN2pXl35jihF5vLGrK0JB",
+        "name": "Corazón De Melón",
+        "img": "https://i.scdn.co/image/ab67616d00001e022423109b1fd5fa442a1702e2"
+      },
       "release_date": "2010-09-30",
       "popularity": 38
     },
     {
-      "trackId": "0TLD1RLFqPmpVR5ATWdMz6",
-      "name": "Is That All There Is?",
+      "track": {
+        "id": "0TLD1RLFqPmpVR5ATWdMz6",
+        "name": "Is That All There Is?"
+      },
       "duration_ms": 262000,
-      "artist": [
-        "Peggy Lee"
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "id": "602DnpaSXJB4b9DZrvxbDc"
+        }
       ],
-      "artistId": [
-        "602DnpaSXJB4b9DZrvxbDc"
-      ],
-      "albumId": "5g3oYY3KItihWWRhwqtk07",
+      "album": {
+        "id": "5g3oYY3KItihWWRhwqtk07",
+        "name": "Is That All There Is?",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cf46721ea626ead910366a6"
+      },
       "release_date": "1969-01-01",
       "popularity": 44
     },
     {
-      "trackId": "1CBIQ3yS69TFHRjy8NA6Z9",
-      "name": "Timmar av tomhet",
+      "track": {
+        "id": "1CBIQ3yS69TFHRjy8NA6Z9",
+        "name": "Timmar av tomhet"
+      },
       "duration_ms": 217693,
-      "artist": [
-        "Donnez"
+      "artists": [
+        {
+          "name": "Donnez",
+          "id": "4rMk4gSVtsxoOb7NPwF6hA"
+        }
       ],
-      "artistId": [
-        "4rMk4gSVtsxoOb7NPwF6hA"
-      ],
-      "albumId": "0BFxgbUYOlbXmwfCXXlHus",
+      "album": {
+        "id": "0BFxgbUYOlbXmwfCXXlHus",
+        "name": "Med stora steg",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e29e3de45a1aa46e552f4936"
+      },
       "release_date": "2019-05-03",
       "popularity": 25
     },
     {
-      "trackId": "0j5FJJOmmnXPd0XajFWkMF",
-      "name": "Unfinished Sympathy - 2012 Mix/Master",
+      "track": {
+        "id": "0j5FJJOmmnXPd0XajFWkMF",
+        "name": "Unfinished Sympathy - 2012 Mix/Master"
+      },
       "duration_ms": 308426,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "5mAPk4qeNqVLtNydaWbWlf",
+      "album": {
+        "id": "5mAPk4qeNqVLtNydaWbWlf",
+        "name": "Blue Lines (2012 Mix/Master)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af5beb00d940f5ede452d6b5"
+      },
       "release_date": "1991-06-10",
       "popularity": 64
     },
     {
-      "trackId": "6W26h4KbGUnEaav5VWIyJm",
-      "name": "The Day Before You Came",
+      "track": {
+        "id": "6W26h4KbGUnEaav5VWIyJm",
+        "name": "The Day Before You Came"
+      },
       "duration_ms": 349080,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5GByGaws7Cw0t28kjvAOzV",
+      "album": {
+        "id": "5GByGaws7Cw0t28kjvAOzV",
+        "name": "The Visitors (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242678f54dfd1d5afb3eea19a"
+      },
       "release_date": "1981",
       "popularity": 54
     },
     {
-      "trackId": "765k9tDIFOnoOfkO2cgitB",
-      "name": "Take Me with U",
+      "track": {
+        "id": "765k9tDIFOnoOfkO2cgitB",
+        "name": "Take Me with U"
+      },
       "duration_ms": 234133,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "7nXJ5k4XgRj5OLg9m8V3zc",
+      "album": {
+        "id": "7nXJ5k4XgRj5OLg9m8V3zc",
+        "name": "Purple Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d52bfb90ee8dfeda8378b99b"
+      },
       "release_date": "1984-06-25",
       "popularity": 50
     },
     {
-      "trackId": "58sAyWs74xagum2wDCaXfy",
-      "name": "Jag vill äga dig",
+      "track": {
+        "id": "58sAyWs74xagum2wDCaXfy",
+        "name": "Jag vill äga dig"
+      },
       "duration_ms": 212506,
-      "artist": [
-        "Tore Berger"
+      "artists": [
+        {
+          "name": "Tore Berger",
+          "id": "1kOKeVgXhPWc5Gk5IBwVuE"
+        }
       ],
-      "artistId": [
-        "1kOKeVgXhPWc5Gk5IBwVuE"
-      ],
-      "albumId": "6diPUyHfDPgGor9pNTe1zi",
+      "album": {
+        "id": "6diPUyHfDPgGor9pNTe1zi",
+        "name": "Mitt hjärtas melodi",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d14c318569b187ebaeb79911"
+      },
       "release_date": "1976-01-01",
       "popularity": 1
     },
     {
-      "trackId": "421Gp1eSmOIcD6alTWowFR",
-      "name": "O Superman",
+      "track": {
+        "id": "421Gp1eSmOIcD6alTWowFR",
+        "name": "O Superman"
+      },
       "duration_ms": 505146,
-      "artist": [
-        "Laurie Anderson"
+      "artists": [
+        {
+          "name": "Laurie Anderson",
+          "id": "5hqB3Fxgin9YGYa0mIGf1G"
+        }
       ],
-      "artistId": [
-        "5hqB3Fxgin9YGYa0mIGf1G"
-      ],
-      "albumId": "5nfdstl6JxGrDQtm1B2LnZ",
+      "album": {
+        "id": "5nfdstl6JxGrDQtm1B2LnZ",
+        "name": "Big Science",
+        "img": "https://i.scdn.co/image/ab67616d00001e02588b07fde7427a6b8e2614fe"
+      },
       "release_date": "1982",
       "popularity": 42
     },
     {
-      "trackId": "6K0g7J6sKHwvDF6b2KGN3t",
-      "name": "Big Time Sensuality",
+      "track": {
+        "id": "6K0g7J6sKHwvDF6b2KGN3t",
+        "name": "Big Time Sensuality"
+      },
       "duration_ms": 236640,
-      "artist": [
-        "Björk"
+      "artists": [
+        {
+          "name": "Björk",
+          "id": "7w29UYBi0qsHi5RTcv3lmA"
+        }
       ],
-      "artistId": [
-        "7w29UYBi0qsHi5RTcv3lmA"
-      ],
-      "albumId": "2Fb37JsRMVPASJcl3wwDOa",
+      "album": {
+        "id": "2Fb37JsRMVPASJcl3wwDOa",
+        "name": "Debut",
+        "img": "https://i.scdn.co/image/ab67616d00001e02768d171a47a3adae90c7c48a"
+      },
       "release_date": "1993-07-05",
       "popularity": 51
     },
     {
-      "trackId": "4Af8yzidDPc520TFd4TmkE",
-      "name": "Don't Leave Me This Way",
+      "track": {
+        "id": "4Af8yzidDPc520TFd4TmkE",
+        "name": "Don't Leave Me This Way"
+      },
       "duration_ms": 217733,
-      "artist": [
-        "Thelma Houston"
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "id": "3sgUnR8TF35euWEV07RPyO"
+        }
       ],
-      "artistId": [
-        "3sgUnR8TF35euWEV07RPyO"
-      ],
-      "albumId": "6lap95wPl0DwJva1FLGIfx",
+      "album": {
+        "id": "6lap95wPl0DwJva1FLGIfx",
+        "name": "The Best Of",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e587d09aeb9843f7857bc134"
+      },
       "release_date": "1998-01-01",
       "popularity": 55
     },
     {
-      "trackId": "0SxFyA4FqmEQqZVuAlg8lf",
-      "name": "The First Time Ever I Saw Your Face",
+      "track": {
+        "id": "0SxFyA4FqmEQqZVuAlg8lf",
+        "name": "The First Time Ever I Saw Your Face"
+      },
       "duration_ms": 260666,
-      "artist": [
-        "Roberta Flack"
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "id": "0W498bDDNlJIrYMKXdpLHA"
+        }
       ],
-      "artistId": [
-        "0W498bDDNlJIrYMKXdpLHA"
-      ],
-      "albumId": "2ARWEOvaUgm4FSj25MpY6F",
+      "album": {
+        "id": "2ARWEOvaUgm4FSj25MpY6F",
+        "name": "First Take",
+        "img": "https://i.scdn.co/image/ab67616d00001e02685f8851f3be611c386c7cc0"
+      },
       "release_date": "1969",
       "popularity": 63
     },
     {
-      "trackId": "2B4Y9u4ERAFiMo13XPJyGP",
-      "name": "Here, There And Everywhere - Remastered 2009",
+      "track": {
+        "id": "2B4Y9u4ERAFiMo13XPJyGP",
+        "name": "Here, There And Everywhere - Remastered 2009"
+      },
       "duration_ms": 144880,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3PRoXYsngSwjEQWR5PsHWR",
+      "album": {
+        "id": "3PRoXYsngSwjEQWR5PsHWR",
+        "name": "Revolver (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a"
+      },
       "release_date": "1966-08-05",
       "popularity": 61
     },
     {
-      "trackId": "3VJHbBZSvktGfRIAW2aXch",
-      "name": "Helan går",
+      "track": {
+        "id": "3VJHbBZSvktGfRIAW2aXch",
+        "name": "Helan går"
+      },
       "duration_ms": 195173,
-      "artist": [
-        "Lisa Howard"
+      "artists": [
+        {
+          "name": "Lisa Howard",
+          "id": "65eHyQC0V8h38ia3dLKaRm"
+        }
       ],
-      "artistId": [
-        "65eHyQC0V8h38ia3dLKaRm"
-      ],
-      "albumId": "6Bzcl46KbEPJLQAUYYcC9T",
+      "album": {
+        "id": "6Bzcl46KbEPJLQAUYYcC9T",
+        "name": "Helan går",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d581af2c401490add17b0edc"
+      },
       "release_date": "2022-05-06",
       "popularity": 40
     }

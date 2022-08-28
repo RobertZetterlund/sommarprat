@@ -21,6 +21,13 @@ const yearSnapShots = {};
 
 const incrementCount = (box, id) => (id in box ? box[id]++ : (box[id] = 1));
 
+// artistId -> artist name
+const artistMap = {};
+// ablumId -> album
+const albumMap = {};
+// trackId -> track name
+const trackMap = {};
+
 (async () => {
   const filenames = await fs.promises.readdir("./data/");
 
@@ -38,24 +45,21 @@ const incrementCount = (box, id) => (id in box ? box[id]++ : (box[id] = 1));
       );
       const playlist = await JSON.parse(_content);
       sum_song_amount += playlist.tracks.length;
-      for (const track of playlist.tracks) {
-        const {
-          trackId,
-          albumId,
-          artistId,
-          duration_ms,
-          popularity,
-          release_date,
-        } = track;
+      for (const spotifyTrack of playlist.tracks) {
+        const { track, album, artists, duration_ms, popularity, release_date } =
+          spotifyTrack;
         sum_duration += duration_ms;
         sum_popularity += popularity;
 
-        incrementCount(trackCount, trackId);
-        incrementCount(albumCount, albumId);
-
-        for (const aId of artistId) {
-          incrementCount(artistCount, aId);
+        incrementCount(albumCount, album.id);
+        albumMap[album.id] = { album, artists, track };
+        incrementCount(trackCount, track.id);
+        trackMap[track.id] = { album, artists, track };
+        for (const artist of artists) {
+          incrementCount(artistCount, artist.id);
+          artistMap[artist.id] = { album, artists, track };
         }
+
         if (release_date) {
           const release_year = parseInt(new Date(release_date).getFullYear());
           if (release_year < ep_year) {
@@ -95,7 +99,7 @@ const incrementCount = (box, id) => (id in box ? box[id]++ : (box[id] = 1));
     };
   }
 
-  // Based off latest yearSnapShot, we can filter out singular apperances of ids
+  // Based off latest yearSnapShot, we can filter out fluff.
   const last_year_num = parseInt(Object.keys(yearSnapShots).sort().at(-1));
   const last_year = yearSnapShots[last_year_num];
 
@@ -103,15 +107,16 @@ const incrementCount = (box, id) => (id in box ? box[id]++ : (box[id] = 1));
 
   // identify which ids to delete
   for (const key of Object.keys(last_year)) {
+    // countBox or artistBox...
     const entry = last_year[key];
     if (entry instanceof Object && entry) {
-      // find all entries that have less than X count.
+      // find top ten entries
       const idsToRemove = [];
-      for (const [keyId, value] of Object.entries(entry)) {
-        if (value <= 10) {
-          idsToRemove.push(keyId);
-        }
-      }
+      /*for (const [keyId] of Object.entries(entry)
+        .sort(([, valueA], [, valueB]) => valueB - valueA)
+        .slice(10)) {
+        idsToRemove.push(keyId);
+      }*/
       idsObj[key] = idsToRemove;
     }
   }
@@ -133,34 +138,58 @@ const incrementCount = (box, id) => (id in box ? box[id]++ : (box[id] = 1));
 
   await fs.promises.writeFile(`./stats/all.json`, json, "utf8");
 
+  /*const albumIds = Object.keys(last_year.albumCount);
+
   const albums = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].albumCount,
   }));
 
   await fs.promises.writeFile(
     "./stats/albums.json",
-    JSON.stringify(albums),
+    JSON.stringify({
+      albums,
+      meta: albumIds.reduce(
+        (acc, aId) => ({ ...acc, [aId]: albumMap[aId] }),
+        {}
+      ),
+    }),
     "utf-8"
   );
+
+  const artistIds = Object.keys(last_year.artistCount);
 
   const artists = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].artistCount,
   }));
   await fs.promises.writeFile(
     "./stats/artists.json",
-    JSON.stringify(artists),
+    JSON.stringify({
+      artists,
+      meta: artistIds.reduce(
+        (acc, aId) => ({ ...acc, [aId]: artistMap[aId] }),
+        {}
+      ),
+    }),
     "utf-8"
   );
+
+  const trackIds = Object.keys(last_year.trackCount);
 
   const tracks = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].trackCount,
   }));
   await fs.promises.writeFile(
     "./stats/tracks.json",
-    JSON.stringify(tracks),
+    JSON.stringify({
+      tracks,
+      meta: trackIds.reduce(
+        (acc, tId) => ({ ...acc, [tId]: trackMap[tId] }),
+        {}
+      ),
+    }),
     "utf-8"
   );
-
+*/
   const years = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].yearCount,
   }));

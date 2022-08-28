@@ -7,218 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f31b1d44-bc79-41a3-9894-115a06ff69e9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0kM5i4fVB2gHH8d0nWZoGT",
-      "name": "Höga gärdet",
+      "track": {
+        "id": "0kM5i4fVB2gHH8d0nWZoGT",
+        "name": "Höga gärdet"
+      },
       "duration_ms": 138693,
-      "artist": [
-        "Swedish Radio Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "id": "0K6ufQj8JzIZPPkvZrEwJS"
+        }
       ],
-      "artistId": [
-        "0K6ufQj8JzIZPPkvZrEwJS"
-      ],
-      "albumId": "1PPRGiNFc6j5qndQXALNaS",
+      "album": {
+        "id": "1PPRGiNFc6j5qndQXALNaS",
+        "name": "Änglagård: Andra sommaren (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223fd34957e42c134db9d6cf3"
+      },
       "release_date": "1994-05-18",
       "popularity": 24
     },
     {
-      "trackId": "34x6hEJgGAOQvmlMql5Ige",
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "track": {
+        "id": "34x6hEJgGAOQvmlMql5Ige",
+        "name": "Danger Zone - From \"Top Gun\" Original Soundtrack"
+      },
       "duration_ms": 215133,
-      "artist": [
-        "Kenny Loggins"
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "id": "3Y3xIwWyq5wnNHPp5gPjOW"
+        }
       ],
-      "artistId": [
-        "3Y3xIwWyq5wnNHPp5gPjOW"
-      ],
-      "albumId": "3uN87hwClF0hult2cxMbAW",
+      "album": {
+        "id": "3uN87hwClF0hult2cxMbAW",
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "img": "https://i.scdn.co/image/ab67616d00001e0219db9ac54c80a898a179f0f1"
+      },
       "release_date": "1997-03-25",
       "popularity": 77
     },
     {
-      "trackId": "524avnOQAmyULv2CjQAmrn",
-      "name": "Die Mauer",
+      "track": {
+        "id": "524avnOQAmyULv2CjQAmrn",
+        "name": "Die Mauer"
+      },
       "duration_ms": 244573,
-      "artist": [
-        "Ebba Grön"
+      "artists": [
+        {
+          "name": "Ebba Grön",
+          "id": "2gvwV7CcpLmKyaE0fiSKI9"
+        }
       ],
-      "artistId": [
-        "2gvwV7CcpLmKyaE0fiSKI9"
-      ],
-      "albumId": "3fZyzR2Qeu8d5h8FsejF1I",
+      "album": {
+        "id": "3fZyzR2Qeu8d5h8FsejF1I",
+        "name": "Ebba Grön",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c00a4450e00bf38c32c686dd"
+      },
       "release_date": "1982-01-01",
       "popularity": 48
     },
     {
-      "trackId": "7k2hvWTTXotDZuGc6U0vUp",
-      "name": "Härliga sommardag",
+      "track": {
+        "id": "7k2hvWTTXotDZuGc6U0vUp",
+        "name": "Härliga sommardag"
+      },
       "duration_ms": 163533,
-      "artist": [
-        "Family Four"
+      "artists": [
+        {
+          "name": "Family Four",
+          "id": "59G5sH1IBBPWNAIgOzfpGs"
+        }
       ],
-      "artistId": [
-        "59G5sH1IBBPWNAIgOzfpGs"
-      ],
-      "albumId": "6ME9BRHBpgImY4jOBpmSpn",
+      "album": {
+        "id": "6ME9BRHBpgImY4jOBpmSpn",
+        "name": "Guldkorn",
+        "img": "https://i.scdn.co/image/ab67616d00001e020733e30deb0562adaccdbe62"
+      },
       "release_date": "1999-05-28",
       "popularity": 30
     },
     {
-      "trackId": "3nyx2Ey0Zl2s5vnZEOzPOs",
-      "name": "Vittring",
+      "track": {
+        "id": "3nyx2Ey0Zl2s5vnZEOzPOs",
+        "name": "Vittring"
+      },
       "duration_ms": 187240,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "74ljS2AWA9F8z7Jyzr1Zva",
+      "album": {
+        "id": "74ljS2AWA9F8z7Jyzr1Zva",
+        "name": "Vittring",
+        "img": "https://i.scdn.co/image/ab67616d00001e02006c63e09d517039f33d0279"
+      },
       "release_date": "1978-05-05",
       "popularity": 40
     },
     {
-      "trackId": "5T8EDUDqKcs6OSOwEsfqG7",
-      "name": "Don't Stop Me Now - Remastered 2011",
+      "track": {
+        "id": "5T8EDUDqKcs6OSOwEsfqG7",
+        "name": "Don't Stop Me Now - Remastered 2011"
+      },
       "duration_ms": 209413,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "2yuTRGIackbcReLUXOYBqU",
+      "album": {
+        "id": "2yuTRGIackbcReLUXOYBqU",
+        "name": "Jazz (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c39dd133836c2c1c87e34d6"
+      },
       "release_date": "1978-11-10",
       "popularity": 81
     },
     {
-      "trackId": "3cClJxBFM0azyaXx7TcTcr",
-      "name": "Man In The Mirror - Acoustic",
+      "track": {
+        "id": "3cClJxBFM0azyaXx7TcTcr",
+        "name": "Man In The Mirror - Acoustic"
+      },
       "duration_ms": 230253,
-      "artist": [
-        "Guy Sebastian"
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "id": "5PjekOABtfU2Kwo0AHVmci"
+        }
       ],
-      "artistId": [
-        "5PjekOABtfU2Kwo0AHVmci"
-      ],
-      "albumId": "6LtLb7qW6XQ1pVyYTiVHmO",
+      "album": {
+        "id": "6LtLb7qW6XQ1pVyYTiVHmO",
+        "name": "Art Of Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7ea5699d785f6a404a28d37"
+      },
       "release_date": "2009-11-20",
       "popularity": 46
     },
     {
-      "trackId": "254bXAqt3zP6P50BdQvEsq",
-      "name": "Everywhere - 2017 Remaster",
+      "track": {
+        "id": "254bXAqt3zP6P50BdQvEsq",
+        "name": "Everywhere - 2017 Remaster"
+      },
       "duration_ms": 226653,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "4AsXQ17Arq1cUVoa9dKJ3F",
+      "album": {
+        "id": "4AsXQ17Arq1cUVoa9dKJ3F",
+        "name": "Tango In the Night (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6"
+      },
       "release_date": "1987-04-13",
       "popularity": 77
     },
     {
-      "trackId": "2WPRLEKhe18MpJrvL2ZunB",
-      "name": "Missing Man",
+      "track": {
+        "id": "2WPRLEKhe18MpJrvL2ZunB",
+        "name": "Missing Man"
+      },
       "duration_ms": 155053,
-      "artist": [
-        "Jerker Johansson",
-        "The Royal Swedish Army Band",
-        "Mats Janhagen"
+      "artists": [
+        {
+          "name": "Jerker Johansson",
+          "id": "1fZG1Npy8JuwgTMIo568AX"
+        },
+        {
+          "name": "The Royal Swedish Army Band",
+          "id": "6BBWCTRz2j0rjDtu7T4EgO"
+        },
+        {
+          "name": "Mats Janhagen",
+          "id": "1rIfOtaAPsP0nbUGOaFPEI"
+        }
       ],
-      "artistId": [
-        "1fZG1Npy8JuwgTMIo568AX",
-        "6BBWCTRz2j0rjDtu7T4EgO",
-        "1rIfOtaAPsP0nbUGOaFPEI"
-      ],
-      "albumId": "5TZ3g7J8nEeerL9A5j1unc",
+      "album": {
+        "id": "5TZ3g7J8nEeerL9A5j1unc",
+        "name": "Prayer for Peace",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7cdf6ebc8d9422fa306644d"
+      },
       "release_date": "2014-01-01",
       "popularity": 6
     },
     {
-      "trackId": "4EdnF9XCU3d45DOcw8WTpR",
-      "name": "Din soldat",
+      "track": {
+        "id": "4EdnF9XCU3d45DOcw8WTpR",
+        "name": "Din soldat"
+      },
       "duration_ms": 198880,
-      "artist": [
-        "Albin Johnsén",
-        "Kristin Amparo"
+      "artists": [
+        {
+          "name": "Albin Johnsén",
+          "id": "6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "Kristin Amparo",
+          "id": "2vxWDuk2inw00eo3Hag2QR"
+        }
       ],
-      "artistId": [
-        "6IfZesOI3vKCZy8pjzVknj",
-        "2vxWDuk2inw00eo3Hag2QR"
-      ],
-      "albumId": "6raRtB3X8U1pHv8UjGOrpQ",
+      "album": {
+        "id": "6raRtB3X8U1pHv8UjGOrpQ",
+        "name": "Dyra tårar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1b5cf9556899e236dbc7eff"
+      },
       "release_date": "2015-05-22",
       "popularity": 53
     },
     {
-      "trackId": "0rBj6lYQUMHwTJ33sdj6Qz",
-      "name": "Tillfälligheter",
+      "track": {
+        "id": "0rBj6lYQUMHwTJ33sdj6Qz",
+        "name": "Tillfälligheter"
+      },
       "duration_ms": 227600,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "5IpwTXB95XBp7YVUESyhVi",
+      "album": {
+        "id": "5IpwTXB95XBp7YVUESyhVi",
+        "name": "Fiender är tråkigt",
+        "img": "https://i.scdn.co/image/ab67616d00001e0291b5d795c14c7d3482c38daf"
+      },
       "release_date": "2019-09-27",
       "popularity": 55
     },
     {
-      "trackId": "4J5KXnvaoSPa7yHrsNnqda",
-      "name": "Högt över havet",
+      "track": {
+        "id": "4J5KXnvaoSPa7yHrsNnqda",
+        "name": "Högt över havet"
+      },
       "duration_ms": 169226,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "0lTGL5FPRV2cL926HKbUaS",
+      "album": {
+        "id": "0lTGL5FPRV2cL926HKbUaS",
+        "name": "Högt över havet",
+        "img": "https://i.scdn.co/image/ab67616d00001e024825a26fe3c811323de52b8b"
+      },
       "release_date": "1987-01-01",
       "popularity": 41
     },
     {
-      "trackId": "1H5IfYyIIAlgDX8zguUzns",
-      "name": "Suspicious Minds",
+      "track": {
+        "id": "1H5IfYyIIAlgDX8zguUzns",
+        "name": "Suspicious Minds"
+      },
       "duration_ms": 261279,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ekkFrfotMsEAKc5g71GHk",
+      "album": {
+        "id": "3ekkFrfotMsEAKc5g71GHk",
+        "name": "From Elvis in Memphis (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7"
+      },
       "release_date": "1969-06-17",
       "popularity": 76
     },
     {
-      "trackId": "1F0Y1B3oUWg4ojZqjOiias",
-      "name": "Lyckliga gatan",
+      "track": {
+        "id": "1F0Y1B3oUWg4ojZqjOiias",
+        "name": "Lyckliga gatan"
+      },
       "duration_ms": 215626,
-      "artist": [
-        "Anna-Lena Löfgren"
+      "artists": [
+        {
+          "name": "Anna-Lena Löfgren",
+          "id": "7JHMKzBLaE2q2gaZZsepqr"
+        }
       ],
-      "artistId": [
-        "7JHMKzBLaE2q2gaZZsepqr"
-      ],
-      "albumId": "3u1LFfY2fFZFge9dWcHqUY",
+      "album": {
+        "id": "3u1LFfY2fFZFge9dWcHqUY",
+        "name": "Lyckliga gatan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd6dba0b2fc288441617a493"
+      },
       "release_date": "1967",
       "popularity": 40
     },
     {
-      "trackId": "2YG9DeVYQCdOy5dHpVIxpi",
-      "name": "Bröderna Lejonhjärta Tema",
+      "track": {
+        "id": "2YG9DeVYQCdOy5dHpVIxpi",
+        "name": "Bröderna Lejonhjärta Tema"
+      },
       "duration_ms": 103200,
-      "artist": [
-        "Andreas Söderström"
+      "artists": [
+        {
+          "name": "Andreas Söderström",
+          "id": "5Z6TEAkzMC3QQj32jkdkAo"
+        }
       ],
-      "artistId": [
-        "5Z6TEAkzMC3QQj32jkdkAo"
-      ],
-      "albumId": "78b35ipfQq4V2B7xSAMf06",
+      "album": {
+        "id": "78b35ipfQq4V2B7xSAMf06",
+        "name": "Musiken från Sveriges Radios dramatisering av Bröderna Lejonhjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02144bcb7949b1acf366c4264a"
+      },
       "release_date": "2020-12-03",
       "popularity": 3
     }

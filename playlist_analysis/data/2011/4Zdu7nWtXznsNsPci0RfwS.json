@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243427_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0v1XpBHnsbkCn7iJ9Ucr1l",
-      "name": "It's My Life",
+      "track": {
+        "id": "0v1XpBHnsbkCn7iJ9Ucr1l",
+        "name": "It's My Life"
+      },
       "duration_ms": 224493,
-      "artist": [
-        "Bon Jovi"
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "id": "58lV9VcRSjABbAbfWS6skp"
+        }
       ],
-      "artistId": [
-        "58lV9VcRSjABbAbfWS6skp"
-      ],
-      "albumId": "0Q9SljCrM0CL0bR23MuP69",
+      "album": {
+        "id": "0Q9SljCrM0CL0bR23MuP69",
+        "name": "Crush",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a231174875d7930de9dad58"
+      },
       "release_date": "2000-01-01",
       "popularity": 80
     },
     {
-      "trackId": "4bEb3KE4mSKlTFjtWJQBqO",
-      "name": "Don't Stop - 2004 Remaster",
+      "track": {
+        "id": "4bEb3KE4mSKlTFjtWJQBqO",
+        "name": "Don't Stop - 2004 Remaster"
+      },
       "duration_ms": 193346,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "1bt6q2SruMsBtcerNVtpZB",
+      "album": {
+        "id": "1bt6q2SruMsBtcerNVtpZB",
+        "name": "Rumours",
+        "img": "https://i.scdn.co/image/ab67616d00001e020001af4f80be77069fc8fd41"
+      },
       "release_date": "1977-02-04",
       "popularity": 72
     },
     {
-      "trackId": "2374M0fQpWi3dLnB54qaLX",
-      "name": "Africa",
+      "track": {
+        "id": "2374M0fQpWi3dLnB54qaLX",
+        "name": "Africa"
+      },
       "duration_ms": 295893,
-      "artist": [
-        "TOTO"
+      "artists": [
+        {
+          "name": "TOTO",
+          "id": "0PFtn5NtBbbUNbU9EAmIWF"
+        }
       ],
-      "artistId": [
-        "0PFtn5NtBbbUNbU9EAmIWF"
-      ],
-      "albumId": "62U7xIHcID94o20Of5ea4D",
+      "album": {
+        "id": "62U7xIHcID94o20Of5ea4D",
+        "name": "Toto IV",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b"
+      },
       "release_date": "1982-04-08",
       "popularity": 83
     },
     {
-      "trackId": "3WfjYZbJiVpdjPdeduMLFX",
-      "name": "Alchemy",
+      "track": {
+        "id": "3WfjYZbJiVpdjPdeduMLFX",
+        "name": "Alchemy"
+      },
       "duration_ms": 306666,
-      "artist": [
-        "Philip Sayce"
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "id": "5Npr4HpRE8YlsisRjN9T8h"
+        }
       ],
-      "artistId": [
-        "5Npr4HpRE8YlsisRjN9T8h"
-      ],
-      "albumId": "5Xxlrt2y3fLjmZM3gutv0E",
+      "album": {
+        "id": "5Xxlrt2y3fLjmZM3gutv0E",
+        "name": "Peace Machine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273187753fc3117e1455eda1a"
+      },
       "release_date": "2012-09-27",
       "popularity": 44
     },
     {
-      "trackId": "0ikz6tENMONtK6qGkOrU3c",
-      "name": "Wake Me Up Before You Go-Go",
+      "track": {
+        "id": "0ikz6tENMONtK6qGkOrU3c",
+        "name": "Wake Me Up Before You Go-Go"
+      },
       "duration_ms": 231333,
-      "artist": [
-        "Wham!"
+      "artists": [
+        {
+          "name": "Wham!",
+          "id": "5lpH0xAS4fVfLkACg9DAuM"
+        }
       ],
-      "artistId": [
-        "5lpH0xAS4fVfLkACg9DAuM"
-      ],
-      "albumId": "02f3y3NTsddjdUMoNiBppI",
+      "album": {
+        "id": "02f3y3NTsddjdUMoNiBppI",
+        "name": "Make It Big",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a2fc41b0dd6ce4f0d16a4c46"
+      },
       "release_date": "1984-10-23",
       "popularity": 79
     },
     {
-      "trackId": "68RV0HNYnbkrztSe9sBZ1W",
-      "name": "Vuli Ndlela",
+      "track": {
+        "id": "68RV0HNYnbkrztSe9sBZ1W",
+        "name": "Vuli Ndlela"
+      },
       "duration_ms": 205733,
-      "artist": [
-        "Brenda Fassie"
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "id": "07Pw9XQo0hIwtKRrBwo0Rl"
+        }
       ],
-      "artistId": [
-        "07Pw9XQo0hIwtKRrBwo0Rl"
-      ],
-      "albumId": "7nPJeqaecmuCa9fau1OHQ0",
+      "album": {
+        "id": "7nPJeqaecmuCa9fau1OHQ0",
+        "name": "Greatest Hits 1964-2004",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d20a9a1a1745688677e9decf"
+      },
       "release_date": "2006-01-01",
       "popularity": 46
     },
     {
-      "trackId": "5UU5FbITNm5OunvHQdsKME",
-      "name": "When the Going Gets Tough, The Tough Get Going",
+      "track": {
+        "id": "5UU5FbITNm5OunvHQdsKME",
+        "name": "When the Going Gets Tough, The Tough Get Going"
+      },
       "duration_ms": 248000,
-      "artist": [
-        "Billy Ocean"
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "id": "5IDs1CK15HegSAhGEbSYXo"
+        }
       ],
-      "artistId": [
-        "5IDs1CK15HegSAhGEbSYXo"
-      ],
-      "albumId": "7n4OT3zEZaEiyKKd6mFAhi",
+      "album": {
+        "id": "7n4OT3zEZaEiyKKd6mFAhi",
+        "name": "The Very Best of Billy Ocean",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299ee23dac7128cb5754f593c"
+      },
       "release_date": "2010-04-26",
       "popularity": 62
     },
     {
-      "trackId": "2wX3s2ThAOl1BXLp8UKM2N",
-      "name": "Viking",
+      "track": {
+        "id": "2wX3s2ThAOl1BXLp8UKM2N",
+        "name": "Viking"
+      },
       "duration_ms": 227880,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "3jDOyKSwbE7YNQorSVfvxy",
+      "album": {
+        "id": "3jDOyKSwbE7YNQorSVfvxy",
+        "name": "Upptåg (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027baf230f45a23bdc372bbd7f"
+      },
       "release_date": "1974",
       "popularity": 43
     },
     {
-      "trackId": "0PXHA9nXcu4UOJFXvye9LE",
-      "name": "Walking on the Chinese Wall",
+      "track": {
+        "id": "0PXHA9nXcu4UOJFXvye9LE",
+        "name": "Walking on the Chinese Wall"
+      },
       "duration_ms": 308773,
-      "artist": [
-        "Philip Bailey"
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "id": "6ZNeppgfBLPUyugks9Yn1u"
+        }
       ],
-      "artistId": [
-        "6ZNeppgfBLPUyugks9Yn1u"
-      ],
-      "albumId": "59RsiGLQVyFHiFn2K5VNvX",
+      "album": {
+        "id": "59RsiGLQVyFHiFn2K5VNvX",
+        "name": "Chinese Wall (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c61fd7cba6914924fea49ea9"
+      },
       "release_date": "1984-10-01",
       "popularity": 40
     },
     {
-      "trackId": "78dfUJzw0hQnRlxgFY1qFY",
-      "name": "Protection",
+      "track": {
+        "id": "78dfUJzw0hQnRlxgFY1qFY",
+        "name": "Protection"
+      },
       "duration_ms": 274826,
-      "artist": [
-        "Steve Gunn",
-        "Mdou Moctar"
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "id": "7uLXW75DlTRahz2WKJZGeO"
+        },
+        {
+          "name": "Mdou Moctar",
+          "id": "48dgx7iGqLQ3E5KO3pzd94"
+        }
       ],
-      "artistId": [
-        "7uLXW75DlTRahz2WKJZGeO",
-        "48dgx7iGqLQ3E5KO3pzd94"
-      ],
-      "albumId": "7kPc6efhRopgssDtCKhY7i",
+      "album": {
+        "id": "7kPc6efhRopgssDtCKhY7i",
+        "name": "Nakama",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8f820730fcd4540d60294ff"
+      },
       "release_date": "2022-01-26",
       "popularity": 44
     },
     {
-      "trackId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "name": "How You Remind Me",
+      "track": {
+        "id": "0gmbgwZ8iqyMPmXefof8Yf",
+        "name": "How You Remind Me"
+      },
       "duration_ms": 223840,
-      "artist": [
-        "Nickelback"
+      "artists": [
+        {
+          "name": "Nickelback",
+          "id": "6deZN1bslXzeGvOLaLMOIF"
+        }
       ],
-      "artistId": [
-        "6deZN1bslXzeGvOLaLMOIF"
-      ],
-      "albumId": "5fKL7vMTXvhR9tov8Kqt3u",
+      "album": {
+        "id": "5fKL7vMTXvhR9tov8Kqt3u",
+        "name": "Silver Side Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e02699a422d25adc550dc5aa11c"
+      },
       "release_date": "2001-09-11",
       "popularity": 79
     },
     {
-      "trackId": "1Qg9gcMp6LbGJIEE59Vxs7",
-      "name": "He Lives In You",
+      "track": {
+        "id": "1Qg9gcMp6LbGJIEE59Vxs7",
+        "name": "He Lives In You"
+      },
       "duration_ms": 284173,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "1bXkniA90u3Wm6aoQiOqJ1",
+      "album": {
+        "id": "1bXkniA90u3Wm6aoQiOqJ1",
+        "name": "The Lion King Collection (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f41874ffb38996c7a655d24"
+      },
       "release_date": "2011-01-01",
       "popularity": 29
     },
     {
-      "trackId": "6Ac4NVYYl2U73QiTt11ZKd",
-      "name": "Hooked On A Feeling",
+      "track": {
+        "id": "6Ac4NVYYl2U73QiTt11ZKd",
+        "name": "Hooked On A Feeling"
+      },
       "duration_ms": 172866,
-      "artist": [
-        "Blue Swede",
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "id": "0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "0UpuH5U4nZ3UGGUJi0Zfbp",
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6fBMaH0IiymemwFKmn18Ze",
+      "album": {
+        "id": "6fBMaH0IiymemwFKmn18Ze",
+        "name": "Hooked On A Feeling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2439940aedd2801c9ae2e5b"
+      },
       "release_date": "1973-04-01",
       "popularity": 73
     }

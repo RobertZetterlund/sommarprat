@@ -7,148 +7,214 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3527914_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3KDLyp0cMrWeEZI1PTHYm5",
-      "name": "Jag vill vara din, Margareta",
+      "track": {
+        "id": "3KDLyp0cMrWeEZI1PTHYm5",
+        "name": "Jag vill vara din, Margareta"
+      },
       "duration_ms": 221666,
-      "artist": [
-        "Sten & Stanley"
+      "artists": [
+        {
+          "name": "Sten & Stanley",
+          "id": "2HSMgjn2OEC8PcJAlNcuMk"
+        }
       ],
-      "artistId": [
-        "2HSMgjn2OEC8PcJAlNcuMk"
-      ],
-      "albumId": "2CxAKKtsFo1vdU7U2khS6R",
+      "album": {
+        "id": "2CxAKKtsFo1vdU7U2khS6R",
+        "name": "Jag vill vara din, Margareta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a6ce3c8304d02a6ec071b70a"
+      },
       "release_date": "1997",
       "popularity": 43
     },
     {
-      "trackId": "1bBHy7TpYu4Mj02wdfDPAy",
-      "name": "Detroit City",
+      "track": {
+        "id": "1bBHy7TpYu4Mj02wdfDPAy",
+        "name": "Detroit City"
+      },
       "duration_ms": 222657,
-      "artist": [
-        "Texas"
+      "artists": [
+        {
+          "name": "Texas",
+          "id": "5JsdVATHNPE0XdMFMRoSuf"
+        }
       ],
-      "artistId": [
-        "5JsdVATHNPE0XdMFMRoSuf"
-      ],
-      "albumId": "0OtqDrOeVGo6KV4RIrB7Fc",
+      "album": {
+        "id": "0OtqDrOeVGo6KV4RIrB7Fc",
+        "name": "The Conversation",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249b5d4c25b9dc5d47c4462ae"
+      },
       "release_date": "2013-05-20",
       "popularity": 30
     },
     {
-      "trackId": "0WNGPpmWqzPnk0psUhJ3SX",
-      "name": "All the Young Dudes",
+      "track": {
+        "id": "0WNGPpmWqzPnk0psUhJ3SX",
+        "name": "All the Young Dudes"
+      },
       "duration_ms": 211066,
-      "artist": [
-        "Mott The Hoople"
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "id": "6ysQi6NI88X627t2srsWz6"
+        }
       ],
-      "artistId": [
-        "6ysQi6NI88X627t2srsWz6"
-      ],
-      "albumId": "3LdlOZcV0dp7ePBXe2KAGa",
+      "album": {
+        "id": "3LdlOZcV0dp7ePBXe2KAGa",
+        "name": "All The Young Dudes (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d46e5889ace3c1457be450de"
+      },
       "release_date": "1972",
       "popularity": 64
     },
     {
-      "trackId": "225xvV8r1yKMHErSWivnow",
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "track": {
+        "id": "225xvV8r1yKMHErSWivnow",
+        "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack"
+      },
       "duration_ms": 298760,
-      "artist": [
-        "Aerosmith"
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "id": "7Ey4PD4MYsKc5I2dolUwbH"
+        }
       ],
-      "artistId": [
-        "7Ey4PD4MYsKc5I2dolUwbH"
-      ],
-      "albumId": "4f7HKjBnjpMsDBDTHYV890",
+      "album": {
+        "id": "4f7HKjBnjpMsDBDTHYV890",
+        "name": "Armageddon - The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da8d92affd796f7e20af7375"
+      },
       "release_date": "1998-06-23",
       "popularity": 74
     },
     {
-      "trackId": "1o4szgHxZ53JbD3QUDQ7HE",
-      "name": "I Will Survive",
+      "track": {
+        "id": "1o4szgHxZ53JbD3QUDQ7HE",
+        "name": "I Will Survive"
+      },
       "duration_ms": 271626,
-      "artist": [
-        "Nils Landgren"
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "id": "6B3ZWSop1mrJd71rwFozVP"
+        }
       ],
-      "artistId": [
-        "6B3ZWSop1mrJd71rwFozVP"
-      ],
-      "albumId": "5Df4tcguBo4qkUYY8vA7IV",
+      "album": {
+        "id": "5Df4tcguBo4qkUYY8vA7IV",
+        "name": "Sentimental Journey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd772cbdb7c2399dd74d1f8d"
+      },
       "release_date": "2002-08-26",
       "popularity": 46
     },
     {
-      "trackId": "6LR5yuN6XStHDZiusCxqYe",
-      "name": "Dead Ringer for Love (with Cher)",
+      "track": {
+        "id": "6LR5yuN6XStHDZiusCxqYe",
+        "name": "Dead Ringer for Love (with Cher)"
+      },
       "duration_ms": 260693,
-      "artist": [
-        "Meat Loaf",
-        "Cher"
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "id": "7dnB1wSxbYa8CejeVg98hz"
+        },
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "7dnB1wSxbYa8CejeVg98hz",
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "2Y9CaNn1xUX2EJWIiBG45i",
+      "album": {
+        "id": "2Y9CaNn1xUX2EJWIiBG45i",
+        "name": "Dead Ringer",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d23b4e1aaacbe22e6d51b9b"
+      },
       "release_date": "1981-09-04",
       "popularity": 48
     },
     {
-      "trackId": "7o2CTH4ctstm8TNelqjb51",
-      "name": "Sweet Child O' Mine",
+      "track": {
+        "id": "7o2CTH4ctstm8TNelqjb51",
+        "name": "Sweet Child O' Mine"
+      },
       "duration_ms": 354520,
-      "artist": [
-        "Guns N' Roses"
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC"
+        }
       ],
-      "artistId": [
-        "3qm84nBOXUEQ2vnTfUTTFC"
-      ],
-      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "album": {
+        "id": "3I9Z1nDCL4E0cP62flcbI5",
+        "name": "Appetite For Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60"
+      },
       "release_date": "1987-07-21",
       "popularity": 83
     },
     {
-      "trackId": "3EGlnkJGcwz73rT0oE0X1X",
-      "name": "Friends Will Be Friends - Remastered 2011",
+      "track": {
+        "id": "3EGlnkJGcwz73rT0oE0X1X",
+        "name": "Friends Will Be Friends - Remastered 2011"
+      },
       "duration_ms": 246906,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "0pEfDPZko6TnNOgrZMe5nn",
+      "album": {
+        "id": "0pEfDPZko6TnNOgrZMe5nn",
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e98d08fbea1a2f03229abc20"
+      },
       "release_date": "1986-06-02",
       "popularity": 62
     },
     {
-      "trackId": "78TTtXnFQPzwqlbtbwqN0y",
-      "name": "FourFiveSeconds",
+      "track": {
+        "id": "78TTtXnFQPzwqlbtbwqN0y",
+        "name": "FourFiveSeconds"
+      },
       "duration_ms": 188238,
-      "artist": [
-        "Rihanna",
-        "Kanye West",
-        "Paul McCartney"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul McCartney",
+          "id": "4STHEaNw4mPZ2tzheohgXB"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H",
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "4STHEaNw4mPZ2tzheohgXB"
-      ],
-      "albumId": "7yBl4uFyJzH48Vy6tPieXL",
+      "album": {
+        "id": "7yBl4uFyJzH48Vy6tPieXL",
+        "name": "FourFiveSeconds",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236a9ed72b45e54ff307641be"
+      },
       "release_date": "2015-01-24",
       "popularity": 76
     },
     {
-      "trackId": "0gzqZ9d1jIKo9psEIthwXe",
-      "name": "Beautiful Day",
+      "track": {
+        "id": "0gzqZ9d1jIKo9psEIthwXe",
+        "name": "Beautiful Day"
+      },
       "duration_ms": 248400,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "7a5U0GPoAvT3gvEY66FRuN",
+      "album": {
+        "id": "7a5U0GPoAvT3gvEY66FRuN",
+        "name": "All That You Can't Leave Behind",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238fa0dfe55b1ff2e8c962bae"
+      },
       "release_date": "2000-01-01",
       "popularity": 73
     }

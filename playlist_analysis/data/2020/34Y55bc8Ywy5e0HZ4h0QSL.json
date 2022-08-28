@@ -7,224 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a729e24d-31ec-4684-8d6c-c8a4856340b7.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0bLPAuVTardAaPBcoQOQJG",
-      "name": "Silhouettes - Original Radio Edit",
+      "track": {
+        "id": "0bLPAuVTardAaPBcoQOQJG",
+        "name": "Silhouettes - Original Radio Edit"
+      },
       "duration_ms": 211880,
-      "artist": [
-        "Avicii"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6"
-      ],
-      "albumId": "6MN9rl1uxIJncJBdRqJQA0",
+      "album": {
+        "id": "6MN9rl1uxIJncJBdRqJQA0",
+        "name": "Silhouettes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02747c66e9b51da52d3bc4ca59"
+      },
       "release_date": "2012-04-27",
       "popularity": 54
     },
     {
-      "trackId": "4hN1qOKFZXVCjvlAY8AphH",
-      "name": "Dance Mix 2020 Pop",
+      "track": {
+        "id": "4hN1qOKFZXVCjvlAY8AphH",
+        "name": "Dance Mix 2020 Pop"
+      },
       "duration_ms": 154500,
-      "artist": [
-        "Hot Summer Dance Party Beach"
+      "artists": [
+        {
+          "name": "Hot Summer Dance Party Beach",
+          "id": "3xszkRfboXehEZgGRuRN5p"
+        }
       ],
-      "artistId": [
-        "3xszkRfboXehEZgGRuRN5p"
-      ],
-      "albumId": "6JaGIQ3XISkBOVOiyvkvaj",
+      "album": {
+        "id": "6JaGIQ3XISkBOVOiyvkvaj",
+        "name": "2020 Dance Summer Songs: Best Summer Remixes, Nighttime Soulful House",
+        "img": "https://i.scdn.co/image/ab67616d00001e024542908d05e4defd5d8d8279"
+      },
       "release_date": "2020-08-12",
       "popularity": 1
     },
     {
-      "trackId": "6OuRbvP4PgbuzBIapVzmFJ",
-      "name": "Sailing",
+      "track": {
+        "id": "6OuRbvP4PgbuzBIapVzmFJ",
+        "name": "Sailing"
+      },
       "duration_ms": 277960,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+      "album": {
+        "id": "7vV3q5jE7DSuKsnHr7OmmN",
+        "name": "Atlantic Crossing",
+        "img": "https://i.scdn.co/image/ab67616d00001e029199bdfc160aa8d63a57040a"
+      },
       "release_date": "1975",
       "popularity": 67
     },
     {
-      "trackId": "14AXmUirvYfwWPRGpFqvej",
-      "name": "Sommarnatt kom",
+      "track": {
+        "id": "14AXmUirvYfwWPRGpFqvej",
+        "name": "Sommarnatt kom"
+      },
       "duration_ms": 273040,
-      "artist": [
-        "Ola Ström",
-        "Per Dunsö",
-        "Martyna Lisowska"
+      "artists": [
+        {
+          "name": "Ola Ström",
+          "id": "5gwhyuCpc2GcVDRZ1W8eSV"
+        },
+        {
+          "name": "Per Dunsö",
+          "id": "4WqJT2dUqGy1hjEgh81pf2"
+        },
+        {
+          "name": "Martyna Lisowska",
+          "id": "7JunHEMJ4Bpd0p5ZBvidsn"
+        }
       ],
-      "artistId": [
-        "5gwhyuCpc2GcVDRZ1W8eSV",
-        "4WqJT2dUqGy1hjEgh81pf2",
-        "7JunHEMJ4Bpd0p5ZBvidsn"
-      ],
-      "albumId": "6gJq7Jqnbj2oFaZcxnFfMA",
+      "album": {
+        "id": "6gJq7Jqnbj2oFaZcxnFfMA",
+        "name": "Solstollarna (Musiken ur Tv-serien)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029788f005d960ea098836abd7"
+      },
       "release_date": "1985-01-01",
       "popularity": 4
     },
     {
-      "trackId": "2emf49h1k9mV0zfdyutEHr",
-      "name": "John",
+      "track": {
+        "id": "2emf49h1k9mV0zfdyutEHr",
+        "name": "John"
+      },
       "duration_ms": 189266,
-      "artist": [
-        "Anna Book"
+      "artists": [
+        {
+          "name": "Anna Book",
+          "id": "0cw3LjArvSnokOQO02e6xF"
+        }
       ],
-      "artistId": [
-        "0cw3LjArvSnokOQO02e6xF"
-      ],
-      "albumId": "1I4M9khSbfXw1TBrxmGf2v",
+      "album": {
+        "id": "1I4M9khSbfXw1TBrxmGf2v",
+        "name": "Killsnack",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205af41aca8b3df47be0d65be"
+      },
       "release_date": "1985-05-26",
       "popularity": 15
     },
     {
-      "trackId": "5IdaNGlyp4KKQHlKQcARl8",
-      "name": "Picadilly Circus - 2006 Remaster",
+      "track": {
+        "id": "5IdaNGlyp4KKQHlKQcARl8",
+        "name": "Picadilly Circus - 2006 Remaster"
+      },
       "duration_ms": 176333,
-      "artist": [
-        "Pernilla Wahlgren"
+      "artists": [
+        {
+          "name": "Pernilla Wahlgren",
+          "id": "4tUajUzujJgjYQ6mMbsMRf"
+        }
       ],
-      "artistId": [
-        "4tUajUzujJgjYQ6mMbsMRf"
-      ],
-      "albumId": "464FxaDQdEjH0ra2QfAjwM",
+      "album": {
+        "id": "464FxaDQdEjH0ra2QfAjwM",
+        "name": "Festivalfavoriter 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200b11fbd99d3dc1fbbcd41d1"
+      },
       "release_date": "2007-02-02",
       "popularity": 9
     },
     {
-      "trackId": "5ZBeML7Lf3FMEVviTyvi8l",
-      "name": "Twist And Shout - Remastered 2009",
+      "track": {
+        "id": "5ZBeML7Lf3FMEVviTyvi8l",
+        "name": "Twist And Shout - Remastered 2009"
+      },
       "duration_ms": 155226,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3KzAvEXcqJKBF97HrXwlgf",
+      "album": {
+        "id": "3KzAvEXcqJKBF97HrXwlgf",
+        "name": "Please Please Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df"
+      },
       "release_date": "1963-03-22",
       "popularity": 74
     },
     {
-      "trackId": "4y1LsJpmMti1PfRQV9AWWe",
-      "name": "Girls Just Want to Have Fun",
+      "track": {
+        "id": "4y1LsJpmMti1PfRQV9AWWe",
+        "name": "Girls Just Want to Have Fun"
+      },
       "duration_ms": 238266,
-      "artist": [
-        "Cyndi Lauper"
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY"
+        }
       ],
-      "artistId": [
-        "2BTZIqw0ntH9MvilQ3ewNY"
-      ],
-      "albumId": "1FvdZ1oizXwF9bxogujoF0",
+      "album": {
+        "id": "1FvdZ1oizXwF9bxogujoF0",
+        "name": "She's So Unusual",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252f532df7ba3269b0242fed9"
+      },
       "release_date": "1983-10-14",
       "popularity": 79
     },
     {
-      "trackId": "3Gl4uuVYRhucgo2WPGKIhI",
-      "name": "I Heard of a Girl",
+      "track": {
+        "id": "3Gl4uuVYRhucgo2WPGKIhI",
+        "name": "I Heard of a Girl"
+      },
       "duration_ms": 165760,
-      "artist": [
-        "Miss Li"
+      "artists": [
+        {
+          "name": "Miss Li",
+          "id": "04HqRx07Bv9gh7rsrMTqs7"
+        }
       ],
-      "artistId": [
-        "04HqRx07Bv9gh7rsrMTqs7"
-      ],
-      "albumId": "0N3uFXmSLUsA4Tc5RBWwyi",
+      "album": {
+        "id": "0N3uFXmSLUsA4Tc5RBWwyi",
+        "name": "Dancing the Whole Way Home",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae561832e97cf089e773553e"
+      },
       "release_date": "2009-03-31",
       "popularity": 33
     },
     {
-      "trackId": "2m0M7YqCy4lXfedh18qd8N",
-      "name": "Into the Groove",
+      "track": {
+        "id": "2m0M7YqCy4lXfedh18qd8N",
+        "name": "Into the Groove"
+      },
       "duration_ms": 285093,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "43lok9zd7BW5CoYkXZs7S0",
+      "album": {
+        "id": "43lok9zd7BW5CoYkXZs7S0",
+        "name": "Celebration (double disc version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f9f218b386e6aeb27184307"
+      },
       "release_date": "2009-09-18",
       "popularity": 65
     },
     {
-      "trackId": "2M3AQ8vePzWXsU3bExTgDY",
-      "name": "Talking in Your Sleep",
+      "track": {
+        "id": "2M3AQ8vePzWXsU3bExTgDY",
+        "name": "Talking in Your Sleep"
+      },
       "duration_ms": 280253,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "1T8NH2yMjPBlUDwim5Vtdo",
+      "album": {
+        "id": "1T8NH2yMjPBlUDwim5Vtdo",
+        "name": "Lena 20 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d2d85a530ccec6218055d55"
+      },
       "release_date": "2007-11-07",
       "popularity": 16
     },
     {
-      "trackId": "2pX5qSgxQFwlrkjxph8fxb",
-      "name": "The Loco-Motion",
+      "track": {
+        "id": "2pX5qSgxQFwlrkjxph8fxb",
+        "name": "The Loco-Motion"
+      },
       "duration_ms": 193920,
-      "artist": [
-        "Kylie Minogue"
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "id": "4RVnAU35WRWra6OZ3CbbMA"
+        }
       ],
-      "artistId": [
-        "4RVnAU35WRWra6OZ3CbbMA"
-      ],
-      "albumId": "2xuoy4Qfrk9wlucZ8anDzE",
+      "album": {
+        "id": "2xuoy4Qfrk9wlucZ8anDzE",
+        "name": "Kylie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e54b27a25383c0e8e10e6778"
+      },
       "release_date": "1988-07-04",
       "popularity": 61
     },
     {
-      "trackId": "6qyiEronCcndBsvCQbWAEX",
-      "name": "The Land of Make Believe",
+      "track": {
+        "id": "6qyiEronCcndBsvCQbWAEX",
+        "name": "The Land of Make Believe"
+      },
       "duration_ms": 228440,
-      "artist": [
-        "Bucks Fizz"
+      "artists": [
+        {
+          "name": "Bucks Fizz",
+          "id": "5ZfzzHE7rxONfoksJsLXrX"
+        }
       ],
-      "artistId": [
-        "5ZfzzHE7rxONfoksJsLXrX"
-      ],
-      "albumId": "014iVuewM9Vd09Yew27dDv",
+      "album": {
+        "id": "014iVuewM9Vd09Yew27dDv",
+        "name": "Are You Ready",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ebaa5a16fbc1289600293a78"
+      },
       "release_date": "1982",
       "popularity": 41
     },
     {
-      "trackId": "3CScbHj56svy4z8Fk6vYZ2",
-      "name": "Ulysses' Gaze: 9. Ulysses' Theme - Litany",
+      "track": {
+        "id": "3CScbHj56svy4z8Fk6vYZ2",
+        "name": "Ulysses' Gaze: 9. Ulysses' Theme - Litany"
+      },
       "duration_ms": 414360,
-      "artist": [
-        "Eleni Karaindrou",
-        "Kim Kashkashian",
-        "Lefteris Chalkiadakis"
+      "artists": [
+        {
+          "name": "Eleni Karaindrou",
+          "id": "2ojmPypSGMyKaRvknyxKKP"
+        },
+        {
+          "name": "Kim Kashkashian",
+          "id": "6ZGBjaZJPB8JHVBpHvRrXG"
+        },
+        {
+          "name": "Lefteris Chalkiadakis",
+          "id": "71FFpbbdpEP592BUJ2CYBH"
+        }
       ],
-      "artistId": [
-        "2ojmPypSGMyKaRvknyxKKP",
-        "6ZGBjaZJPB8JHVBpHvRrXG",
-        "71FFpbbdpEP592BUJ2CYBH"
-      ],
-      "albumId": "1VmyT074zIV2xRqbtdjg3P",
+      "album": {
+        "id": "1VmyT074zIV2xRqbtdjg3P",
+        "name": "Karaindrou: Ulysses' Gaze",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217f249018f1add0dfb463b0f"
+      },
       "release_date": "1995-09-01",
       "popularity": 34
     },
     {
-      "trackId": "4rqWLIfLXWfsSycOl8oymx",
-      "name": "Ulysses' Gaze: 8. Ulysses' Theme",
+      "track": {
+        "id": "4rqWLIfLXWfsSycOl8oymx",
+        "name": "Ulysses' Gaze: 8. Ulysses' Theme"
+      },
       "duration_ms": 131920,
-      "artist": [
-        "Eleni Karaindrou",
-        "Kim Kashkashian",
-        "Lefteris Chalkiadakis"
+      "artists": [
+        {
+          "name": "Eleni Karaindrou",
+          "id": "2ojmPypSGMyKaRvknyxKKP"
+        },
+        {
+          "name": "Kim Kashkashian",
+          "id": "6ZGBjaZJPB8JHVBpHvRrXG"
+        },
+        {
+          "name": "Lefteris Chalkiadakis",
+          "id": "71FFpbbdpEP592BUJ2CYBH"
+        }
       ],
-      "artistId": [
-        "2ojmPypSGMyKaRvknyxKKP",
-        "6ZGBjaZJPB8JHVBpHvRrXG",
-        "71FFpbbdpEP592BUJ2CYBH"
-      ],
-      "albumId": "1VmyT074zIV2xRqbtdjg3P",
+      "album": {
+        "id": "1VmyT074zIV2xRqbtdjg3P",
+        "name": "Karaindrou: Ulysses' Gaze",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217f249018f1add0dfb463b0f"
+      },
       "release_date": "1995-09-01",
       "popularity": 23
     }

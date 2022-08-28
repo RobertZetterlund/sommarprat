@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/6adc513c-ecdd-4fe5-90fe-0b4749712092.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0WJMJ5Nrx5tmiO3Jl488Wk",
-      "name": "Hajar'u de då Jack?",
+      "track": {
+        "id": "0WJMJ5Nrx5tmiO3Jl488Wk",
+        "name": "Hajar'u de då Jack?"
+      },
       "duration_ms": 164066,
-      "artist": [
-        "Britta Persson"
+      "artists": [
+        {
+          "name": "Britta Persson",
+          "id": "1p3J6laThbGvAuz642q1O6"
+        }
       ],
-      "artistId": [
-        "1p3J6laThbGvAuz642q1O6"
-      ],
-      "albumId": "2w4hWCcTBDcOjCsqv9AKMa",
+      "album": {
+        "id": "2w4hWCcTBDcOjCsqv9AKMa",
+        "name": "Hajar'u de då Jack?",
+        "img": "https://i.scdn.co/image/ab67616d00001e028be8ca03f2b67a7b031bb3d9"
+      },
       "release_date": "2007",
       "popularity": 6
     },
     {
-      "trackId": "3Um9toULmYFGCpvaIPFw7l",
-      "name": "What's Going On",
+      "track": {
+        "id": "3Um9toULmYFGCpvaIPFw7l",
+        "name": "What's Going On"
+      },
       "duration_ms": 233000,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "album": {
+        "id": "2v6ANhWhZBUKkg6pJJBs3B",
+        "name": "What's Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
+      },
       "release_date": "1971-05-21",
       "popularity": 69
     },
     {
-      "trackId": "58SuKWdEM7nr3E3Ak57Zf8",
-      "name": "Mijn Vlakke Land",
+      "track": {
+        "id": "58SuKWdEM7nr3E3Ak57Zf8",
+        "name": "Mijn Vlakke Land"
+      },
       "duration_ms": 173040,
-      "artist": [
-        "Jacques Brel"
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "id": "4RN2vlFWepLa46qQIU2PHs"
+        }
       ],
-      "artistId": [
-        "4RN2vlFWepLa46qQIU2PHs"
-      ],
-      "albumId": "46kE3wBimtaWT8ZdFZMQhy",
+      "album": {
+        "id": "46kE3wBimtaWT8ZdFZMQhy",
+        "name": "Liefde aan de Sein",
+        "img": "https://i.scdn.co/image/ab67616d00001e021abade994ea3ee5a6ff475d2"
+      },
       "release_date": "2022-02-14",
       "popularity": 21
     },
     {
-      "trackId": "6cPx01G1g6BhvpLg7na1nq",
-      "name": "Fragancia",
+      "track": {
+        "id": "6cPx01G1g6BhvpLg7na1nq",
+        "name": "Fragancia"
+      },
       "duration_ms": 246533,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "497docBUX2b3eXPoGHTuvG",
+      "album": {
+        "id": "497docBUX2b3eXPoGHTuvG",
+        "name": "Åkerströms Blandning",
+        "img": "https://i.scdn.co/image/ab67616d00001e028789dbdf848b9d11c824295c"
+      },
       "release_date": "1982",
       "popularity": 16
     },
     {
-      "trackId": "0HUtX7zTH4aVpUzXVc6F0w",
-      "name": "Röd",
+      "track": {
+        "id": "0HUtX7zTH4aVpUzXVc6F0w",
+        "name": "Röd"
+      },
       "duration_ms": 252720,
-      "artist": [
-        "Cajsa Stina Åkerström"
+      "artists": [
+        {
+          "name": "Cajsa Stina Åkerström",
+          "id": "0N98N0DiskOexjlZjJ6YZ7"
+        }
       ],
-      "artistId": [
-        "0N98N0DiskOexjlZjJ6YZ7"
-      ],
-      "albumId": "5OVsttVvATeW32Xswadanm",
+      "album": {
+        "id": "5OVsttVvATeW32Xswadanm",
+        "name": "XXV - Äventyret börjar här...",
+        "img": "https://i.scdn.co/image/ab67616d00001e020071ea9eeb637d3982344442"
+      },
       "release_date": "2019-09-13",
       "popularity": 22
     },
     {
-      "trackId": "1Ul4mzOctOQv3QIx6lxcEm",
-      "name": "Blues för Fatumeh",
+      "track": {
+        "id": "1Ul4mzOctOQv3QIx6lxcEm",
+        "name": "Blues för Fatumeh"
+      },
       "duration_ms": 330800,
-      "artist": [
-        "Jack Vreeswijk"
+      "artists": [
+        {
+          "name": "Jack Vreeswijk",
+          "id": "2o3s58okSJjEmFQhwdG21v"
+        }
       ],
-      "artistId": [
-        "2o3s58okSJjEmFQhwdG21v"
-      ],
-      "albumId": "71WKPvLKFVn4a9aGIPLFLH",
+      "album": {
+        "id": "71WKPvLKFVn4a9aGIPLFLH",
+        "name": "Underbart",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252b77244f122014596758672"
+      },
       "release_date": "2010-01-01",
       "popularity": 24
     },
     {
-      "trackId": "0P5wCXpGqItUpYbj2bUK0d",
-      "name": "Sommarkort",
+      "track": {
+        "id": "0P5wCXpGqItUpYbj2bUK0d",
+        "name": "Sommarkort"
+      },
       "duration_ms": 216533,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5KoclB3QR9GWTPBQcKj5R9",
+      "album": {
+        "id": "5KoclB3QR9GWTPBQcKj5R9",
+        "name": "En fattig trubadur",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfe52dab7427e3de74b33f3e"
+      },
       "release_date": "2000-01-01",
       "popularity": 47
     },
     {
-      "trackId": "1Sz3n7P1AOrx0slW6ghOy2",
-      "name": "Samba Do Avião",
+      "track": {
+        "id": "1Sz3n7P1AOrx0slW6ghOy2",
+        "name": "Samba Do Avião"
+      },
       "duration_ms": 135053,
-      "artist": [
-        "Sylvia Telles"
+      "artists": [
+        {
+          "name": "Sylvia Telles",
+          "id": "5UcWm7hSStvwPKlYb98ckI"
+        }
       ],
-      "artistId": [
-        "5UcWm7hSStvwPKlYb98ckI"
-      ],
-      "albumId": "15YXSBREsWTwfv0gQBgqgW",
+      "album": {
+        "id": "15YXSBREsWTwfv0gQBgqgW",
+        "name": "Bossa, Balanço, Balada",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b15aeb60b25abda7599388f4"
+      },
       "release_date": "1963-01-01",
       "popularity": 8
     },
     {
-      "trackId": "0kDpFPQgQYeZ7t04Quiwkn",
-      "name": "I Loves You Porgy - 2013 Remastered Version",
+      "track": {
+        "id": "0kDpFPQgQYeZ7t04Quiwkn",
+        "name": "I Loves You Porgy - 2013 Remastered Version"
+      },
       "duration_ms": 249781,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "58gOQaPc4RCw8eWdTDRes7",
+      "album": {
+        "id": "58gOQaPc4RCw8eWdTDRes7",
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7cd1d8168aaca9041daad61"
+      },
       "release_date": "1958-06-24",
       "popularity": 48
     },
     {
-      "trackId": "6ZR7gzHIvcj4qvo5q4kqXN",
-      "name": "Holiday in Cambodia - Single Version",
+      "track": {
+        "id": "6ZR7gzHIvcj4qvo5q4kqXN",
+        "name": "Holiday in Cambodia - Single Version"
+      },
       "duration_ms": 226640,
-      "artist": [
-        "Dead Kennedys"
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "id": "30U8fYtiNpeA5KH6H87QUV"
+        }
       ],
-      "artistId": [
-        "30U8fYtiNpeA5KH6H87QUV"
-      ],
-      "albumId": "41ZBxW5kNgSlZeVvXpkJWG",
+      "album": {
+        "id": "41ZBxW5kNgSlZeVvXpkJWG",
+        "name": "Fresh Fruit For Rotting Vegetables (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e635ca20d927aa886d5761c"
+      },
       "release_date": "1980-09-01",
       "popularity": 52
     },
     {
-      "trackId": "1wPCYlOmzzvkvUUX6fUIBh",
-      "name": "On n'oublie rien",
+      "track": {
+        "id": "1wPCYlOmzzvkvUUX6fUIBh",
+        "name": "On n'oublie rien"
+      },
       "duration_ms": 184706,
-      "artist": [
-        "Jacques Brel"
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "id": "4RN2vlFWepLa46qQIU2PHs"
+        }
       ],
-      "artistId": [
-        "4RN2vlFWepLa46qQIU2PHs"
-      ],
-      "albumId": "5AGVSwTDsqQYmc9qZp9V6I",
+      "album": {
+        "id": "5AGVSwTDsqQYmc9qZp9V6I",
+        "name": "Marieke (Vol.5)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f941b158fba021743b17e20"
+      },
       "release_date": "2004-01-01",
       "popularity": 32
     },
     {
-      "trackId": "0b6klDHeNP6WGMdudb4aN4",
-      "name": "Quem Te Viu, Quem Te Vê",
+      "track": {
+        "id": "0b6klDHeNP6WGMdudb4aN4",
+        "name": "Quem Te Viu, Quem Te Vê"
+      },
       "duration_ms": 253493,
-      "artist": [
-        "Chico Buarque"
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "id": "6tOsSffQQIXmK8TqsDck8t"
+        }
       ],
-      "artistId": [
-        "6tOsSffQQIXmK8TqsDck8t"
-      ],
-      "albumId": "2kksvAvnGjFCVZfipbxCAr",
+      "album": {
+        "id": "2kksvAvnGjFCVZfipbxCAr",
+        "name": "Chico Buarque de Hollanda Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec07f871c309436298fcb5a9"
+      },
       "release_date": "1967-01-01",
       "popularity": 30
     }

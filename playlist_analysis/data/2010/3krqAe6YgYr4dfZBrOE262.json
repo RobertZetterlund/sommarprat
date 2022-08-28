@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3235766_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0WunaOxNFL9m8Dq4XtuqpF",
-      "name": "Solig morgon",
+      "track": {
+        "id": "0WunaOxNFL9m8Dq4XtuqpF",
+        "name": "Solig morgon"
+      },
       "duration_ms": 183066,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "3Ld1oStrxOmDVFdRPO6Hpw",
+      "album": {
+        "id": "3Ld1oStrxOmDVFdRPO6Hpw",
+        "name": "Om Sommaren",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8ff6b03c2e65d3118e34a92"
+      },
       "release_date": "1991",
       "popularity": 11
     },
     {
-      "trackId": "7nwBrKmbJrXIV4ouevreFg",
-      "name": "Summertime / Sometimes I Feel Like a Motherless Child",
+      "track": {
+        "id": "7nwBrKmbJrXIV4ouevreFg",
+        "name": "Summertime / Sometimes I Feel Like a Motherless Child"
+      },
       "duration_ms": 403052,
-      "artist": [
-        "Mahalia Jackson"
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "id": "6QBUIuGCAJSAtefEY1EEdB"
+        }
       ],
-      "artistId": [
-        "6QBUIuGCAJSAtefEY1EEdB"
-      ],
-      "albumId": "1RD5vXuS0K6q9sO2Zb3Cno",
+      "album": {
+        "id": "1RD5vXuS0K6q9sO2Zb3Cno",
+        "name": "Bless This House",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222e2804a18dc0dbd4bbb8090"
+      },
       "release_date": "1956",
       "popularity": 45
     },
     {
-      "trackId": "4zPiudxMWeMRqRrEAHquuI",
-      "name": "Wayfaring Stranger - 2002 Remaster",
+      "track": {
+        "id": "4zPiudxMWeMRqRrEAHquuI",
+        "name": "Wayfaring Stranger - 2002 Remaster"
+      },
       "duration_ms": 206773,
-      "artist": [
-        "Emmylou Harris"
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "id": "5s6TJEuHTr9GR894wc6VfP"
+        }
       ],
-      "artistId": [
-        "5s6TJEuHTr9GR894wc6VfP"
-      ],
-      "albumId": "2LSEEOLu3PSt0T30n0Vg9O",
+      "album": {
+        "id": "2LSEEOLu3PSt0T30n0Vg9O",
+        "name": "Roses in the Snow (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c19fcd92e7f162180bcd67ed"
+      },
       "release_date": "1980",
       "popularity": 36
     },
     {
-      "trackId": "4Sk6QA0RoRqZ3Hg9TlAX4X",
-      "name": "Long As I Can See The Light",
+      "track": {
+        "id": "4Sk6QA0RoRqZ3Hg9TlAX4X",
+        "name": "Long As I Can See The Light"
+      },
       "duration_ms": 210866,
-      "artist": [
-        "Creedence Clearwater Revival"
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": "3IYUhFvPQItj6xySrBmZkd"
+        }
       ],
-      "artistId": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ],
-      "albumId": "4GLxEXWI3JiRKp6H7bfTIK",
+      "album": {
+        "id": "4GLxEXWI3JiRKp6H7bfTIK",
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261834aa14b97a7d9c693134f"
+      },
       "release_date": "1970-07-25",
       "popularity": 59
     },
     {
-      "trackId": "1E7rJS3Baxju0Ja3tgbky4",
-      "name": "Pathar Ke Sanam",
+      "track": {
+        "id": "1E7rJS3Baxju0Ja3tgbky4",
+        "name": "Pathar Ke Sanam"
+      },
       "duration_ms": 297880,
-      "artist": [
-        "Mohammed Rafi"
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "id": "0gXDpqwYNDODn7fB0RDN8J"
+        }
       ],
-      "artistId": [
-        "0gXDpqwYNDODn7fB0RDN8J"
-      ],
-      "albumId": "210AyFuO4BtbdAlpLkyztB",
+      "album": {
+        "id": "210AyFuO4BtbdAlpLkyztB",
+        "name": "Patthar Ke Sanam (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e14b27f67c0c0598ce29695b"
+      },
       "release_date": "1967-12-01",
       "popularity": 27
     },
     {
-      "trackId": "1SvXKQOazPTbpTWJugtSpS",
-      "name": "Grimasch om morgonen - 2007 Remaster",
+      "track": {
+        "id": "1SvXKQOazPTbpTWJugtSpS",
+        "name": "Grimasch om morgonen - 2007 Remaster"
+      },
       "duration_ms": 176493,
-      "artist": [
-        "Pugh Rogefeldt"
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "id": "22Wo43V44RtrpJZsjeI9EA"
+        }
       ],
-      "artistId": [
-        "22Wo43V44RtrpJZsjeI9EA"
-      ],
-      "albumId": "0wtDBZEFluo815L5ammyNn",
+      "album": {
+        "id": "0wtDBZEFluo815L5ammyNn",
+        "name": "Den Flygande Holländaren",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8282874301b3aafca4590b9"
+      },
       "release_date": "2007-12-05",
       "popularity": 15
     },
     {
-      "trackId": "4mn2kNTqiGLwaUR8JdhJ1l",
-      "name": "House of the Rising Sun",
+      "track": {
+        "id": "4mn2kNTqiGLwaUR8JdhJ1l",
+        "name": "House of the Rising Sun"
+      },
       "duration_ms": 269906,
-      "artist": [
-        "The Animals"
+      "artists": [
+        {
+          "name": "The Animals",
+          "id": "3ICflSq6ZgYAIrm2CTkfVP"
+        }
       ],
-      "artistId": [
-        "3ICflSq6ZgYAIrm2CTkfVP"
-      ],
-      "albumId": "1v4O55JGou3T0Vlj06fdXz",
+      "album": {
+        "id": "1v4O55JGou3T0Vlj06fdXz",
+        "name": "The Singles Plus",
+        "img": "https://i.scdn.co/image/ab67616d00001e02015c484a7aca592df1a77828"
+      },
       "release_date": "1987-10-19",
       "popularity": 74
     },
     {
-      "trackId": "1CTex49P0iWwzUGsMNjgaV",
-      "name": "Strange Fruit",
+      "track": {
+        "id": "1CTex49P0iWwzUGsMNjgaV",
+        "name": "Strange Fruit"
+      },
       "duration_ms": 192866,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "4MkdTflpaaGGcXb5vtOYRs",
+      "album": {
+        "id": "4MkdTflpaaGGcXb5vtOYRs",
+        "name": "Billie Holiday",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8743d2c7812763f7f66e83b"
+      },
       "release_date": "1957-01-01",
       "popularity": 56
     },
     {
-      "trackId": "5HxaRsnKOw5kVzoTXK42gD",
-      "name": "Is Your Love in Vain?",
+      "track": {
+        "id": "5HxaRsnKOw5kVzoTXK42gD",
+        "name": "Is Your Love in Vain?"
+      },
       "duration_ms": 271893,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "0bd6oCsp5JoJ5erpMzHu1U",
+      "album": {
+        "id": "0bd6oCsp5JoJ5erpMzHu1U",
+        "name": "Street-Legal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb91d62490c637ac95c747cf"
+      },
       "release_date": "1978-06-15",
       "popularity": 34
     },
     {
-      "trackId": "0R797G9o4tkDfRZj6KMnHS",
-      "name": "On The Turning Away - 2011 Remastered Version",
+      "track": {
+        "id": "0R797G9o4tkDfRZj6KMnHS",
+        "name": "On The Turning Away - 2011 Remastered Version"
+      },
       "duration_ms": 341666,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "1tWgv9v78StWukBRBVNyxA",
+      "album": {
+        "id": "1tWgv9v78StWukBRBVNyxA",
+        "name": "A Momentary Lapse Of Reason (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e56b1ba06c4e0871e5ec5f83"
+      },
       "release_date": "1987-09-07",
       "popularity": 50
     },
     {
-      "trackId": "0xLmm2bZ0jPNbvi2yYyL6j",
-      "name": "Cherry Oh Baby",
+      "track": {
+        "id": "0xLmm2bZ0jPNbvi2yYyL6j",
+        "name": "Cherry Oh Baby"
+      },
       "duration_ms": 161500,
-      "artist": [
-        "Byron Lee"
+      "artists": [
+        {
+          "name": "Byron Lee",
+          "id": "1qerVYQkyneFNgZfMKH6HX"
+        }
       ],
-      "artistId": [
-        "1qerVYQkyneFNgZfMKH6HX"
-      ],
-      "albumId": "02hmx1aWBdFIAIcgchse7r",
+      "album": {
+        "id": "02hmx1aWBdFIAIcgchse7r",
+        "name": "Rasta Love 20 Hot Reggae Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fa5190bafd5f739bf442ba3"
+      },
       "release_date": "2022-07-22",
       "popularity": 0
     }

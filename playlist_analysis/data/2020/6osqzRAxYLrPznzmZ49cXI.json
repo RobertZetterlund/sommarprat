@@ -7,162 +7,234 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/9e4279c2-9209-4cfc-9c11-f12819bb7b27.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4EdnF9XCU3d45DOcw8WTpR",
-      "name": "Din soldat",
+      "track": {
+        "id": "4EdnF9XCU3d45DOcw8WTpR",
+        "name": "Din soldat"
+      },
       "duration_ms": 198880,
-      "artist": [
-        "Albin Johnsén",
-        "Kristin Amparo"
+      "artists": [
+        {
+          "name": "Albin Johnsén",
+          "id": "6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "Kristin Amparo",
+          "id": "2vxWDuk2inw00eo3Hag2QR"
+        }
       ],
-      "artistId": [
-        "6IfZesOI3vKCZy8pjzVknj",
-        "2vxWDuk2inw00eo3Hag2QR"
-      ],
-      "albumId": "6raRtB3X8U1pHv8UjGOrpQ",
+      "album": {
+        "id": "6raRtB3X8U1pHv8UjGOrpQ",
+        "name": "Dyra tårar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1b5cf9556899e236dbc7eff"
+      },
       "release_date": "2015-05-22",
       "popularity": 53
     },
     {
-      "trackId": "5TL7PgOQNecIKmQLzizLbw",
-      "name": "Tilsammans é vi bra",
+      "track": {
+        "id": "5TL7PgOQNecIKmQLzizLbw",
+        "name": "Tilsammans é vi bra"
+      },
       "duration_ms": 236869,
-      "artist": [
-        "Fastpoholmen"
+      "artists": [
+        {
+          "name": "Fastpoholmen",
+          "id": "3M4FRKJfiRXRZeYqwdbnf1"
+        }
       ],
-      "artistId": [
-        "3M4FRKJfiRXRZeYqwdbnf1"
-      ],
-      "albumId": "24XF97XJp9PP2rqJR6jpHj",
+      "album": {
+        "id": "24XF97XJp9PP2rqJR6jpHj",
+        "name": "Drömmer Du?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02521fc837078ae54db9d6a89a"
+      },
       "release_date": "2016-02-19",
       "popularity": 31
     },
     {
-      "trackId": "1fGhWImpq7OSJvYy1WcfBD",
-      "name": "Det Kommer Bli Bra",
+      "track": {
+        "id": "1fGhWImpq7OSJvYy1WcfBD",
+        "name": "Det Kommer Bli Bra"
+      },
       "duration_ms": 231360,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "1TdBDgXrb8ELHqUKDl9uUa",
+      "album": {
+        "id": "1TdBDgXrb8ELHqUKDl9uUa",
+        "name": "Vatten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7a7440d118a30aa50833a5b"
+      },
       "release_date": "2022-03-25",
       "popularity": 55
     },
     {
-      "trackId": "6IOitwRrqNNymujyIZQ3Zn",
-      "name": "Life Is A Flower",
+      "track": {
+        "id": "6IOitwRrqNNymujyIZQ3Zn",
+        "name": "Life Is A Flower"
+      },
       "duration_ms": 169372,
-      "artist": [
-        "Miriam Bryant"
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "id": "2zd9YxlsQvA5mkZ1NarYVQ"
+        }
       ],
-      "artistId": [
-        "2zd9YxlsQvA5mkZ1NarYVQ"
-      ],
-      "albumId": "3jBdOBQUdU4Z0GPBYahCWD",
+      "album": {
+        "id": "3jBdOBQUdU4Z0GPBYahCWD",
+        "name": "Hisingen och hem igen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230e25e64860e7bc2a8a97d87"
+      },
       "release_date": "2016-01-01",
       "popularity": 38
     },
     {
-      "trackId": "2U8VPWTZX7DWZECpSB9TzK",
-      "name": "Tack för alla kyssar",
+      "track": {
+        "id": "2U8VPWTZX7DWZECpSB9TzK",
+        "name": "Tack för alla kyssar"
+      },
       "duration_ms": 188733,
-      "artist": [
-        "Yvonne Norrman"
+      "artists": [
+        {
+          "name": "Yvonne Norrman",
+          "id": "2LP0MSH3T4AE7oTgaeMj3e"
+        }
       ],
-      "artistId": [
-        "2LP0MSH3T4AE7oTgaeMj3e"
-      ],
-      "albumId": "3fvW0FDv696dhwz399au18",
+      "album": {
+        "id": "3fvW0FDv696dhwz399au18",
+        "name": "Schlagerfavoriter Vol.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bca113f943bf51f3e64add8e"
+      },
       "release_date": "2000-01-01",
       "popularity": 21
     },
     {
-      "trackId": "5KqDv7pQRxterca2zoF7i3",
-      "name": "Balladen om den blå baskern",
+      "track": {
+        "id": "5KqDv7pQRxterca2zoF7i3",
+        "name": "Balladen om den blå baskern"
+      },
       "duration_ms": 151933,
-      "artist": [
-        "Anita Lindblom"
+      "artists": [
+        {
+          "name": "Anita Lindblom",
+          "id": "2mcJ23guBaJ3g8i8Hjjw6E"
+        }
       ],
-      "artistId": [
-        "2mcJ23guBaJ3g8i8Hjjw6E"
-      ],
-      "albumId": "4OaO4l25ccG3Lh2e2wrYMk",
+      "album": {
+        "id": "4OaO4l25ccG3Lh2e2wrYMk",
+        "name": "Svenska favoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224306f840aaeaacd5e55e48d"
+      },
       "release_date": "1961-01-01",
       "popularity": 39
     },
     {
-      "trackId": "5szr4bzNGqGkLeYgSMMHso",
-      "name": "Jag hade en gång en båt",
+      "track": {
+        "id": "5szr4bzNGqGkLeYgSMMHso",
+        "name": "Jag hade en gång en båt"
+      },
       "duration_ms": 231333,
-      "artist": [
-        "Allyawan",
-        "Näääk"
+      "artists": [
+        {
+          "name": "Allyawan",
+          "id": "5Pcez7u1H2Po6e2LmMdF3f"
+        },
+        {
+          "name": "Näääk",
+          "id": "4zJlp9X6E6IpfUrIzwrg7S"
+        }
       ],
-      "artistId": [
-        "5Pcez7u1H2Po6e2LmMdF3f",
-        "4zJlp9X6E6IpfUrIzwrg7S"
-      ],
-      "albumId": "7bCBdPT2hSbaWhIBqyYgqd",
+      "album": {
+        "id": "7bCBdPT2hSbaWhIBqyYgqd",
+        "name": "Jag hade en gång en båt",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bfb42d5afa23c2ad370606e"
+      },
       "release_date": "2015-02-05",
       "popularity": 40
     },
     {
-      "trackId": "6xVr2J3X0zhEJQz5L0QNAP",
-      "name": "Trigger",
+      "track": {
+        "id": "6xVr2J3X0zhEJQz5L0QNAP",
+        "name": "Trigger"
+      },
       "duration_ms": 193440,
-      "artist": [
-        "Anne-Marie"
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "id": "1zNqDE7qDGCsyzJwohVaoX"
+        }
       ],
-      "artistId": [
-        "1zNqDE7qDGCsyzJwohVaoX"
-      ],
-      "albumId": "7lPoGKpCGgdKFAxpudhAH5",
+      "album": {
+        "id": "7lPoGKpCGgdKFAxpudhAH5",
+        "name": "Speak Your Mind (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238aae75dc37fb42457866ffd"
+      },
       "release_date": "2018-04-27",
       "popularity": 48
     },
     {
-      "trackId": "2Cd9iWfcOpGDHLz6tVA3G4",
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "track": {
+        "id": "2Cd9iWfcOpGDHLz6tVA3G4",
+        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)"
+      },
       "duration_ms": 202626,
-      "artist": [
-        "Shakira",
-        "Freshlyground"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "id": "7AcV1lk8Zrgo1691PDWEle"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "7AcV1lk8Zrgo1691PDWEle"
-      ],
-      "albumId": "3pzQF7YgU1f66pBayA8uHv",
+      "album": {
+        "id": "3pzQF7YgU1f66pBayA8uHv",
+        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02752d2becbb91841a31c556b8"
+      },
       "release_date": "2010-05-07",
       "popularity": 79
     },
     {
-      "trackId": "4ofwffwvvnbSkrMSCKQDaC",
-      "name": "Shotgun",
+      "track": {
+        "id": "4ofwffwvvnbSkrMSCKQDaC",
+        "name": "Shotgun"
+      },
       "duration_ms": 201287,
-      "artist": [
-        "George Ezra"
+      "artists": [
+        {
+          "name": "George Ezra",
+          "id": "2ysnwxxNtSgbb9t1m2Ur4j"
+        }
       ],
-      "artistId": [
-        "2ysnwxxNtSgbb9t1m2Ur4j"
-      ],
-      "albumId": "2NaulYO6lGXTyIzWTJvRJj",
+      "album": {
+        "id": "2NaulYO6lGXTyIzWTJvRJj",
+        "name": "Staying at Tamara's",
+        "img": "https://i.scdn.co/image/ab67616d00001e02103045cd1c29dd16a469f808"
+      },
       "release_date": "2018-03-23",
       "popularity": 78
     },
     {
-      "trackId": "09ZLthJQ2SCYKMsrsDPcfw",
-      "name": "Going The Distance",
+      "track": {
+        "id": "09ZLthJQ2SCYKMsrsDPcfw",
+        "name": "Going The Distance"
+      },
       "duration_ms": 157622,
-      "artist": [
-        "The Rocky Soloists & Orchestra"
+      "artists": [
+        {
+          "name": "The Rocky Soloists & Orchestra",
+          "id": "5fge6vobDunRkgaVl54Uh0"
+        }
       ],
-      "artistId": [
-        "5fge6vobDunRkgaVl54Uh0"
-      ],
-      "albumId": "50mja1rtC0ExIrSw9SoT5j",
+      "album": {
+        "id": "50mja1rtC0ExIrSw9SoT5j",
+        "name": "Rocky Balboa",
+        "img": "https://i.scdn.co/image/ab67616d00001e022832d41a0d703d9ea71a1c1b"
+      },
       "release_date": "2011-11-29",
       "popularity": 53
     }

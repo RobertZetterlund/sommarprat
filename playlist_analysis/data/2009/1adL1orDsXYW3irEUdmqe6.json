@@ -7,224 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3246433_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1NoIZ1658UHpicKQ9rcWYh",
-      "name": "Corinna - From \"The Natch'l Blues\"",
+      "track": {
+        "id": "1NoIZ1658UHpicKQ9rcWYh",
+        "name": "Corinna - From \"The Natch'l Blues\""
+      },
       "duration_ms": 182506,
-      "artist": [
-        "Taj Mahal"
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "id": "1aTDTChWWyiJH3SEnYrdVp"
+        }
       ],
-      "artistId": [
-        "1aTDTChWWyiJH3SEnYrdVp"
-      ],
-      "albumId": "6ySAyGtXqiqF3Vya9bIir2",
+      "album": {
+        "id": "6ySAyGtXqiqF3Vya9bIir2",
+        "name": "The Natch'l Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02924652e54e8a91fa212f01c5"
+      },
       "release_date": "1968",
       "popularity": 53
     },
     {
-      "trackId": "2kju4JyRnNmiwQYhFrLgKy",
-      "name": "Hornstullsstrand",
+      "track": {
+        "id": "2kju4JyRnNmiwQYhFrLgKy",
+        "name": "Hornstullsstrand"
+      },
       "duration_ms": 237563,
-      "artist": [
-        "Hov1",
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Hov1",
+          "id": "68dW5BU6sdVNf099EylxEt"
+        },
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "68dW5BU6sdVNf099EylxEt",
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "4MZDAsx9CpJHFxphmsuGGF",
+      "album": {
+        "id": "4MZDAsx9CpJHFxphmsuGGF",
+        "name": "Vindar på Mars",
+        "img": "https://i.scdn.co/image/ab67616d00001e024783ae04b44b7ba73068f1d0"
+      },
       "release_date": "2019-05-17",
       "popularity": 58
     },
     {
-      "trackId": "1TrGdXSgiBm8W68D2K1COG",
-      "name": "Cross Road Blues",
+      "track": {
+        "id": "1TrGdXSgiBm8W68D2K1COG",
+        "name": "Cross Road Blues"
+      },
       "duration_ms": 149560,
-      "artist": [
-        "Robert Johnson"
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "id": "0f8MDDzIc6M4uH1xH0o0gy"
+        }
       ],
-      "artistId": [
-        "0f8MDDzIc6M4uH1xH0o0gy"
-      ],
-      "albumId": "2IWaNq5o4tG1w6yxve5BMU",
+      "album": {
+        "id": "2IWaNq5o4tG1w6yxve5BMU",
+        "name": "King Of The Delta Blues Singers",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212549da864353c084cf0faa6"
+      },
       "release_date": "1937",
       "popularity": 51
     },
     {
-      "trackId": "2yGjnsSQrv6c7eCGNRzG1a",
-      "name": "Jag är brun - Jag är inte vit, nej, inte precis",
+      "track": {
+        "id": "2yGjnsSQrv6c7eCGNRzG1a",
+        "name": "Jag är brun - Jag är inte vit, nej, inte precis"
+      },
       "duration_ms": 178331,
-      "artist": [
-        "Cyndee Peters",
-        "Eric Bibb"
+      "artists": [
+        {
+          "name": "Cyndee Peters",
+          "id": "0hoJOBOz6E9TTZliZ1tzwg"
+        },
+        {
+          "name": "Eric Bibb",
+          "id": "2uNcfNhlVJUyEX0t0NG1m1"
+        }
       ],
-      "artistId": [
-        "0hoJOBOz6E9TTZliZ1tzwg",
-        "2uNcfNhlVJUyEX0t0NG1m1"
-      ],
-      "albumId": "53mD6MazZLDIT3ls3BxmXt",
+      "album": {
+        "id": "53mD6MazZLDIT3ls3BxmXt",
+        "name": "Olikalikadant",
+        "img": "https://i.scdn.co/image/ab67616d00001e02973ba8cc15f0c1b02fa95480"
+      },
       "release_date": "2017-09-29",
       "popularity": 1
     },
     {
-      "trackId": "5L1rv0fUflwfLT49CmBkuu",
-      "name": "Praising Peace",
+      "track": {
+        "id": "5L1rv0fUflwfLT49CmBkuu",
+        "name": "Praising Peace"
+      },
       "duration_ms": 249280,
-      "artist": [
-        "Leon & Eric Bibb"
+      "artists": [
+        {
+          "name": "Leon & Eric Bibb",
+          "id": "5gGptdaqomlCVwy2BMG3GZ"
+        }
       ],
-      "artistId": [
-        "5gGptdaqomlCVwy2BMG3GZ"
-      ],
-      "albumId": "414eh3ePcYgWctRLfgS7SR",
+      "album": {
+        "id": "414eh3ePcYgWctRLfgS7SR",
+        "name": "Praising Peace: A Tribute to Paul Robeson",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e6e0a8836d78c524b47d33c"
+      },
       "release_date": "2006-03-28",
       "popularity": 0
     },
     {
-      "trackId": "67ixbDwQlWNsNItfE5NWlw",
-      "name": "Kita Kaira",
+      "track": {
+        "id": "67ixbDwQlWNsNItfE5NWlw",
+        "name": "Kita Kaira"
+      },
       "duration_ms": 543360,
-      "artist": [
-        "Toumani Diabaté",
-        "Ballaké Sissoko"
+      "artists": [
+        {
+          "name": "Toumani Diabaté",
+          "id": "2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballaké Sissoko",
+          "id": "0OQeMFqoRD5clB0cPYVbxY"
+        }
       ],
-      "artistId": [
-        "2nCACYdIndYchzX4bxLcTW",
-        "0OQeMFqoRD5clB0cPYVbxY"
-      ],
-      "albumId": "4QYwF3SPWWDwoiS8SnKX4X",
+      "album": {
+        "id": "4QYwF3SPWWDwoiS8SnKX4X",
+        "name": "New Ancient Strings",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284c3e625d15f004521747670"
+      },
       "release_date": "1999-06-22",
       "popularity": 25
     },
     {
-      "trackId": "0b7YcZJ186TaQZzxrxIO1e",
-      "name": "Yanna",
+      "track": {
+        "id": "0b7YcZJ186TaQZzxrxIO1e",
+        "name": "Yanna"
+      },
       "duration_ms": 133458,
-      "artist": [
-        "Chop Daily",
-        "Deyon Agoi"
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "id": "36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Deyon Agoi",
+          "id": "7eJtF350ch6EJsxAo8uZJT"
+        }
       ],
-      "artistId": [
-        "36cvcz2WaGMpYLeFaeWZUG",
-        "7eJtF350ch6EJsxAo8uZJT"
-      ],
-      "albumId": "55xo1Md0PcVXGOBZVArzqp",
+      "album": {
+        "id": "55xo1Md0PcVXGOBZVArzqp",
+        "name": "Yanna",
+        "img": "https://i.scdn.co/image/ab67616d00001e021df7b5f4d1c62336fb3b683e"
+      },
       "release_date": "2021-07-23",
       "popularity": 56
     },
     {
-      "trackId": "0pbqWe8Z4EgUjlO7gbDEuC",
-      "name": "I'm Through Trying To Prove My Love To You",
+      "track": {
+        "id": "0pbqWe8Z4EgUjlO7gbDEuC",
+        "name": "I'm Through Trying To Prove My Love To You"
+      },
       "duration_ms": 215053,
-      "artist": [
-        "Bobby Womack"
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "id": "0vqkz1b2qBkoYrGMj2CUWq"
+        }
       ],
-      "artistId": [
-        "0vqkz1b2qBkoYrGMj2CUWq"
-      ],
-      "albumId": "6aBN9OWwAcB49LWlI95ekd",
+      "album": {
+        "id": "6aBN9OWwAcB49LWlI95ekd",
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e020005beaf2189c4687ca1e060"
+      },
       "release_date": "2008-01-01",
       "popularity": 22
     },
     {
-      "trackId": "0b7YcZJ186TaQZzxrxIO1e",
-      "name": "Yanna",
+      "track": {
+        "id": "0b7YcZJ186TaQZzxrxIO1e",
+        "name": "Yanna"
+      },
       "duration_ms": 133458,
-      "artist": [
-        "Chop Daily",
-        "Deyon Agoi"
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "id": "36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Deyon Agoi",
+          "id": "7eJtF350ch6EJsxAo8uZJT"
+        }
       ],
-      "artistId": [
-        "36cvcz2WaGMpYLeFaeWZUG",
-        "7eJtF350ch6EJsxAo8uZJT"
-      ],
-      "albumId": "55xo1Md0PcVXGOBZVArzqp",
+      "album": {
+        "id": "55xo1Md0PcVXGOBZVArzqp",
+        "name": "Yanna",
+        "img": "https://i.scdn.co/image/ab67616d00001e021df7b5f4d1c62336fb3b683e"
+      },
       "release_date": "2021-07-23",
       "popularity": 56
     },
     {
-      "trackId": "5oupDK97TBxNJUXoPYIHUk",
-      "name": "Sebastian's Tune (Instrumental Version)",
+      "track": {
+        "id": "5oupDK97TBxNJUXoPYIHUk",
+        "name": "Sebastian's Tune (Instrumental Version)"
+      },
       "duration_ms": 114573,
-      "artist": [
-        "Eric Bibb"
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "id": "2uNcfNhlVJUyEX0t0NG1m1"
+        }
       ],
-      "artistId": [
-        "2uNcfNhlVJUyEX0t0NG1m1"
-      ],
-      "albumId": "7mSTcDE2JgQR2oF2HEbW8j",
+      "album": {
+        "id": "7mSTcDE2JgQR2oF2HEbW8j",
+        "name": "Guitar Tab Songbook Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02433292983ae2d31790f1c9f5"
+      },
       "release_date": "2015-05-18",
       "popularity": 4
     },
     {
-      "trackId": "2uodR2mTt5ijJ3RAglXGqC",
-      "name": "Where The Green Grass Grows",
+      "track": {
+        "id": "2uodR2mTt5ijJ3RAglXGqC",
+        "name": "Where The Green Grass Grows"
+      },
       "duration_ms": 278373,
-      "artist": [
-        "Eric Bibb"
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "id": "2uNcfNhlVJUyEX0t0NG1m1"
+        }
       ],
-      "artistId": [
-        "2uNcfNhlVJUyEX0t0NG1m1"
-      ],
-      "albumId": "3EMCBydXnaoD8BcefKqn9A",
+      "album": {
+        "id": "3EMCBydXnaoD8BcefKqn9A",
+        "name": "Good Stuff",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cea5a3d02b8e2eae1c7de7ff"
+      },
       "release_date": "1997-02-20",
       "popularity": 40
     },
     {
-      "trackId": "4GjDv4OXpfLjl6IHwP0qHi",
-      "name": "I denna ljuva sommartid",
+      "track": {
+        "id": "4GjDv4OXpfLjl6IHwP0qHi",
+        "name": "I denna ljuva sommartid"
+      },
       "duration_ms": 341053,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "66UlYmho3y93wU5c30eFk8",
+      "album": {
+        "id": "66UlYmho3y93wU5c30eFk8",
+        "name": "Folk Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e021dbc612e87f221555c51bcaf"
+      },
       "release_date": "2002-02-04",
       "popularity": 9
     },
     {
-      "trackId": "7weguQMSXpeJCOYDt5ux39",
-      "name": "Nouse lauluni",
+      "track": {
+        "id": "7weguQMSXpeJCOYDt5ux39",
+        "name": "Nouse lauluni"
+      },
       "duration_ms": 184626,
-      "artist": [
-        "Rajaton"
+      "artists": [
+        {
+          "name": "Rajaton",
+          "id": "3ZfVp9mvvJt4Zly7lxgcaR"
+        }
       ],
-      "artistId": [
-        "3ZfVp9mvvJt4Zly7lxgcaR"
-      ],
-      "albumId": "05N1b9lVYDH0WMKloT8vKn",
+      "album": {
+        "id": "05N1b9lVYDH0WMKloT8vKn",
+        "name": "Maa",
+        "img": "https://i.scdn.co/image/ab67616d00001e024614286ea9c55394f1c543e1"
+      },
       "release_date": "2007-10-08",
       "popularity": 7
     },
     {
-      "trackId": "29Muv7jjfAdDWibxwd5XWS",
-      "name": "Anyone Else (feat. Dagny)",
+      "track": {
+        "id": "29Muv7jjfAdDWibxwd5XWS",
+        "name": "Anyone Else (feat. Dagny)"
+      },
       "duration_ms": 201243,
-      "artist": [
-        "Matilda",
-        "Dagny"
+      "artists": [
+        {
+          "name": "Matilda",
+          "id": "4F7wGFfIXuQUBFoxiZ9WFp"
+        },
+        {
+          "name": "Dagny",
+          "id": "6Paz0vXJJ9bCPf0fEm3qzg"
+        }
       ],
-      "artistId": [
-        "4F7wGFfIXuQUBFoxiZ9WFp",
-        "6Paz0vXJJ9bCPf0fEm3qzg"
-      ],
-      "albumId": "1GTuwBGnJi2PpOQtSk66YD",
+      "album": {
+        "id": "1GTuwBGnJi2PpOQtSk66YD",
+        "name": "Retrospect",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220f89c4bcab181a4441e3d4d"
+      },
       "release_date": "2020-09-18",
       "popularity": 49
     },
     {
-      "trackId": "5WGOhaEiVJzjeUbjgPK2ww",
-      "name": "When You Smile",
+      "track": {
+        "id": "5WGOhaEiVJzjeUbjgPK2ww",
+        "name": "When You Smile"
+      },
       "duration_ms": 218624,
-      "artist": [
-        "Furkan Senol"
+      "artists": [
+        {
+          "name": "Furkan Senol",
+          "id": "6x2HsoowTJCGtR5iVm8pIn"
+        }
       ],
-      "artistId": [
-        "6x2HsoowTJCGtR5iVm8pIn"
-      ],
-      "albumId": "51r1JTgzMPaY7wrQaNBjM6",
+      "album": {
+        "id": "51r1JTgzMPaY7wrQaNBjM6",
+        "name": "Sun:Sets 2018 (Selected by Chicane)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02053bd38800ff8620e89d5007"
+      },
       "release_date": "2018-01-19",
       "popularity": 35
     }

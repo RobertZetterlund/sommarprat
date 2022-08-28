@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/dc45e520-e6a8-4223-b02a-97a02e2d5fa3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2SgNoPUi4SOUNmp2Y7SNQj",
-      "name": "Duncan",
+      "track": {
+        "id": "2SgNoPUi4SOUNmp2Y7SNQj",
+        "name": "Duncan"
+      },
       "duration_ms": 283133,
-      "artist": [
-        "Paul Simon"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI"
-      ],
-      "albumId": "7npBPiCHjPj8PVIGPuHXep",
+      "album": {
+        "id": "7npBPiCHjPj8PVIGPuHXep",
+        "name": "Paul Simon",
+        "img": "https://i.scdn.co/image/ab67616d00001e0237a40ab12a4fb96319a9d96f"
+      },
       "release_date": "1972-01-14",
       "popularity": 43
     },
     {
-      "trackId": "5kcjWOILWbY2Ve2dKfwPcI",
-      "name": "Summer 2016 - Medley / Extended",
+      "track": {
+        "id": "5kcjWOILWbY2Ve2dKfwPcI",
+        "name": "Summer 2016 - Medley / Extended"
+      },
       "duration_ms": 238485,
-      "artist": [
-        "L.E.J"
+      "artists": [
+        {
+          "name": "L.E.J",
+          "id": "7kKKMBmEtyQcPb9idicNr7"
+        }
       ],
-      "artistId": [
-        "7kKKMBmEtyQcPb9idicNr7"
-      ],
-      "albumId": "2zG74d6yiY9cyyTz3C2XSM",
+      "album": {
+        "id": "2zG74d6yiY9cyyTz3C2XSM",
+        "name": "Summer 2016 (Medley / Extended)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f927afef9e0b48cdf6a51516"
+      },
       "release_date": "2016-08-05",
       "popularity": 43
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     },
     {
-      "trackId": "04THDeae1JffG8rhV5s14d",
-      "name": "Year of the Young",
+      "track": {
+        "id": "04THDeae1JffG8rhV5s14d",
+        "name": "Year of the Young"
+      },
       "duration_ms": 164200,
-      "artist": [
-        "Smith & Thell"
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "id": "1ZrBGJWLL8NiAjgNifCy90"
+        }
       ],
-      "artistId": [
-        "1ZrBGJWLL8NiAjgNifCy90"
-      ],
-      "albumId": "22dckYKF8R2zGtwLRhnF1r",
+      "album": {
+        "id": "22dckYKF8R2zGtwLRhnF1r",
+        "name": "Pixie's Parasol",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284039f6b5f06e937e299dfd2"
+      },
       "release_date": "2021-02-05",
       "popularity": 57
     },
     {
-      "trackId": "2LDIXBPMG1xP57KDTTUGYx",
-      "name": "Karl-Bertil Jonsson 14 år",
+      "track": {
+        "id": "2LDIXBPMG1xP57KDTTUGYx",
+        "name": "Karl-Bertil Jonsson 14 år"
+      },
       "duration_ms": 191586,
-      "artist": [
-        "My & Mats"
+      "artists": [
+        {
+          "name": "My & Mats",
+          "id": "4ppoX6F1mJJLdi9R6ycLdq"
+        }
       ],
-      "artistId": [
-        "4ppoX6F1mJJLdi9R6ycLdq"
-      ],
-      "albumId": "5oFltb5osympqWxprRRJmG",
+      "album": {
+        "id": "5oFltb5osympqWxprRRJmG",
+        "name": "God jul, god jul",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee34c5611ddf71eee6db03f9"
+      },
       "release_date": "2017-11-17",
       "popularity": 33
     },
     {
-      "trackId": "4AvvHmGzjW8Y7JZlq51NAQ",
-      "name": "True Colors",
+      "track": {
+        "id": "4AvvHmGzjW8Y7JZlq51NAQ",
+        "name": "True Colors"
+      },
       "duration_ms": 140480,
-      "artist": [
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "3lDLnElZehSq7Vbs9T2hSR",
+      "album": {
+        "id": "3lDLnElZehSq7Vbs9T2hSR",
+        "name": "Changing Of The Seasons",
+        "img": "https://i.scdn.co/image/ab67616d00001e02453f7a6ef0fdde3663c7d8b9"
+      },
       "release_date": "2008",
       "popularity": 45
     },
     {
-      "trackId": "1z6WtY7X4HQJvzxC4UgkSf",
-      "name": "Love On Top",
+      "track": {
+        "id": "1z6WtY7X4HQJvzxC4UgkSf",
+        "name": "Love On Top"
+      },
       "duration_ms": 267413,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "name": "4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd"
+      },
       "release_date": "2011-06-24",
       "popularity": 74
     },
     {
-      "trackId": "389QX9Q1eUOEZ19vtzzI9O",
-      "name": "While My Guitar Gently Weeps - Remastered 2009",
+      "track": {
+        "id": "389QX9Q1eUOEZ19vtzzI9O",
+        "name": "While My Guitar Gently Weeps - Remastered 2009"
+      },
       "duration_ms": 285000,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 69
     },
     {
-      "trackId": "1Cwsd5xI8CajJz795oy4XF",
-      "name": "You Get What You Give",
+      "track": {
+        "id": "1Cwsd5xI8CajJz795oy4XF",
+        "name": "You Get What You Give"
+      },
       "duration_ms": 300773,
-      "artist": [
-        "New Radicals"
+      "artists": [
+        {
+          "name": "New Radicals",
+          "id": "0Grjlu7ncIuCaSYvCs9fcd"
+        }
       ],
-      "artistId": [
-        "0Grjlu7ncIuCaSYvCs9fcd"
-      ],
-      "albumId": "13btXEnBerpA1UjIVtsMAR",
+      "album": {
+        "id": "13btXEnBerpA1UjIVtsMAR",
+        "name": "Maybe You've Been Brainwashed Too",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfdedd4553b40bbaab342dae"
+      },
       "release_date": "1998-01-01",
       "popularity": 74
     },
     {
-      "trackId": "5CKHhg31HcYYhwUeeGqvhq",
-      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "track": {
+        "id": "5CKHhg31HcYYhwUeeGqvhq",
+        "name": "I Wish I Knew How It Would Feel to Be Free"
+      },
       "duration_ms": 188613,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "2miVfa78vOd0o8Vbsgd7g3",
+      "album": {
+        "id": "2miVfa78vOd0o8Vbsgd7g3",
+        "name": "Silk & Soul (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cf2e3d1e85c5bd6d7bedee0"
+      },
       "release_date": "1967",
       "popularity": 61
     },
     {
-      "trackId": "0EbR2lcuOI1rW7AumODSoK",
-      "name": "Vals på Mysingen",
+      "track": {
+        "id": "0EbR2lcuOI1rW7AumODSoK",
+        "name": "Vals på Mysingen"
+      },
       "duration_ms": 206000,
-      "artist": [
-        "Pelle Törner tolkar Evert Taube"
+      "artists": [
+        {
+          "name": "Pelle Törner tolkar Evert Taube",
+          "id": "43fyLgKxdLFHnrobAXQw5d"
+        }
       ],
-      "artistId": [
-        "43fyLgKxdLFHnrobAXQw5d"
-      ],
-      "albumId": "4HmmCy1mSDaQy6vTRL7fXI",
+      "album": {
+        "id": "4HmmCy1mSDaQy6vTRL7fXI",
+        "name": "Vi går till Utö för natten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be6254f94ef172401936cd86"
+      },
       "release_date": "1983",
       "popularity": 7
     },
     {
-      "trackId": "0T15kUJIrTXNcYEbbSfgSz",
-      "name": "Skymningsland 2 år",
+      "track": {
+        "id": "0T15kUJIrTXNcYEbbSfgSz",
+        "name": "Skymningsland 2 år"
+      },
       "duration_ms": 200202,
-      "artist": [
-        "Christer Lindén"
+      "artists": [
+        {
+          "name": "Christer Lindén",
+          "id": "22TST7xLtdJRnaBO86usT6"
+        }
       ],
-      "artistId": [
-        "22TST7xLtdJRnaBO86usT6"
-      ],
-      "albumId": "7JI33tzVVNRBElrBO9E6wy",
+      "album": {
+        "id": "7JI33tzVVNRBElrBO9E6wy",
+        "name": "Allt Var bra tills Jag Vakna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea0edf0c5184a35675aadc38"
+      },
       "release_date": "2020-11-13",
       "popularity": 1
     }

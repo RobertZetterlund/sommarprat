@@ -7,238 +7,354 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2936608_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7faWy3kAy0GkTqAzkUBhCf",
-      "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+      "track": {
+        "id": "7faWy3kAy0GkTqAzkUBhCf",
+        "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante"
+      },
       "duration_ms": 362520,
-      "artist": [
-        "Dmitri Shostakovich",
-        "I Musici de Montréal",
-        "Maxim Shostakovich"
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "I Musici de Montréal",
+          "id": "6zB5N5OhPV65PGkh4rPVHK"
+        },
+        {
+          "name": "Maxim Shostakovich",
+          "id": "7pVJ9rSyonlAZzWHtfVURF"
+        }
       ],
-      "artistId": [
-        "6s1pCNXcbdtQJlsnM1hRIA",
-        "6zB5N5OhPV65PGkh4rPVHK",
-        "7pVJ9rSyonlAZzWHtfVURF"
-      ],
-      "albumId": "4qQEDWPa2G5P4G4CT0av5u",
+      "album": {
+        "id": "4qQEDWPa2G5P4G4CT0av5u",
+        "name": "Shostakovich: Piano Concerto No. 2 / Symphony for Strings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ecfaa75f3e035bb88100b3a3"
+      },
       "release_date": "1986-02-01",
       "popularity": 46
     },
     {
-      "trackId": "0oSPhijdd1BqG906U76EqH",
-      "name": "Det finns ingen annan",
+      "track": {
+        "id": "0oSPhijdd1BqG906U76EqH",
+        "name": "Det finns ingen annan"
+      },
       "duration_ms": 135600,
-      "artist": [
-        "Carl Eric Thörn"
+      "artists": [
+        {
+          "name": "Carl Eric Thörn",
+          "id": "6LRuMkhfGlVN26BWRNJllK"
+        }
       ],
-      "artistId": [
-        "6LRuMkhfGlVN26BWRNJllK"
-      ],
-      "albumId": "5ZUeJny1q3n3tSVslk9j5Y",
+      "album": {
+        "id": "5ZUeJny1q3n3tSVslk9j5Y",
+        "name": "Carl Eric Thörns Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217ad4d04891fd81bc8da33f0"
+      },
       "release_date": "2003-01-01",
       "popularity": 15
     },
     {
-      "trackId": "7z88hLSesdUzt84MsPuAil",
-      "name": "Spiegel im Spiegel - Version for Cello and Piano",
+      "track": {
+        "id": "7z88hLSesdUzt84MsPuAil",
+        "name": "Spiegel im Spiegel - Version for Cello and Piano"
+      },
       "duration_ms": 552866,
-      "artist": [
-        "Arvo Pärt",
-        "Alexander Malter",
-        "Dietmar Schwalke"
+      "artists": [
+        {
+          "name": "Arvo Pärt",
+          "id": "2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alexander Malter",
+          "id": "7ku4vnPiSrXkUarPFjlzwH"
+        },
+        {
+          "name": "Dietmar Schwalke",
+          "id": "7w60M7Mg34gEJvgkCJINtm"
+        }
       ],
-      "artistId": [
-        "2P6ygesd9xg5DPOBnda2jg",
-        "7ku4vnPiSrXkUarPFjlzwH",
-        "7w60M7Mg34gEJvgkCJINtm"
-      ],
-      "albumId": "69iw6Zy6fh2dSnEgBTZKJE",
+      "album": {
+        "id": "69iw6Zy6fh2dSnEgBTZKJE",
+        "name": "Arvo Pärt: Alina",
+        "img": "https://i.scdn.co/image/ab67616d00001e02528dc2d3e31f07374a703bed"
+      },
       "release_date": "1999-10-15",
       "popularity": 34
     },
     {
-      "trackId": "1juisCcrVdwoLbDWyVvNrX",
-      "name": "6 Impromptus, Op. 5: Impromptu VI",
+      "track": {
+        "id": "1juisCcrVdwoLbDWyVvNrX",
+        "name": "6 Impromptus, Op. 5: Impromptu VI"
+      },
       "duration_ms": 369026,
-      "artist": [
-        "Jean Sibelius",
-        "Leif Ove Andsnes"
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "id": "7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "id": "7J9Fo9dMjGNYY8usNMietL"
+        }
       ],
-      "artistId": [
-        "7jzR5qj8vFnSu5JHaXgFEr",
-        "7J9Fo9dMjGNYY8usNMietL"
-      ],
-      "albumId": "4lNwSgAyaE91u37nrQcRFe",
+      "album": {
+        "id": "4lNwSgAyaE91u37nrQcRFe",
+        "name": "Sibelius",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b697be3706f05c2d9c5a13a"
+      },
       "release_date": "2017-09-01",
       "popularity": 57
     },
     {
-      "trackId": "7En0S2TM4sV0dFBEaRpGzo",
-      "name": "Rondo amoroso Op. 14 nr. 7",
+      "track": {
+        "id": "7En0S2TM4sV0dFBEaRpGzo",
+        "name": "Rondo amoroso Op. 14 nr. 7"
+      },
       "duration_ms": 215293,
-      "artist": [
-        "Harald Sæverud",
-        "Lars Roos"
+      "artists": [
+        {
+          "name": "Harald Sæverud",
+          "id": "6OL2x3B9GHdjuo6pS26kac"
+        },
+        {
+          "name": "Lars Roos",
+          "id": "0M95sWc84uLm8fM6Sl3b9t"
+        }
       ],
-      "artistId": [
-        "6OL2x3B9GHdjuo6pS26kac",
-        "0M95sWc84uLm8fM6Sl3b9t"
-      ],
-      "albumId": "5kNtawG9MlSN6KYTfFhePw",
+      "album": {
+        "id": "5kNtawG9MlSN6KYTfFhePw",
+        "name": "Nordisk Pianolyrik",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a698ec075f9d6a4d1fc0791"
+      },
       "release_date": "1997-01-01",
       "popularity": 0
     },
     {
-      "trackId": "48LoEjN0gcVOapmblZa6BV",
-      "name": "Sonatina for Piano: I. Entrée (Live)",
+      "track": {
+        "id": "48LoEjN0gcVOapmblZa6BV",
+        "name": "Sonatina for Piano: I. Entrée (Live)"
+      },
       "duration_ms": 374226,
-      "artist": [
-        "Friedrich Gulda"
+      "artists": [
+        {
+          "name": "Friedrich Gulda",
+          "id": "2sjOsPGCavFqNIgpCoy2hJ"
+        }
       ],
-      "artistId": [
-        "2sjOsPGCavFqNIgpCoy2hJ"
-      ],
-      "albumId": "7ez3UNYlm9vGF7MWCDXc1K",
+      "album": {
+        "id": "7ez3UNYlm9vGF7MWCDXc1K",
+        "name": "Gulda: Works (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b90b1da4b1a31a6d357f8cfa"
+      },
       "release_date": "2021-01-22",
       "popularity": 0
     },
     {
-      "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
-      "name": "Ska vi byta?",
+      "track": {
+        "id": "3LSdaNWsEMAuiXy3xYm3gZ",
+        "name": "Ska vi byta?"
+      },
       "duration_ms": 155440,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     },
     {
-      "trackId": "4KY3w8Hm8dTIqKbUFn9T3z",
-      "name": "Ballad på en soptipp",
+      "track": {
+        "id": "4KY3w8Hm8dTIqKbUFn9T3z",
+        "name": "Ballad på en soptipp"
+      },
       "duration_ms": 156826,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "6ILQonIkV5DsmZXgmzXId3",
+      "album": {
+        "id": "6ILQonIkV5DsmZXgmzXId3",
+        "name": "Ballader och oförskämdheter",
+        "img": "https://i.scdn.co/image/ab67616d00001e029728a1c60dc11a48a27f2d41"
+      },
       "release_date": "1964",
       "popularity": 31
     },
     {
-      "trackId": "3N44qDNFIaDBpnCPfSdUHt",
-      "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)",
+      "track": {
+        "id": "3N44qDNFIaDBpnCPfSdUHt",
+        "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)"
+      },
       "duration_ms": 403626,
-      "artist": [
-        "Christoph Willibald Gluck",
-        "Karlheinz Zoeller",
-        "Berliner Philharmoniker"
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "id": "7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Karlheinz Zoeller",
+          "id": "3hWZ5HYXvAJf8ZS9KkFYtn"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        }
       ],
-      "artistId": [
-        "7vfydQ0nVBVgJ0ajs8EtRM",
-        "3hWZ5HYXvAJf8ZS9KkFYtn",
-        "6uRJnvQ3f8whVnmeoecv5Z"
-      ],
-      "albumId": "6nRbwFgnL2EUMSQDLOuXzm",
+      "album": {
+        "id": "6nRbwFgnL2EUMSQDLOuXzm",
+        "name": "Klassiskt - 27 kända klassiska mästerverk",
+        "img": "https://i.scdn.co/image/ab67616d00001e021aec098f9152dd4cc6489314"
+      },
       "release_date": "2010-01-01",
       "popularity": 15
     },
     {
-      "trackId": "3AH4EfPTgD6SECFGqowCu3",
-      "name": "Bach, JS: Brandenburg Concerto No. 3 in G Major, BWV 1048: I. (Allegro)",
+      "track": {
+        "id": "3AH4EfPTgD6SECFGqowCu3",
+        "name": "Bach, JS: Brandenburg Concerto No. 3 in G Major, BWV 1048: I. (Allegro)"
+      },
       "duration_ms": 386253,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Sir Neville Marriner",
-        "George Malcolm"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "id": "6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "George Malcolm",
+          "id": "5ccyh1kIfmtUfJf4d5wchx"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "6NUhQz7eAEsZvjEHTKHux9",
-        "5ccyh1kIfmtUfJf4d5wchx"
-      ],
-      "albumId": "0pdCPqdLH5IW41NWRGGmC0",
+      "album": {
+        "id": "0pdCPqdLH5IW41NWRGGmC0",
+        "name": "Bach: Brandenburg Concertos - Orchestral Suites",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217eeeab012f9e49882b39f87"
+      },
       "release_date": "1987",
       "popularity": 20
     },
     {
-      "trackId": "6copqnozlU7klnzLV5em9d",
-      "name": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro",
+      "track": {
+        "id": "6copqnozlU7klnzLV5em9d",
+        "name": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro"
+      },
       "duration_ms": 174613,
-      "artist": [
-        "Arcangelo Corelli",
-        "Trio Sonnerie"
+      "artists": [
+        {
+          "name": "Arcangelo Corelli",
+          "id": "5dmMpIyAVaH6b9FLFgWPrF"
+        },
+        {
+          "name": "Trio Sonnerie",
+          "id": "4x9rlEB9YZLRUzCY4gz1Ki"
+        }
       ],
-      "artistId": [
-        "5dmMpIyAVaH6b9FLFgWPrF",
-        "4x9rlEB9YZLRUzCY4gz1Ki"
-      ],
-      "albumId": "2d3if0OXl7v3oy4sTBEAgI",
+      "album": {
+        "id": "2d3if0OXl7v3oy4sTBEAgI",
+        "name": "Corelli: Violin Sonatas, Op. 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f8b5d73dbe29d16472517c9"
+      },
       "release_date": "1989",
       "popularity": 39
     },
     {
-      "trackId": "6copqnozlU7klnzLV5em9d",
-      "name": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro",
+      "track": {
+        "id": "6copqnozlU7klnzLV5em9d",
+        "name": "Sonata a violono e violone e cimbalo, Op. 5, Sonata No.11 in E: II.Allegro"
+      },
       "duration_ms": 174613,
-      "artist": [
-        "Arcangelo Corelli",
-        "Trio Sonnerie"
+      "artists": [
+        {
+          "name": "Arcangelo Corelli",
+          "id": "5dmMpIyAVaH6b9FLFgWPrF"
+        },
+        {
+          "name": "Trio Sonnerie",
+          "id": "4x9rlEB9YZLRUzCY4gz1Ki"
+        }
       ],
-      "artistId": [
-        "5dmMpIyAVaH6b9FLFgWPrF",
-        "4x9rlEB9YZLRUzCY4gz1Ki"
-      ],
-      "albumId": "2d3if0OXl7v3oy4sTBEAgI",
+      "album": {
+        "id": "2d3if0OXl7v3oy4sTBEAgI",
+        "name": "Corelli: Violin Sonatas, Op. 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f8b5d73dbe29d16472517c9"
+      },
       "release_date": "1989",
       "popularity": 39
     },
     {
-      "trackId": "4wmdo3Ib8VgdTDLsuAZCkY",
-      "name": "Ska nya röster sjunga",
+      "track": {
+        "id": "4wmdo3Ib8VgdTDLsuAZCkY",
+        "name": "Ska nya röster sjunga"
+      },
       "duration_ms": 257866,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 28
     },
     {
-      "trackId": "3EjJikGTdIra5A1I7W2HjY",
-      "name": "Theme From the Last Waltz - Concert Version",
+      "track": {
+        "id": "3EjJikGTdIra5A1I7W2HjY",
+        "name": "Theme From the Last Waltz - Concert Version"
+      },
       "duration_ms": 234066,
-      "artist": [
-        "The Band"
+      "artists": [
+        {
+          "name": "The Band",
+          "id": "4vpDg7Y7fU982Ds30zawDA"
+        }
       ],
-      "artistId": [
-        "4vpDg7Y7fU982Ds30zawDA"
-      ],
-      "albumId": "7uqVE9qWdqjtDeLpdHyMxP",
+      "album": {
+        "id": "7uqVE9qWdqjtDeLpdHyMxP",
+        "name": "The Last Waltz (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02415e5ff0f5a631e22af127a6"
+      },
       "release_date": "2002-12-16",
       "popularity": 35
     },
     {
-      "trackId": "7JqO9mOheNWFVEbSShulMx",
-      "name": "Sjörövar-Fabbe",
+      "track": {
+        "id": "7JqO9mOheNWFVEbSShulMx",
+        "name": "Sjörövar-Fabbe"
+      },
       "duration_ms": 140426,
-      "artist": [
-        "Astrid Lindgren",
-        "Pippi Långstrump"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Pippi Långstrump",
+          "id": "7bb7LMk1Jzrvxr1U9r9uvx"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "7bb7LMk1Jzrvxr1U9r9uvx"
-      ],
-      "albumId": "2SYUiUnTQXOOioWUb17tgL",
+      "album": {
+        "id": "2SYUiUnTQXOOioWUb17tgL",
+        "name": "Pippi Långstrump på de sju haven",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1679253bb6ba7eb29de8d8"
+      },
       "release_date": "1970-01-01",
       "popularity": 49
     }

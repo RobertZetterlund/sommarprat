@@ -7,226 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/eefa8a58-9e91-448d-b73b-eceac3854dfb.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2cshXltLlEBgVvI52mUQ1n",
-      "name": "Overture",
+      "track": {
+        "id": "2cshXltLlEBgVvI52mUQ1n",
+        "name": "Overture"
+      },
       "duration_ms": 129666,
-      "artist": [
-        "Punch-Drunk Love"
+      "artists": [
+        {
+          "name": "Punch-Drunk Love",
+          "id": "42knKQiZRoKODmuki73xnB"
+        }
       ],
-      "artistId": [
-        "42knKQiZRoKODmuki73xnB"
-      ],
-      "albumId": "7sdNTTUH7F47pfAgXkSBUJ",
+      "album": {
+        "id": "7sdNTTUH7F47pfAgXkSBUJ",
+        "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02750907eb579cfdf55d087581"
+      },
       "release_date": "2002-11-05",
       "popularity": 25
     },
     {
-      "trackId": "6Pgkp4qUoTmJIPn7ReaGxL",
-      "name": "Without You (feat. Sandro Cavazza)",
+      "track": {
+        "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+        "name": "Without You (feat. Sandro Cavazza)"
+      },
       "duration_ms": 181672,
-      "artist": [
-        "Avicii",
-        "Sandro Cavazza"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "id": "5JYo7gm2dkyLLlWHjxS7Dy"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5JYo7gm2dkyLLlWHjxS7Dy"
-      ],
-      "albumId": "1m3mf7xkXIwssVriaaTjOS",
+      "album": {
+        "id": "1m3mf7xkXIwssVriaaTjOS",
+        "name": "AVĪCI (01)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389"
+      },
       "release_date": "2017-08-10",
       "popularity": 78
     },
     {
-      "trackId": "6Vc5wAMmXdKIAM7WUoEb7N",
-      "name": "Say Something",
+      "track": {
+        "id": "6Vc5wAMmXdKIAM7WUoEb7N",
+        "name": "Say Something"
+      },
       "duration_ms": 229400,
-      "artist": [
-        "A Great Big World",
-        "Christina Aguilera"
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "id": "5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "id": "1l7ZsJRRS8wlW3WfJfPfNS"
+        }
       ],
-      "artistId": [
-        "5xKp3UyavIBUsGy3DQdXeF",
-        "1l7ZsJRRS8wlW3WfJfPfNS"
-      ],
-      "albumId": "1yOcLa4euMk9sV7rRJ89Dl",
+      "album": {
+        "id": "1yOcLa4euMk9sV7rRJ89Dl",
+        "name": "Is There Anybody Out There?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02554488d0c51967b1654d8ce5"
+      },
       "release_date": "2014-01-20",
       "popularity": 74
     },
     {
-      "trackId": "4GmfoKVBh1mIR6OVaMDXRK",
-      "name": "Jag och min far",
+      "track": {
+        "id": "4GmfoKVBh1mIR6OVaMDXRK",
+        "name": "Jag och min far"
+      },
       "duration_ms": 235331,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "6tqbVThKQaAbkJ96dj4kvf",
+      "album": {
+        "id": "6tqbVThKQaAbkJ96dj4kvf",
+        "name": "Magnus Den Store (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a3f711326cc2d6413d16a0f"
+      },
       "release_date": "2013-02-27",
       "popularity": 48
     },
     {
-      "trackId": "2cFu6ZnctyXKApy8UfRjLk",
-      "name": "Moving On",
+      "track": {
+        "id": "2cFu6ZnctyXKApy8UfRjLk",
+        "name": "Moving On"
+      },
       "duration_ms": 185933,
-      "artist": [
-        "Sarah Dawn Finer"
+      "artists": [
+        {
+          "name": "Sarah Dawn Finer",
+          "id": "4TuGR5xkIry198WmY7hax2"
+        }
       ],
-      "artistId": [
-        "4TuGR5xkIry198WmY7hax2"
-      ],
-      "albumId": "5nTVJvVgS9vqCjCKvgWaJe",
+      "album": {
+        "id": "5nTVJvVgS9vqCjCKvgWaJe",
+        "name": "Moving On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c13c929674bbf9d47b0c3936"
+      },
       "release_date": "2010-06-21",
       "popularity": 45
     },
     {
-      "trackId": "1QRKeAlaLqJUeCWMBRP20A",
-      "name": "Slipping Through My Fingers - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "track": {
+        "id": "1QRKeAlaLqJUeCWMBRP20A",
+        "name": "Slipping Through My Fingers - From 'Mamma Mia!' Original Motion Picture Soundtrack"
+      },
       "duration_ms": 230893,
-      "artist": [
-        "Meryl Streep",
-        "Amanda Seyfried"
+      "artists": [
+        {
+          "name": "Meryl Streep",
+          "id": "2HB65P72dFRiOKvbLLcil2"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "id": "5RZjpmuD14JKXvB8Ry1G1u"
+        }
       ],
-      "artistId": [
-        "2HB65P72dFRiOKvbLLcil2",
-        "5RZjpmuD14JKXvB8Ry1G1u"
-      ],
-      "albumId": "6QtnCAFmqOwR75jOOmU7k9",
+      "album": {
+        "id": "6QtnCAFmqOwR75jOOmU7k9",
+        "name": "Mamma Mia! The Movie Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddc54feece71dda4290d0579"
+      },
       "release_date": "2008-01-01",
       "popularity": 70
     },
     {
-      "trackId": "3AYuyZ5f5WzxAxsIyX9dtG",
-      "name": "Happy Xmas (War Is Over)",
+      "track": {
+        "id": "3AYuyZ5f5WzxAxsIyX9dtG",
+        "name": "Happy Xmas (War Is Over)"
+      },
       "duration_ms": 212040,
-      "artist": [
-        "John Lennon",
-        "The Plastic Ono Band",
-        "The Harlem Community Choir"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "The Plastic Ono Band",
+          "id": "4m2kfAHEnK7Z7qLGxeWtro"
+        },
+        {
+          "name": "The Harlem Community Choir",
+          "id": "0vneleczrRRNPF1vj0x0vy"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H",
-        "4m2kfAHEnK7Z7qLGxeWtro",
-        "0vneleczrRRNPF1vj0x0vy"
-      ],
-      "albumId": "6r60eBCJxcWoh61IAE81XK",
+      "album": {
+        "id": "6r60eBCJxcWoh61IAE81XK",
+        "name": "Ultimate Christmas 2021",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cc52842418d2bc30c3bc149"
+      },
       "release_date": "2022-08-17",
       "popularity": 1
     },
     {
-      "trackId": "3MihRdrKErwICUuU2ioHnk",
-      "name": "Tell Me a Secret",
+      "track": {
+        "id": "3MihRdrKErwICUuU2ioHnk",
+        "name": "Tell Me a Secret"
+      },
       "duration_ms": 229250,
-      "artist": [
-        "Kharma Sarenbrant"
+      "artists": [
+        {
+          "name": "Kharma Sarenbrant",
+          "id": "4JANNcsmX0aJcLCT8LpNZj"
+        }
       ],
-      "artistId": [
-        "4JANNcsmX0aJcLCT8LpNZj"
-      ],
-      "albumId": "1kG0PYeJtkB5uCD2OoI7uc",
+      "album": {
+        "id": "1kG0PYeJtkB5uCD2OoI7uc",
+        "name": "Tell Me a Secret",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1495fbfcf15c0857e431753"
+      },
       "release_date": "2020-03-10",
       "popularity": 2
     },
     {
-      "trackId": "37f4ITSlgPX81ad2EvmVQr",
-      "name": "Fight Song",
+      "track": {
+        "id": "37f4ITSlgPX81ad2EvmVQr",
+        "name": "Fight Song"
+      },
       "duration_ms": 204013,
-      "artist": [
-        "Rachel Platten"
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "id": "3QLIkT4rD2FMusaqmkepbq"
+        }
       ],
-      "artistId": [
-        "3QLIkT4rD2FMusaqmkepbq"
-      ],
-      "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+      "album": {
+        "id": "0mFDIOqypzHp6Xd0el1hoT",
+        "name": "Wildfire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9e4d7fae5dfcc8f9cc96bc9"
+      },
       "release_date": "2016-01-01",
       "popularity": 77
     },
     {
-      "trackId": "66y7x28jXOPrcmu3D5Zjh6",
-      "name": "A Million Dreams (Reprise)",
+      "track": {
+        "id": "66y7x28jXOPrcmu3D5Zjh6",
+        "name": "A Million Dreams (Reprise)"
+      },
       "duration_ms": 60453,
-      "artist": [
-        "Austyn Johnson",
-        "Cameron Seely",
-        "Hugh Jackman"
+      "artists": [
+        {
+          "name": "Austyn Johnson",
+          "id": "6Y20PijIkUoCtuvtkz37dO"
+        },
+        {
+          "name": "Cameron Seely",
+          "id": "0nFUCMGlkx1lMZnHL6ArVJ"
+        },
+        {
+          "name": "Hugh Jackman",
+          "id": "5F1aoppMtU3OMiltO8ymJ2"
+        }
       ],
-      "artistId": [
-        "6Y20PijIkUoCtuvtkz37dO",
-        "0nFUCMGlkx1lMZnHL6ArVJ",
-        "5F1aoppMtU3OMiltO8ymJ2"
-      ],
-      "albumId": "7ayBZIe1FHkNv0T5xFCX6F",
+      "album": {
+        "id": "7ayBZIe1FHkNv0T5xFCX6F",
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02128057b40732c042c86de1dd"
+      },
       "release_date": "2017-12-08",
       "popularity": 62
     },
     {
-      "trackId": "2rbUJMk1XsaHsfQBYeUkVA",
-      "name": "Älska mej",
+      "track": {
+        "id": "2rbUJMk1XsaHsfQBYeUkVA",
+        "name": "Älska mej"
+      },
       "duration_ms": 267160,
-      "artist": [
-        "Ainbusk Singers"
+      "artists": [
+        {
+          "name": "Ainbusk Singers",
+          "id": "1TWfYWNywX3nKCYfdgVHfr"
+        }
       ],
-      "artistId": [
-        "1TWfYWNywX3nKCYfdgVHfr"
-      ],
-      "albumId": "31v06WMAvQdcNRG3yQ2tzP",
+      "album": {
+        "id": "31v06WMAvQdcNRG3yQ2tzP",
+        "name": "Ainbusk Singers",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268faa2c4f28b7a7123143e9f"
+      },
       "release_date": "1993-01-01",
       "popularity": 33
     },
     {
-      "trackId": "4u7EnebtmKWzUH433cf5Qv",
-      "name": "Bohemian Rhapsody - Remastered 2011",
+      "track": {
+        "id": "4u7EnebtmKWzUH433cf5Qv",
+        "name": "Bohemian Rhapsody - Remastered 2011"
+      },
       "duration_ms": 354320,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "1GbtB4zTqAsyfZEsm1RZfx",
+      "album": {
+        "id": "1GbtB4zTqAsyfZEsm1RZfx",
+        "name": "A Night At The Opera (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e319baafd16e84f0408af2a0"
+      },
       "release_date": "1975-11-21",
       "popularity": 82
     },
     {
-      "trackId": "0gcjc7Vt5xtcfmJgf6g2IO",
-      "name": "When You Say Nothing At All",
+      "track": {
+        "id": "0gcjc7Vt5xtcfmJgf6g2IO",
+        "name": "When You Say Nothing At All"
+      },
       "duration_ms": 256825,
-      "artist": [
-        "Ronan Keating"
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "id": "3nlHsNqwCSvT988ZfSW1Yh"
+        }
       ],
-      "artistId": [
-        "3nlHsNqwCSvT988ZfSW1Yh"
-      ],
-      "albumId": "3T9Imnmd2Amt5lyDMqlFq9",
+      "album": {
+        "id": "3T9Imnmd2Amt5lyDMqlFq9",
+        "name": "Ronan",
+        "img": "https://i.scdn.co/image/ab67616d00001e024acaf50f8a03a6972b555d7e"
+      },
       "release_date": "2000-01-01",
       "popularity": 72
     },
     {
-      "trackId": "4255amV4enzl28KAn16rUO",
-      "name": "Are You With Me",
+      "track": {
+        "id": "4255amV4enzl28KAn16rUO",
+        "name": "Are You With Me"
+      },
       "duration_ms": 138013,
-      "artist": [
-        "Lost Frequencies"
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "id": "7f5Zgnp2spUuuzKplmRkt7"
+        }
       ],
-      "artistId": [
-        "7f5Zgnp2spUuuzKplmRkt7"
-      ],
-      "albumId": "5ofMsLtz8HogkhrlTQ1UaG",
+      "album": {
+        "id": "5ofMsLtz8HogkhrlTQ1UaG",
+        "name": "Less Is More",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e056afc5f00279a58891aa8"
+      },
       "release_date": "2016-10-21",
       "popularity": 74
     },
     {
-      "trackId": "55dt0NxRCgNctRv9cqKGeB",
-      "name": "Don't Stop Believin' (Glee Cast - Rachel/Lea Michele solo audition version)",
+      "track": {
+        "id": "55dt0NxRCgNctRv9cqKGeB",
+        "name": "Don't Stop Believin' (Glee Cast - Rachel/Lea Michele solo audition version)"
+      },
       "duration_ms": 226693,
-      "artist": [
-        "Glee Cast"
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "id": "0SCbttzoZTnLFebDYmAWCm"
+        }
       ],
-      "artistId": [
-        "0SCbttzoZTnLFebDYmAWCm"
-      ],
-      "albumId": "4fZXOp8No89WLudGy6brXd",
+      "album": {
+        "id": "4fZXOp8No89WLudGy6brXd",
+        "name": "Glee: The Music, The Complete Season Four",
+        "img": "https://i.scdn.co/image/ab67616d00001e02982bd110b3bef1f5a806209b"
+      },
       "release_date": "2014-01-14",
       "popularity": 39
     }

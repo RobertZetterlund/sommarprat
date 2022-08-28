@@ -7,178 +7,258 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3239495_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "38JzMF0QptaZ4NkjlvSxql",
-      "name": "For Keith Jarrett",
+      "track": {
+        "id": "38JzMF0QptaZ4NkjlvSxql",
+        "name": "For Keith Jarrett"
+      },
       "duration_ms": 199015,
-      "artist": [
-        "Ola W Jansson",
-        "W JAZZ TRIO",
-        "Edvin Fridolfsson"
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "id": "4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "id": "4nFofMNAntqM5p8Q4ha2YA"
+        },
+        {
+          "name": "Edvin Fridolfsson",
+          "id": "0dm9f6OH0ImQjAywl6xgtK"
+        }
       ],
-      "artistId": [
-        "4hoFdBmz4b5NykkV0SCEVz",
-        "4nFofMNAntqM5p8Q4ha2YA",
-        "0dm9f6OH0ImQjAywl6xgtK"
-      ],
-      "albumId": "5cOvxmt5iLyz2c1Rm8Au75",
+      "album": {
+        "id": "5cOvxmt5iLyz2c1Rm8Au75",
+        "name": "All The Things You Are",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c21f2c7b76759aff1fc69a95"
+      },
       "release_date": "2020-11-06",
       "popularity": 49
     },
     {
-      "trackId": "483ZCTfQjeOAtu3gk1Ewfg",
-      "name": "The Man in the Wilderness",
+      "track": {
+        "id": "483ZCTfQjeOAtu3gk1Ewfg",
+        "name": "The Man in the Wilderness"
+      },
       "duration_ms": 224720,
-      "artist": [
-        "Natalie Merchant"
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "id": "73JEBdDEFeVaOLg3y0HhBD"
+        }
       ],
-      "artistId": [
-        "73JEBdDEFeVaOLg3y0HhBD"
-      ],
-      "albumId": "67EBjRRCfKTDI0ijGuugys",
+      "album": {
+        "id": "67EBjRRCfKTDI0ijGuugys",
+        "name": "Leave Your Sleep",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5b3e21e6e8067058da7782a"
+      },
       "release_date": "2010-03-01",
       "popularity": 16
     },
     {
-      "trackId": "2UP3LtHVsSiwt39JR4foQT",
-      "name": "Kliff",
+      "track": {
+        "id": "2UP3LtHVsSiwt39JR4foQT",
+        "name": "Kliff"
+      },
       "duration_ms": 195000,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "4fD5UIcbjsAMBdJnCkcx2J",
+      "album": {
+        "id": "4fD5UIcbjsAMBdJnCkcx2J",
+        "name": "Nya Perspektiv",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b6c4e1f8043006dcbb9f3d9"
+      },
       "release_date": "1975",
       "popularity": 41
     },
     {
-      "trackId": "1zA9AVOUlw4cGYaZJ7WXuk",
-      "name": "Stockholm Doesn't Belong to Me",
+      "track": {
+        "id": "1zA9AVOUlw4cGYaZJ7WXuk",
+        "name": "Stockholm Doesn't Belong to Me"
+      },
       "duration_ms": 185293,
-      "artist": [
-        "Most Valuable Players"
+      "artists": [
+        {
+          "name": "Most Valuable Players",
+          "id": "3XxB0eC6aYPfwQYN9YJerT"
+        }
       ],
-      "artistId": [
-        "3XxB0eC6aYPfwQYN9YJerT"
-      ],
-      "albumId": "4pTSb0VPex8E2zh1QmTwno",
+      "album": {
+        "id": "4pTSb0VPex8E2zh1QmTwno",
+        "name": "You In Honey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac5c7b007d04d111597ee1e9"
+      },
       "release_date": "2006-02-01",
       "popularity": 2
     },
     {
-      "trackId": "25U7raB3ZSszayTYClh4hF",
-      "name": "Somewhere Over The Rainbow_What A Wonderful World",
+      "track": {
+        "id": "25U7raB3ZSszayTYClh4hF",
+        "name": "Somewhere Over The Rainbow_What A Wonderful World"
+      },
       "duration_ms": 308026,
-      "artist": [
-        "Israel Kamakawiwo'ole"
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "id": "4ogvuDRerGhZfSf7TtzHlr"
+        }
       ],
-      "artistId": [
-        "4ogvuDRerGhZfSf7TtzHlr"
-      ],
-      "albumId": "0pquf1NcG9FdiypBPwICu9",
+      "album": {
+        "id": "0pquf1NcG9FdiypBPwICu9",
+        "name": "Facing Future",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d358679de4783983510aa57d"
+      },
       "release_date": "1993-11-01",
       "popularity": 70
     },
     {
-      "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
-      "name": "Ska vi byta?",
+      "track": {
+        "id": "3LSdaNWsEMAuiXy3xYm3gZ",
+        "name": "Ska vi byta?"
+      },
       "duration_ms": 155440,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     },
     {
-      "trackId": "5B6ApRNK2q36jrNhklL9oa",
-      "name": "Norrländska präriens gudinna",
+      "track": {
+        "id": "5B6ApRNK2q36jrNhklL9oa",
+        "name": "Norrländska präriens gudinna"
+      },
       "duration_ms": 242506,
-      "artist": [
-        "Olle Ljungström"
+      "artists": [
+        {
+          "name": "Olle Ljungström",
+          "id": "6wjchRNcNNSn1wPIaIiRq8"
+        }
       ],
-      "artistId": [
-        "6wjchRNcNNSn1wPIaIiRq8"
-      ],
-      "albumId": "4dt35Sos1vH60UDdHYEmFF",
+      "album": {
+        "id": "4dt35Sos1vH60UDdHYEmFF",
+        "name": "Tack",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271aad443f3355bfdfadeb68d"
+      },
       "release_date": "1995-03-08",
       "popularity": 38
     },
     {
-      "trackId": "0IQTExlaYIdKZcErAKtN43",
-      "name": "My Father",
+      "track": {
+        "id": "0IQTExlaYIdKZcErAKtN43",
+        "name": "My Father"
+      },
       "duration_ms": 294333,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "4UjcMSiyv8QCiZ4O8gpzXS",
+      "album": {
+        "id": "4UjcMSiyv8QCiZ4O8gpzXS",
+        "name": "Baltimore",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3e94aa06432d0fa06e54f76"
+      },
       "release_date": "1978",
       "popularity": 24
     },
     {
-      "trackId": "32BTFbqhSvYKftE0e8a8d4",
-      "name": "I Shall Be Released",
+      "track": {
+        "id": "32BTFbqhSvYKftE0e8a8d4",
+        "name": "I Shall Be Released"
+      },
       "duration_ms": 233000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "6T4nAC6CRLciyg4tQbgovi",
+      "album": {
+        "id": "6T4nAC6CRLciyg4tQbgovi",
+        "name": "To Love Somebody (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d443fe6c1b51189c885c8bb8"
+      },
       "release_date": "1969",
       "popularity": 50
     },
     {
-      "trackId": "2jIyIMXAHeHSz3ip6ccMFl",
-      "name": "Cucurrucucu Paloma - Live 1995",
+      "track": {
+        "id": "2jIyIMXAHeHSz3ip6ccMFl",
+        "name": "Cucurrucucu Paloma - Live 1995"
+      },
       "duration_ms": 234933,
-      "artist": [
-        "Caetano Veloso"
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "id": "7HGNYPmbDrMkylWqeFCOIQ"
+        }
       ],
-      "artistId": [
-        "7HGNYPmbDrMkylWqeFCOIQ"
-      ],
-      "albumId": "0ZqFQTHMeiBS12eyuN1WRv",
+      "album": {
+        "id": "0ZqFQTHMeiBS12eyuN1WRv",
+        "name": "Fina Estampa Ao Vivo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f4bd8cbb18c5c483c8a6e6ea"
+      },
       "release_date": "1995",
       "popularity": 43
     },
     {
-      "trackId": "5SKQkvXV1omCuLNRX4Kk6t",
-      "name": "Nature Boy",
+      "track": {
+        "id": "5SKQkvXV1omCuLNRX4Kk6t",
+        "name": "Nature Boy"
+      },
       "duration_ms": 227200,
-      "artist": [
-        "Radka Toneff"
+      "artists": [
+        {
+          "name": "Radka Toneff",
+          "id": "4zUpW8OD0YnE6hRmdVv1Go"
+        }
       ],
-      "artistId": [
-        "4zUpW8OD0YnE6hRmdVv1Go"
-      ],
-      "albumId": "2qNx3zNP7yOd8yHA7NC0xa",
+      "album": {
+        "id": "2qNx3zNP7yOd8yHA7NC0xa",
+        "name": "Butterfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ec400e2f93349029a0ee1ab"
+      },
       "release_date": "2008-11-03",
       "popularity": 21
     },
     {
-      "trackId": "192H1mOwT6TqfvNjUw4Vcf",
-      "name": "Don's Kora Song",
+      "track": {
+        "id": "192H1mOwT6TqfvNjUw4Vcf",
+        "name": "Don's Kora Song"
+      },
       "duration_ms": 308440,
-      "artist": [
-        "Bobo Stenson",
-        "Anders Jormin",
-        "Jon Fält"
+      "artists": [
+        {
+          "name": "Bobo Stenson",
+          "id": "4K2Ys4NwPXEYomQrKwAeZc"
+        },
+        {
+          "name": "Anders Jormin",
+          "id": "4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Jon Fält",
+          "id": "1m7HJ4qggFVCnOZIRfIZ5Y"
+        }
       ],
-      "artistId": [
-        "4K2Ys4NwPXEYomQrKwAeZc",
-        "4GyvHXnvKDjmMjMQJmsOTy",
-        "1m7HJ4qggFVCnOZIRfIZ5Y"
-      ],
-      "albumId": "0zBUX9ay58kwAfAhZDNGic",
+      "album": {
+        "id": "0zBUX9ay58kwAfAhZDNGic",
+        "name": "Cantando",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e6914c5b6dccc863ed52480"
+      },
       "release_date": "2008-08-29",
       "popularity": 33
     }

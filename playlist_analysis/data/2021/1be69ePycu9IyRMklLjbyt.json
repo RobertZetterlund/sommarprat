@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/e793dba3-6520-4fef-bc11-ebbc5a57235a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3I1cKBHKRyZc6BNkO8IELx",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "3I1cKBHKRyZc6BNkO8IELx",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 252626,
-      "artist": [
-        "Thåström"
+      "artists": [
+        {
+          "name": "Thåström",
+          "id": "2PBhJmRqee1QAyQU2kBu1H"
+        }
       ],
-      "artistId": [
-        "2PBhJmRqee1QAyQU2kBu1H"
-      ],
-      "albumId": "35j3sPYg9Xs7iZayy1V3PU",
+      "album": {
+        "id": "35j3sPYg9Xs7iZayy1V3PU",
+        "name": "Kärlek är för dom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac0b6d904f07a324f8fd9958"
+      },
       "release_date": "2009-03-13",
       "popularity": 43
     },
     {
-      "trackId": "14XWXWv5FoCbFzLksawpEe",
-      "name": "Riders on the Storm",
+      "track": {
+        "id": "14XWXWv5FoCbFzLksawpEe",
+        "name": "Riders on the Storm"
+      },
       "duration_ms": 434720,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "7IKUTIc9UWuVngyGPtqNHS",
+      "album": {
+        "id": "7IKUTIc9UWuVngyGPtqNHS",
+        "name": "L.A. Woman",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220783882533e669760741df2"
+      },
       "release_date": "1971-04-19",
       "popularity": 72
     },
     {
-      "trackId": "5E0DPn2m1oAigfof05lKmJ",
-      "name": "Se på mig",
+      "track": {
+        "id": "5E0DPn2m1oAigfof05lKmJ",
+        "name": "Se på mig"
+      },
       "duration_ms": 187026,
-      "artist": [
-        "Jan Johansen"
+      "artists": [
+        {
+          "name": "Jan Johansen",
+          "id": "4Nd6R1oljERR3D2893MpJf"
+        }
       ],
-      "artistId": [
-        "4Nd6R1oljERR3D2893MpJf"
-      ],
-      "albumId": "6xbMnE55LSByDDEGA8QMEm",
+      "album": {
+        "id": "6xbMnE55LSByDDEGA8QMEm",
+        "name": "Johansen",
+        "img": "https://i.scdn.co/image/ab67616d00001e026170ce768626f847061bb98d"
+      },
       "release_date": "1995",
       "popularity": 47
     },
     {
-      "trackId": "7zHd9LxIZB8WKosSWN9Umj",
-      "name": "Spiegel im spiegel",
+      "track": {
+        "id": "7zHd9LxIZB8WKosSWN9Umj",
+        "name": "Spiegel im spiegel"
+      },
       "duration_ms": 503475,
-      "artist": [
-        "Arvo Pärt",
-        "Angèle Dubeau",
-        "La Pietà"
+      "artists": [
+        {
+          "name": "Arvo Pärt",
+          "id": "2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Angèle Dubeau",
+          "id": "3aKoUd44IrrqOa6Rzn9Ybq"
+        },
+        {
+          "name": "La Pietà",
+          "id": "3ZiiIxwcdE60xHzCQ35ewj"
+        }
       ],
-      "artistId": [
-        "2P6ygesd9xg5DPOBnda2jg",
-        "3aKoUd44IrrqOa6Rzn9Ybq",
-        "3ZiiIxwcdE60xHzCQ35ewj"
-      ],
-      "albumId": "5lSNHTsXwVA7wLlplt92HH",
+      "album": {
+        "id": "5lSNHTsXwVA7wLlplt92HH",
+        "name": "Arvo Pärt: Portrait",
+        "img": "https://i.scdn.co/image/ab67616d00001e02172bf9b9bd01946bf3f7785c"
+      },
       "release_date": "2010-03-02",
       "popularity": 52
     },
     {
-      "trackId": "0dtE42FDoz08Aa9i7EWUI2",
-      "name": "Gröna små äpplen",
+      "track": {
+        "id": "0dtE42FDoz08Aa9i7EWUI2",
+        "name": "Gröna små äpplen"
+      },
       "duration_ms": 225213,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "2LaTtgxHN1GgPAY6DiSvCI",
+      "album": {
+        "id": "2LaTtgxHN1GgPAY6DiSvCI",
+        "name": "Gröna små äpplen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9db86fbb61e5eed80bf2d37"
+      },
       "release_date": "1969",
       "popularity": 43
     },
     {
-      "trackId": "4rg0qXQd00nfQTTpu5U6sP",
-      "name": "Himlen är oskyldigt blå",
+      "track": {
+        "id": "4rg0qXQd00nfQTTpu5U6sP",
+        "name": "Himlen är oskyldigt blå"
+      },
       "duration_ms": 273320,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 51
     },
     {
-      "trackId": "5TUs6T93fNFvgQov6MlYkP",
-      "name": "Your Song",
+      "track": {
+        "id": "5TUs6T93fNFvgQov6MlYkP",
+        "name": "Your Song"
+      },
       "duration_ms": 390986,
-      "artist": [
-        "Billy Paul"
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "id": "187xgSpsFH8mMbAcoCW0zE"
+        }
       ],
-      "artistId": [
-        "187xgSpsFH8mMbAcoCW0zE"
-      ],
-      "albumId": "2t3e2RCx9fmVO7jmhrOm3a",
+      "album": {
+        "id": "2t3e2RCx9fmVO7jmhrOm3a",
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0a60253689c598d83528149"
+      },
       "release_date": "1972-10-25",
       "popularity": 62
     },
     {
-      "trackId": "6L5BZEcZmD6RBJnimzlyKr",
-      "name": "Nights In White Satin - Single Version / Mono",
+      "track": {
+        "id": "6L5BZEcZmD6RBJnimzlyKr",
+        "name": "Nights In White Satin - Single Version / Mono"
+      },
       "duration_ms": 269106,
-      "artist": [
-        "The Moody Blues"
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "id": "5BcZ22XONcRoLhTbZRuME1"
+        }
       ],
-      "artistId": [
-        "5BcZ22XONcRoLhTbZRuME1"
-      ],
-      "albumId": "3JyYXOBRAuc3XFQxFxrEcM",
+      "album": {
+        "id": "3JyYXOBRAuc3XFQxFxrEcM",
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec351e05f8bcf97e7999ac64"
+      },
       "release_date": "1967-11-10",
       "popularity": 67
     },
     {
-      "trackId": "40riOy7x9W7GXjyGp4pjAv",
-      "name": "Hotel California - 2013 Remaster",
+      "track": {
+        "id": "40riOy7x9W7GXjyGp4pjAv",
+        "name": "Hotel California - 2013 Remaster"
+      },
       "duration_ms": 391376,
-      "artist": [
-        "Eagles"
+      "artists": [
+        {
+          "name": "Eagles",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL"
+        }
       ],
-      "artistId": [
-        "0ECwFtbIWEVNwjlrfc6xoL"
-      ],
-      "albumId": "2widuo17g5CEC66IbzveRu",
+      "album": {
+        "id": "2widuo17g5CEC66IbzveRu",
+        "name": "Hotel California (2013 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778"
+      },
       "release_date": "1976-12-08",
       "popularity": 83
     },
     {
-      "trackId": "3ZP18us6p6LHOZMG1LLUjF",
-      "name": "How Deep Is Your Love - From \"Saturday Night Fever\" Soundtrack",
+      "track": {
+        "id": "3ZP18us6p6LHOZMG1LLUjF",
+        "name": "How Deep Is Your Love - From \"Saturday Night Fever\" Soundtrack"
+      },
       "duration_ms": 241093,
-      "artist": [
-        "Bee Gees"
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "id": "1LZEQNv7sE11VDY3SdxQeN"
+        }
       ],
-      "artistId": [
-        "1LZEQNv7sE11VDY3SdxQeN"
-      ],
-      "albumId": "4vAhQeeWkSjVn0p5GAaLBx",
+      "album": {
+        "id": "4vAhQeeWkSjVn0p5GAaLBx",
+        "name": "How Can You Mend A Broken Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1f748bf1c1e69b3e36a21ea"
+      },
       "release_date": "2020-12-11",
       "popularity": 73
     },
     {
-      "trackId": "65EIBVOhgqDGZXKlOGk2A2",
-      "name": "Gentle Rain",
+      "track": {
+        "id": "65EIBVOhgqDGZXKlOGk2A2",
+        "name": "Gentle Rain"
+      },
       "duration_ms": 146093,
-      "artist": [
-        "Astrud Gilberto"
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "id": "5rX2c1zow6hCph8PnnU3kF"
+        }
       ],
-      "artistId": [
-        "5rX2c1zow6hCph8PnnU3kF"
-      ],
-      "albumId": "37xKx9ymHBSgYX02zZhwb9",
+      "album": {
+        "id": "37xKx9ymHBSgYX02zZhwb9",
+        "name": "The Shadow Of Your Smile",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a2d5daaa98e0395fdf36c78"
+      },
       "release_date": "1965-05-22",
       "popularity": 39
     },
     {
-      "trackId": "7xGOvQukPKKQVLiJOPSmt0",
-      "name": "Don't Let the Sun Go Down on Me",
+      "track": {
+        "id": "7xGOvQukPKKQVLiJOPSmt0",
+        "name": "Don't Let the Sun Go Down on Me"
+      },
       "duration_ms": 346813,
-      "artist": [
-        "George Michael",
-        "Elton John"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo",
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "0IJcpy0eM4o63J43qij68g",
+      "album": {
+        "id": "0IJcpy0eM4o63J43qij68g",
+        "name": "Ladies & Gentlemen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02813629baee66b2ec5f90ebee"
+      },
       "release_date": "1998-11-09",
       "popularity": 64
     },
     {
-      "trackId": "6OuRbvP4PgbuzBIapVzmFJ",
-      "name": "Sailing",
+      "track": {
+        "id": "6OuRbvP4PgbuzBIapVzmFJ",
+        "name": "Sailing"
+      },
       "duration_ms": 277960,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+      "album": {
+        "id": "7vV3q5jE7DSuKsnHr7OmmN",
+        "name": "Atlantic Crossing",
+        "img": "https://i.scdn.co/image/ab67616d00001e029199bdfc160aa8d63a57040a"
+      },
       "release_date": "1975",
       "popularity": 67
     }

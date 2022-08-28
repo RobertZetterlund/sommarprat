@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3251874_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7LRMbd3LEoV5wZJvXT1Lwb",
-      "name": "T.N.T.",
+      "track": {
+        "id": "7LRMbd3LEoV5wZJvXT1Lwb",
+        "name": "T.N.T."
+      },
       "duration_ms": 214666,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "19AUoKWRAaQYrggVvdQnqq",
+      "album": {
+        "id": "19AUoKWRAaQYrggVvdQnqq",
+        "name": "High Voltage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02286a0837ff3424065a735e0a"
+      },
       "release_date": "1976-05-14",
       "popularity": 77
     },
     {
-      "trackId": "3bjl7Cr2UoOv7CmpLfoI7W",
-      "name": "Nästan som reklam",
+      "track": {
+        "id": "3bjl7Cr2UoOv7CmpLfoI7W",
+        "name": "Nästan som reklam"
+      },
       "duration_ms": 321706,
-      "artist": [
-        "Stefan Sundström"
+      "artists": [
+        {
+          "name": "Stefan Sundström",
+          "id": "0NsAbGr86qKQMaXTuWwVKj"
+        }
       ],
-      "artistId": [
-        "0NsAbGr86qKQMaXTuWwVKj"
-      ],
-      "albumId": "3w3yqqVG2H8fe8dtLjYxyN",
+      "album": {
+        "id": "3w3yqqVG2H8fe8dtLjYxyN",
+        "name": "Nästan som reklam",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6e4e47e236ca5d219f0e302"
+      },
       "release_date": "1995-01-01",
       "popularity": 15
     },
     {
-      "trackId": "2Dl2i1mCLy7orIGtIHgsmb",
-      "name": "Take It Easy",
+      "track": {
+        "id": "2Dl2i1mCLy7orIGtIHgsmb",
+        "name": "Take It Easy"
+      },
       "duration_ms": 231552,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "12X80pgkHSjMDgAAS0HBdr",
+      "album": {
+        "id": "12X80pgkHSjMDgAAS0HBdr",
+        "name": "For Everyman",
+        "img": "https://i.scdn.co/image/ab67616d00001e026757991972533d941e08b104"
+      },
       "release_date": "1973",
       "popularity": 51
     },
     {
-      "trackId": "7wcvaiiHclMeQMXD6nOa6U",
-      "name": "Too Much Monkey Business",
+      "track": {
+        "id": "7wcvaiiHclMeQMXD6nOa6U",
+        "name": "Too Much Monkey Business"
+      },
       "duration_ms": 110946,
-      "artist": [
-        "Shakers"
+      "artists": [
+        {
+          "name": "Shakers",
+          "id": "4EFmXGf89oXy0YG52u9dwz"
+        }
       ],
-      "artistId": [
-        "4EFmXGf89oXy0YG52u9dwz"
-      ],
-      "albumId": "2oh66aLb5vgO07A5LKHJEE",
+      "album": {
+        "id": "2oh66aLb5vgO07A5LKHJEE",
+        "name": "Diamanter - 60-Talet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244e8be59b63004513dfb41c4"
+      },
       "release_date": "2013-12-27",
       "popularity": 3
     },
     {
-      "trackId": "06ypiqmILMdVeaiErMFA91",
-      "name": "Drive My Car - Remastered 2009",
+      "track": {
+        "id": "06ypiqmILMdVeaiErMFA91",
+        "name": "Drive My Car - Remastered 2009"
+      },
       "duration_ms": 148893,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "50o7kf2wLwVmOTVYJOTplm",
+      "album": {
+        "id": "50o7kf2wLwVmOTVYJOTplm",
+        "name": "Rubber Soul (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4"
+      },
       "release_date": "1965-12-03",
       "popularity": 65
     },
     {
-      "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
-      "name": "The Winner Takes It All",
+      "track": {
+        "id": "3oEkrIfXfSh9zGnE7eBzSV",
+        "name": "The Winner Takes It All"
+      },
       "duration_ms": 294720,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 73
     },
     {
-      "trackId": "0BqvvDT86H3mu4R24SKHy8",
-      "name": "Juli",
+      "track": {
+        "id": "0BqvvDT86H3mu4R24SKHy8",
+        "name": "Juli"
+      },
       "duration_ms": 198413,
-      "artist": [
-        "Björn Olsson"
+      "artists": [
+        {
+          "name": "Björn Olsson",
+          "id": "522M1OdbnnJ3c1Bjxy69tb"
+        }
       ],
-      "artistId": [
-        "522M1OdbnnJ3c1Bjxy69tb"
-      ],
-      "albumId": "5A1GGwN8L4jnZ14daYbBKq",
+      "album": {
+        "id": "5A1GGwN8L4jnZ14daYbBKq",
+        "name": "The Crayfish",
+        "img": "https://i.scdn.co/image/ab67616d00001e02edab5eaf20a44114df683dde"
+      },
       "release_date": "2003-01-01",
       "popularity": 33
     },
     {
-      "trackId": "794O0j1i57zgUMC7BCBMqY",
-      "name": "They're Coming to Take Me Away, Ha-Haaa!",
+      "track": {
+        "id": "794O0j1i57zgUMC7BCBMqY",
+        "name": "They're Coming to Take Me Away, Ha-Haaa!"
+      },
       "duration_ms": 134066,
-      "artist": [
-        "Napoleon XIV"
+      "artists": [
+        {
+          "name": "Napoleon XIV",
+          "id": "47LaejbXqR0KTC7A8khfqS"
+        }
       ],
-      "artistId": [
-        "47LaejbXqR0KTC7A8khfqS"
-      ],
-      "albumId": "2OJsSKpvqw6MxslThYMnHq",
+      "album": {
+        "id": "2OJsSKpvqw6MxslThYMnHq",
+        "name": "They're Coming to Take Me Away, Ha-Haaa!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d28d956ebb179650bb92184d"
+      },
       "release_date": "1966-05-23",
       "popularity": 43
     },
     {
-      "trackId": "5bs8LDyc9ywDjXLrwmoRVc",
-      "name": "Osteraker (San Quentin) - Live at Österåker Prison, Sweden - October 1972",
+      "track": {
+        "id": "5bs8LDyc9ywDjXLrwmoRVc",
+        "name": "Osteraker (San Quentin) - Live at Österåker Prison, Sweden - October 1972"
+      },
       "duration_ms": 165720,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "6TcgY4vHX9wDk4Nr1a3l1z",
+      "album": {
+        "id": "6TcgY4vHX9wDk4Nr1a3l1z",
+        "name": "På Österåker (35th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df65bd8334d201088fc6e6f7"
+      },
       "release_date": "1973-09-01",
       "popularity": 18
     },
     {
-      "trackId": "6ZcptSWYkxZd4vOMw4otYw",
-      "name": "Coulibaly",
+      "track": {
+        "id": "6ZcptSWYkxZd4vOMw4otYw",
+        "name": "Coulibaly"
+      },
       "duration_ms": 198266,
-      "artist": [
-        "Amadou & Mariam"
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "id": "3KH7WsR2JZQ94Ik8SyabU6"
+        }
       ],
-      "artistId": [
-        "3KH7WsR2JZQ94Ik8SyabU6"
-      ],
-      "albumId": "6iGoXwENON2onjXpv9bO38",
+      "album": {
+        "id": "6iGoXwENON2onjXpv9bO38",
+        "name": "Dimanche à Bamako",
+        "img": "https://i.scdn.co/image/ab67616d00001e02327e9ad7b605baf87dbb03ba"
+      },
       "release_date": "2005",
       "popularity": 31
     },
     {
-      "trackId": "0JDp7p99FSja52T0YBLupR",
-      "name": "The botten is nådd",
+      "track": {
+        "id": "0JDp7p99FSja52T0YBLupR",
+        "name": "The botten is nådd"
+      },
       "duration_ms": 231626,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "38puzkTypCZVdMd4FefkL8",
+      "album": {
+        "id": "38puzkTypCZVdMd4FefkL8",
+        "name": "The botten is nådd",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d55e8e96bb2801a95a5011"
+      },
       "release_date": "2003-06-02",
       "popularity": 43
     },
     {
-      "trackId": "3hEQyEnyiyU0l1sgGHMXFp",
-      "name": "Diner",
+      "track": {
+        "id": "3hEQyEnyiyU0l1sgGHMXFp",
+        "name": "Diner"
+      },
       "duration_ms": 185666,
-      "artist": [
-        "Martin Sexton"
+      "artists": [
+        {
+          "name": "Martin Sexton",
+          "id": "16HLVuiCN8iGYhBca7lsqE"
+        }
       ],
-      "artistId": [
-        "16HLVuiCN8iGYhBca7lsqE"
-      ],
-      "albumId": "0fSzSdwbprjFZxDUFtz4jy",
+      "album": {
+        "id": "0fSzSdwbprjFZxDUFtz4jy",
+        "name": "Black Sheep",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddfd911ebae850e675a23b15"
+      },
       "release_date": "1996",
       "popularity": 40
     },
     {
-      "trackId": "4vzajddqAFKQ1x3HTwPbOA",
-      "name": "Rockers Medley",
+      "track": {
+        "id": "4vzajddqAFKQ1x3HTwPbOA",
+        "name": "Rockers Medley"
+      },
       "duration_ms": 616240,
-      "artist": [
-        "Papa Dee"
+      "artists": [
+        {
+          "name": "Papa Dee",
+          "id": "5L8MV6qPlIIkmhw1DRTf3Y"
+        }
       ],
-      "artistId": [
-        "5L8MV6qPlIIkmhw1DRTf3Y"
-      ],
-      "albumId": "7APNNcvPP96DfUMCEe3iIv",
+      "album": {
+        "id": "7APNNcvPP96DfUMCEe3iIv",
+        "name": "A Little Way Different",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a07724895af7e11fa8f0ac9f"
+      },
       "release_date": "2008-05-07",
       "popularity": 1
     }

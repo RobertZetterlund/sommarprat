@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354584_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4FpA7X9xYFYHVvhmTgcJhb",
-      "name": "Le poinçonneur des Lilas",
+      "track": {
+        "id": "4FpA7X9xYFYHVvhmTgcJhb",
+        "name": "Le poinçonneur des Lilas"
+      },
       "duration_ms": 163106,
-      "artist": [
-        "Serge Gainsbourg"
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "id": "01C9OoXDvCKkGcf735Tcfo"
+        }
       ],
-      "artistId": [
-        "01C9OoXDvCKkGcf735Tcfo"
-      ],
-      "albumId": "2XhuBBBfMWbN0KR5QbBAem",
+      "album": {
+        "id": "2XhuBBBfMWbN0KR5QbBAem",
+        "name": "Du chant à la une !",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244b2548a56997646fc3b59af"
+      },
       "release_date": "1958-01-01",
       "popularity": 45
     },
     {
-      "trackId": "5IpgXFFwZP20UeG7JXg5SP",
-      "name": "Éblouie par la nuit",
+      "track": {
+        "id": "5IpgXFFwZP20UeG7JXg5SP",
+        "name": "Éblouie par la nuit"
+      },
       "duration_ms": 163306,
-      "artist": [
-        "Zaz"
+      "artists": [
+        {
+          "name": "Zaz",
+          "id": "1mbgj8ERPs8lWi7t5cYrdy"
+        }
       ],
-      "artistId": [
-        "1mbgj8ERPs8lWi7t5cYrdy"
-      ],
-      "albumId": "6MuoqipFgorIZEYwGWEFAU",
+      "album": {
+        "id": "6MuoqipFgorIZEYwGWEFAU",
+        "name": "Zaz",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b5969aba116e8248a3e6369"
+      },
       "release_date": "2010-05-10",
       "popularity": 54
     },
     {
-      "trackId": "4OE2kflo6G1OEUX3ZW4hYj",
-      "name": "Like a Hobo",
+      "track": {
+        "id": "4OE2kflo6G1OEUX3ZW4hYj",
+        "name": "Like a Hobo"
+      },
       "duration_ms": 218733,
-      "artist": [
-        "Charlie Winston"
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "id": "7xQTON6uj7akAGzlanUzy3"
+        }
       ],
-      "artistId": [
-        "7xQTON6uj7akAGzlanUzy3"
-      ],
-      "albumId": "0kIoWjsmtbutAC6p7qholE",
+      "album": {
+        "id": "0kIoWjsmtbutAC6p7qholE",
+        "name": "Hobo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab7a4d0e66f1b98cd3a78b03"
+      },
       "release_date": "2009",
       "popularity": 40
     },
     {
-      "trackId": "1k82bzEjGy47GX0EbVPseH",
-      "name": "Wachet auf, ruft uns die Stimme, Cantata BWV 140: IV. \"Zion hört die Wächter singen\"",
+      "track": {
+        "id": "1k82bzEjGy47GX0EbVPseH",
+        "name": "Wachet auf, ruft uns die Stimme, Cantata BWV 140: IV. \"Zion hört die Wächter singen\""
+      },
       "duration_ms": 356866,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Peter Schreier",
-        "Münchener Bach-Orchester"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Peter Schreier",
+          "id": "38ghpVkkvBf5wugUg4HW4G"
+        },
+        {
+          "name": "Münchener Bach-Orchester",
+          "id": "38hliKqnaGCbRmZcLNoDvX"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "38ghpVkkvBf5wugUg4HW4G",
-        "38hliKqnaGCbRmZcLNoDvX"
-      ],
-      "albumId": "429TlOgBsyfzJT2uqZTzds",
+      "album": {
+        "id": "429TlOgBsyfzJT2uqZTzds",
+        "name": "Bach, J.S.: Cantata BWV 140, Magnificat BWV 243",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a68e6b389634b988189c2905"
+      },
       "release_date": "1979-01-01",
       "popularity": 50
     },
     {
-      "trackId": "5UOzQpO62ljPFDqquxGDqT",
-      "name": "Como El Agua",
+      "track": {
+        "id": "5UOzQpO62ljPFDqquxGDqT",
+        "name": "Como El Agua"
+      },
       "duration_ms": 221080,
-      "artist": [
-        "Camaron De La Isla"
+      "artists": [
+        {
+          "name": "Camaron De La Isla",
+          "id": "5MnhtFXEfqi637k6NfKuZI"
+        }
       ],
-      "artistId": [
-        "5MnhtFXEfqi637k6NfKuZI"
-      ],
-      "albumId": "3y4pOpTnklRaypuKCZLZgg",
+      "album": {
+        "id": "3y4pOpTnklRaypuKCZLZgg",
+        "name": "Como El Agua (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bebaf9a49085366ba0c0c672"
+      },
       "release_date": "2005-01-01",
       "popularity": 54
     },
     {
-      "trackId": "3Pwq9bri7W7TkOb86orADX",
-      "name": "Chanson pour Nicolas",
+      "track": {
+        "id": "3Pwq9bri7W7TkOb86orADX",
+        "name": "Chanson pour Nicolas"
+      },
       "duration_ms": 138806,
-      "artist": [
-        "Pierre Louki"
+      "artists": [
+        {
+          "name": "Pierre Louki",
+          "id": "7k468iGAEgIzITVCJykXEy"
+        }
       ],
-      "artistId": [
-        "7k468iGAEgIzITVCJykXEy"
-      ],
-      "albumId": "3XZo9MNozRpYQZX4lOT1KD",
+      "album": {
+        "id": "3XZo9MNozRpYQZX4lOT1KD",
+        "name": "Chanson française",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295d1ce6e847011579f6612fd"
+      },
       "release_date": "2015-06-15",
       "popularity": 0
     },
     {
-      "trackId": "0Tp7uSZK21LZTbZRBNb9ud",
-      "name": "Blackened",
+      "track": {
+        "id": "0Tp7uSZK21LZTbZRBNb9ud",
+        "name": "Blackened"
+      },
       "duration_ms": 400613,
-      "artist": [
-        "Metallica"
+      "artists": [
+        {
+          "name": "Metallica",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB"
+        }
       ],
-      "artistId": [
-        "2ye2Wgw4gimLv2eAKyk1NB"
-      ],
-      "albumId": "6Eycw3dwcDMEFSqkUvLQ7g",
+      "album": {
+        "id": "6Eycw3dwcDMEFSqkUvLQ7g",
+        "name": "...And Justice For All",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c05e69390ab7c628a83cee7"
+      },
       "release_date": "1988-08-25",
       "popularity": 59
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "1oYYd2gnWZYrt89EBXdFiO",
-      "name": "Message In A Bottle",
+      "track": {
+        "id": "1oYYd2gnWZYrt89EBXdFiO",
+        "name": "Message In A Bottle"
+      },
       "duration_ms": 290280,
-      "artist": [
-        "The Police"
+      "artists": [
+        {
+          "name": "The Police",
+          "id": "5NGO30tJxFlKixkPSgXcFE"
+        }
       ],
-      "artistId": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ],
-      "albumId": "2EpuND32cO7CX0gXZl2NB6",
+      "album": {
+        "id": "2EpuND32cO7CX0gXZl2NB6",
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486"
+      },
       "release_date": "1979-10-02",
       "popularity": 74
     },
     {
-      "trackId": "6Z1487JY6p3cVxs5JVXkMZ",
-      "name": "Aux armes et caetera",
+      "track": {
+        "id": "6Z1487JY6p3cVxs5JVXkMZ",
+        "name": "Aux armes et caetera"
+      },
       "duration_ms": 187160,
-      "artist": [
-        "Serge Gainsbourg"
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "id": "01C9OoXDvCKkGcf735Tcfo"
+        }
       ],
-      "artistId": [
-        "01C9OoXDvCKkGcf735Tcfo"
-      ],
-      "albumId": "437n44rXu1XPP7pR075Fek",
+      "album": {
+        "id": "437n44rXu1XPP7pR075Fek",
+        "name": "Aux armes et caetera",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271f689e327883a84a172babb"
+      },
       "release_date": "1979-01-01",
       "popularity": 44
     },
     {
-      "trackId": "32cJKO8Bg0P37lbtY5wYaw",
-      "name": "Le temps",
+      "track": {
+        "id": "32cJKO8Bg0P37lbtY5wYaw",
+        "name": "Le temps"
+      },
       "duration_ms": 164053,
-      "artist": [
-        "Charles Aznavour"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT"
-      ],
-      "albumId": "2cGlwSJJYAC0ocGoAdHRiG",
+      "album": {
+        "id": "2cGlwSJJYAC0ocGoAdHRiG",
+        "name": "Visages de l'amour (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02564f09458fad1870b36b9b0e"
+      },
       "release_date": "1974",
       "popularity": 35
     },
     {
-      "trackId": "3DSojuIWuw7UoIA7auyzAG",
-      "name": "Tiden (Le Temps)",
+      "track": {
+        "id": "3DSojuIWuw7UoIA7auyzAG",
+        "name": "Tiden (Le Temps)"
+      },
       "duration_ms": 164626,
-      "artist": [
-        "Peter Jöback"
+      "artists": [
+        {
+          "name": "Peter Jöback",
+          "id": "3fA5zBQWEa0uzYo43SvXaj"
+        }
       ],
-      "artistId": [
-        "3fA5zBQWEa0uzYo43SvXaj"
-      ],
-      "albumId": "0RVUxtJZA5a9cng6YvQUuu",
+      "album": {
+        "id": "0RVUxtJZA5a9cng6YvQUuu",
+        "name": "Livet, Kärleken och Döden - La Vie, L'Amour, La Mort",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd3a77ccf7c74a5f856a22c4"
+      },
       "release_date": "2011-10-17",
       "popularity": 2
     },
     {
-      "trackId": "1ZhXsAdYamgMfhFvpyRYyr",
-      "name": "Down On My Knees",
+      "track": {
+        "id": "1ZhXsAdYamgMfhFvpyRYyr",
+        "name": "Down On My Knees"
+      },
       "duration_ms": 239360,
-      "artist": [
-        "Ayọ"
+      "artists": [
+        {
+          "name": "Ayọ",
+          "id": "6OkX55UMCw4Hgc5HM4zr7K"
+        }
       ],
-      "artistId": [
-        "6OkX55UMCw4Hgc5HM4zr7K"
-      ],
-      "albumId": "6MOAgfauDCnW4TfhcPjnuV",
+      "album": {
+        "id": "6MOAgfauDCnW4TfhcPjnuV",
+        "name": "Down On My Knees",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae70d8c52e431e7756a40f3a"
+      },
       "release_date": "2006-01-01",
       "popularity": 24
     },
     {
-      "trackId": "0T342IGrrRMrtLlxlRE784",
-      "name": "Les amants",
+      "track": {
+        "id": "0T342IGrrRMrtLlxlRE784",
+        "name": "Les amants"
+      },
       "duration_ms": 318626,
-      "artist": [
-        "Les Rita Mitsouko"
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "id": "7CdlYgtOoxBtNjuDeIxSPM"
+        }
       ],
-      "artistId": [
-        "7CdlYgtOoxBtNjuDeIxSPM"
-      ],
-      "albumId": "7eNXrGR05xKDLIIaWiJfqK",
+      "album": {
+        "id": "7eNXrGR05xKDLIIaWiJfqK",
+        "name": "Système D",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d25eb8737e83da8d1ecda4a"
+      },
       "release_date": "1993-11-16",
       "popularity": 33
     }

@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2926551_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6Pq9MmkDQYZiiCDpxnvrf6",
-      "name": "I Am The Walrus - Remastered 2009",
+      "track": {
+        "id": "6Pq9MmkDQYZiiCDpxnvrf6",
+        "name": "I Am The Walrus - Remastered 2009"
+      },
       "duration_ms": 275866,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "2BtE7qm1qzM80p9vLSiXkj",
+      "album": {
+        "id": "2BtE7qm1qzM80p9vLSiXkj",
+        "name": "Magical Mystery Tour (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1"
+      },
       "release_date": "1967-11-27",
       "popularity": 62
     },
     {
-      "trackId": "7FLTnbspFL5XMX16EYfcTA",
-      "name": "I Hate You For Ever",
+      "track": {
+        "id": "7FLTnbspFL5XMX16EYfcTA",
+        "name": "I Hate You For Ever"
+      },
       "duration_ms": 249506,
-      "artist": [
-        "Domotic"
+      "artists": [
+        {
+          "name": "Domotic",
+          "id": "0vqrabDdcrmScLeHinPCJe"
+        }
       ],
-      "artistId": [
-        "0vqrabDdcrmScLeHinPCJe"
-      ],
-      "albumId": "7D0G2zVS8An3wd6Yq0nRP7",
+      "album": {
+        "id": "7D0G2zVS8An3wd6Yq0nRP7",
+        "name": "Ask For Tiger",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251b7bc67159629fb0e23fb30"
+      },
       "release_date": "2005-12-01",
       "popularity": 6
     },
     {
-      "trackId": "047Ip9c6dijAJfuwloV3NF",
-      "name": "I Don't Know",
+      "track": {
+        "id": "047Ip9c6dijAJfuwloV3NF",
+        "name": "I Don't Know"
+      },
       "duration_ms": 173733,
-      "artist": [
-        "Ruth Brown"
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "id": "4EYVgfZJ8wKXWmIvCx3gOY"
+        }
       ],
-      "artistId": [
-        "4EYVgfZJ8wKXWmIvCx3gOY"
-      ],
-      "albumId": "5hUfSBla2buX5rW8aCeAl7",
+      "album": {
+        "id": "5hUfSBla2buX5rW8aCeAl7",
+        "name": "The Essentials: Ruth Brown",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c1edc2a78db8a060662b6f8"
+      },
       "release_date": "2003-02-25",
       "popularity": 52
     },
     {
-      "trackId": "2K2cyoBZWcfQT50A8rcspO",
-      "name": "Into The Clouds",
+      "track": {
+        "id": "2K2cyoBZWcfQT50A8rcspO",
+        "name": "Into The Clouds"
+      },
       "duration_ms": 252264,
-      "artist": [
-        "The Sound of Arrows"
+      "artists": [
+        {
+          "name": "The Sound of Arrows",
+          "id": "3Kt34aALAZu5GUd3WRqsrZ"
+        }
       ],
-      "artistId": [
-        "3Kt34aALAZu5GUd3WRqsrZ"
-      ],
-      "albumId": "5Y6fEWrCJjacHCftV8cfwa",
+      "album": {
+        "id": "5Y6fEWrCJjacHCftV8cfwa",
+        "name": "Voyage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8159e993011eee2447b90c4"
+      },
       "release_date": "2011-11-08",
       "popularity": 8
     },
     {
-      "trackId": "2zrtp9krR2IyT9mi2PaIBC",
-      "name": "I Wonder",
+      "track": {
+        "id": "2zrtp9krR2IyT9mi2PaIBC",
+        "name": "I Wonder"
+      },
       "duration_ms": 154240,
-      "artist": [
-        "Rodríguez"
+      "artists": [
+        {
+          "name": "Rodríguez",
+          "id": "5PrHzxc3kFm4hIrGNmelpX"
+        }
       ],
-      "artistId": [
-        "5PrHzxc3kFm4hIrGNmelpX"
-      ],
-      "albumId": "3q90UAYeHLvAtnowiQlmgp",
+      "album": {
+        "id": "3q90UAYeHLvAtnowiQlmgp",
+        "name": "Cold Fact",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7e1b574a9e6b9f26c7c3f49"
+      },
       "release_date": "1970-03-05",
       "popularity": 57
     },
     {
-      "trackId": "3P1Yb9uVorSSXPWEN1WhZ8",
-      "name": "It Started Out So Nice",
+      "track": {
+        "id": "3P1Yb9uVorSSXPWEN1WhZ8",
+        "name": "It Started Out So Nice"
+      },
       "duration_ms": 241066,
-      "artist": [
-        "Rodríguez"
+      "artists": [
+        {
+          "name": "Rodríguez",
+          "id": "5PrHzxc3kFm4hIrGNmelpX"
+        }
       ],
-      "artistId": [
-        "5PrHzxc3kFm4hIrGNmelpX"
-      ],
-      "albumId": "2X0L9mwLuMqAK8rf965Vmi",
+      "album": {
+        "id": "2X0L9mwLuMqAK8rf965Vmi",
+        "name": "Coming From Reality",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286146e2f7fc9e43db86dc66f"
+      },
       "release_date": "1971",
       "popularity": 35
     },
     {
-      "trackId": "3ot69CwpDxEpgPmatBTSfT",
-      "name": "I'll Slip Away",
+      "track": {
+        "id": "3ot69CwpDxEpgPmatBTSfT",
+        "name": "I'll Slip Away"
+      },
       "duration_ms": 198400,
-      "artist": [
-        "Guitar Tribute Players"
+      "artists": [
+        {
+          "name": "Guitar Tribute Players",
+          "id": "3AoiBjr0pSGswX96XxEgH7"
+        }
       ],
-      "artistId": [
-        "3AoiBjr0pSGswX96XxEgH7"
-      ],
-      "albumId": "6jjtxU2mgN4oQcbsk8U6SX",
+      "album": {
+        "id": "6jjtxU2mgN4oQcbsk8U6SX",
+        "name": "Acoustic Tribute to Rodriguez",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208cb32728b670a2f53036527"
+      },
       "release_date": "2013-11-05",
       "popularity": 6
     },
     {
-      "trackId": "1cXXHKH2kMDmtOEK73q6sf",
-      "name": "I Think Of You",
+      "track": {
+        "id": "1cXXHKH2kMDmtOEK73q6sf",
+        "name": "I Think Of You"
+      },
       "duration_ms": 205680,
-      "artist": [
-        "Rodríguez"
+      "artists": [
+        {
+          "name": "Rodríguez",
+          "id": "5PrHzxc3kFm4hIrGNmelpX"
+        }
       ],
-      "artistId": [
-        "5PrHzxc3kFm4hIrGNmelpX"
-      ],
-      "albumId": "2X0L9mwLuMqAK8rf965Vmi",
+      "album": {
+        "id": "2X0L9mwLuMqAK8rf965Vmi",
+        "name": "Coming From Reality",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286146e2f7fc9e43db86dc66f"
+      },
       "release_date": "1971",
       "popularity": 54
     },
     {
-      "trackId": "4CRpOsjhvgxjF7rQufmyZ1",
-      "name": "Inbetween Days",
+      "track": {
+        "id": "4CRpOsjhvgxjF7rQufmyZ1",
+        "name": "Inbetween Days"
+      },
       "duration_ms": 177986,
-      "artist": [
-        "The Cure"
+      "artists": [
+        {
+          "name": "The Cure",
+          "id": "7bu3H8JO7d0UbMoVzbo70s"
+        }
       ],
-      "artistId": [
-        "7bu3H8JO7d0UbMoVzbo70s"
-      ],
-      "albumId": "7zJzNs8eVgbkVVSQSwKRtx",
+      "album": {
+        "id": "7zJzNs8eVgbkVVSQSwKRtx",
+        "name": "The Head On The Door",
+        "img": "https://i.scdn.co/image/ab67616d00001e021dda5f57ba5c203f775ea2dd"
+      },
       "release_date": "1985-08-26",
       "popularity": 67
     },
     {
-      "trackId": "7w0fuUlTPFB5Z6qPgPtpAs",
-      "name": "Ivory Tower",
+      "track": {
+        "id": "7w0fuUlTPFB5Z6qPgPtpAs",
+        "name": "Ivory Tower"
+      },
       "duration_ms": 130341,
-      "artist": [
-        "Philip Ayers"
+      "artists": [
+        {
+          "name": "Philip Ayers",
+          "id": "1IJx884XVtl5mWZhINoRSj"
+        }
       ],
-      "artistId": [
-        "1IJx884XVtl5mWZhINoRSj"
-      ],
-      "albumId": "1ZX6tWlwTacpLI459fzVxr",
+      "album": {
+        "id": "1ZX6tWlwTacpLI459fzVxr",
+        "name": "Mountain Steps",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b4542b86c2d5f04fc663e18"
+      },
       "release_date": "2016-11-04",
       "popularity": 36
     },
     {
-      "trackId": "0fPBTBVryqIyUims2fU4gh",
-      "name": "I Saw You Blink",
+      "track": {
+        "id": "0fPBTBVryqIyUims2fU4gh",
+        "name": "I Saw You Blink"
+      },
       "duration_ms": 230506,
-      "artist": [
-        "Stornoway"
+      "artists": [
+        {
+          "name": "Stornoway",
+          "id": "1UzKSuyOqKgUupcNNEtnF1"
+        }
       ],
-      "artistId": [
-        "1UzKSuyOqKgUupcNNEtnF1"
-      ],
-      "albumId": "1HTcIqkNYMYuHbmmrz5bDV",
+      "album": {
+        "id": "1HTcIqkNYMYuHbmmrz5bDV",
+        "name": "Beachcomber's Windowsill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fbe70ee4869feb775ed5231c"
+      },
       "release_date": "2010-05-24",
       "popularity": 33
     },
     {
-      "trackId": "7tJQ4Ekp2vN3NlI3vJJW3v",
-      "name": "I Want You",
+      "track": {
+        "id": "7tJQ4Ekp2vN3NlI3vJJW3v",
+        "name": "I Want You"
+      },
       "duration_ms": 185200,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "4NP1rhnsPdYpnyJP0p0k0L",
+      "album": {
+        "id": "4NP1rhnsPdYpnyJP0p0k0L",
+        "name": "Blonde On Blonde",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c51563a479fa5a4917311197"
+      },
       "release_date": "1966-06-20",
       "popularity": 56
     }

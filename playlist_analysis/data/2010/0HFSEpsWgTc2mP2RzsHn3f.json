@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247469_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4bT4cd3XrfMMdl7FmDMkky",
-      "name": "Hidden Love/Sheila Coyles",
+      "track": {
+        "id": "4bT4cd3XrfMMdl7FmDMkky",
+        "name": "Hidden Love/Sheila Coyles"
+      },
       "duration_ms": 328160,
-      "artist": [
-        "Four Men & A Dog"
+      "artists": [
+        {
+          "name": "Four Men & A Dog",
+          "id": "4L1uFcZ0vElzom79ZiVz8Q"
+        }
       ],
-      "artistId": [
-        "4L1uFcZ0vElzom79ZiVz8Q"
-      ],
-      "albumId": "6QJSidXERwgwTdldgSNMUW",
+      "album": {
+        "id": "6QJSidXERwgwTdldgSNMUW",
+        "name": "Barking Mad",
+        "img": "https://i.scdn.co/image/ab67616d00001e024966a5909a7ef7a9a2430ee9"
+      },
       "release_date": "1991-03-01",
       "popularity": 16
     },
     {
-      "trackId": "2ovqJyhnomAPM7ENf2oXFU",
-      "name": "Gaudete - 2009 Remaster",
+      "track": {
+        "id": "2ovqJyhnomAPM7ENf2oXFU",
+        "name": "Gaudete - 2009 Remaster"
+      },
       "duration_ms": 147106,
-      "artist": [
-        "Steeleye Span"
+      "artists": [
+        {
+          "name": "Steeleye Span",
+          "id": "4OrrjMGltjy6ojX6034f8u"
+        }
       ],
-      "artistId": [
-        "4OrrjMGltjy6ojX6034f8u"
-      ],
-      "albumId": "58I9Fb3aGBCcWQl0tReiTo",
+      "album": {
+        "id": "58I9Fb3aGBCcWQl0tReiTo",
+        "name": "Below the Salt (2009 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe939b238d9ac2226963f940"
+      },
       "release_date": "1972-10-14",
       "popularity": 30
     },
     {
-      "trackId": "1mBtttCBV4TkDkIylmrUvb",
-      "name": "THE GO-BETWEENS 'By Chance'",
+      "track": {
+        "id": "1mBtttCBV4TkDkIylmrUvb",
+        "name": "THE GO-BETWEENS 'By Chance'"
+      },
       "duration_ms": 148480,
-      "artist": [
-        "The Go-Betweens"
+      "artists": [
+        {
+          "name": "The Go-Betweens",
+          "id": "4HCubdy7diarb4KZo8etrq"
+        }
       ],
-      "artistId": [
-        "4HCubdy7diarb4KZo8etrq"
-      ],
-      "albumId": "3DOi0MULA4e8faLtH4iMAQ",
+      "album": {
+        "id": "3DOi0MULA4e8faLtH4iMAQ",
+        "name": "The Missing Link Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f9431471d13485aba23a120"
+      },
       "release_date": "2005-01-21",
       "popularity": 8
     },
     {
-      "trackId": "34AJxouB6YZhT0oeoanfQi",
-      "name": "Breath",
+      "track": {
+        "id": "34AJxouB6YZhT0oeoanfQi",
+        "name": "Breath"
+      },
       "duration_ms": 239546,
-      "artist": [
-        "Pere Ubu"
+      "artists": [
+        {
+          "name": "Pere Ubu",
+          "id": "3V4FPipSnuYjtHnnAw9cZd"
+        }
       ],
-      "artistId": [
-        "3V4FPipSnuYjtHnnAw9cZd"
-      ],
-      "albumId": "3EsV0txtWp1vcy7jnALTjZ",
+      "album": {
+        "id": "3EsV0txtWp1vcy7jnALTjZ",
+        "name": "Cloudland",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226c9809b9905aee89b8daa7e"
+      },
       "release_date": "2007-01-01",
       "popularity": 12
     },
     {
-      "trackId": "69eY10yjZTfXAKg1zkqFhi",
-      "name": "Hot Hot Hot",
+      "track": {
+        "id": "69eY10yjZTfXAKg1zkqFhi",
+        "name": "Hot Hot Hot"
+      },
       "duration_ms": 404426,
-      "artist": [
-        "Arrow"
+      "artists": [
+        {
+          "name": "Arrow",
+          "id": "1CzWsbK2Rdn0RlWYZGgnAm"
+        }
       ],
-      "artistId": [
-        "1CzWsbK2Rdn0RlWYZGgnAm"
-      ],
-      "albumId": "2xlgQDRJIjQxiXdJEekBwU",
+      "album": {
+        "id": "2xlgQDRJIjQxiXdJEekBwU",
+        "name": "A Caribbean Party: The Best of Arrow",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fa6107b701773054a3a2bde"
+      },
       "release_date": "2013-06-05",
       "popularity": 41
     },
     {
-      "trackId": "6W5jZyTn4f8koxBw3YLNWS",
-      "name": "Les pêcheurs de perles, Act 1: Je crois entendre encore",
+      "track": {
+        "id": "6W5jZyTn4f8koxBw3YLNWS",
+        "name": "Les pêcheurs de perles, Act 1: Je crois entendre encore"
+      },
       "duration_ms": 206226,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "6sEwucq1e5IBhFpX4Uf5qD",
+      "album": {
+        "id": "6sEwucq1e5IBhFpX4Uf5qD",
+        "name": "Jussi Bjorling 100th Anniversary Anthology",
+        "img": "https://i.scdn.co/image/ab67616d00001e025dd7a8dc8942765cf2907a02"
+      },
       "release_date": "2011-01-25",
       "popularity": 12
     },
     {
-      "trackId": "0bY7f24fZ4CPvWhpDaA2XO",
-      "name": "Resting Place",
+      "track": {
+        "id": "0bY7f24fZ4CPvWhpDaA2XO",
+        "name": "Resting Place"
+      },
       "duration_ms": 216040,
-      "artist": [
-        "Steve Dobrogosz",
-        "Per Andersson"
+      "artists": [
+        {
+          "name": "Steve Dobrogosz",
+          "id": "1DS1wubFnTOJQxtX1CeYGo"
+        },
+        {
+          "name": "Per Andersson",
+          "id": "13MxDzLwT7jM2GCh1dNAp1"
+        }
       ],
-      "artistId": [
-        "1DS1wubFnTOJQxtX1CeYGo",
-        "13MxDzLwT7jM2GCh1dNAp1"
-      ],
-      "albumId": "6SOZj3AG5dSfMksdTdTMcd",
+      "album": {
+        "id": "6SOZj3AG5dSfMksdTdTMcd",
+        "name": "Dobrogosz: Mass & Chamber Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02835351bbd5b578370c91a48e"
+      },
       "release_date": "2011-05-01",
       "popularity": 3
     },
     {
-      "trackId": "5YKmkURepwPkG3sHZBvIAH",
-      "name": "Waly Waly",
+      "track": {
+        "id": "5YKmkURepwPkG3sHZBvIAH",
+        "name": "Waly Waly"
+      },
       "duration_ms": 279986,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "035MGN2HUd953iYZppZLQc",
+      "album": {
+        "id": "035MGN2HUd953iYZppZLQc",
+        "name": "The Best of Eva Cassidy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bca46974c9814201dde100e1"
+      },
       "release_date": "2012-10-26",
       "popularity": 28
     },
     {
-      "trackId": "5vmCYlrwLcmt805x8Ro90A",
-      "name": "Renegade",
+      "track": {
+        "id": "5vmCYlrwLcmt805x8Ro90A",
+        "name": "Renegade"
+      },
       "duration_ms": 367320,
-      "artist": [
-        "Thin Lizzy"
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "id": "6biWAmrHyiMkX49LkycGqQ"
+        }
       ],
-      "artistId": [
-        "6biWAmrHyiMkX49LkycGqQ"
-      ],
-      "albumId": "6DVweQXOnLKgB0yHw4oGKc",
+      "album": {
+        "id": "6DVweQXOnLKgB0yHw4oGKc",
+        "name": "Renegade",
+        "img": "https://i.scdn.co/image/ab67616d00001e023571781d0b232a1c07606546"
+      },
       "release_date": "1981-01-01",
       "popularity": 33
     },
     {
-      "trackId": "1KJe9UbBelM1Jz0uZRPlhi",
-      "name": "Ingenting",
+      "track": {
+        "id": "1KJe9UbBelM1Jz0uZRPlhi",
+        "name": "Ingenting"
+      },
       "duration_ms": 257746,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "1edEYBq0FFwnn0ZEEaH4DM",
+      "album": {
+        "id": "1edEYBq0FFwnn0ZEEaH4DM",
+        "name": "Tillbaka Till Samtiden",
+        "img": "https://i.scdn.co/image/ab67616d00001e024604ba67380d0397c42719f8"
+      },
       "release_date": "2007-10-17",
       "popularity": 39
     },
     {
-      "trackId": "33AuXzNELL1cqWYqxUgAM1",
-      "name": "Ya Empezó La Fiesta",
+      "track": {
+        "id": "33AuXzNELL1cqWYqxUgAM1",
+        "name": "Ya Empezó La Fiesta"
+      },
       "duration_ms": 420400,
-      "artist": [
-        "Los Van Van"
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "id": "4B5PkQ1wMjo1siTN9yD9Ds"
+        }
       ],
-      "artistId": [
-        "4B5PkQ1wMjo1siTN9yD9Ds"
-      ],
-      "albumId": "4bEhb2uIHUXrCO0qMKvx6I",
+      "album": {
+        "id": "4bEhb2uIHUXrCO0qMKvx6I",
+        "name": "Live At Miami Arena",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278b9c506ba4bdd041cba2a2e"
+      },
       "release_date": "2003",
       "popularity": 23
     },
     {
-      "trackId": "0xLmm2bZ0jPNbvi2yYyL6j",
-      "name": "Cherry Oh Baby",
+      "track": {
+        "id": "0xLmm2bZ0jPNbvi2yYyL6j",
+        "name": "Cherry Oh Baby"
+      },
       "duration_ms": 161500,
-      "artist": [
-        "Byron Lee"
+      "artists": [
+        {
+          "name": "Byron Lee",
+          "id": "1qerVYQkyneFNgZfMKH6HX"
+        }
       ],
-      "artistId": [
-        "1qerVYQkyneFNgZfMKH6HX"
-      ],
-      "albumId": "02hmx1aWBdFIAIcgchse7r",
+      "album": {
+        "id": "02hmx1aWBdFIAIcgchse7r",
+        "name": "Rasta Love 20 Hot Reggae Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fa5190bafd5f739bf442ba3"
+      },
       "release_date": "2022-07-22",
       "popularity": 0
     }

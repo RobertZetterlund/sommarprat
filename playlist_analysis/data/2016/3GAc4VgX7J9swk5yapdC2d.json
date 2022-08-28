@@ -7,144 +7,206 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a65feb4b-90ae-46cf-8d86-529be5ec6a8e.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6wpGqhRvJGNNXwWlPmkMyO",
-      "name": "I Still Haven't Found What I'm Looking For",
+      "track": {
+        "id": "6wpGqhRvJGNNXwWlPmkMyO",
+        "name": "I Still Haven't Found What I'm Looking For"
+      },
       "duration_ms": 277476,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 77
     },
     {
-      "trackId": "2K6NiKubLrWYxxPj7hK8ja",
-      "name": "Free Fallin'",
+      "track": {
+        "id": "2K6NiKubLrWYxxPj7hK8ja",
+        "name": "Free Fallin'"
+      },
       "duration_ms": 190768,
-      "artist": [
-        "ERIICE",
-        "Matteoni"
+      "artists": [
+        {
+          "name": "ERIICE",
+          "id": "3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Matteoni",
+          "id": "5076sRTVZcUEE1O7jnBpWF"
+        }
       ],
-      "artistId": [
-        "3DVYnBKNeZTLLPvMaEbmzC",
-        "5076sRTVZcUEE1O7jnBpWF"
-      ],
-      "albumId": "6uK12Um6f91LOcWJtvkfDx",
+      "album": {
+        "id": "6uK12Um6f91LOcWJtvkfDx",
+        "name": "Free Fallin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e022171d8653d3284e49c73cb7f"
+      },
       "release_date": "2022-02-11",
       "popularity": 46
     },
     {
-      "trackId": "4Tdc5l6RUT5HqGJiKC70bj",
-      "name": "River en vacker dröm",
+      "track": {
+        "id": "4Tdc5l6RUT5HqGJiKC70bj",
+        "name": "River en vacker dröm"
+      },
       "duration_ms": 294040,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "2nOzYO8LlFATIKd9S3qNUt",
+      "album": {
+        "id": "2nOzYO8LlFATIKd9S3qNUt",
+        "name": "2 steg från paradise (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e40fe235b308f0a0832f6af5"
+      },
       "release_date": "2010-10-13",
       "popularity": 47
     },
     {
-      "trackId": "6BrMEbPSSj55nQhkgf6DnE",
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "track": {
+        "id": "6BrMEbPSSj55nQhkgf6DnE",
+        "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster"
+      },
       "duration_ms": 112706,
-      "artist": [
-        "The Smiths"
+      "artists": [
+        {
+          "name": "The Smiths",
+          "id": "3yY2gUcIsjMr8hjo51PoJ8"
+        }
       ],
-      "artistId": [
-        "3yY2gUcIsjMr8hjo51PoJ8"
-      ],
-      "albumId": "1j57Q5ntVi7crpibb0h4sv",
+      "album": {
+        "id": "1j57Q5ntVi7crpibb0h4sv",
+        "name": "Hatful of Hollow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b"
+      },
       "release_date": "1984",
       "popularity": 67
     },
     {
-      "trackId": "4oNVeJ0dvdN4filxqLyIqC",
-      "name": "Long May You Run (Karaoke Version) - Originally Performed By Neil Young",
+      "track": {
+        "id": "4oNVeJ0dvdN4filxqLyIqC",
+        "name": "Long May You Run (Karaoke Version) - Originally Performed By Neil Young"
+      },
       "duration_ms": 255346,
-      "artist": [
-        "Karaoke Universe"
+      "artists": [
+        {
+          "name": "Karaoke Universe",
+          "id": "7a2AgzWfEyFkgSAXjLe4T3"
+        }
       ],
-      "artistId": [
-        "7a2AgzWfEyFkgSAXjLe4T3"
-      ],
-      "albumId": "1THv4CQGKTQ1JTUfWOmnrV",
+      "album": {
+        "id": "1THv4CQGKTQ1JTUfWOmnrV",
+        "name": "Long May You Run (Karaoke Version) (Originally Performed By Neil Young)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cf4fab9044ace969270374c"
+      },
       "release_date": "2013-06-05",
       "popularity": 0
     },
     {
-      "trackId": "1D39ZETXfcAFYaGruPHEzB",
-      "name": "re:stacks",
+      "track": {
+        "id": "1D39ZETXfcAFYaGruPHEzB",
+        "name": "re:stacks"
+      },
       "duration_ms": 401426,
-      "artist": [
-        "Bon Iver"
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ"
+        }
       ],
-      "artistId": [
-        "4LEiUm1SRbFMgfqnQTwUbQ"
-      ],
-      "albumId": "1r5JEclOv0s5S8GhFet0Wx",
+      "album": {
+        "id": "1r5JEclOv0s5S8GhFet0Wx",
+        "name": "For Emma, Forever Ago",
+        "img": "https://i.scdn.co/image/ab67616d00001e029626ee117a93c158d17aee17"
+      },
       "release_date": "2008-05-12",
       "popularity": 57
     },
     {
-      "trackId": "7kXmJwrZGIhDaLT9sNo3ut",
-      "name": "Hey Boy Hey Girl",
+      "track": {
+        "id": "7kXmJwrZGIhDaLT9sNo3ut",
+        "name": "Hey Boy Hey Girl"
+      },
       "duration_ms": 290493,
-      "artist": [
-        "The Chemical Brothers"
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "id": "1GhPHrq36VKCY3ucVaZCfo"
+        }
       ],
-      "artistId": [
-        "1GhPHrq36VKCY3ucVaZCfo"
-      ],
-      "albumId": "1QJP73UumgERuzp3yJSXw3",
+      "album": {
+        "id": "1QJP73UumgERuzp3yJSXw3",
+        "name": "Surrender",
+        "img": "https://i.scdn.co/image/ab67616d00001e0229dc59785f4c767fcbfc9e38"
+      },
       "release_date": "1999-01-01",
       "popularity": 64
     },
     {
-      "trackId": "1GLmaPfulP0BrfijohQpN5",
-      "name": "Don't Worry Baby - Remastered 2001",
+      "track": {
+        "id": "1GLmaPfulP0BrfijohQpN5",
+        "name": "Don't Worry Baby - Remastered 2001"
+      },
       "duration_ms": 169933,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "1G8AfOjrE0FO9w1gfemIy1",
+      "album": {
+        "id": "1G8AfOjrE0FO9w1gfemIy1",
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e9303d395184aab6ad4f0ea1"
+      },
       "release_date": "1964-03-02",
       "popularity": 65
     },
     {
-      "trackId": "2lCGAGpqgQIolNfpnycIZk",
-      "name": "When You Say Nothing at All",
+      "track": {
+        "id": "2lCGAGpqgQIolNfpnycIZk",
+        "name": "When You Say Nothing at All"
+      },
       "duration_ms": 222493,
-      "artist": [
-        "Keith Whitley"
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "id": "0bc7dhY6YXL35m1G0jVwuW"
+        }
       ],
-      "artistId": [
-        "0bc7dhY6YXL35m1G0jVwuW"
-      ],
-      "albumId": "4oj3skAMdx0abpd3XtOrOo",
+      "album": {
+        "id": "4oj3skAMdx0abpd3XtOrOo",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282d0ba5e8fb1878331d13e74"
+      },
       "release_date": "1990-08-07",
       "popularity": 54
     },
     {
-      "trackId": "7M5muIJFufE3FaF1b6F8ho",
-      "name": "La Cienega Just Smiled",
+      "track": {
+        "id": "7M5muIJFufE3FaF1b6F8ho",
+        "name": "La Cienega Just Smiled"
+      },
       "duration_ms": 301013,
-      "artist": [
-        "Ryan Adams"
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "id": "2qc41rNTtdLK0tV3mJn2Pm"
+        }
       ],
-      "artistId": [
-        "2qc41rNTtdLK0tV3mJn2Pm"
-      ],
-      "albumId": "7rIwXFX7SXc8FVBMUnRIvJ",
+      "album": {
+        "id": "7rIwXFX7SXc8FVBMUnRIvJ",
+        "name": "Gold",
+        "img": "https://i.scdn.co/image/ab67616d00001e024503fdd70c29d4a398b81dfe"
+      },
       "release_date": "2001-01-01",
       "popularity": 48
     }

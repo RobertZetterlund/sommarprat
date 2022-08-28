@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3235504_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "01gMw6DbUQ6UHhohpWeJlg",
-      "name": "Det här är ditt land (This Land Is Your Land)",
+      "track": {
+        "id": "01gMw6DbUQ6UHhohpWeJlg",
+        "name": "Det här är ditt land (This Land Is Your Land)"
+      },
       "duration_ms": 268866,
-      "artist": [
-        "Mikael Wiehe"
+      "artists": [
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        }
       ],
-      "artistId": [
-        "3VOOmK7ZqJNgOPN1hopJuL"
-      ],
-      "albumId": "4yrClOx6PDTDFH6sCK1Pwx",
+      "album": {
+        "id": "4yrClOx6PDTDFH6sCK1Pwx",
+        "name": "En Sång Till Modet",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e37b9438eef4a5ece35fa6f"
+      },
       "release_date": "2000",
       "popularity": 36
     },
     {
-      "trackId": "0vSNrXPYNh0o7HdSLgsdIY",
-      "name": "Justice (Get Up, Stand Up)",
+      "track": {
+        "id": "0vSNrXPYNh0o7HdSLgsdIY",
+        "name": "Justice (Get Up, Stand Up)"
+      },
       "duration_ms": 198772,
-      "artist": [
-        "Nakkia Gold",
-        "Wiz Khalifa",
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Nakkia Gold",
+          "id": "2kPJ3uWBBRjfh0dZNEW7ET"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "id": "137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2kPJ3uWBBRjfh0dZNEW7ET",
-        "137W8MRPWKqSmrBGDBFSop",
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "0zZhdEIwCXO6hQqIZWxWuC",
+      "album": {
+        "id": "0zZhdEIwCXO6hQqIZWxWuC",
+        "name": "Justice (Get Up, Stand Up) (ft. Wiz Khalifa, Bob Marley & The Wailers)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c50f77ee9f0d4f38602b5af"
+      },
       "release_date": "2021-05-07",
       "popularity": 52
     },
     {
-      "trackId": "2RaA6kIcvomt77qlIgGhCT",
-      "name": "Breaking the Law",
+      "track": {
+        "id": "2RaA6kIcvomt77qlIgGhCT",
+        "name": "Breaking the Law"
+      },
       "duration_ms": 153840,
-      "artist": [
-        "Judas Priest"
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "id": "2tRsMl4eGxwoNabM08Dm4I"
+        }
       ],
-      "artistId": [
-        "2tRsMl4eGxwoNabM08Dm4I"
-      ],
-      "albumId": "5bqtZRbUZUxUps8mrO9tGY",
+      "album": {
+        "id": "5bqtZRbUZUxUps8mrO9tGY",
+        "name": "British Steel",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be0e5ebab8c61469b1ff9f62"
+      },
       "release_date": "1980",
       "popularity": 71
     },
     {
-      "trackId": "0QfxhyX9dky9Zgfr2xhNzR",
-      "name": "Donkey Kong",
+      "track": {
+        "id": "0QfxhyX9dky9Zgfr2xhNzR",
+        "name": "Donkey Kong"
+      },
       "duration_ms": 148000,
-      "artist": [
-        "Hooja"
+      "artists": [
+        {
+          "name": "Hooja",
+          "id": "054fVwphDX8QB8Pm7IjRcL"
+        }
       ],
-      "artistId": [
-        "054fVwphDX8QB8Pm7IjRcL"
-      ],
-      "albumId": "4GGHjBUGjEipaBY0l8meu3",
+      "album": {
+        "id": "4GGHjBUGjEipaBY0l8meu3",
+        "name": "Donkey Kong",
+        "img": "https://i.scdn.co/image/ab67616d00001e029dbc411fdb37df4f2f11c467"
+      },
       "release_date": "2021-01-29",
       "popularity": 65
     },
     {
-      "trackId": "2WfaOiMkCvy7F5fcp2zZ8L",
-      "name": "Take on Me",
+      "track": {
+        "id": "2WfaOiMkCvy7F5fcp2zZ8L",
+        "name": "Take on Me"
+      },
       "duration_ms": 225280,
-      "artist": [
-        "a-ha"
+      "artists": [
+        {
+          "name": "a-ha",
+          "id": "2jzc5TC5TVFLXQlBNiIUzE"
+        }
       ],
-      "artistId": [
-        "2jzc5TC5TVFLXQlBNiIUzE"
-      ],
-      "albumId": "1ER3B6zev5JEAaqhnyyfbf",
+      "album": {
+        "id": "1ER3B6zev5JEAaqhnyyfbf",
+        "name": "Hunting High and Low",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53"
+      },
       "release_date": "1985-06-01",
       "popularity": 84
     },
     {
-      "trackId": "6rIwd1UIdkupP9xTjZTCWS",
-      "name": "Trollmors vaggsång",
+      "track": {
+        "id": "6rIwd1UIdkupP9xTjZTCWS",
+        "name": "Trollmors vaggsång"
+      },
       "duration_ms": 128506,
-      "artist": [
-        "My & Mats"
+      "artists": [
+        {
+          "name": "My & Mats",
+          "id": "4ppoX6F1mJJLdi9R6ycLdq"
+        }
       ],
-      "artistId": [
-        "4ppoX6F1mJJLdi9R6ycLdq"
-      ],
-      "albumId": "5Tpvp78711uBnTgq8mjOeN",
+      "album": {
+        "id": "5Tpvp78711uBnTgq8mjOeN",
+        "name": "Go'natt, go'natt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afe4f323e6822ac972114f66"
+      },
       "release_date": "2014-10-10",
       "popularity": 48
     },
     {
-      "trackId": "62TgV3EscfSa5ofYVUuZos",
-      "name": "Mitt Land",
+      "track": {
+        "id": "62TgV3EscfSa5ofYVUuZos",
+        "name": "Mitt Land"
+      },
       "duration_ms": 171192,
-      "artist": [
-        "Heidrun"
+      "artists": [
+        {
+          "name": "Heidrun",
+          "id": "4AZYzoCpKRvq0EK96tU1MT"
+        }
       ],
-      "artistId": [
-        "4AZYzoCpKRvq0EK96tU1MT"
-      ],
-      "albumId": "28MVgFFc4n7GEkxA47A9fO",
+      "album": {
+        "id": "28MVgFFc4n7GEkxA47A9fO",
+        "name": "Mitt Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b2112b45dd9b0373889da4c"
+      },
       "release_date": "2015-10-28",
       "popularity": 48
     },
     {
-      "trackId": "5rURMdMrzP08vHDvmcVGT2",
-      "name": "Norrland",
+      "track": {
+        "id": "5rURMdMrzP08vHDvmcVGT2",
+        "name": "Norrland"
+      },
       "duration_ms": 228578,
-      "artist": [
-        "Rivstart"
+      "artists": [
+        {
+          "name": "Rivstart",
+          "id": "0NNJLiIAqTaLE1MMMgrBNj"
+        }
       ],
-      "artistId": [
-        "0NNJLiIAqTaLE1MMMgrBNj"
-      ],
-      "albumId": "54h4HivsHVIEknofP8pZ1K",
+      "album": {
+        "id": "54h4HivsHVIEknofP8pZ1K",
+        "name": "Norrland",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235bcd08f248da7d2c6760325"
+      },
       "release_date": "2020-03-20",
       "popularity": 49
     },
     {
-      "trackId": "4w3tQBXhn5345eUXDGBWZG",
-      "name": "9 to 5",
+      "track": {
+        "id": "4w3tQBXhn5345eUXDGBWZG",
+        "name": "9 to 5"
+      },
       "duration_ms": 162466,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "64Ky1tqKPfwxhJs6msphWd",
+      "album": {
+        "id": "64Ky1tqKPfwxhJs6msphWd",
+        "name": "9 To 5 And Odd Jobs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02060ccf36ab5b0e0a739799ec"
+      },
       "release_date": "1980",
       "popularity": 76
     },
     {
-      "trackId": "5OwH2YXbDrU5HOIyZDRFtg",
-      "name": "Oh boy",
+      "track": {
+        "id": "5OwH2YXbDrU5HOIyZDRFtg",
+        "name": "Oh boy"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "Peps Persson"
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "id": "5xmgC1jISe31QZSp8gqKUJ"
+        }
       ],
-      "artistId": [
-        "5xmgC1jISe31QZSp8gqKUJ"
-      ],
-      "albumId": "1pIYOXNx3EJIX8c3zoZZGN",
+      "album": {
+        "id": "1pIYOXNx3EJIX8c3zoZZGN",
+        "name": "Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02526fbed31942217ef35d019b"
+      },
       "release_date": "2004-01-01",
       "popularity": 53
     },
     {
-      "trackId": "6dyku3NZZukkS8yhzWG9TU",
-      "name": "The Way I Walk",
+      "track": {
+        "id": "6dyku3NZZukkS8yhzWG9TU",
+        "name": "The Way I Walk"
+      },
       "duration_ms": 160506,
-      "artist": [
-        "The Cramps"
+      "artists": [
+        {
+          "name": "The Cramps",
+          "id": "4lYtGx5NZQJHsMyhHc5iz3"
+        }
       ],
-      "artistId": [
-        "4lYtGx5NZQJHsMyhHc5iz3"
-      ],
-      "albumId": "1n1znRLH7iRtkhjbrCs0wi",
+      "album": {
+        "id": "1n1znRLH7iRtkhjbrCs0wi",
+        "name": "Off The Bone",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227c337cfb2be8c395b04d61d"
+      },
       "release_date": "1983",
       "popularity": 46
     },
     {
-      "trackId": "0U06qknQkghbauy1U8pmym",
-      "name": "Törnrosdalens frihetssång",
+      "track": {
+        "id": "0U06qknQkghbauy1U8pmym",
+        "name": "Törnrosdalens frihetssång"
+      },
       "duration_ms": 203506,
-      "artist": [
-        "My & Mats"
+      "artists": [
+        {
+          "name": "My & Mats",
+          "id": "4ppoX6F1mJJLdi9R6ycLdq"
+        }
       ],
-      "artistId": [
-        "4ppoX6F1mJJLdi9R6ycLdq"
-      ],
-      "albumId": "5Tpvp78711uBnTgq8mjOeN",
+      "album": {
+        "id": "5Tpvp78711uBnTgq8mjOeN",
+        "name": "Go'natt, go'natt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afe4f323e6822ac972114f66"
+      },
       "release_date": "2014-10-10",
       "popularity": 44
     },
     {
-      "trackId": "6AEXuVITLfu2DWs2GShILN",
-      "name": "Always Look On the Bright Side of Life (From \"Life of Brian\")",
+      "track": {
+        "id": "6AEXuVITLfu2DWs2GShILN",
+        "name": "Always Look On the Bright Side of Life (From \"Life of Brian\")"
+      },
       "duration_ms": 202993,
-      "artist": [
-        "James Conway",
-        "Eric Idle"
+      "artists": [
+        {
+          "name": "James Conway",
+          "id": "0Qi3cb0sQIqB03JER8U0iI"
+        },
+        {
+          "name": "Eric Idle",
+          "id": "24OqPJZX2KZCVgEOa3d9mF"
+        }
       ],
-      "artistId": [
-        "0Qi3cb0sQIqB03JER8U0iI",
-        "24OqPJZX2KZCVgEOa3d9mF"
-      ],
-      "albumId": "1qlml7frvK0w04EPpJUvMC",
+      "album": {
+        "id": "1qlml7frvK0w04EPpJUvMC",
+        "name": "The Happy Piano",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260f6d3909a2a71681e602350"
+      },
       "release_date": "2012-01-01",
       "popularity": 9
     }

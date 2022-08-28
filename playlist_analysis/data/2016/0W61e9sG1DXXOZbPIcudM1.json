@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4dae84f8-2278-4010-a390-6c23d13687ca.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4gTeTt1IuGrOLaJeRP5wUw",
-      "name": "Tro och tvivel",
+      "track": {
+        "id": "4gTeTt1IuGrOLaJeRP5wUw",
+        "name": "Tro och tvivel"
+      },
       "duration_ms": 338640,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "1TSO7M4RaU156GYLIKjkL1",
+      "album": {
+        "id": "1TSO7M4RaU156GYLIKjkL1",
+        "name": "För sent för Edelweiss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccc8337effe128a3baaad8cd"
+      },
       "release_date": "2008-03-26",
       "popularity": 50
     },
     {
-      "trackId": "4snXObSPTsh9AOo7jQDT4P",
-      "name": "Oua Oua",
+      "track": {
+        "id": "4snXObSPTsh9AOo7jQDT4P",
+        "name": "Oua Oua"
+      },
       "duration_ms": 169946,
-      "artist": [
-        "Kanui & Lula"
+      "artists": [
+        {
+          "name": "Kanui & Lula",
+          "id": "2SDKz1RrqrDcOTCB7yKwm3"
+        }
       ],
-      "artistId": [
-        "2SDKz1RrqrDcOTCB7yKwm3"
-      ],
-      "albumId": "1wVMmfyB8S34usK1z2U6ja",
+      "album": {
+        "id": "1wVMmfyB8S34usK1z2U6ja",
+        "name": "Ticklin' The String",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251f4be314dc2e13af86a9d92"
+      },
       "release_date": "2006-01-01",
       "popularity": 24
     },
     {
-      "trackId": "0bBGtSrBpTkQe35s8bNtK2",
-      "name": "Konfirmationspresenten",
+      "track": {
+        "id": "0bBGtSrBpTkQe35s8bNtK2",
+        "name": "Konfirmationspresenten"
+      },
       "duration_ms": 159093,
-      "artist": [
-        "Galenskaparna & After Shave"
+      "artists": [
+        {
+          "name": "Galenskaparna & After Shave",
+          "id": "1yP4vKrljoPWZofWJchg0E"
+        }
       ],
-      "artistId": [
-        "1yP4vKrljoPWZofWJchg0E"
-      ],
-      "albumId": "3vQmmjOCZmEjHMDAVy9JNZ",
+      "album": {
+        "id": "3vQmmjOCZmEjHMDAVy9JNZ",
+        "name": "Macken (Låtarna ur TV-serien)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bede5b3fe51295fe86ac2ce9"
+      },
       "release_date": "1986",
       "popularity": 36
     },
     {
-      "trackId": "1s3kQDaeyTn3K5hd34y5x1",
-      "name": "Balladen om Näver-Benny",
+      "track": {
+        "id": "1s3kQDaeyTn3K5hd34y5x1",
+        "name": "Balladen om Näver-Benny"
+      },
       "duration_ms": 204346,
-      "artist": [
-        "Per Andersson"
+      "artists": [
+        {
+          "name": "Per Andersson",
+          "id": "13MxDzLwT7jM2GCh1dNAp1"
+        }
       ],
-      "artistId": [
-        "13MxDzLwT7jM2GCh1dNAp1"
-      ],
-      "albumId": "17rLJUHyeDuJ1dxsKOo5n6",
+      "album": {
+        "id": "17rLJUHyeDuJ1dxsKOo5n6",
+        "name": "Nevergreens",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dae878f29eed2e79ca0f4134"
+      },
       "release_date": "2016-06-20",
       "popularity": 10
     },
     {
-      "trackId": "5CTAcf8aS0a0sIsDwQRF9C",
-      "name": "Bicycle Race - Remastered 2011",
+      "track": {
+        "id": "5CTAcf8aS0a0sIsDwQRF9C",
+        "name": "Bicycle Race - Remastered 2011"
+      },
       "duration_ms": 180813,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "2yuTRGIackbcReLUXOYBqU",
+      "album": {
+        "id": "2yuTRGIackbcReLUXOYBqU",
+        "name": "Jazz (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c39dd133836c2c1c87e34d6"
+      },
       "release_date": "1978-11-10",
       "popularity": 62
     },
     {
-      "trackId": "6rBzSjdrihboUkZ0YyhWLc",
-      "name": "This Is the Year",
+      "track": {
+        "id": "6rBzSjdrihboUkZ0YyhWLc",
+        "name": "This Is the Year"
+      },
       "duration_ms": 184666,
-      "artist": [
-        "Marit Bergman"
+      "artists": [
+        {
+          "name": "Marit Bergman",
+          "id": "1Z8YLeRzSedy0jT5D08pVU"
+        }
       ],
-      "artistId": [
-        "1Z8YLeRzSedy0jT5D08pVU"
-      ],
-      "albumId": "4hbobVgZ2HhBzeiclP1df4",
+      "album": {
+        "id": "4hbobVgZ2HhBzeiclP1df4",
+        "name": "3.00 A.M. Serenades",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274cb7f86bd8d2fb6b042ce9a"
+      },
       "release_date": "2003-05-31",
       "popularity": 33
     },
     {
-      "trackId": "2nB0EFabyvkTOQkOeoBNZV",
-      "name": "Very Welcome Home Mr. Swanson",
+      "track": {
+        "id": "2nB0EFabyvkTOQkOeoBNZV",
+        "name": "Very Welcome Home Mr. Swanson"
+      },
       "duration_ms": 167733,
-      "artist": [
-        "Lasse Dahlquist"
+      "artists": [
+        {
+          "name": "Lasse Dahlquist",
+          "id": "2QHYFZGCFIoIlU2GrAj664"
+        }
       ],
-      "artistId": [
-        "2QHYFZGCFIoIlU2GrAj664"
-      ],
-      "albumId": "6gGHFUOEZ4A6DYDgSsMzIj",
+      "album": {
+        "id": "6gGHFUOEZ4A6DYDgSsMzIj",
+        "name": "Svenska sångfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d48ce9401203c57c5ca0c95f"
+      },
       "release_date": "2005-01-14",
       "popularity": 18
     },
     {
-      "trackId": "6lFZbCc7pn6Lme1NP7qQqQ",
-      "name": "You Can't Always Get What You Want",
+      "track": {
+        "id": "6lFZbCc7pn6Lme1NP7qQqQ",
+        "name": "You Can't Always Get What You Want"
+      },
       "duration_ms": 448720,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "4l4u9e9jSbotSXNjYfOugy",
+      "album": {
+        "id": "4l4u9e9jSbotSXNjYfOugy",
+        "name": "Let It Bleed",
+        "img": "https://i.scdn.co/image/ab67616d00001e022af30c881bb23cfb82a8cf99"
+      },
       "release_date": "1969-12-05",
       "popularity": 68
     },
     {
-      "trackId": "7nYvUtkQMx1v80S2FH2s9J",
-      "name": "Regulate",
+      "track": {
+        "id": "7nYvUtkQMx1v80S2FH2s9J",
+        "name": "Regulate"
+      },
       "duration_ms": 248866,
-      "artist": [
-        "Warren G",
-        "Nate Dogg"
+      "artists": [
+        {
+          "name": "Warren G",
+          "id": "2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h"
+        }
       ],
-      "artistId": [
-        "2B4ZHz4QDWJTXPFPgO5peE",
-        "1Oa0bMld0A3u5OTYfMzp5h"
-      ],
-      "albumId": "2VMGv3inRLPM4GOMXf37qu",
+      "album": {
+        "id": "2VMGv3inRLPM4GOMXf37qu",
+        "name": "Regulate… G Funk Era",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6b9b62ea130943d371b69ef"
+      },
       "release_date": "1994-06-07",
       "popularity": 74
     },
     {
-      "trackId": "5kokLEZMUOJQi4isYgZieU",
-      "name": "De sista entusiasterna",
+      "track": {
+        "id": "5kokLEZMUOJQi4isYgZieU",
+        "name": "De sista entusiasterna"
+      },
       "duration_ms": 255706,
-      "artist": [
-        "Povel Ramel",
-        "Wenche Myhre"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        },
+        {
+          "name": "Wenche Myhre",
+          "id": "4C3ZoiafZ1vOv09kAKHLSf"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo",
-        "4C3ZoiafZ1vOv09kAKHLSf"
-      ],
-      "albumId": "5zO2xoT9hbJNA984vOvKZq",
+      "album": {
+        "id": "5zO2xoT9hbJNA984vOvKZq",
+        "name": "Povel Ramel/De sista entusiasterna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02293ba3dc2c5775b1244a010c"
+      },
       "release_date": "2000-01-01",
       "popularity": 22
     },
     {
-      "trackId": "5jgFfDIR6FR0gvlA56Nakr",
-      "name": "Blackbird - Remastered 2009",
+      "track": {
+        "id": "5jgFfDIR6FR0gvlA56Nakr",
+        "name": "Blackbird - Remastered 2009"
+      },
       "duration_ms": 138386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 72
     },
     {
-      "trackId": "2X97u85uhrMdjPLFZ8Upn8",
-      "name": "Smile",
+      "track": {
+        "id": "2X97u85uhrMdjPLFZ8Upn8",
+        "name": "Smile"
+      },
       "duration_ms": 192920,
-      "artist": [
-        "Benjamin Ingrosso"
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "id": "7jEEE187pVG6InOxn03oA5"
+        }
       ],
-      "artistId": [
-        "7jEEE187pVG6InOxn03oA5"
-      ],
-      "albumId": "1w3KuDqXpsnQuCBGqr7A0n",
+      "album": {
+        "id": "1w3KuDqXpsnQuCBGqr7A0n",
+        "name": "Smile",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a50dd96d02fc9ccbfe5796dd"
+      },
       "release_date": "2021-05-21",
       "popularity": 62
     }

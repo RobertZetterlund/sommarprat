@@ -7,210 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860898_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4GmfoKVBh1mIR6OVaMDXRK",
-      "name": "Jag och min far",
+      "track": {
+        "id": "4GmfoKVBh1mIR6OVaMDXRK",
+        "name": "Jag och min far"
+      },
       "duration_ms": 235331,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "6tqbVThKQaAbkJ96dj4kvf",
+      "album": {
+        "id": "6tqbVThKQaAbkJ96dj4kvf",
+        "name": "Magnus Den Store (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a3f711326cc2d6413d16a0f"
+      },
       "release_date": "2013-02-27",
       "popularity": 48
     },
     {
-      "trackId": "1iCNdJ0EHqXC3lgbtsccAl",
-      "name": "Turandot / Act 3: \"Nessun dorma!\" - Live",
+      "track": {
+        "id": "1iCNdJ0EHqXC3lgbtsccAl",
+        "name": "Turandot / Act 3: \"Nessun dorma!\" - Live"
+      },
       "duration_ms": 185160,
-      "artist": [
-        "Luciano Pavarotti",
-        "Orchestra Del Teatro Dell'Opera Di Roma",
-        "Orchestra del Maggio Musicale Fiorentino"
+      "artists": [
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
+          "id": "05pJB6sDGej7vpC9V6bjV8"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "id": "0YfVUjHFL0QWCSFRzliCDk"
+        }
       ],
-      "artistId": [
-        "0Y8KmFkKOgJybpVobn1onU",
-        "05pJB6sDGej7vpC9V6bjV8",
-        "0YfVUjHFL0QWCSFRzliCDk"
-      ],
-      "albumId": "4bbeXfo85zoTHamPw7xsUs",
+      "album": {
+        "id": "4bbeXfo85zoTHamPw7xsUs",
+        "name": "The Three Tenors - In Concert - Rome 1990",
+        "img": "https://i.scdn.co/image/ab67616d00001e021260c1ff3e832e490536d706"
+      },
       "release_date": "1990-01-01",
       "popularity": 29
     },
     {
-      "trackId": "1CmR5HgC4AGu8b44zSPRVO",
-      "name": "Att skratta åt sej själv",
+      "track": {
+        "id": "1CmR5HgC4AGu8b44zSPRVO",
+        "name": "Att skratta åt sej själv"
+      },
       "duration_ms": 80666,
-      "artist": [
-        "Robert Broberg"
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "id": "05JNHlwtdHqPJ6wcW7Mil5"
+        }
       ],
-      "artistId": [
-        "05JNHlwtdHqPJ6wcW7Mil5"
-      ],
-      "albumId": "35wToPzIcjOYR1hlkz6js5",
+      "album": {
+        "id": "35wToPzIcjOYR1hlkz6js5",
+        "name": "Morot",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296b6df6308ebaf5cd43de150"
+      },
       "release_date": "1988",
       "popularity": 1
     },
     {
-      "trackId": "4ZEEcEMGjkWOfZNBcIB9yE",
-      "name": "War",
+      "track": {
+        "id": "4ZEEcEMGjkWOfZNBcIB9yE",
+        "name": "War"
+      },
       "duration_ms": 200266,
-      "artist": [
-        "Edwin Starr"
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "id": "1B8AXU6gIIafpyLEpbcv1u"
+        }
       ],
-      "artistId": [
-        "1B8AXU6gIIafpyLEpbcv1u"
-      ],
-      "albumId": "26pzgagMwY4opUvVUdSuum",
+      "album": {
+        "id": "26pzgagMwY4opUvVUdSuum",
+        "name": "War And Peace",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a58f13adfca5813264bf1149"
+      },
       "release_date": "1970-01-01",
       "popularity": 63
     },
     {
-      "trackId": "1RCGJ5LSehk2MW2ju6ZSvk",
-      "name": "1812 Overture, Op. 49, TH. 49: Largo - Allegro giusto",
+      "track": {
+        "id": "1RCGJ5LSehk2MW2ju6ZSvk",
+        "name": "1812 Overture, Op. 49, TH. 49: Largo - Allegro giusto"
+      },
       "duration_ms": 929000,
-      "artist": [
-        "Pyotr Ilyich Tchaikovsky",
-        "Berliner Philharmoniker",
-        "Herbert von Karajan"
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "id": "3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "id": "5zCaQxjl110XTrm4LQ1CxY"
+        }
       ],
-      "artistId": [
-        "3MKCzCnpzw3TjUYs2v7vDA",
-        "6uRJnvQ3f8whVnmeoecv5Z",
-        "5zCaQxjl110XTrm4LQ1CxY"
-      ],
-      "albumId": "2ZKHIM2TSt914B9Gk0Mrxj",
+      "album": {
+        "id": "2ZKHIM2TSt914B9Gk0Mrxj",
+        "name": "Soft Morning with Tchaikovsky",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9f63711a4f1205119fdfb55"
+      },
       "release_date": "2022-08-13",
       "popularity": 1
     },
     {
-      "trackId": "6rdFfCqoyHUNbQ0hGbbzgs",
-      "name": "Vid Molins fontän",
+      "track": {
+        "id": "6rdFfCqoyHUNbQ0hGbbzgs",
+        "name": "Vid Molins fontän"
+      },
       "duration_ms": 217733,
-      "artist": [
-        "Tommy Körberg",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "66an14QAIFIc3qNbeuO3mK",
+      "album": {
+        "id": "66an14QAIFIc3qNbeuO3mK",
+        "name": "Tommy Körberg & Stefan Nilsson tolkar Jacques Brel",
+        "img": "https://i.scdn.co/image/ab67616d00001e025bb022e904895a47cc376a68"
+      },
       "release_date": "1982-01-01",
       "popularity": 10
     },
     {
-      "trackId": "49CcYj1bsJ0fjkICI8hIrR",
-      "name": "Jag vill tacka Livet",
+      "track": {
+        "id": "49CcYj1bsJ0fjkICI8hIrR",
+        "name": "Jag vill tacka Livet"
+      },
       "duration_ms": 266040,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "6Ye4WhlxwRkxAyyF1frCdi",
+      "album": {
+        "id": "6Ye4WhlxwRkxAyyF1frCdi",
+        "name": "Jag vill tacka livet - 13 sånger av Violeta Parra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f92f9109892c50471f98257e"
+      },
       "release_date": "1979",
       "popularity": 24
     },
     {
-      "trackId": "0ktKImJjoL2qzrosNMcLUs",
-      "name": "Keops pyramid",
+      "track": {
+        "id": "0ktKImJjoL2qzrosNMcLUs",
+        "name": "Keops pyramid"
+      },
       "duration_ms": 394560,
-      "artist": [
-        "Hoola Bandoola Band"
+      "artists": [
+        {
+          "name": "Hoola Bandoola Band",
+          "id": "5nKrlPFxyS6Al128p3vQG7"
+        }
       ],
-      "artistId": [
-        "5nKrlPFxyS6Al128p3vQG7"
-      ],
-      "albumId": "0GHdRokBmIToOlyPIp12Zs",
+      "album": {
+        "id": "0GHdRokBmIToOlyPIp12Zs",
+        "name": "Vem kan man lita på?",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fb9583ff1fe2c01d9057bca"
+      },
       "release_date": "1972-01-01",
       "popularity": 33
     },
     {
-      "trackId": "2GWeltkBZiTNfZCiEcTXUp",
-      "name": "Ingrid Dardels polska",
+      "track": {
+        "id": "2GWeltkBZiTNfZCiEcTXUp",
+        "name": "Ingrid Dardels polska"
+      },
       "duration_ms": 100826,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+      "album": {
+        "id": "22jr1k8N3Iz8abiAIoe0iB",
+        "name": "Cornelis sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e32ae3048034e79c68b3ce15"
+      },
       "release_date": "1969",
       "popularity": 11
     },
     {
-      "trackId": "3BdId1EhcMX7yAzwzQJLAD",
-      "name": "Barcelona",
+      "track": {
+        "id": "3BdId1EhcMX7yAzwzQJLAD",
+        "name": "Barcelona"
+      },
       "duration_ms": 266586,
-      "artist": [
-        "Freddie Mercury",
-        "Montserrat Caballé"
+      "artists": [
+        {
+          "name": "Freddie Mercury",
+          "id": "4M1FpEWs2PeYfJe7xxJfhH"
+        },
+        {
+          "name": "Montserrat Caballé",
+          "id": "6oGu0NZWy8gJ18wggybFqH"
+        }
       ],
-      "artistId": [
-        "4M1FpEWs2PeYfJe7xxJfhH",
-        "6oGu0NZWy8gJ18wggybFqH"
-      ],
-      "albumId": "2LCNkugsIYizh1dBYkN143",
+      "album": {
+        "id": "2LCNkugsIYizh1dBYkN143",
+        "name": "Messenger Of The Gods: The Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202147849c349501e8f19c930"
+      },
       "release_date": "2016-09-02",
       "popularity": 56
     },
     {
-      "trackId": "14AJI1RloVWTh8bJe9gBPM",
-      "name": "Händerna mot himlen",
+      "track": {
+        "id": "14AJI1RloVWTh8bJe9gBPM",
+        "name": "Händerna mot himlen"
+      },
       "duration_ms": 237813,
-      "artist": [
-        "Petra Marklund"
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "id": "2ZX1rncu0C7WOuSFC1aEbh"
+        }
       ],
-      "artistId": [
-        "2ZX1rncu0C7WOuSFC1aEbh"
-      ],
-      "albumId": "0Pkg2U6eM9f15PN9ZXefNq",
+      "album": {
+        "id": "0Pkg2U6eM9f15PN9ZXefNq",
+        "name": "Inferno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7d0677a82379a373bc93d34"
+      },
       "release_date": "2012-10-17",
       "popularity": 61
     },
     {
-      "trackId": "29wJiSQcze8HEmxkUQykyp",
-      "name": "Carrie",
+      "track": {
+        "id": "29wJiSQcze8HEmxkUQykyp",
+        "name": "Carrie"
+      },
       "duration_ms": 272133,
-      "artist": [
-        "Europe"
+      "artists": [
+        {
+          "name": "Europe",
+          "id": "7Js6Lde8thlIHXggv2SCBz"
+        }
       ],
-      "artistId": [
-        "7Js6Lde8thlIHXggv2SCBz"
-      ],
-      "albumId": "5Jkd47JEaCU1g4DcGBnHm3",
+      "album": {
+        "id": "5Jkd47JEaCU1g4DcGBnHm3",
+        "name": "The Final Countdown (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d925cec3072ed1b74e5188f"
+      },
       "release_date": "1986",
       "popularity": 70
     },
     {
-      "trackId": "2bfRfAO1RNWcpNtWJv042o",
-      "name": "Some Die Young",
+      "track": {
+        "id": "2bfRfAO1RNWcpNtWJv042o",
+        "name": "Some Die Young"
+      },
       "duration_ms": 228066,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "1YqHIqrWx3eopxKFPqjqhT",
+      "album": {
+        "id": "1YqHIqrWx3eopxKFPqjqhT",
+        "name": "Sjung",
+        "img": "https://i.scdn.co/image/ab67616d00001e026494a5592cca561ea52f6541"
+      },
       "release_date": "2012-01-10",
       "popularity": 53
     },
     {
-      "trackId": "5IX4TbIR5mMHGE4wiWwKW0",
-      "name": "One",
+      "track": {
+        "id": "5IX4TbIR5mMHGE4wiWwKW0",
+        "name": "One"
+      },
       "duration_ms": 447440,
-      "artist": [
-        "Metallica"
+      "artists": [
+        {
+          "name": "Metallica",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB"
+        }
       ],
-      "artistId": [
-        "2ye2Wgw4gimLv2eAKyk1NB"
-      ],
-      "albumId": "6Eycw3dwcDMEFSqkUvLQ7g",
+      "album": {
+        "id": "6Eycw3dwcDMEFSqkUvLQ7g",
+        "name": "...And Justice For All",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c05e69390ab7c628a83cee7"
+      },
       "release_date": "1988-08-25",
       "popularity": 73
     }

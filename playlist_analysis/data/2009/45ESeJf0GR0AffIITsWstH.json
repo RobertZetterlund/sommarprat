@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247531_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0l8a7hFYTo3KjuzMmNdskr",
-      "name": "Vill ha mer",
+      "track": {
+        "id": "0l8a7hFYTo3KjuzMmNdskr",
+        "name": "Vill ha mer"
+      },
       "duration_ms": 223240,
-      "artist": [
-        "Nordman"
+      "artists": [
+        {
+          "name": "Nordman",
+          "id": "71c9ORC5hHt0J1TGCa5nxN"
+        }
       ],
-      "artistId": [
-        "71c9ORC5hHt0J1TGCa5nxN"
-      ],
-      "albumId": "6X5Fn8BTMDmCGC9VuubQiJ",
+      "album": {
+        "id": "6X5Fn8BTMDmCGC9VuubQiJ",
+        "name": "Nordman",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a28333f32dcb8dbb3aebf494"
+      },
       "release_date": "1994-01-01",
       "popularity": 26
     },
     {
-      "trackId": "5mFrK0W7FETIUQ6vBIz4dA",
-      "name": "Stockholms kyss",
+      "track": {
+        "id": "5mFrK0W7FETIUQ6vBIz4dA",
+        "name": "Stockholms kyss"
+      },
       "duration_ms": 230226,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "54zOez6AcH47XM4BhGHFkr",
+      "album": {
+        "id": "54zOez6AcH47XM4BhGHFkr",
+        "name": "Utanför album 1 (SinglarDemosOutgivet)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e309c33f859d15d3e4f55f4f"
+      },
       "release_date": "2012-01-01",
       "popularity": 37
     },
     {
-      "trackId": "1SNl6fKe6kYrpU3x7JEbow",
-      "name": "Snart är det jag som är kung",
+      "track": {
+        "id": "1SNl6fKe6kYrpU3x7JEbow",
+        "name": "Snart är det jag som är kung"
+      },
       "duration_ms": 171666,
-      "artist": [
-        "Johan Halldén",
-        "Mariam Walentin",
-        "Anders Aldgård"
+      "artists": [
+        {
+          "name": "Johan Halldén",
+          "id": "32uRQ13rLdn0sIotGehIHs"
+        },
+        {
+          "name": "Mariam Walentin",
+          "id": "25ediEBwhCCKCPGtN2ekHF"
+        },
+        {
+          "name": "Anders Aldgård",
+          "id": "4S1TvrXjlwfRS1mPNT2gbi"
+        }
       ],
-      "artistId": [
-        "32uRQ13rLdn0sIotGehIHs",
-        "25ediEBwhCCKCPGtN2ekHF",
-        "4S1TvrXjlwfRS1mPNT2gbi"
-      ],
-      "albumId": "1Dn2s7K0vTc55MtRTBN9sx",
+      "album": {
+        "id": "1Dn2s7K0vTc55MtRTBN9sx",
+        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029423685920c67284f08a220b"
+      },
       "release_date": "2003-01-01",
       "popularity": 40
     },
     {
-      "trackId": "2AdRSHeYmDGMrgIfiS2w7K",
-      "name": "Ask - 2011 Remaster",
+      "track": {
+        "id": "2AdRSHeYmDGMrgIfiS2w7K",
+        "name": "Ask - 2011 Remaster"
+      },
       "duration_ms": 198146,
-      "artist": [
-        "The Smiths"
+      "artists": [
+        {
+          "name": "The Smiths",
+          "id": "3yY2gUcIsjMr8hjo51PoJ8"
+        }
       ],
-      "artistId": [
-        "3yY2gUcIsjMr8hjo51PoJ8"
-      ],
-      "albumId": "45StnugV9WQMQwk4rRoTy8",
+      "album": {
+        "id": "45StnugV9WQMQwk4rRoTy8",
+        "name": "Louder Than Bombs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed3953f8af1f764a146b7583"
+      },
       "release_date": "1987",
       "popularity": 59
     },
     {
-      "trackId": "70gGnnyvWNXGaZ3exq0AP2",
-      "name": "Come On",
+      "track": {
+        "id": "70gGnnyvWNXGaZ3exq0AP2",
+        "name": "Come On"
+      },
       "duration_ms": 218626,
-      "artist": [
-        "Christel Alsos"
+      "artists": [
+        {
+          "name": "Christel Alsos",
+          "id": "30wwNbASvE9GkBDsNVCsnn"
+        }
       ],
-      "artistId": [
-        "30wwNbASvE9GkBDsNVCsnn"
-      ],
-      "albumId": "4Oub4TcLSzoCJAllFc2phU",
+      "album": {
+        "id": "4Oub4TcLSzoCJAllFc2phU",
+        "name": "Closing The Distance",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ccd91dac53a68b79efa8904"
+      },
       "release_date": "2007-01-11",
       "popularity": 14
     },
     {
-      "trackId": "0VWm5MAMu9iotZKqqHpZe4",
-      "name": "Söndermarken",
+      "track": {
+        "id": "0VWm5MAMu9iotZKqqHpZe4",
+        "name": "Söndermarken"
+      },
       "duration_ms": 359013,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "3lkjNFt9emmcRyjfW1ng68",
+      "album": {
+        "id": "3lkjNFt9emmcRyjfW1ng68",
+        "name": "Söndermarken",
+        "img": "https://i.scdn.co/image/ab67616d00001e022454dd83f3781ed8f2f5febb"
+      },
       "release_date": "2003-01-01",
       "popularity": 51
     },
     {
-      "trackId": "1OxcIUqVmVYxT6427tbhDW",
-      "name": "Fly Away",
+      "track": {
+        "id": "1OxcIUqVmVYxT6427tbhDW",
+        "name": "Fly Away"
+      },
       "duration_ms": 221332,
-      "artist": [
-        "Lenny Kravitz"
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "id": "5gznATMVO85ZcLTkE9ULU7"
+        }
       ],
-      "artistId": [
-        "5gznATMVO85ZcLTkE9ULU7"
-      ],
-      "albumId": "6MCNMOCRsh6nxs7PNzc0zN",
+      "album": {
+        "id": "6MCNMOCRsh6nxs7PNzc0zN",
+        "name": "5",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1157b7dcd21bae0c2c75d89"
+      },
       "release_date": "1998-05-12",
       "popularity": 73
     },
     {
-      "trackId": "48JDh4Cl4v64FaqI7k9sv2",
-      "name": "Solen i ögonen",
+      "track": {
+        "id": "48JDh4Cl4v64FaqI7k9sv2",
+        "name": "Solen i ögonen"
+      },
       "duration_ms": 211133,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "4sMJKktVdeNbDp0K1dcRyY",
+      "album": {
+        "id": "4sMJKktVdeNbDp0K1dcRyY",
+        "name": "Med solen i ögonen",
+        "img": "https://i.scdn.co/image/ab67616d00001e027db71382a891a74a7119dafd"
+      },
       "release_date": "1998-09-25",
       "popularity": 44
     },
     {
-      "trackId": "53M2Ixv7rxN26RAVnuaBH3",
-      "name": "The Arrival (feat. Therese)",
+      "track": {
+        "id": "53M2Ixv7rxN26RAVnuaBH3",
+        "name": "The Arrival (feat. Therese)"
+      },
       "duration_ms": 182120,
-      "artist": [
-        "The Attic",
-        "Therese"
+      "artists": [
+        {
+          "name": "The Attic",
+          "id": "3rs76Rf6FgoN1EExIh9bsI"
+        },
+        {
+          "name": "Therese",
+          "id": "4wfoAaFRdaZdrn782iDlCD"
+        }
       ],
-      "artistId": [
-        "3rs76Rf6FgoN1EExIh9bsI",
-        "4wfoAaFRdaZdrn782iDlCD"
-      ],
-      "albumId": "03ALXO7lYHR8wus5EIdqIE",
+      "album": {
+        "id": "03ALXO7lYHR8wus5EIdqIE",
+        "name": "Remember Tomorrow",
+        "img": "https://i.scdn.co/image/ab67616d00001e028baa5792a6b9cd9f690b31e7"
+      },
       "release_date": "2007-03-19",
       "popularity": 18
     },
     {
-      "trackId": "6G0MfBXF1QlLpgP8pKngzs",
-      "name": "Shoreline - Radio Version",
+      "track": {
+        "id": "6G0MfBXF1QlLpgP8pKngzs",
+        "name": "Shoreline - Radio Version"
+      },
       "duration_ms": 212293,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "0sKtHhPyVXCic96QFZywih",
+      "album": {
+        "id": "0sKtHhPyVXCic96QFZywih",
+        "name": "Shoreline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3acf13890f0bc4e3d6b6fae"
+      },
       "release_date": "2005-06-01",
       "popularity": 47
     },
     {
-      "trackId": "53M2Ixv7rxN26RAVnuaBH3",
-      "name": "The Arrival (feat. Therese)",
+      "track": {
+        "id": "53M2Ixv7rxN26RAVnuaBH3",
+        "name": "The Arrival (feat. Therese)"
+      },
       "duration_ms": 182120,
-      "artist": [
-        "The Attic",
-        "Therese"
+      "artists": [
+        {
+          "name": "The Attic",
+          "id": "3rs76Rf6FgoN1EExIh9bsI"
+        },
+        {
+          "name": "Therese",
+          "id": "4wfoAaFRdaZdrn782iDlCD"
+        }
       ],
-      "artistId": [
-        "3rs76Rf6FgoN1EExIh9bsI",
-        "4wfoAaFRdaZdrn782iDlCD"
-      ],
-      "albumId": "03ALXO7lYHR8wus5EIdqIE",
+      "album": {
+        "id": "03ALXO7lYHR8wus5EIdqIE",
+        "name": "Remember Tomorrow",
+        "img": "https://i.scdn.co/image/ab67616d00001e028baa5792a6b9cd9f690b31e7"
+      },
       "release_date": "2007-03-19",
       "popularity": 18
     },
     {
-      "trackId": "7ftNFx5BSS6UCljUrn7iME",
-      "name": "Hur lyckliga kan vi bli?",
+      "track": {
+        "id": "7ftNFx5BSS6UCljUrn7iME",
+        "name": "Hur lyckliga kan vi bli?"
+      },
       "duration_ms": 169509,
-      "artist": [
-        "Emil Jensen",
-        "Edda Magnason"
+      "artists": [
+        {
+          "name": "Emil Jensen",
+          "id": "2sdhZm1TCh9CLoM4QUBsll"
+        },
+        {
+          "name": "Edda Magnason",
+          "id": "6rx8WDggPTg8dIwn8TMuE4"
+        }
       ],
-      "artistId": [
-        "2sdhZm1TCh9CLoM4QUBsll",
-        "6rx8WDggPTg8dIwn8TMuE4"
-      ],
-      "albumId": "6xGmHPkkyBPeVjTdpsS7wd",
+      "album": {
+        "id": "6xGmHPkkyBPeVjTdpsS7wd",
+        "name": "Orka då",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c44fa3a920c59763099051e9"
+      },
       "release_date": "2006-05-03",
       "popularity": 23
     },
     {
-      "trackId": "7ubsWTUPIhre8dZiJLZ4cP",
-      "name": "Lev nu dö sen",
+      "track": {
+        "id": "7ubsWTUPIhre8dZiJLZ4cP",
+        "name": "Lev nu dö sen"
+      },
       "duration_ms": 182840,
-      "artist": [
-        "Miss Li"
+      "artists": [
+        {
+          "name": "Miss Li",
+          "id": "04HqRx07Bv9gh7rsrMTqs7"
+        }
       ],
-      "artistId": [
-        "04HqRx07Bv9gh7rsrMTqs7"
-      ],
-      "albumId": "6a8ox5dFQlLxD43DrZvOvX",
+      "album": {
+        "id": "6a8ox5dFQlLxD43DrZvOvX",
+        "name": "Så mycket bättre - Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02339aecf4b51ac707857d7c42"
+      },
       "release_date": "2019-11-30",
       "popularity": 46
     },
     {
-      "trackId": "6R2g0iQ14rHGGrlLP77JZe",
-      "name": "Ride My Wild Heart",
+      "track": {
+        "id": "6R2g0iQ14rHGGrlLP77JZe",
+        "name": "Ride My Wild Heart"
+      },
       "duration_ms": 198855,
-      "artist": [
-        "Moto Boy"
+      "artists": [
+        {
+          "name": "Moto Boy",
+          "id": "0sKQUWhiNgW8KBnnM0O7FL"
+        }
       ],
-      "artistId": [
-        "0sKQUWhiNgW8KBnnM0O7FL"
-      ],
-      "albumId": "1ssgtwdeTF39YRuIhTn8h2",
+      "album": {
+        "id": "1ssgtwdeTF39YRuIhTn8h2",
+        "name": "Moto Boy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3d6faaf1131ae70b56f88b8"
+      },
       "release_date": "2008-01-16",
       "popularity": 20
     }

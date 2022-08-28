@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530869_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2WaYW84yWij5NSCpgSeU2R",
-      "name": "You Make Me Feel So Young - Remastered 1998",
+      "track": {
+        "id": "2WaYW84yWij5NSCpgSeU2R",
+        "name": "You Make Me Feel So Young - Remastered 1998"
+      },
       "duration_ms": 177400,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "4kca7vXd1Wo5GE2DMafvMc",
+      "album": {
+        "id": "4kca7vXd1Wo5GE2DMafvMc",
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b9ea1c69fe9efbdc2df85a95"
+      },
       "release_date": "1956-03",
       "popularity": 63
     },
     {
-      "trackId": "7Ma4ykGEYiOofyWiR6tfEG",
-      "name": "The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2",
+      "track": {
+        "id": "7Ma4ykGEYiOofyWiR6tfEG",
+        "name": "The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2"
+      },
       "duration_ms": 180066,
-      "artist": [
-        "Billie Holiday",
-        "Teddy Wilson"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "id": "0tg5uVI4VjzZOFzBryJZii"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp",
-        "0tg5uVI4VjzZOFzBryJZii"
-      ],
-      "albumId": "61OLLuUN2R0ZO24IrS3W2T",
+      "album": {
+        "id": "61OLLuUN2R0ZO24IrS3W2T",
+        "name": "Lady Day: The Complete Billie Holiday On Columbia - Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236f90caea647366a9d2613e2"
+      },
       "release_date": "1936",
       "popularity": 37
     },
     {
-      "trackId": "0U6aJWhKp8pPmyC9ghgDMe",
-      "name": "Kom",
+      "track": {
+        "id": "0U6aJWhKp8pPmyC9ghgDMe",
+        "name": "Kom"
+      },
       "duration_ms": 151293,
-      "artist": [
-        "Allan Edwall"
+      "artists": [
+        {
+          "name": "Allan Edwall",
+          "id": "6dLcR9Q2Lyik2rZBL2zLjs"
+        }
       ],
-      "artistId": [
-        "6dLcR9Q2Lyik2rZBL2zLjs"
-      ],
-      "albumId": "1CFg6iqO1IOcYA5Q8tQorL",
+      "album": {
+        "id": "1CFg6iqO1IOcYA5Q8tQorL",
+        "name": "Färdknäpp",
+        "img": "https://i.scdn.co/image/ab67616d00001e02abeb1d37e041816c7c09ff30"
+      },
       "release_date": "1981-01-01",
       "popularity": 29
     },
     {
-      "trackId": "2xKA09QfYiRJXR8ef7mmRo",
-      "name": "Polly-Wolly-Doodle",
+      "track": {
+        "id": "2xKA09QfYiRJXR8ef7mmRo",
+        "name": "Polly-Wolly-Doodle"
+      },
       "duration_ms": 113253,
-      "artist": [
-        "Shirley Temple"
+      "artists": [
+        {
+          "name": "Shirley Temple",
+          "id": "325LVWNjKZv6UwNq5xuPHt"
+        }
       ],
-      "artistId": [
-        "325LVWNjKZv6UwNq5xuPHt"
-      ],
-      "albumId": "0Ucf1sBgQbLpPa2AmbfYEi",
+      "album": {
+        "id": "0Ucf1sBgQbLpPa2AmbfYEi",
+        "name": "Little Miss Shirley Temple",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be52742448641a8474cd151b"
+      },
       "release_date": "1948-12-10",
       "popularity": 34
     },
     {
-      "trackId": "1oMKnJ5JhdzWbQij6zVorg",
-      "name": "Farfars vals",
+      "track": {
+        "id": "1oMKnJ5JhdzWbQij6zVorg",
+        "name": "Farfars vals"
+      },
       "duration_ms": 144533,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "4R1VaMnchZIwrVmJZJTQer",
+      "album": {
+        "id": "4R1VaMnchZIwrVmJZJTQer",
+        "name": "Monicas Bästa -Svenska klassiker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e40c3056149da712595b0a17"
+      },
       "release_date": "2004-01-01",
       "popularity": 19
     },
     {
-      "trackId": "5dae01pKNjRQtgOeAkFzPY",
-      "name": "Mona Lisa",
+      "track": {
+        "id": "5dae01pKNjRQtgOeAkFzPY",
+        "name": "Mona Lisa"
+      },
       "duration_ms": 194986,
-      "artist": [
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "7GBvXtxnvBluo2f4xBVNkm",
+      "album": {
+        "id": "7GBvXtxnvBluo2f4xBVNkm",
+        "name": "Unforgettable",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdd261528e3590ac36bb85f0"
+      },
       "release_date": "1954-01-01",
       "popularity": 51
     },
     {
-      "trackId": "6W1qRvgpnkWWqG0HvqFzBU",
-      "name": "Jag står i regnet (Ich Steh' Im Regen)",
+      "track": {
+        "id": "6W1qRvgpnkWWqG0HvqFzBU",
+        "name": "Jag står i regnet (Ich Steh' Im Regen)"
+      },
       "duration_ms": 172000,
-      "artist": [
-        "Zarah Leander"
+      "artists": [
+        {
+          "name": "Zarah Leander",
+          "id": "5R15K0QUPe4AhP1vaPoaX3"
+        }
       ],
-      "artistId": [
-        "5R15K0QUPe4AhP1vaPoaX3"
-      ],
-      "albumId": "5bcGc9JTqDpFLFVhBxcBnp",
+      "album": {
+        "id": "5bcGc9JTqDpFLFVhBxcBnp",
+        "name": "Svenska Sångfavoriter 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205444ad8bfeca18cebbbb020"
+      },
       "release_date": "2005-01-14",
       "popularity": 4
     },
     {
-      "trackId": "5xaDfseGaJm6rB8l7c4erH",
-      "name": "Någonting att äta, någonting att dricka",
+      "track": {
+        "id": "5xaDfseGaJm6rB8l7c4erH",
+        "name": "Någonting att äta, någonting att dricka"
+      },
       "duration_ms": 188000,
-      "artist": [
-        "Karl Wehle",
-        "Polyphons Kino-Orkester"
+      "artists": [
+        {
+          "name": "Karl Wehle",
+          "id": "2OB8Ouz8B6FzNehn9LYk5g"
+        },
+        {
+          "name": "Polyphons Kino-Orkester",
+          "id": "6n29hS9cgEBAbi11ggZieP"
+        }
       ],
-      "artistId": [
-        "2OB8Ouz8B6FzNehn9LYk5g",
-        "6n29hS9cgEBAbi11ggZieP"
-      ],
-      "albumId": "6ohEGOi3mUvOKeFXpwcCPL",
+      "album": {
+        "id": "6ohEGOi3mUvOKeFXpwcCPL",
+        "name": "Någonting att äta, någonting att dricka",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe8504ae63d93226f33ab1a0"
+      },
       "release_date": "2005",
       "popularity": 16
     },
     {
-      "trackId": "78xgFkpTfqn4aVF7Hn6DaI",
-      "name": "Jag är blott en man",
+      "track": {
+        "id": "78xgFkpTfqn4aVF7Hn6DaI",
+        "name": "Jag är blott en man"
+      },
       "duration_ms": 182106,
-      "artist": [
-        "Jarl Kulle"
+      "artists": [
+        {
+          "name": "Jarl Kulle",
+          "id": "0hKn16bO6B1EKezikYo9lF"
+        }
       ],
-      "artistId": [
-        "0hKn16bO6B1EKezikYo9lF"
-      ],
-      "albumId": "1pVtxVKXwhU2nsvrTI1WqT",
+      "album": {
+        "id": "1pVtxVKXwhU2nsvrTI1WqT",
+        "name": "Ring Ring (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ca4eeb638139fd840250b9e"
+      },
       "release_date": "1973",
       "popularity": 23
     },
     {
-      "trackId": "372QMjJGrYnp80Fdv2hgzf",
-      "name": "Tre kärlekar",
+      "track": {
+        "id": "372QMjJGrYnp80Fdv2hgzf",
+        "name": "Tre kärlekar"
+      },
       "duration_ms": 234026,
-      "artist": [
-        "Lars Molin",
-        "Ted Ström"
+      "artists": [
+        {
+          "name": "Lars Molin",
+          "id": "7DishTcvi3tpliAhAFpNf4"
+        },
+        {
+          "name": "Ted Ström",
+          "id": "2tCee5r4vSTSSzvMH2dEm3"
+        }
       ],
-      "artistId": [
-        "7DishTcvi3tpliAhAFpNf4",
-        "2tCee5r4vSTSSzvMH2dEm3"
-      ],
-      "albumId": "5Fs7UR5Sxu1qkaozj6igFS",
+      "album": {
+        "id": "5Fs7UR5Sxu1qkaozj6igFS",
+        "name": "Regi: Lars Molin Music: Ted Ström",
+        "img": "https://i.scdn.co/image/ab67616d00001e027030c12037bc623ebd76c882"
+      },
       "release_date": "1999-01-01",
       "popularity": 9
     },
     {
-      "trackId": "4hkDZchmRrkbOIhslG14e3",
-      "name": "Rocket \"88\"",
+      "track": {
+        "id": "4hkDZchmRrkbOIhslG14e3",
+        "name": "Rocket \"88\""
+      },
       "duration_ms": 152400,
-      "artist": [
-        "Bill Haley & His Comets"
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "id": "3MFp4cYuYtTZe3d3xkLLbr"
+        }
       ],
-      "artistId": [
-        "3MFp4cYuYtTZe3d3xkLLbr"
-      ],
-      "albumId": "5SftszBDlSvYmoBtYNDUnm",
+      "album": {
+        "id": "5SftszBDlSvYmoBtYNDUnm",
+        "name": "For Dancers Only",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b54f8ff69ebaaa0ea4e6030c"
+      },
       "release_date": "2005-06-13",
       "popularity": 9
     },
     {
-      "trackId": "3sJI7yMJz2RwLtS31z3Dgc",
-      "name": "Vallåt från Jämtland",
+      "track": {
+        "id": "3sJI7yMJz2RwLtS31z3Dgc",
+        "name": "Vallåt från Jämtland"
+      },
       "duration_ms": 114693,
-      "artist": [
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "6JAj80R40giQEAg3Le4CPE",
+      "album": {
+        "id": "6JAj80R40giQEAg3Le4CPE",
+        "name": "Jazz på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234190c904a52720a3ffcad76"
+      },
       "release_date": "1964",
       "popularity": 33
     },
     {
-      "trackId": "7AFy1aN1RQVgGOXzCtrK87",
-      "name": "Cabaret",
+      "track": {
+        "id": "7AFy1aN1RQVgGOXzCtrK87",
+        "name": "Cabaret"
+      },
       "duration_ms": 211200,
-      "artist": [
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Liza Minnelli",
+          "id": "1pdGj6Gak10Q2ajig4l1Dm"
+        }
       ],
-      "artistId": [
-        "1pdGj6Gak10Q2ajig4l1Dm"
-      ],
-      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "album": {
+        "id": "28qbOp4dEh18N5u6FInyOO",
+        "name": "Cabaret (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f0ddaafb889a16220871372"
+      },
       "release_date": "1972-02-13",
       "popularity": 48
     }

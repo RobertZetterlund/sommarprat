@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4be7c5d7-5168-4d37-b1b8-189372ad3373.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7BNeFchpHDCWYSUV4hfU89",
-      "name": "L'été indien",
+      "track": {
+        "id": "7BNeFchpHDCWYSUV4hfU89",
+        "name": "L'été indien"
+      },
       "duration_ms": 269320,
-      "artist": [
-        "Joe Dassin"
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "id": "64LCTpIu9Iji2EPaxxPpxF"
+        }
       ],
-      "artistId": [
-        "64LCTpIu9Iji2EPaxxPpxF"
-      ],
-      "albumId": "3BRgfYZqKjLoqmEt1jZSHa",
+      "album": {
+        "id": "3BRgfYZqKjLoqmEt1jZSHa",
+        "name": "Joe Dassin Éternel...",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298be7dbe7527754efdcd7ad7"
+      },
       "release_date": "2005-08-15",
       "popularity": 55
     },
     {
-      "trackId": "2acnVszF1pY8nFoeMSPCiY",
-      "name": "O Jednoj Mladosti, Pt. 1",
+      "track": {
+        "id": "2acnVszF1pY8nFoeMSPCiY",
+        "name": "O Jednoj Mladosti, Pt. 1"
+      },
       "duration_ms": 240693,
-      "artist": [
-        "Josipa Lisac"
+      "artists": [
+        {
+          "name": "Josipa Lisac",
+          "id": "2DknWiTisiqRoSiyKSFog0"
+        }
       ],
-      "artistId": [
-        "2DknWiTisiqRoSiyKSFog0"
-      ],
-      "albumId": "62ROuPIQEdPFhWEZKIql34",
+      "album": {
+        "id": "62ROuPIQEdPFhWEZKIql34",
+        "name": "Antologija Josipe Lisac",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bbaa396d746f5e87c7cada5"
+      },
       "release_date": "1997-01-01",
       "popularity": 28
     },
     {
-      "trackId": "2M9ro2krNb7nr7HSprkEgo",
-      "name": "Fast Car",
+      "track": {
+        "id": "2M9ro2krNb7nr7HSprkEgo",
+        "name": "Fast Car"
+      },
       "duration_ms": 296800,
-      "artist": [
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "6hmmX5UP4rIvOpGSaPerV8",
+      "album": {
+        "id": "6hmmX5UP4rIvOpGSaPerV8",
+        "name": "Tracy Chapman",
+        "img": "https://i.scdn.co/image/ab67616d00001e027602becfedf6e25752cb54ff"
+      },
       "release_date": "1988-04-05",
       "popularity": 77
     },
     {
-      "trackId": "0TBn49AjkNufCRJ2O5VJ6s",
-      "name": "World In My Eyes",
+      "track": {
+        "id": "0TBn49AjkNufCRJ2O5VJ6s",
+        "name": "World In My Eyes"
+      },
       "duration_ms": 267040,
-      "artist": [
-        "Depeche Mode"
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "id": "762310PdDnwsDxAQxzQkfX"
+        }
       ],
-      "artistId": [
-        "762310PdDnwsDxAQxzQkfX"
-      ],
-      "albumId": "0Tg76MY2wNK4j37iCb6qyH",
+      "album": {
+        "id": "0Tg76MY2wNK4j37iCb6qyH",
+        "name": "Violator (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02234bbbad4dce31cd2950af3e"
+      },
       "release_date": "1990-03-19",
       "popularity": 54
     },
     {
-      "trackId": "1NwPTHmu2fuCCV47PAtB3u",
-      "name": "Odlazak I",
+      "track": {
+        "id": "1NwPTHmu2fuCCV47PAtB3u",
+        "name": "Odlazak I"
+      },
       "duration_ms": 185293,
-      "artist": [
-        "Arsen Dedić"
+      "artists": [
+        {
+          "name": "Arsen Dedić",
+          "id": "0FyBCma488GAn3XGadU6Wb"
+        }
       ],
-      "artistId": [
-        "0FyBCma488GAn3XGadU6Wb"
-      ],
-      "albumId": "4BN3IIFxEMH9gOdY51dJ0E",
+      "album": {
+        "id": "4BN3IIFxEMH9gOdY51dJ0E",
+        "name": "Herbar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02375f1e123691ba905c440c14"
+      },
       "release_date": "2004",
       "popularity": 24
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     },
     {
-      "trackId": "3JZM6t7gVvH5KNPNjj2Z94",
-      "name": "Vivir Mi Vida - Versión Pop",
+      "track": {
+        "id": "3JZM6t7gVvH5KNPNjj2Z94",
+        "name": "Vivir Mi Vida - Versión Pop"
+      },
       "duration_ms": 231093,
-      "artist": [
-        "Marc Anthony"
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "id": "4wLXwxDeWQ8mtUIRPxGiD6"
+        }
       ],
-      "artistId": [
-        "4wLXwxDeWQ8mtUIRPxGiD6"
-      ],
-      "albumId": "6vBpLg3T8bojcqzoKI6m0R",
+      "album": {
+        "id": "6vBpLg3T8bojcqzoKI6m0R",
+        "name": "3.0",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221be16e998effa9f1f4b63a9"
+      },
       "release_date": "2013-07-23",
       "popularity": 53
     },
     {
-      "trackId": "5hDowhxXBk5POQppBYONeO",
-      "name": "Vart jag än går",
+      "track": {
+        "id": "5hDowhxXBk5POQppBYONeO",
+        "name": "Vart jag än går"
+      },
       "duration_ms": 207333,
-      "artist": [
-        "Stiftelsen"
+      "artists": [
+        {
+          "name": "Stiftelsen",
+          "id": "00PLVqZ4oaOmbI4lacLUBO"
+        }
       ],
-      "artistId": [
-        "00PLVqZ4oaOmbI4lacLUBO"
-      ],
-      "albumId": "02l3IMmYpgTPixONhItSBp",
+      "album": {
+        "id": "02l3IMmYpgTPixONhItSBp",
+        "name": "Ljungaverk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcb40ffbc7c5d2f20b62b0aa"
+      },
       "release_date": "2012-01-01",
       "popularity": 54
     },
     {
-      "trackId": "5oE6INocVL9viDow5y8QNM",
-      "name": "Fragile",
+      "track": {
+        "id": "5oE6INocVL9viDow5y8QNM",
+        "name": "Fragile"
+      },
       "duration_ms": 236306,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+      "album": {
+        "id": "3mVCQqgwEvwD7lHy9KHi7R",
+        "name": "...Nothing Like The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
+      "track": {
+        "id": "7M9pPyt8Gr41THLhbz4NSB",
+        "name": "Don't Let Me Be Misunderstood"
+      },
       "duration_ms": 166200,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "0do3UV5axUHkROOTkcxr1J",
+      "album": {
+        "id": "0do3UV5axUHkROOTkcxr1J",
+        "name": "Broadway-Blues-Ballads",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bc47b0dbddd7142c9a2ebf0"
+      },
       "release_date": "1964-11-01",
       "popularity": 58
     },
     {
-      "trackId": "3wuCCNCnBhJlwkIJTBZFiv",
-      "name": "They Don't Care About Us",
+      "track": {
+        "id": "3wuCCNCnBhJlwkIJTBZFiv",
+        "name": "They Don't Care About Us"
+      },
       "duration_ms": 284160,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "3OBhnTLrvkoEEETjFA3Qfk",
+      "album": {
+        "id": "3OBhnTLrvkoEEETjFA3Qfk",
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0593178c6c2594693ee34b7"
+      },
       "release_date": "1995-06-16",
       "popularity": 72
     },
     {
-      "trackId": "1dgNG7Ze3PqXTIq9yqSihX",
-      "name": "Ci sarà",
+      "track": {
+        "id": "1dgNG7Ze3PqXTIq9yqSihX",
+        "name": "Ci sarà"
+      },
       "duration_ms": 207733,
-      "artist": [
-        "Al Bano And Romina Power"
+      "artists": [
+        {
+          "name": "Al Bano And Romina Power",
+          "id": "1c0wBsDBu0NqpvxBqjYjZS"
+        }
       ],
-      "artistId": [
-        "1c0wBsDBu0NqpvxBqjYjZS"
-      ],
-      "albumId": "6kVbbptKUpjuGxeBsVuciW",
+      "album": {
+        "id": "6kVbbptKUpjuGxeBsVuciW",
+        "name": "Romantica",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256e5814ac36841ba7f992b65"
+      },
       "release_date": "1987-04-25",
       "popularity": 52
     }

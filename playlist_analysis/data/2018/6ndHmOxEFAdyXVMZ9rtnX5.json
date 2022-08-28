@@ -7,230 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ce65e894-9db8-4cb7-810f-c006c63f8ec9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0Emim586HUrpQg5omXinTC",
-      "name": "Walk On By",
+      "track": {
+        "id": "0Emim586HUrpQg5omXinTC",
+        "name": "Walk On By"
+      },
       "duration_ms": 172906,
-      "artist": [
-        "Bryan Adams"
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "id": "3Z02hBLubJxuFJfhacLSDc"
+        }
       ],
-      "artistId": [
-        "3Z02hBLubJxuFJfhacLSDc"
-      ],
-      "albumId": "3ZJiY47Gal46S0QEgC1EEI",
+      "album": {
+        "id": "3ZJiY47Gal46S0QEgC1EEI",
+        "name": "11",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202b125f635f0d0e912de346e"
+      },
       "release_date": "2008-03-17",
       "popularity": 17
     },
     {
-      "trackId": "3bMsT2EiXYKSUjc9uvIkI3",
-      "name": "Wake Me Up - Avicii By Avicii",
+      "track": {
+        "id": "3bMsT2EiXYKSUjc9uvIkI3",
+        "name": "Wake Me Up - Avicii By Avicii"
+      },
       "duration_ms": 425760,
-      "artist": [
-        "Avicii",
-        "Tim Bergling"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Tim Bergling",
+          "id": "5baGk14NDI3ZDPbr6wJilc"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5baGk14NDI3ZDPbr6wJilc"
-      ],
-      "albumId": "0ignCov9foaLxuqND5GMtl",
+      "album": {
+        "id": "0ignCov9foaLxuqND5GMtl",
+        "name": "True: Avicii By Avicii",
+        "img": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8"
+      },
       "release_date": "2014-01-01",
       "popularity": 49
     },
     {
-      "trackId": "0Hz0ySp6XYrBhEQPU16Hz8",
-      "name": "Valborg",
+      "track": {
+        "id": "0Hz0ySp6XYrBhEQPU16Hz8",
+        "name": "Valborg"
+      },
       "duration_ms": 198173,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "4y7g9dQcKkmBBNtMYhHxQs",
+      "album": {
+        "id": "4y7g9dQcKkmBBNtMYhHxQs",
+        "name": "Det kommer aldrig va över för mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295646685141ef8371ffacc8c"
+      },
       "release_date": "2013-01-01",
       "popularity": 60
     },
     {
-      "trackId": "1Zi2ezNOqt9y9irC11xYpN",
-      "name": "Eve Of Destruction",
+      "track": {
+        "id": "1Zi2ezNOqt9y9irC11xYpN",
+        "name": "Eve Of Destruction"
+      },
       "duration_ms": 215826,
-      "artist": [
-        "Barry McGuire"
+      "artists": [
+        {
+          "name": "Barry McGuire",
+          "id": "6xdkfNRMtBzeu7t4wyum2X"
+        }
       ],
-      "artistId": [
-        "6xdkfNRMtBzeu7t4wyum2X"
-      ],
-      "albumId": "1ue4XKSgfovqJp8wgoyaOX",
+      "album": {
+        "id": "1ue4XKSgfovqJp8wgoyaOX",
+        "name": "Eve Of Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d33bff23ded3e4ec3149429f"
+      },
       "release_date": "1965-01-01",
       "popularity": 58
     },
     {
-      "trackId": "1eHGsCdAWh1Ffowzacpfoi",
-      "name": "Candela",
+      "track": {
+        "id": "1eHGsCdAWh1Ffowzacpfoi",
+        "name": "Candela"
+      },
       "duration_ms": 327866,
-      "artist": [
-        "Buena Vista Social Club"
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "id": "11kBu957KTYoAltZHDm8gW"
+        }
       ],
-      "artistId": [
-        "11kBu957KTYoAltZHDm8gW"
-      ],
-      "albumId": "6DPdEaZ0KDBCCgXyy4q8bi",
+      "album": {
+        "id": "6DPdEaZ0KDBCCgXyy4q8bi",
+        "name": "Buena Vista Social Club",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a896bf89ee1e87f1a774cb6"
+      },
       "release_date": "1997-06-23",
       "popularity": 61
     },
     {
-      "trackId": "15jblJB58wgftMHuaa8kuM",
-      "name": "Danmark",
+      "track": {
+        "id": "15jblJB58wgftMHuaa8kuM",
+        "name": "Danmark"
+      },
       "duration_ms": 192000,
-      "artist": [
-        "Shu-Bi-Dua"
+      "artists": [
+        {
+          "name": "Shu-Bi-Dua",
+          "id": "6Y99TxJKt19wJFbmpoRzLp"
+        }
       ],
-      "artistId": [
-        "6Y99TxJKt19wJFbmpoRzLp"
-      ],
-      "albumId": "5h2OPEvVo0Afkjza9Lo4Dt",
+      "album": {
+        "id": "5h2OPEvVo0Afkjza9Lo4Dt",
+        "name": "Shu-bi-dua 1-9",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd01b82e71f503ce210264e3"
+      },
       "release_date": "2010-02-01",
       "popularity": 38
     },
     {
-      "trackId": "21SZLKjYJQfoNS4pVbHQz6",
-      "name": "In Kommer Ting",
+      "track": {
+        "id": "21SZLKjYJQfoNS4pVbHQz6",
+        "name": "In Kommer Ting"
+      },
       "duration_ms": 179251,
-      "artist": [
-        "Kapten Röd"
+      "artists": [
+        {
+          "name": "Kapten Röd",
+          "id": "4G2UDRhQLUDq0f93giGYwA"
+        }
       ],
-      "artistId": [
-        "4G2UDRhQLUDq0f93giGYwA"
-      ],
-      "albumId": "0EvdD2eeFZDmzvuAZcGDdA",
+      "album": {
+        "id": "0EvdD2eeFZDmzvuAZcGDdA",
+        "name": "Fläcken Som Aldrig Går Bort",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a109d38660c27417fdf6049a"
+      },
       "release_date": "2011-07-06",
       "popularity": 39
     },
     {
-      "trackId": "1iLrjtkqZ9IP4o5KZ2rpoT",
-      "name": "There's No Time",
+      "track": {
+        "id": "1iLrjtkqZ9IP4o5KZ2rpoT",
+        "name": "There's No Time"
+      },
       "duration_ms": 280790,
-      "artist": [
-        "Leaving Asgaard"
+      "artists": [
+        {
+          "name": "Leaving Asgaard",
+          "id": "2IsmryMEoo1cDcEboSIyCM"
+        }
       ],
-      "artistId": [
-        "2IsmryMEoo1cDcEboSIyCM"
-      ],
-      "albumId": "204hmLr4kdO4UzjcGltWst",
+      "album": {
+        "id": "204hmLr4kdO4UzjcGltWst",
+        "name": "Sanity",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5ad754986732f4951782680"
+      },
       "release_date": "2016-06-05",
       "popularity": 0
     },
     {
-      "trackId": "1KRcokkLCrwMPFWeP5Hroa",
-      "name": "Är det kärlek du behöver - N!NE EPA Remix",
+      "track": {
+        "id": "1KRcokkLCrwMPFWeP5Hroa",
+        "name": "Är det kärlek du behöver - N!NE EPA Remix"
+      },
       "duration_ms": 174080,
-      "artist": [
-        "Lasse Stefanz",
-        "N!NE"
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "id": "0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "id": "0RF3teBjUzbf1SDpnuR8Ro"
+        }
       ],
-      "artistId": [
-        "0ntVZReCfBFQctUiiaTaeu",
-        "0RF3teBjUzbf1SDpnuR8Ro"
-      ],
-      "albumId": "1iIvpW6StpS5bwdYl5hbjp",
+      "album": {
+        "id": "1iIvpW6StpS5bwdYl5hbjp",
+        "name": "Är det kärlek du behöver (EPA Remixes)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024fc6c9f66919c488d3d3eb61"
+      },
       "release_date": "2021-12-31",
       "popularity": 54
     },
     {
-      "trackId": "2LmlZvAmT1L0O3iPVSQWOX",
-      "name": "Hijo de la luna",
+      "track": {
+        "id": "2LmlZvAmT1L0O3iPVSQWOX",
+        "name": "Hijo de la luna"
+      },
       "duration_ms": 259146,
-      "artist": [
-        "Mecano"
+      "artists": [
+        {
+          "name": "Mecano",
+          "id": "5BMgsAFg8rZQc3tqs5BB8G"
+        }
       ],
-      "artistId": [
-        "5BMgsAFg8rZQc3tqs5BB8G"
-      ],
-      "albumId": "1D4CJeC3gIhwipRwVKihjy",
+      "album": {
+        "id": "1D4CJeC3gIhwipRwVKihjy",
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5cbe0beab15e064311880c5"
+      },
       "release_date": "1986-06-16",
       "popularity": 66
     },
     {
-      "trackId": "6rPYrhalUOQJR7lxUfrWzU",
-      "name": "Felrättsnetthelträttsnett",
+      "track": {
+        "id": "6rPYrhalUOQJR7lxUfrWzU",
+        "name": "Felrättsnetthelträttsnett"
+      },
       "duration_ms": 181400,
-      "artist": [
-        "Rymdimperiet"
+      "artists": [
+        {
+          "name": "Rymdimperiet",
+          "id": "3yzvQIPDmdpLCNVB56AwmY"
+        }
       ],
-      "artistId": [
-        "3yzvQIPDmdpLCNVB56AwmY"
-      ],
-      "albumId": "0NmaP3wn5KoCxF7YYqWD9h",
+      "album": {
+        "id": "0NmaP3wn5KoCxF7YYqWD9h",
+        "name": "Kickar (Singlar 1981 - 1987)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f3b3f2bcc57f8c070e72ff4"
+      },
       "release_date": "1990-01-01",
       "popularity": 9
     },
     {
-      "trackId": "0weAUscowxeqDtpCgtbpgp",
-      "name": "Gettin' Jiggy Wit It",
+      "track": {
+        "id": "0weAUscowxeqDtpCgtbpgp",
+        "name": "Gettin' Jiggy Wit It"
+      },
       "duration_ms": 227933,
-      "artist": [
-        "Will Smith"
+      "artists": [
+        {
+          "name": "Will Smith",
+          "id": "41qil2VaGbD194gaEcmmyx"
+        }
       ],
-      "artistId": [
-        "41qil2VaGbD194gaEcmmyx"
-      ],
-      "albumId": "2esWeP8Ln1sXA0jbDmi3Zq",
+      "album": {
+        "id": "2esWeP8Ln1sXA0jbDmi3Zq",
+        "name": "Big Willie Style",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddf2f9edabd166c60047e3c4"
+      },
       "release_date": "1997-10-03",
       "popularity": 71
     },
     {
-      "trackId": "7yiBB5lpkMKy4Dap2q0bgh",
-      "name": "Sitter i ett duggregn",
+      "track": {
+        "id": "7yiBB5lpkMKy4Dap2q0bgh",
+        "name": "Sitter i ett duggregn"
+      },
       "duration_ms": 300893,
-      "artist": [
-        "Kenta"
+      "artists": [
+        {
+          "name": "Kenta",
+          "id": "432eI2RoKNEXW7EK2UON6R"
+        }
       ],
-      "artistId": [
-        "432eI2RoKNEXW7EK2UON6R"
-      ],
-      "albumId": "5bIPIDLNlvUWHOm6UhRxs8",
+      "album": {
+        "id": "5bIPIDLNlvUWHOm6UhRxs8",
+        "name": "Kenta",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d87645b7bee75043027bdea"
+      },
       "release_date": "1979",
       "popularity": 29
     },
     {
-      "trackId": "6DGzLNiawTtntC9NHzeMeY",
-      "name": "بنی آدم",
+      "track": {
+        "id": "6DGzLNiawTtntC9NHzeMeY",
+        "name": "بنی آدم"
+      },
       "duration_ms": 194666,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "2FeyIYDDAQqcOJKOKhvHdr",
+      "album": {
+        "id": "2FeyIYDDAQqcOJKOKhvHdr",
+        "name": "Everyday Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e02733913465adb99353020b805"
+      },
       "release_date": "2019-11-22",
       "popularity": 49
     },
     {
-      "trackId": "3SdTKo2uVsxFblQjpScoHy",
-      "name": "Stand by Me",
+      "track": {
+        "id": "3SdTKo2uVsxFblQjpScoHy",
+        "name": "Stand by Me"
+      },
       "duration_ms": 180055,
-      "artist": [
-        "Ben E. King"
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "id": "3plJVWt88EqjvtuB4ZDRV3"
+        }
       ],
-      "artistId": [
-        "3plJVWt88EqjvtuB4ZDRV3"
-      ],
-      "albumId": "18Fj7coTfyMi7mEPXIweN7",
+      "album": {
+        "id": "18Fj7coTfyMi7mEPXIweN7",
+        "name": "Don't Play That Song (Mono)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021813ea8f590a0aab2820f922"
+      },
       "release_date": "1962-08-20",
       "popularity": 79
     },
     {
-      "trackId": "1L78ErvwjrfwLiBa8fVAQn",
-      "name": "Zigenarliv dreamin (Live)",
+      "track": {
+        "id": "1L78ErvwjrfwLiBa8fVAQn",
+        "name": "Zigenarliv dreamin (Live)"
+      },
       "duration_ms": 447733,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "5ROJebGoLNmSpwdMHXEQ6f",
+      "album": {
+        "id": "5ROJebGoLNmSpwdMHXEQ6f",
+        "name": "Håkan Boma Ye! (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e738d2a1570a31594bfb264"
+      },
       "release_date": "2014-12-12",
       "popularity": 35
     }

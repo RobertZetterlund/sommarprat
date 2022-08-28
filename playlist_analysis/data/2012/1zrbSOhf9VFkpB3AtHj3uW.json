@@ -7,158 +7,234 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354642_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0GHfUaEIXQunhLI13QSvBe",
-      "name": "I've Grown Accustomed to Her Face - 1990 Remix / Remaster",
+      "track": {
+        "id": "0GHfUaEIXQunhLI13QSvBe",
+        "name": "I've Grown Accustomed to Her Face - 1990 Remix / Remaster"
+      },
       "duration_ms": 184840,
-      "artist": [
-        "Count Basie",
-        "Tony Bennett",
-        "Tristan Powell"
+      "artists": [
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Tony Bennett",
+          "id": "2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Tristan Powell",
+          "id": "2UOqj3OfNn5lE6npQ6eQql"
+        }
       ],
-      "artistId": [
-        "2jFZlvIea42ZvcCw4OeEdA",
-        "2lolQgalUvZDfp5vvVtTYV",
-        "2UOqj3OfNn5lE6npQ6eQql"
-      ],
-      "albumId": "7JmMDmIkkiGpf2YFpYG1Jm",
+      "album": {
+        "id": "7JmMDmIkkiGpf2YFpYG1Jm",
+        "name": "Basie Swings, Bennett Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c88a0175a8ac28f5ba7246f"
+      },
       "release_date": "1959",
       "popularity": 14
     },
     {
-      "trackId": "7mLs9wMQe6nHltpUbtnamE",
-      "name": "Another Night In Tunisia",
+      "track": {
+        "id": "7mLs9wMQe6nHltpUbtnamE",
+        "name": "Another Night In Tunisia"
+      },
       "duration_ms": 254000,
-      "artist": [
-        "Bobby McFerrin",
-        "Jon Hendricks",
-        "The Manhattan Transfer"
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "id": "2FjkZT851ez950cyPjeYid"
+        },
+        {
+          "name": "Jon Hendricks",
+          "id": "2Kn5swSfLmUU2WEJVlQvJY"
+        },
+        {
+          "name": "The Manhattan Transfer",
+          "id": "2dogRElUKV20C2khRHqjRc"
+        }
       ],
-      "artistId": [
-        "2FjkZT851ez950cyPjeYid",
-        "2Kn5swSfLmUU2WEJVlQvJY",
-        "2dogRElUKV20C2khRHqjRc"
-      ],
-      "albumId": "5QXK9xXDSYvSOXYSJHdwOD",
+      "album": {
+        "id": "5QXK9xXDSYvSOXYSJHdwOD",
+        "name": "The Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d502f3148f70459329e02fd"
+      },
       "release_date": "1997-01-01",
       "popularity": 16
     },
     {
-      "trackId": "696mUEnI7IpMvLq2Tlnn2u",
-      "name": "Smoke Gets In Your Eyes",
+      "track": {
+        "id": "696mUEnI7IpMvLq2Tlnn2u",
+        "name": "Smoke Gets In Your Eyes"
+      },
       "duration_ms": 204440,
-      "artist": [
-        "Dinah Washington"
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "id": "32LHRiof0sa4taYew9i3Fa"
+        }
       ],
-      "artistId": [
-        "32LHRiof0sa4taYew9i3Fa"
-      ],
-      "albumId": "28EUtXFCY6AuKxFDyLt1Ol",
+      "album": {
+        "id": "28EUtXFCY6AuKxFDyLt1Ol",
+        "name": "Dinah! (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6910d6d0c165c8d2b88abdc"
+      },
       "release_date": "1956-01-01",
       "popularity": 50
     },
     {
-      "trackId": "2ieI9RAK6OxCH70Dib7n1a",
-      "name": "Liebesleid",
+      "track": {
+        "id": "2ieI9RAK6OxCH70Dib7n1a",
+        "name": "Liebesleid"
+      },
       "duration_ms": 185200,
-      "artist": [
-        "Fritz Kreisler",
-        "Timofei Dokshitser"
+      "artists": [
+        {
+          "name": "Fritz Kreisler",
+          "id": "0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "name": "Timofei Dokshitser",
+          "id": "3FdvQT15gSyfEtvdx0cJjR"
+        }
       ],
-      "artistId": [
-        "0HdNDZaNm7xLt18v9aWDfe",
-        "3FdvQT15gSyfEtvdx0cJjR"
-      ],
-      "albumId": "2DWcUzmH7kDYSSImU9Tsw3",
+      "album": {
+        "id": "2DWcUzmH7kDYSSImU9Tsw3",
+        "name": "Trumpet",
+        "img": "https://i.scdn.co/image/ab67616d00001e026edd089b1ebb00174f12afe4"
+      },
       "release_date": "2019-07-01",
       "popularity": 3
     },
     {
-      "trackId": "0OTh3VUryqQpS70r9FVt15",
-      "name": "Zigeunerweisen, Op. 20 - Arr. for Trumpet and Piano",
+      "track": {
+        "id": "0OTh3VUryqQpS70r9FVt15",
+        "name": "Zigeunerweisen, Op. 20 - Arr. for Trumpet and Piano"
+      },
       "duration_ms": 378866,
-      "artist": [
-        "Pablo de Sarasate",
-        "Timofey Dokshizer",
-        "Sergey Solodovnik"
+      "artists": [
+        {
+          "name": "Pablo de Sarasate",
+          "id": "3L1iFJfRzE7yzilr2yGl6t"
+        },
+        {
+          "name": "Timofey Dokshizer",
+          "id": "3js64Pb1sOOggUxgPQHdiL"
+        },
+        {
+          "name": "Sergey Solodovnik",
+          "id": "1XNWKaxvns9YRTHv3FJ0Ud"
+        }
       ],
-      "artistId": [
-        "3L1iFJfRzE7yzilr2yGl6t",
-        "3js64Pb1sOOggUxgPQHdiL",
-        "1XNWKaxvns9YRTHv3FJ0Ud"
-      ],
-      "albumId": "2Jrw4Er64d8LWMgdeIvr5V",
+      "album": {
+        "id": "2Jrw4Er64d8LWMgdeIvr5V",
+        "name": "Paganini of Trumpet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02495edee477353aa26ba21f1e"
+      },
       "release_date": "2000",
-      "popularity": 2
+      "popularity": 1
     },
     {
-      "trackId": "4uKqwGfCQdqjfLkFZkdzFe",
-      "name": "Lester Leaps In",
+      "track": {
+        "id": "4uKqwGfCQdqjfLkFZkdzFe",
+        "name": "Lester Leaps In"
+      },
       "duration_ms": 236920,
-      "artist": [
-        "Oscar Peterson"
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "id": "6zkX5fhrSD4tdVOmimR9wB"
+        }
       ],
-      "artistId": [
-        "6zkX5fhrSD4tdVOmimR9wB"
-      ],
-      "albumId": "7ETDHJ9yletBCxNx0ipr1x",
+      "album": {
+        "id": "7ETDHJ9yletBCxNx0ipr1x",
+        "name": "Plays Count Basie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02edf67a79854470e70a6b6cf8"
+      },
       "release_date": "1956-01-01",
       "popularity": 21
     },
     {
-      "trackId": "2XPqOKbyvuLFXp35wHbhMk",
-      "name": "Numbers - Short Version",
+      "track": {
+        "id": "2XPqOKbyvuLFXp35wHbhMk",
+        "name": "Numbers - Short Version"
+      },
       "duration_ms": 175000,
-      "artist": [
-        "Sandor Csaba"
+      "artists": [
+        {
+          "name": "Sandor Csaba",
+          "id": "3attupr6YOdzMjSw7ntra5"
+        }
       ],
-      "artistId": [
-        "3attupr6YOdzMjSw7ntra5"
-      ],
-      "albumId": "1N5TwXLArUZsNCqJAGndC7",
+      "album": {
+        "id": "1N5TwXLArUZsNCqJAGndC7",
+        "name": "Chopped",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0ca022e2487f28ef1c28ad6"
+      },
       "release_date": "2019-11-01",
       "popularity": 21
     },
     {
-      "trackId": "5yZQXR98v0kvhYQ7Adn8PK",
-      "name": "Good Rockin' Tonight",
+      "track": {
+        "id": "5yZQXR98v0kvhYQ7Adn8PK",
+        "name": "Good Rockin' Tonight"
+      },
       "duration_ms": 131866,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+      "album": {
+        "id": "0gv5aiVS1WBUZOKeb7YawE",
+        "name": "Platinum - A Life In Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843"
+      },
       "release_date": "1997-07-15",
       "popularity": 39
     },
     {
-      "trackId": "3cg0dJfrQB66Qf2YthPb6G",
-      "name": "The Thrill Is Gone",
+      "track": {
+        "id": "3cg0dJfrQB66Qf2YthPb6G",
+        "name": "The Thrill Is Gone"
+      },
       "duration_ms": 301133,
-      "artist": [
-        "B.B. King",
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "B.B. King",
+          "id": "5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "5xLSa7l4IV1gsQfhAMvl0U",
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "3fIftPnF4eb7gkg2lFS1TV",
+      "album": {
+        "id": "3fIftPnF4eb7gkg2lFS1TV",
+        "name": "Deuces Wild",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cb9e4d49412fce4ae730004"
+      },
       "release_date": "1997-11-04",
       "popularity": 62
     },
     {
-      "trackId": "0dTf1jT4i2DkEMW1wZ97wu",
-      "name": "The Gospel Truth",
+      "track": {
+        "id": "0dTf1jT4i2DkEMW1wZ97wu",
+        "name": "The Gospel Truth"
+      },
       "duration_ms": 301226,
-      "artist": [
-        "Freddie Hubbard"
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "id": "0fTHKjepK5HWOrb2rkS5Em"
+        }
       ],
-      "artistId": [
-        "0fTHKjepK5HWOrb2rkS5Em"
-      ],
-      "albumId": "5vdK1fs5l1WdUE1rWh0sU6",
+      "album": {
+        "id": "5vdK1fs5l1WdUE1rWh0sU6",
+        "name": "Super Blue (With Bonus Tracks)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b4b81cec6583ad8ce9d51aa"
+      },
       "release_date": "2007-03-19",
       "popularity": 2
     }

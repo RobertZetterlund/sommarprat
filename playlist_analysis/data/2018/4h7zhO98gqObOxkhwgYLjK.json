@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/af12a969-0d02-4448-99d4-699d1a65d464.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4JehYebiI9JE8sR8MisGVb",
-      "name": "Halo",
+      "track": {
+        "id": "4JehYebiI9JE8sR8MisGVb",
+        "name": "Halo"
+      },
       "duration_ms": 261640,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "39P7VD7qlg3Z0ltq60eHp7",
+      "album": {
+        "id": "39P7VD7qlg3Z0ltq60eHp7",
+        "name": "I AM...SASHA FIERCE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02801c4d205accdba0a468a10b"
+      },
       "release_date": "2008-11-17",
       "popularity": 74
     },
     {
-      "trackId": "4VrWlk8IQxevMvERoX08iC",
-      "name": "Chandelier",
+      "track": {
+        "id": "4VrWlk8IQxevMvERoX08iC",
+        "name": "Chandelier"
+      },
       "duration_ms": 216120,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "3xFSl9lIRaYXIYkIn3OIl9",
+      "album": {
+        "id": "3xFSl9lIRaYXIYkIn3OIl9",
+        "name": "1000 Forms Of Fear",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d199c9f6e6562aafa5aa357"
+      },
       "release_date": "2014-07-04",
       "popularity": 79
     },
     {
-      "trackId": "2NQJ7r83PSAFELsKAEIU4v",
-      "name": "La bohème, SC 67 / Act I: \"O soave fanciulla\"",
+      "track": {
+        "id": "2NQJ7r83PSAFELsKAEIU4v",
+        "name": "La bohème, SC 67 / Act I: \"O soave fanciulla\""
+      },
       "duration_ms": 252453,
-      "artist": [
-        "Giacomo Puccini",
-        "Luciano Pavarotti",
-        "Mirella Freni"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Mirella Freni",
+          "id": "5dz9lXIYillOvg5xH0t5EN"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "5dz9lXIYillOvg5xH0t5EN"
-      ],
-      "albumId": "0DdPI0pzTRV6uT4ty2JBpF",
+      "album": {
+        "id": "0DdPI0pzTRV6uT4ty2JBpF",
+        "name": "Puccini: La Bohème",
+        "img": "https://i.scdn.co/image/ab67616d00001e02744948053d036577ad634b7f"
+      },
       "release_date": "1973-01-01",
       "popularity": 44
     },
     {
-      "trackId": "4jgfMs3mtnjX0oG4wEWEuf",
-      "name": "Donna Juanita",
+      "track": {
+        "id": "4jgfMs3mtnjX0oG4wEWEuf",
+        "name": "Donna Juanita"
+      },
       "duration_ms": 293200,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 11
     },
     {
-      "trackId": "4Hhv2vrOTy89HFRcjU3QOx",
-      "name": "At Last",
+      "track": {
+        "id": "4Hhv2vrOTy89HFRcjU3QOx",
+        "name": "At Last"
+      },
       "duration_ms": 179693,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "7rd4PorIOPjPTy7qdUeeCt",
+      "album": {
+        "id": "7rd4PorIOPjPTy7qdUeeCt",
+        "name": "At Last!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2229a8fdf377abaf3652624"
+      },
       "release_date": "1960",
       "popularity": 74
     },
     {
-      "trackId": "0WGxRQwJsIOnEpNXbbpMkW",
-      "name": "Delilah - Live On The Ed Sullivan Show, April 21, 1968",
+      "track": {
+        "id": "0WGxRQwJsIOnEpNXbbpMkW",
+        "name": "Delilah - Live On The Ed Sullivan Show, April 21, 1968"
+      },
       "duration_ms": 193893,
-      "artist": [
-        "Tom Jones"
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "id": "1T0wRBO0CK0vK8ouUMqEl5"
+        }
       ],
-      "artistId": [
-        "1T0wRBO0CK0vK8ouUMqEl5"
-      ],
-      "albumId": "4dOuAip5yHlFRBCgSeikqj",
+      "album": {
+        "id": "4dOuAip5yHlFRBCgSeikqj",
+        "name": "Delilah (Live On The Ed Sullivan Show, April 21, 1968)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8c1372b0c63ca2779012d6e"
+      },
       "release_date": "1968-04-21",
       "popularity": 11
     },
     {
-      "trackId": "71vsEyBd4X1D5BUmLdFSVH",
-      "name": "Black Widow",
+      "track": {
+        "id": "71vsEyBd4X1D5BUmLdFSVH",
+        "name": "Black Widow"
+      },
       "duration_ms": 209423,
-      "artist": [
-        "Iggy Azalea",
-        "Rita Ora"
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "id": "5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Rita Ora",
+          "id": "5CCwRZC6euC8Odo6y9X8jr"
+        }
       ],
-      "artistId": [
-        "5yG7ZAZafVaAlMTeBybKAL",
-        "5CCwRZC6euC8Odo6y9X8jr"
-      ],
-      "albumId": "6lBTYoX7ZzU2Xbf8RHAv0u",
+      "album": {
+        "id": "6lBTYoX7ZzU2Xbf8RHAv0u",
+        "name": "The New Classic",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238e4867491f7b9aafef34d21"
+      },
       "release_date": "2014-01-01",
       "popularity": 66
     },
     {
-      "trackId": "273QnyCvJB65rScHJ1nPZb",
-      "name": "Make You Feel My Love",
+      "track": {
+        "id": "273QnyCvJB65rScHJ1nPZb",
+        "name": "Make You Feel My Love"
+      },
       "duration_ms": 212040,
-      "artist": [
-        "Adele"
+      "artists": [
+        {
+          "name": "Adele",
+          "id": "4dpARuHxo51G3z768sgnrY"
+        }
       ],
-      "artistId": [
-        "4dpARuHxo51G3z768sgnrY"
-      ],
-      "albumId": "5awrJZBt3rP9RO5hlYdZB0",
+      "album": {
+        "id": "5awrJZBt3rP9RO5hlYdZB0",
+        "name": "19",
+        "img": "https://i.scdn.co/image/ab67616d00001e022369f428044d1fa7ed4a71a9"
+      },
       "release_date": "2008-01-27",
       "popularity": 75
     },
     {
-      "trackId": "5tWPG0AU9LVjONRofHcLD0",
-      "name": "Far from Any Road",
+      "track": {
+        "id": "5tWPG0AU9LVjONRofHcLD0",
+        "name": "Far from Any Road"
+      },
       "duration_ms": 168226,
-      "artist": [
-        "The Handsome Family"
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "id": "72PnPUc1qv9UjRPaGVZ1jq"
+        }
       ],
-      "artistId": [
-        "72PnPUc1qv9UjRPaGVZ1jq"
-      ],
-      "albumId": "6AVhlHYezDjZ9igL1kYc5r",
+      "album": {
+        "id": "6AVhlHYezDjZ9igL1kYc5r",
+        "name": "Singing Bones",
+        "img": "https://i.scdn.co/image/ab67616d00001e02851dd0306e2c810a5cf0d81d"
+      },
       "release_date": "2003",
       "popularity": 53
     },
     {
-      "trackId": "0Hz0ySp6XYrBhEQPU16Hz8",
-      "name": "Valborg",
+      "track": {
+        "id": "0Hz0ySp6XYrBhEQPU16Hz8",
+        "name": "Valborg"
+      },
       "duration_ms": 198173,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "4y7g9dQcKkmBBNtMYhHxQs",
+      "album": {
+        "id": "4y7g9dQcKkmBBNtMYhHxQs",
+        "name": "Det kommer aldrig va över för mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295646685141ef8371ffacc8c"
+      },
       "release_date": "2013-01-01",
       "popularity": 60
     },
     {
-      "trackId": "2rPI34FO7jHrrYBAK2ibbn",
-      "name": "Carta de Mi Pequeña / Brevet Från Lillan",
+      "track": {
+        "id": "2rPI34FO7jHrrYBAK2ibbn",
+        "name": "Carta de Mi Pequeña / Brevet Från Lillan"
+      },
       "duration_ms": 182622,
-      "artist": [
-        "Katia Cardenal"
+      "artists": [
+        {
+          "name": "Katia Cardenal",
+          "id": "351EOKZgZTHlH5P1KC7omj"
+        }
       ],
-      "artistId": [
-        "351EOKZgZTHlH5P1KC7omj"
-      ],
-      "albumId": "4VflwE3PX4ae6UAQHc5AfQ",
+      "album": {
+        "id": "4VflwE3PX4ae6UAQHc5AfQ",
+        "name": "Taube På Spanska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae15b14d8ec973aa9cbedd51"
+      },
       "release_date": "2001-09-05",
       "popularity": 5
     },
     {
-      "trackId": "6tCLQ3LO1V9l6qdrrwdV6q",
-      "name": "My Silver Lining",
+      "track": {
+        "id": "6tCLQ3LO1V9l6qdrrwdV6q",
+        "name": "My Silver Lining"
+      },
       "duration_ms": 215493,
-      "artist": [
-        "First Aid Kit"
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "id": "21egYD1eInY6bGFcniCRT1"
+        }
       ],
-      "artistId": [
-        "21egYD1eInY6bGFcniCRT1"
-      ],
-      "albumId": "3fVthsmWSbJpGp7gjxf5xI",
+      "album": {
+        "id": "3fVthsmWSbJpGp7gjxf5xI",
+        "name": "Stay Gold",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243492083d16b99eef3bb13ce"
+      },
       "release_date": "2014-06-03",
       "popularity": 61
     }

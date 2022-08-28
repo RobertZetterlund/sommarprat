@@ -7,278 +7,402 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3250122_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5CtYS7qWOWVAbTLFevDEhN",
-      "name": "It's All Good",
+      "track": {
+        "id": "5CtYS7qWOWVAbTLFevDEhN",
+        "name": "It's All Good"
+      },
       "duration_ms": 327893,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "5mVEtOa0CmXH5nCivFoa4x",
+      "album": {
+        "id": "5mVEtOa0CmXH5nCivFoa4x",
+        "name": "Together Through Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c239fa8f7d68820aff40309"
+      },
       "release_date": "2009-04-28",
       "popularity": 20
     },
     {
-      "trackId": "3aqCbTpIsIqIabso4CJ3El",
-      "name": "La valse",
+      "track": {
+        "id": "3aqCbTpIsIqIabso4CJ3El",
+        "name": "La valse"
+      },
       "duration_ms": 90293,
-      "artist": [
-        "Les Négresses Vertes"
+      "artists": [
+        {
+          "name": "Les Négresses Vertes",
+          "id": "0baGqHSXVphCsotxWDv7NX"
+        }
       ],
-      "artistId": [
-        "0baGqHSXVphCsotxWDv7NX"
-      ],
-      "albumId": "4phKu4QfMgniJyW1dlmuUV",
+      "album": {
+        "id": "4phKu4QfMgniJyW1dlmuUV",
+        "name": "Mlah",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213037484df7df492be1b2cdc"
+      },
       "release_date": "1988",
       "popularity": 47
     },
     {
-      "trackId": "3byS36NP4jiJ2SlqTvDkTC",
-      "name": "J'ai oublié",
+      "track": {
+        "id": "3byS36NP4jiJ2SlqTvDkTC",
+        "name": "J'ai oublié"
+      },
       "duration_ms": 147706,
-      "artist": [
-        "Grand Corps Malade"
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "id": "3PsyPWjsftbfeXGorZv4AM"
+        }
       ],
-      "artistId": [
-        "3PsyPWjsftbfeXGorZv4AM"
-      ],
-      "albumId": "53FXp96XmPFM8Aj3PEckgG",
+      "album": {
+        "id": "53FXp96XmPFM8Aj3PEckgG",
+        "name": "Patients",
+        "img": "https://i.scdn.co/image/ab67616d00001e021217909f9d4369f142fbba90"
+      },
       "release_date": "2017-02-24",
       "popularity": 12
     },
     {
-      "trackId": "5qBqBdfTEIWJwAS0Jm2F5R",
-      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "track": {
+        "id": "5qBqBdfTEIWJwAS0Jm2F5R",
+        "name": "Turn! Turn! Turn! (To Everything There Is a Season)"
+      },
       "duration_ms": 229360,
-      "artist": [
-        "The Byrds"
+      "artists": [
+        {
+          "name": "The Byrds",
+          "id": "1PCZpxHJz7WAMF8EEq8bfc"
+        }
       ],
-      "artistId": [
-        "1PCZpxHJz7WAMF8EEq8bfc"
-      ],
-      "albumId": "3v0i9qyogPoQEQj2bG6Fmn",
+      "album": {
+        "id": "3v0i9qyogPoQEQj2bG6Fmn",
+        "name": "Turn! Turn! Turn!",
+        "img": "https://i.scdn.co/image/ab67616d00001e028ebc5d5d4fcf960b083af081"
+      },
       "release_date": "1965-12-06",
       "popularity": 64
     },
     {
-      "trackId": "0mIpNkpzFsbGoBlr199Rhu",
-      "name": "8 pièces brèves, Op. 84: 5. Improvisation in C sharp minor",
+      "track": {
+        "id": "0mIpNkpzFsbGoBlr199Rhu",
+        "name": "8 pièces brèves, Op. 84: 5. Improvisation in C sharp minor"
+      },
       "duration_ms": 103000,
-      "artist": [
-        "Gabriel Fauré",
-        "Kun-Woo Paik"
+      "artists": [
+        {
+          "name": "Gabriel Fauré",
+          "id": "2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "id": "22B1T23YzVRPPQkvN6AjSX"
+        }
       ],
-      "artistId": [
-        "2gClsBep1tt1rv1CN210SO",
-        "22B1T23YzVRPPQkvN6AjSX"
-      ],
-      "albumId": "2E2G6rlHCJrDKUU4JSp5Bp",
+      "album": {
+        "id": "2E2G6rlHCJrDKUU4JSp5Bp",
+        "name": "Fauré: Piano Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239c1e73a0b81f51248c4c289"
+      },
       "release_date": "2001-01-01",
       "popularity": 25
     },
     {
-      "trackId": "6OBtguA1Qf32gL77ImhUi6",
-      "name": "Dignity - Piano Demo from 'Oh Mercy' sessions",
+      "track": {
+        "id": "6OBtguA1Qf32gL77ImhUi6",
+        "name": "Dignity - Piano Demo from 'Oh Mercy' sessions"
+      },
       "duration_ms": 131480,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "6vwOn4M8sbRbnFB3ZXfLSD",
+      "album": {
+        "id": "6vwOn4M8sbRbnFB3ZXfLSD",
+        "name": "Tell Tale Signs: The Bootleg Series Vol. 8 (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c42fafa92785c984e8c4a6e4"
+      },
       "release_date": "2008-10-07",
       "popularity": 23
     },
     {
-      "trackId": "4vfbviFCGMDIp7SvrfbuRg",
-      "name": "Tallapolskan efter Jönsagubben i Undersvik",
+      "track": {
+        "id": "4vfbviFCGMDIp7SvrfbuRg",
+        "name": "Tallapolskan efter Jönsagubben i Undersvik"
+      },
       "duration_ms": 142922,
-      "artist": [
-        "Helena Norin",
-        "Anders Henriksson"
+      "artists": [
+        {
+          "name": "Helena Norin",
+          "id": "0rfK9RBxa0odl4FWFKoZc3"
+        },
+        {
+          "name": "Anders Henriksson",
+          "id": "1hHJZuuXTx3gmF3r5j23pf"
+        }
       ],
-      "artistId": [
-        "0rfK9RBxa0odl4FWFKoZc3",
-        "1hHJZuuXTx3gmF3r5j23pf"
-      ],
-      "albumId": "61GuVNwsyhIPrrzI6g1Sxi",
+      "album": {
+        "id": "61GuVNwsyhIPrrzI6g1Sxi",
+        "name": "Unga spelmän från Hälsingland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c47b8a2aada844acaaa86297"
+      },
       "release_date": "1982",
       "popularity": 1
     },
     {
-      "trackId": "0ayEPUzuc10ICaevxKzfq0",
-      "name": "Soldier's Things",
+      "track": {
+        "id": "0ayEPUzuc10ICaevxKzfq0",
+        "name": "Soldier's Things"
+      },
       "duration_ms": 203493,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "51hrKjSvIX69tl1g13R0hI",
+      "album": {
+        "id": "51hrKjSvIX69tl1g13R0hI",
+        "name": "Swordfishtrombones",
+        "img": "https://i.scdn.co/image/ab67616d00001e021552f4ed62163510b2d6f685"
+      },
       "release_date": "1983-09-01",
       "popularity": 38
     },
     {
-      "trackId": "7jbTfz0c7Drh8zphZsHTGm",
-      "name": "Klassfoto",
+      "track": {
+        "id": "7jbTfz0c7Drh8zphZsHTGm",
+        "name": "Klassfoto"
+      },
       "duration_ms": 251800,
-      "artist": [
-        "Fattaru"
+      "artists": [
+        {
+          "name": "Fattaru",
+          "id": "1Utg7DGaiaN2w4oEM3TcbY"
+        }
       ],
-      "artistId": [
-        "1Utg7DGaiaN2w4oEM3TcbY"
-      ],
-      "albumId": "6havb0AAifQoe4YEewUMm6",
+      "album": {
+        "id": "6havb0AAifQoe4YEewUMm6",
+        "name": "100:-",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a17504c335795a8b17e6ef2"
+      },
       "release_date": "2006-06-02",
       "popularity": 13
     },
     {
-      "trackId": "3hj09DKNqRA9HeosgMYmSN",
-      "name": "Tongue Tied",
+      "track": {
+        "id": "3hj09DKNqRA9HeosgMYmSN",
+        "name": "Tongue Tied"
+      },
       "duration_ms": 280560,
-      "artist": [
-        "Charlie Winston"
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "id": "7xQTON6uj7akAGzlanUzy3"
+        }
       ],
-      "artistId": [
-        "7xQTON6uj7akAGzlanUzy3"
-      ],
-      "albumId": "0kIoWjsmtbutAC6p7qholE",
+      "album": {
+        "id": "0kIoWjsmtbutAC6p7qholE",
+        "name": "Hobo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab7a4d0e66f1b98cd3a78b03"
+      },
       "release_date": "2009",
       "popularity": 22
     },
     {
-      "trackId": "6uNfYifrksnoNIwh0GLork",
-      "name": "Kamelen klara",
+      "track": {
+        "id": "6uNfYifrksnoNIwh0GLork",
+        "name": "Kamelen klara"
+      },
       "duration_ms": 60213,
-      "artist": [
-        "Glenn Gulli"
+      "artists": [
+        {
+          "name": "Glenn Gulli",
+          "id": "6mScBDh692rTwyogoqqxNA"
+        }
       ],
-      "artistId": [
-        "6mScBDh692rTwyogoqqxNA"
-      ],
-      "albumId": "0qga3J1BcfcNULvRTCNEIj",
+      "album": {
+        "id": "0qga3J1BcfcNULvRTCNEIj",
+        "name": "Musikkbarnehagen (1)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232a4db9c8add3a1ca2b932a1"
+      },
       "release_date": "2007",
       "popularity": 44
     },
     {
-      "trackId": "15Edy9um1W2jrCb9MVaIBV",
-      "name": "Body's In Trouble",
+      "track": {
+        "id": "15Edy9um1W2jrCb9MVaIBV",
+        "name": "Body's In Trouble"
+      },
       "duration_ms": 301600,
-      "artist": [
-        "Mary Margaret O'Hara"
+      "artists": [
+        {
+          "name": "Mary Margaret O'Hara",
+          "id": "7d4LXGxrBM99Ayu2MkcMWo"
+        }
       ],
-      "artistId": [
-        "7d4LXGxrBM99Ayu2MkcMWo"
-      ],
-      "albumId": "7EorEag88teTV1CevBYuMV",
+      "album": {
+        "id": "7EorEag88teTV1CevBYuMV",
+        "name": "Miss America",
+        "img": "https://i.scdn.co/image/ab67616d00001e02980375ad09e5d3a17d8785cf"
+      },
       "release_date": "1988",
       "popularity": 34
     },
     {
-      "trackId": "1JZ2NQMaA9oy4UeTI4oQcP",
-      "name": "Who by Fire",
+      "track": {
+        "id": "1JZ2NQMaA9oy4UeTI4oQcP",
+        "name": "Who by Fire"
+      },
       "duration_ms": 153493,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "6LXadMatlf17dDrWzJO9eL",
+      "album": {
+        "id": "6LXadMatlf17dDrWzJO9eL",
+        "name": "New Skin For The Old Ceremony",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba630a902f9d9de95572f29d"
+      },
       "release_date": "1974-08-11",
       "popularity": 48
     },
     {
-      "trackId": "5tK7hIW3YBf5JPTbDtQI0j",
-      "name": "Sinnerman",
+      "track": {
+        "id": "5tK7hIW3YBf5JPTbDtQI0j",
+        "name": "Sinnerman"
+      },
       "duration_ms": 367346,
-      "artist": [
-        "Keziah Jones"
+      "artists": [
+        {
+          "name": "Keziah Jones",
+          "id": "7fkVKWnSaQNFwqrR62vsSo"
+        }
       ],
-      "artistId": [
-        "7fkVKWnSaQNFwqrR62vsSo"
-      ],
-      "albumId": "44wTd8xQM2vv9xjXZcfh0n",
+      "album": {
+        "id": "44wTd8xQM2vv9xjXZcfh0n",
+        "name": "Round Nina",
+        "img": "https://i.scdn.co/image/ab67616d00001e021257d51475644987c295d6f7"
+      },
       "release_date": "2014-11-10",
       "popularity": 36
     },
     {
-      "trackId": "35UT9ZB7UROy8W8JvMmzMD",
-      "name": "My Shit's Fucked Up",
+      "track": {
+        "id": "35UT9ZB7UROy8W8JvMmzMD",
+        "name": "My Shit's Fucked Up"
+      },
       "duration_ms": 165826,
-      "artist": [
-        "Warren Zevon"
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "id": "3mY9Ii0cL5SQxpOTAm8SHx"
+        }
       ],
-      "artistId": [
-        "3mY9Ii0cL5SQxpOTAm8SHx"
-      ],
-      "albumId": "1DrxOGQtygz3wEH802wdo4",
+      "album": {
+        "id": "1DrxOGQtygz3wEH802wdo4",
+        "name": "Life'll Kill Ya",
+        "img": "https://i.scdn.co/image/ab67616d00001e024794d7635e99a1ae1ce62bfe"
+      },
       "release_date": "2000-01-25",
       "popularity": 49
     },
     {
-      "trackId": "2OUPrMbmZwyN38ZRHZNJEF",
-      "name": "Woke Up This Morning - Chosen One Mix",
+      "track": {
+        "id": "2OUPrMbmZwyN38ZRHZNJEF",
+        "name": "Woke Up This Morning - Chosen One Mix"
+      },
       "duration_ms": 249240,
-      "artist": [
-        "Alabama 3",
-        "The Chosen One"
+      "artists": [
+        {
+          "name": "Alabama 3",
+          "id": "25zUD40u8M2kJmdcabBzrz"
+        },
+        {
+          "name": "The Chosen One",
+          "id": "5syWd6fU4rdGIsHox40hMA"
+        }
       ],
-      "artistId": [
-        "25zUD40u8M2kJmdcabBzrz",
-        "5syWd6fU4rdGIsHox40hMA"
-      ],
-      "albumId": "15QXFCAPFtH7Ro9fiXhjIO",
+      "album": {
+        "id": "15QXFCAPFtH7Ro9fiXhjIO",
+        "name": "La Peste",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6efd97d1b8e8933a5fa6176"
+      },
       "release_date": "2000-09-01",
       "popularity": 52
     },
     {
-      "trackId": "06UyToIwW0KFDjV57VWY4b",
-      "name": "My Wife's Home Town",
+      "track": {
+        "id": "06UyToIwW0KFDjV57VWY4b",
+        "name": "My Wife's Home Town"
+      },
       "duration_ms": 255066,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "5mVEtOa0CmXH5nCivFoa4x",
+      "album": {
+        "id": "5mVEtOa0CmXH5nCivFoa4x",
+        "name": "Together Through Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c239fa8f7d68820aff40309"
+      },
       "release_date": "2009-04-28",
       "popularity": 19
     },
     {
-      "trackId": "504wsV4Br1jy9xUvWzpAog",
-      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "track": {
+        "id": "504wsV4Br1jy9xUvWzpAog",
+        "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo"
+      },
       "duration_ms": 176213,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould",
-        "Vladimir Golschmann"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "id": "3i9zo6m90f9mokNIXqCu0M"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP",
-        "3i9zo6m90f9mokNIXqCu0M"
-      ],
-      "albumId": "14rnDYdD1OCvTh9lSvodMK",
+      "album": {
+        "id": "14rnDYdD1OCvTh9lSvodMK",
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b941680859557c796b4eca9"
+      },
       "release_date": "1957",
       "popularity": 34
     },
     {
-      "trackId": "6KOtheMY0KN4s9TrQHr9It",
-      "name": "She's A Rainbow",
+      "track": {
+        "id": "6KOtheMY0KN4s9TrQHr9It",
+        "name": "She's A Rainbow"
+      },
       "duration_ms": 253720,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "0ZVb7BLZuvx9ZZebd9i3lu",
+      "album": {
+        "id": "0ZVb7BLZuvx9ZZebd9i3lu",
+        "name": "She's A Rainbow / Dandelion / We Love You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b98f37642280c7edad050c5e"
+      },
       "release_date": "2020-10-09",
       "popularity": 66
     }

@@ -7,242 +7,354 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243387_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6BTBrjHb6UbJYqzchaO2Bx",
-      "name": "Mediterraneo",
+      "track": {
+        "id": "6BTBrjHb6UbJYqzchaO2Bx",
+        "name": "Mediterraneo"
+      },
       "duration_ms": 245000,
-      "artist": [
-        "Giancarlo Bigazzi",
-        "Marco Falagiani"
+      "artists": [
+        {
+          "name": "Giancarlo Bigazzi",
+          "id": "5Yo8TV7xBHXH9EhIroOxkC"
+        },
+        {
+          "name": "Marco Falagiani",
+          "id": "2FjJkFRq44nvenpuIOeRcv"
+        }
       ],
-      "artistId": [
-        "5Yo8TV7xBHXH9EhIroOxkC",
-        "2FjJkFRq44nvenpuIOeRcv"
-      ],
-      "albumId": "7C3aJ7CRrQmURUOAOwgyxJ",
+      "album": {
+        "id": "7C3aJ7CRrQmURUOAOwgyxJ",
+        "name": "Mediterraneo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af1a2eb1ce021fcc914b286b"
+      },
       "release_date": "1991",
       "popularity": 28
     },
     {
-      "trackId": "5oE6INocVL9viDow5y8QNM",
-      "name": "Fragile",
+      "track": {
+        "id": "5oE6INocVL9viDow5y8QNM",
+        "name": "Fragile"
+      },
       "duration_ms": 236306,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+      "album": {
+        "id": "3mVCQqgwEvwD7lHy9KHi7R",
+        "name": "...Nothing Like The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "0AbWcaFA1bsObTMmsgPnBo",
-      "name": "Tonight",
+      "track": {
+        "id": "0AbWcaFA1bsObTMmsgPnBo",
+        "name": "Tonight"
+      },
       "duration_ms": 174626,
-      "artist": [
-        "Koop"
+      "artists": [
+        {
+          "name": "Koop",
+          "id": "7wyBxBXLVLaiF2jxHCpvTe"
+        }
       ],
-      "artistId": [
-        "7wyBxBXLVLaiF2jxHCpvTe"
-      ],
-      "albumId": "0X1R9oJfADbmCxXb4II8G8",
+      "album": {
+        "id": "0X1R9oJfADbmCxXb4II8G8",
+        "name": "Waltz for Koop",
+        "img": "https://i.scdn.co/image/ab67616d00001e026798d5690ddeb528cee0fb0a"
+      },
       "release_date": "2001-01-01",
       "popularity": 37
     },
     {
-      "trackId": "5O18rD3HLXnHzgYhX1JE6D",
-      "name": "Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande",
+      "track": {
+        "id": "5O18rD3HLXnHzgYhX1JE6D",
+        "name": "Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande"
+      },
       "duration_ms": 191346,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Piotr Anderszewski"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "id": "0ndw1tUehEV3tnnYUnqFw9"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "0ndw1tUehEV3tnnYUnqFw9"
-      ],
-      "albumId": "4AfccVPHUrtjjgs0bq4cp2",
+      "album": {
+        "id": "4AfccVPHUrtjjgs0bq4cp2",
+        "name": "Bach: Partitas Nos. 1, 3 & 6",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276180ed23de3288084aadee2"
+      },
       "release_date": "2002-10-07",
       "popularity": 38
     },
     {
-      "trackId": "38JzMF0QptaZ4NkjlvSxql",
-      "name": "For Keith Jarrett",
+      "track": {
+        "id": "38JzMF0QptaZ4NkjlvSxql",
+        "name": "For Keith Jarrett"
+      },
       "duration_ms": 199015,
-      "artist": [
-        "Ola W Jansson",
-        "W JAZZ TRIO",
-        "Edvin Fridolfsson"
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "id": "4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "id": "4nFofMNAntqM5p8Q4ha2YA"
+        },
+        {
+          "name": "Edvin Fridolfsson",
+          "id": "0dm9f6OH0ImQjAywl6xgtK"
+        }
       ],
-      "artistId": [
-        "4hoFdBmz4b5NykkV0SCEVz",
-        "4nFofMNAntqM5p8Q4ha2YA",
-        "0dm9f6OH0ImQjAywl6xgtK"
-      ],
-      "albumId": "5cOvxmt5iLyz2c1Rm8Au75",
+      "album": {
+        "id": "5cOvxmt5iLyz2c1Rm8Au75",
+        "name": "All The Things You Are",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c21f2c7b76759aff1fc69a95"
+      },
       "release_date": "2020-11-06",
       "popularity": 49
     },
     {
-      "trackId": "6iHdZKflMnin0cgiNBK2FO",
-      "name": "Lauren",
+      "track": {
+        "id": "6iHdZKflMnin0cgiNBK2FO",
+        "name": "Lauren"
+      },
       "duration_ms": 266706,
-      "artist": [
-        "Benny Anderssons Orkester"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS"
-      ],
-      "albumId": "1s5COefw7fWcruo5qMkfUj",
+      "album": {
+        "id": "1s5COefw7fWcruo5qMkfUj",
+        "name": "Benny Anderssons Orkester",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b3eb13d02fed87d31022dec"
+      },
       "release_date": "2007-01-01",
       "popularity": 12
     },
     {
-      "trackId": "4migrLu6mRQqQLHp4f7iYo",
-      "name": "Handens fem fingrar",
+      "track": {
+        "id": "4migrLu6mRQqQLHp4f7iYo",
+        "name": "Handens fem fingrar"
+      },
       "duration_ms": 247933,
-      "artist": [
-        "Peter LeMarc"
+      "artists": [
+        {
+          "name": "Peter LeMarc",
+          "id": "4VKbol7eCoEJUemlKvE3Ve"
+        }
       ],
-      "artistId": [
-        "4VKbol7eCoEJUemlKvE3Ve"
-      ],
-      "albumId": "23MCUCb53mQcJl5TfHjMf0",
+      "album": {
+        "id": "23MCUCb53mQcJl5TfHjMf0",
+        "name": "Sjutton sånger - LeMarc sjunger LeMarc",
+        "img": "https://i.scdn.co/image/ab67616d00001e02feb9aad493c089e12e3e28b0"
+      },
       "release_date": "2005-08-24",
       "popularity": 32
     },
     {
-      "trackId": "5O18rD3HLXnHzgYhX1JE6D",
-      "name": "Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande",
+      "track": {
+        "id": "5O18rD3HLXnHzgYhX1JE6D",
+        "name": "Bach, JS: Keyboard Partita No. 1 in B-Flat Major, BWV 825: II. Allemande"
+      },
       "duration_ms": 191346,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Piotr Anderszewski"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "id": "0ndw1tUehEV3tnnYUnqFw9"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "0ndw1tUehEV3tnnYUnqFw9"
-      ],
-      "albumId": "4AfccVPHUrtjjgs0bq4cp2",
+      "album": {
+        "id": "4AfccVPHUrtjjgs0bq4cp2",
+        "name": "Bach: Partitas Nos. 1, 3 & 6",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276180ed23de3288084aadee2"
+      },
       "release_date": "2002-10-07",
       "popularity": 38
     },
     {
-      "trackId": "58VVEDJ8NK12UqV0bApBzn",
-      "name": "Piano Sonata No. 15 in F Major, K. 533/494: 1. Allegro, K. 533",
+      "track": {
+        "id": "58VVEDJ8NK12UqV0bApBzn",
+        "name": "Piano Sonata No. 15 in F Major, K. 533/494: 1. Allegro, K. 533"
+      },
       "duration_ms": 494000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Alfred Brendel"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "id": "5vBh0nve44zwwVF5KWtCwA"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5vBh0nve44zwwVF5KWtCwA"
-      ],
-      "albumId": "37qHlAzBNRI9UahnOI9lvr",
+      "album": {
+        "id": "37qHlAzBNRI9UahnOI9lvr",
+        "name": "Mozart: Piano Sonatas K.310, K.311 & K.533/494",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c40c5792d235b7dad4d286d"
+      },
       "release_date": "2003-01-01",
       "popularity": 42
     },
     {
-      "trackId": "1dODFBTSea9xj8ro4OEQmk",
-      "name": "OSKULD",
+      "track": {
+        "id": "1dODFBTSea9xj8ro4OEQmk",
+        "name": "OSKULD"
+      },
       "duration_ms": 116076,
-      "artist": [
-        "Rasmus Gozzi",
-        "FRÖKEN SNUSK"
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "id": "3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FRÖKEN SNUSK",
+          "id": "6RjsbK9T7d1UQD1PFEYYGt"
+        }
       ],
-      "artistId": [
-        "3loTvAld5Tpk5aSNbboGpj",
-        "6RjsbK9T7d1UQD1PFEYYGt"
-      ],
-      "albumId": "1ywqOgvXOME3cbiNImHhR6",
+      "album": {
+        "id": "1ywqOgvXOME3cbiNImHhR6",
+        "name": "OSKULD",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad642429708b9cf0817db79c"
+      },
       "release_date": "2021-06-11",
       "popularity": 44
     },
     {
-      "trackId": "57sOPg6NWAPoPihScGeXEQ",
-      "name": "My Favorite Things, Pt. 1 (Single Version)",
+      "track": {
+        "id": "57sOPg6NWAPoPihScGeXEQ",
+        "name": "My Favorite Things, Pt. 1 (Single Version)"
+      },
       "duration_ms": 167000,
-      "artist": [
-        "John Coltrane"
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        }
       ],
-      "artistId": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "albumId": "0g2VY07b4xNLav29i25s2m",
+      "album": {
+        "id": "0g2VY07b4xNLav29i25s2m",
+        "name": "My Favourite Things: Jazz Classics",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261b2a12253a7d03f76a5cacc"
+      },
       "release_date": "2018-05-09",
       "popularity": 16
     },
     {
-      "trackId": "1DaKM1Mzf9cOhHF9eKZZ4w",
-      "name": "Fibre De Verre",
+      "track": {
+        "id": "1DaKM1Mzf9cOhHF9eKZZ4w",
+        "name": "Fibre De Verre"
+      },
       "duration_ms": 220933,
-      "artist": [
-        "Paris Combo"
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "id": "5xDjKV6UvzyrI3RnwHq02G"
+        }
       ],
-      "artistId": [
-        "5xDjKV6UvzyrI3RnwHq02G"
-      ],
-      "albumId": "4Th7DyvnAE6nMqjTrNnsqS",
+      "album": {
+        "id": "4Th7DyvnAE6nMqjTrNnsqS",
+        "name": "Attraction",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fafa4386845fd5bc5645dbc1"
+      },
       "release_date": "2001-01-01",
       "popularity": 56
     },
     {
-      "trackId": "14lyZKpPu1ECQpfXhgrip6",
-      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "track": {
+        "id": "14lyZKpPu1ECQpfXhgrip6",
+        "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav."
+      },
       "duration_ms": 50480,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP"
-      ],
-      "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+      "album": {
+        "id": "1aCpHSQE5ghxibsQ5gkBe0",
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7ed978a7fd1498ce8c031f7"
+      },
       "release_date": "1981",
       "popularity": 42
     },
     {
-      "trackId": "0kHHwAAb7Zd76Cud4sWvdz",
-      "name": "Bli Min",
+      "track": {
+        "id": "0kHHwAAb7Zd76Cud4sWvdz",
+        "name": "Bli Min"
+      },
       "duration_ms": 167142,
-      "artist": [
-        "Eva Eastwood"
+      "artists": [
+        {
+          "name": "Eva Eastwood",
+          "id": "0Oab0T0VwxapaYLWgHFWhH"
+        }
       ],
-      "artistId": [
-        "0Oab0T0VwxapaYLWgHFWhH"
-      ],
-      "albumId": "0jc05a959i3KHX3lWNS3Es",
+      "album": {
+        "id": "0jc05a959i3KHX3lWNS3Es",
+        "name": "Lyckost",
+        "img": "https://i.scdn.co/image/ab67616d00001e02497068bc7683d11fa8cdb694"
+      },
       "release_date": "2011-04-20",
       "popularity": 35
     },
     {
-      "trackId": "06e8JNPVkQAVfFnEkf2EFt",
-      "name": "Undantag",
+      "track": {
+        "id": "06e8JNPVkQAVfFnEkf2EFt",
+        "name": "Undantag"
+      },
       "duration_ms": 256959,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "2q9d8xI0lKnCJn4U6YM4wM",
+      "album": {
+        "id": "2q9d8xI0lKnCJn4U6YM4wM",
+        "name": "I centrum",
+        "img": "https://i.scdn.co/image/ab67616d00001e02346e406a32597436e120b450"
+      },
       "release_date": "1998-09-25",
       "popularity": 44
     },
     {
-      "trackId": "4H074iCEGH6qKmrroBtjV1",
-      "name": "Tanta Til Beate",
+      "track": {
+        "id": "4H074iCEGH6qKmrroBtjV1",
+        "name": "Tanta Til Beate"
+      },
       "duration_ms": 219715,
-      "artist": [
-        "Lillebjørn Nilsen"
+      "artists": [
+        {
+          "name": "Lillebjørn Nilsen",
+          "id": "2cEkdzGxcB731g81iUsH6e"
+        }
       ],
-      "artistId": [
-        "2cEkdzGxcB731g81iUsH6e"
-      ],
-      "albumId": "60ho1oZFKQpCjkNqQigoSz",
+      "album": {
+        "id": "60ho1oZFKQpCjkNqQigoSz",
+        "name": "Original Nilsen",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a1bbce71c471e04bf12ebd0"
+      },
       "release_date": "1986",
       "popularity": 32
     }

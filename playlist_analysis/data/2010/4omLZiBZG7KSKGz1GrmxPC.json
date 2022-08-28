@@ -7,248 +7,358 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247484_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5zOpXGQrIpgM91nh4PykDj",
-      "name": "Serenaden i Prästgatan",
+      "track": {
+        "id": "5zOpXGQrIpgM91nh4PykDj",
+        "name": "Serenaden i Prästgatan"
+      },
       "duration_ms": 160626,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "1Gx5b6ApFjeTVsVCZrWEBe",
+      "album": {
+        "id": "1Gx5b6ApFjeTVsVCZrWEBe",
+        "name": "EVERT! EVERT! EVERT!",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a2cf14df9d4cd2156271b71"
+      },
       "release_date": "2022-01-14",
       "popularity": 6
     },
     {
-      "trackId": "7CuXB3Dr61IvDFEWfqG3sE",
-      "name": "More",
+      "track": {
+        "id": "7CuXB3Dr61IvDFEWfqG3sE",
+        "name": "More"
+      },
       "duration_ms": 216699,
-      "artist": [
-        "Jan Blomqvist",
-        "Elena Pitoulis"
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "id": "5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Elena Pitoulis",
+          "id": "0Zw91yH74OemLqD4rHn96K"
+        }
       ],
-      "artistId": [
-        "5wMlMjOLeJfS5DfxqGfm83",
-        "0Zw91yH74OemLqD4rHn96K"
-      ],
-      "albumId": "7DAyAlObwl5f8mcrqFCeWm",
+      "album": {
+        "id": "7DAyAlObwl5f8mcrqFCeWm",
+        "name": "More",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d302de20d874140c27f7100a"
+      },
       "release_date": "2016-02-05",
       "popularity": 60
     },
     {
-      "trackId": "6qqK0oeBRapZn8f9hJJENw",
-      "name": "Blue Bossa - Remastered",
+      "track": {
+        "id": "6qqK0oeBRapZn8f9hJJENw",
+        "name": "Blue Bossa - Remastered"
+      },
       "duration_ms": 482440,
-      "artist": [
-        "Joe Henderson"
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "id": "3BG0nwVh3Gc7cuT4XdsLtt"
+        }
       ],
-      "artistId": [
-        "3BG0nwVh3Gc7cuT4XdsLtt"
-      ],
-      "albumId": "7mQGTuvmdp56DNz0AmMwWi",
+      "album": {
+        "id": "7mQGTuvmdp56DNz0AmMwWi",
+        "name": "Page One",
+        "img": "https://i.scdn.co/image/ab67616d00001e028162476a3924e27ce23cf04b"
+      },
       "release_date": "1963-10-01",
       "popularity": 51
     },
     {
-      "trackId": "670ELSXlzuTEOOFxwHTF0P",
-      "name": "Din njugge far och din snörpiga mamma",
+      "track": {
+        "id": "670ELSXlzuTEOOFxwHTF0P",
+        "name": "Din njugge far och din snörpiga mamma"
+      },
       "duration_ms": 215659,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "491a89ZF90FNP2TDqWOLEd",
+      "album": {
+        "id": "491a89ZF90FNP2TDqWOLEd",
+        "name": "100 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd5ef17b080f0b1e90b653e7"
+      },
       "release_date": "2022-05-20",
       "popularity": 6
     },
     {
-      "trackId": "7hKYraFpaMHXf7cUi7s2oW",
-      "name": "An Album of Druids",
+      "track": {
+        "id": "7hKYraFpaMHXf7cUi7s2oW",
+        "name": "An Album of Druids"
+      },
       "duration_ms": 124538,
-      "artist": [
-        "The Orcridge"
+      "artists": [
+        {
+          "name": "The Orcridge",
+          "id": "0RfkTljR63N6pTu8e8145H"
+        }
       ],
-      "artistId": [
-        "0RfkTljR63N6pTu8e8145H"
-      ],
-      "albumId": "2Awc1x8NCpCt70RGHQVcV4",
+      "album": {
+        "id": "2Awc1x8NCpCt70RGHQVcV4",
+        "name": "An Album of Druids",
+        "img": "https://i.scdn.co/image/ab67616d00001e02513b1f892f1ba72470ab880d"
+      },
       "release_date": "2022-01-01",
       "popularity": 26
     },
     {
-      "trackId": "10Rlb31dGNocZLzudtq7lS",
-      "name": "Chinatown My Chinatown",
+      "track": {
+        "id": "10Rlb31dGNocZLzudtq7lS",
+        "name": "Chinatown My Chinatown"
+      },
       "duration_ms": 183484,
-      "artist": [
-        "Fletcher Henderson"
+      "artists": [
+        {
+          "name": "Fletcher Henderson",
+          "id": "2ovJLSejirvJybNers2YG6"
+        }
       ],
-      "artistId": [
-        "2ovJLSejirvJybNers2YG6"
-      ],
-      "albumId": "2pTMXYqNKGRdhNpDkskYt1",
+      "album": {
+        "id": "2pTMXYqNKGRdhNpDkskYt1",
+        "name": "Stomp and Shuffle",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d4c9fd0dee42d207f14793f"
+      },
       "release_date": "2019-07-09",
       "popularity": 0
     },
     {
-      "trackId": "0KFPsX30uBNCDpkgdz0JrV",
-      "name": "'O sole mio (Arr. Chiaramello)",
+      "track": {
+        "id": "0KFPsX30uBNCDpkgdz0JrV",
+        "name": "'O sole mio (Arr. Chiaramello)"
+      },
       "duration_ms": 202680,
-      "artist": [
-        "Eduardo di Capua",
-        "Alfredo Mazzucchi",
-        "Luciano Pavarotti"
+      "artists": [
+        {
+          "name": "Eduardo di Capua",
+          "id": "2q0Rkp6Ud5XxPTCkCCdbYr"
+        },
+        {
+          "name": "Alfredo Mazzucchi",
+          "id": "4vHK0wAa73KIgQzxeowBbh"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        }
       ],
-      "artistId": [
-        "2q0Rkp6Ud5XxPTCkCCdbYr",
-        "4vHK0wAa73KIgQzxeowBbh",
-        "0Y8KmFkKOgJybpVobn1onU"
-      ],
-      "albumId": "5mzQPkCKaW7mC6AWzoqMaO",
+      "album": {
+        "id": "5mzQPkCKaW7mC6AWzoqMaO",
+        "name": "'O sole mio",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5cdf17d69c9941e91f30238"
+      },
       "release_date": "1979-10-01",
       "popularity": 48
     },
     {
-      "trackId": "7FGhwWgdgiQpcDahQJ81vX",
-      "name": "Nel blu dipinto di blu' (Volare)",
+      "track": {
+        "id": "7FGhwWgdgiQpcDahQJ81vX",
+        "name": "Nel blu dipinto di blu' (Volare)"
+      },
       "duration_ms": 217573,
-      "artist": [
-        "Domenico Modugno"
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "id": "4llklDtTTyMYMY2LfFOkTI"
+        }
       ],
-      "artistId": [
-        "4llklDtTTyMYMY2LfFOkTI"
-      ],
-      "albumId": "174ktESNDfPrCeTCfv3FmA",
+      "album": {
+        "id": "174ktESNDfPrCeTCfv3FmA",
+        "name": "Italian Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02287e559f99792a538f152ea6"
+      },
       "release_date": "2014-08-16",
       "popularity": 47
     },
     {
-      "trackId": "6dj2hWTSr03vPKHHQJ7hIg",
-      "name": "I det blå",
+      "track": {
+        "id": "6dj2hWTSr03vPKHHQJ7hIg",
+        "name": "I det blå"
+      },
       "duration_ms": 187386,
-      "artist": [
-        "Lars Lönndahl"
+      "artists": [
+        {
+          "name": "Lars Lönndahl",
+          "id": "3zM7dGrOWlLAhAuuTMBObb"
+        }
       ],
-      "artistId": [
-        "3zM7dGrOWlLAhAuuTMBObb"
-      ],
-      "albumId": "3XUbrg8MigLgjkA75nLIHL",
+      "album": {
+        "id": "3XUbrg8MigLgjkA75nLIHL",
+        "name": "Diamanter",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273576f43e25076c035643e19"
+      },
       "release_date": "2004-07-06",
       "popularity": 12
     },
     {
-      "trackId": "0WFqqDNVw611vTnWVW63BM",
-      "name": "Tosca",
+      "track": {
+        "id": "0WFqqDNVw611vTnWVW63BM",
+        "name": "Tosca"
+      },
       "duration_ms": 185400,
-      "artist": [
-        "Jussi Björling",
-        "Frederic Schauwecker"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        },
+        {
+          "name": "Frederic Schauwecker",
+          "id": "4IPrlxeJ5BcbUjDXPGEd58"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A",
-        "4IPrlxeJ5BcbUjDXPGEd58"
-      ],
-      "albumId": "0gm0EwxcoeO8qZNyMz9jwn",
+      "album": {
+        "id": "0gm0EwxcoeO8qZNyMz9jwn",
+        "name": "Jussi Björling in Concert",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257ec9d7e6cada60f19c2fa00"
+      },
       "release_date": "2019-04-05",
       "popularity": 28
     },
     {
-      "trackId": "6zlMAsPgiG81sZzsYVFwL3",
-      "name": "Douce France",
+      "track": {
+        "id": "6zlMAsPgiG81sZzsYVFwL3",
+        "name": "Douce France"
+      },
       "duration_ms": 192160,
-      "artist": [
-        "Charles Trenet"
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "id": "4a16JEaHldo5vZuRojtGTZ"
+        }
       ],
-      "artistId": [
-        "4a16JEaHldo5vZuRojtGTZ"
-      ],
-      "albumId": "2BgO56jZnE4xbfvlZOjK0L",
+      "album": {
+        "id": "2BgO56jZnE4xbfvlZOjK0L",
+        "name": "Disque D'or",
+        "img": "https://i.scdn.co/image/ab67616d00001e028555817419b10e2b4757c242"
+      },
       "release_date": "1992",
       "popularity": 53
     },
     {
-      "trackId": "3zisTIB0hCEZQTzRX0h35S",
-      "name": "Jazzgossen",
+      "track": {
+        "id": "3zisTIB0hCEZQTzRX0h35S",
+        "name": "Jazzgossen"
+      },
       "duration_ms": 155866,
-      "artist": [
-        "Karl Gerhard"
+      "artists": [
+        {
+          "name": "Karl Gerhard",
+          "id": "1MZr4dmWzdOjNANtIsfBif"
+        }
       ],
-      "artistId": [
-        "1MZr4dmWzdOjNANtIsfBif"
-      ],
-      "albumId": "18yjnA6yyoIZnpoh3i5U39",
+      "album": {
+        "id": "18yjnA6yyoIZnpoh3i5U39",
+        "name": "En doft ifrån den fina världen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc70e8ecf26e0cea5e07b928"
+      },
       "release_date": "2004-04-15",
       "popularity": 28
     },
     {
-      "trackId": "1AgTyT9RhQQ0LgJTYWDfOc",
-      "name": "Paris Mes Amours",
+      "track": {
+        "id": "1AgTyT9RhQQ0LgJTYWDfOc",
+        "name": "Paris Mes Amours"
+      },
       "duration_ms": 150853,
-      "artist": [
-        "Joséphine Baker"
+      "artists": [
+        {
+          "name": "Joséphine Baker",
+          "id": "2RXsHRCnva6BsZ12SSAzcz"
+        }
       ],
-      "artistId": [
-        "2RXsHRCnva6BsZ12SSAzcz"
-      ],
-      "albumId": "3fLLjivQzwwci1esNdRe66",
+      "album": {
+        "id": "3fLLjivQzwwci1esNdRe66",
+        "name": "The Very Best of Josephine Baker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c24e9728cef36973ec5eb5af"
+      },
       "release_date": "2015-05-01",
       "popularity": 2
     },
     {
-      "trackId": "1y1K1Ozr65GT8nHe1XQ52X",
-      "name": "Valpen I Fönstret",
+      "track": {
+        "id": "1y1K1Ozr65GT8nHe1XQ52X",
+        "name": "Valpen I Fönstret"
+      },
       "duration_ms": 152973,
-      "artist": [
-        "Cacka Israelsson"
+      "artists": [
+        {
+          "name": "Cacka Israelsson",
+          "id": "0FPZ1qlAc7JU5H8ZsE7qpl"
+        }
       ],
-      "artistId": [
-        "0FPZ1qlAc7JU5H8ZsE7qpl"
-      ],
-      "albumId": "4g59SQmCj57CK37uWVHfeX",
+      "album": {
+        "id": "4g59SQmCj57CK37uWVHfeX",
+        "name": "Det Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0027ef6539109342b9b0b77"
+      },
       "release_date": "2020-12-02",
       "popularity": 0
     },
     {
-      "trackId": "2NsmBJIgFf0pi8z7tgF5Kj",
-      "name": "Kalle på spången",
+      "track": {
+        "id": "2NsmBJIgFf0pi8z7tgF5Kj",
+        "name": "Kalle på spången"
+      },
       "duration_ms": 172186,
-      "artist": [
-        "Edvard Persson"
+      "artists": [
+        {
+          "name": "Edvard Persson",
+          "id": "3Fuk9YN8A4IYlV3xmywbvX"
+        }
       ],
-      "artistId": [
-        "3Fuk9YN8A4IYlV3xmywbvX"
-      ],
-      "albumId": "7dPPdyIZPjJeGEkylzlN7z",
+      "album": {
+        "id": "7dPPdyIZPjJeGEkylzlN7z",
+        "name": "Svenska Sångfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5f0d756496cc348e0da32e5"
+      },
       "release_date": "2005-01-19",
       "popularity": 28
     },
     {
-      "trackId": "4BN7OcDOvPDe392tTkxqjN",
-      "name": "Boshitta",
+      "track": {
+        "id": "4BN7OcDOvPDe392tTkxqjN",
+        "name": "Boshitta"
+      },
       "duration_ms": 294746,
-      "artist": [
-        "Iggesundsgänget"
+      "artists": [
+        {
+          "name": "Iggesundsgänget",
+          "id": "4NnuPiZ7BhKVKiuHJoENJY"
+        }
       ],
-      "artistId": [
-        "4NnuPiZ7BhKVKiuHJoENJY"
-      ],
-      "albumId": "6nMdAORqkGt9WcJECjt7gd",
+      "album": {
+        "id": "6nMdAORqkGt9WcJECjt7gd",
+        "name": "Kroghall festival 10 år absolut live",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a23269bbb5539a27ba8a5f27"
+      },
       "release_date": "2002",
       "popularity": 36
     },
     {
-      "trackId": "0nJF7xTgl8JDIRzrlsNveX",
-      "name": "Som en gubbe på en tavla av Lennart Jirlow",
+      "track": {
+        "id": "0nJF7xTgl8JDIRzrlsNveX",
+        "name": "Som en gubbe på en tavla av Lennart Jirlow"
+      },
       "duration_ms": 159800,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "4OOUngKtyG306ZzK8tiHw8",
+      "album": {
+        "id": "4OOUngKtyG306ZzK8tiHw8",
+        "name": "Knäpp igen!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c896456ca15ffab702206669"
+      },
       "release_date": "1993-01-01",
       "popularity": 1
     }

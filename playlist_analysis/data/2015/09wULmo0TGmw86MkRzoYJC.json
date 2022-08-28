@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530759_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3Mizu9oMBUCm14uctRt2uL",
-      "name": "Material Girl",
+      "track": {
+        "id": "3Mizu9oMBUCm14uctRt2uL",
+        "name": "Material Girl"
+      },
       "duration_ms": 174466,
-      "artist": [
-        "Cassandra Beck"
+      "artists": [
+        {
+          "name": "Cassandra Beck",
+          "id": "6DFSkfaVzPXCNeNk1pcth2"
+        }
       ],
-      "artistId": [
-        "6DFSkfaVzPXCNeNk1pcth2"
-      ],
-      "albumId": "68cA9VzumdYb1FO6COsffJ",
+      "album": {
+        "id": "68cA9VzumdYb1FO6COsffJ",
+        "name": "The Sexy EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e020d446d11140e3cddbefcb25d"
+      },
       "release_date": "2014-06-14",
       "popularity": 47
     },
     {
-      "trackId": "7o7E1nrHWncYY7PY94gCiX",
-      "name": "Video Killed The Radio Star",
+      "track": {
+        "id": "7o7E1nrHWncYY7PY94gCiX",
+        "name": "Video Killed The Radio Star"
+      },
       "duration_ms": 252773,
-      "artist": [
-        "The Buggles"
+      "artists": [
+        {
+          "name": "The Buggles",
+          "id": "057gc1fxmJ2vkctjQJ7Tal"
+        }
       ],
-      "artistId": [
-        "057gc1fxmJ2vkctjQJ7Tal"
-      ],
-      "albumId": "2fgCz9kQCDy0miERCy0sCJ",
+      "album": {
+        "id": "2fgCz9kQCDy0miERCy0sCJ",
+        "name": "The Age Of Plastic",
+        "img": "https://i.scdn.co/image/ab67616d00001e02983bb3e3f0c66b9b89a832fa"
+      },
       "release_date": "1980-01-10",
       "popularity": 72
     },
     {
-      "trackId": "6N7gPTru90HYLRUIVDQ185",
-      "name": "More Than This",
+      "track": {
+        "id": "6N7gPTru90HYLRUIVDQ185",
+        "name": "More Than This"
+      },
       "duration_ms": 270651,
-      "artist": [
-        "Roxy Music"
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+        }
       ],
-      "artistId": [
-        "3fhOTtm0LBJ3Ojn4hIljLo"
-      ],
-      "albumId": "3JXODSjT9mUz2lIb4YIErw",
+      "album": {
+        "id": "3JXODSjT9mUz2lIb4YIErw",
+        "name": "Avalon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7972702cff224328b39f8a6"
+      },
       "release_date": "1982-05-01",
       "popularity": 68
     },
     {
-      "trackId": "7HTX5cE4qzHALfgO2xSvMd",
-      "name": "Ayo Technology",
+      "track": {
+        "id": "7HTX5cE4qzHALfgO2xSvMd",
+        "name": "Ayo Technology"
+      },
       "duration_ms": 213640,
-      "artist": [
-        "Milow"
+      "artists": [
+        {
+          "name": "Milow",
+          "id": "6mo0UbyIvIePdXNyLwQlk5"
+        }
       ],
-      "artistId": [
-        "6mo0UbyIvIePdXNyLwQlk5"
-      ],
-      "albumId": "5ra1FnP7de0jb5q47esf8u",
+      "album": {
+        "id": "5ra1FnP7de0jb5q47esf8u",
+        "name": "Acoustic Dance Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff2a7363d68eb4a35fd495d5"
+      },
       "release_date": "2012-10-05",
       "popularity": 55
     },
     {
-      "trackId": "2SiXAy7TuUkycRVbbWDEpo",
-      "name": "You Shook Me All Night Long",
+      "track": {
+        "id": "2SiXAy7TuUkycRVbbWDEpo",
+        "name": "You Shook Me All Night Long"
+      },
       "duration_ms": 210173,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "6mUdeDZCsExyJLMdAfDuwh",
+      "album": {
+        "id": "6mUdeDZCsExyJLMdAfDuwh",
+        "name": "Back In Black",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b51f8d91f3a21e8426361ae"
+      },
       "release_date": "1980-07-25",
       "popularity": 80
     },
     {
-      "trackId": "4nau48vyKaPej19xkRfean",
-      "name": "Baby I'm A Fool",
+      "track": {
+        "id": "4nau48vyKaPej19xkRfean",
+        "name": "Baby I'm A Fool"
+      },
       "duration_ms": 210693,
-      "artist": [
-        "Melody Gardot"
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "id": "2P1puQXmG48EVLBrHbum1J"
+        }
       ],
-      "artistId": [
-        "2P1puQXmG48EVLBrHbum1J"
-      ],
-      "albumId": "0TupiHxrDDzR9uH41u4r5o",
+      "album": {
+        "id": "0TupiHxrDDzR9uH41u4r5o",
+        "name": "My One And Only Thrill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc621afbeefe1e0406bcfa91"
+      },
       "release_date": "2009",
       "popularity": 41
     },
     {
-      "trackId": "5fEAQtjil6Jcu5EE3RDFXH",
-      "name": "En liten blå förgätmigej",
+      "track": {
+        "id": "5fEAQtjil6Jcu5EE3RDFXH",
+        "name": "En liten blå förgätmigej"
+      },
       "duration_ms": 51200,
-      "artist": [
-        "Linköpings Studentsångarförening Lihkören",
-        "Hans Lundgren"
+      "artists": [
+        {
+          "name": "Linköpings Studentsångarförening Lihkören",
+          "id": "62alYbAmWEDaroNBlrKqod"
+        },
+        {
+          "name": "Hans Lundgren",
+          "id": "7rWRdgmFBPfs9ihu4KYWSj"
+        }
       ],
-      "artistId": [
-        "62alYbAmWEDaroNBlrKqod",
-        "7rWRdgmFBPfs9ihu4KYWSj"
-      ],
-      "albumId": "4IwEccmIzmMOGhVoBXz9LY",
+      "album": {
+        "id": "4IwEccmIzmMOGhVoBXz9LY",
+        "name": "Spring and party songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277a804aebcc5b322ef19b0aa"
+      },
       "release_date": "1996-08-01",
       "popularity": 2
     },
     {
-      "trackId": "3mFzIFFFmEXTQs6BDAK2ZZ",
-      "name": "Dance Me to the End of Love",
+      "track": {
+        "id": "3mFzIFFFmEXTQs6BDAK2ZZ",
+        "name": "Dance Me to the End of Love"
+      },
       "duration_ms": 280626,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "6I58qJMqZHhb8jtNT3CuJB",
+      "album": {
+        "id": "6I58qJMqZHhb8jtNT3CuJB",
+        "name": "Various Positions",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c56267153920f9c0df36c5b"
+      },
       "release_date": "1984-12-11",
       "popularity": 61
     },
     {
-      "trackId": "5JgS0FY22HtNpFAJTo507k",
-      "name": "Sherry Darling",
+      "track": {
+        "id": "5JgS0FY22HtNpFAJTo507k",
+        "name": "Sherry Darling"
+      },
       "duration_ms": 243173,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "6YNIEeDWqC09YIWzhoSVLg",
+      "album": {
+        "id": "6YNIEeDWqC09YIWzhoSVLg",
+        "name": "The River",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e987064364e2b62ae1925b4"
+      },
       "release_date": "1980-10-17",
       "popularity": 50
     },
     {
-      "trackId": "1HzDhHApjdjXPLHF6GGYhu",
-      "name": "Wish You Were Here",
+      "track": {
+        "id": "1HzDhHApjdjXPLHF6GGYhu",
+        "name": "Wish You Were Here"
+      },
       "duration_ms": 321080,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "15Tc3f1XzDKLodDXDELISe",
+      "album": {
+        "id": "15Tc3f1XzDKLodDXDELISe",
+        "name": "A Collection Of Great Dance Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3ca136e83344321ebd3de01"
+      },
       "release_date": "1981-11-01",
       "popularity": 68
     },
     {
-      "trackId": "15f8Cv8RXUlOOCIf2oaceN",
-      "name": "Underneath Your Clothes",
+      "track": {
+        "id": "15f8Cv8RXUlOOCIf2oaceN",
+        "name": "Underneath Your Clothes"
+      },
       "duration_ms": 224066,
-      "artist": [
-        "Shakira"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp"
-      ],
-      "albumId": "4DyMK9x2gnmRkRa16zHaEV",
+      "album": {
+        "id": "4DyMK9x2gnmRkRa16zHaEV",
+        "name": "Laundry Service",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f"
+      },
       "release_date": "2001-11-13",
       "popularity": 65
     },
     {
-      "trackId": "56C8jz11WNH1PM677aq6ez",
-      "name": "Levva Livet",
+      "track": {
+        "id": "56C8jz11WNH1PM677aq6ez",
+        "name": "Levva Livet"
+      },
       "duration_ms": 274053,
-      "artist": [
-        "Åge Aleksandersen"
+      "artists": [
+        {
+          "name": "Åge Aleksandersen",
+          "id": "08H8B226x5IRKwbm8TD8bz"
+        }
       ],
-      "artistId": [
-        "08H8B226x5IRKwbm8TD8bz"
-      ],
-      "albumId": "00m8339CymX4adXiATrT7e",
+      "album": {
+        "id": "00m8339CymX4adXiATrT7e",
+        "name": "Levva Livet!",
+        "img": "https://i.scdn.co/image/ab67616d00001e021612581c83dce132b19f3549"
+      },
       "release_date": "1984-01-01",
       "popularity": 47
     }

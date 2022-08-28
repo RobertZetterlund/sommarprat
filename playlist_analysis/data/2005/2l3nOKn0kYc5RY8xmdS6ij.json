@@ -7,218 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3235538_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2mSQR8vGRBVkdFNGLw3kYN",
-      "name": "Old Joe's Place",
+      "track": {
+        "id": "2mSQR8vGRBVkdFNGLw3kYN",
+        "name": "Old Joe's Place"
+      },
       "duration_ms": 129693,
-      "artist": [
-        "The Folksmen"
+      "artists": [
+        {
+          "name": "The Folksmen",
+          "id": "2W0XMztLyIICUP9ihjh27Y"
+        }
       ],
-      "artistId": [
-        "2W0XMztLyIICUP9ihjh27Y"
-      ],
-      "albumId": "6UQ5rwVeqjJw6VzYm5Jifu",
+      "album": {
+        "id": "6UQ5rwVeqjJw6VzYm5Jifu",
+        "name": "A Mighty Wind - The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1264927c7705d1c340a9fd1"
+      },
       "release_date": "2003-04-08",
       "popularity": 27
     },
     {
-      "trackId": "0rmEOQf1gNkGqqpvFSptFp",
-      "name": "Moses",
+      "track": {
+        "id": "0rmEOQf1gNkGqqpvFSptFp",
+        "name": "Moses"
+      },
       "duration_ms": 186800,
-      "artist": [
-        "Gene Kelly",
-        "Donald O'Connor"
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "id": "1mhlGWeiNrWnhJJc2EufYk"
+        },
+        {
+          "name": "Donald O'Connor",
+          "id": "6JGPCu8A5iBnvYuGx5vKP0"
+        }
       ],
-      "artistId": [
-        "1mhlGWeiNrWnhJJc2EufYk",
-        "6JGPCu8A5iBnvYuGx5vKP0"
-      ],
-      "albumId": "21BM0AFtpOMPdrcvo66TNK",
+      "album": {
+        "id": "21BM0AFtpOMPdrcvo66TNK",
+        "name": "Singin' in the Rain (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0dc19d598c78422ea87197b"
+      },
       "release_date": "1952-04-11",
       "popularity": 32
     },
     {
-      "trackId": "7u4YQjStl7ywjfbxwHX8Qt",
-      "name": "FREEDOM",
+      "track": {
+        "id": "7u4YQjStl7ywjfbxwHX8Qt",
+        "name": "FREEDOM"
+      },
       "duration_ms": 210482,
-      "artist": [
-        "Mathieu Hauguel"
+      "artists": [
+        {
+          "name": "Mathieu Hauguel",
+          "id": "1jkw8YCZEnB1oQtubs4Xqj"
+        }
       ],
-      "artistId": [
-        "1jkw8YCZEnB1oQtubs4Xqj"
-      ],
-      "albumId": "08LGEMzC8F0PlXknF4sDjJ",
+      "album": {
+        "id": "08LGEMzC8F0PlXknF4sDjJ",
+        "name": "FREEDOM",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c5af5619b3fa77550e00a6b"
+      },
       "release_date": "2020-07-17",
       "popularity": 48
     },
     {
-      "trackId": "06ZLGQTpzCtrMQowxtyqrE",
-      "name": "The Hula Hoop",
+      "track": {
+        "id": "06ZLGQTpzCtrMQowxtyqrE",
+        "name": "The Hula Hoop"
+      },
       "duration_ms": 253933,
-      "artist": [
-        "Carter Burwell"
+      "artists": [
+        {
+          "name": "Carter Burwell",
+          "id": "0SbSDzM4X41hnlURed0fcV"
+        }
       ],
-      "artistId": [
-        "0SbSDzM4X41hnlURed0fcV"
-      ],
-      "albumId": "6GGzM4SqlMipF81W7ynXc4",
+      "album": {
+        "id": "6GGzM4SqlMipF81W7ynXc4",
+        "name": "The Hudsucker Proxy (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026bb88e35d64467241b1766f4"
+      },
       "release_date": "1994-01-01",
       "popularity": 8
     },
     {
-      "trackId": "1B8gHZn17WMEWS119s3M5c",
-      "name": "The More We Are Together",
+      "track": {
+        "id": "1B8gHZn17WMEWS119s3M5c",
+        "name": "The More We Are Together"
+      },
       "duration_ms": 101014,
-      "artist": [
-        "Russ Conway"
+      "artists": [
+        {
+          "name": "Russ Conway",
+          "id": "3CH93c2rBMyBq9eeWBCQ60"
+        }
       ],
-      "artistId": [
-        "3CH93c2rBMyBq9eeWBCQ60"
-      ],
-      "albumId": "62rpRurXIIN6jP57TZFLFh",
+      "album": {
+        "id": "62rpRurXIIN6jP57TZFLFh",
+        "name": "Happy Days",
+        "img": "https://i.scdn.co/image/ab67616d00001e02269dfb177192c689bdf36544"
+      },
       "release_date": "2000-01-01",
       "popularity": 13
     },
     {
-      "trackId": "1FL9DHDSED6lxNMDJUJQvB",
-      "name": "The Model - 2009 Remaster",
+      "track": {
+        "id": "1FL9DHDSED6lxNMDJUJQvB",
+        "name": "The Model - 2009 Remaster"
+      },
       "duration_ms": 220533,
-      "artist": [
-        "Kraftwerk"
+      "artists": [
+        {
+          "name": "Kraftwerk",
+          "id": "0dmPX6ovclgOy8WWJaFEUU"
+        }
       ],
-      "artistId": [
-        "0dmPX6ovclgOy8WWJaFEUU"
-      ],
-      "albumId": "3eyz60xEK5dGEeZF1JJSi9",
+      "album": {
+        "id": "3eyz60xEK5dGEeZF1JJSi9",
+        "name": "The Man-Machine (2009 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4c3295cd6464ed5bc0f6c2c"
+      },
       "release_date": "1978",
       "popularity": 59
     },
     {
-      "trackId": "1jcPcDu2YawPfLhwjYnqK2",
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "track": {
+        "id": "1jcPcDu2YawPfLhwjYnqK2",
+        "name": "Everybody's Talkin' - From \"Midnight Cowboy\""
+      },
       "duration_ms": 163586,
-      "artist": [
-        "Harry Nilsson"
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "id": "3RTzAwFprBqiskp550eSJX"
+        }
       ],
-      "artistId": [
-        "3RTzAwFprBqiskp550eSJX"
-      ],
-      "albumId": "0H3v4snD6xhworsjXndsai",
+      "album": {
+        "id": "0H3v4snD6xhworsjXndsai",
+        "name": "Aerial Ballet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268e7f5a59fab864e46d85117"
+      },
       "release_date": "1968-07-01",
       "popularity": 66
     },
     {
-      "trackId": "7v2seeSwl70RQAdwC3NZa2",
-      "name": "Star Wars: Here They Come - From \"Star Wars\"",
+      "track": {
+        "id": "7v2seeSwl70RQAdwC3NZa2",
+        "name": "Star Wars: Here They Come - From \"Star Wars\""
+      },
       "duration_ms": 127360,
-      "artist": [
-        "John Williams"
+      "artists": [
+        {
+          "name": "John Williams",
+          "id": "3dRfiJ2650SZu6GbydcHNb"
+        }
       ],
-      "artistId": [
-        "3dRfiJ2650SZu6GbydcHNb"
-      ],
-      "albumId": "34aG4T23LTg4GrobVK62w0",
+      "album": {
+        "id": "34aG4T23LTg4GrobVK62w0",
+        "name": "The Star Wars Trilogy (Return of the Jedi / The Empire Strikes Back / Star Wars)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8b108935387909d5ccec3e9"
+      },
       "release_date": "1983-01-01",
       "popularity": 12
     },
     {
-      "trackId": "5HSQrxAolp41qhVXug3GZn",
-      "name": "Lady Gwendoline",
+      "track": {
+        "id": "5HSQrxAolp41qhVXug3GZn",
+        "name": "Lady Gwendoline"
+      },
       "duration_ms": 184066,
-      "artist": [
-        "Metro Jets"
+      "artists": [
+        {
+          "name": "Metro Jets",
+          "id": "0LB1ANWAyRFybFBqvjm3C0"
+        }
       ],
-      "artistId": [
-        "0LB1ANWAyRFybFBqvjm3C0"
-      ],
-      "albumId": "5T9wOlxhOuUUmsWo4kPrQs",
+      "album": {
+        "id": "5T9wOlxhOuUUmsWo4kPrQs",
+        "name": "Lady Gwendoline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f215a7ac0657791db4c8a44e"
+      },
       "release_date": "2005-04-19",
       "popularity": 0
     },
     {
-      "trackId": "7F9lLTeucwiB7p5CzFzFyC",
-      "name": "Bruces' Philosophers' Song",
+      "track": {
+        "id": "7F9lLTeucwiB7p5CzFzFyC",
+        "name": "Bruces' Philosophers' Song"
+      },
       "duration_ms": 54493,
-      "artist": [
-        "Monty Python"
+      "artists": [
+        {
+          "name": "Monty Python",
+          "id": "5IxfhXIHjAOAqibxl90NZO"
+        }
       ],
-      "artistId": [
-        "5IxfhXIHjAOAqibxl90NZO"
-      ],
-      "albumId": "57awupvncNEIad7j0lkOuT",
+      "album": {
+        "id": "57awupvncNEIad7j0lkOuT",
+        "name": "Monty Python Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a012346ea07d0b1d6fc22a87"
+      },
       "release_date": "1989-01-01",
       "popularity": 27
     },
     {
-      "trackId": "2ayFsCGIRvZGZqyDZwXnve",
-      "name": "Georgia on a Fast Train",
+      "track": {
+        "id": "2ayFsCGIRvZGZqyDZwXnve",
+        "name": "Georgia on a Fast Train"
+      },
       "duration_ms": 184173,
-      "artist": [
-        "BR549"
+      "artists": [
+        {
+          "name": "BR549",
+          "id": "6h72WuqMdodzUIZGS0YEyU"
+        }
       ],
-      "artistId": [
-        "6h72WuqMdodzUIZGS0YEyU"
-      ],
-      "albumId": "0y1VUVLheODVDEcfqfpFMw",
+      "album": {
+        "id": "0y1VUVLheODVDEcfqfpFMw",
+        "name": "The Best Of BR5-49: It Ain't Bad For Work If You Gotta Have A Job'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9edb6e9f2257723acc11ce3"
+      },
       "release_date": "2002-08-15",
       "popularity": 11
     },
     {
-      "trackId": "3hxoYmSHzIBwSS2bPTOfbg",
-      "name": "Misread",
+      "track": {
+        "id": "3hxoYmSHzIBwSS2bPTOfbg",
+        "name": "Misread"
+      },
       "duration_ms": 188400,
-      "artist": [
-        "Kings of Convenience"
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "id": "41AbNVba2ccpmcc9QtOJE7"
+        }
       ],
-      "artistId": [
-        "41AbNVba2ccpmcc9QtOJE7"
-      ],
-      "albumId": "5QE8eXeN0q8M7atLb1fT6c",
+      "album": {
+        "id": "5QE8eXeN0q8M7atLb1fT6c",
+        "name": "Riot On An Empty Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d71c263a42991967290401af"
+      },
       "release_date": "2004-01-01",
       "popularity": 62
     },
     {
-      "trackId": "2sOncurUkrw3CYWliyxYSU",
-      "name": "A Quiet Place",
+      "track": {
+        "id": "2sOncurUkrw3CYWliyxYSU",
+        "name": "A Quiet Place"
+      },
       "duration_ms": 148901,
-      "artist": [
-        "North West Trio"
+      "artists": [
+        {
+          "name": "North West Trio",
+          "id": "6xEHf5bkAwi6XDbFwRwUpa"
+        }
       ],
-      "artistId": [
-        "6xEHf5bkAwi6XDbFwRwUpa"
-      ],
-      "albumId": "6pJy7KHyUogF78gFgqQOgu",
+      "album": {
+        "id": "6pJy7KHyUogF78gFgqQOgu",
+        "name": "A Quiet Place",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257703ee5a5881d585c85fc47"
+      },
       "release_date": "2022-04-08",
       "popularity": 55
     },
     {
-      "trackId": "674ev53U6uqmPYh57v3frd",
-      "name": "Ding Dong",
+      "track": {
+        "id": "674ev53U6uqmPYh57v3frd",
+        "name": "Ding Dong"
+      },
       "duration_ms": 191093,
-      "artist": [
-        "Nellie McKay"
+      "artists": [
+        {
+          "name": "Nellie McKay",
+          "id": "1GFVkK9DUecapOZv2HzpiN"
+        }
       ],
-      "artistId": [
-        "1GFVkK9DUecapOZv2HzpiN"
-      ],
-      "albumId": "5KWmQGPy243qTM8IQAAZTe",
+      "album": {
+        "id": "5KWmQGPy243qTM8IQAAZTe",
+        "name": "Get Away From Me (Clean)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028de8f7fe44a4e328b3fdbdc7"
+      },
       "release_date": "2004",
       "popularity": 13
     },
     {
-      "trackId": "3fyGxiNw7KY2m6Y39OCT5a",
-      "name": "Raiders March - From \"Indiana Jones and the Raiders of the Lost Ark\"",
+      "track": {
+        "id": "3fyGxiNw7KY2m6Y39OCT5a",
+        "name": "Raiders March - From \"Indiana Jones and the Raiders of the Lost Ark\""
+      },
       "duration_ms": 344831,
-      "artist": [
-        "John Williams",
-        "Anne-Sophie Mutter",
-        "Wiener Philharmoniker"
+      "artists": [
+        {
+          "name": "John Williams",
+          "id": "3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "id": "6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        }
       ],
-      "artistId": [
-        "3dRfiJ2650SZu6GbydcHNb",
-        "6pzfUmBsQAKxOhy0NSi8zn",
-        "003f4bk13c6Q3gAUXv7dGJ"
-      ],
-      "albumId": "0hrFuFzbvw67pvTBzobhjn",
+      "album": {
+        "id": "0hrFuFzbvw67pvTBzobhjn",
+        "name": "John Williams: Movie Soundtracks",
+        "img": "https://i.scdn.co/image/ab67616d00001e02743508461614e2933b920c6a"
+      },
       "release_date": "2022-08-02",
       "popularity": 19
     }

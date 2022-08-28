@@ -7,162 +7,234 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/603ce6dc-a251-4bf8-8fa1-9ea87db5f20b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6qUEOWqOzu1rLPUPQ1ECpx",
-      "name": "Walk This Way (feat. Aerosmith)",
+      "track": {
+        "id": "6qUEOWqOzu1rLPUPQ1ECpx",
+        "name": "Walk This Way (feat. Aerosmith)"
+      },
       "duration_ms": 310386,
-      "artist": [
-        "Run–D.M.C.",
-        "Aerosmith"
+      "artists": [
+        {
+          "name": "Run–D.M.C.",
+          "id": "3CQIn7N5CuRDP8wEI7FiDA"
+        },
+        {
+          "name": "Aerosmith",
+          "id": "7Ey4PD4MYsKc5I2dolUwbH"
+        }
       ],
-      "artistId": [
-        "3CQIn7N5CuRDP8wEI7FiDA",
-        "7Ey4PD4MYsKc5I2dolUwbH"
-      ],
-      "albumId": "7AFsTiojVaB2I58oZ1tMRg",
+      "album": {
+        "id": "7AFsTiojVaB2I58oZ1tMRg",
+        "name": "Raising Hell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02894ae4df775c6b47438991af"
+      },
       "release_date": "1986-05-15",
       "popularity": 70
     },
     {
-      "trackId": "4uyFjWMyqAumncuD8ALIHO",
-      "name": "Från dag ett till graven",
+      "track": {
+        "id": "4uyFjWMyqAumncuD8ALIHO",
+        "name": "Från dag ett till graven"
+      },
       "duration_ms": 135789,
-      "artist": [
-        "Johan Alander"
+      "artists": [
+        {
+          "name": "Johan Alander",
+          "id": "7Ld7BfvSTP2nIzn6UAuVYd"
+        }
       ],
-      "artistId": [
-        "7Ld7BfvSTP2nIzn6UAuVYd"
-      ],
-      "albumId": "23R3jmIcX9fJoApKP5Bq1O",
+      "album": {
+        "id": "23R3jmIcX9fJoApKP5Bq1O",
+        "name": "Punkt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b66dc1cb90cf316297cb7b0f"
+      },
       "release_date": "2011-11-03",
       "popularity": 25
     },
     {
-      "trackId": "5qxChyzKLEyoPJ5qGrdurN",
-      "name": "No Sleep Till Brooklyn",
+      "track": {
+        "id": "5qxChyzKLEyoPJ5qGrdurN",
+        "name": "No Sleep Till Brooklyn"
+      },
       "duration_ms": 246933,
-      "artist": [
-        "Beastie Boys"
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "id": "03r4iKL2g2442PT9n2UKsx"
+        }
       ],
-      "artistId": [
-        "03r4iKL2g2442PT9n2UKsx"
-      ],
-      "albumId": "11oR0ZuqB3ucZwb5TGbZxb",
+      "album": {
+        "id": "11oR0ZuqB3ucZwb5TGbZxb",
+        "name": "Licensed To Ill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7ea08ab3914c5fb2084a8ac"
+      },
       "release_date": "1986-11-15",
       "popularity": 67
     },
     {
-      "trackId": "3rINKmrSbky6jUVEvNtIX8",
-      "name": "You're In The Army Now - Status Quo In Concert",
+      "track": {
+        "id": "3rINKmrSbky6jUVEvNtIX8",
+        "name": "You're In The Army Now - Status Quo In Concert"
+      },
       "duration_ms": 249546,
-      "artist": [
-        "Status Quo"
+      "artists": [
+        {
+          "name": "Status Quo",
+          "id": "4gIdjgLlvgEOz7MexDZzpM"
+        }
       ],
-      "artistId": [
-        "4gIdjgLlvgEOz7MexDZzpM"
-      ],
-      "albumId": "5Nx780igKtyoLCLAxPorqE",
+      "album": {
+        "id": "5Nx780igKtyoLCLAxPorqE",
+        "name": "Live At The BBC",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227221ab2b9a9e425c266c352"
+      },
       "release_date": "2010-01-01",
       "popularity": 35
     },
     {
-      "trackId": "4bpqcGVSveDZ5E3rgr9v2y",
-      "name": "Sommar och sol",
+      "track": {
+        "id": "4bpqcGVSveDZ5E3rgr9v2y",
+        "name": "Sommar och sol"
+      },
       "duration_ms": 192973,
-      "artist": [
-        "Markoolio"
+      "artists": [
+        {
+          "name": "Markoolio",
+          "id": "0cAOG10Gh3ORpBRZ9c7Zam"
+        }
       ],
-      "artistId": [
-        "0cAOG10Gh3ORpBRZ9c7Zam"
-      ],
-      "albumId": "1tr1spUupX5qRCMERn63fu",
+      "album": {
+        "id": "1tr1spUupX5qRCMERn63fu",
+        "name": "Sticker hårt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02602c6ce198a325b301ad2fad"
+      },
       "release_date": "1998-10-22",
       "popularity": 48
     },
     {
-      "trackId": "3738tCahYZhJR7RfEyEyGJ",
-      "name": "You're Just What I Needed",
+      "track": {
+        "id": "3738tCahYZhJR7RfEyEyGJ",
+        "name": "You're Just What I Needed"
+      },
       "duration_ms": 207173,
-      "artist": [
-        "Chubby Checker"
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "id": "7qQJQ3YtcGlqaLg5tcypN2"
+        }
       ],
-      "artistId": [
-        "7qQJQ3YtcGlqaLg5tcypN2"
-      ],
-      "albumId": "3vtsOWkMNFJ7nZ6ZWaO3Ns",
+      "album": {
+        "id": "3vtsOWkMNFJ7nZ6ZWaO3Ns",
+        "name": "The Texas Twist with Texas Radio",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f09d3401626a0bc482928ec1"
+      },
       "release_date": "1994",
       "popularity": 15
     },
     {
-      "trackId": "5ZIrsh5ORurJjWwhPLapqU",
-      "name": "Ego",
+      "track": {
+        "id": "5ZIrsh5ORurJjWwhPLapqU",
+        "name": "Ego"
+      },
       "duration_ms": 152640,
-      "artist": [
-        "Emil Assergård"
+      "artists": [
+        {
+          "name": "Emil Assergård",
+          "id": "3fpHdW8mp95bOCzRLcauZm"
+        }
       ],
-      "artistId": [
-        "3fpHdW8mp95bOCzRLcauZm"
-      ],
-      "albumId": "49NPGneqAPa2L8NoOUqWsm",
+      "album": {
+        "id": "49NPGneqAPa2L8NoOUqWsm",
+        "name": "Skön",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e38c7ed70115a8e735e4794b"
+      },
       "release_date": "2015-04-29",
       "popularity": 50
     },
     {
-      "trackId": "7L3b6iaVhDVjfo52Hbvh9Z",
-      "name": "Edge of Seventeen - 2016 Remaster",
+      "track": {
+        "id": "7L3b6iaVhDVjfo52Hbvh9Z",
+        "name": "Edge of Seventeen - 2016 Remaster"
+      },
       "duration_ms": 329413,
-      "artist": [
-        "Stevie Nicks"
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "id": "7crPfGd2k81ekOoSqQKWWz"
+        }
       ],
-      "artistId": [
-        "7crPfGd2k81ekOoSqQKWWz"
-      ],
-      "albumId": "0IomjU2bXFng4LQBYn7Het",
+      "album": {
+        "id": "0IomjU2bXFng4LQBYn7Het",
+        "name": "Bella Donna (2016 Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af14d74d5e308ce2f3ec22f8"
+      },
       "release_date": "1981-07-27",
       "popularity": 69
     },
     {
-      "trackId": "53TW8f8wxjFtJzItVUPDwZ",
-      "name": "Jag orkar inte mer",
+      "track": {
+        "id": "53TW8f8wxjFtJzItVUPDwZ",
+        "name": "Jag orkar inte mer"
+      },
       "duration_ms": 168989,
-      "artist": [
-        "Jens Hult",
-        "Rosa Kvartetten",
-        "Jessie Langhard"
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "id": "0BL04H8MiD3g762tT3lQXu"
+        },
+        {
+          "name": "Rosa Kvartetten",
+          "id": "1McTGEanwWxllzbxofLPNE"
+        },
+        {
+          "name": "Jessie Langhard",
+          "id": "1YljL6ib4NUYoSBkj7VrA9"
+        }
       ],
-      "artistId": [
-        "0BL04H8MiD3g762tT3lQXu",
-        "1McTGEanwWxllzbxofLPNE",
-        "1YljL6ib4NUYoSBkj7VrA9"
-      ],
-      "albumId": "6DboHceAVeTRwqwa9LQz64",
+      "album": {
+        "id": "6DboHceAVeTRwqwa9LQz64",
+        "name": "Jag orkar inte mer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3728883b7bba4d706f6f578"
+      },
       "release_date": "2018-07-12",
       "popularity": 23
     },
     {
-      "trackId": "5I17rGCM1Zn4J9puVHTh8X",
-      "name": "Håll mitt hjärta (Same Old Story)",
+      "track": {
+        "id": "5I17rGCM1Zn4J9puVHTh8X",
+        "name": "Håll mitt hjärta (Same Old Story)"
+      },
       "duration_ms": 261600,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6ikkPeJhCsStZUcEECJX6e",
+      "album": {
+        "id": "6ikkPeJhCsStZUcEECJX6e",
+        "name": "Ingen Annan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247eba23a799e35950fd983de"
+      },
       "release_date": "2002",
       "popularity": 40
     },
     {
-      "trackId": "1x60viiRxgsaJjBVCh1DPt",
-      "name": "Dissen Terry (Shiavo)",
+      "track": {
+        "id": "1x60viiRxgsaJjBVCh1DPt",
+        "name": "Dissen Terry (Shiavo)"
+      },
       "duration_ms": 552960,
-      "artist": [
-        "The Family Riot"
+      "artists": [
+        {
+          "name": "The Family Riot",
+          "id": "0UJlGkVeTqqrMeFTXdQ3ft"
+        }
       ],
-      "artistId": [
-        "0UJlGkVeTqqrMeFTXdQ3ft"
-      ],
-      "albumId": "2SUQZznWZ7syNfvyoS1a6l",
+      "album": {
+        "id": "2SUQZznWZ7syNfvyoS1a6l",
+        "name": "Dystopian Ditties",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c54a1da3c10a00761df63c1"
+      },
       "release_date": "2008-04-05",
       "popularity": 0
     }

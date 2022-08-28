@@ -7,118 +7,170 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344622_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "49v9PsIst1T5n0oz0rjYCQ",
-      "name": "Mister T",
+      "track": {
+        "id": "49v9PsIst1T5n0oz0rjYCQ",
+        "name": "Mister T"
+      },
       "duration_ms": 221428,
-      "artist": [
-        "DUCKEONE"
+      "artists": [
+        {
+          "name": "DUCKEONE",
+          "id": "71dM0Hmzup3y2hGQOoQyUV"
+        }
       ],
-      "artistId": [
-        "71dM0Hmzup3y2hGQOoQyUV"
-      ],
-      "albumId": "1OoN3FSA0dnJpLMFT8eWgX",
+      "album": {
+        "id": "1OoN3FSA0dnJpLMFT8eWgX",
+        "name": "Mister T",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaf676de66391fab5bb0be67"
+      },
       "release_date": "2019-11-10",
       "popularity": 13
     },
     {
-      "trackId": "08bjJuoHJwfTnjNcuENOFz",
-      "name": "Gubben i lådan",
+      "track": {
+        "id": "08bjJuoHJwfTnjNcuENOFz",
+        "name": "Gubben i lådan"
+      },
       "duration_ms": 230160,
-      "artist": [
-        "Daniel Adams-Ray"
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "id": "4C86wrjOUfXQDlt6A4oJOC"
+        }
       ],
-      "artistId": [
-        "4C86wrjOUfXQDlt6A4oJOC"
-      ],
-      "albumId": "3hClEYx89ixWVoEoQI87uC",
+      "album": {
+        "id": "3hClEYx89ixWVoEoQI87uC",
+        "name": "Svart, vitt och allt däremellan",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e562cc9d7ab7cd92c2a478c"
+      },
       "release_date": "2010-01-01",
       "popularity": 56
     },
     {
-      "trackId": "3v6peK2HFNhxhWHjA1IEsA",
-      "name": "Sthlm city",
+      "track": {
+        "id": "3v6peK2HFNhxhWHjA1IEsA",
+        "name": "Sthlm city"
+      },
       "duration_ms": 274933,
-      "artist": [
-        "Ken Ring"
+      "artists": [
+        {
+          "name": "Ken Ring",
+          "id": "2yMJGKSRgxIniMnq30FAzX"
+        }
       ],
-      "artistId": [
-        "2yMJGKSRgxIniMnq30FAzX"
-      ],
-      "albumId": "3u6A5aKh7iiFANHfSKA1G2",
+      "album": {
+        "id": "3u6A5aKh7iiFANHfSKA1G2",
+        "name": "Äntligen Hemma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd1e22cfdd7b8237eebe0a5a"
+      },
       "release_date": "2007-10-24",
       "popularity": 23
     },
     {
-      "trackId": "1z667LebVh3DtYNrVJEao0",
-      "name": "All the Above (feat. T-Pain)",
+      "track": {
+        "id": "1z667LebVh3DtYNrVJEao0",
+        "name": "All the Above (feat. T-Pain)"
+      },
       "duration_ms": 319940,
-      "artist": [
-        "Maino",
-        "T-Pain"
+      "artists": [
+        {
+          "name": "Maino",
+          "id": "20apXQGKM00jJTvYfyKwlb"
+        },
+        {
+          "name": "T-Pain",
+          "id": "3aQeKQSyrW4qWr35idm0cy"
+        }
       ],
-      "artistId": [
-        "20apXQGKM00jJTvYfyKwlb",
-        "3aQeKQSyrW4qWr35idm0cy"
-      ],
-      "albumId": "1BdMI18B8ZnoHNAYwx8h8h",
+      "album": {
+        "id": "1BdMI18B8ZnoHNAYwx8h8h",
+        "name": "If Tomorrow Comes...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d365183f20a7edea176cf4c2"
+      },
       "release_date": "2009-06-26",
       "popularity": 60
     },
     {
-      "trackId": "2DY1pnJebnxwoRhmFumPrs",
-      "name": "Het Legioen",
+      "track": {
+        "id": "2DY1pnJebnxwoRhmFumPrs",
+        "name": "Het Legioen"
+      },
       "duration_ms": 244556,
-      "artist": [
-        "U-niq",
-        "Winne"
+      "artists": [
+        {
+          "name": "U-niq",
+          "id": "15cp217nCdrUbiZ2m7wyAb"
+        },
+        {
+          "name": "Winne",
+          "id": "5cMMheSnLhCt0YdwFkp3R9"
+        }
       ],
-      "artistId": [
-        "15cp217nCdrUbiZ2m7wyAb",
-        "5cMMheSnLhCt0YdwFkp3R9"
-      ],
-      "albumId": "6YiqJQeWcMcKSPEp1KHP8F",
+      "album": {
+        "id": "6YiqJQeWcMcKSPEp1KHP8F",
+        "name": "Het Legioen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202ac00b1d91f3c39e588a585"
+      },
       "release_date": "2012-02-03",
       "popularity": 17
     },
     {
-      "trackId": "5DiXcVovI0FcY2s0icWWUu",
-      "name": "Mr. Jones",
+      "track": {
+        "id": "5DiXcVovI0FcY2s0icWWUu",
+        "name": "Mr. Jones"
+      },
       "duration_ms": 272293,
-      "artist": [
-        "Counting Crows"
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "id": "0vEsuISMWAKNctLlUAhSZC"
+        }
       ],
-      "artistId": [
-        "0vEsuISMWAKNctLlUAhSZC"
-      ],
-      "albumId": "4nKfZbCALT9H9LfedtDwnZ",
+      "album": {
+        "id": "4nKfZbCALT9H9LfedtDwnZ",
+        "name": "August And Everything After",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e09670f90cd47b3fb9a23e0"
+      },
       "release_date": "1993-01-01",
       "popularity": 77
     },
     {
-      "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "track": {
+        "id": "5Z01UMMf7V1o0MzF86s6WJ",
+        "name": "Lose Yourself - From \"8 Mile\" Soundtrack"
+      },
       "duration_ms": 326466,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "5qENHeCSlwWpEzb25peRmQ",
+      "album": {
+        "id": "5qENHeCSlwWpEzb25peRmQ",
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578"
+      },
       "release_date": "2005-12-06",
       "popularity": 76
     },
     {
-      "trackId": "1bwTzEAezW18cw6m6kYPoa",
-      "name": "Varning För mig",
+      "track": {
+        "id": "1bwTzEAezW18cw6m6kYPoa",
+        "name": "Varning För mig"
+      },
       "duration_ms": 208306,
-      "artist": [
-        "Medina"
+      "artists": [
+        {
+          "name": "Medina",
+          "id": "3HbP7OfT7PCV0BrR0ReUkC"
+        }
       ],
-      "artistId": [
-        "3HbP7OfT7PCV0BrR0ReUkC"
-      ],
-      "albumId": "22r32tk5aFnlrpfz83iywY",
+      "album": {
+        "id": "22r32tk5aFnlrpfz83iywY",
+        "name": "This Is Swedish Hip Hop Evolution",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb"
+      },
       "release_date": "2010-09-21",
       "popularity": 3
     }

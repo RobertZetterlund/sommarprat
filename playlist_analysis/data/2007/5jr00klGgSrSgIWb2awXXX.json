@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257917_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5jRQvcl66ovRTjUwzXziZA",
-      "name": "Midnight Special",
+      "track": {
+        "id": "5jRQvcl66ovRTjUwzXziZA",
+        "name": "Midnight Special"
+      },
       "duration_ms": 253866,
-      "artist": [
-        "Creedence Clearwater Revival"
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": "3IYUhFvPQItj6xySrBmZkd"
+        }
       ],
-      "artistId": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ],
-      "albumId": "31q47gQszFt0CddSyMksgO",
+      "album": {
+        "id": "31q47gQszFt0CddSyMksgO",
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f39192f9f8ca1c90847b3e5"
+      },
       "release_date": "1969-11-02",
       "popularity": 63
     },
     {
-      "trackId": "4SMIE6Xjf9iidrP9GJyRXm",
-      "name": "Hanna",
+      "track": {
+        "id": "4SMIE6Xjf9iidrP9GJyRXm",
+        "name": "Hanna"
+      },
       "duration_ms": 208573,
-      "artist": [
-        "Perssons Pack"
+      "artists": [
+        {
+          "name": "Perssons Pack",
+          "id": "0H8GJ568lnrhJZRqqeroUa"
+        }
       ],
-      "artistId": [
-        "0H8GJ568lnrhJZRqqeroUa"
-      ],
-      "albumId": "1fUmdemu6gk6uBDqsQo0tB",
+      "album": {
+        "id": "1fUmdemu6gk6uBDqsQo0tB",
+        "name": "Kärlek och dynamit",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a7a3ccf7e41071944bf8d86"
+      },
       "release_date": "1989-01-01",
       "popularity": 18
     },
     {
-      "trackId": "1UCucONXG3CVtKzrN2MQFH",
-      "name": "Since I Met You Baby",
+      "track": {
+        "id": "1UCucONXG3CVtKzrN2MQFH",
+        "name": "Since I Met You Baby"
+      },
       "duration_ms": 164400,
-      "artist": [
-        "Dean Martin"
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "id": "49e4v89VmlDcFCMyDv9wQ9"
+        }
       ],
-      "artistId": [
-        "49e4v89VmlDcFCMyDv9wQ9"
-      ],
-      "albumId": "36EvSiyVarGFgUQDX4PaWT",
+      "album": {
+        "id": "36EvSiyVarGFgUQDX4PaWT",
+        "name": "The Nashville Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e025859557887014c76bae52de7"
+      },
       "release_date": "1983-06-15",
-      "popularity": 12
+      "popularity": 11
     },
     {
-      "trackId": "0uZs7p6cbEUNwGMdfNj9Kk",
-      "name": "What's Your Name",
+      "track": {
+        "id": "0uZs7p6cbEUNwGMdfNj9Kk",
+        "name": "What's Your Name"
+      },
       "duration_ms": 213266,
-      "artist": [
-        "Lynyrd Skynyrd"
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "id": "4MVyzYMgTwdP7Z49wAZHx0"
+        }
       ],
-      "artistId": [
-        "4MVyzYMgTwdP7Z49wAZHx0"
-      ],
-      "albumId": "5sG6jJxaUEt2sAjP4HzELy",
+      "album": {
+        "id": "5sG6jJxaUEt2sAjP4HzELy",
+        "name": "Street Survivors",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cc544fe12e6bb1febec85fb"
+      },
       "release_date": "1977-10-17",
       "popularity": 57
     },
     {
-      "trackId": "7jxHeJLVpnP7S08JFF4GBi",
-      "name": "Ciega, Sordomuda",
+      "track": {
+        "id": "7jxHeJLVpnP7S08JFF4GBi",
+        "name": "Ciega, Sordomuda"
+      },
       "duration_ms": 267826,
-      "artist": [
-        "Shakira"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp"
-      ],
-      "albumId": "5hcKSTqKOLuzJgYIQileAe",
+      "album": {
+        "id": "5hcKSTqKOLuzJgYIQileAe",
+        "name": "Donde Estan Los Ladrones",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d"
+      },
       "release_date": "1998-09-29",
       "popularity": 71
     },
     {
-      "trackId": "6kooDsorCpWVMGc994XjWN",
-      "name": "Black Betty",
+      "track": {
+        "id": "6kooDsorCpWVMGc994XjWN",
+        "name": "Black Betty"
+      },
       "duration_ms": 238973,
-      "artist": [
-        "Ram Jam"
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "id": "6FITmSxIMsk6TfulFiCIIz"
+        }
       ],
-      "artistId": [
-        "6FITmSxIMsk6TfulFiCIIz"
-      ],
-      "albumId": "4z2REZpvRsVMpHFrsIz7PD",
+      "album": {
+        "id": "4z2REZpvRsVMpHFrsIz7PD",
+        "name": "Ram Jam",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa5dcfc4b1b99a0598224758"
+      },
       "release_date": "1977-06-20",
       "popularity": 72
     },
     {
-      "trackId": "7bkEKiH9b1zNWBHnpWMXe3",
-      "name": "Cielito lindo",
+      "track": {
+        "id": "7bkEKiH9b1zNWBHnpWMXe3",
+        "name": "Cielito lindo"
+      },
       "duration_ms": 163560,
-      "artist": [
-        "Enrique Iglesias",
-        "Luciano Pavarotti",
-        "Ars Canto G. Verdi"
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "id": "7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Ars Canto G. Verdi",
+          "id": "2nlUKg0hGbfQkhUuyudOgE"
+        }
       ],
-      "artistId": [
-        "7qG3b048QCHVRO5Pv1T5lw",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "2nlUKg0hGbfQkhUuyudOgE"
-      ],
-      "albumId": "4kjm8dDqdPTEq00WFpSl0Q",
+      "album": {
+        "id": "4kjm8dDqdPTEq00WFpSl0Q",
+        "name": "Pavarotti & Friends for Cambodia and Tibet",
+        "img": "https://i.scdn.co/image/ab67616d00001e028307c4f95c34e8acc0f38ed0"
+      },
       "release_date": "2000-01-01",
       "popularity": 32
     },
     {
-      "trackId": "3b6J4YXZN0t1lKfz8DPHd5",
-      "name": "Mi Ranchito - 2016 Remaster",
+      "track": {
+        "id": "3b6J4YXZN0t1lKfz8DPHd5",
+        "name": "Mi Ranchito - 2016 Remaster"
+      },
       "duration_ms": 213880,
-      "artist": [
-        "Linda Ronstadt"
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "id": "1sXbwvCQLGZnaH0Jp2HTVc"
+        }
       ],
-      "artistId": [
-        "1sXbwvCQLGZnaH0Jp2HTVc"
-      ],
-      "albumId": "4eQ264RXsTdWBVKNEGiVnR",
+      "album": {
+        "id": "4eQ264RXsTdWBVKNEGiVnR",
+        "name": "Mas Canciones (2016 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af7306e3e4c30f922b7a702a"
+      },
       "release_date": "1991-11-05",
       "popularity": 33
     },
     {
-      "trackId": "5nw29Miy3QNp3ka5emr7wB",
-      "name": "El Toro Relajo (Con Mariachi)",
+      "track": {
+        "id": "5nw29Miy3QNp3ka5emr7wB",
+        "name": "El Toro Relajo (Con Mariachi)"
+      },
       "duration_ms": 148013,
-      "artist": [
-        "m.m.p"
+      "artists": [
+        {
+          "name": "m.m.p",
+          "id": "1ek295dzloWqIGczlXDenH"
+        }
       ],
-      "artistId": [
-        "1ek295dzloWqIGczlXDenH"
-      ],
-      "albumId": "4TKylcmeuTo4vNFZoqnzvq",
+      "album": {
+        "id": "4TKylcmeuTo4vNFZoqnzvq",
+        "name": "Canta Con Multi Pistas Canta Como Selena Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a73efd65c1f79985e125b9a"
+      },
       "release_date": "2015-05-11",
       "popularity": 0
     },
     {
-      "trackId": "32Gf5A7Hr8RdgggXG0Fdks",
-      "name": "Have You Ever Really Loved A Woman?",
+      "track": {
+        "id": "32Gf5A7Hr8RdgggXG0Fdks",
+        "name": "Have You Ever Really Loved A Woman?"
+      },
       "duration_ms": 291666,
-      "artist": [
-        "Bryan Adams"
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "id": "3Z02hBLubJxuFJfhacLSDc"
+        }
       ],
-      "artistId": [
-        "3Z02hBLubJxuFJfhacLSDc"
-      ],
-      "albumId": "29t8lxRlQIyG4K5Xaydt46",
+      "album": {
+        "id": "29t8lxRlQIyG4K5Xaydt46",
+        "name": "18 Til I Die",
+        "img": "https://i.scdn.co/image/ab67616d00001e02224985553276e439be6640e3"
+      },
       "release_date": "1996-06-04",
       "popularity": 70
     },
     {
-      "trackId": "01xXQbDsWMJVBKOoKWXE8h",
-      "name": "Sway",
+      "track": {
+        "id": "01xXQbDsWMJVBKOoKWXE8h",
+        "name": "Sway"
+      },
       "duration_ms": 190960,
-      "artist": [
-        "The Pussycat Dolls"
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "id": "6wPhSqRtPu1UhRCDX5yaDJ"
+        }
       ],
-      "artistId": [
-        "6wPhSqRtPu1UhRCDX5yaDJ"
-      ],
-      "albumId": "53zV9rZ5yfWgigsmuJtYpG",
+      "album": {
+        "id": "53zV9rZ5yfWgigsmuJtYpG",
+        "name": "PCD",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d9edaa7b844f929a5b2973e"
+      },
       "release_date": "2005-01-01",
       "popularity": 51
     },
     {
-      "trackId": "4N5Z4S5sf6fKS87a21ak7G",
-      "name": "Falsk matematik",
+      "track": {
+        "id": "4N5Z4S5sf6fKS87a21ak7G",
+        "name": "Falsk matematik"
+      },
       "duration_ms": 204560,
-      "artist": [
-        "Peps Blodsband"
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "id": "16qbt9c47JP8oKWOSAycMD"
+        }
       ],
-      "artistId": [
-        "16qbt9c47JP8oKWOSAycMD"
-      ],
-      "albumId": "0SJpnIIeHV2Jv7HxkItIep",
+      "album": {
+        "id": "0SJpnIIeHV2Jv7HxkItIep",
+        "name": "Peps Blodsband",
+        "img": "https://i.scdn.co/image/ab67616d00001e020d769d3b82de08896609f7d1"
+      },
       "release_date": "1974-01-01",
       "popularity": 26
     },
     {
-      "trackId": "0bVtevEgtDIeRjCJbK3Lmv",
-      "name": "Welcome To The Jungle",
+      "track": {
+        "id": "0bVtevEgtDIeRjCJbK3Lmv",
+        "name": "Welcome To The Jungle"
+      },
       "duration_ms": 272026,
-      "artist": [
-        "Guns N' Roses"
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC"
+        }
       ],
-      "artistId": [
-        "3qm84nBOXUEQ2vnTfUTTFC"
-      ],
-      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "album": {
+        "id": "3I9Z1nDCL4E0cP62flcbI5",
+        "name": "Appetite For Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60"
+      },
       "release_date": "1987-07-21",
       "popularity": 79
     }

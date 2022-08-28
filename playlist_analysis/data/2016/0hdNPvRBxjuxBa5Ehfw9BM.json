@@ -7,232 +7,334 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/7abec454-3b8b-4760-9f34-dad41d395e39.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0VxvWd0bJxYcuOLUeWS9Qa",
-      "name": "Lillan står i hagen",
+      "track": {
+        "id": "0VxvWd0bJxYcuOLUeWS9Qa",
+        "name": "Lillan står i hagen"
+      },
       "duration_ms": 260026,
-      "artist": [
-        "Mikael Wiehe & Co"
+      "artists": [
+        {
+          "name": "Mikael Wiehe & Co",
+          "id": "0jTcLcmvuqwds9wUVjoHUb"
+        }
       ],
-      "artistId": [
-        "0jTcLcmvuqwds9wUVjoHUb"
-      ],
-      "albumId": "6l7hLG6yBh5ydKshwQxmpo",
+      "album": {
+        "id": "6l7hLG6yBh5ydKshwQxmpo",
+        "name": "Lindansaren",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc7d71204927dadce6ad51f8"
+      },
       "release_date": "1983-01-01",
       "popularity": 1
     },
     {
-      "trackId": "4FmCUATNIarCQh72JYdvnm",
-      "name": "That's Life",
+      "track": {
+        "id": "4FmCUATNIarCQh72JYdvnm",
+        "name": "That's Life"
+      },
       "duration_ms": 187040,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3gNsjaUsu9cRckgUFx5NsY",
+      "album": {
+        "id": "3gNsjaUsu9cRckgUFx5NsY",
+        "name": "That's Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c21d73934bb9760a2f791a2"
+      },
       "release_date": "1966-11",
       "popularity": 69
     },
     {
-      "trackId": "0vg4WnUWvze6pBOJDTq99k",
-      "name": "You're Beautiful",
+      "track": {
+        "id": "0vg4WnUWvze6pBOJDTq99k",
+        "name": "You're Beautiful"
+      },
       "duration_ms": 209493,
-      "artist": [
-        "James Blunt"
+      "artists": [
+        {
+          "name": "James Blunt",
+          "id": "7KMqksf0UMdyA0UCf4R3ux"
+        }
       ],
-      "artistId": [
-        "7KMqksf0UMdyA0UCf4R3ux"
-      ],
-      "albumId": "1ekaxA9Q5GzUPCepx4wzMF",
+      "album": {
+        "id": "1ekaxA9Q5GzUPCepx4wzMF",
+        "name": "Back to Bedlam",
+        "img": "https://i.scdn.co/image/ab67616d00001e02105f043a4f470cf58cc01ccf"
+      },
       "release_date": "2005-08-08",
       "popularity": 75
     },
     {
-      "trackId": "29SyMC0plk6qw8NMF7lfRL",
-      "name": "You Really Got Me - Mono Mix",
+      "track": {
+        "id": "29SyMC0plk6qw8NMF7lfRL",
+        "name": "You Really Got Me - Mono Mix"
+      },
       "duration_ms": 134253,
-      "artist": [
-        "The Kinks"
+      "artists": [
+        {
+          "name": "The Kinks",
+          "id": "1SQRv42e4PjEYfPhS0Tk9E"
+        }
       ],
-      "artistId": [
-        "1SQRv42e4PjEYfPhS0Tk9E"
-      ],
-      "albumId": "08G3mGQXuHItbbsFAz50gJ",
+      "album": {
+        "id": "08G3mGQXuHItbbsFAz50gJ",
+        "name": "Kinks",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e55d44d1e71dab08c35cc1c"
+      },
       "release_date": "1964-10-02",
       "popularity": 71
     },
     {
-      "trackId": "0DMRKqrpd0QO4RWiEdMib0",
-      "name": "You Know I'm No Good",
+      "track": {
+        "id": "0DMRKqrpd0QO4RWiEdMib0",
+        "name": "You Know I'm No Good"
+      },
       "duration_ms": 257186,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 72
     },
     {
-      "trackId": "2hCUmmNEYmmaZYWXONAx7D",
-      "name": "Flickan och kråkan",
+      "track": {
+        "id": "2hCUmmNEYmmaZYWXONAx7D",
+        "name": "Flickan och kråkan"
+      },
       "duration_ms": 230960,
-      "artist": [
-        "Mikael Wiehe"
+      "artists": [
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        }
       ],
-      "artistId": [
-        "3VOOmK7ZqJNgOPN1hopJuL"
-      ],
-      "albumId": "19yfx3yStZIhIVb99w71RO",
+      "album": {
+        "id": "19yfx3yStZIhIVb99w71RO",
+        "name": "Kråksånger",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e1789d3ac116f80a522e311"
+      },
       "release_date": "1981-01-01",
       "popularity": 42
     },
     {
-      "trackId": "24K64Nrc60SAYUGjZHiJDt",
-      "name": "In einem Polenstädtchen da lebte einst ein Mädchen",
+      "track": {
+        "id": "24K64Nrc60SAYUGjZHiJDt",
+        "name": "In einem Polenstädtchen da lebte einst ein Mädchen"
+      },
       "duration_ms": 181120,
-      "artist": [
-        "Die Globetrotters"
+      "artists": [
+        {
+          "name": "Die Globetrotters",
+          "id": "4OesBV31dxwrLk5bY5Qrz4"
+        }
       ],
-      "artistId": [
-        "4OesBV31dxwrLk5bY5Qrz4"
-      ],
-      "albumId": "0a3FUHLU4eukwcOViWLSJA",
+      "album": {
+        "id": "0a3FUHLU4eukwcOViWLSJA",
+        "name": "Zum weinen schön (Vol. 2)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1eb47788cfa8fc7bff1d417"
+      },
       "release_date": "2011-09-30",
       "popularity": 0
     },
     {
-      "trackId": "0P7DoyGrr4Wp9w5TotEtUC",
-      "name": "The Weight - Remastered 2000",
+      "track": {
+        "id": "0P7DoyGrr4Wp9w5TotEtUC",
+        "name": "The Weight - Remastered 2000"
+      },
       "duration_ms": 274493,
-      "artist": [
-        "The Band"
+      "artists": [
+        {
+          "name": "The Band",
+          "id": "4vpDg7Y7fU982Ds30zawDA"
+        }
       ],
-      "artistId": [
-        "4vpDg7Y7fU982Ds30zawDA"
-      ],
-      "albumId": "0ky5kdvfPxSmSpj03hpSAE",
+      "album": {
+        "id": "0ky5kdvfPxSmSpj03hpSAE",
+        "name": "Music From Big Pink (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220bbceac6950d3fe13fa13c3"
+      },
       "release_date": "1968-07-01",
       "popularity": 70
     },
     {
-      "trackId": "7vHshinTU8161w69EPbabY",
-      "name": "Younger - Kygo Remix",
+      "track": {
+        "id": "7vHshinTU8161w69EPbabY",
+        "name": "Younger - Kygo Remix"
+      },
       "duration_ms": 351578,
-      "artist": [
-        "Seinabo Sey",
-        "Kygo"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Kygo",
+          "id": "23fqKkggKUBHNkbKtXEls4"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i",
-        "23fqKkggKUBHNkbKtXEls4"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 65
     },
     {
-      "trackId": "0q3V4AIRPYvL7JlMW2gsFi",
-      "name": "Fröken Julie",
+      "track": {
+        "id": "0q3V4AIRPYvL7JlMW2gsFi",
+        "name": "Fröken Julie"
+      },
       "duration_ms": 223039,
-      "artist": [
-        "Björn Afzelius"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0"
-      ],
-      "albumId": "40FAmHquJvATPdEFWztD9z",
+      "album": {
+        "id": "40FAmHquJvATPdEFWztD9z",
+        "name": "Sång till friheten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02573cdfd9736bf273e48d9b46"
+      },
       "release_date": "2006-11-20",
       "popularity": 14
     },
     {
-      "trackId": "4YXKKnIZuk7UtXH5oC0ffa",
-      "name": "Lucille",
+      "track": {
+        "id": "4YXKKnIZuk7UtXH5oC0ffa",
+        "name": "Lucille"
+      },
       "duration_ms": 143826,
-      "artist": [
-        "Little Richard"
+      "artists": [
+        {
+          "name": "Little Richard",
+          "id": "4xls23Ye9WR9yy3yYMpAMm"
+        }
       ],
-      "artistId": [
-        "4xls23Ye9WR9yy3yYMpAMm"
-      ],
-      "albumId": "18VnWTsdEcofimkOHcWBAu",
+      "album": {
+        "id": "18VnWTsdEcofimkOHcWBAu",
+        "name": "Good Golly!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc4c510d6d19a2d03e2fc757"
+      },
       "release_date": "1969-01-01",
       "popularity": 55
     },
     {
-      "trackId": "0X5PLNGvAxQlYUxQe5y3uf",
-      "name": "Första låten",
+      "track": {
+        "id": "0X5PLNGvAxQlYUxQe5y3uf",
+        "name": "Första låten"
+      },
       "duration_ms": 149053,
-      "artist": [
-        "Babblarna"
+      "artists": [
+        {
+          "name": "Babblarna",
+          "id": "1aA5OGASCVhznQYm71BMYg"
+        }
       ],
-      "artistId": [
-        "1aA5OGASCVhznQYm71BMYg"
-      ],
-      "albumId": "4UJNmi54rOAergmdb546OD",
+      "album": {
+        "id": "4UJNmi54rOAergmdb546OD",
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230040d3f0ae79c0023365cf4"
+      },
       "release_date": "2015-01-01",
       "popularity": 55
     },
     {
-      "trackId": "3BQHpFgAp4l80e1XslIjNI",
-      "name": "Yesterday - Remastered 2009",
+      "track": {
+        "id": "3BQHpFgAp4l80e1XslIjNI",
+        "name": "Yesterday - Remastered 2009"
+      },
       "duration_ms": 125666,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+      "album": {
+        "id": "0PT5m6hwPRrpBwIHVnvbFX",
+        "name": "Help! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa"
+      },
       "release_date": "1965-08-06",
       "popularity": 75
     },
     {
-      "trackId": "4u9f8hqstB7iITDJNzKhQx",
-      "name": "My Generation - Stereo Version",
+      "track": {
+        "id": "4u9f8hqstB7iITDJNzKhQx",
+        "name": "My Generation - Stereo Version"
+      },
       "duration_ms": 198706,
-      "artist": [
-        "The Who"
+      "artists": [
+        {
+          "name": "The Who",
+          "id": "67ea9eGLXYMsO2eYQRui3w"
+        }
       ],
-      "artistId": [
-        "67ea9eGLXYMsO2eYQRui3w"
-      ],
-      "albumId": "6Oc6Ok1Oawu8lRkjmD4mXy",
+      "album": {
+        "id": "6Oc6Ok1Oawu8lRkjmD4mXy",
+        "name": "My Generation (Stereo Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234658b1827b64a1d4d5a5ca9"
+      },
       "release_date": "1965-12-03",
       "popularity": 64
     },
     {
-      "trackId": "6v8jawN7jEl1dtl21JY5fg",
-      "name": "Franz Liszt: Ungersk Rapsodi Nr 2",
+      "track": {
+        "id": "6v8jawN7jEl1dtl21JY5fg",
+        "name": "Franz Liszt: Ungersk Rapsodi Nr 2"
+      },
       "duration_ms": 522626,
-      "artist": [
-        "Franz Liszt",
-        "Monica Dominique",
-        "Carl-Axel Dominique"
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "id": "1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Monica Dominique",
+          "id": "4fXHTCH1eArZTamCjimXeT"
+        },
+        {
+          "name": "Carl-Axel Dominique",
+          "id": "1YZH59RUrh56SrXxTGhpsJ"
+        }
       ],
-      "artistId": [
-        "1385hLNbrnbCJGokfH2ac2",
-        "4fXHTCH1eArZTamCjimXeT",
-        "1YZH59RUrh56SrXxTGhpsJ"
-      ],
-      "albumId": "20Hm9UI6ELH0drMKsMkXFU",
+      "album": {
+        "id": "20Hm9UI6ELH0drMKsMkXFU",
+        "name": "En Flygel 4 Händer",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c7d8251d21fe09fa3bab7d8"
+      },
       "release_date": "1996",
       "popularity": 0
     },
     {
-      "trackId": "0WSlOSMLJWoWUpWci9nnRb",
-      "name": "Cissy Strut",
+      "track": {
+        "id": "0WSlOSMLJWoWUpWci9nnRb",
+        "name": "Cissy Strut"
+      },
       "duration_ms": 186853,
-      "artist": [
-        "The Meters"
+      "artists": [
+        {
+          "name": "The Meters",
+          "id": "2JRvXPGWiINrnJljNJhG5s"
+        }
       ],
-      "artistId": [
-        "2JRvXPGWiINrnJljNJhG5s"
-      ],
-      "albumId": "1Nt14TE6bKZGzJrROip36y",
+      "album": {
+        "id": "1Nt14TE6bKZGzJrROip36y",
+        "name": "The Meters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a93a02d8fbe0c68d22859506"
+      },
       "release_date": "1969",
       "popularity": 61
     }

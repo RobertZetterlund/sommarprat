@@ -7,258 +7,370 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531014_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3acBQxxlyb0jC2xqndDzSf",
-      "name": "You Know My Name - From \"Casino Royale\" Soundtrack",
+      "track": {
+        "id": "3acBQxxlyb0jC2xqndDzSf",
+        "name": "You Know My Name - From \"Casino Royale\" Soundtrack"
+      },
       "duration_ms": 240120,
-      "artist": [
-        "Chris Cornell"
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "id": "0XHiH53dHrvbwfjYM7en7I"
+        }
       ],
-      "artistId": [
-        "0XHiH53dHrvbwfjYM7en7I"
-      ],
-      "albumId": "125bv7EBFzsaqeW2LzY6QP",
+      "album": {
+        "id": "125bv7EBFzsaqeW2LzY6QP",
+        "name": "Carry On",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a9e30662b8f103c0f66d1a2"
+      },
       "release_date": "2007-01-01",
       "popularity": 59
     },
     {
-      "trackId": "5tWPG0AU9LVjONRofHcLD0",
-      "name": "Far from Any Road",
+      "track": {
+        "id": "5tWPG0AU9LVjONRofHcLD0",
+        "name": "Far from Any Road"
+      },
       "duration_ms": 168226,
-      "artist": [
-        "The Handsome Family"
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "id": "72PnPUc1qv9UjRPaGVZ1jq"
+        }
       ],
-      "artistId": [
-        "72PnPUc1qv9UjRPaGVZ1jq"
-      ],
-      "albumId": "6AVhlHYezDjZ9igL1kYc5r",
+      "album": {
+        "id": "6AVhlHYezDjZ9igL1kYc5r",
+        "name": "Singing Bones",
+        "img": "https://i.scdn.co/image/ab67616d00001e02851dd0306e2c810a5cf0d81d"
+      },
       "release_date": "2003",
       "popularity": 53
     },
     {
-      "trackId": "0LpF3BJplNYWei6BmgZJwq",
-      "name": "Tom's Diner",
+      "track": {
+        "id": "0LpF3BJplNYWei6BmgZJwq",
+        "name": "Tom's Diner"
+      },
       "duration_ms": 133400,
-      "artist": [
-        "Suzanne Vega"
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "id": "3X0tJzVYoWlfjLYI0Ridsw"
+        }
       ],
-      "artistId": [
-        "3X0tJzVYoWlfjLYI0Ridsw"
-      ],
-      "albumId": "3iaUAs1zHrPBaYIpLmskEV",
+      "album": {
+        "id": "3iaUAs1zHrPBaYIpLmskEV",
+        "name": "Tom's Diner",
+        "img": "https://i.scdn.co/image/ab67616d00001e023069ced96d8f44abed93fb59"
+      },
       "release_date": "1987-01-01",
       "popularity": 56
     },
     {
-      "trackId": "3rEKEnavc5p0z1vwT791CR",
-      "name": "Star Spangled Banner",
+      "track": {
+        "id": "3rEKEnavc5p0z1vwT791CR",
+        "name": "Star Spangled Banner"
+      },
       "duration_ms": 106666,
-      "artist": [
-        "Lee Greenwood"
+      "artists": [
+        {
+          "name": "Lee Greenwood",
+          "id": "3g229vTyhsdwm9SO2p1FPL"
+        }
       ],
-      "artistId": [
-        "3g229vTyhsdwm9SO2p1FPL"
-      ],
-      "albumId": "5YeR8Om8eLONq8C8pluHn7",
+      "album": {
+        "id": "5YeR8Om8eLONq8C8pluHn7",
+        "name": "American Patriot",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfe3b9117702b68a09e54ca8"
+      },
       "release_date": "1992-01-01",
       "popularity": 36
     },
     {
-      "trackId": "6GlFKLi8xY2ahYbNcAmuDO",
-      "name": "Röda sandens dal",
+      "track": {
+        "id": "6GlFKLi8xY2ahYbNcAmuDO",
+        "name": "Röda sandens dal"
+      },
       "duration_ms": 153599,
-      "artist": [
-        "Maj-Britt och Palomaz"
+      "artists": [
+        {
+          "name": "Maj-Britt och Palomaz",
+          "id": "5tY7TinfH1YtSlmXMep1EQ"
+        }
       ],
-      "artistId": [
-        "5tY7TinfH1YtSlmXMep1EQ"
-      ],
-      "albumId": "4if0140YBFgObEZUBBgSvX",
+      "album": {
+        "id": "4if0140YBFgObEZUBBgSvX",
+        "name": "Blå ängel",
+        "img": "https://i.scdn.co/image/ab67616d00001e025678dd6ab39ea157f54113e6"
+      },
       "release_date": "1984",
       "popularity": 32
     },
     {
-      "trackId": "69srx2YCAFt0NrnNDF42Sf",
-      "name": "Jenter",
+      "track": {
+        "id": "69srx2YCAFt0NrnNDF42Sf",
+        "name": "Jenter"
+      },
       "duration_ms": 256278,
-      "artist": [
-        "Di Derre"
+      "artists": [
+        {
+          "name": "Di Derre",
+          "id": "3xhyJwgAUGZSE162fJXRJY"
+        }
       ],
-      "artistId": [
-        "3xhyJwgAUGZSE162fJXRJY"
-      ],
-      "albumId": "2NIUZrmE3Wchk32sQHed1e",
+      "album": {
+        "id": "2NIUZrmE3Wchk32sQHed1e",
+        "name": "Historien om et band",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ba22661b39692f08998b9c9"
+      },
       "release_date": "2013-01-01",
       "popularity": 30
     },
     {
-      "trackId": "1SuJ0t0gdSk5mopDrcuyhC",
-      "name": "Deutschlandlied",
+      "track": {
+        "id": "1SuJ0t0gdSk5mopDrcuyhC",
+        "name": "Deutschlandlied"
+      },
       "duration_ms": 207514,
-      "artist": [
-        "German Choir"
+      "artists": [
+        {
+          "name": "German Choir",
+          "id": "4vWwYJBM071saHqiXGSDjn"
+        }
       ],
-      "artistId": [
-        "4vWwYJBM071saHqiXGSDjn"
-      ],
-      "albumId": "19s78oR0u453QXmFIGfMDX",
+      "album": {
+        "id": "19s78oR0u453QXmFIGfMDX",
+        "name": "Traditional Songs of the German Soldiers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0bf7c0e92474247665dcea8"
+      },
       "release_date": "2007-12-01",
       "popularity": 36
     },
     {
-      "trackId": "3SFXsFpeGmBTtQvKiwYMDA",
-      "name": "Pretty Fly (For A White Guy)",
+      "track": {
+        "id": "3SFXsFpeGmBTtQvKiwYMDA",
+        "name": "Pretty Fly (For A White Guy)"
+      },
       "duration_ms": 188666,
-      "artist": [
-        "The Offspring"
+      "artists": [
+        {
+          "name": "The Offspring",
+          "id": "5LfGQac0EIXyAN8aUwmNAQ"
+        }
       ],
-      "artistId": [
-        "5LfGQac0EIXyAN8aUwmNAQ"
-      ],
-      "albumId": "2RNTBrSO8U8XjjEj9RVvZ5",
+      "album": {
+        "id": "2RNTBrSO8U8XjjEj9RVvZ5",
+        "name": "Americana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cbd2ee7dff77bfb2b5f0af52"
+      },
       "release_date": "1998-11-16",
       "popularity": 75
     },
     {
-      "trackId": "2Svlb4Z8L8L1CYoJTLlvw6",
-      "name": "Game of Thrones - Theme",
+      "track": {
+        "id": "2Svlb4Z8L8L1CYoJTLlvw6",
+        "name": "Game of Thrones - Theme"
+      },
       "duration_ms": 99379,
-      "artist": [
-        "London Music Works"
+      "artists": [
+        {
+          "name": "London Music Works",
+          "id": "0VeT7hHTJFJZcENGekjCsB"
+        }
       ],
-      "artistId": [
-        "0VeT7hHTJFJZcENGekjCsB"
-      ],
-      "albumId": "5ZVMt2Dmphp87UA7M9MzmN",
+      "album": {
+        "id": "5ZVMt2Dmphp87UA7M9MzmN",
+        "name": "Game Of Thrones Theme Tune",
+        "img": "https://i.scdn.co/image/ab67616d00001e02505a2c6cd8fe8a1c72a747ff"
+      },
       "release_date": "2012-02-27",
       "popularity": 49
     },
     {
-      "trackId": "3UUwbJd2j4RORlalTUhaDk",
-      "name": "Hawaii Five-O",
+      "track": {
+        "id": "3UUwbJd2j4RORlalTUhaDk",
+        "name": "Hawaii Five-O"
+      },
       "duration_ms": 113893,
-      "artist": [
-        "The Ventures"
+      "artists": [
+        {
+          "name": "The Ventures",
+          "id": "2GaayiIs1kcyNqRXQuzp35"
+        }
       ],
-      "artistId": [
-        "2GaayiIs1kcyNqRXQuzp35"
-      ],
-      "albumId": "3Z2RefmmeYl2m3K2Vj4Yj1",
+      "album": {
+        "id": "3Z2RefmmeYl2m3K2Vj4Yj1",
+        "name": "Hawaii Five-O",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c143568dc90032dea8d6183"
+      },
       "release_date": "1969",
       "popularity": 52
     },
     {
-      "trackId": "4tCkwECR1pNmVUQsVS5bdY",
-      "name": "Day",
+      "track": {
+        "id": "4tCkwECR1pNmVUQsVS5bdY",
+        "name": "Day"
+      },
       "duration_ms": 134953,
-      "artist": [
-        "Jimmy Haze"
+      "artists": [
+        {
+          "name": "Jimmy Haze",
+          "id": "7567kLRsfLimhzCt4cBhW6"
+        }
       ],
-      "artistId": [
-        "7567kLRsfLimhzCt4cBhW6"
-      ],
-      "albumId": "5EwdqsLw3rjjzbYJzOS6Pa",
+      "album": {
+        "id": "5EwdqsLw3rjjzbYJzOS6Pa",
+        "name": "Winter",
+        "img": "https://i.scdn.co/image/ab67616d00001e028587a3927df571d2b84c0bff"
+      },
       "release_date": "2022-05-14",
       "popularity": 22
     },
     {
-      "trackId": "3dQVP8KyTTqH2eLh5vhE2r",
-      "name": "HIGH CHAPARRAL, THE",
+      "track": {
+        "id": "3dQVP8KyTTqH2eLh5vhE2r",
+        "name": "HIGH CHAPARRAL, THE"
+      },
       "duration_ms": 73520,
-      "artist": [
-        "David Rose"
+      "artists": [
+        {
+          "name": "David Rose",
+          "id": "2nv8pUrGHqpVzYvQCyiKjk"
+        }
       ],
-      "artistId": [
-        "2nv8pUrGHqpVzYvQCyiKjk"
-      ],
-      "albumId": "0Jb8GjDfrHi73bIr9uRB3V",
+      "album": {
+        "id": "0Jb8GjDfrHi73bIr9uRB3V",
+        "name": "Way Out West",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c0d6032df4fada08c966f9b"
+      },
       "release_date": "2002-01-01",
       "popularity": 10
     },
     {
-      "trackId": "5RBQdZUyqi91YxY8OIDWad",
-      "name": "Here We Go",
+      "track": {
+        "id": "5RBQdZUyqi91YxY8OIDWad",
+        "name": "Here We Go"
+      },
       "duration_ms": 238040,
-      "artist": [
-        "Stakka Bo"
+      "artists": [
+        {
+          "name": "Stakka Bo",
+          "id": "4c7QKz3IrcyJz2HIphEVaC"
+        }
       ],
-      "artistId": [
-        "4c7QKz3IrcyJz2HIphEVaC"
-      ],
-      "albumId": "5OoVwWXXRocPqWpd1Tt5kr",
+      "album": {
+        "id": "5OoVwWXXRocPqWpd1Tt5kr",
+        "name": "Supermarket",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224f71c73a5118b42d5a01bb6"
+      },
       "release_date": "1993-01-01",
       "popularity": 43
     },
     {
-      "trackId": "2avKuMN2QXkaG9vvHa2JLt",
-      "name": "Take A Look Around",
+      "track": {
+        "id": "2avKuMN2QXkaG9vvHa2JLt",
+        "name": "Take A Look Around"
+      },
       "duration_ms": 321040,
-      "artist": [
-        "Limp Bizkit"
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "id": "165ZgPlLkK7bf5bDoFc6Sb"
+        }
       ],
-      "artistId": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "albumId": "5mi7FKaWE5CtcOjdyxScA7",
+      "album": {
+        "id": "5mi7FKaWE5CtcOjdyxScA7",
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a31b146c7cf07705d912efe"
+      },
       "release_date": "2000-10-17",
       "popularity": 74
     },
     {
-      "trackId": "78sJeMlZbP20GEBzYLohid",
-      "name": "3 Du gamla du fria - Alla fyra verserna",
+      "track": {
+        "id": "78sJeMlZbP20GEBzYLohid",
+        "name": "3 Du gamla du fria - Alla fyra verserna"
+      },
       "duration_ms": 183920,
-      "artist": [
-        "Ultima Thule"
+      "artists": [
+        {
+          "name": "Ultima Thule",
+          "id": "5f3E0hJGnqNSI0r5up4auQ"
+        }
       ],
-      "artistId": [
-        "5f3E0hJGnqNSI0r5up4auQ"
-      ],
-      "albumId": "6FnvQGcBryLMfnoyWwAFVJ",
+      "album": {
+        "id": "6FnvQGcBryLMfnoyWwAFVJ",
+        "name": "Sverige, Sverige fosterland (30 år senare)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289e17500c4bfc3a65af14ecc"
+      },
       "release_date": "2015-06-04",
       "popularity": 35
     },
     {
-      "trackId": "0RsOUnm1wNpbXxZ8a4abOP",
-      "name": "Amaranth",
+      "track": {
+        "id": "0RsOUnm1wNpbXxZ8a4abOP",
+        "name": "Amaranth"
+      },
       "duration_ms": 231444,
-      "artist": [
-        "Nightwish"
+      "artists": [
+        {
+          "name": "Nightwish",
+          "id": "2NPduAUeLVsfIauhRwuft1"
+        }
       ],
-      "artistId": [
-        "2NPduAUeLVsfIauhRwuft1"
-      ],
-      "albumId": "33knvUBRR5ekNBrtLqQVTD",
+      "album": {
+        "id": "33knvUBRR5ekNBrtLqQVTD",
+        "name": "Dark Passion Play",
+        "img": "https://i.scdn.co/image/ab67616d00001e027988cb5b6506529454590ece"
+      },
       "release_date": "2007-09-26",
       "popularity": 53
     },
     {
-      "trackId": "7Jeih4TEqBbfzxI1UN5b51",
-      "name": "I'd Be Surprisingly Good for You",
+      "track": {
+        "id": "7Jeih4TEqBbfzxI1UN5b51",
+        "name": "I'd Be Surprisingly Good for You"
+      },
       "duration_ms": 258665,
-      "artist": [
-        "Madonna",
-        "Jonathan Pryce"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "id": "26fxwQv5dbSx7ow4faauEh"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW",
-        "26fxwQv5dbSx7ow4faauEh"
-      ],
-      "albumId": "7FEyjOwZ7Hjvtb92GjM286",
+      "album": {
+        "id": "7FEyjOwZ7Hjvtb92GjM286",
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bac86bb82a4a61b67e2bfd64"
+      },
       "release_date": "1996-10-25",
       "popularity": 34
     },
     {
-      "trackId": "3bMsT2EiXYKSUjc9uvIkI3",
-      "name": "Wake Me Up - Avicii By Avicii",
+      "track": {
+        "id": "3bMsT2EiXYKSUjc9uvIkI3",
+        "name": "Wake Me Up - Avicii By Avicii"
+      },
       "duration_ms": 425760,
-      "artist": [
-        "Avicii",
-        "Tim Bergling"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Tim Bergling",
+          "id": "5baGk14NDI3ZDPbr6wJilc"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5baGk14NDI3ZDPbr6wJilc"
-      ],
-      "albumId": "0ignCov9foaLxuqND5GMtl",
+      "album": {
+        "id": "0ignCov9foaLxuqND5GMtl",
+        "name": "True: Avicii By Avicii",
+        "img": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8"
+      },
       "release_date": "2014-01-01",
       "popularity": 49
     }

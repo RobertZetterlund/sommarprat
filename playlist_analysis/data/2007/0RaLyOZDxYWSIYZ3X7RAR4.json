@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257194_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "01gf0rSxh9wqQXQVKVy8Sn",
-      "name": "Love Changes Everything",
+      "track": {
+        "id": "01gf0rSxh9wqQXQVKVy8Sn",
+        "name": "Love Changes Everything"
+      },
       "duration_ms": 225067,
-      "artist": [
-        "Michael Ball",
-        "Il Divo"
+      "artists": [
+        {
+          "name": "Michael Ball",
+          "id": "2MISUlPFrBMRlIcazbEOUI"
+        },
+        {
+          "name": "Il Divo",
+          "id": "3KNZ9AOjBajjmr6ZR2VGfl"
+        }
       ],
-      "artistId": [
-        "2MISUlPFrBMRlIcazbEOUI",
-        "3KNZ9AOjBajjmr6ZR2VGfl"
-      ],
-      "albumId": "7pNyfWVxp1wbfpQ8kEr4bi",
+      "album": {
+        "id": "7pNyfWVxp1wbfpQ8kEr4bi",
+        "name": "Both Sides Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271b554599e45211279e0f302"
+      },
       "release_date": "2013-02-25",
       "popularity": 26
     },
     {
-      "trackId": "30qVCFYKBtAENjTIBA8FPZ",
-      "name": "The River of Dreams",
+      "track": {
+        "id": "30qVCFYKBtAENjTIBA8FPZ",
+        "name": "The River of Dreams"
+      },
       "duration_ms": 247626,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "4HPnwQJAEvTY910q4RNeOu",
+      "album": {
+        "id": "4HPnwQJAEvTY910q4RNeOu",
+        "name": "River Of Dreams",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d81c87cd4fa07351a5d14a71"
+      },
       "release_date": "1993-08-10",
       "popularity": 64
     },
     {
-      "trackId": "0f2JPNoTkmU0VgCfl9NFvc",
-      "name": "Tennessee Wigwalk",
+      "track": {
+        "id": "0f2JPNoTkmU0VgCfl9NFvc",
+        "name": "Tennessee Wigwalk"
+      },
       "duration_ms": 154600,
-      "artist": [
-        "Cacka Israelsson"
+      "artists": [
+        {
+          "name": "Cacka Israelsson",
+          "id": "0FPZ1qlAc7JU5H8ZsE7qpl"
+        }
       ],
-      "artistId": [
-        "0FPZ1qlAc7JU5H8ZsE7qpl"
-      ],
-      "albumId": "49oU0hnBccBr6mhzfc4lEI",
+      "album": {
+        "id": "49oU0hnBccBr6mhzfc4lEI",
+        "name": "Gamle Svarten",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279818c5cdb93ec25229841ff"
+      },
       "release_date": "1998",
       "popularity": 35
     },
     {
-      "trackId": "1pTGc8pwyo6xtgXBKCBcFn",
-      "name": "Woman in Love",
+      "track": {
+        "id": "1pTGc8pwyo6xtgXBKCBcFn",
+        "name": "Woman in Love"
+      },
       "duration_ms": 231840,
-      "artist": [
-        "Barbra Streisand"
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "id": "7jmTilWYlKOuavFfmQAcu6"
+        }
       ],
-      "artistId": [
-        "7jmTilWYlKOuavFfmQAcu6"
-      ],
-      "albumId": "5mMebbufullX8FIhpCxwCt",
+      "album": {
+        "id": "5mMebbufullX8FIhpCxwCt",
+        "name": "Guilty",
+        "img": "https://i.scdn.co/image/ab67616d00001e02788aec6603253d0d95169042"
+      },
       "release_date": "1980-09-23",
       "popularity": 67
     },
     {
-      "trackId": "7zrpoAJte9o12TzawqgdD0",
-      "name": "Con te partirò",
+      "track": {
+        "id": "7zrpoAJte9o12TzawqgdD0",
+        "name": "Con te partirò"
+      },
       "duration_ms": 250983,
-      "artist": [
-        "Andrea Bocelli"
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "id": "3EA9hVIzKfFiQI0Kikz2wo"
+        }
       ],
-      "artistId": [
-        "3EA9hVIzKfFiQI0Kikz2wo"
-      ],
-      "albumId": "3uARqNN4bYqts3Ltg5Jku3",
+      "album": {
+        "id": "3uARqNN4bYqts3Ltg5Jku3",
+        "name": "Bocelli (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e69f0cf9685328522e66e14"
+      },
       "release_date": "1995-01-01",
       "popularity": 66
     },
     {
-      "trackId": "7gl7izWukORFBHMskrBLzt",
-      "name": "Violer till mor",
+      "track": {
+        "id": "7gl7izWukORFBHMskrBLzt",
+        "name": "Violer till mor"
+      },
       "duration_ms": 206080,
-      "artist": [
-        "Bertil Boo",
-        "Sven Arefeldts orkester"
+      "artists": [
+        {
+          "name": "Bertil Boo",
+          "id": "3TiAFGZ9ZwmEPnFVtZyXQS"
+        },
+        {
+          "name": "Sven Arefeldts orkester",
+          "id": "6CO7cJfweO8Oclwa7BrG4z"
+        }
       ],
-      "artistId": [
-        "3TiAFGZ9ZwmEPnFVtZyXQS",
-        "6CO7cJfweO8Oclwa7BrG4z"
-      ],
-      "albumId": "1qfNDXN321tvYsgHq2DqOX",
+      "album": {
+        "id": "1qfNDXN321tvYsgHq2DqOX",
+        "name": "Melodier som bedåra 1946",
+        "img": "https://i.scdn.co/image/ab67616d00001e021971f64e991f85993a49c35b"
+      },
       "release_date": "2007-01-01",
       "popularity": 16
     },
     {
-      "trackId": "4w3tQBXhn5345eUXDGBWZG",
-      "name": "9 to 5",
+      "track": {
+        "id": "4w3tQBXhn5345eUXDGBWZG",
+        "name": "9 to 5"
+      },
       "duration_ms": 162466,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "64Ky1tqKPfwxhJs6msphWd",
+      "album": {
+        "id": "64Ky1tqKPfwxhJs6msphWd",
+        "name": "9 To 5 And Odd Jobs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02060ccf36ab5b0e0a739799ec"
+      },
       "release_date": "1980",
       "popularity": 76
     },
     {
-      "trackId": "7KWoeBqSdZHEloYKVxssfG",
-      "name": "In the Ghetto",
+      "track": {
+        "id": "7KWoeBqSdZHEloYKVxssfG",
+        "name": "In the Ghetto"
+      },
       "duration_ms": 167413,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ekkFrfotMsEAKc5g71GHk",
+      "album": {
+        "id": "3ekkFrfotMsEAKc5g71GHk",
+        "name": "From Elvis in Memphis (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7"
+      },
       "release_date": "1969-06-17",
       "popularity": 69
     },
     {
-      "trackId": "6ZSTinOwx5dKFYc6iYyGDn",
-      "name": "Leaving on a Jet Plane",
+      "track": {
+        "id": "6ZSTinOwx5dKFYc6iYyGDn",
+        "name": "Leaving on a Jet Plane"
+      },
       "duration_ms": 207240,
-      "artist": [
-        "Peter, Paul and Mary"
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "id": "6yrBBtqX2gKCHCrZOYBDrB"
+        }
       ],
-      "artistId": [
-        "6yrBBtqX2gKCHCrZOYBDrB"
-      ],
-      "albumId": "3CDM5os6kA4y6mYYGukMIZ",
+      "album": {
+        "id": "3CDM5os6kA4y6mYYGukMIZ",
+        "name": "Album 1700",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f093393f9ada23c14f4f8e02"
+      },
       "release_date": "1967-10-31",
       "popularity": 62
     },
     {
-      "trackId": "0IyaUK4bo54AnnNVhS9RSW",
-      "name": "A Little Bit More - Single Version",
+      "track": {
+        "id": "0IyaUK4bo54AnnNVhS9RSW",
+        "name": "A Little Bit More - Single Version"
+      },
       "duration_ms": 174733,
-      "artist": [
-        "Dr. Hook"
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "id": "2Mhi3jfuRSdbVZPdjqsnnN"
+        }
       ],
-      "artistId": [
-        "2Mhi3jfuRSdbVZPdjqsnnN"
-      ],
-      "albumId": "0UQeeHZSz95cijW6o07wib",
+      "album": {
+        "id": "0UQeeHZSz95cijW6o07wib",
+        "name": "Completely Hooked",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d4bfca049780d5b87323e09"
+      },
       "release_date": "1992-01-01",
       "popularity": 53
     },
     {
-      "trackId": "5Bh8l8evdBSIoaK6EP1bWI",
-      "name": "Baby Driver",
+      "track": {
+        "id": "5Bh8l8evdBSIoaK6EP1bWI",
+        "name": "Baby Driver"
+      },
       "duration_ms": 195760,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "0JwHz5SSvpYWuuCNbtYZoV",
+      "album": {
+        "id": "0JwHz5SSvpYWuuCNbtYZoV",
+        "name": "Bridge Over Troubled Water",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba7fe7dd76cd4307e57dd75f"
+      },
       "release_date": "1970-01-26",
       "popularity": 54
     },
     {
-      "trackId": "6mIY6O7uNGgVqOoX70UAYh",
-      "name": "Have I Told You Lately - 2008 Remaster",
+      "track": {
+        "id": "6mIY6O7uNGgVqOoX70UAYh",
+        "name": "Have I Told You Lately - 2008 Remaster"
+      },
       "duration_ms": 241506,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "3jBeiXLyZM4kxbHLEJwtYt",
+      "album": {
+        "id": "3jBeiXLyZM4kxbHLEJwtYt",
+        "name": "Vagabond Heart (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c782935ead3b4bfccc946ae"
+      },
       "release_date": "1991",
       "popularity": 64
     }

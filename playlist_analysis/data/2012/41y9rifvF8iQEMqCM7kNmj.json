@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344836_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5ftPMGo8IyJMw6hBqwksOU",
-      "name": "Frösöblomster I, op. 16: No. 6. Vid Frösö kyrka",
+      "track": {
+        "id": "5ftPMGo8IyJMw6hBqwksOU",
+        "name": "Frösöblomster I, op. 16: No. 6. Vid Frösö kyrka"
+      },
       "duration_ms": 243533,
-      "artist": [
-        "Göteborg Wind Orchestra"
+      "artists": [
+        {
+          "name": "Göteborg Wind Orchestra",
+          "id": "0OsDQRnrYee3O812DQtMu2"
+        }
       ],
-      "artistId": [
-        "0OsDQRnrYee3O812DQtMu2"
-      ],
-      "albumId": "1M93ZqRobM05iUxWR0j7ii",
+      "album": {
+        "id": "1M93ZqRobM05iUxWR0j7ii",
+        "name": "Sommar i hängmattan - Lugn musik för lata dagar",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ad108dce083ef55e79dd638"
+      },
       "release_date": "2010-05-11",
       "popularity": 1
     },
     {
-      "trackId": "5z4ljpMLi1LTF8UG9P53fH",
-      "name": "Dreamer",
+      "track": {
+        "id": "5z4ljpMLi1LTF8UG9P53fH",
+        "name": "Dreamer"
+      },
       "duration_ms": 213236,
-      "artist": [
-        "Supertramp"
+      "artists": [
+        {
+          "name": "Supertramp",
+          "id": "3JsMj0DEzyWc0VDlHuy9Bx"
+        }
       ],
-      "artistId": [
-        "3JsMj0DEzyWc0VDlHuy9Bx"
-      ],
-      "albumId": "2wrHaulTgqqkVKx0k7Kq4r",
+      "album": {
+        "id": "2wrHaulTgqqkVKx0k7Kq4r",
+        "name": "Crime Of The Century (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2"
+      },
       "release_date": "1974-09-01",
       "popularity": 60
     },
     {
-      "trackId": "3rZtRBAKCHaZVxMQqXLAPu",
-      "name": "Sommarregn (feat. Hanna Ferm)",
+      "track": {
+        "id": "3rZtRBAKCHaZVxMQqXLAPu",
+        "name": "Sommarregn (feat. Hanna Ferm)"
+      },
       "duration_ms": 182515,
-      "artist": [
-        "Oskar Häggström",
-        "Hanna Ferm"
+      "artists": [
+        {
+          "name": "Oskar Häggström",
+          "id": "69ZOZoebEshyscvb3HktEf"
+        },
+        {
+          "name": "Hanna Ferm",
+          "id": "2xQUbkvQFCU8DpdBFbMfLq"
+        }
       ],
-      "artistId": [
-        "69ZOZoebEshyscvb3HktEf",
-        "2xQUbkvQFCU8DpdBFbMfLq"
-      ],
-      "albumId": "12SjrFUpHO06Xm2Co5ookK",
+      "album": {
+        "id": "12SjrFUpHO06Xm2Co5ookK",
+        "name": "Sommarregn (feat. Hanna Ferm)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c98e9d879951fb1a2683c5fc"
+      },
       "release_date": "2022-06-17",
       "popularity": 56
     },
     {
-      "trackId": "6opPrJUpq4Pl5c84eCwLmo",
-      "name": "Gabriel's Oboe",
+      "track": {
+        "id": "6opPrJUpq4Pl5c84eCwLmo",
+        "name": "Gabriel's Oboe"
+      },
       "duration_ms": 134133,
-      "artist": [
-        "Ennio Morricone"
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "id": "1nIUhcKHnK6iyumRyoV68C"
+        }
       ],
-      "artistId": [
-        "1nIUhcKHnK6iyumRyoV68C"
-      ],
-      "albumId": "2fOlcWrSR032MxwMCQe9LA",
+      "album": {
+        "id": "2fOlcWrSR032MxwMCQe9LA",
+        "name": "The Mission: Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f126b5a1693a25b14396ad94"
+      },
       "release_date": "1986",
       "popularity": 57
     },
     {
-      "trackId": "2kvg4AwMIstkygdQhfFfSf",
-      "name": "Calleth You, Cometh I",
+      "track": {
+        "id": "2kvg4AwMIstkygdQhfFfSf",
+        "name": "Calleth You, Cometh I"
+      },
       "duration_ms": 272360,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "2853c5Z7BEfJCaFltIQ0C7",
+      "album": {
+        "id": "2853c5Z7BEfJCaFltIQ0C7",
+        "name": "In Lust We Trust",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256fe793a2b8978c57049f28c"
+      },
       "release_date": "2002-08-26",
       "popularity": 48
     },
     {
-      "trackId": "6bPhxmvMKSUmD4uwZGtY6i",
-      "name": "Rövarnas visa",
+      "track": {
+        "id": "6bPhxmvMKSUmD4uwZGtY6i",
+        "name": "Rövarnas visa"
+      },
       "duration_ms": 220040,
-      "artist": [
-        "KSMB"
+      "artists": [
+        {
+          "name": "KSMB",
+          "id": "5umOft7CgVOutNpa0rGX71"
+        }
       ],
-      "artistId": [
-        "5umOft7CgVOutNpa0rGX71"
-      ],
-      "albumId": "60ZyzxsclKaC8rq7Kfn3iM",
+      "album": {
+        "id": "60ZyzxsclKaC8rq7Kfn3iM",
+        "name": "Rövarnas visa/Polsk zchlager",
+        "img": "https://i.scdn.co/image/ab67616d00001e02563e53c762079dc06c0bde9e"
+      },
       "release_date": "1981-01-01",
       "popularity": 17
     },
     {
-      "trackId": "2QuT09rGPiep9m4NTfEE6P",
-      "name": "Till det sista havet",
+      "track": {
+        "id": "2QuT09rGPiep9m4NTfEE6P",
+        "name": "Till det sista havet"
+      },
       "duration_ms": 259133,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "54zOez6AcH47XM4BhGHFkr",
+      "album": {
+        "id": "54zOez6AcH47XM4BhGHFkr",
+        "name": "Utanför album 1 (SinglarDemosOutgivet)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e309c33f859d15d3e4f55f4f"
+      },
       "release_date": "2012-01-01",
       "popularity": 22
     },
     {
-      "trackId": "7xjucUUNrRgwW49fLmU91q",
-      "name": "Trubbel",
+      "track": {
+        "id": "7xjucUUNrRgwW49fLmU91q",
+        "name": "Trubbel"
+      },
       "duration_ms": 264920,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "34H1h1kqYP5gVpeZGUfqcT",
+      "album": {
+        "id": "34H1h1kqYP5gVpeZGUfqcT",
+        "name": "Monica - Monica",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4426c1320b7860dd83d96cb"
+      },
       "release_date": "1971",
       "popularity": 37
     },
     {
-      "trackId": "0j9aigyo7QgCMitnZUuMnS",
-      "name": "Flickorna på TV2",
+      "track": {
+        "id": "0j9aigyo7QgCMitnZUuMnS",
+        "name": "Flickorna på TV2"
+      },
       "duration_ms": 234826,
-      "artist": [
-        "Gyllene Tider"
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "id": "0FINyNBXqnTlRC4dvpSeSb"
+        }
       ],
-      "artistId": [
-        "0FINyNBXqnTlRC4dvpSeSb"
-      ],
-      "albumId": "7wI5tvSzZ3tOzpFROFHuxP",
+      "album": {
+        "id": "7wI5tvSzZ3tOzpFROFHuxP",
+        "name": "Gyllene Tider",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d3042cb357eebb2a082c929"
+      },
       "release_date": "1980-02-18",
       "popularity": 44
     },
     {
-      "trackId": "40LHlo3yP8lieHoqslpq2A",
-      "name": "Familjelycka",
+      "track": {
+        "id": "40LHlo3yP8lieHoqslpq2A",
+        "name": "Familjelycka"
+      },
       "duration_ms": 194360,
-      "artist": [
-        "Bernt Staf"
+      "artists": [
+        {
+          "name": "Bernt Staf",
+          "id": "51qCcetCtThTLWrPh7jAue"
+        }
       ],
-      "artistId": [
-        "51qCcetCtThTLWrPh7jAue"
-      ],
-      "albumId": "3hPaLm6rT12IaxUMdYrcOz",
+      "album": {
+        "id": "3hPaLm6rT12IaxUMdYrcOz",
+        "name": "När dimman lättar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506fb44e9831fefaa7b78dae"
+      },
       "release_date": "1970",
       "popularity": 32
     },
     {
-      "trackId": "7wYGAXri3bvEfU5Fle1GSI",
-      "name": "Omkring tiggarn från Luossa",
+      "track": {
+        "id": "7wYGAXri3bvEfU5Fle1GSI",
+        "name": "Omkring tiggarn från Luossa"
+      },
       "duration_ms": 280560,
-      "artist": [
-        "Hootenanny Singers"
+      "artists": [
+        {
+          "name": "Hootenanny Singers",
+          "id": "3ad93MNniE0byDdOcRNT3Y"
+        }
       ],
-      "artistId": [
-        "3ad93MNniE0byDdOcRNT3Y"
-      ],
-      "albumId": "1hDmhRcFuOXCqgeIOw1uhh",
+      "album": {
+        "id": "1hDmhRcFuOXCqgeIOw1uhh",
+        "name": "Våra vackraste visor 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02188b0dbb5102172e85b611ec"
+      },
       "release_date": "1972-01-01",
       "popularity": 40
     },
     {
-      "trackId": "4ZzBr0kNVmlQDTyZPNfZO1",
-      "name": "Blip-Båt - Remastret",
+      "track": {
+        "id": "4ZzBr0kNVmlQDTyZPNfZO1",
+        "name": "Blip-Båt - Remastret"
+      },
       "duration_ms": 223640,
-      "artist": [
-        "Kim Larsen"
+      "artists": [
+        {
+          "name": "Kim Larsen",
+          "id": "2ZQifdPOptKHxTaYTLh0BC"
+        }
       ],
-      "artistId": [
-        "2ZQifdPOptKHxTaYTLh0BC"
-      ],
-      "albumId": "6OxIUGmj1lZektHGpmnMLA",
+      "album": {
+        "id": "6OxIUGmj1lZektHGpmnMLA",
+        "name": "231045-0637 (Remastret)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e7fd6d3c85d3899a383c81d"
+      },
       "release_date": "1979-05-28",
       "popularity": 34
     },
     {
-      "trackId": "6b021uLdvPhgmlkV3fpVJQ",
-      "name": "Josef i brunnen - Del 5",
+      "track": {
+        "id": "6b021uLdvPhgmlkV3fpVJQ",
+        "name": "Josef i brunnen - Del 5"
+      },
       "duration_ms": 358800,
-      "artist": [
-        "Astrid Lindgren"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I"
-      ],
-      "albumId": "3kt7yqsF4icdoztLQ82xn1",
+      "album": {
+        "id": "3kt7yqsF4icdoztLQ82xn1",
+        "name": "Madicken",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230083e3c147a9a1b897b7388"
+      },
       "release_date": "2016-03-24",
       "popularity": 18
     }

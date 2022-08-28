@@ -7,230 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3302766_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6ZWFvhIr9Azovk964lfhtE",
-      "name": "Blessed Relief",
+      "track": {
+        "id": "6ZWFvhIr9Azovk964lfhtE",
+        "name": "Blessed Relief"
+      },
       "duration_ms": 479186,
-      "artist": [
-        "Frank Zappa"
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "id": "6ra4GIOgCZQZMOaUECftGN"
+        }
       ],
-      "artistId": [
-        "6ra4GIOgCZQZMOaUECftGN"
-      ],
-      "albumId": "67GJo4ajqUWHsuY0f4aQz2",
+      "album": {
+        "id": "67GJo4ajqUWHsuY0f4aQz2",
+        "name": "The Grand Wazoo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8b3e8e750d0e5dd191ca264"
+      },
       "release_date": "1972-12-01",
       "popularity": 35
     },
     {
-      "trackId": "4W8IEREeLldaSQyGXcZQ2I",
-      "name": "Strawberry Letter 23",
+      "track": {
+        "id": "4W8IEREeLldaSQyGXcZQ2I",
+        "name": "Strawberry Letter 23"
+      },
       "duration_ms": 239906,
-      "artist": [
-        "Shuggie Otis"
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "id": "4YHtIE7FI8ITfekzzN5Jpl"
+        }
       ],
-      "artistId": [
-        "4YHtIE7FI8ITfekzzN5Jpl"
-      ],
-      "albumId": "7suTZDEkiDpzkouw300noM",
+      "album": {
+        "id": "7suTZDEkiDpzkouw300noM",
+        "name": "Freedom Flight",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290497cd6cc6338bbe57fc953"
+      },
       "release_date": "1971",
       "popularity": 59
     },
     {
-      "trackId": "4yYCgcKzsGFNX5ebOGY16Y",
-      "name": "Ali Baba (I Wash My Hands In Muddy Water)",
+      "track": {
+        "id": "4yYCgcKzsGFNX5ebOGY16Y",
+        "name": "Ali Baba (I Wash My Hands In Muddy Water)"
+      },
       "duration_ms": 160546,
-      "artist": [
-        "Alf Robertson"
+      "artists": [
+        {
+          "name": "Alf Robertson",
+          "id": "4UKsrYPsnr0VD22nV1URlI"
+        }
       ],
-      "artistId": [
-        "4UKsrYPsnr0VD22nV1URlI"
-      ],
-      "albumId": "7elDmz09TNMTaXdgI7oyog",
+      "album": {
+        "id": "7elDmz09TNMTaXdgI7oyog",
+        "name": "Rockar På Svenska!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cae4bef222ee452dcb7a7df2"
+      },
       "release_date": "2009-05-11",
       "popularity": 27
     },
     {
-      "trackId": "6WDHuEChvyOAW35EtlIAlO",
-      "name": "Lovely Is Today",
+      "track": {
+        "id": "6WDHuEChvyOAW35EtlIAlO",
+        "name": "Lovely Is Today"
+      },
       "duration_ms": 265346,
-      "artist": [
-        "Eddie Harris"
+      "artists": [
+        {
+          "name": "Eddie Harris",
+          "id": "0bcDOCWIbvWApEIB7l1uZ4"
+        }
       ],
-      "artistId": [
-        "0bcDOCWIbvWApEIB7l1uZ4"
-      ],
-      "albumId": "3OyoM2GwpvAY6vb7rCaqUq",
+      "album": {
+        "id": "3OyoM2GwpvAY6vb7rCaqUq",
+        "name": "MORE PSYCHEDELIC JAZZ & SOUL",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a47a6edcaba279a85a0ab820"
+      },
       "release_date": "2004-07-05",
       "popularity": 4
     },
     {
-      "trackId": "5oOC6EBnSQ3PfRAQyfjAla",
-      "name": "That Summer Feeling",
+      "track": {
+        "id": "5oOC6EBnSQ3PfRAQyfjAla",
+        "name": "That Summer Feeling"
+      },
       "duration_ms": 366600,
-      "artist": [
-        "Jonathan Richman"
+      "artists": [
+        {
+          "name": "Jonathan Richman",
+          "id": "6hkch2KhRl0tywpeVK5xR5"
+        }
       ],
-      "artistId": [
-        "6hkch2KhRl0tywpeVK5xR5"
-      ],
-      "albumId": "2RtcqYl0VAhDw9DPMEqWF5",
+      "album": {
+        "id": "2RtcqYl0VAhDw9DPMEqWF5",
+        "name": "I, Jonathan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dde31a0c569f68ed6362825a"
+      },
       "release_date": "1992-01-01",
       "popularity": 45
     },
     {
-      "trackId": "4uIHPormmUH31qyjP7CU4d",
-      "name": "Statesboro Blues",
+      "track": {
+        "id": "4uIHPormmUH31qyjP7CU4d",
+        "name": "Statesboro Blues"
+      },
       "duration_ms": 178973,
-      "artist": [
-        "Taj Mahal"
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "id": "1aTDTChWWyiJH3SEnYrdVp"
+        }
       ],
-      "artistId": [
-        "1aTDTChWWyiJH3SEnYrdVp"
-      ],
-      "albumId": "0kEaFupzvrGdcczROS519i",
+      "album": {
+        "id": "0kEaFupzvrGdcczROS519i",
+        "name": "Taj Mahal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc837c65adffa13659a3bafe"
+      },
       "release_date": "1968",
       "popularity": 57
     },
     {
-      "trackId": "4DVu7YgHVJaeN0C7HNpy2q",
-      "name": "Turiya & Ramakrishna",
+      "track": {
+        "id": "4DVu7YgHVJaeN0C7HNpy2q",
+        "name": "Turiya & Ramakrishna"
+      },
       "duration_ms": 498146,
-      "artist": [
-        "Alice Coltrane"
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "id": "0oKYiTD5CdNbrofRvM1dIr"
+        }
       ],
-      "artistId": [
-        "0oKYiTD5CdNbrofRvM1dIr"
-      ],
-      "albumId": "6XyhwP7a50E4u83H9aM8sD",
+      "album": {
+        "id": "6XyhwP7a50E4u83H9aM8sD",
+        "name": "Ptah The El Daoud",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab4b96fdbadfa7d47a4e2b2"
+      },
       "release_date": "1996-01-01",
       "popularity": 54
     },
     {
-      "trackId": "6Wux9SSXcUdgwG7TItGTJz",
-      "name": "Why",
+      "track": {
+        "id": "6Wux9SSXcUdgwG7TItGTJz",
+        "name": "Why"
+      },
       "duration_ms": 248490,
-      "artist": [
-        "Carly Simon"
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "id": "4FtSnMlCVxCswABUmdhwpm"
+        }
       ],
-      "artistId": [
-        "4FtSnMlCVxCswABUmdhwpm"
-      ],
-      "albumId": "1rC8ILJkAi4b0p3uqaxZrK",
+      "album": {
+        "id": "1rC8ILJkAi4b0p3uqaxZrK",
+        "name": "Soup for One (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02376c3cb34f14ee119e150cd4"
+      },
       "release_date": "1982-01-01",
       "popularity": 51
     },
     {
-      "trackId": "3zj0Hl2yXKvnj1BY40n2Di",
-      "name": "Resan",
+      "track": {
+        "id": "3zj0Hl2yXKvnj1BY40n2Di",
+        "name": "Resan"
+      },
       "duration_ms": 407946,
-      "artist": [
-        "Torkel Rasmusson"
+      "artists": [
+        {
+          "name": "Torkel Rasmusson",
+          "id": "3VgKcCfi7Bz8l421EdqATe"
+        }
       ],
-      "artistId": [
-        "3VgKcCfi7Bz8l421EdqATe"
-      ],
-      "albumId": "6ooj0KLYDeh3LXvjhpsoNB",
+      "album": {
+        "id": "6ooj0KLYDeh3LXvjhpsoNB",
+        "name": "Resan - 19 sånger 1976-2005",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e17d9b542574b68b8c4f527a"
+      },
       "release_date": "2007-01-01",
       "popularity": 19
     },
     {
-      "trackId": "1Wd4IxTkkaim1cnQfEqFig",
-      "name": "Trance Dance",
+      "track": {
+        "id": "1Wd4IxTkkaim1cnQfEqFig",
+        "name": "Trance Dance"
+      },
       "duration_ms": 649773,
-      "artist": [
-        "Christer Bothén & Bolon Bata"
+      "artists": [
+        {
+          "name": "Christer Bothén & Bolon Bata",
+          "id": "1SwrEbJCCQ9k3xOPwvO6qW"
+        }
       ],
-      "artistId": [
-        "1SwrEbJCCQ9k3xOPwvO6qW"
-      ],
-      "albumId": "0MoD28LtzSUls71bv7z48B",
+      "album": {
+        "id": "0MoD28LtzSUls71bv7z48B",
+        "name": "Trancedance",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aefbcbcb2fc682ab8aa222c3"
+      },
       "release_date": "1984-01-01",
       "popularity": 2
     },
     {
-      "trackId": "39shmbIHICJ2Wxnk1fPSdz",
-      "name": "Should I Stay or Should I Go - Remastered",
+      "track": {
+        "id": "39shmbIHICJ2Wxnk1fPSdz",
+        "name": "Should I Stay or Should I Go - Remastered"
+      },
       "duration_ms": 188986,
-      "artist": [
-        "The Clash"
+      "artists": [
+        {
+          "name": "The Clash",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS"
+        }
       ],
-      "artistId": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-      ],
-      "albumId": "1ZH5g1RDq3GY1OvyD0w0s2",
+      "album": {
+        "id": "1ZH5g1RDq3GY1OvyD0w0s2",
+        "name": "Combat Rock (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225a4df452a3c42ccc2e9288b"
+      },
       "release_date": "1982",
       "popularity": 80
     },
     {
-      "trackId": "76D5nfZbYzZYfUZKGy73jy",
-      "name": "7 Seconds (feat. Neneh Cherry)",
+      "track": {
+        "id": "76D5nfZbYzZYfUZKGy73jy",
+        "name": "7 Seconds (feat. Neneh Cherry)"
+      },
       "duration_ms": 305773,
-      "artist": [
-        "Youssou N'Dour",
-        "Neneh Cherry"
+      "artists": [
+        {
+          "name": "Youssou N'Dour",
+          "id": "77zlytAFjPFjUKda8TNIDY"
+        },
+        {
+          "name": "Neneh Cherry",
+          "id": "3JxCEqL9zjKnDJgUhRuRJD"
+        }
       ],
-      "artistId": [
-        "77zlytAFjPFjUKda8TNIDY",
-        "3JxCEqL9zjKnDJgUhRuRJD"
-      ],
-      "albumId": "6Smydx3R0VZPoIdBeOmbFI",
+      "album": {
+        "id": "6Smydx3R0VZPoIdBeOmbFI",
+        "name": "7 Seconds: The Best Of Youssou N'Dour",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b27641785cd303ca55c8a5bd"
+      },
       "release_date": "2004",
       "popularity": 58
     },
     {
-      "trackId": "4j6esvYAbr7Uui6QwvJc5g",
-      "name": "Shine (feat. Pauline)",
+      "track": {
+        "id": "4j6esvYAbr7Uui6QwvJc5g",
+        "name": "Shine (feat. Pauline)"
+      },
       "duration_ms": 205186,
-      "artist": [
-        "Christian Falk",
-        "Pauline"
+      "artists": [
+        {
+          "name": "Christian Falk",
+          "id": "7pxzXxDHEmvBIBMcYJy6Nh"
+        },
+        {
+          "name": "Pauline",
+          "id": "2J9Y7fT6BnCQVB4FZioKHc"
+        }
       ],
-      "artistId": [
-        "7pxzXxDHEmvBIBMcYJy6Nh",
-        "2J9Y7fT6BnCQVB4FZioKHc"
-      ],
-      "albumId": "5fU3Wya0gKi2S70hcB97Yz",
+      "album": {
+        "id": "5fU3Wya0gKi2S70hcB97Yz",
+        "name": "People Say",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b26620d37368d2cfd45c84e6"
+      },
       "release_date": "2006-10-04",
       "popularity": 16
     },
     {
-      "trackId": "4heMx0OAwfILu13Lf0VbBM",
-      "name": "Positively 4th Street - Single Version",
+      "track": {
+        "id": "4heMx0OAwfILu13Lf0VbBM",
+        "name": "Positively 4th Street - Single Version"
+      },
       "duration_ms": 247866,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "1y3abw64BlSEeFuuhjlke1",
+      "album": {
+        "id": "1y3abw64BlSEeFuuhjlke1",
+        "name": "The Essential Bob Dylan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec8bd4c7fd93b7a0cd80a994"
+      },
       "release_date": "2014-03-25",
       "popularity": 48
     },
     {
-      "trackId": "5KSJ9k1FYjFLnIRlJT2wF8",
-      "name": "Tha Crossroads",
+      "track": {
+        "id": "5KSJ9k1FYjFLnIRlJT2wF8",
+        "name": "Tha Crossroads"
+      },
       "duration_ms": 223546,
-      "artist": [
-        "Bone Thugs-N-Harmony"
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "id": "5spEJXLwD1sKUdC2bnOHPg"
+        }
       ],
-      "artistId": [
-        "5spEJXLwD1sKUdC2bnOHPg"
-      ],
-      "albumId": "3r25XjxAmLMOhOWoV6X8N9",
+      "album": {
+        "id": "3r25XjxAmLMOhOWoV6X8N9",
+        "name": "E. 1999 Eternal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e49f4677129d4b8b9d9f50ac"
+      },
       "release_date": "1995-07-25",
       "popularity": 67
     },
     {
-      "trackId": "1VCtHxQtu0P5PEnpMdTZw1",
-      "name": "The Kingdom - Intro",
+      "track": {
+        "id": "1VCtHxQtu0P5PEnpMdTZw1",
+        "name": "The Kingdom - Intro"
+      },
       "duration_ms": 129266,
-      "artist": [
-        "Joachim Holbek"
+      "artists": [
+        {
+          "name": "Joachim Holbek",
+          "id": "6Y7Z4ntL9vZKD5nu0Gow6i"
+        }
       ],
-      "artistId": [
-        "6Y7Z4ntL9vZKD5nu0Gow6i"
-      ],
-      "albumId": "2wb2NntJeZva6Ea77VYn0t",
+      "album": {
+        "id": "2wb2NntJeZva6Ea77VYn0t",
+        "name": "The Kingdom",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f2d37dfc631a28113916b3f"
+      },
       "release_date": "1994",
       "popularity": 13
     }

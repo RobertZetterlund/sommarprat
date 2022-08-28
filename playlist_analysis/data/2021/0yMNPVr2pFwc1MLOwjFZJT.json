@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/5a303f95-ede8-44b6-824f-c16234c503cc.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6GKfnB8wQhmCqsHmgDAkN4",
-      "name": "Casser La Voix",
+      "track": {
+        "id": "6GKfnB8wQhmCqsHmgDAkN4",
+        "name": "Casser La Voix"
+      },
       "duration_ms": 279133,
-      "artist": [
-        "Patrick Bruel"
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "id": "0vmrFTWCwK3gFGDzeUzeMg"
+        }
       ],
-      "artistId": [
-        "0vmrFTWCwK3gFGDzeUzeMg"
-      ],
-      "albumId": "2BPmd6BmvLHEz9ieEJBSNt",
+      "album": {
+        "id": "2BPmd6BmvLHEz9ieEJBSNt",
+        "name": "Alors regarde",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b8420ca49fa8270c3cdd7c9"
+      },
       "release_date": "1989-10-16",
       "popularity": 47
     },
     {
-      "trackId": "76TZCvJ8GitQ2FA1q5dKu0",
-      "name": "The Boxer",
+      "track": {
+        "id": "76TZCvJ8GitQ2FA1q5dKu0",
+        "name": "The Boxer"
+      },
       "duration_ms": 308520,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "0JwHz5SSvpYWuuCNbtYZoV",
+      "album": {
+        "id": "0JwHz5SSvpYWuuCNbtYZoV",
+        "name": "Bridge Over Troubled Water",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba7fe7dd76cd4307e57dd75f"
+      },
       "release_date": "1970-01-26",
       "popularity": 70
     },
     {
-      "trackId": "1rTdxFBa9xyb0v5eXrQXfl",
-      "name": "Khochu Peremen - Remix",
+      "track": {
+        "id": "1rTdxFBa9xyb0v5eXrQXfl",
+        "name": "Khochu Peremen - Remix"
+      },
       "duration_ms": 339800,
-      "artist": [
-        "Viktor Tsoi"
+      "artists": [
+        {
+          "name": "Viktor Tsoi",
+          "id": "4dngB44yGo3ErubxhE1bUW"
+        }
       ],
-      "artistId": [
-        "4dngB44yGo3ErubxhE1bUW"
-      ],
-      "albumId": "4mqzXZatgAaNfLH8rigxOS",
+      "album": {
+        "id": "4mqzXZatgAaNfLH8rigxOS",
+        "name": "Pechal'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e95c845eb214c8184730844e"
+      },
       "release_date": "2000",
       "popularity": 1
     },
     {
-      "trackId": "5K8BwPXLN7rdlYsPHFXrY3",
-      "name": "Slavonic March, Op. 31, TH 45",
+      "track": {
+        "id": "5K8BwPXLN7rdlYsPHFXrY3",
+        "name": "Slavonic March, Op. 31, TH 45"
+      },
       "duration_ms": 555506,
-      "artist": [
-        "Pyotr Ilyich Tchaikovsky",
-        "Russian National Orchestra",
-        "Mikhail Pletnev"
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "id": "3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Russian National Orchestra",
+          "id": "1W3sZMluDmealiI6B5awE9"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "id": "2YdRnOqBXCl9g8xCLcGh8C"
+        }
       ],
-      "artistId": [
-        "3MKCzCnpzw3TjUYs2v7vDA",
-        "1W3sZMluDmealiI6B5awE9",
-        "2YdRnOqBXCl9g8xCLcGh8C"
-      ],
-      "albumId": "1We2OMeqUKtl4z3xdooI4r",
+      "album": {
+        "id": "1We2OMeqUKtl4z3xdooI4r",
+        "name": "Tchaikovsky Selections",
+        "img": "https://i.scdn.co/image/ab67616d00001e02653c9287d28bbbd1f729594b"
+      },
       "release_date": "2016-04-01",
       "popularity": 34
     },
     {
-      "trackId": "3kCfILjLsow1AGSTp4apIz",
-      "name": "Minä Suojelen Sinua Kaikelta",
+      "track": {
+        "id": "3kCfILjLsow1AGSTp4apIz",
+        "name": "Minä Suojelen Sinua Kaikelta"
+      },
       "duration_ms": 261466,
-      "artist": [
-        "Ultra Bra"
+      "artists": [
+        {
+          "name": "Ultra Bra",
+          "id": "627dKDcsgfO25s2ScC4sgQ"
+        }
       ],
-      "artistId": [
-        "627dKDcsgfO25s2ScC4sgQ"
-      ],
-      "albumId": "4f7660RsgvuUEnkgPyCErS",
+      "album": {
+        "id": "4f7660RsgvuUEnkgPyCErS",
+        "name": "Kroketti",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9217fe9396c0dcced12efd3"
+      },
       "release_date": "1997-01-01",
       "popularity": 39
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "0ww36wIQ1FBvsW8Mbmq4d5",
-      "name": "Он не вернулся из боя",
+      "track": {
+        "id": "0ww36wIQ1FBvsW8Mbmq4d5",
+        "name": "Он не вернулся из боя"
+      },
       "duration_ms": 134280,
-      "artist": [
-        "Владимир Высоцкий"
+      "artists": [
+        {
+          "name": "Владимир Высоцкий",
+          "id": "6hKLYGlOtGVNzZUuvS99Nw"
+        }
       ],
-      "artistId": [
-        "6hKLYGlOtGVNzZUuvS99Nw"
-      ],
-      "albumId": "6V0jJdl84I7JL2lssUQVGY",
+      "album": {
+        "id": "6V0jJdl84I7JL2lssUQVGY",
+        "name": "Владимир Высоцкий 80",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ba71ffb42efcacb09543bc7"
+      },
       "release_date": "2018-01-01",
       "popularity": 23
     },
     {
-      "trackId": "4kvQEVA5FRXX9dpWrGEnQD",
-      "name": "En valsmelodi",
+      "track": {
+        "id": "4kvQEVA5FRXX9dpWrGEnQD",
+        "name": "En valsmelodi"
+      },
       "duration_ms": 191693,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "1ZkzTN5A0Viffra14nS2QX",
+      "album": {
+        "id": "1ZkzTN5A0Viffra14nS2QX",
+        "name": "Nils Ferlin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3911e0f438f0f6252a0fe70"
+      },
       "release_date": "1961",
       "popularity": 18
     },
     {
-      "trackId": "3ZMgFW0P5iO2iN5oLRzwF0",
-      "name": "Mysteriet (Mysteeri) -Mysteriet deg- (with Lisa Nilsson)",
+      "track": {
+        "id": "3ZMgFW0P5iO2iN5oLRzwF0",
+        "name": "Mysteriet (Mysteeri) -Mysteriet deg- (with Lisa Nilsson)"
+      },
       "duration_ms": 239293,
-      "artist": [
-        "Aki Sirkesalo",
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Aki Sirkesalo",
+          "id": "5XC3LXmd61ujVjH8UUqO8Q"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "5XC3LXmd61ujVjH8UUqO8Q",
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "5q9uVnOklyvUqsmKhsxyhH",
+      "album": {
+        "id": "5q9uVnOklyvUqsmKhsxyhH",
+        "name": "30 Unohtumatonta Laulua",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af081858599618166f01ed2a"
+      },
       "release_date": "2006-10-23",
       "popularity": 41
     },
     {
-      "trackId": "3PNqtQFVeULgHm7Cs7Yofd",
-      "name": "Abdel Kader - Live à Bercy, Paris / 1998",
+      "track": {
+        "id": "3PNqtQFVeULgHm7Cs7Yofd",
+        "name": "Abdel Kader - Live à Bercy, Paris / 1998"
+      },
       "duration_ms": 297693,
-      "artist": [
-        "Rachid Taha",
-        "Faudel",
-        "Khaled"
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "id": "2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Faudel",
+          "id": "3z7JrEEE9McrDXpYigPncZ"
+        },
+        {
+          "name": "Khaled",
+          "id": "28ztjHIXceRRntmTUfnmUX"
+        }
       ],
-      "artistId": [
-        "2URqJkDiySO0FRiAUq75FV",
-        "3z7JrEEE9McrDXpYigPncZ",
-        "28ztjHIXceRRntmTUfnmUX"
-      ],
-      "albumId": "1fYYDAZ9C2gg3rB66JpHjS",
+      "album": {
+        "id": "1fYYDAZ9C2gg3rB66JpHjS",
+        "name": "1,2,3, Soleils",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de0fe2b8a5cbd14fd5eb9fcc"
+      },
       "release_date": "1999-01-01",
       "popularity": 50
     },
     {
-      "trackId": "6l5ZqtyUHBzxVTtFvtWwWG",
-      "name": "Spegling",
+      "track": {
+        "id": "6l5ZqtyUHBzxVTtFvtWwWG",
+        "name": "Spegling"
+      },
       "duration_ms": 189333,
-      "artist": [
-        "Barbara Helsingius"
+      "artists": [
+        {
+          "name": "Barbara Helsingius",
+          "id": "0OTMFQw0bl8dfyL0iT6GJf"
+        }
       ],
-      "artistId": [
-        "0OTMFQw0bl8dfyL0iT6GJf"
-      ],
-      "albumId": "7z3g2VhRKPs4zO288ftwRj",
+      "album": {
+        "id": "7z3g2VhRKPs4zO288ftwRj",
+        "name": "Spegling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02caecbaa5cca7d08c46a4405a"
+      },
       "release_date": "2011-01-06",
       "popularity": 4
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     }

@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/964403e8-eb25-4243-bd1e-5dee77076172.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3Um9toULmYFGCpvaIPFw7l",
-      "name": "What's Going On",
+      "track": {
+        "id": "3Um9toULmYFGCpvaIPFw7l",
+        "name": "What's Going On"
+      },
       "duration_ms": 233000,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "album": {
+        "id": "2v6ANhWhZBUKkg6pJJBs3B",
+        "name": "What's Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
+      },
       "release_date": "1971-05-21",
       "popularity": 69
     },
     {
-      "trackId": "62gZY6joWPt97hbsbIdd4t",
-      "name": "Att angöra en brygga",
+      "track": {
+        "id": "62gZY6joWPt97hbsbIdd4t",
+        "name": "Att angöra en brygga"
+      },
       "duration_ms": 153826,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 46
     },
     {
-      "trackId": "1eWZY9g8A7GAbBTfxMUy14",
-      "name": "Albert's Shuffle",
+      "track": {
+        "id": "1eWZY9g8A7GAbBTfxMUy14",
+        "name": "Albert's Shuffle"
+      },
       "duration_ms": 414000,
-      "artist": [
-        "Al Kooper"
+      "artists": [
+        {
+          "name": "Al Kooper",
+          "id": "49JvZ17o0VaAmXaJv5kZlv"
+        }
       ],
-      "artistId": [
-        "49JvZ17o0VaAmXaJv5kZlv"
-      ],
-      "albumId": "4tjoWIPvhO3GW5vty6tHUn",
+      "album": {
+        "id": "4tjoWIPvhO3GW5vty6tHUn",
+        "name": "Al's Big Deal",
+        "img": "https://i.scdn.co/image/ab67616d00001e027038086db7e42ed38ff80950"
+      },
       "release_date": "1972",
       "popularity": 43
     },
     {
-      "trackId": "0Yqr9qtmhjYPUtsFB04g9R",
-      "name": "Blood Sweat & Tears",
+      "track": {
+        "id": "0Yqr9qtmhjYPUtsFB04g9R",
+        "name": "Blood Sweat & Tears"
+      },
       "duration_ms": 217051,
-      "artist": [
-        "BTS"
+      "artists": [
+        {
+          "name": "BTS",
+          "id": "3Nrfpe0tUJi4K4DXYWgMUX"
+        }
       ],
-      "artistId": [
-        "3Nrfpe0tUJi4K4DXYWgMUX"
-      ],
-      "albumId": "6THpewjqJ15ORBJkh5CEYb",
+      "album": {
+        "id": "6THpewjqJ15ORBJkh5CEYb",
+        "name": "You Never Walk Alone",
+        "img": "https://i.scdn.co/image/ab67616d00001e021fd0a8fc28b2a0a5d9cdc6c6"
+      },
       "release_date": "2017-02-13",
       "popularity": 53
     },
     {
-      "trackId": "7IxJI1ffpERSc6Ii8UGI3G",
-      "name": "Barbossa Is Hungry",
+      "track": {
+        "id": "7IxJI1ffpERSc6Ii8UGI3G",
+        "name": "Barbossa Is Hungry"
+      },
       "duration_ms": 246120,
-      "artist": [
-        "Klaus Badelt"
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "id": "03GruNQP8X25PCoWzdvIGZ"
+        }
       ],
-      "artistId": [
-        "03GruNQP8X25PCoWzdvIGZ"
-      ],
-      "albumId": "46co3YFtDUWwq1DiazleHP",
+      "album": {
+        "id": "46co3YFtDUWwq1DiazleHP",
+        "name": "Pirates Of The Caribbean Original Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297de5f41f1bda315d128e086"
+      },
       "release_date": "2003-01-01",
       "popularity": 44
     },
     {
-      "trackId": "1wluZWSTbISDzbuaV3KNzd",
-      "name": "Sunny Skies - 2019 Remaster",
+      "track": {
+        "id": "1wluZWSTbISDzbuaV3KNzd",
+        "name": "Sunny Skies - 2019 Remaster"
+      },
       "duration_ms": 141120,
-      "artist": [
-        "James Taylor"
+      "artists": [
+        {
+          "name": "James Taylor",
+          "id": "0vn7UBvSQECKJm2817Yf1P"
+        }
       ],
-      "artistId": [
-        "0vn7UBvSQECKJm2817Yf1P"
-      ],
-      "albumId": "1HiG0ukRmFPN13EVcf98Jx",
+      "album": {
+        "id": "1HiG0ukRmFPN13EVcf98Jx",
+        "name": "Sweet Baby James (2019 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3adf9b1706b05af854bbad4"
+      },
       "release_date": "1970-02-01",
       "popularity": 40
     },
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "43LDXcy86qmEgfy6Wd2AZk",
-      "name": "Visions",
+      "track": {
+        "id": "43LDXcy86qmEgfy6Wd2AZk",
+        "name": "Visions"
+      },
       "duration_ms": 323266,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "5jgI8Eminx9MmLBontDWq8",
+      "album": {
+        "id": "5jgI8Eminx9MmLBontDWq8",
+        "name": "Innervisions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea8ab1a548312b79ac955266"
+      },
       "release_date": "1973-08-03",
       "popularity": 44
     },
     {
-      "trackId": "6Q6YqGj1Ku1CUGHWSFwSHY",
-      "name": "Does Anybody Really Know What Time It Is?",
+      "track": {
+        "id": "6Q6YqGj1Ku1CUGHWSFwSHY",
+        "name": "Does Anybody Really Know What Time It Is?"
+      },
       "duration_ms": 202133,
-      "artist": [
-        "Chicago"
+      "artists": [
+        {
+          "name": "Chicago",
+          "id": "3iDD7bnsjL9J4fO298r0L0"
+        }
       ],
-      "artistId": [
-        "3iDD7bnsjL9J4fO298r0L0"
-      ],
-      "albumId": "5qWGV0fd7hpdptJYI4G9Dd",
+      "album": {
+        "id": "5qWGV0fd7hpdptJYI4G9Dd",
+        "name": "Chicago IX: Chicago's Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ac413b28547dbc45412a3ce"
+      },
       "release_date": "1975-11-10",
       "popularity": 50
     },
     {
-      "trackId": "5jgFfDIR6FR0gvlA56Nakr",
-      "name": "Blackbird - Remastered 2009",
+      "track": {
+        "id": "5jgFfDIR6FR0gvlA56Nakr",
+        "name": "Blackbird - Remastered 2009"
+      },
       "duration_ms": 138386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 72
     },
     {
-      "trackId": "1SbiV7CCoAtbeQYZo4gkxw",
-      "name": "Wake up Sunshine - 2002 Remaster",
+      "track": {
+        "id": "1SbiV7CCoAtbeQYZo4gkxw",
+        "name": "Wake up Sunshine - 2002 Remaster"
+      },
       "duration_ms": 149133,
-      "artist": [
-        "Chicago"
+      "artists": [
+        {
+          "name": "Chicago",
+          "id": "3iDD7bnsjL9J4fO298r0L0"
+        }
       ],
-      "artistId": [
-        "3iDD7bnsjL9J4fO298r0L0"
-      ],
-      "albumId": "0PRgsdDXQ8QPaDUetVF7yN",
+      "album": {
+        "id": "0PRgsdDXQ8QPaDUetVF7yN",
+        "name": "Chicago II",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f97c928726d4abbaed5aebf9"
+      },
       "release_date": "1970-01-26",
       "popularity": 33
     },
     {
-      "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
-      "name": "Ska vi byta?",
+      "track": {
+        "id": "3LSdaNWsEMAuiXy3xYm3gZ",
+        "name": "Ska vi byta?"
+      },
       "duration_ms": 155440,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     }

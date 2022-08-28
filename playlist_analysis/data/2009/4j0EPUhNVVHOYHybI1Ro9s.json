@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247449_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5lw3q2falVkpzoms5pUPqL",
-      "name": "Too Close for Comfort - Remastered",
+      "track": {
+        "id": "5lw3q2falVkpzoms5pUPqL",
+        "name": "Too Close for Comfort - Remastered"
+      },
       "duration_ms": 256398,
-      "artist": [
-        "Oscar Peterson Trio"
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "id": "0ldU0QJm31y0d6f57R1G2A"
+        }
       ],
-      "artistId": [
-        "0ldU0QJm31y0d6f57R1G2A"
-      ],
-      "albumId": "2j5Cb61i6HgSUQlwSj7y8a",
+      "album": {
+        "id": "2j5Cb61i6HgSUQlwSj7y8a",
+        "name": "Another Day (Remastered Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cee40f73f425e19f93c628b2"
+      },
       "release_date": "2014-01-31",
       "popularity": 7
     },
     {
-      "trackId": "15jOfpODBjWV4N4CqydXZd",
-      "name": "Supernaturally",
+      "track": {
+        "id": "15jOfpODBjWV4N4CqydXZd",
+        "name": "Supernaturally"
+      },
       "duration_ms": 277253,
-      "artist": [
-        "Nick Cave & The Bad Seeds"
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "id": "4UXJsSlnKd7ltsrHebV79Q"
+        }
       ],
-      "artistId": [
-        "4UXJsSlnKd7ltsrHebV79Q"
-      ],
-      "albumId": "4OrbNhWLOrWi6lb40T0IHM",
+      "album": {
+        "id": "4OrbNhWLOrWi6lb40T0IHM",
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "img": "https://i.scdn.co/image/ab67616d00001e023299a7a4ff0d74961620c989"
+      },
       "release_date": "2004-09-20",
       "popularity": 32
     },
     {
-      "trackId": "5U3MkUWTpzj37A33GboDtv",
-      "name": "Singin' In The Rain",
+      "track": {
+        "id": "5U3MkUWTpzj37A33GboDtv",
+        "name": "Singin' In The Rain"
+      },
       "duration_ms": 294066,
-      "artist": [
-        "Gene Kelly"
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "id": "1mhlGWeiNrWnhJJc2EufYk"
+        }
       ],
-      "artistId": [
-        "1mhlGWeiNrWnhJJc2EufYk"
-      ],
-      "albumId": "21BM0AFtpOMPdrcvo66TNK",
+      "album": {
+        "id": "21BM0AFtpOMPdrcvo66TNK",
+        "name": "Singin' in the Rain (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0dc19d598c78422ea87197b"
+      },
       "release_date": "1952-04-11",
       "popularity": 53
     },
     {
-      "trackId": "2ffSVIHPaQaHCDxkXXnJDn",
-      "name": "Happy Little Sunbeam",
+      "track": {
+        "id": "2ffSVIHPaQaHCDxkXXnJDn",
+        "name": "Happy Little Sunbeam"
+      },
       "duration_ms": 167853,
-      "artist": [
-        "Chet Baker Quartet"
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "id": "3UcvB0rDa44LfjsOO5Btfc"
+        }
       ],
-      "artistId": [
-        "3UcvB0rDa44LfjsOO5Btfc"
-      ],
-      "albumId": "4HGoxGmE65LXZgedyupHjY",
+      "album": {
+        "id": "4HGoxGmE65LXZgedyupHjY",
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271544c38793b499ff6ed2486"
+      },
       "release_date": "2005-08-16",
       "popularity": 30
     },
     {
-      "trackId": "5cI8jaGHViB14xBMbOEsqk",
-      "name": "Elliot la marmotte",
+      "track": {
+        "id": "5cI8jaGHViB14xBMbOEsqk",
+        "name": "Elliot la marmotte"
+      },
       "duration_ms": 183180,
-      "artist": [
-        "Vicky Legros",
-        "Bruno Roussel"
+      "artists": [
+        {
+          "name": "Vicky Legros",
+          "id": "2NOROd5no2qzIARbpNpoU6"
+        },
+        {
+          "name": "Bruno Roussel",
+          "id": "5eoSaRtHWtHhgMly2jNNam"
+        }
       ],
-      "artistId": [
-        "2NOROd5no2qzIARbpNpoU6",
-        "5eoSaRtHWtHhgMly2jNNam"
-      ],
-      "albumId": "66Qio0WR1wFFNoJdcSYRIj",
+      "album": {
+        "id": "66Qio0WR1wFFNoJdcSYRIj",
+        "name": "Elliot la marmotte",
+        "img": "https://i.scdn.co/image/ab67616d00001e02106fc940294baacd65f51845"
+      },
       "release_date": "2019-07-14",
       "popularity": 3
     },
     {
-      "trackId": "2oBKJYEr166RFXyXtEAtCd",
-      "name": "Don't Get Around Much Anymore",
+      "track": {
+        "id": "2oBKJYEr166RFXyXtEAtCd",
+        "name": "Don't Get Around Much Anymore"
+      },
       "duration_ms": 183693,
-      "artist": [
-        "Duke Ellington"
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "id": "4F7Q5NV6h5TSwCainz8S5A"
+        }
       ],
-      "artistId": [
-        "4F7Q5NV6h5TSwCainz8S5A"
-      ],
-      "albumId": "1xhUCPji1RYC7Xr4nsAkU7",
+      "album": {
+        "id": "1xhUCPji1RYC7Xr4nsAkU7",
+        "name": "The Duke: The Columbia Years (1927-1962)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02378d42d11fe9ee3e17557380"
+      },
       "release_date": "2000-01-31",
       "popularity": 43
     },
     {
-      "trackId": "3VGSPHf05GoipHsLa204lR",
-      "name": "På ängen stod en björk",
+      "track": {
+        "id": "3VGSPHf05GoipHsLa204lR",
+        "name": "På ängen stod en björk"
+      },
       "duration_ms": 169413,
-      "artist": [
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "6Lo0aL2Yq8NnRPVulAI0Hw",
+      "album": {
+        "id": "6Lo0aL2Yq8NnRPVulAI0Hw",
+        "name": "Jazz på ryska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02059e1cfa2e6a0b934e63ce79"
+      },
       "release_date": "1967",
       "popularity": 19
     },
     {
-      "trackId": "6LQ7ilBbXGhM34A1tsMyKa",
-      "name": "Cecilia - From 'Minions: The Rise of Gru' Soundtrack",
+      "track": {
+        "id": "6LQ7ilBbXGhM34A1tsMyKa",
+        "name": "Cecilia - From 'Minions: The Rise of Gru' Soundtrack"
+      },
       "duration_ms": 134057,
-      "artist": [
-        "The Minions"
+      "artists": [
+        {
+          "name": "The Minions",
+          "id": "3NVrWkcHOtmPbMSvgHmijZ"
+        }
       ],
-      "artistId": [
-        "3NVrWkcHOtmPbMSvgHmijZ"
-      ],
-      "albumId": "6Kc0f1PCbWZLOmZNOyXYGN",
+      "album": {
+        "id": "6Kc0f1PCbWZLOmZNOyXYGN",
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241f523db053f4e4df509ec58"
+      },
       "release_date": "2022-07-01",
       "popularity": 49
     },
     {
-      "trackId": "7hIs33FGOXKSNu9LhQ9LKB",
-      "name": "Breathless",
+      "track": {
+        "id": "7hIs33FGOXKSNu9LhQ9LKB",
+        "name": "Breathless"
+      },
       "duration_ms": 193880,
-      "artist": [
-        "Nick Cave & The Bad Seeds"
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "id": "4UXJsSlnKd7ltsrHebV79Q"
+        }
       ],
-      "artistId": [
-        "4UXJsSlnKd7ltsrHebV79Q"
-      ],
-      "albumId": "4OrbNhWLOrWi6lb40T0IHM",
+      "album": {
+        "id": "4OrbNhWLOrWi6lb40T0IHM",
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "img": "https://i.scdn.co/image/ab67616d00001e023299a7a4ff0d74961620c989"
+      },
       "release_date": "2004-09-20",
       "popularity": 49
     },
     {
-      "trackId": "0oTEO4gSNzkyVMm14O3SZB",
-      "name": "So In Love",
+      "track": {
+        "id": "0oTEO4gSNzkyVMm14O3SZB",
+        "name": "So In Love"
+      },
       "duration_ms": 250293,
-      "artist": [
-        "Julie London"
+      "artists": [
+        {
+          "name": "Julie London",
+          "id": "3qUMmh5biaB5hqpF4LqS3m"
+        }
       ],
-      "artistId": [
-        "3qUMmh5biaB5hqpF4LqS3m"
-      ],
-      "albumId": "41fCqxJQMRxdFUQ3uaSsRG",
+      "album": {
+        "id": "41fCqxJQMRxdFUQ3uaSsRG",
+        "name": "Blue Note Trip Tease Part 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e026489f5632df1ac91d1c4ea32"
+      },
       "release_date": "2008-07-11",
       "popularity": 7
     },
     {
-      "trackId": "3XfaSRXfGuWT1rrn9lWx30",
-      "name": "Kathy's Waltz",
+      "track": {
+        "id": "3XfaSRXfGuWT1rrn9lWx30",
+        "name": "Kathy's Waltz"
+      },
       "duration_ms": 287840,
-      "artist": [
-        "The Dave Brubeck Quartet"
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "id": "4iRZAbYvBqnxrbs6K25aJ7"
+        }
       ],
-      "artistId": [
-        "4iRZAbYvBqnxrbs6K25aJ7"
-      ],
-      "albumId": "0nTTEAhCZsbbeplyDMIFuA",
+      "album": {
+        "id": "0nTTEAhCZsbbeplyDMIFuA",
+        "name": "Time Out",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200ace5d3c5bffc123ef1eb51"
+      },
       "release_date": "1959-12-14",
       "popularity": 44
     },
     {
-      "trackId": "7DS7ptbYulL4a006jnjDyD",
-      "name": "I Get a Kick out of You",
+      "track": {
+        "id": "7DS7ptbYulL4a006jnjDyD",
+        "name": "I Get a Kick out of You"
+      },
       "duration_ms": 150440,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "0RYsRBFuNAoqYyHHvSJj6x",
+      "album": {
+        "id": "0RYsRBFuNAoqYyHHvSJj6x",
+        "name": "Little Sparrow",
+        "img": "https://i.scdn.co/image/ab67616d00001e028438d769b22aa5225b37d89d"
+      },
       "release_date": "2001-01-23",
       "popularity": 16
     }

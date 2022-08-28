@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4012fd7f-2795-4fe5-ba6f-809d7dcbf510.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2aoo2jlRnM3A0NyLQqMN2f",
-      "name": "All Along the Watchtower",
+      "track": {
+        "id": "2aoo2jlRnM3A0NyLQqMN2f",
+        "name": "All Along the Watchtower"
+      },
       "duration_ms": 240800,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "5z090LQztiqh13wYspQvKQ",
+      "album": {
+        "id": "5z090LQztiqh13wYspQvKQ",
+        "name": "Electric Ladyland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292"
+      },
       "release_date": "1968-10-25",
       "popularity": 76
     },
     {
-      "trackId": "7bD91vOzk9L2gKMSkdSQy7",
-      "name": "Til deg - Single Version",
+      "track": {
+        "id": "7bD91vOzk9L2gKMSkdSQy7",
+        "name": "Til deg - Single Version"
+      },
       "duration_ms": 223760,
-      "artist": [
-        "Marthe Wang"
+      "artists": [
+        {
+          "name": "Marthe Wang",
+          "id": "1C5w8BJZv0qoTGCFiVlfyZ"
+        }
       ],
-      "artistId": [
-        "1C5w8BJZv0qoTGCFiVlfyZ"
-      ],
-      "albumId": "1dZ6qeWJTDkOPO3ZECRvd2",
+      "album": {
+        "id": "1dZ6qeWJTDkOPO3ZECRvd2",
+        "name": "Til deg (Single Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029185be4272f87949c6483e0d"
+      },
       "release_date": "2016-11-28",
       "popularity": 40
     },
     {
-      "trackId": "3fH4KjXFYMmljxrcGrbPj9",
-      "name": "Don't You (Forget About Me)",
+      "track": {
+        "id": "3fH4KjXFYMmljxrcGrbPj9",
+        "name": "Don't You (Forget About Me)"
+      },
       "duration_ms": 263040,
-      "artist": [
-        "Simple Minds"
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "id": "6hN9F0iuULZYWXppob22Aj"
+        }
       ],
-      "artistId": [
-        "6hN9F0iuULZYWXppob22Aj"
-      ],
-      "albumId": "4YimfceN1R0nOS9CefIFhm",
+      "album": {
+        "id": "4YimfceN1R0nOS9CefIFhm",
+        "name": "Once Upon A Time (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001"
+      },
       "release_date": "1985",
       "popularity": 76
     },
     {
-      "trackId": "7a6hQkUD056vCfzrbuqtum",
-      "name": "Bohemen Leve",
+      "track": {
+        "id": "7a6hQkUD056vCfzrbuqtum",
+        "name": "Bohemen Leve"
+      },
       "duration_ms": 156653,
-      "artist": [
-        "Postgirobygget"
+      "artists": [
+        {
+          "name": "Postgirobygget",
+          "id": "3DdqT0OIZY3arBWnZ3NJeb"
+        }
       ],
-      "artistId": [
-        "3DdqT0OIZY3arBWnZ3NJeb"
-      ],
-      "albumId": "37OHrXXHZRIiKlxbHzOalj",
+      "album": {
+        "id": "37OHrXXHZRIiKlxbHzOalj",
+        "name": "Melis",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b02b049406af4707d70f0107"
+      },
       "release_date": "1996-01-01",
       "popularity": 41
     },
     {
-      "trackId": "3bLPNjCokcUKOFUImtT2sw",
-      "name": "Someone Who'll Get It",
+      "track": {
+        "id": "3bLPNjCokcUKOFUImtT2sw",
+        "name": "Someone Who'll Get It"
+      },
       "duration_ms": 221893,
-      "artist": [
-        "Highasakite"
+      "artists": [
+        {
+          "name": "Highasakite",
+          "id": "5awQWdBpLqN2KFVRN8w56T"
+        }
       ],
-      "artistId": [
-        "5awQWdBpLqN2KFVRN8w56T"
-      ],
-      "albumId": "4aVzMODuSWbYPnMxNvjby0",
+      "album": {
+        "id": "4aVzMODuSWbYPnMxNvjby0",
+        "name": "Camp Echo",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ccf3a74406f5580e70082f9"
+      },
       "release_date": "2016-05-20",
       "popularity": 39
     },
     {
-      "trackId": "54eZmuggBFJbV7k248bTTt",
-      "name": "A Horse with No Name",
+      "track": {
+        "id": "54eZmuggBFJbV7k248bTTt",
+        "name": "A Horse with No Name"
+      },
       "duration_ms": 252239,
-      "artist": [
-        "America",
-        "George Martin"
+      "artists": [
+        {
+          "name": "America",
+          "id": "35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "id": "0tcbedGX7n5UHrMhVsGmIU"
+        }
       ],
-      "artistId": [
-        "35U9lQaRWSQISxQAB94Meo",
-        "0tcbedGX7n5UHrMhVsGmIU"
-      ],
-      "albumId": "0E5IKYhiKgbYQkmfsFonbZ",
+      "album": {
+        "id": "0E5IKYhiKgbYQkmfsFonbZ",
+        "name": "America",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afb855e6461310dff4046c56"
+      },
       "release_date": "1972",
       "popularity": 75
     },
     {
-      "trackId": "4vpeKl0vMGdAXpZiQB2Dtd",
-      "name": "White Rabbit",
+      "track": {
+        "id": "4vpeKl0vMGdAXpZiQB2Dtd",
+        "name": "White Rabbit"
+      },
       "duration_ms": 150640,
-      "artist": [
-        "Jefferson Airplane"
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "id": "2qFr8w5sWUITRlzZ9kZotF"
+        }
       ],
-      "artistId": [
-        "2qFr8w5sWUITRlzZ9kZotF"
-      ],
-      "albumId": "6lPb7Eoon6QPbscWbMsk6a",
+      "album": {
+        "id": "6lPb7Eoon6QPbscWbMsk6a",
+        "name": "Surrealistic Pillow",
+        "img": "https://i.scdn.co/image/ab67616d00001e022dac7a01676ddb36c1d0ec05"
+      },
       "release_date": "1967",
       "popularity": 71
     },
     {
-      "trackId": "0GTK6TesV108Jj5D3MHsYb",
-      "name": "Owner of a Lonely Heart",
+      "track": {
+        "id": "0GTK6TesV108Jj5D3MHsYb",
+        "name": "Owner of a Lonely Heart"
+      },
       "duration_ms": 268506,
-      "artist": [
-        "Yes"
+      "artists": [
+        {
+          "name": "Yes",
+          "id": "7AC976RDJzL2asmZuz7qil"
+        }
       ],
-      "artistId": [
-        "7AC976RDJzL2asmZuz7qil"
-      ],
-      "albumId": "6nNlTIiFd3J06W0rJiiwlz",
+      "album": {
+        "id": "6nNlTIiFd3J06W0rJiiwlz",
+        "name": "90125 (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02418e5dc6c0324f12a96e7aa7"
+      },
       "release_date": "1983-06-01",
       "popularity": 71
     },
     {
-      "trackId": "5Lurc11hoPbC792bYiH7AS",
-      "name": "På et blått rom i Vika",
+      "track": {
+        "id": "5Lurc11hoPbC792bYiH7AS",
+        "name": "På et blått rom i Vika"
+      },
       "duration_ms": 358000,
-      "artist": [
-        "Ketil Bjørnstad"
+      "artists": [
+        {
+          "name": "Ketil Bjørnstad",
+          "id": "3OjcHir4Q8ERzefXtMU1ph"
+        }
       ],
-      "artistId": [
-        "3OjcHir4Q8ERzefXtMU1ph"
-      ],
-      "albumId": "1IcTICFsHx3WLPXe6guO0y",
+      "album": {
+        "id": "1IcTICFsHx3WLPXe6guO0y",
+        "name": "Leve Patagonia",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b393a0e37ede9e2faae6efa3"
+      },
       "release_date": "1978-01-01",
       "popularity": 2
     },
     {
-      "trackId": "74937dcwoOlD4UK44xbSDb",
-      "name": "Svordomsvisan",
+      "track": {
+        "id": "74937dcwoOlD4UK44xbSDb",
+        "name": "Svordomsvisan"
+      },
       "duration_ms": 80666,
-      "artist": [
-        "Magnus & Brasse"
+      "artists": [
+        {
+          "name": "Magnus & Brasse",
+          "id": "7EAytuC4xDYyJo74uAxDHK"
+        }
       ],
-      "artistId": [
-        "7EAytuC4xDYyJo74uAxDHK"
-      ],
-      "albumId": "1X3JGxHRqevOiPouW1DrOD",
+      "album": {
+        "id": "1X3JGxHRqevOiPouW1DrOD",
+        "name": "Varning för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baa7da738728d438705c7bd9"
+      },
       "release_date": "1976",
       "popularity": 32
     },
     {
-      "trackId": "74937dcwoOlD4UK44xbSDb",
-      "name": "Svordomsvisan",
+      "track": {
+        "id": "74937dcwoOlD4UK44xbSDb",
+        "name": "Svordomsvisan"
+      },
       "duration_ms": 80666,
-      "artist": [
-        "Magnus & Brasse"
+      "artists": [
+        {
+          "name": "Magnus & Brasse",
+          "id": "7EAytuC4xDYyJo74uAxDHK"
+        }
       ],
-      "artistId": [
-        "7EAytuC4xDYyJo74uAxDHK"
-      ],
-      "albumId": "1X3JGxHRqevOiPouW1DrOD",
+      "album": {
+        "id": "1X3JGxHRqevOiPouW1DrOD",
+        "name": "Varning för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baa7da738728d438705c7bd9"
+      },
       "release_date": "1976",
       "popularity": 32
     },
     {
-      "trackId": "7zvWdSgzqKUUH5ok8LXtVc",
-      "name": "Månens elev - 2013 Remastered",
+      "track": {
+        "id": "7zvWdSgzqKUUH5ok8LXtVc",
+        "name": "Månens elev - 2013 Remastered"
+      },
       "duration_ms": 255800,
-      "artist": [
-        "Anne Grete Preus"
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "id": "32mTrXKr7W8Tg4hH4S2Do1"
+        }
       ],
-      "artistId": [
-        "32mTrXKr7W8Tg4hH4S2Do1"
-      ],
-      "albumId": "0KepgTekfeBoskIXJxXq3C",
+      "album": {
+        "id": "0KepgTekfeBoskIXJxXq3C",
+        "name": "Millimeter (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb54338b1bcd1c906104664b"
+      },
       "release_date": "1994-10-01",
       "popularity": 26
     }

@@ -7,236 +7,350 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234138_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6N2Xk6t423GhP4hBlFXDmD",
-      "name": "I've Got The World On A String",
+      "track": {
+        "id": "6N2Xk6t423GhP4hBlFXDmD",
+        "name": "I've Got The World On A String"
+      },
       "duration_ms": 139093,
-      "artist": [
-        "Frank Sinatra",
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Liza Minnelli",
+          "id": "3lQpSzdPxoF1FYk7ilbe37"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "3lQpSzdPxoF1FYk7ilbe37"
-      ],
-      "albumId": "67TRGeFfMzq6ArsHrJkzya",
+      "album": {
+        "id": "67TRGeFfMzq6ArsHrJkzya",
+        "name": "Duets (20th Anniversary Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02062b0726843ce4aedc70162e"
+      },
       "release_date": "2013-01-01",
       "popularity": 28
     },
     {
-      "trackId": "0j3p1p06deJ7f9xmJ9yG22",
-      "name": "Back In The U.S.S.R. - Remastered 2009",
+      "track": {
+        "id": "0j3p1p06deJ7f9xmJ9yG22",
+        "name": "Back In The U.S.S.R. - Remastered 2009"
+      },
       "duration_ms": 163453,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 65
     },
     {
-      "trackId": "45ISg0RrhcTn6L2X7iENjB",
-      "name": "Fine Brown Frame",
+      "track": {
+        "id": "45ISg0RrhcTn6L2X7iENjB",
+        "name": "Fine Brown Frame"
+      },
       "duration_ms": 175666,
-      "artist": [
-        "Nellie Lutcher"
+      "artists": [
+        {
+          "name": "Nellie Lutcher",
+          "id": "2rcjLEFEZ37QMTNy2Yk3xK"
+        }
       ],
-      "artistId": [
-        "2rcjLEFEZ37QMTNy2Yk3xK"
-      ],
-      "albumId": "1o1ZgIhWOZKdkVqyhC7fxu",
+      "album": {
+        "id": "1o1ZgIhWOZKdkVqyhC7fxu",
+        "name": "Real Gone Gal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02482052f8cbb18e12c3f97bcd"
+      },
       "release_date": "2002-01-01",
       "popularity": 38
     },
     {
-      "trackId": "4ExwYt3qxmNM1Pewo0keED",
-      "name": "Nice Work If You Can Get It",
+      "track": {
+        "id": "4ExwYt3qxmNM1Pewo0keED",
+        "name": "Nice Work If You Can Get It"
+      },
       "duration_ms": 126975,
-      "artist": [
-        "Oscar Peterson"
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "id": "6zkX5fhrSD4tdVOmimR9wB"
+        }
       ],
-      "artistId": [
-        "6zkX5fhrSD4tdVOmimR9wB"
-      ],
-      "albumId": "2O5GOZsGSYLfbypGw6C96a",
+      "album": {
+        "id": "2O5GOZsGSYLfbypGw6C96a",
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "img": "https://i.scdn.co/image/ab67616d00001e02530dbc1380b4a02e04b6c8b0"
+      },
       "release_date": "1959-01-01",
       "popularity": 19
     },
     {
-      "trackId": "6CVqdefyKI9ltgNIIBokxS",
-      "name": "Var blev ni av ljuva drömmar?",
+      "track": {
+        "id": "6CVqdefyKI9ltgNIIBokxS",
+        "name": "Var blev ni av ljuva drömmar?"
+      },
       "duration_ms": 305106,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 27
     },
     {
-      "trackId": "3PKqDKfsFUEUUeC0TrTBuF",
-      "name": "Götterdämmerung, WWV 86D / Act 3: Fliegt heim, ihr Raben! (Immolation Scene)",
+      "track": {
+        "id": "3PKqDKfsFUEUUeC0TrTBuF",
+        "name": "Götterdämmerung, WWV 86D / Act 3: Fliegt heim, ihr Raben! (Immolation Scene)"
+      },
       "duration_ms": 520374,
-      "artist": [
-        "Richard Wagner",
-        "Birgit Nilsson",
-        "Gottlob Frick"
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "id": "1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Birgit Nilsson",
+          "id": "6ljM6B2XmSU7BtG3tZLQ1K"
+        },
+        {
+          "name": "Gottlob Frick",
+          "id": "0gO52wRLxLFlQXVYjisqnB"
+        }
       ],
-      "artistId": [
-        "1C1x4MVkql8AiABuTw6DgE",
-        "6ljM6B2XmSU7BtG3tZLQ1K",
-        "0gO52wRLxLFlQXVYjisqnB"
-      ],
-      "albumId": "4tEj5Vtog4QUL7PdLHqyGN",
+      "album": {
+        "id": "4tEj5Vtog4QUL7PdLHqyGN",
+        "name": "Wagner: Götterdämmerung",
+        "img": "https://i.scdn.co/image/ab67616d00001e028dc42f6223d28d2f02b1d9d2"
+      },
       "release_date": "2013-01-01",
       "popularity": 11
     },
     {
-      "trackId": "2c3eMq8gRWMfPePplxfHeM",
-      "name": "Panis Angelicus",
+      "track": {
+        "id": "2c3eMq8gRWMfPePplxfHeM",
+        "name": "Panis Angelicus"
+      },
       "duration_ms": 226400,
-      "artist": [
-        "César Franck",
-        "Luciano Pavarotti",
-        "Sting"
+      "artists": [
+        {
+          "name": "César Franck",
+          "id": "1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "1C3sffOOvQNUwg4YIsvKqy",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "2aeqnJTTRHrXPzy77nyorj",
+      "album": {
+        "id": "2aeqnJTTRHrXPzy77nyorj",
+        "name": "Pavarotti The 50 Greatest Tracks",
+        "img": "https://i.scdn.co/image/ab67616d00001e026c680124c8b09f8f301e4c37"
+      },
       "release_date": "2013-01-01",
       "popularity": 32
     },
     {
-      "trackId": "3zNtOcxecLkcBQPpTlIZIf",
-      "name": "Kaiserwalzer, Op. 437",
+      "track": {
+        "id": "3zNtOcxecLkcBQPpTlIZIf",
+        "name": "Kaiserwalzer, Op. 437"
+      },
       "duration_ms": 611400,
-      "artist": [
-        "Johann Strauss II",
-        "Wiener Philharmoniker",
-        "Willi Boskovsky"
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "id": "5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Willi Boskovsky",
+          "id": "0KE7MPlNGYZugOqQngcqQV"
+        }
       ],
-      "artistId": [
-        "5goS0v24Fc1ydjCKQRwtjM",
-        "003f4bk13c6Q3gAUXv7dGJ",
-        "0KE7MPlNGYZugOqQngcqQV"
-      ],
-      "albumId": "3GazA3MeYPpMaDy2kDfP7K",
+      "album": {
+        "id": "3GazA3MeYPpMaDy2kDfP7K",
+        "name": "Strauss, J.: Famous Waltzes - The Blue Danube; Emperor Waltz etc.",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf429aae5a9ec411e01b051d"
+      },
       "release_date": "1966-01-01",
       "popularity": 7
     },
     {
-      "trackId": "5UGCJkTmBXdRt2bukZszLp",
-      "name": "String Quartet No. 13 in B-Flat Major, Op. 130: 5. Cavatina. Adagio molto espressivo",
+      "track": {
+        "id": "5UGCJkTmBXdRt2bukZszLp",
+        "name": "String Quartet No. 13 in B-Flat Major, Op. 130: 5. Cavatina. Adagio molto espressivo"
+      },
       "duration_ms": 469000,
-      "artist": [
-        "Ludwig van Beethoven",
-        "Danish String Quartet"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Danish String Quartet",
+          "id": "7dkujWxvEqOlFAo979V68D"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "7dkujWxvEqOlFAo979V68D"
-      ],
-      "albumId": "7nNwBx475gmuqjYcm7WGtN",
+      "album": {
+        "id": "7nNwBx475gmuqjYcm7WGtN",
+        "name": "Prism II",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b619ff6bf8161ce75773aee8"
+      },
       "release_date": "2019-09-13",
       "popularity": 24
     },
     {
-      "trackId": "4MBKAupV3CGxS7uMBrFX1J",
-      "name": "Happy Days Are Here Again",
+      "track": {
+        "id": "4MBKAupV3CGxS7uMBrFX1J",
+        "name": "Happy Days Are Here Again"
+      },
       "duration_ms": 202000,
-      "artist": [
-        "Ben Selvin & His Orchestra"
+      "artists": [
+        {
+          "name": "Ben Selvin & His Orchestra",
+          "id": "1XpbvmczuA8d6CgMYlJvU6"
+        }
       ],
-      "artistId": [
-        "1XpbvmczuA8d6CgMYlJvU6"
-      ],
-      "albumId": "4QwjeqGso8DQbEhvb6rALn",
+      "album": {
+        "id": "4QwjeqGso8DQbEhvb6rALn",
+        "name": "Happy Days Are Here Again (Authentic Recordings 1930)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0293a65a50f160bde638ce29d3"
+      },
       "release_date": "2014",
       "popularity": 40
     },
     {
-      "trackId": "43QzmxhO9uwi60JhYmr9ox",
-      "name": "Miles Ahead",
+      "track": {
+        "id": "43QzmxhO9uwi60JhYmr9ox",
+        "name": "Miles Ahead"
+      },
       "duration_ms": 209333,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "6WOddaa5Vqp8gQZic8ZUw9",
+      "album": {
+        "id": "6WOddaa5Vqp8gQZic8ZUw9",
+        "name": "Miles Ahead (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275e7a7470a914679d2f90526"
+      },
       "release_date": "1957-11",
       "popularity": 36
     },
     {
-      "trackId": "1U1i1HBJ5H8DY5J4fO8ySg",
-      "name": "Tannhäuser: Overture",
+      "track": {
+        "id": "1U1i1HBJ5H8DY5J4fO8ySg",
+        "name": "Tannhäuser: Overture"
+      },
       "duration_ms": 853826,
-      "artist": [
-        "Richard Wagner",
-        "Wiener Philharmoniker",
-        "Sir Georg Solti"
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "id": "1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "id": "0dicUFoK5LIbqu6OoHu8VH"
+        }
       ],
-      "artistId": [
-        "1C1x4MVkql8AiABuTw6DgE",
-        "003f4bk13c6Q3gAUXv7dGJ",
-        "0dicUFoK5LIbqu6OoHu8VH"
-      ],
-      "albumId": "4clpzOVyYckfHXEuFZ8gXu",
+      "album": {
+        "id": "4clpzOVyYckfHXEuFZ8gXu",
+        "name": "Wagner: Orchestral Favourites",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c92ace750bc2332302adaea3"
+      },
       "release_date": "1994-01-01",
       "popularity": 40
     },
     {
-      "trackId": "3hiCi33def8WEESj7XRzQ5",
-      "name": "Berlioz: La Damnation de Faust, Op. 24, H. 111, Pt. 1 Scene 3: Marche hongroise (Allegro marcato)",
+      "track": {
+        "id": "3hiCi33def8WEESj7XRzQ5",
+        "name": "Berlioz: La Damnation de Faust, Op. 24, H. 111, Pt. 1 Scene 3: Marche hongroise (Allegro marcato)"
+      },
       "duration_ms": 282306,
-      "artist": [
-        "Hector Berlioz",
-        "Hallé",
-        "Sir John Barbirolli"
+      "artists": [
+        {
+          "name": "Hector Berlioz",
+          "id": "11T8SOX82xraocZzUXzkvM"
+        },
+        {
+          "name": "Hallé",
+          "id": "0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir John Barbirolli",
+          "id": "5X3hmAle6klG0VvstAnvyD"
+        }
       ],
-      "artistId": [
-        "11T8SOX82xraocZzUXzkvM",
-        "0VzwesVsEMjYDaMrrdukam",
-        "5X3hmAle6klG0VvstAnvyD"
-      ],
-      "albumId": "4aWWmlZxhkUYo6m8K20abx",
+      "album": {
+        "id": "4aWWmlZxhkUYo6m8K20abx",
+        "name": "Berliotz: Symphony Fantastique/Romeo & Juliet - Cluytens/Giulini/Barborolli",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b40606767f18285d928857e6"
+      },
       "release_date": "1995-10-17",
       "popularity": 0
     },
     {
-      "trackId": "31pzrNjnn5KYWFYHI8LTAa",
-      "name": "You're The Top",
+      "track": {
+        "id": "31pzrNjnn5KYWFYHI8LTAa",
+        "name": "You're The Top"
+      },
       "duration_ms": 215626,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "6nOxyYuddsKmHYRQccKSjM",
+      "album": {
+        "id": "6nOxyYuddsKmHYRQccKSjM",
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "img": "https://i.scdn.co/image/ab67616d00001e025de02d26973639bf6f1eea25"
+      },
       "release_date": "1956-01-01",
       "popularity": 29
     },
     {
-      "trackId": "6EOKwO6WaLal58MSsi6U4W",
-      "name": "Eleanor Rigby",
+      "track": {
+        "id": "6EOKwO6WaLal58MSsi6U4W",
+        "name": "Eleanor Rigby"
+      },
       "duration_ms": 125226,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0XRZpF083HqgygM0v1hQyE",
+      "album": {
+        "id": "0XRZpF083HqgygM0v1hQyE",
+        "name": "Yellow Submarine Songtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d807dd713cdfbeed142881e2"
+      },
       "release_date": "2014-01-01",
       "popularity": 67
     }

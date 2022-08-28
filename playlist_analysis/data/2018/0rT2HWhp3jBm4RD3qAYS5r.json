@@ -7,144 +7,206 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/87dd76ef-432b-4eb5-936b-db85a9db65d6.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "15EZ0MVbTowb8ZvzgB02eO",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "15EZ0MVbTowb8ZvzgB02eO",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 174093,
-      "artist": [
-        "Nationalteatern"
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "id": "3GBq0lnwXpfnLmMndLDZ6U"
+        }
       ],
-      "artistId": [
-        "3GBq0lnwXpfnLmMndLDZ6U"
-      ],
-      "albumId": "0mwdXf3cr5jJnDaXTfcOIK",
+      "album": {
+        "id": "0mwdXf3cr5jJnDaXTfcOIK",
+        "name": "Barn av vår tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277e2729f5435fc8b778ed924"
+      },
       "release_date": "1978",
       "popularity": 49
     },
     {
-      "trackId": "3RkQ3UwOyPqpIiIvGVewuU",
-      "name": "Mr. Tambourine Man",
+      "track": {
+        "id": "3RkQ3UwOyPqpIiIvGVewuU",
+        "name": "Mr. Tambourine Man"
+      },
       "duration_ms": 330533,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "1lPoRKSgZHQAYXxzBsOQ7v",
+      "album": {
+        "id": "1lPoRKSgZHQAYXxzBsOQ7v",
+        "name": "Bringing It All Back Home",
+        "img": "https://i.scdn.co/image/ab67616d00001e026960c5f4eb72f0c06aa92181"
+      },
       "release_date": "1965-03-22",
       "popularity": 63
     },
     {
-      "trackId": "6doLuKEEFOkhY3atmmqdvn",
-      "name": "El Hatzipor",
+      "track": {
+        "id": "6doLuKEEFOkhY3atmmqdvn",
+        "name": "El Hatzipor"
+      },
       "duration_ms": 364973,
-      "artist": [
-        "Avishai Cohen"
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "id": "5wu05jGsVMAFHYMYHqCB9l"
+        }
       ],
-      "artistId": [
-        "5wu05jGsVMAFHYMYHqCB9l"
-      ],
-      "albumId": "1KG80lbbuBCXolc9iWO7Fw",
+      "album": {
+        "id": "1KG80lbbuBCXolc9iWO7Fw",
+        "name": "Aurora",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ecea001e2e1b3a148df777f"
+      },
       "release_date": "2009-03-16",
       "popularity": 19
     },
     {
-      "trackId": "1LS0PHmu1BAKgt1aVlBrUM",
-      "name": "Ikh Shtey Unter A Bokserboym - I Stand Beneath a Carob Tree",
+      "track": {
+        "id": "1LS0PHmu1BAKgt1aVlBrUM",
+        "name": "Ikh Shtey Unter A Bokserboym - I Stand Beneath a Carob Tree"
+      },
       "duration_ms": 232040,
-      "artist": [
-        "Chava Alberstein",
-        "The Klezmatics"
+      "artists": [
+        {
+          "name": "Chava Alberstein",
+          "id": "5UbgVjyCkpIMOzQuOI4DOW"
+        },
+        {
+          "name": "The Klezmatics",
+          "id": "0tgCD1jE7zLillCOoG4h8d"
+        }
       ],
-      "artistId": [
-        "5UbgVjyCkpIMOzQuOI4DOW",
-        "0tgCD1jE7zLillCOoG4h8d"
-      ],
-      "albumId": "5CMbWrgcC3FajQa0GwNZaz",
+      "album": {
+        "id": "5CMbWrgcC3FajQa0GwNZaz",
+        "name": "The Well - Di Krenitse",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245fe152501eb9ff3c545a473"
+      },
       "release_date": "2001-11-20",
       "popularity": 9
     },
     {
-      "trackId": "4IdAkaK3oeBpKXBF6hKxgR",
-      "name": "Med ögon känsliga för grönt",
+      "track": {
+        "id": "4IdAkaK3oeBpKXBF6hKxgR",
+        "name": "Med ögon känsliga för grönt"
+      },
       "duration_ms": 236413,
-      "artist": [
-        "Barbro Hörberg"
+      "artists": [
+        {
+          "name": "Barbro Hörberg",
+          "id": "7urXjli8ptr8Y8Z0XLtiJ9"
+        }
       ],
-      "artistId": [
-        "7urXjli8ptr8Y8Z0XLtiJ9"
-      ],
-      "albumId": "0SrGEG4PYLb68zVZ7Ser4u",
+      "album": {
+        "id": "0SrGEG4PYLb68zVZ7Ser4u",
+        "name": "Med ögon känsliga för grönt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6b8306828d0efed29c8c4c5"
+      },
       "release_date": "1973-01-01",
       "popularity": 36
     },
     {
-      "trackId": "30HEgdoNXc5wcahxFtusID",
-      "name": "Moby",
+      "track": {
+        "id": "30HEgdoNXc5wcahxFtusID",
+        "name": "Moby"
+      },
       "duration_ms": 302741,
-      "artist": [
-        "Megalodon Collective"
+      "artists": [
+        {
+          "name": "Megalodon Collective",
+          "id": "279uYY1pJnEZvet8ho4bvS"
+        }
       ],
-      "artistId": [
-        "279uYY1pJnEZvet8ho4bvS"
-      ],
-      "albumId": "1KlOw1VGIfx3z1oi69DLaW",
+      "album": {
+        "id": "1KlOw1VGIfx3z1oi69DLaW",
+        "name": "Animals",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1cd016e5c698239ff4a39d7"
+      },
       "release_date": "2017-03-07",
       "popularity": 0
     },
     {
-      "trackId": "44ZrfFKZjafAz1ibEddIlh",
-      "name": "Guldet blev till sand",
+      "track": {
+        "id": "44ZrfFKZjafAz1ibEddIlh",
+        "name": "Guldet blev till sand"
+      },
       "duration_ms": 201688,
-      "artist": [
-        "Gustaf & Viktor Norén"
+      "artists": [
+        {
+          "name": "Gustaf & Viktor Norén",
+          "id": "7wgjhOBlEERCRSA6iloMvt"
+        }
       ],
-      "artistId": [
-        "7wgjhOBlEERCRSA6iloMvt"
-      ],
-      "albumId": "53W6Wvkzo0eWW2YcwWX0CL",
+      "album": {
+        "id": "53W6Wvkzo0eWW2YcwWX0CL",
+        "name": "Samlade sånger",
+        "img": "https://i.scdn.co/image/ab67616d00001e02519001c47aceb8a3f7078f70"
+      },
       "release_date": "2021-12-03",
       "popularity": 45
     },
     {
-      "trackId": "2N7TFdiJKB2EWU2JZxpNoM",
-      "name": "Doctor, Is My Sugar Mishuge",
+      "track": {
+        "id": "2N7TFdiJKB2EWU2JZxpNoM",
+        "name": "Doctor, Is My Sugar Mishuge"
+      },
       "duration_ms": 209560,
-      "artist": [
-        "Freilach Express"
+      "artists": [
+        {
+          "name": "Freilach Express",
+          "id": "0b0SshmVlSzJa60PPlVrn4"
+        }
       ],
-      "artistId": [
-        "0b0SshmVlSzJa60PPlVrn4"
-      ],
-      "albumId": "1QWd6xGzv410N5XWYpCijD",
+      "album": {
+        "id": "1QWd6xGzv410N5XWYpCijD",
+        "name": "East Goes West",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e9056f6ff6ee09aca7757c9"
+      },
       "release_date": "1990-01-01",
       "popularity": 1
     },
     {
-      "trackId": "1EVvdFSELehGqjvNYgScjF",
-      "name": "Baghdad Choby",
+      "track": {
+        "id": "1EVvdFSELehGqjvNYgScjF",
+        "name": "Baghdad Choby"
+      },
       "duration_ms": 277080,
-      "artist": [
-        "Tarabband"
+      "artists": [
+        {
+          "name": "Tarabband",
+          "id": "7HMpq7BBo9dLKr1z961pRA"
+        }
       ],
-      "artistId": [
-        "7HMpq7BBo9dLKr1z961pRA"
-      ],
-      "albumId": "5K6ayvq7O2N0kD4coQDCYv",
+      "album": {
+        "id": "5K6ayvq7O2N0kD4coQDCYv",
+        "name": "Ya Sidi",
+        "img": "https://i.scdn.co/image/ab67616d00001e025bc4547ba169a5222a8434bc"
+      },
       "release_date": "2012-11-25",
       "popularity": 27
     },
     {
-      "trackId": "2fVrE49lIeIFvZY5bWgyx6",
-      "name": "Brakpolskan",
+      "track": {
+        "id": "2fVrE49lIeIFvZY5bWgyx6",
+        "name": "Brakpolskan"
+      },
       "duration_ms": 236773,
-      "artist": [
-        "Lena Jonsson"
+      "artists": [
+        {
+          "name": "Lena Jonsson",
+          "id": "6cXjUqtPkQVBydNQhZFo9t"
+        }
       ],
-      "artistId": [
-        "6cXjUqtPkQVBydNQhZFo9t"
-      ],
-      "albumId": "4nI7quYdh7yOARU45Vln2z",
+      "album": {
+        "id": "4nI7quYdh7yOARU45Vln2z",
+        "name": "Places",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247c8ec0bd2d8aec663a4ab1b"
+      },
       "release_date": "2018-02-15",
       "popularity": 10
     }

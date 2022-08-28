@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f10c7c84-750d-40a8-9e8c-dcaae1e7290a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7cQXdm6y9KE8n1Lw2z75Ey",
-      "name": "Roll Away the Stone",
+      "track": {
+        "id": "7cQXdm6y9KE8n1Lw2z75Ey",
+        "name": "Roll Away the Stone"
+      },
       "duration_ms": 188973,
-      "artist": [
-        "Mott The Hoople"
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "id": "6ysQi6NI88X627t2srsWz6"
+        }
       ],
-      "artistId": [
-        "6ysQi6NI88X627t2srsWz6"
-      ],
-      "albumId": "2Jar3nPcvUZVEIT2DBJ8Am",
+      "album": {
+        "id": "2Jar3nPcvUZVEIT2DBJ8Am",
+        "name": "The Hoople",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b08f4fc139cbd4081b178af3"
+      },
       "release_date": "1974",
       "popularity": 41
     },
     {
-      "trackId": "6l6b7epmL1Eg7ZlxYqMVed",
-      "name": "Here Comes The Flood",
+      "track": {
+        "id": "6l6b7epmL1Eg7ZlxYqMVed",
+        "name": "Here Comes The Flood"
+      },
       "duration_ms": 339000,
-      "artist": [
-        "Peter Gabriel"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I"
-      ],
-      "albumId": "0kDFjyfGFtiIMXlxJ120Ok",
+      "album": {
+        "id": "0kDFjyfGFtiIMXlxJ120Ok",
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b141e77892ab2ccb60cf3cf"
+      },
       "release_date": "1977",
       "popularity": 41
     },
     {
-      "trackId": "66Bzmhj4cOinK5bxjx5DAK",
-      "name": "Release Me",
+      "track": {
+        "id": "66Bzmhj4cOinK5bxjx5DAK",
+        "name": "Release Me"
+      },
       "duration_ms": 184935,
-      "artist": [
-        "Oh Laura"
+      "artists": [
+        {
+          "name": "Oh Laura",
+          "id": "3myGY9DKqe4EcE5VMDQq7j"
+        }
       ],
-      "artistId": [
-        "3myGY9DKqe4EcE5VMDQq7j"
-      ],
-      "albumId": "7mxCAymM5G7iwKI0gtqKfz",
+      "album": {
+        "id": "7mxCAymM5G7iwKI0gtqKfz",
+        "name": "A Song Inside My Head, A Demon In My Bed",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ae7b087f2d0895959bb6ec8"
+      },
       "release_date": "2007-05-23",
       "popularity": 47
     },
     {
-      "trackId": "6Pgkp4qUoTmJIPn7ReaGxL",
-      "name": "Without You (feat. Sandro Cavazza)",
+      "track": {
+        "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+        "name": "Without You (feat. Sandro Cavazza)"
+      },
       "duration_ms": 181672,
-      "artist": [
-        "Avicii",
-        "Sandro Cavazza"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "id": "5JYo7gm2dkyLLlWHjxS7Dy"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5JYo7gm2dkyLLlWHjxS7Dy"
-      ],
-      "albumId": "1m3mf7xkXIwssVriaaTjOS",
+      "album": {
+        "id": "1m3mf7xkXIwssVriaaTjOS",
+        "name": "AVĪCI (01)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389"
+      },
       "release_date": "2017-08-10",
       "popularity": 78
     },
     {
-      "trackId": "7LVHVU3tWfcxj5aiPFEW4Q",
-      "name": "Fix You",
+      "track": {
+        "id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "name": "Fix You"
+      },
       "duration_ms": 295533,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "4E7bV0pzG0LciBSWTszra6",
+      "album": {
+        "id": "4E7bV0pzG0LciBSWTszra6",
+        "name": "X&Y",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651"
+      },
       "release_date": "2005-06-07",
       "popularity": 82
     },
     {
-      "trackId": "5S8EZuiSNFR2N5eG58oISQ",
-      "name": "It Takes A Fool To Remain Sane",
+      "track": {
+        "id": "5S8EZuiSNFR2N5eG58oISQ",
+        "name": "It Takes A Fool To Remain Sane"
+      },
       "duration_ms": 236400,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "4zvEPDfNKoC15SoNOAEkBR",
+      "album": {
+        "id": "4zvEPDfNKoC15SoNOAEkBR",
+        "name": "We Are The Ark",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283391d5d31e98eabefc400fd"
+      },
       "release_date": "2000-09-25",
       "popularity": 52
     },
     {
-      "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "track": {
+        "id": "5Z01UMMf7V1o0MzF86s6WJ",
+        "name": "Lose Yourself - From \"8 Mile\" Soundtrack"
+      },
       "duration_ms": 326466,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "5qENHeCSlwWpEzb25peRmQ",
+      "album": {
+        "id": "5qENHeCSlwWpEzb25peRmQ",
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578"
+      },
       "release_date": "2005-12-06",
       "popularity": 76
     },
     {
-      "trackId": "3MODES4TNtygekLl146Dxd",
-      "name": "Ramble On - 1990 Remaster",
+      "track": {
+        "id": "3MODES4TNtygekLl146Dxd",
+        "name": "Ramble On - 1990 Remaster"
+      },
       "duration_ms": 263333,
-      "artist": [
-        "Led Zeppelin"
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "id": "36QJpDe2go2KgaRleHCDTp"
+        }
       ],
-      "artistId": [
-        "36QJpDe2go2KgaRleHCDTp"
-      ],
-      "albumId": "70lQYZtypdCALtFVlQAcvx",
+      "album": {
+        "id": "70lQYZtypdCALtFVlQAcvx",
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc4f17340773c6c3579fea0d"
+      },
       "release_date": "1969-10-22",
       "popularity": 70
     },
     {
-      "trackId": "1M2nd8jNUkkwrc1dgBPTJz",
-      "name": "Angels",
+      "track": {
+        "id": "1M2nd8jNUkkwrc1dgBPTJz",
+        "name": "Angels"
+      },
       "duration_ms": 265000,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
+      "album": {
+        "id": "31Sx9uz9KqlvmX07Pvp0wN",
+        "name": "Life Thru A Lens",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c36cf94d717475042f6bb0f3"
+      },
       "release_date": "1997-01-01",
       "popularity": 72
     },
     {
-      "trackId": "1hQFF33xi8ruavZNyovtUN",
-      "name": "December, 1963 (Oh What a Night!)",
+      "track": {
+        "id": "1hQFF33xi8ruavZNyovtUN",
+        "name": "December, 1963 (Oh What a Night!)"
+      },
       "duration_ms": 197146,
-      "artist": [
-        "Frankie Valli & The Four Seasons"
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "id": "6mcrZQmgzFGRWf7C0SObou"
+        }
       ],
-      "artistId": [
-        "6mcrZQmgzFGRWf7C0SObou"
-      ],
-      "albumId": "7fbHVufa1ZvEWWpDppEXHU",
+      "album": {
+        "id": "7fbHVufa1ZvEWWpDppEXHU",
+        "name": "Who Loves You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02206e2e76c3a706e4734d18ab"
+      },
       "release_date": "1975",
       "popularity": 73
     },
     {
-      "trackId": "6yk6jU3Ia33ed2XL4V9IeW",
-      "name": "Live Forever",
+      "track": {
+        "id": "6yk6jU3Ia33ed2XL4V9IeW",
+        "name": "Live Forever"
+      },
       "duration_ms": 182626,
-      "artist": [
-        "Magnus Carlsson"
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "id": "12VIfmT1N5FGyCuuXGKuYB"
+        }
       ],
-      "artistId": [
-        "12VIfmT1N5FGyCuuXGKuYB"
-      ],
-      "albumId": "5g18f9GEyipB2xX2d9xy5x",
+      "album": {
+        "id": "5g18f9GEyipB2xX2d9xy5x",
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bd8e11a4ddbd1f6e2672284"
+      },
       "release_date": "2007-01-01",
       "popularity": 41
     },
     {
-      "trackId": "4pGWgMDgwUQiKOHBUJquKd",
-      "name": "Real Real Gone",
+      "track": {
+        "id": "4pGWgMDgwUQiKOHBUJquKd",
+        "name": "Real Real Gone"
+      },
       "duration_ms": 220920,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "3LznBz5zOUG9nTPbsUFprz",
+      "album": {
+        "id": "3LznBz5zOUG9nTPbsUFprz",
+        "name": "Enlightenment",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9489c8ccb69514d8a125b47"
+      },
       "release_date": "1990-10",
       "popularity": 50
     },
     {
-      "trackId": "0Ktu27rkXVCt07e5kw3Mtp",
-      "name": "Carlos Primero",
+      "track": {
+        "id": "0Ktu27rkXVCt07e5kw3Mtp",
+        "name": "Carlos Primero"
+      },
       "duration_ms": 267772,
-      "artist": [
-        "Opez"
+      "artists": [
+        {
+          "name": "Opez",
+          "id": "4lOGYCKkqGyEYCe67YCETK"
+        }
       ],
-      "artistId": [
-        "4lOGYCKkqGyEYCe67YCETK"
-      ],
-      "albumId": "0nfcLVTGduT5B7ywAGByqO",
+      "album": {
+        "id": "0nfcLVTGduT5B7ywAGByqO",
+        "name": "Dead Dance",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7bc21780b6dcd7a241083ce"
+      },
       "release_date": "2015-06-08",
       "popularity": 35
     },
     {
-      "trackId": "70YvYr2hGlS01bKRIho1HM",
-      "name": "La Grange - 2005 Remaster",
+      "track": {
+        "id": "70YvYr2hGlS01bKRIho1HM",
+        "name": "La Grange - 2005 Remaster"
+      },
       "duration_ms": 230480,
-      "artist": [
-        "ZZ Top"
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "id": "2AM4ilv6UzW0uMRuqKtDgN"
+        }
       ],
-      "artistId": [
-        "2AM4ilv6UzW0uMRuqKtDgN"
-      ],
-      "albumId": "0Em8m9kRctyH9S3MTXAHvY",
+      "album": {
+        "id": "0Em8m9kRctyH9S3MTXAHvY",
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020fe2ec86a0ec561ef2e2aae1"
+      },
       "release_date": "1973-07-26",
       "popularity": 76
     }

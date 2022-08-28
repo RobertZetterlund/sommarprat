@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/67c6d06a-772e-4e72-a47a-ea3711b12766.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0Lqc0lhRXfhDTbSZDPkb1L",
-      "name": "It's Not The Same Moon",
+      "track": {
+        "id": "0Lqc0lhRXfhDTbSZDPkb1L",
+        "name": "It's Not The Same Moon"
+      },
       "duration_ms": 174293,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "2aMkKzCvsavPM8bLNFM844",
+      "album": {
+        "id": "2aMkKzCvsavPM8bLNFM844",
+        "name": "The Last Ship (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2ff9c60a0997dd450eca5b2"
+      },
       "release_date": "2013-01-01",
       "popularity": 22
     },
     {
-      "trackId": "5Yx5PhdnwhNzLMBl34TZw4",
-      "name": "Both Sides Now",
+      "track": {
+        "id": "5Yx5PhdnwhNzLMBl34TZw4",
+        "name": "Both Sides Now"
+      },
       "duration_ms": 273573,
-      "artist": [
-        "Joni Mitchell"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve"
-      ],
-      "albumId": "02piRJBAWgCu2Et3rOkK4w",
+      "album": {
+        "id": "02piRJBAWgCu2Et3rOkK4w",
+        "name": "Easy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f94f1f43a1bbce6bfd98d303"
+      },
       "release_date": "2019-02-15",
       "popularity": 58
     },
     {
-      "trackId": "5imShWWzwqfAJ9gXFpGAQh",
-      "name": "Waiting On the World to Change",
+      "track": {
+        "id": "5imShWWzwqfAJ9gXFpGAQh",
+        "name": "Waiting On the World to Change"
+      },
       "duration_ms": 201173,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "1Xsprdt1q9rOzTic7b9zYM",
+      "album": {
+        "id": "1Xsprdt1q9rOzTic7b9zYM",
+        "name": "Continuum",
+        "img": "https://i.scdn.co/image/ab67616d00001e027af5fdc5ef048a68db62b85f"
+      },
       "release_date": "2006-09-11",
       "popularity": 73
     },
     {
-      "trackId": "6zeE5tKyr8Nu882DQhhSQI",
-      "name": "Dust in the Wind",
+      "track": {
+        "id": "6zeE5tKyr8Nu882DQhhSQI",
+        "name": "Dust in the Wind"
+      },
       "duration_ms": 206266,
-      "artist": [
-        "Kansas"
+      "artists": [
+        {
+          "name": "Kansas",
+          "id": "2hl0xAkS2AIRAu23TVMBG1"
+        }
       ],
-      "artistId": [
-        "2hl0xAkS2AIRAu23TVMBG1"
-      ],
-      "albumId": "6oU298pdPTCQnMx1PYwyUA",
+      "album": {
+        "id": "6oU298pdPTCQnMx1PYwyUA",
+        "name": "Point Of Know Return (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259f0f56a7cd13526b5b4204c"
+      },
       "release_date": "1977",
       "popularity": 77
     },
     {
-      "trackId": "0wnKNQ5YfXy1QTVC8yjkaq",
-      "name": "Hos dig är jag underbar",
+      "track": {
+        "id": "0wnKNQ5YfXy1QTVC8yjkaq",
+        "name": "Hos dig är jag underbar"
+      },
       "duration_ms": 248066,
-      "artist": [
-        "Patrik Isaksson"
+      "artists": [
+        {
+          "name": "Patrik Isaksson",
+          "id": "79XSzUC0yAPPoxiuss55qC"
+        }
       ],
-      "artistId": [
-        "79XSzUC0yAPPoxiuss55qC"
-      ],
-      "albumId": "2mmNYPVvdrSjnpzJZJMbRJ",
+      "album": {
+        "id": "2mmNYPVvdrSjnpzJZJMbRJ",
+        "name": "10 år - en snäll mans bekännelser",
+        "img": "https://i.scdn.co/image/ab67616d00001e020c13d43392c153cbc219ca51"
+      },
       "release_date": "2008",
       "popularity": 40
     },
     {
-      "trackId": "0Z5ok0QLLttAKsujOZYOXf",
-      "name": "Chasing Pavements",
+      "track": {
+        "id": "0Z5ok0QLLttAKsujOZYOXf",
+        "name": "Chasing Pavements"
+      },
       "duration_ms": 210506,
-      "artist": [
-        "Adele"
+      "artists": [
+        {
+          "name": "Adele",
+          "id": "4dpARuHxo51G3z768sgnrY"
+        }
       ],
-      "artistId": [
-        "4dpARuHxo51G3z768sgnrY"
-      ],
-      "albumId": "5awrJZBt3rP9RO5hlYdZB0",
+      "album": {
+        "id": "5awrJZBt3rP9RO5hlYdZB0",
+        "name": "19",
+        "img": "https://i.scdn.co/image/ab67616d00001e022369f428044d1fa7ed4a71a9"
+      },
       "release_date": "2008-01-27",
       "popularity": 71
     },
     {
-      "trackId": "6r6n5OmXkdsOxN2iCj5UE0",
-      "name": "Running With The Wolves",
+      "track": {
+        "id": "6r6n5OmXkdsOxN2iCj5UE0",
+        "name": "Running With The Wolves"
+      },
       "duration_ms": 194760,
-      "artist": [
-        "AURORA"
+      "artists": [
+        {
+          "name": "AURORA",
+          "id": "1WgXqy2Dd70QQOU7Ay074N"
+        }
       ],
-      "artistId": [
-        "1WgXqy2Dd70QQOU7Ay074N"
-      ],
-      "albumId": "6YMSXPIHkA2jPIlFHuejXW",
+      "album": {
+        "id": "6YMSXPIHkA2jPIlFHuejXW",
+        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c379325088c2845fe85cd70a"
+      },
       "release_date": "2016-03-11",
       "popularity": 61
     },
     {
-      "trackId": "7LVHVU3tWfcxj5aiPFEW4Q",
-      "name": "Fix You",
+      "track": {
+        "id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "name": "Fix You"
+      },
       "duration_ms": 295533,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "4E7bV0pzG0LciBSWTszra6",
+      "album": {
+        "id": "4E7bV0pzG0LciBSWTszra6",
+        "name": "X&Y",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651"
+      },
       "release_date": "2005-06-07",
       "popularity": 82
     },
     {
-      "trackId": "7zak7YWXt3AlaJrqUB6eih",
-      "name": "What",
+      "track": {
+        "id": "7zak7YWXt3AlaJrqUB6eih",
+        "name": "What"
+      },
       "duration_ms": 195586,
-      "artist": [
-        "Linnea Olsson"
+      "artists": [
+        {
+          "name": "Linnea Olsson",
+          "id": "5URaqWGLWi0maxmjctj8I0"
+        }
       ],
-      "artistId": [
-        "5URaqWGLWi0maxmjctj8I0"
-      ],
-      "albumId": "0FUxJv4VOv3YcDij7mXo6n",
+      "album": {
+        "id": "0FUxJv4VOv3YcDij7mXo6n",
+        "name": "Breaking and Shaking",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ded9d79e994a05bc173c983"
+      },
       "release_date": "2014-10-15",
       "popularity": 10
     },
     {
-      "trackId": "74wkZ49CvXKiw6hSgaUo4Y",
-      "name": "It's Not Enough",
+      "track": {
+        "id": "74wkZ49CvXKiw6hSgaUo4Y",
+        "name": "It's Not Enough"
+      },
       "duration_ms": 240317,
-      "artist": [
-        "Matt Simons"
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "id": "1g0fXhQMHAxlRyIBkCbuE7"
+        }
       ],
-      "artistId": [
-        "1g0fXhQMHAxlRyIBkCbuE7"
-      ],
-      "albumId": "3GXs3mom2sIaz3FMjPTrxv",
+      "album": {
+        "id": "3GXs3mom2sIaz3FMjPTrxv",
+        "name": "Catch & Release",
+        "img": "https://i.scdn.co/image/ab67616d00001e02891e3aa6ac29fc882d869791"
+      },
       "release_date": "2016-01-15",
       "popularity": 18
     },
     {
-      "trackId": "4hGOhC87bn7JBdYykOJJvJ",
-      "name": "I'd Rather Dance With You",
+      "track": {
+        "id": "4hGOhC87bn7JBdYykOJJvJ",
+        "name": "I'd Rather Dance With You"
+      },
       "duration_ms": 209026,
-      "artist": [
-        "Kings of Convenience"
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "id": "41AbNVba2ccpmcc9QtOJE7"
+        }
       ],
-      "artistId": [
-        "41AbNVba2ccpmcc9QtOJE7"
-      ],
-      "albumId": "5QE8eXeN0q8M7atLb1fT6c",
+      "album": {
+        "id": "5QE8eXeN0q8M7atLb1fT6c",
+        "name": "Riot On An Empty Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d71c263a42991967290401af"
+      },
       "release_date": "2004-01-01",
       "popularity": 57
     },
     {
-      "trackId": "4migrLu6mRQqQLHp4f7iYo",
-      "name": "Handens fem fingrar",
+      "track": {
+        "id": "4migrLu6mRQqQLHp4f7iYo",
+        "name": "Handens fem fingrar"
+      },
       "duration_ms": 247933,
-      "artist": [
-        "Peter LeMarc"
+      "artists": [
+        {
+          "name": "Peter LeMarc",
+          "id": "4VKbol7eCoEJUemlKvE3Ve"
+        }
       ],
-      "artistId": [
-        "4VKbol7eCoEJUemlKvE3Ve"
-      ],
-      "albumId": "23MCUCb53mQcJl5TfHjMf0",
+      "album": {
+        "id": "23MCUCb53mQcJl5TfHjMf0",
+        "name": "Sjutton sånger - LeMarc sjunger LeMarc",
+        "img": "https://i.scdn.co/image/ab67616d00001e02feb9aad493c089e12e3e28b0"
+      },
       "release_date": "2005-08-24",
       "popularity": 32
     }

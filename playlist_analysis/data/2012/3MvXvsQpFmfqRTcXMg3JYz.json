@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2355417_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0YmlTGDEwlEYbpdsoZai57",
-      "name": "Wings",
+      "track": {
+        "id": "0YmlTGDEwlEYbpdsoZai57",
+        "name": "Wings"
+      },
       "duration_ms": 194500,
-      "artist": [
-        "Niklas Aman"
+      "artists": [
+        {
+          "name": "Niklas Aman",
+          "id": "02SAEsjN1Earr0FuRedpw1"
+        }
       ],
-      "artistId": [
-        "02SAEsjN1Earr0FuRedpw1"
-      ],
-      "albumId": "24w74pXA0fdToj2zMzNaTq",
+      "album": {
+        "id": "24w74pXA0fdToj2zMzNaTq",
+        "name": "Wings",
+        "img": "https://i.scdn.co/image/ab67616d00001e0293f10d71641bfeca8c968047"
+      },
       "release_date": "2012-10-18",
       "popularity": 39
     },
     {
-      "trackId": "6FuDqao0MFjSpSJHcXjNlC",
-      "name": "Rugadh Mi 'Teis Meadhan Na Mara (Me Zo Ganet i Kreiz er Mor)",
+      "track": {
+        "id": "6FuDqao0MFjSpSJHcXjNlC",
+        "name": "Rugadh Mi 'Teis Meadhan Na Mara (Me Zo Ganet i Kreiz er Mor)"
+      },
       "duration_ms": 197226,
-      "artist": [
-        "Julie Fowlis"
+      "artists": [
+        {
+          "name": "Julie Fowlis",
+          "id": "3IqWMVFksTbtL2EaFi5o8k"
+        }
       ],
-      "artistId": [
-        "3IqWMVFksTbtL2EaFi5o8k"
-      ],
-      "albumId": "6N5kqHuLXUftcM9vUpMfcl",
+      "album": {
+        "id": "6N5kqHuLXUftcM9vUpMfcl",
+        "name": "Uam from Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275c6994aae1ca804d182a69f"
+      },
       "release_date": "2017-10-19",
       "popularity": 9
     },
     {
-      "trackId": "16smj8Y9aUzBeWa9QP7J4L",
-      "name": "Cello Concerto No. 1 in C Major, Hob.VIIb:1: II. Adagio",
+      "track": {
+        "id": "16smj8Y9aUzBeWa9QP7J4L",
+        "name": "Cello Concerto No. 1 in C Major, Hob.VIIb:1: II. Adagio"
+      },
       "duration_ms": 521000,
-      "artist": [
-        "Joseph Haydn",
-        "Ludovit Kanta",
-        "Capella Istropolitana"
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "id": "656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Ludovit Kanta",
+          "id": "3BzKyqNMOwglJO81ACeJd0"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "id": "3COykW4UPvB0DqwnzlnfWt"
+        }
       ],
-      "artistId": [
-        "656RXuyw7CE0dtjdPgjJV6",
-        "3BzKyqNMOwglJO81ACeJd0",
-        "3COykW4UPvB0DqwnzlnfWt"
-      ],
-      "albumId": "69XvfXpZnkqtu84M0gezjv",
+      "album": {
+        "id": "69XvfXpZnkqtu84M0gezjv",
+        "name": "Lugna blå timmar – Harmonisk klassisk musik",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dacb29c630ba966640016c18"
+      },
       "release_date": "1997-01-01",
       "popularity": 13
     },
     {
-      "trackId": "19UfgygRmlHnXNsaiyBxeY",
-      "name": "Någonstans bland alla skuggorna står Jesus",
+      "track": {
+        "id": "19UfgygRmlHnXNsaiyBxeY",
+        "name": "Någonstans bland alla skuggorna står Jesus"
+      },
       "duration_ms": 213986,
-      "artist": [
-        "Mikael Järlestrand"
+      "artists": [
+        {
+          "name": "Mikael Järlestrand",
+          "id": "4dzjreYeeRGPr0woUbmL3I"
+        }
       ],
-      "artistId": [
-        "4dzjreYeeRGPr0woUbmL3I"
-      ],
-      "albumId": "02rYOVh7e08rGXEfM0iGO6",
+      "album": {
+        "id": "02rYOVh7e08rGXEfM0iGO6",
+        "name": "Det enda som bär - Mitt arv 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242670500c48d1614fc0c4ff0"
+      },
       "release_date": "2015-11-11",
       "popularity": 8
     },
     {
-      "trackId": "7iyQnU4hvHn2rx2gj1mofP",
-      "name": "My Joy Within",
+      "track": {
+        "id": "7iyQnU4hvHn2rx2gj1mofP",
+        "name": "My Joy Within"
+      },
       "duration_ms": 274080,
-      "artist": [
-        "Maria Nordenback-Kress"
+      "artists": [
+        {
+          "name": "Maria Nordenback-Kress",
+          "id": "2rl5THDqLFmYlSDwWOtzgW"
+        }
       ],
-      "artistId": [
-        "2rl5THDqLFmYlSDwWOtzgW"
-      ],
-      "albumId": "1XNHIw32QucmNtja6n8gyN",
+      "album": {
+        "id": "1XNHIw32QucmNtja6n8gyN",
+        "name": "There´s a Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c5741563a50f60e6adaf812"
+      },
       "release_date": "2011-03-29",
       "popularity": 0
     },
     {
-      "trackId": "79217VEMEt5bRUsLaLWVdm",
-      "name": "Adagio",
+      "track": {
+        "id": "79217VEMEt5bRUsLaLWVdm",
+        "name": "Adagio"
+      },
       "duration_ms": 290813,
-      "artist": [
-        "Viktor Klimenko"
+      "artists": [
+        {
+          "name": "Viktor Klimenko",
+          "id": "3dIfSvrrjSerkfM0dmKHG3"
+        }
       ],
-      "artistId": [
-        "3dIfSvrrjSerkfM0dmKHG3"
-      ],
-      "albumId": "2qlcLn4HIXhfXiedxrFcms",
+      "album": {
+        "id": "2qlcLn4HIXhfXiedxrFcms",
+        "name": "Legenda",
+        "img": "https://i.scdn.co/image/ab67616d00001e025401a37f465a3371c4faf53b"
+      },
       "release_date": "2013-01-01",
       "popularity": 1
     },
     {
-      "trackId": "7CcbsrzInYa5HkyHRDNiHa",
-      "name": "Härlig är jorden",
+      "track": {
+        "id": "7CcbsrzInYa5HkyHRDNiHa",
+        "name": "Härlig är jorden"
+      },
       "duration_ms": 153533,
-      "artist": [
-        "Erland Hagegård"
+      "artists": [
+        {
+          "name": "Erland Hagegård",
+          "id": "3cmBi6a5TS7ozkJXKHc677"
+        }
       ],
-      "artistId": [
-        "3cmBi6a5TS7ozkJXKHc677"
-      ],
-      "albumId": "3IIzJVgzYGLJVSJZOOeyOQ",
+      "album": {
+        "id": "3IIzJVgzYGLJVSJZOOeyOQ",
+        "name": "Fröjda dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e020af2be523337e333c19c779a"
+      },
       "release_date": "1978-01-01",
       "popularity": 0
     },
     {
-      "trackId": "5L1rv0fUflwfLT49CmBkuu",
-      "name": "Praising Peace",
+      "track": {
+        "id": "5L1rv0fUflwfLT49CmBkuu",
+        "name": "Praising Peace"
+      },
       "duration_ms": 249280,
-      "artist": [
-        "Leon & Eric Bibb"
+      "artists": [
+        {
+          "name": "Leon & Eric Bibb",
+          "id": "5gGptdaqomlCVwy2BMG3GZ"
+        }
       ],
-      "artistId": [
-        "5gGptdaqomlCVwy2BMG3GZ"
-      ],
-      "albumId": "414eh3ePcYgWctRLfgS7SR",
+      "album": {
+        "id": "414eh3ePcYgWctRLfgS7SR",
+        "name": "Praising Peace: A Tribute to Paul Robeson",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e6e0a8836d78c524b47d33c"
+      },
       "release_date": "2006-03-28",
       "popularity": 0
     },
     {
-      "trackId": "4gmrSGxHXu6QxCh96mHrEt",
-      "name": "Ingenting mer, ingenting mindre",
+      "track": {
+        "id": "4gmrSGxHXu6QxCh96mHrEt",
+        "name": "Ingenting mer, ingenting mindre"
+      },
       "duration_ms": 156666,
-      "artist": [
-        "Carina Jaarneks"
+      "artists": [
+        {
+          "name": "Carina Jaarneks",
+          "id": "1BIeetjDybR2G0wYQYM6mb"
+        }
       ],
-      "artistId": [
-        "1BIeetjDybR2G0wYQYM6mb"
-      ],
-      "albumId": "0bXKmO4QKs8bLJUIvfOf4g",
+      "album": {
+        "id": "0bXKmO4QKs8bLJUIvfOf4g",
+        "name": "Hela livet leker",
+        "img": "https://i.scdn.co/image/ab67616d00001e0219f68568a75dae050ece8fe2"
+      },
       "release_date": "1994-01-01",
       "popularity": 42
     },
     {
-      "trackId": "31ui4AOsd31MndbYaztzGt",
-      "name": "Genesarets Sjö",
+      "track": {
+        "id": "31ui4AOsd31MndbYaztzGt",
+        "name": "Genesarets Sjö"
+      },
       "duration_ms": 370000,
-      "artist": [
-        "Kjell Höglund"
+      "artists": [
+        {
+          "name": "Kjell Höglund",
+          "id": "69QSI0DPSaFVzYphVOWiv2"
+        }
       ],
-      "artistId": [
-        "69QSI0DPSaFVzYphVOWiv2"
-      ],
-      "albumId": "7ibN90YAKlfVwbTjvKiXWc",
+      "album": {
+        "id": "7ibN90YAKlfVwbTjvKiXWc",
+        "name": "Tidens Tecken",
+        "img": "https://i.scdn.co/image/ab67616d00001e020189a4aafd04607fd4b9ef51"
+      },
       "release_date": "1984-01-01",
       "popularity": 44
     },
     {
-      "trackId": "4zGAQSafLDPxdYpsU41KgY",
-      "name": "Solen och du",
+      "track": {
+        "id": "4zGAQSafLDPxdYpsU41KgY",
+        "name": "Solen och du"
+      },
       "duration_ms": 226665,
-      "artist": [
-        "Anna Stadling"
+      "artists": [
+        {
+          "name": "Anna Stadling",
+          "id": "15xSyYUeEIQphb7lnNojQs"
+        }
       ],
-      "artistId": [
-        "15xSyYUeEIQphb7lnNojQs"
-      ],
-      "albumId": "2oIRrEJj8n6rFsZvlhe0kj",
+      "album": {
+        "id": "2oIRrEJj8n6rFsZvlhe0kj",
+        "name": "Solen och du",
+        "img": "https://i.scdn.co/image/ab67616d00001e02965255e4fb6c94d7b9a04d86"
+      },
       "release_date": "2021-09-24",
       "popularity": 30
     }

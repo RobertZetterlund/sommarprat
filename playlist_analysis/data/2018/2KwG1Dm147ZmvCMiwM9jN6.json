@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/aa81c027-7c84-4a36-b67b-eb9a47e781ff.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1xZXiJoNGbRM3K5JI8PjBW",
-      "name": "Gotta Find It",
+      "track": {
+        "id": "1xZXiJoNGbRM3K5JI8PjBW",
+        "name": "Gotta Find It"
+      },
       "duration_ms": 268226,
-      "artist": [
-        "Stefan Gunnarsson"
+      "artists": [
+        {
+          "name": "Stefan Gunnarsson",
+          "id": "2te7OPqiPNKZndRt6EX8ow"
+        }
       ],
-      "artistId": [
-        "2te7OPqiPNKZndRt6EX8ow"
-      ],
-      "albumId": "67O0C3hZWPK2mx5UL5ZKgw",
+      "album": {
+        "id": "67O0C3hZWPK2mx5UL5ZKgw",
+        "name": "Stefan Gunnarsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e69f188c6a13c850351d72dd"
+      },
       "release_date": "2010-01-01",
       "popularity": 15
     },
     {
-      "trackId": "3WRHBxzkq6f3WKUWNz4b7r",
-      "name": "Himmel No. 7",
+      "track": {
+        "id": "3WRHBxzkq6f3WKUWNz4b7r",
+        "name": "Himmel No. 7"
+      },
       "duration_ms": 309466,
-      "artist": [
-        "Gyllene Tider"
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "id": "0FINyNBXqnTlRC4dvpSeSb"
+        }
       ],
-      "artistId": [
-        "0FINyNBXqnTlRC4dvpSeSb"
-      ],
-      "albumId": "7wI5tvSzZ3tOzpFROFHuxP",
+      "album": {
+        "id": "7wI5tvSzZ3tOzpFROFHuxP",
+        "name": "Gyllene Tider",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d3042cb357eebb2a082c929"
+      },
       "release_date": "1980-02-18",
       "popularity": 31
     },
     {
-      "trackId": "0dQJ1KErKDiv1rhTfBtpE4",
-      "name": "Waltz for Lage",
+      "track": {
+        "id": "0dQJ1KErKDiv1rhTfBtpE4",
+        "name": "Waltz for Lage"
+      },
       "duration_ms": 286506,
-      "artist": [
-        "Per Thornberg"
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "id": "1RJJGg6s9j4LXZwjPqXSlv"
+        }
       ],
-      "artistId": [
-        "1RJJGg6s9j4LXZwjPqXSlv"
-      ],
-      "albumId": "6O2aEAs4GFbRKDZjcFPpRg",
+      "album": {
+        "id": "6O2aEAs4GFbRKDZjcFPpRg",
+        "name": "Lines for Lage",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d2593a1c3955d94b8bbd405"
+      },
       "release_date": "2016-12-19",
       "popularity": 0
     },
     {
-      "trackId": "0bGUHUjU8IZxH2NugIjTX9",
-      "name": "Walk Between Raindrops",
+      "track": {
+        "id": "0bGUHUjU8IZxH2NugIjTX9",
+        "name": "Walk Between Raindrops"
+      },
       "duration_ms": 158773,
-      "artist": [
-        "Donald Fagen"
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "id": "0S1SjYebdSaiMpI8xSW2Wb"
+        }
       ],
-      "artistId": [
-        "0S1SjYebdSaiMpI8xSW2Wb"
-      ],
-      "albumId": "5cOS6szqlcoqmiSoVTqqe8",
+      "album": {
+        "id": "5cOS6szqlcoqmiSoVTqqe8",
+        "name": "The Nightfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c3be4e1c786475f9489529f"
+      },
       "release_date": "1982-10-29",
       "popularity": 43
     },
     {
-      "trackId": "79QByJn6Hp4A677VMSJszm",
-      "name": "Country",
+      "track": {
+        "id": "79QByJn6Hp4A677VMSJszm",
+        "name": "Country"
+      },
       "duration_ms": 300706,
-      "artist": [
-        "Keith Jarrett",
-        "Jan Garbarek",
-        "Palle Danielsson"
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "id": "0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Jan Garbarek",
+          "id": "7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Palle Danielsson",
+          "id": "7CyW7K2UrpjUNLVV698wvJ"
+        }
       ],
-      "artistId": [
-        "0F3Aew9DSd6fb6192K1K0Y",
-        "7MEyCD4G0Zl6kmikEAZsym",
-        "7CyW7K2UrpjUNLVV698wvJ"
-      ],
-      "albumId": "6ID17PzjagQlFsc1KFha5v",
+      "album": {
+        "id": "6ID17PzjagQlFsc1KFha5v",
+        "name": "My Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab"
+      },
       "release_date": "1978-06-01",
       "popularity": 41
     },
     {
-      "trackId": "4HeByxfHrRyUHoVWsOpGlH",
-      "name": "Hope",
+      "track": {
+        "id": "4HeByxfHrRyUHoVWsOpGlH",
+        "name": "Hope"
+      },
       "duration_ms": 330320,
-      "artist": [
-        "Lars Jansson"
+      "artists": [
+        {
+          "name": "Lars Jansson",
+          "id": "1kW3Vmt2UDZfYhc9So72dS"
+        }
       ],
-      "artistId": [
-        "1kW3Vmt2UDZfYhc9So72dS"
-      ],
-      "albumId": "2GsFuz9khISBsuc0CnKeY8",
+      "album": {
+        "id": "2GsFuz9khISBsuc0CnKeY8",
+        "name": "Hope",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4b5432d9a48e545d0df12e6"
+      },
       "release_date": "1999-08-15",
       "popularity": 19
     },
     {
-      "trackId": "7d2eh62f5HhdVEOqYYTxTP",
-      "name": "Bromma Express",
+      "track": {
+        "id": "7d2eh62f5HhdVEOqYYTxTP",
+        "name": "Bromma Express"
+      },
       "duration_ms": 163373,
-      "artist": [
-        "Janne Schaffer"
+      "artists": [
+        {
+          "name": "Janne Schaffer",
+          "id": "1FdRWg2tqR4I7jjA29vWYU"
+        }
       ],
-      "artistId": [
-        "1FdRWg2tqR4I7jjA29vWYU"
-      ],
-      "albumId": "5DLV8KOVNbAb5YcUeEyrqN",
+      "album": {
+        "id": "5DLV8KOVNbAb5YcUeEyrqN",
+        "name": "Earmeal",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b9e8ba89d9509b66064b27e"
+      },
       "release_date": "1978",
       "popularity": 12
     },
     {
-      "trackId": "7M3x35cDZauo0Xhv7VJYuR",
-      "name": "Stop Leading Me On",
+      "track": {
+        "id": "7M3x35cDZauo0Xhv7VJYuR",
+        "name": "Stop Leading Me On"
+      },
       "duration_ms": 202226,
-      "artist": [
-        "Joey DeFrancesco"
+      "artists": [
+        {
+          "name": "Joey DeFrancesco",
+          "id": "2hpwTpq2QENZv7EAvniKDR"
+        }
       ],
-      "artistId": [
-        "2hpwTpq2QENZv7EAvniKDR"
-      ],
-      "albumId": "3zgWUlABiZwDhyOod3PLHf",
+      "album": {
+        "id": "3zgWUlABiZwDhyOod3PLHf",
+        "name": "The Street of Dreams",
+        "img": "https://i.scdn.co/image/ab67616d00001e027f54bd84ea61576726c3add4"
+      },
       "release_date": "2005-01-01",
       "popularity": 8
     },
     {
-      "trackId": "5YGamuyfltwCLjl6HNcTRn",
-      "name": "Creating Couple",
+      "track": {
+        "id": "5YGamuyfltwCLjl6HNcTRn",
+        "name": "Creating Couple"
+      },
       "duration_ms": 200280,
-      "artist": [
-        "Per Thornberg"
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "id": "1RJJGg6s9j4LXZwjPqXSlv"
+        }
       ],
-      "artistId": [
-        "1RJJGg6s9j4LXZwjPqXSlv"
-      ],
-      "albumId": "6MnW48ZTHTem9lpedHWOtE",
+      "album": {
+        "id": "6MnW48ZTHTem9lpedHWOtE",
+        "name": "The Six Elements",
+        "img": "https://i.scdn.co/image/ab67616d00001e02711e8cced33cded98c4936aa"
+      },
       "release_date": "2009-07-27",
       "popularity": 0
     },
     {
-      "trackId": "0Jw3cPBXlGnA6DEJrZSTI0",
-      "name": "Soul Bossa Nova",
+      "track": {
+        "id": "0Jw3cPBXlGnA6DEJrZSTI0",
+        "name": "Soul Bossa Nova"
+      },
       "duration_ms": 166589,
-      "artist": [
-        "Quincy Jones"
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        }
       ],
-      "artistId": [
-        "3rxIQc9kWT6Ueg4BhnOwRK"
-      ],
-      "albumId": "1KSOL1jvue2lfcdsNZ7YN8",
+      "album": {
+        "id": "1KSOL1jvue2lfcdsNZ7YN8",
+        "name": "Big Band Bossa Nova",
+        "img": "https://i.scdn.co/image/ab67616d00001e026270e4915798db7ddc520b24"
+      },
       "release_date": "1962-01-01",
       "popularity": 58
     },
     {
-      "trackId": "0TG2hGSd6bYdgLnvZgHao9",
-      "name": "Klippta vingar",
+      "track": {
+        "id": "0TG2hGSd6bYdgLnvZgHao9",
+        "name": "Klippta vingar"
+      },
       "duration_ms": 219600,
-      "artist": [
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "0Z6CdX7lZC4Tu3Sw7I4pbD",
+      "album": {
+        "id": "0Z6CdX7lZC4Tu3Sw7I4pbD",
+        "name": "Ingen gör det bättre",
+        "img": "https://i.scdn.co/image/ab67616d00001e02748c4dc32c39415142b3a68d"
+      },
       "release_date": "2016-01-01",
       "popularity": 21
     },
     {
-      "trackId": "6jbmKRyrd02VqYozk94SFL",
-      "name": "En vänlig grönskas rika dräkt (Psalm 201)",
+      "track": {
+        "id": "6jbmKRyrd02VqYozk94SFL",
+        "name": "En vänlig grönskas rika dräkt (Psalm 201)"
+      },
       "duration_ms": 224666,
-      "artist": [
-        "Anders Widmark Trio"
+      "artists": [
+        {
+          "name": "Anders Widmark Trio",
+          "id": "74lV0oMFa3sSpDxUlfZ5yI"
+        }
       ],
-      "artistId": [
-        "74lV0oMFa3sSpDxUlfZ5yI"
-      ],
-      "albumId": "58TQrEfi5T1bi5KQVhRJ9r",
+      "album": {
+        "id": "58TQrEfi5T1bi5KQVhRJ9r",
+        "name": "Psalmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc7b5002f93dfd6037bdac0"
+      },
       "release_date": "1997-09-01",
       "popularity": 34
     },
     {
-      "trackId": "0Ktu27rkXVCt07e5kw3Mtp",
-      "name": "Carlos Primero",
+      "track": {
+        "id": "0Ktu27rkXVCt07e5kw3Mtp",
+        "name": "Carlos Primero"
+      },
       "duration_ms": 267772,
-      "artist": [
-        "Opez"
+      "artists": [
+        {
+          "name": "Opez",
+          "id": "4lOGYCKkqGyEYCe67YCETK"
+        }
       ],
-      "artistId": [
-        "4lOGYCKkqGyEYCe67YCETK"
-      ],
-      "albumId": "0nfcLVTGduT5B7ywAGByqO",
+      "album": {
+        "id": "0nfcLVTGduT5B7ywAGByqO",
+        "name": "Dead Dance",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7bc21780b6dcd7a241083ce"
+      },
       "release_date": "2015-06-08",
       "popularity": 35
     }

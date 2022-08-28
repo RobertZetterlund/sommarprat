@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/0b5ec8e2-f0d1-42c0-9630-bea91b5f2b6b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3rzBkM5fEOEMdgMewFstni",
-      "name": "Touch Me - Edit",
+      "track": {
+        "id": "3rzBkM5fEOEMdgMewFstni",
+        "name": "Touch Me - Edit"
+      },
       "duration_ms": 196413,
-      "artist": [
-        "Dolores Haze"
+      "artists": [
+        {
+          "name": "Dolores Haze",
+          "id": "1eaRzpjJvZXJ531g9WrLP8"
+        }
       ],
-      "artistId": [
-        "1eaRzpjJvZXJ531g9WrLP8"
-      ],
-      "albumId": "3a8olUh1LoBGDoDPu8J2yo",
+      "album": {
+        "id": "3a8olUh1LoBGDoDPu8J2yo",
+        "name": "Touch Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a81ef7f247b1ca4953149f4"
+      },
       "release_date": "2015-09-30",
       "popularity": 16
     },
     {
-      "trackId": "45r7mbXRbpFAYZavAoX6tk",
-      "name": "Crockett's Theme - From \"Miami Vice II\" Soundtrack",
+      "track": {
+        "id": "45r7mbXRbpFAYZavAoX6tk",
+        "name": "Crockett's Theme - From \"Miami Vice II\" Soundtrack"
+      },
       "duration_ms": 214933,
-      "artist": [
-        "Jan Hammer"
+      "artists": [
+        {
+          "name": "Jan Hammer",
+          "id": "50zRydJXfkLzGIOj9mITfy"
+        }
       ],
-      "artistId": [
-        "50zRydJXfkLzGIOj9mITfy"
-      ],
-      "albumId": "4abeKxrbKcGJ8znhOdxs7U",
+      "album": {
+        "id": "4abeKxrbKcGJ8znhOdxs7U",
+        "name": "Escape From Television",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e943d965e240f8385a2e5ec3"
+      },
       "release_date": "1991-05-27",
       "popularity": 56
     },
     {
-      "trackId": "6tFhg8OjHmvlhoeQBxYLcM",
-      "name": "Shadow (Michel's Runway Edit)",
+      "track": {
+        "id": "6tFhg8OjHmvlhoeQBxYLcM",
+        "name": "Shadow (Michel's Runway Edit)"
+      },
       "duration_ms": 457000,
-      "artist": [
-        "Chromatics"
+      "artists": [
+        {
+          "name": "Chromatics",
+          "id": "4tOVIRjlWWfR1RrAxyRqTE"
+        }
       ],
-      "artistId": [
-        "4tOVIRjlWWfR1RrAxyRqTE"
-      ],
-      "albumId": "0UN2MKtYHmSYDOXTgWls4q",
+      "album": {
+        "id": "0UN2MKtYHmSYDOXTgWls4q",
+        "name": "Shadow (Remixes)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269ff053afe6df53a6a1fda92"
+      },
       "release_date": "2021-02-24",
       "popularity": 22
     },
     {
-      "trackId": "7ABDb890Jh4wqlojTElUra",
-      "name": "Do I Make You Feel Shy?",
+      "track": {
+        "id": "7ABDb890Jh4wqlojTElUra",
+        "name": "Do I Make You Feel Shy?"
+      },
       "duration_ms": 194026,
-      "artist": [
-        "Connan Mockasin"
+      "artists": [
+        {
+          "name": "Connan Mockasin",
+          "id": "247AfC9pLuqwgpH8Mo96oA"
+        }
       ],
-      "artistId": [
-        "247AfC9pLuqwgpH8Mo96oA"
-      ],
-      "albumId": "1TD2nV7Pp2xwLNE2W413CS",
+      "album": {
+        "id": "1TD2nV7Pp2xwLNE2W413CS",
+        "name": "Caramel",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b79e668c79aed7f6ed35d20e"
+      },
       "release_date": "2013-11-04",
       "popularity": 42
     },
     {
-      "trackId": "7qHMaeWBGykUXtoMQLkIC4",
-      "name": "Seventeen",
+      "track": {
+        "id": "7qHMaeWBGykUXtoMQLkIC4",
+        "name": "Seventeen"
+      },
       "duration_ms": 277866,
-      "artist": [
-        "Ladytron"
+      "artists": [
+        {
+          "name": "Ladytron",
+          "id": "0ucLPotcQNI7AViFytdhBz"
+        }
       ],
-      "artistId": [
-        "0ucLPotcQNI7AViFytdhBz"
-      ],
-      "albumId": "3Ebj5hs8pdTolvQpzpdcoO",
+      "album": {
+        "id": "3Ebj5hs8pdTolvQpzpdcoO",
+        "name": "Light & Magic",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f71425921620fe48f16546bb"
+      },
       "release_date": "2022-04-21",
       "popularity": 62
     },
     {
-      "trackId": "16Ma6faZtpjRzGhpJ38Nlz",
-      "name": "La Serenissima",
+      "track": {
+        "id": "16Ma6faZtpjRzGhpJ38Nlz",
+        "name": "La Serenissima"
+      },
       "duration_ms": 136160,
-      "artist": [
-        "Rondò Veneziano"
+      "artists": [
+        {
+          "name": "Rondò Veneziano",
+          "id": "6YH4dTGIZZvVO55Sb3095Q"
+        }
       ],
-      "artistId": [
-        "6YH4dTGIZZvVO55Sb3095Q"
-      ],
-      "albumId": "1C9mejCykcO77oyfXm9NqG",
+      "album": {
+        "id": "1C9mejCykcO77oyfXm9NqG",
+        "name": "Rondò Veneziano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02793678022fd728b4f406d9ca"
+      },
       "release_date": "1992-10-27",
       "popularity": 34
     },
     {
-      "trackId": "0Oxi3c2s1Lg96MgL9ZDsMR",
-      "name": "Atlantique Sud",
+      "track": {
+        "id": "0Oxi3c2s1Lg96MgL9ZDsMR",
+        "name": "Atlantique Sud"
+      },
       "duration_ms": 204053,
-      "artist": [
-        "M83",
-        "MAI LAN"
+      "artists": [
+        {
+          "name": "M83",
+          "id": "63MQldklfxkjYDoUE4Tppz"
+        },
+        {
+          "name": "MAI LAN",
+          "id": "4qCKUiCnxl18wGx7Bvk5fD"
+        }
       ],
-      "artistId": [
-        "63MQldklfxkjYDoUE4Tppz",
-        "4qCKUiCnxl18wGx7Bvk5fD"
-      ],
-      "albumId": "2NDfGFApzXItl4hNOj1M4k",
+      "album": {
+        "id": "2NDfGFApzXItl4hNOj1M4k",
+        "name": "Junk",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295e27fa175bad6817721f1ca"
+      },
       "release_date": "2016-04-08",
       "popularity": 37
     },
     {
-      "trackId": "09LikVa6VgPYcsChqn1N0U",
-      "name": "Happy House",
+      "track": {
+        "id": "09LikVa6VgPYcsChqn1N0U",
+        "name": "Happy House"
+      },
       "duration_ms": 231706,
-      "artist": [
-        "Siouxsie and the Banshees"
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "id": "1n65zfwYIj5kKEtNgxUlWb"
+        }
       ],
-      "artistId": [
-        "1n65zfwYIj5kKEtNgxUlWb"
-      ],
-      "albumId": "5jynqY8ZyDoeqrIfYSwF8P",
+      "album": {
+        "id": "5jynqY8ZyDoeqrIfYSwF8P",
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204272eb83a6af47cc14ccf76"
+      },
       "release_date": "1980-08-01",
       "popularity": 55
     },
     {
-      "trackId": "1ZIOHKBoidoEUflrW60B0H",
-      "name": "No End",
+      "track": {
+        "id": "1ZIOHKBoidoEUflrW60B0H",
+        "name": "No End"
+      },
       "duration_ms": 272000,
-      "artist": [
-        "Jaakko Eino Kalevi"
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "id": "20o7mwLphfnviZKGPw1gi3"
+        }
       ],
-      "artistId": [
-        "20o7mwLphfnviZKGPw1gi3"
-      ],
-      "albumId": "7fZN4srhNwLFihBLkkFWMi",
+      "album": {
+        "id": "7fZN4srhNwLFihBLkkFWMi",
+        "name": "Dreamzone",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca95b7da784308729ad725b7"
+      },
       "release_date": "2013-12-02",
       "popularity": 29
     },
     {
-      "trackId": "758wEKVqfYopJIHYWdLVd4",
-      "name": "I Wanna Be Adored - Remastered",
+      "track": {
+        "id": "758wEKVqfYopJIHYWdLVd4",
+        "name": "I Wanna Be Adored - Remastered"
+      },
       "duration_ms": 292800,
-      "artist": [
-        "The Stone Roses"
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "id": "1lYT0A0LV5DUfxr6doRP3d"
+        }
       ],
-      "artistId": [
-        "1lYT0A0LV5DUfxr6doRP3d"
-      ],
-      "albumId": "0um9FI6BLBldL5POP4D4Cw",
+      "album": {
+        "id": "0um9FI6BLBldL5POP4D4Cw",
+        "name": "The Stone Roses",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1f6466a493eb73d6d9d280"
+      },
       "release_date": "1989-05-02",
       "popularity": 65
     },
     {
-      "trackId": "3Gt8moxYUBZPgWytnHB39T",
-      "name": "Be Thankful For What You've Got - Perfecto Mix",
+      "track": {
+        "id": "3Gt8moxYUBZPgWytnHB39T",
+        "name": "Be Thankful For What You've Got - Perfecto Mix"
+      },
       "duration_ms": 377173,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "7jgpev6nHXJ8MLR8HtGg2N",
+      "album": {
+        "id": "7jgpev6nHXJ8MLR8HtGg2N",
+        "name": "Blue Lines - The Remixes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dce20c0c38de7deda309a113"
+      },
       "release_date": "2006-01-01",
       "popularity": 33
     },
     {
-      "trackId": "7woW97CfcWaKtuC6W5BP2K",
-      "name": "Heal the World",
+      "track": {
+        "id": "7woW97CfcWaKtuC6W5BP2K",
+        "name": "Heal the World"
+      },
       "duration_ms": 384306,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "0oX4SealMgNXrvRDhqqOKg",
+      "album": {
+        "id": "0oX4SealMgNXrvRDhqqOKg",
+        "name": "Dangerous",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b9f8b18cc685e1502128aa8"
+      },
       "release_date": "1991-11-13",
       "popularity": 67
     }

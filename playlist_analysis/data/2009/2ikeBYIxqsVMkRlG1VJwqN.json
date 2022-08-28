@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3250078_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6iw4OcYSlOg7n36qOd28sv",
-      "name": "Garota de Ipanema",
+      "track": {
+        "id": "6iw4OcYSlOg7n36qOd28sv",
+        "name": "Garota de Ipanema"
+      },
       "duration_ms": 279840,
-      "artist": [
-        "ダニエル・ジョビン",
-        "ドラ・モレレンバウム"
+      "artists": [
+        {
+          "name": "ダニエル・ジョビン",
+          "id": "4AJHXsT8HrEUZW60FVRTl1"
+        },
+        {
+          "name": "ドラ・モレレンバウム",
+          "id": "0po3AMwKu2X5HIHZrwVIN1"
+        }
       ],
-      "artistId": [
-        "4AJHXsT8HrEUZW60FVRTl1",
-        "0po3AMwKu2X5HIHZrwVIN1"
-      ],
-      "albumId": "4Pi56SuDVvDZPb6cwYrJUf",
+      "album": {
+        "id": "4Pi56SuDVvDZPb6cwYrJUf",
+        "name": "João Gilberto Eterno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e513515bc55d692a5a5cc800"
+      },
       "release_date": "2021-06-16",
       "popularity": 10
     },
     {
-      "trackId": "5XthcaqqGIt194paBZqHij",
-      "name": "Contradição",
+      "track": {
+        "id": "5XthcaqqGIt194paBZqHij",
+        "name": "Contradição"
+      },
       "duration_ms": 274826,
-      "artist": [
-        "Paulo Ricardo"
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "id": "07V0GWuWYmgheREejBORmk"
+        }
       ],
-      "artistId": [
-        "07V0GWuWYmgheREejBORmk"
-      ],
-      "albumId": "6fuBNWfvZT7MzILHN3C9FA",
+      "album": {
+        "id": "6fuBNWfvZT7MzILHN3C9FA",
+        "name": "Prisma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d43f1708844de51402079904"
+      },
       "release_date": "2006-04-03",
       "popularity": 3
     },
     {
-      "trackId": "4hHbeIIKO5Y5uLyIEbY9Gn",
-      "name": "Come Fly With Me - Remastered 1998",
+      "track": {
+        "id": "4hHbeIIKO5Y5uLyIEbY9Gn",
+        "name": "Come Fly With Me - Remastered 1998"
+      },
       "duration_ms": 199093,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
+      "album": {
+        "id": "66v9QmjAj0Wwhh2OpbU4BE",
+        "name": "Come Fly With Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02068a5559744d17bd5e871740"
+      },
       "release_date": "1958",
       "popularity": 65
     },
     {
-      "trackId": "22UDw8rSfLbUsaAGTXQ4Z8",
-      "name": "American Boy",
+      "track": {
+        "id": "22UDw8rSfLbUsaAGTXQ4Z8",
+        "name": "American Boy"
+      },
       "duration_ms": 284733,
-      "artist": [
-        "Estelle",
-        "Kanye West"
+      "artists": [
+        {
+          "name": "Estelle",
+          "id": "5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "5T0MSzX9RC5NA6gAI6irSn",
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "5y4Ikuc4sLtNOpanoKKqwo",
+      "album": {
+        "id": "5y4Ikuc4sLtNOpanoKKqwo",
+        "name": "Shine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0b30ef77be3523c8018810c"
+      },
       "release_date": "2008-03-28",
       "popularity": 78
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "3ZYO0HGRFFdAGeb8o7F9KC",
-      "name": "You're The First, The Last, My Everything - Single Version",
+      "track": {
+        "id": "3ZYO0HGRFFdAGeb8o7F9KC",
+        "name": "You're The First, The Last, My Everything - Single Version"
+      },
       "duration_ms": 212906,
-      "artist": [
-        "Barry White"
+      "artists": [
+        {
+          "name": "Barry White",
+          "id": "3rfgbfpPSfXY40lzRK7Syt"
+        }
       ],
-      "artistId": [
-        "3rfgbfpPSfXY40lzRK7Syt"
-      ],
-      "albumId": "3t2UIcBhhF4x11PFUr5Wbf",
+      "album": {
+        "id": "3t2UIcBhhF4x11PFUr5Wbf",
+        "name": "You're The First, The Last, My Everything",
+        "img": "https://i.scdn.co/image/ab67616d00001e0206594959ad0b8acf63c1bc78"
+      },
       "release_date": "2018-03-23",
       "popularity": 68
     },
     {
-      "trackId": "3N4DI1vuTSX1tz7fa2NQZw",
-      "name": "Rehab",
+      "track": {
+        "id": "3N4DI1vuTSX1tz7fa2NQZw",
+        "name": "Rehab"
+      },
       "duration_ms": 214946,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 72
     },
     {
-      "trackId": "1oV6voskqMObmxQQGAK77h",
-      "name": "Fora do Prumo",
+      "track": {
+        "id": "1oV6voskqMObmxQQGAK77h",
+        "name": "Fora do Prumo"
+      },
       "duration_ms": 190014,
-      "artist": [
-        "Charles e Willian"
+      "artists": [
+        {
+          "name": "Charles e Willian",
+          "id": "4QJXAGDMEaQt9Y1RzO1EyR"
+        }
       ],
-      "artistId": [
-        "4QJXAGDMEaQt9Y1RzO1EyR"
-      ],
-      "albumId": "5N0igjlulVRknxsTwQQw4t",
+      "album": {
+        "id": "5N0igjlulVRknxsTwQQw4t",
+        "name": "Fora do Prumo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0215d264d9622f17cbc4535a07"
+      },
       "release_date": "2022-06-08",
       "popularity": 30
     },
     {
-      "trackId": "5J2CHimS7dWYMImCHkEFaJ",
-      "name": "A Hard Day's Night - Remastered 2009",
+      "track": {
+        "id": "5J2CHimS7dWYMImCHkEFaJ",
+        "name": "A Hard Day's Night - Remastered 2009"
+      },
       "duration_ms": 154200,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "6wCttLq0ADzkPgtRnUihLV",
+      "album": {
+        "id": "6wCttLq0ADzkPgtRnUihLV",
+        "name": "A Hard Day's Night (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e230f303815e82a86713eedd"
+      },
       "release_date": "1964-07-10",
       "popularity": 66
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     },
     {
-      "trackId": "4vTT30mAGogt38JwZc0oyW",
-      "name": "Money Money",
+      "track": {
+        "id": "4vTT30mAGogt38JwZc0oyW",
+        "name": "Money Money"
+      },
       "duration_ms": 182000,
-      "artist": [
-        "Joel Grey",
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Joel Grey",
+          "id": "64WqSGPXrSf1YbxoimVNbd"
+        },
+        {
+          "name": "Liza Minnelli",
+          "id": "1pdGj6Gak10Q2ajig4l1Dm"
+        }
       ],
-      "artistId": [
-        "64WqSGPXrSf1YbxoimVNbd",
-        "1pdGj6Gak10Q2ajig4l1Dm"
-      ],
-      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "album": {
+        "id": "28qbOp4dEh18N5u6FInyOO",
+        "name": "Cabaret (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f0ddaafb889a16220871372"
+      },
       "release_date": "1972-02-13",
       "popularity": 40
     },
     {
-      "trackId": "7gbeLcFJ6ASedwjTafvbkF",
-      "name": "Throwback",
+      "track": {
+        "id": "7gbeLcFJ6ASedwjTafvbkF",
+        "name": "Throwback"
+      },
       "duration_ms": 150213,
-      "artist": [
-        "Michael Patrick Kelly"
+      "artists": [
+        {
+          "name": "Michael Patrick Kelly",
+          "id": "4OGiMt96TFUKkKWf7Imlno"
+        }
       ],
-      "artistId": [
-        "4OGiMt96TFUKkKWf7Imlno"
-      ],
-      "albumId": "2e2T5oKXDiaXasZ87IWbRC",
+      "album": {
+        "id": "2e2T5oKXDiaXasZ87IWbRC",
+        "name": "B.O.A.T.S",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc71e7091e7a5e9fd3c80c85"
+      },
       "release_date": "2021-11-12",
       "popularity": 59
     },
     {
-      "trackId": "1c0zagykmGPDYuxJeDqZhJ",
-      "name": "World Hold on (Children of the Sky) [Radio Edit]",
+      "track": {
+        "id": "1c0zagykmGPDYuxJeDqZhJ",
+        "name": "World Hold on (Children of the Sky) [Radio Edit]"
+      },
       "duration_ms": 204230,
-      "artist": [
-        "Bob Sinclar",
-        "Steve Edwards"
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "id": "5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "id": "2SwhNukah1MYpLR594PnuC"
+        }
       ],
-      "artistId": [
-        "5YFS41yoX0YuFY39fq21oN",
-        "2SwhNukah1MYpLR594PnuC"
-      ],
-      "albumId": "5NeL55BkApry2hAFHImIhF",
+      "album": {
+        "id": "5NeL55BkApry2hAFHImIhF",
+        "name": "World Hold on (Children of the Sky) [Radio Edit]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a983f4b0da364d478225baf1"
+      },
       "release_date": "2006-06-06",
       "popularity": 68
     }

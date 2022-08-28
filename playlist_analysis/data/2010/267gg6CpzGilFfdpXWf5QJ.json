@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3239090_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0WUnBeRNL8gY0Ddv0xz89T",
-      "name": "I Knew You Were Waiting (For Me)",
+      "track": {
+        "id": "0WUnBeRNL8gY0Ddv0xz89T",
+        "name": "I Knew You Were Waiting (For Me)"
+      },
       "duration_ms": 244426,
-      "artist": [
-        "Michael McDonald"
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "id": "24hJWbo98sH84tb0nkeaqy"
+        }
       ],
-      "artistId": [
-        "24hJWbo98sH84tb0nkeaqy"
-      ],
-      "albumId": "303s5fPq9OuEkNG1E1ue11",
+      "album": {
+        "id": "303s5fPq9OuEkNG1E1ue11",
+        "name": "Soul Speak",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247ecd4c5643cd05471734f09"
+      },
       "release_date": "2008-01-01",
       "popularity": 26
     },
     {
-      "trackId": "4pRCNGGBhUGFAoAlbrvH5E",
-      "name": "Skylark",
+      "track": {
+        "id": "4pRCNGGBhUGFAoAlbrvH5E",
+        "name": "Skylark"
+      },
       "duration_ms": 187426,
-      "artist": [
-        "Nancy LaMott"
+      "artists": [
+        {
+          "name": "Nancy LaMott",
+          "id": "14py4lZp4X3cYUSlXym7Du"
+        }
       ],
-      "artistId": [
-        "14py4lZp4X3cYUSlXym7Du"
-      ],
-      "albumId": "14pOoXPXhgv6nXCXs56Yl9",
+      "album": {
+        "id": "14pOoXPXhgv6nXCXs56Yl9",
+        "name": "Beautiful Baby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6827de848f661658dc47bec"
+      },
       "release_date": "2005-01-01",
       "popularity": 3
     },
     {
-      "trackId": "1NMnj0AJrbKpLymPB77Qyv",
-      "name": "Dom hade mycket att säga",
+      "track": {
+        "id": "1NMnj0AJrbKpLymPB77Qyv",
+        "name": "Dom hade mycket att säga"
+      },
       "duration_ms": 194346,
-      "artist": [
-        "Andreas Grega"
+      "artists": [
+        {
+          "name": "Andreas Grega",
+          "id": "7lVzaolIf7yhA6DSnQuxaD"
+        }
       ],
-      "artistId": [
-        "7lVzaolIf7yhA6DSnQuxaD"
-      ],
-      "albumId": "2jAMEg59tVQYGRSG7QvjSj",
+      "album": {
+        "id": "2jAMEg59tVQYGRSG7QvjSj",
+        "name": "En sak i taget",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ac3dfce511c29ea4966b96a"
+      },
       "release_date": "2010-01-01",
       "popularity": 29
     },
     {
-      "trackId": "3r686n9eAglhBQ19mXfGUO",
-      "name": "The Question",
+      "track": {
+        "id": "3r686n9eAglhBQ19mXfGUO",
+        "name": "The Question"
+      },
       "duration_ms": 195240,
-      "artist": [
-        "Roxie 77"
+      "artists": [
+        {
+          "name": "Roxie 77",
+          "id": "4fDOgzZNZFAdmZpR3XCCW7"
+        }
       ],
-      "artistId": [
-        "4fDOgzZNZFAdmZpR3XCCW7"
-      ],
-      "albumId": "7z6ZeIg5wdY74GxNREvHIq",
+      "album": {
+        "id": "7z6ZeIg5wdY74GxNREvHIq",
+        "name": "Two Sides to Every Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226c21229344e16306c3feafe"
+      },
       "release_date": "2012-03-12",
       "popularity": 1
     },
     {
-      "trackId": "5n9Ul19Pb8MROfm8eTI7UH",
-      "name": "Rocket In My Pocket - Live at the Rainbow Theatre, London, UK, 8/2/1977",
+      "track": {
+        "id": "5n9Ul19Pb8MROfm8eTI7UH",
+        "name": "Rocket In My Pocket - Live at the Rainbow Theatre, London, UK, 8/2/1977"
+      },
       "duration_ms": 237906,
-      "artist": [
-        "Little Feat"
+      "artists": [
+        {
+          "name": "Little Feat",
+          "id": "0ZIwOAzDuGPspzK7yiTc4S"
+        }
       ],
-      "artistId": [
-        "0ZIwOAzDuGPspzK7yiTc4S"
-      ],
-      "albumId": "2TtmZyFBqydHgAk6r8mbbM",
+      "album": {
+        "id": "2TtmZyFBqydHgAk6r8mbbM",
+        "name": "Waiting for Columbus (Live Version; Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bbdce07e340cedf9c9cf064d"
+      },
       "release_date": "1988-02-02",
       "popularity": 27
     },
     {
-      "trackId": "4mp28AMgYCgrkfJMSYtl3C",
-      "name": "The Summer Wind",
+      "track": {
+        "id": "4mp28AMgYCgrkfJMSYtl3C",
+        "name": "The Summer Wind"
+      },
       "duration_ms": 234106,
-      "artist": [
-        "Madeleine Peyroux"
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "id": "7nXyULtoL8k7wP9l6kg8Ef"
+        }
       ],
-      "artistId": [
-        "7nXyULtoL8k7wP9l6kg8Ef"
-      ],
-      "albumId": "5OomYDbQatByUYt4aXXVwH",
+      "album": {
+        "id": "5OomYDbQatByUYt4aXXVwH",
+        "name": "Half The Perfect World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3b9b6681c363aa0e6ca732d"
+      },
       "release_date": "2006-01-01",
       "popularity": 56
     },
     {
-      "trackId": "3ViOBcngj6o0GmHOGbRDWb",
-      "name": "State Of Mind",
+      "track": {
+        "id": "3ViOBcngj6o0GmHOGbRDWb",
+        "name": "State Of Mind"
+      },
       "duration_ms": 205000,
-      "artist": [
-        "Raul Midón"
+      "artists": [
+        {
+          "name": "Raul Midón",
+          "id": "2z3984YB48d3CFltzVlFYE"
+        }
       ],
-      "artistId": [
-        "2z3984YB48d3CFltzVlFYE"
-      ],
-      "albumId": "2GMiIr3zTL1ru2eiDThnOC",
+      "album": {
+        "id": "2GMiIr3zTL1ru2eiDThnOC",
+        "name": "State Of Mind",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b4b7429d86fe2858cb189c0a"
+      },
       "release_date": "2005",
       "popularity": 32
     },
     {
-      "trackId": "0HfyQ2nEhrh0L9kCkM2QPY",
-      "name": "Carmen, Act I: L'amour est un oiseau rebelle, \"Habanera\" (arr. M. Berstrom): Carmen: Habanera, L'amore est un oiseau rebelle",
+      "track": {
+        "id": "0HfyQ2nEhrh0L9kCkM2QPY",
+        "name": "Carmen, Act I: L'amour est un oiseau rebelle, \"Habanera\" (arr. M. Berstrom): Carmen: Habanera, L'amore est un oiseau rebelle"
+      },
       "duration_ms": 202560,
-      "artist": [
-        "Mats Bergström",
-        "Georges Bizet",
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "Mats Bergström",
+          "id": "1cK2dUALEJSsEGK3WUgruU"
+        },
+        {
+          "name": "Georges Bizet",
+          "id": "2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "1cK2dUALEJSsEGK3WUgruU",
-        "2D7RkvtKKb6E5UmbjQM1Jd",
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "2D0Y1a0hWTW5qX9Nu18gFe",
+      "album": {
+        "id": "2D0Y1a0hWTW5qX9Nu18gFe",
+        "name": "Ernman, Malena: Arias, Lieder and Cabaret Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a32d23b48ad387195c6cfef1"
+      },
       "release_date": "2003-10-28",
       "popularity": 9
     },
     {
-      "trackId": "7dARVT6y3LJUBZCAblLTFi",
-      "name": "Don't Worry Be Happy",
+      "track": {
+        "id": "7dARVT6y3LJUBZCAblLTFi",
+        "name": "Don't Worry Be Happy"
+      },
       "duration_ms": 288613,
-      "artist": [
-        "Bobby McFerrin"
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "id": "2FjkZT851ez950cyPjeYid"
+        }
       ],
-      "artistId": [
-        "2FjkZT851ez950cyPjeYid"
-      ],
-      "albumId": "5W8VeZlcDbng3hSwqj3NMN",
+      "album": {
+        "id": "5W8VeZlcDbng3hSwqj3NMN",
+        "name": "summer songs we can all scream",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7f7a90486d530bc21f3cf24"
+      },
       "release_date": "2022-07-08",
       "popularity": 14
     },
     {
-      "trackId": "63jOGArnfrkgDET9TTsee2",
-      "name": "Feeling Good",
+      "track": {
+        "id": "63jOGArnfrkgDET9TTsee2",
+        "name": "Feeling Good"
+      },
       "duration_ms": 233533,
-      "artist": [
-        "My Brightest Diamond"
+      "artists": [
+        {
+          "name": "My Brightest Diamond",
+          "id": "37qXWlhfRvpxmIeTKvfw8B"
+        }
       ],
-      "artistId": [
-        "37qXWlhfRvpxmIeTKvfw8B"
-      ],
-      "albumId": "1ZgPLRwQF58fsgciZl1PO4",
+      "album": {
+        "id": "1ZgPLRwQF58fsgciZl1PO4",
+        "name": "Dark Was The Night (Red Hot Compilation)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8fdb122e1797699af43c1e2"
+      },
       "release_date": "2009-02-16",
       "popularity": 31
     },
     {
-      "trackId": "01UYpHuzHi4eB9PAbDoPY2",
-      "name": "Summer Breeze",
+      "track": {
+        "id": "01UYpHuzHi4eB9PAbDoPY2",
+        "name": "Summer Breeze"
+      },
       "duration_ms": 205480,
-      "artist": [
-        "Seals and Crofts"
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "id": "6jdObwsrIjSRnBbMw6lPBj"
+        }
       ],
-      "artistId": [
-        "6jdObwsrIjSRnBbMw6lPBj"
-      ],
-      "albumId": "4dkdQY484elFRfcVNY6uzj",
+      "album": {
+        "id": "4dkdQY484elFRfcVNY6uzj",
+        "name": "Seals & Crofts' Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfa20da3b777d38da4b044ca"
+      },
       "release_date": "1972",
       "popularity": 65
     },
     {
-      "trackId": "74udjPqpX9rPteW1P3ewMj",
-      "name": "Goodbye Is All We Have",
+      "track": {
+        "id": "74udjPqpX9rPteW1P3ewMj",
+        "name": "Goodbye Is All We Have"
+      },
       "duration_ms": 232573,
-      "artist": [
-        "Alison Krauss & Union Station"
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "id": "0OTnx2X2FDXeewcm72lavT"
+        }
       ],
-      "artistId": [
-        "0OTnx2X2FDXeewcm72lavT"
-      ],
-      "albumId": "1sCawRvncJDyry18GQ2IgX",
+      "album": {
+        "id": "1sCawRvncJDyry18GQ2IgX",
+        "name": "Lonely Runs Both Ways",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bb8585108958dd5ca64f9f33"
+      },
       "release_date": "2004-01-01",
       "popularity": 25
     }

@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860941_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2iAJKveSp91cgDmXOQlJ9H",
-      "name": "Wheels of Love",
+      "track": {
+        "id": "2iAJKveSp91cgDmXOQlJ9H",
+        "name": "Wheels of Love"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Emmylou Harris"
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "id": "5s6TJEuHTr9GR894wc6VfP"
+        }
       ],
-      "artistId": [
-        "5s6TJEuHTr9GR894wc6VfP"
-      ],
-      "albumId": "5JbEc1Ys2j377xJK1nfHvf",
+      "album": {
+        "id": "5JbEc1Ys2j377xJK1nfHvf",
+        "name": "Transatlantic Sessions - Series 1: Volume Two",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228edbd484daebdc628aa2349"
+      },
       "release_date": "2009-08-25",
       "popularity": 28
     },
     {
-      "trackId": "3v9ELl9T121dhadZyIiQVn",
-      "name": "Thorn in My Side - Remastered",
+      "track": {
+        "id": "3v9ELl9T121dhadZyIiQVn",
+        "name": "Thorn in My Side - Remastered"
+      },
       "duration_ms": 253400,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "5vl4lQTP3L0avOrXQizFso",
+      "album": {
+        "id": "5vl4lQTP3L0avOrXQizFso",
+        "name": "Revenge",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239efc86eb5981f6de0bf96f5"
+      },
       "release_date": "1986-06-30",
       "popularity": 59
     },
     {
-      "trackId": "5jSz894ljfWE0IcHBSM39i",
-      "name": "Raspberry Beret",
+      "track": {
+        "id": "5jSz894ljfWE0IcHBSM39i",
+        "name": "Raspberry Beret"
+      },
       "duration_ms": 215173,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "5FbrTPPlaNSOsChhKUZxcu",
+      "album": {
+        "id": "5FbrTPPlaNSOsChhKUZxcu",
+        "name": "Around the World in a Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02214f0bd9dc1ed0c65ae81760"
+      },
       "release_date": "1985-04-22",
       "popularity": 66
     },
     {
-      "trackId": "3fNmCM9qLR9et5ejJe3PFi",
-      "name": "A Case Of You",
+      "track": {
+        "id": "3fNmCM9qLR9et5ejJe3PFi",
+        "name": "A Case Of You"
+      },
       "duration_ms": 305400,
-      "artist": [
-        "Joni Mitchell",
-        "Ana Moura"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Ana Moura",
+          "id": "5HjL8Wcg8TdKTABDci2mB7"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve",
-        "5HjL8Wcg8TdKTABDci2mB7"
-      ],
-      "albumId": "3eINl3nsCLJFpc4qsO3dmx",
+      "album": {
+        "id": "3eINl3nsCLJFpc4qsO3dmx",
+        "name": "#Escape",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d96f2cd7f84b8b432b5190c"
+      },
       "release_date": "2014-01-01",
       "popularity": 26
     },
     {
-      "trackId": "71zJRiAG1f817v9R9tYMvg",
-      "name": "Song For Guy",
+      "track": {
+        "id": "71zJRiAG1f817v9R9tYMvg",
+        "name": "Song For Guy"
+      },
       "duration_ms": 413866,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "3nCMMolz1wMdEIwlf0SbZp",
+      "album": {
+        "id": "3nCMMolz1wMdEIwlf0SbZp",
+        "name": "A Single Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204e98c42380448bd708234aa"
+      },
       "release_date": "1978-10-01",
       "popularity": 55
     },
     {
-      "trackId": "0bYwN4LqZYLfs9ZEHPXjBC",
-      "name": "Best Thing That Ever Happened to Me",
+      "track": {
+        "id": "0bYwN4LqZYLfs9ZEHPXjBC",
+        "name": "Best Thing That Ever Happened to Me"
+      },
       "duration_ms": 224986,
-      "artist": [
-        "Gladys Knight & The Pips"
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "id": "0TF2NxkJZPQoX1H53rEFM1"
+        }
       ],
-      "artistId": [
-        "0TF2NxkJZPQoX1H53rEFM1"
-      ],
-      "albumId": "6pMzuVjsypAwbeKiZm56wP",
+      "album": {
+        "id": "6pMzuVjsypAwbeKiZm56wP",
+        "name": "Imagination (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9c903069dab033b532c4f7a"
+      },
       "release_date": "1973",
       "popularity": 55
     },
     {
-      "trackId": "3tyTt5pEWblt96j1HsXiV5",
-      "name": "Freedom! '90 - Remastered",
+      "track": {
+        "id": "3tyTt5pEWblt96j1HsXiV5",
+        "name": "Freedom! '90 - Remastered"
+      },
       "duration_ms": 390861,
-      "artist": [
-        "George Michael"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo"
-      ],
-      "albumId": "0ZeOyoJHPD6czbTPAT9Qaj",
+      "album": {
+        "id": "0ZeOyoJHPD6czbTPAT9Qaj",
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0229c1c454ed1b2acfa64dc37f"
+      },
       "release_date": "2017-10-20",
       "popularity": 66
     },
     {
-      "trackId": "25NxW0iRRFOrIfxu4nrYfE",
-      "name": "Being Boring",
+      "track": {
+        "id": "25NxW0iRRFOrIfxu4nrYfE",
+        "name": "Being Boring"
+      },
       "duration_ms": 291306,
-      "artist": [
-        "Pet Shop Boys"
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "id": "2ycnb8Er79LoH2AsR5ldjh"
+        }
       ],
-      "artistId": [
-        "2ycnb8Er79LoH2AsR5ldjh"
-      ],
-      "albumId": "0Jt2LzWgtGxy3GZH5i2Kcy",
+      "album": {
+        "id": "0Jt2LzWgtGxy3GZH5i2Kcy",
+        "name": "Discography - Complete Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02499c6d2eaeb941d76acdfe41"
+      },
       "release_date": "1998-03-31",
       "popularity": 48
     },
     {
-      "trackId": "2BK4Vuf2WpjgiKMtLMb4U7",
-      "name": "You Don't Have To Say You Love Me",
+      "track": {
+        "id": "2BK4Vuf2WpjgiKMtLMb4U7",
+        "name": "You Don't Have To Say You Love Me"
+      },
       "duration_ms": 168600,
-      "artist": [
-        "Dusty Springfield"
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "id": "5zaXYwewAXedKNCff45U5l"
+        }
       ],
-      "artistId": [
-        "5zaXYwewAXedKNCff45U5l"
-      ],
-      "albumId": "6t4BECovfkgGTrtbqmTlZf",
+      "album": {
+        "id": "6t4BECovfkgGTrtbqmTlZf",
+        "name": "The Silver Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e025827c499129d9d9b4eaa536a"
+      },
       "release_date": "1988-01-01",
       "popularity": 44
     },
     {
-      "trackId": "0IVMSJTtLbhJEjnOVlbOYD",
-      "name": "Good Morning Britain",
+      "track": {
+        "id": "0IVMSJTtLbhJEjnOVlbOYD",
+        "name": "Good Morning Britain"
+      },
       "duration_ms": 242533,
-      "artist": [
-        "Aztec Camera"
+      "artists": [
+        {
+          "name": "Aztec Camera",
+          "id": "7sbwBqdkynNUDgiWU3TQ5J"
+        }
       ],
-      "artistId": [
-        "7sbwBqdkynNUDgiWU3TQ5J"
-      ],
-      "albumId": "3JgwgkWSgdx8yprrMZOvzM",
+      "album": {
+        "id": "3JgwgkWSgdx8yprrMZOvzM",
+        "name": "Stray (US Internet Release)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dde084e82dd10772c971d7d7"
+      },
       "release_date": "1990",
       "popularity": 41
     },
     {
-      "trackId": "0qdQUeKVyevrbKhAo0ibxS",
-      "name": "My Sweet Lord - Remastered 2014",
+      "track": {
+        "id": "0qdQUeKVyevrbKhAo0ibxS",
+        "name": "My Sweet Lord - Remastered 2014"
+      },
       "duration_ms": 281226,
-      "artist": [
-        "George Harrison"
+      "artists": [
+        {
+          "name": "George Harrison",
+          "id": "7FIoB5PHdrMZVC3q2HE5MS"
+        }
       ],
-      "artistId": [
-        "7FIoB5PHdrMZVC3q2HE5MS"
-      ],
-      "albumId": "4I4xtHaIFOzhZfp1NIHkY6",
+      "album": {
+        "id": "4I4xtHaIFOzhZfp1NIHkY6",
+        "name": "All Things Must Pass (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02acc11d868a59008935e72299"
+      },
       "release_date": "1970-11-27",
       "popularity": 75
     },
     {
-      "trackId": "2ChRZmJbKU4yiaQfAlwe77",
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga",
+      "track": {
+        "id": "2ChRZmJbKU4yiaQfAlwe77",
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga"
+      },
       "duration_ms": 344240,
-      "artist": [
-        "George Frideric Handel",
-        "Simone Kermes",
-        "La Magnifica Comunità"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Simone Kermes",
+          "id": "5YB96PPFR0dEMazdUzMJDb"
+        },
+        {
+          "name": "La Magnifica Comunità",
+          "id": "3NwtMQXC9rIjfGis4ke7Ns"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "5YB96PPFR0dEMazdUzMJDb",
-        "3NwtMQXC9rIjfGis4ke7Ns"
-      ],
-      "albumId": "3HZ4bKWZ67omiRcKzWZHvS",
+      "album": {
+        "id": "3HZ4bKWZ67omiRcKzWZHvS",
+        "name": "Dramma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec5976dcada91eb874f05da7"
+      },
       "release_date": "2012-08-17",
       "popularity": 6
     }

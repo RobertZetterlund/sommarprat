@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3238585_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1XrdmJxGSLjvEuHLdVF5VW",
-      "name": "A New England",
+      "track": {
+        "id": "1XrdmJxGSLjvEuHLdVF5VW",
+        "name": "A New England"
+      },
       "duration_ms": 232853,
-      "artist": [
-        "Kirsty MacColl"
+      "artists": [
+        {
+          "name": "Kirsty MacColl",
+          "id": "6UlNIFEuWlBqb4TvlVCekq"
+        }
       ],
-      "artistId": [
-        "6UlNIFEuWlBqb4TvlVCekq"
-      ],
-      "albumId": "1jWUD2a9m08a6FFKth91Yl",
+      "album": {
+        "id": "1jWUD2a9m08a6FFKth91Yl",
+        "name": "The Stiff Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a956ba083e98ce4b223ce339"
+      },
       "release_date": "2006-10-04",
       "popularity": 54
     },
     {
-      "trackId": "0P0lgWxM39ZSJE3u9nsikD",
-      "name": "Monicas vals",
+      "track": {
+        "id": "0P0lgWxM39ZSJE3u9nsikD",
+        "name": "Monicas vals"
+      },
       "duration_ms": 167440,
-      "artist": [
-        "Monica Zetterlund",
-        "Bill Evans"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "id": "4jXfFzeP66Zy67HM2mvIIF"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD",
-        "4jXfFzeP66Zy67HM2mvIIF"
-      ],
-      "albumId": "5jMKNvYYHH08quqLK3ylTC",
+      "album": {
+        "id": "5jMKNvYYHH08quqLK3ylTC",
+        "name": "Waltz For Debby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4e6d8633c7f37f127d66f8e"
+      },
       "release_date": "1964-12-01",
       "popularity": 36
     },
     {
-      "trackId": "1iCHl2R7xoEsh7CvYe5Ej0",
-      "name": "My Favorite Things",
+      "track": {
+        "id": "1iCHl2R7xoEsh7CvYe5Ej0",
+        "name": "My Favorite Things"
+      },
       "duration_ms": 140893,
-      "artist": [
-        "Julie Andrews"
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "id": "5RdqZVi36tpDPYNPw8jJbO"
+        }
       ],
-      "artistId": [
-        "5RdqZVi36tpDPYNPw8jJbO"
-      ],
-      "albumId": "1KN5Lr40H56umfa1yzmO5R",
+      "album": {
+        "id": "1KN5Lr40H56umfa1yzmO5R",
+        "name": "The Sound Of Music (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e60e9562d3562c6d6a88a994"
+      },
       "release_date": "1965-01-01",
       "popularity": 57
     },
     {
-      "trackId": "1uYyXXqWQJ0fBQ0a7iMU0a",
-      "name": "The Hustle",
+      "track": {
+        "id": "1uYyXXqWQJ0fBQ0a7iMU0a",
+        "name": "The Hustle"
+      },
       "duration_ms": 242640,
-      "artist": [
-        "Van McCoy"
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "id": "0bShb58TO0fM5jOjXhB1WT"
+        }
       ],
-      "artistId": [
-        "0bShb58TO0fM5jOjXhB1WT"
-      ],
-      "albumId": "3L6yuuvIFVNQEOQ0F3rwn8",
+      "album": {
+        "id": "3L6yuuvIFVNQEOQ0F3rwn8",
+        "name": "Music For Seventies",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bec355c28a61688b0e8b3f01"
+      },
       "release_date": "2007-01-01",
       "popularity": 43
     },
     {
-      "trackId": "7FO7BolIZsl1o8DDSjeOph",
-      "name": "Twin Peaks Theme - Instrumental",
+      "track": {
+        "id": "7FO7BolIZsl1o8DDSjeOph",
+        "name": "Twin Peaks Theme - Instrumental"
+      },
       "duration_ms": 310013,
-      "artist": [
-        "Angelo Badalamenti"
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "id": "3Eeb1U0VJTDaFpBHV4DmHl"
+        }
       ],
-      "artistId": [
-        "3Eeb1U0VJTDaFpBHV4DmHl"
-      ],
-      "albumId": "6iGX2bbzKEocRY0HzdQ9zX",
+      "album": {
+        "id": "6iGX2bbzKEocRY0HzdQ9zX",
+        "name": "Soundtrack From Twin Peaks",
+        "img": "https://i.scdn.co/image/ab67616d00001e020fe62e9afb4ae8f52a241d33"
+      },
       "release_date": "1990-09-07",
       "popularity": 51
     },
     {
-      "trackId": "7JqO9mOheNWFVEbSShulMx",
-      "name": "Sjörövar-Fabbe",
+      "track": {
+        "id": "7JqO9mOheNWFVEbSShulMx",
+        "name": "Sjörövar-Fabbe"
+      },
       "duration_ms": 140426,
-      "artist": [
-        "Astrid Lindgren",
-        "Pippi Långstrump"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Pippi Långstrump",
+          "id": "7bb7LMk1Jzrvxr1U9r9uvx"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "7bb7LMk1Jzrvxr1U9r9uvx"
-      ],
-      "albumId": "2SYUiUnTQXOOioWUb17tgL",
+      "album": {
+        "id": "2SYUiUnTQXOOioWUb17tgL",
+        "name": "Pippi Långstrump på de sju haven",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1679253bb6ba7eb29de8d8"
+      },
       "release_date": "1970-01-01",
       "popularity": 49
     },
     {
-      "trackId": "60BmSp4whSDDysRNgkKdqd",
-      "name": "Birthday",
+      "track": {
+        "id": "60BmSp4whSDDysRNgkKdqd",
+        "name": "Birthday"
+      },
       "duration_ms": 238626,
-      "artist": [
-        "The Sugarcubes"
+      "artists": [
+        {
+          "name": "The Sugarcubes",
+          "id": "1G0Xwj8mza6b03iYkVdzDP"
+        }
       ],
-      "artistId": [
-        "1G0Xwj8mza6b03iYkVdzDP"
-      ],
-      "albumId": "5I0rvDfkvXR89ext3Edr1j",
+      "album": {
+        "id": "5I0rvDfkvXR89ext3Edr1j",
+        "name": "Life's Too Good",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255250dbe424ef54196319192"
+      },
       "release_date": "1988-01-01",
       "popularity": 51
     },
     {
-      "trackId": "3ssXFV0eFKU98rhDEHuCLR",
-      "name": "Lottovoitto",
+      "track": {
+        "id": "3ssXFV0eFKU98rhDEHuCLR",
+        "name": "Lottovoitto"
+      },
       "duration_ms": 232666,
-      "artist": [
-        "Maija Vilkkumaa"
+      "artists": [
+        {
+          "name": "Maija Vilkkumaa",
+          "id": "4LhCodjo3UFI0Bu0ZYuOP5"
+        }
       ],
-      "artistId": [
-        "4LhCodjo3UFI0Bu0ZYuOP5"
-      ],
-      "albumId": "0yYBgN9iSWf1oAuUnXeiDD",
+      "album": {
+        "id": "0yYBgN9iSWf1oAuUnXeiDD",
+        "name": "Kunnes joet muuttaa suuntaa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae71592df89c5d9f34e4b3ee"
+      },
       "release_date": "2010-04-09",
       "popularity": 34
     },
     {
-      "trackId": "5KGZcnxuhwvfHyd6pcY2wd",
-      "name": "Ride A White Swan",
+      "track": {
+        "id": "5KGZcnxuhwvfHyd6pcY2wd",
+        "name": "Ride A White Swan"
+      },
       "duration_ms": 134133,
-      "artist": [
-        "T. Rex"
+      "artists": [
+        {
+          "name": "T. Rex",
+          "id": "3dBVyJ7JuOMt4GE9607Qin"
+        }
       ],
-      "artistId": [
-        "3dBVyJ7JuOMt4GE9607Qin"
-      ],
-      "albumId": "1CLOmveNnxd6UiamPvY8GI",
+      "album": {
+        "id": "1CLOmveNnxd6UiamPvY8GI",
+        "name": "T. Rex (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e12f83612c58ff3b635d669"
+      },
       "release_date": "1970-12-18",
       "popularity": 46
     },
     {
-      "trackId": "6Y6jq2el8dK1g00JppZXye",
-      "name": "Stompalång Tut Pling Sång",
+      "track": {
+        "id": "6Y6jq2el8dK1g00JppZXye",
+        "name": "Stompalång Tut Pling Sång"
+      },
       "duration_ms": 230626,
-      "artist": [
-        "Babblarna"
+      "artists": [
+        {
+          "name": "Babblarna",
+          "id": "1aA5OGASCVhznQYm71BMYg"
+        }
       ],
-      "artistId": [
-        "1aA5OGASCVhznQYm71BMYg"
-      ],
-      "albumId": "4UJNmi54rOAergmdb546OD",
+      "album": {
+        "id": "4UJNmi54rOAergmdb546OD",
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230040d3f0ae79c0023365cf4"
+      },
       "release_date": "2015-01-01",
       "popularity": 51
     },
     {
-      "trackId": "0xLmm2bZ0jPNbvi2yYyL6j",
-      "name": "Cherry Oh Baby",
+      "track": {
+        "id": "0xLmm2bZ0jPNbvi2yYyL6j",
+        "name": "Cherry Oh Baby"
+      },
       "duration_ms": 161500,
-      "artist": [
-        "Byron Lee"
+      "artists": [
+        {
+          "name": "Byron Lee",
+          "id": "1qerVYQkyneFNgZfMKH6HX"
+        }
       ],
-      "artistId": [
-        "1qerVYQkyneFNgZfMKH6HX"
-      ],
-      "albumId": "02hmx1aWBdFIAIcgchse7r",
+      "album": {
+        "id": "02hmx1aWBdFIAIcgchse7r",
+        "name": "Rasta Love 20 Hot Reggae Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fa5190bafd5f739bf442ba3"
+      },
       "release_date": "2022-07-22",
       "popularity": 0
     }

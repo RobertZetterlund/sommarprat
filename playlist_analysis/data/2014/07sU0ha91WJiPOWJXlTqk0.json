@@ -7,214 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300176_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "28cnXtME493VX9NOw9cIUh",
-      "name": "Hurt",
+      "track": {
+        "id": "28cnXtME493VX9NOw9cIUh",
+        "name": "Hurt"
+      },
       "duration_ms": 216533,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2BlL4Gv2DLPu8p58Wcmlm9",
+      "album": {
+        "id": "2BlL4Gv2DLPu8p58Wcmlm9",
+        "name": "American IV: The Man Comes Around",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f4f62da3d811b6501a69ffa"
+      },
       "release_date": "2002-01-01",
       "popularity": 73
     },
     {
-      "trackId": "5U1SPYUAkogLd6ez9QclbK",
-      "name": "A Darkness Rises Up",
+      "track": {
+        "id": "5U1SPYUAkogLd6ez9QclbK",
+        "name": "A Darkness Rises Up"
+      },
       "duration_ms": 210160,
-      "artist": [
-        "Broken Records"
+      "artists": [
+        {
+          "name": "Broken Records",
+          "id": "4U2j9OHOosv3AagxMB9nR0"
+        }
       ],
-      "artistId": [
-        "4U2j9OHOosv3AagxMB9nR0"
-      ],
-      "albumId": "5tTwmJVslqVmbOqsXFbyUq",
+      "album": {
+        "id": "5tTwmJVslqVmbOqsXFbyUq",
+        "name": "Let Me Come Home",
+        "img": "https://i.scdn.co/image/ab67616d00001e02897c5a008b5f42cd1aa3b11c"
+      },
       "release_date": "2010-10-25",
       "popularity": 11
     },
     {
-      "trackId": "6ei4QrpcciclGH593uHKo8",
-      "name": "A Real Hero",
+      "track": {
+        "id": "6ei4QrpcciclGH593uHKo8",
+        "name": "A Real Hero"
+      },
       "duration_ms": 267693,
-      "artist": [
-        "Electric Youth",
-        "College"
+      "artists": [
+        {
+          "name": "Electric Youth",
+          "id": "45YbCFM0an4hsEXMdQ4k3b"
+        },
+        {
+          "name": "College",
+          "id": "11TlWPqyDFLHGccTFQhcc6"
+        }
       ],
-      "artistId": [
-        "45YbCFM0an4hsEXMdQ4k3b",
-        "11TlWPqyDFLHGccTFQhcc6"
-      ],
-      "albumId": "3xlj8UnItzJxDjn3kWezIK",
+      "album": {
+        "id": "3xlj8UnItzJxDjn3kWezIK",
+        "name": "Innerworld (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfd9a2cbc20161951ef8b5b4"
+      },
       "release_date": "2014-09-30",
       "popularity": 58
     },
     {
-      "trackId": "6jFxMGKsNEVrba2POPgAjK",
-      "name": "Always",
+      "track": {
+        "id": "6jFxMGKsNEVrba2POPgAjK",
+        "name": "Always"
+      },
       "duration_ms": 237840,
-      "artist": [
-        "Erasure"
+      "artists": [
+        {
+          "name": "Erasure",
+          "id": "0z5DFXmhT4ZNzWElsM7V89"
+        }
       ],
-      "artistId": [
-        "0z5DFXmhT4ZNzWElsM7V89"
-      ],
-      "albumId": "3XH2JDr1Z6RJv3VByXlI7C",
+      "album": {
+        "id": "3XH2JDr1Z6RJv3VByXlI7C",
+        "name": "I Say I Say I Say",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232cf58eaec7e4892e5a808b0"
+      },
       "release_date": "1994-05-16",
       "popularity": 55
     },
     {
-      "trackId": "0ZeKQudydO2uQJpfr6gNC8",
-      "name": "Tainted Love",
+      "track": {
+        "id": "0ZeKQudydO2uQJpfr6gNC8",
+        "name": "Tainted Love"
+      },
       "duration_ms": 200426,
-      "artist": [
-        "Marilyn Manson"
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "id": "2VYQTNDsvvKN9wmU5W7xpj"
+        }
       ],
-      "artistId": [
-        "2VYQTNDsvvKN9wmU5W7xpj"
-      ],
-      "albumId": "3KExM8E3KgpsS2bHVSJzTc",
+      "album": {
+        "id": "3KExM8E3KgpsS2bHVSJzTc",
+        "name": "The Golden Age Of Grotesque",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dcca264f538d015a1c9733a5"
+      },
       "release_date": "2003-01-01",
       "popularity": 60
     },
     {
-      "trackId": "1C2lRr9ee2hxLvcK2I1rGd",
-      "name": "High and Unhinged",
+      "track": {
+        "id": "1C2lRr9ee2hxLvcK2I1rGd",
+        "name": "High and Unhinged"
+      },
       "duration_ms": 233917,
-      "artist": [
-        "Les Savy Fav"
+      "artists": [
+        {
+          "name": "Les Savy Fav",
+          "id": "5DZBnxCYzs32O2bbqK8KNg"
+        }
       ],
-      "artistId": [
-        "5DZBnxCYzs32O2bbqK8KNg"
-      ],
-      "albumId": "10NrOYX6Tf9fDrptmzUDAw",
+      "album": {
+        "id": "10NrOYX6Tf9fDrptmzUDAw",
+        "name": "Root for Ruin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e25b2ad00f5ae9b24d3892c7"
+      },
       "release_date": "2010-08-09",
       "popularity": 6
     },
     {
-      "trackId": "0eBryM7ePQH3Klt3jz8xZd",
-      "name": "First Day of My Life",
+      "track": {
+        "id": "0eBryM7ePQH3Klt3jz8xZd",
+        "name": "First Day of My Life"
+      },
       "duration_ms": 188877,
-      "artist": [
-        "Bright Eyes"
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "id": "5o206eFLx38glA2bb4zqIU"
+        }
       ],
-      "artistId": [
-        "5o206eFLx38glA2bb4zqIU"
-      ],
-      "albumId": "6MwSuZphL6GmuSVIYUGUF7",
+      "album": {
+        "id": "6MwSuZphL6GmuSVIYUGUF7",
+        "name": "I'm Wide Awake, It's Morning",
+        "img": "https://i.scdn.co/image/ab67616d00001e028eded59eb143ee6000a77c62"
+      },
       "release_date": "2005-01-25",
       "popularity": 69
     },
     {
-      "trackId": "11HaTjMKcdbL4RvQjql4IU",
-      "name": "Hurt Feelings",
+      "track": {
+        "id": "11HaTjMKcdbL4RvQjql4IU",
+        "name": "Hurt Feelings"
+      },
       "duration_ms": 158146,
-      "artist": [
-        "Flight of the Conchords"
+      "artists": [
+        {
+          "name": "Flight of the Conchords",
+          "id": "2lRyvAihjwylPfhGqydQbC"
+        }
       ],
-      "artistId": [
-        "2lRyvAihjwylPfhGqydQbC"
-      ],
-      "albumId": "0a89maD3IKWIyWdOljmkQb",
+      "album": {
+        "id": "0a89maD3IKWIyWdOljmkQb",
+        "name": "I Told You I Was Freaky",
+        "img": "https://i.scdn.co/image/ab67616d00001e02721ce481cbe1be0a422715d3"
+      },
       "release_date": "2009-10-20",
       "popularity": 46
     },
     {
-      "trackId": "5nZ0u7pONXlq9N6WPEEUrb",
-      "name": "Where You Belong",
+      "track": {
+        "id": "5nZ0u7pONXlq9N6WPEEUrb",
+        "name": "Where You Belong"
+      },
       "duration_ms": 191653,
-      "artist": [
-        "Dreamend"
+      "artists": [
+        {
+          "name": "Dreamend",
+          "id": "1Q0sexg58pfbpmRAWyT9RQ"
+        }
       ],
-      "artistId": [
-        "1Q0sexg58pfbpmRAWyT9RQ"
-      ],
-      "albumId": "2k8lBXrzfGv6rUUfW9lkqi",
+      "album": {
+        "id": "2k8lBXrzfGv6rUUfW9lkqi",
+        "name": "So I Ate Myself, Bite by Bite",
+        "img": "https://i.scdn.co/image/ab67616d00001e024df0fa0a7390be30a62b7080"
+      },
       "release_date": "2010-08-13",
       "popularity": 2
     },
     {
-      "trackId": "3nOEWcVEwqH6bPecKSYaHQ",
-      "name": "Strong As an Oak",
+      "track": {
+        "id": "3nOEWcVEwqH6bPecKSYaHQ",
+        "name": "Strong As an Oak"
+      },
       "duration_ms": 261533,
-      "artist": [
-        "Watsky"
+      "artists": [
+        {
+          "name": "Watsky",
+          "id": "3mJ9GlkLzj8Ka7Z7EQaCMi"
+        }
       ],
-      "artistId": [
-        "3mJ9GlkLzj8Ka7Z7EQaCMi"
-      ],
-      "albumId": "4kxbcsTJEJYfxYV0QuAR9T",
+      "album": {
+        "id": "4kxbcsTJEJYfxYV0QuAR9T",
+        "name": "Cardboard Castles",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f81dec4c6e5a290f0bca4e8"
+      },
       "release_date": "2013-03-12",
       "popularity": 43
     },
     {
-      "trackId": "5mEyCUtI36Jmu2KNQQ4jaw",
-      "name": "Girls Like You",
+      "track": {
+        "id": "5mEyCUtI36Jmu2KNQQ4jaw",
+        "name": "Girls Like You"
+      },
       "duration_ms": 364493,
-      "artist": [
-        "The Naked And Famous"
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "id": "0oeUpvxWsC8bWS6SnpU8b9"
+        }
       ],
-      "artistId": [
-        "0oeUpvxWsC8bWS6SnpU8b9"
-      ],
-      "albumId": "5ImvJCAX33Pt2XGMaYaMia",
+      "album": {
+        "id": "5ImvJCAX33Pt2XGMaYaMia",
+        "name": "Passive Me, Aggressive You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02494e33d225ef37180f88c8ce"
+      },
       "release_date": "2010",
       "popularity": 51
     },
     {
-      "trackId": "7oLSxsZxQDwpTRZU8SMKSJ",
-      "name": "Didn't You",
+      "track": {
+        "id": "7oLSxsZxQDwpTRZU8SMKSJ",
+        "name": "Didn't You"
+      },
       "duration_ms": 237946,
-      "artist": [
-        "Cloud Nothings"
+      "artists": [
+        {
+          "name": "Cloud Nothings",
+          "id": "6rnbB5fuUuCSsspvFsxIpT"
+        }
       ],
-      "artistId": [
-        "6rnbB5fuUuCSsspvFsxIpT"
-      ],
-      "albumId": "6ZobwApMMznVyXcCvWmOxl",
+      "album": {
+        "id": "6ZobwApMMznVyXcCvWmOxl",
+        "name": "Didn't You - Single",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7304b9d17e5dc6a9a8071d7"
+      },
       "release_date": "2010",
       "popularity": 7
     },
     {
-      "trackId": "2Mqggm27ZkH3EyscmCDnIg",
-      "name": "Way Back Home",
+      "track": {
+        "id": "2Mqggm27ZkH3EyscmCDnIg",
+        "name": "Way Back Home"
+      },
       "duration_ms": 174823,
-      "artist": [
-        "Bob Crosby & The Bob Cats"
+      "artists": [
+        {
+          "name": "Bob Crosby & The Bob Cats",
+          "id": "1EE8fj8itdenD88iAylcYh"
+        }
       ],
-      "artistId": [
-        "1EE8fj8itdenD88iAylcYh"
-      ],
-      "albumId": "5Y8YZyknkRwJL5nJMjdU8o",
+      "album": {
+        "id": "5Y8YZyknkRwJL5nJMjdU8o",
+        "name": "Bob Crosby and the Bobcats: The Complete Standard Transcriptions",
+        "img": "https://i.scdn.co/image/ab67616d00001e023445b5969fe2029cd1700ea0"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "03AHUtFyPZsdLPx10gUCNP",
-      "name": "South Pacific",
+      "track": {
+        "id": "03AHUtFyPZsdLPx10gUCNP",
+        "name": "South Pacific"
+      },
       "duration_ms": 230356,
-      "artist": [
-        "IS TROPICAL"
+      "artists": [
+        {
+          "name": "IS TROPICAL",
+          "id": "148ujrGRexnhpqhRiw0rDi"
+        }
       ],
-      "artistId": [
-        "148ujrGRexnhpqhRiw0rDi"
-      ],
-      "albumId": "6FrWl8NLLIrL5hGqTMUuSS",
+      "album": {
+        "id": "6FrWl8NLLIrL5hGqTMUuSS",
+        "name": "Native To",
+        "img": "https://i.scdn.co/image/ab67616d00001e028645ac6ea5f0b268e7c442ef"
+      },
       "release_date": "2011-06-13",
       "popularity": 15
     },
     {
-      "trackId": "1VCtHxQtu0P5PEnpMdTZw1",
-      "name": "The Kingdom - Intro",
+      "track": {
+        "id": "1VCtHxQtu0P5PEnpMdTZw1",
+        "name": "The Kingdom - Intro"
+      },
       "duration_ms": 129266,
-      "artist": [
-        "Joachim Holbek"
+      "artists": [
+        {
+          "name": "Joachim Holbek",
+          "id": "6Y7Z4ntL9vZKD5nu0Gow6i"
+        }
       ],
-      "artistId": [
-        "6Y7Z4ntL9vZKD5nu0Gow6i"
-      ],
-      "albumId": "2wb2NntJeZva6Ea77VYn0t",
+      "album": {
+        "id": "2wb2NntJeZva6Ea77VYn0t",
+        "name": "The Kingdom",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f2d37dfc631a28113916b3f"
+      },
       "release_date": "1994",
       "popularity": 13
     }

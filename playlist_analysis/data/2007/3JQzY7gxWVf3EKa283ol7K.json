@@ -7,206 +7,298 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257362_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2uiBtibZyyjNyDJcq1Oa70",
-      "name": "Just A Closer Walk With Thee",
+      "track": {
+        "id": "2uiBtibZyyjNyDJcq1Oa70",
+        "name": "Just A Closer Walk With Thee"
+      },
       "duration_ms": 459746,
-      "artist": [
-        "Preservation Hall Jazz Band"
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "id": "2S0rCVs10P1Q0v51wmOrM5"
+        }
       ],
-      "artistId": [
-        "2S0rCVs10P1Q0v51wmOrM5"
-      ],
-      "albumId": "0CQmgYeECDF0Dmm7Fm6OVF",
+      "album": {
+        "id": "0CQmgYeECDF0Dmm7Fm6OVF",
+        "name": "New Orleans' Billie and De De and Their Preservation Hall Jazz Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216edd177402dd3d8c6855cba"
+      },
       "release_date": "2009-10-19",
       "popularity": 17
     },
     {
-      "trackId": "6xcSL2he3cuh2OSkAlbubf",
-      "name": "The Lucky One",
+      "track": {
+        "id": "6xcSL2he3cuh2OSkAlbubf",
+        "name": "The Lucky One"
+      },
       "duration_ms": 190466,
-      "artist": [
-        "Alison Krauss & Union Station"
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "id": "0OTnx2X2FDXeewcm72lavT"
+        }
       ],
-      "artistId": [
-        "0OTnx2X2FDXeewcm72lavT"
-      ],
-      "albumId": "6FfrJoeF2HYdMsMLChPVVM",
+      "album": {
+        "id": "6FfrJoeF2HYdMsMLChPVVM",
+        "name": "New Favorite",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ba239901f0f0ff80937460f"
+      },
       "release_date": "2001-08-14",
       "popularity": 48
     },
     {
-      "trackId": "2BFGzpdfaLYBZMD7PcvTjb",
-      "name": "Det fönstret som lyste",
+      "track": {
+        "id": "2BFGzpdfaLYBZMD7PcvTjb",
+        "name": "Det fönstret som lyste"
+      },
       "duration_ms": 70026,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "7EwqrhFye01YRabO1K4VFe",
+      "album": {
+        "id": "7EwqrhFye01YRabO1K4VFe",
+        "name": "Evert Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c216131a4198c69a6087b47f"
+      },
       "release_date": "1970",
       "popularity": 2
     },
     {
-      "trackId": "5VfyYVfd8NGPmiXldyhbV1",
-      "name": "Songe No. 26: Du gar icke ensam (You are not walking alone): Du gar icke ensam (You are not walking alone)",
+      "track": {
+        "id": "5VfyYVfd8NGPmiXldyhbV1",
+        "name": "Songe No. 26: Du gar icke ensam (You are not walking alone): Du gar icke ensam (You are not walking alone)"
+      },
       "duration_ms": 72666,
-      "artist": [
-        "Carl Jonas Love Almqvist",
-        "Irene Lindh"
+      "artists": [
+        {
+          "name": "Carl Jonas Love Almqvist",
+          "id": "6Z4MzHaJlRMbc5O45HV1I8"
+        },
+        {
+          "name": "Irene Lindh",
+          "id": "26RVU9YOiw3cXOJrrCZH87"
+        }
       ],
-      "artistId": [
-        "6Z4MzHaJlRMbc5O45HV1I8",
-        "26RVU9YOiw3cXOJrrCZH87"
-      ],
-      "albumId": "5rOKZot9fpDYsd8O6hX7NB",
+      "album": {
+        "id": "5rOKZot9fpDYsd8O6hX7NB",
+        "name": "Farval Astrid …",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e38bf4b5af41e5f2b63eeb3b"
+      },
       "release_date": "2010-10-01",
       "popularity": 2
     },
     {
-      "trackId": "44ouCTOV1y2mkuDjzPLItY",
-      "name": "The Day That the Circus Left Town - Remastered",
+      "track": {
+        "id": "44ouCTOV1y2mkuDjzPLItY",
+        "name": "The Day That the Circus Left Town - Remastered"
+      },
       "duration_ms": 196680,
-      "artist": [
-        "Eartha Kitt"
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "id": "1AwO9pWEBSBoWdEZu28XDC"
+        }
       ],
-      "artistId": [
-        "1AwO9pWEBSBoWdEZu28XDC"
-      ],
-      "albumId": "3n8T9XA05vbwzrfUiogBji",
+      "album": {
+        "id": "3n8T9XA05vbwzrfUiogBji",
+        "name": "Down to Eartha",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efdf065fdf940cba5dacaf66"
+      },
       "release_date": "1955",
       "popularity": 6
     },
     {
-      "trackId": "05R8G0ebcKASAsy91e56LC",
-      "name": "Come Rain Or Come Shine",
+      "track": {
+        "id": "05R8G0ebcKASAsy91e56LC",
+        "name": "Come Rain Or Come Shine"
+      },
       "duration_ms": 282533,
-      "artist": [
-        "Monica Zetterlund",
-        "Bill Evans"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "id": "4jXfFzeP66Zy67HM2mvIIF"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD",
-        "4jXfFzeP66Zy67HM2mvIIF"
-      ],
-      "albumId": "5jMKNvYYHH08quqLK3ylTC",
+      "album": {
+        "id": "5jMKNvYYHH08quqLK3ylTC",
+        "name": "Waltz For Debby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4e6d8633c7f37f127d66f8e"
+      },
       "release_date": "1964-12-01",
       "popularity": 38
     },
     {
-      "trackId": "6gs5O6jrqC0INdwNcYT2dk",
-      "name": "Lipatti's Partita N°.1 In B Flat BWV825 - I. Prélude",
+      "track": {
+        "id": "6gs5O6jrqC0INdwNcYT2dk",
+        "name": "Lipatti's Partita N°.1 In B Flat BWV825 - I. Prélude"
+      },
       "duration_ms": 101653,
-      "artist": [
-        "Dinu Lipatti"
+      "artists": [
+        {
+          "name": "Dinu Lipatti",
+          "id": "0Te2ZxgvPNpa87vUpbLunI"
+        }
       ],
-      "artistId": [
-        "0Te2ZxgvPNpa87vUpbLunI"
-      ],
-      "albumId": "2VOwnTo4bywkFY5cqUntMK",
+      "album": {
+        "id": "2VOwnTo4bywkFY5cqUntMK",
+        "name": "The Greatest Piano Classical Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcc00df09403263ac46004f6"
+      },
       "release_date": "2010-06-15",
       "popularity": 14
     },
     {
-      "trackId": "1oF1ZvQ35bHKJWSiVMvRa6",
-      "name": "Carmina Burana / 3. Cour d'amours: \"In trutina\"",
+      "track": {
+        "id": "1oF1ZvQ35bHKJWSiVMvRa6",
+        "name": "Carmina Burana / 3. Cour d'amours: \"In trutina\""
+      },
       "duration_ms": 147506,
-      "artist": [
-        "Carl Orff",
-        "Barbara Bonney",
-        "Wiener Philharmoniker"
+      "artists": [
+        {
+          "name": "Carl Orff",
+          "id": "4LXxsm5BF85PWnQ1dUDAze"
+        },
+        {
+          "name": "Barbara Bonney",
+          "id": "24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        }
       ],
-      "artistId": [
-        "4LXxsm5BF85PWnQ1dUDAze",
-        "24fwyM31DLDqYOPvQ0jFFr",
-        "003f4bk13c6Q3gAUXv7dGJ"
-      ],
-      "albumId": "47KPz1pT8hK71UAwI7s2yz",
+      "album": {
+        "id": "47KPz1pT8hK71UAwI7s2yz",
+        "name": "Orff: Carmina Burana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e50a22965e92be78aeb1e6d7"
+      },
       "release_date": "1994-01-01",
       "popularity": 21
     },
     {
-      "trackId": "6GldvSFiPM6WiLrhGj5Lec",
-      "name": "Hajar'u de då Jack?",
+      "track": {
+        "id": "6GldvSFiPM6WiLrhGj5Lec",
+        "name": "Hajar'u de då Jack?"
+      },
       "duration_ms": 145880,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "41FuXo0gEJCc4W2mxRVUwd",
+      "album": {
+        "id": "41FuXo0gEJCc4W2mxRVUwd",
+        "name": "Första vackra da'n i maj",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac820ff684b5e0c6aa222be7"
+      },
       "release_date": "1970",
       "popularity": 16
     },
     {
-      "trackId": "4s6oe1QcazqLXGJGI6cMUO",
-      "name": "Jag Är Så Bekymrad För Männen",
+      "track": {
+        "id": "4s6oe1QcazqLXGJGI6cMUO",
+        "name": "Jag Är Så Bekymrad För Männen"
+      },
       "duration_ms": 195720,
-      "artist": [
-        "Git Gay"
+      "artists": [
+        {
+          "name": "Git Gay",
+          "id": "5qMjqcEBb8FdohQOZTFgO0"
+        }
       ],
-      "artistId": [
-        "5qMjqcEBb8FdohQOZTFgO0"
-      ],
-      "albumId": "5Fzu5dNs8beV2yVBwAmWgz",
+      "album": {
+        "id": "5Fzu5dNs8beV2yVBwAmWgz",
+        "name": "Svenska År: 1950 - Ett Dubbelnöje",
+        "img": "https://i.scdn.co/image/ab67616d00001e0254e7a162dbb0973dfa013cff"
+      },
       "release_date": "2009-09-11",
       "popularity": 2
     },
     {
-      "trackId": "3OsHQQEmf5zMTGGwKa2m2P",
-      "name": "Preludium C-Dur",
+      "track": {
+        "id": "3OsHQQEmf5zMTGGwKa2m2P",
+        "name": "Preludium C-Dur"
+      },
       "duration_ms": 113529,
-      "artist": [
-        "Pozytywka Dla Niemowląt Twinklestar"
+      "artists": [
+        {
+          "name": "Pozytywka Dla Niemowląt Twinklestar",
+          "id": "1HM3XtF3tq55U9NUwMieNA"
+        }
       ],
-      "artistId": [
-        "1HM3XtF3tq55U9NUwMieNA"
-      ],
-      "albumId": "1MLxbuR2zUWD9JJKmHjuBq",
+      "album": {
+        "id": "1MLxbuR2zUWD9JJKmHjuBq",
+        "name": "Pozytywka, Muzyka Klasyczna Dla Niemowląt I Dzieci Do Relaksu I Zasypiania Z Najpiękniejszymi Melodiami",
+        "img": "https://i.scdn.co/image/ab67616d00001e029b2cebc6159490449865ad55"
+      },
       "release_date": "2021-01-14",
       "popularity": 11
     },
     {
-      "trackId": "2HEgBBls7l0smWTxPx0MtZ",
-      "name": "These Boots Are Made for Walkin'",
+      "track": {
+        "id": "2HEgBBls7l0smWTxPx0MtZ",
+        "name": "These Boots Are Made for Walkin'"
+      },
       "duration_ms": 166133,
-      "artist": [
-        "Nancy Sinatra"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2"
-      ],
-      "albumId": "1J3CtRxcG9Tkuw2xQ59NEk",
+      "album": {
+        "id": "1J3CtRxcG9Tkuw2xQ59NEk",
+        "name": "Start Walkin' 1965-1976",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adb57932715c7824dc4df04e"
+      },
       "release_date": "2021-02-05",
       "popularity": 65
     },
     {
-      "trackId": "3yyG78EVz3mI9nybwSwfX3",
-      "name": "Sommarminnen",
+      "track": {
+        "id": "3yyG78EVz3mI9nybwSwfX3",
+        "name": "Sommarminnen"
+      },
       "duration_ms": 179807,
-      "artist": [
-        "Clara Klingenström"
+      "artists": [
+        {
+          "name": "Clara Klingenström",
+          "id": "3tl4Gc5RItD9lE6MJZGhLg"
+        }
       ],
-      "artistId": [
-        "3tl4Gc5RItD9lE6MJZGhLg"
-      ],
-      "albumId": "3U4LDho4X3lDdgZV0O5gwV",
+      "album": {
+        "id": "3U4LDho4X3lDdgZV0O5gwV",
+        "name": "Claras dagbok",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7cab7a7d7dd5b387f2ca196"
+      },
       "release_date": "2021-12-10",
       "popularity": 45
     },
     {
-      "trackId": "2rneJaaVTvpEnq22TiCzE9",
-      "name": "The Morning of Our Lives",
+      "track": {
+        "id": "2rneJaaVTvpEnq22TiCzE9",
+        "name": "The Morning of Our Lives"
+      },
       "duration_ms": 326853,
-      "artist": [
-        "Jonathan Richman & The Modern Lovers"
+      "artists": [
+        {
+          "name": "Jonathan Richman & The Modern Lovers",
+          "id": "0NjdXlUziaK1qv3kgZV4Jy"
+        }
       ],
-      "artistId": [
-        "0NjdXlUziaK1qv3kgZV4Jy"
-      ],
-      "albumId": "06zKVXJa4fsmpTS74cHDHG",
+      "album": {
+        "id": "06zKVXJa4fsmpTS74cHDHG",
+        "name": "Roadrunner: The Beserkley Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e43d6a0f1d7b32962c5ed162"
+      },
       "release_date": "2004-07-19",
       "popularity": 40
     }

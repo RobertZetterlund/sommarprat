@@ -7,242 +7,346 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/87c0114f-1dfd-4300-ad6f-9a79565ec582.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6ZXIt4AduTuRCcnHJ7AHGH",
-      "name": "Jag vill",
+      "track": {
+        "id": "6ZXIt4AduTuRCcnHJ7AHGH",
+        "name": "Jag vill"
+      },
       "duration_ms": 208346,
-      "artist": [
-        "Magnus Lindberg"
+      "artists": [
+        {
+          "name": "Magnus Lindberg",
+          "id": "54vFjeFPcyeJb098bKiC1g"
+        }
       ],
-      "artistId": [
-        "54vFjeFPcyeJb098bKiC1g"
-      ],
-      "albumId": "0N1wfuAl3MpW1RwSLDHFSg",
+      "album": {
+        "id": "0N1wfuAl3MpW1RwSLDHFSg",
+        "name": "Magnus Lindbergs Skörd",
+        "img": "https://i.scdn.co/image/ab67616d00001e022da39bf683947a90260b9df3"
+      },
       "release_date": "2018-05-18",
       "popularity": 9
     },
     {
-      "trackId": "0HqNZKZ8z7XktnZdArgsj5",
-      "name": "Innan livet är förbi - Live At Länsteatern, Visby / Sweden",
+      "track": {
+        "id": "0HqNZKZ8z7XktnZdArgsj5",
+        "name": "Innan livet är förbi - Live At Länsteatern, Visby / Sweden"
+      },
       "duration_ms": 231640,
-      "artist": [
-        "Systrarna Sisters"
+      "artists": [
+        {
+          "name": "Systrarna Sisters",
+          "id": "0GiuAja6GzT8hzLnR2hf55"
+        }
       ],
-      "artistId": [
-        "0GiuAja6GzT8hzLnR2hf55"
-      ],
-      "albumId": "2VO96k0hgRD1XkpOtu7qg0",
+      "album": {
+        "id": "2VO96k0hgRD1XkpOtu7qg0",
+        "name": "Josefin",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d9a7f67b7eef3efcee2d03a"
+      },
       "release_date": "2020-02-28",
       "popularity": 11
     },
     {
-      "trackId": "1idiifjTcCoGfBeZiYOdim",
-      "name": "Paris, Texas",
+      "track": {
+        "id": "1idiifjTcCoGfBeZiYOdim",
+        "name": "Paris, Texas"
+      },
       "duration_ms": 174760,
-      "artist": [
-        "Ry Cooder"
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "id": "1CPwHx5lgVxv0rfcp7UXLx"
+        }
       ],
-      "artistId": [
-        "1CPwHx5lgVxv0rfcp7UXLx"
-      ],
-      "albumId": "0gLaTb6BP8pySUWwkiZjdD",
+      "album": {
+        "id": "0gLaTb6BP8pySUWwkiZjdD",
+        "name": "Music by Ry Cooder",
+        "img": "https://i.scdn.co/image/ab67616d00001e0229d2d8f2b5eb4acb68392ccd"
+      },
       "release_date": "1995",
       "popularity": 49
     },
     {
-      "trackId": "5vgYAEbZvDNNDr9TyRHhN4",
-      "name": "Way Down in the Hole",
+      "track": {
+        "id": "5vgYAEbZvDNNDr9TyRHhN4",
+        "name": "Way Down in the Hole"
+      },
       "duration_ms": 103680,
-      "artist": [
-        "Domaje"
+      "artists": [
+        {
+          "name": "Domaje",
+          "id": "7kO5Ee0rWZ6fwuX9YXwKgu"
+        }
       ],
-      "artistId": [
-        "7kO5Ee0rWZ6fwuX9YXwKgu"
-      ],
-      "albumId": "6BPxysOQGjfI9pwei72Njl",
+      "album": {
+        "id": "6BPxysOQGjfI9pwei72Njl",
+        "name": "...and all the pieces matter, Five Years of Music from The Wire (deluxe version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0d0ac07e9d9a6f8f15fd53c"
+      },
       "release_date": "2008-01-04",
       "popularity": 31
     },
     {
-      "trackId": "7A5u62qjtypdz64Q2gLr4E",
-      "name": "Ole Guapa",
+      "track": {
+        "id": "7A5u62qjtypdz64Q2gLr4E",
+        "name": "Ole Guapa"
+      },
       "duration_ms": 162093,
-      "artist": [
-        "Malando"
+      "artists": [
+        {
+          "name": "Malando",
+          "id": "39AgeRoDksy1diEUTJ0LQL"
+        }
       ],
-      "artistId": [
-        "39AgeRoDksy1diEUTJ0LQL"
-      ],
-      "albumId": "5h8jHYnvbjYyQDuLxABhMZ",
+      "album": {
+        "id": "5h8jHYnvbjYyQDuLxABhMZ",
+        "name": "Accordion - More Than Polka",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d401315427b507f3df62c3c"
+      },
       "release_date": "2005-09-15",
       "popularity": 0
     },
     {
-      "trackId": "1skhM0OBR7YCtT7FOgoJQL",
-      "name": "Änglamark",
+      "track": {
+        "id": "1skhM0OBR7YCtT7FOgoJQL",
+        "name": "Änglamark"
+      },
       "duration_ms": 219840,
-      "artist": [
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "0Z6CdX7lZC4Tu3Sw7I4pbD",
+      "album": {
+        "id": "0Z6CdX7lZC4Tu3Sw7I4pbD",
+        "name": "Ingen gör det bättre",
+        "img": "https://i.scdn.co/image/ab67616d00001e02748c4dc32c39415142b3a68d"
+      },
       "release_date": "2016-01-01",
       "popularity": 44
     },
     {
-      "trackId": "72dxj4fyqyQ1YGdlFvv2xW",
-      "name": "By Your Side",
+      "track": {
+        "id": "72dxj4fyqyQ1YGdlFvv2xW",
+        "name": "By Your Side"
+      },
       "duration_ms": 166880,
-      "artist": [
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "62EG6ravDzMqNtGb1CCYjy",
+      "album": {
+        "id": "62EG6ravDzMqNtGb1CCYjy",
+        "name": "Leave Me Breathless",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f595b32dc04137255c584bae"
+      },
       "release_date": "2017-10-06",
       "popularity": 53
     },
     {
-      "trackId": "1vfbLBtHk0jtbry1Pk6Hkt",
-      "name": "The Scent Of Love",
+      "track": {
+        "id": "1vfbLBtHk0jtbry1Pk6Hkt",
+        "name": "The Scent Of Love"
+      },
       "duration_ms": 258733,
-      "artist": [
-        "Michael Nyman"
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "id": "2LvhyFvUCDJ7gFuEBOcrM8"
+        }
       ],
-      "artistId": [
-        "2LvhyFvUCDJ7gFuEBOcrM8"
-      ],
-      "albumId": "2QxIR22Sj9xGc4mOTN550A",
+      "album": {
+        "id": "2QxIR22Sj9xGc4mOTN550A",
+        "name": "The Piano: Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282f80bc680463b2059c5826d"
+      },
       "release_date": "1993-01-01",
       "popularity": 37
     },
     {
-      "trackId": "6ZZ4XeuIMIVz0SnSqmX8cx",
-      "name": "Goin' over the Hill - 2 Meter Session",
+      "track": {
+        "id": "6ZZ4XeuIMIVz0SnSqmX8cx",
+        "name": "Goin' over the Hill - 2 Meter Session"
+      },
       "duration_ms": 193386,
-      "artist": [
-        "Willy DeVille"
+      "artists": [
+        {
+          "name": "Willy DeVille",
+          "id": "4I7KSNpB2zt6XTyCXw7ca9"
+        }
       ],
-      "artistId": [
-        "4I7KSNpB2zt6XTyCXw7ca9"
-      ],
-      "albumId": "3hBL536BJDtNm2rwQ7NJMh",
+      "album": {
+        "id": "3hBL536BJDtNm2rwQ7NJMh",
+        "name": "Jan Douwe Kroeske presents: 2 Meter Sessions #866 - Willy DeVille",
+        "img": "https://i.scdn.co/image/ab67616d00001e02602cf06378eefee5714e7df0"
+      },
       "release_date": "2020-01-24",
       "popularity": 8
     },
     {
-      "trackId": "617Aca3P9fZ3KHHIdVfz4K",
-      "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar",
+      "track": {
+        "id": "617Aca3P9fZ3KHHIdVfz4K",
+        "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar"
+      },
       "duration_ms": 135306,
-      "artist": [
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "7LqQIEXYenRZEB0qoMsVVu",
+      "album": {
+        "id": "7LqQIEXYenRZEB0qoMsVVu",
+        "name": "Lådan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ed8333ce014fc546bf997c"
+      },
       "release_date": "1968-01-01",
       "popularity": 23
     },
     {
-      "trackId": "0PTTqBRl0ag3makcdFGg11",
-      "name": "Säg vad kärlek är",
+      "track": {
+        "id": "0PTTqBRl0ag3makcdFGg11",
+        "name": "Säg vad kärlek är"
+      },
       "duration_ms": 279840,
-      "artist": [
-        "Ainbusk"
+      "artists": [
+        {
+          "name": "Ainbusk",
+          "id": "4bkmsIjrznXB4Eg19UATWt"
+        }
       ],
-      "artistId": [
-        "4bkmsIjrznXB4Eg19UATWt"
-      ],
-      "albumId": "0od7VeCySi5qhwNVEL3Msp",
+      "album": {
+        "id": "0od7VeCySi5qhwNVEL3Msp",
+        "name": "Ainbusk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eba8eb5df033065cc3466a7b"
+      },
       "release_date": "1998-01-01",
       "popularity": 23
     },
     {
-      "trackId": "3kElvakTlSA1vVB4cpXzLX",
-      "name": "Get A Life - Demo Version",
+      "track": {
+        "id": "3kElvakTlSA1vVB4cpXzLX",
+        "name": "Get A Life - Demo Version"
+      },
       "duration_ms": 212066,
-      "artist": [
-        "Josefin Nilsson"
+      "artists": [
+        {
+          "name": "Josefin Nilsson",
+          "id": "2WkfneC1mCzntiASQL89wY"
+        }
       ],
-      "artistId": [
-        "2WkfneC1mCzntiASQL89wY"
-      ],
-      "albumId": "2VO96k0hgRD1XkpOtu7qg0",
+      "album": {
+        "id": "2VO96k0hgRD1XkpOtu7qg0",
+        "name": "Josefin",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d9a7f67b7eef3efcee2d03a"
+      },
       "release_date": "2020-02-28",
       "popularity": 4
     },
     {
-      "trackId": "0L97ifGvkojk57Yl10fstB",
-      "name": "Anropar himlen (Somewhere in Stockholm)",
+      "track": {
+        "id": "0L97ifGvkojk57Yl10fstB",
+        "name": "Anropar himlen (Somewhere in Stockholm)"
+      },
       "duration_ms": 390360,
-      "artist": [
-        "Marie Nilsson-Lind"
+      "artists": [
+        {
+          "name": "Marie Nilsson-Lind",
+          "id": "2iTFeBMAYqy49eDBOScnCi"
+        }
       ],
-      "artistId": [
-        "2iTFeBMAYqy49eDBOScnCi"
-      ],
-      "albumId": "1M7QIfvgYxAgHZoeWPDxqQ",
+      "album": {
+        "id": "1M7QIfvgYxAgHZoeWPDxqQ",
+        "name": "Anropar himlen (Somewhere in Stockholm)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025784e87f82da141e3ebd2f2d"
+      },
       "release_date": "2021-12-11",
       "popularity": 37
     },
     {
-      "trackId": "51YxkVZOPfnBqTHCnK1AU3",
-      "name": "Stay",
+      "track": {
+        "id": "51YxkVZOPfnBqTHCnK1AU3",
+        "name": "Stay"
+      },
       "duration_ms": 229000,
-      "artist": [
-        "Shakespears Sister"
+      "artists": [
+        {
+          "name": "Shakespears Sister",
+          "id": "7ooOn6bokl4mGV4CEaUz6A"
+        }
       ],
-      "artistId": [
-        "7ooOn6bokl4mGV4CEaUz6A"
-      ],
-      "albumId": "4aU1LKKiTUbCk4Qr2tWqVa",
+      "album": {
+        "id": "4aU1LKKiTUbCk4Qr2tWqVa",
+        "name": "Hormonally Yours (Remastered and Expanded)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0201b3183bbf07d517905c2644"
+      },
       "release_date": "1992-02-17",
       "popularity": 51
     },
     {
-      "trackId": "3R2q3FCnNIw2XhuEbYtYk6",
-      "name": "Jungleland",
+      "track": {
+        "id": "3R2q3FCnNIw2XhuEbYtYk6",
+        "name": "Jungleland"
+      },
       "duration_ms": 575653,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "43YIoHKSrEw2GJsWmhZIpu",
+      "album": {
+        "id": "43YIoHKSrEw2GJsWmhZIpu",
+        "name": "Born To Run",
+        "img": "https://i.scdn.co/image/ab67616d00001e02503143a281a3f30268dcd9f9"
+      },
       "release_date": "1975-08-25",
       "popularity": 53
     },
     {
-      "trackId": "47bCaDMS7kWOtoSlu6W0vs",
-      "name": "Josefins sång - Live At Kulturförening Roxy, Visby / Sweden",
+      "track": {
+        "id": "47bCaDMS7kWOtoSlu6W0vs",
+        "name": "Josefins sång - Live At Kulturförening Roxy, Visby / Sweden"
+      },
       "duration_ms": 177613,
-      "artist": [
-        "Josefin Nilsson",
-        "Marie Nilsson-Lind"
+      "artists": [
+        {
+          "name": "Josefin Nilsson",
+          "id": "2WkfneC1mCzntiASQL89wY"
+        },
+        {
+          "name": "Marie Nilsson-Lind",
+          "id": "2iTFeBMAYqy49eDBOScnCi"
+        }
       ],
-      "artistId": [
-        "2WkfneC1mCzntiASQL89wY",
-        "2iTFeBMAYqy49eDBOScnCi"
-      ],
-      "albumId": "2VO96k0hgRD1XkpOtu7qg0",
+      "album": {
+        "id": "2VO96k0hgRD1XkpOtu7qg0",
+        "name": "Josefin",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d9a7f67b7eef3efcee2d03a"
+      },
       "release_date": "2020-02-28",
       "popularity": 6
     },
     {
-      "trackId": "6P6ypCpElpUEYZ0MIFwxgk",
-      "name": "Erik Hultbergs Industrier",
+      "track": {
+        "id": "6P6ypCpElpUEYZ0MIFwxgk",
+        "name": "Erik Hultbergs Industrier"
+      },
       "duration_ms": 97693,
-      "artist": [
-        "Alf Robertson"
+      "artists": [
+        {
+          "name": "Alf Robertson",
+          "id": "4UKsrYPsnr0VD22nV1URlI"
+        }
       ],
-      "artistId": [
-        "4UKsrYPsnr0VD22nV1URlI"
-      ],
-      "albumId": "2TUdUk4vvschyPbwR9GmR9",
+      "album": {
+        "id": "2TUdUk4vvschyPbwR9GmR9",
+        "name": "Alf Robertson sjunger och berättar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02477d17eefd4a4d5fc9b09e2b"
+      },
       "release_date": "2021-04-02",
       "popularity": 4
     }

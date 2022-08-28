@@ -7,178 +7,258 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/af0b4975-5bc7-49e0-aa4b-4d5952bf9f84.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4yt0DRCLWr1608bGXGcD5u",
-      "name": "I'll Remember You",
+      "track": {
+        "id": "4yt0DRCLWr1608bGXGcD5u",
+        "name": "I'll Remember You"
+      },
       "duration_ms": 165053,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ZxrkkUoGwgAJHxtsmYi8M",
+      "album": {
+        "id": "3ZxrkkUoGwgAJHxtsmYi8M",
+        "name": "Spinout",
+        "img": "https://i.scdn.co/image/ab67616d00001e02014a79adb48eb313adbcd7c5"
+      },
       "release_date": "1966-10-24",
       "popularity": 55
     },
     {
-      "trackId": "7wFNZk3OIfe3T7PnRBMRx5",
-      "name": "Thalassa",
+      "track": {
+        "id": "7wFNZk3OIfe3T7PnRBMRx5",
+        "name": "Thalassa"
+      },
       "duration_ms": 224133,
-      "artist": [
-        "The Klezmorim"
+      "artists": [
+        {
+          "name": "The Klezmorim",
+          "id": "1dnU4QIjEkMyMAwtp2qooe"
+        }
       ],
-      "artistId": [
-        "1dnU4QIjEkMyMAwtp2qooe"
-      ],
-      "albumId": "5u1CO1qsRAr0BspgGsrQAp",
+      "album": {
+        "id": "5u1CO1qsRAr0BspgGsrQAp",
+        "name": "First Recordings 1976-78",
+        "img": "https://i.scdn.co/image/ab67616d00001e021a3dc8afa67e737a668befe1"
+      },
       "release_date": "1989-01-01",
       "popularity": 11
     },
     {
-      "trackId": "2gNjmvuQiEd2z9SqyYi8HH",
-      "name": "Summertime",
+      "track": {
+        "id": "2gNjmvuQiEd2z9SqyYi8HH",
+        "name": "Summertime"
+      },
       "duration_ms": 298133,
-      "artist": [
-        "Louis Armstrong",
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek",
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "1vvnTmmNWnGmqvVFjVIINf",
+      "album": {
+        "id": "1vvnTmmNWnGmqvVFjVIINf",
+        "name": "Porgy And Bess",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211aafea0ad62648d4669626f"
+      },
       "release_date": "1958-01-01",
       "popularity": 63
     },
     {
-      "trackId": "1ix4qfhJ1SrZg7KgmqlQV8",
-      "name": "Dir a waltz",
+      "track": {
+        "id": "1ix4qfhJ1SrZg7KgmqlQV8",
+        "name": "Dir a waltz"
+      },
       "duration_ms": 255160,
-      "artist": [
-        "Leonard Cohen",
-        "Basia Frydman",
-        "Kjell Westling"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        },
+        {
+          "name": "Basia Frydman",
+          "id": "0etVNLaLBujohPEYSUjTGk"
+        },
+        {
+          "name": "Kjell Westling",
+          "id": "3obFUx7cPBOtlqJNj9G2la"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV",
-        "0etVNLaLBujohPEYSUjTGk",
-        "3obFUx7cPBOtlqJNj9G2la"
-      ],
-      "albumId": "1bIyLOR736cB3XmYRqyDqC",
+      "album": {
+        "id": "1bIyLOR736cB3XmYRqyDqC",
+        "name": "A Fremde In Der Nacht",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b29efe977ee5fba2eebf325"
+      },
       "release_date": "2000-01-01",
       "popularity": 1
     },
     {
-      "trackId": "3bSa9bIUQEOvMcSWc7e4ZP",
-      "name": "Kaddish - Excerpt",
+      "track": {
+        "id": "3bSa9bIUQEOvMcSWc7e4ZP",
+        "name": "Kaddish - Excerpt"
+      },
       "duration_ms": 233190,
-      "artist": [
-        "Jacob Mühlrad",
-        "Swedish Radio Choir"
+      "artists": [
+        {
+          "name": "Jacob Mühlrad",
+          "id": "0P9g1ss8CfLwU62fzm8Ldf"
+        },
+        {
+          "name": "Swedish Radio Choir",
+          "id": "1A9umzen6B9Shk2spCzR9y"
+        }
       ],
-      "artistId": [
-        "0P9g1ss8CfLwU62fzm8Ldf",
-        "1A9umzen6B9Shk2spCzR9y"
-      ],
-      "albumId": "1ufcuUSQsTTsSz5vqCfCyc",
+      "album": {
+        "id": "1ufcuUSQsTTsSz5vqCfCyc",
+        "name": "Kaddish (Excerpt)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d576a8fa1b5f0738dedac216"
+      },
       "release_date": "2021-01-27",
       "popularity": 13
     },
     {
-      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-      "name": "En stund på jorden",
+      "track": {
+        "id": "0Zii0Q4Z17kd1XMB27CQ2t",
+        "name": "En stund på jorden"
+      },
       "duration_ms": 232858,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 50
     },
     {
-      "trackId": "1yuYWC9fPBcy3tLd4JOG7d",
-      "name": "My Yiddishe Momme",
+      "track": {
+        "id": "1yuYWC9fPBcy3tLd4JOG7d",
+        "name": "My Yiddishe Momme"
+      },
       "duration_ms": 194347,
-      "artist": [
-        "The Jewish Starlight Orchestra"
+      "artists": [
+        {
+          "name": "The Jewish Starlight Orchestra",
+          "id": "3pBRcbWKXI0PmYQ42GxPCk"
+        }
       ],
-      "artistId": [
-        "3pBRcbWKXI0PmYQ42GxPCk"
-      ],
-      "albumId": "1hzz5k53qw2HGHJRQyKRqU",
+      "album": {
+        "id": "1hzz5k53qw2HGHJRQyKRqU",
+        "name": "Jewish Songs (The Best of Yiddish Songs and Klezmer Music)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f333252606ffeb46171c70b"
+      },
       "release_date": "2014-05-27",
       "popularity": 15
     },
     {
-      "trackId": "5zb7npjQqoJ7Kcpq4yD9qn",
-      "name": "You Want It Darker",
+      "track": {
+        "id": "5zb7npjQqoJ7Kcpq4yD9qn",
+        "name": "You Want It Darker"
+      },
       "duration_ms": 284373,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3jeTB3j3QmUs8SPIVleHtU",
+      "album": {
+        "id": "3jeTB3j3QmUs8SPIVleHtU",
+        "name": "You Want It Darker",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fc3f01275cae3d8ecb1c26b"
+      },
       "release_date": "2016-10-21",
       "popularity": 59
     },
     {
-      "trackId": "1fjOO2k5k2vjg6TrvPJ2NS",
-      "name": "What The World Needs Now Is Love",
+      "track": {
+        "id": "1fjOO2k5k2vjg6TrvPJ2NS",
+        "name": "What The World Needs Now Is Love"
+      },
       "duration_ms": 186400,
-      "artist": [
-        "Jackie DeShannon"
+      "artists": [
+        {
+          "name": "Jackie DeShannon",
+          "id": "0iVed2Qu7dmL0pIYCj1Xw8"
+        }
       ],
-      "artistId": [
-        "0iVed2Qu7dmL0pIYCj1Xw8"
-      ],
-      "albumId": "4ZOeTz208RrbaMqPIXdsGr",
+      "album": {
+        "id": "4ZOeTz208RrbaMqPIXdsGr",
+        "name": "This Is Jackie DeShannon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e82d2e9991607d751fbda82d"
+      },
       "release_date": "1965-10-09",
       "popularity": 53
     },
     {
-      "trackId": "3pRaLNL3b8x5uBOcsgvdqM",
-      "name": "Hallelujah",
+      "track": {
+        "id": "3pRaLNL3b8x5uBOcsgvdqM",
+        "name": "Hallelujah"
+      },
       "duration_ms": 413826,
-      "artist": [
-        "Jeff Buckley"
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "id": "3nnQpaTvKb5jCQabZefACI"
+        }
       ],
-      "artistId": [
-        "3nnQpaTvKb5jCQabZefACI"
-      ],
-      "albumId": "7yQtjAjhtNi76KRu05XWFS",
+      "album": {
+        "id": "7yQtjAjhtNi76KRu05XWFS",
+        "name": "Grace",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a760642a56847027428cb61"
+      },
       "release_date": "1994",
       "popularity": 70
     },
     {
-      "trackId": "49CcYj1bsJ0fjkICI8hIrR",
-      "name": "Jag vill tacka Livet",
+      "track": {
+        "id": "49CcYj1bsJ0fjkICI8hIrR",
+        "name": "Jag vill tacka Livet"
+      },
       "duration_ms": 266040,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "6Ye4WhlxwRkxAyyF1frCdi",
+      "album": {
+        "id": "6Ye4WhlxwRkxAyyF1frCdi",
+        "name": "Jag vill tacka livet - 13 sånger av Violeta Parra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f92f9109892c50471f98257e"
+      },
       "release_date": "1979",
       "popularity": 24
     },
     {
-      "trackId": "3OWyJEPUErKptjRySqQRXu",
-      "name": "18 juli",
+      "track": {
+        "id": "3OWyJEPUErKptjRySqQRXu",
+        "name": "18 juli"
+      },
       "duration_ms": 229680,
-      "artist": [
-        "Musette"
+      "artists": [
+        {
+          "name": "Musette",
+          "id": "6ld45E426cWmpNVKMX413P"
+        }
       ],
-      "artistId": [
-        "6ld45E426cWmpNVKMX413P"
-      ],
-      "albumId": "7o6tWbekj6RIdthnkZrjnG",
+      "album": {
+        "id": "7o6tWbekj6RIdthnkZrjnG",
+        "name": "Datum",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ace8ad3abca6cdabd8fe030"
+      },
       "release_date": "2008-02-24",
       "popularity": 7
     }

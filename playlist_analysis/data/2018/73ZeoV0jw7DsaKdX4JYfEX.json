@@ -7,210 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/d9c5eb8c-339d-4df7-83fc-285a1d201b8f.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5LmbOYlvdktLZtTsi94G6D",
-      "name": "Gestern",
+      "track": {
+        "id": "5LmbOYlvdktLZtTsi94G6D",
+        "name": "Gestern"
+      },
       "duration_ms": 150927,
-      "artist": [
-        "PAPE"
+      "artists": [
+        {
+          "name": "PAPE",
+          "id": "5uwYePS0eVarHEZBMfeCjc"
+        }
       ],
-      "artistId": [
-        "5uwYePS0eVarHEZBMfeCjc"
-      ],
-      "albumId": "41RD9XkPc5ktKFGKC4AWCu",
+      "album": {
+        "id": "41RD9XkPc5ktKFGKC4AWCu",
+        "name": "Schatten auf Asphalt",
+        "img": "https://i.scdn.co/image/ab67616d00001e023017520376aa2e5a87794743"
+      },
       "release_date": "2022-07-15",
       "popularity": 24
     },
     {
-      "trackId": "48BvpWlDwYYpvGlcG54LYC",
-      "name": "Bollelåten",
+      "track": {
+        "id": "48BvpWlDwYYpvGlcG54LYC",
+        "name": "Bollelåten"
+      },
       "duration_ms": 52093,
-      "artist": [
-        "Lille Bror Söderlundh",
-        "Piccolo-Ensemblen"
+      "artists": [
+        {
+          "name": "Lille Bror Söderlundh",
+          "id": "4wYJhWypSlvACdET9DTvQK"
+        },
+        {
+          "name": "Piccolo-Ensemblen",
+          "id": "501PGXQ0Sv50nvDWM2eiBJ"
+        }
       ],
-      "artistId": [
-        "4wYJhWypSlvACdET9DTvQK",
-        "501PGXQ0Sv50nvDWM2eiBJ"
-      ],
-      "albumId": "2wm4hAY0TGE1TYzVSh1vsC",
+      "album": {
+        "id": "2wm4hAY0TGE1TYzVSh1vsC",
+        "name": "Klassisk Musik för små BARN, vol.4",
+        "img": "https://i.scdn.co/image/ab67616d00001e028446082d6dd7689f8882cfdc"
+      },
       "release_date": "2020-04-03",
       "popularity": 0
     },
     {
-      "trackId": "5rrxhLCQPDTMPEjdhVPQU9",
-      "name": "Thank You for the Music",
+      "track": {
+        "id": "5rrxhLCQPDTMPEjdhVPQU9",
+        "name": "Thank You for the Music"
+      },
       "duration_ms": 223320,
-      "artist": [
-        "Benny Andersson"
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        }
       ],
-      "artistId": [
-        "0kV0e99xlTJcLKSu8KrLyp"
-      ],
-      "albumId": "3YGh4CN0JocLK0SwvJgMWc",
+      "album": {
+        "id": "3YGh4CN0JocLK0SwvJgMWc",
+        "name": "Piano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02997e204b1d3e2e08a3c55e34"
+      },
       "release_date": "2017-09-29",
       "popularity": 40
     },
     {
-      "trackId": "7gNlTrT75410IJoGEyLpX5",
-      "name": "HishultaBörje - The high speed version",
+      "track": {
+        "id": "7gNlTrT75410IJoGEyLpX5",
+        "name": "HishultaBörje - The high speed version"
+      },
       "duration_ms": 297474,
-      "artist": [
-        "Gunnar Bringman"
+      "artists": [
+        {
+          "name": "Gunnar Bringman",
+          "id": "2yEPCSaXFlkjMRAhoeS49c"
+        }
       ],
-      "artistId": [
-        "2yEPCSaXFlkjMRAhoeS49c"
-      ],
-      "albumId": "78hK2qnUFN8qvgAJCSGcAt",
+      "album": {
+        "id": "78hK2qnUFN8qvgAJCSGcAt",
+        "name": "HishultaBörje (The high speed version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5f31004759d46213e803358"
+      },
       "release_date": "2011-05-08",
       "popularity": 35
     },
     {
-      "trackId": "0kJ7Ji6FiHR3dtOAr4tdd1",
-      "name": "VÄGSPÄRR",
+      "track": {
+        "id": "0kJ7Ji6FiHR3dtOAr4tdd1",
+        "name": "VÄGSPÄRR"
+      },
       "duration_ms": 200555,
-      "artist": [
-        "Sickan"
+      "artists": [
+        {
+          "name": "Sickan",
+          "id": "4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
       ],
-      "artistId": [
-        "4Hyy3uZ9Y3RyNQKSBOdNFl"
-      ],
-      "albumId": "7fYJJ2AOkkl2l83xH3DXg5",
+      "album": {
+        "id": "7fYJJ2AOkkl2l83xH3DXg5",
+        "name": "VÄGSPÄRR",
+        "img": "https://i.scdn.co/image/ab67616d00001e02818a1f84b039e3cf7c3fed31"
+      },
       "release_date": "2022-03-25",
       "popularity": 48
     },
     {
-      "trackId": "0dtE42FDoz08Aa9i7EWUI2",
-      "name": "Gröna små äpplen",
+      "track": {
+        "id": "0dtE42FDoz08Aa9i7EWUI2",
+        "name": "Gröna små äpplen"
+      },
       "duration_ms": 225213,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "2LaTtgxHN1GgPAY6DiSvCI",
+      "album": {
+        "id": "2LaTtgxHN1GgPAY6DiSvCI",
+        "name": "Gröna små äpplen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9db86fbb61e5eed80bf2d37"
+      },
       "release_date": "1969",
       "popularity": 43
     },
     {
-      "trackId": "1Sf1npOndkt7pzOZmYGNvG",
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+      "track": {
+        "id": "1Sf1npOndkt7pzOZmYGNvG",
+        "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
+      },
       "duration_ms": 126280,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Mstislav Rostropovich"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "id": "50hiYMhi0g77BOkkQ4zebB"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "50hiYMhi0g77BOkkQ4zebB"
-      ],
-      "albumId": "5IKqgLc5o88Dur35OnLZXQ",
+      "album": {
+        "id": "5IKqgLc5o88Dur35OnLZXQ",
+        "name": "Bach: Cello Suite Nos. 1 - 6, BWV 1007 - 1012",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289dcc6f0f72bd2a793920071"
+      },
       "release_date": "1995-01-01",
       "popularity": 44
     },
     {
-      "trackId": "1Fvw8oHdqi8e7HZOSXIuhj",
-      "name": "Moroccan Magic",
+      "track": {
+        "id": "1Fvw8oHdqi8e7HZOSXIuhj",
+        "name": "Moroccan Magic"
+      },
       "duration_ms": 362000,
-      "artist": [
-        "Eric Essebag"
+      "artists": [
+        {
+          "name": "Eric Essebag",
+          "id": "6izBIah4gDInrSUOlScQRE"
+        }
       ],
-      "artistId": [
-        "6izBIah4gDInrSUOlScQRE"
-      ],
-      "albumId": "0A4JeyanDdIDjxWiZx0EH9",
+      "album": {
+        "id": "0A4JeyanDdIDjxWiZx0EH9",
+        "name": "Moroccan Magic",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243038925d7c88cd4487b1637"
+      },
       "release_date": "2022-06-19",
       "popularity": 45
     },
     {
-      "trackId": "6byHlhAt3mAYh387fumyqh",
-      "name": "The Midnight Sun Will Never Set",
+      "track": {
+        "id": "6byHlhAt3mAYh387fumyqh",
+        "name": "The Midnight Sun Will Never Set"
+      },
       "duration_ms": 274386,
-      "artist": [
-        "Quincy Jones"
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        }
       ],
-      "artistId": [
-        "3rxIQc9kWT6Ueg4BhnOwRK"
-      ],
-      "albumId": "6tTJJb2IhqxNtHJgjif70y",
+      "album": {
+        "id": "6tTJJb2IhqxNtHJgjif70y",
+        "name": "I Dig Dancers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02950e6c1714c4f8b5fb6885ba"
+      },
       "release_date": "1960-01-01",
       "popularity": 31
     },
     {
-      "trackId": "2YQuVqrlvIRpG1W5eigBob",
-      "name": "Christmas Oratorio, BWV 248 / Part Five - For The 1st Sunday In The New Year: No. 46 Choral: \"Dein Glanz all Finsternis verzehrt\"",
+      "track": {
+        "id": "2YQuVqrlvIRpG1W5eigBob",
+        "name": "Christmas Oratorio, BWV 248 / Part Five - For The 1st Sunday In The New Year: No. 46 Choral: \"Dein Glanz all Finsternis verzehrt\""
+      },
       "duration_ms": 48226,
-      "artist": [
-        "Johann Sebastian Bach",
-        "English Baroque Soloists",
-        "John Eliot Gardiner"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "id": "3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "id": "1qIRoGEKXINqrCx5N1engi"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "3OtZV9aCZ6G004vjOQcf59",
-        "1qIRoGEKXINqrCx5N1engi"
-      ],
-      "albumId": "2e9WTo5SHnXdFeqlfjJdug",
+      "album": {
+        "id": "2e9WTo5SHnXdFeqlfjJdug",
+        "name": "Gardiner conducts Bach",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f052f0c2c42cf781834e8719"
+      },
       "release_date": "2022-06-04",
       "popularity": 0
     },
     {
-      "trackId": "0MKl9nr94ReJ7xT5IhxA0p",
-      "name": "24 Preludes, Op. 28: No. 2 in A Minor",
+      "track": {
+        "id": "0MKl9nr94ReJ7xT5IhxA0p",
+        "name": "24 Preludes, Op. 28: No. 2 in A Minor"
+      },
       "duration_ms": 125497,
-      "artist": [
-        "Frédéric Chopin",
-        "Käbi Laretei"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Käbi Laretei",
+          "id": "0WaQdkcyX1fvYKNfc0fr2U"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "0WaQdkcyX1fvYKNfc0fr2U"
-      ],
-      "albumId": "7Hc7SoOsmhDWPGAAHQN3qn",
+      "album": {
+        "id": "7Hc7SoOsmhDWPGAAHQN3qn",
+        "name": "Käbi Laretei spelar musiken till Ingmar Bergmans filmer Djävulens öga, Ansikte mot Ansikte, Viskningar och rop samt Höstsonaten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02721e1a84c7a80f664cfedd1c"
+      },
       "release_date": "2014-04-01",
       "popularity": 2
     },
     {
-      "trackId": "10Jmg4j5UFObQDi59ef5uj",
-      "name": "Mazurka No. 13 in A Minor, Op. 17, No. 4",
+      "track": {
+        "id": "10Jmg4j5UFObQDi59ef5uj",
+        "name": "Mazurka No. 13 in A Minor, Op. 17, No. 4"
+      },
       "duration_ms": 242566,
-      "artist": [
-        "Frédéric Chopin",
-        "Käbi Laretei"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Käbi Laretei",
+          "id": "0WaQdkcyX1fvYKNfc0fr2U"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "0WaQdkcyX1fvYKNfc0fr2U"
-      ],
-      "albumId": "7Hc7SoOsmhDWPGAAHQN3qn",
+      "album": {
+        "id": "7Hc7SoOsmhDWPGAAHQN3qn",
+        "name": "Käbi Laretei spelar musiken till Ingmar Bergmans filmer Djävulens öga, Ansikte mot Ansikte, Viskningar och rop samt Höstsonaten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02721e1a84c7a80f664cfedd1c"
+      },
       "release_date": "2014-04-01",
       "popularity": 2
     },
     {
-      "trackId": "65E62rOSbm7SZbAMYjNTJq",
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "track": {
+        "id": "65E62rOSbm7SZbAMYjNTJq",
+        "name": "Pride (In The Name Of Love) - Remastered 2009"
+      },
       "duration_ms": 228426,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "6akaB3XfTnCwrY4DahsBCY",
+      "album": {
+        "id": "6akaB3XfTnCwrY4DahsBCY",
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277df2aceaf90f06a20b56b14"
+      },
       "release_date": "1984-10-01",
       "popularity": 68
     },
     {
-      "trackId": "1L78ErvwjrfwLiBa8fVAQn",
-      "name": "Zigenarliv dreamin (Live)",
+      "track": {
+        "id": "1L78ErvwjrfwLiBa8fVAQn",
+        "name": "Zigenarliv dreamin (Live)"
+      },
       "duration_ms": 447733,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "5ROJebGoLNmSpwdMHXEQ6f",
+      "album": {
+        "id": "5ROJebGoLNmSpwdMHXEQ6f",
+        "name": "Håkan Boma Ye! (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e738d2a1570a31594bfb264"
+      },
       "release_date": "2014-12-12",
       "popularity": 35
     }

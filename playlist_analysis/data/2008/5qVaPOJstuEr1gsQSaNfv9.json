@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252421_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6k1SmQZ3N3DhAdRsuOS0jM",
-      "name": "All Rise: Movement 6: Cried, Shouted, Then Sung",
+      "track": {
+        "id": "6k1SmQZ3N3DhAdRsuOS0jM",
+        "name": "All Rise: Movement 6: Cried, Shouted, Then Sung"
+      },
       "duration_ms": 519693,
-      "artist": [
-        "Wynton Marsalis",
-        "Esa-Pekka Salonen"
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "id": "375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        }
       ],
-      "artistId": [
-        "375zxMmh2cSgUzFFnva0O7",
-        "3ilNZUdmNZ2nUcuAOIpsQl"
-      ],
-      "albumId": "6cpuLcJLiDLlDbZaNgUHFU",
+      "album": {
+        "id": "6cpuLcJLiDLlDbZaNgUHFU",
+        "name": "Swingin' Into The 21st",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264abce8db9053732c5ae5a5b"
+      },
       "release_date": "1999",
       "popularity": 0
     },
     {
-      "trackId": "3RziapqS8nr6DiejCtI3cd",
-      "name": "Somliga går med trasiga skor",
+      "track": {
+        "id": "3RziapqS8nr6DiejCtI3cd",
+        "name": "Somliga går med trasiga skor"
+      },
       "duration_ms": 180960,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5KkQk6jEItnuoB1820v5aA",
+      "album": {
+        "id": "5KkQk6jEItnuoB1820v5aA",
+        "name": "Tio vackra visor och personliga Person",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c34b63edb70626b39d952db"
+      },
       "release_date": "1968",
       "popularity": 49
     },
     {
-      "trackId": "1My4iKxOxqYkP3kuG8Xrbm",
-      "name": "Where Have All The Flowers Gone",
+      "track": {
+        "id": "1My4iKxOxqYkP3kuG8Xrbm",
+        "name": "Where Have All The Flowers Gone"
+      },
       "duration_ms": 217800,
-      "artist": [
-        "Marlene Dietrich"
+      "artists": [
+        {
+          "name": "Marlene Dietrich",
+          "id": "3UuPzfQMdGK40O8Rj9jqVM"
+        }
       ],
-      "artistId": [
-        "3UuPzfQMdGK40O8Rj9jqVM"
-      ],
-      "albumId": "4ZxAg70ooaiNOUUeEdquC9",
+      "album": {
+        "id": "4ZxAg70ooaiNOUUeEdquC9",
+        "name": "The Essential Marlene Dietrich",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205d2aa3c652ecd47a4fc97cc"
+      },
       "release_date": "1991-01-01",
       "popularity": 35
     },
     {
-      "trackId": "7nxWzxIaXdYGeLRNvnueyZ",
-      "name": "Einsamer Hirte",
+      "track": {
+        "id": "7nxWzxIaXdYGeLRNvnueyZ",
+        "name": "Einsamer Hirte"
+      },
       "duration_ms": 263626,
-      "artist": [
-        "James Last",
-        "Gheorghe Zamfir"
+      "artists": [
+        {
+          "name": "James Last",
+          "id": "5UyJW2eCOuXtyYftgbMxZG"
+        },
+        {
+          "name": "Gheorghe Zamfir",
+          "id": "12FFWdcxApUNXV9TljwDpT"
+        }
       ],
-      "artistId": [
-        "5UyJW2eCOuXtyYftgbMxZG",
-        "12FFWdcxApUNXV9TljwDpT"
-      ],
-      "albumId": "5RCpX7ttdScp9lmaGHXlfk",
+      "album": {
+        "id": "5RCpX7ttdScp9lmaGHXlfk",
+        "name": "Russland Erinnerungen",
+        "img": "https://i.scdn.co/image/ab67616d00001e021016336b9b3f8c983fad849e"
+      },
       "release_date": "1977-01-01",
       "popularity": 51
     },
     {
-      "trackId": "5By7Pzgl6TMuVJG168VWzS",
-      "name": "Michelle - Remastered 2009",
+      "track": {
+        "id": "5By7Pzgl6TMuVJG168VWzS",
+        "name": "Michelle - Remastered 2009"
+      },
       "duration_ms": 162373,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "50o7kf2wLwVmOTVYJOTplm",
+      "album": {
+        "id": "50o7kf2wLwVmOTVYJOTplm",
+        "name": "Rubber Soul (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4"
+      },
       "release_date": "1965-12-03",
       "popularity": 65
     },
     {
-      "trackId": "4MtapzTsYqaOve5TSVkjoV",
-      "name": "Kivikspolka",
+      "track": {
+        "id": "4MtapzTsYqaOve5TSVkjoV",
+        "name": "Kivikspolka"
+      },
       "duration_ms": 356666,
-      "artist": [
-        "Östen Warnerbring"
+      "artists": [
+        {
+          "name": "Östen Warnerbring",
+          "id": "0fDwWceuLMyzxnN0UIXBAe"
+        }
       ],
-      "artistId": [
-        "0fDwWceuLMyzxnN0UIXBAe"
-      ],
-      "albumId": "5XxOexLtRST4t2ZcaoIYvB",
+      "album": {
+        "id": "5XxOexLtRST4t2ZcaoIYvB",
+        "name": "Skåne",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268bef1a51ded27328f56371a"
+      },
       "release_date": "1995-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6xYeTISkTw4S9K9hJgr1KJ",
-      "name": "En kväll i juni",
+      "track": {
+        "id": "6xYeTISkTw4S9K9hJgr1KJ",
+        "name": "En kväll i juni"
+      },
       "duration_ms": 192533,
-      "artist": [
-        "Lasse Berghagen"
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "id": "7kdGjv0IIQJcU2bth1yoqY"
+        }
       ],
-      "artistId": [
-        "7kdGjv0IIQJcU2bth1yoqY"
-      ],
-      "albumId": "1P6QyxSmdRVaAPaHHfox4i",
+      "album": {
+        "id": "1P6QyxSmdRVaAPaHHfox4i",
+        "name": "20 av Lars Berghagens bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c24dcd036aecb7ad674d1a"
+      },
       "release_date": "1989-01-01",
       "popularity": 53
     },
     {
-      "trackId": "74937dcwoOlD4UK44xbSDb",
-      "name": "Svordomsvisan",
+      "track": {
+        "id": "74937dcwoOlD4UK44xbSDb",
+        "name": "Svordomsvisan"
+      },
       "duration_ms": 80666,
-      "artist": [
-        "Magnus & Brasse"
+      "artists": [
+        {
+          "name": "Magnus & Brasse",
+          "id": "7EAytuC4xDYyJo74uAxDHK"
+        }
       ],
-      "artistId": [
-        "7EAytuC4xDYyJo74uAxDHK"
-      ],
-      "albumId": "1X3JGxHRqevOiPouW1DrOD",
+      "album": {
+        "id": "1X3JGxHRqevOiPouW1DrOD",
+        "name": "Varning för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baa7da738728d438705c7bd9"
+      },
       "release_date": "1976",
       "popularity": 32
     },
     {
-      "trackId": "2oRyv8fGcr1iN1fBYFKsX1",
-      "name": "Treat Her Right",
+      "track": {
+        "id": "2oRyv8fGcr1iN1fBYFKsX1",
+        "name": "Treat Her Right"
+      },
       "duration_ms": 124800,
-      "artist": [
-        "Jerry Williams"
+      "artists": [
+        {
+          "name": "Jerry Williams",
+          "id": "1PJOXqvEZQjdDAV1R5rS07"
+        }
       ],
-      "artistId": [
-        "1PJOXqvEZQjdDAV1R5rS07"
-      ],
-      "albumId": "3EcyvEBlDtMJwvioVpzVUL",
+      "album": {
+        "id": "3EcyvEBlDtMJwvioVpzVUL",
+        "name": "Action ...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6a62f19f88dc5b25ebe741b"
+      },
       "release_date": "1966-01-01",
       "popularity": 4
     },
     {
-      "trackId": "3nRPIfKpFP2SPemTGSFy0c",
-      "name": "Jag vill leva",
+      "track": {
+        "id": "3nRPIfKpFP2SPemTGSFy0c",
+        "name": "Jag vill leva"
+      },
       "duration_ms": 217400,
-      "artist": [
-        "Lill-Babs"
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "id": "1YlYLkI3GlVDFSQGjMXWbt"
+        }
       ],
-      "artistId": [
-        "1YlYLkI3GlVDFSQGjMXWbt"
-      ],
-      "albumId": "7CRB670FhzHbDT2cpNXJSQ",
+      "album": {
+        "id": "7CRB670FhzHbDT2cpNXJSQ",
+        "name": "Här är jag",
+        "img": "https://i.scdn.co/image/ab67616d00001e028185089add712c5ca322b689"
+      },
       "release_date": "2005",
       "popularity": 10
     },
     {
-      "trackId": "5y6DTxrmGuN8oGVfwgBwbP",
-      "name": "My Intuision - Video",
+      "track": {
+        "id": "5y6DTxrmGuN8oGVfwgBwbP",
+        "name": "My Intuision - Video"
+      },
       "duration_ms": 206826,
-      "artist": [
-        "Fred Johanson"
+      "artists": [
+        {
+          "name": "Fred Johanson",
+          "id": "6HAbBZfMVEnG0V0msBNKWT"
+        }
       ],
-      "artistId": [
-        "6HAbBZfMVEnG0V0msBNKWT"
-      ],
-      "albumId": "0Pjut0NrI28qBFekDY7vJj",
+      "album": {
+        "id": "0Pjut0NrI28qBFekDY7vJj",
+        "name": "Fred Johanson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c05e1696f2e856aa6ae64490"
+      },
       "release_date": "1994-06-06",
       "popularity": 11
     },
     {
-      "trackId": "1CzxPLi5K7pnT4ATkdLJ9T",
-      "name": "Priest",
+      "track": {
+        "id": "1CzxPLi5K7pnT4ATkdLJ9T",
+        "name": "Priest"
+      },
       "duration_ms": 264937,
-      "artist": [
-        "William Crighton"
+      "artists": [
+        {
+          "name": "William Crighton",
+          "id": "4EVBuMQ6XVgxeqWKH09dBM"
+        }
       ],
-      "artistId": [
-        "4EVBuMQ6XVgxeqWKH09dBM"
-      ],
-      "albumId": "11iygN0BADQ3dWcAwyp3QV",
+      "album": {
+        "id": "11iygN0BADQ3dWcAwyp3QV",
+        "name": "William Crighton",
+        "img": "https://i.scdn.co/image/ab67616d00001e023afdcb38cfa2d0b3022b2821"
+      },
       "release_date": "2016-03-18",
       "popularity": 38
     },
     {
-      "trackId": "1ZfbMOw5VSh5Qqr8hgLCkJ",
-      "name": "Congratulations",
+      "track": {
+        "id": "1ZfbMOw5VSh5Qqr8hgLCkJ",
+        "name": "Congratulations"
+      },
       "duration_ms": 151800,
-      "artist": [
-        "Cliff Richard"
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "id": "2nvKpWcP8etYTq4JrRiUiy"
+        }
       ],
-      "artistId": [
-        "2nvKpWcP8etYTq4JrRiUiy"
-      ],
-      "albumId": "0SW33rIKZ2v0EmfqRLKufz",
+      "album": {
+        "id": "0SW33rIKZ2v0EmfqRLKufz",
+        "name": "40 Golden Greats",
+        "img": "https://i.scdn.co/image/ab67616d00001e022effa5f5d8903fb4fea0838d"
+      },
       "release_date": "1977",
       "popularity": 45
     },
     {
-      "trackId": "1uRZ6dPF8QtR7Xc6gosLVm",
-      "name": "There Is Business",
+      "track": {
+        "id": "1uRZ6dPF8QtR7Xc6gosLVm",
+        "name": "There Is Business"
+      },
       "duration_ms": 150672,
-      "artist": [
-        "NB Mc",
-        "DJ STIZZ"
+      "artists": [
+        {
+          "name": "NB Mc",
+          "id": "1fSk4pm2rU0pIjzi8FEiRE"
+        },
+        {
+          "name": "DJ STIZZ",
+          "id": "3rKe25WeWbXOH3OOaZ2kYt"
+        }
       ],
-      "artistId": [
-        "1fSk4pm2rU0pIjzi8FEiRE",
-        "3rKe25WeWbXOH3OOaZ2kYt"
-      ],
-      "albumId": "3L1tUTme5h2jsLzWnLEmUW",
+      "album": {
+        "id": "3L1tUTme5h2jsLzWnLEmUW",
+        "name": "There Is Business",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cfc6e3e90774c4a8dba5b48"
+      },
       "release_date": "2020-03-06",
       "popularity": 20
     }

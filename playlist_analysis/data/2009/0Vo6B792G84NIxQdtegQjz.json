@@ -7,230 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247543_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3850dYVgOFIXJh5U4BFEWH",
-      "name": "Hung Up",
+      "track": {
+        "id": "3850dYVgOFIXJh5U4BFEWH",
+        "name": "Hung Up"
+      },
       "duration_ms": 337733,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "1hg0pQJLE9dzfT1kgZtDPr",
+      "album": {
+        "id": "1hg0pQJLE9dzfT1kgZtDPr",
+        "name": "Confessions on a Dance Floor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efcbc3f42da96cea7583bb6f"
+      },
       "release_date": "2005-11-11",
       "popularity": 75
     },
     {
-      "trackId": "1xA6bn2meDk7TgRvtfWfgS",
-      "name": "Sommar och sol",
+      "track": {
+        "id": "1xA6bn2meDk7TgRvtfWfgS",
+        "name": "Sommar och sol"
+      },
       "duration_ms": 138426,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "0h0XmNGx6Y3Jx9phxV8KaD",
+      "album": {
+        "id": "0h0XmNGx6Y3Jx9phxV8KaD",
+        "name": "Sommar och sol",
+        "img": "https://i.scdn.co/image/ab67616d00001e022bf944053d042a85171a1330"
+      },
       "release_date": "2012-06-01",
       "popularity": 43
     },
     {
-      "trackId": "2qpIYfuqMOZ3uDM2toRpAm",
-      "name": "Ömhet",
+      "track": {
+        "id": "2qpIYfuqMOZ3uDM2toRpAm",
+        "name": "Ömhet"
+      },
       "duration_ms": 183770,
-      "artist": [
-        "Per Gessle",
-        "Helena Josefsson"
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "id": "5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Helena Josefsson",
+          "id": "01o8zdH2NoWSZ4CEsYS44r"
+        }
       ],
-      "artistId": [
-        "5pFJ8lLOUnyEaNrrf7D1KK",
-        "01o8zdH2NoWSZ4CEsYS44r"
-      ],
-      "albumId": "13Ablz5a1acGGtUKYvzwHP",
+      "album": {
+        "id": "13Ablz5a1acGGtUKYvzwHP",
+        "name": "Gammal kärlek rostar aldrig",
+        "img": "https://i.scdn.co/image/ab67616d00001e023da21fad351ed4df0710cc1f"
+      },
       "release_date": "2020-11-06",
       "popularity": 39
     },
     {
-      "trackId": "1HFjRAjx4Lm9cWFfN85VAh",
-      "name": "Sitting on the Dock of the Bay (Live)",
+      "track": {
+        "id": "1HFjRAjx4Lm9cWFfN85VAh",
+        "name": "Sitting on the Dock of the Bay (Live)"
+      },
       "duration_ms": 204782,
-      "artist": [
-        "Percy Sledge"
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "id": "3rRmDmzPcAFwcUDvG5gBqO"
+        }
       ],
-      "artistId": [
-        "3rRmDmzPcAFwcUDvG5gBqO"
-      ],
-      "albumId": "1snMlw9nCgZb9tKsmH6ciG",
+      "album": {
+        "id": "1snMlw9nCgZb9tKsmH6ciG",
+        "name": "Live Kentucky 2006",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd5fec356cd669a68281473c"
+      },
       "release_date": "2020-04-16",
       "popularity": 7
     },
     {
-      "trackId": "7nemcVsXVFZF01iqpIIo2Y",
-      "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "track": {
+        "id": "7nemcVsXVFZF01iqpIIo2Y",
+        "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)"
+      },
       "duration_ms": 301226,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "19AUoKWRAaQYrggVvdQnqq",
+      "album": {
+        "id": "19AUoKWRAaQYrggVvdQnqq",
+        "name": "High Voltage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02286a0837ff3424065a735e0a"
+      },
       "release_date": "1976-05-14",
       "popularity": 71
     },
     {
-      "trackId": "2Mpj1Ul5OFPyyP4wB62Rvi",
-      "name": "Survivor",
+      "track": {
+        "id": "2Mpj1Ul5OFPyyP4wB62Rvi",
+        "name": "Survivor"
+      },
       "duration_ms": 254026,
-      "artist": [
-        "Destiny's Child"
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "id": "1Y8cdNmUJH7yBTd9yOvr5i"
+        }
       ],
-      "artistId": [
-        "1Y8cdNmUJH7yBTd9yOvr5i"
-      ],
-      "albumId": "2HcjLD0ButtKsQYqzoyOx9",
+      "album": {
+        "id": "2HcjLD0ButtKsQYqzoyOx9",
+        "name": "Survivor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02163cdae7f1e2c82786a84e3e"
+      },
       "release_date": "2001-05-01",
       "popularity": 70
     },
     {
-      "trackId": "3veIslwiWY37w7EN0gkmWg",
-      "name": "Jag är en astronaut",
+      "track": {
+        "id": "3veIslwiWY37w7EN0gkmWg",
+        "name": "Jag är en astronaut"
+      },
       "duration_ms": 147906,
-      "artist": [
-        "Benjamin"
+      "artists": [
+        {
+          "name": "Benjamin",
+          "id": "0xUNClqJmWtwrh4CmOC0IO"
+        }
       ],
-      "artistId": [
-        "0xUNClqJmWtwrh4CmOC0IO"
-      ],
-      "albumId": "103kTF4kSyB64BXq3CcxS8",
+      "album": {
+        "id": "103kTF4kSyB64BXq3CcxS8",
+        "name": "Jag är en astronaut",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231c9d909f0d99cd6ce7648b5"
+      },
       "release_date": "2006-01-01",
       "popularity": 43
     },
     {
-      "trackId": "6wpGqhRvJGNNXwWlPmkMyO",
-      "name": "I Still Haven't Found What I'm Looking For",
+      "track": {
+        "id": "6wpGqhRvJGNNXwWlPmkMyO",
+        "name": "I Still Haven't Found What I'm Looking For"
+      },
       "duration_ms": 277476,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 77
     },
     {
-      "trackId": "0SLtqCrXBRrnkxSOMA3X4W",
-      "name": "Let Me Entertain You",
+      "track": {
+        "id": "0SLtqCrXBRrnkxSOMA3X4W",
+        "name": "Let Me Entertain You"
+      },
       "duration_ms": 262000,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
+      "album": {
+        "id": "31Sx9uz9KqlvmX07Pvp0wN",
+        "name": "Life Thru A Lens",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c36cf94d717475042f6bb0f3"
+      },
       "release_date": "1997-01-01",
       "popularity": 66
     },
     {
-      "trackId": "6vy4Jm7jFJ8k7OtsjkfNlN",
-      "name": "Bumbibjörnarna",
+      "track": {
+        "id": "6vy4Jm7jFJ8k7OtsjkfNlN",
+        "name": "Bumbibjörnarna"
+      },
       "duration_ms": 151500,
-      "artist": [
-        "Kuselofte"
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "id": "5nIPWm5XA6Cy6zVYkjpCe2"
+        }
       ],
-      "artistId": [
-        "5nIPWm5XA6Cy6zVYkjpCe2"
-      ],
-      "albumId": "3xVlgy0RRSf9bM6GhMaCvH",
+      "album": {
+        "id": "3xVlgy0RRSf9bM6GhMaCvH",
+        "name": "Bumbibjörnarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc2f5232cf616ffdc0e69c82"
+      },
       "release_date": "2020-04-08",
       "popularity": 52
     },
     {
-      "trackId": "0UERoCKd24PKovd4BwRzBQ",
-      "name": "It Takes Two",
+      "track": {
+        "id": "0UERoCKd24PKovd4BwRzBQ",
+        "name": "It Takes Two"
+      },
       "duration_ms": 177666,
-      "artist": [
-        "Marvin Gaye",
-        "Kim Weston"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "id": "71pUA2TXf3JHUPUgsjLtuL"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA",
-        "71pUA2TXf3JHUPUgsjLtuL"
-      ],
-      "albumId": "0My58U9zPnyq4TIZOr7brK",
+      "album": {
+        "id": "0My58U9zPnyq4TIZOr7brK",
+        "name": "Take Two",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220348a11890200cfec8f0592"
+      },
       "release_date": "1966-08-25",
       "popularity": 62
     },
     {
-      "trackId": "40NRm1ZLvZpUSCUXAGGZ8J",
-      "name": "Kung Fu Fighting",
+      "track": {
+        "id": "40NRm1ZLvZpUSCUXAGGZ8J",
+        "name": "Kung Fu Fighting"
+      },
       "duration_ms": 197693,
-      "artist": [
-        "Carl Douglas"
+      "artists": [
+        {
+          "name": "Carl Douglas",
+          "id": "5Pqx4mXYDGIDcg8E5FYjZ8"
+        }
       ],
-      "artistId": [
-        "5Pqx4mXYDGIDcg8E5FYjZ8"
-      ],
-      "albumId": "7wA3s9ug9RoJXi9qGQbSjX",
+      "album": {
+        "id": "7wA3s9ug9RoJXi9qGQbSjX",
+        "name": "The Soul of the Kung Fu Fighter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dec0aaf058acf0bee4915a72"
+      },
       "release_date": "2001",
       "popularity": 67
     },
     {
-      "trackId": "1sTsuZTdANkiFd7T34H3nb",
-      "name": "Human",
+      "track": {
+        "id": "1sTsuZTdANkiFd7T34H3nb",
+        "name": "Human"
+      },
       "duration_ms": 245373,
-      "artist": [
-        "The Killers"
+      "artists": [
+        {
+          "name": "The Killers",
+          "id": "0C0XlULifJtAgn6ZNCW2eu"
+        }
       ],
-      "artistId": [
-        "0C0XlULifJtAgn6ZNCW2eu"
-      ],
-      "albumId": "0Ug5scDXUIgGN8yanDBLQw",
+      "album": {
+        "id": "0Ug5scDXUIgGN8yanDBLQw",
+        "name": "Day & Age (Bonus Tracks)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a43cd43ef4f3b2d5413b17f9"
+      },
       "release_date": "2008-11-18",
       "popularity": 75
     },
     {
-      "trackId": "0n2pjCIMKwHSXoYfEbYMfX",
-      "name": "You Are The Sunshine Of My Life",
+      "track": {
+        "id": "0n2pjCIMKwHSXoYfEbYMfX",
+        "name": "You Are The Sunshine Of My Life"
+      },
       "duration_ms": 178200,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "3PResMqFgQYBfzTnqTKwQw",
+      "album": {
+        "id": "3PResMqFgQYBfzTnqTKwQw",
+        "name": "Talking Book",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a14b08b9a6616e121df5e8b0"
+      },
       "release_date": "1972-10-28",
       "popularity": 70
     },
     {
-      "trackId": "3KfbEIOC7YIv90FIfNSZpo",
-      "name": "In My Life - Remastered 2009",
+      "track": {
+        "id": "3KfbEIOC7YIv90FIfNSZpo",
+        "name": "In My Life - Remastered 2009"
+      },
       "duration_ms": 146333,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "50o7kf2wLwVmOTVYJOTplm",
+      "album": {
+        "id": "50o7kf2wLwVmOTVYJOTplm",
+        "name": "Rubber Soul (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4"
+      },
       "release_date": "1965-12-03",
       "popularity": 72
     },
     {
-      "trackId": "3YmVcUDjhtzs6b63sDsATc",
-      "name": "Time To Say Goodbye (Con Te Partiro)",
+      "track": {
+        "id": "3YmVcUDjhtzs6b63sDsATc",
+        "name": "Time To Say Goodbye (Con Te Partiro)"
+      },
       "duration_ms": 245173,
-      "artist": [
-        "Sarah Brightman"
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "id": "7Ead768rc4ShGxnqtqccU5"
+        }
       ],
-      "artistId": [
-        "7Ead768rc4ShGxnqtqccU5"
-      ],
-      "albumId": "5mJNC1kP6dKB0HflTDifnv",
+      "album": {
+        "id": "5mJNC1kP6dKB0HflTDifnv",
+        "name": "Amalfi",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247da18c7cfd4b1a61427855c"
+      },
       "release_date": "2009-01-01",
       "popularity": 28
     }

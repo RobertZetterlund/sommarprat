@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a8163cb8-e0c0-4bec-8572-23f7638bacd6.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3JOVTQ5h8HGFnDdp4VT3MP",
-      "name": "Mad World",
+      "track": {
+        "id": "3JOVTQ5h8HGFnDdp4VT3MP",
+        "name": "Mad World"
+      },
       "duration_ms": 189506,
-      "artist": [
-        "Gary Jules",
-        "Michael Andrews"
+      "artists": [
+        {
+          "name": "Gary Jules",
+          "id": "5oRnbmgqvvq7fVlgk4vcEa"
+        },
+        {
+          "name": "Michael Andrews",
+          "id": "0RkqytrwoGyXGvDiZwT6i2"
+        }
       ],
-      "artistId": [
-        "5oRnbmgqvvq7fVlgk4vcEa",
-        "0RkqytrwoGyXGvDiZwT6i2"
-      ],
-      "albumId": "1OydCrx4m7fguwcX4stR9z",
+      "album": {
+        "id": "1OydCrx4m7fguwcX4stR9z",
+        "name": "Trading Snakeoil for Wolftickets",
+        "img": "https://i.scdn.co/image/ab67616d00001e027948eec521c67e76cafe30a0"
+      },
       "release_date": "2001-01-01",
       "popularity": 66
     },
     {
-      "trackId": "76D5nfZbYzZYfUZKGy73jy",
-      "name": "7 Seconds (feat. Neneh Cherry)",
+      "track": {
+        "id": "76D5nfZbYzZYfUZKGy73jy",
+        "name": "7 Seconds (feat. Neneh Cherry)"
+      },
       "duration_ms": 305773,
-      "artist": [
-        "Youssou N'Dour",
-        "Neneh Cherry"
+      "artists": [
+        {
+          "name": "Youssou N'Dour",
+          "id": "77zlytAFjPFjUKda8TNIDY"
+        },
+        {
+          "name": "Neneh Cherry",
+          "id": "3JxCEqL9zjKnDJgUhRuRJD"
+        }
       ],
-      "artistId": [
-        "77zlytAFjPFjUKda8TNIDY",
-        "3JxCEqL9zjKnDJgUhRuRJD"
-      ],
-      "albumId": "6Smydx3R0VZPoIdBeOmbFI",
+      "album": {
+        "id": "6Smydx3R0VZPoIdBeOmbFI",
+        "name": "7 Seconds: The Best Of Youssou N'Dour",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b27641785cd303ca55c8a5bd"
+      },
       "release_date": "2004",
       "popularity": 58
     },
     {
-      "trackId": "1KZyVnyptQcPzkx7ELCnZC",
-      "name": "Hold Back The River",
+      "track": {
+        "id": "1KZyVnyptQcPzkx7ELCnZC",
+        "name": "Hold Back The River"
+      },
       "duration_ms": 238746,
-      "artist": [
-        "James Bay"
+      "artists": [
+        {
+          "name": "James Bay",
+          "id": "4EzkuveR9pLvDVFNx6foYD"
+        }
       ],
-      "artistId": [
-        "4EzkuveR9pLvDVFNx6foYD"
-      ],
-      "albumId": "3GqsyMrJu3o8jLiGyBsBQW",
+      "album": {
+        "id": "3GqsyMrJu3o8jLiGyBsBQW",
+        "name": "Chaos And The Calm",
+        "img": "https://i.scdn.co/image/ab67616d00001e02066483b34a405583429b8049"
+      },
       "release_date": "2015-03-20",
       "popularity": 68
     },
     {
-      "trackId": "4He6BZb9dkAsEPWveYfua7",
-      "name": "Мудрые деревья",
+      "track": {
+        "id": "4He6BZb9dkAsEPWveYfua7",
+        "name": "Мудрые деревья"
+      },
       "duration_ms": 284208,
-      "artist": [
-        "MONATIK"
+      "artists": [
+        {
+          "name": "MONATIK",
+          "id": "6wbEgVlGqWb4I9tbMluu5Q"
+        }
       ],
-      "artistId": [
-        "6wbEgVlGqWb4I9tbMluu5Q"
-      ],
-      "albumId": "27j0oMjG38thEE76Egusu1",
+      "album": {
+        "id": "27j0oMjG38thEE76Egusu1",
+        "name": "Звучит",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b42b1d45fb06a489d924fad"
+      },
       "release_date": "2016-05-25",
       "popularity": 28
     },
     {
-      "trackId": "0inONscwadn4zAwcg8focN",
-      "name": "Solomon Vandi - Original Mix",
+      "track": {
+        "id": "0inONscwadn4zAwcg8focN",
+        "name": "Solomon Vandi - Original Mix"
+      },
       "duration_ms": 428739,
-      "artist": [
-        "Breakshift"
+      "artists": [
+        {
+          "name": "Breakshift",
+          "id": "5wHZvvb2a8SPrtzYqEvkCh"
+        }
       ],
-      "artistId": [
-        "5wHZvvb2a8SPrtzYqEvkCh"
-      ],
-      "albumId": "24gYCKilqDWlrnK5GXCQ1e",
+      "album": {
+        "id": "24gYCKilqDWlrnK5GXCQ1e",
+        "name": "All The Dreams You Never Had",
+        "img": "https://i.scdn.co/image/ab67616d00001e028df5394c8a3bc64e6659bf49"
+      },
       "release_date": "2011-09-28",
       "popularity": 8
     },
     {
-      "trackId": "3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me",
+      "track": {
+        "id": "3U4isOIWM3VvDubwSI3y7a",
+        "name": "All of Me"
+      },
       "duration_ms": 269560,
-      "artist": [
-        "John Legend"
+      "artists": [
+        {
+          "name": "John Legend",
+          "id": "5y2Xq6xcjJb2jVM54GHK3t"
+        }
       ],
-      "artistId": [
-        "5y2Xq6xcjJb2jVM54GHK3t"
-      ],
-      "albumId": "4OTAx9un4e6NfoHuVRiOrC",
+      "album": {
+        "id": "4OTAx9un4e6NfoHuVRiOrC",
+        "name": "Love In The Future (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0294c9217a398f5174757c0c78"
+      },
       "release_date": "2013-08-30",
       "popularity": 84
     },
     {
-      "trackId": "6KXHj4fAuwcva82LJ0jOlb",
-      "name": "Love Me Like You Do - Remix Party Hits Radio Pop Edit - Inspired by Ellie Goulding",
+      "track": {
+        "id": "6KXHj4fAuwcva82LJ0jOlb",
+        "name": "Love Me Like You Do - Remix Party Hits Radio Pop Edit - Inspired by Ellie Goulding"
+      },
       "duration_ms": 246073,
-      "artist": [
-        "Brenda June"
+      "artists": [
+        {
+          "name": "Brenda June",
+          "id": "6lxAsqP8S0EypQlO0Y5Y4c"
+        }
       ],
-      "artistId": [
-        "6lxAsqP8S0EypQlO0Y5Y4c"
-      ],
-      "albumId": "5vBdAjtUjue1pM37LjCZ9z",
+      "album": {
+        "id": "5vBdAjtUjue1pM37LjCZ9z",
+        "name": "Dead Inside Hits Radio 2015 (Lean on Party Musique: Inpiré Par (Omi, Ellie Goulding, Louane, Major Lazer, Mark Ronson...))",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d57eb849984fd6ef2df42dc"
+      },
       "release_date": "2015-04-07",
       "popularity": 0
     },
     {
-      "trackId": "6gxycjJNMgmAyfzUXBN80P",
-      "name": "Goodbye My Lover",
+      "track": {
+        "id": "6gxycjJNMgmAyfzUXBN80P",
+        "name": "Goodbye My Lover"
+      },
       "duration_ms": 258653,
-      "artist": [
-        "James Blunt"
+      "artists": [
+        {
+          "name": "James Blunt",
+          "id": "7KMqksf0UMdyA0UCf4R3ux"
+        }
       ],
-      "artistId": [
-        "7KMqksf0UMdyA0UCf4R3ux"
-      ],
-      "albumId": "1ekaxA9Q5GzUPCepx4wzMF",
+      "album": {
+        "id": "1ekaxA9Q5GzUPCepx4wzMF",
+        "name": "Back to Bedlam",
+        "img": "https://i.scdn.co/image/ab67616d00001e02105f043a4f470cf58cc01ccf"
+      },
       "release_date": "2005-08-08",
       "popularity": 67
     },
     {
-      "trackId": "0FDzzruyVECATHXKHFs9eJ",
-      "name": "A Sky Full of Stars",
+      "track": {
+        "id": "0FDzzruyVECATHXKHFs9eJ",
+        "name": "A Sky Full of Stars"
+      },
       "duration_ms": 267866,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "2G4AUqfwxcV1UdQjm2ouYr",
+      "album": {
+        "id": "2G4AUqfwxcV1UdQjm2ouYr",
+        "name": "Ghost Stories",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f864bcdcc245f06831d17ae0"
+      },
       "release_date": "2014-05-19",
       "popularity": 82
     },
     {
-      "trackId": "3B7udSGy2PfgoCniMSb523",
-      "name": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+      "track": {
+        "id": "3B7udSGy2PfgoCniMSb523",
+        "name": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\""
+      },
       "duration_ms": 300840,
-      "artist": [
-        "Ed Sheeran"
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "id": "6eUKZXaKkcviH0Ku9w2n3V"
+        }
       ],
-      "artistId": [
-        "6eUKZXaKkcviH0Ku9w2n3V"
-      ],
-      "albumId": "2nsRpsb5aeOhNEWV1MoiHB",
+      "album": {
+        "id": "2nsRpsb5aeOhNEWV1MoiHB",
+        "name": "The Hobbit - The Desolation Of Smaug (Original Motion Picture Soundtrack / Special Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281ef6477bfe32dc55845ef27"
+      },
       "release_date": "2013-01-01",
       "popularity": 72
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     }

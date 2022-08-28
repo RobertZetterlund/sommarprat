@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/54b8a9c4-33aa-46d5-a369-1676d32f6d8c.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6zGg2IF0FJYXRaOTPGWa24",
-      "name": "One Night (Second 'Sit-Down' Show) - Live",
+      "track": {
+        "id": "6zGg2IF0FJYXRaOTPGWa24",
+        "name": "One Night (Second 'Sit-Down' Show) - Live"
+      },
       "duration_ms": 185853,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "1vaQwUom5fWnLNJDcabU01",
+      "album": {
+        "id": "1vaQwUom5fWnLNJDcabU01",
+        "name": "The Best of The '68 Comeback Special (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264bacd30d444e59fb40319e0"
+      },
       "release_date": "2019-02-15",
       "popularity": 55
     },
     {
-      "trackId": "2GcR0s9dX3W4AtILVGwQJ7",
-      "name": "Så många mil, så många år...",
+      "track": {
+        "id": "2GcR0s9dX3W4AtILVGwQJ7",
+        "name": "Så många mil, så många år..."
+      },
       "duration_ms": 268013,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "1ITyfFeTy8FlAYlzBWkRuY",
+      "album": {
+        "id": "1ITyfFeTy8FlAYlzBWkRuY",
+        "name": "Retro aktiv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1e85ab5a6d6fb7234391b7a"
+      },
       "release_date": "2000-03-20",
       "popularity": 40
     },
     {
-      "trackId": "3QksrtI9VFCBHWA4rgvcV8",
-      "name": "Theme From New York, New York",
+      "track": {
+        "id": "3QksrtI9VFCBHWA4rgvcV8",
+        "name": "Theme From New York, New York"
+      },
       "duration_ms": 206066,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "4Cv61B08yHx3fwkylkhCxe",
+      "album": {
+        "id": "4Cv61B08yHx3fwkylkhCxe",
+        "name": "Trilogy: Past, Present & Future",
+        "img": "https://i.scdn.co/image/ab67616d00001e02525feb64b8c90fa8fff368ef"
+      },
       "release_date": "1980-03-26",
       "popularity": 62
     },
     {
-      "trackId": "3ZYO0HGRFFdAGeb8o7F9KC",
-      "name": "You're The First, The Last, My Everything - Single Version",
+      "track": {
+        "id": "3ZYO0HGRFFdAGeb8o7F9KC",
+        "name": "You're The First, The Last, My Everything - Single Version"
+      },
       "duration_ms": 212906,
-      "artist": [
-        "Barry White"
+      "artists": [
+        {
+          "name": "Barry White",
+          "id": "3rfgbfpPSfXY40lzRK7Syt"
+        }
       ],
-      "artistId": [
-        "3rfgbfpPSfXY40lzRK7Syt"
-      ],
-      "albumId": "3t2UIcBhhF4x11PFUr5Wbf",
+      "album": {
+        "id": "3t2UIcBhhF4x11PFUr5Wbf",
+        "name": "You're The First, The Last, My Everything",
+        "img": "https://i.scdn.co/image/ab67616d00001e0206594959ad0b8acf63c1bc78"
+      },
       "release_date": "2018-03-23",
       "popularity": 68
     },
     {
-      "trackId": "5aUEwE5Ta7RpsUcbhUKM9a",
-      "name": "Help Me Make It Through the Night",
+      "track": {
+        "id": "5aUEwE5Ta7RpsUcbhUKM9a",
+        "name": "Help Me Make It Through the Night"
+      },
       "duration_ms": 142760,
-      "artist": [
-        "Kris Kristofferson"
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "id": "0vYQRW5LIDeYQOccTviQNX"
+        }
       ],
-      "artistId": [
-        "0vYQRW5LIDeYQOccTviQNX"
-      ],
-      "albumId": "0gGq5EiYpLZaJNYwEoPRY3",
+      "album": {
+        "id": "0gGq5EiYpLZaJNYwEoPRY3",
+        "name": "The Essential Kris Kristofferson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e602e2a264e5579332f796aa"
+      },
       "release_date": "2004-02-15",
       "popularity": 51
     },
     {
-      "trackId": "2JWKzkQbYsNzx019WyGzaH",
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "track": {
+        "id": "2JWKzkQbYsNzx019WyGzaH",
+        "name": "I Don't Want to Talk About It - 2008 Remaster"
+      },
       "duration_ms": 288266,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+      "album": {
+        "id": "7vV3q5jE7DSuKsnHr7OmmN",
+        "name": "Atlantic Crossing",
+        "img": "https://i.scdn.co/image/ab67616d00001e029199bdfc160aa8d63a57040a"
+      },
       "release_date": "1975",
       "popularity": 66
     },
     {
-      "trackId": "5dxP4w2qZzBEBOmKLSBxal",
-      "name": "Tonerna",
+      "track": {
+        "id": "5dxP4w2qZzBEBOmKLSBxal",
+        "name": "Tonerna"
+      },
       "duration_ms": 189000,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "5kQxC90rZ5uCHF6nRDjHPW",
+      "album": {
+        "id": "5kQxC90rZ5uCHF6nRDjHPW",
+        "name": "100 år med Jussi Björling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff8f7a377a871a77bc1a0afc"
+      },
       "release_date": "2011-01-25",
       "popularity": 6
     },
     {
-      "trackId": "2UJdy2zyNBp12oB6pvVG3z",
-      "name": "Varför skola mänskor strida",
+      "track": {
+        "id": "2UJdy2zyNBp12oB6pvVG3z",
+        "name": "Varför skola mänskor strida"
+      },
       "duration_ms": 247293,
-      "artist": [
-        "Sven-Bertil Taube",
-        "Ulf Bjorlin"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        },
+        {
+          "name": "Ulf Bjorlin",
+          "id": "5tkOVRBS00IDj8kP11Ptvj"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY",
-        "5tkOVRBS00IDj8kP11Ptvj"
-      ],
-      "albumId": "5oYur91aTCockleFOauIPo",
+      "album": {
+        "id": "5oYur91aTCockleFOauIPo",
+        "name": "Sven-Bertil Taube: Ett Samlingsalbum 1959-2001",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231cf4c5b4503d48a87d0e887"
+      },
       "release_date": "2001-01-01",
       "popularity": 11
     },
     {
-      "trackId": "2UJdy2zyNBp12oB6pvVG3z",
-      "name": "Varför skola mänskor strida",
+      "track": {
+        "id": "2UJdy2zyNBp12oB6pvVG3z",
+        "name": "Varför skola mänskor strida"
+      },
       "duration_ms": 247293,
-      "artist": [
-        "Sven-Bertil Taube",
-        "Ulf Bjorlin"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        },
+        {
+          "name": "Ulf Bjorlin",
+          "id": "5tkOVRBS00IDj8kP11Ptvj"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY",
-        "5tkOVRBS00IDj8kP11Ptvj"
-      ],
-      "albumId": "5oYur91aTCockleFOauIPo",
+      "album": {
+        "id": "5oYur91aTCockleFOauIPo",
+        "name": "Sven-Bertil Taube: Ett Samlingsalbum 1959-2001",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231cf4c5b4503d48a87d0e887"
+      },
       "release_date": "2001-01-01",
       "popularity": 11
     },
     {
-      "trackId": "160xTO075ydVLxMoL4C346",
-      "name": "Goldfinger - Propellerheads Mix",
+      "track": {
+        "id": "160xTO075ydVLxMoL4C346",
+        "name": "Goldfinger - Propellerheads Mix"
+      },
       "duration_ms": 353573,
-      "artist": [
-        "Shirley Bassey",
-        "Propellerheads"
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "id": "090VebphoycdEyH165iMqc"
+        },
+        {
+          "name": "Propellerheads",
+          "id": "3Z7thZHrtFvqp8OpPffPKp"
+        }
       ],
-      "artistId": [
-        "090VebphoycdEyH165iMqc",
-        "3Z7thZHrtFvqp8OpPffPKp"
-      ],
-      "albumId": "1GNr6TGbdIOGXxC7vC09du",
+      "album": {
+        "id": "1GNr6TGbdIOGXxC7vC09du",
+        "name": "The Remix Album: Diamonds Are Forever",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc9d2a7205a66a3a015fe6dd"
+      },
       "release_date": "2000-08-07",
       "popularity": 42
     },
     {
-      "trackId": "6mhf5DiX8a1t6XAJ8sAJmH",
-      "name": "Clarinet Concerto in A Major, K. 622: II. Adagio",
+      "track": {
+        "id": "6mhf5DiX8a1t6XAJ8sAJmH",
+        "name": "Clarinet Concerto in A Major, K. 622: II. Adagio"
+      },
       "duration_ms": 400760,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Martin Fröst",
-        "Deutsche Kammerphilharmonie Bremen"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Martin Fröst",
+          "id": "3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "id": "2g3N0oxbmn5Q95mYNNdIo4"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3HmzM7c3S5iM1jBG3gl0FF",
-        "2g3N0oxbmn5Q95mYNNdIo4"
-      ],
-      "albumId": "4Z0HmIiOYuz5N82qAiNJQ3",
+      "album": {
+        "id": "4Z0HmIiOYuz5N82qAiNJQ3",
+        "name": "Mozart: Clarinet Concerto & Kegelstatt Trio",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e2c8a2943d86758622472d6"
+      },
       "release_date": "2014-04-01",
       "popularity": 50
     },
     {
-      "trackId": "5SqDWhI8wL1ojMaYFqJYi5",
-      "name": "Sven-Ingvarsmedley",
+      "track": {
+        "id": "5SqDWhI8wL1ojMaYFqJYi5",
+        "name": "Sven-Ingvarsmedley"
+      },
       "duration_ms": 368640,
-      "artist": [
-        "Dansbandskungen"
+      "artists": [
+        {
+          "name": "Dansbandskungen",
+          "id": "0TJGsik9gk8T22j7UNrLe6"
+        }
       ],
-      "artistId": [
-        "0TJGsik9gk8T22j7UNrLe6"
-      ],
-      "albumId": "5ryLJFuVrmHhDPHwse7lF2",
+      "album": {
+        "id": "5ryLJFuVrmHhDPHwse7lF2",
+        "name": "Kung i stan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244ebc9e4e364c32ffc70f3d8"
+      },
       "release_date": "2018-06-08",
       "popularity": 33
     },
     {
-      "trackId": "2zFF6jG5hQArbzcXz3KUWk",
-      "name": "Cool for the Summer",
+      "track": {
+        "id": "2zFF6jG5hQArbzcXz3KUWk",
+        "name": "Cool for the Summer"
+      },
       "duration_ms": 214739,
-      "artist": [
-        "Demi Lovato"
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "id": "6S2OmqARrzebs0tKUEyXyp"
+        }
       ],
-      "artistId": [
-        "6S2OmqARrzebs0tKUEyXyp"
-      ],
-      "albumId": "3HV3ecmJJ2GmHM93vVVKXF",
+      "album": {
+        "id": "3HV3ecmJJ2GmHM93vVVKXF",
+        "name": "Confident (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e4f7c7ec167ec30c1c66e69"
+      },
       "release_date": "2015-10-16",
       "popularity": 65
     },
     {
-      "trackId": "6yzFi8I5jlZxaE8KKqO4xh",
-      "name": "L'ange Gabriel",
+      "track": {
+        "id": "6yzFi8I5jlZxaE8KKqO4xh",
+        "name": "L'ange Gabriel"
+      },
       "duration_ms": 79640,
-      "artist": [
-        "René Aubry"
+      "artists": [
+        {
+          "name": "René Aubry",
+          "id": "1dyZDfHcTtUJjx0DFBcOvc"
+        }
       ],
-      "artistId": [
-        "1dyZDfHcTtUJjx0DFBcOvc"
-      ],
-      "albumId": "30dvl4yoyFJjNFDqcsG9xT",
+      "album": {
+        "id": "30dvl4yoyFJjNFDqcsG9xT",
+        "name": "Forget Me Not",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bad35b7536af0f8cdb0901e8"
+      },
       "release_date": "2013-09-02",
       "popularity": 15
     }

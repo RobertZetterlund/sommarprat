@@ -7,198 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354529_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4sri9oe1Xlp1zdyFEWjBId",
-      "name": "Give Me A Call",
+      "track": {
+        "id": "4sri9oe1Xlp1zdyFEWjBId",
+        "name": "Give Me A Call"
+      },
       "duration_ms": 208853,
-      "artist": [
-        "Pauline"
+      "artists": [
+        {
+          "name": "Pauline",
+          "id": "2J9Y7fT6BnCQVB4FZioKHc"
+        }
       ],
-      "artistId": [
-        "2J9Y7fT6BnCQVB4FZioKHc"
-      ],
-      "albumId": "1YcV7jqZEPhNododm6tqFg",
+      "album": {
+        "id": "1YcV7jqZEPhNododm6tqFg",
+        "name": "Never Said I Was An Angel",
+        "img": "https://i.scdn.co/image/ab67616d00001e025592c51fbdd68d3e4bcb41ff"
+      },
       "release_date": "2009",
       "popularity": 30
     },
     {
-      "trackId": "5RZfsuEbaAQykeW2LoNd81",
-      "name": "Billy Jack",
+      "track": {
+        "id": "5RZfsuEbaAQykeW2LoNd81",
+        "name": "Billy Jack"
+      },
       "duration_ms": 367266,
-      "artist": [
-        "Curtis Mayfield"
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "id": "2AV6XDIs32ofIJhkkDevjm"
+        }
       ],
-      "artistId": [
-        "2AV6XDIs32ofIJhkkDevjm"
-      ],
-      "albumId": "6hP2HgGSn9yC0SrCwjaUOM",
+      "album": {
+        "id": "6hP2HgGSn9yC0SrCwjaUOM",
+        "name": "There's No Place Like America Today",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295e23a70289d4e4d6dfd8b8f"
+      },
       "release_date": "1975-05-01",
       "popularity": 34
     },
     {
-      "trackId": "6O0NefwIzq9aF9Xnjr21EU",
-      "name": "Han tuggar kex - Akustisk",
+      "track": {
+        "id": "6O0NefwIzq9aF9Xnjr21EU",
+        "name": "Han tuggar kex - Akustisk"
+      },
       "duration_ms": 222040,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "64o8Xiysec8ro1PqcgYWuh",
+      "album": {
+        "id": "64o8Xiysec8ro1PqcgYWuh",
+        "name": "Laleh",
+        "img": "https://i.scdn.co/image/ab67616d00001e028222e77e2fbf4a3ce0c6c6b0"
+      },
       "release_date": "2005-03-01",
       "popularity": 19
     },
     {
-      "trackId": "7E9rcVjE66zO7p4IwyhjBC",
-      "name": "Under ytan",
+      "track": {
+        "id": "7E9rcVjE66zO7p4IwyhjBC",
+        "name": "Under ytan"
+      },
       "duration_ms": 202706,
-      "artist": [
-        "Uno Svenningsson"
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "id": "65OPXmm2nfPvaX1fjHo8kR"
+        }
       ],
-      "artistId": [
-        "65OPXmm2nfPvaX1fjHo8kR"
-      ],
-      "albumId": "7uBv5UUDd1VQ0oklzZ90Ne",
+      "album": {
+        "id": "7uBv5UUDd1VQ0oklzZ90Ne",
+        "name": "Uno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb4163f280f9b91c7b700827"
+      },
       "release_date": "1994-08-27",
       "popularity": 45
     },
     {
-      "trackId": "0VAoDsKh7Or84V8xP7p1Fs",
-      "name": "Don't Believe The Hype",
+      "track": {
+        "id": "0VAoDsKh7Or84V8xP7p1Fs",
+        "name": "Don't Believe The Hype"
+      },
       "duration_ms": 319493,
-      "artist": [
-        "Public Enemy"
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "id": "6Mo9PoU6svvhgEum7wh2Nd"
+        }
       ],
-      "artistId": [
-        "6Mo9PoU6svvhgEum7wh2Nd"
-      ],
-      "albumId": "03Mx6yaV7k4bsEmcTH8J49",
+      "album": {
+        "id": "03Mx6yaV7k4bsEmcTH8J49",
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e02629edfa71810af835f33f431"
+      },
       "release_date": "1988-06-28",
       "popularity": 49
     },
     {
-      "trackId": "6bVUwujYeG4u9IBm4Vugfs",
-      "name": "Straight Out The Jungle",
+      "track": {
+        "id": "6bVUwujYeG4u9IBm4Vugfs",
+        "name": "Straight Out The Jungle"
+      },
       "duration_ms": 238796,
-      "artist": [
-        "Jungle Brothers"
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "id": "2iclO3rlyF0YVNE46ctYRj"
+        }
       ],
-      "artistId": [
-        "2iclO3rlyF0YVNE46ctYRj"
-      ],
-      "albumId": "4h2veBvPhM1RazJi8J1Siy",
+      "album": {
+        "id": "4h2veBvPhM1RazJi8J1Siy",
+        "name": "Straight Out The Jungle",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af7d50dbfd861e5359d8bb68"
+      },
       "release_date": "1988",
       "popularity": 37
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     },
     {
-      "trackId": "0cYX51Hneb8qIOx0tHm7ng",
-      "name": "Aïcha - Version Mixte",
+      "track": {
+        "id": "0cYX51Hneb8qIOx0tHm7ng",
+        "name": "Aïcha - Version Mixte"
+      },
       "duration_ms": 259600,
-      "artist": [
-        "Khaled"
+      "artists": [
+        {
+          "name": "Khaled",
+          "id": "28ztjHIXceRRntmTUfnmUX"
+        }
       ],
-      "artistId": [
-        "28ztjHIXceRRntmTUfnmUX"
-      ],
-      "albumId": "2Ul6M5sIJdZjKVxwgDG7dC",
+      "album": {
+        "id": "2Ul6M5sIJdZjKVxwgDG7dC",
+        "name": "Sahra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1b1864f0ac9fc86215c3c85"
+      },
       "release_date": "1996-01-01",
       "popularity": 57
     },
     {
-      "trackId": "0Oh7oxBYeqZf1S7IQCN6Vg",
-      "name": "Barab Barab (Featuring P-Danjelsa)",
+      "track": {
+        "id": "0Oh7oxBYeqZf1S7IQCN6Vg",
+        "name": "Barab Barab (Featuring P-Danjelsa)"
+      },
       "duration_ms": 303640,
-      "artist": [
-        "Abjeez"
+      "artists": [
+        {
+          "name": "Abjeez",
+          "id": "28KQ0K3QhthwwfeVnkK5Qd"
+        }
       ],
-      "artistId": [
-        "28KQ0K3QhthwwfeVnkK5Qd"
-      ],
-      "albumId": "3IOhOF7rss76hXy4agtqIY",
+      "album": {
+        "id": "3IOhOF7rss76hXy4agtqIY",
+        "name": "Barab Barab Featuring P-danjelsa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb60158d1d6d21412a204a82"
+      },
       "release_date": "2008-01-01",
       "popularity": 7
     },
     {
-      "trackId": "6uRchKkrTVjaXOHtDgrIrG",
-      "name": "Ett brev",
+      "track": {
+        "id": "6uRchKkrTVjaXOHtDgrIrG",
+        "name": "Ett brev"
+      },
       "duration_ms": 232160,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "38puzkTypCZVdMd4FefkL8",
+      "album": {
+        "id": "38puzkTypCZVdMd4FefkL8",
+        "name": "The botten is nådd",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d55e8e96bb2801a95a5011"
+      },
       "release_date": "2003-06-02",
       "popularity": 24
     },
     {
-      "trackId": "4pBTztqsOFQOFf2JO1ob7D",
-      "name": "Yare Dabestanie Man",
+      "track": {
+        "id": "4pBTztqsOFQOFf2JO1ob7D",
+        "name": "Yare Dabestanie Man"
+      },
       "duration_ms": 200254,
-      "artist": [
-        "Mansour Tehrani"
+      "artists": [
+        {
+          "name": "Mansour Tehrani",
+          "id": "1eCtMXdVhheaIQXxeBNgd6"
+        }
       ],
-      "artistId": [
-        "1eCtMXdVhheaIQXxeBNgd6"
-      ],
-      "albumId": "7fBFDKXX4MzbWJXnCJWqAf",
+      "album": {
+        "id": "7fBFDKXX4MzbWJXnCJWqAf",
+        "name": "Taraneh Sara",
+        "img": "https://i.scdn.co/image/ab67616d00001e022735b812b09b6b1639f483a7"
+      },
       "release_date": "2017",
       "popularity": 0
     },
     {
-      "trackId": "6QyQmdvQ1ywNccYa0pwLNQ",
-      "name": "The Tracks Of My Tears",
+      "track": {
+        "id": "6QyQmdvQ1ywNccYa0pwLNQ",
+        "name": "The Tracks Of My Tears"
+      },
       "duration_ms": 174360,
-      "artist": [
-        "Smokey Robinson & The Miracles"
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "id": "6TKOZZDd5uV5KnyC5G4MUt"
+        }
       ],
-      "artistId": [
-        "6TKOZZDd5uV5KnyC5G4MUt"
-      ],
-      "albumId": "2NT1Pc0MXlXORHLBkHyKQW",
+      "album": {
+        "id": "2NT1Pc0MXlXORHLBkHyKQW",
+        "name": "Going To A Go-Go",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ebd8447b29307e31f95090"
+      },
       "release_date": "1965-11-01",
       "popularity": 62
     },
     {
-      "trackId": "6msTUCqIfVOWe7pzWGzh6F",
-      "name": "Leaving the Past",
+      "track": {
+        "id": "6msTUCqIfVOWe7pzWGzh6F",
+        "name": "Leaving the Past"
+      },
       "duration_ms": 268826,
-      "artist": [
-        "Immortal Technique"
+      "artists": [
+        {
+          "name": "Immortal Technique",
+          "id": "7h8ja4JSORo2sXJPmCXRxa"
+        }
       ],
-      "artistId": [
-        "7h8ja4JSORo2sXJPmCXRxa"
-      ],
-      "albumId": "7wFFgBFdFJDvAM8ZHue160",
+      "album": {
+        "id": "7wFFgBFdFJDvAM8ZHue160",
+        "name": "Revolutionary Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02352008cb9cc9eebee4b9a0c2"
+      },
       "release_date": "2003-11-18",
       "popularity": 47
     },
     {
-      "trackId": "26PwuMotZqcczKLHi4Htz3",
-      "name": "Redemption Song",
+      "track": {
+        "id": "26PwuMotZqcczKLHi4Htz3",
+        "name": "Redemption Song"
+      },
       "duration_ms": 233560,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 70
     }

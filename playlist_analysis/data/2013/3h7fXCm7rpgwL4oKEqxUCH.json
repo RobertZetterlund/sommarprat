@@ -7,290 +7,418 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2934484_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4y1LsJpmMti1PfRQV9AWWe",
-      "name": "Girls Just Want to Have Fun",
+      "track": {
+        "id": "4y1LsJpmMti1PfRQV9AWWe",
+        "name": "Girls Just Want to Have Fun"
+      },
       "duration_ms": 238266,
-      "artist": [
-        "Cyndi Lauper"
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY"
+        }
       ],
-      "artistId": [
-        "2BTZIqw0ntH9MvilQ3ewNY"
-      ],
-      "albumId": "1FvdZ1oizXwF9bxogujoF0",
+      "album": {
+        "id": "1FvdZ1oizXwF9bxogujoF0",
+        "name": "She's So Unusual",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252f532df7ba3269b0242fed9"
+      },
       "release_date": "1983-10-14",
       "popularity": 79
     },
     {
-      "trackId": "37ZJ0p5Jm13JPevGcx4SkF",
-      "name": "Livin' On A Prayer",
+      "track": {
+        "id": "37ZJ0p5Jm13JPevGcx4SkF",
+        "name": "Livin' On A Prayer"
+      },
       "duration_ms": 249293,
-      "artist": [
-        "Bon Jovi"
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "id": "58lV9VcRSjABbAbfWS6skp"
+        }
       ],
-      "artistId": [
-        "58lV9VcRSjABbAbfWS6skp"
-      ],
-      "albumId": "0kBfgEilUFCMIQY5IOjG4t",
+      "album": {
+        "id": "0kBfgEilUFCMIQY5IOjG4t",
+        "name": "Slippery When Wet",
+        "img": "https://i.scdn.co/image/ab67616d00001e021336b31b6a1799f0de5807ac"
+      },
       "release_date": "1986-08-16",
       "popularity": 84
     },
     {
-      "trackId": "1kTuAuDVotqoGiUEKpbxHH",
-      "name": "Tears Never Dry",
+      "track": {
+        "id": "1kTuAuDVotqoGiUEKpbxHH",
+        "name": "Tears Never Dry"
+      },
       "duration_ms": 311066,
-      "artist": [
-        "Stephen Simmonds"
+      "artists": [
+        {
+          "name": "Stephen Simmonds",
+          "id": "1ndbhCetpOLuEjF57hjqSG"
+        }
       ],
-      "artistId": [
-        "1ndbhCetpOLuEjF57hjqSG"
-      ],
-      "albumId": "1YZlGzzWdt4kUVhr0WJVmu",
+      "album": {
+        "id": "1YZlGzzWdt4kUVhr0WJVmu",
+        "name": "Alone",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac20a2a068511665f84974f9"
+      },
       "release_date": "1997",
       "popularity": 31
     },
     {
-      "trackId": "3BPguqCO32cArcasYyXkcL",
-      "name": "Joyful Life",
+      "track": {
+        "id": "3BPguqCO32cArcasYyXkcL",
+        "name": "Joyful Life"
+      },
       "duration_ms": 201253,
-      "artist": [
-        "Popsie"
+      "artists": [
+        {
+          "name": "Popsie",
+          "id": "54huWE2p12yhQ6LcmiOfRH"
+        }
       ],
-      "artistId": [
-        "54huWE2p12yhQ6LcmiOfRH"
-      ],
-      "albumId": "4R4zHaGdeJgCoYgWul88Zs",
+      "album": {
+        "id": "4R4zHaGdeJgCoYgWul88Zs",
+        "name": "Popsie",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a75cb2c039834f865b9f569"
+      },
       "release_date": "1998-05-11",
       "popularity": 12
     },
     {
-      "trackId": "0B9x2BRHqj3Qer7biM3pU3",
-      "name": "You're The One That I Want - From “Grease”",
+      "track": {
+        "id": "0B9x2BRHqj3Qer7biM3pU3",
+        "name": "You're The One That I Want - From “Grease”"
+      },
       "duration_ms": 169840,
-      "artist": [
-        "John Travolta",
-        "Olivia Newton-John"
+      "artists": [
+        {
+          "name": "John Travolta",
+          "id": "4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "id": "4BoRxUdrcgbbq1rxJvvhg9"
+        }
       ],
-      "artistId": [
-        "4hKkEHkaqCsyxNxXEsszVH",
-        "4BoRxUdrcgbbq1rxJvvhg9"
-      ],
-      "albumId": "5n47Dui0H3pGpZSOxITmoq",
+      "album": {
+        "id": "5n47Dui0H3pGpZSOxITmoq",
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8"
+      },
       "release_date": "1978-04-04",
       "popularity": 78
     },
     {
-      "trackId": "43SKXhxtalvW09wQfNHlyy",
-      "name": "Part-Time Lover",
+      "track": {
+        "id": "43SKXhxtalvW09wQfNHlyy",
+        "name": "Part-Time Lover"
+      },
       "duration_ms": 252560,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "3Rj0exeUFde6hCLnJMMOVn",
+      "album": {
+        "id": "3Rj0exeUFde6hCLnJMMOVn",
+        "name": "80s Party Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275740408eec50cd8fae39361"
+      },
       "release_date": "2022-08-15",
       "popularity": 9
     },
     {
-      "trackId": "5BeBfnubllFy69omQHNavT",
-      "name": "Step Up",
+      "track": {
+        "id": "5BeBfnubllFy69omQHNavT",
+        "name": "Step Up"
+      },
       "duration_ms": 186986,
-      "artist": [
-        "Darin"
+      "artists": [
+        {
+          "name": "Darin",
+          "id": "1rKFeRryEci6cxNkdvHzNr"
+        }
       ],
-      "artistId": [
-        "1rKFeRryEci6cxNkdvHzNr"
-      ],
-      "albumId": "6DDi3c38LPurNloTG3YnQR",
+      "album": {
+        "id": "6DDi3c38LPurNloTG3YnQR",
+        "name": "Darin",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228f29ad9c2f1e233fc0f03ea"
+      },
       "release_date": "2005-09-22",
       "popularity": 48
     },
     {
-      "trackId": "3ZFTkvIE7kyPt6Nu3PEa7V",
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "track": {
+        "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
+        "name": "Hips Don't Lie (feat. Wyclef Jean)"
+      },
       "duration_ms": 218093,
-      "artist": [
-        "Shakira",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "5ppnlEoj4HdRRdRihnY3jU",
+      "album": {
+        "id": "5ppnlEoj4HdRRdRihnY3jU",
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227ddd747545c0d0cfe7595fa"
+      },
       "release_date": "2005-11-28",
       "popularity": 83
     },
     {
-      "trackId": "7HrzErXq3TsKOY1gmdIShB",
-      "name": "The River",
+      "track": {
+        "id": "7HrzErXq3TsKOY1gmdIShB",
+        "name": "The River"
+      },
       "duration_ms": 301546,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "6YNIEeDWqC09YIWzhoSVLg",
+      "album": {
+        "id": "6YNIEeDWqC09YIWzhoSVLg",
+        "name": "The River",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e987064364e2b62ae1925b4"
+      },
       "release_date": "1980-10-17",
       "popularity": 66
     },
     {
-      "trackId": "5MoDQWMDMaAGDEiWsJfeCi",
-      "name": "Eternal Flame",
+      "track": {
+        "id": "5MoDQWMDMaAGDEiWsJfeCi",
+        "name": "Eternal Flame"
+      },
       "duration_ms": 238026,
-      "artist": [
-        "The Bangles"
+      "artists": [
+        {
+          "name": "The Bangles",
+          "id": "51l0uqRxGaczYr4271pVIC"
+        }
       ],
-      "artistId": [
-        "51l0uqRxGaczYr4271pVIC"
-      ],
-      "albumId": "4yaX6Gmlvo42PnGgBdhzGf",
+      "album": {
+        "id": "4yaX6Gmlvo42PnGgBdhzGf",
+        "name": "The Essential Bangles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fed4a89ebe66064c67f2f4ea"
+      },
       "release_date": "2004",
       "popularity": 67
     },
     {
-      "trackId": "6Avndj1UPQLwR2qqzDwZBc",
-      "name": "Whine Up (feat. Elephant Man) - English Version",
+      "track": {
+        "id": "6Avndj1UPQLwR2qqzDwZBc",
+        "name": "Whine Up (feat. Elephant Man) - English Version"
+      },
       "duration_ms": 205746,
-      "artist": [
-        "Kat Deluna",
-        "Elephant Man"
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "id": "0bOlhT8OcoC1lCpN69NcFP"
+        },
+        {
+          "name": "Elephant Man",
+          "id": "6NOvBZrkd83MSD51xkq4on"
+        }
       ],
-      "artistId": [
-        "0bOlhT8OcoC1lCpN69NcFP",
-        "6NOvBZrkd83MSD51xkq4on"
-      ],
-      "albumId": "3Talg3a0AmXfiV4FlV3ZjL",
+      "album": {
+        "id": "3Talg3a0AmXfiV4FlV3ZjL",
+        "name": "9 Lives",
+        "img": "https://i.scdn.co/image/ab67616d00001e027119da71f9144567d4d7b572"
+      },
       "release_date": "2007",
       "popularity": 63
     },
     {
-      "trackId": "2tUBqZG2AbRi7Q0BIrVrEj",
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "track": {
+        "id": "2tUBqZG2AbRi7Q0BIrVrEj",
+        "name": "I Wanna Dance with Somebody (Who Loves Me)"
+      },
       "duration_ms": 291293,
-      "artist": [
-        "Whitney Houston"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP"
-      ],
-      "albumId": "5Vdzprr5cOqXQo44eHeV7t",
+      "album": {
+        "id": "5Vdzprr5cOqXQo44eHeV7t",
+        "name": "Whitney",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc57e9b00b87dd0f6e868347"
+      },
       "release_date": "1987-06-02",
       "popularity": 81
     },
     {
-      "trackId": "5OoRmdDfAiDztSwrhe7wuE",
-      "name": "Liberian Girl - 2012 Remastered Version",
+      "track": {
+        "id": "5OoRmdDfAiDztSwrhe7wuE",
+        "name": "Liberian Girl - 2012 Remastered Version"
+      },
       "duration_ms": 232800,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "24TAupSNVWSAHL0R7n71vm",
+      "album": {
+        "id": "24TAupSNVWSAHL0R7n71vm",
+        "name": "Bad 25th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bb21d27effb96a1d0fe8d6d"
+      },
       "release_date": "1987-08-31",
       "popularity": 61
     },
     {
-      "trackId": "129NQr4tA6j60b59rflcTY",
-      "name": "Boys Boys Boys",
+      "track": {
+        "id": "129NQr4tA6j60b59rflcTY",
+        "name": "Boys Boys Boys"
+      },
       "duration_ms": 200813,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "1jpUMnKpRlng1OJN7LJauV",
+      "album": {
+        "id": "1jpUMnKpRlng1OJN7LJauV",
+        "name": "The Fame",
+        "img": "https://i.scdn.co/image/ab67616d00001e02631810af03785dbad83f5c81"
+      },
       "release_date": "2008-01-01",
       "popularity": 49
     },
     {
-      "trackId": "2x7MyWybabEz6Y6wvHuwGE",
-      "name": "Just Dance",
+      "track": {
+        "id": "2x7MyWybabEz6Y6wvHuwGE",
+        "name": "Just Dance"
+      },
       "duration_ms": 241933,
-      "artist": [
-        "Lady Gaga",
-        "Colby O'Donis"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "id": "7fObcBw9VM3x7ntWKCYl0z"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms",
-        "7fObcBw9VM3x7ntWKCYl0z"
-      ],
-      "albumId": "1jpUMnKpRlng1OJN7LJauV",
+      "album": {
+        "id": "1jpUMnKpRlng1OJN7LJauV",
+        "name": "The Fame",
+        "img": "https://i.scdn.co/image/ab67616d00001e02631810af03785dbad83f5c81"
+      },
       "release_date": "2008-01-01",
       "popularity": 74
     },
     {
-      "trackId": "5R8dQOPq8haW94K7mgERlO",
-      "name": "Poker Face",
+      "track": {
+        "id": "5R8dQOPq8haW94K7mgERlO",
+        "name": "Poker Face"
+      },
       "duration_ms": 237200,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "1jpUMnKpRlng1OJN7LJauV",
+      "album": {
+        "id": "1jpUMnKpRlng1OJN7LJauV",
+        "name": "The Fame",
+        "img": "https://i.scdn.co/image/ab67616d00001e02631810af03785dbad83f5c81"
+      },
       "release_date": "2008-01-01",
       "popularity": 75
     },
     {
-      "trackId": "0TcJ7QWpggdSg8t0fHThHm",
-      "name": "LoveGame",
+      "track": {
+        "id": "0TcJ7QWpggdSg8t0fHThHm",
+        "name": "LoveGame"
+      },
       "duration_ms": 216333,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "1jpUMnKpRlng1OJN7LJauV",
+      "album": {
+        "id": "1jpUMnKpRlng1OJN7LJauV",
+        "name": "The Fame",
+        "img": "https://i.scdn.co/image/ab67616d00001e02631810af03785dbad83f5c81"
+      },
       "release_date": "2008-01-01",
       "popularity": 70
     },
     {
-      "trackId": "0SiywuOBRcynK0uKGWdCnn",
-      "name": "Bad Romance",
+      "track": {
+        "id": "0SiywuOBRcynK0uKGWdCnn",
+        "name": "Bad Romance"
+      },
       "duration_ms": 294573,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "6rePArBMb5nLWEaY9aQqL4",
+      "album": {
+        "id": "6rePArBMb5nLWEaY9aQqL4",
+        "name": "The Fame Monster (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa"
+      },
       "release_date": "2009-11-05",
       "popularity": 82
     },
     {
-      "trackId": "2SpEHTbUuebeLkgs9QB7Ue",
-      "name": "Jolene",
+      "track": {
+        "id": "2SpEHTbUuebeLkgs9QB7Ue",
+        "name": "Jolene"
+      },
       "duration_ms": 161533,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "5DyOxuvdSmTSNAmkfcsBsj",
+      "album": {
+        "id": "5DyOxuvdSmTSNAmkfcsBsj",
+        "name": "Jolene",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226399936751b54c7e9782324"
+      },
       "release_date": "1974-02-04",
       "popularity": 73
     },
     {
-      "trackId": "4czNORk5MjW5WOn98bki32",
-      "name": "All Night Long (All Night) - Single Version",
+      "track": {
+        "id": "4czNORk5MjW5WOn98bki32",
+        "name": "All Night Long (All Night) - Single Version"
+      },
       "duration_ms": 258666,
-      "artist": [
-        "Lionel Richie"
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "id": "3gMaNLQm7D9MornNILzdSl"
+        }
       ],
-      "artistId": [
-        "3gMaNLQm7D9MornNILzdSl"
-      ],
-      "albumId": "1ET5QG3pd6NGqEFuZh0Qiz",
+      "album": {
+        "id": "1ET5QG3pd6NGqEFuZh0Qiz",
+        "name": "Back To Front",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a47127db3e929f64a2795666"
+      },
       "release_date": "1992-01-01",
       "popularity": 71
     }

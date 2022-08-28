@@ -7,214 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242416_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
-      "name": "Because the Night",
+      "track": {
+        "id": "0lIoY4ZQsdn5QzhraM9o9u",
+        "name": "Because the Night"
+      },
       "duration_ms": 204800,
-      "artist": [
-        "Patti Smith"
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "id": "0vYkHhJ48Bs3jWcvZXvOrP"
+        }
       ],
-      "artistId": [
-        "0vYkHhJ48Bs3jWcvZXvOrP"
-      ],
-      "albumId": "1p6cWoueuunhpgy6131zAd",
+      "album": {
+        "id": "1p6cWoueuunhpgy6131zAd",
+        "name": "Easter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a"
+      },
       "release_date": "1978",
       "popularity": 69
     },
     {
-      "trackId": "5H6Jp0syB5yEPk7SWYdlmk",
-      "name": "The Wind Cries Mary",
+      "track": {
+        "id": "5H6Jp0syB5yEPk7SWYdlmk",
+        "name": "The Wind Cries Mary"
+      },
       "duration_ms": 200733,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "7rSZXXHHvIhF4yUFdaOCy9",
+      "album": {
+        "id": "7rSZXXHHvIhF4yUFdaOCy9",
+        "name": "Are You Experienced",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040"
+      },
       "release_date": "1967-05-12",
       "popularity": 62
     },
     {
-      "trackId": "6OWonlTNJpRwNRI6IYDY0a",
-      "name": "World Of Pain",
+      "track": {
+        "id": "6OWonlTNJpRwNRI6IYDY0a",
+        "name": "World Of Pain"
+      },
       "duration_ms": 182453,
-      "artist": [
-        "Cream"
+      "artists": [
+        {
+          "name": "Cream",
+          "id": "74oJ4qxwOZvX6oSsu1DGnw"
+        }
       ],
-      "artistId": [
-        "74oJ4qxwOZvX6oSsu1DGnw"
-      ],
-      "albumId": "3W6CI0Lw7lElAPID2Fd3B4",
+      "album": {
+        "id": "3W6CI0Lw7lElAPID2Fd3B4",
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db1fb2dede292908e86d94d7"
+      },
       "release_date": "1967-11",
       "popularity": 45
     },
     {
-      "trackId": "1xKQbqQtQWrtQS47fUJBtl",
-      "name": "Piece of My Heart",
+      "track": {
+        "id": "1xKQbqQtQWrtQS47fUJBtl",
+        "name": "Piece of My Heart"
+      },
       "duration_ms": 253333,
-      "artist": [
-        "Big Brother & The Holding Company",
-        "Janis Joplin"
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "id": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "id": "4NgfOZCL9Ml67xzM0xzIvC"
+        }
       ],
-      "artistId": [
-        "4J69yWrKwWJgjv3DKTZcGo",
-        "4NgfOZCL9Ml67xzM0xzIvC"
-      ],
-      "albumId": "2rogKfOpmCFuqNhtGKf2dX",
+      "album": {
+        "id": "2rogKfOpmCFuqNhtGKf2dX",
+        "name": "Cheap Thrills",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ba5ee8bc24979ce3eee4797"
+      },
       "release_date": "1968-08-12",
       "popularity": 69
     },
     {
-      "trackId": "0shPL30nWzEkJzPZ2Anb2m",
-      "name": "Do The Strand",
+      "track": {
+        "id": "0shPL30nWzEkJzPZ2Anb2m",
+        "name": "Do The Strand"
+      },
       "duration_ms": 243800,
-      "artist": [
-        "Roxy Music"
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "id": "3fhOTtm0LBJ3Ojn4hIljLo"
+        }
       ],
-      "artistId": [
-        "3fhOTtm0LBJ3Ojn4hIljLo"
-      ],
-      "albumId": "6gKMWnGptVs6yT2MgCxw29",
+      "album": {
+        "id": "6gKMWnGptVs6yT2MgCxw29",
+        "name": "For Your Pleasure",
+        "img": "https://i.scdn.co/image/ab67616d00001e02707a76900ebe2c7f5fad3615"
+      },
       "release_date": "1973-03-01",
       "popularity": 41
     },
     {
-      "trackId": "2H82AQCQNc4TH2yVcYKIID",
-      "name": "Cowboy Song",
+      "track": {
+        "id": "2H82AQCQNc4TH2yVcYKIID",
+        "name": "Cowboy Song"
+      },
       "duration_ms": 314440,
-      "artist": [
-        "Thin Lizzy"
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "id": "6biWAmrHyiMkX49LkycGqQ"
+        }
       ],
-      "artistId": [
-        "6biWAmrHyiMkX49LkycGqQ"
-      ],
-      "albumId": "6Cf545T4jkaiyvMnTRPOB2",
+      "album": {
+        "id": "6Cf545T4jkaiyvMnTRPOB2",
+        "name": "Jailbreak (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8f69ab903901064b1f19249"
+      },
       "release_date": "1976",
       "popularity": 54
     },
     {
-      "trackId": "4p4XgwnZJCYOWSvz8ruiOY",
-      "name": "Take the \"A\" Train",
+      "track": {
+        "id": "4p4XgwnZJCYOWSvz8ruiOY",
+        "name": "Take the \"A\" Train"
+      },
       "duration_ms": 332640,
-      "artist": [
-        "Duke Ellington"
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "id": "4F7Q5NV6h5TSwCainz8S5A"
+        }
       ],
-      "artistId": [
-        "4F7Q5NV6h5TSwCainz8S5A"
-      ],
-      "albumId": "4s4871wdDSNm19UrKt10jW",
+      "album": {
+        "id": "4s4871wdDSNm19UrKt10jW",
+        "name": "Jazz Profiles",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297673a1ca66fcc9159d7eacd"
+      },
       "release_date": "2008-07-14",
       "popularity": 43
     },
     {
-      "trackId": "5lmGgOaixbwKHtpTzjJoqx",
-      "name": "Under My Thumb",
+      "track": {
+        "id": "5lmGgOaixbwKHtpTzjJoqx",
+        "name": "Under My Thumb"
+      },
       "duration_ms": 221533,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "72qrnM4yUNMDDlWiqKc8iY",
+      "album": {
+        "id": "72qrnM4yUNMDDlWiqKc8iY",
+        "name": "Aftermath",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694"
+      },
       "release_date": "1966-04-15",
       "popularity": 65
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "7nemcVsXVFZF01iqpIIo2Y",
-      "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "track": {
+        "id": "7nemcVsXVFZF01iqpIIo2Y",
+        "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)"
+      },
       "duration_ms": 301226,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "19AUoKWRAaQYrggVvdQnqq",
+      "album": {
+        "id": "19AUoKWRAaQYrggVvdQnqq",
+        "name": "High Voltage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02286a0837ff3424065a735e0a"
+      },
       "release_date": "1976-05-14",
       "popularity": 71
     },
     {
-      "trackId": "6kvoHl80mfCVTv7XnZkjQn",
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "track": {
+        "id": "6kvoHl80mfCVTv7XnZkjQn",
+        "name": "It Must Have Been Love - From the Film \"Pretty Woman\""
+      },
       "duration_ms": 258786,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "3dWX1xFUaalRlaaVpe4EPF",
+      "album": {
+        "id": "3dWX1xFUaalRlaaVpe4EPF",
+        "name": "It Must Have Been Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a4453f744afafa3e6198172"
+      },
       "release_date": "1990-05-20",
       "popularity": 75
     },
     {
-      "trackId": "5moTxUGPZXgGmosl4rIELm",
-      "name": "Anarchy In The UK",
+      "track": {
+        "id": "5moTxUGPZXgGmosl4rIELm",
+        "name": "Anarchy In The UK"
+      },
       "duration_ms": 212480,
-      "artist": [
-        "Sex Pistols"
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "id": "1u7kkVrr14iBvrpYnZILJR"
+        }
       ],
-      "artistId": [
-        "1u7kkVrr14iBvrpYnZILJR"
-      ],
-      "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+      "album": {
+        "id": "6ggO3YVhyonYuFWUPBRyIv",
+        "name": "Never Mind The Bollocks, Here’s The Sex Pistols",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b691fa29c123b5fc4bc5d469"
+      },
       "release_date": "1977-10-27",
       "popularity": 61
     },
     {
-      "trackId": "26PwuMotZqcczKLHi4Htz3",
-      "name": "Redemption Song",
+      "track": {
+        "id": "26PwuMotZqcczKLHi4Htz3",
+        "name": "Redemption Song"
+      },
       "duration_ms": 233560,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 70
     },
     {
-      "trackId": "6E6xVYnTszA6MerlIuiAoY",
-      "name": "The Wrestler",
+      "track": {
+        "id": "6E6xVYnTszA6MerlIuiAoY",
+        "name": "The Wrestler"
+      },
       "duration_ms": 230786,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "5xJSVog0izeuIURO34C7Qa",
+      "album": {
+        "id": "5xJSVog0izeuIURO34C7Qa",
+        "name": "Working On A Dream",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097"
+      },
       "release_date": "2009-01-27",
       "popularity": 40
     },
     {
-      "trackId": "6uhIL0PAovizquifzGH0lk",
-      "name": "Signatur - från \"Bamse - världens starkaste björn\"",
+      "track": {
+        "id": "6uhIL0PAovizquifzGH0lk",
+        "name": "Signatur - från \"Bamse - världens starkaste björn\""
+      },
       "duration_ms": 33506,
-      "artist": [
-        "Bamse"
+      "artists": [
+        {
+          "name": "Bamse",
+          "id": "1V95p8oWGxXlpcFRYqXV3w"
+        }
       ],
-      "artistId": [
-        "1V95p8oWGxXlpcFRYqXV3w"
-      ],
-      "albumId": "7J4mWRMb0BY6LVUGKLhtzg",
+      "album": {
+        "id": "7J4mWRMb0BY6LVUGKLhtzg",
+        "name": "Bamse - världens starkaste björn",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f6b59de74d09650ca48fee"
+      },
       "release_date": "1973-01-01",
       "popularity": 49
     }

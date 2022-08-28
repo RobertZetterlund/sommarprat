@@ -7,118 +7,170 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c3b88e0d-0df0-45ac-ab13-f48f6087c708.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0qi4b1l0eT3jpzeNHeFXDT",
-      "name": "Just Can't Get Enough",
+      "track": {
+        "id": "0qi4b1l0eT3jpzeNHeFXDT",
+        "name": "Just Can't Get Enough"
+      },
       "duration_ms": 220893,
-      "artist": [
-        "Depeche Mode"
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "id": "762310PdDnwsDxAQxzQkfX"
+        }
       ],
-      "artistId": [
-        "762310PdDnwsDxAQxzQkfX"
-      ],
-      "albumId": "0Zp2eVzR9FW6lKX05lRpcu",
+      "album": {
+        "id": "0Zp2eVzR9FW6lKX05lRpcu",
+        "name": "Speak And Spell (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0288ffe8c41647856e6fa5e1ab"
+      },
       "release_date": "1981-11-02",
       "popularity": 71
     },
     {
-      "trackId": "3EsjrObXPhXA79Cr4QixY8",
-      "name": "El Matador",
+      "track": {
+        "id": "3EsjrObXPhXA79Cr4QixY8",
+        "name": "El Matador"
+      },
       "duration_ms": 274093,
-      "artist": [
-        "Los Fabulosos Cadillacs"
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "id": "2FS22haX3FYbyOsUAkuYqZ"
+        }
       ],
-      "artistId": [
-        "2FS22haX3FYbyOsUAkuYqZ"
-      ],
-      "albumId": "6Qb0f1j9fnfpraiPN509RI",
+      "album": {
+        "id": "6Qb0f1j9fnfpraiPN509RI",
+        "name": "20 Grandes Exitos",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283abd9981ec15776b4ec964b"
+      },
       "release_date": "1998-06-05",
       "popularity": 56
     },
     {
-      "trackId": "4VRLGNMTfymoYzD4dLAsNb",
-      "name": "Somebody That I Used To Know",
+      "track": {
+        "id": "4VRLGNMTfymoYzD4dLAsNb",
+        "name": "Somebody That I Used To Know"
+      },
       "duration_ms": 244884,
-      "artist": [
-        "Gotye",
-        "Kimbra"
+      "artists": [
+        {
+          "name": "Gotye",
+          "id": "2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "id": "6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
       ],
-      "artistId": [
-        "2AsusXITU8P25dlRNhcAbG",
-        "6hk7Yq1DU9QcCCrz9uc0Ti"
-      ],
-      "albumId": "4JyWBOxMgxPap7eGzj1g0g",
+      "album": {
+        "id": "4JyWBOxMgxPap7eGzj1g0g",
+        "name": "Making Mirrors (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02774308a4dd4db6e32b6df520"
+      },
       "release_date": "2011",
       "popularity": 52
     },
     {
-      "trackId": "3WdLb11xMR9caAdCvqeLzC",
-      "name": "(Kom så ska vi) Leva livet",
+      "track": {
+        "id": "3WdLb11xMR9caAdCvqeLzC",
+        "name": "(Kom så ska vi) Leva livet"
+      },
       "duration_ms": 213093,
-      "artist": [
-        "Gyllene Tider"
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "id": "0FINyNBXqnTlRC4dvpSeSb"
+        }
       ],
-      "artistId": [
-        "0FINyNBXqnTlRC4dvpSeSb"
-      ],
-      "albumId": "7lbMjjnuHPSgU4wZolWdQ1",
+      "album": {
+        "id": "7lbMjjnuHPSgU4wZolWdQ1",
+        "name": "Moderna Tider",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ac2b55bb9a1d3ec1a350cd5"
+      },
       "release_date": "1981-03-10",
       "popularity": 46
     },
     {
-      "trackId": "1SZDQMXX1FrA97YY7Lt3Fj",
-      "name": "Ett sista glas",
+      "track": {
+        "id": "1SZDQMXX1FrA97YY7Lt3Fj",
+        "name": "Ett sista glas"
+      },
       "duration_ms": 186085,
-      "artist": [
-        "Miriam Bryant"
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "id": "2zd9YxlsQvA5mkZ1NarYVQ"
+        }
       ],
-      "artistId": [
-        "2zd9YxlsQvA5mkZ1NarYVQ"
-      ],
-      "albumId": "3jBdOBQUdU4Z0GPBYahCWD",
+      "album": {
+        "id": "3jBdOBQUdU4Z0GPBYahCWD",
+        "name": "Hisingen och hem igen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230e25e64860e7bc2a8a97d87"
+      },
       "release_date": "2016-01-01",
       "popularity": 55
     },
     {
-      "trackId": "3WoSJF85H0qywD4qLp4HDd",
-      "name": "The Godfather Waltz (Main Title)",
+      "track": {
+        "id": "3WoSJF85H0qywD4qLp4HDd",
+        "name": "The Godfather Waltz (Main Title)"
+      },
       "duration_ms": 185466,
-      "artist": [
-        "Nino Rota",
-        "Carlo Savina"
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "id": "0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "id": "0JPH3a8DUy38JvZsdhmEnC"
+        }
       ],
-      "artistId": [
-        "0RYyGExpy57GLGa1GtFoVo",
-        "0JPH3a8DUy38JvZsdhmEnC"
-      ],
-      "albumId": "5CeLOKEJeP3EpEdT9v2lep",
+      "album": {
+        "id": "5CeLOKEJeP3EpEdT9v2lep",
+        "name": "The Godfather",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0fc6fd292bab2be473cbabe"
+      },
       "release_date": "1991-01-01",
       "popularity": 54
     },
     {
-      "trackId": "1yIcegVRpUpO6EhvOAWgtt",
-      "name": "Techno Rock - Elektro-Energetischer Cut",
+      "track": {
+        "id": "1yIcegVRpUpO6EhvOAWgtt",
+        "name": "Techno Rock - Elektro-Energetischer Cut"
+      },
       "duration_ms": 206586,
-      "artist": [
-        "Heiko & Maiko"
+      "artists": [
+        {
+          "name": "Heiko & Maiko",
+          "id": "7nbkXxFQNYTIdF7N1yrvQK"
+        }
       ],
-      "artistId": [
-        "7nbkXxFQNYTIdF7N1yrvQK"
-      ],
-      "albumId": "45z6N0msPSYBN4wz7MpMcU",
+      "album": {
+        "id": "45z6N0msPSYBN4wz7MpMcU",
+        "name": "Techno Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274265950b160a1ab75b1ac2c"
+      },
       "release_date": "2006-06-30",
       "popularity": 18
     },
     {
-      "trackId": "7sLpSWxQazJzDVG6YGzlVs",
-      "name": "99 Problems",
+      "track": {
+        "id": "7sLpSWxQazJzDVG6YGzlVs",
+        "name": "99 Problems"
+      },
       "duration_ms": 234626,
-      "artist": [
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "4FWvo9oS4gRgHtAwDwUjiO",
+      "album": {
+        "id": "4FWvo9oS4gRgHtAwDwUjiO",
+        "name": "The Black Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c528802c308a1e0e4d9945dd"
+      },
       "release_date": "2003-11-14",
       "popularity": 66
     }

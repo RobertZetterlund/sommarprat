@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530821_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2eKwjJkBUaeaGq5GA1wTwc",
-      "name": "Strange Fruit",
+      "track": {
+        "id": "2eKwjJkBUaeaGq5GA1wTwc",
+        "name": "Strange Fruit"
+      },
       "duration_ms": 208933,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "album": {
+        "id": "31pd81sWDaK2pP3ok5892z",
+        "name": "Pastel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda3269eebbf31611d10bda6"
+      },
       "release_date": "1965-10-01",
       "popularity": 48
     },
     {
-      "trackId": "0EhGaW5of6VMSCgbY7KPvi",
-      "name": "Prepárense",
+      "track": {
+        "id": "0EhGaW5of6VMSCgbY7KPvi",
+        "name": "Prepárense"
+      },
       "duration_ms": 200280,
-      "artist": [
-        "Astor Piazzolla",
-        "Astor Piazzolla Y Su Quinteto"
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "id": "7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Astor Piazzolla Y Su Quinteto",
+          "id": "0MAD29QOnu2dNgAvYNYsfa"
+        }
       ],
-      "artistId": [
-        "7dsugSamBB7enWE2IrlbFg",
-        "0MAD29QOnu2dNgAvYNYsfa"
-      ],
-      "albumId": "1ZKeyTX40tu0Mc79FkBPdK",
+      "album": {
+        "id": "1ZKeyTX40tu0Mc79FkBPdK",
+        "name": "Quintaesencia",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299b17e7101f68ce642c920f1"
+      },
       "release_date": "2000-01-29",
       "popularity": 22
     },
     {
-      "trackId": "0zlx7fZv0bWXFL8jTeBIpf",
-      "name": "Alltid inom mig",
+      "track": {
+        "id": "0zlx7fZv0bWXFL8jTeBIpf",
+        "name": "Alltid inom mig"
+      },
       "duration_ms": 269973,
-      "artist": [
-        "Josefin Nilsson",
-        "Totta Näslund"
+      "artists": [
+        {
+          "name": "Josefin Nilsson",
+          "id": "2WkfneC1mCzntiASQL89wY"
+        },
+        {
+          "name": "Totta Näslund",
+          "id": "09J3FFqSQVVQlrakhizg9v"
+        }
       ],
-      "artistId": [
-        "2WkfneC1mCzntiASQL89wY",
-        "09J3FFqSQVVQlrakhizg9v"
-      ],
-      "albumId": "2VO96k0hgRD1XkpOtu7qg0",
+      "album": {
+        "id": "2VO96k0hgRD1XkpOtu7qg0",
+        "name": "Josefin",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d9a7f67b7eef3efcee2d03a"
+      },
       "release_date": "2020-02-28",
       "popularity": 43
     },
     {
-      "trackId": "5yQ9iMZXGcr5rlO4hoLsP4",
-      "name": "What'd I Say, Pt. 1 & 2",
+      "track": {
+        "id": "5yQ9iMZXGcr5rlO4hoLsP4",
+        "name": "What'd I Say, Pt. 1 & 2"
+      },
       "duration_ms": 307053,
-      "artist": [
-        "Ray Charles"
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "id": "1eYhYunlNJlDoQhtYBvPsi"
+        }
       ],
-      "artistId": [
-        "1eYhYunlNJlDoQhtYBvPsi"
-      ],
-      "albumId": "4tfWxufmH725XmTcQFAuXn",
+      "album": {
+        "id": "4tfWxufmH725XmTcQFAuXn",
+        "name": "What'd I Say",
+        "img": "https://i.scdn.co/image/ab67616d00001e021990f67950270de15b709d99"
+      },
       "release_date": "1959",
       "popularity": 61
     },
     {
-      "trackId": "4ekhcmbinPu8eLHtxD2lav",
-      "name": "The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag",
+      "track": {
+        "id": "4ekhcmbinPu8eLHtxD2lav",
+        "name": "The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag"
+      },
       "duration_ms": 223933,
-      "artist": [
-        "Country Joe & The Fish"
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "id": "0a63dfrxBQKqh160P8iUNL"
+        }
       ],
-      "artistId": [
-        "0a63dfrxBQKqh160P8iUNL"
-      ],
-      "albumId": "5qLH7ahsjN4qZumjwdlkhT",
+      "album": {
+        "id": "5qLH7ahsjN4qZumjwdlkhT",
+        "name": "I-Feel-Like-I'm-Fixin'-To-Die",
+        "img": "https://i.scdn.co/image/ab67616d00001e02001d8526513bb190bf2cb42e"
+      },
       "release_date": "1967",
       "popularity": 41
     },
     {
-      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-      "name": "En stund på jorden",
+      "track": {
+        "id": "0Zii0Q4Z17kd1XMB27CQ2t",
+        "name": "En stund på jorden"
+      },
       "duration_ms": 232858,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 50
     },
     {
-      "trackId": "7mDsQh8ZNJsFgbp5iTuSET",
-      "name": "Bängen trålar",
+      "track": {
+        "id": "7mDsQh8ZNJsFgbp5iTuSET",
+        "name": "Bängen trålar"
+      },
       "duration_ms": 255813,
-      "artist": [
-        "Nationalteatern"
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "id": "3GBq0lnwXpfnLmMndLDZ6U"
+        }
       ],
-      "artistId": [
-        "3GBq0lnwXpfnLmMndLDZ6U"
-      ],
-      "albumId": "5We7SgdkPGS63GCqGVvllf",
+      "album": {
+        "id": "5We7SgdkPGS63GCqGVvllf",
+        "name": "Livet är en fest",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8be38d217bb045ea2b4b8f3"
+      },
       "release_date": "1974",
       "popularity": 35
     },
     {
-      "trackId": "15EZ0MVbTowb8ZvzgB02eO",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "15EZ0MVbTowb8ZvzgB02eO",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 174093,
-      "artist": [
-        "Nationalteatern"
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "id": "3GBq0lnwXpfnLmMndLDZ6U"
+        }
       ],
-      "artistId": [
-        "3GBq0lnwXpfnLmMndLDZ6U"
-      ],
-      "albumId": "0mwdXf3cr5jJnDaXTfcOIK",
+      "album": {
+        "id": "0mwdXf3cr5jJnDaXTfcOIK",
+        "name": "Barn av vår tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277e2729f5435fc8b778ed924"
+      },
       "release_date": "1978",
       "popularity": 49
     },
     {
-      "trackId": "2OxkfL5jW8bvYTCNDLlRSY",
-      "name": "She - Tous les visages de l’amour",
+      "track": {
+        "id": "2OxkfL5jW8bvYTCNDLlRSY",
+        "name": "She - Tous les visages de l’amour"
+      },
       "duration_ms": 153066,
-      "artist": [
-        "Charles Aznavour",
-        "Richard Galliano",
-        "Eddie Louiss"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Richard Galliano",
+          "id": "6yXri0y0q95UDiAyLzTM1y"
+        },
+        {
+          "name": "Eddie Louiss",
+          "id": "0Z7cUaHzuRp2moYQtVDBFp"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT",
-        "6yXri0y0q95UDiAyLzTM1y",
-        "0Z7cUaHzuRp2moYQtVDBFp"
-      ],
-      "albumId": "6u7CZtz83tmwcgEBIIr3GG",
+      "album": {
+        "id": "6u7CZtz83tmwcgEBIIr3GG",
+        "name": "Greatest Golden Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed0521cb384ca5ae93a9544b"
+      },
       "release_date": "1996",
       "popularity": 59
     },
     {
-      "trackId": "6illsnZ2rn1lCzXY9gBC28",
-      "name": "Ne Me Quitte Pas",
+      "track": {
+        "id": "6illsnZ2rn1lCzXY9gBC28",
+        "name": "Ne Me Quitte Pas"
+      },
       "duration_ms": 214533,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3ofZeSWPHZOE5WC2tNZDez",
+      "album": {
+        "id": "3ofZeSWPHZOE5WC2tNZDez",
+        "name": "I Put A Spell On You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02425e9a15a4a1b9fe123a1aa7"
+      },
       "release_date": "1965-06-01",
       "popularity": 51
     },
     {
-      "trackId": "7Gx2q0ueNwvDp2BOZYGCMO",
-      "name": "Money - 2011 Remastered Version",
+      "track": {
+        "id": "7Gx2q0ueNwvDp2BOZYGCMO",
+        "name": "Money - 2011 Remastered Version"
+      },
       "duration_ms": 380080,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "2WT1pbYjLJciAR26yMebkH",
+      "album": {
+        "id": "2WT1pbYjLJciAR26yMebkH",
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3709135d1005baa36939d80"
+      },
       "release_date": "1973-03-01",
       "popularity": 65
     },
     {
-      "trackId": "6CVqdefyKI9ltgNIIBokxS",
-      "name": "Var blev ni av ljuva drömmar?",
+      "track": {
+        "id": "6CVqdefyKI9ltgNIIBokxS",
+        "name": "Var blev ni av ljuva drömmar?"
+      },
       "duration_ms": 305106,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 27
     },
     {
-      "trackId": "4NDpn6yfD5aqafYWFEaJDz",
-      "name": "Our Day Will Come",
+      "track": {
+        "id": "4NDpn6yfD5aqafYWFEaJDz",
+        "name": "Our Day Will Come"
+      },
       "duration_ms": 169373,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "4xdRjOhY9NHmMpI7U3e2c3",
+      "album": {
+        "id": "4xdRjOhY9NHmMpI7U3e2c3",
+        "name": "Lioness: Hidden Treasures",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c896e873306c17847c254e9"
+      },
       "release_date": "2011-01-01",
       "popularity": 62
     }

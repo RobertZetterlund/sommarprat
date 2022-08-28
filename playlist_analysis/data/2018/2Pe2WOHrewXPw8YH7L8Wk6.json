@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/24a03874-580f-475c-9bec-fbddba07e9f7.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5zb7npjQqoJ7Kcpq4yD9qn",
-      "name": "You Want It Darker",
+      "track": {
+        "id": "5zb7npjQqoJ7Kcpq4yD9qn",
+        "name": "You Want It Darker"
+      },
       "duration_ms": 284373,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3jeTB3j3QmUs8SPIVleHtU",
+      "album": {
+        "id": "3jeTB3j3QmUs8SPIVleHtU",
+        "name": "You Want It Darker",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fc3f01275cae3d8ecb1c26b"
+      },
       "release_date": "2016-10-21",
       "popularity": 59
     },
     {
-      "trackId": "3Mc3GTTm9MaTRDkBolbDHQ",
-      "name": "Down In Mississippi",
+      "track": {
+        "id": "3Mc3GTTm9MaTRDkBolbDHQ",
+        "name": "Down In Mississippi"
+      },
       "duration_ms": 297560,
-      "artist": [
-        "Mavis Staples"
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "id": "0cTSCsVx04SSht9V6cpKN0"
+        }
       ],
-      "artistId": [
-        "0cTSCsVx04SSht9V6cpKN0"
-      ],
-      "albumId": "0Q46RnNXqFQ2dTdBD1qcv7",
+      "album": {
+        "id": "0Q46RnNXqFQ2dTdBD1qcv7",
+        "name": "We'll Never Turn Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6cb47411d878464471ad6be"
+      },
       "release_date": "2007-04-24",
       "popularity": 38
     },
     {
-      "trackId": "1V9Ca7Am0NPxo98fqYIqEA",
-      "name": "Favorite Town",
+      "track": {
+        "id": "1V9Ca7Am0NPxo98fqYIqEA",
+        "name": "Favorite Town"
+      },
       "duration_ms": 177226,
-      "artist": [
-        "Ellen Sundberg"
+      "artists": [
+        {
+          "name": "Ellen Sundberg",
+          "id": "0q4Ew41VWdsP9ZYEbM8JAp"
+        }
       ],
-      "artistId": [
-        "0q4Ew41VWdsP9ZYEbM8JAp"
-      ],
-      "albumId": "2Sj7H3t1RoWd4dvH6zH8GR",
+      "album": {
+        "id": "2Sj7H3t1RoWd4dvH6zH8GR",
+        "name": "Cigarette Secrets",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baf7d962680d15a018ee41e7"
+      },
       "release_date": "2016-09-07",
       "popularity": 17
     },
     {
-      "trackId": "5CJIdzPSLJS4oklyO2wo9Q",
-      "name": "Du gråter så store tåra - Norwegian Version",
+      "track": {
+        "id": "5CJIdzPSLJS4oklyO2wo9Q",
+        "name": "Du gråter så store tåra - Norwegian Version"
+      },
       "duration_ms": 197866,
-      "artist": [
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "1Eph2XorZbPsmNTTKmXDtv",
+      "album": {
+        "id": "1Eph2XorZbPsmNTTKmXDtv",
+        "name": "It All Starts With One (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c8abff12eb8b7ce416f949"
+      },
       "release_date": "2011-01-01",
       "popularity": 31
     },
     {
-      "trackId": "5poMaSwHQFL8fAnewduT70",
-      "name": "Spy på dom",
+      "track": {
+        "id": "5poMaSwHQFL8fAnewduT70",
+        "name": "Spy på dom"
+      },
       "duration_ms": 208280,
-      "artist": [
-        "Zacke"
+      "artists": [
+        {
+          "name": "Zacke",
+          "id": "3jKd96grbdWoh56whvFnX2"
+        }
       ],
-      "artistId": [
-        "3jKd96grbdWoh56whvFnX2"
-      ],
-      "albumId": "2He6SDCHuPSDY8mGBypGx0",
+      "album": {
+        "id": "2He6SDCHuPSDY8mGBypGx0",
+        "name": "Fattigkussen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7e21929de5e21ec906cd72c"
+      },
       "release_date": "2016-11-11",
       "popularity": 17
     },
     {
-      "trackId": "2JOTt0Igsl2tZdnLqcoPhn",
-      "name": "Grimasch om morgonen",
+      "track": {
+        "id": "2JOTt0Igsl2tZdnLqcoPhn",
+        "name": "Grimasch om morgonen"
+      },
       "duration_ms": 125226,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "4R5lNY9jy7mEDAPhJNQRFk",
+      "album": {
+        "id": "4R5lNY9jy7mEDAPhJNQRFk",
+        "name": "Cornelis klassiker Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac74aaa7dc4771a29a311ba4"
+      },
       "release_date": "1988",
       "popularity": 32
     },
     {
-      "trackId": "11uNH4rrkCF1EoCLBlKvtR",
-      "name": "Aphrodisiac",
+      "track": {
+        "id": "11uNH4rrkCF1EoCLBlKvtR",
+        "name": "Aphrodisiac"
+      },
       "duration_ms": 178933,
-      "artist": [
-        "Bow Wow Wow"
+      "artists": [
+        {
+          "name": "Bow Wow Wow",
+          "id": "52K4ArhA4OgMO7AsyEgqCT"
+        }
       ],
-      "artistId": [
-        "52K4ArhA4OgMO7AsyEgqCT"
-      ],
-      "albumId": "3gTAnUMTCOtCHp0zb4gdSF",
+      "album": {
+        "id": "3gTAnUMTCOtCHp0zb4gdSF",
+        "name": "We Are The '80s",
+        "img": "https://i.scdn.co/image/ab67616d00001e020779a8a4e4f42a574a06fd75"
+      },
       "release_date": "1980",
       "popularity": 35
     },
     {
-      "trackId": "70eDxAyAraNTiD6lx2ZEnH",
-      "name": "Ex's & Oh's",
+      "track": {
+        "id": "70eDxAyAraNTiD6lx2ZEnH",
+        "name": "Ex's & Oh's"
+      },
       "duration_ms": 202173,
-      "artist": [
-        "Elle King"
+      "artists": [
+        {
+          "name": "Elle King",
+          "id": "3bhu7P5PfngueRHiB9hjcx"
+        }
       ],
-      "artistId": [
-        "3bhu7P5PfngueRHiB9hjcx"
-      ],
-      "albumId": "0B4eikFaUJcf3hc6DaSVov",
+      "album": {
+        "id": "0B4eikFaUJcf3hc6DaSVov",
+        "name": "Love Stuff",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb5a4a3ad6b9548ce4ca2c03"
+      },
       "release_date": "2015-02-13",
       "popularity": 72
     },
     {
-      "trackId": "6Kkt27YmFyIFrcX3QXFi2o",
-      "name": "Liability",
+      "track": {
+        "id": "6Kkt27YmFyIFrcX3QXFi2o",
+        "name": "Liability"
+      },
       "duration_ms": 171727,
-      "artist": [
-        "Lorde"
+      "artists": [
+        {
+          "name": "Lorde",
+          "id": "163tK9Wjr9P9DmM0AVK7lm"
+        }
       ],
-      "artistId": [
-        "163tK9Wjr9P9DmM0AVK7lm"
-      ],
-      "albumId": "2B87zXm9bOWvAJdkJBTpzF",
+      "album": {
+        "id": "2B87zXm9bOWvAJdkJBTpzF",
+        "name": "Melodrama",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8553e18a11209d4becd0336"
+      },
       "release_date": "2017-06-16",
       "popularity": 74
     },
     {
-      "trackId": "7byp2wNr1hagtwOzqtCqJg",
-      "name": "If This Is Love",
+      "track": {
+        "id": "7byp2wNr1hagtwOzqtCqJg",
+        "name": "If This Is Love"
+      },
       "duration_ms": 237986,
-      "artist": [
-        "Sisanda"
+      "artists": [
+        {
+          "name": "Sisanda",
+          "id": "2WFqlHZY8DtSTHHcQ6yYYp"
+        }
       ],
-      "artistId": [
-        "2WFqlHZY8DtSTHHcQ6yYYp"
-      ],
-      "albumId": "3H0iKVXvjKzKcZdTsv4z7u",
+      "album": {
+        "id": "3H0iKVXvjKzKcZdTsv4z7u",
+        "name": "If This Is Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211b0622d227d8f828b3e6af4"
+      },
       "release_date": "2017-06-16",
       "popularity": 0
     },
     {
-      "trackId": "2ewLTjnHNFIMwF1Zsx3f0T",
-      "name": "The Longer The Waiting (The Sweeter The Kiss)",
+      "track": {
+        "id": "2ewLTjnHNFIMwF1Zsx3f0T",
+        "name": "The Longer The Waiting (The Sweeter The Kiss)"
+      },
       "duration_ms": 231133,
-      "artist": [
-        "Anna Ternheim",
-        "David Ferguson"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        },
+        {
+          "name": "David Ferguson",
+          "id": "4MHz2XUNNGuttl6Yj9OHeA"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308",
-        "4MHz2XUNNGuttl6Yj9OHeA"
-      ],
-      "albumId": "3n3p5tioTdiNksbGzTDImJ",
+      "album": {
+        "id": "3n3p5tioTdiNksbGzTDImJ",
+        "name": "The Night Visitor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0179ade788bd3479cdca552"
+      },
       "release_date": "2011-10-28",
       "popularity": 49
     },
     {
-      "trackId": "53xRJoRDI4MJGjMnsJ4X24",
-      "name": "4 Impromptus, Op. 90, D. 899: No. 3 in G-Flat Major. Andante",
+      "track": {
+        "id": "53xRJoRDI4MJGjMnsJ4X24",
+        "name": "4 Impromptus, Op. 90, D. 899: No. 3 in G-Flat Major. Andante"
+      },
       "duration_ms": 351000,
-      "artist": [
-        "Franz Schubert",
-        "Alfred Brendel"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Alfred Brendel",
+          "id": "5vBh0nve44zwwVF5KWtCwA"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "5vBh0nve44zwwVF5KWtCwA"
-      ],
-      "albumId": "5s9T5UqO14njiDqVfz7cfb",
+      "album": {
+        "id": "5s9T5UqO14njiDqVfz7cfb",
+        "name": "Schubert: Complete Impromptus, D899 & D935; 11 Ecossaises, &c",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf42ef91dc8d8e75231e4e62"
+      },
       "release_date": "1995-01-01",
       "popularity": 18
     }

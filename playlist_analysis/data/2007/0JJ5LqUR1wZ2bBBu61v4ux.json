@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3370070_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6NMUKnUp0SdUMkLte3Shd0",
-      "name": "Vila vid denna källa - Fredmans epistel nr 82",
+      "track": {
+        "id": "6NMUKnUp0SdUMkLte3Shd0",
+        "name": "Vila vid denna källa - Fredmans epistel nr 82"
+      },
       "duration_ms": 538706,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "3RTWHlXtxXsxFgHE7o5Cpb",
+      "album": {
+        "id": "3RTWHlXtxXsxFgHE7o5Cpb",
+        "name": "Playlist: Fred Åkerström",
+        "img": "https://i.scdn.co/image/ab67616d00001e020030f5e66d7ccfeb99ccf57b"
+      },
       "release_date": "2011-06-20",
       "popularity": 2
     },
     {
-      "trackId": "5sttHkc41QY5NyaHhaDXek",
-      "name": "Nocturne (Sov på min arm)",
+      "track": {
+        "id": "5sttHkc41QY5NyaHhaDXek",
+        "name": "Nocturne (Sov på min arm)"
+      },
       "duration_ms": 265240,
-      "artist": [
-        "Loa Falkman"
+      "artists": [
+        {
+          "name": "Loa Falkman",
+          "id": "2Kik9qq1Ev3zlEc8mFS476"
+        }
       ],
-      "artistId": [
-        "2Kik9qq1Ev3zlEc8mFS476"
-      ],
-      "albumId": "1QVHtTltlNVzqLSAnxvVPX",
+      "album": {
+        "id": "1QVHtTltlNVzqLSAnxvVPX",
+        "name": "Kom i min famn - Loa Falkman sjunger Evert Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ca40b7e577d3dd377873679"
+      },
       "release_date": "2012-06-04",
       "popularity": 36
     },
     {
-      "trackId": "329ss78X6RxaEa6iN1SsH8",
-      "name": "The Click Song",
+      "track": {
+        "id": "329ss78X6RxaEa6iN1SsH8",
+        "name": "The Click Song"
+      },
       "duration_ms": 153373,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "660kKC1wgzwtHYOn5aza9N",
+      "album": {
+        "id": "660kKC1wgzwtHYOn5aza9N",
+        "name": "The Click Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e022fb4d5946ea2118b443f67ce"
+      },
       "release_date": "1989",
       "popularity": 34
     },
     {
-      "trackId": "7fSZa5OqnRnhJBdeRZlbjh",
-      "name": "El pueblo unido jamás será vencido",
+      "track": {
+        "id": "7fSZa5OqnRnhJBdeRZlbjh",
+        "name": "El pueblo unido jamás será vencido"
+      },
       "duration_ms": 208733,
-      "artist": [
-        "Quilapayún"
+      "artists": [
+        {
+          "name": "Quilapayún",
+          "id": "76sZcEL2ZXBTqNeFJAhlup"
+        }
       ],
-      "artistId": [
-        "76sZcEL2ZXBTqNeFJAhlup"
-      ],
-      "albumId": "0WdtE1ZqaKlx3lpzM0OApA",
+      "album": {
+        "id": "0WdtE1ZqaKlx3lpzM0OApA",
+        "name": "El pueblo unido jamás será vencido (1973-1983) [Collection \"L'art de...\"]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02892d166eaa02dfdd7c944e93"
+      },
       "release_date": "1990-01-01",
       "popularity": 36
     },
     {
-      "trackId": "4GFuyvrYOQYDS497hffJXT",
-      "name": "Goldberg Variations, BWV 988: Aria",
+      "track": {
+        "id": "4GFuyvrYOQYDS497hffJXT",
+        "name": "Goldberg Variations, BWV 988: Aria"
+      },
       "duration_ms": 321066,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Lang Lang"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "id": "1YZhNFBxkEB5UKTgMDvot4"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "1YZhNFBxkEB5UKTgMDvot4"
-      ],
-      "albumId": "3syYFlKHyCm7zb4otxwD95",
+      "album": {
+        "id": "3syYFlKHyCm7zb4otxwD95",
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02826ef7be1aeffbec04a8d648"
+      },
       "release_date": "2021-02-12",
       "popularity": 48
     },
     {
-      "trackId": "3vx7dqQCjTLPOgySOarWpe",
-      "name": "Soldier Blue",
+      "track": {
+        "id": "3vx7dqQCjTLPOgySOarWpe",
+        "name": "Soldier Blue"
+      },
       "duration_ms": 201000,
-      "artist": [
-        "Buffy Sainte-Marie"
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "id": "5exO2eW84QucBhrRhcK76x"
+        }
       ],
-      "artistId": [
-        "5exO2eW84QucBhrRhcK76x"
-      ],
-      "albumId": "0Gxy0Z3Zo4OissivfQGzzz",
+      "album": {
+        "id": "0Gxy0Z3Zo4OissivfQGzzz",
+        "name": "She Used To Wanna Be A Ballerina",
+        "img": "https://i.scdn.co/image/ab67616d00001e02252cd252138aecad6b755932"
+      },
       "release_date": "1971",
       "popularity": 39
     },
     {
-      "trackId": "0HU5JnVaKNTWf6GykV9Zn8",
-      "name": "Circle of Life - From \"The Lion King\"/ Soundtrack",
+      "track": {
+        "id": "0HU5JnVaKNTWf6GykV9Zn8",
+        "name": "Circle of Life - From \"The Lion King\"/ Soundtrack"
+      },
       "duration_ms": 239146,
-      "artist": [
-        "Carmen Twillie",
-        "Lebo M."
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "id": "6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "id": "0zp9qNDSeYi3QEodhcKAAA"
+        }
       ],
-      "artistId": [
-        "6O3ZB5Cz5CNT3wQWouKcNJ",
-        "0zp9qNDSeYi3QEodhcKAAA"
-      ],
-      "albumId": "3YA5DdB3wSz4pdfEXoMyRd",
+      "album": {
+        "id": "3YA5DdB3wSz4pdfEXoMyRd",
+        "name": "The Lion King",
+        "img": "https://i.scdn.co/image/ab67616d00001e02660aadbda2da6b1c2dd3d1a5"
+      },
       "release_date": "1994-01-01",
       "popularity": 67
     },
     {
-      "trackId": "3lOqnA5D7JfRFm2OdAkoRg",
-      "name": "The Elements",
+      "track": {
+        "id": "3lOqnA5D7JfRFm2OdAkoRg",
+        "name": "The Elements"
+      },
       "duration_ms": 86360,
-      "artist": [
-        "Tom Lehrer"
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "id": "5iNvbRVX9W8t1RpD2SHpAO"
+        }
       ],
-      "artistId": [
-        "5iNvbRVX9W8t1RpD2SHpAO"
-      ],
-      "albumId": "7y5nQ3JvoLmDV5clACXa9L",
+      "album": {
+        "id": "7y5nQ3JvoLmDV5clACXa9L",
+        "name": "The Best & Worst of Tom Lehrer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf46b81e8778a87f777f9aea"
+      },
       "release_date": "2019-07-25",
       "popularity": 33
     },
     {
-      "trackId": "6VKwaMbt7q96ZlSYjKWFEc",
-      "name": "Ave verum corpus",
+      "track": {
+        "id": "6VKwaMbt7q96ZlSYjKWFEc",
+        "name": "Ave verum corpus"
+      },
       "duration_ms": 164386,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Stephen Cleobury",
-        "Choir of King's College, Cambridge"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "id": "0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "id": "0f3PsS9IQ6whvNMFFKnpjl"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "0ugRf6ECGBFRCHlv9iG1No",
-        "0f3PsS9IQ6whvNMFFKnpjl"
-      ],
-      "albumId": "7COC007zP3kwTvSThPYILS",
+      "album": {
+        "id": "7COC007zP3kwTvSThPYILS",
+        "name": "The Music of King's: Choral Favourites from Cambridge",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8bf602da02f029cc0b6b8c4"
+      },
       "release_date": "2019-03-22",
       "popularity": 46
     },
     {
-      "trackId": "0MGsmLjCtcSye47RvZWhpq",
-      "name": "Mysteriet deg (feat. Lisa Nilsson)",
+      "track": {
+        "id": "0MGsmLjCtcSye47RvZWhpq",
+        "name": "Mysteriet deg (feat. Lisa Nilsson)"
+      },
       "duration_ms": 241000,
-      "artist": [
-        "Bjørn Eidsvåg",
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Bjørn Eidsvåg",
+          "id": "11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "11Vny8qHe4KR50ZIjhz7sz",
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "5AIIeHfqDMUBqLCXZbiWKT",
+      "album": {
+        "id": "5AIIeHfqDMUBqLCXZbiWKT",
+        "name": "Tålt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af134bd21a2786876b7fbd17"
+      },
       "release_date": "2002-04-01",
       "popularity": 42
     },
     {
-      "trackId": "7EK9i00ET9nwBKwj4IWyWS",
-      "name": "Stevtone",
+      "track": {
+        "id": "7EK9i00ET9nwBKwj4IWyWS",
+        "name": "Stevtone"
+      },
       "duration_ms": 316493,
-      "artist": [
-        "Sissel"
+      "artists": [
+        {
+          "name": "Sissel",
+          "id": "2jaOpr7Go1avixlg1lfJOb"
+        }
       ],
-      "artistId": [
-        "2jaOpr7Go1avixlg1lfJOb"
-      ],
-      "albumId": "4P4cNgSXNmcZMB17HRY6F8",
+      "album": {
+        "id": "4P4cNgSXNmcZMB17HRY6F8",
+        "name": "Innerst I Sjelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02196c6a9bc3cf1cc81f97fafb"
+      },
       "release_date": "1994-01-01",
       "popularity": 6
     },
     {
-      "trackId": "5ChkMS8OtdzJeqyybCc9R5",
-      "name": "Billie Jean",
+      "track": {
+        "id": "5ChkMS8OtdzJeqyybCc9R5",
+        "name": "Billie Jean"
+      },
       "duration_ms": 293826,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 84
     },
     {
-      "trackId": "4yWl0tnEanf3zmZzl9kbQn",
-      "name": "Forever Young - Slow Version",
+      "track": {
+        "id": "4yWl0tnEanf3zmZzl9kbQn",
+        "name": "Forever Young - Slow Version"
+      },
       "duration_ms": 296133,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "3gYbjd76d8T5Ct5WxCxX5R",
+      "album": {
+        "id": "3gYbjd76d8T5Ct5WxCxX5R",
+        "name": "Planet Waves",
+        "img": "https://i.scdn.co/image/ab67616d00001e024042ca1eaf2d769794da7930"
+      },
       "release_date": "1974-01-17",
       "popularity": 51
     },
     {
-      "trackId": "2Mz7HwloqFNdA6iZeZk5PJ",
-      "name": "Djobi, Djoba",
+      "track": {
+        "id": "2Mz7HwloqFNdA6iZeZk5PJ",
+        "name": "Djobi, Djoba"
+      },
       "duration_ms": 204240,
-      "artist": [
-        "Gipsy Kings"
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "id": "3jc496ljiyrS3ECrD7QiqL"
+        }
       ],
-      "artistId": [
-        "3jc496ljiyrS3ECrD7QiqL"
-      ],
-      "albumId": "43uh4QoHA259dOUkXte7dl",
+      "album": {
+        "id": "43uh4QoHA259dOUkXte7dl",
+        "name": "Gipsy Kings",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e7cb1429534f0d21133b714"
+      },
       "release_date": "1987-08-24",
       "popularity": 61
     }

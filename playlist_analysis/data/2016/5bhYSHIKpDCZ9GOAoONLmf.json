@@ -7,184 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/07fb493d-bdde-42ab-af83-3ad8b7d2ceec.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6DXLO8LndZMVOHM0wNbpzg",
-      "name": "Danza Kuduro",
+      "track": {
+        "id": "6DXLO8LndZMVOHM0wNbpzg",
+        "name": "Danza Kuduro"
+      },
       "duration_ms": 198786,
-      "artist": [
-        "Don Omar",
-        "Lucenzo"
+      "artists": [
+        {
+          "name": "Don Omar",
+          "id": "33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "id": "5bv5RplEOwdCvhq0EILh9E"
+        }
       ],
-      "artistId": [
-        "33ScadVnbm2X8kkUqOkC6Z",
-        "5bv5RplEOwdCvhq0EILh9E"
-      ],
-      "albumId": "3F41BssbVvfFnh6DdDODeO",
+      "album": {
+        "id": "3F41BssbVvfFnh6DdDODeO",
+        "name": "Meet The Orphans",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d4c273fe23a0950d7ac9fce2"
+      },
       "release_date": "2010-01-01",
       "popularity": 74
     },
     {
-      "trackId": "3fPgIknlkDWXs1l2noKZbp",
-      "name": "Kar Gayi Chull",
+      "track": {
+        "id": "3fPgIknlkDWXs1l2noKZbp",
+        "name": "Kar Gayi Chull"
+      },
       "duration_ms": 187710,
-      "artist": [
-        "Badshah",
-        "Amaal Mallik",
-        "Fazilpuria"
+      "artists": [
+        {
+          "name": "Badshah",
+          "id": "0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Amaal Mallik",
+          "id": "76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Fazilpuria",
+          "id": "4oaJL0V5asQDh4sqplTVhX"
+        }
       ],
-      "artistId": [
-        "0y59o4v8uw5crbN9M3JiL1",
-        "76fuWYgIf3TVIopTs3vaJ6",
-        "4oaJL0V5asQDh4sqplTVhX"
-      ],
-      "albumId": "6peCIjlKHw5WZI7dQ3DkJK",
+      "album": {
+        "id": "6peCIjlKHw5WZI7dQ3DkJK",
+        "name": "The Badshah of Party Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210c94c7cd311738c527ae46f"
+      },
       "release_date": "2017-12-15",
       "popularity": 57
     },
     {
-      "trackId": "7MM8Z18JQLVlEQX83ogXKh",
-      "name": "Kite Tournament",
+      "track": {
+        "id": "7MM8Z18JQLVlEQX83ogXKh",
+        "name": "Kite Tournament"
+      },
       "duration_ms": 340120,
-      "artist": [
-        "The Hollywood Studio Symphony",
-        "Michael Nowak"
+      "artists": [
+        {
+          "name": "The Hollywood Studio Symphony",
+          "id": "7EDsxqvVACibUGGHfMNjyK"
+        },
+        {
+          "name": "Michael Nowak",
+          "id": "7tzSuP6N8WpsyLKIZXTmtB"
+        }
       ],
-      "artistId": [
-        "7EDsxqvVACibUGGHfMNjyK",
-        "7tzSuP6N8WpsyLKIZXTmtB"
-      ],
-      "albumId": "6CFQk5f9oOfYrHNWaUzdTE",
+      "album": {
+        "id": "6CFQk5f9oOfYrHNWaUzdTE",
+        "name": "The Kite Runner",
+        "img": "https://i.scdn.co/image/ab67616d00001e024edf8440bfbb9cb7d7acaf8d"
+      },
       "release_date": "2007-01-01",
       "popularity": 4
     },
     {
-      "trackId": "27SdWb2rFzO6GWiYDBTD9j",
-      "name": "Cheap Thrills",
+      "track": {
+        "id": "27SdWb2rFzO6GWiYDBTD9j",
+        "name": "Cheap Thrills"
+      },
       "duration_ms": 211666,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "77jAfTh3KH9K2reMOmTgOh",
+      "album": {
+        "id": "77jAfTh3KH9K2reMOmTgOh",
+        "name": "This Is Acting",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249e0134c686547c28b7c999f"
+      },
       "release_date": "2016-01-29",
       "popularity": 77
     },
     {
-      "trackId": "1i1fxkWeaMmKEB4T7zqbzK",
-      "name": "Don't Let Me Down",
+      "track": {
+        "id": "1i1fxkWeaMmKEB4T7zqbzK",
+        "name": "Don't Let Me Down"
+      },
       "duration_ms": 208373,
-      "artist": [
-        "The Chainsmokers",
-        "Daya"
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "id": "69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Daya",
+          "id": "6Dd3NScHWwnW6obMFbl1BH"
+        }
       ],
-      "artistId": [
-        "69GGBxA162lTqCwzJG5jLp",
-        "6Dd3NScHWwnW6obMFbl1BH"
-      ],
-      "albumId": "2SByipSK8eZ2pasaIwwzhf",
+      "album": {
+        "id": "2SByipSK8eZ2pasaIwwzhf",
+        "name": "Don't Let Me Down",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df7cddc2d32ef9df762d5a30"
+      },
       "release_date": "2016-02-05",
       "popularity": 79
     },
     {
-      "trackId": "4yXo4rXLWDbqku53M7JyJH",
-      "name": "Opening Titles - From \"The Kite Runner\"",
+      "track": {
+        "id": "4yXo4rXLWDbqku53M7JyJH",
+        "name": "Opening Titles - From \"The Kite Runner\""
+      },
       "duration_ms": 201466,
-      "artist": [
-        "Alberto Iglesias"
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "id": "1HRRbATgv6NPHs7Twm74p2"
+        }
       ],
-      "artistId": [
-        "1HRRbATgv6NPHs7Twm74p2"
-      ],
-      "albumId": "5lDwfgKqImsyePdRgnxVGh",
+      "album": {
+        "id": "5lDwfgKqImsyePdRgnxVGh",
+        "name": "Archipiélago: A Film Music Retrospective",
+        "img": "https://i.scdn.co/image/ab67616d00001e022861eb7628745cbf4f30902d"
+      },
       "release_date": "2016-10-07",
       "popularity": 11
     },
     {
-      "trackId": "1FnthSxiQFOwWjIv5MmBNh",
-      "name": "Barra Barra",
+      "track": {
+        "id": "1FnthSxiQFOwWjIv5MmBNh",
+        "name": "Barra Barra"
+      },
       "duration_ms": 347400,
-      "artist": [
-        "Rachid Taha"
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "id": "2URqJkDiySO0FRiAUq75FV"
+        }
       ],
-      "artistId": [
-        "2URqJkDiySO0FRiAUq75FV"
-      ],
-      "albumId": "3hBjCRF8nbh374xqB66Ojl",
+      "album": {
+        "id": "3hBjCRF8nbh374xqB66Ojl",
+        "name": "Made In Medina",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adf5128f9a5577b2b3cad669"
+      },
       "release_date": "2000-11-07",
       "popularity": 34
     },
     {
-      "trackId": "3uOSz0NLP4LUtRL55cgGKm",
-      "name": "Salaamalek",
+      "track": {
+        "id": "3uOSz0NLP4LUtRL55cgGKm",
+        "name": "Salaamalek"
+      },
       "duration_ms": 288880,
-      "artist": [
-        "Peter Maffay",
-        "Farhad Darya"
+      "artists": [
+        {
+          "name": "Peter Maffay",
+          "id": "5W3s4beu23rOlseCbVOp4l"
+        },
+        {
+          "name": "Farhad Darya",
+          "id": "0mSLPrqEzM3ep1L8iGSod2"
+        }
       ],
-      "artistId": [
-        "5W3s4beu23rOlseCbVOp4l",
-        "0mSLPrqEzM3ep1L8iGSod2"
-      ],
-      "albumId": "4gDlC60gJPYBCSd2qZpmFe",
+      "album": {
+        "id": "4gDlC60gJPYBCSd2qZpmFe",
+        "name": "Begegnungen - Eine Allianz für Kinder",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210e57a5d289d9a175a7f3fe0"
+      },
       "release_date": "2001-01-01",
       "popularity": 9
     },
     {
-      "trackId": "5ChkMS8OtdzJeqyybCc9R5",
-      "name": "Billie Jean",
+      "track": {
+        "id": "5ChkMS8OtdzJeqyybCc9R5",
+        "name": "Billie Jean"
+      },
       "duration_ms": 293826,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 84
     },
     {
-      "trackId": "44eQkbofZeY7rEPnPdobwa",
-      "name": "Do It Again",
+      "track": {
+        "id": "44eQkbofZeY7rEPnPdobwa",
+        "name": "Do It Again"
+      },
       "duration_ms": 306323,
-      "artist": [
-        "Röyksopp",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Röyksopp",
+          "id": "5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "5nPOO9iTcrs9k6yFffPxjH",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "5rgGVO0mjqDYsHQnD4XkJV",
+      "album": {
+        "id": "5rgGVO0mjqDYsHQnD4XkJV",
+        "name": "Do It Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283f481912754558f3b0146df"
+      },
       "release_date": "2014-04-23",
       "popularity": 41
     },
     {
-      "trackId": "2QtxlzvSBONjs1bDC34ixs",
-      "name": "Yeah 3x",
+      "track": {
+        "id": "2QtxlzvSBONjs1bDC34ixs",
+        "name": "Yeah 3x"
+      },
       "duration_ms": 241666,
-      "artist": [
-        "Chris Brown"
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "id": "7bXgB6jMjp9ATFy66eO08Z"
+        }
       ],
-      "artistId": [
-        "7bXgB6jMjp9ATFy66eO08Z"
-      ],
-      "albumId": "6df0qvkMXoyHGt9J8cujZb",
+      "album": {
+        "id": "6df0qvkMXoyHGt9J8cujZb",
+        "name": "F.A.M.E. (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a1d20ec09cab4bb17a36aab"
+      },
       "release_date": "2011-03-22",
       "popularity": 69
     },
     {
-      "trackId": "1WkMMavIMc4JZ8cfMmxHkI",
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "track": {
+        "id": "1WkMMavIMc4JZ8cfMmxHkI",
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")"
+      },
       "duration_ms": 237546,
-      "artist": [
-        "Justin Timberlake"
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "id": "31TPClRtHm23RisEBtV3X7"
+        }
       ],
-      "artistId": [
-        "31TPClRtHm23RisEBtV3X7"
-      ],
-      "albumId": "65ayND23IInUPHJKsaAqe7",
+      "album": {
+        "id": "65ayND23IInUPHJKsaAqe7",
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d965d29d7dcf46ade5a8a7e4"
+      },
       "release_date": "2016-09-23",
       "popularity": 73
     }

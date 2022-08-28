@@ -7,218 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242276_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6pS1WpPC4Sj2u29uqank7K",
-      "name": "Han har öppnat pärleporten",
+      "track": {
+        "id": "6pS1WpPC4Sj2u29uqank7K",
+        "name": "Han har öppnat pärleporten"
+      },
       "duration_ms": 175000,
-      "artist": [
-        "Artur Erikson",
-        "Studio ensemble"
+      "artists": [
+        {
+          "name": "Artur Erikson",
+          "id": "4HspmSf8SAId14Sdad6QJU"
+        },
+        {
+          "name": "Studio ensemble",
+          "id": "1LLaJueP0g0OCbFeZdSpGG"
+        }
       ],
-      "artistId": [
-        "4HspmSf8SAId14Sdad6QJU",
-        "1LLaJueP0g0OCbFeZdSpGG"
-      ],
-      "albumId": "2dFNOUgaDbFqIpUvlJipqR",
+      "album": {
+        "id": "2dFNOUgaDbFqIpUvlJipqR",
+        "name": "Ovan där",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7f43a42e11d146a645fe10f"
+      },
       "release_date": "2011-05-01",
       "popularity": 7
     },
     {
-      "trackId": "34yIb7hw5SuR80au1BHTtt",
-      "name": "Oh Happy Day",
+      "track": {
+        "id": "34yIb7hw5SuR80au1BHTtt",
+        "name": "Oh Happy Day"
+      },
       "duration_ms": 308600,
-      "artist": [
-        "The Edwin Hawkins Singers"
+      "artists": [
+        {
+          "name": "The Edwin Hawkins Singers",
+          "id": "0lEzfSVcNRLDUKdI7fBDD3"
+        }
       ],
-      "artistId": [
-        "0lEzfSVcNRLDUKdI7fBDD3"
-      ],
-      "albumId": "4ZIuHLkXVaiAcEaMWzTKcF",
+      "album": {
+        "id": "4ZIuHLkXVaiAcEaMWzTKcF",
+        "name": "Oh Happy Day: The Best Of The Edwin Hawkins Singers",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234fedb7a05536d8f8da0c0b2"
+      },
       "release_date": "2001-08-07",
       "popularity": 48
     },
     {
-      "trackId": "6eLMsPP3SsJgbKAddXFVsr",
-      "name": "If I Could Help Somebody / A Change Is Gonna Come",
+      "track": {
+        "id": "6eLMsPP3SsJgbKAddXFVsr",
+        "name": "If I Could Help Somebody / A Change Is Gonna Come"
+      },
       "duration_ms": 307640,
-      "artist": [
-        "Titiyo",
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Titiyo",
+          "id": "2s5enJCtVBAAdWD94jOIbM"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "2s5enJCtVBAAdWD94jOIbM",
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "0VjhQC2X2i0MOSC68TjzSL",
+      "album": {
+        "id": "0VjhQC2X2i0MOSC68TjzSL",
+        "name": "För Amnesty",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cac1020b62d2185b1993465c"
+      },
       "release_date": "1998-12-06",
       "popularity": 8
     },
     {
-      "trackId": "3v6aL6pi754XejonR5rNB4",
-      "name": "Blåa berg",
+      "track": {
+        "id": "3v6aL6pi754XejonR5rNB4",
+        "name": "Blåa berg"
+      },
       "duration_ms": 301013,
-      "artist": [
-        "Tomas Andersson Wij"
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "id": "2j8XNrT8TQH4JMeyEMJYfL"
+        }
       ],
-      "artistId": [
-        "2j8XNrT8TQH4JMeyEMJYfL"
-      ],
-      "albumId": "3Y4rgJpTx96M0D741TuZ5d",
+      "album": {
+        "id": "3Y4rgJpTx96M0D741TuZ5d",
+        "name": "Stjärnorna i oss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de8db543188cb17eeff69606"
+      },
       "release_date": "2004-01-28",
       "popularity": 10
     },
     {
-      "trackId": "3WQG1PkTkvJPEZNnQcbfa5",
-      "name": "Underbart är kort",
+      "track": {
+        "id": "3WQG1PkTkvJPEZNnQcbfa5",
+        "name": "Underbart är kort"
+      },
       "duration_ms": 258466,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+      "album": {
+        "id": "7bDYb5Q2xcNgQ2g3u4lYiR",
+        "name": "Den sista jäntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281ddc01043d8abd1e8945194"
+      },
       "release_date": "1973-09-05",
       "popularity": 26
     },
     {
-      "trackId": "7MV8ylzs47bcxolR4xLaD2",
-      "name": "Everyday Is A Winding Road",
+      "track": {
+        "id": "7MV8ylzs47bcxolR4xLaD2",
+        "name": "Everyday Is A Winding Road"
+      },
       "duration_ms": 256826,
-      "artist": [
-        "Sheryl Crow"
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "id": "4TKTii6gnOnUXQHyuo9JaD"
+        }
       ],
-      "artistId": [
-        "4TKTii6gnOnUXQHyuo9JaD"
-      ],
-      "albumId": "3FiplT4vIgWCRwLZSn0EDd",
+      "album": {
+        "id": "3FiplT4vIgWCRwLZSn0EDd",
+        "name": "Sheryl Crow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a192258deb7084638a5f3a47"
+      },
       "release_date": "1996-09-24",
       "popularity": 52
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "79I6CgoOGfGiRFJtXYWZde",
-      "name": "Going Home",
+      "track": {
+        "id": "79I6CgoOGfGiRFJtXYWZde",
+        "name": "Going Home"
+      },
       "duration_ms": 249333,
-      "artist": [
-        "Sophie Zelmani"
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "id": "59hh4MU8JBy0tvPlhz5fzk"
+        }
       ],
-      "artistId": [
-        "59hh4MU8JBy0tvPlhz5fzk"
-      ],
-      "albumId": "2dlqnhq0kBPp9rgEvO5W9P",
+      "album": {
+        "id": "2dlqnhq0kBPp9rgEvO5W9P",
+        "name": "Sing and Dance",
+        "img": "https://i.scdn.co/image/ab67616d00001e026eabf932c470c8aaed6c571c"
+      },
       "release_date": "2002-01-02",
       "popularity": 40
     },
     {
-      "trackId": "5RtowNGRzi71N0vz38qJ8R",
-      "name": "Dansa på min grav",
+      "track": {
+        "id": "5RtowNGRzi71N0vz38qJ8R",
+        "name": "Dansa på min grav"
+      },
       "duration_ms": 219253,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "3Q4wGWDxBeECfA5YhUqHPa",
+      "album": {
+        "id": "3Q4wGWDxBeECfA5YhUqHPa",
+        "name": "Dansa på min grav",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b4e1272ae20c211346fc937"
+      },
       "release_date": "2003-11-19",
       "popularity": 39
     },
     {
-      "trackId": "6H7Nqr577sLFu4rYyLRjZY",
-      "name": "Video",
+      "track": {
+        "id": "6H7Nqr577sLFu4rYyLRjZY",
+        "name": "Video"
+      },
       "duration_ms": 251306,
-      "artist": [
-        "India.Arie"
+      "artists": [
+        {
+          "name": "India.Arie",
+          "id": "7Gf3LSwa5hh8Cjo60WhVjC"
+        }
       ],
-      "artistId": [
-        "7Gf3LSwa5hh8Cjo60WhVjC"
-      ],
-      "albumId": "70qVJL3C0YFpMKO13oFnI5",
+      "album": {
+        "id": "70qVJL3C0YFpMKO13oFnI5",
+        "name": "Jazz Pop",
+        "img": "https://i.scdn.co/image/ab67616d00001e02954bf1e18b4911206a8d0ff4"
+      },
       "release_date": "2019-03-11",
       "popularity": 30
     },
     {
-      "trackId": "7s25THrKz86DM225dOYwnr",
-      "name": "Respect",
+      "track": {
+        "id": "7s25THrKz86DM225dOYwnr",
+        "name": "Respect"
+      },
       "duration_ms": 147600,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+      "album": {
+        "id": "5WndWfzGwCkHzAbQXVkg2V",
+        "name": "I Never Loved a Man the Way I Love You",
+        "img": "https://i.scdn.co/image/ab67616d00001e026aa9314b7ddfbd8f036ba3ac"
+      },
       "release_date": "1967-03-10",
       "popularity": 73
     },
     {
-      "trackId": "1xfALb1OOHUnduOK5OJw04",
-      "name": "Medley: Come See About Me/Baby Love/Stop! In The Name Of Love",
+      "track": {
+        "id": "1xfALb1OOHUnduOK5OJw04",
+        "name": "Medley: Come See About Me/Baby Love/Stop! In The Name Of Love"
+      },
       "duration_ms": 241453,
-      "artist": [
-        "Diana Ross & The Supremes"
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "id": "0rXI0q8Cahq6numvPlloaq"
+        }
       ],
-      "artistId": [
-        "0rXI0q8Cahq6numvPlloaq"
-      ],
-      "albumId": "7aMhHj54HEIgkSP0TJMTz3",
+      "album": {
+        "id": "7aMhHj54HEIgkSP0TJMTz3",
+        "name": "Supreme Rarities: Motown Lost & Found",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eaf4732549b71a62ff81efdb"
+      },
       "release_date": "2004-08-13",
       "popularity": 22
     },
     {
-      "trackId": "6uKsrF9ejNeVy0lZvOQFdp",
-      "name": "Woman Is The Nigger Of The World - Remastered 2010",
+      "track": {
+        "id": "6uKsrF9ejNeVy0lZvOQFdp",
+        "name": "Woman Is The Nigger Of The World - Remastered 2010"
+      },
       "duration_ms": 318746,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "5SgeJIF8MrvVOm86sGN4bK",
+      "album": {
+        "id": "5SgeJIF8MrvVOm86sGN4bK",
+        "name": "Sometime In New York City",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af53cb3e5e088dea0f0b0e8e"
+      },
       "release_date": "1972-06-12",
       "popularity": 35
     },
     {
-      "trackId": "52vA3CYKZqZVdQnzRrdZt6",
-      "name": "The Times They Are A-Changin'",
+      "track": {
+        "id": "52vA3CYKZqZVdQnzRrdZt6",
+        "name": "The Times They Are A-Changin'"
+      },
       "duration_ms": 192053,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "7DZeLXvr9eTVpyI1OlqtcS",
+      "album": {
+        "id": "7DZeLXvr9eTVpyI1OlqtcS",
+        "name": "The Times They Are A-Changin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b812eed53f0d7e134fe446e"
+      },
       "release_date": "1964-01-13",
       "popularity": 66
     },
     {
-      "trackId": "2pMu3lSpl0JVmPK6fnMGs3",
-      "name": "ANNIE LÖÖV",
+      "track": {
+        "id": "2pMu3lSpl0JVmPK6fnMGs3",
+        "name": "ANNIE LÖÖV"
+      },
       "duration_ms": 165455,
-      "artist": [
-        "Abaz"
+      "artists": [
+        {
+          "name": "Abaz",
+          "id": "1uKLkEiZpQPgLZz8WcaTOq"
+        }
       ],
-      "artistId": [
-        "1uKLkEiZpQPgLZz8WcaTOq"
-      ],
-      "albumId": "0rZG2aPQKr8kN6yZgpZ8Ia",
+      "album": {
+        "id": "0rZG2aPQKr8kN6yZgpZ8Ia",
+        "name": "ANNIE LÖÖV",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db666191abce537cccf9cb68"
+      },
       "release_date": "2021-01-29",
       "popularity": 37
     }

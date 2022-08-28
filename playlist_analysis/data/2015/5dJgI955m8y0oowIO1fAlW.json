@@ -7,196 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531082_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "name": "Don't Stop 'Til You Get Enough",
+      "track": {
+        "id": "46eu3SBuFCXWsPT39Yg3tJ",
+        "name": "Don't Stop 'Til You Get Enough"
+      },
       "duration_ms": 365466,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "2ZytN2cY4Zjrr9ukb2rqTP",
+      "album": {
+        "id": "2ZytN2cY4Zjrr9ukb2rqTP",
+        "name": "Off the Wall",
+        "img": "https://i.scdn.co/image/ab67616d00001e027027294551db4fda68b5ddac"
+      },
       "release_date": "1979-08-10",
       "popularity": 75
     },
     {
-      "trackId": "3Cx4yrFaX8CeHwBMReOWXI",
-      "name": "We Didn't Start the Fire",
+      "track": {
+        "id": "3Cx4yrFaX8CeHwBMReOWXI",
+        "name": "We Didn't Start the Fire"
+      },
       "duration_ms": 287733,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "1Vw2uoVkLAJFVViJ1QyK1D",
+      "album": {
+        "id": "1Vw2uoVkLAJFVViJ1QyK1D",
+        "name": "Storm Front",
+        "img": "https://i.scdn.co/image/ab67616d00001e021946747b8692919f98918ec4"
+      },
       "release_date": "1989-10-17",
       "popularity": 75
     },
     {
-      "trackId": "3xvycm0knXlTUj6MmQ3lqs",
-      "name": "Det löser sej",
+      "track": {
+        "id": "3xvycm0knXlTUj6MmQ3lqs",
+        "name": "Det löser sej"
+      },
       "duration_ms": 315453,
-      "artist": [
-        "Timbuktu",
-        "Chords",
-        "Supreme"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Chords",
+          "id": "2s7biycbXw8gmviNBeoCx9"
+        },
+        {
+          "name": "Supreme",
+          "id": "6xCfQZmjn2NAPVai6TcLSW"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe",
-        "2s7biycbXw8gmviNBeoCx9",
-        "6xCfQZmjn2NAPVai6TcLSW"
-      ],
-      "albumId": "3tXuKxDCfmokZIoqzTYAjN",
+      "album": {
+        "id": "3tXuKxDCfmokZIoqzTYAjN",
+        "name": "Alla vill till himmelen men ingen vill dö",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f"
+      },
       "release_date": "2005-06-03",
       "popularity": 48
     },
     {
-      "trackId": "5OQsiBsky2k2kDKy2bX2eT",
-      "name": "Learn to Fly",
+      "track": {
+        "id": "5OQsiBsky2k2kDKy2bX2eT",
+        "name": "Learn to Fly"
+      },
       "duration_ms": 235293,
-      "artist": [
-        "Foo Fighters"
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD"
+        }
       ],
-      "artistId": [
-        "7jy3rLJdDQY21OgRLCZ9sD"
-      ],
-      "albumId": "28q2N44ocJECgf8sbHEDfY",
+      "album": {
+        "id": "28q2N44ocJECgf8sbHEDfY",
+        "name": "There Is Nothing Left To Lose",
+        "img": "https://i.scdn.co/image/ab67616d00001e021759635c92b6314d3d3c9fe9"
+      },
       "release_date": "1999-11-02",
       "popularity": 76
     },
     {
-      "trackId": "5S8EZuiSNFR2N5eG58oISQ",
-      "name": "It Takes A Fool To Remain Sane",
+      "track": {
+        "id": "5S8EZuiSNFR2N5eG58oISQ",
+        "name": "It Takes A Fool To Remain Sane"
+      },
       "duration_ms": 236400,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "4zvEPDfNKoC15SoNOAEkBR",
+      "album": {
+        "id": "4zvEPDfNKoC15SoNOAEkBR",
+        "name": "We Are The Ark",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283391d5d31e98eabefc400fd"
+      },
       "release_date": "2000-09-25",
       "popularity": 52
     },
     {
-      "trackId": "0HU5JnVaKNTWf6GykV9Zn8",
-      "name": "Circle of Life - From \"The Lion King\"/ Soundtrack",
+      "track": {
+        "id": "0HU5JnVaKNTWf6GykV9Zn8",
+        "name": "Circle of Life - From \"The Lion King\"/ Soundtrack"
+      },
       "duration_ms": 239146,
-      "artist": [
-        "Carmen Twillie",
-        "Lebo M."
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "id": "6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "id": "0zp9qNDSeYi3QEodhcKAAA"
+        }
       ],
-      "artistId": [
-        "6O3ZB5Cz5CNT3wQWouKcNJ",
-        "0zp9qNDSeYi3QEodhcKAAA"
-      ],
-      "albumId": "3YA5DdB3wSz4pdfEXoMyRd",
+      "album": {
+        "id": "3YA5DdB3wSz4pdfEXoMyRd",
+        "name": "The Lion King",
+        "img": "https://i.scdn.co/image/ab67616d00001e02660aadbda2da6b1c2dd3d1a5"
+      },
       "release_date": "1994-01-01",
       "popularity": 67
     },
     {
-      "trackId": "32OlwWuMpZ6b0aN2RZOeMS",
-      "name": "Uptown Funk (feat. Bruno Mars)",
+      "track": {
+        "id": "32OlwWuMpZ6b0aN2RZOeMS",
+        "name": "Uptown Funk (feat. Bruno Mars)"
+      },
       "duration_ms": 269666,
-      "artist": [
-        "Mark Ronson",
-        "Bruno Mars"
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "id": "3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "id": "0du5cEVh5yTK9QJze8zA0C"
+        }
       ],
-      "artistId": [
-        "3hv9jJF3adDNsBSIQDqcjp",
-        "0du5cEVh5yTK9QJze8zA0C"
-      ],
-      "albumId": "3vLaOYCNCzngDf8QdBg2V1",
+      "album": {
+        "id": "3vLaOYCNCzngDf8QdBg2V1",
+        "name": "Uptown Special",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e419ccba0baa8bd3f3d7abf2"
+      },
       "release_date": "2015-01-12",
       "popularity": 83
     },
     {
-      "trackId": "0qHLWD2nsNKoWdkhbUZ0tW",
-      "name": "Abzolut - Zlatan-låten",
+      "track": {
+        "id": "0qHLWD2nsNKoWdkhbUZ0tW",
+        "name": "Abzolut - Zlatan-låten"
+      },
       "duration_ms": 176459,
-      "artist": [
-        "Robin Paulsson"
+      "artists": [
+        {
+          "name": "Robin Paulsson",
+          "id": "0ALvvrWK0VatjdBA0AQ2U4"
+        }
       ],
-      "artistId": [
-        "0ALvvrWK0VatjdBA0AQ2U4"
-      ],
-      "albumId": "2zm5O2bPrHbT7KGrQ3aJ5E",
+      "album": {
+        "id": "2zm5O2bPrHbT7KGrQ3aJ5E",
+        "name": "Abzolut (Zlatan-låten)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224ed0ee19f8cd1a3998f2ec8"
+      },
       "release_date": "2016-05-20",
       "popularity": 27
     },
     {
-      "trackId": "5IVuqXILoxVWvWEPm82Jxr",
-      "name": "Crazy In Love (feat. Jay-Z)",
+      "track": {
+        "id": "5IVuqXILoxVWvWEPm82Jxr",
+        "name": "Crazy In Love (feat. Jay-Z)"
+      },
       "duration_ms": 236133,
-      "artist": [
-        "Beyoncé",
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m",
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "6oxVabMIqCMJRYN1GqR3Vf",
+      "album": {
+        "id": "6oxVabMIqCMJRYN1GqR3Vf",
+        "name": "Dangerously In Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245680a4a57c97894490a01c1"
+      },
       "release_date": "2003-06-24",
       "popularity": 76
     },
     {
-      "trackId": "21BYhl07wWqGRQaj7sUxdV",
-      "name": "Heroes",
+      "track": {
+        "id": "21BYhl07wWqGRQaj7sUxdV",
+        "name": "Heroes"
+      },
       "duration_ms": 190613,
-      "artist": [
-        "Måns Zelmerlöw"
+      "artists": [
+        {
+          "name": "Måns Zelmerlöw",
+          "id": "1IxP1g9VrPzJqXFCsuyHKe"
+        }
       ],
-      "artistId": [
-        "1IxP1g9VrPzJqXFCsuyHKe"
-      ],
-      "albumId": "3exSJCMpvgwYqGaYHlZBHI",
+      "album": {
+        "id": "3exSJCMpvgwYqGaYHlZBHI",
+        "name": "Perfectly Damaged",
+        "img": "https://i.scdn.co/image/ab67616d00001e0206ec2336aad6fe911d267b2e"
+      },
       "release_date": "2015-06-03",
       "popularity": 51
     },
     {
-      "trackId": "2eF8pWbiivYsYRpbntYsnc",
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "track": {
+        "id": "2eF8pWbiivYsYRpbntYsnc",
+        "name": "Signed, Sealed, Delivered (I'm Yours)"
+      },
       "duration_ms": 161160,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "54ootLtDyMZFr9obtWQvvO",
+      "album": {
+        "id": "54ootLtDyMZFr9obtWQvvO",
+        "name": "Signed, Sealed And Delivered",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5e9e847ca9c0982b4c91d4b"
+      },
       "release_date": "1970-08-07",
       "popularity": 75
     },
     {
-      "trackId": "6ORqU0bHbVCRjXm9AjyHyZ",
-      "name": "Good Riddance (Time of Your Life)",
+      "track": {
+        "id": "6ORqU0bHbVCRjXm9AjyHyZ",
+        "name": "Good Riddance (Time of Your Life)"
+      },
       "duration_ms": 153466,
-      "artist": [
-        "Green Day"
+      "artists": [
+        {
+          "name": "Green Day",
+          "id": "7oPftvlwr6VrsViSDV7fJY"
+        }
       ],
-      "artistId": [
-        "7oPftvlwr6VrsViSDV7fJY"
-      ],
-      "albumId": "3x2uer6Xh0d5rF8toWpRDA",
+      "album": {
+        "id": "3x2uer6Xh0d5rF8toWpRDA",
+        "name": "Nimrod",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da4f6706ae0f2501c61ce776"
+      },
       "release_date": "1997-10-14",
       "popularity": 76
     },
     {
-      "trackId": "1Ty6h0UNBtWLCHR5rOc3KO",
-      "name": "Ludvig 2020",
+      "track": {
+        "id": "1Ty6h0UNBtWLCHR5rOc3KO",
+        "name": "Ludvig 2020"
+      },
       "duration_ms": 152191,
-      "artist": [
-        "Spesialstyrken",
-        "Effektiv"
+      "artists": [
+        {
+          "name": "Spesialstyrken",
+          "id": "4ge6BVfvTr07o1jau9iNyt"
+        },
+        {
+          "name": "Effektiv",
+          "id": "3QyoJDJ7VKcaULqkBH6fFV"
+        }
       ],
-      "artistId": [
-        "4ge6BVfvTr07o1jau9iNyt",
-        "3QyoJDJ7VKcaULqkBH6fFV"
-      ],
-      "albumId": "4gIRukKoxXOZxPwhjiH52D",
+      "album": {
+        "id": "4gIRukKoxXOZxPwhjiH52D",
+        "name": "Ludvig 2020",
+        "img": "https://i.scdn.co/image/ab67616d00001e02332de59e6c9311a4b1265f97"
+      },
       "release_date": "2020-02-24",
       "popularity": 32
     }

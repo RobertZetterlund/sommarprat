@@ -7,250 +7,362 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3302781_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Vl33JyL3Y9Sb249QMtl3P",
-      "name": "Messiah: The trumpet shall sound",
+      "track": {
+        "id": "2Vl33JyL3Y9Sb249QMtl3P",
+        "name": "Messiah: The trumpet shall sound"
+      },
       "duration_ms": 531440,
-      "artist": [
-        "George Frideric Handel",
-        "Bryn Terfel",
-        "Scottish Chamber Orchestra"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Bryn Terfel",
+          "id": "6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Scottish Chamber Orchestra",
+          "id": "45y5kS0Nhm3v7Do6W5dbcS"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "6ILd69yy67k6OU7cwpGNSl",
-        "45y5kS0Nhm3v7Do6W5dbcS"
-      ],
-      "albumId": "0XuM93cuv9jlFtwmEdtRMp",
+      "album": {
+        "id": "0XuM93cuv9jlFtwmEdtRMp",
+        "name": "Bryn - A night at the opera",
+        "img": "https://i.scdn.co/image/ab67616d00001e027bfb93016d7cd82c3d60a3c1"
+      },
       "release_date": "2000-01-01",
       "popularity": 0
     },
     {
-      "trackId": "2bfRfAO1RNWcpNtWJv042o",
-      "name": "Some Die Young",
+      "track": {
+        "id": "2bfRfAO1RNWcpNtWJv042o",
+        "name": "Some Die Young"
+      },
       "duration_ms": 228066,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "1YqHIqrWx3eopxKFPqjqhT",
+      "album": {
+        "id": "1YqHIqrWx3eopxKFPqjqhT",
+        "name": "Sjung",
+        "img": "https://i.scdn.co/image/ab67616d00001e026494a5592cca561ea52f6541"
+      },
       "release_date": "2012-01-10",
       "popularity": 53
     },
     {
-      "trackId": "6yZH6bNd0Gfvgiwb08Qhhf",
-      "name": "At Last",
+      "track": {
+        "id": "6yZH6bNd0Gfvgiwb08Qhhf",
+        "name": "At Last"
+      },
       "duration_ms": 185200,
-      "artist": [
-        "Glenn Miller Orchestra"
+      "artists": [
+        {
+          "name": "Glenn Miller Orchestra",
+          "id": "6N1ycRllcq7fwHMdeTQD1z"
+        }
       ],
-      "artistId": [
-        "6N1ycRllcq7fwHMdeTQD1z"
-      ],
-      "albumId": "5dq4ttM1ROBuvNxFXgCmYa",
+      "album": {
+        "id": "5dq4ttM1ROBuvNxFXgCmYa",
+        "name": "Glenn Miller Orchestra (2 CD set)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02434793f6473a81ae5f61c6f8"
+      },
       "release_date": "2006-01-01",
       "popularity": 37
     },
     {
-      "trackId": "1iCNdJ0EHqXC3lgbtsccAl",
-      "name": "Turandot / Act 3: \"Nessun dorma!\" - Live",
+      "track": {
+        "id": "1iCNdJ0EHqXC3lgbtsccAl",
+        "name": "Turandot / Act 3: \"Nessun dorma!\" - Live"
+      },
       "duration_ms": 185160,
-      "artist": [
-        "Luciano Pavarotti",
-        "Orchestra Del Teatro Dell'Opera Di Roma",
-        "Orchestra del Maggio Musicale Fiorentino"
+      "artists": [
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
+          "id": "05pJB6sDGej7vpC9V6bjV8"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "id": "0YfVUjHFL0QWCSFRzliCDk"
+        }
       ],
-      "artistId": [
-        "0Y8KmFkKOgJybpVobn1onU",
-        "05pJB6sDGej7vpC9V6bjV8",
-        "0YfVUjHFL0QWCSFRzliCDk"
-      ],
-      "albumId": "4bbeXfo85zoTHamPw7xsUs",
+      "album": {
+        "id": "4bbeXfo85zoTHamPw7xsUs",
+        "name": "The Three Tenors - In Concert - Rome 1990",
+        "img": "https://i.scdn.co/image/ab67616d00001e021260c1ff3e832e490536d706"
+      },
       "release_date": "1990-01-01",
       "popularity": 29
     },
     {
-      "trackId": "3R9LrKCdEcgECnrVFA1Flz",
-      "name": "Cheek to Cheek",
+      "track": {
+        "id": "3R9LrKCdEcgECnrVFA1Flz",
+        "name": "Cheek to Cheek"
+      },
       "duration_ms": 197946,
-      "artist": [
-        "Fred Astaire"
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "id": "4BtDAwCZhR6nPrJtbVgQNX"
+        }
       ],
-      "artistId": [
-        "4BtDAwCZhR6nPrJtbVgQNX"
-      ],
-      "albumId": "5gqHKov9Ax5VB1EvRSu6SS",
+      "album": {
+        "id": "5gqHKov9Ax5VB1EvRSu6SS",
+        "name": "The Great American Songbook",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4f6441f931da771a99dedb6"
+      },
       "release_date": "1932",
       "popularity": 40
     },
     {
-      "trackId": "329ss78X6RxaEa6iN1SsH8",
-      "name": "The Click Song",
+      "track": {
+        "id": "329ss78X6RxaEa6iN1SsH8",
+        "name": "The Click Song"
+      },
       "duration_ms": 153373,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "660kKC1wgzwtHYOn5aza9N",
+      "album": {
+        "id": "660kKC1wgzwtHYOn5aza9N",
+        "name": "The Click Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e022fb4d5946ea2118b443f67ce"
+      },
       "release_date": "1989",
       "popularity": 34
     },
     {
-      "trackId": "57SNUEngomVJnhEB3fgJky",
-      "name": "Så skimrande var aldrig havet",
+      "track": {
+        "id": "57SNUEngomVJnhEB3fgJky",
+        "name": "Så skimrande var aldrig havet"
+      },
       "duration_ms": 158426,
-      "artist": [
-        "Lill Lindfors"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC"
-      ],
-      "albumId": "0l537xeeUQXZAkArjKmb2H",
+      "album": {
+        "id": "0l537xeeUQXZAkArjKmb2H",
+        "name": "Sommar, sommar, sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec33b6331501e4f4fcc2ff1d"
+      },
       "release_date": "1997-01-01",
       "popularity": 26
     },
     {
-      "trackId": "0YbXhXJkiD7Ne8EfRl74bo",
-      "name": "Ta av dej skorna!",
+      "track": {
+        "id": "0YbXhXJkiD7Ne8EfRl74bo",
+        "name": "Ta av dej skorna!"
+      },
       "duration_ms": 322826,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "5ZXVLVt3aBpLtrvwFNnyp1",
+      "album": {
+        "id": "5ZXVLVt3aBpLtrvwFNnyp1",
+        "name": "Ta av dej skorna! Povel Ramel med Gals and Pals och Bengt Hallbergs orkester",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c2fd8a05bdd0426e001c462"
+      },
       "release_date": "1965-01-01",
       "popularity": 30
     },
     {
-      "trackId": "599ugiwVvMvB2Kr9AutGo9",
-      "name": "Cantilena, Op. 78",
+      "track": {
+        "id": "599ugiwVvMvB2Kr9AutGo9",
+        "name": "Cantilena, Op. 78"
+      },
       "duration_ms": 161000,
-      "artist": [
-        "Gunilla von Bahr"
+      "artists": [
+        {
+          "name": "Gunilla von Bahr",
+          "id": "7HqqGfDtYJ4saGL3Kv1gyL"
+        }
       ],
-      "artistId": [
-        "7HqqGfDtYJ4saGL3Kv1gyL"
-      ],
-      "albumId": "4JRvpuMYMHvW61eOx9Gf1o",
+      "album": {
+        "id": "4JRvpuMYMHvW61eOx9Gf1o",
+        "name": "Bahr, Gunilla Von: Solo Flute Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238d6f0cefefe3719c249c5ea"
+      },
       "release_date": "1994-08-31",
       "popularity": 1
     },
     {
-      "trackId": "1WjRkMkNIjVPTleciR0b9v",
-      "name": "Bring Him Home",
+      "track": {
+        "id": "1WjRkMkNIjVPTleciR0b9v",
+        "name": "Bring Him Home"
+      },
       "duration_ms": 217760,
-      "artist": [
-        "Hugh Jackman"
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "id": "5F1aoppMtU3OMiltO8ymJ2"
+        }
       ],
-      "artistId": [
-        "5F1aoppMtU3OMiltO8ymJ2"
-      ],
-      "albumId": "20exLke5P8o4D1Bj4iRcPf",
+      "album": {
+        "id": "20exLke5P8o4D1Bj4iRcPf",
+        "name": "Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02170e79548d280867ef12742b"
+      },
       "release_date": "2013-01-01",
       "popularity": 39
     },
     {
-      "trackId": "7pKfPomDEeI4TPT6EOYjn9",
-      "name": "Imagine - Remastered 2010",
+      "track": {
+        "id": "7pKfPomDEeI4TPT6EOYjn9",
+        "name": "Imagine - Remastered 2010"
+      },
       "duration_ms": 187866,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "0xzaemKucrJpYhyl7TltAk",
+      "album": {
+        "id": "0xzaemKucrJpYhyl7TltAk",
+        "name": "Imagine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc"
+      },
       "release_date": "1971-09-09",
       "popularity": 76
     },
     {
-      "trackId": "1cwCUdTgtE465tn5MG1pZH",
-      "name": "Pastoralsvit, Op. 19: II. Romance",
+      "track": {
+        "id": "1cwCUdTgtE465tn5MG1pZH",
+        "name": "Pastoralsvit, Op. 19: II. Romance"
+      },
       "duration_ms": 256533,
-      "artist": [
-        "Stockholm Symphony Orchestra",
-        "Stig Westerberg"
+      "artists": [
+        {
+          "name": "Stockholm Symphony Orchestra",
+          "id": "6p4W2kj5MAA6YsNvT8y8Hs"
+        },
+        {
+          "name": "Stig Westerberg",
+          "id": "6Bym2eI2jHz3Y4pWz4gddx"
+        }
       ],
-      "artistId": [
-        "6p4W2kj5MAA6YsNvT8y8Hs",
-        "6Bym2eI2jHz3Y4pWz4gddx"
-      ],
-      "albumId": "01gXw4HOFYYttCggCyshyI",
+      "album": {
+        "id": "01gXw4HOFYYttCggCyshyI",
+        "name": "Larsson: Pastoralsvit - En vintersaga - m.fl.",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271908c65dff6ee7a2aac14cf"
+      },
       "release_date": "2000-01-01",
       "popularity": 14
     },
     {
-      "trackId": "0GjEhVFGZW8afUYGChu3Rr",
-      "name": "Dancing Queen",
+      "track": {
+        "id": "0GjEhVFGZW8afUYGChu3Rr",
+        "name": "Dancing Queen"
+      },
       "duration_ms": 230400,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1V6a99EbTTIegOhWoPxYI9",
+      "album": {
+        "id": "1V6a99EbTTIegOhWoPxYI9",
+        "name": "Arrival",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0"
+      },
       "release_date": "1976",
       "popularity": 83
     },
     {
-      "trackId": "3ebBcuQYAGu52KvJMHAbAZ",
-      "name": "Panis Angelicus",
+      "track": {
+        "id": "3ebBcuQYAGu52KvJMHAbAZ",
+        "name": "Panis Angelicus"
+      },
       "duration_ms": 251103,
-      "artist": [
-        "Karl-Magnus Fredriksson"
+      "artists": [
+        {
+          "name": "Karl-Magnus Fredriksson",
+          "id": "1umSzpI0uiXZDaHpoY7V6w"
+        }
       ],
-      "artistId": [
-        "1umSzpI0uiXZDaHpoY7V6w"
-      ],
-      "albumId": "2bBNLfp6CgpSzRdxqyGv5H",
+      "album": {
+        "id": "2bBNLfp6CgpSzRdxqyGv5H",
+        "name": "Det är något bortom bergen",
+        "img": "https://i.scdn.co/image/ab67616d00001e025671f9fbc95017633f76e4e5"
+      },
       "release_date": "2014-07-05",
       "popularity": 0
     },
     {
-      "trackId": "2tynvqxN7IRULkpZQZg470",
-      "name": "Camilla - Swedish Version",
+      "track": {
+        "id": "2tynvqxN7IRULkpZQZg470",
+        "name": "Camilla - Swedish Version"
+      },
       "duration_ms": 202706,
-      "artist": [
-        "Basshunter"
+      "artists": [
+        {
+          "name": "Basshunter",
+          "id": "37DdwREpvvQHmGLFEZ4h0Q"
+        }
       ],
-      "artistId": [
-        "37DdwREpvvQHmGLFEZ4h0Q"
-      ],
-      "albumId": "4VfnvH6ujgzbRPHHaOTSIl",
+      "album": {
+        "id": "4VfnvH6ujgzbRPHHaOTSIl",
+        "name": "Bass Generation (UK Remix Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c99edabfaebbd3ec2cf3fd90"
+      },
       "release_date": "2009-09-28",
       "popularity": 42
     },
     {
-      "trackId": "6MW4ahXNEHaIUZ2cdSaslK",
-      "name": "We Got the Power",
+      "track": {
+        "id": "6MW4ahXNEHaIUZ2cdSaslK",
+        "name": "We Got the Power"
+      },
       "duration_ms": 207506,
-      "artist": [
-        "Loreen"
+      "artists": [
+        {
+          "name": "Loreen",
+          "id": "49aaHxvAJ0tCh0F15OnwIl"
+        }
       ],
-      "artistId": [
-        "49aaHxvAJ0tCh0F15OnwIl"
-      ],
-      "albumId": "7FySrxbb8xtskFg9XbLPc4",
+      "album": {
+        "id": "7FySrxbb8xtskFg9XbLPc4",
+        "name": "Heal (2013 Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020d43f1a9c16e5501c5c5a456"
+      },
       "release_date": "2013-05-31",
       "popularity": 33
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

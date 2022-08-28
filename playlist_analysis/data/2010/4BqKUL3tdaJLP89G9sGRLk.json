@@ -7,256 +7,374 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3236166_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4piCdOTBDpa7vfnGsVsI4C",
-      "name": "Creole Love Call",
+      "track": {
+        "id": "4piCdOTBDpa7vfnGsVsI4C",
+        "name": "Creole Love Call"
+      },
       "duration_ms": 226283,
-      "artist": [
-        "Duke Ellington"
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "id": "4F7Q5NV6h5TSwCainz8S5A"
+        }
       ],
-      "artistId": [
-        "4F7Q5NV6h5TSwCainz8S5A"
-      ],
-      "albumId": "4iYz6htNriFtdpgqZNDWSW",
+      "album": {
+        "id": "4iYz6htNriFtdpgqZNDWSW",
+        "name": "The Duke (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a80866baf3ecb885bf3904f7"
+      },
       "release_date": "2014-07-29",
       "popularity": 28
     },
     {
-      "trackId": "0byKxBrjU1dhfgkt6rkKln",
-      "name": "Rhythm Is Our Business",
+      "track": {
+        "id": "0byKxBrjU1dhfgkt6rkKln",
+        "name": "Rhythm Is Our Business"
+      },
       "duration_ms": 194466,
-      "artist": [
-        "Willie \"The Lion\" Smith"
+      "artists": [
+        {
+          "name": "Willie \"The Lion\" Smith",
+          "id": "037Qf6TiWsliaE0UuQB07S"
+        }
       ],
-      "artistId": [
-        "037Qf6TiWsliaE0UuQB07S"
-      ],
-      "albumId": "5VZ8XbU1gQBCpDBQTd4x4Z",
+      "album": {
+        "id": "5VZ8XbU1gQBCpDBQTd4x4Z",
+        "name": "Willie Smith: Alto Sax All-Time Great",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fbd095af9fa1b6f5d0fe8b3c"
+      },
       "release_date": "2020-06-19",
       "popularity": 0
     },
     {
-      "trackId": "0wJoRiX5K5BxlqZTolB2LD",
-      "name": "Purple Haze",
+      "track": {
+        "id": "0wJoRiX5K5BxlqZTolB2LD",
+        "name": "Purple Haze"
+      },
       "duration_ms": 170813,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "7rSZXXHHvIhF4yUFdaOCy9",
+      "album": {
+        "id": "7rSZXXHHvIhF4yUFdaOCy9",
+        "name": "Are You Experienced",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040"
+      },
       "release_date": "1967-05-12",
       "popularity": 70
     },
     {
-      "trackId": "2dDywRMkoveHyYpYBDUF2R",
-      "name": "Mama's Gone, Good Bye",
+      "track": {
+        "id": "2dDywRMkoveHyYpYBDUF2R",
+        "name": "Mama's Gone, Good Bye"
+      },
       "duration_ms": 162783,
-      "artist": [
-        "Bobby Hackett",
-        "Jack Teagarden"
+      "artists": [
+        {
+          "name": "Bobby Hackett",
+          "id": "5Wx29PEKBUtWOiTA3kOOXq"
+        },
+        {
+          "name": "Jack Teagarden",
+          "id": "3okiREk3dV4F8BmK7cpEJf"
+        }
       ],
-      "artistId": [
-        "5Wx29PEKBUtWOiTA3kOOXq",
-        "3okiREk3dV4F8BmK7cpEJf"
-      ],
-      "albumId": "2bbjhK11nsG5xyfJ5XLgTr",
+      "album": {
+        "id": "2bbjhK11nsG5xyfJ5XLgTr",
+        "name": "Baby, Won't You Please Come Home",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cd70801fcee8d65e5f05b5d"
+      },
       "release_date": "2017-11-14",
       "popularity": 18
     },
     {
-      "trackId": "6hpmTwgNCz81H2bFEREx29",
-      "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2",
+      "track": {
+        "id": "6hpmTwgNCz81H2bFEREx29",
+        "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2"
+      },
       "duration_ms": 318800,
-      "artist": [
-        "James Brown",
-        "The Original J.B.s"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "The Original J.B.s",
+          "id": "4GwjLszGqU37HqCgpBNPoU"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW",
-        "4GwjLszGqU37HqCgpBNPoU"
-      ],
-      "albumId": "2qHJQ1SqVTUfN93ovRHjZc",
+      "album": {
+        "id": "2qHJQ1SqVTUfN93ovRHjZc",
+        "name": "70's Funk Classics",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b9094895b623e3a0dbbc583e"
+      },
       "release_date": "1995-04-16",
       "popularity": 57
     },
     {
-      "trackId": "79QByJn6Hp4A677VMSJszm",
-      "name": "Country",
+      "track": {
+        "id": "79QByJn6Hp4A677VMSJszm",
+        "name": "Country"
+      },
       "duration_ms": 300706,
-      "artist": [
-        "Keith Jarrett",
-        "Jan Garbarek",
-        "Palle Danielsson"
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "id": "0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Jan Garbarek",
+          "id": "7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Palle Danielsson",
+          "id": "7CyW7K2UrpjUNLVV698wvJ"
+        }
       ],
-      "artistId": [
-        "0F3Aew9DSd6fb6192K1K0Y",
-        "7MEyCD4G0Zl6kmikEAZsym",
-        "7CyW7K2UrpjUNLVV698wvJ"
-      ],
-      "albumId": "6ID17PzjagQlFsc1KFha5v",
+      "album": {
+        "id": "6ID17PzjagQlFsc1KFha5v",
+        "name": "My Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab"
+      },
       "release_date": "1978-06-01",
       "popularity": 41
     },
     {
-      "trackId": "5sFPpZiwy8NsbAPdXP2SmF",
-      "name": "A Child Is Born - Remixed & Remastered 1994",
+      "track": {
+        "id": "5sFPpZiwy8NsbAPdXP2SmF",
+        "name": "A Child Is Born - Remixed & Remastered 1994"
+      },
       "duration_ms": 246466,
-      "artist": [
-        "Thad Jones",
-        "Mel Lewis"
+      "artists": [
+        {
+          "name": "Thad Jones",
+          "id": "6DbqS0X8cSFOPGsvyze2yh"
+        },
+        {
+          "name": "Mel Lewis",
+          "id": "6tWRPRLzfmckBpyR8g4Nnw"
+        }
       ],
-      "artistId": [
-        "6DbqS0X8cSFOPGsvyze2yh",
-        "6tWRPRLzfmckBpyR8g4Nnw"
-      ],
-      "albumId": "1riicZxbKmxTZh293GsSYB",
+      "album": {
+        "id": "1riicZxbKmxTZh293GsSYB",
+        "name": "Consummation",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9edda1eb17b6a90ead06d70"
+      },
       "release_date": "1970-01-01",
       "popularity": 22
     },
     {
-      "trackId": "5V4X4LDfg2GGFglVzaKpVo",
-      "name": "Kibera Sunrise",
+      "track": {
+        "id": "5V4X4LDfg2GGFglVzaKpVo",
+        "name": "Kibera Sunrise"
+      },
       "duration_ms": 79880,
-      "artist": [
-        "Nils Landgren Funk Unit"
+      "artists": [
+        {
+          "name": "Nils Landgren Funk Unit",
+          "id": "3vHrEnwmDYlaScgAiZbnz0"
+        }
       ],
-      "artistId": [
-        "3vHrEnwmDYlaScgAiZbnz0"
-      ],
-      "albumId": "2PbmDLYB75vcS0huv8cIR5",
+      "album": {
+        "id": "2PbmDLYB75vcS0huv8cIR5",
+        "name": "Funk for Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e02666f5bbca4a5853a7a7753c6"
+      },
       "release_date": "2010-01-22",
       "popularity": 3
     },
     {
-      "trackId": "5bBIXhATfpBogoukoXPg6R",
-      "name": "Funk for Life",
+      "track": {
+        "id": "5bBIXhATfpBogoukoXPg6R",
+        "name": "Funk for Life"
+      },
       "duration_ms": 292053,
-      "artist": [
-        "Nils Landgren Funk Unit"
+      "artists": [
+        {
+          "name": "Nils Landgren Funk Unit",
+          "id": "3vHrEnwmDYlaScgAiZbnz0"
+        }
       ],
-      "artistId": [
-        "3vHrEnwmDYlaScgAiZbnz0"
-      ],
-      "albumId": "2PbmDLYB75vcS0huv8cIR5",
+      "album": {
+        "id": "2PbmDLYB75vcS0huv8cIR5",
+        "name": "Funk for Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e02666f5bbca4a5853a7a7753c6"
+      },
       "release_date": "2010-01-22",
       "popularity": 17
     },
     {
-      "trackId": "5CW96C88BaJm1A4wv8UJlF",
-      "name": "VÄRMLAND",
+      "track": {
+        "id": "5CW96C88BaJm1A4wv8UJlF",
+        "name": "VÄRMLAND"
+      },
       "duration_ms": 291328,
-      "artist": [
-        "Bengt Nilsson",
-        "Fredrik Nordh"
+      "artists": [
+        {
+          "name": "Bengt Nilsson",
+          "id": "4HIU8YIiY8lDjPBOgE6NeT"
+        },
+        {
+          "name": "Fredrik Nordh",
+          "id": "4rNeaOmi0vavqVFPLyJiGI"
+        }
       ],
-      "artistId": [
-        "4HIU8YIiY8lDjPBOgE6NeT",
-        "4rNeaOmi0vavqVFPLyJiGI"
-      ],
-      "albumId": "2eTiqCEmv363axgMbJKW3T",
+      "album": {
+        "id": "2eTiqCEmv363axgMbJKW3T",
+        "name": "VÄRMLAND",
+        "img": "https://i.scdn.co/image/ab67616d00001e020c6443ac87cb64b066fbcf2b"
+      },
       "release_date": "2021-05-19",
       "popularity": 32
     },
     {
-      "trackId": "0dPA0IEjHKMKDlHTS4tY9g",
-      "name": "Was That All It Was - Def Mix Edit 2",
+      "track": {
+        "id": "0dPA0IEjHKMKDlHTS4tY9g",
+        "name": "Was That All It Was - Def Mix Edit 2"
+      },
       "duration_ms": 339146,
-      "artist": [
-        "Kym Mazelle"
+      "artists": [
+        {
+          "name": "Kym Mazelle",
+          "id": "7CgweQAq49HmeMQaxzyuXC"
+        }
       ],
-      "artistId": [
-        "7CgweQAq49HmeMQaxzyuXC"
-      ],
-      "albumId": "16GqsaJujQk5DxtPVh8NWh",
+      "album": {
+        "id": "16GqsaJujQk5DxtPVh8NWh",
+        "name": "Brilliant!!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02589976cd391c315447628bdd"
+      },
       "release_date": "1991-06-10",
       "popularity": 29
     },
     {
-      "trackId": "4CWUGKyUi4aJOq7tF6HAIF",
-      "name": "Street Life",
+      "track": {
+        "id": "4CWUGKyUi4aJOq7tF6HAIF",
+        "name": "Street Life"
+      },
       "duration_ms": 256613,
-      "artist": [
-        "Randy Crawford"
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "id": "1twC2fwPG5FkvYcMpVBQRz"
+        }
       ],
-      "artistId": [
-        "1twC2fwPG5FkvYcMpVBQRz"
-      ],
-      "albumId": "1f0FdT3X5hFNDNj39v4Km8",
+      "album": {
+        "id": "1f0FdT3X5hFNDNj39v4Km8",
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c07df3b0ae16c214ecd796e3"
+      },
       "release_date": "1997-12-09",
       "popularity": 58
     },
     {
-      "trackId": "3Um9toULmYFGCpvaIPFw7l",
-      "name": "What's Going On",
+      "track": {
+        "id": "3Um9toULmYFGCpvaIPFw7l",
+        "name": "What's Going On"
+      },
       "duration_ms": 233000,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "album": {
+        "id": "2v6ANhWhZBUKkg6pJJBs3B",
+        "name": "What's Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
+      },
       "release_date": "1971-05-21",
       "popularity": 69
     },
     {
-      "trackId": "0P0lgWxM39ZSJE3u9nsikD",
-      "name": "Monicas vals",
+      "track": {
+        "id": "0P0lgWxM39ZSJE3u9nsikD",
+        "name": "Monicas vals"
+      },
       "duration_ms": 167440,
-      "artist": [
-        "Monica Zetterlund",
-        "Bill Evans"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "id": "4jXfFzeP66Zy67HM2mvIIF"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD",
-        "4jXfFzeP66Zy67HM2mvIIF"
-      ],
-      "albumId": "5jMKNvYYHH08quqLK3ylTC",
+      "album": {
+        "id": "5jMKNvYYHH08quqLK3ylTC",
+        "name": "Waltz For Debby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4e6d8633c7f37f127d66f8e"
+      },
       "release_date": "1964-12-01",
       "popularity": 36
     },
     {
-      "trackId": "4ptO41BdY0OCJqyXLdhOp4",
-      "name": "Den blomstertid nu kommer",
+      "track": {
+        "id": "4ptO41BdY0OCJqyXLdhOp4",
+        "name": "Den blomstertid nu kommer"
+      },
       "duration_ms": 238986,
-      "artist": [
-        "Lill Lindfors"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC"
-      ],
-      "albumId": "1WwTsHIAVymyX6M1dxTn5K",
+      "album": {
+        "id": "1WwTsHIAVymyX6M1dxTn5K",
+        "name": "Jag vill nå dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e028153ffca1f883bf28ecf1a2e"
+      },
       "release_date": "1984",
       "popularity": 21
     },
     {
-      "trackId": "25H0Wd1ugPRXGM2LlpjVXM",
-      "name": "Summertime",
+      "track": {
+        "id": "25H0Wd1ugPRXGM2LlpjVXM",
+        "name": "Summertime"
+      },
       "duration_ms": 197426,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "5TZUz4IkdUZY8i1cnbaAHz",
+      "album": {
+        "id": "5TZUz4IkdUZY8i1cnbaAHz",
+        "name": "Porgy And Bess",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d7683097cc1f201aa935d39"
+      },
       "release_date": "1959",
       "popularity": 40
     },
     {
-      "trackId": "7l5dOVtDTmU4QgxBqRhVpu",
-      "name": "Get Here",
+      "track": {
+        "id": "7l5dOVtDTmU4QgxBqRhVpu",
+        "name": "Get Here"
+      },
       "duration_ms": 262693,
-      "artist": [
-        "Nils Landgren",
-        "Johan Norberg"
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "id": "6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Johan Norberg",
+          "id": "2awA1B7HXmbpuyMEJQkEyr"
+        }
       ],
-      "artistId": [
-        "6B3ZWSop1mrJd71rwFozVP",
-        "2awA1B7HXmbpuyMEJQkEyr"
-      ],
-      "albumId": "7EewtG1R1xGKYiSwzgwOkz",
+      "album": {
+        "id": "7EewtG1R1xGKYiSwzgwOkz",
+        "name": "Chapter Two/2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253e730a8e698b69435793540"
+      },
       "release_date": "1994",
       "popularity": 25
     }

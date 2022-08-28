@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/20b843b9-763c-470d-b019-7a9183511927.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4fhLBWSTK9UeGiDQST7bxP",
-      "name": "Rus",
+      "track": {
+        "id": "4fhLBWSTK9UeGiDQST7bxP",
+        "name": "Rus"
+      },
       "duration_ms": 241413,
-      "artist": [
-        "Lill Lindfors"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC"
-      ],
-      "albumId": "6b2z08kxYygJqjvcN9MA9Q",
+      "album": {
+        "id": "6b2z08kxYygJqjvcN9MA9Q",
+        "name": "Du är det varmaste jag har",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222589f48817dc13a06d609b8"
+      },
       "release_date": "1990",
       "popularity": 38
     },
     {
-      "trackId": "49qAhKRT3AHnZ8OOpeCic7",
-      "name": "La Confession",
+      "track": {
+        "id": "49qAhKRT3AHnZ8OOpeCic7",
+        "name": "La Confession"
+      },
       "duration_ms": 225480,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "45GGSs0jmsNbIAesZ1Rkwp",
+      "album": {
+        "id": "45GGSs0jmsNbIAesZ1Rkwp",
+        "name": "The Living Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfee69e0b4938bfff2219b8f"
+      },
       "release_date": "2003-10-22",
       "popularity": 33
     },
     {
-      "trackId": "5uG8argAmShAXDIjSdM0uG",
-      "name": "Carey",
+      "track": {
+        "id": "5uG8argAmShAXDIjSdM0uG",
+        "name": "Carey"
+      },
       "duration_ms": 187110,
-      "artist": [
-        "Piano Project"
+      "artists": [
+        {
+          "name": "Piano Project",
+          "id": "0sOfFTIMocxq5mPB8SFLHn"
+        }
       ],
-      "artistId": [
-        "0sOfFTIMocxq5mPB8SFLHn"
-      ],
-      "albumId": "5kLPnzPxClCmU5XGcye7Lz",
+      "album": {
+        "id": "5kLPnzPxClCmU5XGcye7Lz",
+        "name": "Piano Renditions of Joni Mitchell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c411d6d5a1d50722681a6520"
+      },
       "release_date": "2021-06-11",
       "popularity": 3
     },
     {
-      "trackId": "2OHym1q6nzgtT75UCNjjro",
-      "name": "Spending My Time",
+      "track": {
+        "id": "2OHym1q6nzgtT75UCNjjro",
+        "name": "Spending My Time"
+      },
       "duration_ms": 275666,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "5WVNP6IBwMSULc0wehXW8N",
+      "album": {
+        "id": "5WVNP6IBwMSULc0wehXW8N",
+        "name": "Joyride (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f8706e78f75327a99b57607"
+      },
       "release_date": "1991-04-02",
       "popularity": 66
     },
     {
-      "trackId": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
+      "track": {
+        "id": "0wrWxW18WK2MkrfDpRHkyh",
+        "name": "Me and the Devil"
+      },
       "duration_ms": 185000,
-      "artist": [
-        "Soap&Skin"
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "id": "2mAYpnSe3g2Y22JcZ2ddku"
+        }
       ],
-      "artistId": [
-        "2mAYpnSe3g2Y22JcZ2ddku"
-      ],
-      "albumId": "5yuGLsbL0XTjON5tewyApa",
+      "album": {
+        "id": "5yuGLsbL0XTjON5tewyApa",
+        "name": "Sugarbread",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d0104a5eaddc32bb0a7824"
+      },
       "release_date": "2013-03-11",
       "popularity": 55
     },
     {
-      "trackId": "5nrmGFJ87crVoJF5xdRqwn",
-      "name": "Waterloo Sunset - Mono Mix",
+      "track": {
+        "id": "5nrmGFJ87crVoJF5xdRqwn",
+        "name": "Waterloo Sunset - Mono Mix"
+      },
       "duration_ms": 194216,
-      "artist": [
-        "The Kinks"
+      "artists": [
+        {
+          "name": "The Kinks",
+          "id": "1SQRv42e4PjEYfPhS0Tk9E"
+        }
       ],
-      "artistId": [
-        "1SQRv42e4PjEYfPhS0Tk9E"
-      ],
-      "albumId": "5ktMgVAJtsv4HagfFliWpR",
+      "album": {
+        "id": "5ktMgVAJtsv4HagfFliWpR",
+        "name": "Something Else (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e8ad2c568fb819d76717ca2"
+      },
       "release_date": "1967-09-15",
       "popularity": 63
     },
     {
-      "trackId": "7EoJoyxOcaWozxiXHCXkJX",
-      "name": "The Galway Set - The Galway Bay Hornpipe",
+      "track": {
+        "id": "7EoJoyxOcaWozxiXHCXkJX",
+        "name": "The Galway Set - The Galway Bay Hornpipe"
+      },
       "duration_ms": 180800,
-      "artist": [
-        "Jordi Savall",
-        "Andrew Lawrence-King"
+      "artists": [
+        {
+          "name": "Jordi Savall",
+          "id": "3faEZMpTmZFXpELU1EwWNL"
+        },
+        {
+          "name": "Andrew Lawrence-King",
+          "id": "3IaOjT4uvherNQzpFMKiEu"
+        }
       ],
-      "artistId": [
-        "3faEZMpTmZFXpELU1EwWNL",
-        "3IaOjT4uvherNQzpFMKiEu"
-      ],
-      "albumId": "2AkgnEjbXusbaCr35v487M",
+      "album": {
+        "id": "2AkgnEjbXusbaCr35v487M",
+        "name": "The Celtic Viol II",
+        "img": "https://i.scdn.co/image/ab67616d00001e02688e0b17190cf9980886dcad"
+      },
       "release_date": "2010-11-02",
       "popularity": 12
     },
     {
-      "trackId": "0sRLayf14a1VlMHy70wMQO",
-      "name": "En Méditerranée",
+      "track": {
+        "id": "0sRLayf14a1VlMHy70wMQO",
+        "name": "En Méditerranée"
+      },
       "duration_ms": 204786,
-      "artist": [
-        "Georges Moustaki"
+      "artists": [
+        {
+          "name": "Georges Moustaki",
+          "id": "0P4PF0pSB8hBeL1keuPwdG"
+        }
       ],
-      "artistId": [
-        "0P4PF0pSB8hBeL1keuPwdG"
-      ],
-      "albumId": "2H3ILvXeVtdhz5Xt2zlrdc",
+      "album": {
+        "id": "2H3ILvXeVtdhz5Xt2zlrdc",
+        "name": "Ballades en Balade - Racines et Errances",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224fe8ae58cf74aac388da524"
+      },
       "release_date": "1989-08-09",
       "popularity": 18
     },
     {
-      "trackId": "1X8rypyFMBJSXErs3tivtc",
-      "name": "Min plass",
+      "track": {
+        "id": "1X8rypyFMBJSXErs3tivtc",
+        "name": "Min plass"
+      },
       "duration_ms": 212948,
-      "artist": [
-        "Valkyrien Allstars"
+      "artists": [
+        {
+          "name": "Valkyrien Allstars",
+          "id": "4E1kp6gNDweuoJ7UIrTbgU"
+        }
       ],
-      "artistId": [
-        "4E1kp6gNDweuoJ7UIrTbgU"
-      ],
-      "albumId": "1MZq9C3aeHxOmrSXbNibBF",
+      "album": {
+        "id": "1MZq9C3aeHxOmrSXbNibBF",
+        "name": "Farvel slekt og venner",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ebb920f33161cbba7d1b1b59"
+      },
       "release_date": "2014-10-10",
       "popularity": 12
     },
     {
-      "trackId": "5GHY1DFWKz3Prg2V0Iodqo",
-      "name": "Nothing Compares 2 U",
+      "track": {
+        "id": "5GHY1DFWKz3Prg2V0Iodqo",
+        "name": "Nothing Compares 2 U"
+      },
       "duration_ms": 280040,
-      "artist": [
-        "Sinéad O'Connor"
+      "artists": [
+        {
+          "name": "Sinéad O'Connor",
+          "id": "4sD9znwiVFx9cgRPZ42aQ1"
+        }
       ],
-      "artistId": [
-        "4sD9znwiVFx9cgRPZ42aQ1"
-      ],
-      "albumId": "0fV9DAddjwNZcmCP1Q8b01",
+      "album": {
+        "id": "0fV9DAddjwNZcmCP1Q8b01",
+        "name": "I Do Not Want What I Haven't Got",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f27597d6dd8dfd35d4c61b50"
+      },
       "release_date": "1990-07-01",
       "popularity": 71
     },
     {
-      "trackId": "7gjw30LK6nGtPs1eNpBDlO",
-      "name": "SNöLEJONINNA (snow lioness) – Bonus Track",
+      "track": {
+        "id": "7gjw30LK6nGtPs1eNpBDlO",
+        "name": "SNöLEJONINNA (snow lioness) – Bonus Track"
+      },
       "duration_ms": 211029,
-      "artist": [
-        "Sofia Jannok"
+      "artists": [
+        {
+          "name": "Sofia Jannok",
+          "id": "61GJGvVkImL0wkfUQ5XuR8"
+        }
       ],
-      "artistId": [
-        "61GJGvVkImL0wkfUQ5XuR8"
-      ],
-      "albumId": "69wOjfSUPqUFoNvhufYCkk",
+      "album": {
+        "id": "69wOjfSUPqUFoNvhufYCkk",
+        "name": "ORDA - This Is My Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e023777eefc862e0def35536b46"
+      },
       "release_date": "2016-04-08",
       "popularity": 22
     },
     {
-      "trackId": "1FjCky7DWBsarpj9NAw49D",
-      "name": "Where The Rivers Meet",
+      "track": {
+        "id": "1FjCky7DWBsarpj9NAw49D",
+        "name": "Where The Rivers Meet"
+      },
       "duration_ms": 421773,
-      "artist": [
-        "Jan Garbarek"
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "id": "7MEyCD4G0Zl6kmikEAZsym"
+        }
       ],
-      "artistId": [
-        "7MEyCD4G0Zl6kmikEAZsym"
-      ],
-      "albumId": "60hubjc64OMNjJce1ckuZ7",
+      "album": {
+        "id": "60hubjc64OMNjJce1ckuZ7",
+        "name": "Rites",
+        "img": "https://i.scdn.co/image/ab67616d00001e02336e935dc0b7aabe2c582071"
+      },
       "release_date": "1998-10-05",
       "popularity": 19
     },
     {
-      "trackId": "2ihLzOOhbP7war6Zd2pLts",
-      "name": "Poetic",
+      "track": {
+        "id": "2ihLzOOhbP7war6Zd2pLts",
+        "name": "Poetic"
+      },
       "duration_ms": 182759,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 42
     }

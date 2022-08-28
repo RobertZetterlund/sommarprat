@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/6b2cb431-feef-4e55-b178-6a68bd41cb42.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6Sy9BUbgFse0n0LPA5lwy5",
-      "name": "Sandstorm",
+      "track": {
+        "id": "6Sy9BUbgFse0n0LPA5lwy5",
+        "name": "Sandstorm"
+      },
       "duration_ms": 225493,
-      "artist": [
-        "Darude"
+      "artists": [
+        {
+          "name": "Darude",
+          "id": "0LhHRmSd1EYM5QdNeNnCoQ"
+        }
       ],
-      "artistId": [
-        "0LhHRmSd1EYM5QdNeNnCoQ"
-      ],
-      "albumId": "0Xks5v0dve8Gh2tRHIekjo",
+      "album": {
+        "id": "0Xks5v0dve8Gh2tRHIekjo",
+        "name": "Before the Storm, Special Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9ef39657ba18c612641ee6d"
+      },
       "release_date": "2001-01-01",
       "popularity": 70
     },
     {
-      "trackId": "5Z3GHaZ6ec9bsiI5BenrbY",
-      "name": "Young Dumb & Broke",
+      "track": {
+        "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+        "name": "Young Dumb & Broke"
+      },
       "duration_ms": 202546,
-      "artist": [
-        "Khalid"
+      "artists": [
+        {
+          "name": "Khalid",
+          "id": "6LuN9FCkKOj5PcnpouEgny"
+        }
       ],
-      "artistId": [
-        "6LuN9FCkKOj5PcnpouEgny"
-      ],
-      "albumId": "6kf46HbnYCZzP6rjvQHYzg",
+      "album": {
+        "id": "6kf46HbnYCZzP6rjvQHYzg",
+        "name": "American Teen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02988ede5e1276e758b5f9e577"
+      },
       "release_date": "2017-04-27",
       "popularity": 80
     },
     {
-      "trackId": "3XrvEifl0hIzgBGUa5jBLS",
-      "name": "Grindin'",
+      "track": {
+        "id": "3XrvEifl0hIzgBGUa5jBLS",
+        "name": "Grindin'"
+      },
       "duration_ms": 264760,
-      "artist": [
-        "Clipse"
+      "artists": [
+        {
+          "name": "Clipse",
+          "id": "2J257euzcjnDLipsyJH3F2"
+        }
       ],
-      "artistId": [
-        "2J257euzcjnDLipsyJH3F2"
-      ],
-      "albumId": "1Q83nQO2QG81TVa10hW7LX",
+      "album": {
+        "id": "1Q83nQO2QG81TVa10hW7LX",
+        "name": "Lord Willin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295bf7f7dac7b61a95d47f07e"
+      },
       "release_date": "2002-04-01",
       "popularity": 58
     },
     {
-      "trackId": "2UT3iEU7uQAXNUxCKfiZAj",
-      "name": "Dancing on My Own",
+      "track": {
+        "id": "2UT3iEU7uQAXNUxCKfiZAj",
+        "name": "Dancing on My Own"
+      },
       "duration_ms": 288670,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0uQvFZsNoC7MZpcZZLtlYs",
+      "album": {
+        "id": "0uQvFZsNoC7MZpcZZLtlYs",
+        "name": "Body Talk, Pt.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a9b4d6c5fb4461ed90c200a"
+      },
       "release_date": "2010-01-01",
       "popularity": 55
     },
     {
-      "trackId": "5HFEnhPeIqOsYgBFHFgKuv",
-      "name": "Keep the Streets Empty for Me",
+      "track": {
+        "id": "5HFEnhPeIqOsYgBFHFgKuv",
+        "name": "Keep the Streets Empty for Me"
+      },
       "duration_ms": 339706,
-      "artist": [
-        "Fever Ray"
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "id": "5hE6NCoobhyEu6TRSbjOJY"
+        }
       ],
-      "artistId": [
-        "5hE6NCoobhyEu6TRSbjOJY"
-      ],
-      "albumId": "4ACzZPgP2JJJ1fg85qNWmT",
+      "album": {
+        "id": "4ACzZPgP2JJJ1fg85qNWmT",
+        "name": "Fever Ray",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d30e619b4c7dad2da5ba3e95"
+      },
       "release_date": "2009-01-12",
       "popularity": 40
     },
     {
-      "trackId": "4qDHt2ClApBBzDAvhNGWFd",
-      "name": "Crab Rave",
+      "track": {
+        "id": "4qDHt2ClApBBzDAvhNGWFd",
+        "name": "Crab Rave"
+      },
       "duration_ms": 161280,
-      "artist": [
-        "Noisestorm"
+      "artists": [
+        {
+          "name": "Noisestorm",
+          "id": "2BuSNpxpMGJGiAAWJYJT2t"
+        }
       ],
-      "artistId": [
-        "2BuSNpxpMGJGiAAWJYJT2t"
-      ],
-      "albumId": "2lppc5R9jiNgGoB7qXPWlr",
+      "album": {
+        "id": "2lppc5R9jiNgGoB7qXPWlr",
+        "name": "Crab Rave",
+        "img": "https://i.scdn.co/image/ab67616d00001e02428b65f827217fe824aaa2bd"
+      },
       "release_date": "2018-04-01",
       "popularity": 66
     },
     {
-      "trackId": "3XF5xLJHOQQRbWya6hBp7d",
-      "name": "you should see me in a crown",
+      "track": {
+        "id": "3XF5xLJHOQQRbWya6hBp7d",
+        "name": "you should see me in a crown"
+      },
       "duration_ms": 180952,
-      "artist": [
-        "Billie Eilish"
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH"
+        }
       ],
-      "artistId": [
-        "6qqNVTkY8uBg9cP3Jd7DAH"
-      ],
-      "albumId": "0S0KGZnfBGSIssfF54WSJh",
+      "album": {
+        "id": "0S0KGZnfBGSIssfF54WSJh",
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce"
+      },
       "release_date": "2019-03-29",
       "popularity": 76
     },
     {
-      "trackId": "6G0MfBXF1QlLpgP8pKngzs",
-      "name": "Shoreline - Radio Version",
+      "track": {
+        "id": "6G0MfBXF1QlLpgP8pKngzs",
+        "name": "Shoreline - Radio Version"
+      },
       "duration_ms": 212293,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "0sKtHhPyVXCic96QFZywih",
+      "album": {
+        "id": "0sKtHhPyVXCic96QFZywih",
+        "name": "Shoreline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3acf13890f0bc4e3d6b6fae"
+      },
       "release_date": "2005-06-01",
       "popularity": 47
     },
     {
-      "trackId": "7EVk9tRb6beJLTHrg6AkY9",
-      "name": "Tuesday (feat. Danelle Sandoval)",
+      "track": {
+        "id": "7EVk9tRb6beJLTHrg6AkY9",
+        "name": "Tuesday (feat. Danelle Sandoval)"
+      },
       "duration_ms": 241874,
-      "artist": [
-        "Burak Yeter",
-        "Danelle Sandoval"
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "id": "4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Danelle Sandoval",
+          "id": "7Dz9goFmVZZqvJxZoKg7pF"
+        }
       ],
-      "artistId": [
-        "4ON1ruy5ijE7ZPQthbrkgI",
-        "7Dz9goFmVZZqvJxZoKg7pF"
-      ],
-      "albumId": "6TvNvQ8DNIFyOMMksmKVDB",
+      "album": {
+        "id": "6TvNvQ8DNIFyOMMksmKVDB",
+        "name": "Tuesday (feat. Danelle Sandoval)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212b939225600b564150c0a68"
+      },
       "release_date": "2016-09-02",
       "popularity": 72
     },
     {
-      "trackId": "67Hna13dNDkZvBpTXRIaOJ",
-      "name": "Teardrop",
+      "track": {
+        "id": "67Hna13dNDkZvBpTXRIaOJ",
+        "name": "Teardrop"
+      },
       "duration_ms": 330773,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "49MNmJhZQewjt06rpwp6QR",
+      "album": {
+        "id": "49MNmJhZQewjt06rpwp6QR",
+        "name": "Mezzanine",
+        "img": "https://i.scdn.co/image/ab67616d00001e022fcb0a3c7a66e516b11cd26e"
+      },
       "release_date": "1998-01-01",
       "popularity": 69
     },
     {
-      "trackId": "4wtR6HB3XekEengMX17cpc",
-      "name": "Children",
+      "track": {
+        "id": "4wtR6HB3XekEengMX17cpc",
+        "name": "Children"
+      },
       "duration_ms": 243266,
-      "artist": [
-        "Robert Miles"
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "id": "2YVF0Ou5zIc4mpgtLIlGN0"
+        }
       ],
-      "artistId": [
-        "2YVF0Ou5zIc4mpgtLIlGN0"
-      ],
-      "albumId": "5vwm8dEf7xGTqUAas8zGdC",
+      "album": {
+        "id": "5vwm8dEf7xGTqUAas8zGdC",
+        "name": "Children (Dance Vault Mixes)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285a2da83b5b340365ae7d8cd"
+      },
       "release_date": "1996-07-11",
       "popularity": 69
     },
     {
-      "trackId": "5VpwzBsBfZ0kA7xyt5Dc1j",
-      "name": "Railbus Fast Passing with Horn",
+      "track": {
+        "id": "5VpwzBsBfZ0kA7xyt5Dc1j",
+        "name": "Railbus Fast Passing with Horn"
+      },
       "duration_ms": 31265,
-      "artist": [
-        "Digiffects Sound Effects Library"
+      "artists": [
+        {
+          "name": "Digiffects Sound Effects Library",
+          "id": "6whPaMyAuGAKK63gAFDiFy"
+        }
       ],
-      "artistId": [
-        "6whPaMyAuGAKK63gAFDiFy"
-      ],
-      "albumId": "0xLTkrVmt8uLwxqBuND0Y6",
+      "album": {
+        "id": "0xLTkrVmt8uLwxqBuND0Y6",
+        "name": "Commercial and Passenger Train Sound Effects",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5ea9acafefed9bea270ddf2"
+      },
       "release_date": "2016-02-27",
       "popularity": 0
     }

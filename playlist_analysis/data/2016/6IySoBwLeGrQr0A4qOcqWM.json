@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f375cc76-7e7c-48d8-8b47-b6e18d09a063.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3L7OKOEMxA3pTDsisaHmHl",
-      "name": "Waterloo",
+      "track": {
+        "id": "3L7OKOEMxA3pTDsisaHmHl",
+        "name": "Waterloo"
+      },
       "duration_ms": 174586,
-      "artist": [
-        "Ami Aspelund"
+      "artists": [
+        {
+          "name": "Ami Aspelund",
+          "id": "30nAJP9YrC59ij4ccZYxJW"
+        }
       ],
-      "artistId": [
-        "30nAJP9YrC59ij4ccZYxJW"
-      ],
-      "albumId": "0rF9nafa3gUFsD9VVVIfOX",
+      "album": {
+        "id": "0rF9nafa3gUFsD9VVVIfOX",
+        "name": "70-luvun parhaat 3 1974-1975",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e7a8773019b5cf5fec09af6"
+      },
       "release_date": "1995",
       "popularity": 0
     },
     {
-      "trackId": "4ZwDrrkqTL7dv52mGOo9L3",
-      "name": "In Zaire",
+      "track": {
+        "id": "4ZwDrrkqTL7dv52mGOo9L3",
+        "name": "In Zaire"
+      },
       "duration_ms": 197013,
-      "artist": [
-        "Johnny Wakelin"
+      "artists": [
+        {
+          "name": "Johnny Wakelin",
+          "id": "7s8sBDHfKZL7gFBtdObnTm"
+        }
       ],
-      "artistId": [
-        "7s8sBDHfKZL7gFBtdObnTm"
-      ],
-      "albumId": "7KJRBnvYTWKaaPmwVkVv8a",
+      "album": {
+        "id": "7KJRBnvYTWKaaPmwVkVv8a",
+        "name": "70s Super Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0266f09a2f7280efa1ae04501c"
+      },
       "release_date": "2015",
       "popularity": 46
     },
     {
-      "trackId": "2bYLru2w0NKtCDiFPgALFE",
-      "name": "Se telefonando",
+      "track": {
+        "id": "2bYLru2w0NKtCDiFPgALFE",
+        "name": "Se telefonando"
+      },
       "duration_ms": 182480,
-      "artist": [
-        "Mina"
+      "artists": [
+        {
+          "name": "Mina",
+          "id": "3HL1CyOnDLFJo1Rr8YBlKy"
+        }
       ],
-      "artistId": [
-        "3HL1CyOnDLFJo1Rr8YBlKy"
-      ],
-      "albumId": "5VJwsvkoleg0ueybquIjT1",
+      "album": {
+        "id": "5VJwsvkoleg0ueybquIjT1",
+        "name": "Studio Uno '66",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad3795dc48fb790c5e103036"
+      },
       "release_date": "1966",
       "popularity": 53
     },
     {
-      "trackId": "149JQaiyx3g055XtZpPWOX",
-      "name": "I'm On Fire",
+      "track": {
+        "id": "149JQaiyx3g055XtZpPWOX",
+        "name": "I'm On Fire"
+      },
       "duration_ms": 138173,
-      "artist": [
-        "Electrelane"
+      "artists": [
+        {
+          "name": "Electrelane",
+          "id": "7ulIMfVKiXh8ecEpAVHIAY"
+        }
       ],
-      "artistId": [
-        "7ulIMfVKiXh8ecEpAVHIAY"
-      ],
-      "albumId": "6RhtiOs8A4dNInnAOdxblC",
+      "album": {
+        "id": "6RhtiOs8A4dNInnAOdxblC",
+        "name": "Singles, B-sides & Live",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243711b28762a5415c0a0c552"
+      },
       "release_date": "2006-08-21",
       "popularity": 27
     },
     {
-      "trackId": "4H3J2qzrhGbmV0hES5nixl",
-      "name": "Sex Beat",
+      "track": {
+        "id": "4H3J2qzrhGbmV0hES5nixl",
+        "name": "Sex Beat"
+      },
       "duration_ms": 168853,
-      "artist": [
-        "The Gun Club"
+      "artists": [
+        {
+          "name": "The Gun Club",
+          "id": "3Un18X4NF1bpjgUk44lUzn"
+        }
       ],
-      "artistId": [
-        "3Un18X4NF1bpjgUk44lUzn"
-      ],
-      "albumId": "6XIW3ZmE0wOl2QqMNUyElb",
+      "album": {
+        "id": "6XIW3ZmE0wOl2QqMNUyElb",
+        "name": "Fire Of Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223cecfeecc0d5b0157f2c579"
+      },
       "release_date": "1981-08-31",
       "popularity": 45
     },
     {
-      "trackId": "1KjBsubnUzAU1dvxIEUky4",
-      "name": "A Glowing Light, a Promise",
+      "track": {
+        "id": "1KjBsubnUzAU1dvxIEUky4",
+        "name": "A Glowing Light, a Promise"
+      },
       "duration_ms": 333810,
-      "artist": [
-        "Makeup And Vanity Set"
+      "artists": [
+        {
+          "name": "Makeup And Vanity Set",
+          "id": "5iJnzz8Lfh1U3XQpBw95J3"
+        }
       ],
-      "artistId": [
-        "5iJnzz8Lfh1U3XQpBw95J3"
-      ],
-      "albumId": "2j4ro7dtXWPrSjjE7mdKqY",
+      "album": {
+        "id": "2j4ro7dtXWPrSjjE7mdKqY",
+        "name": "88:88",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dcebf3ab0328152a38fbf187"
+      },
       "release_date": "2012-05-31",
       "popularity": 41
     },
     {
-      "trackId": "0Q3xnA9aCEg9pS2SkF8bSd",
-      "name": "Miljoona ruusua",
+      "track": {
+        "id": "0Q3xnA9aCEg9pS2SkF8bSd",
+        "name": "Miljoona ruusua"
+      },
       "duration_ms": 321093,
-      "artist": [
-        "Katri Helena"
+      "artists": [
+        {
+          "name": "Katri Helena",
+          "id": "2IfvzNKtnV8PTAh7H6ZVfv"
+        }
       ],
-      "artistId": [
-        "2IfvzNKtnV8PTAh7H6ZVfv"
-      ],
-      "albumId": "2NGdm4mue0SMPYAVxTpLhy",
+      "album": {
+        "id": "2NGdm4mue0SMPYAVxTpLhy",
+        "name": "20 Toivotuinta levytystä",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b775d93ec1d12650eccb62b"
+      },
       "release_date": "1987",
       "popularity": 23
     },
     {
-      "trackId": "0rJ11PgSzRDjDPBQOQ3wLP",
-      "name": "Askan är den bästa jorden",
+      "track": {
+        "id": "0rJ11PgSzRDjDPBQOQ3wLP",
+        "name": "Askan är den bästa jorden"
+      },
       "duration_ms": 187280,
-      "artist": [
-        "Markus Krunegård"
+      "artists": [
+        {
+          "name": "Markus Krunegård",
+          "id": "3P6ePaE5unCm7vjccfcBAe"
+        }
       ],
-      "artistId": [
-        "3P6ePaE5unCm7vjccfcBAe"
-      ],
-      "albumId": "0snLl5NOtBxWegGE6BHJ4Y",
+      "album": {
+        "id": "0snLl5NOtBxWegGE6BHJ4Y",
+        "name": "Mänsklig värme",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3f007246c7d0984b27db227"
+      },
       "release_date": "2012-01-01",
       "popularity": 44
     },
     {
-      "trackId": "3GYBtgclotwzSnd3u21VY7",
-      "name": "The Coffee Cola Song",
+      "track": {
+        "id": "3GYBtgclotwzSnd3u21VY7",
+        "name": "The Coffee Cola Song"
+      },
       "duration_ms": 306455,
-      "artist": [
-        "Francis Bebey"
+      "artists": [
+        {
+          "name": "Francis Bebey",
+          "id": "0mdmrbu5UZ32uRcRp2z6mr"
+        }
       ],
-      "artistId": [
-        "0mdmrbu5UZ32uRcRp2z6mr"
-      ],
-      "albumId": "7w99Aae1tYSTSb1OiDnxYY",
+      "album": {
+        "id": "7w99Aae1tYSTSb1OiDnxYY",
+        "name": "African Electronic Music (1975-1982)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ab57cedf27177fae1eaed87"
+      },
       "release_date": "2012-03-01",
       "popularity": 44
     },
     {
-      "trackId": "4o9umFsPZmwRT5lve7QAps",
-      "name": "Downtown",
+      "track": {
+        "id": "4o9umFsPZmwRT5lve7QAps",
+        "name": "Downtown"
+      },
       "duration_ms": 249062,
-      "artist": [
-        "Majical Cloudz"
+      "artists": [
+        {
+          "name": "Majical Cloudz",
+          "id": "4BEYBN6NCPrFk3sOLMTby3"
+        }
       ],
-      "artistId": [
-        "4BEYBN6NCPrFk3sOLMTby3"
-      ],
-      "albumId": "732AeYhmKrOSU0G3pPnlkB",
+      "album": {
+        "id": "732AeYhmKrOSU0G3pPnlkB",
+        "name": "Are You Alone?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213c340177a1fd47e36a92f45"
+      },
       "release_date": "2015-10-16",
       "popularity": 49
     },
     {
-      "trackId": "1H39Gzn3joU4IjjjZaZri6",
-      "name": "Markus Krunegård",
+      "track": {
+        "id": "1H39Gzn3joU4IjjjZaZri6",
+        "name": "Markus Krunegård"
+      },
       "duration_ms": 136133,
-      "artist": [
-        "Inga Juuso",
-        "Harald Skullerud"
+      "artists": [
+        {
+          "name": "Inga Juuso",
+          "id": "1RHu3vJrZGIMnpYTe07GPx"
+        },
+        {
+          "name": "Harald Skullerud",
+          "id": "6IBH4Goo4HCUSElrUGprzs"
+        }
       ],
-      "artistId": [
-        "1RHu3vJrZGIMnpYTe07GPx",
-        "6IBH4Goo4HCUSElrUGprzs"
-      ],
-      "albumId": "0iUCpc4zv21JV6Rak10UeZ",
+      "album": {
+        "id": "0iUCpc4zv21JV6Rak10UeZ",
+        "name": "Juusk",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239d3f5aa79d786defefa20c9"
+      },
       "release_date": "2011-04-20",
       "popularity": 0
     },
     {
-      "trackId": "0fykKqkBxMguTUwcpxDdRv",
-      "name": "I&I",
+      "track": {
+        "id": "0fykKqkBxMguTUwcpxDdRv",
+        "name": "I&I"
+      },
       "duration_ms": 174878,
-      "artist": [
-        "Lost Under Heaven"
+      "artists": [
+        {
+          "name": "Lost Under Heaven",
+          "id": "634K1Y2zhBHexel2Ma4xsC"
+        }
       ],
-      "artistId": [
-        "634K1Y2zhBHexel2Ma4xsC"
-      ],
-      "albumId": "6s3HFRekJDXgCffWck2yKH",
+      "album": {
+        "id": "6s3HFRekJDXgCffWck2yKH",
+        "name": "Spiritual Songs for Lovers to Sing",
+        "img": "https://i.scdn.co/image/ab67616d00001e027650772b7e42955956cc1ae0"
+      },
       "release_date": "2016-05-06",
       "popularity": 24
     },
     {
-      "trackId": "0nQLxiNGbbUoSGrxksETLm",
-      "name": "The Power",
+      "track": {
+        "id": "0nQLxiNGbbUoSGrxksETLm",
+        "name": "The Power"
+      },
       "duration_ms": 228993,
-      "artist": [
-        "SNAP!"
+      "artists": [
+        {
+          "name": "SNAP!",
+          "id": "2FrKQPjJe4pVMZOgm0ESOx"
+        }
       ],
-      "artistId": [
-        "2FrKQPjJe4pVMZOgm0ESOx"
-      ],
-      "albumId": "40dT7brCvniJawDHpBCE4A",
+      "album": {
+        "id": "40dT7brCvniJawDHpBCE4A",
+        "name": "World Power",
+        "img": "https://i.scdn.co/image/ab67616d00001e02521fcfb205cf0baa97d8056d"
+      },
       "release_date": "1990-01-01",
       "popularity": 61
     }

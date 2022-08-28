@@ -7,228 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243401_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
-      "name": "Sinnerman",
+      "track": {
+        "id": "5xRP5iyVdGglqlY4Vcjhkx",
+        "name": "Sinnerman"
+      },
       "duration_ms": 622000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "album": {
+        "id": "31pd81sWDaK2pP3ok5892z",
+        "name": "Pastel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda3269eebbf31611d10bda6"
+      },
       "release_date": "1965-10-01",
       "popularity": 62
     },
     {
-      "trackId": "1lDrb5N8RmfD1USPQYPpUu",
-      "name": "Better Things",
+      "track": {
+        "id": "1lDrb5N8RmfD1USPQYPpUu",
+        "name": "Better Things"
+      },
       "duration_ms": 219613,
-      "artist": [
-        "Sharon Jones & The Dap-Kings"
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "id": "6LufpoVlIYKQCu9Gjpk8B7"
+        }
       ],
-      "artistId": [
-        "6LufpoVlIYKQCu9Gjpk8B7"
-      ],
-      "albumId": "4FZCwaWGcFqd2CBiJUcHnx",
+      "album": {
+        "id": "4FZCwaWGcFqd2CBiJUcHnx",
+        "name": "I Learned the Hard Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ea7d71ae1045d003b1a904c"
+      },
       "release_date": "2010-04-06",
       "popularity": 59
     },
     {
-      "trackId": "4Ra9n52FWq0DvMDLQ9rBDK",
-      "name": "Imorron e en ny da",
+      "track": {
+        "id": "4Ra9n52FWq0DvMDLQ9rBDK",
+        "name": "Imorron e en ny da"
+      },
       "duration_ms": 302173,
-      "artist": [
-        "Mikael Ramel"
+      "artists": [
+        {
+          "name": "Mikael Ramel",
+          "id": "1ky50Ws1ZqW5dP5MRYO7dp"
+        }
       ],
-      "artistId": [
-        "1ky50Ws1ZqW5dP5MRYO7dp"
-      ],
-      "albumId": "24ZHF2rzvO63ItEdERgtk7",
+      "album": {
+        "id": "24ZHF2rzvO63ItEdERgtk7",
+        "name": "Mikael Ramel / Till dej",
+        "img": "https://i.scdn.co/image/ab67616d00001e029802e04a4527f03579b91b86"
+      },
       "release_date": "2003-01-01",
       "popularity": 15
     },
     {
-      "trackId": "3J1QuC4fE7dZjODR34nZGE",
-      "name": "112 - Charlie Bernardo Edit",
+      "track": {
+        "id": "3J1QuC4fE7dZjODR34nZGE",
+        "name": "112 - Charlie Bernardo Edit"
+      },
       "duration_ms": 220000,
-      "artist": [
-        "Alexis Weak"
+      "artists": [
+        {
+          "name": "Alexis Weak",
+          "id": "7CdpSaIlaZQpJ1TAJxSu11"
+        }
       ],
-      "artistId": [
-        "7CdpSaIlaZQpJ1TAJxSu11"
-      ],
-      "albumId": "035u5vWIHgrjq7cPJLUeu5",
+      "album": {
+        "id": "035u5vWIHgrjq7cPJLUeu5",
+        "name": "112",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f83e27acd7ed41ab9833166"
+      },
       "release_date": "2010-10-01",
       "popularity": 10
     },
     {
-      "trackId": "1VWeVEgc2rZrg6iWWLxw9Q",
-      "name": "What a Lovely Way",
+      "track": {
+        "id": "1VWeVEgc2rZrg6iWWLxw9Q",
+        "name": "What a Lovely Way"
+      },
       "duration_ms": 239600,
-      "artist": [
-        "Doris"
+      "artists": [
+        {
+          "name": "Doris",
+          "id": "4oNCFX4cbl6Jy1VANKiE6A"
+        }
       ],
-      "artistId": [
-        "4oNCFX4cbl6Jy1VANKiE6A"
-      ],
-      "albumId": "5ihQ4Gepi7qXFrKqVF5shn",
+      "album": {
+        "id": "5ihQ4Gepi7qXFrKqVF5shn",
+        "name": "Did You Give The World Some Love Today Baby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3738b608863849e936f2d3c"
+      },
       "release_date": "1970",
       "popularity": 31
     },
     {
-      "trackId": "6QhXQOpyYvbpdbyjgAqKdY",
-      "name": "Cecilia",
+      "track": {
+        "id": "6QhXQOpyYvbpdbyjgAqKdY",
+        "name": "Cecilia"
+      },
       "duration_ms": 174826,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "0JwHz5SSvpYWuuCNbtYZoV",
+      "album": {
+        "id": "0JwHz5SSvpYWuuCNbtYZoV",
+        "name": "Bridge Over Troubled Water",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba7fe7dd76cd4307e57dd75f"
+      },
       "release_date": "1970-01-26",
       "popularity": 73
     },
     {
-      "trackId": "4y1LsJpmMti1PfRQV9AWWe",
-      "name": "Girls Just Want to Have Fun",
+      "track": {
+        "id": "4y1LsJpmMti1PfRQV9AWWe",
+        "name": "Girls Just Want to Have Fun"
+      },
       "duration_ms": 238266,
-      "artist": [
-        "Cyndi Lauper"
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "id": "2BTZIqw0ntH9MvilQ3ewNY"
+        }
       ],
-      "artistId": [
-        "2BTZIqw0ntH9MvilQ3ewNY"
-      ],
-      "albumId": "1FvdZ1oizXwF9bxogujoF0",
+      "album": {
+        "id": "1FvdZ1oizXwF9bxogujoF0",
+        "name": "She's So Unusual",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252f532df7ba3269b0242fed9"
+      },
       "release_date": "1983-10-14",
       "popularity": 79
     },
     {
-      "trackId": "1Nke2zd7kiWcnGF6K6Mktn",
-      "name": "Miss You - Trentemøller Remix Radio Edit",
+      "track": {
+        "id": "1Nke2zd7kiWcnGF6K6Mktn",
+        "name": "Miss You - Trentemøller Remix Radio Edit"
+      },
       "duration_ms": 243389,
-      "artist": [
-        "trentemøller"
+      "artists": [
+        {
+          "name": "trentemøller",
+          "id": "4O71i7ke5iIBX6RNSFoZbS"
+        }
       ],
-      "artistId": [
-        "4O71i7ke5iIBX6RNSFoZbS"
-      ],
-      "albumId": "4oWkMnsliVcCUBb9iP4mSI",
+      "album": {
+        "id": "4oWkMnsliVcCUBb9iP4mSI",
+        "name": "Miss You",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d0f2ef3c7e4e556159b25ca"
+      },
       "release_date": "2008-04-03",
       "popularity": 21
     },
     {
-      "trackId": "0KMGxYKeUzK9wc5DZCt3HT",
-      "name": "If You Leave Me Now",
+      "track": {
+        "id": "0KMGxYKeUzK9wc5DZCt3HT",
+        "name": "If You Leave Me Now"
+      },
       "duration_ms": 235373,
-      "artist": [
-        "Chicago"
+      "artists": [
+        {
+          "name": "Chicago",
+          "id": "3iDD7bnsjL9J4fO298r0L0"
+        }
       ],
-      "artistId": [
-        "3iDD7bnsjL9J4fO298r0L0"
-      ],
-      "albumId": "4asBn7hzIq2Ka7rDzJN24P",
+      "album": {
+        "id": "4asBn7hzIq2Ka7rDzJN24P",
+        "name": "Chicago X",
+        "img": "https://i.scdn.co/image/ab67616d00001e021de27f12958ceb8b1f65461a"
+      },
       "release_date": "1976-06-14",
       "popularity": 74
     },
     {
-      "trackId": "78gYSkOhQXm54K8Ge8PByE",
-      "name": "Hudamokk",
+      "track": {
+        "id": "78gYSkOhQXm54K8Ge8PByE",
+        "name": "Hudamokk"
+      },
       "duration_ms": 58181,
-      "artist": [
-        "Leslie Fisher"
+      "artists": [
+        {
+          "name": "Leslie Fisher",
+          "id": "1ikYbdpqgJkYpBB4QrCkhN"
+        }
       ],
-      "artistId": [
-        "1ikYbdpqgJkYpBB4QrCkhN"
-      ],
-      "albumId": "344O33Adf6pQtdKRI51UEQ",
+      "album": {
+        "id": "344O33Adf6pQtdKRI51UEQ",
+        "name": "Hudamokk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e01c9b96f23fcd870249ef8c"
+      },
       "release_date": "2022-07-15",
       "popularity": 15
     },
     {
-      "trackId": "3WEGJUSduWrmzvQClu1QOq",
-      "name": "Här inne hos mig",
+      "track": {
+        "id": "3WEGJUSduWrmzvQClu1QOq",
+        "name": "Här inne hos mig"
+      },
       "duration_ms": 230946,
-      "artist": [
-        "Albin Gromer"
+      "artists": [
+        {
+          "name": "Albin Gromer",
+          "id": "58HElDWoxiU5oqBrwYK6Kp"
+        }
       ],
-      "artistId": [
-        "58HElDWoxiU5oqBrwYK6Kp"
-      ],
-      "albumId": "3oFm4HQPy44HLhwrHAwIDz",
+      "album": {
+        "id": "3oFm4HQPy44HLhwrHAwIDz",
+        "name": "Här inne hos mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fba289a30a10820d05721c86"
+      },
       "release_date": "2011-01-01",
       "popularity": 22
     },
     {
-      "trackId": "1CRxANVlNyN2IYjarx96gU",
-      "name": "Visa från Utanmyra",
+      "track": {
+        "id": "1CRxANVlNyN2IYjarx96gU",
+        "name": "Visa från Utanmyra"
+      },
       "duration_ms": 273800,
-      "artist": [
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "6JAj80R40giQEAg3Le4CPE",
+      "album": {
+        "id": "6JAj80R40giQEAg3Le4CPE",
+        "name": "Jazz på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234190c904a52720a3ffcad76"
+      },
       "release_date": "1964",
       "popularity": 50
     },
     {
-      "trackId": "2gC38tkvsISU9fr7J9rzB2",
-      "name": "Stockholm - 2001 Remaster",
+      "track": {
+        "id": "2gC38tkvsISU9fr7J9rzB2",
+        "name": "Stockholm - 2001 Remaster"
+      },
       "duration_ms": 186600,
-      "artist": [
-        "Pugh Rogefeldt"
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "id": "22Wo43V44RtrpJZsjeI9EA"
+        }
       ],
-      "artistId": [
-        "22Wo43V44RtrpJZsjeI9EA"
-      ],
-      "albumId": "0gX4M5yq5C8zIsatIoGYPP",
+      "album": {
+        "id": "0gX4M5yq5C8zIsatIoGYPP",
+        "name": "Het",
+        "img": "https://i.scdn.co/image/ab67616d00001e02121a143cbc9351317c648409"
+      },
       "release_date": "1981",
       "popularity": 27
     },
     {
-      "trackId": "6slsXkKry3wmfgQB72uBOY",
-      "name": "Indestructible",
+      "track": {
+        "id": "6slsXkKry3wmfgQB72uBOY",
+        "name": "Indestructible"
+      },
       "duration_ms": 221797,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "18yDzTr0dsuw268dHopO43",
+      "album": {
+        "id": "18yDzTr0dsuw268dHopO43",
+        "name": "Body Talk",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bfb416d8152f65f857fbcb0"
+      },
       "release_date": "2010-11-22",
       "popularity": 39
     },
     {
-      "trackId": "5P0tWr5JZqDoi5wq2OalFH",
-      "name": "Je t'aime moi non plus",
+      "track": {
+        "id": "5P0tWr5JZqDoi5wq2OalFH",
+        "name": "Je t'aime moi non plus"
+      },
       "duration_ms": 268600,
-      "artist": [
-        "Serge Gainsbourg",
-        "Jane Birkin"
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "id": "01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "id": "4XYH5Be5pn1qkxhfaID3J5"
+        }
       ],
-      "artistId": [
-        "01C9OoXDvCKkGcf735Tcfo",
-        "4XYH5Be5pn1qkxhfaID3J5"
-      ],
-      "albumId": "0K7Rapnz35iffV4NNGWtPG",
+      "album": {
+        "id": "0K7Rapnz35iffV4NNGWtPG",
+        "name": "Comic Strip",
+        "img": "https://i.scdn.co/image/ab67616d00001e02243695a2f99da1403306c6b8"
+      },
       "release_date": "1996",
       "popularity": 52
     },
     {
-      "trackId": "6YqdbEEX9FxMVtgRXNpN0E",
-      "name": "Fördomar 2",
+      "track": {
+        "id": "6YqdbEEX9FxMVtgRXNpN0E",
+        "name": "Fördomar 2"
+      },
       "duration_ms": 111826,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "3KVd387YbvDT5hHGclCsHE",
+      "album": {
+        "id": "3KVd387YbvDT5hHGclCsHE",
+        "name": "Mitt Kvarter",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e1755edae8f697408f4c728"
+      },
       "release_date": "2000-01-01",
       "popularity": 23
     }

@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4526ec96-2c9d-4a14-a171-83597da2ca6b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "66iKqUazBbTlAEjcZrpDkD",
-      "name": "What A Diff'rence A Day Made",
+      "track": {
+        "id": "66iKqUazBbTlAEjcZrpDkD",
+        "name": "What A Diff'rence A Day Made"
+      },
       "duration_ms": 151866,
-      "artist": [
-        "Dinah Washington"
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "id": "32LHRiof0sa4taYew9i3Fa"
+        }
       ],
-      "artistId": [
-        "32LHRiof0sa4taYew9i3Fa"
-      ],
-      "albumId": "0w8YD8Wz1hEkwXdsAMzzFe",
+      "album": {
+        "id": "0w8YD8Wz1hEkwXdsAMzzFe",
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a78eaacc0d1eca994d3ffd38"
+      },
       "release_date": "1959-02-19",
       "popularity": 62
     },
     {
-      "trackId": "1n548Txtnva8ZUXfBe7j8d",
-      "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966",
+      "track": {
+        "id": "1n548Txtnva8ZUXfBe7j8d",
+        "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966"
+      },
       "duration_ms": 312133,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "6Wzf9BalBqQAenrUb9xzUH",
+      "album": {
+        "id": "6Wzf9BalBqQAenrUb9xzUH",
+        "name": "Get On Up - The James Brown Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e022983f36e702c45bf2f98ef77"
+      },
       "release_date": "2014-07-29",
       "popularity": 30
     },
     {
-      "trackId": "6eQ40FpOWggK5iKl3khLyp",
-      "name": "Walking In The Rain",
+      "track": {
+        "id": "6eQ40FpOWggK5iKl3khLyp",
+        "name": "Walking In The Rain"
+      },
       "duration_ms": 258786,
-      "artist": [
-        "Grace Jones"
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "id": "2f9ZiYA2ic1r1voObUimdd"
+        }
       ],
-      "artistId": [
-        "2f9ZiYA2ic1r1voObUimdd"
-      ],
-      "albumId": "6q8R2OCmCS9W6Y7kqnSd78",
+      "album": {
+        "id": "6q8R2OCmCS9W6Y7kqnSd78",
+        "name": "Nightclubbing",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3a83072adb1a52cac58afa7"
+      },
       "release_date": "1981",
       "popularity": 40
     },
     {
-      "trackId": "3eLlW0GegkXy3o92t51xaJ",
-      "name": "Schubert: Ave Maria, Op. 52 No. 6, D. 839",
+      "track": {
+        "id": "3eLlW0GegkXy3o92t51xaJ",
+        "name": "Schubert: Ave Maria, Op. 52 No. 6, D. 839"
+      },
       "duration_ms": 379053,
-      "artist": [
-        "Franz Schubert",
-        "Barbara Bonney",
-        "Geoffrey Parsons"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Barbara Bonney",
+          "id": "24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Geoffrey Parsons",
+          "id": "3x9SScXuqC40Sq6j4hpXCC"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "24fwyM31DLDqYOPvQ0jFFr",
-        "3x9SScXuqC40Sq6j4hpXCC"
-      ],
-      "albumId": "7xCjhI1Pjslxmec4FiZwhC",
+      "album": {
+        "id": "7xCjhI1Pjslxmec4FiZwhC",
+        "name": "Schubert: Ave Maria, Die Forelle, Heidenröslein & Other Lieder",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9679903fb0359c8576faa0a"
+      },
       "release_date": "1994-01-01",
       "popularity": 46
     },
     {
-      "trackId": "4KjPPpRbthW8dSNdisR2Wi",
-      "name": "Too Funky - Single Edit",
+      "track": {
+        "id": "4KjPPpRbthW8dSNdisR2Wi",
+        "name": "Too Funky - Single Edit"
+      },
       "duration_ms": 224933,
-      "artist": [
-        "George Michael"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo"
-      ],
-      "albumId": "3coLNlyStg9h7f8CZ103Rl",
+      "album": {
+        "id": "3coLNlyStg9h7f8CZ103Rl",
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264c19b24ce947ffa363f8f96"
+      },
       "release_date": "1998-11-09",
       "popularity": 52
     },
     {
-      "trackId": "5jkd3e1qgmsTWJm3NvQ7X4",
-      "name": "Cry Me A River",
+      "track": {
+        "id": "5jkd3e1qgmsTWJm3NvQ7X4",
+        "name": "Cry Me A River"
+      },
       "duration_ms": 256866,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "051AdKfsuNyfiUc81mkJIR",
+      "album": {
+        "id": "051AdKfsuNyfiUc81mkJIR",
+        "name": "Clap Hands, Here Comes Charlie! (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02825b940e911ca8edcfa9b7e4"
+      },
       "release_date": "1989-06-20",
       "popularity": 47
     },
     {
-      "trackId": "2eHj0klWkwRQuIrNlPpCPa",
-      "name": "I'm Every Woman",
+      "track": {
+        "id": "2eHj0klWkwRQuIrNlPpCPa",
+        "name": "I'm Every Woman"
+      },
       "duration_ms": 285106,
-      "artist": [
-        "Whitney Houston"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP"
-      ],
-      "albumId": "7JVJlkNNobS0GSoy4tCS96",
+      "album": {
+        "id": "7JVJlkNNobS0GSoy4tCS96",
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02456c0b5d0316a80dc600802e"
+      },
       "release_date": "1992-11-17",
       "popularity": 61
     },
     {
-      "trackId": "0LrwgdLsFaWh9VXIjBRe8t",
-      "name": "Changes - 2015 Remaster",
+      "track": {
+        "id": "0LrwgdLsFaWh9VXIjBRe8t",
+        "name": "Changes - 2015 Remaster"
+      },
       "duration_ms": 217746,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 68
     },
     {
-      "trackId": "7s25THrKz86DM225dOYwnr",
-      "name": "Respect",
+      "track": {
+        "id": "7s25THrKz86DM225dOYwnr",
+        "name": "Respect"
+      },
       "duration_ms": 147600,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+      "album": {
+        "id": "5WndWfzGwCkHzAbQXVkg2V",
+        "name": "I Never Loved a Man the Way I Love You",
+        "img": "https://i.scdn.co/image/ab67616d00001e026aa9314b7ddfbd8f036ba3ac"
+      },
       "release_date": "1967-03-10",
       "popularity": 73
     },
     {
-      "trackId": "1LGqJ3nvxpVXDWpEzq4DJD",
-      "name": "All of Me",
+      "track": {
+        "id": "1LGqJ3nvxpVXDWpEzq4DJD",
+        "name": "All of Me"
+      },
       "duration_ms": 181440,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "7pBwUBRsdgtIyX7tGOmaoy",
+      "album": {
+        "id": "7pBwUBRsdgtIyX7tGOmaoy",
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02452bd32b5454a87f36ad8e8c"
+      },
       "release_date": "1933",
       "popularity": 60
     },
     {
-      "trackId": "3FWqBK4ZKpAdffVPvPFJjB",
-      "name": "If I Were Your Woman - Single Version",
+      "track": {
+        "id": "3FWqBK4ZKpAdffVPvPFJjB",
+        "name": "If I Were Your Woman - Single Version"
+      },
       "duration_ms": 194533,
-      "artist": [
-        "Gladys Knight & The Pips"
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "id": "0TF2NxkJZPQoX1H53rEFM1"
+        }
       ],
-      "artistId": [
-        "0TF2NxkJZPQoX1H53rEFM1"
-      ],
-      "albumId": "72mmtgKkXD2G3HzGHAXduF",
+      "album": {
+        "id": "72mmtgKkXD2G3HzGHAXduF",
+        "name": "If I Were Your Woman",
+        "img": "https://i.scdn.co/image/ab67616d00001e02995fdf50ccc970fed063d1f6"
+      },
       "release_date": "1971-01-01",
       "popularity": 45
     },
     {
-      "trackId": "1YQWosTIljIvxAgHWTp7KP",
-      "name": "Take Five",
+      "track": {
+        "id": "1YQWosTIljIvxAgHWTp7KP",
+        "name": "Take Five"
+      },
       "duration_ms": 324133,
-      "artist": [
-        "The Dave Brubeck Quartet"
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "id": "4iRZAbYvBqnxrbs6K25aJ7"
+        }
       ],
-      "artistId": [
-        "4iRZAbYvBqnxrbs6K25aJ7"
-      ],
-      "albumId": "0nTTEAhCZsbbeplyDMIFuA",
+      "album": {
+        "id": "0nTTEAhCZsbbeplyDMIFuA",
+        "name": "Time Out",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200ace5d3c5bffc123ef1eb51"
+      },
       "release_date": "1959-12-14",
       "popularity": 65
     }

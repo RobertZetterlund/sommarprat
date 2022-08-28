@@ -7,196 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344852_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7LR85XLWw2yXqKBSI5brbG",
-      "name": "Run This Town",
+      "track": {
+        "id": "7LR85XLWw2yXqKBSI5brbG",
+        "name": "Run This Town"
+      },
       "duration_ms": 267520,
-      "artist": [
-        "JAY-Z",
-        "Rihanna",
-        "Kanye West"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB",
-        "5pKCCKE2ajJHZ9KAiaK11H",
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "2CUT0104gySOIvqwtXeFsX",
+      "album": {
+        "id": "2CUT0104gySOIvqwtXeFsX",
+        "name": "The Blueprint 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10"
+      },
       "release_date": "2009-09-08",
       "popularity": 76
     },
     {
-      "trackId": "7vYriIG5zUaMSmyQHL5DEe",
-      "name": "Like a Punk",
+      "track": {
+        "id": "7vYriIG5zUaMSmyQHL5DEe",
+        "name": "Like a Punk"
+      },
       "duration_ms": 190386,
-      "artist": [
-        "Adam Tensta"
+      "artists": [
+        {
+          "name": "Adam Tensta",
+          "id": "5ICm42Qd6Mxunp1xyBGUp0"
+        }
       ],
-      "artistId": [
-        "5ICm42Qd6Mxunp1xyBGUp0"
-      ],
-      "albumId": "6MThF3geXtiPEsNGajCja4",
+      "album": {
+        "id": "6MThF3geXtiPEsNGajCja4",
+        "name": "Scared Of The Dark",
+        "img": "https://i.scdn.co/image/ab67616d00001e023725cac6c74467e61c13d7f5"
+      },
       "release_date": "2011-04-08",
       "popularity": 18
     },
     {
-      "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "track": {
+        "id": "5Z01UMMf7V1o0MzF86s6WJ",
+        "name": "Lose Yourself - From \"8 Mile\" Soundtrack"
+      },
       "duration_ms": 326466,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "5qENHeCSlwWpEzb25peRmQ",
+      "album": {
+        "id": "5qENHeCSlwWpEzb25peRmQ",
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578"
+      },
       "release_date": "2005-12-06",
       "popularity": 76
     },
     {
-      "trackId": "62QoaGNhjV9PkFUqK2lOVx",
-      "name": "Sabotage (feat. Lloyd)",
+      "track": {
+        "id": "62QoaGNhjV9PkFUqK2lOVx",
+        "name": "Sabotage (feat. Lloyd)"
+      },
       "duration_ms": 328386,
-      "artist": [
-        "Wale",
-        "Lloyd"
+      "artists": [
+        {
+          "name": "Wale",
+          "id": "67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Lloyd",
+          "id": "1Xfmvd48oOhEWkscWyEbh9"
+        }
       ],
-      "artistId": [
-        "67nwj3Y5sZQLl72VNUHEYE",
-        "1Xfmvd48oOhEWkscWyEbh9"
-      ],
-      "albumId": "0jCVC8ndYYOooEY2YTO1l6",
+      "album": {
+        "id": "0jCVC8ndYYOooEY2YTO1l6",
+        "name": "Ambition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02121fae55bc38102df4448b89"
+      },
       "release_date": "2011-10-28",
       "popularity": 37
     },
     {
-      "trackId": "1O4eVJVDwfLfU5cjDPZcQX",
-      "name": "Cold World",
+      "track": {
+        "id": "1O4eVJVDwfLfU5cjDPZcQX",
+        "name": "Cold World"
+      },
       "duration_ms": 264306,
-      "artist": [
-        "Tribeca"
+      "artists": [
+        {
+          "name": "Tribeca",
+          "id": "5c5szyUv6jJEvRvDk0Eekp"
+        }
       ],
-      "artistId": [
-        "5c5szyUv6jJEvRvDk0Eekp"
-      ],
-      "albumId": "4PdRqXSwmuh8WQ84mLhLak",
+      "album": {
+        "id": "4PdRqXSwmuh8WQ84mLhLak",
+        "name": "Cold World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02694618f4506bbd3133b96b25"
+      },
       "release_date": "2011-01-01",
       "popularity": 12
     },
     {
-      "trackId": "7JN8RooRmm34LqWlQMFPUr",
-      "name": "Indietro",
+      "track": {
+        "id": "7JN8RooRmm34LqWlQMFPUr",
+        "name": "Indietro"
+      },
       "duration_ms": 220013,
-      "artist": [
-        "Tiziano Ferro"
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "id": "11TplWqOPQBTmg2eiSLt1m"
+        }
       ],
-      "artistId": [
-        "11TplWqOPQBTmg2eiSLt1m"
-      ],
-      "albumId": "7HCSZuCkAVyOonJoIRPObJ",
+      "album": {
+        "id": "7HCSZuCkAVyOonJoIRPObJ",
+        "name": "Alla Mia Età",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299d80c63338fb2bd4fabe49d"
+      },
       "release_date": "2008-01-01",
       "popularity": 38
     },
     {
-      "trackId": "54bduTq4rKl5JOIezKD2nY",
-      "name": "Dreams",
+      "track": {
+        "id": "54bduTq4rKl5JOIezKD2nY",
+        "name": "Dreams"
+      },
       "duration_ms": 229320,
-      "artist": [
-        "HOFFMAESTRO"
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "id": "6hL8IlB7tKuRiqChLyEJGr"
+        }
       ],
-      "artistId": [
-        "6hL8IlB7tKuRiqChLyEJGr"
-      ],
-      "albumId": "2xFOH0T01Cyx6IVc6TD7A7",
+      "album": {
+        "id": "2xFOH0T01Cyx6IVc6TD7A7",
+        "name": "City Hut Sessions Pt. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cde75e335b18328ec848a119"
+      },
       "release_date": "2013-01-01",
       "popularity": 26
     },
     {
-      "trackId": "6ich2xMH5AR39V85miIAN8",
-      "name": "I Don't Want to Be",
+      "track": {
+        "id": "6ich2xMH5AR39V85miIAN8",
+        "name": "I Don't Want to Be"
+      },
       "duration_ms": 217760,
-      "artist": [
-        "Gavin DeGraw"
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "id": "5DYAABs8rkY9VhwtENoQCz"
+        }
       ],
-      "artistId": [
-        "5DYAABs8rkY9VhwtENoQCz"
-      ],
-      "albumId": "0Fm4Qx8IVHEEBYPeRzNUGI",
+      "album": {
+        "id": "0Fm4Qx8IVHEEBYPeRzNUGI",
+        "name": "Chariot - Stripped",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209ec47c2a2173e984d8461e9"
+      },
       "release_date": "2004-07-26",
       "popularity": 57
     },
     {
-      "trackId": "7tqhbajSfrz2F7E1Z75ASX",
-      "name": "Ain't No Mountain High Enough",
+      "track": {
+        "id": "7tqhbajSfrz2F7E1Z75ASX",
+        "name": "Ain't No Mountain High Enough"
+      },
       "duration_ms": 151666,
-      "artist": [
-        "Marvin Gaye",
-        "Tammi Terrell"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "id": "75jNCko3SnEMI5gwGqrbb8"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA",
-        "75jNCko3SnEMI5gwGqrbb8"
-      ],
-      "albumId": "5LqviduT0g0J0ypFrFSwCE",
+      "album": {
+        "id": "5LqviduT0g0J0ypFrFSwCE",
+        "name": "United",
+        "img": "https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02"
+      },
       "release_date": "1967-08-29",
       "popularity": 81
     },
     {
-      "trackId": "4gs07VlJST4bdxGbBsXVue",
-      "name": "Heartbreak Warfare",
+      "track": {
+        "id": "4gs07VlJST4bdxGbBsXVue",
+        "name": "Heartbreak Warfare"
+      },
       "duration_ms": 269720,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "1V5vQRMWTNGmqwxY8jMVou",
+      "album": {
+        "id": "1V5vQRMWTNGmqwxY8jMVou",
+        "name": "Battle Studies",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e3dbe4453ed61633c472fbe"
+      },
       "release_date": "2009-11-13",
       "popularity": 64
     },
     {
-      "trackId": "4xkOaSrkexMciUUogZKVTS",
-      "name": "'Till I Collapse",
+      "track": {
+        "id": "4xkOaSrkexMciUUogZKVTS",
+        "name": "'Till I Collapse"
+      },
       "duration_ms": 297786,
-      "artist": [
-        "Eminem",
-        "Nate Dogg"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR",
-        "1Oa0bMld0A3u5OTYfMzp5h"
-      ],
-      "albumId": "2cWBwpqMsDJC1ZUwz813lo",
+      "album": {
+        "id": "2cWBwpqMsDJC1ZUwz813lo",
+        "name": "The Eminem Show",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4"
+      },
       "release_date": "2002-05-26",
       "popularity": 85
     },
     {
-      "trackId": "2PYTy7G9JBdK4FXKycSUcF",
-      "name": "Let's Roll",
+      "track": {
+        "id": "2PYTy7G9JBdK4FXKycSUcF",
+        "name": "Let's Roll"
+      },
       "duration_ms": 234533,
-      "artist": [
-        "Yelawolf",
-        "Kid Rock"
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "id": "68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Kid Rock",
+          "id": "7dOBabd5O4CvKrg4iriHTM"
+        }
       ],
-      "artistId": [
-        "68DWke2VjdDmA75aJX5C57",
-        "7dOBabd5O4CvKrg4iriHTM"
-      ],
-      "albumId": "0l53NPQef4eLh7UDcG9gtJ",
+      "album": {
+        "id": "0l53NPQef4eLh7UDcG9gtJ",
+        "name": "Radioactive (Deluxe Explicit Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264b433ce7484ebc9c0628999"
+      },
       "release_date": "2011-01-01",
       "popularity": 42
     },
     {
-      "trackId": "1EzrEOXmMH3G43AXT1y7pA",
-      "name": "I'm Yours",
+      "track": {
+        "id": "1EzrEOXmMH3G43AXT1y7pA",
+        "name": "I'm Yours"
+      },
       "duration_ms": 242946,
-      "artist": [
-        "Jason Mraz"
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "id": "4phGZZrJZRo4ElhRtViYdl"
+        }
       ],
-      "artistId": [
-        "4phGZZrJZRo4ElhRtViYdl"
-      ],
-      "albumId": "04G0YylSjvDQZrjOfE5jA5",
+      "album": {
+        "id": "04G0YylSjvDQZrjOfE5jA5",
+        "name": "We Sing. We Dance. We Steal Things.",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f2e51f7121539e221c51161"
+      },
       "release_date": "2008-05-12",
       "popularity": 80
     }

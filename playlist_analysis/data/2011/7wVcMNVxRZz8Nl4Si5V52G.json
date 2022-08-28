@@ -7,228 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243128_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5t9KYe0Fhd5cW6UYT4qP8f",
-      "name": "Good Vibrations - Remastered 2001",
+      "track": {
+        "id": "5t9KYe0Fhd5cW6UYT4qP8f",
+        "name": "Good Vibrations - Remastered 2001"
+      },
       "duration_ms": 219026,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "37rNuexqEXWeSIOiJtn3A9",
+      "album": {
+        "id": "37rNuexqEXWeSIOiJtn3A9",
+        "name": "Smiley Smile (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb9dac3244b8486758058a81"
+      },
       "release_date": "1967-09-18",
       "popularity": 71
     },
     {
-      "trackId": "5Y4LEcVHTi9TGbFwwLiKtv",
-      "name": "Sunny Girl",
+      "track": {
+        "id": "5Y4LEcVHTi9TGbFwwLiKtv",
+        "name": "Sunny Girl"
+      },
       "duration_ms": 143333,
-      "artist": [
-        "Hep Stars"
+      "artists": [
+        {
+          "name": "Hep Stars",
+          "id": "7FZqbNdkNb0UVVze7L8PGp"
+        }
       ],
-      "artistId": [
-        "7FZqbNdkNb0UVVze7L8PGp"
-      ],
-      "albumId": "5QmLPislCQ8i4Q8qniExBe",
+      "album": {
+        "id": "5QmLPislCQ8i4Q8qniExBe",
+        "name": "The Hep Stars",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228fd313ce30f0f0491f18b39"
+      },
       "release_date": "1966",
       "popularity": 33
     },
     {
-      "trackId": "6rPTiHMPHXOE0cM2e9XZM5",
-      "name": "Living Thing - Live",
+      "track": {
+        "id": "6rPTiHMPHXOE0cM2e9XZM5",
+        "name": "Living Thing - Live"
+      },
       "duration_ms": 235626,
-      "artist": [
-        "ELO",
-        "Electric Light Orchestra Part 2"
+      "artists": [
+        {
+          "name": "ELO",
+          "id": "33fY1P5TsAeEK2VgATvz1A"
+        },
+        {
+          "name": "Electric Light Orchestra Part 2",
+          "id": "5ksXiiMlXTGICAoTQQrADE"
+        }
       ],
-      "artistId": [
-        "33fY1P5TsAeEK2VgATvz1A",
-        "5ksXiiMlXTGICAoTQQrADE"
-      ],
-      "albumId": "677UQsIZZfCIcYrnyg1MlZ",
+      "album": {
+        "id": "677UQsIZZfCIcYrnyg1MlZ",
+        "name": "One Night in Australia - Live",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a5d7ad14fce03710f32be8e"
+      },
       "release_date": "2000-03-01",
       "popularity": 22
     },
     {
-      "trackId": "2uE5JDb0ZJsJkzZ8gvL5jw",
-      "name": "I Hear You Knocking",
+      "track": {
+        "id": "2uE5JDb0ZJsJkzZ8gvL5jw",
+        "name": "I Hear You Knocking"
+      },
       "duration_ms": 167786,
-      "artist": [
-        "Dave Edmunds"
+      "artists": [
+        {
+          "name": "Dave Edmunds",
+          "id": "65Gh3BfK84aTIugiRCgLBA"
+        }
       ],
-      "artistId": [
-        "65Gh3BfK84aTIugiRCgLBA"
-      ],
-      "albumId": "5lyU5HlgoPlJi8JdXysiRw",
+      "album": {
+        "id": "5lyU5HlgoPlJi8JdXysiRw",
+        "name": "I Hear You Knocking",
+        "img": "https://i.scdn.co/image/ab67616d00001e025652f82e8e7cf4ec1ab43818"
+      },
       "release_date": "1997-02-17",
       "popularity": 50
     },
     {
-      "trackId": "57gsPhb9kxO9Z0jM6vwW38",
-      "name": "Every Little Move She Makes",
+      "track": {
+        "id": "57gsPhb9kxO9Z0jM6vwW38",
+        "name": "Every Little Move She Makes"
+      },
       "duration_ms": 172360,
-      "artist": [
-        "White Plains"
+      "artists": [
+        {
+          "name": "White Plains",
+          "id": "0xWTQw2TL6j7mHGOTltsEW"
+        }
       ],
-      "artistId": [
-        "0xWTQw2TL6j7mHGOTltsEW"
-      ],
-      "albumId": "7scn5zWo1h0U1np5FVekWU",
+      "album": {
+        "id": "7scn5zWo1h0U1np5FVekWU",
+        "name": "My Baby Loves Lovin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e028595737d0ac4069bf22a5cb0"
+      },
       "release_date": "1970",
       "popularity": 27
     },
     {
-      "trackId": "3RlsVPIIs5KFhLFhxZ4iDF",
-      "name": "Rockstar",
+      "track": {
+        "id": "3RlsVPIIs5KFhLFhxZ4iDF",
+        "name": "Rockstar"
+      },
       "duration_ms": 252040,
-      "artist": [
-        "Nickelback"
+      "artists": [
+        {
+          "name": "Nickelback",
+          "id": "6deZN1bslXzeGvOLaLMOIF"
+        }
       ],
-      "artistId": [
-        "6deZN1bslXzeGvOLaLMOIF"
-      ],
-      "albumId": "74qGFpCx9XpFaZUnqqdDtb",
+      "album": {
+        "id": "74qGFpCx9XpFaZUnqqdDtb",
+        "name": "All the Right Reasons (Walmart Exclusive Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028ad2adfa59683b9c8ace96c1"
+      },
       "release_date": "2005-09-26",
       "popularity": 69
     },
     {
-      "trackId": "6y2RAwldW4SnKlNkLXNlto",
-      "name": "The Harder They Come",
+      "track": {
+        "id": "6y2RAwldW4SnKlNkLXNlto",
+        "name": "The Harder They Come"
+      },
       "duration_ms": 234040,
-      "artist": [
-        "Joe Jackson"
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "id": "6KOqPxwfNAmZPkiCnDE9yT"
+        }
       ],
-      "artistId": [
-        "6KOqPxwfNAmZPkiCnDE9yT"
-      ],
-      "albumId": "6lf34vWTt3XlTUc7sDvJIQ",
+      "album": {
+        "id": "6lf34vWTt3XlTUc7sDvJIQ",
+        "name": "Classic Joe Jackson (The Universal Masters Collection)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efcd79d4b3aaa2f1e97dd46f"
+      },
       "release_date": "2000-01-01",
       "popularity": 38
     },
     {
-      "trackId": "2bbIswC2E2MMSSjcHFD17G",
-      "name": "The Free Electric Band",
+      "track": {
+        "id": "2bbIswC2E2MMSSjcHFD17G",
+        "name": "The Free Electric Band"
+      },
       "duration_ms": 206706,
-      "artist": [
-        "Albert Hammond"
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "id": "34E3csCxpXunPGEkOVVX2g"
+        }
       ],
-      "artistId": [
-        "34E3csCxpXunPGEkOVVX2g"
-      ],
-      "albumId": "6QdPOq6BFtRpwRASty6TZN",
+      "album": {
+        "id": "6QdPOq6BFtRpwRASty6TZN",
+        "name": "The Free Electric Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1d5e346a03a2b1614719be8"
+      },
       "release_date": "1973-08-16",
       "popularity": 53
     },
     {
-      "trackId": "26BpoFfXMCt0iX4daD6U9O",
-      "name": "Hi-De-Ho",
+      "track": {
+        "id": "26BpoFfXMCt0iX4daD6U9O",
+        "name": "Hi-De-Ho"
+      },
       "duration_ms": 263800,
-      "artist": [
-        "Blood, Sweat & Tears"
+      "artists": [
+        {
+          "name": "Blood, Sweat & Tears",
+          "id": "24GaH9tRBgZjlvOhpFuKi2"
+        }
       ],
-      "artistId": [
-        "24GaH9tRBgZjlvOhpFuKi2"
-      ],
-      "albumId": "3Va4LEJ4n3EZxMo3CGLpB5",
+      "album": {
+        "id": "3Va4LEJ4n3EZxMo3CGLpB5",
+        "name": "Blood, Sweat And Tears 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e026339ce72540bd20c7b667986"
+      },
       "release_date": "1970-09",
       "popularity": 34
     },
     {
-      "trackId": "6Y6jq2el8dK1g00JppZXye",
-      "name": "Stompalång Tut Pling Sång",
+      "track": {
+        "id": "6Y6jq2el8dK1g00JppZXye",
+        "name": "Stompalång Tut Pling Sång"
+      },
       "duration_ms": 230626,
-      "artist": [
-        "Babblarna"
+      "artists": [
+        {
+          "name": "Babblarna",
+          "id": "1aA5OGASCVhznQYm71BMYg"
+        }
       ],
-      "artistId": [
-        "1aA5OGASCVhznQYm71BMYg"
-      ],
-      "albumId": "4UJNmi54rOAergmdb546OD",
+      "album": {
+        "id": "4UJNmi54rOAergmdb546OD",
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230040d3f0ae79c0023365cf4"
+      },
       "release_date": "2015-01-01",
       "popularity": 51
     },
     {
-      "trackId": "5kgeY3w4sIcY2z8mOhhGc1",
-      "name": "Im Wunderschönen Monat Mai",
+      "track": {
+        "id": "5kgeY3w4sIcY2z8mOhhGc1",
+        "name": "Im Wunderschönen Monat Mai"
+      },
       "duration_ms": 162186,
-      "artist": [
-        "Göran Fristorp"
+      "artists": [
+        {
+          "name": "Göran Fristorp",
+          "id": "2Yo1VjRnajVV0548nqI5gG"
+        }
       ],
-      "artistId": [
-        "2Yo1VjRnajVV0548nqI5gG"
-      ],
-      "albumId": "01humoR5j4rm1GBvZ2SIpz",
+      "album": {
+        "id": "01humoR5j4rm1GBvZ2SIpz",
+        "name": "Göran Fristorp sjunger Fröding",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244fed65ad10a7fb9a15a4d95"
+      },
       "release_date": "1977-01-01",
       "popularity": 1
     },
     {
-      "trackId": "31gGBW3iiuwtrLwiJYLROq",
-      "name": "Blomstertid",
+      "track": {
+        "id": "31gGBW3iiuwtrLwiJYLROq",
+        "name": "Blomstertid"
+      },
       "duration_ms": 140500,
-      "artist": [
-        "Bianca Ingrosso"
+      "artists": [
+        {
+          "name": "Bianca Ingrosso",
+          "id": "3VhdRFPzyb8huDuJkxpLFa"
+        }
       ],
-      "artistId": [
-        "3VhdRFPzyb8huDuJkxpLFa"
-      ],
-      "albumId": "6dYtRAFf281HXcXqFTPVBl",
+      "album": {
+        "id": "6dYtRAFf281HXcXqFTPVBl",
+        "name": "Blomstertid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db903867243d8d738caf3e5b"
+      },
       "release_date": "2021-07-02",
       "popularity": 55
     },
     {
-      "trackId": "7iN1s7xHE4ifF5povM6A48",
-      "name": "Let It Be - Remastered 2009",
+      "track": {
+        "id": "7iN1s7xHE4ifF5povM6A48",
+        "name": "Let It Be - Remastered 2009"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+      "album": {
+        "id": "0jTGHV5xqHPvEcwL8f6YU5",
+        "name": "Let It Be (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1"
+      },
       "release_date": "1970-05-08",
       "popularity": 77
     },
     {
-      "trackId": "7eQQrzIYmcgaezzpegf9TJ",
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "track": {
+        "id": "7eQQrzIYmcgaezzpegf9TJ",
+        "name": "It Don't Mean A Thing (If It Ain't Got That Swing)"
+      },
       "duration_ms": 136346,
-      "artist": [
-        "Mel Tormé"
+      "artists": [
+        {
+          "name": "Mel Tormé",
+          "id": "4X8QFzZ1HqwPfwDfyjtwXC"
+        }
       ],
-      "artistId": [
-        "4X8QFzZ1HqwPfwDfyjtwXC"
-      ],
-      "albumId": "6M33HTGznZaqauVf3XTRWU",
+      "album": {
+        "id": "6M33HTGznZaqauVf3XTRWU",
+        "name": "The Velvet Fog: The Very Best of Mel Torme",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279f237a801fd356899164ad3"
+      },
       "release_date": "2010-02-22",
       "popularity": 12
     },
     {
-      "trackId": "4M5pNkmGe4YmFOERgloyoB",
-      "name": "Police Car",
+      "track": {
+        "id": "4M5pNkmGe4YmFOERgloyoB",
+        "name": "Police Car"
+      },
       "duration_ms": 203493,
-      "artist": [
-        "Larry Wallis"
+      "artists": [
+        {
+          "name": "Larry Wallis",
+          "id": "7nYvYUVeMypbxXWdXifOSB"
+        }
       ],
-      "artistId": [
-        "7nYvYUVeMypbxXWdXifOSB"
-      ],
-      "albumId": "0qeXmJWSavN7cLlwWYesPg",
+      "album": {
+        "id": "0qeXmJWSavN7cLlwWYesPg",
+        "name": "The Stiff Singles (Vol.1)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e754591486ef8d52386f7a7c"
+      },
       "release_date": "2006-05-30",
       "popularity": 37
     },
     {
-      "trackId": "0CK0wN1Fhd4afkKyICrSlB",
-      "name": "My My, Hey Hey (Out of the Blue)",
+      "track": {
+        "id": "0CK0wN1Fhd4afkKyICrSlB",
+        "name": "My My, Hey Hey (Out of the Blue)"
+      },
       "duration_ms": 238802,
-      "artist": [
-        "Midnite String Quartet"
+      "artists": [
+        {
+          "name": "Midnite String Quartet",
+          "id": "648dUUIlz7RSeg3O8CbTat"
+        }
       ],
-      "artistId": [
-        "648dUUIlz7RSeg3O8CbTat"
-      ],
-      "albumId": "0kbyHgUm2hHfiywTEuIdmJ",
+      "album": {
+        "id": "0kbyHgUm2hHfiywTEuIdmJ",
+        "name": "MSQ Performs Neil Young",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da5d16078adb2188bf218a11"
+      },
       "release_date": "2021-11-26",
       "popularity": 4
     }

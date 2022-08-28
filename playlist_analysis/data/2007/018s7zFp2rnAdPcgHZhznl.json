@@ -7,230 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257923_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3Qfk0grXXpidpuA64EKb3r",
-      "name": "Proud",
+      "track": {
+        "id": "3Qfk0grXXpidpuA64EKb3r",
+        "name": "Proud"
+      },
       "duration_ms": 268600,
-      "artist": [
-        "Heather Small"
+      "artists": [
+        {
+          "name": "Heather Small",
+          "id": "3tnTlR2MCaYNQqV3v1908x"
+        }
       ],
-      "artistId": [
-        "3tnTlR2MCaYNQqV3v1908x"
-      ],
-      "albumId": "0hLjy4JV54hKX3GM9Evmuw",
+      "album": {
+        "id": "0hLjy4JV54hKX3GM9Evmuw",
+        "name": "Proud",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d892a7641d0d6b6169387923"
+      },
       "release_date": "1999-06-28",
       "popularity": 49
     },
     {
-      "trackId": "0uVwEbcp49xuPUdPOGLsAU",
-      "name": "Gianni Schicchi: \"O mio babbino caro\"",
+      "track": {
+        "id": "0uVwEbcp49xuPUdPOGLsAU",
+        "name": "Gianni Schicchi: \"O mio babbino caro\""
+      },
       "duration_ms": 169413,
-      "artist": [
-        "Giacomo Puccini",
-        "Renée Fleming",
-        "London Philharmonic Orchestra"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Renée Fleming",
+          "id": "3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "id": "3PfJE6ebCbCHeuqO4BfNeA"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "3SK3gLBgy1jRuA4VnLlcs8",
-        "3PfJE6ebCbCHeuqO4BfNeA"
-      ],
-      "albumId": "0p9wRVe7Tv8odsHp8sPdoJ",
+      "album": {
+        "id": "0p9wRVe7Tv8odsHp8sPdoJ",
+        "name": "Puccini: Opera Arias",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf707ebef8a06aa536ed8a41"
+      },
       "release_date": "2008-01-01",
       "popularity": 46
     },
     {
-      "trackId": "1nAexCn3dPoFSmE7h6P5S7",
-      "name": "Sometimes When We Touch",
+      "track": {
+        "id": "1nAexCn3dPoFSmE7h6P5S7",
+        "name": "Sometimes When We Touch"
+      },
       "duration_ms": 252693,
-      "artist": [
-        "Dan Hill"
+      "artists": [
+        {
+          "name": "Dan Hill",
+          "id": "5rOhfAsK4uxq9OdREiQRKa"
+        }
       ],
-      "artistId": [
-        "5rOhfAsK4uxq9OdREiQRKa"
-      ],
-      "albumId": "0dQK7dydGZY4UPL87P3YhW",
+      "album": {
+        "id": "0dQK7dydGZY4UPL87P3YhW",
+        "name": "Longer Fuse",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203415aaaada0c9c28cda20ee"
+      },
       "release_date": "1977",
       "popularity": 63
     },
     {
-      "trackId": "3NfxSdJnVdon1axzloJgba",
-      "name": "I Say a Little Prayer",
+      "track": {
+        "id": "3NfxSdJnVdon1axzloJgba",
+        "name": "I Say a Little Prayer"
+      },
       "duration_ms": 216773,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+      "album": {
+        "id": "55HZ2ectg1mMTEKDqIq3kC",
+        "name": "Aretha Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246c31f64babcbfca6e061b6b"
+      },
       "release_date": "1968-06-14",
       "popularity": 74
     },
     {
-      "trackId": "3W64IS8ZqASfmEYTZMgO3M",
-      "name": "Du är min man",
+      "track": {
+        "id": "3W64IS8ZqASfmEYTZMgO3M",
+        "name": "Du är min man"
+      },
       "duration_ms": 215600,
-      "artist": [
-        "Benny Anderssons Orkester",
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        },
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS",
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "0IpwjWmQNt0ceesV6p629y",
+      "album": {
+        "id": "0IpwjWmQNt0ceesV6p629y",
+        "name": "BAO!",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e872fdad60c7d69cbb278d6"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "3c8JemHol1XwFFruXQxjCO",
-      "name": "Everybody's Talkin'",
+      "track": {
+        "id": "3c8JemHol1XwFFruXQxjCO",
+        "name": "Everybody's Talkin'"
+      },
       "duration_ms": 152226,
-      "artist": [
-        "Harry Nilsson"
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "id": "3RTzAwFprBqiskp550eSJX"
+        }
       ],
-      "artistId": [
-        "3RTzAwFprBqiskp550eSJX"
-      ],
-      "albumId": "4si97m2YFhhUxllFaZxbST",
+      "album": {
+        "id": "4si97m2YFhhUxllFaZxbST",
+        "name": "Midnight Cowboy",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e5ac4baebfb187adfc1c43d"
+      },
       "release_date": "1985-01-01",
       "popularity": 64
     },
     {
-      "trackId": "2eFE6cllzJYvLa8baA5xCD",
-      "name": "O, Min Carl Gustaf",
+      "track": {
+        "id": "2eFE6cllzJYvLa8baA5xCD",
+        "name": "O, Min Carl Gustaf"
+      },
       "duration_ms": 185493,
-      "artist": [
-        "Kjerstin Dellert"
+      "artists": [
+        {
+          "name": "Kjerstin Dellert",
+          "id": "3leiKtqKXQygqdBCqiLEhj"
+        }
       ],
-      "artistId": [
-        "3leiKtqKXQygqdBCqiLEhj"
-      ],
-      "albumId": "1mrcXLNyArRFBTcsg75j6l",
+      "album": {
+        "id": "1mrcXLNyArRFBTcsg75j6l",
+        "name": "Svensktoppar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd949833534a9ab6e7fd5970"
+      },
       "release_date": "2002-01-01",
       "popularity": 33
     },
     {
-      "trackId": "5dz6EBTGzZOljMID8LNUuT",
-      "name": "Whoopin’ the Blues",
+      "track": {
+        "id": "5dz6EBTGzZOljMID8LNUuT",
+        "name": "Whoopin’ the Blues"
+      },
       "duration_ms": 170026,
-      "artist": [
-        "Sonny Terry"
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "id": "66hQFpsfaFzK8UbsQofCGv"
+        }
       ],
-      "artistId": [
-        "66hQFpsfaFzK8UbsQofCGv"
-      ],
-      "albumId": "34Abb2l06FhJPQ7cg4KJnn",
+      "album": {
+        "id": "34Abb2l06FhJPQ7cg4KJnn",
+        "name": "Saga Blues: Harlem Troubadours",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d03b64328ad50f77d6765167"
+      },
       "release_date": "2005",
       "popularity": 7
     },
     {
-      "trackId": "4xUqqie4bBKufHtlMuZS3k",
-      "name": "Are You Lonesome Tonight?",
+      "track": {
+        "id": "4xUqqie4bBKufHtlMuZS3k",
+        "name": "Are You Lonesome Tonight?"
+      },
       "duration_ms": 186666,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+      "album": {
+        "id": "0gv5aiVS1WBUZOKeb7YawE",
+        "name": "Platinum - A Life In Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843"
+      },
       "release_date": "1997-07-15",
       "popularity": 56
     },
     {
-      "trackId": "64VP3skE86iTvdOlbzuIcO",
-      "name": "Great Balls Of Fire",
+      "track": {
+        "id": "64VP3skE86iTvdOlbzuIcO",
+        "name": "Great Balls Of Fire"
+      },
       "duration_ms": 111535,
-      "artist": [
-        "Jerry Lee Lewis"
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "id": "2zyz0VJqrDXeFDIyrfVXSo"
+        }
       ],
-      "artistId": [
-        "2zyz0VJqrDXeFDIyrfVXSo"
-      ],
-      "albumId": "02FCCye8QsWyjHwedg9Quj",
+      "album": {
+        "id": "02FCCye8QsWyjHwedg9Quj",
+        "name": "Jerry Lee's Greatest",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295788c15edfdca94ad6fa6ab"
+      },
       "release_date": "1961-12-01",
       "popularity": 67
     },
     {
-      "trackId": "6hpmTwgNCz81H2bFEREx29",
-      "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2",
+      "track": {
+        "id": "6hpmTwgNCz81H2bFEREx29",
+        "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2"
+      },
       "duration_ms": 318800,
-      "artist": [
-        "James Brown",
-        "The Original J.B.s"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "The Original J.B.s",
+          "id": "4GwjLszGqU37HqCgpBNPoU"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW",
-        "4GwjLszGqU37HqCgpBNPoU"
-      ],
-      "albumId": "2qHJQ1SqVTUfN93ovRHjZc",
+      "album": {
+        "id": "2qHJQ1SqVTUfN93ovRHjZc",
+        "name": "70's Funk Classics",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b9094895b623e3a0dbbc583e"
+      },
       "release_date": "1995-04-16",
       "popularity": 57
     },
     {
-      "trackId": "6LpcVIQ2uHoFuIq8U6Js5V",
-      "name": "Vindarna Sucka Uti Skogarna",
+      "track": {
+        "id": "6LpcVIQ2uHoFuIq8U6Js5V",
+        "name": "Vindarna Sucka Uti Skogarna"
+      },
       "duration_ms": 182466,
-      "artist": [
-        "Monica Zetterlund",
-        "Bill Evans"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "id": "4jXfFzeP66Zy67HM2mvIIF"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD",
-        "4jXfFzeP66Zy67HM2mvIIF"
-      ],
-      "albumId": "5jMKNvYYHH08quqLK3ylTC",
+      "album": {
+        "id": "5jMKNvYYHH08quqLK3ylTC",
+        "name": "Waltz For Debby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4e6d8633c7f37f127d66f8e"
+      },
       "release_date": "1964-12-01",
       "popularity": 24
     },
     {
-      "trackId": "18nhUQrKfD6xeTDoynGHu0",
-      "name": "Capona",
+      "track": {
+        "id": "18nhUQrKfD6xeTDoynGHu0",
+        "name": "Capona"
+      },
       "duration_ms": 158533,
-      "artist": [
-        "Antonio Carbonchi",
-        "Rolf Lislevand",
-        "Thor-Harald Johnsen"
+      "artists": [
+        {
+          "name": "Antonio Carbonchi",
+          "id": "2e1WQQGJXu49Xl9EughC73"
+        },
+        {
+          "name": "Rolf Lislevand",
+          "id": "6JM9ijNSKNjSXzxVrFjmuh"
+        },
+        {
+          "name": "Thor-Harald Johnsen",
+          "id": "3roHKy8ruDqqgYSr6VniRG"
+        }
       ],
-      "artistId": [
-        "2e1WQQGJXu49Xl9EughC73",
-        "6JM9ijNSKNjSXzxVrFjmuh",
-        "3roHKy8ruDqqgYSr6VniRG"
-      ],
-      "albumId": "11UvotzlK6k4O4SW1Kjsbt",
+      "album": {
+        "id": "11UvotzlK6k4O4SW1Kjsbt",
+        "name": "Scaramanzia",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fdace9a707d7d6806f80adf"
+      },
       "release_date": "2013",
       "popularity": 1
     },
     {
-      "trackId": "53cIguDgtNkKgSVWRzi5rm",
-      "name": "Wagner: Lohengrin, WWV 75, Act 1: Prelude (Langsam)",
+      "track": {
+        "id": "53cIguDgtNkKgSVWRzi5rm",
+        "name": "Wagner: Lohengrin, WWV 75, Act 1: Prelude (Langsam)"
+      },
       "duration_ms": 513600,
-      "artist": [
-        "Richard Wagner",
-        "Wiener Philharmoniker",
-        "Rudolf Kempe"
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "id": "1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "id": "0zTyIQF8geFUI5op5Ocimg"
+        }
       ],
-      "artistId": [
-        "1C1x4MVkql8AiABuTw6DgE",
-        "003f4bk13c6Q3gAUXv7dGJ",
-        "0zTyIQF8geFUI5op5Ocimg"
-      ],
-      "albumId": "3R6nf8Pj6h6flZLkmFUdQd",
+      "album": {
+        "id": "3R6nf8Pj6h6flZLkmFUdQd",
+        "name": "Wagner: Lohengrin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1b9866eeb95dd099812a3d7"
+      },
       "release_date": "1964",
       "popularity": 17
     },
     {
-      "trackId": "5IrfZyMoAcdtAnqsD3UUtD",
-      "name": "Thank You",
+      "track": {
+        "id": "5IrfZyMoAcdtAnqsD3UUtD",
+        "name": "Thank You"
+      },
       "duration_ms": 199480,
-      "artist": [
-        "Salem Al Fakir"
+      "artists": [
+        {
+          "name": "Salem Al Fakir",
+          "id": "2MRmHQ6G4vEIIlMYbMLlQ5"
+        }
       ],
-      "artistId": [
-        "2MRmHQ6G4vEIIlMYbMLlQ5"
-      ],
-      "albumId": "3wl5JnJ067OSNpHH0H5VXp",
+      "album": {
+        "id": "3wl5JnJ067OSNpHH0H5VXp",
+        "name": "This Is Who I Am",
+        "img": "https://i.scdn.co/image/ab67616d00001e022087d03cff5d912942e5c50d"
+      },
       "release_date": "2007-01-22",
       "popularity": 11
     }

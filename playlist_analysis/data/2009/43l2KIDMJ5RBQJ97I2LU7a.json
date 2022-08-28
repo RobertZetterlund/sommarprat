@@ -7,260 +7,382 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3246464_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7CEDUZy9hw1O90bWdOOVFx",
-      "name": "HALLELUJAKÖREN",
+      "track": {
+        "id": "7CEDUZy9hw1O90bWdOOVFx",
+        "name": "HALLELUJAKÖREN"
+      },
       "duration_ms": 254586,
-      "artist": [
-        "Kjell Lönnå"
+      "artists": [
+        {
+          "name": "Kjell Lönnå",
+          "id": "384IZ3OeRCu24mE08pxZRz"
+        }
       ],
-      "artistId": [
-        "384IZ3OeRCu24mE08pxZRz"
-      ],
-      "albumId": "0O9fBMpGGTfPS9cLyb3hhX",
+      "album": {
+        "id": "0O9fBMpGGTfPS9cLyb3hhX",
+        "name": "Tusentals Röster i Globen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249f51251b5a6f820266e71d3"
+      },
       "release_date": "2015-09-25",
       "popularity": 4
     },
     {
-      "trackId": "782sTOgHercXWURU3NhXZ4",
-      "name": "Syförenings-Boogie - 2001 Remaster",
+      "track": {
+        "id": "782sTOgHercXWURU3NhXZ4",
+        "name": "Syförenings-Boogie - 2001 Remaster"
+      },
       "duration_ms": 152360,
-      "artist": [
-        "Charlie Norman"
+      "artists": [
+        {
+          "name": "Charlie Norman",
+          "id": "3YkaicfYcthovHMsDHEh8j"
+        }
       ],
-      "artistId": [
-        "3YkaicfYcthovHMsDHEh8j"
-      ],
-      "albumId": "01o1g3O5JJov0jgcWiV2aH",
+      "album": {
+        "id": "01o1g3O5JJov0jgcWiV2aH",
+        "name": "Swedish jazz Masters: Charlie Norman - 1 Timme, 12 Minuter Och 30 Sekunder",
+        "img": "https://i.scdn.co/image/ab67616d00001e02496eb49be45386d7b67d21d2"
+      },
       "release_date": "2001",
       "popularity": 18
     },
     {
-      "trackId": "7yAr6jaqG0GFYoNHYFVbuT",
-      "name": "Parry: Myfanwy",
+      "track": {
+        "id": "7yAr6jaqG0GFYoNHYFVbuT",
+        "name": "Parry: Myfanwy"
+      },
       "duration_ms": 164400,
-      "artist": [
-        "Parry, John",
-        "Mynyddog",
-        "The North Wales Association Of The Male Voice Choirs"
+      "artists": [
+        {
+          "name": "Parry, John",
+          "id": "3loU0ypyx0oy8aApl863wV"
+        },
+        {
+          "name": "Mynyddog",
+          "id": "3SCzPsks07dipT3tOOxqYB"
+        },
+        {
+          "name": "The North Wales Association Of The Male Voice Choirs",
+          "id": "1ugGPgdVN9LW08PWbQcgm9"
+        }
       ],
-      "artistId": [
-        "3loU0ypyx0oy8aApl863wV",
-        "3SCzPsks07dipT3tOOxqYB",
-        "1ugGPgdVN9LW08PWbQcgm9"
-      ],
-      "albumId": "2WKr8ktLbcCSsCl1LxXcm0",
+      "album": {
+        "id": "2WKr8ktLbcCSsCl1LxXcm0",
+        "name": "The World of Wales in Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b1a92101e3cfc1e26cfc392"
+      },
       "release_date": "1999",
       "popularity": 14
     },
     {
-      "trackId": "45zv7yaWnvtegIeTwK1Hfq",
-      "name": "God Loves Everyone - Live",
+      "track": {
+        "id": "45zv7yaWnvtegIeTwK1Hfq",
+        "name": "God Loves Everyone - Live"
+      },
       "duration_ms": 200063,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "1QJh9i94hL18YACZoBaar3",
+      "album": {
+        "id": "1QJh9i94hL18YACZoBaar3",
+        "name": "Rakt upp och ner",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236d5bcc7db91a98dfaf89c33"
+      },
       "release_date": "2007-05-30",
       "popularity": 9
     },
     {
-      "trackId": "69XmGDda7Gd8UITZ80n1HD",
-      "name": "Over The Rainbow",
+      "track": {
+        "id": "69XmGDda7Gd8UITZ80n1HD",
+        "name": "Over The Rainbow"
+      },
       "duration_ms": 282840,
-      "artist": [
-        "Ben Webster"
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "id": "34W7ZCX0LZeJd8q6boKGOk"
+        }
       ],
-      "artistId": [
-        "34W7ZCX0LZeJd8q6boKGOk"
-      ],
-      "albumId": "1jMKRKYJTWspPOKBmjfUsq",
+      "album": {
+        "id": "1jMKRKYJTWspPOKBmjfUsq",
+        "name": "See You At The Fair",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d4721ec63a741fd566061ee"
+      },
       "release_date": "1964",
       "popularity": 44
     },
     {
-      "trackId": "1nUNJUNwLq4NQizKqJMH1V",
-      "name": "You Are The Light",
+      "track": {
+        "id": "1nUNJUNwLq4NQizKqJMH1V",
+        "name": "You Are The Light"
+      },
       "duration_ms": 229866,
-      "artist": [
-        "Oslo Gospel Choir"
+      "artists": [
+        {
+          "name": "Oslo Gospel Choir",
+          "id": "4e2YUhdd1EKare0kqDSP8j"
+        }
       ],
-      "artistId": [
-        "4e2YUhdd1EKare0kqDSP8j"
-      ],
-      "albumId": "7eRyxJET0XT0vlLimrRB4j",
+      "album": {
+        "id": "7eRyxJET0XT0vlLimrRB4j",
+        "name": "Get Together",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0bee8b9885d3875337a09f3"
+      },
       "release_date": "1992",
       "popularity": 18
     },
     {
-      "trackId": "6tmnvNF7vWMdd4AxFEza7J",
-      "name": "Ack Värmeland du sköna",
+      "track": {
+        "id": "6tmnvNF7vWMdd4AxFEza7J",
+        "name": "Ack Värmeland du sköna"
+      },
       "duration_ms": 170160,
-      "artist": [
-        "Stan Getz",
-        "Swedish All Stars"
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "id": "0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Swedish All Stars",
+          "id": "2IeJ4FAeqqVo02SS62DzoG"
+        }
       ],
-      "artistId": [
-        "0FMucZsEnCxs5pqBjHjIc8",
-        "2IeJ4FAeqqVo02SS62DzoG"
-      ],
-      "albumId": "2lvPhinkRtbm3cfButNBjZ",
+      "album": {
+        "id": "2lvPhinkRtbm3cfButNBjZ",
+        "name": "Swedish All Stars Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee94fd2e2e9669c0102234a2"
+      },
       "release_date": "1953",
       "popularity": 16
     },
     {
-      "trackId": "3AF1Xr3KcGVWnZfbaT4wAS",
-      "name": "Odnozvuchno gryemit kolololchick (Monotonously rings the little bell) - 2010 - Remaster",
+      "track": {
+        "id": "3AF1Xr3KcGVWnZfbaT4wAS",
+        "name": "Odnozvuchno gryemit kolololchick (Monotonously rings the little bell) - 2010 - Remaster"
+      },
       "duration_ms": 238840,
-      "artist": [
-        "Russian Mens Chorus",
-        "Russian Balalaika Orchestra",
-        "Lonya Kolbouss"
+      "artists": [
+        {
+          "name": "Russian Mens Chorus",
+          "id": "71lFIntb6T9GwXkRh1Qhf5"
+        },
+        {
+          "name": "Russian Balalaika Orchestra",
+          "id": "7jHAvmgHkH2Qyub8ab3uIf"
+        },
+        {
+          "name": "Lonya Kolbouss",
+          "id": "4FO5z72abFix5UydGSvhvO"
+        }
       ],
-      "artistId": [
-        "71lFIntb6T9GwXkRh1Qhf5",
-        "7jHAvmgHkH2Qyub8ab3uIf",
-        "4FO5z72abFix5UydGSvhvO"
-      ],
-      "albumId": "2vhtDtanJDGLyIX4TEsDs9",
+      "album": {
+        "id": "2vhtDtanJDGLyIX4TEsDs9",
+        "name": "Nicolai Gedda: Lyric Poet of the Tenor Voice",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da316a3f94487344f7637e3c"
+      },
       "release_date": "2010-02-19",
       "popularity": 2
     },
     {
-      "trackId": "6wobY4ZqwprF0ATTlf2ekz",
-      "name": "Kjell är homosexuell",
+      "track": {
+        "id": "6wobY4ZqwprF0ATTlf2ekz",
+        "name": "Kjell är homosexuell"
+      },
       "duration_ms": 183327,
-      "artist": [
-        "Bayram Band"
+      "artists": [
+        {
+          "name": "Bayram Band",
+          "id": "0dZXocU6dWiizax8VJg9UH"
+        }
       ],
-      "artistId": [
-        "0dZXocU6dWiizax8VJg9UH"
-      ],
-      "albumId": "6uIweQrtpPMSh6Yo1NThRb",
+      "album": {
+        "id": "6uIweQrtpPMSh6Yo1NThRb",
+        "name": "Gubbsjuk och snygg",
+        "img": "https://i.scdn.co/image/ab67616d00001e026fb535c64031ba18609e3d46"
+      },
       "release_date": "2003",
       "popularity": 34
     },
     {
-      "trackId": "2uotez2GWPFpH8MNqyYtW5",
-      "name": "Du måste finnas",
+      "track": {
+        "id": "2uotez2GWPFpH8MNqyYtW5",
+        "name": "Du måste finnas"
+      },
       "duration_ms": 341040,
-      "artist": [
-        "Benny Andersson",
-        "Helen Sjöholm",
-        "Malmö Musikteaters kör & ork"
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        },
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Malmö Musikteaters kör & ork",
+          "id": "0UyNGJtAvhdy7TnlzRXZvk"
+        }
       ],
-      "artistId": [
-        "0kV0e99xlTJcLKSu8KrLyp",
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "0UyNGJtAvhdy7TnlzRXZvk"
-      ],
-      "albumId": "1IY2V2rDRdsPw7RvwlZ140",
+      "album": {
+        "id": "1IY2V2rDRdsPw7RvwlZ140",
+        "name": "Kristina från Duvemåla",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242192c478d6c6bad2e1769a8"
+      },
       "release_date": "2007-01-01",
       "popularity": 45
     },
     {
-      "trackId": "38EQIzI7UrGJ6aGTaiqHJe",
-      "name": "Pilgrims' Hymn",
+      "track": {
+        "id": "38EQIzI7UrGJ6aGTaiqHJe",
+        "name": "Pilgrims' Hymn"
+      },
       "duration_ms": 224266,
-      "artist": [
-        "Roger Hoffman",
-        "The Tabernacle Choir at Temple Square",
-        "Orchestra at Temple Square"
+      "artists": [
+        {
+          "name": "Roger Hoffman",
+          "id": "0blalZinzY5QufjRJHtwjF"
+        },
+        {
+          "name": "The Tabernacle Choir at Temple Square",
+          "id": "1GRl6sRyLg9ToOohIE2wW5"
+        },
+        {
+          "name": "Orchestra at Temple Square",
+          "id": "4kAIRZipPTtTbZBTudxcEA"
+        }
       ],
-      "artistId": [
-        "0blalZinzY5QufjRJHtwjF",
-        "1GRl6sRyLg9ToOohIE2wW5",
-        "4kAIRZipPTtTbZBTudxcEA"
-      ],
-      "albumId": "0ueX5UqgKGU3a4XznZhmwo",
+      "album": {
+        "id": "0ueX5UqgKGU3a4XznZhmwo",
+        "name": "Consider the Lilies",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dec481ec8f184beec291c9ca"
+      },
       "release_date": "2003-05-06",
       "popularity": 25
     },
     {
-      "trackId": "5RCupeqoCOiKLuS5a94WqZ",
-      "name": "Vals i lekstugan",
+      "track": {
+        "id": "5RCupeqoCOiKLuS5a94WqZ",
+        "name": "Vals i lekstugan"
+      },
       "duration_ms": 116226,
-      "artist": [
-        "Kalle Moraeus",
-        "Bengan Janson"
+      "artists": [
+        {
+          "name": "Kalle Moraeus",
+          "id": "1NDYAcgpsX4ony5CD0QIxW"
+        },
+        {
+          "name": "Bengan Janson",
+          "id": "0R8GsgU3KTgqeXDec16uNp"
+        }
       ],
-      "artistId": [
-        "1NDYAcgpsX4ony5CD0QIxW",
-        "0R8GsgU3KTgqeXDec16uNp"
-      ],
-      "albumId": "5IE0ZPJ7HDMvTxkh77vj0o",
+      "album": {
+        "id": "5IE0ZPJ7HDMvTxkh77vj0o",
+        "name": "Kalle & Bengan Live in Köttsjön",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205a8fe869e8a38fff2a0b3a0"
+      },
       "release_date": "2001-01-01",
       "popularity": 2
     },
     {
-      "trackId": "2hCUmmNEYmmaZYWXONAx7D",
-      "name": "Flickan och kråkan",
+      "track": {
+        "id": "2hCUmmNEYmmaZYWXONAx7D",
+        "name": "Flickan och kråkan"
+      },
       "duration_ms": 230960,
-      "artist": [
-        "Mikael Wiehe"
+      "artists": [
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        }
       ],
-      "artistId": [
-        "3VOOmK7ZqJNgOPN1hopJuL"
-      ],
-      "albumId": "19yfx3yStZIhIVb99w71RO",
+      "album": {
+        "id": "19yfx3yStZIhIVb99w71RO",
+        "name": "Kråksånger",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e1789d3ac116f80a522e311"
+      },
       "release_date": "1981-01-01",
       "popularity": 42
     },
     {
-      "trackId": "59D0WzfS0ZpopcPHxVPF15",
-      "name": "Konditori Förgätmigej",
+      "track": {
+        "id": "59D0WzfS0ZpopcPHxVPF15",
+        "name": "Konditori Förgätmigej"
+      },
       "duration_ms": 284826,
-      "artist": [
-        "The Real Group"
+      "artists": [
+        {
+          "name": "The Real Group",
+          "id": "4EIXOUTnf8Gtbk2kq4LYNK"
+        }
       ],
-      "artistId": [
-        "4EIXOUTnf8Gtbk2kq4LYNK"
-      ],
-      "albumId": "2RrGNlRJ8IEWiwKI2nbwb9",
+      "album": {
+        "id": "2RrGNlRJ8IEWiwKI2nbwb9",
+        "name": "Håll musiken igång - The Real Group sjunger Povel",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283bc69339cccdb69ace78322"
+      },
       "release_date": "2008-06-25",
       "popularity": 4
     },
     {
-      "trackId": "2ID3rNM3hFBjqrLcV0Wr0y",
-      "name": "It Was A Very Good Year",
+      "track": {
+        "id": "2ID3rNM3hFBjqrLcV0Wr0y",
+        "name": "It Was A Very Good Year"
+      },
       "duration_ms": 267240,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3DdN3GRJj8YS0V0fiyXtbt",
+      "album": {
+        "id": "3DdN3GRJj8YS0V0fiyXtbt",
+        "name": "September Of My Years (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271c86926f93afe990f1b00e3"
+      },
       "release_date": "1965-08",
       "popularity": 56
     },
     {
-      "trackId": "2Fzpgk31ef5VfuE4nPpuQ2",
-      "name": "Gamla älskares sång - Live",
+      "track": {
+        "id": "2Fzpgk31ef5VfuE4nPpuQ2",
+        "name": "Gamla älskares sång - Live"
+      },
       "duration_ms": 367600,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "1QJh9i94hL18YACZoBaar3",
+      "album": {
+        "id": "1QJh9i94hL18YACZoBaar3",
+        "name": "Rakt upp och ner",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236d5bcc7db91a98dfaf89c33"
+      },
       "release_date": "2007-05-30",
       "popularity": 4
     },
     {
-      "trackId": "160hD5JOJTqyQGcZPKNLBJ",
-      "name": "Semester",
+      "track": {
+        "id": "160hD5JOJTqyQGcZPKNLBJ",
+        "name": "Semester"
+      },
       "duration_ms": 218746,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "2q9d8xI0lKnCJn4U6YM4wM",
+      "album": {
+        "id": "2q9d8xI0lKnCJn4U6YM4wM",
+        "name": "I centrum",
+        "img": "https://i.scdn.co/image/ab67616d00001e02346e406a32597436e120b450"
+      },
       "release_date": "1998-09-25",
       "popularity": 47
     }

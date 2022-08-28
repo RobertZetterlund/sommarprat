@@ -7,214 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243443_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4Bkdwjj91RRLgYPXYk0sYp",
-      "name": "De sista ljuva åren",
+      "track": {
+        "id": "4Bkdwjj91RRLgYPXYk0sYp",
+        "name": "De sista ljuva åren"
+      },
       "duration_ms": 230213,
-      "artist": [
-        "Lasse Stefanz",
-        "Christina Lindberg"
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "id": "0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "Christina Lindberg",
+          "id": "4XKh5jfRDEwgI8YKxcDU6w"
+        }
       ],
-      "artistId": [
-        "0ntVZReCfBFQctUiiaTaeu",
-        "4XKh5jfRDEwgI8YKxcDU6w"
-      ],
-      "albumId": "0ZJMmlYsFhDluMTfdMulav",
+      "album": {
+        "id": "0ZJMmlYsFhDluMTfdMulav",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a61952668209a351a0ce380f"
+      },
       "release_date": "2015-11-27",
       "popularity": 40
     },
     {
-      "trackId": "73PSyxTx5J1wulQ9HAo4Qv",
-      "name": "Mitt hjärta är ditt (I folkviseton)",
+      "track": {
+        "id": "73PSyxTx5J1wulQ9HAo4Qv",
+        "name": "Mitt hjärta är ditt (I folkviseton)"
+      },
       "duration_ms": 236840,
-      "artist": [
-        "Rolf Wikström"
+      "artists": [
+        {
+          "name": "Rolf Wikström",
+          "id": "6JnHX2U0qF3EcoAHta5V3r"
+        }
       ],
-      "artistId": [
-        "6JnHX2U0qF3EcoAHta5V3r"
-      ],
-      "albumId": "64S9Hjx3O5aRPvS1bNuPKw",
+      "album": {
+        "id": "64S9Hjx3O5aRPvS1bNuPKw",
+        "name": "Mitt hjärta är ditt",
+        "img": "https://i.scdn.co/image/ab67616d00001e026346fed1a83a408bbfd63ef3"
+      },
       "release_date": "1989-01-01",
       "popularity": 30
     },
     {
-      "trackId": "1QOALYg3rc0C6jwr5zLU3d",
-      "name": "Pagliacci: Recitar!... Vesti la guibba",
+      "track": {
+        "id": "1QOALYg3rc0C6jwr5zLU3d",
+        "name": "Pagliacci: Recitar!... Vesti la guibba"
+      },
       "duration_ms": 166200,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "5kQxC90rZ5uCHF6nRDjHPW",
+      "album": {
+        "id": "5kQxC90rZ5uCHF6nRDjHPW",
+        "name": "100 år med Jussi Björling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff8f7a377a871a77bc1a0afc"
+      },
       "release_date": "2011-01-25",
       "popularity": 4
     },
     {
-      "trackId": "70IPOIKjuSCJrvKGpHxqnr",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "70IPOIKjuSCJrvKGpHxqnr",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 265160,
-      "artist": [
-        "Totta Näslund"
+      "artists": [
+        {
+          "name": "Totta Näslund",
+          "id": "09J3FFqSQVVQlrakhizg9v"
+        }
       ],
-      "artistId": [
-        "09J3FFqSQVVQlrakhizg9v"
-      ],
-      "albumId": "1kxKEXOtXBjYLZH2RoKKBV",
+      "album": {
+        "id": "1kxKEXOtXBjYLZH2RoKKBV",
+        "name": "Totta: Duetterna",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a8f8be8eb99defeb65a01a7"
+      },
       "release_date": "2001-07-13",
       "popularity": 35
     },
     {
-      "trackId": "0mO3oMKprFe2uZg2Hy6SxT",
-      "name": "Torparrock",
+      "track": {
+        "id": "0mO3oMKprFe2uZg2Hy6SxT",
+        "name": "Torparrock"
+      },
       "duration_ms": 266533,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "3gsPWumcqHP7dEAs45GAuD",
+      "album": {
+        "id": "3gsPWumcqHP7dEAs45GAuD",
+        "name": "Byns enda blondin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3bc26401da1a6c3b54e34dd"
+      },
       "release_date": "1994-02-25",
       "popularity": 48
     },
     {
-      "trackId": "1IqFh00G2kvvMm8pRMpehA",
-      "name": "Me and Bobby McGee",
+      "track": {
+        "id": "1IqFh00G2kvvMm8pRMpehA",
+        "name": "Me and Bobby McGee"
+      },
       "duration_ms": 271333,
-      "artist": [
-        "Janis Joplin"
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "id": "4NgfOZCL9Ml67xzM0xzIvC"
+        }
       ],
-      "artistId": [
-        "4NgfOZCL9Ml67xzM0xzIvC"
-      ],
-      "albumId": "3j7nicLAWXM0Fb08q9XGyf",
+      "album": {
+        "id": "3j7nicLAWXM0Fb08q9XGyf",
+        "name": "Pearl (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f8c26346723dd0531696bed"
+      },
       "release_date": "1971-01-11",
       "popularity": 70
     },
     {
-      "trackId": "2GyH5rvdnfkjzsTFaWrrov",
-      "name": "On the Road Again",
+      "track": {
+        "id": "2GyH5rvdnfkjzsTFaWrrov",
+        "name": "On the Road Again"
+      },
       "duration_ms": 154360,
-      "artist": [
-        "Willie Nelson"
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
       ],
-      "artistId": [
-        "5W5bDNCqJ1jbCgTxDD0Cb3"
-      ],
-      "albumId": "4QQfWSR8uMbTye3EjCAea2",
+      "album": {
+        "id": "4QQfWSR8uMbTye3EjCAea2",
+        "name": "Willie Nelson The Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282030f7e260701d69652447e"
+      },
       "release_date": "2004-01-01",
       "popularity": 60
     },
     {
-      "trackId": "2PYayythWBQhoY9tNlhqVV",
-      "name": "En liten konstnär",
+      "track": {
+        "id": "2PYayythWBQhoY9tNlhqVV",
+        "name": "En liten konstnär"
+      },
       "duration_ms": 152920,
-      "artist": [
-        "Lille Bror Söderlundh",
-        "Anonymous"
+      "artists": [
+        {
+          "name": "Lille Bror Söderlundh",
+          "id": "4wYJhWypSlvACdET9DTvQK"
+        },
+        {
+          "name": "Anonymous",
+          "id": "5lHQ8Vj3FHusucwrMcFMnv"
+        }
       ],
-      "artistId": [
-        "4wYJhWypSlvACdET9DTvQK",
-        "5lHQ8Vj3FHusucwrMcFMnv"
-      ],
-      "albumId": "6VT9ERUtWvoMV2rfnB3HZh",
+      "album": {
+        "id": "6VT9ERUtWvoMV2rfnB3HZh",
+        "name": "Den vackraste visan...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd5bffb724f4e35611a30f61"
+      },
       "release_date": "2011-05-03",
       "popularity": 1
     },
     {
-      "trackId": "18plLlD5XXZRni0ZeMVOdz",
-      "name": "Manon Lescaut: Manon Lescaut: Donna non vidi mai",
+      "track": {
+        "id": "18plLlD5XXZRni0ZeMVOdz",
+        "name": "Manon Lescaut: Manon Lescaut: Donna non vidi mai"
+      },
       "duration_ms": 143520,
-      "artist": [
-        "Various Artists"
+      "artists": [
+        {
+          "name": "Various Artists",
+          "id": "0LyfQWJT6nXafLPZqxe9Of"
+        }
       ],
-      "artistId": [
-        "0LyfQWJT6nXafLPZqxe9Of"
-      ],
-      "albumId": "3QYzzGsDeFSjAofxMn1kXo",
+      "album": {
+        "id": "3QYzzGsDeFSjAofxMn1kXo",
+        "name": "Bjorling, Jussi: Bjorling Collection, Vol. 4: Opera Arias and Duets (1945-1951)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026174b676283b8eef2f996e65"
+      },
       "release_date": "2004-08-05",
       "popularity": 0
     },
     {
-      "trackId": "1ox1GfZqd4IYjHkbpIAPwF",
-      "name": "Flottarkärlek",
+      "track": {
+        "id": "1ox1GfZqd4IYjHkbpIAPwF",
+        "name": "Flottarkärlek"
+      },
       "duration_ms": 143506,
-      "artist": [
-        "Gösta \"Snoddas\" Nordgren"
+      "artists": [
+        {
+          "name": "Gösta \"Snoddas\" Nordgren",
+          "id": "55Mv9PuCTRfExD5y0l4Hg1"
+        }
       ],
-      "artistId": [
-        "55Mv9PuCTRfExD5y0l4Hg1"
-      ],
-      "albumId": "2JxIMVtd4DLiCLXSeCii9N",
+      "album": {
+        "id": "2JxIMVtd4DLiCLXSeCii9N",
+        "name": "Det bästa med Snoddas",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a0e1fabbed53931727a4a62"
+      },
       "release_date": "2007-05-30",
       "popularity": 38
     },
     {
-      "trackId": "2OxkfL5jW8bvYTCNDLlRSY",
-      "name": "She - Tous les visages de l’amour",
+      "track": {
+        "id": "2OxkfL5jW8bvYTCNDLlRSY",
+        "name": "She - Tous les visages de l’amour"
+      },
       "duration_ms": 153066,
-      "artist": [
-        "Charles Aznavour",
-        "Richard Galliano",
-        "Eddie Louiss"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Richard Galliano",
+          "id": "6yXri0y0q95UDiAyLzTM1y"
+        },
+        {
+          "name": "Eddie Louiss",
+          "id": "0Z7cUaHzuRp2moYQtVDBFp"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT",
-        "6yXri0y0q95UDiAyLzTM1y",
-        "0Z7cUaHzuRp2moYQtVDBFp"
-      ],
-      "albumId": "6u7CZtz83tmwcgEBIIr3GG",
+      "album": {
+        "id": "6u7CZtz83tmwcgEBIIr3GG",
+        "name": "Greatest Golden Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed0521cb384ca5ae93a9544b"
+      },
       "release_date": "1996",
       "popularity": 59
     },
     {
-      "trackId": "3rtX20SU5BzcPA8VVFDrnf",
-      "name": "Blott en dag",
+      "track": {
+        "id": "3rtX20SU5BzcPA8VVFDrnf",
+        "name": "Blott en dag"
+      },
       "duration_ms": 253506,
-      "artist": [
-        "Freddie Wadling"
+      "artists": [
+        {
+          "name": "Freddie Wadling",
+          "id": "4NZBruC8XBoC8lj8kkW05m"
+        }
       ],
-      "artistId": [
-        "4NZBruC8XBoC8lj8kkW05m"
-      ],
-      "albumId": "4cSqc6vBJet7CubHcwy7Pe",
+      "album": {
+        "id": "4cSqc6vBJet7CubHcwy7Pe",
+        "name": "Samlade sånger 1981-2016",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249945c6912da430463bee8a3"
+      },
       "release_date": "2016-10-21",
       "popularity": 32
     },
     {
-      "trackId": "6WdcvzQADmrL8nucimUV6r",
-      "name": "We'll Meet Again",
+      "track": {
+        "id": "6WdcvzQADmrL8nucimUV6r",
+        "name": "We'll Meet Again"
+      },
       "duration_ms": 183893,
-      "artist": [
-        "Vera Lynn",
-        "Sailors, Soldiers & Airmen of Her Majesty's Forces",
-        "Roland Shaw And His Orchestra"
+      "artists": [
+        {
+          "name": "Vera Lynn",
+          "id": "2rJkmlVHePMo2gk0InTZRS"
+        },
+        {
+          "name": "Sailors, Soldiers & Airmen of Her Majesty's Forces",
+          "id": "1OOpgf6NT46tOGAgjgZtzl"
+        },
+        {
+          "name": "Roland Shaw And His Orchestra",
+          "id": "62iRboFRt3fBndcWdXMyL2"
+        }
       ],
-      "artistId": [
-        "2rJkmlVHePMo2gk0InTZRS",
-        "1OOpgf6NT46tOGAgjgZtzl",
-        "62iRboFRt3fBndcWdXMyL2"
-      ],
-      "albumId": "79w6b4DZnsVFbHELqs04Do",
+      "album": {
+        "id": "79w6b4DZnsVFbHELqs04Do",
+        "name": "Silver Memories: Our Vera",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a385991f4fc668690c35c3e1"
+      },
       "release_date": "2016-03-18",
       "popularity": 64
     },
     {
-      "trackId": "5jzHWBOCpAHxe1TYLQEXP7",
-      "name": "Sommar, Sommar, Sommar",
+      "track": {
+        "id": "5jzHWBOCpAHxe1TYLQEXP7",
+        "name": "Sommar, Sommar, Sommar"
+      },
       "duration_ms": 188706,
-      "artist": [
-        "Jan Lundgren",
-        "Mattias Svensson",
-        "Rasmus Kihlberg"
+      "artists": [
+        {
+          "name": "Jan Lundgren",
+          "id": "4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Mattias Svensson",
+          "id": "0SpFS1C0X20BJ8m1qyBbcu"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "id": "1HtXGJ1iYUcRZCirb47OmR"
+        }
       ],
-      "artistId": [
-        "4yw84sobRr067mN2U8BNOI",
-        "0SpFS1C0X20BJ8m1qyBbcu",
-        "1HtXGJ1iYUcRZCirb47OmR"
-      ],
-      "albumId": "3ZGxz7JmoEG74JHDUkAPsg",
+      "album": {
+        "id": "3ZGxz7JmoEG74JHDUkAPsg",
+        "name": "Swedish Standards",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa1dd8cb7eadd14a4cbde156"
+      },
       "release_date": "2009-04-24",
       "popularity": 6
     }

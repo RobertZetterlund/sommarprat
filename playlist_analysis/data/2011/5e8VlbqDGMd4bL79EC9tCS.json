@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242545_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "3WkVdVW3Z0c8m51ecEamhr",
-      "name": "Sergei Rachmaninoff Conspiracy",
+      "track": {
+        "id": "3WkVdVW3Z0c8m51ecEamhr",
+        "name": "Sergei Rachmaninoff Conspiracy"
+      },
       "duration_ms": 121740,
-      "artist": [
-        "Coherent Beeping Intelligent"
+      "artists": [
+        {
+          "name": "Coherent Beeping Intelligent",
+          "id": "4aBjryzU6tk0J7gRS6hXhU"
+        }
       ],
-      "artistId": [
-        "4aBjryzU6tk0J7gRS6hXhU"
-      ],
-      "albumId": "2yv1H0Brm4HuZFN3XWYkby",
+      "album": {
+        "id": "2yv1H0Brm4HuZFN3XWYkby",
+        "name": "Sergei Rachmaninoff Conspiracy",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239419206256912adec24d68a"
+      },
       "release_date": "2021-10-07",
       "popularity": 20
     },
     {
-      "trackId": "2SUb82I8OEKm37yqVj2WZZ",
-      "name": "Natt i en stad",
+      "track": {
+        "id": "2SUb82I8OEKm37yqVj2WZZ",
+        "name": "Natt i en stad"
+      },
       "duration_ms": 168706,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "4P1tHWqUAGpCNylsLXOXBf",
+      "album": {
+        "id": "4P1tHWqUAGpCNylsLXOXBf",
+        "name": "Två Tungor",
+        "img": "https://i.scdn.co/image/ab67616d00001e025db8ca3e78a3da93059cbc3b"
+      },
       "release_date": "1972",
       "popularity": 31
     },
     {
-      "trackId": "2oyDe0GkMHPcg7X1bkUY5x",
-      "name": "Could It Be",
+      "track": {
+        "id": "2oyDe0GkMHPcg7X1bkUY5x",
+        "name": "Could It Be"
+      },
       "duration_ms": 184440,
-      "artist": [
-        "Dilba"
+      "artists": [
+        {
+          "name": "Dilba",
+          "id": "7EIe1Y7mnJmzqQ3OzrDHWq"
+        }
       ],
-      "artistId": [
-        "7EIe1Y7mnJmzqQ3OzrDHWq"
-      ],
-      "albumId": "5dWGpcryKYUTyJuM3QzHQj",
+      "album": {
+        "id": "5dWGpcryKYUTyJuM3QzHQj",
+        "name": "Dilba",
+        "img": "https://i.scdn.co/image/ab67616d00001e02884998432b022f4ece303790"
+      },
       "release_date": "1997-03-05",
       "popularity": 14
     },
     {
-      "trackId": "3I1LsXYKMeWbdgJgADH8yY",
-      "name": "Générique - Bande originale du film \"Ascenseur pour l'échafaud\"",
+      "track": {
+        "id": "3I1LsXYKMeWbdgJgADH8yY",
+        "name": "Générique - Bande originale du film \"Ascenseur pour l'échafaud\""
+      },
       "duration_ms": 168512,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "0aoOdlpGLfNCUFhQu7UIs2",
+      "album": {
+        "id": "0aoOdlpGLfNCUFhQu7UIs2",
+        "name": "Ascenseur pour l'échafaud",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d8e4b5eb0aa2a22188fef7e"
+      },
       "release_date": "1958-01-29",
       "popularity": 51
     },
     {
-      "trackId": "5tGNBb7htzu9MEfDxtV6Td",
-      "name": "Concerto in C Major, RV 443: II. Largo",
+      "track": {
+        "id": "5tGNBb7htzu9MEfDxtV6Td",
+        "name": "Concerto in C Major, RV 443: II. Largo"
+      },
       "duration_ms": 245000,
-      "artist": [
-        "Antonio Vivaldi",
-        "Jiří Stivín",
-        "Capella Istropolitana"
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "id": "2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Jiří Stivín",
+          "id": "7hD456k26yCzaE92vsLPln"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "id": "3COykW4UPvB0DqwnzlnfWt"
+        }
       ],
-      "artistId": [
-        "2QOIawHpSlOwXDvSqQ9YJR",
-        "7hD456k26yCzaE92vsLPln",
-        "3COykW4UPvB0DqwnzlnfWt"
-      ],
-      "albumId": "44wAzwYlQj0C4jLSHFrgkL",
+      "album": {
+        "id": "44wAzwYlQj0C4jLSHFrgkL",
+        "name": "Vivaldi: Flute Concertos (Famous)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02366bbc1bfbbb46261c242102"
+      },
       "release_date": "1997-06-02",
       "popularity": 15
     },
     {
-      "trackId": "1Jmqubf9kGkWeYQXQKImL5",
-      "name": "People Are Strange",
+      "track": {
+        "id": "1Jmqubf9kGkWeYQXQKImL5",
+        "name": "People Are Strange"
+      },
       "duration_ms": 130173,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "6v5IVMmY1IvWtbfnQoiFSf",
+      "album": {
+        "id": "6v5IVMmY1IvWtbfnQoiFSf",
+        "name": "Strange Days",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286339e6cd71cc2a167451ee5"
+      },
       "release_date": "1967-09-25",
       "popularity": 71
     },
     {
-      "trackId": "5wD0OP3jK8lz47EvLFYeeA",
-      "name": "The Message",
+      "track": {
+        "id": "5wD0OP3jK8lz47EvLFYeeA",
+        "name": "The Message"
+      },
       "duration_ms": 429293,
-      "artist": [
-        "Grandmaster Flash"
+      "artists": [
+        {
+          "name": "Grandmaster Flash",
+          "id": "1JfnADNz5yYEq3hrzlZHLk"
+        }
       ],
-      "artistId": [
-        "1JfnADNz5yYEq3hrzlZHLk"
-      ],
-      "albumId": "1VCA8ST9weQ2GcaaEqXyiz",
+      "album": {
+        "id": "1VCA8ST9weQ2GcaaEqXyiz",
+        "name": "Kings of the Streets - The Definitive Anthology",
+        "img": "https://i.scdn.co/image/ab67616d00001e02569c3fe855a65b8e9dc6c311"
+      },
       "release_date": "2010-07-19",
       "popularity": 49
     },
     {
-      "trackId": "6BmzbaB08O0FjHXeS0cR5b",
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "track": {
+        "id": "6BmzbaB08O0FjHXeS0cR5b",
+        "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)"
+      },
       "duration_ms": 204653,
-      "artist": [
-        "Thin Lizzy"
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "id": "6biWAmrHyiMkX49LkycGqQ"
+        }
       ],
-      "artistId": [
-        "6biWAmrHyiMkX49LkycGqQ"
-      ],
-      "albumId": "0DHKadXfnYCAXp28F3HI8U",
+      "album": {
+        "id": "0DHKadXfnYCAXp28F3HI8U",
+        "name": "Bad Reputation (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d64200d0ce43d5e4826f08e"
+      },
       "release_date": "1977",
       "popularity": 64
     },
     {
-      "trackId": "3r0Q8oUYyHjViM43bAUP3D",
-      "name": "Feel No Pain",
+      "track": {
+        "id": "3r0Q8oUYyHjViM43bAUP3D",
+        "name": "Feel No Pain"
+      },
       "duration_ms": 309200,
-      "artist": [
-        "Sade"
+      "artists": [
+        {
+          "name": "Sade",
+          "id": "47zz7sob9NUcODy0BTDvKx"
+        }
       ],
-      "artistId": [
-        "47zz7sob9NUcODy0BTDvKx"
-      ],
-      "albumId": "2PfGKHtqEX58bHtkQxJnWG",
+      "album": {
+        "id": "2PfGKHtqEX58bHtkQxJnWG",
+        "name": "Love Deluxe",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee65bbd54f993b5f01d5c511"
+      },
       "release_date": "1992-10-26",
       "popularity": 51
     },
     {
-      "trackId": "2tNmhDlMbwQZLxQtWMt2EU",
-      "name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",
+      "track": {
+        "id": "2tNmhDlMbwQZLxQtWMt2EU",
+        "name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)"
+      },
       "duration_ms": 253466,
-      "artist": [
-        "Wu-Tang Clan",
-        "RZA",
-        "Method Man"
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "id": "34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "RZA",
+          "id": "4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Method Man",
+          "id": "4VmEWwd8y9MCLwexFMdpwt"
+        }
       ],
-      "artistId": [
-        "34EP7KEpOjXcM2TCat1ISk",
-        "4iCwCMnqsNZ6atvRiADgtn",
-        "4VmEWwd8y9MCLwexFMdpwt"
-      ],
-      "albumId": "6FePdYF8RNzmH05uXIMW76",
+      "album": {
+        "id": "6FePdYF8RNzmH05uXIMW76",
+        "name": "Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241df0d726f3c4c60207d72fd"
+      },
       "release_date": "2004-10-26",
       "popularity": 59
     },
     {
-      "trackId": "13toFl1UwJPsRxDiD9jgtn",
-      "name": "As",
+      "track": {
+        "id": "13toFl1UwJPsRxDiD9jgtn",
+        "name": "As"
+      },
       "duration_ms": 428222,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "6YUCc2RiXcEKS9ibuZxjt0",
+      "album": {
+        "id": "6YUCc2RiXcEKS9ibuZxjt0",
+        "name": "Songs In The Key Of Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50"
+      },
       "release_date": "1976-09-28",
       "popularity": 61
     }

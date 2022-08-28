@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/cf171879-6a62-412c-aed8-e8cb7e212edb.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0bVtevEgtDIeRjCJbK3Lmv",
-      "name": "Welcome To The Jungle",
+      "track": {
+        "id": "0bVtevEgtDIeRjCJbK3Lmv",
+        "name": "Welcome To The Jungle"
+      },
       "duration_ms": 272026,
-      "artist": [
-        "Guns N' Roses"
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC"
+        }
       ],
-      "artistId": [
-        "3qm84nBOXUEQ2vnTfUTTFC"
-      ],
-      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "album": {
+        "id": "3I9Z1nDCL4E0cP62flcbI5",
+        "name": "Appetite For Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60"
+      },
       "release_date": "1987-07-21",
       "popularity": 79
     },
     {
-      "trackId": "7KJFqhJXaszZmCJwvsPjgC",
-      "name": "The Boss",
+      "track": {
+        "id": "7KJFqhJXaszZmCJwvsPjgC",
+        "name": "The Boss"
+      },
       "duration_ms": 194933,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "7btMZv2H6S9xuTYkGIlgVE",
+      "album": {
+        "id": "7btMZv2H6S9xuTYkGIlgVE",
+        "name": "The Singles Vol. 8: 1972-1973",
+        "img": "https://i.scdn.co/image/ab67616d00001e021a45e2db82b972caeb25812f"
+      },
       "release_date": "2009-12-21",
       "popularity": 41
     },
     {
-      "trackId": "06tMxo0sySSq4SkIS3xUsc",
-      "name": "Uncle Sam Goddamn",
+      "track": {
+        "id": "06tMxo0sySSq4SkIS3xUsc",
+        "name": "Uncle Sam Goddamn"
+      },
       "duration_ms": 297173,
-      "artist": [
-        "Brother Ali"
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "id": "6CsleyOZtyt16saX8WhzDx"
+        }
       ],
-      "artistId": [
-        "6CsleyOZtyt16saX8WhzDx"
-      ],
-      "albumId": "6QZ5IG54Pxit9HfTvxnAIH",
+      "album": {
+        "id": "6QZ5IG54Pxit9HfTvxnAIH",
+        "name": "The Undisputed Truth",
+        "img": "https://i.scdn.co/image/ab67616d00001e02309cd494416f90d5960f30da"
+      },
       "release_date": "2007-04-10",
       "popularity": 47
     },
     {
-      "trackId": "1unYTGaSar745xUYEVbPU8",
-      "name": "Reyhan",
+      "track": {
+        "id": "1unYTGaSar745xUYEVbPU8",
+        "name": "Reyhan"
+      },
       "duration_ms": 141740,
-      "artist": [
-        "Rashid Beibutov"
+      "artists": [
+        {
+          "name": "Rashid Beibutov",
+          "id": "5jLW4Y4UnQSUr4NDxlNKwh"
+        }
       ],
-      "artistId": [
-        "5jLW4Y4UnQSUr4NDxlNKwh"
-      ],
-      "albumId": "0nWj0uMWoAPzxQgTs43KsP",
+      "album": {
+        "id": "0nWj0uMWoAPzxQgTs43KsP",
+        "name": "Lab Larr",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b008582dc259afe6c399201a"
+      },
       "release_date": "1995",
       "popularity": 25
     },
     {
-      "trackId": "4CeeEOM32jQcH3eN9Q2dGj",
-      "name": "Smells Like Teen Spirit",
+      "track": {
+        "id": "4CeeEOM32jQcH3eN9Q2dGj",
+        "name": "Smells Like Teen Spirit"
+      },
       "duration_ms": 301920,
-      "artist": [
-        "Nirvana"
+      "artists": [
+        {
+          "name": "Nirvana",
+          "id": "6olE6TJLqED3rqDCT0FyPh"
+        }
       ],
-      "artistId": [
-        "6olE6TJLqED3rqDCT0FyPh"
-      ],
-      "albumId": "2UJcKiJxNryhL050F5Z1Fk",
+      "album": {
+        "id": "2UJcKiJxNryhL050F5Z1Fk",
+        "name": "Nevermind (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6"
+      },
       "release_date": "1991-09-26",
       "popularity": 82
     },
     {
-      "trackId": "0rzNMzZsubFcXSEh7dnem7",
-      "name": "Hold Up",
+      "track": {
+        "id": "0rzNMzZsubFcXSEh7dnem7",
+        "name": "Hold Up"
+      },
       "duration_ms": 221093,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "7dK54iZuOxXFarGhXwEXfF",
+      "album": {
+        "id": "7dK54iZuOxXFarGhXwEXfF",
+        "name": "Lemonade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289992f4d7d4ab94937bf9e23"
+      },
       "release_date": "2016-04-23",
       "popularity": 68
     },
     {
-      "trackId": "30UPdWs3E5zg9jylTWeqJD",
-      "name": "Om Snällhet",
+      "track": {
+        "id": "30UPdWs3E5zg9jylTWeqJD",
+        "name": "Om Snällhet"
+      },
       "duration_ms": 150906,
-      "artist": [
-        "Turid"
+      "artists": [
+        {
+          "name": "Turid",
+          "id": "0o0FTdXEMyuhqRqG7jUAmK"
+        }
       ],
-      "artistId": [
-        "0o0FTdXEMyuhqRqG7jUAmK"
-      ],
-      "albumId": "6YWEvu4zMtMri5wtXmd2ux",
+      "album": {
+        "id": "6YWEvu4zMtMri5wtXmd2ux",
+        "name": "I Retur",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282a0f968e6754c434d5ea454"
+      },
       "release_date": "2004",
       "popularity": 1
     },
     {
-      "trackId": "6EEHeR2ZxPISdgAMCkmCLF",
-      "name": "Go",
+      "track": {
+        "id": "6EEHeR2ZxPISdgAMCkmCLF",
+        "name": "Go"
+      },
       "duration_ms": 260696,
-      "artist": [
-        "The Chemical Brothers"
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "id": "1GhPHrq36VKCY3ucVaZCfo"
+        }
       ],
-      "artistId": [
-        "1GhPHrq36VKCY3ucVaZCfo"
-      ],
-      "albumId": "0w6rREgwb98ePeOqC8R0bG",
+      "album": {
+        "id": "0w6rREgwb98ePeOqC8R0bG",
+        "name": "Born In The Echoes (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c48b90e29b6bf088e5cb7e7"
+      },
       "release_date": "2015-07-17",
       "popularity": 33
     },
     {
-      "trackId": "0Oc41Qv0N8fs2ENJkZmLzm",
-      "name": "Befarma",
+      "track": {
+        "id": "0Oc41Qv0N8fs2ENJkZmLzm",
+        "name": "Befarma"
+      },
       "duration_ms": 222040,
-      "artist": [
-        "TM Bax",
-        "Sharomin"
+      "artists": [
+        {
+          "name": "TM Bax",
+          "id": "0RN2n6EdV90CQmfhfxqv0f"
+        },
+        {
+          "name": "Sharomin",
+          "id": "5gYMExmtgGk7bTFqTa0OtA"
+        }
       ],
-      "artistId": [
-        "0RN2n6EdV90CQmfhfxqv0f",
-        "5gYMExmtgGk7bTFqTa0OtA"
-      ],
-      "albumId": "4gUj6fqobj9zv9jAn8Xwaq",
+      "album": {
+        "id": "4gUj6fqobj9zv9jAn8Xwaq",
+        "name": "Donya Kafi Nist",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238028237f47a5002569ade47"
+      },
       "release_date": "2015",
       "popularity": 23
     },
     {
-      "trackId": "0KGZNoR5kZ1aUw83pfunng",
-      "name": "Kelna Mnenjar",
+      "track": {
+        "id": "0KGZNoR5kZ1aUw83pfunng",
+        "name": "Kelna Mnenjar"
+      },
       "duration_ms": 190000,
-      "artist": [
-        "Wael Kfoury"
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "id": "09A6IffSw0t8L8sfuOCVws"
+        }
       ],
-      "artistId": [
-        "09A6IffSw0t8L8sfuOCVws"
-      ],
-      "albumId": "3cPQv8RJQYIShkRDMhaO2R",
+      "album": {
+        "id": "3cPQv8RJQYIShkRDMhaO2R",
+        "name": "Kelna Mnenjar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e7f8fbf92da40264675eb9e"
+      },
       "release_date": "2021-05-17",
       "popularity": 50
     },
     {
-      "trackId": "2IhltT7NDJuddV3NhqemVn",
-      "name": "Sabri - Live in Tehran, 2005",
+      "track": {
+        "id": "2IhltT7NDJuddV3NhqemVn",
+        "name": "Sabri - Live in Tehran, 2005"
+      },
       "duration_ms": 333328,
-      "artist": [
-        "Melik Mavissakalian",
-        "Folk Song",
-        "Shahram Nazeri"
+      "artists": [
+        {
+          "name": "Melik Mavissakalian",
+          "id": "1yxOuULdK1321v8wYa72p1"
+        },
+        {
+          "name": "Folk Song",
+          "id": "38mvEoUYi4CuqdYRZhs00l"
+        },
+        {
+          "name": "Shahram Nazeri",
+          "id": "3meYUCHyh5OayViOog5daw"
+        }
       ],
-      "artistId": [
-        "1yxOuULdK1321v8wYa72p1",
-        "38mvEoUYi4CuqdYRZhs00l",
-        "3meYUCHyh5OayViOog5daw"
-      ],
-      "albumId": "5QObNPw8rTRHfyqmJNsWjK",
+      "album": {
+        "id": "5QObNPw8rTRHfyqmJNsWjK",
+        "name": "Shahram Nazeri Concert (Live in Tehran, 2005)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8ba1e6de9bc2632d787e267"
+      },
       "release_date": "2012",
       "popularity": 9
     },
     {
-      "trackId": "1DK2JuYarBeNwcLNPw1Qyo",
-      "name": "Paper Trails",
+      "track": {
+        "id": "1DK2JuYarBeNwcLNPw1Qyo",
+        "name": "Paper Trails"
+      },
       "duration_ms": 289840,
-      "artist": [
-        "DARKSIDE"
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "id": "2933wDUojoQmvqSdTAE5NB"
+        }
       ],
-      "artistId": [
-        "2933wDUojoQmvqSdTAE5NB"
-      ],
-      "albumId": "2Q7l5NR9ZY8gfkkTtBnlBt",
+      "album": {
+        "id": "2Q7l5NR9ZY8gfkkTtBnlBt",
+        "name": "Psychic",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260fb53fd28a1debe0dc716a9"
+      },
       "release_date": "2013-10-07",
       "popularity": 53
     },
     {
-      "trackId": "1LxOEVd05vCgIRGfYXsr7U",
-      "name": "Doomed to Live",
+      "track": {
+        "id": "1LxOEVd05vCgIRGfYXsr7U",
+        "name": "Doomed to Live"
+      },
       "duration_ms": 162066,
-      "artist": [
-        "Mokadelic"
+      "artists": [
+        {
+          "name": "Mokadelic",
+          "id": "7vuE9dMkU7S5NZq0Ogx8zP"
+        }
       ],
-      "artistId": [
-        "7vuE9dMkU7S5NZq0Ogx8zP"
-      ],
-      "albumId": "3ojt4RZgzyNnwLJ013ybtF",
+      "album": {
+        "id": "3ojt4RZgzyNnwLJ013ybtF",
+        "name": "Gomorra: la serie (Colonna Sonora Originale)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e48813f0e4cb5fa2a4caa18e"
+      },
       "release_date": "2014-07-29",
       "popularity": 45
     }

@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241471_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1RWuMb3hFKMDdLa4lh1X2h",
-      "name": "Rolling and Tumbling",
+      "track": {
+        "id": "1RWuMb3hFKMDdLa4lh1X2h",
+        "name": "Rolling and Tumbling"
+      },
       "duration_ms": 165240,
-      "artist": [
-        "R.L. Burnside"
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "id": "2drMeidRg4jc07neGOL0Ip"
+        }
       ],
-      "artistId": [
-        "2drMeidRg4jc07neGOL0Ip"
-      ],
-      "albumId": "1yWe2B0r6YYlGM4gAtTN5B",
+      "album": {
+        "id": "1yWe2B0r6YYlGM4gAtTN5B",
+        "name": "Mississippi Hill Country Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0b88dbae28bda615dd83f93"
+      },
       "release_date": "1984",
       "popularity": 9
     },
     {
-      "trackId": "3GaCSIfcHDhfpLPgCCDF61",
-      "name": "Natural Blues - Moby's West Side Highway Remix",
+      "track": {
+        "id": "3GaCSIfcHDhfpLPgCCDF61",
+        "name": "Natural Blues - Moby's West Side Highway Remix"
+      },
       "duration_ms": 330718,
-      "artist": [
-        "Moby",
-        "Gregory Porter",
-        "Amythyst Kiah"
+      "artists": [
+        {
+          "name": "Moby",
+          "id": "3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Gregory Porter",
+          "id": "06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Amythyst Kiah",
+          "id": "1lhaaKpTyXOnjp79M3xYBl"
+        }
       ],
-      "artistId": [
-        "3OsRAKCvk37zwYcnzRf5XF",
-        "06nevPmNVfWUXyZkccahL8",
-        "1lhaaKpTyXOnjp79M3xYBl"
-      ],
-      "albumId": "1ebgTtKt8c9dMZADohgv7v",
+      "album": {
+        "id": "1ebgTtKt8c9dMZADohgv7v",
+        "name": "Reprise - Remixes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5f52555ef640d4bcad350d1"
+      },
       "release_date": "2022-05-20",
       "popularity": 40
     },
     {
-      "trackId": "0L2NvhnUNe6q6OCparaAjR",
-      "name": "Half Ain't Been Told",
+      "track": {
+        "id": "0L2NvhnUNe6q6OCparaAjR",
+        "name": "Half Ain't Been Told"
+      },
       "duration_ms": 283293,
-      "artist": [
-        "Otis Spann"
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "id": "0xeI9Z0Uhs8bYGBRpqq88X"
+        }
       ],
-      "artistId": [
-        "0xeI9Z0Uhs8bYGBRpqq88X"
-      ],
-      "albumId": "1f1A2fA4YS0LDAJXKDnG92",
+      "album": {
+        "id": "1f1A2fA4YS0LDAJXKDnG92",
+        "name": "Walking The Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6a26e3b588d24be699c64dd"
+      },
       "release_date": "1989",
       "popularity": 13
     },
     {
-      "trackId": "3Z4ZuDrY684IFTBz2ze708",
-      "name": "Gimme Some Lovin' - Single Mix",
+      "track": {
+        "id": "3Z4ZuDrY684IFTBz2ze708",
+        "name": "Gimme Some Lovin' - Single Mix"
+      },
       "duration_ms": 178840,
-      "artist": [
-        "The Spencer Davis Group"
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "id": "3i9hP422d2KMjaupTzBNVS"
+        }
       ],
-      "artistId": [
-        "3i9hP422d2KMjaupTzBNVS"
-      ],
-      "albumId": "1NalBDDaMeVW7ARbUI8Gpi",
+      "album": {
+        "id": "1NalBDDaMeVW7ARbUI8Gpi",
+        "name": "Gimme Some Lovin' / Blues In F",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd4270760937e919281721c4"
+      },
       "release_date": "1966",
       "popularity": 63
     },
     {
-      "trackId": "04cdEVbQPb8BJb7593e5fO",
-      "name": "What a Wonderful World",
+      "track": {
+        "id": "04cdEVbQPb8BJb7593e5fO",
+        "name": "What a Wonderful World"
+      },
       "duration_ms": 143360,
-      "artist": [
-        "Joey Ramone"
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "id": "7dxF7y4hlGFazdArMsxbEx"
+        }
       ],
-      "artistId": [
-        "7dxF7y4hlGFazdArMsxbEx"
-      ],
-      "albumId": "4QkB5FT0hN3KWQeeF5Bih5",
+      "album": {
+        "id": "4QkB5FT0hN3KWQeeF5Bih5",
+        "name": "Don't Worry About Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e029782813121bd9927ae3336de"
+      },
       "release_date": "2002-02-19",
       "popularity": 56
     },
     {
-      "trackId": "58PSYdY0GFg0LFb2PxYk4T",
-      "name": "Mannish Boy",
+      "track": {
+        "id": "58PSYdY0GFg0LFb2PxYk4T",
+        "name": "Mannish Boy"
+      },
       "duration_ms": 321133,
-      "artist": [
-        "Muddy Waters"
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "id": "4y6J8jwRAwO4dssiSmN91R"
+        }
       ],
-      "artistId": [
-        "4y6J8jwRAwO4dssiSmN91R"
-      ],
-      "albumId": "4fOVcN7X7vQ8L41is621uJ",
+      "album": {
+        "id": "4fOVcN7X7vQ8L41is621uJ",
+        "name": "King Of The Electric Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e021063bd72c8de25474308ccc9"
+      },
       "release_date": "1977",
       "popularity": 62
     },
     {
-      "trackId": "6aWZmnIsIgwyeUIOmRGL5m",
-      "name": "Fisherman's Blues - 2006 Remaster",
+      "track": {
+        "id": "6aWZmnIsIgwyeUIOmRGL5m",
+        "name": "Fisherman's Blues - 2006 Remaster"
+      },
       "duration_ms": 266666,
-      "artist": [
-        "The Waterboys"
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "id": "5TnuP42pw475UrjjeabtwZ"
+        }
       ],
-      "artistId": [
-        "5TnuP42pw475UrjjeabtwZ"
-      ],
-      "albumId": "0lIGBQj12ehBETiO01zUZx",
+      "album": {
+        "id": "0lIGBQj12ehBETiO01zUZx",
+        "name": "Fisherman's Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2ce7ff313eab58d5d071416"
+      },
       "release_date": "1988-07-01",
       "popularity": 58
     },
     {
-      "trackId": "1Eolhana7nKHYpcYpdVcT5",
-      "name": "Little Wing",
+      "track": {
+        "id": "1Eolhana7nKHYpcYpdVcT5",
+        "name": "Little Wing"
+      },
       "duration_ms": 145746,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "3uFZf8rykoHo7XMIQVYW6r",
+      "album": {
+        "id": "3uFZf8rykoHo7XMIQVYW6r",
+        "name": "Axis: Bold As Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0219dcd95d28b63d10164327f2"
+      },
       "release_date": "1967-12-01",
       "popularity": 70
     },
     {
-      "trackId": "69sTZUnybfPzxEvdkOySX8",
-      "name": "Dimples",
+      "track": {
+        "id": "69sTZUnybfPzxEvdkOySX8",
+        "name": "Dimples"
+      },
       "duration_ms": 132293,
-      "artist": [
-        "John Lee Hooker"
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "id": "1yNOfXGQNGjAynk77wv85x"
+        }
       ],
-      "artistId": [
-        "1yNOfXGQNGjAynk77wv85x"
-      ],
-      "albumId": "397nqvmmvM4MhJwL3Opf9F",
+      "album": {
+        "id": "397nqvmmvM4MhJwL3Opf9F",
+        "name": "King Of The Boogie",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209b6676306a43a3366e27220"
+      },
       "release_date": "2017-10-06",
       "popularity": 41
     },
     {
-      "trackId": "4O3xceUKt4rvZ9P2TQKfoz",
-      "name": "Rambling Pony",
+      "track": {
+        "id": "4O3xceUKt4rvZ9P2TQKfoz",
+        "name": "Rambling Pony"
+      },
       "duration_ms": 159893,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "1D2h6EteNQ5oTQ4VsPWoas",
+      "album": {
+        "id": "1D2h6EteNQ5oTQ4VsPWoas",
+        "name": "Albatross / Christine Perfect",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289f956b01355822c2acc4d26"
+      },
       "release_date": "1977",
       "popularity": 15
     },
     {
-      "trackId": "4EapdBTr5PB8W20gM7UKYK",
-      "name": "Life Is A Beatdown - Live",
+      "track": {
+        "id": "4EapdBTr5PB8W20gM7UKYK",
+        "name": "Life Is A Beatdown - Live"
+      },
       "duration_ms": 370155,
-      "artist": [
-        "Popa Chubby"
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "id": "76EaAz0oJVx8IbnUbDOPmD"
+        }
       ],
-      "artistId": [
-        "76EaAz0oJVx8IbnUbDOPmD"
-      ],
-      "albumId": "5iC7AiCW4Qx2udDzW5jDmS",
+      "album": {
+        "id": "5iC7AiCW4Qx2udDzW5jDmS",
+        "name": "Big, Bad and Beautiful (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a5cc0b69d98e9d790cc32b4"
+      },
       "release_date": "2015-10-15",
       "popularity": 16
     }

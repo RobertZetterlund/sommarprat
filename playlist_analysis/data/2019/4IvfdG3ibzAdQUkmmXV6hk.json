@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3d1d9804-4d6d-4d43-90ac-5ec0ca429a6d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "75FEaRjZTKLhTrFGsfMUXR",
-      "name": "Running Up That Hill (A Deal With God)",
+      "track": {
+        "id": "75FEaRjZTKLhTrFGsfMUXR",
+        "name": "Running Up That Hill (A Deal With God)"
+      },
       "duration_ms": 298933,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "5BWl0bB1q0TqyFmkBEupZy",
+      "album": {
+        "id": "5BWl0bB1q0TqyFmkBEupZy",
+        "name": "Hounds Of Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ab64f52273635308b6bf27"
+      },
       "release_date": "1985",
       "popularity": 94
     },
     {
-      "trackId": "5MEuFY2DxrozPEgGpR8Fji",
-      "name": "Välkommen in",
+      "track": {
+        "id": "5MEuFY2DxrozPEgGpR8Fji",
+        "name": "Välkommen in"
+      },
       "duration_ms": 212453,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "2fOs6I0CgvaZj9agU8EAlH",
+      "album": {
+        "id": "2fOs6I0CgvaZj9agU8EAlH",
+        "name": "Satan i gatan (Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de25b67688e3520e24612209"
+      },
       "release_date": "2011-01-01",
       "popularity": 63
     },
     {
-      "trackId": "2Mb3zpobD0CvJGWv6NpsPy",
-      "name": "They Reminisce Over You (T.R.O.Y.)",
+      "track": {
+        "id": "2Mb3zpobD0CvJGWv6NpsPy",
+        "name": "They Reminisce Over You (T.R.O.Y.)"
+      },
       "duration_ms": 286693,
-      "artist": [
-        "Pete Rock & C.L. Smooth"
+      "artists": [
+        {
+          "name": "Pete Rock & C.L. Smooth",
+          "id": "3fJ60AcIgLzQkVitEvA7uq"
+        }
       ],
-      "artistId": [
-        "3fJ60AcIgLzQkVitEvA7uq"
-      ],
-      "albumId": "2AgTKAULjbHpqqtyI53hdp",
+      "album": {
+        "id": "2AgTKAULjbHpqqtyI53hdp",
+        "name": "Mecca And The Soul Brother",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d535e6a05ec517c25a232f43"
+      },
       "release_date": "1992-05-26",
       "popularity": 61
     },
     {
-      "trackId": "4oWQeGyPFyr4EpTrv5v0gJ",
-      "name": "Everything Counts",
+      "track": {
+        "id": "4oWQeGyPFyr4EpTrv5v0gJ",
+        "name": "Everything Counts"
+      },
       "duration_ms": 237693,
-      "artist": [
-        "Depeche Mode"
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "id": "762310PdDnwsDxAQxzQkfX"
+        }
       ],
-      "artistId": [
-        "762310PdDnwsDxAQxzQkfX"
-      ],
-      "albumId": "3zA1d01hWRRchi5sGcb3VR",
+      "album": {
+        "id": "3zA1d01hWRRchi5sGcb3VR",
+        "name": "The Singles 81-85",
+        "img": "https://i.scdn.co/image/ab67616d00001e02493af742afdd887225efc1a6"
+      },
       "release_date": "1985-10-15",
       "popularity": 53
     },
     {
-      "trackId": "0cEWF0sQZOUypmq2znfLb4",
-      "name": "Man Oh Man",
+      "track": {
+        "id": "0cEWF0sQZOUypmq2znfLb4",
+        "name": "Man Oh Man"
+      },
       "duration_ms": 192600,
-      "artist": [
-        "The Impressions"
+      "artists": [
+        {
+          "name": "The Impressions",
+          "id": "1b1N51wmSK0ckxFAMPSSHO"
+        }
       ],
-      "artistId": [
-        "1b1N51wmSK0ckxFAMPSSHO"
-      ],
-      "albumId": "19XbPoZhZsnhMHQo9zyDjl",
+      "album": {
+        "id": "19XbPoZhZsnhMHQo9zyDjl",
+        "name": "The ABC-Paramount Rarities",
+        "img": "https://i.scdn.co/image/ab67616d00001e028639885db3ba6414b3ccc776"
+      },
       "release_date": "1999-01-01",
       "popularity": 31
     },
     {
-      "trackId": "08RKvnMeBFWZE69P3dQa74",
-      "name": "Ring The Alarm",
+      "track": {
+        "id": "08RKvnMeBFWZE69P3dQa74",
+        "name": "Ring The Alarm"
+      },
       "duration_ms": 187973,
-      "artist": [
-        "Tenor Saw"
+      "artists": [
+        {
+          "name": "Tenor Saw",
+          "id": "1LAgDHjyZvOQf39Fa9rtlT"
+        }
       ],
-      "artistId": [
-        "1LAgDHjyZvOQf39Fa9rtlT"
-      ],
-      "albumId": "0GzCo02pDn2oWWEwgopGsc",
+      "album": {
+        "id": "0GzCo02pDn2oWWEwgopGsc",
+        "name": "Tenor Saw Meets Nitty Gritty",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3b049f85c37884cbfc40953"
+      },
       "release_date": "2008-09-22",
       "popularity": 45
     },
     {
-      "trackId": "5bMSO2vubGmv2tFfXbLlY9",
-      "name": "Losing You",
+      "track": {
+        "id": "5bMSO2vubGmv2tFfXbLlY9",
+        "name": "Losing You"
+      },
       "duration_ms": 260399,
-      "artist": [
-        "Solange"
+      "artists": [
+        {
+          "name": "Solange",
+          "id": "2auiVi8sUZo17dLy1HwrTU"
+        }
       ],
-      "artistId": [
-        "2auiVi8sUZo17dLy1HwrTU"
-      ],
-      "albumId": "3r9UTfGCgZLCOhV7cz99YC",
+      "album": {
+        "id": "3r9UTfGCgZLCOhV7cz99YC",
+        "name": "True",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280144269405c0643c0bf7aea"
+      },
       "release_date": "2012-11-27",
       "popularity": 60
     },
     {
-      "trackId": "0hkoRkUnPTSqOdKLZTEAGU",
-      "name": "When Tomorrow Comes",
+      "track": {
+        "id": "0hkoRkUnPTSqOdKLZTEAGU",
+        "name": "When Tomorrow Comes"
+      },
       "duration_ms": 209506,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "0sKtHhPyVXCic96QFZywih",
+      "album": {
+        "id": "0sKtHhPyVXCic96QFZywih",
+        "name": "Shoreline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3acf13890f0bc4e3d6b6fae"
+      },
       "release_date": "2005-06-01",
       "popularity": 35
     },
     {
-      "trackId": "5c33j1xFVOL4G24zxYhssB",
-      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "track": {
+        "id": "5c33j1xFVOL4G24zxYhssB",
+        "name": "This Old Heart Of Mine (Is Weak For You)"
+      },
       "duration_ms": 172733,
-      "artist": [
-        "The Isley Brothers"
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "id": "53QzNeFpzAaXYnrDBbDrIp"
+        }
       ],
-      "artistId": [
-        "53QzNeFpzAaXYnrDBbDrIp"
-      ],
-      "albumId": "6iIk47TPgtfIxzL2ALdBSN",
+      "album": {
+        "id": "6iIk47TPgtfIxzL2ALdBSN",
+        "name": "This Old Heart Of Mine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263509e860d6373c622b3cc8c"
+      },
       "release_date": "1966",
       "popularity": 64
     },
     {
-      "trackId": "0UHB9METy4VCXNgkcGqHqS",
-      "name": "Kiss It Better",
+      "track": {
+        "id": "0UHB9METy4VCXNgkcGqHqS",
+        "name": "Kiss It Better"
+      },
       "duration_ms": 253080,
-      "artist": [
-        "Rihanna"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ],
-      "albumId": "4UlGauD7ROb3YbVOFMgW5u",
+      "album": {
+        "id": "4UlGauD7ROb3YbVOFMgW5u",
+        "name": "ANTI (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233c6b920eabcf4c00d7a1093"
+      },
       "release_date": "2016-01-28",
       "popularity": 76
     },
     {
-      "trackId": "1EiLrPd8JMTcQUr1aLEUKi",
-      "name": "Work",
+      "track": {
+        "id": "1EiLrPd8JMTcQUr1aLEUKi",
+        "name": "Work"
+      },
       "duration_ms": 177666,
-      "artist": [
-        "Gang Starr"
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "id": "5cMgGlA1xGyeAB2ctYlRdZ"
+        }
       ],
-      "artistId": [
-        "5cMgGlA1xGyeAB2ctYlRdZ"
-      ],
-      "albumId": "5f6Nz2v1DESbpu1NerEql2",
+      "album": {
+        "id": "5f6Nz2v1DESbpu1NerEql2",
+        "name": "Moment Of Truth",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a76edacefe2e7a589222787"
+      },
       "release_date": "1998-03-31",
       "popularity": 64
     },
     {
-      "trackId": "3KBMeEwL4FCVCWLzDRY9aF",
-      "name": "I Believe In Miracles",
+      "track": {
+        "id": "3KBMeEwL4FCVCWLzDRY9aF",
+        "name": "I Believe In Miracles"
+      },
       "duration_ms": 290266,
-      "artist": [
-        "Jackson Sisters"
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "id": "4Nud0bPKFFBGWHxedLdHOZ"
+        }
       ],
-      "artistId": [
-        "4Nud0bPKFFBGWHxedLdHOZ"
-      ],
-      "albumId": "5uorwHhjLzAiFsw1eL0lMn",
+      "album": {
+        "id": "5uorwHhjLzAiFsw1eL0lMn",
+        "name": "Funked! : Volume 2 1973-1977",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210a9b88453d9d4a3aeb55a18"
+      },
       "release_date": "2001-01-01",
       "popularity": 50
     },
     {
-      "trackId": "3VJHbBZSvktGfRIAW2aXch",
-      "name": "Helan går",
+      "track": {
+        "id": "3VJHbBZSvktGfRIAW2aXch",
+        "name": "Helan går"
+      },
       "duration_ms": 195173,
-      "artist": [
-        "Lisa Howard"
+      "artists": [
+        {
+          "name": "Lisa Howard",
+          "id": "65eHyQC0V8h38ia3dLKaRm"
+        }
       ],
-      "artistId": [
-        "65eHyQC0V8h38ia3dLKaRm"
-      ],
-      "albumId": "6Bzcl46KbEPJLQAUYYcC9T",
+      "album": {
+        "id": "6Bzcl46KbEPJLQAUYYcC9T",
+        "name": "Helan går",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d581af2c401490add17b0edc"
+      },
       "release_date": "2022-05-06",
       "popularity": 40
     }

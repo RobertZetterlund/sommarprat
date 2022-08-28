@@ -7,282 +7,410 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243431_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0GONea6G2XdnHWjNZd6zt3",
-      "name": "Summer Of '69",
+      "track": {
+        "id": "0GONea6G2XdnHWjNZd6zt3",
+        "name": "Summer Of '69"
+      },
       "duration_ms": 216053,
-      "artist": [
-        "Bryan Adams"
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "id": "3Z02hBLubJxuFJfhacLSDc"
+        }
       ],
-      "artistId": [
-        "3Z02hBLubJxuFJfhacLSDc"
-      ],
-      "albumId": "2o2G49EPi4lua5zgxUKhLL",
+      "album": {
+        "id": "2o2G49EPi4lua5zgxUKhLL",
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1fee2a55e98e22bf358512"
+      },
       "release_date": "1984-11-05",
       "popularity": 81
     },
     {
-      "trackId": "2bD9x9kN4wYyVoyckeqlLk",
-      "name": "Move Over",
+      "track": {
+        "id": "2bD9x9kN4wYyVoyckeqlLk",
+        "name": "Move Over"
+      },
       "duration_ms": 223826,
-      "artist": [
-        "Janis Joplin"
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "id": "4NgfOZCL9Ml67xzM0xzIvC"
+        }
       ],
-      "artistId": [
-        "4NgfOZCL9Ml67xzM0xzIvC"
-      ],
-      "albumId": "3j7nicLAWXM0Fb08q9XGyf",
+      "album": {
+        "id": "3j7nicLAWXM0Fb08q9XGyf",
+        "name": "Pearl (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f8c26346723dd0531696bed"
+      },
       "release_date": "1971-01-11",
       "popularity": 54
     },
     {
-      "trackId": "2aoo2jlRnM3A0NyLQqMN2f",
-      "name": "All Along the Watchtower",
+      "track": {
+        "id": "2aoo2jlRnM3A0NyLQqMN2f",
+        "name": "All Along the Watchtower"
+      },
       "duration_ms": 240800,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "5z090LQztiqh13wYspQvKQ",
+      "album": {
+        "id": "5z090LQztiqh13wYspQvKQ",
+        "name": "Electric Ladyland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292"
+      },
       "release_date": "1968-10-25",
       "popularity": 76
     },
     {
-      "trackId": "2PzU4IB8Dr6mxV3lHuaG34",
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "track": {
+        "id": "2PzU4IB8Dr6mxV3lHuaG34",
+        "name": "(I Can't Get No) Satisfaction - Mono Version"
+      },
       "duration_ms": 222813,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "2Q5MwpTmtjscaS34mJFXQQ",
+      "album": {
+        "id": "2Q5MwpTmtjscaS34mJFXQQ",
+        "name": "Out Of Our Heads",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b"
+      },
       "release_date": "1965-07-30",
       "popularity": 76
     },
     {
-      "trackId": "7FP2VLFDNCyvm4nDE3t531",
-      "name": "Symphony No. 40 in G Minor, K.550: I. Molto allegro",
+      "track": {
+        "id": "7FP2VLFDNCyvm4nDE3t531",
+        "name": "Symphony No. 40 in G Minor, K.550: I. Molto allegro"
+      },
       "duration_ms": 461986,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Herbert von Karajan",
-        "Berliner Philharmoniker"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "id": "5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5zCaQxjl110XTrm4LQ1CxY",
-        "6uRJnvQ3f8whVnmeoecv5Z"
-      ],
-      "albumId": "1fFKTFFYDuHuy4l0xBJfCP",
+      "album": {
+        "id": "1fFKTFFYDuHuy4l0xBJfCP",
+        "name": "Herbert Von Karajan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc127d3c5a5bf2304229c322"
+      },
       "release_date": "1999",
       "popularity": 14
     },
     {
-      "trackId": "5Fl6Qv8IWyO8SXyzEKw9Wb",
-      "name": "Sanningens Silverflod",
+      "track": {
+        "id": "5Fl6Qv8IWyO8SXyzEKw9Wb",
+        "name": "Sanningens Silverflod"
+      },
       "duration_ms": 233560,
-      "artist": [
-        "Träd Gräs Och Stenar"
+      "artists": [
+        {
+          "name": "Träd Gräs Och Stenar",
+          "id": "0BXP5AQEaPDhfbTAvxJwHD"
+        }
       ],
-      "artistId": [
-        "0BXP5AQEaPDhfbTAvxJwHD"
-      ],
-      "albumId": "5i1TuX5sbNg5rynEGACMcD",
+      "album": {
+        "id": "5i1TuX5sbNg5rynEGACMcD",
+        "name": "Träd, Gräs och Stenar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aec17e0f45d05028adc849d7"
+      },
       "release_date": "1969",
       "popularity": 16
     },
     {
-      "trackId": "6Ac4NVYYl2U73QiTt11ZKd",
-      "name": "Hooked On A Feeling",
+      "track": {
+        "id": "6Ac4NVYYl2U73QiTt11ZKd",
+        "name": "Hooked On A Feeling"
+      },
       "duration_ms": 172866,
-      "artist": [
-        "Blue Swede",
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "id": "0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "0UpuH5U4nZ3UGGUJi0Zfbp",
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6fBMaH0IiymemwFKmn18Ze",
+      "album": {
+        "id": "6fBMaH0IiymemwFKmn18Ze",
+        "name": "Hooked On A Feeling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2439940aedd2801c9ae2e5b"
+      },
       "release_date": "1973-04-01",
       "popularity": 73
     },
     {
-      "trackId": "1zxeEe8Knba6t6ZRgcud7V",
-      "name": "Never My Love",
+      "track": {
+        "id": "1zxeEe8Knba6t6ZRgcud7V",
+        "name": "Never My Love"
+      },
       "duration_ms": 149013,
-      "artist": [
-        "Blue Swede",
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "id": "0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "0UpuH5U4nZ3UGGUJi0Zfbp",
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6s1uMhSKYULVRTXjnQKxbw",
+      "album": {
+        "id": "6s1uMhSKYULVRTXjnQKxbw",
+        "name": "Hooked On A Feeling - 40th Anniversary Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdcd73410624243d380add9f"
+      },
       "release_date": "2014-07-04",
       "popularity": 25
     },
     {
-      "trackId": "2aeVGqdsF7WbKZkwhcCeqm",
-      "name": "Det gör ont",
+      "track": {
+        "id": "2aeVGqdsF7WbKZkwhcCeqm",
+        "name": "Det gör ont"
+      },
       "duration_ms": 181640,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "1T8NH2yMjPBlUDwim5Vtdo",
+      "album": {
+        "id": "1T8NH2yMjPBlUDwim5Vtdo",
+        "name": "Lena 20 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d2d85a530ccec6218055d55"
+      },
       "release_date": "2007-11-07",
       "popularity": 41
     },
     {
-      "trackId": "4t9EUCjCPbdfqtOH25k8AU",
-      "name": "Moviestar",
+      "track": {
+        "id": "4t9EUCjCPbdfqtOH25k8AU",
+        "name": "Moviestar"
+      },
       "duration_ms": 202280,
-      "artist": [
-        "Harpo"
+      "artists": [
+        {
+          "name": "Harpo",
+          "id": "6HsEXxUSqMXmIwbYVW6zdt"
+        }
       ],
-      "artistId": [
-        "6HsEXxUSqMXmIwbYVW6zdt"
-      ],
-      "albumId": "72prIfhTsxkWeO1IlkLB5C",
+      "album": {
+        "id": "72prIfhTsxkWeO1IlkLB5C",
+        "name": "Moviestar",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f2964e136e8fc019c44b6b3"
+      },
       "release_date": "1976",
       "popularity": 58
     },
     {
-      "trackId": "2AMpUbmhsx1gwhgO7hpKyg",
-      "name": "Om våren",
+      "track": {
+        "id": "2AMpUbmhsx1gwhgO7hpKyg",
+        "name": "Om våren"
+      },
       "duration_ms": 63200,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "1ZkzTN5A0Viffra14nS2QX",
+      "album": {
+        "id": "1ZkzTN5A0Viffra14nS2QX",
+        "name": "Nils Ferlin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3911e0f438f0f6252a0fe70"
+      },
       "release_date": "1961",
       "popularity": 6
     },
     {
-      "trackId": "69c6RP870A6VFj6nLdGS4U",
-      "name": "My Sharona",
+      "track": {
+        "id": "69c6RP870A6VFj6nLdGS4U",
+        "name": "My Sharona"
+      },
       "duration_ms": 240026,
-      "artist": [
-        "The Knack"
+      "artists": [
+        {
+          "name": "The Knack",
+          "id": "0Nn9YwJzcaeuU1jJL06e3r"
+        }
       ],
-      "artistId": [
-        "0Nn9YwJzcaeuU1jJL06e3r"
-      ],
-      "albumId": "5TPgaHHxOVxtuXvV4bnV7j",
+      "album": {
+        "id": "5TPgaHHxOVxtuXvV4bnV7j",
+        "name": "Driving",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed5ffaf4fbf618c94dd08db0"
+      },
       "release_date": "2008-04-28",
       "popularity": 44
     },
     {
-      "trackId": "2h1IPpmxknHfw1X91X1F3Y",
-      "name": "Gamle Svarten",
+      "track": {
+        "id": "2h1IPpmxknHfw1X91X1F3Y",
+        "name": "Gamle Svarten"
+      },
       "duration_ms": 153893,
-      "artist": [
-        "Sten & Stanley"
+      "artists": [
+        {
+          "name": "Sten & Stanley",
+          "id": "2HSMgjn2OEC8PcJAlNcuMk"
+        }
       ],
-      "artistId": [
-        "2HSMgjn2OEC8PcJAlNcuMk"
-      ],
-      "albumId": "6Y5IeFbxuJPl870rQgJP5f",
+      "album": {
+        "id": "6Y5IeFbxuJPl870rQgJP5f",
+        "name": "Allsånger på vårt sätt",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a05a3171876805713d010d7"
+      },
       "release_date": "2009",
       "popularity": 25
     },
     {
-      "trackId": "0an64SQKecTrOBA8IZ3nCz",
-      "name": "Vaggvisa för ökenrävar",
+      "track": {
+        "id": "0an64SQKecTrOBA8IZ3nCz",
+        "name": "Vaggvisa för ökenrävar"
+      },
       "duration_ms": 89773,
-      "artist": [
-        "James & Karin"
+      "artists": [
+        {
+          "name": "James & Karin",
+          "id": "3UlhlO8H8C59UabGW10YPN"
+        }
       ],
-      "artistId": [
-        "3UlhlO8H8C59UabGW10YPN"
-      ],
-      "albumId": "17TBLnEsY3ZVn97ruCMTpE",
+      "album": {
+        "id": "17TBLnEsY3ZVn97ruCMTpE",
+        "name": "Barnlåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8d72bb3ab51540b02c42ddb"
+      },
       "release_date": "1974",
       "popularity": 36
     },
     {
-      "trackId": "3WIhpYp8oM5dWlpXXvTXsb",
-      "name": "Feliz Navidad",
+      "track": {
+        "id": "3WIhpYp8oM5dWlpXXvTXsb",
+        "name": "Feliz Navidad"
+      },
       "duration_ms": 236586,
-      "artist": [
-        "Bengt Palmers",
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Bengt Palmers",
+          "id": "0VxdrI62UtWezqGNnbprkt"
+        },
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "0VxdrI62UtWezqGNnbprkt",
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "3s4HmqnnKlm0Kh6EudjrTT",
+      "album": {
+        "id": "3s4HmqnnKlm0Kh6EudjrTT",
+        "name": "Sällskapsresan - Filmmusiken",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236c346f462adc96814fcbb55"
+      },
       "release_date": "1980",
       "popularity": 17
     },
     {
-      "trackId": "74oF64dIlSQBh4li5QHaA8",
-      "name": "Don't Go - Yazoo Remix",
+      "track": {
+        "id": "74oF64dIlSQBh4li5QHaA8",
+        "name": "Don't Go - Yazoo Remix"
+      },
       "duration_ms": 194690,
-      "artist": [
-        "MJX",
-        "Yazoo"
+      "artists": [
+        {
+          "name": "MJX",
+          "id": "669M5P4lRIl7SrZWDsMfRf"
+        },
+        {
+          "name": "Yazoo",
+          "id": "1G1mX30GpUJqOr1QU2eBSs"
+        }
       ],
-      "artistId": [
-        "669M5P4lRIl7SrZWDsMfRf",
-        "1G1mX30GpUJqOr1QU2eBSs"
-      ],
-      "albumId": "0mkiv82JsJThCXlPsBodWg",
+      "album": {
+        "id": "0mkiv82JsJThCXlPsBodWg",
+        "name": "Don't Go (Yazoo Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e3335c5a62c081b2d29111a"
+      },
       "release_date": "2019-08-18",
       "popularity": 31
     },
     {
-      "trackId": "1HJn7WVzcWMOyFj1Xh6ekN",
-      "name": "Lotta är envis som en gammal get",
+      "track": {
+        "id": "1HJn7WVzcWMOyFj1Xh6ekN",
+        "name": "Lotta är envis som en gammal get"
+      },
       "duration_ms": 318133,
-      "artist": [
-        "Astrid Lindgren",
-        "Lotta på Bråkmakargatan"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Lotta på Bråkmakargatan",
+          "id": "0hMdHZZYCHMza3zpz4IQsq"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "0hMdHZZYCHMza3zpz4IQsq"
-      ],
-      "albumId": "31xuselGS3SqVunI7o00Aq",
+      "album": {
+        "id": "31xuselGS3SqVunI7o00Aq",
+        "name": "Lotta på Bråkmakargatan",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cfd027d4f87e76b1128d4fd"
+      },
       "release_date": "1992-01-01",
       "popularity": 42
     },
     {
-      "trackId": "334ZXS3LTVR4ReDnZn9mzO",
-      "name": "Teknikens under",
+      "track": {
+        "id": "334ZXS3LTVR4ReDnZn9mzO",
+        "name": "Teknikens under"
+      },
       "duration_ms": 321133,
-      "artist": [
-        "Wilmer X"
+      "artists": [
+        {
+          "name": "Wilmer X",
+          "id": "6yT4ID0YITwJKB9KOiZ41t"
+        }
       ],
-      "artistId": [
-        "6yT4ID0YITwJKB9KOiZ41t"
-      ],
-      "albumId": "1BagxmkA7ofX5SNZAsL8Be",
+      "album": {
+        "id": "1BagxmkA7ofX5SNZAsL8Be",
+        "name": "Teknikens under",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d8d61c428f73f062fe1505d"
+      },
       "release_date": "1988-01-01",
       "popularity": 37
     },
     {
-      "trackId": "75pBjCi8cxfkp4xd68uo6O",
-      "name": "Let The Music Play - Single Version",
+      "track": {
+        "id": "75pBjCi8cxfkp4xd68uo6O",
+        "name": "Let The Music Play - Single Version"
+      },
       "duration_ms": 210386,
-      "artist": [
-        "Barry White"
+      "artists": [
+        {
+          "name": "Barry White",
+          "id": "3rfgbfpPSfXY40lzRK7Syt"
+        }
       ],
-      "artistId": [
-        "3rfgbfpPSfXY40lzRK7Syt"
-      ],
-      "albumId": "2DQOfMwyvGxAd964nKx1it",
+      "album": {
+        "id": "2DQOfMwyvGxAd964nKx1it",
+        "name": "Let The Music Play (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb1c38309ec89f8a50ddbc16"
+      },
       "release_date": "1976-01-02",
       "popularity": 61
     }

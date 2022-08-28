@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243379_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "58WOqehu5In2XPCyhLLKuW",
-      "name": "Livet i Finnskogarna",
+      "track": {
+        "id": "58WOqehu5In2XPCyhLLKuW",
+        "name": "Livet i Finnskogarna"
+      },
       "duration_ms": 182133,
-      "artist": [
-        "Carl Jularbo",
-        "Jularbo J-rs trio"
+      "artists": [
+        {
+          "name": "Carl Jularbo",
+          "id": "2W9OOsMnU1cXV62u1CfOzq"
+        },
+        {
+          "name": "Jularbo J-rs trio",
+          "id": "4nNdp8GQVJMGFcGWvWHfRq"
+        }
       ],
-      "artistId": [
-        "2W9OOsMnU1cXV62u1CfOzq",
-        "4nNdp8GQVJMGFcGWvWHfRq"
-      ],
-      "albumId": "1gmQnqoHjyDCms6UqejYvp",
+      "album": {
+        "id": "1gmQnqoHjyDCms6UqejYvp",
+        "name": "Jularbo-minnen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6cd73272d42639d17739d7a"
+      },
       "release_date": "2011-05-03",
       "popularity": 20
     },
     {
-      "trackId": "1uRKT2LRANv4baowBWHfDS",
-      "name": "(We're Gonna) Rock Around The Clock",
+      "track": {
+        "id": "1uRKT2LRANv4baowBWHfDS",
+        "name": "(We're Gonna) Rock Around The Clock"
+      },
       "duration_ms": 129893,
-      "artist": [
-        "Bill Haley & His Comets"
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "id": "3MFp4cYuYtTZe3d3xkLLbr"
+        }
       ],
-      "artistId": [
-        "3MFp4cYuYtTZe3d3xkLLbr"
-      ],
-      "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
+      "album": {
+        "id": "2vB7uVHcRU4dmHeFQCTkSK",
+        "name": "Rock Around The Clock",
+        "img": "https://i.scdn.co/image/ab67616d00001e029060a2c0a01366ee03274597"
+      },
       "release_date": "1955-12-19",
       "popularity": 66
     },
     {
-      "trackId": "3Y0LpU5kqQ3vSZvwcGjl1M",
-      "name": "Splanky",
+      "track": {
+        "id": "3Y0LpU5kqQ3vSZvwcGjl1M",
+        "name": "Splanky"
+      },
       "duration_ms": 217373,
-      "artist": [
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "03M3VID0s2wANlxJIJBWKb",
+      "album": {
+        "id": "03M3VID0s2wANlxJIJBWKb",
+        "name": "The Atomic Mr Basie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1134f6accac04d6a3d137fd"
+      },
       "release_date": "1958",
       "popularity": 48
     },
     {
-      "trackId": "0IMi37UudkGswFZLna1Tng",
-      "name": "Inbjudan till Bohuslän",
+      "track": {
+        "id": "0IMi37UudkGswFZLna1Tng",
+        "name": "Inbjudan till Bohuslän"
+      },
       "duration_ms": 322840,
-      "artist": [
-        "Öbarna"
+      "artists": [
+        {
+          "name": "Öbarna",
+          "id": "1tAN6GsfYsBNbE80bm4HIz"
+        }
       ],
-      "artistId": [
-        "1tAN6GsfYsBNbE80bm4HIz"
-      ],
-      "albumId": "2uGE1yrqvAF3zLyxdPch9H",
+      "album": {
+        "id": "2uGE1yrqvAF3zLyxdPch9H",
+        "name": "Med Taube på Ängön",
+        "img": "https://i.scdn.co/image/ab67616d00001e02049d21e9297e86a417e651ec"
+      },
       "release_date": "1987-04-07",
       "popularity": 31
     },
     {
-      "trackId": "6xYeTISkTw4S9K9hJgr1KJ",
-      "name": "En kväll i juni",
+      "track": {
+        "id": "6xYeTISkTw4S9K9hJgr1KJ",
+        "name": "En kväll i juni"
+      },
       "duration_ms": 192533,
-      "artist": [
-        "Lasse Berghagen"
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "id": "7kdGjv0IIQJcU2bth1yoqY"
+        }
       ],
-      "artistId": [
-        "7kdGjv0IIQJcU2bth1yoqY"
-      ],
-      "albumId": "1P6QyxSmdRVaAPaHHfox4i",
+      "album": {
+        "id": "1P6QyxSmdRVaAPaHHfox4i",
+        "name": "20 av Lars Berghagens bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c24dcd036aecb7ad674d1a"
+      },
       "release_date": "1989-01-01",
       "popularity": 53
     },
     {
-      "trackId": "5ZKZ4wJsIRBCnVJAMXDJ94",
-      "name": "Spanish Eyes",
+      "track": {
+        "id": "5ZKZ4wJsIRBCnVJAMXDJ94",
+        "name": "Spanish Eyes"
+      },
       "duration_ms": 142933,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0bVlE6dhJEsCzCX2CWrOCw",
+      "album": {
+        "id": "0bVlE6dhJEsCzCX2CWrOCw",
+        "name": "Good Times",
+        "img": "https://i.scdn.co/image/ab67616d00001e023726a52f61b6e7c4a5973c3d"
+      },
       "release_date": "1974-05-20",
       "popularity": 43
     },
     {
-      "trackId": "76LEXINpqvWu1LBkBTP9KV",
-      "name": "Ittma Hohah",
+      "track": {
+        "id": "76LEXINpqvWu1LBkBTP9KV",
+        "name": "Ittma Hohah"
+      },
       "duration_ms": 186506,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "491a89ZF90FNP2TDqWOLEd",
+      "album": {
+        "id": "491a89ZF90FNP2TDqWOLEd",
+        "name": "100 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd5ef17b080f0b1e90b653e7"
+      },
       "release_date": "2022-05-20",
       "popularity": 11
     },
     {
-      "trackId": "1o53HbxmOy5TzThJdBaDZb",
-      "name": "Human Touch",
+      "track": {
+        "id": "1o53HbxmOy5TzThJdBaDZb",
+        "name": "Human Touch"
+      },
       "duration_ms": 388800,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "5vza8Bd9yp7kRX45QsUljF",
+      "album": {
+        "id": "5vza8Bd9yp7kRX45QsUljF",
+        "name": "Human Touch",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9ff761af4ff0eaf8e9fb9c9"
+      },
       "release_date": "1992-03-31",
       "popularity": 61
     },
     {
-      "trackId": "0NeDNKhbKWhDRbN9lxsqxx",
-      "name": "Double Trouble (feat. Marty Stuart)",
+      "track": {
+        "id": "0NeDNKhbKWhDRbN9lxsqxx",
+        "name": "Double Trouble (feat. Marty Stuart)"
+      },
       "duration_ms": 194026,
-      "artist": [
-        "Travis Tritt",
-        "Marty Stuart"
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "id": "2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Marty Stuart",
+          "id": "3OyGv7XUYQwQgECYSzJhyO"
+        }
       ],
-      "artistId": [
-        "2M4Yt7oKGoYd0wqU44k4i2",
-        "3OyGv7XUYQwQgECYSzJhyO"
-      ],
-      "albumId": "4DAKrRaNrLQvATy0UO4SUJ",
+      "album": {
+        "id": "4DAKrRaNrLQvATy0UO4SUJ",
+        "name": "The Restless Kind",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc7d50872864c6aff7638f57"
+      },
       "release_date": "1996-08-27",
       "popularity": 18
     },
     {
-      "trackId": "1A7LuOSPfKlzzZyD2eABCK",
-      "name": "Horgalåten",
+      "track": {
+        "id": "1A7LuOSPfKlzzZyD2eABCK",
+        "name": "Horgalåten"
+      },
       "duration_ms": 133200,
-      "artist": [
-        "Orsa Spelmän",
-        "Benny Andersson"
+      "artists": [
+        {
+          "name": "Orsa Spelmän",
+          "id": "2XmqtWcNsjq5XxlE6p5WrT"
+        },
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        }
       ],
-      "artistId": [
-        "2XmqtWcNsjq5XxlE6p5WrT",
-        "0kV0e99xlTJcLKSu8KrLyp"
-      ],
-      "albumId": "21VcbWj3Wn1LoBeRsZQKAQ",
+      "album": {
+        "id": "21VcbWj3Wn1LoBeRsZQKAQ",
+        "name": "Fiolen min - Svenska spelmanslåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248f0d861418ff18671fbeeb4"
+      },
       "release_date": "2007-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6SoSfXnidrbcuLamHF919f",
-      "name": "Helan går",
+      "track": {
+        "id": "6SoSfXnidrbcuLamHF919f",
+        "name": "Helan går"
+      },
       "duration_ms": 21360,
-      "artist": [
-        "Galenskaparna & After Shave"
+      "artists": [
+        {
+          "name": "Galenskaparna & After Shave",
+          "id": "1yP4vKrljoPWZofWJchg0E"
+        }
       ],
-      "artistId": [
-        "1yP4vKrljoPWZofWJchg0E"
-      ],
-      "albumId": "54lCrRYuZJJqiMDXpffo3x",
+      "album": {
+        "id": "54lCrRYuZJJqiMDXpffo3x",
+        "name": "Stora snapsvise - 99 snapsvisor - för jul, midsommar & kräftskiva",
+        "img": "https://i.scdn.co/image/ab67616d00001e023043dfebc75fd162cf6a4f14"
+      },
       "release_date": "1995",
       "popularity": 0
     },
     {
-      "trackId": "3P6torIZkKNTOosq1tlEPW",
-      "name": "Välkommen till Göteborg",
+      "track": {
+        "id": "3P6torIZkKNTOosq1tlEPW",
+        "name": "Välkommen till Göteborg"
+      },
       "duration_ms": 144786,
-      "artist": [
-        "Lasse Dahlquist"
+      "artists": [
+        {
+          "name": "Lasse Dahlquist",
+          "id": "2QHYFZGCFIoIlU2GrAj664"
+        }
       ],
-      "artistId": [
-        "2QHYFZGCFIoIlU2GrAj664"
-      ],
-      "albumId": "6gGHFUOEZ4A6DYDgSsMzIj",
+      "album": {
+        "id": "6gGHFUOEZ4A6DYDgSsMzIj",
+        "name": "Svenska sångfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d48ce9401203c57c5ca0c95f"
+      },
       "release_date": "2005-01-14",
       "popularity": 26
     }

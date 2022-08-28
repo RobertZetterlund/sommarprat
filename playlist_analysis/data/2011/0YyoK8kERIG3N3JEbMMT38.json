@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242429_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3vILlw1gdAfQ5aRyzTI7Ku",
-      "name": "Crazy",
+      "track": {
+        "id": "3vILlw1gdAfQ5aRyzTI7Ku",
+        "name": "Crazy"
+      },
       "duration_ms": 248613,
-      "artist": [
-        "Alice Russell"
+      "artists": [
+        {
+          "name": "Alice Russell",
+          "id": "1ga4lWS7NtKo4r9jNSWumc"
+        }
       ],
-      "artistId": [
-        "1ga4lWS7NtKo4r9jNSWumc"
-      ],
-      "albumId": "41z9IRExXaDJXoP6EWCMXM",
+      "album": {
+        "id": "41z9IRExXaDJXoP6EWCMXM",
+        "name": "Pot of Gold",
+        "img": "https://i.scdn.co/image/ab67616d00001e020defb1e7e330066065811a3e"
+      },
       "release_date": "2008-11-24",
       "popularity": 26
     },
     {
-      "trackId": "6i5dlTpkjpwwHOOYdLscHr",
-      "name": "To Sheila",
+      "track": {
+        "id": "6i5dlTpkjpwwHOOYdLscHr",
+        "name": "To Sheila"
+      },
       "duration_ms": 280586,
-      "artist": [
-        "The Smashing Pumpkins"
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+        }
       ],
-      "artistId": [
-        "40Yq4vzPs9VNUrIBG5Jr2i"
-      ],
-      "albumId": "7ysKTnHt4ve0MvIWm3vPdz",
+      "album": {
+        "id": "7ysKTnHt4ve0MvIWm3vPdz",
+        "name": "Adore (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc528993bff15162639b2d94"
+      },
       "release_date": "1998",
       "popularity": 44
     },
     {
-      "trackId": "1SrSGrrY8PJXxYT4NQyOkS",
-      "name": "Lonely Heart",
+      "track": {
+        "id": "1SrSGrrY8PJXxYT4NQyOkS",
+        "name": "Lonely Heart"
+      },
       "duration_ms": 232426,
-      "artist": [
-        "The Savage Rose"
+      "artists": [
+        {
+          "name": "The Savage Rose",
+          "id": "6pB3VONh1Qw6G63r9WYFlI"
+        }
       ],
-      "artistId": [
-        "6pB3VONh1Qw6G63r9WYFlI"
-      ],
-      "albumId": "3f8isILRauEpd4RExh02xQ",
+      "album": {
+        "id": "3f8isILRauEpd4RExh02xQ",
+        "name": "Black Angel",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b419420d344e500b1593618"
+      },
       "release_date": "1995-07-21",
       "popularity": 15
     },
     {
-      "trackId": "2gZUPNdnz5Y45eiGxpHGSc",
-      "name": "POWER",
+      "track": {
+        "id": "2gZUPNdnz5Y45eiGxpHGSc",
+        "name": "POWER"
+      },
       "duration_ms": 292093,
-      "artist": [
-        "Kanye West"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "20r762YmB5HeofjMCiPMLv",
+      "album": {
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+      },
       "release_date": "2010-11-22",
       "popularity": 77
     },
     {
-      "trackId": "0uqh5WxHVXNEQOTVqQNuq5",
-      "name": "Ballad Of The Southern Sea",
+      "track": {
+        "id": "0uqh5WxHVXNEQOTVqQNuq5",
+        "name": "Ballad Of The Southern Sea"
+      },
       "duration_ms": 214222,
-      "artist": [
-        "Richard Durand"
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "id": "7wne8sUhTAJdIsnuO4GjnR"
+        }
       ],
-      "artistId": [
-        "7wne8sUhTAJdIsnuO4GjnR"
-      ],
-      "albumId": "2SbQEK0GgqFWhfFI60uncB",
+      "album": {
+        "id": "2SbQEK0GgqFWhfFI60uncB",
+        "name": "Ballad Of The Southern Sea",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afe43a444563e6fdb2f7155f"
+      },
       "release_date": "2022-06-24",
       "popularity": 40
     },
     {
-      "trackId": "0oQF52gzQv6p80sGU42KY3",
-      "name": "Ondarnyng Ayany (Ondar's Medley)",
+      "track": {
+        "id": "0oQF52gzQv6p80sGU42KY3",
+        "name": "Ondarnyng Ayany (Ondar's Medley)"
+      },
       "duration_ms": 325893,
-      "artist": [
-        "Kongar-ol Ondar"
+      "artists": [
+        {
+          "name": "Kongar-ol Ondar",
+          "id": "4mZTi7FE57JXmWa1vXbACm"
+        }
       ],
-      "artistId": [
-        "4mZTi7FE57JXmWa1vXbACm"
-      ],
-      "albumId": "0AG0FV68uaaN5n4fPgZgbr",
+      "album": {
+        "id": "0AG0FV68uaaN5n4fPgZgbr",
+        "name": "Genghis Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205c181524d57684c14f877c3"
+      },
       "release_date": "2000-11-07",
       "popularity": 16
     },
     {
-      "trackId": "6Crt2MYiwYYe5MAuxcGJg0",
-      "name": "Time",
+      "track": {
+        "id": "6Crt2MYiwYYe5MAuxcGJg0",
+        "name": "Time"
+      },
       "duration_ms": 541426,
-      "artist": [
-        "Kroke"
+      "artists": [
+        {
+          "name": "Kroke",
+          "id": "3J6Qep06aGWklhXOvwyXQ8"
+        }
       ],
-      "artistId": [
-        "3J6Qep06aGWklhXOvwyXQ8"
-      ],
-      "albumId": "6XPjyQAlS5Hp6wdvsVQnpO",
+      "album": {
+        "id": "6XPjyQAlS5Hp6wdvsVQnpO",
+        "name": "Feelharmony",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203bddb210bf46650dcc50801"
+      },
       "release_date": "2012-10-09",
       "popularity": 32
     },
     {
-      "trackId": "1Jmqubf9kGkWeYQXQKImL5",
-      "name": "People Are Strange",
+      "track": {
+        "id": "1Jmqubf9kGkWeYQXQKImL5",
+        "name": "People Are Strange"
+      },
       "duration_ms": 130173,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "6v5IVMmY1IvWtbfnQoiFSf",
+      "album": {
+        "id": "6v5IVMmY1IvWtbfnQoiFSf",
+        "name": "Strange Days",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286339e6cd71cc2a167451ee5"
+      },
       "release_date": "1967-09-25",
       "popularity": 71
     },
     {
-      "trackId": "4COklyEUnipSInTyM61f56",
-      "name": "Pam Grier",
+      "track": {
+        "id": "4COklyEUnipSInTyM61f56",
+        "name": "Pam Grier"
+      },
       "duration_ms": 272013,
-      "artist": [
-        "Jamil Honesty",
-        "Rim DaVillin",
-        "P.U.R.E."
+      "artists": [
+        {
+          "name": "Jamil Honesty",
+          "id": "2WRuYynkJNdmVhnEospDOz"
+        },
+        {
+          "name": "Rim DaVillin",
+          "id": "53WcG8QHW6FS40Rvf5b3rd"
+        },
+        {
+          "name": "P.U.R.E.",
+          "id": "2vLaBfiaxLVN8v8d4NoFUb"
+        }
       ],
-      "artistId": [
-        "2WRuYynkJNdmVhnEospDOz",
-        "53WcG8QHW6FS40Rvf5b3rd",
-        "2vLaBfiaxLVN8v8d4NoFUb"
-      ],
-      "albumId": "2INhUjGUKgeWZdv9nIhFlY",
+      "album": {
+        "id": "2INhUjGUKgeWZdv9nIhFlY",
+        "name": "Pam Grier",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276e051f10f7c992d0641ff32"
+      },
       "release_date": "2021-01-25",
       "popularity": 22
     },
     {
-      "trackId": "37dYAkMa4lzRCH6kDbMT1L",
-      "name": "We No Speak Americano (Edit)",
+      "track": {
+        "id": "37dYAkMa4lzRCH6kDbMT1L",
+        "name": "We No Speak Americano (Edit)"
+      },
       "duration_ms": 157438,
-      "artist": [
-        "Yolanda Be Cool",
-        "DCup"
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "id": "4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "DCup",
+          "id": "6OkVmXCnj1BPjTf5aihiwt"
+        }
       ],
-      "artistId": [
-        "4KkHjCe8ouh8C2P9LPoD4F",
-        "6OkVmXCnj1BPjTf5aihiwt"
-      ],
-      "albumId": "57qvObQidfcN8quFMvQOXm",
+      "album": {
+        "id": "57qvObQidfcN8quFMvQOXm",
+        "name": "We No Speak Americano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9f80b2064ea74295afe64cc"
+      },
       "release_date": "2020-12-04",
       "popularity": 62
     },
     {
-      "trackId": "0sNn7mmOUEJEDAP2ohhQfp",
-      "name": "Yamore",
+      "track": {
+        "id": "0sNn7mmOUEJEDAP2ohhQfp",
+        "name": "Yamore"
+      },
       "duration_ms": 442880,
-      "artist": [
-        "Salif Keita",
-        "Cesária Evora"
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "id": "0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Cesária Evora",
+          "id": "0Nks3cFWU2a7rooAlFQYgn"
+        }
       ],
-      "artistId": [
-        "0VVnWF3KNaa5O7ESohKhAx",
-        "0Nks3cFWU2a7rooAlFQYgn"
-      ],
-      "albumId": "2gaL1CaBNmkk4c6jUhKcGX",
+      "album": {
+        "id": "2gaL1CaBNmkk4c6jUhKcGX",
+        "name": "Moffou",
+        "img": "https://i.scdn.co/image/ab67616d00001e02169b9bf114b853c8b3c8fb78"
+      },
       "release_date": "2002-03-25",
       "popularity": 49
     },
     {
-      "trackId": "75fomtP3etOOIJDBAXVawy",
-      "name": "Homeless (with Ladysmith Black Mambazo)",
+      "track": {
+        "id": "75fomtP3etOOIJDBAXVawy",
+        "name": "Homeless (with Ladysmith Black Mambazo)"
+      },
       "duration_ms": 228413,
-      "artist": [
-        "Paul Simon",
-        "Ladysmith Black Mambazo"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "id": "3FdLhnmXynPvZkbILPpB6d"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI",
-        "3FdLhnmXynPvZkbILPpB6d"
-      ],
-      "albumId": "6WgGWYw6XXQyLTsWt7tXky",
+      "album": {
+        "id": "6WgGWYw6XXQyLTsWt7tXky",
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209880a7b8636c5a0615dc0c8"
+      },
       "release_date": "1986-08-12",
       "popularity": 46
     },
     {
-      "trackId": "6VTbbVjKOC2qWagIDbkJrC",
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "track": {
+        "id": "6VTbbVjKOC2qWagIDbkJrC",
+        "name": "My Baby Just Cares for Me - 2013 Remastered Version"
+      },
       "duration_ms": 215746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "58gOQaPc4RCw8eWdTDRes7",
+      "album": {
+        "id": "58gOQaPc4RCw8eWdTDRes7",
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7cd1d8168aaca9041daad61"
+      },
       "release_date": "1958-06-24",
       "popularity": 66
     }

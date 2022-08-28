@@ -7,164 +7,238 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242453_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0Ja4hLKiUSw01E01pJ1yGr",
-      "name": "Breathe",
+      "track": {
+        "id": "0Ja4hLKiUSw01E01pJ1yGr",
+        "name": "Breathe"
+      },
       "duration_ms": 336280,
-      "artist": [
-        "The Prodigy"
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "id": "4k1ELeJKT1ISyDv8JivPpB"
+        }
       ],
-      "artistId": [
-        "4k1ELeJKT1ISyDv8JivPpB"
-      ],
-      "albumId": "4fdgcEVMdJe0KVgupMNJAP",
+      "album": {
+        "id": "4fdgcEVMdJe0KVgupMNJAP",
+        "name": "The Fat of the Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa0b74121608a007af87a3fe"
+      },
       "release_date": "1997-06-30",
       "popularity": 65
     },
     {
-      "trackId": "2ARRUWucLhpPnODCdbsN4j",
-      "name": "Until We Bleed (feat. Lykke Li)",
+      "track": {
+        "id": "2ARRUWucLhpPnODCdbsN4j",
+        "name": "Until We Bleed (feat. Lykke Li)"
+      },
       "duration_ms": 264040,
-      "artist": [
-        "Kleerup",
-        "Lykke Li"
+      "artists": [
+        {
+          "name": "Kleerup",
+          "id": "2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Lykke Li",
+          "id": "6oBm8HB0yfrIc9IHbxs6in"
+        }
       ],
-      "artistId": [
-        "2YL0l5fnyHE9FEf1bwFGCc",
-        "6oBm8HB0yfrIc9IHbxs6in"
-      ],
-      "albumId": "6f3hgA3I0KTeH10Xw8IPZK",
+      "album": {
+        "id": "6f3hgA3I0KTeH10Xw8IPZK",
+        "name": "Kleerup (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258b18b34c02bbab701cd9e4d"
+      },
       "release_date": "2008-05-19",
       "popularity": 41
     },
     {
-      "trackId": "23Uv9xqLumDqEBNIdHhCcO",
-      "name": "I Hope That I Don't Fall In Love With You",
+      "track": {
+        "id": "23Uv9xqLumDqEBNIdHhCcO",
+        "name": "I Hope That I Don't Fall In Love With You"
+      },
       "duration_ms": 233533,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "67F2ya9fonXH0jVVgLa7sb",
+      "album": {
+        "id": "67F2ya9fonXH0jVVgLa7sb",
+        "name": "Closing Time (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8"
+      },
       "release_date": "1973-03-06",
       "popularity": 59
     },
     {
-      "trackId": "3AU45zXYioIMk2wGzIwhx8",
-      "name": "Days of Fire",
+      "track": {
+        "id": "3AU45zXYioIMk2wGzIwhx8",
+        "name": "Days of Fire"
+      },
       "duration_ms": 194080,
-      "artist": [
-        "Nitin Sawhney",
-        "Natty"
+      "artists": [
+        {
+          "name": "Nitin Sawhney",
+          "id": "5NCKpzuowtihcIrIHFjKbJ"
+        },
+        {
+          "name": "Natty",
+          "id": "2bYR6To8Z49UmceWctNMIb"
+        }
       ],
-      "artistId": [
-        "5NCKpzuowtihcIrIHFjKbJ",
-        "2bYR6To8Z49UmceWctNMIb"
-      ],
-      "albumId": "6O2qmOmDxqyX5KVYYgbjmw",
+      "album": {
+        "id": "6O2qmOmDxqyX5KVYYgbjmw",
+        "name": "London Undersound",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d7dbf4204ad68befa1e2459"
+      },
       "release_date": "2008-10-13",
       "popularity": 26
     },
     {
-      "trackId": "0brrVj6VnvrG70SjRTnEJA",
-      "name": "White Riot - Remastered",
+      "track": {
+        "id": "0brrVj6VnvrG70SjRTnEJA",
+        "name": "White Riot - Remastered"
+      },
       "duration_ms": 116440,
-      "artist": [
-        "The Clash"
+      "artists": [
+        {
+          "name": "The Clash",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS"
+        }
       ],
-      "artistId": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-      ],
-      "albumId": "49kzgMsxHU5CTeb2XmFHjo",
+      "album": {
+        "id": "49kzgMsxHU5CTeb2XmFHjo",
+        "name": "The Clash (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246db502388d44edb43ebb261"
+      },
       "release_date": "1977",
       "popularity": 53
     },
     {
-      "trackId": "6evpAJCR5GeeHDGgv3aXb3",
-      "name": "Archangel",
+      "track": {
+        "id": "6evpAJCR5GeeHDGgv3aXb3",
+        "name": "Archangel"
+      },
       "duration_ms": 240426,
-      "artist": [
-        "Burial"
+      "artists": [
+        {
+          "name": "Burial",
+          "id": "0uCCBpmg6MrPb1KY2msceF"
+        }
       ],
-      "artistId": [
-        "0uCCBpmg6MrPb1KY2msceF"
-      ],
-      "albumId": "1C30LhZB9I48LdpVCRRYvq",
+      "album": {
+        "id": "1C30LhZB9I48LdpVCRRYvq",
+        "name": "Untrue",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad7f95966b473742cd323de8"
+      },
       "release_date": "2007-11-05",
       "popularity": 49
     },
     {
-      "trackId": "7phRCiy32oaJPfhjnYJUwp",
-      "name": "My Soul",
+      "track": {
+        "id": "7phRCiy32oaJPfhjnYJUwp",
+        "name": "My Soul"
+      },
       "duration_ms": 243146,
-      "artist": [
-        "Nitin Sawhney",
-        "Paul McCartney"
+      "artists": [
+        {
+          "name": "Nitin Sawhney",
+          "id": "5NCKpzuowtihcIrIHFjKbJ"
+        },
+        {
+          "name": "Paul McCartney",
+          "id": "4STHEaNw4mPZ2tzheohgXB"
+        }
       ],
-      "artistId": [
-        "5NCKpzuowtihcIrIHFjKbJ",
-        "4STHEaNw4mPZ2tzheohgXB"
-      ],
-      "albumId": "6O2qmOmDxqyX5KVYYgbjmw",
+      "album": {
+        "id": "6O2qmOmDxqyX5KVYYgbjmw",
+        "name": "London Undersound",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d7dbf4204ad68befa1e2459"
+      },
       "release_date": "2008-10-13",
       "popularity": 14
     },
     {
-      "trackId": "2Im64pIz6m0EJKdUe6eZ8r",
-      "name": "Lost In The World",
+      "track": {
+        "id": "2Im64pIz6m0EJKdUe6eZ8r",
+        "name": "Lost In The World"
+      },
       "duration_ms": 256586,
-      "artist": [
-        "Kanye West",
-        "Bon Iver"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Bon Iver",
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "4LEiUm1SRbFMgfqnQTwUbQ"
-      ],
-      "albumId": "20r762YmB5HeofjMCiPMLv",
+      "album": {
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+      },
       "release_date": "2010-11-22",
       "popularity": 63
     },
     {
-      "trackId": "0JDp7p99FSja52T0YBLupR",
-      "name": "The botten is nådd",
+      "track": {
+        "id": "0JDp7p99FSja52T0YBLupR",
+        "name": "The botten is nådd"
+      },
       "duration_ms": 231626,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "38puzkTypCZVdMd4FefkL8",
+      "album": {
+        "id": "38puzkTypCZVdMd4FefkL8",
+        "name": "The botten is nådd",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d55e8e96bb2801a95a5011"
+      },
       "release_date": "2003-06-02",
       "popularity": 43
     },
     {
-      "trackId": "121so7t3AeX6nLMvxy9ZP9",
-      "name": "Hide and Seek",
+      "track": {
+        "id": "121so7t3AeX6nLMvxy9ZP9",
+        "name": "Hide and Seek"
+      },
       "duration_ms": 268866,
-      "artist": [
-        "Imogen Heap"
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "id": "6Xb4ezwoAQC4516kI89nWz"
+        }
       ],
-      "artistId": [
-        "6Xb4ezwoAQC4516kI89nWz"
-      ],
-      "albumId": "5bxeKufn9YmJ3WNBQpBXlx",
+      "album": {
+        "id": "5bxeKufn9YmJ3WNBQpBXlx",
+        "name": "Speak For Yourself",
+        "img": "https://i.scdn.co/image/ab67616d00001e02354d106dcafb7e165189477e"
+      },
       "release_date": "2006-04-08",
       "popularity": 47
     },
     {
-      "trackId": "46LjZRrbTfxeqOHzXDB0qE",
-      "name": "Why Waste More Time?",
+      "track": {
+        "id": "46LjZRrbTfxeqOHzXDB0qE",
+        "name": "Why Waste More Time?"
+      },
       "duration_ms": 226893,
-      "artist": [
-        "Rosie Thomas"
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "id": "5Tw6OSRLoU7IHTO8kHGRQr"
+        }
       ],
-      "artistId": [
-        "5Tw6OSRLoU7IHTO8kHGRQr"
-      ],
-      "albumId": "7u1BUOu8aCcWqUOwdADK75",
+      "album": {
+        "id": "7u1BUOu8aCcWqUOwdADK75",
+        "name": "These Friends Of Mine (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02844bafd140ed1a3c73e26629"
+      },
       "release_date": "2007-03-13",
       "popularity": 4
     }

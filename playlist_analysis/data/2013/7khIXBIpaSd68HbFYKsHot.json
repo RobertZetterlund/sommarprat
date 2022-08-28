@@ -7,178 +7,258 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2861099_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7tYLyoMAzQDrcCTUE3b6bS",
-      "name": "J'aime plus Paris",
+      "track": {
+        "id": "7tYLyoMAzQDrcCTUE3b6bS",
+        "name": "J'aime plus Paris"
+      },
       "duration_ms": 184880,
-      "artist": [
-        "Thomas Dutronc"
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "id": "6ADpAfFsO5dJadJoBKv3nz"
+        }
       ],
-      "artistId": [
-        "6ADpAfFsO5dJadJoBKv3nz"
-      ],
-      "albumId": "4AMq62xQ6mKVqgfDwvbY4Z",
+      "album": {
+        "id": "4AMq62xQ6mKVqgfDwvbY4Z",
+        "name": "Comme Un Manouche Sans Guitare",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a45b0db7aca7d9eeb892a28b"
+      },
       "release_date": "2007-01-01",
       "popularity": 43
     },
     {
-      "trackId": "4u5xLMRN0dgKBFFN8FiNgv",
-      "name": "Niña Bonita",
+      "track": {
+        "id": "4u5xLMRN0dgKBFFN8FiNgv",
+        "name": "Niña Bonita"
+      },
       "duration_ms": 216786,
-      "artist": [
-        "Chino & Nacho"
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "id": "5NS0854TqZQVoRmJKSWtFZ"
+        }
       ],
-      "artistId": [
-        "5NS0854TqZQVoRmJKSWtFZ"
-      ],
-      "albumId": "5WdtDMLZ889QUGhstd0r96",
+      "album": {
+        "id": "5WdtDMLZ889QUGhstd0r96",
+        "name": "Mi Niña Bonita - Reloaded",
+        "img": "https://i.scdn.co/image/ab67616d00001e02535b15f71a115b19d37bd8ac"
+      },
       "release_date": "2010-01-01",
       "popularity": 69
     },
     {
-      "trackId": "5U8psxCirf56O3aFQjFP6i",
-      "name": "Röda luftballong",
+      "track": {
+        "id": "5U8psxCirf56O3aFQjFP6i",
+        "name": "Röda luftballong"
+      },
       "duration_ms": 192866,
-      "artist": [
-        "Rikard Wolff"
+      "artists": [
+        {
+          "name": "Rikard Wolff",
+          "id": "6SUSECiKAbiTLIUySSvzTx"
+        }
       ],
-      "artistId": [
-        "6SUSECiKAbiTLIUySSvzTx"
-      ],
-      "albumId": "43IeR95i4Wv4ZIikqsjsYK",
+      "album": {
+        "id": "43IeR95i4Wv4ZIikqsjsYK",
+        "name": "Första lågan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236afb77683d0a9fda6fa0d2d"
+      },
       "release_date": "2013-08-21",
       "popularity": 14
     },
     {
-      "trackId": "2Foc5Q5nqNiosCNqttzHof",
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "track": {
+        "id": "2Foc5Q5nqNiosCNqttzHof",
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit"
+      },
       "duration_ms": 248413,
-      "artist": [
-        "Daft Punk",
-        "Pharrell Williams",
-        "Nile Rodgers"
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "id": "3yDIp0kaq9EFKe07X1X2rz"
+        }
       ],
-      "artistId": [
-        "4tZwfgrHOc3mvqYlEYSvVi",
-        "2RdwBSPQiwcmiDo9kixcl8",
-        "3yDIp0kaq9EFKe07X1X2rz"
-      ],
-      "albumId": "2ePFIvZKMe8zefATp9ofFA",
+      "album": {
+        "id": "2ePFIvZKMe8zefATp9ofFA",
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d5cf960a92bb8b03fc2be7f"
+      },
       "release_date": "2013-04-19",
       "popularity": 82
     },
     {
-      "trackId": "6wDZbnNqgoEp2N06FPRg2n",
-      "name": "Amor Brando",
+      "track": {
+        "id": "6wDZbnNqgoEp2N06FPRg2n",
+        "name": "Amor Brando"
+      },
       "duration_ms": 94920,
-      "artist": [
-        "Karina Buhr"
+      "artists": [
+        {
+          "name": "Karina Buhr",
+          "id": "02aXPl7xsSoWlV77cUXtbm"
+        }
       ],
-      "artistId": [
-        "02aXPl7xsSoWlV77cUXtbm"
-      ],
-      "albumId": "2f07oNN32oC4bgH2Z0ORnO",
+      "album": {
+        "id": "2f07oNN32oC4bgH2Z0ORnO",
+        "name": "Longe de Onde",
+        "img": "https://i.scdn.co/image/ab67616d00001e0292e9503bc859c872f586f2fc"
+      },
       "release_date": "2011-09-10",
       "popularity": 46
     },
     {
-      "trackId": "2rnaO3pT6lGBjC8qP0fLfa",
-      "name": "Wapi Yo",
+      "track": {
+        "id": "2rnaO3pT6lGBjC8qP0fLfa",
+        "name": "Wapi Yo"
+      },
       "duration_ms": 182480,
-      "artist": [
-        "Lokua Kanza"
+      "artists": [
+        {
+          "name": "Lokua Kanza",
+          "id": "7vzd67tdMCwnIfIU6TX6Nk"
+        }
       ],
-      "artistId": [
-        "7vzd67tdMCwnIfIU6TX6Nk"
-      ],
-      "albumId": "2pOGfvi4wMFxYYifwnhT3z",
+      "album": {
+        "id": "2pOGfvi4wMFxYYifwnhT3z",
+        "name": "Wapi Yo",
+        "img": "https://i.scdn.co/image/ab67616d00001e021eaedb3213426c8b02b6bc72"
+      },
       "release_date": "2001-01-01",
       "popularity": 16
     },
     {
-      "trackId": "6SS9OF7qgf1EK2mr1Vmvbs",
-      "name": "Brest",
+      "track": {
+        "id": "6SS9OF7qgf1EK2mr1Vmvbs",
+        "name": "Brest"
+      },
       "duration_ms": 180280,
-      "artist": [
-        "Miossec"
+      "artists": [
+        {
+          "name": "Miossec",
+          "id": "0wf6vuNqTvdRGrmpsPu2kW"
+        }
       ],
-      "artistId": [
-        "0wf6vuNqTvdRGrmpsPu2kW"
-      ],
-      "albumId": "01QNSb8ePI1jDamvdb9nB7",
+      "album": {
+        "id": "01QNSb8ePI1jDamvdb9nB7",
+        "name": "1964",
+        "img": "https://i.scdn.co/image/ab67616d00001e029e767d390c1bb19303ac933d"
+      },
       "release_date": "2004-03-01",
       "popularity": 39
     },
     {
-      "trackId": "0sNn7mmOUEJEDAP2ohhQfp",
-      "name": "Yamore",
+      "track": {
+        "id": "0sNn7mmOUEJEDAP2ohhQfp",
+        "name": "Yamore"
+      },
       "duration_ms": 442880,
-      "artist": [
-        "Salif Keita",
-        "Cesária Evora"
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "id": "0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Cesária Evora",
+          "id": "0Nks3cFWU2a7rooAlFQYgn"
+        }
       ],
-      "artistId": [
-        "0VVnWF3KNaa5O7ESohKhAx",
-        "0Nks3cFWU2a7rooAlFQYgn"
-      ],
-      "albumId": "2gaL1CaBNmkk4c6jUhKcGX",
+      "album": {
+        "id": "2gaL1CaBNmkk4c6jUhKcGX",
+        "name": "Moffou",
+        "img": "https://i.scdn.co/image/ab67616d00001e02169b9bf114b853c8b3c8fb78"
+      },
       "release_date": "2002-03-25",
       "popularity": 49
     },
     {
-      "trackId": "2YNWgxevUxpjZDgW4i5Aky",
-      "name": "Je suis un homme",
+      "track": {
+        "id": "2YNWgxevUxpjZDgW4i5Aky",
+        "name": "Je suis un homme"
+      },
       "duration_ms": 249466,
-      "artist": [
-        "Zazie"
+      "artists": [
+        {
+          "name": "Zazie",
+          "id": "3FLS6y4AR3126l4D06V0ZD"
+        }
       ],
-      "artistId": [
-        "3FLS6y4AR3126l4D06V0ZD"
-      ],
-      "albumId": "3RWSCAgGYrQxdyqqX0mglq",
+      "album": {
+        "id": "3RWSCAgGYrQxdyqqX0mglq",
+        "name": "Totem",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4d60902dc45119d023d3f36"
+      },
       "release_date": "2007-01-01",
       "popularity": 56
     },
     {
-      "trackId": "3z3nJD2LEW3yFMaEjjGerZ",
-      "name": "Debussy: Deux Arabesques - No. 1 Andante con moto",
+      "track": {
+        "id": "3z3nJD2LEW3yFMaEjjGerZ",
+        "name": "Debussy: Deux Arabesques - No. 1 Andante con moto"
+      },
       "duration_ms": 236600,
-      "artist": [
-        "Claude Debussy",
-        "Zoltán Kocsis"
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "id": "1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Zoltán Kocsis",
+          "id": "5Gi9bw3svtZMwonzcQG2wm"
+        }
       ],
-      "artistId": [
-        "1Uff91EOsvd99rtAupatMP",
-        "5Gi9bw3svtZMwonzcQG2wm"
-      ],
-      "albumId": "5iCMSTRkcSaAPOnTL9KcEs",
+      "album": {
+        "id": "5iCMSTRkcSaAPOnTL9KcEs",
+        "name": "Classics for Creativity",
+        "img": "https://i.scdn.co/image/ab67616d00001e024077070a5ae65b523b91e2cd"
+      },
       "release_date": "2018-10-19",
       "popularity": 34
     },
     {
-      "trackId": "5JrEDriz04IUQnTviFEUKQ",
-      "name": "L'effet papillon",
+      "track": {
+        "id": "5JrEDriz04IUQnTviFEUKQ",
+        "name": "L'effet papillon"
+      },
       "duration_ms": 252506,
-      "artist": [
-        "Bénabar"
+      "artists": [
+        {
+          "name": "Bénabar",
+          "id": "6xoAWsIOZxJVPpo7Qvqaqv"
+        }
       ],
-      "artistId": [
-        "6xoAWsIOZxJVPpo7Qvqaqv"
-      ],
-      "albumId": "5XlvIGrLFEujpvJJUpkSsV",
+      "album": {
+        "id": "5XlvIGrLFEujpvJJUpkSsV",
+        "name": "Infréquentable",
+        "img": "https://i.scdn.co/image/ab67616d00001e02541a09c3c6403ba63ae93d77"
+      },
       "release_date": "2008-10-10",
       "popularity": 46
     },
     {
-      "trackId": "4ciRwt5dGHKKm8Et8r1xJ0",
-      "name": "Hier encore",
+      "track": {
+        "id": "4ciRwt5dGHKKm8Et8r1xJ0",
+        "name": "Hier encore"
+      },
       "duration_ms": 143466,
-      "artist": [
-        "Charles Aznavour"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT"
-      ],
-      "albumId": "0wcD2yLF9h3i41ryKQpgmK",
+      "album": {
+        "id": "0wcD2yLF9h3i41ryKQpgmK",
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff9a551232de2ac70d2ab5ca"
+      },
       "release_date": "1964",
       "popularity": 60
     }

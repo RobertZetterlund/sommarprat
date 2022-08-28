@@ -7,168 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243437_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4ydtQJImyQg6UDFFZBzgxp",
-      "name": "Cry Me A River",
+      "track": {
+        "id": "4ydtQJImyQg6UDFFZBzgxp",
+        "name": "Cry Me A River"
+      },
       "duration_ms": 150893,
-      "artist": [
-        "Dinah Washington"
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "id": "32LHRiof0sa4taYew9i3Fa"
+        }
       ],
-      "artistId": [
-        "32LHRiof0sa4taYew9i3Fa"
-      ],
-      "albumId": "0w8YD8Wz1hEkwXdsAMzzFe",
+      "album": {
+        "id": "0w8YD8Wz1hEkwXdsAMzzFe",
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a78eaacc0d1eca994d3ffd38"
+      },
       "release_date": "1959-02-19",
       "popularity": 52
     },
     {
-      "trackId": "5al9is1AQnaI3lTi20DUG6",
-      "name": "Cold War",
+      "track": {
+        "id": "5al9is1AQnaI3lTi20DUG6",
+        "name": "Cold War"
+      },
       "duration_ms": 203626,
-      "artist": [
-        "Janelle Monáe"
+      "artists": [
+        {
+          "name": "Janelle Monáe",
+          "id": "6ueGR6SWhUJfvEhqkvMsVs"
+        }
       ],
-      "artistId": [
-        "6ueGR6SWhUJfvEhqkvMsVs"
-      ],
-      "albumId": "7MvSB0JTdtl1pSwZcgvYQX",
+      "album": {
+        "id": "7MvSB0JTdtl1pSwZcgvYQX",
+        "name": "The ArchAndroid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02120a1366324c2ae1728e17e5"
+      },
       "release_date": "2010-05-17",
       "popularity": 39
     },
     {
-      "trackId": "6MCLjGk3NCfec4ywldGdKu",
-      "name": "LASER BEAM",
+      "track": {
+        "id": "6MCLjGk3NCfec4ywldGdKu",
+        "name": "LASER BEAM"
+      },
       "duration_ms": 107739,
-      "artist": [
-        "RoseAngeles"
+      "artists": [
+        {
+          "name": "RoseAngeles",
+          "id": "4On9EScBTAc8a9HC34UwZy"
+        }
       ],
-      "artistId": [
-        "4On9EScBTAc8a9HC34UwZy"
-      ],
-      "albumId": "6BjYo52SzIvufVddUJ7Ykz",
+      "album": {
+        "id": "6BjYo52SzIvufVddUJ7Ykz",
+        "name": "THE RAIN BEFORE THE STORM",
+        "img": "https://i.scdn.co/image/ab67616d00001e02620aed4f8afc1d53f42cc10b"
+      },
       "release_date": "2022-07-29",
       "popularity": 28
     },
     {
-      "trackId": "4aLcGMxwFtcZRpl7NDtNW2",
-      "name": "Time To Say Goodbye",
+      "track": {
+        "id": "4aLcGMxwFtcZRpl7NDtNW2",
+        "name": "Time To Say Goodbye"
+      },
       "duration_ms": 245893,
-      "artist": [
-        "Francesco Sartori",
-        "Lucio Quarantotto",
-        "Sarah Brightman"
+      "artists": [
+        {
+          "name": "Francesco Sartori",
+          "id": "0VtVDsLKIsyiBa1DeAdKbU"
+        },
+        {
+          "name": "Lucio Quarantotto",
+          "id": "1lMNYBJkRVsauCctH6Scvn"
+        },
+        {
+          "name": "Sarah Brightman",
+          "id": "7Ead768rc4ShGxnqtqccU5"
+        }
       ],
-      "artistId": [
-        "0VtVDsLKIsyiBa1DeAdKbU",
-        "1lMNYBJkRVsauCctH6Scvn",
-        "7Ead768rc4ShGxnqtqccU5"
-      ],
-      "albumId": "6O4lYKMQFLDcaUrBocYSRz",
+      "album": {
+        "id": "6O4lYKMQFLDcaUrBocYSRz",
+        "name": "The Best of Andrea Bocelli - 'Vivere'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1fef75fd377a1dd08dc3e2a"
+      },
       "release_date": "2007-01-01",
       "popularity": 59
     },
     {
-      "trackId": "09h39o0t13MWKIkLRuzAOE",
-      "name": "Neda",
+      "track": {
+        "id": "09h39o0t13MWKIkLRuzAOE",
+        "name": "Neda"
+      },
       "duration_ms": 155426,
-      "artist": [
-        "Xiada"
+      "artists": [
+        {
+          "name": "Xiada",
+          "id": "56Cs4LcuNdI6rmMF70QrOc"
+        }
       ],
-      "artistId": [
-        "56Cs4LcuNdI6rmMF70QrOc"
-      ],
-      "albumId": "5OPhBBP7Q2tyxRLdPhBmNw",
+      "album": {
+        "id": "5OPhBBP7Q2tyxRLdPhBmNw",
+        "name": "Neda",
+        "img": "https://i.scdn.co/image/ab67616d00001e02716068b33bf82a4d62783551"
+      },
       "release_date": "2021-03-12",
       "popularity": 53
     },
     {
-      "trackId": "6ioBgySxoeQKALvAeLEmId",
-      "name": "Express Yourself",
+      "track": {
+        "id": "6ioBgySxoeQKALvAeLEmId",
+        "name": "Express Yourself"
+      },
       "duration_ms": 239093,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "43lok9zd7BW5CoYkXZs7S0",
+      "album": {
+        "id": "43lok9zd7BW5CoYkXZs7S0",
+        "name": "Celebration (double disc version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f9f218b386e6aeb27184307"
+      },
       "release_date": "2009-09-18",
       "popularity": 56
     },
     {
-      "trackId": "1BpKbG3NkHgK5AypMtdUv9",
-      "name": "Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio",
+      "track": {
+        "id": "1BpKbG3NkHgK5AypMtdUv9",
+        "name": "Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio"
+      },
       "duration_ms": 317781,
-      "artist": [
-        "Plínio Fernandes",
-        "Sheku Kanneh-Mason"
+      "artists": [
+        {
+          "name": "Plínio Fernandes",
+          "id": "0FK16dJDaoLTqNO9YhawG8"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "id": "6OTr0YwLwGdv7mlmX27hRX"
+        }
       ],
-      "artistId": [
-        "0FK16dJDaoLTqNO9YhawG8",
-        "6OTr0YwLwGdv7mlmX27hRX"
-      ],
-      "albumId": "3sHvm5DrEOV6r2tsQNGlov",
+      "album": {
+        "id": "3sHvm5DrEOV6r2tsQNGlov",
+        "name": "Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258c8774bc5559872c292df8f"
+      },
       "release_date": "2022-05-27",
       "popularity": 46
     },
     {
-      "trackId": "2igwFfvr1OAGX9SKDCPBwO",
-      "name": "Empire State Of Mind",
+      "track": {
+        "id": "2igwFfvr1OAGX9SKDCPBwO",
+        "name": "Empire State Of Mind"
+      },
       "duration_ms": 276920,
-      "artist": [
-        "JAY-Z",
-        "Alicia Keys"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Alicia Keys",
+          "id": "3DiDSECUqqY1AuBP8qtaIa"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB",
-        "3DiDSECUqqY1AuBP8qtaIa"
-      ],
-      "albumId": "2CUT0104gySOIvqwtXeFsX",
+      "album": {
+        "id": "2CUT0104gySOIvqwtXeFsX",
+        "name": "The Blueprint 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10"
+      },
       "release_date": "2009-09-08",
       "popularity": 82
     },
     {
-      "trackId": "211w5wxTUuLdNB8QbfozmA",
-      "name": "Les yeux noirs",
+      "track": {
+        "id": "211w5wxTUuLdNB8QbfozmA",
+        "name": "Les yeux noirs"
+      },
       "duration_ms": 169381,
-      "artist": [
-        "Pomplamoose",
-        "The Vignes Rooftop Revival"
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "id": "5dHfLBNU8zoypgKefzEB1c"
+        },
+        {
+          "name": "The Vignes Rooftop Revival",
+          "id": "7gJK8KapNuy4i2B9qVm0um"
+        }
       ],
-      "artistId": [
-        "5dHfLBNU8zoypgKefzEB1c",
-        "7gJK8KapNuy4i2B9qVm0um"
-      ],
-      "albumId": "6C9NWuw1M1aFd633eMyNXd",
+      "album": {
+        "id": "6C9NWuw1M1aFd633eMyNXd",
+        "name": "En Français",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aad467674d8abb9f20720fb4"
+      },
       "release_date": "2020-04-17",
       "popularity": 49
     },
     {
-      "trackId": "2PLi7OmleXPNBrGLon3sUy",
-      "name": "Sweet Disposition",
+      "track": {
+        "id": "2PLi7OmleXPNBrGLon3sUy",
+        "name": "Sweet Disposition"
+      },
       "duration_ms": 234360,
-      "artist": [
-        "The Temper Trap"
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "id": "4W48hZAnAHVOC2c8WH8pcq"
+        }
       ],
-      "artistId": [
-        "4W48hZAnAHVOC2c8WH8pcq"
-      ],
-      "albumId": "6MJlXwm9rJV1sWBhNKIZG0",
+      "album": {
+        "id": "6MJlXwm9rJV1sWBhNKIZG0",
+        "name": "Conditions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb3d624d713c325479dfd208"
+      },
       "release_date": "2009-08-10",
       "popularity": 71
     },
     {
-      "trackId": "5IVuqXILoxVWvWEPm82Jxr",
-      "name": "Crazy In Love (feat. Jay-Z)",
+      "track": {
+        "id": "5IVuqXILoxVWvWEPm82Jxr",
+        "name": "Crazy In Love (feat. Jay-Z)"
+      },
       "duration_ms": 236133,
-      "artist": [
-        "Beyoncé",
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m",
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "6oxVabMIqCMJRYN1GqR3Vf",
+      "album": {
+        "id": "6oxVabMIqCMJRYN1GqR3Vf",
+        "name": "Dangerously In Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245680a4a57c97894490a01c1"
+      },
       "release_date": "2003-06-24",
       "popularity": 76
     }

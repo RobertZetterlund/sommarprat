@@ -7,234 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243373_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7H3ojI1BsVy0dEJENqMt1k",
-      "name": "By Your Side",
+      "track": {
+        "id": "7H3ojI1BsVy0dEJENqMt1k",
+        "name": "By Your Side"
+      },
       "duration_ms": 274933,
-      "artist": [
-        "Sade"
+      "artists": [
+        {
+          "name": "Sade",
+          "id": "47zz7sob9NUcODy0BTDvKx"
+        }
       ],
-      "artistId": [
-        "47zz7sob9NUcODy0BTDvKx"
-      ],
-      "albumId": "0NxA1D1taWpPdIc6uIlAi9",
+      "album": {
+        "id": "0NxA1D1taWpPdIc6uIlAi9",
+        "name": "Lovers Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220fc6951e4d293707de2434c"
+      },
       "release_date": "2000-11-13",
       "popularity": 69
     },
     {
-      "trackId": "2mNQl3DEWtkrwKllwYpxi0",
-      "name": "Pavane, Op. 50 (Version for Piano)",
+      "track": {
+        "id": "2mNQl3DEWtkrwKllwYpxi0",
+        "name": "Pavane, Op. 50 (Version for Piano)"
+      },
       "duration_ms": 359463,
-      "artist": [
-        "Gabriel Fauré",
-        "Jorge Federico Osorio"
+      "artists": [
+        {
+          "name": "Gabriel Fauré",
+          "id": "2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jorge Federico Osorio",
+          "id": "1Tt4CRnh4VCWn6UymYP057"
+        }
       ],
-      "artistId": [
-        "2gClsBep1tt1rv1CN210SO",
-        "1Tt4CRnh4VCWn6UymYP057"
-      ],
-      "albumId": "4QYFeRjBgVCv8Vrb3cK7wI",
+      "album": {
+        "id": "4QYFeRjBgVCv8Vrb3cK7wI",
+        "name": "The French Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d9fe7374a905b9f395b0647"
+      },
       "release_date": "2020-08-14",
       "popularity": 53
     },
     {
-      "trackId": "4smkJW6uzoHxGReZqqwHS5",
-      "name": "I'll Be Seeing You",
+      "track": {
+        "id": "4smkJW6uzoHxGReZqqwHS5",
+        "name": "I'll Be Seeing You"
+      },
       "duration_ms": 211533,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "4MkdTflpaaGGcXb5vtOYRs",
+      "album": {
+        "id": "4MkdTflpaaGGcXb5vtOYRs",
+        "name": "Billie Holiday",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8743d2c7812763f7f66e83b"
+      },
       "release_date": "1957-01-01",
       "popularity": 63
     },
     {
-      "trackId": "36xw27XcI4mUqFkGKh6LtO",
-      "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
+      "track": {
+        "id": "36xw27XcI4mUqFkGKh6LtO",
+        "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)"
+      },
       "duration_ms": 120103,
-      "artist": [
-        "PT Walkley",
-        "Michel Walkley",
-        "Charlie Walkley"
+      "artists": [
+        {
+          "name": "PT Walkley",
+          "id": "4PRBH61ujBc3VWylX0IGgG"
+        },
+        {
+          "name": "Michel Walkley",
+          "id": "0wbtAw0LRnmB2cZYNkSXHJ"
+        },
+        {
+          "name": "Charlie Walkley",
+          "id": "5yAhTBMRLXzUo50PIICGiA"
+        }
       ],
-      "artistId": [
-        "4PRBH61ujBc3VWylX0IGgG",
-        "0wbtAw0LRnmB2cZYNkSXHJ",
-        "5yAhTBMRLXzUo50PIICGiA"
-      ],
-      "albumId": "3lkEtPQqGmOQVoYykSczSC",
+      "album": {
+        "id": "3lkEtPQqGmOQVoYykSczSC",
+        "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c225157fabe6ae87a294865"
+      },
       "release_date": "2020-08-07",
       "popularity": 55
     },
     {
-      "trackId": "3Ty7OTBNSigGEpeW2PqcsC",
-      "name": "Glory Box",
+      "track": {
+        "id": "3Ty7OTBNSigGEpeW2PqcsC",
+        "name": "Glory Box"
+      },
       "duration_ms": 308626,
-      "artist": [
-        "Portishead"
+      "artists": [
+        {
+          "name": "Portishead",
+          "id": "6liAMWkVf5LH7YR9yfFy1Y"
+        }
       ],
-      "artistId": [
-        "6liAMWkVf5LH7YR9yfFy1Y"
-      ],
-      "albumId": "3539EbNgIdEDGBKkUf4wno",
+      "album": {
+        "id": "3539EbNgIdEDGBKkUf4wno",
+        "name": "Dummy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc20397b139223620af148f6"
+      },
       "release_date": "1994-01-01",
       "popularity": 69
     },
     {
-      "trackId": "0gSvEcIBXqiYqomjp6hKHj",
-      "name": "Le chant des sirènes",
+      "track": {
+        "id": "0gSvEcIBXqiYqomjp6hKHj",
+        "name": "Le chant des sirènes"
+      },
       "duration_ms": 178986,
-      "artist": [
-        "Fréro Delavega"
+      "artists": [
+        {
+          "name": "Fréro Delavega",
+          "id": "6bebPrkEPr2xEkiHP3QkNT"
+        }
       ],
-      "artistId": [
-        "6bebPrkEPr2xEkiHP3QkNT"
-      ],
-      "albumId": "6vRDgJ6ZlOQ8DH1Y4Olx46",
+      "album": {
+        "id": "6vRDgJ6ZlOQ8DH1Y4Olx46",
+        "name": "Fréro Delavega",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274e89417c8ecbfc2c8189c60"
+      },
       "release_date": "2014-01-01",
       "popularity": 62
     },
     {
-      "trackId": "0j5FJJOmmnXPd0XajFWkMF",
-      "name": "Unfinished Sympathy - 2012 Mix/Master",
+      "track": {
+        "id": "0j5FJJOmmnXPd0XajFWkMF",
+        "name": "Unfinished Sympathy - 2012 Mix/Master"
+      },
       "duration_ms": 308426,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "5mAPk4qeNqVLtNydaWbWlf",
+      "album": {
+        "id": "5mAPk4qeNqVLtNydaWbWlf",
+        "name": "Blue Lines (2012 Mix/Master)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af5beb00d940f5ede452d6b5"
+      },
       "release_date": "1991-06-10",
       "popularity": 64
     },
     {
-      "trackId": "0xQdisF8CHkso4LnJcaIMr",
-      "name": "Nine Million Bicycles",
+      "track": {
+        "id": "0xQdisF8CHkso4LnJcaIMr",
+        "name": "Nine Million Bicycles"
+      },
       "duration_ms": 197160,
-      "artist": [
-        "Katie Melua"
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "id": "5uCXJWo3WoXgqv3T1RlAbh"
+        }
       ],
-      "artistId": [
-        "5uCXJWo3WoXgqv3T1RlAbh"
-      ],
-      "albumId": "39LGwjgf2oV1BlCPsuLp4S",
+      "album": {
+        "id": "39LGwjgf2oV1BlCPsuLp4S",
+        "name": "Piece By Piece",
+        "img": "https://i.scdn.co/image/ab67616d00001e024762c4f5409bebf59076ab49"
+      },
       "release_date": "2005-09-23",
       "popularity": 60
     },
     {
-      "trackId": "2UT3iEU7uQAXNUxCKfiZAj",
-      "name": "Dancing on My Own",
+      "track": {
+        "id": "2UT3iEU7uQAXNUxCKfiZAj",
+        "name": "Dancing on My Own"
+      },
       "duration_ms": 288670,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0uQvFZsNoC7MZpcZZLtlYs",
+      "album": {
+        "id": "0uQvFZsNoC7MZpcZZLtlYs",
+        "name": "Body Talk, Pt.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a9b4d6c5fb4461ed90c200a"
+      },
       "release_date": "2010-01-01",
       "popularity": 55
     },
     {
-      "trackId": "25NxW0iRRFOrIfxu4nrYfE",
-      "name": "Being Boring",
+      "track": {
+        "id": "25NxW0iRRFOrIfxu4nrYfE",
+        "name": "Being Boring"
+      },
       "duration_ms": 291306,
-      "artist": [
-        "Pet Shop Boys"
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "id": "2ycnb8Er79LoH2AsR5ldjh"
+        }
       ],
-      "artistId": [
-        "2ycnb8Er79LoH2AsR5ldjh"
-      ],
-      "albumId": "0Jt2LzWgtGxy3GZH5i2Kcy",
+      "album": {
+        "id": "0Jt2LzWgtGxy3GZH5i2Kcy",
+        "name": "Discography - Complete Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02499c6d2eaeb941d76acdfe41"
+      },
       "release_date": "1998-03-31",
       "popularity": 48
     },
     {
-      "trackId": "4L9sdN5l6PvW3EZyP6sY7j",
-      "name": "I Am What I Am",
+      "track": {
+        "id": "4L9sdN5l6PvW3EZyP6sY7j",
+        "name": "I Am What I Am"
+      },
       "duration_ms": 207106,
-      "artist": [
-        "Gloria Gaynor"
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "id": "6V6WCgi7waF55bJmylC4H5"
+        }
       ],
-      "artistId": [
-        "6V6WCgi7waF55bJmylC4H5"
-      ],
-      "albumId": "3mn5uMVqqN1WPA2Jwd8lfk",
+      "album": {
+        "id": "3mn5uMVqqN1WPA2Jwd8lfk",
+        "name": "Gloria Gaynor '90 (All New Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274a9415776fe535089e85cf3"
+      },
       "release_date": "1990",
       "popularity": 52
     },
     {
-      "trackId": "608bylbJXF0rI3pPeypyB7",
-      "name": "You Don't Own Me",
+      "track": {
+        "id": "608bylbJXF0rI3pPeypyB7",
+        "name": "You Don't Own Me"
+      },
       "duration_ms": 148173,
-      "artist": [
-        "Dusty Springfield"
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "id": "5zaXYwewAXedKNCff45U5l"
+        }
       ],
-      "artistId": [
-        "5zaXYwewAXedKNCff45U5l"
-      ],
-      "albumId": "1ulDMEpgJC1L4W05dMyqHl",
+      "album": {
+        "id": "1ulDMEpgJC1L4W05dMyqHl",
+        "name": "A Girl Called Dusty",
+        "img": "https://i.scdn.co/image/ab67616d00001e02583d38d8c513de4b48b1b882"
+      },
       "release_date": "1964-04-17",
       "popularity": 43
     },
     {
-      "trackId": "4UCTgh5jvtqoaMX6MAhUNn",
-      "name": "Personal Jesus - Single Version",
+      "track": {
+        "id": "4UCTgh5jvtqoaMX6MAhUNn",
+        "name": "Personal Jesus - Single Version"
+      },
       "duration_ms": 224933,
-      "artist": [
-        "Depeche Mode"
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "id": "762310PdDnwsDxAQxzQkfX"
+        }
       ],
-      "artistId": [
-        "762310PdDnwsDxAQxzQkfX"
-      ],
-      "albumId": "61h3VS8XDROIpvQznjTPTT",
+      "album": {
+        "id": "61h3VS8XDROIpvQznjTPTT",
+        "name": "The Singles 86-98",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a7d45a345534966a4ad2c39"
+      },
       "release_date": "1998-09-28",
       "popularity": 67
     },
     {
-      "trackId": "0LbK1bodGLc9xmV1cS9jvL",
-      "name": "Will You Still Love Me Tomorrow? - 2011",
+      "track": {
+        "id": "0LbK1bodGLc9xmV1cS9jvL",
+        "name": "Will You Still Love Me Tomorrow? - 2011"
+      },
       "duration_ms": 262813,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "4xdRjOhY9NHmMpI7U3e2c3",
+      "album": {
+        "id": "4xdRjOhY9NHmMpI7U3e2c3",
+        "name": "Lioness: Hidden Treasures",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c896e873306c17847c254e9"
+      },
       "release_date": "2011-01-01",
       "popularity": 61
     },
     {
-      "trackId": "1jCXTO9WKHGrHHP021uY5i",
-      "name": "I Happen To Like New York",
+      "track": {
+        "id": "1jCXTO9WKHGrHHP021uY5i",
+        "name": "I Happen To Like New York"
+      },
       "duration_ms": 176160,
-      "artist": [
-        "Judy Garland"
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "id": "0hItVPjwJLVZrFqOyIsxPf"
+        }
       ],
-      "artistId": [
-        "0hItVPjwJLVZrFqOyIsxPf"
-      ],
-      "albumId": "1fxj2OGZwOZmpersPPISgT",
+      "album": {
+        "id": "1fxj2OGZwOZmpersPPISgT",
+        "name": "The Garland Touch",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1bbc290cd47bbfff27edcf5"
+      },
       "release_date": "1962-08-06",
       "popularity": 20
     },
     {
-      "trackId": "6VZwnDUMkAZs36g6v9MVQX",
-      "name": "Tomorrow Never Came (feat. Sean Ono Lennon)",
+      "track": {
+        "id": "6VZwnDUMkAZs36g6v9MVQX",
+        "name": "Tomorrow Never Came (feat. Sean Ono Lennon)"
+      },
       "duration_ms": 307540,
-      "artist": [
-        "Lana Del Rey",
-        "Sean Ono Lennon"
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "id": "00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Sean Ono Lennon",
+          "id": "5JUYSPkis2Mk6HUbmMqk1m"
+        }
       ],
-      "artistId": [
-        "00FQb4jTyendYWaN8pK0wa",
-        "5JUYSPkis2Mk6HUbmMqk1m"
-      ],
-      "albumId": "7xYiTrbTL57QO0bb4hXIKo",
+      "album": {
+        "id": "7xYiTrbTL57QO0bb4hXIKo",
+        "name": "Lust For Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295e2fd1accb339fa14878190"
+      },
       "release_date": "2017-07-21",
       "popularity": 59
     }

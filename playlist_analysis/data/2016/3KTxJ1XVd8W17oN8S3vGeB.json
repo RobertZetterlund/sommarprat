@@ -7,204 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/95e1f392-9ddc-48fd-b49a-e6c01e4a8b12.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4x48SRR0MmHwZFqKlN0zRr",
-      "name": "Music For 18 Musicians",
+      "track": {
+        "id": "4x48SRR0MmHwZFqKlN0zRr",
+        "name": "Music For 18 Musicians"
+      },
       "duration_ms": 3391040,
-      "artist": [
-        "Steve Reich",
-        "Steve Reich Ensemble"
+      "artists": [
+        {
+          "name": "Steve Reich",
+          "id": "1aVONoJ0EM97BB26etc1vo"
+        },
+        {
+          "name": "Steve Reich Ensemble",
+          "id": "77YkXfcmBKyHkzqvrLORzW"
+        }
       ],
-      "artistId": [
-        "1aVONoJ0EM97BB26etc1vo",
-        "77YkXfcmBKyHkzqvrLORzW"
-      ],
-      "albumId": "4jxxagv18Qll63cDEIqPsH",
+      "album": {
+        "id": "4jxxagv18Qll63cDEIqPsH",
+        "name": "Steve Reich - The ECM Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277c9e70b1ed7839d1faca32f"
+      },
       "release_date": "2016-09-30",
       "popularity": 26
     },
     {
-      "trackId": "1C3CJsvl3LeIUSsh1Vclhf",
-      "name": "Five Four",
+      "track": {
+        "id": "1C3CJsvl3LeIUSsh1Vclhf",
+        "name": "Five Four"
+      },
       "duration_ms": 162880,
-      "artist": [
-        "Mikael Karlsson"
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "id": "1XNtgBboL5YQGHqM8zFFDx"
+        }
       ],
-      "artistId": [
-        "1XNtgBboL5YQGHqM8zFFDx"
-      ],
-      "albumId": "44WCnpNc7OcOTl00wUqsmO",
+      "album": {
+        "id": "44WCnpNc7OcOTl00wUqsmO",
+        "name": "Privacy",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ab0ae1bcd748985746f7a94"
+      },
       "release_date": "2008-09-23",
       "popularity": 1
     },
     {
-      "trackId": "4qSZApchhJHBWyDhUECiv4",
-      "name": "Adios",
+      "track": {
+        "id": "4qSZApchhJHBWyDhUECiv4",
+        "name": "Adios"
+      },
       "duration_ms": 253866,
-      "artist": [
-        "Benjamin Clementine"
+      "artists": [
+        {
+          "name": "Benjamin Clementine",
+          "id": "7zHIrsSBL7A0gEJfzv1m7z"
+        }
       ],
-      "artistId": [
-        "7zHIrsSBL7A0gEJfzv1m7z"
-      ],
-      "albumId": "0kmS5PSTDOgA1riwnqbueC",
+      "album": {
+        "id": "0kmS5PSTDOgA1riwnqbueC",
+        "name": "At Least For Now (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027adb1d3c0dda2d8e7fde68a7"
+      },
       "release_date": "2016-04-08",
       "popularity": 30
     },
     {
-      "trackId": "6kovQ9Ed2znBQYoAvtRP3s",
-      "name": "Running Away",
+      "track": {
+        "id": "6kovQ9Ed2znBQYoAvtRP3s",
+        "name": "Running Away"
+      },
       "duration_ms": 399493,
-      "artist": [
-        "Monty Alexander"
+      "artists": [
+        {
+          "name": "Monty Alexander",
+          "id": "30V1rKijENF5MFcGidInfh"
+        }
       ],
-      "artistId": [
-        "30V1rKijENF5MFcGidInfh"
-      ],
-      "albumId": "1WoyDoPh3Owr8m4wjajy5E",
+      "album": {
+        "id": "1WoyDoPh3Owr8m4wjajy5E",
+        "name": "Stir It Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e515683880e795d7ecbd0fea"
+      },
       "release_date": "1999",
       "popularity": 24
     },
     {
-      "trackId": "7Dbnewb1qoy9xsCMQpTrsg",
-      "name": "BUM BUM",
+      "track": {
+        "id": "7Dbnewb1qoy9xsCMQpTrsg",
+        "name": "BUM BUM"
+      },
       "duration_ms": 199190,
-      "artist": [
-        "Die Antwoord",
-        "G.O.D."
+      "artists": [
+        {
+          "name": "Die Antwoord",
+          "id": "6urkHDoIVO1WO8vNIwcJmM"
+        },
+        {
+          "name": "G.O.D.",
+          "id": "3K5dZFupfkg0uhatEcQV2N"
+        }
       ],
-      "artistId": [
-        "6urkHDoIVO1WO8vNIwcJmM",
-        "3K5dZFupfkg0uhatEcQV2N"
-      ],
-      "albumId": "5v9NLux5BaJo2yevG8Ww6S",
+      "album": {
+        "id": "5v9NLux5BaJo2yevG8Ww6S",
+        "name": "SUCK ON THIS (MIXTAPE)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02560c5866a5d7c7734ca909ca"
+      },
       "release_date": "2016-05-20",
       "popularity": 38
     },
     {
-      "trackId": "5p8Ezi8qFttAyTlRNW7vYL",
-      "name": "Ravel: Chansons madécasses, M. 78: No. 1, Nahandove",
+      "track": {
+        "id": "5p8Ezi8qFttAyTlRNW7vYL",
+        "name": "Ravel: Chansons madécasses, M. 78: No. 1, Nahandove"
+      },
       "duration_ms": 416866,
-      "artist": [
-        "Maurice Ravel",
-        "Jessye Norman",
-        "Michel Debost"
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "id": "17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jessye Norman",
+          "id": "0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Michel Debost",
+          "id": "3y3Tq5ZW9SFtIMon8jHjkG"
+        }
       ],
-      "artistId": [
-        "17hR0sYHpx7VYTMRfFUOmY",
-        "0zdBW3w3XzBuPMUEiarUUw",
-        "3y3Tq5ZW9SFtIMon8jHjkG"
-      ],
-      "albumId": "2alnXYEbfYIRJfWcpyAoaR",
+      "album": {
+        "id": "2alnXYEbfYIRJfWcpyAoaR",
+        "name": "The Very Best of Jessye Norman",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a57ea1f0b35cbbe2a84a67c2"
+      },
       "release_date": "2003-02-15",
       "popularity": 5
     },
     {
-      "trackId": "11JRjz7naYnvEEf4Flmxsd",
-      "name": "Sapaly",
+      "track": {
+        "id": "11JRjz7naYnvEEf4Flmxsd",
+        "name": "Sapaly"
+      },
       "duration_ms": 300484,
-      "artist": [
-        "Aby Ngana Diop"
+      "artists": [
+        {
+          "name": "Aby Ngana Diop",
+          "id": "1IV8kbYTz79YaAB26uxPHf"
+        }
       ],
-      "artistId": [
-        "1IV8kbYTz79YaAB26uxPHf"
-      ],
-      "albumId": "1GzFpRvnyTeUX70CgQhS2T",
+      "album": {
+        "id": "1GzFpRvnyTeUX70CgQhS2T",
+        "name": "Liital",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9744aeae8e8efa98a687688"
+      },
       "release_date": "2014-09-02",
       "popularity": 3
     },
     {
-      "trackId": "5IWSOYqPqw6f0LG19GhesE",
-      "name": "Vingar",
+      "track": {
+        "id": "5IWSOYqPqw6f0LG19GhesE",
+        "name": "Vingar"
+      },
       "duration_ms": 313719,
-      "artist": [
-        "Mikael Rickfors"
+      "artists": [
+        {
+          "name": "Mikael Rickfors",
+          "id": "2Q4l7xGX0Y3u1f0m4V7kG2"
+        }
       ],
-      "artistId": [
-        "2Q4l7xGX0Y3u1f0m4V7kG2"
-      ],
-      "albumId": "237mMetlEPs6FWYHf6poMq",
+      "album": {
+        "id": "237mMetlEPs6FWYHf6poMq",
+        "name": "Vingar",
+        "img": "https://i.scdn.co/image/ab67616d00001e029e5053820c6cd10c863e7f70"
+      },
       "release_date": "1991-03-14",
       "popularity": 46
     },
     {
-      "trackId": "381AxfrSLHGRoNBb10qJLV",
-      "name": "Trong Quan",
+      "track": {
+        "id": "381AxfrSLHGRoNBb10qJLV",
+        "name": "Trong Quan"
+      },
       "duration_ms": 238640,
-      "artist": [
-        "Pham duc Thanh"
+      "artists": [
+        {
+          "name": "Pham duc Thanh",
+          "id": "4mh6FZsF9gO7mRUOfTTMIU"
+        }
       ],
-      "artistId": [
-        "4mh6FZsF9gO7mRUOfTTMIU"
-      ],
-      "albumId": "5O2Blb3Ti3eHPluZq7hfrk",
+      "album": {
+        "id": "5O2Blb3Ti3eHPluZq7hfrk",
+        "name": "Vietnamese Traditional Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd4d0437b762655934b19c0f"
+      },
       "release_date": "1999",
       "popularity": 12
     },
     {
-      "trackId": "6qIu9jyTzG7qjWQnliKeUP",
-      "name": "Enter the Lake (feat. Norwegian National Opera Orchestra & Per Kristian Skalstad)",
+      "track": {
+        "id": "6qIu9jyTzG7qjWQnliKeUP",
+        "name": "Enter the Lake (feat. Norwegian National Opera Orchestra & Per Kristian Skalstad)"
+      },
       "duration_ms": 268883,
-      "artist": [
-        "Mikael Karlsson",
-        "Norwegian National Opera Orchestra",
-        "Per Kristian Skalstad"
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "id": "1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Norwegian National Opera Orchestra",
+          "id": "1zJuR3M6OveTT0zt2esWR5"
+        },
+        {
+          "name": "Per Kristian Skalstad",
+          "id": "3VkiQ0haDv7ijofTWtNNMU"
+        }
       ],
-      "artistId": [
-        "1XNtgBboL5YQGHqM8zFFDx",
-        "1zJuR3M6OveTT0zt2esWR5",
-        "3VkiQ0haDv7ijofTWtNNMU"
-      ],
-      "albumId": "3oX5KBv3F05lgapFUj0Wsa",
+      "album": {
+        "id": "3oX5KBv3F05lgapFUj0Wsa",
+        "name": "A Swan Lake (feat. Norwegian National Opera Orchestra & Per Kristian Skalstad)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1aefd7ab20d0eef04f14dbd"
+      },
       "release_date": "2016-11-16",
       "popularity": 1
     },
     {
-      "trackId": "6mfnLUXYsoQcP8Od3wZxUf",
-      "name": "Still With Me",
+      "track": {
+        "id": "6mfnLUXYsoQcP8Od3wZxUf",
+        "name": "Still With Me"
+      },
       "duration_ms": 487240,
-      "artist": [
-        "Balanescu Quartet"
+      "artists": [
+        {
+          "name": "Balanescu Quartet",
+          "id": "39nJA4NmdZE5sJecB0zjXY"
+        }
       ],
-      "artistId": [
-        "39nJA4NmdZE5sJecB0zjXY"
-      ],
-      "albumId": "6aQ7WDRltqZpE8wGEIwZzy",
+      "album": {
+        "id": "6aQ7WDRltqZpE8wGEIwZzy",
+        "name": "Luminitza (Reissue)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cbfc3eef3bec70504772502"
+      },
       "release_date": "2015-05-28",
       "popularity": 8
     },
     {
-      "trackId": "4g9K3Awgwn8Fq9Uzpd3t7c",
-      "name": "Again",
+      "track": {
+        "id": "4g9K3Awgwn8Fq9Uzpd3t7c",
+        "name": "Again"
+      },
       "duration_ms": 145500,
-      "artist": [
-        "Mikael Karlsson",
-        "Blythe Gaissert",
-        "John Kelly"
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "id": "1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Blythe Gaissert",
+          "id": "27ryj8AZLknucAWXhFhqO9"
+        },
+        {
+          "name": "John Kelly",
+          "id": "0rEMnSUPgdChzplOk49gF6"
+        }
       ],
-      "artistId": [
-        "1XNtgBboL5YQGHqM8zFFDx",
-        "27ryj8AZLknucAWXhFhqO9",
-        "0rEMnSUPgdChzplOk49gF6"
-      ],
-      "albumId": "257F5BXJ2vCbjs041DSCF4",
+      "album": {
+        "id": "257F5BXJ2vCbjs041DSCF4",
+        "name": "The Echo Drift (Live at the Prototype Festival)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b6dae3621f5c09d5c24bf2bc"
+      },
       "release_date": "2018-06-12",
       "popularity": 0
     },
     {
-      "trackId": "6ncA5Pa9T83Et2nfg0Oif1",
-      "name": "Under the Sail",
+      "track": {
+        "id": "6ncA5Pa9T83Et2nfg0Oif1",
+        "name": "Under the Sail"
+      },
       "duration_ms": 256000,
-      "artist": [
-        "Mikael Karlsson",
-        "Johannes Klumpp",
-        "Bundesjugendorchester"
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "id": "1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Johannes Klumpp",
+          "id": "2AjrtB1nf2FCn9M3sjtgtJ"
+        },
+        {
+          "name": "Bundesjugendorchester",
+          "id": "6TvFz9YIevtHIA2JIFySpe"
+        }
       ],
-      "artistId": [
-        "1XNtgBboL5YQGHqM8zFFDx",
-        "2AjrtB1nf2FCn9M3sjtgtJ",
-        "6TvFz9YIevtHIA2JIFySpe"
-      ],
-      "albumId": "6wRti89PWtP6zqS4bkDJbN",
+      "album": {
+        "id": "6wRti89PWtP6zqS4bkDJbN",
+        "name": "Cow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac6e04dbdaf4a9d669cb0594"
+      },
       "release_date": "2018-05-25",
       "popularity": 2
     }

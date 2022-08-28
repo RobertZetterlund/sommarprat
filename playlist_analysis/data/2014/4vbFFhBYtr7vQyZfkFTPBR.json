@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3302723_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3B78OTaAz811ekgYb27v6x",
-      "name": "'Tain't Nobody's Bizness If I Do - Live At The Great American Music Hall/1976",
+      "track": {
+        "id": "3B78OTaAz811ekgYb27v6x",
+        "name": "'Tain't Nobody's Bizness If I Do - Live At The Great American Music Hall/1976"
+      },
       "duration_ms": 315481,
-      "artist": [
-        "Carmen McRae"
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "id": "2E3nXyfocf7qfHAIFNbBuj"
+        }
       ],
-      "artistId": [
-        "2E3nXyfocf7qfHAIFNbBuj"
-      ],
-      "albumId": "0VvWrfaAqX5s52d7AtrEX7",
+      "album": {
+        "id": "0VvWrfaAqX5s52d7AtrEX7",
+        "name": "At The Great American Music Hall",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b693525f4da8ae37386ab9cb"
+      },
       "release_date": "1977-01-01",
       "popularity": 1
     },
     {
-      "trackId": "0qIPeic4UDhIsWhFcH6oi1",
-      "name": "Balladen om det stora slagsmålet på Tegelbacken - Live '62",
+      "track": {
+        "id": "0qIPeic4UDhIsWhFcH6oi1",
+        "name": "Balladen om det stora slagsmålet på Tegelbacken - Live '62"
+      },
       "duration_ms": 202293,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "4zuEyMSVcHs3loG0atOIVf",
+      "album": {
+        "id": "4zuEyMSVcHs3loG0atOIVf",
+        "name": "En stol på Tegnér (Live '62)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02926659209da4c3d0bb4b2828"
+      },
       "release_date": "1963-01-01",
       "popularity": 18
     },
     {
-      "trackId": "0qIPeic4UDhIsWhFcH6oi1",
-      "name": "Balladen om det stora slagsmålet på Tegelbacken - Live '62",
+      "track": {
+        "id": "0qIPeic4UDhIsWhFcH6oi1",
+        "name": "Balladen om det stora slagsmålet på Tegelbacken - Live '62"
+      },
       "duration_ms": 202293,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "4zuEyMSVcHs3loG0atOIVf",
+      "album": {
+        "id": "4zuEyMSVcHs3loG0atOIVf",
+        "name": "En stol på Tegnér (Live '62)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02926659209da4c3d0bb4b2828"
+      },
       "release_date": "1963-01-01",
       "popularity": 18
     },
     {
-      "trackId": "5jkd3e1qgmsTWJm3NvQ7X4",
-      "name": "Cry Me A River",
+      "track": {
+        "id": "5jkd3e1qgmsTWJm3NvQ7X4",
+        "name": "Cry Me A River"
+      },
       "duration_ms": 256866,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "051AdKfsuNyfiUc81mkJIR",
+      "album": {
+        "id": "051AdKfsuNyfiUc81mkJIR",
+        "name": "Clap Hands, Here Comes Charlie! (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02825b940e911ca8edcfa9b7e4"
+      },
       "release_date": "1989-06-20",
       "popularity": 47
     },
     {
-      "trackId": "1RcWWgnw5fVm3wcNq11zBu",
-      "name": "Mama Laudaaa",
+      "track": {
+        "id": "1RcWWgnw5fVm3wcNq11zBu",
+        "name": "Mama Laudaaa"
+      },
       "duration_ms": 215976,
-      "artist": [
-        "Almklausi",
-        "Specktakel"
+      "artists": [
+        {
+          "name": "Almklausi",
+          "id": "3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "id": "1ErIf1pAAaw5upKsCbqhzz"
+        }
       ],
-      "artistId": [
-        "3f56dbtoRz7bucWJUeofzK",
-        "1ErIf1pAAaw5upKsCbqhzz"
-      ],
-      "albumId": "4yWhxiH0UB3A6jfr0ZLe4v",
+      "album": {
+        "id": "4yWhxiH0UB3A6jfr0ZLe4v",
+        "name": "Mama Laudaaa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b912d4c6b8d0587aff34e8ae"
+      },
       "release_date": "2018-02-07",
       "popularity": 63
     },
     {
-      "trackId": "5rgMaZmipkcTqJaJTzWqpt",
-      "name": "Svantes lykkelige dag",
+      "track": {
+        "id": "5rgMaZmipkcTqJaJTzWqpt",
+        "name": "Svantes lykkelige dag"
+      },
       "duration_ms": 189880,
-      "artist": [
-        "Povl Dissing & Benny Andersen"
+      "artists": [
+        {
+          "name": "Povl Dissing & Benny Andersen",
+          "id": "3UtVGJ2KEEedE6EEW2zHZy"
+        }
       ],
-      "artistId": [
-        "3UtVGJ2KEEedE6EEW2zHZy"
-      ],
-      "albumId": "3WmoVJfWjlDvGJf8RUySv1",
+      "album": {
+        "id": "3WmoVJfWjlDvGJf8RUySv1",
+        "name": "Svantes Viser",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223011f1891628ac4f23fba4f"
+      },
       "release_date": "1998-04-01",
       "popularity": 32
     },
     {
-      "trackId": "5rgMaZmipkcTqJaJTzWqpt",
-      "name": "Svantes lykkelige dag",
+      "track": {
+        "id": "5rgMaZmipkcTqJaJTzWqpt",
+        "name": "Svantes lykkelige dag"
+      },
       "duration_ms": 189880,
-      "artist": [
-        "Povl Dissing & Benny Andersen"
+      "artists": [
+        {
+          "name": "Povl Dissing & Benny Andersen",
+          "id": "3UtVGJ2KEEedE6EEW2zHZy"
+        }
       ],
-      "artistId": [
-        "3UtVGJ2KEEedE6EEW2zHZy"
-      ],
-      "albumId": "3WmoVJfWjlDvGJf8RUySv1",
+      "album": {
+        "id": "3WmoVJfWjlDvGJf8RUySv1",
+        "name": "Svantes Viser",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223011f1891628ac4f23fba4f"
+      },
       "release_date": "1998-04-01",
       "popularity": 32
     },
     {
-      "trackId": "0FwdqCkSZkQoNVFOK2QH8h",
-      "name": "Ge mig luft - Albumversion",
+      "track": {
+        "id": "0FwdqCkSZkQoNVFOK2QH8h",
+        "name": "Ge mig luft - Albumversion"
+      },
       "duration_ms": 198226,
-      "artist": [
-        "Joss Ture"
+      "artists": [
+        {
+          "name": "Joss Ture",
+          "id": "0wGGZ4yAxHbalYM33uHcOF"
+        }
       ],
-      "artistId": [
-        "0wGGZ4yAxHbalYM33uHcOF"
-      ],
-      "albumId": "4GUD3FdKcq1IYaR85bZKRA",
+      "album": {
+        "id": "4GUD3FdKcq1IYaR85bZKRA",
+        "name": "Resultatet av ett inbördeskrig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253c24f8934d9946642186940"
+      },
       "release_date": "2018-02-23",
       "popularity": 3
     },
     {
-      "trackId": "0FwdqCkSZkQoNVFOK2QH8h",
-      "name": "Ge mig luft - Albumversion",
+      "track": {
+        "id": "0FwdqCkSZkQoNVFOK2QH8h",
+        "name": "Ge mig luft - Albumversion"
+      },
       "duration_ms": 198226,
-      "artist": [
-        "Joss Ture"
+      "artists": [
+        {
+          "name": "Joss Ture",
+          "id": "0wGGZ4yAxHbalYM33uHcOF"
+        }
       ],
-      "artistId": [
-        "0wGGZ4yAxHbalYM33uHcOF"
-      ],
-      "albumId": "4GUD3FdKcq1IYaR85bZKRA",
+      "album": {
+        "id": "4GUD3FdKcq1IYaR85bZKRA",
+        "name": "Resultatet av ett inbördeskrig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253c24f8934d9946642186940"
+      },
       "release_date": "2018-02-23",
       "popularity": 3
     },
     {
-      "trackId": "1oDCK7PW72XEZ1pE5rh87A",
-      "name": "Smile",
+      "track": {
+        "id": "1oDCK7PW72XEZ1pE5rh87A",
+        "name": "Smile"
+      },
       "duration_ms": 173266,
-      "artist": [
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "3NoP1ifIejWkGSDsO9T2xH",
+      "album": {
+        "id": "3NoP1ifIejWkGSDsO9T2xH",
+        "name": "The Nat King Cole Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e02deac5adf07affb5fec422701"
+      },
       "release_date": "1991-01-01",
       "popularity": 63
     },
     {
-      "trackId": "4kF9AoXsb9kieb8zKU3xSw",
-      "name": "One More Cup of Coffee (Valley Below) - Live at Nippon Budokan Hall, Tokyo, Japan - February/March 1978",
+      "track": {
+        "id": "4kF9AoXsb9kieb8zKU3xSw",
+        "name": "One More Cup of Coffee (Valley Below) - Live at Nippon Budokan Hall, Tokyo, Japan - February/March 1978"
+      },
       "duration_ms": 210666,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "10iefHq2stsarq3QvPCZ7u",
+      "album": {
+        "id": "10iefHq2stsarq3QvPCZ7u",
+        "name": "Bob Dylan At Budokan (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdfc5fbc19dd82b6537e16ea"
+      },
       "release_date": "1979-04-23",
       "popularity": 24
     }

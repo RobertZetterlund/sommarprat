@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258662_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2rwn9xJsQy2i7sOWKEQrY7",
-      "name": "Some of That",
+      "track": {
+        "id": "2rwn9xJsQy2i7sOWKEQrY7",
+        "name": "Some of That"
+      },
       "duration_ms": 256075,
-      "artist": [
-        "Sylvan Paul"
+      "artists": [
+        {
+          "name": "Sylvan Paul",
+          "id": "4lPYVNXkOEjmC9dlniLDU1"
+        }
       ],
-      "artistId": [
-        "4lPYVNXkOEjmC9dlniLDU1"
-      ],
-      "albumId": "6fhEdGGa0tgELbJ0psbqBP",
+      "album": {
+        "id": "6fhEdGGa0tgELbJ0psbqBP",
+        "name": "Some of That",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab44c9b1ad9c8e3590347a1e"
+      },
       "release_date": "2021-12-10",
       "popularity": 34
     },
     {
-      "trackId": "6HKChbfE5klrUMHo3NrqzX",
-      "name": "Tell Him (Duet with Barbra Streisand)",
+      "track": {
+        "id": "6HKChbfE5klrUMHo3NrqzX",
+        "name": "Tell Him (Duet with Barbra Streisand)"
+      },
       "duration_ms": 291160,
-      "artist": [
-        "Barbra Streisand",
-        "Céline Dion"
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "id": "7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Céline Dion",
+          "id": "4S9EykWXhStSc15wEx8QFK"
+        }
       ],
-      "artistId": [
-        "7jmTilWYlKOuavFfmQAcu6",
-        "4S9EykWXhStSc15wEx8QFK"
-      ],
-      "albumId": "1tfS7Fo1UtAxQSf256fnYs",
+      "album": {
+        "id": "1tfS7Fo1UtAxQSf256fnYs",
+        "name": "Let's Talk About Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02745adc3f697ea1ec79d66901"
+      },
       "release_date": "1997-10-24",
       "popularity": 56
     },
     {
-      "trackId": "19lX102fNMgBgsOr9CkrQj",
-      "name": "Xeribi - Remastered",
+      "track": {
+        "id": "19lX102fNMgBgsOr9CkrQj",
+        "name": "Xeribi - Remastered"
+      },
       "duration_ms": 290016,
-      "artist": [
-        "Ciwan Haco"
+      "artists": [
+        {
+          "name": "Ciwan Haco",
+          "id": "4o7TBxtRmKEAbKYFrjv3NG"
+        }
       ],
-      "artistId": [
-        "4o7TBxtRmKEAbKYFrjv3NG"
-      ],
-      "albumId": "5ffzNQrzklKkAlj7BDh2i7",
+      "album": {
+        "id": "5ffzNQrzklKkAlj7BDh2i7",
+        "name": "Girtiyên Azadiyê (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02185c9e65cd9927dcce424ee1"
+      },
       "release_date": "1988-12-05",
       "popularity": 40
     },
     {
-      "trackId": "5yy1Ba0P040YFPYWuXIceK",
-      "name": "Handens fem fingrar",
+      "track": {
+        "id": "5yy1Ba0P040YFPYWuXIceK",
+        "name": "Handens fem fingrar"
+      },
       "duration_ms": 216680,
-      "artist": [
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "2iXjmFjERWHm3VZleAVkTq",
+      "album": {
+        "id": "2iXjmFjERWHm3VZleAVkTq",
+        "name": "Till Morelia",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7a80ef12975e5613abed6cc"
+      },
       "release_date": "1995",
       "popularity": 37
     },
     {
-      "trackId": "4rsl5OyvvZGKdM0FmBXq4z",
-      "name": "Esma'ny",
+      "track": {
+        "id": "4rsl5OyvvZGKdM0FmBXq4z",
+        "name": "Esma'ny"
+      },
       "duration_ms": 215426,
-      "artist": [
-        "Carole Samaha"
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "id": "0CSSBwiYmYF569NxdQedQ3"
+        }
       ],
-      "artistId": [
-        "0CSSBwiYmYF569NxdQedQ3"
-      ],
-      "albumId": "1KhaNzsVNtdGtnfhVJgIJp",
+      "album": {
+        "id": "1KhaNzsVNtdGtnfhVJgIJp",
+        "name": "Adwaa' El Shohra",
+        "img": "https://i.scdn.co/image/ab67616d00001e024887ba75c68a9a7ba0c9f915"
+      },
       "release_date": "2006-06-10",
       "popularity": 46
     },
     {
-      "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
-      "name": "Öppna landskap",
+      "track": {
+        "id": "1WVjxyTSZ5UiI6TlcHyUPh",
+        "name": "Öppna landskap"
+      },
       "duration_ms": 278333,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "7aB0bPRv2elnc0Ou1whaty",
+      "album": {
+        "id": "7aB0bPRv2elnc0Ou1whaty",
+        "name": "Öppna Landskap 7595",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cec4d71708dbf4f7f02f8a6a"
+      },
       "release_date": "1995",
       "popularity": 49
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     },
     {
-      "trackId": "6npFgXDmQKQzowkHxp2sxw",
-      "name": "NARNIA",
+      "track": {
+        "id": "6npFgXDmQKQzowkHxp2sxw",
+        "name": "NARNIA"
+      },
       "duration_ms": 133333,
-      "artist": [
-        "S.T"
+      "artists": [
+        {
+          "name": "S.T",
+          "id": "5997IALokFdMdLd1cPxzAD"
+        }
       ],
-      "artistId": [
-        "5997IALokFdMdLd1cPxzAD"
-      ],
-      "albumId": "14Kbz03nuw8V9v9Ao6806b",
+      "album": {
+        "id": "14Kbz03nuw8V9v9Ao6806b",
+        "name": "NARNIA",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259e6cb4530ac37c6509d9977"
+      },
       "release_date": "2022-06-24",
       "popularity": 32
     },
     {
-      "trackId": "25ej6zWI7jkCfQjvm5L7uJ",
-      "name": "Bila bê",
+      "track": {
+        "id": "25ej6zWI7jkCfQjvm5L7uJ",
+        "name": "Bila bê"
+      },
       "duration_ms": 279707,
-      "artist": [
-        "Sivan Perwer"
+      "artists": [
+        {
+          "name": "Sivan Perwer",
+          "id": "5dK1aTARS2YfxGdG3zmtYu"
+        }
       ],
-      "artistId": [
-        "5dK1aTARS2YfxGdG3zmtYu"
-      ],
-      "albumId": "03VfwWuIOMUzB2t7xCDXa0",
+      "album": {
+        "id": "03VfwWuIOMUzB2t7xCDXa0",
+        "name": "Hêvîya Te",
+        "img": "https://i.scdn.co/image/ab67616d00001e02920db6eb77b10bb53871b754"
+      },
       "release_date": "2014",
       "popularity": 20
     },
     {
-      "trackId": "0Q4cCU42tyYzAi6tCKSmul",
-      "name": "Nel cuore lei",
+      "track": {
+        "id": "0Q4cCU42tyYzAi6tCKSmul",
+        "name": "Nel cuore lei"
+      },
       "duration_ms": 223521,
-      "artist": [
-        "Andrea Bocelli",
-        "Eros Ramazzotti"
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "id": "3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "id": "61J0BktHv7PuP3tjTPYXSX"
+        }
       ],
-      "artistId": [
-        "3EA9hVIzKfFiQI0Kikz2wo",
-        "61J0BktHv7PuP3tjTPYXSX"
-      ],
-      "albumId": "0XLMct3Q0VJmWVxqvDagnJ",
+      "album": {
+        "id": "0XLMct3Q0VJmWVxqvDagnJ",
+        "name": "Sogno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c88c0707cd3ea2f4a51ab6f8"
+      },
       "release_date": "1999-01-01",
       "popularity": 29
     },
     {
-      "trackId": "7pKfPomDEeI4TPT6EOYjn9",
-      "name": "Imagine - Remastered 2010",
+      "track": {
+        "id": "7pKfPomDEeI4TPT6EOYjn9",
+        "name": "Imagine - Remastered 2010"
+      },
       "duration_ms": 187866,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "0xzaemKucrJpYhyl7TltAk",
+      "album": {
+        "id": "0xzaemKucrJpYhyl7TltAk",
+        "name": "Imagine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc"
+      },
       "release_date": "1971-09-09",
       "popularity": 76
     },
     {
-      "trackId": "7faEb3xPn6KLhbz4mxAxGy",
-      "name": "Khushboo Ki Tarah Aaya - Live In India/1984",
+      "track": {
+        "id": "7faEb3xPn6KLhbz4mxAxGy",
+        "name": "Khushboo Ki Tarah Aaya - Live In India/1984"
+      },
       "duration_ms": 280853,
-      "artist": [
-        "Chandan Dass"
+      "artists": [
+        {
+          "name": "Chandan Dass",
+          "id": "32x821SUVRiYQX0s1Ae07c"
+        }
       ],
-      "artistId": [
-        "32x821SUVRiYQX0s1Ae07c"
-      ],
-      "albumId": "2MMuCOR4YNHftDWIiywvZv",
+      "album": {
+        "id": "2MMuCOR4YNHftDWIiywvZv",
+        "name": "Khazana, Vol. 7",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1083498ae906fbbeb946c6e"
+      },
       "release_date": "2013-01-01",
       "popularity": 0
     },
     {
-      "trackId": "44xBxtfdZRhAXWvQD7I0x7",
-      "name": "Geri Dön",
+      "track": {
+        "id": "44xBxtfdZRhAXWvQD7I0x7",
+        "name": "Geri Dön"
+      },
       "duration_ms": 259102,
-      "artist": [
-        "Sezen Aksu"
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "id": "64d1rUxfizSAOE9UbMnUZd"
+        }
       ],
-      "artistId": [
-        "64d1rUxfizSAOE9UbMnUZd"
-      ],
-      "albumId": "13JKU1RyLFS73hDvWnTHr1",
+      "album": {
+        "id": "13JKU1RyLFS73hDvWnTHr1",
+        "name": "Sen Ağlama",
+        "img": "https://i.scdn.co/image/ab67616d00001e02689481c6d6defaacae3f6d87"
+      },
       "release_date": "1984-09-06",
       "popularity": 62
     },
     {
-      "trackId": "2dx09a0m8tx8Xkg3BKKkzy",
-      "name": "Yar Meleke",
+      "track": {
+        "id": "2dx09a0m8tx8Xkg3BKKkzy",
+        "name": "Yar Meleke"
+      },
       "duration_ms": 228520,
-      "artist": [
-        "Xelil Xemgin",
-        "Diyar"
+      "artists": [
+        {
+          "name": "Xelil Xemgin",
+          "id": "6xKqJwfaE6UZe2ftWyPuWc"
+        },
+        {
+          "name": "Diyar",
+          "id": "0Sy7nqFFb2ZttSDW4jzDFS"
+        }
       ],
-      "artistId": [
-        "6xKqJwfaE6UZe2ftWyPuWc",
-        "0Sy7nqFFb2ZttSDW4jzDFS"
-      ],
-      "albumId": "2HHiSnER7iYArzuKveBDht",
+      "album": {
+        "id": "2HHiSnER7iYArzuKveBDht",
+        "name": "Kehnîya Stranan",
+        "img": "https://i.scdn.co/image/ab67616d00001e026225c8b87f4215ab4b1e5c2f"
+      },
       "release_date": "2005-05-30",
       "popularity": 32
     }

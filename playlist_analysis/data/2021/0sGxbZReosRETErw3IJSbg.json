@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/9805c064-d601-465e-8d56-bc3952e22ca7.jpeg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6p8eFfPw3nQkf37aT3AkmK",
-      "name": "Fear of the Dark - 2015 Remaster",
+      "track": {
+        "id": "6p8eFfPw3nQkf37aT3AkmK",
+        "name": "Fear of the Dark - 2015 Remaster"
+      },
       "duration_ms": 438120,
-      "artist": [
-        "Iron Maiden"
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "id": "6mdiAmATAx73kdxrNrnlao"
+        }
       ],
-      "artistId": [
-        "6mdiAmATAx73kdxrNrnlao"
-      ],
-      "albumId": "16Su3EUFLPqWVyrwN1q5wO",
+      "album": {
+        "id": "16Su3EUFLPqWVyrwN1q5wO",
+        "name": "Fear of the Dark (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020dda9c11454b9053d07f585a"
+      },
       "release_date": "1992",
       "popularity": 71
     },
     {
-      "trackId": "4kbj5MwxO1bq9wjT5g9HaA",
-      "name": "Shut Up and Dance",
+      "track": {
+        "id": "4kbj5MwxO1bq9wjT5g9HaA",
+        "name": "Shut Up and Dance"
+      },
       "duration_ms": 199080,
-      "artist": [
-        "WALK THE MOON"
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "id": "6DIS6PRrLS3wbnZsf7vYic"
+        }
       ],
-      "artistId": [
-        "6DIS6PRrLS3wbnZsf7vYic"
-      ],
-      "albumId": "3mNoFlD1wsoXfkljfFzExT",
+      "album": {
+        "id": "3mNoFlD1wsoXfkljfFzExT",
+        "name": "TALKING IS HARD",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243294cfa2688055c9d821bf3"
+      },
       "release_date": "2014-12-02",
       "popularity": 83
     },
     {
-      "trackId": "7rtNxSatiqmLKb4G71k1yn",
-      "name": "Under Pressure",
+      "track": {
+        "id": "7rtNxSatiqmLKb4G71k1yn",
+        "name": "Under Pressure"
+      },
       "duration_ms": 295334,
-      "artist": [
-        "Karen O",
-        "Willie Nelson"
+      "artists": [
+        {
+          "name": "Karen O",
+          "id": "6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "Willie Nelson",
+          "id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
       ],
-      "artistId": [
-        "6emHCSoB4tJxTVXakbrpPz",
-        "5W5bDNCqJ1jbCgTxDD0Cb3"
-      ],
-      "albumId": "7GhS7SesozkzNAu4KUCOmX",
+      "album": {
+        "id": "7GhS7SesozkzNAu4KUCOmX",
+        "name": "Under Pressure",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de302c52e87ffc4de8b09742"
+      },
       "release_date": "2020-10-28",
       "popularity": 39
     },
     {
-      "trackId": "0YugBvP0rvY7HO5rA68Rvb",
-      "name": "Jag drar",
+      "track": {
+        "id": "0YugBvP0rvY7HO5rA68Rvb",
+        "name": "Jag drar"
+      },
       "duration_ms": 233546,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "6k7czbIKvC0VISqGEjk7gW",
+      "album": {
+        "id": "6k7czbIKvC0VISqGEjk7gW",
+        "name": "Wått's dö maddefakking diil?",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f7b01cab83bdbc1eb2fa811"
+      },
       "release_date": "2002-05-31",
       "popularity": 24
     },
     {
-      "trackId": "0olYoB026xuI3DldoTf6Zs",
-      "name": "Explosiv",
+      "track": {
+        "id": "0olYoB026xuI3DldoTf6Zs",
+        "name": "Explosiv"
+      },
       "duration_ms": 314746,
-      "artist": [
-        "Nisse Hellberg",
-        "Peps Persson"
+      "artists": [
+        {
+          "name": "Nisse Hellberg",
+          "id": "3wh2bJMFjWyZA6mHNVxkVa"
+        },
+        {
+          "name": "Peps Persson",
+          "id": "5xmgC1jISe31QZSp8gqKUJ"
+        }
       ],
-      "artistId": [
-        "3wh2bJMFjWyZA6mHNVxkVa",
-        "5xmgC1jISe31QZSp8gqKUJ"
-      ],
-      "albumId": "1aRPYsh3SSan94p01LwRTE",
+      "album": {
+        "id": "1aRPYsh3SSan94p01LwRTE",
+        "name": "Röster från södern",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3f8f03a5dae2572b8b8fe60"
+      },
       "release_date": "1994-01-10",
       "popularity": 20
     },
     {
-      "trackId": "5x70Ee4nxiYfSrixthXH00",
-      "name": "Reality Road",
+      "track": {
+        "id": "5x70Ee4nxiYfSrixthXH00",
+        "name": "Reality Road"
+      },
       "duration_ms": 204866,
-      "artist": [
-        "The Dimestore Junkies"
+      "artists": [
+        {
+          "name": "The Dimestore Junkies",
+          "id": "78HcX0R9KCKkcBpSkkWIAB"
+        }
       ],
-      "artistId": [
-        "78HcX0R9KCKkcBpSkkWIAB"
-      ],
-      "albumId": "2VcfEq4xvx1jXDr1oUlRfy",
+      "album": {
+        "id": "2VcfEq4xvx1jXDr1oUlRfy",
+        "name": "Reality Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9034a789d3d03a7b59c17bd"
+      },
       "release_date": "2013-03-17",
       "popularity": 3
     },
     {
-      "trackId": "3M8FzayQWtkvOhqMn2V4T2",
-      "name": "Lean on Me",
+      "track": {
+        "id": "3M8FzayQWtkvOhqMn2V4T2",
+        "name": "Lean on Me"
+      },
       "duration_ms": 258834,
-      "artist": [
-        "Bill Withers"
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "id": "1ThoqLcyIYvZn7iWbj8fsj"
+        }
       ],
-      "artistId": [
-        "1ThoqLcyIYvZn7iWbj8fsj"
-      ],
-      "albumId": "0sFuW4rH5mFZUjNKnckO3v",
+      "album": {
+        "id": "0sFuW4rH5mFZUjNKnckO3v",
+        "name": "Still Bill",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298e08f603553915a041b6937"
+      },
       "release_date": "1972-05-01",
       "popularity": 70
     },
     {
-      "trackId": "6EJOWpdxctI8JIvmvEcE9Y",
-      "name": "The Storm",
+      "track": {
+        "id": "6EJOWpdxctI8JIvmvEcE9Y",
+        "name": "The Storm"
+      },
       "duration_ms": 253200,
-      "artist": [
-        "HOFFMAESTRO"
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "id": "6hL8IlB7tKuRiqChLyEJGr"
+        }
       ],
-      "artistId": [
-        "6hL8IlB7tKuRiqChLyEJGr"
-      ],
-      "albumId": "3kG203MbpftpTNKPP3Jxgf",
+      "album": {
+        "id": "3kG203MbpftpTNKPP3Jxgf",
+        "name": "The Storm",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd4de9a55521ecf4d768f8f6"
+      },
       "release_date": "2006-11-14",
       "popularity": 35
     },
     {
-      "trackId": "37f4ITSlgPX81ad2EvmVQr",
-      "name": "Fight Song",
+      "track": {
+        "id": "37f4ITSlgPX81ad2EvmVQr",
+        "name": "Fight Song"
+      },
       "duration_ms": 204013,
-      "artist": [
-        "Rachel Platten"
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "id": "3QLIkT4rD2FMusaqmkepbq"
+        }
       ],
-      "artistId": [
-        "3QLIkT4rD2FMusaqmkepbq"
-      ],
-      "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+      "album": {
+        "id": "0mFDIOqypzHp6Xd0el1hoT",
+        "name": "Wildfire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9e4d7fae5dfcc8f9cc96bc9"
+      },
       "release_date": "2016-01-01",
       "popularity": 77
     },
     {
-      "trackId": "3UpS7kBnkVQYG13pDDFTC4",
-      "name": "As Long as You Love Me",
+      "track": {
+        "id": "3UpS7kBnkVQYG13pDDFTC4",
+        "name": "As Long as You Love Me"
+      },
       "duration_ms": 221106,
-      "artist": [
-        "Backstreet Boys"
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "id": "5rSXSAkZ67PYJSvpUpkOr7"
+        }
       ],
-      "artistId": [
-        "5rSXSAkZ67PYJSvpUpkOr7"
-      ],
-      "albumId": "2U9ONknz1iFEK9drEKLx8v",
+      "album": {
+        "id": "2U9ONknz1iFEK9drEKLx8v",
+        "name": "Backstreet's Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e02530cec85d4543693bd726167"
+      },
       "release_date": "1997-08-12",
       "popularity": 73
     },
     {
-      "trackId": "00OMaIm4VEsUcXad5Pf1Qe",
-      "name": "Behind the Wall",
+      "track": {
+        "id": "00OMaIm4VEsUcXad5Pf1Qe",
+        "name": "Behind the Wall"
+      },
       "duration_ms": 109506,
-      "artist": [
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "6hmmX5UP4rIvOpGSaPerV8",
+      "album": {
+        "id": "6hmmX5UP4rIvOpGSaPerV8",
+        "name": "Tracy Chapman",
+        "img": "https://i.scdn.co/image/ab67616d00001e027602becfedf6e25752cb54ff"
+      },
       "release_date": "1988-04-05",
       "popularity": 47
     },
     {
-      "trackId": "3o69TssC4muwST4WjxnWGP",
-      "name": "Sara solsken",
+      "track": {
+        "id": "3o69TssC4muwST4WjxnWGP",
+        "name": "Sara solsken"
+      },
       "duration_ms": 201506,
-      "artist": [
-        "Lasse Stefanz"
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "id": "0ntVZReCfBFQctUiiaTaeu"
+        }
       ],
-      "artistId": [
-        "0ntVZReCfBFQctUiiaTaeu"
-      ],
-      "albumId": "7eyvYrhaHE8A8RG1NmaByu",
+      "album": {
+        "id": "7eyvYrhaHE8A8RG1NmaByu",
+        "name": "Rocky Mountains",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d6689d8d8ecd21d3395a7bc"
+      },
       "release_date": "2012-05-21",
       "popularity": 40
     },
     {
-      "trackId": "4A11HoXH8oIUfWtJaTE34T",
-      "name": "Don't Give Up On Me",
+      "track": {
+        "id": "4A11HoXH8oIUfWtJaTE34T",
+        "name": "Don't Give Up On Me"
+      },
       "duration_ms": 225533,
-      "artist": [
-        "Solomon Burke"
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "id": "4nts0oxMT67lVUoi5Kjxrb"
+        }
       ],
-      "artistId": [
-        "4nts0oxMT67lVUoi5Kjxrb"
-      ],
-      "albumId": "5fPt2yO2JG9ymtO1PNz5iK",
+      "album": {
+        "id": "5fPt2yO2JG9ymtO1PNz5iK",
+        "name": "Don't Give Up On Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02558ba952fda997e0955b286a"
+      },
       "release_date": "2002",
       "popularity": 51
     }

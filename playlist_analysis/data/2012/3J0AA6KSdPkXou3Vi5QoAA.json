@@ -7,166 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2355384_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "13hLjPatKentvawsFceF9a",
-      "name": "Danny's Dream",
+      "track": {
+        "id": "13hLjPatKentvawsFceF9a",
+        "name": "Danny's Dream"
+      },
       "duration_ms": 338733,
-      "artist": [
-        "Lars Gullin"
+      "artists": [
+        {
+          "name": "Lars Gullin",
+          "id": "4gquwMHteaMQ0ZQOMj9CsI"
+        }
       ],
-      "artistId": [
-        "4gquwMHteaMQ0ZQOMj9CsI"
-      ],
-      "albumId": "698BkVjPZ6aBbp4OP1jLyW",
+      "album": {
+        "id": "698BkVjPZ6aBbp4OP1jLyW",
+        "name": "Fäbodjazz",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a280edfad1aa753895e3177"
+      },
       "release_date": "1998-03-04",
       "popularity": 42
     },
     {
-      "trackId": "4r4EY9qAGddFomXYlo7fea",
-      "name": "What's Goin' On / Mercy Mercy Me (The Ecology)",
+      "track": {
+        "id": "4r4EY9qAGddFomXYlo7fea",
+        "name": "What's Goin' On / Mercy Mercy Me (The Ecology)"
+      },
       "duration_ms": 228706,
-      "artist": [
-        "Rahsaan Roland Kirk"
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "id": "7De2eIqeHTw091YeAkkYXV"
+        }
       ],
-      "artistId": [
-        "7De2eIqeHTw091YeAkkYXV"
-      ],
-      "albumId": "1OnXBqIDGKpI3Y9qugJ85p",
+      "album": {
+        "id": "1OnXBqIDGKpI3Y9qugJ85p",
+        "name": "Blacknuss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02618a74cf3a51e7bc60311e6f"
+      },
       "release_date": "1993-01-01",
       "popularity": 12
     },
     {
-      "trackId": "1xNRXgK31uU9m2IuZz0muY",
-      "name": "Haga",
+      "track": {
+        "id": "1xNRXgK31uU9m2IuZz0muY",
+        "name": "Haga"
+      },
       "duration_ms": 166372,
-      "artist": [
-        "Spjärnsvallet",
-        "Bengt Berger",
-        "Christer Bothen"
+      "artists": [
+        {
+          "name": "Spjärnsvallet",
+          "id": "3duc4jfxQsEfZRSrctLYhO"
+        },
+        {
+          "name": "Bengt Berger",
+          "id": "17z4dgngMPQnncMWbaoWtp"
+        },
+        {
+          "name": "Christer Bothen",
+          "id": "6JHEr9UNpjzL05mjwWuegi"
+        }
       ],
-      "artistId": [
-        "3duc4jfxQsEfZRSrctLYhO",
-        "17z4dgngMPQnncMWbaoWtp",
-        "6JHEr9UNpjzL05mjwWuegi"
-      ],
-      "albumId": "6lcACSANtpDaJLvAbr4YsB",
+      "album": {
+        "id": "6lcACSANtpDaJLvAbr4YsB",
+        "name": "Again and Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e026841de4cdda2453e5d2b5e8a"
+      },
       "release_date": "2014-11-08",
       "popularity": 0
     },
     {
-      "trackId": "1mScOKklx8m8FvNcarYHOs",
-      "name": "Ain't No Sunshine",
+      "track": {
+        "id": "1mScOKklx8m8FvNcarYHOs",
+        "name": "Ain't No Sunshine"
+      },
       "duration_ms": 148800,
-      "artist": [
-        "Rahsaan Roland Kirk"
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "id": "7De2eIqeHTw091YeAkkYXV"
+        }
       ],
-      "artistId": [
-        "7De2eIqeHTw091YeAkkYXV"
-      ],
-      "albumId": "1OnXBqIDGKpI3Y9qugJ85p",
+      "album": {
+        "id": "1OnXBqIDGKpI3Y9qugJ85p",
+        "name": "Blacknuss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02618a74cf3a51e7bc60311e6f"
+      },
       "release_date": "1993-01-01",
       "popularity": 38
     },
     {
-      "trackId": "0QDzvdq4RSuyA3dx5ldDgn",
-      "name": "D-Day",
+      "track": {
+        "id": "0QDzvdq4RSuyA3dx5ldDgn",
+        "name": "D-Day"
+      },
       "duration_ms": 214192,
-      "artist": [
-        "JNXD",
-        "Drean"
+      "artists": [
+        {
+          "name": "JNXD",
+          "id": "4by5ENA6ZMNCQkOX3RIh0G"
+        },
+        {
+          "name": "Drean",
+          "id": "0fIg6a2SOYU1IY9GOh7wTq"
+        }
       ],
-      "artistId": [
-        "4by5ENA6ZMNCQkOX3RIh0G",
-        "0fIg6a2SOYU1IY9GOh7wTq"
-      ],
-      "albumId": "4unl8BpMlBBBDOm1yGffw0",
+      "album": {
+        "id": "4unl8BpMlBBBDOm1yGffw0",
+        "name": "D-Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272d7b588ffb02d603d0c3f29"
+      },
       "release_date": "2022-06-15",
       "popularity": 42
     },
     {
-      "trackId": "3GXpEga0o1h7Vq0b6GjQky",
-      "name": "Dans Met Mij",
+      "track": {
+        "id": "3GXpEga0o1h7Vq0b6GjQky",
+        "name": "Dans Met Mij"
+      },
       "duration_ms": 196800,
-      "artist": [
-        "Hendrik"
+      "artists": [
+        {
+          "name": "Hendrik",
+          "id": "6y8eE1532LdnsPVrnzpDTi"
+        }
       ],
-      "artistId": [
-        "6y8eE1532LdnsPVrnzpDTi"
-      ],
-      "albumId": "5coQaV0P8hkOwJuNdBPlcs",
+      "album": {
+        "id": "5coQaV0P8hkOwJuNdBPlcs",
+        "name": "Dans Met Mij",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad3775d8049a02fdcedb1cd2"
+      },
       "release_date": "2022-07-01",
       "popularity": 10
     },
     {
-      "trackId": "2DM509sry0RXPjqn3AxPMJ",
-      "name": "The Midnight Sun Never Sets",
+      "track": {
+        "id": "2DM509sry0RXPjqn3AxPMJ",
+        "name": "The Midnight Sun Never Sets"
+      },
       "duration_ms": 245200,
-      "artist": [
-        "Quincy Jones",
-        "Harry Arnold",
-        "The Swedish Radio Studio Orchestra"
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Harry Arnold",
+          "id": "7lynVrwLtpZNiBuMw6pgTe"
+        },
+        {
+          "name": "The Swedish Radio Studio Orchestra",
+          "id": "72pFNZxmKreO40DzcJEqRJ"
+        }
       ],
-      "artistId": [
-        "3rxIQc9kWT6Ueg4BhnOwRK",
-        "7lynVrwLtpZNiBuMw6pgTe",
-        "72pFNZxmKreO40DzcJEqRJ"
-      ],
-      "albumId": "2vigrx6Z9NDNefwGSeoYE8",
+      "album": {
+        "id": "2vigrx6Z9NDNefwGSeoYE8",
+        "name": "Quincy's Home Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e02049748611f8cb1c945bd20dd"
+      },
       "release_date": "1958",
       "popularity": 33
     },
     {
-      "trackId": "43kwNIYrCenh4amJRwrw75",
-      "name": "Bissa Bossa",
+      "track": {
+        "id": "43kwNIYrCenh4amJRwrw75",
+        "name": "Bissa Bossa"
+      },
       "duration_ms": 150533,
-      "artist": [
-        "Claes Andersson Trio"
+      "artists": [
+        {
+          "name": "Claes Andersson Trio",
+          "id": "0TsrLv1yyynKmIQ2U4C36S"
+        }
       ],
-      "artistId": [
-        "0TsrLv1yyynKmIQ2U4C36S"
-      ],
-      "albumId": "75wKpfQeAQBUSV4wDDg9Af",
+      "album": {
+        "id": "75wKpfQeAQBUSV4wDDg9Af",
+        "name": "Claes Andersson Trio: These Foolish Things - Jazz!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224e969bfa7e8b7501d168112"
+      },
       "release_date": "2011-05-03",
       "popularity": 0
     },
     {
-      "trackId": "1CSIYsMOcdLugzHJSHtMlb",
-      "name": "Pannonica (arr. C. Andersson, P. Mutikainen and R. Laine)",
+      "track": {
+        "id": "1CSIYsMOcdLugzHJSHtMlb",
+        "name": "Pannonica (arr. C. Andersson, P. Mutikainen and R. Laine)"
+      },
       "duration_ms": 289466,
-      "artist": [
-        "Claes Andersson Trio"
+      "artists": [
+        {
+          "name": "Claes Andersson Trio",
+          "id": "0TsrLv1yyynKmIQ2U4C36S"
+        }
       ],
-      "artistId": [
-        "0TsrLv1yyynKmIQ2U4C36S"
-      ],
-      "albumId": "75wKpfQeAQBUSV4wDDg9Af",
+      "album": {
+        "id": "75wKpfQeAQBUSV4wDDg9Af",
+        "name": "Claes Andersson Trio: These Foolish Things - Jazz!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224e969bfa7e8b7501d168112"
+      },
       "release_date": "2011-05-03",
       "popularity": 0
     },
     {
-      "trackId": "19OOGg1xcRUJKBOoCIHeFc",
-      "name": "Psalm 210",
+      "track": {
+        "id": "19OOGg1xcRUJKBOoCIHeFc",
+        "name": "Psalm 210"
+      },
       "duration_ms": 225773,
-      "artist": [
-        "JESPER NORBERG"
+      "artists": [
+        {
+          "name": "JESPER NORBERG",
+          "id": "4ICgaZuZSLpXsclBmyP5Ry"
+        }
       ],
-      "artistId": [
-        "4ICgaZuZSLpXsclBmyP5Ry"
-      ],
-      "albumId": "3MhKCizmm1ZO5BOx0BNlwB",
+      "album": {
+        "id": "3MhKCizmm1ZO5BOx0BNlwB",
+        "name": "Bach, Folkjazz Och Annat Pyssel På Brunnshusgatan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b4e62026f6bcc69f5d355f21"
+      },
       "release_date": "2016-09-07",
       "popularity": 33
     },
     {
-      "trackId": "0CLbmkYmQIWiEwnsbOkLpd",
-      "name": "A Love Supreme, Pt. I – Acknowledgement",
+      "track": {
+        "id": "0CLbmkYmQIWiEwnsbOkLpd",
+        "name": "A Love Supreme, Pt. I – Acknowledgement"
+      },
       "duration_ms": 462866,
-      "artist": [
-        "John Coltrane"
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        }
       ],
-      "artistId": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "albumId": "7Eoz7hJvaX1eFkbpQxC5PA",
+      "album": {
+        "id": "7Eoz7hJvaX1eFkbpQxC5PA",
+        "name": "A Love Supreme",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea42191f549dce4d9c8ecd1a"
+      },
       "release_date": "1965-02",
       "popularity": 50
     }

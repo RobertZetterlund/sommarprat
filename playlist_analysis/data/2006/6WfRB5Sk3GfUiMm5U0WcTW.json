@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243836_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5zqhADktnxeBWanclFwla6",
-      "name": "Don’t Cry Baby",
+      "track": {
+        "id": "5zqhADktnxeBWanclFwla6",
+        "name": "Don’t Cry Baby"
+      },
       "duration_ms": 198346,
-      "artist": [
-        "Madeleine Peyroux"
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "id": "7nXyULtoL8k7wP9l6kg8Ef"
+        }
       ],
-      "artistId": [
-        "7nXyULtoL8k7wP9l6kg8Ef"
-      ],
-      "albumId": "51v8hjqV3KirevIh7jWI0H",
+      "album": {
+        "id": "51v8hjqV3KirevIh7jWI0H",
+        "name": "Careless Love (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02562969e13c1cc2cdd0298be4"
+      },
       "release_date": "2021-08-27",
       "popularity": 24
     },
     {
-      "trackId": "1Hc7ve2Bb5QYNxJloQdjQa",
-      "name": "Trubaduren",
+      "track": {
+        "id": "1Hc7ve2Bb5QYNxJloQdjQa",
+        "name": "Trubaduren"
+      },
       "duration_ms": 313000,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "1f0tkBZHpFPORXJUv1bXWX",
+      "album": {
+        "id": "1f0tkBZHpFPORXJUv1bXWX",
+        "name": "Alla får påsar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bb0e2e86dc46b938edbc56d3"
+      },
       "release_date": "1993-10-25",
       "popularity": 51
     },
     {
-      "trackId": "1QaH4RtwN5lUMecxqgrTmP",
-      "name": "In the End",
+      "track": {
+        "id": "1QaH4RtwN5lUMecxqgrTmP",
+        "name": "In the End"
+      },
       "duration_ms": 229461,
-      "artist": [
-        "Simon Steadman"
+      "artists": [
+        {
+          "name": "Simon Steadman",
+          "id": "2F1Zp7XLaFjN1wCZdmi0Qt"
+        }
       ],
-      "artistId": [
-        "2F1Zp7XLaFjN1wCZdmi0Qt"
-      ],
-      "albumId": "0equ2Im7v9ZQUisSUjg9Pn",
+      "album": {
+        "id": "0equ2Im7v9ZQUisSUjg9Pn",
+        "name": "Singer Songwriter 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce7659f06eca9fae1462b045"
+      },
       "release_date": "2020-11-03",
       "popularity": 4
     },
     {
-      "trackId": "6G0MfBXF1QlLpgP8pKngzs",
-      "name": "Shoreline - Radio Version",
+      "track": {
+        "id": "6G0MfBXF1QlLpgP8pKngzs",
+        "name": "Shoreline - Radio Version"
+      },
       "duration_ms": 212293,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "0sKtHhPyVXCic96QFZywih",
+      "album": {
+        "id": "0sKtHhPyVXCic96QFZywih",
+        "name": "Shoreline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3acf13890f0bc4e3d6b6fae"
+      },
       "release_date": "2005-06-01",
       "popularity": 47
     },
     {
-      "trackId": "50acmhd1XSlN8bgVzD3Xqr",
-      "name": "Studying Stones",
+      "track": {
+        "id": "50acmhd1XSlN8bgVzD3Xqr",
+        "name": "Studying Stones"
+      },
       "duration_ms": 233853,
-      "artist": [
-        "Ani DiFranco"
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "id": "0AiTwNtYX8m4uhfU7rJ8RD"
+        }
       ],
-      "artistId": [
-        "0AiTwNtYX8m4uhfU7rJ8RD"
-      ],
-      "albumId": "5n2AaUf3GM2GVrayu6E6Id",
+      "album": {
+        "id": "5n2AaUf3GM2GVrayu6E6Id",
+        "name": "Knuckle Down",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eac5fad3652de8de40fc093a"
+      },
       "release_date": "2005",
       "popularity": 24
     },
     {
-      "trackId": "0qtzhX33mH7JuH0D0ZT0Rb",
-      "name": "You Never Got Me Right",
+      "track": {
+        "id": "0qtzhX33mH7JuH0D0ZT0Rb",
+        "name": "You Never Got Me Right"
+      },
       "duration_ms": 113706,
-      "artist": [
-        "Frida Hyvönen"
+      "artists": [
+        {
+          "name": "Frida Hyvönen",
+          "id": "58XdW0XyGukvmGatf7NC2R"
+        }
       ],
-      "artistId": [
-        "58XdW0XyGukvmGatf7NC2R"
-      ],
-      "albumId": "3S34Muturhi5XESDRlZv75",
+      "album": {
+        "id": "3S34Muturhi5XESDRlZv75",
+        "name": "Until Death Comes",
+        "img": "https://i.scdn.co/image/ab67616d00001e028759dadb78631402eb62694e"
+      },
       "release_date": "2005-03-20",
       "popularity": 7
     },
     {
-      "trackId": "2tUyERWNGVMjC4w3136HSh",
-      "name": "Jorden är ett litet rum",
+      "track": {
+        "id": "2tUyERWNGVMjC4w3136HSh",
+        "name": "Jorden är ett litet rum"
+      },
       "duration_ms": 250906,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "4sewAubkcE7IHdxJJQdvDO",
+      "album": {
+        "id": "4sewAubkcE7IHdxJJQdvDO",
+        "name": "En blekt blondins ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e021fb4d3ec2c0f6c55d371bcf5"
+      },
       "release_date": "2007",
       "popularity": 27
     },
     {
-      "trackId": "5WEZoxQwWQrEaKB4Hi5uVG",
-      "name": "Todo tiende",
+      "track": {
+        "id": "5WEZoxQwWQrEaKB4Hi5uVG",
+        "name": "Todo tiende"
+      },
       "duration_ms": 268773,
-      "artist": [
-        "Ojos de Brujo"
+      "artists": [
+        {
+          "name": "Ojos de Brujo",
+          "id": "6iKnagOuTEr3kLRAJlXRjq"
+        }
       ],
-      "artistId": [
-        "6iKnagOuTEr3kLRAJlXRjq"
-      ],
-      "albumId": "5d9WWWhb2gd6B1NPW9VkZn",
+      "album": {
+        "id": "5d9WWWhb2gd6B1NPW9VkZn",
+        "name": "Techari",
+        "img": "https://i.scdn.co/image/ab67616d00001e025cd09d82e957362ba130fbee"
+      },
       "release_date": "2010-12-23",
       "popularity": 22
     },
     {
-      "trackId": "4wmdo3Ib8VgdTDLsuAZCkY",
-      "name": "Ska nya röster sjunga",
+      "track": {
+        "id": "4wmdo3Ib8VgdTDLsuAZCkY",
+        "name": "Ska nya röster sjunga"
+      },
       "duration_ms": 257866,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 28
     },
     {
-      "trackId": "4r5YPnfgms45dEDRpyYzTn",
-      "name": "Thankful",
+      "track": {
+        "id": "4r5YPnfgms45dEDRpyYzTn",
+        "name": "Thankful"
+      },
       "duration_ms": 185065,
-      "artist": [
-        "Samira Manners"
+      "artists": [
+        {
+          "name": "Samira Manners",
+          "id": "3kdwcdgnO8ocKNeFr31F9v"
+        }
       ],
-      "artistId": [
-        "3kdwcdgnO8ocKNeFr31F9v"
-      ],
-      "albumId": "54ORSWF5CeQ5Ix8OHyIovd",
+      "album": {
+        "id": "54ORSWF5CeQ5Ix8OHyIovd",
+        "name": "Samira's Little EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aece3134407fdae4b84328a3"
+      },
       "release_date": "2022-04-29",
       "popularity": 31
     },
     {
-      "trackId": "46HPqmqqFhy1Wqzz0hvzWN",
-      "name": "Första Generationens Svenne",
+      "track": {
+        "id": "46HPqmqqFhy1Wqzz0hvzWN",
+        "name": "Första Generationens Svenne"
+      },
       "duration_ms": 223506,
-      "artist": [
-        "Martin Bentancourt"
+      "artists": [
+        {
+          "name": "Martin Bentancourt",
+          "id": "5VEHoWxKyfekzuWKA8YUeh"
+        }
       ],
-      "artistId": [
-        "5VEHoWxKyfekzuWKA8YUeh"
-      ],
-      "albumId": "4NkDXDB7erp9uFksSYliSR",
+      "album": {
+        "id": "4NkDXDB7erp9uFksSYliSR",
+        "name": "Ghetto Favoriter 111.1 FM",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b63e2e2960fbccd38545467f"
+      },
       "release_date": "2006-01-18",
       "popularity": 1
     }

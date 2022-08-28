@@ -7,284 +7,414 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/9a71db51-678c-4f90-8f6f-c57f40f39be1.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "10tUHG5VNBB8vhI7tBc5Lz",
-      "name": "Jämtländsk brudmarsch '73",
+      "track": {
+        "id": "10tUHG5VNBB8vhI7tBc5Lz",
+        "name": "Jämtländsk brudmarsch '73"
+      },
       "duration_ms": 231226,
-      "artist": [
-        "Merit Hemmingson"
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "id": "5xoFJP7qzaMcSAghFZXI4a"
+        }
       ],
-      "artistId": [
-        "5xoFJP7qzaMcSAghFZXI4a"
-      ],
-      "albumId": "7qDknKryLRbK0Kx9bHMfs9",
+      "album": {
+        "id": "7qDknKryLRbK0Kx9bHMfs9",
+        "name": "Bergtagen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f490868811cad4668a2fd514"
+      },
       "release_date": "1973",
       "popularity": 32
     },
     {
-      "trackId": "10tUHG5VNBB8vhI7tBc5Lz",
-      "name": "Jämtländsk brudmarsch '73",
+      "track": {
+        "id": "10tUHG5VNBB8vhI7tBc5Lz",
+        "name": "Jämtländsk brudmarsch '73"
+      },
       "duration_ms": 231226,
-      "artist": [
-        "Merit Hemmingson"
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "id": "5xoFJP7qzaMcSAghFZXI4a"
+        }
       ],
-      "artistId": [
-        "5xoFJP7qzaMcSAghFZXI4a"
-      ],
-      "albumId": "7qDknKryLRbK0Kx9bHMfs9",
+      "album": {
+        "id": "7qDknKryLRbK0Kx9bHMfs9",
+        "name": "Bergtagen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f490868811cad4668a2fd514"
+      },
       "release_date": "1973",
       "popularity": 32
     },
     {
-      "trackId": "66gO2AoGRgTuniWaF4yvAk",
-      "name": "Minnenas säng",
+      "track": {
+        "id": "66gO2AoGRgTuniWaF4yvAk",
+        "name": "Minnenas säng"
+      },
       "duration_ms": 206811,
-      "artist": [
-        "Johan Malmberg"
+      "artists": [
+        {
+          "name": "Johan Malmberg",
+          "id": "6GDBEb8FidqxJWf7XLkVy8"
+        }
       ],
-      "artistId": [
-        "6GDBEb8FidqxJWf7XLkVy8"
-      ],
-      "albumId": "5D2czcsiGTC1QGxYymwM3y",
+      "album": {
+        "id": "5D2czcsiGTC1QGxYymwM3y",
+        "name": "Minnenas säng",
+        "img": "https://i.scdn.co/image/ab67616d00001e021314789893b6f26aee1b2ed2"
+      },
       "release_date": "2021-04-10",
       "popularity": 19
     },
     {
-      "trackId": "2DM509sry0RXPjqn3AxPMJ",
-      "name": "The Midnight Sun Never Sets",
+      "track": {
+        "id": "2DM509sry0RXPjqn3AxPMJ",
+        "name": "The Midnight Sun Never Sets"
+      },
       "duration_ms": 245200,
-      "artist": [
-        "Quincy Jones",
-        "Harry Arnold",
-        "The Swedish Radio Studio Orchestra"
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Harry Arnold",
+          "id": "7lynVrwLtpZNiBuMw6pgTe"
+        },
+        {
+          "name": "The Swedish Radio Studio Orchestra",
+          "id": "72pFNZxmKreO40DzcJEqRJ"
+        }
       ],
-      "artistId": [
-        "3rxIQc9kWT6Ueg4BhnOwRK",
-        "7lynVrwLtpZNiBuMw6pgTe",
-        "72pFNZxmKreO40DzcJEqRJ"
-      ],
-      "albumId": "2vigrx6Z9NDNefwGSeoYE8",
+      "album": {
+        "id": "2vigrx6Z9NDNefwGSeoYE8",
+        "name": "Quincy's Home Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e02049748611f8cb1c945bd20dd"
+      },
       "release_date": "1958",
       "popularity": 33
     },
     {
-      "trackId": "0PHqHvmg4TIaANfbsvDMTR",
-      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "track": {
+        "id": "0PHqHvmg4TIaANfbsvDMTR",
+        "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)"
+      },
       "duration_ms": 542400,
-      "artist": [
-        "Miles Davis",
-        "John Coltrane",
-        "Hank Mobley"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Hank Mobley",
+          "id": "5cbutZUQE7SUCA6MsEMbBv"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4",
-        "2hGh5VOeeqimQFxqXvfCUf",
-        "5cbutZUQE7SUCA6MsEMbBv"
-      ],
-      "albumId": "68A4o4tkirJRFYbO9Ag0YZ",
+      "album": {
+        "id": "68A4o4tkirJRFYbO9Ag0YZ",
+        "name": "Someday My Prince Will Come",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7297f99ec874127e1285728"
+      },
       "release_date": "1961-12-11",
       "popularity": 44
     },
     {
-      "trackId": "19vVghIuHm3IAfN4xpRF3q",
-      "name": "Birdland",
+      "track": {
+        "id": "19vVghIuHm3IAfN4xpRF3q",
+        "name": "Birdland"
+      },
       "duration_ms": 356760,
-      "artist": [
-        "Weather Report"
+      "artists": [
+        {
+          "name": "Weather Report",
+          "id": "162DCkd8aDKwvjBb74Gu8b"
+        }
       ],
-      "artistId": [
-        "162DCkd8aDKwvjBb74Gu8b"
-      ],
-      "albumId": "2M9F2yYsUvqiBPwUGeNvn1",
+      "album": {
+        "id": "2M9F2yYsUvqiBPwUGeNvn1",
+        "name": "Heavy Weather",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5e3abdd3cb309fa4c77f7f3"
+      },
       "release_date": "1977-03-01",
       "popularity": 49
     },
     {
-      "trackId": "3O7sM181J2zlH1TPXRwk1w",
-      "name": "She's A Woman",
+      "track": {
+        "id": "3O7sM181J2zlH1TPXRwk1w",
+        "name": "She's A Woman"
+      },
       "duration_ms": 204493,
-      "artist": [
-        "Merit Hemmingson"
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "id": "5xoFJP7qzaMcSAghFZXI4a"
+        }
       ],
-      "artistId": [
-        "5xoFJP7qzaMcSAghFZXI4a"
-      ],
-      "albumId": "3yZwh8UtPGLFXWJctcMpIV",
+      "album": {
+        "id": "3yZwh8UtPGLFXWJctcMpIV",
+        "name": "Discotheque Dance A Go Go - At The Esquire Club",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221ebf0ed0299f0aadd3d54e5"
+      },
       "release_date": "1967-01-01",
       "popularity": 0
     },
     {
-      "trackId": "78ZqE2tjAxbqEGGlvGnQfT",
-      "name": "A Whiter Shade of Pale - Original Single Version",
+      "track": {
+        "id": "78ZqE2tjAxbqEGGlvGnQfT",
+        "name": "A Whiter Shade of Pale - Original Single Version"
+      },
       "duration_ms": 248946,
-      "artist": [
-        "Procol Harum"
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "id": "0GbqW5TJr7n4is453VOY4C"
+        }
       ],
-      "artistId": [
-        "0GbqW5TJr7n4is453VOY4C"
-      ],
-      "albumId": "4fKEheMhcigQBenkttp5CU",
+      "album": {
+        "id": "4fKEheMhcigQBenkttp5CU",
+        "name": "Hits'n'Flips",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d713ba3dce10df2b943dc6a"
+      },
       "release_date": "2019-05-03",
       "popularity": 68
     },
     {
-      "trackId": "7pCNhtzXY4BRnMWFlLyvrV",
-      "name": "Berget",
+      "track": {
+        "id": "7pCNhtzXY4BRnMWFlLyvrV",
+        "name": "Berget"
+      },
       "duration_ms": 280189,
-      "artist": [
-        "Sara Parkman",
-        "Samantha Ohlanders"
+      "artists": [
+        {
+          "name": "Sara Parkman",
+          "id": "3QKspYZWuPR8sJ6WW1zAdw"
+        },
+        {
+          "name": "Samantha Ohlanders",
+          "id": "1JlYeVJ5xycoQRdC3r2NuX"
+        }
       ],
-      "artistId": [
-        "3QKspYZWuPR8sJ6WW1zAdw",
-        "1JlYeVJ5xycoQRdC3r2NuX"
-      ],
-      "albumId": "5gQXw7s6MM3qIxUyCLes5G",
+      "album": {
+        "id": "5gQXw7s6MM3qIxUyCLes5G",
+        "name": "Matriarkerna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202082dca39a01bcdf77f2199"
+      },
       "release_date": "2017-11-03",
       "popularity": 14
     },
     {
-      "trackId": "2jD97FDc6rk6HFToGEZq1n",
-      "name": "Gånglåt från Ovanåker",
+      "track": {
+        "id": "2jD97FDc6rk6HFToGEZq1n",
+        "name": "Gånglåt från Ovanåker"
+      },
       "duration_ms": 125413,
-      "artist": [
-        "Merit Hemmingson"
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "id": "5xoFJP7qzaMcSAghFZXI4a"
+        }
       ],
-      "artistId": [
-        "5xoFJP7qzaMcSAghFZXI4a"
-      ],
-      "albumId": "5Ea8k0FLiRJSV7GbTkFICM",
+      "album": {
+        "id": "5Ea8k0FLiRJSV7GbTkFICM",
+        "name": "Huvva! Svensk folkmusik på beat",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d4cae1e9f41d71dbdf5eac1"
+      },
       "release_date": "1971",
       "popularity": 33
     },
     {
-      "trackId": "2O6xIuRk50Fz6Az85WKvM9",
-      "name": "Kramans vaggvisor",
+      "track": {
+        "id": "2O6xIuRk50Fz6Az85WKvM9",
+        "name": "Kramans vaggvisor"
+      },
       "duration_ms": 359893,
-      "artist": [
-        "Beppe Wolgers"
+      "artists": [
+        {
+          "name": "Beppe Wolgers",
+          "id": "3BM5GfDBoq2hQXHnr6YGgF"
+        }
       ],
-      "artistId": [
-        "3BM5GfDBoq2hQXHnr6YGgF"
-      ],
-      "albumId": "07p7xT46LVVSGQgHfY0ZTa",
+      "album": {
+        "id": "07p7xT46LVVSGQgHfY0ZTa",
+        "name": "Godnattstunden Med Beppe del 1&2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c56a4b37933d2517b90431e4"
+      },
       "release_date": "1972-01-01",
       "popularity": 18
     },
     {
-      "trackId": "5aroklZ6Wfp30IXRK9rmC1",
-      "name": "Leksands brudmarsch",
+      "track": {
+        "id": "5aroklZ6Wfp30IXRK9rmC1",
+        "name": "Leksands brudmarsch"
+      },
       "duration_ms": 133546,
-      "artist": [
-        "Merit Hemmingson"
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "id": "5xoFJP7qzaMcSAghFZXI4a"
+        }
       ],
-      "artistId": [
-        "5xoFJP7qzaMcSAghFZXI4a"
-      ],
-      "albumId": "2AmSQnBWskeEqtztPPrScc",
+      "album": {
+        "id": "2AmSQnBWskeEqtztPPrScc",
+        "name": "Trollskog (Mer Svensk Folkmusik På Beat)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0292a58943a41b64d9fe338434"
+      },
       "release_date": "1972",
       "popularity": 16
     },
     {
-      "trackId": "0o8WvkoOdG9ZgWfMUuRoB0",
-      "name": "Hönan Agda",
+      "track": {
+        "id": "0o8WvkoOdG9ZgWfMUuRoB0",
+        "name": "Hönan Agda"
+      },
       "duration_ms": 165786,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "7jNnpI1jhKCtUod4zDhhhR",
+      "album": {
+        "id": "7jNnpI1jhKCtUod4zDhhhR",
+        "name": "Hönan Agda",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270386dfcae3c9c4033edcf25"
+      },
       "release_date": "1969",
       "popularity": 37
     },
     {
-      "trackId": "21u2gUlh5Iun4ogGGqKVum",
-      "name": "The Crown Main Title",
+      "track": {
+        "id": "21u2gUlh5Iun4ogGGqKVum",
+        "name": "The Crown Main Title"
+      },
       "duration_ms": 84106,
-      "artist": [
-        "Hans Zimmer"
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "id": "0YC192cP3KPCRWx8zr8MfZ"
+        }
       ],
-      "artistId": [
-        "0YC192cP3KPCRWx8zr8MfZ"
-      ],
-      "albumId": "3YGZTEop0I4StxQt0ByPmz",
+      "album": {
+        "id": "3YGZTEop0I4StxQt0ByPmz",
+        "name": "The Crown: Season One (Soundtrack from the Netflix Original Series)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286fa331f8d2520989c8c8b72"
+      },
       "release_date": "2016-11-04",
       "popularity": 44
     },
     {
-      "trackId": "3jCBe1bbhI8c984d6WPAgz",
-      "name": "Souvenir of China (Karaoke Version) - Originally Performed By Jean Michel Jarre",
+      "track": {
+        "id": "3jCBe1bbhI8c984d6WPAgz",
+        "name": "Souvenir of China (Karaoke Version) - Originally Performed By Jean Michel Jarre"
+      },
       "duration_ms": 222651,
-      "artist": [
-        "Albert 2 Stone"
+      "artists": [
+        {
+          "name": "Albert 2 Stone",
+          "id": "6q6D8PiXlLQKNlCGjDyVrI"
+        }
       ],
-      "artistId": [
-        "6q6D8PiXlLQKNlCGjDyVrI"
-      ],
-      "albumId": "4dtl7bT6nPEJvAclD9SwYW",
+      "album": {
+        "id": "4dtl7bT6nPEJvAclD9SwYW",
+        "name": "Greatest Karaoke Hits, Vol. 431 (Karaoke Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e12a9ebba33d29f2469a2057"
+      },
       "release_date": "2014-05-09",
       "popularity": 0
     },
     {
-      "trackId": "1BLXxFPDL2BT37nHKD7KrA",
-      "name": "Pata Pata - Stereo Version",
+      "track": {
+        "id": "1BLXxFPDL2BT37nHKD7KrA",
+        "name": "Pata Pata - Stereo Version"
+      },
       "duration_ms": 180174,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "4xPYddRQPYB5jbTB3e7tL5",
+      "album": {
+        "id": "4xPYddRQPYB5jbTB3e7tL5",
+        "name": "Pata Pata",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d46caefb22d460eb8ca14db0"
+      },
       "release_date": "2017",
       "popularity": 58
     },
     {
-      "trackId": "15ouqiBsgL12olEwP3COsH",
-      "name": "Águas De Março",
+      "track": {
+        "id": "15ouqiBsgL12olEwP3COsH",
+        "name": "Águas De Março"
+      },
       "duration_ms": 214366,
-      "artist": [
-        "Elis Regina",
-        "Antônio Carlos Jobim"
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "id": "0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Antônio Carlos Jobim",
+          "id": "3pO5VjZ4wOHCMBXOvbMISG"
+        }
       ],
-      "artistId": [
-        "0yFvXd36g5sNKYDi0Kkvl8",
-        "3pO5VjZ4wOHCMBXOvbMISG"
-      ],
-      "albumId": "3SE9n6EaVOJ81KA1KPLUWS",
+      "album": {
+        "id": "3SE9n6EaVOJ81KA1KPLUWS",
+        "name": "Elis & Tom",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b3ef7785a0a4e5b08b5418e"
+      },
       "release_date": "1974-06-17",
       "popularity": 58
     },
     {
-      "trackId": "6KYEFxFwAyuf6AsLTHn1cv",
-      "name": "Tell Me This Night Is Over",
+      "track": {
+        "id": "6KYEFxFwAyuf6AsLTHn1cv",
+        "name": "Tell Me This Night Is Over"
+      },
       "duration_ms": 315000,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "2853c5Z7BEfJCaFltIQ0C7",
+      "album": {
+        "id": "2853c5Z7BEfJCaFltIQ0C7",
+        "name": "In Lust We Trust",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256fe793a2b8978c57049f28c"
+      },
       "release_date": "2002-08-26",
       "popularity": 35
     },
     {
-      "trackId": "4h7fDeynLwx0DtLDxqdJzn",
-      "name": "Peace",
+      "track": {
+        "id": "4h7fDeynLwx0DtLDxqdJzn",
+        "name": "Peace"
+      },
       "duration_ms": 384869,
-      "artist": [
-        "Merit Hemmingson",
-        "Ane Brun",
-        "Jennie Abrahamson"
+      "artists": [
+        {
+          "name": "Merit Hemmingson",
+          "id": "5xoFJP7qzaMcSAghFZXI4a"
+        },
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Jennie Abrahamson",
+          "id": "6Q6y2vf2DZm7yLWHKQr7Bx"
+        }
       ],
-      "artistId": [
-        "5xoFJP7qzaMcSAghFZXI4a",
-        "2L3kwZFd16zjHz9a5kEPAm",
-        "6Q6y2vf2DZm7yLWHKQr7Bx"
-      ],
-      "albumId": "6BOQNpkb69qKLH9JnQ3T8f",
+      "album": {
+        "id": "6BOQNpkb69qKLH9JnQ3T8f",
+        "name": "Peace",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5c4c6944dbb2bca5ab20b91"
+      },
       "release_date": "2019-04-03",
       "popularity": 9
     }

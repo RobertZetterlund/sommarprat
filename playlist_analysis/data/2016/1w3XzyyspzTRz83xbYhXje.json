@@ -7,118 +7,170 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/157143c3-ddef-4dc5-829a-f96e8ea6e8e6.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2X485T9Z5Ly0xyaghN73ed",
-      "name": "Let It Happen",
+      "track": {
+        "id": "2X485T9Z5Ly0xyaghN73ed",
+        "name": "Let It Happen"
+      },
       "duration_ms": 467586,
-      "artist": [
-        "Tame Impala"
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "id": "5INjqkS1o8h1imAzPqGZBb"
+        }
       ],
-      "artistId": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ],
-      "albumId": "79dL7FLiJFOO0EoehUHQBv",
+      "album": {
+        "id": "79dL7FLiJFOO0EoehUHQBv",
+        "name": "Currents",
+        "img": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79"
+      },
       "release_date": "2015-07-17",
       "popularity": 74
     },
     {
-      "trackId": "58xia1a9EjdSbGB2ALLZuh",
-      "name": "Religious - Radio Edit",
+      "track": {
+        "id": "58xia1a9EjdSbGB2ALLZuh",
+        "name": "Religious - Radio Edit"
+      },
       "duration_ms": 247893,
-      "artist": [
-        "Gravitonas"
+      "artists": [
+        {
+          "name": "Gravitonas",
+          "id": "41Lcacg6ycOoWRTVCGG7yE"
+        }
       ],
-      "artistId": [
-        "41Lcacg6ycOoWRTVCGG7yE"
-      ],
-      "albumId": "5NRPVbv23oLsTYJj4QPFGP",
+      "album": {
+        "id": "5NRPVbv23oLsTYJj4QPFGP",
+        "name": "Religious",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b9ca2912a267e462ebced43"
+      },
       "release_date": "2010-01-01",
       "popularity": 11
     },
     {
-      "trackId": "2WGycRWK95kN9mh3gkIi3N",
-      "name": "All Is Full Of Love",
+      "track": {
+        "id": "2WGycRWK95kN9mh3gkIi3N",
+        "name": "All Is Full Of Love"
+      },
       "duration_ms": 192611,
-      "artist": [
-        "Björk Guðmundsdóttir",
-        "Renée Fleming",
-        "Royal Stockholm Philharmonic Orchestra"
+      "artists": [
+        {
+          "name": "Björk Guðmundsdóttir",
+          "id": "3HDfNAh4MpiptvaJP9We0w"
+        },
+        {
+          "name": "Renée Fleming",
+          "id": "3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "id": "5dyKtXKwZmYhlyh9c6UcB0"
+        }
       ],
-      "artistId": [
-        "3HDfNAh4MpiptvaJP9We0w",
-        "3SK3gLBgy1jRuA4VnLlcs8",
-        "5dyKtXKwZmYhlyh9c6UcB0"
-      ],
-      "albumId": "1h3xuDw4UcGLeFIQ8Ux7eZ",
+      "album": {
+        "id": "1h3xuDw4UcGLeFIQ8Ux7eZ",
+        "name": "Renée Fleming: Distant Light",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221a467a5fe9bd5aacec628cd"
+      },
       "release_date": "2017-01-06",
       "popularity": 9
     },
     {
-      "trackId": "2YLGxalax0cfFSWp7sBQsx",
-      "name": "Let It Rain",
+      "track": {
+        "id": "2YLGxalax0cfFSWp7sBQsx",
+        "name": "Let It Rain"
+      },
       "duration_ms": 205826,
-      "artist": [
-        "BWO"
+      "artists": [
+        {
+          "name": "BWO",
+          "id": "5SvvYvtnQ84Fsuyi61Gk0Q"
+        }
       ],
-      "artistId": [
-        "5SvvYvtnQ84Fsuyi61Gk0Q"
-      ],
-      "albumId": "7LukfmSb0TBQTXFUuSlavW",
+      "album": {
+        "id": "7LukfmSb0TBQTXFUuSlavW",
+        "name": "Pandemonium - The Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b51f0e376ab64e4c03246c6"
+      },
       "release_date": "2008-04-07",
       "popularity": 10
     },
     {
-      "trackId": "2cln3DOZLsI7NT97rOcYob",
-      "name": "Gesi Bağları",
+      "track": {
+        "id": "2cln3DOZLsI7NT97rOcYob",
+        "name": "Gesi Bağları"
+      },
       "duration_ms": 211748,
-      "artist": [
-        "Selda Bağcan"
+      "artists": [
+        {
+          "name": "Selda Bağcan",
+          "id": "2NGRETzxjeN4b9o3OGY6Yn"
+        }
       ],
-      "artistId": [
-        "2NGRETzxjeN4b9o3OGY6Yn"
-      ],
-      "albumId": "4vtDxvIZNgU3yO1RMxGWiU",
+      "album": {
+        "id": "4vtDxvIZNgU3yO1RMxGWiU",
+        "name": "Türkülerimiz 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02388a7c70d615d6a13170608b"
+      },
       "release_date": "1995-01-01",
       "popularity": 53
     },
     {
-      "trackId": "4ztEKLPdKQ4grTJJpHaBPD",
-      "name": "Supernatural - The 1991 Remix",
+      "track": {
+        "id": "4ztEKLPdKQ4grTJJpHaBPD",
+        "name": "Supernatural - The 1991 Remix"
+      },
       "duration_ms": 237400,
-      "artist": [
-        "Army Of Lovers"
+      "artists": [
+        {
+          "name": "Army Of Lovers",
+          "id": "3JXnjuv4hBqQKOVzJg74Lt"
+        }
       ],
-      "artistId": [
-        "3JXnjuv4hBqQKOVzJg74Lt"
-      ],
-      "albumId": "1wNga1473i3Ido5WXDk2LB",
+      "album": {
+        "id": "1wNga1473i3Ido5WXDk2LB",
+        "name": "Massive Luxury Overdose (Swedish Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02abd33934d1c30fb5c6fd2924"
+      },
       "release_date": "1991-01-01",
       "popularity": 18
     },
     {
-      "trackId": "73ErwMSDyCeCkJXjdmtiM7",
-      "name": "Sex Object - 2009 Remaster",
+      "track": {
+        "id": "73ErwMSDyCeCkJXjdmtiM7",
+        "name": "Sex Object - 2009 Remaster"
+      },
       "duration_ms": 411400,
-      "artist": [
-        "Kraftwerk"
+      "artists": [
+        {
+          "name": "Kraftwerk",
+          "id": "0dmPX6ovclgOy8WWJaFEUU"
+        }
       ],
-      "artistId": [
-        "0dmPX6ovclgOy8WWJaFEUU"
-      ],
-      "albumId": "0nAgRvbMJVG8g5iYk9v9pa",
+      "album": {
+        "id": "0nAgRvbMJVG8g5iYk9v9pa",
+        "name": "Techno Pop (2009 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aefe9591b41a1baef6389041"
+      },
       "release_date": "1986",
       "popularity": 23
     },
     {
-      "trackId": "5626KdflSKfeDK7RJQfSrE",
-      "name": "Says",
+      "track": {
+        "id": "5626KdflSKfeDK7RJQfSrE",
+        "name": "Says"
+      },
       "duration_ms": 498000,
-      "artist": [
-        "Nils Frahm"
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "id": "5gqhueRUZEa7VDnQt4HODp"
+        }
       ],
-      "artistId": [
-        "5gqhueRUZEa7VDnQt4HODp"
-      ],
-      "albumId": "0DFbQjp468sMiIMTrZdr5w",
+      "album": {
+        "id": "0DFbQjp468sMiIMTrZdr5w",
+        "name": "Spaces",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244beff2f0733508e7284acb3"
+      },
       "release_date": "2013-11-18",
       "popularity": 51
     }

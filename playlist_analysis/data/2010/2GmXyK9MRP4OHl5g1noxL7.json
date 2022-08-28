@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247512_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4vpeKl0vMGdAXpZiQB2Dtd",
-      "name": "White Rabbit",
+      "track": {
+        "id": "4vpeKl0vMGdAXpZiQB2Dtd",
+        "name": "White Rabbit"
+      },
       "duration_ms": 150640,
-      "artist": [
-        "Jefferson Airplane"
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "id": "2qFr8w5sWUITRlzZ9kZotF"
+        }
       ],
-      "artistId": [
-        "2qFr8w5sWUITRlzZ9kZotF"
-      ],
-      "albumId": "6lPb7Eoon6QPbscWbMsk6a",
+      "album": {
+        "id": "6lPb7Eoon6QPbscWbMsk6a",
+        "name": "Surrealistic Pillow",
+        "img": "https://i.scdn.co/image/ab67616d00001e022dac7a01676ddb36c1d0ec05"
+      },
       "release_date": "1967",
       "popularity": 71
     },
     {
-      "trackId": "4vUiUHGwRsBo6M5pB641Wk",
-      "name": "Summertime - DJ Jazzy Jeff's Mix",
+      "track": {
+        "id": "4vUiUHGwRsBo6M5pB641Wk",
+        "name": "Summertime - DJ Jazzy Jeff's Mix"
+      },
       "duration_ms": 338760,
-      "artist": [
-        "DJ Jazzy Jeff & The Fresh Prince",
-        "Jeffrey Townes",
-        "Carole King"
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "id": "1mG23iQeR29Ojhq89D5gbh"
+        },
+        {
+          "name": "Jeffrey Townes",
+          "id": "01vjxmYnzpLTWn0qmILSxu"
+        },
+        {
+          "name": "Carole King",
+          "id": "319yZVtYM9MBGqmSQnMyY6"
+        }
       ],
-      "artistId": [
-        "1mG23iQeR29Ojhq89D5gbh",
-        "01vjxmYnzpLTWn0qmILSxu",
-        "319yZVtYM9MBGqmSQnMyY6"
-      ],
-      "albumId": "61sNHovnSKvoKP4csGwXut",
+      "album": {
+        "id": "61sNHovnSKvoKP4csGwXut",
+        "name": "Homebase: The Remixes",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271dbcdb2af5553a280f0d4f0"
+      },
       "release_date": "2017-01-13",
       "popularity": 30
     },
     {
-      "trackId": "7AqxT1BkVGKAIodVXLv5OH",
-      "name": "Jaan Pehchan Ho",
+      "track": {
+        "id": "7AqxT1BkVGKAIodVXLv5OH",
+        "name": "Jaan Pehchan Ho"
+      },
       "duration_ms": 336600,
-      "artist": [
-        "Mohammed Rafi"
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "id": "0gXDpqwYNDODn7fB0RDN8J"
+        }
       ],
-      "artistId": [
-        "0gXDpqwYNDODn7fB0RDN8J"
-      ],
-      "albumId": "6iQEiJ4pMNjNWOURlb7KJL",
+      "album": {
+        "id": "6iQEiJ4pMNjNWOURlb7KJL",
+        "name": "Gumnaam (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddcedcf01b89a081c6e690b8"
+      },
       "release_date": "1965-12-01",
       "popularity": 32
     },
     {
-      "trackId": "1oPu9jgDpFz9oBUlKqtjxI",
-      "name": "Ingen kommer undan politiken",
+      "track": {
+        "id": "1oPu9jgDpFz9oBUlKqtjxI",
+        "name": "Ingen kommer undan politiken"
+      },
       "duration_ms": 176560,
-      "artist": [
-        "Marie Bergman"
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "id": "1EF9hLul0ZZcbh7dmXWF99"
+        }
       ],
-      "artistId": [
-        "1EF9hLul0ZZcbh7dmXWF99"
-      ],
-      "albumId": "2rmw3Hmnj5NU3QLwwVI2Cy",
+      "album": {
+        "id": "2rmw3Hmnj5NU3QLwwVI2Cy",
+        "name": "Närma mej",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213949911d36b48458679ac1e"
+      },
       "release_date": "1977",
       "popularity": 37
     },
     {
-      "trackId": "0ZGDxwoBaGmLIZE6rxoURK",
-      "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+      "track": {
+        "id": "0ZGDxwoBaGmLIZE6rxoURK",
+        "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]"
+      },
       "duration_ms": 143506,
-      "artist": [
-        "Singer's Edge Karaoke"
+      "artists": [
+        {
+          "name": "Singer's Edge Karaoke",
+          "id": "3CtgjasLNN3Ym8SHm5JuJn"
+        }
       ],
-      "artistId": [
-        "3CtgjasLNN3Ym8SHm5JuJn"
-      ],
-      "albumId": "0C9piLHM2FN3c4DnfyvSlG",
+      "album": {
+        "id": "0C9piLHM2FN3c4DnfyvSlG",
+        "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d4e3db2be3764e45adff8e1"
+      },
       "release_date": "2014-03-13",
       "popularity": 0
     },
     {
-      "trackId": "5tB3935lICfBBLAfe5Un6l",
-      "name": "Skräckfilm",
+      "track": {
+        "id": "5tB3935lICfBBLAfe5Un6l",
+        "name": "Skräckfilm"
+      },
       "duration_ms": 150000,
-      "artist": [
-        "Sarettii",
-        "Dree Low"
+      "artists": [
+        {
+          "name": "Sarettii",
+          "id": "4kUfJdASJDMPLuo1t1N2zi"
+        },
+        {
+          "name": "Dree Low",
+          "id": "3tNPDodRNuLdezJnTsYOqy"
+        }
       ],
-      "artistId": [
-        "4kUfJdASJDMPLuo1t1N2zi",
-        "3tNPDodRNuLdezJnTsYOqy"
-      ],
-      "albumId": "2q5XEzQtJ8Pk20TPFlRMP3",
+      "album": {
+        "id": "2q5XEzQtJ8Pk20TPFlRMP3",
+        "name": "Skräckfilm",
+        "img": "https://i.scdn.co/image/ab67616d00001e02430e423a95b770c04cf36a35"
+      },
       "release_date": "2021-07-02",
       "popularity": 55
     },
     {
-      "trackId": "5Jh3NzWY3k48uUxuSUhSip",
-      "name": "They Call Me Big Mama",
+      "track": {
+        "id": "5Jh3NzWY3k48uUxuSUhSip",
+        "name": "They Call Me Big Mama"
+      },
       "duration_ms": 124480,
-      "artist": [
-        "Big Mama Thornton"
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "id": "6bR0cgMtkCVpm0I5yrDNzO"
+        }
       ],
-      "artistId": [
-        "6bR0cgMtkCVpm0I5yrDNzO"
-      ],
-      "albumId": "6gtCHbu0e2FQ4X2I6Y6rRj",
+      "album": {
+        "id": "6gtCHbu0e2FQ4X2I6Y6rRj",
+        "name": "I Smell a Rat",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e8003c89e961ee3b536ea0d"
+      },
       "release_date": "1954-11-26",
       "popularity": 23
     },
     {
-      "trackId": "6jGOuyptMzcqRA4fO6evSK",
-      "name": "Ne me quitte pas",
+      "track": {
+        "id": "6jGOuyptMzcqRA4fO6evSK",
+        "name": "Ne me quitte pas"
+      },
       "duration_ms": 121000,
-      "artist": [
-        "Barbara"
+      "artists": [
+        {
+          "name": "Barbara",
+          "id": "4TNiKyCX2oCvdo1sTgHcRw"
+        }
       ],
-      "artistId": [
-        "4TNiKyCX2oCvdo1sTgHcRw"
-      ],
-      "albumId": "550SpPMZTrIriEekwg5spQ",
+      "album": {
+        "id": "550SpPMZTrIriEekwg5spQ",
+        "name": "Chansons Françaises (Succès Originaux)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022de4b18d94868a3d62a286a3"
+      },
       "release_date": "2012-08-10",
       "popularity": 0
     },
     {
-      "trackId": "1KjqScv3wZXqeXdbULamgr",
-      "name": "BOSS",
+      "track": {
+        "id": "1KjqScv3wZXqeXdbULamgr",
+        "name": "BOSS"
+      },
       "duration_ms": 121454,
-      "artist": [
-        "Jiggz"
+      "artists": [
+        {
+          "name": "Jiggz",
+          "id": "4vmyAixlpiovF3wJ5MSxfJ"
+        }
       ],
-      "artistId": [
-        "4vmyAixlpiovF3wJ5MSxfJ"
-      ],
-      "albumId": "40Q4nz2bmQ1Muh7zXsg33A",
+      "album": {
+        "id": "40Q4nz2bmQ1Muh7zXsg33A",
+        "name": "BOSS",
+        "img": "https://i.scdn.co/image/ab67616d00001e02995fb41366fd8267a9192a00"
+      },
       "release_date": "2019-10-04",
       "popularity": 50
     },
     {
-      "trackId": "2LNwIIV6TL5tuaErAfseu7",
-      "name": "The Queen And The Soldier",
+      "track": {
+        "id": "2LNwIIV6TL5tuaErAfseu7",
+        "name": "The Queen And The Soldier"
+      },
       "duration_ms": 288306,
-      "artist": [
-        "Suzanne Vega"
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "id": "3X0tJzVYoWlfjLYI0Ridsw"
+        }
       ],
-      "artistId": [
-        "3X0tJzVYoWlfjLYI0Ridsw"
-      ],
-      "albumId": "5cboZA5AxA9fc6F1gp818q",
+      "album": {
+        "id": "5cboZA5AxA9fc6F1gp818q",
+        "name": "Suzanne Vega",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227f61821bfc093f9f59acb48"
+      },
       "release_date": "1985-05-01",
       "popularity": 39
     },
     {
-      "trackId": "4NQUMSTCO4MdFOsqTgoQl2",
-      "name": "Run to the Hills",
+      "track": {
+        "id": "4NQUMSTCO4MdFOsqTgoQl2",
+        "name": "Run to the Hills"
+      },
       "duration_ms": 265400,
-      "artist": [
-        "Hellsongs"
+      "artists": [
+        {
+          "name": "Hellsongs",
+          "id": "4q6vUp7EZD4jAcBqjxfgYk"
+        }
       ],
-      "artistId": [
-        "4q6vUp7EZD4jAcBqjxfgYk"
-      ],
-      "albumId": "6rYFUviNNErpw5o9AXeSGQ",
+      "album": {
+        "id": "6rYFUviNNErpw5o9AXeSGQ",
+        "name": "Lounge / Pieces of Heaven, A Glimpse of Hell",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f07b8c5a0f30d8bf3e0d355"
+      },
       "release_date": "2013",
       "popularity": 33
     },
     {
-      "trackId": "3wM6RTAnF7IQpMFd7b9ZcL",
-      "name": "Yesterday Once More",
+      "track": {
+        "id": "3wM6RTAnF7IQpMFd7b9ZcL",
+        "name": "Yesterday Once More"
+      },
       "duration_ms": 233533,
-      "artist": [
-        "Carpenters"
+      "artists": [
+        {
+          "name": "Carpenters",
+          "id": "1eEfMU2AhEo7XnKgL7c304"
+        }
       ],
-      "artistId": [
-        "1eEfMU2AhEo7XnKgL7c304"
-      ],
-      "albumId": "0A7WaXRUZ2fkHtUYfeoF73",
+      "album": {
+        "id": "0A7WaXRUZ2fkHtUYfeoF73",
+        "name": "Now & Then (Reissue)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eafa3ccf2f56bfbb6f4f1ba5"
+      },
       "release_date": "1973-05-01",
       "popularity": 66
     },
     {
-      "trackId": "45WX2cfbL8bCIqv3rOq1G3",
-      "name": "I'll Follow The Sun - Remastered 2009",
+      "track": {
+        "id": "45WX2cfbL8bCIqv3rOq1G3",
+        "name": "I'll Follow The Sun - Remastered 2009"
+      },
       "duration_ms": 108853,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1vANZV20H5B4Fk6yf7Ot9a",
+      "album": {
+        "id": "1vANZV20H5B4Fk6yf7Ot9a",
+        "name": "Beatles For Sale (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255612ece447bec5d62c68375"
+      },
       "release_date": "1964-12-04",
       "popularity": 59
     }

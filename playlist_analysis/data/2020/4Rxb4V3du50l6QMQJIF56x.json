@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/b349dc1e-2088-458e-9f18-3e1ebf04687d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5FS53G6Xg3km6RKqxTKdge",
-      "name": "A Change Is Gonna Come",
+      "track": {
+        "id": "5FS53G6Xg3km6RKqxTKdge",
+        "name": "A Change Is Gonna Come"
+      },
       "duration_ms": 217253,
-      "artist": [
-        "Ben Sollee"
+      "artists": [
+        {
+          "name": "Ben Sollee",
+          "id": "3Zzs4IqjV4b0yEFWqRv1si"
+        }
       ],
-      "artistId": [
-        "3Zzs4IqjV4b0yEFWqRv1si"
-      ],
-      "albumId": "0Qb0mJaUSpr4PfTgbvqGLC",
+      "album": {
+        "id": "0Qb0mJaUSpr4PfTgbvqGLC",
+        "name": "Learning to Bend",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9a4ff6b8f2dc369f5d14a32"
+      },
       "release_date": "2008-06-10",
       "popularity": 35
     },
     {
-      "trackId": "2XU0oxnq2qxCpomAAuJY8K",
-      "name": "Dance Monkey",
+      "track": {
+        "id": "2XU0oxnq2qxCpomAAuJY8K",
+        "name": "Dance Monkey"
+      },
       "duration_ms": 209438,
-      "artist": [
-        "Tones And I"
+      "artists": [
+        {
+          "name": "Tones And I",
+          "id": "2NjfBq1NflQcKSeiDooVjY"
+        }
       ],
-      "artistId": [
-        "2NjfBq1NflQcKSeiDooVjY"
-      ],
-      "albumId": "0UywfDKYlyiu1b38DRrzYD",
+      "album": {
+        "id": "0UywfDKYlyiu1b38DRrzYD",
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6f7af36ecdc3ed6e0a1f169"
+      },
       "release_date": "2019-10-17",
       "popularity": 79
     },
     {
-      "trackId": "78gYSkOhQXm54K8Ge8PByE",
-      "name": "Hudamokk",
+      "track": {
+        "id": "78gYSkOhQXm54K8Ge8PByE",
+        "name": "Hudamokk"
+      },
       "duration_ms": 58181,
-      "artist": [
-        "Leslie Fisher"
+      "artists": [
+        {
+          "name": "Leslie Fisher",
+          "id": "1ikYbdpqgJkYpBB4QrCkhN"
+        }
       ],
-      "artistId": [
-        "1ikYbdpqgJkYpBB4QrCkhN"
-      ],
-      "albumId": "344O33Adf6pQtdKRI51UEQ",
+      "album": {
+        "id": "344O33Adf6pQtdKRI51UEQ",
+        "name": "Hudamokk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e01c9b96f23fcd870249ef8c"
+      },
       "release_date": "2022-07-15",
       "popularity": 15
     },
     {
-      "trackId": "6QlZgv0dA0MVEFs78itmav",
-      "name": "Rulla in en boll och låt den rulla",
+      "track": {
+        "id": "6QlZgv0dA0MVEFs78itmav",
+        "name": "Rulla in en boll och låt den rulla"
+      },
       "duration_ms": 229973,
-      "artist": [
-        "Gösta Linderholm"
+      "artists": [
+        {
+          "name": "Gösta Linderholm",
+          "id": "4MPVcjGs9Sq5o5FhcIi1l5"
+        }
       ],
-      "artistId": [
-        "4MPVcjGs9Sq5o5FhcIi1l5"
-      ],
-      "albumId": "59A10jXAYKHDWBxhZjhHBE",
+      "album": {
+        "id": "59A10jXAYKHDWBxhZjhHBE",
+        "name": "Jordsmak",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a186387438182a55ca0f8018"
+      },
       "release_date": "1978",
       "popularity": 28
     },
     {
-      "trackId": "5fpEDGQX0Ah3utGnFYulQZ",
-      "name": "Keep Your Head Up",
+      "track": {
+        "id": "5fpEDGQX0Ah3utGnFYulQZ",
+        "name": "Keep Your Head Up"
+      },
       "duration_ms": 264546,
-      "artist": [
-        "Ben Howard"
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "id": "5schNIzWdI9gJ1QRK8SBnc"
+        }
       ],
-      "artistId": [
-        "5schNIzWdI9gJ1QRK8SBnc"
-      ],
-      "albumId": "57PgT4iuDurzlJnkYjrpce",
+      "album": {
+        "id": "57PgT4iuDurzlJnkYjrpce",
+        "name": "Every Kingdom",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225d10f813fd1114b2bb9e39a"
+      },
       "release_date": "2011-01-01",
       "popularity": 65
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     },
     {
-      "trackId": "2tZpDJiyBvpunnKNL28saw",
-      "name": "Od Yeshoma",
+      "track": {
+        "id": "2tZpDJiyBvpunnKNL28saw",
+        "name": "Od Yeshoma"
+      },
       "duration_ms": 294866,
-      "artist": [
-        "Oi Va Voi"
+      "artists": [
+        {
+          "name": "Oi Va Voi",
+          "id": "1AzrlUnOS6dhH0iMV86ctS"
+        }
       ],
-      "artistId": [
-        "1AzrlUnOS6dhH0iMV86ctS"
-      ],
-      "albumId": "6LQYWuzr7X20lFbR6wheSh",
+      "album": {
+        "id": "6LQYWuzr7X20lFbR6wheSh",
+        "name": "Laughter Through Tears",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3bddaa4be09c0bd15ef81b4"
+      },
       "release_date": "2003-09-29",
       "popularity": 24
     },
     {
-      "trackId": "2FYtp33tSoeNgcYpOA6l7k",
-      "name": "Mammarock",
+      "track": {
+        "id": "2FYtp33tSoeNgcYpOA6l7k",
+        "name": "Mammarock"
+      },
       "duration_ms": 228106,
-      "artist": [
-        "Nationalteatern"
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "id": "3GBq0lnwXpfnLmMndLDZ6U"
+        }
       ],
-      "artistId": [
-        "3GBq0lnwXpfnLmMndLDZ6U"
-      ],
-      "albumId": "32ydUUumC79HedZDlS50Zm",
+      "album": {
+        "id": "32ydUUumC79HedZDlS50Zm",
+        "name": "Kåldolmar & kalsipper",
+        "img": "https://i.scdn.co/image/ab67616d00001e02468f75480fecc6b283433a77"
+      },
       "release_date": "1976",
       "popularity": 17
     },
     {
-      "trackId": "4wo2eRp6aHcAlmhmfwiTAH",
-      "name": "Thunder on the Mountain",
+      "track": {
+        "id": "4wo2eRp6aHcAlmhmfwiTAH",
+        "name": "Thunder on the Mountain"
+      },
       "duration_ms": 353760,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "6y2WHyqRUCeHrjMXvjnRmD",
+      "album": {
+        "id": "6y2WHyqRUCeHrjMXvjnRmD",
+        "name": "Modern Times",
+        "img": "https://i.scdn.co/image/ab67616d00001e026996cd6e6a1423a0c047cbcc"
+      },
       "release_date": "2006-08-29",
       "popularity": 40
     },
     {
-      "trackId": "476V2d6iA2tWXgQboKmTtA",
-      "name": "Father And Son",
+      "track": {
+        "id": "476V2d6iA2tWXgQboKmTtA",
+        "name": "Father And Son"
+      },
       "duration_ms": 221120,
-      "artist": [
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "44VxbAytHpVi3Rq8hRhild",
+      "album": {
+        "id": "44VxbAytHpVi3Rq8hRhild",
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d"
+      },
       "release_date": "1970-11-23",
       "popularity": 73
     },
     {
-      "trackId": "6SvugfmQjesEKvcdBClV73",
-      "name": "Lift Me Up",
+      "track": {
+        "id": "6SvugfmQjesEKvcdBClV73",
+        "name": "Lift Me Up"
+      },
       "duration_ms": 217613,
-      "artist": [
-        "Jeff Lynne"
+      "artists": [
+        {
+          "name": "Jeff Lynne",
+          "id": "3bTAaMx9nf237AkBnGw3vL"
+        }
       ],
-      "artistId": [
-        "3bTAaMx9nf237AkBnGw3vL"
-      ],
-      "albumId": "3rxBm0hL8MSU9kJAYBWJFR",
+      "album": {
+        "id": "3rxBm0hL8MSU9kJAYBWJFR",
+        "name": "Armchair Theatre",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1c564a81f241468d124c887"
+      },
       "release_date": "1990-07-02",
       "popularity": 39
     },
     {
-      "trackId": "17S4XrLvF5jlGvGCJHgF51",
-      "name": "Learning To Fly",
+      "track": {
+        "id": "17S4XrLvF5jlGvGCJHgF51",
+        "name": "Learning To Fly"
+      },
       "duration_ms": 242106,
-      "artist": [
-        "Tom Petty and the Heartbreakers"
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "id": "4tX2TplrkIP4v05BNC903e"
+        }
       ],
-      "artistId": [
-        "4tX2TplrkIP4v05BNC903e"
-      ],
-      "albumId": "42G5ULkCRRl3crJMlg6eKd",
+      "album": {
+        "id": "42G5ULkCRRl3crJMlg6eKd",
+        "name": "Into The Great Wide Open",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227bd7d234a31296df34b9a64"
+      },
       "release_date": "1991-01-01",
       "popularity": 71
     }

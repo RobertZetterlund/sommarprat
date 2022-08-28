@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a18b8820-e97f-4b5c-ae83-f5b0b6995b8f.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5ITOzuoVepRgjpm6FgSWKi",
-      "name": "Nu Eller Aldrig (This Is The Moment )",
+      "track": {
+        "id": "5ITOzuoVepRgjpm6FgSWKi",
+        "name": "Nu Eller Aldrig (This Is The Moment )"
+      },
       "duration_ms": 209360,
-      "artist": [
-        "Peter Jöback"
+      "artists": [
+        {
+          "name": "Peter Jöback",
+          "id": "3fA5zBQWEa0uzYo43SvXaj"
+        }
       ],
-      "artistId": [
-        "3fA5zBQWEa0uzYo43SvXaj"
-      ],
-      "albumId": "1MfdcMxg9dX4l8IFOgoPas",
+      "album": {
+        "id": "1MfdcMxg9dX4l8IFOgoPas",
+        "name": "Personliga Val",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cf707a575241d36fc001043"
+      },
       "release_date": "1997-11-27",
       "popularity": 15
     },
     {
-      "trackId": "4xmjDH6auBwuZ4GHimjXGe",
-      "name": "I Will Survive - Single Version",
+      "track": {
+        "id": "4xmjDH6auBwuZ4GHimjXGe",
+        "name": "I Will Survive - Single Version"
+      },
       "duration_ms": 197573,
-      "artist": [
-        "Gloria Gaynor"
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "id": "6V6WCgi7waF55bJmylC4H5"
+        }
       ],
-      "artistId": [
-        "6V6WCgi7waF55bJmylC4H5"
-      ],
-      "albumId": "2wV72iMZZu677uYCw2giDC",
+      "album": {
+        "id": "2wV72iMZZu677uYCw2giDC",
+        "name": "Colour Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d950c529be4f36a4c962fde6"
+      },
       "release_date": "1999-01-01",
       "popularity": 60
     },
     {
-      "trackId": "3B5UbSndRz907IZhhmUfLi",
-      "name": "Count on Me",
+      "track": {
+        "id": "3B5UbSndRz907IZhhmUfLi",
+        "name": "Count on Me"
+      },
       "duration_ms": 197469,
-      "artist": [
-        "Bruno Mars"
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "id": "0du5cEVh5yTK9QJze8zA0C"
+        }
       ],
-      "artistId": [
-        "0du5cEVh5yTK9QJze8zA0C"
-      ],
-      "albumId": "6J84szYCnMfzEcvIcfWMFL",
+      "album": {
+        "id": "6J84szYCnMfzEcvIcfWMFL",
+        "name": "Doo-Wops & Hooligans",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f60070dce96a2c1b70cf6ff0"
+      },
       "release_date": "2010-10-05",
       "popularity": 69
     },
     {
-      "trackId": "7HQCOxbsQNd5j13E0yBFn3",
-      "name": "Kan man ha en solkatt i en bur (Slipping Through My Fingers)",
+      "track": {
+        "id": "7HQCOxbsQNd5j13E0yBFn3",
+        "name": "Kan man ha en solkatt i en bur (Slipping Through My Fingers)"
+      },
       "duration_ms": 227573,
-      "artist": [
-        "Gunilla Backman",
-        "Nina Lundseie"
+      "artists": [
+        {
+          "name": "Gunilla Backman",
+          "id": "6zo2bHN4q6GOIwdWENy8kH"
+        },
+        {
+          "name": "Nina Lundseie",
+          "id": "4GFkRl2J0Tkv18nDpaJxg6"
+        }
       ],
-      "artistId": [
-        "6zo2bHN4q6GOIwdWENy8kH",
-        "4GFkRl2J0Tkv18nDpaJxg6"
-      ],
-      "albumId": "23ZibF4Z7YzYAxl9dTxHWx",
+      "album": {
+        "id": "23ZibF4Z7YzYAxl9dTxHWx",
+        "name": "Mamma Mia!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c083570f57c4585e2aa867b3"
+      },
       "release_date": "2005-01-01",
       "popularity": 33
     },
     {
-      "trackId": "7yAslROTLRHGwuiLBpdErT",
-      "name": "It's My House",
+      "track": {
+        "id": "7yAslROTLRHGwuiLBpdErT",
+        "name": "It's My House"
+      },
       "duration_ms": 274560,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "7jqe6yQ9qtHqahli8WSYH4",
+      "album": {
+        "id": "7jqe6yQ9qtHqahli8WSYH4",
+        "name": "The Boss (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02303a1d40609b8aa537b607c1"
+      },
       "release_date": "1979-05-23",
       "popularity": 53
     },
     {
-      "trackId": "5Tej7YAmZohWnanUoquW6n",
-      "name": "Drottningholmsmusiken, The Drottningholm Music: I. Allegro assai",
+      "track": {
+        "id": "5Tej7YAmZohWnanUoquW6n",
+        "name": "Drottningholmsmusiken, The Drottningholm Music: I. Allegro assai"
+      },
       "duration_ms": 192986,
-      "artist": [
-        "Johan Helmich Roman",
-        "Helsingborg Symphony Orchestra",
-        "Andrew Manze"
+      "artists": [
+        {
+          "name": "Johan Helmich Roman",
+          "id": "7fmuw46A73YYDDI1AV6KZd"
+        },
+        {
+          "name": "Helsingborg Symphony Orchestra",
+          "id": "0K2m2TlgHkcp32NAZV6Omw"
+        },
+        {
+          "name": "Andrew Manze",
+          "id": "0MPbAeGQj0YatrUMdY2KEr"
+        }
       ],
-      "artistId": [
-        "7fmuw46A73YYDDI1AV6KZd",
-        "0K2m2TlgHkcp32NAZV6Omw",
-        "0MPbAeGQj0YatrUMdY2KEr"
-      ],
-      "albumId": "7L8pDIkUrX2dufOQWMoSVa",
+      "album": {
+        "id": "7L8pDIkUrX2dufOQWMoSVa",
+        "name": "The Drottningholm Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0281fa4119c0446721248a1"
+      },
       "release_date": "2011-05-31",
       "popularity": 16
     },
     {
-      "trackId": "3cbV252akVZInSvJk7jAYX",
-      "name": "Flashdance...What a Feeling - Radio Edit",
+      "track": {
+        "id": "3cbV252akVZInSvJk7jAYX",
+        "name": "Flashdance...What a Feeling - Radio Edit"
+      },
       "duration_ms": 237053,
-      "artist": [
-        "Irene Cara"
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "id": "3oZa8Xs6IjlIUGLAhVyK4G"
+        }
       ],
-      "artistId": [
-        "3oZa8Xs6IjlIUGLAhVyK4G"
-      ],
-      "albumId": "0BK4XIgJ3AublHWN48vNzS",
+      "album": {
+        "id": "0BK4XIgJ3AublHWN48vNzS",
+        "name": "What a Feelin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea96c232558012dd370f169d"
+      },
       "release_date": "1983-01-01",
       "popularity": 74
     },
     {
-      "trackId": "2lFlveK1y13WWp3vnQtrr3",
-      "name": "100 Years",
+      "track": {
+        "id": "2lFlveK1y13WWp3vnQtrr3",
+        "name": "100 Years"
+      },
       "duration_ms": 244600,
-      "artist": [
-        "Five For Fighting"
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "id": "7FgMLbnZVrEnir95O0YujA"
+        }
       ],
-      "artistId": [
-        "7FgMLbnZVrEnir95O0YujA"
-      ],
-      "albumId": "6RWEJvVwr8aCQfRchRhjMq",
+      "album": {
+        "id": "6RWEJvVwr8aCQfRchRhjMq",
+        "name": "The Battle for Everything",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbcfeefa73330cc4b762fdf8"
+      },
       "release_date": "2003",
       "popularity": 66
     },
     {
-      "trackId": "4MWIcbWgjf8zSAK6WwGPft",
-      "name": "The Storm Is Over Now",
+      "track": {
+        "id": "4MWIcbWgjf8zSAK6WwGPft",
+        "name": "The Storm Is Over Now"
+      },
       "duration_ms": 272160,
-      "artist": [
-        "R. Kelly"
+      "artists": [
+        {
+          "name": "R. Kelly",
+          "id": "2mxe0TnaNL039ysAj51xPQ"
+        }
       ],
-      "artistId": [
-        "2mxe0TnaNL039ysAj51xPQ"
-      ],
-      "albumId": "6wQNHLyPfngt7Yk7g2cw2u",
+      "album": {
+        "id": "6wQNHLyPfngt7Yk7g2cw2u",
+        "name": "TP-2.com",
+        "img": "https://i.scdn.co/image/ab67616d00001e02773c978c2e5c32ecf2550bbd"
+      },
       "release_date": "2000-11-07",
       "popularity": 43
     },
     {
-      "trackId": "5ubvP9oKmxLUVq506fgLhk",
-      "name": "Stayin Alive",
+      "track": {
+        "id": "5ubvP9oKmxLUVq506fgLhk",
+        "name": "Stayin Alive"
+      },
       "duration_ms": 285373,
-      "artist": [
-        "Bee Gees"
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "id": "1LZEQNv7sE11VDY3SdxQeN"
+        }
       ],
-      "artistId": [
-        "1LZEQNv7sE11VDY3SdxQeN"
-      ],
-      "albumId": "4vAhQeeWkSjVn0p5GAaLBx",
+      "album": {
+        "id": "4vAhQeeWkSjVn0p5GAaLBx",
+        "name": "How Can You Mend A Broken Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1f748bf1c1e69b3e36a21ea"
+      },
       "release_date": "2020-12-11",
       "popularity": 80
     },
     {
-      "trackId": "4vHVfwVi2CEc4r7P1Pr9iu",
-      "name": "Biscuits",
+      "track": {
+        "id": "4vHVfwVi2CEc4r7P1Pr9iu",
+        "name": "Biscuits"
+      },
       "duration_ms": 196520,
-      "artist": [
-        "Kacey Musgraves"
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "id": "70kkdajctXSbqSMJbQO424"
+        }
       ],
-      "artistId": [
-        "70kkdajctXSbqSMJbQO424"
-      ],
-      "albumId": "5xxKrpAO6Toq1KmopQ4tox",
+      "album": {
+        "id": "5xxKrpAO6Toq1KmopQ4tox",
+        "name": "Pageant Material",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200505d736b7a5bdd7a4a29e4"
+      },
       "release_date": "2015-06-23",
       "popularity": 52
     },
     {
-      "trackId": "7tqhbajSfrz2F7E1Z75ASX",
-      "name": "Ain't No Mountain High Enough",
+      "track": {
+        "id": "7tqhbajSfrz2F7E1Z75ASX",
+        "name": "Ain't No Mountain High Enough"
+      },
       "duration_ms": 151666,
-      "artist": [
-        "Marvin Gaye",
-        "Tammi Terrell"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "id": "75jNCko3SnEMI5gwGqrbb8"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA",
-        "75jNCko3SnEMI5gwGqrbb8"
-      ],
-      "albumId": "5LqviduT0g0J0ypFrFSwCE",
+      "album": {
+        "id": "5LqviduT0g0J0ypFrFSwCE",
+        "name": "United",
+        "img": "https://i.scdn.co/image/ab67616d00001e029173e50e99bdea2400222f02"
+      },
       "release_date": "1967-08-29",
       "popularity": 81
     },
     {
-      "trackId": "555bNU24uRnFnd36qWp7MJ",
-      "name": "Amerika",
+      "track": {
+        "id": "555bNU24uRnFnd36qWp7MJ",
+        "name": "Amerika"
+      },
       "duration_ms": 293835,
-      "artist": [
-        "Jonathan Johansson"
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "id": "3i0VvjFfLzfX8TgDhgNWfe"
+        }
       ],
-      "artistId": [
-        "3i0VvjFfLzfX8TgDhgNWfe"
-      ],
-      "albumId": "1U2w5UkVBoeWp72vQizuNO",
+      "album": {
+        "id": "1U2w5UkVBoeWp72vQizuNO",
+        "name": "Om Vi Får Leva",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0c566524b8406afc1c3bd9e"
+      },
       "release_date": "2022-03-11",
       "popularity": 35
     }

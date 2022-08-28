@@ -7,250 +7,362 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3251319_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0HU5JnVaKNTWf6GykV9Zn8",
-      "name": "Circle of Life - From \"The Lion King\"/ Soundtrack",
+      "track": {
+        "id": "0HU5JnVaKNTWf6GykV9Zn8",
+        "name": "Circle of Life - From \"The Lion King\"/ Soundtrack"
+      },
       "duration_ms": 239146,
-      "artist": [
-        "Carmen Twillie",
-        "Lebo M."
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "id": "6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "id": "0zp9qNDSeYi3QEodhcKAAA"
+        }
       ],
-      "artistId": [
-        "6O3ZB5Cz5CNT3wQWouKcNJ",
-        "0zp9qNDSeYi3QEodhcKAAA"
-      ],
-      "albumId": "3YA5DdB3wSz4pdfEXoMyRd",
+      "album": {
+        "id": "3YA5DdB3wSz4pdfEXoMyRd",
+        "name": "The Lion King",
+        "img": "https://i.scdn.co/image/ab67616d00001e02660aadbda2da6b1c2dd3d1a5"
+      },
       "release_date": "1994-01-01",
       "popularity": 67
     },
     {
-      "trackId": "7xBxUW15cINiee5evdUOp4",
-      "name": "Upp Och Hoppa",
+      "track": {
+        "id": "7xBxUW15cINiee5evdUOp4",
+        "name": "Upp Och Hoppa"
+      },
       "duration_ms": 182853,
-      "artist": [
-        "Jävlaranamma"
+      "artists": [
+        {
+          "name": "Jävlaranamma",
+          "id": "1d1O2KbOZhJWMEDgr0yXaC"
+        }
       ],
-      "artistId": [
-        "1d1O2KbOZhJWMEDgr0yXaC"
-      ],
-      "albumId": "64Lf29fDn1i7TVnKdmE5xy",
+      "album": {
+        "id": "64Lf29fDn1i7TVnKdmE5xy",
+        "name": "Merry Påskmas",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bb997a16a2025d2d8ffa3c79"
+      },
       "release_date": "2011-02-07",
       "popularity": 33
     },
     {
-      "trackId": "2mMgXuPgoYq7SizqWZqueQ",
-      "name": "Born To Cry",
+      "track": {
+        "id": "2mMgXuPgoYq7SizqWZqueQ",
+        "name": "Born To Cry"
+      },
       "duration_ms": 333400,
-      "artist": [
-        "Pulp"
+      "artists": [
+        {
+          "name": "Pulp",
+          "id": "36E7oYfz3LLRto6l2WmDcD"
+        }
       ],
-      "artistId": [
-        "36E7oYfz3LLRto6l2WmDcD"
-      ],
-      "albumId": "6PcgVPzMx4kr63zEgPb505",
+      "album": {
+        "id": "6PcgVPzMx4kr63zEgPb505",
+        "name": "Notting Hill",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283f2b8c25b1d3892dba8272a"
+      },
       "release_date": "1999-01-01",
       "popularity": 26
     },
     {
-      "trackId": "7Ga9xkoTy44imDxNjHIQwq",
-      "name": "Frei!",
+      "track": {
+        "id": "7Ga9xkoTy44imDxNjHIQwq",
+        "name": "Frei!"
+      },
       "duration_ms": 299840,
-      "artist": [
-        "Reinhard Mey"
+      "artists": [
+        {
+          "name": "Reinhard Mey",
+          "id": "119CgQj02xyMpOobWjdb3C"
+        }
       ],
-      "artistId": [
-        "119CgQj02xyMpOobWjdb3C"
-      ],
-      "albumId": "3B8vQ6aXSIhWsuYKeQqeEV",
+      "album": {
+        "id": "3B8vQ6aXSIhWsuYKeQqeEV",
+        "name": "Ruem Hart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e9f6765e7c861a281a43218b"
+      },
       "release_date": "2002-01-01",
       "popularity": 8
     },
     {
-      "trackId": "3ovjw5HZZv43SxTwApooCM",
-      "name": "Wind Of Change",
+      "track": {
+        "id": "3ovjw5HZZv43SxTwApooCM",
+        "name": "Wind Of Change"
+      },
       "duration_ms": 312360,
-      "artist": [
-        "Scorpions"
+      "artists": [
+        {
+          "name": "Scorpions",
+          "id": "27T030eWyCQRmDyuvr1kxY"
+        }
       ],
-      "artistId": [
-        "27T030eWyCQRmDyuvr1kxY"
-      ],
-      "albumId": "3dLKM8bD8R3H3XnSOXGjTF",
+      "album": {
+        "id": "3dLKM8bD8R3H3XnSOXGjTF",
+        "name": "Crazy World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02787674b6a114f98cad6f834b"
+      },
       "release_date": "1990-01-01",
       "popularity": 78
     },
     {
-      "trackId": "50HDUrr3Pnjz1WqytTRFtD",
-      "name": "Euro",
+      "track": {
+        "id": "50HDUrr3Pnjz1WqytTRFtD",
+        "name": "Euro"
+      },
       "duration_ms": 184893,
-      "artist": [
-        "Erik Lundin"
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "id": "0dCSPVQ30JS4cRaCTtbEmp"
+        }
       ],
-      "artistId": [
-        "0dCSPVQ30JS4cRaCTtbEmp"
-      ],
-      "albumId": "60yJfXrhCuEsAqX7DCCr2S",
+      "album": {
+        "id": "60yJfXrhCuEsAqX7DCCr2S",
+        "name": "Zebrapojken",
+        "img": "https://i.scdn.co/image/ab67616d00001e02222219423342e03d85cecfd2"
+      },
       "release_date": "2019-03-15",
       "popularity": 46
     },
     {
-      "trackId": "1eu3GSrsyUxWMmEKgC4Xr5",
-      "name": "Come Give Me Love",
+      "track": {
+        "id": "1eu3GSrsyUxWMmEKgC4Xr5",
+        "name": "Come Give Me Love"
+      },
       "duration_ms": 209120,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 51
     },
     {
-      "trackId": "4YBIuDWPsVy9pXLCUBORZN",
-      "name": "The Living Years",
+      "track": {
+        "id": "4YBIuDWPsVy9pXLCUBORZN",
+        "name": "The Living Years"
+      },
       "duration_ms": 332333,
-      "artist": [
-        "Mike & The Mechanics"
+      "artists": [
+        {
+          "name": "Mike & The Mechanics",
+          "id": "2yTUYhIf8fxptTIy3KLuJD"
+        }
       ],
-      "artistId": [
-        "2yTUYhIf8fxptTIy3KLuJD"
-      ],
-      "albumId": "2Ip0kyHG3zLfmlPJWZsfLB",
+      "album": {
+        "id": "2Ip0kyHG3zLfmlPJWZsfLB",
+        "name": "Living Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e02500b8a5da9e1eb7507f11404"
+      },
       "release_date": "1988-10-28",
       "popularity": 64
     },
     {
-      "trackId": "1a9rZyDXVfvyAQQvp63gHc",
-      "name": "Naked",
+      "track": {
+        "id": "1a9rZyDXVfvyAQQvp63gHc",
+        "name": "Naked"
+      },
       "duration_ms": 204509,
-      "artist": [
-        "Elin Bergman"
+      "artists": [
+        {
+          "name": "Elin Bergman",
+          "id": "409nAcccg5ZbLtXMwrZRwf"
+        }
       ],
-      "artistId": [
-        "409nAcccg5ZbLtXMwrZRwf"
-      ],
-      "albumId": "0RMFyNDiJO9BDWNqaANe9f",
+      "album": {
+        "id": "0RMFyNDiJO9BDWNqaANe9f",
+        "name": "Naked",
+        "img": "https://i.scdn.co/image/ab67616d00001e026aa1e35eee77ddad3e4f0427"
+      },
       "release_date": "2016-11-04",
       "popularity": 26
     },
     {
-      "trackId": "0zdAkvEVUQZemTt0W3dO5i",
-      "name": "Breaking Free - (Karaoke Version) [In The Style Of Zac Efron & Vanessa Anne Hudgens] {From High School Musical}",
+      "track": {
+        "id": "0zdAkvEVUQZemTt0W3dO5i",
+        "name": "Breaking Free - (Karaoke Version) [In The Style Of Zac Efron & Vanessa Anne Hudgens] {From High School Musical}"
+      },
       "duration_ms": 205000,
-      "artist": [
-        "Karaoke Jukebox Heroes"
+      "artists": [
+        {
+          "name": "Karaoke Jukebox Heroes",
+          "id": "5cyEXZt5e0R0nkJhpegudD"
+        }
       ],
-      "artistId": [
-        "5cyEXZt5e0R0nkJhpegudD"
-      ],
-      "albumId": "6VJWcnvWpVewJDxLLncZcb",
+      "album": {
+        "id": "6VJWcnvWpVewJDxLLncZcb",
+        "name": "Karaoke: Movie Hits 2000's Vol. 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b35b24a9d100cd17d8f0415"
+      },
       "release_date": "2010-10-05",
       "popularity": 0
     },
     {
-      "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
-      "name": "Öppna landskap",
+      "track": {
+        "id": "1WVjxyTSZ5UiI6TlcHyUPh",
+        "name": "Öppna landskap"
+      },
       "duration_ms": 278333,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "7aB0bPRv2elnc0Ou1whaty",
+      "album": {
+        "id": "7aB0bPRv2elnc0Ou1whaty",
+        "name": "Öppna Landskap 7595",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cec4d71708dbf4f7f02f8a6a"
+      },
       "release_date": "1995",
       "popularity": 49
     },
     {
-      "trackId": "1OzrlK57iLTIjmbZC1ppWM",
-      "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
+      "track": {
+        "id": "1OzrlK57iLTIjmbZC1ppWM",
+        "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)"
+      },
       "duration_ms": 255933,
-      "artist": [
-        "Dionne Warwick",
-        "Elton John",
-        "Gladys Knight"
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "id": "2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Gladys Knight",
+          "id": "2aXiJJHJei5BmCykxI37y0"
+        }
       ],
-      "artistId": [
-        "2JSjCHK79gdaiPWdKiNUNp",
-        "3PhoLpVuITZKcymswpck5b",
-        "2aXiJJHJei5BmCykxI37y0"
-      ],
-      "albumId": "7IigfsyypJlb6NW6f9vSt7",
+      "album": {
+        "id": "7IigfsyypJlb6NW6f9vSt7",
+        "name": "Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c65840d117b54c8d2a6cd2a"
+      },
       "release_date": "1985",
       "popularity": 65
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "0WEH5Ca7GXdabT4W0M7Pw8",
-      "name": "What Time Is It",
+      "track": {
+        "id": "0WEH5Ca7GXdabT4W0M7Pw8",
+        "name": "What Time Is It"
+      },
       "duration_ms": 236373,
-      "artist": [
-        "High School Musical Cast"
+      "artists": [
+        {
+          "name": "High School Musical Cast",
+          "id": "2gUMs9PE8XZVQyzCDqaYmW"
+        }
       ],
-      "artistId": [
-        "2gUMs9PE8XZVQyzCDqaYmW"
-      ],
-      "albumId": "4RqH8Yxdj2mwyemvECgsyt",
+      "album": {
+        "id": "4RqH8Yxdj2mwyemvECgsyt",
+        "name": "High School Musical 2: Non-Stop Dance Party",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b88aa0ee5ebfe490437c08f"
+      },
       "release_date": "2007-01-01",
       "popularity": 30
     },
     {
-      "trackId": "18NvexPKVSCYXsa15jkXWQ",
-      "name": "Världsherravälde",
+      "track": {
+        "id": "18NvexPKVSCYXsa15jkXWQ",
+        "name": "Världsherravälde"
+      },
       "duration_ms": 237900,
-      "artist": [
-        "Raubtier"
+      "artists": [
+        {
+          "name": "Raubtier",
+          "id": "3nhhMoWycyLMmZydlwjk5z"
+        }
       ],
-      "artistId": [
-        "3nhhMoWycyLMmZydlwjk5z"
-      ],
-      "albumId": "5AN8exYsQjsebIQOYISG7H",
+      "album": {
+        "id": "5AN8exYsQjsebIQOYISG7H",
+        "name": "Skriet från vildmarken",
+        "img": "https://i.scdn.co/image/ab67616d00001e02311c6f92b0365dfa2f74004a"
+      },
       "release_date": "2010-09-22",
       "popularity": 35
     },
     {
-      "trackId": "4L9sdN5l6PvW3EZyP6sY7j",
-      "name": "I Am What I Am",
+      "track": {
+        "id": "4L9sdN5l6PvW3EZyP6sY7j",
+        "name": "I Am What I Am"
+      },
       "duration_ms": 207106,
-      "artist": [
-        "Gloria Gaynor"
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "id": "6V6WCgi7waF55bJmylC4H5"
+        }
       ],
-      "artistId": [
-        "6V6WCgi7waF55bJmylC4H5"
-      ],
-      "albumId": "3mn5uMVqqN1WPA2Jwd8lfk",
+      "album": {
+        "id": "3mn5uMVqqN1WPA2Jwd8lfk",
+        "name": "Gloria Gaynor '90 (All New Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274a9415776fe535089e85cf3"
+      },
       "release_date": "1990",
       "popularity": 52
     },
     {
-      "trackId": "0HU5JnVaKNTWf6GykV9Zn8",
-      "name": "Circle of Life - From \"The Lion King\"/ Soundtrack",
+      "track": {
+        "id": "0HU5JnVaKNTWf6GykV9Zn8",
+        "name": "Circle of Life - From \"The Lion King\"/ Soundtrack"
+      },
       "duration_ms": 239146,
-      "artist": [
-        "Carmen Twillie",
-        "Lebo M."
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "id": "6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "id": "0zp9qNDSeYi3QEodhcKAAA"
+        }
       ],
-      "artistId": [
-        "6O3ZB5Cz5CNT3wQWouKcNJ",
-        "0zp9qNDSeYi3QEodhcKAAA"
-      ],
-      "albumId": "3YA5DdB3wSz4pdfEXoMyRd",
+      "album": {
+        "id": "3YA5DdB3wSz4pdfEXoMyRd",
+        "name": "The Lion King",
+        "img": "https://i.scdn.co/image/ab67616d00001e02660aadbda2da6b1c2dd3d1a5"
+      },
       "release_date": "1994-01-01",
       "popularity": 67
     }

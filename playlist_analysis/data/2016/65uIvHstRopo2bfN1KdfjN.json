@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/dabc8b4c-5fa1-4864-86d8-af7d3e712ba2.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "32NgocBSCjK5t1Wl2kJZW0",
-      "name": "Koppången",
+      "track": {
+        "id": "32NgocBSCjK5t1Wl2kJZW0",
+        "name": "Koppången"
+      },
       "duration_ms": 199173,
-      "artist": [
-        "Kalle Moraeus",
-        "Hej Kalle"
+      "artists": [
+        {
+          "name": "Kalle Moraeus",
+          "id": "1NDYAcgpsX4ony5CD0QIxW"
+        },
+        {
+          "name": "Hej Kalle",
+          "id": "34wBAD2zSdlVJI64dXZSTY"
+        }
       ],
-      "artistId": [
-        "1NDYAcgpsX4ony5CD0QIxW",
-        "34wBAD2zSdlVJI64dXZSTY"
-      ],
-      "albumId": "31eMRvnCNt2tFVboTZiTYR",
+      "album": {
+        "id": "31eMRvnCNt2tFVboTZiTYR",
+        "name": "Bitå",
+        "img": "https://i.scdn.co/image/ab67616d00001e020830bd2c5a1d590700ecfe82"
+      },
       "release_date": "2003-01-01",
       "popularity": 29
     },
     {
-      "trackId": "18GiV1BaXzPVYpp9rmOg0E",
-      "name": "Blowin' in the Wind",
+      "track": {
+        "id": "18GiV1BaXzPVYpp9rmOg0E",
+        "name": "Blowin' in the Wind"
+      },
       "duration_ms": 165426,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "0o1uFxZ1VTviqvNaYkTJek",
+      "album": {
+        "id": "0o1uFxZ1VTviqvNaYkTJek",
+        "name": "The Freewheelin' Bob Dylan",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d214af8499aa95ad220f573"
+      },
       "release_date": "1963-05-27",
       "popularity": 68
     },
     {
-      "trackId": "49CcYj1bsJ0fjkICI8hIrR",
-      "name": "Jag vill tacka Livet",
+      "track": {
+        "id": "49CcYj1bsJ0fjkICI8hIrR",
+        "name": "Jag vill tacka Livet"
+      },
       "duration_ms": 266040,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "6Ye4WhlxwRkxAyyF1frCdi",
+      "album": {
+        "id": "6Ye4WhlxwRkxAyyF1frCdi",
+        "name": "Jag vill tacka livet - 13 sånger av Violeta Parra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f92f9109892c50471f98257e"
+      },
       "release_date": "1979",
       "popularity": 24
     },
     {
-      "trackId": "2LXIDbMQe5KEvJ0g31vA8C",
-      "name": "Det gåtfulla folket",
+      "track": {
+        "id": "2LXIDbMQe5KEvJ0g31vA8C",
+        "name": "Det gåtfulla folket"
+      },
       "duration_ms": 215173,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "1LcBO0r324MVgi8nxEZrMQ",
+      "album": {
+        "id": "1LcBO0r324MVgi8nxEZrMQ",
+        "name": "Gamla fina låtar 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02072c5a8dc39c57a7c65c6003"
+      },
       "release_date": "1991-01-01",
       "popularity": 34
     },
     {
-      "trackId": "4g4DOH7DYL5xHv6kDgugtc",
-      "name": "Peer Gynt, Op. 23: Act III, 11, Solvejg's Song",
+      "track": {
+        "id": "4g4DOH7DYL5xHv6kDgugtc",
+        "name": "Peer Gynt, Op. 23: Act III, 11, Solvejg's Song"
+      },
       "duration_ms": 349000,
-      "artist": [
-        "Edvard Grieg",
-        "Esa-Pekka Salonen"
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "id": "5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        }
       ],
-      "artistId": [
-        "5ihY290YPGc3aY2xTyx7Gy",
-        "3ilNZUdmNZ2nUcuAOIpsQl"
-      ],
-      "albumId": "1z7lPvtHPcle8vJWxx3DOW",
+      "album": {
+        "id": "1z7lPvtHPcle8vJWxx3DOW",
+        "name": "Grieg: Peer Gynt, Op. 23 (Excerpts)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a2df1e78ab0cba03cb34794"
+      },
       "release_date": "2018-05-04",
       "popularity": 8
     },
     {
-      "trackId": "4pBLZcgkOPdEBVmMey38Yb",
-      "name": "Omkring tiggarn från Luossa",
+      "track": {
+        "id": "4pBLZcgkOPdEBVmMey38Yb",
+        "name": "Omkring tiggarn från Luossa"
+      },
       "duration_ms": 290706,
-      "artist": [
-        "Thorstein Bergman"
+      "artists": [
+        {
+          "name": "Thorstein Bergman",
+          "id": "6RN0Wp8CBr7bij8JzB1qG2"
+        }
       ],
-      "artistId": [
-        "6RN0Wp8CBr7bij8JzB1qG2"
-      ],
-      "albumId": "4RPQNZAY6UPKdm6xoRBB5W",
+      "album": {
+        "id": "4RPQNZAY6UPKdm6xoRBB5W",
+        "name": "Diamanter",
+        "img": "https://i.scdn.co/image/ab67616d00001e0291a7ebd420e0ff8ff35f11d9"
+      },
       "release_date": "2004",
       "popularity": 1
     },
     {
-      "trackId": "7mvx5caN2eiriQQWW3kRHT",
-      "name": "Konvaljens avsked",
+      "track": {
+        "id": "7mvx5caN2eiriQQWW3kRHT",
+        "name": "Konvaljens avsked"
+      },
       "duration_ms": 182093,
-      "artist": [
-        "Bertil Boo"
+      "artists": [
+        {
+          "name": "Bertil Boo",
+          "id": "3TiAFGZ9ZwmEPnFVtZyXQS"
+        }
       ],
-      "artistId": [
-        "3TiAFGZ9ZwmEPnFVtZyXQS"
-      ],
-      "albumId": "0SdzUd607LFvkZFAec7NYJ",
+      "album": {
+        "id": "0SdzUd607LFvkZFAec7NYJ",
+        "name": "Minnenas Musik Vol.2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de758192251e8ad6e556447d"
+      },
       "release_date": "2000-01-01",
       "popularity": 14
     },
     {
-      "trackId": "5fE0W3qQiybOfvlkaLcOk1",
-      "name": "Romans, Ur Pastoralsvit, Op. 19",
+      "track": {
+        "id": "5fE0W3qQiybOfvlkaLcOk1",
+        "name": "Romans, Ur Pastoralsvit, Op. 19"
+      },
       "duration_ms": 281600,
-      "artist": [
-        "Stockholms Filharmoniska Orkester/Ulf Björlin"
+      "artists": [
+        {
+          "name": "Stockholms Filharmoniska Orkester/Ulf Björlin",
+          "id": "5NQWPjYTpZVu1YkxChBcqX"
+        }
       ],
-      "artistId": [
-        "5NQWPjYTpZVu1YkxChBcqX"
-      ],
-      "albumId": "7HUKTP7QFZrpGX4fcOVuLQ",
+      "album": {
+        "id": "7HUKTP7QFZrpGX4fcOVuLQ",
+        "name": "The Best Loved Swedish Music And Folk Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e72bcba056d758629b48970c"
+      },
       "release_date": "2005-05-25",
       "popularity": 15
     },
     {
-      "trackId": "3x8QuJyjUnr38WnSwjVaBn",
-      "name": "European Union Hymn Of Europe, \"Come, Sing A Song Of Joy For Peace…\"",
+      "track": {
+        "id": "3x8QuJyjUnr38WnSwjVaBn",
+        "name": "European Union Hymn Of Europe, \"Come, Sing A Song Of Joy For Peace…\""
+      },
       "duration_ms": 63040,
-      "artist": [
-        "Slovak Radio Symphony Orchestra",
-        "Peter Breiner",
-        "Various Artists"
+      "artists": [
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "id": "428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Peter Breiner",
+          "id": "50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Various Artists",
+          "id": "0LyfQWJT6nXafLPZqxe9Of"
+        }
       ],
-      "artistId": [
-        "428GNN7qZnTsMaK3SfPo6D",
-        "50MREZ0LJcSvrtKuyTV8Su",
-        "0LyfQWJT6nXafLPZqxe9Of"
-      ],
-      "albumId": "0U1oPI8TmFBj6Rv7PnAN1p",
+      "album": {
+        "id": "0U1oPI8TmFBj6Rv7PnAN1p",
+        "name": "National Anthems Of The World, Vol. 2: Cambodia - France",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b2725233403f138247b5ac3"
+      },
       "release_date": "1998-02-04",
       "popularity": 53
     },
     {
-      "trackId": "65t4Xt7IIv9RZmHapJztU5",
-      "name": "Jag Vill Leva I Europa",
+      "track": {
+        "id": "65t4Xt7IIv9RZmHapJztU5",
+        "name": "Jag Vill Leva I Europa"
+      },
       "duration_ms": 371466,
-      "artist": [
-        "Jan Hammarlund"
+      "artists": [
+        {
+          "name": "Jan Hammarlund",
+          "id": "1m0h7qDJLGrDEHAmEvtt6T"
+        }
       ],
-      "artistId": [
-        "1m0h7qDJLGrDEHAmEvtt6T"
-      ],
-      "albumId": "5arsoHpPRfJPZdgP5r6GSW",
+      "album": {
+        "id": "5arsoHpPRfJPZdgP5r6GSW",
+        "name": "1972-92",
+        "img": "https://i.scdn.co/image/ab67616d00001e024403c52e19c7611760ee5626"
+      },
       "release_date": "1992",
       "popularity": 19
     },
     {
-      "trackId": "2ZrzaGLxEeiqkWgbQm2Jvi",
-      "name": "Cavalleria Rusticana: \"Intermezzo\" - Arr. for Two Cellos",
+      "track": {
+        "id": "2ZrzaGLxEeiqkWgbQm2Jvi",
+        "name": "Cavalleria Rusticana: \"Intermezzo\" - Arr. for Two Cellos"
+      },
       "duration_ms": 196266,
-      "artist": [
-        "Pietro Mascagni",
-        "Mr & Mrs Cello"
+      "artists": [
+        {
+          "name": "Pietro Mascagni",
+          "id": "3Z5fRknMBBNfCw6pkgR9S8"
+        },
+        {
+          "name": "Mr & Mrs Cello",
+          "id": "4jz8YHLI2bBgGBhZ2LRgF7"
+        }
       ],
-      "artistId": [
-        "3Z5fRknMBBNfCw6pkgR9S8",
-        "4jz8YHLI2bBgGBhZ2LRgF7"
-      ],
-      "albumId": "4K32UU40hxdjpZx3ewVq9M",
+      "album": {
+        "id": "4K32UU40hxdjpZx3ewVq9M",
+        "name": "Cavalleria Rusticana: \"Intermezzo\" (Arr. for Two Cellos)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9067615bfb083d213877d5c"
+      },
       "release_date": "2020-11-20",
       "popularity": 30
     },
     {
-      "trackId": "5zMpGzZPsgOWJGVG9YzKia",
-      "name": "Höstvisa",
+      "track": {
+        "id": "5zMpGzZPsgOWJGVG9YzKia",
+        "name": "Höstvisa"
+      },
       "duration_ms": 209000,
-      "artist": [
-        "Cumulus"
+      "artists": [
+        {
+          "name": "Cumulus",
+          "id": "453SReS55opNWqjlRBI7KC"
+        }
       ],
-      "artistId": [
-        "453SReS55opNWqjlRBI7KC"
-      ],
-      "albumId": "4H9hU6nrhcYBHvapL8gqNR",
+      "album": {
+        "id": "4H9hU6nrhcYBHvapL8gqNR",
+        "name": "Cumulus",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208b511512506ef977579d170"
+      },
       "release_date": "1977",
       "popularity": 24
     }

@@ -7,198 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531073_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "61bZ571hSa84MGZdaDAQAB",
-      "name": "Moonlight Serenade",
+      "track": {
+        "id": "61bZ571hSa84MGZdaDAQAB",
+        "name": "Moonlight Serenade"
+      },
       "duration_ms": 181040,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "6SESAIqP8sQTVp0ZRVcdOq",
+      "album": {
+        "id": "6SESAIqP8sQTVp0ZRVcdOq",
+        "name": "Sings Sweet Songs For Swingers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee717b7780dd30cee28bca1e"
+      },
       "release_date": "1958-01-01",
       "popularity": 45
     },
     {
-      "trackId": "6iMNOaj5Q5mEpu6IW6djGh",
-      "name": "Eld blir glöd",
+      "track": {
+        "id": "6iMNOaj5Q5mEpu6IW6djGh",
+        "name": "Eld blir glöd"
+      },
       "duration_ms": 201200,
-      "artist": [
-        "Linda Pira",
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Linda Pira",
+          "id": "0qeei9KQnptjwb8MgkqEoy"
+        },
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "0qeei9KQnptjwb8MgkqEoy",
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "3tL5BTnp3hxQW7NCfDpk36",
+      "album": {
+        "id": "3tL5BTnp3hxQW7NCfDpk36",
+        "name": "Matriarken",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ddfc92158d19a0e78faa738"
+      },
       "release_date": "2013-01-01",
       "popularity": 13
     },
     {
-      "trackId": "1oPu9jgDpFz9oBUlKqtjxI",
-      "name": "Ingen kommer undan politiken",
+      "track": {
+        "id": "1oPu9jgDpFz9oBUlKqtjxI",
+        "name": "Ingen kommer undan politiken"
+      },
       "duration_ms": 176560,
-      "artist": [
-        "Marie Bergman"
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "id": "1EF9hLul0ZZcbh7dmXWF99"
+        }
       ],
-      "artistId": [
-        "1EF9hLul0ZZcbh7dmXWF99"
-      ],
-      "albumId": "2rmw3Hmnj5NU3QLwwVI2Cy",
+      "album": {
+        "id": "2rmw3Hmnj5NU3QLwwVI2Cy",
+        "name": "Närma mej",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213949911d36b48458679ac1e"
+      },
       "release_date": "1977",
       "popularity": 37
     },
     {
-      "trackId": "6LCEyZZHFF4ebF1Mike1s5",
-      "name": "Not Ready to Make Nice",
+      "track": {
+        "id": "6LCEyZZHFF4ebF1Mike1s5",
+        "name": "Not Ready to Make Nice"
+      },
       "duration_ms": 237296,
-      "artist": [
-        "The Chicks"
+      "artists": [
+        {
+          "name": "The Chicks",
+          "id": "25IG9fa7cbdmCIy3OnuH57"
+        }
       ],
-      "artistId": [
-        "25IG9fa7cbdmCIy3OnuH57"
-      ],
-      "albumId": "2NeJdEWras0uSuzLPlJZk5",
+      "album": {
+        "id": "2NeJdEWras0uSuzLPlJZk5",
+        "name": "Taking The Long Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289ccaf21947f7929189654dc"
+      },
       "release_date": "2006-05-23",
       "popularity": 62
     },
     {
-      "trackId": "13bIcRR2JjzG0VuEbBPqcY",
-      "name": "Union - Radio Edit",
+      "track": {
+        "id": "13bIcRR2JjzG0VuEbBPqcY",
+        "name": "Union - Radio Edit"
+      },
       "duration_ms": 236493,
-      "artist": [
-        "Rebecca & Fiona"
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "id": "6rgEPiKjowlMKZC1DF6W75"
+        }
       ],
-      "artistId": [
-        "6rgEPiKjowlMKZC1DF6W75"
-      ],
-      "albumId": "0n0kONeE9MT6y4YX3kMou9",
+      "album": {
+        "id": "0n0kONeE9MT6y4YX3kMou9",
+        "name": "Union",
+        "img": "https://i.scdn.co/image/ab67616d00001e021fee971250d148e285efa830"
+      },
       "release_date": "2013-01-01",
       "popularity": 17
     },
     {
-      "trackId": "2bfRfAO1RNWcpNtWJv042o",
-      "name": "Some Die Young",
+      "track": {
+        "id": "2bfRfAO1RNWcpNtWJv042o",
+        "name": "Some Die Young"
+      },
       "duration_ms": 228066,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "1YqHIqrWx3eopxKFPqjqhT",
+      "album": {
+        "id": "1YqHIqrWx3eopxKFPqjqhT",
+        "name": "Sjung",
+        "img": "https://i.scdn.co/image/ab67616d00001e026494a5592cca561ea52f6541"
+      },
       "release_date": "2012-01-10",
       "popularity": 53
     },
     {
-      "trackId": "18WswjCcjs3vmz4qWNOrSC",
-      "name": "Oh Bondage, Up Yours!",
+      "track": {
+        "id": "18WswjCcjs3vmz4qWNOrSC",
+        "name": "Oh Bondage, Up Yours!"
+      },
       "duration_ms": 169760,
-      "artist": [
-        "X-Ray Spex"
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "id": "5BgWMOdEUJYdUBH3WXfMWt"
+        }
       ],
-      "artistId": [
-        "5BgWMOdEUJYdUBH3WXfMWt"
-      ],
-      "albumId": "3jnQzZuyVOAgtlHWlTST1W",
+      "album": {
+        "id": "3jnQzZuyVOAgtlHWlTST1W",
+        "name": "Never Trust A Hippy (Punk & New Wave '76 - '79)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238d86e0e22a61c080451c389"
+      },
       "release_date": "2013-01-01",
       "popularity": 38
     },
     {
-      "trackId": "5Xbz4CnMeGQOXOa3FKm0y4",
-      "name": "Fritiof och Carmencita",
+      "track": {
+        "id": "5Xbz4CnMeGQOXOa3FKm0y4",
+        "name": "Fritiof och Carmencita"
+      },
       "duration_ms": 182800,
-      "artist": [
-        "Alice Babs",
-        "Bengt Hallberg",
-        "Lasse Petersson"
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "id": "3omPckNeXtMpCdOXVfcOST"
+        },
+        {
+          "name": "Bengt Hallberg",
+          "id": "5q3Zh4BS8gJVpcrcGOhk8J"
+        },
+        {
+          "name": "Lasse Petersson",
+          "id": "4GUS22aaq2QjgrFqMQ1joa"
+        }
       ],
-      "artistId": [
-        "3omPckNeXtMpCdOXVfcOST",
-        "5q3Zh4BS8gJVpcrcGOhk8J",
-        "4GUS22aaq2QjgrFqMQ1joa"
-      ],
-      "albumId": "1b5cQ3Qv2qVfvETbGShAxc",
+      "album": {
+        "id": "1b5cQ3Qv2qVfvETbGShAxc",
+        "name": "Vi minns Alice Babs 1924-2014: Det är sommar. Lätta bitar med Alice Babs",
+        "img": "https://i.scdn.co/image/ab67616d00001e0288412cc9f1ed0253979e9cd4"
+      },
       "release_date": "2014-09-08",
       "popularity": 3
     },
     {
-      "trackId": "2ud1FKHG6KdHodrrUPyGnp",
-      "name": "Parsifal, WWV 111 / Act 2: \"Amfortas! Die Wunde!\"",
+      "track": {
+        "id": "2ud1FKHG6KdHodrrUPyGnp",
+        "name": "Parsifal, WWV 111 / Act 2: \"Amfortas! Die Wunde!\""
+      },
       "duration_ms": 481226,
-      "artist": [
-        "Richard Wagner",
-        "Birgit Nilsson",
-        "Helge Brilioth"
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "id": "1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Birgit Nilsson",
+          "id": "6ljM6B2XmSU7BtG3tZLQ1K"
+        },
+        {
+          "name": "Helge Brilioth",
+          "id": "6kavSs0vSt5nXhOewPfqHY"
+        }
       ],
-      "artistId": [
-        "1C1x4MVkql8AiABuTw6DgE",
-        "6ljM6B2XmSU7BtG3tZLQ1K",
-        "6kavSs0vSt5nXhOewPfqHY"
-      ],
-      "albumId": "3qZNnwqinxSNNMERAaAmWp",
+      "album": {
+        "id": "3qZNnwqinxSNNMERAaAmWp",
+        "name": "Wagner: Duets from Parsifal & Die Walküre",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242171ae11c37bcb15deffae0"
+      },
       "release_date": "1974-03-04",
       "popularity": 0
     },
     {
-      "trackId": "733ncRLzZQT5UtSPg1QmPc",
-      "name": "Sober",
+      "track": {
+        "id": "733ncRLzZQT5UtSPg1QmPc",
+        "name": "Sober"
+      },
       "duration_ms": 251533,
-      "artist": [
-        "P!nk"
+      "artists": [
+        {
+          "name": "P!nk",
+          "id": "1KCSPY1glIKqW2TotWuXOR"
+        }
       ],
-      "artistId": [
-        "1KCSPY1glIKqW2TotWuXOR"
-      ],
-      "albumId": "1LOJfNDxQhbpssKx7oM7at",
+      "album": {
+        "id": "1LOJfNDxQhbpssKx7oM7at",
+        "name": "Funhouse (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a45d5041e4ffcb9f756f740"
+      },
       "release_date": "2008-10-24",
       "popularity": 64
     },
     {
-      "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
-      "name": "Because the Night",
+      "track": {
+        "id": "0lIoY4ZQsdn5QzhraM9o9u",
+        "name": "Because the Night"
+      },
       "duration_ms": 204800,
-      "artist": [
-        "Patti Smith"
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "id": "0vYkHhJ48Bs3jWcvZXvOrP"
+        }
       ],
-      "artistId": [
-        "0vYkHhJ48Bs3jWcvZXvOrP"
-      ],
-      "albumId": "1p6cWoueuunhpgy6131zAd",
+      "album": {
+        "id": "1p6cWoueuunhpgy6131zAd",
+        "name": "Easter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a"
+      },
       "release_date": "1978",
       "popularity": 69
     },
     {
-      "trackId": "2UT3iEU7uQAXNUxCKfiZAj",
-      "name": "Dancing on My Own",
+      "track": {
+        "id": "2UT3iEU7uQAXNUxCKfiZAj",
+        "name": "Dancing on My Own"
+      },
       "duration_ms": 288670,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0uQvFZsNoC7MZpcZZLtlYs",
+      "album": {
+        "id": "0uQvFZsNoC7MZpcZZLtlYs",
+        "name": "Body Talk, Pt.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a9b4d6c5fb4461ed90c200a"
+      },
       "release_date": "2010-01-01",
       "popularity": 55
     },
     {
-      "trackId": "6m1o0GrUB2XLuBY2283mwz",
-      "name": "När en röd ros slår ut doftar hela skogen",
+      "track": {
+        "id": "6m1o0GrUB2XLuBY2283mwz",
+        "name": "När en röd ros slår ut doftar hela skogen"
+      },
       "duration_ms": 506133,
-      "artist": [
-        "Eva Dahlgren",
-        "Anders Hillborg",
-        "Esa-Pekka Salonen"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        },
+        {
+          "name": "Anders Hillborg",
+          "id": "6FJvb2eSpRIXvmvp1aAw7y"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0",
-        "6FJvb2eSpRIXvmvp1aAw7y",
-        "3ilNZUdmNZ2nUcuAOIpsQl"
-      ],
-      "albumId": "7CLwbwJZeQNgg5rNfBoblI",
+      "album": {
+        "id": "7CLwbwJZeQNgg5rNfBoblI",
+        "name": "Jag vill se min älskade komma från det vilda",
+        "img": "https://i.scdn.co/image/ab67616d00001e02692e1992cc64203787f3e05b"
+      },
       "release_date": "1995-09-22",
       "popularity": 15
     }

@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3298596_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7o2CTH4ctstm8TNelqjb51",
-      "name": "Sweet Child O' Mine",
+      "track": {
+        "id": "7o2CTH4ctstm8TNelqjb51",
+        "name": "Sweet Child O' Mine"
+      },
       "duration_ms": 354520,
-      "artist": [
-        "Guns N' Roses"
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC"
+        }
       ],
-      "artistId": [
-        "3qm84nBOXUEQ2vnTfUTTFC"
-      ],
-      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "album": {
+        "id": "3I9Z1nDCL4E0cP62flcbI5",
+        "name": "Appetite For Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60"
+      },
       "release_date": "1987-07-21",
       "popularity": 83
     },
     {
-      "trackId": "0gzqZ9d1jIKo9psEIthwXe",
-      "name": "Beautiful Day",
+      "track": {
+        "id": "0gzqZ9d1jIKo9psEIthwXe",
+        "name": "Beautiful Day"
+      },
       "duration_ms": 248400,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "7a5U0GPoAvT3gvEY66FRuN",
+      "album": {
+        "id": "7a5U0GPoAvT3gvEY66FRuN",
+        "name": "All That You Can't Leave Behind",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238fa0dfe55b1ff2e8c962bae"
+      },
       "release_date": "2000-01-01",
       "popularity": 73
     },
     {
-      "trackId": "0fmQ692NrBq51GSFVNV3og",
-      "name": "Visa vid vindens ängar",
+      "track": {
+        "id": "0fmQ692NrBq51GSFVNV3og",
+        "name": "Visa vid vindens ängar"
+      },
       "duration_ms": 314293,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "58nibN4cRCN643kIiqIG5W",
+      "album": {
+        "id": "58nibN4cRCN643kIiqIG5W",
+        "name": "Luften bor i mina steg",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d30b1b866c0169bc4b4dee56"
+      },
       "release_date": "2002",
       "popularity": 52
     },
     {
-      "trackId": "7aZr5C8iEDyIo5pzF4tm0K",
-      "name": "Tommy",
+      "track": {
+        "id": "7aZr5C8iEDyIo5pzF4tm0K",
+        "name": "Tommy"
+      },
       "duration_ms": 327706,
-      "artist": [
-        "Janne Önnerud"
+      "artists": [
+        {
+          "name": "Janne Önnerud",
+          "id": "5Npx9c8ieBhQGMQ2z0TaPe"
+        }
       ],
-      "artistId": [
-        "5Npx9c8ieBhQGMQ2z0TaPe"
-      ],
-      "albumId": "6x2OKAax77VhmzlVNtfzu6",
+      "album": {
+        "id": "6x2OKAax77VhmzlVNtfzu6",
+        "name": "Vänder hem",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286bcfa7a3ed96bc8986c4d12"
+      },
       "release_date": "1997",
       "popularity": 26
     },
     {
-      "trackId": "3ZttM3rNtLwXlD9weGLg8q",
-      "name": "Jonna-Lise",
+      "track": {
+        "id": "3ZttM3rNtLwXlD9weGLg8q",
+        "name": "Jonna-Lise"
+      },
       "duration_ms": 157130,
-      "artist": [
-        "PornoPer"
+      "artists": [
+        {
+          "name": "PornoPer",
+          "id": "2uopbZlYvszos7SfO8CVUs"
+        }
       ],
-      "artistId": [
-        "2uopbZlYvszos7SfO8CVUs"
-      ],
-      "albumId": "4yLZAoavCzwhh4jnemTvnE",
+      "album": {
+        "id": "4yLZAoavCzwhh4jnemTvnE",
+        "name": "Jonna-Lise",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f08889471417a4436e0f3e54"
+      },
       "release_date": "2021-04-30",
       "popularity": 26
     },
     {
-      "trackId": "4Mnab55p5RSU9ldpZWMVfk",
-      "name": "999",
+      "track": {
+        "id": "4Mnab55p5RSU9ldpZWMVfk",
+        "name": "999"
+      },
       "duration_ms": 413000,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "3OApHAjrkQTDjfCJPdtxgm",
+      "album": {
+        "id": "3OApHAjrkQTDjfCJPdtxgm",
+        "name": "Jag är inte rädd för mörkret",
+        "img": "https://i.scdn.co/image/ab67616d00001e023579e3561cae0c199e7eab3c"
+      },
       "release_date": "2012-01-01",
       "popularity": 42
     },
     {
-      "trackId": "0mfCvTcr6FKumDExzZAVMq",
-      "name": "Dolce Vita - Remake Edit",
+      "track": {
+        "id": "0mfCvTcr6FKumDExzZAVMq",
+        "name": "Dolce Vita - Remake Edit"
+      },
       "duration_ms": 254433,
-      "artist": [
-        "Ms Project",
-        "Ryan Paris"
+      "artists": [
+        {
+          "name": "Ms Project",
+          "id": "50UNYzE54UHXTUmgBXtZ4W"
+        },
+        {
+          "name": "Ryan Paris",
+          "id": "3nRifdQMP5925XSkIN07oC"
+        }
       ],
-      "artistId": [
-        "50UNYzE54UHXTUmgBXtZ4W",
-        "3nRifdQMP5925XSkIN07oC"
-      ],
-      "albumId": "2aDVajBVwWiuSfo6HeaYcp",
+      "album": {
+        "id": "2aDVajBVwWiuSfo6HeaYcp",
+        "name": "Dolce Vita 2010",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f89c1f5145822ed2bbe83673"
+      },
       "release_date": "2010-10-25",
       "popularity": 52
     },
     {
-      "trackId": "4snBTILMGyRKErKygwoDkE",
-      "name": "New York, New York",
+      "track": {
+        "id": "4snBTILMGyRKErKygwoDkE",
+        "name": "New York, New York"
+      },
       "duration_ms": 226693,
-      "artist": [
-        "Ryan Adams"
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "id": "2qc41rNTtdLK0tV3mJn2Pm"
+        }
       ],
-      "artistId": [
-        "2qc41rNTtdLK0tV3mJn2Pm"
-      ],
-      "albumId": "1tYlx93ShW1M8TiAVDJSKc",
+      "album": {
+        "id": "1tYlx93ShW1M8TiAVDJSKc",
+        "name": "Gold",
+        "img": "https://i.scdn.co/image/ab67616d00001e02994d80c6b0bdfd7649b5fd4c"
+      },
       "release_date": "2001-01-01",
       "popularity": 53
     },
     {
-      "trackId": "7M57AuAeA5M4lnWqpUGRIR",
-      "name": "Little Willie John - Version",
+      "track": {
+        "id": "7M57AuAeA5M4lnWqpUGRIR",
+        "name": "Little Willie John - Version"
+      },
       "duration_ms": 330240,
-      "artist": [
-        "Peter LeMarc"
+      "artists": [
+        {
+          "name": "Peter LeMarc",
+          "id": "4VKbol7eCoEJUemlKvE3Ve"
+        }
       ],
-      "artistId": [
-        "4VKbol7eCoEJUemlKvE3Ve"
-      ],
-      "albumId": "6xZEBi1qQoF2j4IkVYA5xO",
+      "album": {
+        "id": "6xZEBi1qQoF2j4IkVYA5xO",
+        "name": "LeMarc - Klassiker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3593a634876c6e748fa3424"
+      },
       "release_date": "1995-01-01",
       "popularity": 48
     },
     {
-      "trackId": "5vHlRVXcvqUSzK5MhMwpvM",
-      "name": "Zadok the Priest, HWV 258 (Arr. Mark Gaal for Brass Band) - Live",
+      "track": {
+        "id": "5vHlRVXcvqUSzK5MhMwpvM",
+        "name": "Zadok the Priest, HWV 258 (Arr. Mark Gaal for Brass Band) - Live"
+      },
       "duration_ms": 351400,
-      "artist": [
-        "George Frideric Handel",
-        "phil Blech Wien",
-        "Olivier Latry"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "phil Blech Wien",
+          "id": "410bwl5KY3g0beQbvYGhQJ"
+        },
+        {
+          "name": "Olivier Latry",
+          "id": "26hVc4pAHA9g5tO1bqEZ0k"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "410bwl5KY3g0beQbvYGhQJ",
-        "26hVc4pAHA9g5tO1bqEZ0k"
-      ],
-      "albumId": "1vb2gMrjs3zFrYjtdaEfcI",
+      "album": {
+        "id": "1vb2gMrjs3zFrYjtdaEfcI",
+        "name": "Händel: Zadok the Priest, HWV 258 (Arr. Mark Gaal for Brass Band) [Live]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0805f621aac340127b7248d"
+      },
       "release_date": "2022-04-29",
       "popularity": 15
     },
     {
-      "trackId": "6LCEyZZHFF4ebF1Mike1s5",
-      "name": "Not Ready to Make Nice",
+      "track": {
+        "id": "6LCEyZZHFF4ebF1Mike1s5",
+        "name": "Not Ready to Make Nice"
+      },
       "duration_ms": 237296,
-      "artist": [
-        "The Chicks"
+      "artists": [
+        {
+          "name": "The Chicks",
+          "id": "25IG9fa7cbdmCIy3OnuH57"
+        }
       ],
-      "artistId": [
-        "25IG9fa7cbdmCIy3OnuH57"
-      ],
-      "albumId": "2NeJdEWras0uSuzLPlJZk5",
+      "album": {
+        "id": "2NeJdEWras0uSuzLPlJZk5",
+        "name": "Taking The Long Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289ccaf21947f7929189654dc"
+      },
       "release_date": "2006-05-23",
       "popularity": 62
     },
     {
-      "trackId": "7meHf6NkIFeH9yJVyDkkZY",
-      "name": "Gå ut och var glad",
+      "track": {
+        "id": "7meHf6NkIFeH9yJVyDkkZY",
+        "name": "Gå ut och var glad"
+      },
       "duration_ms": 330986,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "6lHE46kJBBCdWKJfPzYs7Q",
+      "album": {
+        "id": "6lHE46kJBBCdWKJfPzYs7Q",
+        "name": "Club Zebra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4d911529cc9bce72fc8290e"
+      },
       "release_date": "2002",
       "popularity": 34
     },
     {
-      "trackId": "2ewLTjnHNFIMwF1Zsx3f0T",
-      "name": "The Longer The Waiting (The Sweeter The Kiss)",
+      "track": {
+        "id": "2ewLTjnHNFIMwF1Zsx3f0T",
+        "name": "The Longer The Waiting (The Sweeter The Kiss)"
+      },
       "duration_ms": 231133,
-      "artist": [
-        "Anna Ternheim",
-        "David Ferguson"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        },
+        {
+          "name": "David Ferguson",
+          "id": "4MHz2XUNNGuttl6Yj9OHeA"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308",
-        "4MHz2XUNNGuttl6Yj9OHeA"
-      ],
-      "albumId": "3n3p5tioTdiNksbGzTDImJ",
+      "album": {
+        "id": "3n3p5tioTdiNksbGzTDImJ",
+        "name": "The Night Visitor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0179ade788bd3479cdca552"
+      },
       "release_date": "2011-10-28",
       "popularity": 49
     },
     {
-      "trackId": "1Ty6h0UNBtWLCHR5rOc3KO",
-      "name": "Ludvig 2020",
+      "track": {
+        "id": "1Ty6h0UNBtWLCHR5rOc3KO",
+        "name": "Ludvig 2020"
+      },
       "duration_ms": 152191,
-      "artist": [
-        "Spesialstyrken",
-        "Effektiv"
+      "artists": [
+        {
+          "name": "Spesialstyrken",
+          "id": "4ge6BVfvTr07o1jau9iNyt"
+        },
+        {
+          "name": "Effektiv",
+          "id": "3QyoJDJ7VKcaULqkBH6fFV"
+        }
       ],
-      "artistId": [
-        "4ge6BVfvTr07o1jau9iNyt",
-        "3QyoJDJ7VKcaULqkBH6fFV"
-      ],
-      "albumId": "4gIRukKoxXOZxPwhjiH52D",
+      "album": {
+        "id": "4gIRukKoxXOZxPwhjiH52D",
+        "name": "Ludvig 2020",
+        "img": "https://i.scdn.co/image/ab67616d00001e02332de59e6c9311a4b1265f97"
+      },
       "release_date": "2020-02-24",
       "popularity": 32
     }

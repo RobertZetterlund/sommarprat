@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234101_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0wnRRFzKLDdI5jjvDP3lZV",
-      "name": "One Moment in Time - Remastered",
+      "track": {
+        "id": "0wnRRFzKLDdI5jjvDP3lZV",
+        "name": "One Moment in Time - Remastered"
+      },
       "duration_ms": 283520,
-      "artist": [
-        "Whitney Houston"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP"
-      ],
-      "albumId": "44mthU2qR57JhTbDeoBcby",
+      "album": {
+        "id": "44mthU2qR57JhTbDeoBcby",
+        "name": "The Ultimate Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b8ae85b74e8a7e8d198fc4f"
+      },
       "release_date": "2007-10-29",
       "popularity": 63
     },
     {
-      "trackId": "1OOtq8tRnDM8kG2gqUPjAj",
-      "name": "Beat It",
+      "track": {
+        "id": "1OOtq8tRnDM8kG2gqUPjAj",
+        "name": "Beat It"
+      },
       "duration_ms": 258040,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 81
     },
     {
-      "trackId": "5BckPAYcKEJuYs1eV1BHHe",
-      "name": "Take A Chance On Me",
+      "track": {
+        "id": "5BckPAYcKEJuYs1eV1BHHe",
+        "name": "Take A Chance On Me"
+      },
       "duration_ms": 243933,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5fLOHW1UXr1cJrnXiU3FBt",
+      "album": {
+        "id": "5fLOHW1UXr1cJrnXiU3FBt",
+        "name": "The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f705bef76c1d861c4d51d8c"
+      },
       "release_date": "1977",
       "popularity": 74
     },
     {
-      "trackId": "7twREud6QhjA9NmSvx83mG",
-      "name": "Genom ett regnigt Europa",
+      "track": {
+        "id": "7twREud6QhjA9NmSvx83mG",
+        "name": "Genom ett regnigt Europa"
+      },
       "duration_ms": 215293,
-      "artist": [
-        "Tomas Ledin"
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "id": "518rTAIFPwQjLUSi4Pdzzn"
+        }
       ],
-      "artistId": [
-        "518rTAIFPwQjLUSi4Pdzzn"
-      ],
-      "albumId": "2P3TPbHSZ43pHXbyrwZyhn",
+      "album": {
+        "id": "2P3TPbHSZ43pHXbyrwZyhn",
+        "name": "Tillfälligheternas spel",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e2d987177ffb76222a857ca"
+      },
       "release_date": "1990",
       "popularity": 38
     },
     {
-      "trackId": "70L4pGAmYv0pTADrgsIxpI",
-      "name": "Lullaby",
+      "track": {
+        "id": "70L4pGAmYv0pTADrgsIxpI",
+        "name": "Lullaby"
+      },
       "duration_ms": 329866,
-      "artist": [
-        "Shawn Mullins"
+      "artists": [
+        {
+          "name": "Shawn Mullins",
+          "id": "4TROLx8HvrnfGGNo2ngL2N"
+        }
       ],
-      "artistId": [
-        "4TROLx8HvrnfGGNo2ngL2N"
-      ],
-      "albumId": "0D5vG8Ue7MHe4TxRm2t9Z9",
+      "album": {
+        "id": "0D5vG8Ue7MHe4TxRm2t9Z9",
+        "name": "Soul's Core",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad4a9576a5b5d51aac4204ff"
+      },
       "release_date": "1998-09-15",
       "popularity": 53
     },
     {
-      "trackId": "6pPWRBubXOBAHnjl5ZIujB",
-      "name": "The Best",
+      "track": {
+        "id": "6pPWRBubXOBAHnjl5ZIujB",
+        "name": "The Best"
+      },
       "duration_ms": 329800,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "3hgAoHSmany3EiKL0Aqh3G",
+      "album": {
+        "id": "3hgAoHSmany3EiKL0Aqh3G",
+        "name": "Foreign Affair",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a04b4373fd72bf81c8784adf"
+      },
       "release_date": "1989-09-13",
       "popularity": 69
     },
     {
-      "trackId": "02acUMylPHMjJ9miDc9b38",
-      "name": "Ever the Same",
+      "track": {
+        "id": "02acUMylPHMjJ9miDc9b38",
+        "name": "Ever the Same"
+      },
       "duration_ms": 256600,
-      "artist": [
-        "Rob Thomas"
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "id": "3aBkeBhwadnWMWoVJ2CxJC"
+        }
       ],
-      "artistId": [
-        "3aBkeBhwadnWMWoVJ2CxJC"
-      ],
-      "albumId": "07hC5JSKAodpBIVR6A772E",
+      "album": {
+        "id": "07hC5JSKAodpBIVR6A772E",
+        "name": "Something to Be",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db3d7550e11f7a132fb81c9f"
+      },
       "release_date": "2005-04-05",
       "popularity": 58
     },
     {
-      "trackId": "1gVVSmhWjci8l9Vrsl6HaS",
-      "name": "Vertigo",
+      "track": {
+        "id": "1gVVSmhWjci8l9Vrsl6HaS",
+        "name": "Vertigo"
+      },
       "duration_ms": 193520,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5PQPur1PEZFDkI0AXbxFlB",
+      "album": {
+        "id": "5PQPur1PEZFDkI0AXbxFlB",
+        "name": "How To Dismantle An Atomic Bomb",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1c82c472d758f4945ac15a8"
+      },
       "release_date": "2004-01-01",
       "popularity": 64
     },
     {
-      "trackId": "0yac0FPhLRH9i9lOng3f81",
-      "name": "Everybody's Changing",
+      "track": {
+        "id": "0yac0FPhLRH9i9lOng3f81",
+        "name": "Everybody's Changing"
+      },
       "duration_ms": 215880,
-      "artist": [
-        "Keane"
+      "artists": [
+        {
+          "name": "Keane",
+          "id": "53A0W3U0s8diEn9RhXQhVz"
+        }
       ],
-      "artistId": [
-        "53A0W3U0s8diEn9RhXQhVz"
-      ],
-      "albumId": "0MlTOiC5ZYKFGeZ8h3D4rd",
+      "album": {
+        "id": "0MlTOiC5ZYKFGeZ8h3D4rd",
+        "name": "Hopes And Fears",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d6cd95a046a3c0dacbc7d33"
+      },
       "release_date": "2004-05-10",
       "popularity": 73
     },
     {
-      "trackId": "0BgDe2FYEDMuxPI0OEBJCj",
-      "name": "Say",
+      "track": {
+        "id": "0BgDe2FYEDMuxPI0OEBJCj",
+        "name": "Say"
+      },
       "duration_ms": 229226,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "6quJl7zugek1Q8fWRi6Lpn",
+      "album": {
+        "id": "6quJl7zugek1Q8fWRi6Lpn",
+        "name": "The Essential 00's Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f310b04bb7ae2b8af543862f"
+      },
       "release_date": "2009-08-06",
       "popularity": 41
     },
     {
-      "trackId": "1uUyXnaxpISjtrYhcltvXr",
-      "name": "Little Wonders",
+      "track": {
+        "id": "1uUyXnaxpISjtrYhcltvXr",
+        "name": "Little Wonders"
+      },
       "duration_ms": 226533,
-      "artist": [
-        "Rob Thomas"
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "id": "3aBkeBhwadnWMWoVJ2CxJC"
+        }
       ],
-      "artistId": [
-        "3aBkeBhwadnWMWoVJ2CxJC"
-      ],
-      "albumId": "2aHjHAP6yfSTMBWhcsJY31",
+      "album": {
+        "id": "2aHjHAP6yfSTMBWhcsJY31",
+        "name": "Meet The Robinsons Original Soundtrack (Polish Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025bf1ea67d773295c0f9b5877"
+      },
       "release_date": "2007-01-01",
       "popularity": 48
     },
     {
-      "trackId": "6avyV3xlz2UFeiAUZ0SqyT",
-      "name": "The Time of My Life",
+      "track": {
+        "id": "6avyV3xlz2UFeiAUZ0SqyT",
+        "name": "The Time of My Life"
+      },
       "duration_ms": 216146,
-      "artist": [
-        "David Cook"
+      "artists": [
+        {
+          "name": "David Cook",
+          "id": "4SQxI8xg6LcSWL3KuGVHLa"
+        }
       ],
-      "artistId": [
-        "4SQxI8xg6LcSWL3KuGVHLa"
-      ],
-      "albumId": "4MJcuG31fFG8rimuSCvJyx",
+      "album": {
+        "id": "4MJcuG31fFG8rimuSCvJyx",
+        "name": "David Cook",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208873c3a0de3f455f07d904a"
+      },
       "release_date": "2008-11-18",
       "popularity": 54
     }

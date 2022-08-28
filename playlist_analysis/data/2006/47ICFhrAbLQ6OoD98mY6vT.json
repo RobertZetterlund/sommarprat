@@ -7,230 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243897_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2bCQHF9gdG5BNDVuEIEnNk",
-      "name": "Smooth Criminal - 2012 Remaster",
+      "track": {
+        "id": "2bCQHF9gdG5BNDVuEIEnNk",
+        "name": "Smooth Criminal - 2012 Remaster"
+      },
       "duration_ms": 257760,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "24TAupSNVWSAHL0R7n71vm",
+      "album": {
+        "id": "24TAupSNVWSAHL0R7n71vm",
+        "name": "Bad 25th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bb21d27effb96a1d0fe8d6d"
+      },
       "release_date": "1987-08-31",
       "popularity": 78
     },
     {
-      "trackId": "5d4E1hgkLyb7sXr5J3InnM",
-      "name": "You Needed Me",
+      "track": {
+        "id": "5d4E1hgkLyb7sXr5J3InnM",
+        "name": "You Needed Me"
+      },
       "duration_ms": 220266,
-      "artist": [
-        "Anne Murray"
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "id": "7d7q5Y1p2QWS4QRAhTQR5E"
+        }
       ],
-      "artistId": [
-        "7d7q5Y1p2QWS4QRAhTQR5E"
-      ],
-      "albumId": "5cLFy5cKLjOetxzo5micoR",
+      "album": {
+        "id": "5cLFy5cKLjOetxzo5micoR",
+        "name": "Let's Keep It That Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9c1d548dd167f2a87182ceb"
+      },
       "release_date": "1978",
       "popularity": 65
     },
     {
-      "trackId": "4WLQSMXHfInmR9CyedG5mt",
-      "name": "Hans och Greta, del 10",
+      "track": {
+        "id": "4WLQSMXHfInmR9CyedG5mt",
+        "name": "Hans och Greta, del 10"
+      },
       "duration_ms": 35786,
-      "artist": [
-        "Staffan Götestam",
-        "Sagor för barn",
-        "Barnsagor"
+      "artists": [
+        {
+          "name": "Staffan Götestam",
+          "id": "202pmKkjpqMn8A188RW9EI"
+        },
+        {
+          "name": "Sagor för barn",
+          "id": "5fhBw0J0vB8k6FrezwEDqa"
+        },
+        {
+          "name": "Barnsagor",
+          "id": "5vgdCeIDJrz7dlvjQPPUxj"
+        }
       ],
-      "artistId": [
-        "202pmKkjpqMn8A188RW9EI",
-        "5fhBw0J0vB8k6FrezwEDqa",
-        "5vgdCeIDJrz7dlvjQPPUxj"
-      ],
-      "albumId": "0fqL5nZScUnZn9yz1d4vAW",
+      "album": {
+        "id": "0fqL5nZScUnZn9yz1d4vAW",
+        "name": "Hans och Greta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a59a39daf8771d89d3d7008c"
+      },
       "release_date": "2018-03-16",
       "popularity": 13
     },
     {
-      "trackId": "5QuBsgbjQHpwfiV7aIwvQV",
-      "name": "Get Here",
+      "track": {
+        "id": "5QuBsgbjQHpwfiV7aIwvQV",
+        "name": "Get Here"
+      },
       "duration_ms": 274693,
-      "artist": [
-        "Oleta Adams"
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "id": "1BMb6sQJVkmUyCuodmRs2g"
+        }
       ],
-      "artistId": [
-        "1BMb6sQJVkmUyCuodmRs2g"
-      ],
-      "albumId": "0AXqyNdhstfyZyVjjJMszO",
+      "album": {
+        "id": "0AXqyNdhstfyZyVjjJMszO",
+        "name": "Circle Of One",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b958417815e6b486637f76ad"
+      },
       "release_date": "1990-01-01",
       "popularity": 61
     },
     {
-      "trackId": "0oYOmiNt465aDweCIEDA6G",
-      "name": "Eternal Love",
+      "track": {
+        "id": "0oYOmiNt465aDweCIEDA6G",
+        "name": "Eternal Love"
+      },
       "duration_ms": 223532,
-      "artist": [
-        "Magnus Carlson"
+      "artists": [
+        {
+          "name": "Magnus Carlson",
+          "id": "4Ag5mrJhXH238pExZYJcaM"
+        }
       ],
-      "artistId": [
-        "4Ag5mrJhXH238pExZYJcaM"
-      ],
-      "albumId": "3DfDzcZe6YhPDvsJtMUmTc",
+      "album": {
+        "id": "3DfDzcZe6YhPDvsJtMUmTc",
+        "name": "Den långa vägen hem",
+        "img": "https://i.scdn.co/image/ab67616d00001e026320e2d0ad268715f0cddd79"
+      },
       "release_date": "2017-02-03",
       "popularity": 43
     },
     {
-      "trackId": "5vtOJrmovXGxGsnAck694H",
-      "name": "Fields Of Gold",
+      "track": {
+        "id": "5vtOJrmovXGxGsnAck694H",
+        "name": "Fields Of Gold"
+      },
       "duration_ms": 282093,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "14vOTJhsfQIlJeHgLajs7r",
+      "album": {
+        "id": "14vOTJhsfQIlJeHgLajs7r",
+        "name": "Songbird",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c4065a9759d1fcc6c6ea4b1"
+      },
       "release_date": "1998",
       "popularity": 60
     },
     {
-      "trackId": "5dqcEeW0P35Mitp4u14Jbl",
-      "name": "Flickorna i Småland",
+      "track": {
+        "id": "5dqcEeW0P35Mitp4u14Jbl",
+        "name": "Flickorna i Småland"
+      },
       "duration_ms": 157600,
-      "artist": [
-        "The Delta Rhythm Boys"
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "id": "7jn7alb8SBq8VAukeFkPcF"
+        }
       ],
-      "artistId": [
-        "7jn7alb8SBq8VAukeFkPcF"
-      ],
-      "albumId": "3YyyyCXz8E8Pmg3tvEZQ42",
+      "album": {
+        "id": "3YyyyCXz8E8Pmg3tvEZQ42",
+        "name": "20 Suosikkia / Raunchy Ropey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efbcbdea1682e8061069332a"
+      },
       "release_date": "1997-11-24",
       "popularity": 24
     },
     {
-      "trackId": "4LiGGNejU07pS687KFkrCU",
-      "name": "Vill ha dig",
+      "track": {
+        "id": "4LiGGNejU07pS687KFkrCU",
+        "name": "Vill ha dig"
+      },
       "duration_ms": 218600,
-      "artist": [
-        "Charlotte Nilsson"
+      "artists": [
+        {
+          "name": "Charlotte Nilsson",
+          "id": "3PCNqnKJPVbYPB4Xw6gEom"
+        }
       ],
-      "artistId": [
-        "3PCNqnKJPVbYPB4Xw6gEom"
-      ],
-      "albumId": "69bYdi2nX0kvp82xc9YWoa",
+      "album": {
+        "id": "69bYdi2nX0kvp82xc9YWoa",
+        "name": "Ge Dej Tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa5802d425368aafaf00db18"
+      },
       "release_date": "1996",
-      "popularity": 2
+      "popularity": 1
     },
     {
-      "trackId": "7hP1DiP1l4y2zU5HxurVo3",
-      "name": "The Way You Look Tonight",
+      "track": {
+        "id": "7hP1DiP1l4y2zU5HxurVo3",
+        "name": "The Way You Look Tonight"
+      },
       "duration_ms": 229000,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "4Ssek6XSIaTLnP4Fq3olTM",
+      "album": {
+        "id": "4Ssek6XSIaTLnP4Fq3olTM",
+        "name": "It Had To be You... The Great American Songbook",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a58f1642220bb16816105fc9"
+      },
       "release_date": "2002-10-08",
       "popularity": 51
     },
     {
-      "trackId": "73bJiNJ1dtMG7xD0HkHQiu",
-      "name": "UMEÅ",
+      "track": {
+        "id": "73bJiNJ1dtMG7xD0HkHQiu",
+        "name": "UMEÅ"
+      },
       "duration_ms": 200048,
-      "artist": [
-        "Rivstart"
+      "artists": [
+        {
+          "name": "Rivstart",
+          "id": "0NNJLiIAqTaLE1MMMgrBNj"
+        }
       ],
-      "artistId": [
-        "0NNJLiIAqTaLE1MMMgrBNj"
-      ],
-      "albumId": "2wmEN3hPndfo6iNOi8neJ2",
+      "album": {
+        "id": "2wmEN3hPndfo6iNOi8neJ2",
+        "name": "UMEÅ",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f6eaf9dc7588cf15d65f7af"
+      },
       "release_date": "2021-05-14",
       "popularity": 50
     },
     {
-      "trackId": "5ZoayPcuKsmxeCMY0CK0MX",
-      "name": "Tusen och en natt - Dancremix by Rico &Bear",
+      "track": {
+        "id": "5ZoayPcuKsmxeCMY0CK0MX",
+        "name": "Tusen och en natt - Dancremix by Rico &Bear"
+      },
       "duration_ms": 209266,
-      "artist": [
-        "Charlotte Nilsson"
+      "artists": [
+        {
+          "name": "Charlotte Nilsson",
+          "id": "3PCNqnKJPVbYPB4Xw6gEom"
+        }
       ],
-      "artistId": [
-        "3PCNqnKJPVbYPB4Xw6gEom"
-      ],
-      "albumId": "55yqSVHPMr7zoVsVXwStoI",
+      "album": {
+        "id": "55yqSVHPMr7zoVsVXwStoI",
+        "name": "Charlotte med vänner - Take Me To Your Heaven",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c63e0c484e0f5c889c895c6"
+      },
       "release_date": "1999-01-01",
       "popularity": 17
     },
     {
-      "trackId": "1tH8ycIrUoZt94f82MrVL5",
-      "name": "These Boots Are Made For Walking",
+      "track": {
+        "id": "1tH8ycIrUoZt94f82MrVL5",
+        "name": "These Boots Are Made For Walking"
+      },
       "duration_ms": 162600,
-      "artist": [
-        "Nancy Sinatra"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2"
-      ],
-      "albumId": "2xPqWOuRbw3VS1CqwlQ2R1",
+      "album": {
+        "id": "2xPqWOuRbw3VS1CqwlQ2R1",
+        "name": "The Mexican - Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239280b45b3afd15392d3421c"
+      },
       "release_date": "2001-01-01",
       "popularity": 26
     },
     {
-      "trackId": "5RdhBLmB4DyFHLglRrfx63",
-      "name": "I'll Be There",
+      "track": {
+        "id": "5RdhBLmB4DyFHLglRrfx63",
+        "name": "I'll Be There"
+      },
       "duration_ms": 237760,
-      "artist": [
-        "The Jackson 5"
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "id": "2iE18Oxc8YSumAU232n4rW"
+        }
       ],
-      "artistId": [
-        "2iE18Oxc8YSumAU232n4rW"
-      ],
-      "albumId": "5d6X8oegJmu9XKn9UBAswG",
+      "album": {
+        "id": "5d6X8oegJmu9XKn9UBAswG",
+        "name": "Third Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220112a0321d2efc7384db456"
+      },
       "release_date": "1970-09-08",
       "popularity": 66
     },
     {
-      "trackId": "6eMSo5M3xhDg3k9pwNNUku",
-      "name": "Svart-vit calypso",
+      "track": {
+        "id": "6eMSo5M3xhDg3k9pwNNUku",
+        "name": "Svart-vit calypso"
+      },
       "duration_ms": 195360,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+      "album": {
+        "id": "7bDYb5Q2xcNgQ2g3u4lYiR",
+        "name": "Den sista jäntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281ddc01043d8abd1e8945194"
+      },
       "release_date": "1973-09-05",
       "popularity": 10
     },
     {
-      "trackId": "2xcXBC3kUDapD49L063GD5",
-      "name": "Tema di Deborah / Amapola (C'era una volta in America)",
+      "track": {
+        "id": "2xcXBC3kUDapD49L063GD5",
+        "name": "Tema di Deborah / Amapola (C'era una volta in America)"
+      },
       "duration_ms": 253906,
-      "artist": [
-        "Ennio Morricone"
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "id": "1nIUhcKHnK6iyumRyoV68C"
+        }
       ],
-      "artistId": [
-        "1nIUhcKHnK6iyumRyoV68C"
-      ],
-      "albumId": "53Do7cFf6HvmHDDWLP7VGD",
+      "album": {
+        "id": "53Do7cFf6HvmHDDWLP7VGD",
+        "name": "I film di Sergio Leone",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcce8aac36439c58aa7c17bc"
+      },
       "release_date": "2011-08-03",
       "popularity": 26
     },
     {
-      "trackId": "1ZgAwUzm7EvCFIPgeZKuYi",
-      "name": "En blå sommardag",
+      "track": {
+        "id": "1ZgAwUzm7EvCFIPgeZKuYi",
+        "name": "En blå sommardag"
+      },
       "duration_ms": 177706,
-      "artist": [
-        "Charlotte Nilsson"
+      "artists": [
+        {
+          "name": "Charlotte Nilsson",
+          "id": "3PCNqnKJPVbYPB4Xw6gEom"
+        }
       ],
-      "artistId": [
-        "3PCNqnKJPVbYPB4Xw6gEom"
-      ],
-      "albumId": "77QJpOzzao43jgpTX2uQtw",
+      "album": {
+        "id": "77QJpOzzao43jgpTX2uQtw",
+        "name": "Lova Mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02732c218a5d9c1f71a5307d96"
+      },
       "release_date": "1996",
       "popularity": 43
     }

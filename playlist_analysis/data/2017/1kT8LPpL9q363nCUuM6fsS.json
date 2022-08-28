@@ -7,200 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ae40ef33-16c5-4b33-bb35-36fcbd1b83a5.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "69mFxANpGyq9s69LqH3d9G",
-      "name": "I Love Your Smile",
+      "track": {
+        "id": "69mFxANpGyq9s69LqH3d9G",
+        "name": "I Love Your Smile"
+      },
       "duration_ms": 257973,
-      "artist": [
-        "Shanice"
+      "artists": [
+        {
+          "name": "Shanice",
+          "id": "0Ttph0pOZiPNTD3y2wUUb6"
+        }
       ],
-      "artistId": [
-        "0Ttph0pOZiPNTD3y2wUUb6"
-      ],
-      "albumId": "3O1AUjaFcoauFoI10ZZJxi",
+      "album": {
+        "id": "3O1AUjaFcoauFoI10ZZJxi",
+        "name": "Inner Child",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3c3dc63eabc5a7d242997a6"
+      },
       "release_date": "1991-11-19",
       "popularity": 63
     },
     {
-      "trackId": "5PMKzsUsTpZZGsCcJBuhP2",
-      "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
+      "track": {
+        "id": "5PMKzsUsTpZZGsCcJBuhP2",
+        "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)"
+      },
       "duration_ms": 243733,
-      "artist": [
-        "Donell Jones",
-        "Lisa \"Left Eye\" Lopes"
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "id": "5KNqYrivNgVCHBssEUSu5B"
+        },
+        {
+          "name": "Lisa \"Left Eye\" Lopes",
+          "id": "64ccradw8gAQn9gMQZmEha"
+        }
       ],
-      "artistId": [
-        "5KNqYrivNgVCHBssEUSu5B",
-        "64ccradw8gAQn9gMQZmEha"
-      ],
-      "albumId": "01riz9JMpPdL99fYhoZaph",
+      "album": {
+        "id": "01riz9JMpPdL99fYhoZaph",
+        "name": "Where I Wanna Be",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b970f005df5b59e8ec25d5e"
+      },
       "release_date": "1999-05-29",
       "popularity": 64
     },
     {
-      "trackId": "1zB0kXKLQr7tYifth69jlG",
-      "name": "Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
+      "track": {
+        "id": "1zB0kXKLQr7tYifth69jlG",
+        "name": "Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)"
+      },
       "duration_ms": 314720,
-      "artist": [
-        "2Pac",
-        "Big Syke",
-        "C-PO"
+      "artists": [
+        {
+          "name": "2Pac",
+          "id": "1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Big Syke",
+          "id": "5J32qSlWzKCdcL31B8wglv"
+        },
+        {
+          "name": "C-PO",
+          "id": "4NU1ENV9ADEMnvlgJkExEV"
+        }
       ],
-      "artistId": [
-        "1ZwdS5xdxEREPySFridCfh",
-        "5J32qSlWzKCdcL31B8wglv",
-        "4NU1ENV9ADEMnvlgJkExEV"
-      ],
-      "albumId": "78iX7tMceN0FsnmabAtlOC",
+      "album": {
+        "id": "78iX7tMceN0FsnmabAtlOC",
+        "name": "All Eyez On Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02073aebff28f79959d2543596"
+      },
       "release_date": "1996-02-13",
       "popularity": 59
     },
     {
-      "trackId": "1CapGmE3jqZpEATdujksnX",
-      "name": "Heer",
+      "track": {
+        "id": "1CapGmE3jqZpEATdujksnX",
+        "name": "Heer"
+      },
       "duration_ms": 314174,
-      "artist": [
-        "A.R. Rahman",
-        "Harshdeep Kaur",
-        "Gulzar"
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "id": "1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Harshdeep Kaur",
+          "id": "3xU8YsNNkmWSPewlB18NUz"
+        },
+        {
+          "name": "Gulzar",
+          "id": "0yRC5n90spXG0d3aiDQ0vB"
+        }
       ],
-      "artistId": [
-        "1mYsTxnqsietFxj1OgoGbG",
-        "3xU8YsNNkmWSPewlB18NUz",
-        "0yRC5n90spXG0d3aiDQ0vB"
-      ],
-      "albumId": "3G0diKadKaufyFybV3TzuP",
+      "album": {
+        "id": "3G0diKadKaufyFybV3TzuP",
+        "name": "Jab Tak Hai Jaan",
+        "img": "https://i.scdn.co/image/ab67616d00001e021efbf8b77e571388b3520f72"
+      },
       "release_date": "2012-10-09",
       "popularity": 55
     },
     {
-      "trackId": "2V8whcTaefFKYRzpFXstii",
-      "name": "Summertime (feat. P. Diddy)",
+      "track": {
+        "id": "2V8whcTaefFKYRzpFXstii",
+        "name": "Summertime (feat. P. Diddy)"
+      },
       "duration_ms": 232506,
-      "artist": [
-        "Beyoncé",
-        "Diddy"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Diddy",
+          "id": "59wfkuBoNyhDMQGCljbUbA"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m",
-        "59wfkuBoNyhDMQGCljbUbA"
-      ],
-      "albumId": "3SFzO5FRQ9YhyZj9Cn6riM",
+      "album": {
+        "id": "3SFzO5FRQ9YhyZj9Cn6riM",
+        "name": "The Fighting Temptations (Music From The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c884a13f90c89699ec1617e"
+      },
       "release_date": "2003-09-05",
       "popularity": 46
     },
     {
-      "trackId": "5NnvHxkmeVf6PDKbx8Tm0s",
-      "name": "You Know What",
+      "track": {
+        "id": "5NnvHxkmeVf6PDKbx8Tm0s",
+        "name": "You Know What"
+      },
       "duration_ms": 214533,
-      "artist": [
-        "Craig David"
+      "artists": [
+        {
+          "name": "Craig David",
+          "id": "2JyWXPbkqI5ZJa3gwqVa0c"
+        }
       ],
-      "artistId": [
-        "2JyWXPbkqI5ZJa3gwqVa0c"
-      ],
-      "albumId": "5TedEgCbtmvDnXzUtXEFJY",
+      "album": {
+        "id": "5TedEgCbtmvDnXzUtXEFJY",
+        "name": "Born to Do It",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c2e92fb2302f8e8fcd9b389"
+      },
       "release_date": "2000-08-14",
       "popularity": 41
     },
     {
-      "trackId": "6I3LsZncKrJG9mwv12FCEg",
-      "name": "Westside",
+      "track": {
+        "id": "6I3LsZncKrJG9mwv12FCEg",
+        "name": "Westside"
+      },
       "duration_ms": 304733,
-      "artist": [
-        "TQ"
+      "artists": [
+        {
+          "name": "TQ",
+          "id": "5a6nqHiBS9v3CxYOs7ttET"
+        }
       ],
-      "artistId": [
-        "5a6nqHiBS9v3CxYOs7ttET"
-      ],
-      "albumId": "5dKsOtOOY393hKb2TZ9yIV",
+      "album": {
+        "id": "5dKsOtOOY393hKb2TZ9yIV",
+        "name": "They Never Saw Me Coming",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d769077d0bebb46bb3fd60ea"
+      },
       "release_date": "1998-11-03",
       "popularity": 52
     },
     {
-      "trackId": "1Mq4vRRox3bcruJA75M4D9",
-      "name": "The Makings of You",
+      "track": {
+        "id": "1Mq4vRRox3bcruJA75M4D9",
+        "name": "The Makings of You"
+      },
       "duration_ms": 223866,
-      "artist": [
-        "Curtis Mayfield"
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "id": "2AV6XDIs32ofIJhkkDevjm"
+        }
       ],
-      "artistId": [
-        "2AV6XDIs32ofIJhkkDevjm"
-      ],
-      "albumId": "3tgJmEz0R0ZsRSrpwafp4R",
+      "album": {
+        "id": "3tgJmEz0R0ZsRSrpwafp4R",
+        "name": "Curtis (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02775a6bee6c704ec29aec00f4"
+      },
       "release_date": "1970",
       "popularity": 47
     },
     {
-      "trackId": "0L8zKTZNEUFeGaM3xX4aXu",
-      "name": "Dardaar",
+      "track": {
+        "id": "0L8zKTZNEUFeGaM3xX4aXu",
+        "name": "Dardaar"
+      },
       "duration_ms": 358683,
-      "artist": [
-        "Aar Maanta",
-        "Urban Nomads"
+      "artists": [
+        {
+          "name": "Aar Maanta",
+          "id": "430LOuVEUCKo2POnRXopfP"
+        },
+        {
+          "name": "Urban Nomads",
+          "id": "6zmEt9bTwBWQ9cfGuBDDee"
+        }
       ],
-      "artistId": [
-        "430LOuVEUCKo2POnRXopfP",
-        "6zmEt9bTwBWQ9cfGuBDDee"
-      ],
-      "albumId": "2YmQ7MO52j342BGM5r57P5",
+      "album": {
+        "id": "2YmQ7MO52j342BGM5r57P5",
+        "name": "Dardaar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1056b9bba51fcc383012130"
+      },
       "release_date": "2015-08-19",
       "popularity": 2
     },
     {
-      "trackId": "2kiBl1KoNgAWKghprmOsHW",
-      "name": "Tänker På Daj",
+      "track": {
+        "id": "2kiBl1KoNgAWKghprmOsHW",
+        "name": "Tänker På Daj"
+      },
       "duration_ms": 154592,
-      "artist": [
-        "Leslie Tay"
+      "artists": [
+        {
+          "name": "Leslie Tay",
+          "id": "1D2o9Wb1d9ZhhPSRREJgwX"
+        }
       ],
-      "artistId": [
-        "1D2o9Wb1d9ZhhPSRREJgwX"
-      ],
-      "albumId": "0jRmUSAAoqBI5I8VQ7Sga3",
+      "album": {
+        "id": "0jRmUSAAoqBI5I8VQ7Sga3",
+        "name": "Skisser & SMS 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a50581fa8125bce777e3528"
+      },
       "release_date": "2022-01-12",
       "popularity": 6
     },
     {
-      "trackId": "0phu9MHB5EvqTy1jLrXE90",
-      "name": "Jhene Aiko",
+      "track": {
+        "id": "0phu9MHB5EvqTy1jLrXE90",
+        "name": "Jhene Aiko"
+      },
       "duration_ms": 115564,
-      "artist": [
-        "Rockyy Thugn",
-        "1600j"
+      "artists": [
+        {
+          "name": "Rockyy Thugn",
+          "id": "3fm2POb0C0BSFIm4rLlOOl"
+        },
+        {
+          "name": "1600j",
+          "id": "0vpFNyHReL2ASeI97LlvAK"
+        }
       ],
-      "artistId": [
-        "3fm2POb0C0BSFIm4rLlOOl",
-        "0vpFNyHReL2ASeI97LlvAK"
-      ],
-      "albumId": "5uYqGURZyA76Z8qRHvmpXS",
+      "album": {
+        "id": "5uYqGURZyA76Z8qRHvmpXS",
+        "name": "4 da stoners!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1bd9ae5296559173cebfed4"
+      },
       "release_date": "2022-02-06",
-      "popularity": 2
+      "popularity": 1
     },
     {
-      "trackId": "62MsMzaSf1H1rpwVAsYkTr",
-      "name": "Låta Bli",
+      "track": {
+        "id": "62MsMzaSf1H1rpwVAsYkTr",
+        "name": "Låta Bli"
+      },
       "duration_ms": 196132,
-      "artist": [
-        "Cherrie"
+      "artists": [
+        {
+          "name": "Cherrie",
+          "id": "59E9dYtwLTUAGuAppwFKAW"
+        }
       ],
-      "artistId": [
-        "59E9dYtwLTUAGuAppwFKAW"
-      ],
-      "albumId": "5GhYCn0sSmWZmEgxlvHNLI",
+      "album": {
+        "id": "5GhYCn0sSmWZmEgxlvHNLI",
+        "name": "Sherihan",
+        "img": "https://i.scdn.co/image/ab67616d00001e021abd9022c3d2ec259e616a89"
+      },
       "release_date": "2016-04-29",
       "popularity": 28
     },
     {
-      "trackId": "5vBWlj2yKBRKEmMaNI3o2r",
-      "name": "Änglar",
+      "track": {
+        "id": "5vBWlj2yKBRKEmMaNI3o2r",
+        "name": "Änglar"
+      },
       "duration_ms": 175253,
-      "artist": [
-        "Cherrie"
+      "artists": [
+        {
+          "name": "Cherrie",
+          "id": "59E9dYtwLTUAGuAppwFKAW"
+        }
       ],
-      "artistId": [
-        "59E9dYtwLTUAGuAppwFKAW"
-      ],
-      "albumId": "3QQnZPeattLQhirOCpCPDB",
+      "album": {
+        "id": "3QQnZPeattLQhirOCpCPDB",
+        "name": "Änglar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238f1fb5e6936a0ce7daeb5fb"
+      },
       "release_date": "2016-12-28",
       "popularity": 23
     }

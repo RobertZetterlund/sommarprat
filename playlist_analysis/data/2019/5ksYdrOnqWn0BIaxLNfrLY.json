@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/42ae4515-f7c1-42e2-858b-935c0914bd77.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4XnzIFK9AD3fkLJojErxcx",
-      "name": "Song Against Life",
+      "track": {
+        "id": "4XnzIFK9AD3fkLJojErxcx",
+        "name": "Song Against Life"
+      },
       "duration_ms": 224800,
-      "artist": [
-        "David & The Citizens"
+      "artists": [
+        {
+          "name": "David & The Citizens",
+          "id": "4g7fhqU22Lzf5HBWVyjNgM"
+        }
       ],
-      "artistId": [
-        "4g7fhqU22Lzf5HBWVyjNgM"
-      ],
-      "albumId": "6MqkKsnp3AcvS9eIOZkS1K",
+      "album": {
+        "id": "6MqkKsnp3AcvS9eIOZkS1K",
+        "name": "For All Happy Endings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5a2661e12746403459763eb"
+      },
       "release_date": "2002-03-08",
       "popularity": 20
     },
     {
-      "trackId": "0DMRKqrpd0QO4RWiEdMib0",
-      "name": "You Know I'm No Good",
+      "track": {
+        "id": "0DMRKqrpd0QO4RWiEdMib0",
+        "name": "You Know I'm No Good"
+      },
       "duration_ms": 257186,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 72
     },
     {
-      "trackId": "5ojr2t4Mw6qKjnoiEEP29s",
-      "name": "Uti Vår Hage",
+      "track": {
+        "id": "5ojr2t4Mw6qKjnoiEEP29s",
+        "name": "Uti Vår Hage"
+      },
       "duration_ms": 215040,
-      "artist": [
-        "Emil Ernebro"
+      "artists": [
+        {
+          "name": "Emil Ernebro",
+          "id": "7jxLPZCQ7HZT42BYcOacQa"
+        }
       ],
-      "artistId": [
-        "7jxLPZCQ7HZT42BYcOacQa"
-      ],
-      "albumId": "4vIAigUqZgHXZ4wtg6RDib",
+      "album": {
+        "id": "4vIAigUqZgHXZ4wtg6RDib",
+        "name": "Nordic Traditions",
+        "img": "https://i.scdn.co/image/ab67616d00001e020226e3f16ae03f6313e5eada"
+      },
       "release_date": "2020-12-14",
       "popularity": 4
     },
     {
-      "trackId": "6ek9SiEj5a65WIs2EV7qiM",
-      "name": "Son Of A Preacher Man",
+      "track": {
+        "id": "6ek9SiEj5a65WIs2EV7qiM",
+        "name": "Son Of A Preacher Man"
+      },
       "duration_ms": 148053,
-      "artist": [
-        "Dusty Springfield"
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "id": "5zaXYwewAXedKNCff45U5l"
+        }
       ],
-      "artistId": [
-        "5zaXYwewAXedKNCff45U5l"
-      ],
-      "albumId": "5FRB5oQaHxlDNe6gMGuzu2",
+      "album": {
+        "id": "5FRB5oQaHxlDNe6gMGuzu2",
+        "name": "Dusty In Memphis",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e20037311210924b3c386f00"
+      },
       "release_date": "1969-03-31",
       "popularity": 71
     },
     {
-      "trackId": "7MMHXZAMavcZW2r1NyUPGX",
-      "name": "Ca plane pour moi",
+      "track": {
+        "id": "7MMHXZAMavcZW2r1NyUPGX",
+        "name": "Ca plane pour moi"
+      },
       "duration_ms": 349133,
-      "artist": [
-        "Leila K"
+      "artists": [
+        {
+          "name": "Leila K",
+          "id": "61Da4fqVMgPoo9mYY0R3k6"
+        }
       ],
-      "artistId": [
-        "61Da4fqVMgPoo9mYY0R3k6"
-      ],
-      "albumId": "2Lb5mIrqMfoTYcxxUVthrA",
+      "album": {
+        "id": "2Lb5mIrqMfoTYcxxUVthrA",
+        "name": "Carousel",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280c4a0558837c2878b685616"
+      },
       "release_date": "1993",
       "popularity": 33
     },
     {
-      "trackId": "3ruzRooM83vzfRoELjCeYq",
-      "name": "Ca plane pour moi - Short Radio",
+      "track": {
+        "id": "3ruzRooM83vzfRoELjCeYq",
+        "name": "Ca plane pour moi - Short Radio"
+      },
       "duration_ms": 206000,
-      "artist": [
-        "Leila K"
+      "artists": [
+        {
+          "name": "Leila K",
+          "id": "61Da4fqVMgPoo9mYY0R3k6"
+        }
       ],
-      "artistId": [
-        "61Da4fqVMgPoo9mYY0R3k6"
-      ],
-      "albumId": "7sfaeel63C6PsaXyLAsDkA",
+      "album": {
+        "id": "7sfaeel63C6PsaXyLAsDkA",
+        "name": "Ca plane pour moi / Check the Dan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299a4d15569a6b5b4fe807edb"
+      },
       "release_date": "1993",
       "popularity": 7
     },
     {
-      "trackId": "6Rqn2GFlmvmV4w9Ala0I1e",
-      "name": "Feeling Good",
+      "track": {
+        "id": "6Rqn2GFlmvmV4w9Ala0I1e",
+        "name": "Feeling Good"
+      },
       "duration_ms": 174000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3ofZeSWPHZOE5WC2tNZDez",
+      "album": {
+        "id": "3ofZeSWPHZOE5WC2tNZDez",
+        "name": "I Put A Spell On You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02425e9a15a4a1b9fe123a1aa7"
+      },
       "release_date": "1965-06-01",
       "popularity": 72
     },
     {
-      "trackId": "2QKSIJxGLRXxhmU7ZaB5GX",
-      "name": "Oh Boy",
+      "track": {
+        "id": "2QKSIJxGLRXxhmU7ZaB5GX",
+        "name": "Oh Boy"
+      },
       "duration_ms": 197680,
-      "artist": [
-        "Miss Li"
+      "artists": [
+        {
+          "name": "Miss Li",
+          "id": "04HqRx07Bv9gh7rsrMTqs7"
+        }
       ],
-      "artistId": [
-        "04HqRx07Bv9gh7rsrMTqs7"
-      ],
-      "albumId": "6Ms6HjSQG3ZNsiRp5SrDwt",
+      "album": {
+        "id": "6Ms6HjSQG3ZNsiRp5SrDwt",
+        "name": "O.S.T. - Rubbeldiekatz",
+        "img": "https://i.scdn.co/image/ab67616d00001e029704a16ad4b3ce11985227ca"
+      },
       "release_date": "2011-01-01",
       "popularity": 27
     },
     {
-      "trackId": "6nEdmjYBIup7tBoGNXW2df",
-      "name": "Älgarna demonstrerar",
+      "track": {
+        "id": "6nEdmjYBIup7tBoGNXW2df",
+        "name": "Älgarna demonstrerar"
+      },
       "duration_ms": 173040,
-      "artist": [
-        "James & Karin"
+      "artists": [
+        {
+          "name": "James & Karin",
+          "id": "3UlhlO8H8C59UabGW10YPN"
+        }
       ],
-      "artistId": [
-        "3UlhlO8H8C59UabGW10YPN"
-      ],
-      "albumId": "17TBLnEsY3ZVn97ruCMTpE",
+      "album": {
+        "id": "17TBLnEsY3ZVn97ruCMTpE",
+        "name": "Barnlåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8d72bb3ab51540b02c42ddb"
+      },
       "release_date": "1974",
       "popularity": 33
     },
     {
-      "trackId": "3SNFhDXpD6cma3LeCLHuO5",
-      "name": "Goin' Back to Harlan",
+      "track": {
+        "id": "3SNFhDXpD6cma3LeCLHuO5",
+        "name": "Goin' Back to Harlan"
+      },
       "duration_ms": 292573,
-      "artist": [
-        "Emmylou Harris"
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "id": "5s6TJEuHTr9GR894wc6VfP"
+        }
       ],
-      "artistId": [
-        "5s6TJEuHTr9GR894wc6VfP"
-      ],
-      "albumId": "3S2rjqCFfpvZKqGcVkHjDP",
+      "album": {
+        "id": "3S2rjqCFfpvZKqGcVkHjDP",
+        "name": "Wrecking Ball",
+        "img": "https://i.scdn.co/image/ab67616d00001e02721a2cb50f04f22304d2a72c"
+      },
       "release_date": "1995-09-26",
       "popularity": 30
     },
     {
-      "trackId": "5zHg1rdU9NiHOAd5bMyt1d",
-      "name": "Sorrow's Hand",
+      "track": {
+        "id": "5zHg1rdU9NiHOAd5bMyt1d",
+        "name": "Sorrow's Hand"
+      },
       "duration_ms": 335422,
-      "artist": [
-        "The Savage Rose"
+      "artists": [
+        {
+          "name": "The Savage Rose",
+          "id": "6pB3VONh1Qw6G63r9WYFlI"
+        }
       ],
-      "artistId": [
-        "6pB3VONh1Qw6G63r9WYFlI"
-      ],
-      "albumId": "2gLzPHWI7kOUm59jmpKWPj",
+      "album": {
+        "id": "2gLzPHWI7kOUm59jmpKWPj",
+        "name": "Homeless",
+        "img": "https://i.scdn.co/image/ab67616d00001e021eb3f4bf30dcfc14a3ef2ae7"
+      },
       "release_date": "2019-01-25",
       "popularity": 6
     },
     {
-      "trackId": "7gHkDNieGzYmyuC7E1Xbxw",
-      "name": "Rock It for Me",
+      "track": {
+        "id": "7gHkDNieGzYmyuC7E1Xbxw",
+        "name": "Rock It for Me"
+      },
       "duration_ms": 191493,
-      "artist": [
-        "Caravan Palace"
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "id": "37J1PlAkhRK7yrZUtqaUpQ"
+        }
       ],
-      "artistId": [
-        "37J1PlAkhRK7yrZUtqaUpQ"
-      ],
-      "albumId": "38ojnzxpPFT09ee03aCTK7",
+      "album": {
+        "id": "38ojnzxpPFT09ee03aCTK7",
+        "name": "Panic",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d4189ca2964e92b5e5e545ed"
+      },
       "release_date": "2012",
       "popularity": 45
     },
     {
-      "trackId": "2ui905CO37sKsUtM3mwKXK",
-      "name": "Popcorn",
+      "track": {
+        "id": "2ui905CO37sKsUtM3mwKXK",
+        "name": "Popcorn"
+      },
       "duration_ms": 125946,
-      "artist": [
-        "The Upsetters"
+      "artists": [
+        {
+          "name": "The Upsetters",
+          "id": "12CNljuN6DW9e5x61FS03b"
+        }
       ],
-      "artistId": [
-        "12CNljuN6DW9e5x61FS03b"
-      ],
-      "albumId": "6XRx0d8sJ2puLRGrbVGlZc",
+      "album": {
+        "id": "6XRx0d8sJ2puLRGrbVGlZc",
+        "name": "Easter Garden Party",
+        "img": "https://i.scdn.co/image/ab67616d00001e02486ec8b015dd389676c622a1"
+      },
       "release_date": "2016-03-15",
       "popularity": 14
     }

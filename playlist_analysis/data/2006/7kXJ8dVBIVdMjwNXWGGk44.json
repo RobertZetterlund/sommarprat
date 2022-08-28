@@ -7,120 +7,174 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241045_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7u7TnMtnt3kfmWjpUB57S5",
-      "name": "Viva Voce on the Road - Live",
+      "track": {
+        "id": "7u7TnMtnt3kfmWjpUB57S5",
+        "name": "Viva Voce on the Road - Live"
+      },
       "duration_ms": 281213,
-      "artist": [
-        "VIVA VOCE die a cappella Band"
+      "artists": [
+        {
+          "name": "VIVA VOCE die a cappella Band",
+          "id": "1yvJC4VOYghcHoXaXXeixG"
+        }
       ],
-      "artistId": [
-        "1yvJC4VOYghcHoXaXXeixG"
-      ],
-      "albumId": "2io6lEr7h2TTXHknO5Rv1U",
+      "album": {
+        "id": "2io6lEr7h2TTXHknO5Rv1U",
+        "name": "On the Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0a5349a3f94d210202936f9"
+      },
       "release_date": "2010-11-16",
       "popularity": 1
     },
     {
-      "trackId": "5fwA1TPmH9dRBCqxHmhbPX",
-      "name": "Fiction",
+      "track": {
+        "id": "5fwA1TPmH9dRBCqxHmhbPX",
+        "name": "Fiction"
+      },
       "duration_ms": 361853,
-      "artist": [
-        "The Concretes",
-        "Lisa Milberg",
-        "Victoria Bergsman"
+      "artists": [
+        {
+          "name": "The Concretes",
+          "id": "4uFpoTqyXb2tfvetAjmJQT"
+        },
+        {
+          "name": "Lisa Milberg",
+          "id": "6uCZPyeXamG1XT0AsfaAV0"
+        },
+        {
+          "name": "Victoria Bergsman",
+          "id": "5uNVqo1jLEl5RpX7cl8Pz3"
+        }
       ],
-      "artistId": [
-        "4uFpoTqyXb2tfvetAjmJQT",
-        "6uCZPyeXamG1XT0AsfaAV0",
-        "5uNVqo1jLEl5RpX7cl8Pz3"
-      ],
-      "albumId": "13ndtNn93nP7EywzrgDp0w",
+      "album": {
+        "id": "13ndtNn93nP7EywzrgDp0w",
+        "name": "In Colour",
+        "img": "https://i.scdn.co/image/ab67616d00001e027df1a2e810bcfa9267568dbc"
+      },
       "release_date": "2006-03-15",
       "popularity": 1
     },
     {
-      "trackId": "28cnXtME493VX9NOw9cIUh",
-      "name": "Hurt",
+      "track": {
+        "id": "28cnXtME493VX9NOw9cIUh",
+        "name": "Hurt"
+      },
       "duration_ms": 216533,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2BlL4Gv2DLPu8p58Wcmlm9",
+      "album": {
+        "id": "2BlL4Gv2DLPu8p58Wcmlm9",
+        "name": "American IV: The Man Comes Around",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f4f62da3d811b6501a69ffa"
+      },
       "release_date": "2002-01-01",
       "popularity": 73
     },
     {
-      "trackId": "79rd2mbxRQyqeUlL8Z45t6",
-      "name": "Marquis",
+      "track": {
+        "id": "79rd2mbxRQyqeUlL8Z45t6",
+        "name": "Marquis"
+      },
       "duration_ms": 178677,
-      "artist": [
-        "L.O.C."
+      "artists": [
+        {
+          "name": "L.O.C.",
+          "id": "0VUVvNFIyMeIWguwhhImIc"
+        }
       ],
-      "artistId": [
-        "0VUVvNFIyMeIWguwhhImIc"
-      ],
-      "albumId": "30unxiJg4eUEOxUgIKpi4i",
+      "album": {
+        "id": "30unxiJg4eUEOxUgIKpi4i",
+        "name": "Sakrilegium",
+        "img": "https://i.scdn.co/image/ab67616d00001e02236efa70fa99253ceb514e40"
+      },
       "release_date": "2014-01-30",
       "popularity": 39
     },
     {
-      "trackId": "7tNo4tgIsEt5YZ8QTcw2nh",
-      "name": "She's a Lady",
+      "track": {
+        "id": "7tNo4tgIsEt5YZ8QTcw2nh",
+        "name": "She's a Lady"
+      },
       "duration_ms": 246549,
-      "artist": [
-        "Tom Jones",
-        "Funkstar De Luxe"
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "id": "1T0wRBO0CK0vK8ouUMqEl5"
+        },
+        {
+          "name": "Funkstar De Luxe",
+          "id": "1R5R9EyBe8MxRuD3BIXaV2"
+        }
       ],
-      "artistId": [
-        "1T0wRBO0CK0vK8ouUMqEl5",
-        "1R5R9EyBe8MxRuD3BIXaV2"
-      ],
-      "albumId": "6UEC2CKDFOXfA5blhyw9ZP",
+      "album": {
+        "id": "6UEC2CKDFOXfA5blhyw9ZP",
+        "name": "Clubber's Guide to Deep House",
+        "img": "https://i.scdn.co/image/ab67616d00001e025464d1c0c558090278e07c0c"
+      },
       "release_date": "2004-01-01",
       "popularity": 18
     },
     {
-      "trackId": "0jHtIhSDkpYEdiWfXpJqhy",
-      "name": "Dead to the World",
+      "track": {
+        "id": "0jHtIhSDkpYEdiWfXpJqhy",
+        "name": "Dead to the World"
+      },
       "duration_ms": 320946,
-      "artist": [
-        "Röyksopp"
+      "artists": [
+        {
+          "name": "Röyksopp",
+          "id": "5nPOO9iTcrs9k6yFffPxjH"
+        }
       ],
-      "artistId": [
-        "5nPOO9iTcrs9k6yFffPxjH"
-      ],
-      "albumId": "1HkKeOklBwC1auQJ5Huwcm",
+      "album": {
+        "id": "1HkKeOklBwC1auQJ5Huwcm",
+        "name": "The Understanding",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224850f3eb04b5132b96df67a"
+      },
       "release_date": "2005-06-22",
       "popularity": 22
     },
     {
-      "trackId": "4UR5B6mkK0Wc69pFANza05",
-      "name": "Medley",
+      "track": {
+        "id": "4UR5B6mkK0Wc69pFANza05",
+        "name": "Medley"
+      },
       "duration_ms": 247906,
-      "artist": [
-        "Henry Arland"
+      "artists": [
+        {
+          "name": "Henry Arland",
+          "id": "7j1iXcJI6oyOOnuYEVpKhv"
+        }
       ],
-      "artistId": [
-        "7j1iXcJI6oyOOnuYEVpKhv"
-      ],
-      "albumId": "1KSzt0XHMumd0csGmuzjW9",
+      "album": {
+        "id": "1KSzt0XHMumd0csGmuzjW9",
+        "name": "Spielt Welterfolge auf seiner goldenen Klarinette",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee57888c870120de74569303"
+      },
       "release_date": "2010-02-11",
       "popularity": 15
     },
     {
-      "trackId": "2rdcboDnOnsjTwKKHg9sdY",
-      "name": "Taxes",
+      "track": {
+        "id": "2rdcboDnOnsjTwKKHg9sdY",
+        "name": "Taxes"
+      },
       "duration_ms": 470852,
-      "artist": [
-        "Rich Vos"
+      "artists": [
+        {
+          "name": "Rich Vos",
+          "id": "0ZwWNWfSnwhblabzUXLWH1"
+        }
       ],
-      "artistId": [
-        "0ZwWNWfSnwhblabzUXLWH1"
-      ],
-      "albumId": "7JbXdM5QnakmW46ciFO3a4",
+      "album": {
+        "id": "7JbXdM5QnakmW46ciFO3a4",
+        "name": "141 IQ",
+        "img": "https://i.scdn.co/image/ab67616d00001e02010a63df0b76dc9a46d3c414"
+      },
       "release_date": "2016-08-05",
       "popularity": 0
     }

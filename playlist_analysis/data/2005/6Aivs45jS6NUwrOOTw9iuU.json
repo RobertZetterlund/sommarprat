@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3232780_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4DcBG214umbrGEsw4pFmcN",
-      "name": "Magnetic Fields, Pt. 2",
+      "track": {
+        "id": "4DcBG214umbrGEsw4pFmcN",
+        "name": "Magnetic Fields, Pt. 2"
+      },
       "duration_ms": 238826,
-      "artist": [
-        "Jean-Michel Jarre"
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "id": "5MhLmv7GgyjbxGqiIGasvT"
+        }
       ],
-      "artistId": [
-        "5MhLmv7GgyjbxGqiIGasvT"
-      ],
-      "albumId": "7G4AN82pnj8i93f03cnm8D",
+      "album": {
+        "id": "7G4AN82pnj8i93f03cnm8D",
+        "name": "Les Chants Magnétiques / Magnetic Fields",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa367ab926d31e57e37b908d"
+      },
       "release_date": "1981-05-22",
       "popularity": 41
     },
     {
-      "trackId": "7co2ZdOZcMCcdyX9vG1z0y",
-      "name": "Mind the Gap",
+      "track": {
+        "id": "7co2ZdOZcMCcdyX9vG1z0y",
+        "name": "Mind the Gap"
+      },
       "duration_ms": 261079,
-      "artist": [
-        "The Soundtrack Of Our Lives"
+      "artists": [
+        {
+          "name": "The Soundtrack Of Our Lives",
+          "id": "1DoYbXxolkSNTovBmuG0C2"
+        }
       ],
-      "artistId": [
-        "1DoYbXxolkSNTovBmuG0C2"
-      ],
-      "albumId": "3NoWJU6iEUKX4WlPsisjFh",
+      "album": {
+        "id": "3NoWJU6iEUKX4WlPsisjFh",
+        "name": "Behind The Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239b405b57629a11f18f97e33"
+      },
       "release_date": "2001-02-09",
       "popularity": 16
     },
     {
-      "trackId": "282dVm1dvbGqev47BXjjoO",
-      "name": "From Small Things (Big Things One Day Come) - Studio Outtake - 1979",
+      "track": {
+        "id": "282dVm1dvbGqev47BXjjoO",
+        "name": "From Small Things (Big Things One Day Come) - Studio Outtake - 1979"
+      },
       "duration_ms": 162053,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "5QbfBwvuHoe2fz1TCCV6dX",
+      "album": {
+        "id": "5QbfBwvuHoe2fz1TCCV6dX",
+        "name": "The Ties That Bind: The River Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b52e232d28360b7021c48031"
+      },
       "release_date": "2015-12-04",
       "popularity": 30
     },
     {
-      "trackId": "4ansTz78M5i8iyWBhUhCMQ",
-      "name": "Någonting",
+      "track": {
+        "id": "4ansTz78M5i8iyWBhUhCMQ",
+        "name": "Någonting"
+      },
       "duration_ms": 186773,
-      "artist": [
-        "Emma Nordenstam"
+      "artists": [
+        {
+          "name": "Emma Nordenstam",
+          "id": "58ylcvSvsmwkP6VEibVUyN"
+        }
       ],
-      "artistId": [
-        "58ylcvSvsmwkP6VEibVUyN"
-      ],
-      "albumId": "02wRYv34wLm4t0j1wPGeWw",
+      "album": {
+        "id": "02wRYv34wLm4t0j1wPGeWw",
+        "name": "Sånger Mellan 18-22",
+        "img": "https://i.scdn.co/image/ab67616d00001e025624e125a08834d2e49c0c41"
+      },
       "release_date": "2004-06-02",
       "popularity": 0
     },
     {
-      "trackId": "2kEXsGUHwtpQCtpjwMYWr2",
-      "name": "It Don't Bother Me",
+      "track": {
+        "id": "2kEXsGUHwtpQCtpjwMYWr2",
+        "name": "It Don't Bother Me"
+      },
       "duration_ms": 202720,
-      "artist": [
-        "Mark Olson",
-        "The Creekdippers",
-        "Victoria Williams"
+      "artists": [
+        {
+          "name": "Mark Olson",
+          "id": "4OYNuiOJENSg8ORyqJFbqn"
+        },
+        {
+          "name": "The Creekdippers",
+          "id": "7pPoyJPM7hIrVI4Izp9twR"
+        },
+        {
+          "name": "Victoria Williams",
+          "id": "3X4XES8PyvXVguL9Q6IEVD"
+        }
       ],
-      "artistId": [
-        "4OYNuiOJENSg8ORyqJFbqn",
-        "7pPoyJPM7hIrVI4Izp9twR",
-        "3X4XES8PyvXVguL9Q6IEVD"
-      ],
-      "albumId": "6eGUDbxEnoKh2w2P4vfeHn",
+      "album": {
+        "id": "6eGUDbxEnoKh2w2P4vfeHn",
+        "name": "Mystic Theatre",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b51f802b50152cbb9252864"
+      },
       "release_date": "2003-10-12",
       "popularity": 0
     },
     {
-      "trackId": "6ZZ7yOv26ivC2zqFfFJUnq",
-      "name": "This Must Be the Place (Naive Melody)",
+      "track": {
+        "id": "6ZZ7yOv26ivC2zqFfFJUnq",
+        "name": "This Must Be the Place (Naive Melody)"
+      },
       "duration_ms": 254266,
-      "artist": [
-        "Gloria"
+      "artists": [
+        {
+          "name": "Gloria",
+          "id": "31AZ0BGRivOGvfNssdvcLT"
+        }
       ],
-      "artistId": [
-        "31AZ0BGRivOGvfNssdvcLT"
-      ],
-      "albumId": "3j42BPa4iefrbnUOj7ie13",
+      "album": {
+        "id": "3j42BPa4iefrbnUOj7ie13",
+        "name": "People like you and me",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f9e8e9360187bdf1719bc23"
+      },
       "release_date": "2003-03-31",
       "popularity": 40
     },
     {
-      "trackId": "2cZFXOz1LojdOmnrsvIKIu",
-      "name": "Regnets rytm",
+      "track": {
+        "id": "2cZFXOz1LojdOmnrsvIKIu",
+        "name": "Regnets rytm"
+      },
       "duration_ms": 157120,
-      "artist": [
-        "Sandins"
+      "artists": [
+        {
+          "name": "Sandins",
+          "id": "6qdOsv47KlaTj8q7EhrIm7"
+        }
       ],
-      "artistId": [
-        "6qdOsv47KlaTj8q7EhrIm7"
-      ],
-      "albumId": "4IRXrMnRBxgqEjats6zNrc",
+      "album": {
+        "id": "4IRXrMnRBxgqEjats6zNrc",
+        "name": "25 År",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc0c490311f04de545e433d7"
+      },
       "release_date": "2011-02-06",
       "popularity": 31
     },
     {
-      "trackId": "7MEiS5flFlQdBeFqHcmVqy",
-      "name": "Tomorrow Is Today",
+      "track": {
+        "id": "7MEiS5flFlQdBeFqHcmVqy",
+        "name": "Tomorrow Is Today"
+      },
       "duration_ms": 201880,
-      "artist": [
-        "Marit Bergman"
+      "artists": [
+        {
+          "name": "Marit Bergman",
+          "id": "1Z8YLeRzSedy0jT5D08pVU"
+        }
       ],
-      "artistId": [
-        "1Z8YLeRzSedy0jT5D08pVU"
-      ],
-      "albumId": "64AW9sxYJpSs3b8H5Ny5ae",
+      "album": {
+        "id": "64AW9sxYJpSs3b8H5Ny5ae",
+        "name": "Baby Dry Your Eye",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bcdb2ac5086812321ff2c90d"
+      },
       "release_date": "2004-03-15",
       "popularity": 18
     },
     {
-      "trackId": "7ELrlO2KQKn7OOrVQYlOKy",
-      "name": "Mai",
+      "track": {
+        "id": "7ELrlO2KQKn7OOrVQYlOKy",
+        "name": "Mai"
+      },
       "duration_ms": 227500,
-      "artist": [
-        "Daniele D'Elia"
+      "artists": [
+        {
+          "name": "Daniele D'Elia",
+          "id": "0Y5mzDim6KsT5pbK6XgvD3"
+        }
       ],
-      "artistId": [
-        "0Y5mzDim6KsT5pbK6XgvD3"
-      ],
-      "albumId": "5s0WqchT9Nfg2NThA75X9b",
+      "album": {
+        "id": "5s0WqchT9Nfg2NThA75X9b",
+        "name": "Hello World",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222fa9705abfd663325b84523"
+      },
       "release_date": "2022-02-24",
       "popularity": 8
     },
     {
-      "trackId": "6lsumzVFKP9SnfKcuGwqVp",
-      "name": "Rome Wasn't Built in a Day",
+      "track": {
+        "id": "6lsumzVFKP9SnfKcuGwqVp",
+        "name": "Rome Wasn't Built in a Day"
+      },
       "duration_ms": 214719,
-      "artist": [
-        "Morcheeba"
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "id": "6bWxFw65IEJzBYjx3SxUXd"
+        }
       ],
-      "artistId": [
-        "6bWxFw65IEJzBYjx3SxUXd"
-      ],
-      "albumId": "1QneuYN3b0JteZNmLse2uA",
+      "album": {
+        "id": "1QneuYN3b0JteZNmLse2uA",
+        "name": "Fragments of Freedom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7b9e596d4836113a4b2d8ed"
+      },
       "release_date": "2000-07-10",
       "popularity": 61
     },
     {
-      "trackId": "2cLHvlCwU84IFfVTfxT7s6",
-      "name": "Midsommar uti Dalom",
+      "track": {
+        "id": "2cLHvlCwU84IFfVTfxT7s6",
+        "name": "Midsommar uti Dalom"
+      },
       "duration_ms": 170453,
-      "artist": [
-        "Evert Sandin"
+      "artists": [
+        {
+          "name": "Evert Sandin",
+          "id": "7ya99WFb7oAghzqkBiPV3n"
+        }
       ],
-      "artistId": [
-        "7ya99WFb7oAghzqkBiPV3n"
-      ],
-      "albumId": "0ihXY2xEhsjt7TeioMKPBA",
+      "album": {
+        "id": "0ihXY2xEhsjt7TeioMKPBA",
+        "name": "Så här låter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9db8b66443e85d80f5ad7f9"
+      },
       "release_date": "2005",
       "popularity": 7
     },
     {
-      "trackId": "6T0j8nvYpDDDQ8PPMUprpW",
-      "name": "You Won´t Fall Down",
+      "track": {
+        "id": "6T0j8nvYpDDDQ8PPMUprpW",
+        "name": "You Won´t Fall Down"
+      },
       "duration_ms": 304813,
-      "artist": [
-        "Peter Lindberg"
+      "artists": [
+        {
+          "name": "Peter Lindberg",
+          "id": "2aSRsKKOlQ2gSouSuSXkp4"
+        }
       ],
-      "artistId": [
-        "2aSRsKKOlQ2gSouSuSXkp4"
-      ],
-      "albumId": "21NXLOOvijb5oTlxYQY5HE",
+      "album": {
+        "id": "21NXLOOvijb5oTlxYQY5HE",
+        "name": "Hiding out for a Better Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02942de5e0b0ae3b8db79221c2"
+      },
       "release_date": "2005-04-06",
       "popularity": 0
     },
     {
-      "trackId": "6C26Jlku5nZDj7km5QS0aU",
-      "name": "Good Day",
+      "track": {
+        "id": "6C26Jlku5nZDj7km5QS0aU",
+        "name": "Good Day"
+      },
       "duration_ms": 259533,
-      "artist": [
-        "Paul Westerberg"
+      "artists": [
+        {
+          "name": "Paul Westerberg",
+          "id": "3N6WAAPHoIjo6na008793X"
+        }
       ],
-      "artistId": [
-        "3N6WAAPHoIjo6na008793X"
-      ],
-      "albumId": "7iVNkR9u7b1RcgWwsMt99E",
+      "album": {
+        "id": "7iVNkR9u7b1RcgWwsMt99E",
+        "name": "Eventually",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278127aa6b1cd850ef08d8045"
+      },
       "release_date": "1996-01-01",
       "popularity": 24
     },
     {
-      "trackId": "0qA4oBWCqhCLiOtMfaWUte",
-      "name": "Circles",
+      "track": {
+        "id": "0qA4oBWCqhCLiOtMfaWUte",
+        "name": "Circles"
+      },
       "duration_ms": 186640,
-      "artist": [
-        "Soul Coughing"
+      "artists": [
+        {
+          "name": "Soul Coughing",
+          "id": "5TOosZsVbwb5O1BOFdcLmw"
+        }
       ],
-      "artistId": [
-        "5TOosZsVbwb5O1BOFdcLmw"
-      ],
-      "albumId": "6jI7iMNkqc3GYejY5fDL9z",
+      "album": {
+        "id": "6jI7iMNkqc3GYejY5fDL9z",
+        "name": "El Oso",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e23bed2772bf8921222796ee"
+      },
       "release_date": "1998-09-29",
       "popularity": 50
     },
     {
-      "trackId": "1RaZ0YpyRPnfB4oWBsc9DL",
-      "name": "Nykter",
+      "track": {
+        "id": "1RaZ0YpyRPnfB4oWBsc9DL",
+        "name": "Nykter"
+      },
       "duration_ms": 152129,
-      "artist": [
-        "Bolaget"
+      "artists": [
+        {
+          "name": "Bolaget",
+          "id": "55ZGFvikpNjQHvtTWS5aZF"
+        }
       ],
-      "artistId": [
-        "55ZGFvikpNjQHvtTWS5aZF"
-      ],
-      "albumId": "6uBs21fvjNsmDIQ0IyrScO",
+      "album": {
+        "id": "6uBs21fvjNsmDIQ0IyrScO",
+        "name": "Nykter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02668a5241e79c663f4b3bd686"
+      },
       "release_date": "2019-11-04",
       "popularity": 57
     }

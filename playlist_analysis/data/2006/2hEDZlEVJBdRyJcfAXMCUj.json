@@ -7,252 +7,366 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241522_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2DdQwgjF6pdSx6V4tirwBH",
-      "name": "Love Me Or Leave Me",
+      "track": {
+        "id": "2DdQwgjF6pdSx6V4tirwBH",
+        "name": "Love Me Or Leave Me"
+      },
       "duration_ms": 156693,
-      "artist": [
-        "Anita O'Day",
-        "Oscar Peterson Quartet"
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "id": "5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "id": "4NQPiiaJak2p93c2hl5rNQ"
+        }
       ],
-      "artistId": [
-        "5QGnprJtpZmk3OiDqspPlB",
-        "4NQPiiaJak2p93c2hl5rNQ"
-      ],
-      "albumId": "3kInD4ls57TJY4ATGDIqAS",
+      "album": {
+        "id": "3kInD4ls57TJY4ATGDIqAS",
+        "name": "Anita Sings The Most",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0024debff4f06c01ab86b1e"
+      },
       "release_date": "1957-01-01",
       "popularity": 19
     },
     {
-      "trackId": "2F9Cy1SY4J7g9qqFB0svko",
-      "name": "Lágrima",
+      "track": {
+        "id": "2F9Cy1SY4J7g9qqFB0svko",
+        "name": "Lágrima"
+      },
       "duration_ms": 220680,
-      "artist": [
-        "Amália Rodrigues"
+      "artists": [
+        {
+          "name": "Amália Rodrigues",
+          "id": "0DBF33ctUe4yhxKP3eTcCt"
+        }
       ],
-      "artistId": [
-        "0DBF33ctUe4yhxKP3eTcCt"
-      ],
-      "albumId": "7DRhSu2ywgPnf362nKDIDq",
+      "album": {
+        "id": "7DRhSu2ywgPnf362nKDIDq",
+        "name": "Lágrima",
+        "img": "https://i.scdn.co/image/ab67616d00001e02239d43033499b5d5557161cb"
+      },
       "release_date": "1983",
       "popularity": 24
     },
     {
-      "trackId": "2IBJHVCe0FCVodfl9sCA7q",
-      "name": "Fado português",
+      "track": {
+        "id": "2IBJHVCe0FCVodfl9sCA7q",
+        "name": "Fado português"
+      },
       "duration_ms": 293626,
-      "artist": [
-        "Amália Rodrigues"
+      "artists": [
+        {
+          "name": "Amália Rodrigues",
+          "id": "0DBF33ctUe4yhxKP3eTcCt"
+        }
       ],
-      "artistId": [
-        "0DBF33ctUe4yhxKP3eTcCt"
-      ],
-      "albumId": "0lG28ezi7AlzCl5cZFfwIv",
+      "album": {
+        "id": "0lG28ezi7AlzCl5cZFfwIv",
+        "name": "Fado português",
+        "img": "https://i.scdn.co/image/ab67616d00001e025bdeca8f18ca4a38a581d554"
+      },
       "release_date": "1970",
       "popularity": 43
     },
     {
-      "trackId": "48qAOahd28j6zuPAWSLZ4K",
-      "name": "Norma - Critical Edition by Maurizio Biondi and Riccardo Minasi / Act 1 Scene 1: \"Casta Diva\"",
+      "track": {
+        "id": "48qAOahd28j6zuPAWSLZ4K",
+        "name": "Norma - Critical Edition by Maurizio Biondi and Riccardo Minasi / Act 1 Scene 1: \"Casta Diva\""
+      },
       "duration_ms": 390253,
-      "artist": [
-        "Vincenzo Bellini",
-        "Cecilia Bartoli",
-        "International Chamber Vocalists"
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "id": "6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "id": "3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "International Chamber Vocalists",
+          "id": "7E9NZ6vgTlVyq9l1tLbCDj"
+        }
       ],
-      "artistId": [
-        "6AphpMkKDU4I3Z6XaGu1UV",
-        "3uw6GzeL10NfFrcikMo9Na",
-        "7E9NZ6vgTlVyq9l1tLbCDj"
-      ],
-      "albumId": "5SjygiAMvX6s4YR2pyc15g",
+      "album": {
+        "id": "5SjygiAMvX6s4YR2pyc15g",
+        "name": "Bellini: Norma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc4cf9e3a8b79af30d50b5de"
+      },
       "release_date": "2013-01-01",
       "popularity": 40
     },
     {
-      "trackId": "5bCBAtVPpVYK2snjlpsty4",
-      "name": "The Nightingale, Act II: \"Quel chant délicieux !\" (Emperor, Nightingale, Courtiers, Chamberlain, Japanese Envoys)",
+      "track": {
+        "id": "5bCBAtVPpVYK2snjlpsty4",
+        "name": "The Nightingale, Act II: \"Quel chant délicieux !\" (Emperor, Nightingale, Courtiers, Chamberlain, Japanese Envoys)"
+      },
       "duration_ms": 155815,
-      "artist": [
-        "Igor Stravinsky",
-        "French National Radio Orchestra",
-        "André Cluytens"
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "id": "7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "French National Radio Orchestra",
+          "id": "32qnav8uyfq88NUle7CnhZ"
+        },
+        {
+          "name": "André Cluytens",
+          "id": "2qGkessPTMJjSEYtxJ11KC"
+        }
       ],
-      "artistId": [
-        "7ie36YytMoKtPiL7tUvmoE",
-        "32qnav8uyfq88NUle7CnhZ",
-        "2qGkessPTMJjSEYtxJ11KC"
-      ],
-      "albumId": "0KIfVix3mJoaPuNfmSP8Ls",
+      "album": {
+        "id": "0KIfVix3mJoaPuNfmSP8Ls",
+        "name": "Stravinsky: Le rossignol (Mono Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d842fcf85c82ce0c5b70630e"
+      },
       "release_date": "1955-01-01",
       "popularity": 0
     },
     {
-      "trackId": "1fQNmEelyTo6woEzeWjiYO",
-      "name": "Quand je marche",
+      "track": {
+        "id": "1fQNmEelyTo6woEzeWjiYO",
+        "name": "Quand je marche"
+      },
       "duration_ms": 218002,
-      "artist": [
-        "Camille"
+      "artists": [
+        {
+          "name": "Camille",
+          "id": "0gOsZcHl7H3ewXVIEnWFZX"
+        }
       ],
-      "artistId": [
-        "0gOsZcHl7H3ewXVIEnWFZX"
-      ],
-      "albumId": "2Ee68ldGNltX6l3KpTgvIZ",
+      "album": {
+        "id": "2Ee68ldGNltX6l3KpTgvIZ",
+        "name": "Le fil",
+        "img": "https://i.scdn.co/image/ab67616d00001e0201a8682746dc47bdc738a0a8"
+      },
       "release_date": "2005-02-14",
       "popularity": 26
     },
     {
-      "trackId": "5YLnfy7R2kueN0BRPkjiEG",
-      "name": "I'll Take You There",
+      "track": {
+        "id": "5YLnfy7R2kueN0BRPkjiEG",
+        "name": "I'll Take You There"
+      },
       "duration_ms": 196826,
-      "artist": [
-        "The Staple Singers"
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "id": "7xGGqA85UIWX1GoTVM4itC"
+        }
       ],
-      "artistId": [
-        "7xGGqA85UIWX1GoTVM4itC"
-      ],
-      "albumId": "7tUOJxXojOWdWU2T2ZSge7",
+      "album": {
+        "id": "7tUOJxXojOWdWU2T2ZSge7",
+        "name": "The Very Best Of The Staple Singers",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fd00f79db3d1ff67255a585"
+      },
       "release_date": "2007-01-01",
       "popularity": 69
     },
     {
-      "trackId": "0Yg1hSAUgd2AAneReFOVzS",
-      "name": "Tous les garçons et les filles - Slow",
+      "track": {
+        "id": "0Yg1hSAUgd2AAneReFOVzS",
+        "name": "Tous les garçons et les filles - Slow"
+      },
       "duration_ms": 187746,
-      "artist": [
-        "Françoise Hardy"
+      "artists": [
+        {
+          "name": "Françoise Hardy",
+          "id": "7x3f7c0fBanNlQwpx1255g"
+        }
       ],
-      "artistId": [
-        "7x3f7c0fBanNlQwpx1255g"
-      ],
-      "albumId": "0TcP4beTgxQmREuHJ7BBY2",
+      "album": {
+        "id": "0TcP4beTgxQmREuHJ7BBY2",
+        "name": "Françoise Hardy (Tous les garçons et les filles)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021a1679a314d4c3855881ed01"
+      },
       "release_date": "1962-06-30",
       "popularity": 57
     },
     {
-      "trackId": "4ag275Vb05d5c5uP0ldPHD",
-      "name": "Strange Fruit",
+      "track": {
+        "id": "4ag275Vb05d5c5uP0ldPHD",
+        "name": "Strange Fruit"
+      },
       "duration_ms": 335600,
-      "artist": [
-        "Cassandra Wilson"
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "id": "6TZ5t4kclsmGWHqb3mGyha"
+        }
       ],
-      "artistId": [
-        "6TZ5t4kclsmGWHqb3mGyha"
-      ],
-      "albumId": "7jV22JIrWgtCKCX34cJrzA",
+      "album": {
+        "id": "7jV22JIrWgtCKCX34cJrzA",
+        "name": "New Moon Daughter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ada2d957e70b88ff9f6c3378"
+      },
       "release_date": "1995-01-01",
       "popularity": 17
     },
     {
-      "trackId": "6AQZBciYSrpqH661BVBSUx",
-      "name": "Flesh and Blood - Karaoke Version In the Style of Mary Chapin Carpenter",
+      "track": {
+        "id": "6AQZBciYSrpqH661BVBSUx",
+        "name": "Flesh and Blood - Karaoke Version In the Style of Mary Chapin Carpenter"
+      },
       "duration_ms": 216842,
-      "artist": [
-        "Karaoke Bar Orchestra"
+      "artists": [
+        {
+          "name": "Karaoke Bar Orchestra",
+          "id": "5kugLcip6TuOXtj3RI5V39"
+        }
       ],
-      "artistId": [
-        "5kugLcip6TuOXtj3RI5V39"
-      ],
-      "albumId": "46bR5y9eAw0eXwldvA381a",
+      "album": {
+        "id": "46bR5y9eAw0eXwldvA381a",
+        "name": "Karaoke Sensation, Vol. 50 : Best of Mary Chapin Carpenter, Vol. 2 (Sing the Songs of the Stars)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210b49f6e39406009071d0510"
+      },
       "release_date": "2010",
       "popularity": 0
     },
     {
-      "trackId": "3JTEmtKuRISsgicZCCAyOQ",
-      "name": "Baby, It's Cold Outside",
+      "track": {
+        "id": "3JTEmtKuRISsgicZCCAyOQ",
+        "name": "Baby, It's Cold Outside"
+      },
       "duration_ms": 250186,
-      "artist": [
-        "Ray Charles"
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "id": "1eYhYunlNJlDoQhtYBvPsi"
+        }
       ],
-      "artistId": [
-        "1eYhYunlNJlDoQhtYBvPsi"
-      ],
-      "albumId": "7gvxyetkX6vkoMyDkDM6ls",
+      "album": {
+        "id": "7gvxyetkX6vkoMyDkDM6ls",
+        "name": "True Genius",
+        "img": "https://i.scdn.co/image/ab67616d00001e024448e36a9ef845b705d80a0d"
+      },
       "release_date": "2021-09-10",
       "popularity": 25
     },
     {
-      "trackId": "5GAquGGfttkVXKZBn8LwaI",
-      "name": "The Dry Cleaner from Des Moines - Live",
+      "track": {
+        "id": "5GAquGGfttkVXKZBn8LwaI",
+        "name": "The Dry Cleaner from Des Moines - Live"
+      },
       "duration_ms": 219813,
-      "artist": [
-        "Joni Mitchell",
-        "Herbie Hancock"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Herbie Hancock",
+          "id": "2ZvrvbQNrHKwjT7qfGFFUW"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve",
-        "2ZvrvbQNrHKwjT7qfGFFUW"
-      ],
-      "albumId": "50nfVAh4vEHYcKbMAYT6eH",
+      "album": {
+        "id": "50nfVAh4vEHYcKbMAYT6eH",
+        "name": "Live at the Bread & Roses Festival 1978",
+        "img": "https://i.scdn.co/image/ab67616d00001e02655e6d0de6e5e79e070b12cb"
+      },
       "release_date": "2020-03-11",
       "popularity": 35
     },
     {
-      "trackId": "60oKJQ7AylLyyD39t18cBV",
-      "name": "Margott",
+      "track": {
+        "id": "60oKJQ7AylLyyD39t18cBV",
+        "name": "Margott"
+      },
       "duration_ms": 76313,
-      "artist": [
-        "Xiixmusic"
+      "artists": [
+        {
+          "name": "Xiixmusic",
+          "id": "7gazEDIKgeHeU1MVsxR4SI"
+        }
       ],
-      "artistId": [
-        "7gazEDIKgeHeU1MVsxR4SI"
-      ],
-      "albumId": "4lhO5Mfhvel31lmbPETnSx",
+      "album": {
+        "id": "4lhO5Mfhvel31lmbPETnSx",
+        "name": "Majora Arcana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd915e573f471c6101b73c88"
+      },
       "release_date": "2022-07-19",
       "popularity": 28
     },
     {
-      "trackId": "3YB0DVr8wWLyZmGvnvkUdA",
-      "name": "Young Man's Blues",
+      "track": {
+        "id": "3YB0DVr8wWLyZmGvnvkUdA",
+        "name": "Young Man's Blues"
+      },
       "duration_ms": 83613,
-      "artist": [
-        "Mose Allison"
+      "artists": [
+        {
+          "name": "Mose Allison",
+          "id": "0sN4enVJwylJKEXZlSbgsm"
+        }
       ],
-      "artistId": [
-        "0sN4enVJwylJKEXZlSbgsm"
-      ],
-      "albumId": "5a5XbcCrFeD24y2ZdUOhFL",
+      "album": {
+        "id": "5a5XbcCrFeD24y2ZdUOhFL",
+        "name": "Mose Allison Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb5eda628caf4eb34f5aa675"
+      },
       "release_date": "1963",
       "popularity": 46
     },
     {
-      "trackId": "2CLeotsLhEUu0qkj56vbUj",
-      "name": "Il est cinq heures, Paris s'éveille",
+      "track": {
+        "id": "2CLeotsLhEUu0qkj56vbUj",
+        "name": "Il est cinq heures, Paris s'éveille"
+      },
       "duration_ms": 175333,
-      "artist": [
-        "Jacques Dutronc"
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "id": "3ayds6VIVBx3CU5NSNCDbq"
+        }
       ],
-      "artistId": [
-        "3ayds6VIVBx3CU5NSNCDbq"
-      ],
-      "albumId": "6uZABwQhmEllK5otzX9ONK",
+      "album": {
+        "id": "6uZABwQhmEllK5otzX9ONK",
+        "name": "Il est cinq heures",
+        "img": "https://i.scdn.co/image/ab67616d00001e024af2aea504a792071772f349"
+      },
       "release_date": "1968-11-14",
       "popularity": 53
     },
     {
-      "trackId": "3mnSq0DGKWTZcU3ccymC79",
-      "name": "De Cara a la Pared",
+      "track": {
+        "id": "3mnSq0DGKWTZcU3ccymC79",
+        "name": "De Cara a la Pared"
+      },
       "duration_ms": 255360,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "7J8k8Y7zfCFKMPWzUPGVuP",
+      "album": {
+        "id": "7J8k8Y7zfCFKMPWzUPGVuP",
+        "name": "La Llorona",
+        "img": "https://i.scdn.co/image/ab67616d00001e026bc18f8d32df742daedb159d"
+      },
       "release_date": "1997-02-04",
       "popularity": 48
     },
     {
-      "trackId": "1LhkLrXOoXRFnUykhPPAi1",
-      "name": "Nem às Paredes confesso - Ao Vivo no Olympia, 1956",
+      "track": {
+        "id": "1LhkLrXOoXRFnUykhPPAi1",
+        "name": "Nem às Paredes confesso - Ao Vivo no Olympia, 1956"
+      },
       "duration_ms": 215133,
-      "artist": [
-        "Amália Rodrigues"
+      "artists": [
+        {
+          "name": "Amália Rodrigues",
+          "id": "0DBF33ctUe4yhxKP3eTcCt"
+        }
       ],
-      "artistId": [
-        "0DBF33ctUe4yhxKP3eTcCt"
-      ],
-      "albumId": "552ioTcRsacKQ8bcwQkUpO",
+      "album": {
+        "id": "552ioTcRsacKQ8bcwQkUpO",
+        "name": "Amália em Paris (Ao Vivo)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0bc3560d07ac6627c967a16"
+      },
       "release_date": "2020-07-23",
       "popularity": 24
     }

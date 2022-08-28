@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354521_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3fH4KjXFYMmljxrcGrbPj9",
-      "name": "Don't You (Forget About Me)",
+      "track": {
+        "id": "3fH4KjXFYMmljxrcGrbPj9",
+        "name": "Don't You (Forget About Me)"
+      },
       "duration_ms": 263040,
-      "artist": [
-        "Simple Minds"
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "id": "6hN9F0iuULZYWXppob22Aj"
+        }
       ],
-      "artistId": [
-        "6hN9F0iuULZYWXppob22Aj"
-      ],
-      "albumId": "4YimfceN1R0nOS9CefIFhm",
+      "album": {
+        "id": "4YimfceN1R0nOS9CefIFhm",
+        "name": "Once Upon A Time (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001"
+      },
       "release_date": "1985",
       "popularity": 76
     },
     {
-      "trackId": "7kyf3K4XzRIGIrHkormHQr",
-      "name": "Och jag grät mig till sömns efter alla dar",
+      "track": {
+        "id": "7kyf3K4XzRIGIrHkormHQr",
+        "name": "Och jag grät mig till sömns efter alla dar"
+      },
       "duration_ms": 194120,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "5DgxERJ0OOJKS3Jx7UkEwi",
+      "album": {
+        "id": "5DgxERJ0OOJKS3Jx7UkEwi",
+        "name": "Säkert!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f74b459fcbfedbf2eed745"
+      },
       "release_date": "2007-03-15",
       "popularity": 23
     },
     {
-      "trackId": "0pwRP7iB47sRQCr0CJQIeg",
-      "name": "George Romero",
+      "track": {
+        "id": "0pwRP7iB47sRQCr0CJQIeg",
+        "name": "George Romero"
+      },
       "duration_ms": 199146,
-      "artist": [
-        "Sprites"
+      "artists": [
+        {
+          "name": "Sprites",
+          "id": "3gVYOBjpWkCnwOFGVOhr58"
+        }
       ],
-      "artistId": [
-        "3gVYOBjpWkCnwOFGVOhr58"
-      ],
-      "albumId": "2uqnrWcEE5YqO884wxrSBB",
+      "album": {
+        "id": "2uqnrWcEE5YqO884wxrSBB",
+        "name": "Modern Gameplay",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c7c254451351648125939f2"
+      },
       "release_date": "2006",
       "popularity": 8
     },
     {
-      "trackId": "6Hmj7SrLRbreLVfVS7mV1S",
-      "name": "Wake Up",
+      "track": {
+        "id": "6Hmj7SrLRbreLVfVS7mV1S",
+        "name": "Wake Up"
+      },
       "duration_ms": 335333,
-      "artist": [
-        "Arcade Fire"
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "id": "3kjuyTCjPG1WMFCiyc5IuB"
+        }
       ],
-      "artistId": [
-        "3kjuyTCjPG1WMFCiyc5IuB"
-      ],
-      "albumId": "6ZB8qaR9JNuS0Q0bG1nbcH",
+      "album": {
+        "id": "6ZB8qaR9JNuS0Q0bG1nbcH",
+        "name": "Funeral",
+        "img": "https://i.scdn.co/image/ab67616d00001e027870762a58313ad6f981d664"
+      },
       "release_date": "2004-06-16",
       "popularity": 64
     },
     {
-      "trackId": "2S18jhJ8oe1bjxIltaehaO",
-      "name": "The Planets, Op. 32: 6. Uranus, the Magician",
+      "track": {
+        "id": "2S18jhJ8oe1bjxIltaehaO",
+        "name": "The Planets, Op. 32: 6. Uranus, the Magician"
+      },
       "duration_ms": 338333,
-      "artist": [
-        "Gustav Holst",
-        "Los Angeles Philharmonic",
-        "Zubin Mehta"
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "id": "5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "id": "6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Zubin Mehta",
+          "id": "3FEd0qHPFOgcpfw7bCXB4x"
+        }
       ],
-      "artistId": [
-        "5B7uXBeLc2TkR5Jk23qKIZ",
-        "6yeL5iw4hXNZtd8T7FOoFU",
-        "3FEd0qHPFOgcpfw7bCXB4x"
-      ],
-      "albumId": "7MOYiQcBcdYvqCyopWBj64",
+      "album": {
+        "id": "7MOYiQcBcdYvqCyopWBj64",
+        "name": "Holst: The Planets / John Williams: Star Wars Suite / Strauss, R.: Also sprach Zarathustra",
+        "img": "https://i.scdn.co/image/ab67616d00001e023097506b1a6180aba5409e9a"
+      },
       "release_date": "1997-01-01",
       "popularity": 18
     },
     {
-      "trackId": "4XKpSYvEdZi6GQPM7ADJcK",
-      "name": "When I Grow Up",
+      "track": {
+        "id": "4XKpSYvEdZi6GQPM7ADJcK",
+        "name": "When I Grow Up"
+      },
       "duration_ms": 215573,
-      "artist": [
-        "First Aid Kit"
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "id": "21egYD1eInY6bGFcniCRT1"
+        }
       ],
-      "artistId": [
-        "21egYD1eInY6bGFcniCRT1"
-      ],
-      "albumId": "66sjCIBxnJjQPf7I7zTqHP",
+      "album": {
+        "id": "66sjCIBxnJjQPf7I7zTqHP",
+        "name": "Ghost Town",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8fb05566103da0e432f19a5"
+      },
       "release_date": "2010-09-27",
       "popularity": 40
     },
     {
-      "trackId": "5UMj02x4nNREgIxzMldm33",
-      "name": "No Surprises",
+      "track": {
+        "id": "5UMj02x4nNREgIxzMldm33",
+        "name": "No Surprises"
+      },
       "duration_ms": 231506,
-      "artist": [
-        "Regina Spektor"
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "id": "3z6Gk257P9jNcZbBXJNX5i"
+        }
       ],
-      "artistId": [
-        "3z6Gk257P9jNcZbBXJNX5i"
-      ],
-      "albumId": "7dHtX1MOwJnwFEdUivxCTx",
+      "album": {
+        "id": "7dHtX1MOwJnwFEdUivxCTx",
+        "name": "No Surprises",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a3f2aa9a282755798e0f68b"
+      },
       "release_date": "2010-04-26",
       "popularity": 36
     },
     {
-      "trackId": "325ipyWkzIGakH2DJgDlOT",
-      "name": "Happy When It Rains",
+      "track": {
+        "id": "325ipyWkzIGakH2DJgDlOT",
+        "name": "Happy When It Rains"
+      },
       "duration_ms": 217312,
-      "artist": [
-        "The Jesus and Mary Chain"
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "id": "4rjlerN21ygkIhmUv55irs"
+        }
       ],
-      "artistId": [
-        "4rjlerN21ygkIhmUv55irs"
-      ],
-      "albumId": "5cFb5EJLTQ7u6YuGE922tu",
+      "album": {
+        "id": "5cFb5EJLTQ7u6YuGE922tu",
+        "name": "Darklands (Expanded Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021704c9994c5a1d2b888f5477"
+      },
       "release_date": "1987-08-31",
       "popularity": 49
     },
     {
-      "trackId": "0mQ1btcyqFDvTpaCFs04cR",
-      "name": "Gollum's Song",
+      "track": {
+        "id": "0mQ1btcyqFDvTpaCFs04cR",
+        "name": "Gollum's Song"
+      },
       "duration_ms": 351333,
-      "artist": [
-        "Emilíana Torrini"
+      "artists": [
+        {
+          "name": "Emilíana Torrini",
+          "id": "08j69Ndyx1P7RLO3Janb5P"
+        }
       ],
-      "artistId": [
-        "08j69Ndyx1P7RLO3Janb5P"
-      ],
-      "albumId": "1zIoYLpYOq8d4HFzHJ7vc8",
+      "album": {
+        "id": "1zIoYLpYOq8d4HFzHJ7vc8",
+        "name": "The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dae458513b856d6255f857a7"
+      },
       "release_date": "2002-12-02",
       "popularity": 46
     },
     {
-      "trackId": "6JHGaBhtCbfEtOh5ea7fLI",
-      "name": "It's A Fire",
+      "track": {
+        "id": "6JHGaBhtCbfEtOh5ea7fLI",
+        "name": "It's A Fire"
+      },
       "duration_ms": 226200,
-      "artist": [
-        "Portishead"
+      "artists": [
+        {
+          "name": "Portishead",
+          "id": "6liAMWkVf5LH7YR9yfFy1Y"
+        }
       ],
-      "artistId": [
-        "6liAMWkVf5LH7YR9yfFy1Y"
-      ],
-      "albumId": "3539EbNgIdEDGBKkUf4wno",
+      "album": {
+        "id": "3539EbNgIdEDGBKkUf4wno",
+        "name": "Dummy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc20397b139223620af148f6"
+      },
       "release_date": "1994-01-01",
       "popularity": 48
     },
     {
-      "trackId": "4otN5ZboeohAAAXaGnLCIH",
-      "name": "Hot Topic",
+      "track": {
+        "id": "4otN5ZboeohAAAXaGnLCIH",
+        "name": "Hot Topic"
+      },
       "duration_ms": 224666,
-      "artist": [
-        "Le Tigre"
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "id": "2n6FviARgtjjimZXu18uRM"
+        }
       ],
-      "artistId": [
-        "2n6FviARgtjjimZXu18uRM"
-      ],
-      "albumId": "0dSSZGzoukzrFBnG07J45i",
+      "album": {
+        "id": "0dSSZGzoukzrFBnG07J45i",
+        "name": "Le Tigre",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a89b59fec31efd8f780a6bb"
+      },
       "release_date": "1999-10-26",
       "popularity": 44
     },
     {
-      "trackId": "6nzXkCBOhb2mxctNihOqbb",
-      "name": "Bad Girls",
+      "track": {
+        "id": "6nzXkCBOhb2mxctNihOqbb",
+        "name": "Bad Girls"
+      },
       "duration_ms": 227520,
-      "artist": [
-        "M.I.A."
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "id": "0QJIPDAEDILuo8AIq3pMuU"
+        }
       ],
-      "artistId": [
-        "0QJIPDAEDILuo8AIq3pMuU"
-      ],
-      "albumId": "3dAxXNscIj0p53lBMEziYR",
+      "album": {
+        "id": "3dAxXNscIj0p53lBMEziYR",
+        "name": "Matangi",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d6fa293f49903ed38fbe0de"
+      },
       "release_date": "2013-01-01",
       "popularity": 76
     },
     {
-      "trackId": "1GbyYL0B0Mjn3kSbrEwKKI",
-      "name": "The Power Of Love",
+      "track": {
+        "id": "1GbyYL0B0Mjn3kSbrEwKKI",
+        "name": "The Power Of Love"
+      },
       "duration_ms": 332506,
-      "artist": [
-        "Frankie Goes To Hollywood"
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "id": "1mZu3rO7qSD09GdDpePHhY"
+        }
       ],
-      "artistId": [
-        "1mZu3rO7qSD09GdDpePHhY"
-      ],
-      "albumId": "0FU4Eo42Oyg1We3eRrOf4m",
+      "album": {
+        "id": "0FU4Eo42Oyg1We3eRrOf4m",
+        "name": "Welcome To The Pleasuredome",
+        "img": "https://i.scdn.co/image/ab67616d00001e02275774501f737e10d92adaca"
+      },
       "release_date": "1984-10-20",
       "popularity": 63
     }

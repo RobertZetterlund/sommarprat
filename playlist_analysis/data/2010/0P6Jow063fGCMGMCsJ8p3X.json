@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234670_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6nEkxYIEnrbYH7h1hJ8Xn6",
-      "name": "She Loves You - Mono / Remastered",
+      "track": {
+        "id": "6nEkxYIEnrbYH7h1hJ8Xn6",
+        "name": "She Loves You - Mono / Remastered"
+      },
       "duration_ms": 140920,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+      "album": {
+        "id": "7vEJAtP3KgKSpOHVgwm3Eh",
+        "name": "1 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02582d56ce20fe0146ffa0e5cf"
+      },
       "release_date": "2000-11-13",
       "popularity": 64
     },
     {
-      "trackId": "2BndJYJQ17UcEeUFJP5JmY",
-      "name": "Paradise Circus",
+      "track": {
+        "id": "2BndJYJQ17UcEeUFJP5JmY",
+        "name": "Paradise Circus"
+      },
       "duration_ms": 297774,
-      "artist": [
-        "Massive Attack"
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "id": "6FXMGgJwohJLUSr5nVlf9X"
+        }
       ],
-      "artistId": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-      ],
-      "albumId": "1F8y2bg9V9nRoy8zuxo3Jt",
+      "album": {
+        "id": "1F8y2bg9V9nRoy8zuxo3Jt",
+        "name": "Heligoland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02852aaa233e122f1dbfefcf00"
+      },
       "release_date": "2010-02-08",
       "popularity": 60
     },
     {
-      "trackId": "6T74sWvcHvSAO5prlk5dDw",
-      "name": "When Under Ether",
+      "track": {
+        "id": "6T74sWvcHvSAO5prlk5dDw",
+        "name": "When Under Ether"
+      },
       "duration_ms": 142400,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "4IeJySFMS6reB6BeYzMp5j",
+      "album": {
+        "id": "4IeJySFMS6reB6BeYzMp5j",
+        "name": "White Chalk",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a9216322932919f518cdc27"
+      },
       "release_date": "2007-01-01",
       "popularity": 46
     },
     {
-      "trackId": "2oeLt7N1amHZiev27FvKE2",
-      "name": "Sketch for Summer",
+      "track": {
+        "id": "2oeLt7N1amHZiev27FvKE2",
+        "name": "Sketch for Summer"
+      },
       "duration_ms": 178280,
-      "artist": [
-        "The Durutti Column"
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "id": "7fh7bwX9qV60tLxxsp9bTe"
+        }
       ],
-      "artistId": [
-        "7fh7bwX9qV60tLxxsp9bTe"
-      ],
-      "albumId": "6ANCHHVpcvjCqQFUDUvDOW",
+      "album": {
+        "id": "6ANCHHVpcvjCqQFUDUvDOW",
+        "name": "The Return of The Durutti Column",
+        "img": "https://i.scdn.co/image/ab67616d00001e024be74b9209d99dc3a8c682e8"
+      },
       "release_date": "1979-01-01",
       "popularity": 52
     },
     {
-      "trackId": "2kUbcJVJCJXQrhlCMdbAZS",
-      "name": "Hymn",
+      "track": {
+        "id": "2kUbcJVJCJXQrhlCMdbAZS",
+        "name": "Hymn"
+      },
       "duration_ms": 72226,
-      "artist": [
-        "Patti Smith"
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "id": "0vYkHhJ48Bs3jWcvZXvOrP"
+        }
       ],
-      "artistId": [
-        "0vYkHhJ48Bs3jWcvZXvOrP"
-      ],
-      "albumId": "5Azni9In90zMkWAFgWh6RE",
+      "album": {
+        "id": "5Azni9In90zMkWAFgWh6RE",
+        "name": "Wave",
+        "img": "https://i.scdn.co/image/ab67616d00001e02297dd2e5a0e6f916364eddc8"
+      },
       "release_date": "1979",
       "popularity": 23
     },
     {
-      "trackId": "5C9LySq5h3t2Uc6DStZ5pa",
-      "name": "Milk And Honey",
+      "track": {
+        "id": "5C9LySq5h3t2Uc6DStZ5pa",
+        "name": "Milk And Honey"
+      },
       "duration_ms": 179333,
-      "artist": [
-        "Nick Drake"
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "id": "5c3GLXai8YOMid29ZEuR9y"
+        }
       ],
-      "artistId": [
-        "5c3GLXai8YOMid29ZEuR9y"
-      ],
-      "albumId": "0XK1y5q7jUfIB2wDPOyt36",
+      "album": {
+        "id": "0XK1y5q7jUfIB2wDPOyt36",
+        "name": "Family Tree",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4ba89ca876eea4ea26baacf"
+      },
       "release_date": "2007-01-01",
       "popularity": 35
     },
     {
-      "trackId": "5mrML1n1sTLe2TaznSQnfU",
-      "name": "Epilogos - Live",
+      "track": {
+        "id": "5mrML1n1sTLe2TaznSQnfU",
+        "name": "Epilogos - Live"
+      },
       "duration_ms": 1276000,
-      "artist": [
-        "Dionysis Savvopoulos",
-        "Fons Musicalis",
-        "Natassa Flouri"
+      "artists": [
+        {
+          "name": "Dionysis Savvopoulos",
+          "id": "1QZ7r36PUiIEvT05v1kKt1"
+        },
+        {
+          "name": "Fons Musicalis",
+          "id": "0YGOaiQnYSRH403oee98at"
+        },
+        {
+          "name": "Natassa Flouri",
+          "id": "612M09JHKvdSODTnrdkHOT"
+        }
       ],
-      "artistId": [
-        "1QZ7r36PUiIEvT05v1kKt1",
-        "0YGOaiQnYSRH403oee98at",
-        "612M09JHKvdSODTnrdkHOT"
-      ],
-      "albumId": "35hK2WoawHS7V1PncdLIoq",
+      "album": {
+        "id": "35hK2WoawHS7V1PncdLIoq",
+        "name": "Savvorama (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257227397be270bb05e5b83d0"
+      },
       "release_date": "2001",
       "popularity": 2
     },
     {
-      "trackId": "22FleK5cp3aJaP1SwXuu3T",
-      "name": "Straight Mouth Stomp",
+      "track": {
+        "id": "22FleK5cp3aJaP1SwXuu3T",
+        "name": "Straight Mouth Stomp"
+      },
       "duration_ms": 111733,
-      "artist": [
-        "16 Horsepower"
+      "artists": [
+        {
+          "name": "16 Horsepower",
+          "id": "188gwh9RnRT58ZQPwqwHE3"
+        }
       ],
-      "artistId": [
-        "188gwh9RnRT58ZQPwqwHE3"
-      ],
-      "albumId": "1VjP5rS1g8u6VNwWKP5SY2",
+      "album": {
+        "id": "1VjP5rS1g8u6VNwWKP5SY2",
+        "name": "16 Horsepower",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f75d3fc02b63d194edec6c1f"
+      },
       "release_date": "1995-01-01",
       "popularity": 15
     },
     {
-      "trackId": "3Ysc4pBFo6vebIhLhlKLI1",
-      "name": "Tel Que Tu Es",
+      "track": {
+        "id": "3Ysc4pBFo6vebIhLhlKLI1",
+        "name": "Tel Que Tu Es"
+      },
       "duration_ms": 189706,
-      "artist": [
-        "Charlotte Gainsbourg"
+      "artists": [
+        {
+          "name": "Charlotte Gainsbourg",
+          "id": "2rBcvLKWCZs9w1qIWv560v"
+        }
       ],
-      "artistId": [
-        "2rBcvLKWCZs9w1qIWv560v"
-      ],
-      "albumId": "6VbkZXFdiFyEbwY240h672",
+      "album": {
+        "id": "6VbkZXFdiFyEbwY240h672",
+        "name": "5:55 (Nouvelle Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fde48b3d73cf9caedc0d35a8"
+      },
       "release_date": "2007-05-14",
       "popularity": 22
     },
     {
-      "trackId": "4qgreaYd5TpeiGYW4WrxBs",
-      "name": "La malediction d' amour",
+      "track": {
+        "id": "4qgreaYd5TpeiGYW4WrxBs",
+        "name": "La malediction d' amour"
+      },
       "duration_ms": 205066,
-      "artist": [
-        "Maria Tănase"
+      "artists": [
+        {
+          "name": "Maria Tănase",
+          "id": "0tO9ebcW0t89aXgrA5xID2"
+        }
       ],
-      "artistId": [
-        "0tO9ebcW0t89aXgrA5xID2"
-      ],
-      "albumId": "4XaLXfr0caqrDa9uevXQtp",
+      "album": {
+        "id": "4XaLXfr0caqrDa9uevXQtp",
+        "name": "The Nightingale of Bucharest, Volume 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228bcc6d42129a54772180295"
+      },
       "release_date": "2015-05-17",
       "popularity": 0
     },
     {
-      "trackId": "3CEEt3Yy9BoxkkNHorYVpV",
-      "name": "Zobi la mouche",
+      "track": {
+        "id": "3CEEt3Yy9BoxkkNHorYVpV",
+        "name": "Zobi la mouche"
+      },
       "duration_ms": 205733,
-      "artist": [
-        "Les Négresses Vertes"
+      "artists": [
+        {
+          "name": "Les Négresses Vertes",
+          "id": "0baGqHSXVphCsotxWDv7NX"
+        }
       ],
-      "artistId": [
-        "0baGqHSXVphCsotxWDv7NX"
-      ],
-      "albumId": "4phKu4QfMgniJyW1dlmuUV",
+      "album": {
+        "id": "4phKu4QfMgniJyW1dlmuUV",
+        "name": "Mlah",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213037484df7df492be1b2cdc"
+      },
       "release_date": "1988",
       "popularity": 39
     },
     {
-      "trackId": "1Al8Zg3hEmgrUuqqwjKrjI",
-      "name": "Kapitulation",
+      "track": {
+        "id": "1Al8Zg3hEmgrUuqqwjKrjI",
+        "name": "Kapitulation"
+      },
       "duration_ms": 253933,
-      "artist": [
-        "Tocotronic"
+      "artists": [
+        {
+          "name": "Tocotronic",
+          "id": "4WOaecAM3RMMmrbZzNx0vu"
+        }
       ],
-      "artistId": [
-        "4WOaecAM3RMMmrbZzNx0vu"
-      ],
-      "albumId": "5AmKmJfg0T8jJHECa1S1jl",
+      "album": {
+        "id": "5AmKmJfg0T8jJHECa1S1jl",
+        "name": "Kapitulation",
+        "img": "https://i.scdn.co/image/ab67616d00001e0237ba50406c95adee434fbac7"
+      },
       "release_date": "2007-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6jnnwPOOCQKAzrvoVsPumv",
-      "name": "Meno Ektos",
+      "track": {
+        "id": "6jnnwPOOCQKAzrvoVsPumv",
+        "name": "Meno Ektos"
+      },
       "duration_ms": 201973,
-      "artist": [
-        "Eleftheria Arvanitaki"
+      "artists": [
+        {
+          "name": "Eleftheria Arvanitaki",
+          "id": "4wfucl2s2farNOAmxZAVTC"
+        }
       ],
-      "artistId": [
-        "4wfucl2s2farNOAmxZAVTC"
-      ],
-      "albumId": "72HVOspje5xxv7uYl3vgIk",
+      "album": {
+        "id": "72HVOspje5xxv7uYl3vgIk",
+        "name": "Meno Ektos",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d6f4d54636ff3a3a31383728"
+      },
       "release_date": "1991",
       "popularity": 33
     }

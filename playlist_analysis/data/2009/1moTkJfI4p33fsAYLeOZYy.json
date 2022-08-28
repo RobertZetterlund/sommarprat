@@ -7,132 +7,198 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249761_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1dODFBTSea9xj8ro4OEQmk",
-      "name": "OSKULD",
+      "track": {
+        "id": "1dODFBTSea9xj8ro4OEQmk",
+        "name": "OSKULD"
+      },
       "duration_ms": 116076,
-      "artist": [
-        "Rasmus Gozzi",
-        "FRÖKEN SNUSK"
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "id": "3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FRÖKEN SNUSK",
+          "id": "6RjsbK9T7d1UQD1PFEYYGt"
+        }
       ],
-      "artistId": [
-        "3loTvAld5Tpk5aSNbboGpj",
-        "6RjsbK9T7d1UQD1PFEYYGt"
-      ],
-      "albumId": "1ywqOgvXOME3cbiNImHhR6",
+      "album": {
+        "id": "1ywqOgvXOME3cbiNImHhR6",
+        "name": "OSKULD",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad642429708b9cf0817db79c"
+      },
       "release_date": "2021-06-11",
       "popularity": 44
     },
     {
-      "trackId": "5T3rfssV4W5fHm3GeTeRbw",
-      "name": "St. Matthew Passion, BWV 244: No. 26: \"Ich will bei meinem Jesu wachen\" with Chorus: \"So schlafen unsre Sünden ein\"",
+      "track": {
+        "id": "5T3rfssV4W5fHm3GeTeRbw",
+        "name": "St. Matthew Passion, BWV 244: No. 26: \"Ich will bei meinem Jesu wachen\" with Chorus: \"So schlafen unsre Sünden ein\""
+      },
       "duration_ms": 305366,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Peter Schreier",
-        "Münchener Bach-Orchester"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Peter Schreier",
+          "id": "38ghpVkkvBf5wugUg4HW4G"
+        },
+        {
+          "name": "Münchener Bach-Orchester",
+          "id": "38hliKqnaGCbRmZcLNoDvX"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "38ghpVkkvBf5wugUg4HW4G",
-        "38hliKqnaGCbRmZcLNoDvX"
-      ],
-      "albumId": "4d7EsDNe6felFUmVi7d5D2",
+      "album": {
+        "id": "4d7EsDNe6felFUmVi7d5D2",
+        "name": "Peter Schreier: Essentials",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5c5a6f10eb94a51d4f341f1"
+      },
       "release_date": "2020-02-14",
       "popularity": 0
     },
     {
-      "trackId": "40kYFnerMafPd8LAOW5plN",
-      "name": "Messiah / Part 2: Air: He was despised",
+      "track": {
+        "id": "40kYFnerMafPd8LAOW5plN",
+        "name": "Messiah / Part 2: Air: He was despised"
+      },
       "duration_ms": 402733,
-      "artist": [
-        "George Frideric Handel",
-        "Kathleen Ferrier",
-        "London Philharmonic Orchestra"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Kathleen Ferrier",
+          "id": "3QK4fNtQUGr2PbZYC5lQzH"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "id": "3PfJE6ebCbCHeuqO4BfNeA"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "3QK4fNtQUGr2PbZYC5lQzH",
-        "3PfJE6ebCbCHeuqO4BfNeA"
-      ],
-      "albumId": "1tRsuEOqGXGHZ9t6JvclSb",
+      "album": {
+        "id": "1tRsuEOqGXGHZ9t6JvclSb",
+        "name": "Kathleen Ferrier",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bec85aeff1aecdc4c0b6c1a2"
+      },
       "release_date": "1960-01-01",
       "popularity": 1
     },
     {
-      "trackId": "6vmdTXLsimRBhXioUcWP10",
-      "name": "Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto",
+      "track": {
+        "id": "6vmdTXLsimRBhXioUcWP10",
+        "name": "Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto"
+      },
       "duration_ms": 424306,
-      "artist": [
-        "Joseph Haydn",
-        "Steven Isserlis",
-        "Sir Roger Norrington"
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "id": "656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Steven Isserlis",
+          "id": "3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Sir Roger Norrington",
+          "id": "2nXNvTKpp7LSEXNUMFOd1t"
+        }
       ],
-      "artistId": [
-        "656RXuyw7CE0dtjdPgjJV6",
-        "3lqUltCfNNgeU38vDVBbI1",
-        "2nXNvTKpp7LSEXNUMFOd1t"
-      ],
-      "albumId": "2lI2wo69KRlRjgi07dsrdg",
+      "album": {
+        "id": "2lI2wo69KRlRjgi07dsrdg",
+        "name": "Haydn: Cello Concertos No. 1 in C Major & No. 2 in D Major; Symphony No. 13 in D Major; Sinfonia Concertante in B-Flat Major - Sony Classical Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02245b3b6270ab18118e3b9c45"
+      },
       "release_date": "1998",
       "popularity": 39
     },
     {
-      "trackId": "2gVl6JlyutUioIH5yHFoZ3",
-      "name": "Glimmande nymf",
+      "track": {
+        "id": "2gVl6JlyutUioIH5yHFoZ3",
+        "name": "Glimmande nymf"
+      },
       "duration_ms": 394293,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "13LevyBuVKNmKF95P8JDCA",
+      "album": {
+        "id": "13LevyBuVKNmKF95P8JDCA",
+        "name": "Fred Åkerström Sjunger Bellman Till Carl Michael",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e3a9a61943c99e1e3e9f60d"
+      },
       "release_date": "1964",
       "popularity": 29
     },
     {
-      "trackId": "1959YDwxWqpMHMxyyFmocx",
-      "name": "Stockholms Casanova",
+      "track": {
+        "id": "1959YDwxWqpMHMxyyFmocx",
+        "name": "Stockholms Casanova"
+      },
       "duration_ms": 182695,
-      "artist": [
-        "estraden"
+      "artists": [
+        {
+          "name": "estraden",
+          "id": "2Osj5g9VkHReOlZgfoEQao"
+        }
       ],
-      "artistId": [
-        "2Osj5g9VkHReOlZgfoEQao"
-      ],
-      "albumId": "5LnC7V6eorCnMISq9JAXbs",
+      "album": {
+        "id": "5LnC7V6eorCnMISq9JAXbs",
+        "name": "Mellan hägg och syrén",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b9485ea2cb2fb680db5926da"
+      },
       "release_date": "2020-08-28",
       "popularity": 36
     },
     {
-      "trackId": "6Y6jq2el8dK1g00JppZXye",
-      "name": "Stompalång Tut Pling Sång",
+      "track": {
+        "id": "6Y6jq2el8dK1g00JppZXye",
+        "name": "Stompalång Tut Pling Sång"
+      },
       "duration_ms": 230626,
-      "artist": [
-        "Babblarna"
+      "artists": [
+        {
+          "name": "Babblarna",
+          "id": "1aA5OGASCVhznQYm71BMYg"
+        }
       ],
-      "artistId": [
-        "1aA5OGASCVhznQYm71BMYg"
-      ],
-      "albumId": "4UJNmi54rOAergmdb546OD",
+      "album": {
+        "id": "4UJNmi54rOAergmdb546OD",
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230040d3f0ae79c0023365cf4"
+      },
       "release_date": "2015-01-01",
       "popularity": 51
     },
     {
-      "trackId": "1chTrqszWQEOP4RsNuOZf7",
-      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
+      "track": {
+        "id": "1chTrqszWQEOP4RsNuOZf7",
+        "name": "Il barbiere di Siviglia: Overture (Sinfonia)"
+      },
       "duration_ms": 425000,
-      "artist": [
-        "Gioachino Rossini",
-        "Academy of St. Martin in the Fields",
-        "Sir Neville Marriner"
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "id": "0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "id": "77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "id": "6NUhQz7eAEsZvjEHTKHux9"
+        }
       ],
-      "artistId": [
-        "0roWUeP7Ac4yK4VN6L2gF4",
-        "77CaCn32H4mOMQA7UElzfF",
-        "6NUhQz7eAEsZvjEHTKHux9"
-      ],
-      "albumId": "6r3UcK6cVlZZ28pVKszcaX",
+      "album": {
+        "id": "6r3UcK6cVlZZ28pVKszcaX",
+        "name": "Rossini: Complete Overtures",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e391c9555988a768b17e66c"
+      },
       "release_date": "2003-01-01",
       "popularity": 49
     }

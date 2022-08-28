@@ -7,164 +7,238 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/46668162-93e2-452f-a95c-dc24d094aaf4.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1KgK3L2fIJvZ53vnnS5zNL",
-      "name": "730",
+      "track": {
+        "id": "1KgK3L2fIJvZ53vnnS5zNL",
+        "name": "730"
+      },
       "duration_ms": 252960,
-      "artist": [
-        "Foxy Brown"
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "id": "1wvlC6NwleHt1iRD6d5X2C"
+        }
       ],
-      "artistId": [
-        "1wvlC6NwleHt1iRD6d5X2C"
-      ],
-      "albumId": "0V5LKel3fj8JvCNeYHWCuU",
+      "album": {
+        "id": "0V5LKel3fj8JvCNeYHWCuU",
+        "name": "Broken Silence",
+        "img": "https://i.scdn.co/image/ab67616d00001e024981eb9d956d96b3f8219bc6"
+      },
       "release_date": "2001-01-01",
       "popularity": 19
     },
     {
-      "trackId": "36KStm44i8gAqnQkm3PY9c",
-      "name": "Undecided",
+      "track": {
+        "id": "36KStm44i8gAqnQkm3PY9c",
+        "name": "Undecided"
+      },
       "duration_ms": 199226,
-      "artist": [
-        "Ella Fitzgerald",
-        "Chick Webb"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Chick Webb",
+          "id": "7AgtFmxbJL1wDbp7yYrzQb"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz",
-        "7AgtFmxbJL1wDbp7yYrzQb"
-      ],
-      "albumId": "2uDfgu5TFnSxSivBh4UpW9",
+      "album": {
+        "id": "2uDfgu5TFnSxSivBh4UpW9",
+        "name": "The Early Years - Part 2 (1939-1941)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d349fc7ae8f48681585e736"
+      },
       "release_date": "1993-06-30",
       "popularity": 49
     },
     {
-      "trackId": "6W7ztLBiRzBN46ZaPAcQ0F",
-      "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
+      "track": {
+        "id": "6W7ztLBiRzBN46ZaPAcQ0F",
+        "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack"
+      },
       "duration_ms": 290333,
-      "artist": [
-        "Bill Medley",
-        "Jennifer Warnes"
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "id": "1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "id": "1BwHztAQKypBuy5WBEdJnG"
+        }
       ],
-      "artistId": [
-        "1XE70WwxhnrXNAJYQQ9ygx",
-        "1BwHztAQKypBuy5WBEdJnG"
-      ],
-      "albumId": "0mtLFaQ3hL371jsNraRo9g",
+      "album": {
+        "id": "0mtLFaQ3hL371jsNraRo9g",
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac19c6552524d207aac1277b"
+      },
       "release_date": "1987-09-24",
       "popularity": 67
     },
     {
-      "trackId": "7rWS1umX04r7zzWnGNDu8w",
-      "name": "Blind",
+      "track": {
+        "id": "7rWS1umX04r7zzWnGNDu8w",
+        "name": "Blind"
+      },
       "duration_ms": 376973,
-      "artist": [
-        "Hercules & Love Affair"
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "id": "1WHoAjAWGx5qLsgzpaOk7W"
+        }
       ],
-      "artistId": [
-        "1WHoAjAWGx5qLsgzpaOk7W"
-      ],
-      "albumId": "6LPZgo0gjHTMmOwzMSUqAV",
+      "album": {
+        "id": "6LPZgo0gjHTMmOwzMSUqAV",
+        "name": "Hercules & Love Affair",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b722a3d355e6bbf55b8a1dc5"
+      },
       "release_date": "2008-03-10",
       "popularity": 50
     },
     {
-      "trackId": "2baxeoIZr4g7I3k9JWqwjl",
-      "name": "Jag vill göra allt!",
+      "track": {
+        "id": "2baxeoIZr4g7I3k9JWqwjl",
+        "name": "Jag vill göra allt!"
+      },
       "duration_ms": 222040,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "4OOUngKtyG306ZzK8tiHw8",
+      "album": {
+        "id": "4OOUngKtyG306ZzK8tiHw8",
+        "name": "Knäpp igen!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c896456ca15ffab702206669"
+      },
       "release_date": "1993-01-01",
       "popularity": 1
     },
     {
-      "trackId": "4DOYansvQXSXIrodAuA2wB",
-      "name": "Blomster I Soweto",
+      "track": {
+        "id": "4DOYansvQXSXIrodAuA2wB",
+        "name": "Blomster I Soweto"
+      },
       "duration_ms": 250279,
-      "artist": [
-        "Marianne Antonsen"
+      "artists": [
+        {
+          "name": "Marianne Antonsen",
+          "id": "7Cm6EM4nvMzDXswqxgtM3J"
+        }
       ],
-      "artistId": [
-        "7Cm6EM4nvMzDXswqxgtM3J"
-      ],
-      "albumId": "4pgwegGdxeBOxwIC9XBgMS",
+      "album": {
+        "id": "4pgwegGdxeBOxwIC9XBgMS",
+        "name": "Blomster I Soweto",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7e28a7095985e467e949b0f"
+      },
       "release_date": "1995-05-09",
       "popularity": 6
     },
     {
-      "trackId": "4Vw3UGCAUQetVTmNdh6W5d",
-      "name": "Reaper",
+      "track": {
+        "id": "4Vw3UGCAUQetVTmNdh6W5d",
+        "name": "Reaper"
+      },
       "duration_ms": 219773,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "2eV6DIPDnGl1idcjww6xyX",
+      "album": {
+        "id": "2eV6DIPDnGl1idcjww6xyX",
+        "name": "This Is Acting (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02754b2fddebe7039fdb912837"
+      },
       "release_date": "2016-10-21",
       "popularity": 53
     },
     {
-      "trackId": "5CKHhg31HcYYhwUeeGqvhq",
-      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "track": {
+        "id": "5CKHhg31HcYYhwUeeGqvhq",
+        "name": "I Wish I Knew How It Would Feel to Be Free"
+      },
       "duration_ms": 188613,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "2miVfa78vOd0o8Vbsgd7g3",
+      "album": {
+        "id": "2miVfa78vOd0o8Vbsgd7g3",
+        "name": "Silk & Soul (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020cf2e3d1e85c5bd6d7bedee0"
+      },
       "release_date": "1967",
       "popularity": 61
     },
     {
-      "trackId": "4mCf3vQf7z0Yseo0RxAi3V",
-      "name": "Desperado",
+      "track": {
+        "id": "4mCf3vQf7z0Yseo0RxAi3V",
+        "name": "Desperado"
+      },
       "duration_ms": 186466,
-      "artist": [
-        "Rihanna"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ],
-      "albumId": "4UlGauD7ROb3YbVOFMgW5u",
+      "album": {
+        "id": "4UlGauD7ROb3YbVOFMgW5u",
+        "name": "ANTI (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233c6b920eabcf4c00d7a1093"
+      },
       "release_date": "2016-01-28",
       "popularity": 72
     },
     {
-      "trackId": "5STdMlrBf6pqWiNE7WqxSi",
-      "name": "Many Men (Wish Death)",
+      "track": {
+        "id": "5STdMlrBf6pqWiNE7WqxSi",
+        "name": "Many Men (Wish Death)"
+      },
       "duration_ms": 256240,
-      "artist": [
-        "50 Cent"
+      "artists": [
+        {
+          "name": "50 Cent",
+          "id": "3q7HBObVc0L8jNeTe5Gofh"
+        }
       ],
-      "artistId": [
-        "3q7HBObVc0L8jNeTe5Gofh"
-      ],
-      "albumId": "5G5rgQHzdQnw32SI0WjIo5",
+      "album": {
+        "id": "5G5rgQHzdQnw32SI0WjIo5",
+        "name": "Get Rich Or Die Tryin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae"
+      },
       "release_date": "2003-02-06",
       "popularity": 74
     },
     {
-      "trackId": "62auQZGD06Acbh8wnh7iW2",
-      "name": "Bruckner: Symphony No. 7 in E Major, WAB 107: II. Adagio. Sehr feierlich und sehr langsam",
+      "track": {
+        "id": "62auQZGD06Acbh8wnh7iW2",
+        "name": "Bruckner: Symphony No. 7 in E Major, WAB 107: II. Adagio. Sehr feierlich und sehr langsam"
+      },
       "duration_ms": 1449560,
-      "artist": [
-        "Anton Bruckner",
-        "City Of Birmingham Symphony Orchestra",
-        "Sir Simon Rattle"
+      "artists": [
+        {
+          "name": "Anton Bruckner",
+          "id": "2bM3j1JQWBkmzuoZKu4zj2"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "id": "6wuudWq7XpVutoFp4bsVDo"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "id": "4GQwgdcDQwqtcHICjUNndp"
+        }
       ],
-      "artistId": [
-        "2bM3j1JQWBkmzuoZKu4zj2",
-        "6wuudWq7XpVutoFp4bsVDo",
-        "4GQwgdcDQwqtcHICjUNndp"
-      ],
-      "albumId": "5VkD6SToYSXoSnKik4hQuS",
+      "album": {
+        "id": "5VkD6SToYSXoSnKik4hQuS",
+        "name": "Simon Rattle Conducts Bruckner",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba8c729e4cc25232c7366735"
+      },
       "release_date": "2022-07-08",
       "popularity": 13
     }

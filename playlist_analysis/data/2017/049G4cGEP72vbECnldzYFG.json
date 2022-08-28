@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2de9753e-2458-48a7-b945-42733b60155e.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1EXrFPfVNVsyb32yapebbM",
-      "name": "Our House",
+      "track": {
+        "id": "1EXrFPfVNVsyb32yapebbM",
+        "name": "Our House"
+      },
       "duration_ms": 203120,
-      "artist": [
-        "Madness"
+      "artists": [
+        {
+          "name": "Madness",
+          "id": "4AYkFtEBnNnGuoo8HaHErd"
+        }
       ],
-      "artistId": [
-        "4AYkFtEBnNnGuoo8HaHErd"
-      ],
-      "albumId": "6CZkNYiE9HGqRlGFprzR4i",
+      "album": {
+        "id": "6CZkNYiE9HGqRlGFprzR4i",
+        "name": "The Rise & Fall",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce5ad5ce2b582aa56ca59022"
+      },
       "release_date": "1982-10-08",
       "popularity": 66
     },
     {
-      "trackId": "6b9ZdM7ZK0TCJgLA0NVDIm",
-      "name": "Heja Hölje's Rallycross",
+      "track": {
+        "id": "6b9ZdM7ZK0TCJgLA0NVDIm",
+        "name": "Heja Hölje's Rallycross"
+      },
       "duration_ms": 182880,
-      "artist": [
-        "Rune Rudberg"
+      "artists": [
+        {
+          "name": "Rune Rudberg",
+          "id": "5vViCpDnSSDRHtSmFhrKfY"
+        }
       ],
-      "artistId": [
-        "5vViCpDnSSDRHtSmFhrKfY"
-      ],
-      "albumId": "1TaZVhwRZ7avNYPS4SzpbM",
+      "album": {
+        "id": "1TaZVhwRZ7avNYPS4SzpbM",
+        "name": "20 største hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a6f5035d7669556d2caebdf5"
+      },
       "release_date": "2016-10-07",
       "popularity": 38
     },
     {
-      "trackId": "43T696K5X1s1mtxIuuUvvz",
-      "name": "When All Is Said And Done",
+      "track": {
+        "id": "43T696K5X1s1mtxIuuUvvz",
+        "name": "When All Is Said And Done"
+      },
       "duration_ms": 198586,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5GByGaws7Cw0t28kjvAOzV",
+      "album": {
+        "id": "5GByGaws7Cw0t28kjvAOzV",
+        "name": "The Visitors (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242678f54dfd1d5afb3eea19a"
+      },
       "release_date": "1981",
       "popularity": 56
     },
     {
-      "trackId": "4ncAwdp0n6WhuGTiNsx7Vj",
-      "name": "Paisley Park",
+      "track": {
+        "id": "4ncAwdp0n6WhuGTiNsx7Vj",
+        "name": "Paisley Park"
+      },
       "duration_ms": 200013,
-      "artist": [
-        "Montys Loco"
+      "artists": [
+        {
+          "name": "Montys Loco",
+          "id": "6t24f2QIsakBisN7UF9Qj1"
+        }
       ],
-      "artistId": [
-        "6t24f2QIsakBisN7UF9Qj1"
-      ],
-      "albumId": "2amMDIVd6QFt1LznZMJRVM",
+      "album": {
+        "id": "2amMDIVd6QFt1LznZMJRVM",
+        "name": "Keep Talking",
+        "img": "https://i.scdn.co/image/ab67616d00001e024711ec20acfd74d2fede4ad7"
+      },
       "release_date": "2003-01-01",
       "popularity": 7
     },
     {
-      "trackId": "0STiertrJec5Ozgx38gpvB",
-      "name": "Type of Party (feat. Que & Pewee Offset)",
+      "track": {
+        "id": "0STiertrJec5Ozgx38gpvB",
+        "name": "Type of Party (feat. Que & Pewee Offset)"
+      },
       "duration_ms": 311040,
-      "artist": [
-        "Jeezy"
+      "artists": [
+        {
+          "name": "Jeezy",
+          "id": "4yBK75WVCQXej1p04GWqxH"
+        }
       ],
-      "artistId": [
-        "4yBK75WVCQXej1p04GWqxH"
-      ],
-      "albumId": "3ODtGrphcH5ddDmjb5uN8A",
+      "album": {
+        "id": "3ODtGrphcH5ddDmjb5uN8A",
+        "name": "Snow Season 2017",
+        "img": "https://i.scdn.co/image/ab67616d00001e020429a735001509c4c615fe5b"
+      },
       "release_date": "2017-06-09",
       "popularity": 1
     },
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "5kxcj63GYiractdCBUUU1G",
-      "name": "With Every Heartbeat",
+      "track": {
+        "id": "5kxcj63GYiractdCBUUU1G",
+        "name": "With Every Heartbeat"
+      },
       "duration_ms": 253186,
-      "artist": [
-        "Kleerup",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Kleerup",
+          "id": "2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "2YL0l5fnyHE9FEf1bwFGCc",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "6f3hgA3I0KTeH10Xw8IPZK",
+      "album": {
+        "id": "6f3hgA3I0KTeH10Xw8IPZK",
+        "name": "Kleerup (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258b18b34c02bbab701cd9e4d"
+      },
       "release_date": "2008-05-19",
       "popularity": 49
     },
     {
-      "trackId": "1bhpBRCLsVg3p7BWARbaDS",
-      "name": "Rise",
+      "track": {
+        "id": "1bhpBRCLsVg3p7BWARbaDS",
+        "name": "Rise"
+      },
       "duration_ms": 156453,
-      "artist": [
-        "Eddie Vedder"
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "id": "0mXTJETA4XUa12MmmXxZJh"
+        }
       ],
-      "artistId": [
-        "0mXTJETA4XUa12MmmXxZJh"
-      ],
-      "albumId": "13xlpKbai3GGoMSr75lOeX",
+      "album": {
+        "id": "13xlpKbai3GGoMSr75lOeX",
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ed52339ae78ac1b695e8d80"
+      },
       "release_date": "2007-09-18",
       "popularity": 58
     },
     {
-      "trackId": "7LZoKNMhsZ7qbP1lYGDva8",
-      "name": "To Love Somebody",
+      "track": {
+        "id": "7LZoKNMhsZ7qbP1lYGDva8",
+        "name": "To Love Somebody"
+      },
       "duration_ms": 158746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "6T4nAC6CRLciyg4tQbgovi",
+      "album": {
+        "id": "6T4nAC6CRLciyg4tQbgovi",
+        "name": "To Love Somebody (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d443fe6c1b51189c885c8bb8"
+      },
       "release_date": "1969",
       "popularity": 51
     },
     {
-      "trackId": "07ABETRdek3ACMpRPvQuaT",
-      "name": "Always on My Mind",
+      "track": {
+        "id": "07ABETRdek3ACMpRPvQuaT",
+        "name": "Always on My Mind"
+      },
       "duration_ms": 234906,
-      "artist": [
-        "Pet Shop Boys"
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "id": "2ycnb8Er79LoH2AsR5ldjh"
+        }
       ],
-      "artistId": [
-        "2ycnb8Er79LoH2AsR5ldjh"
-      ],
-      "albumId": "0Jt2LzWgtGxy3GZH5i2Kcy",
+      "album": {
+        "id": "0Jt2LzWgtGxy3GZH5i2Kcy",
+        "name": "Discography - Complete Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02499c6d2eaeb941d76acdfe41"
+      },
       "release_date": "1998-03-31",
       "popularity": 70
     },
     {
-      "trackId": "3kbB9lUF4lWNVei1oj7rVd",
-      "name": "Fröken Ur sång (Ticke Ticke Tack)",
+      "track": {
+        "id": "3kbB9lUF4lWNVei1oj7rVd",
+        "name": "Fröken Ur sång (Ticke Ticke Tack)"
+      },
       "duration_ms": 165520,
-      "artist": [
-        "Titti Sjöblom"
+      "artists": [
+        {
+          "name": "Titti Sjöblom",
+          "id": "5kPYwmgz8UgnBTI2tmqIHP"
+        }
       ],
-      "artistId": [
-        "5kPYwmgz8UgnBTI2tmqIHP"
-      ],
-      "albumId": "35nFTDSZzBFfGC310Rf6Kv",
+      "album": {
+        "id": "35nFTDSZzBFfGC310Rf6Kv",
+        "name": "Fröken Ur sång (Ticke Ticke Tack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1de3f2796eb19516bfe2ee7"
+      },
       "release_date": "1974-03-01",
       "popularity": 22
     },
     {
-      "trackId": "6A0IZ3A7iGKF9QIOKYHwrF",
-      "name": "Kärleken är evig",
+      "track": {
+        "id": "6A0IZ3A7iGKF9QIOKYHwrF",
+        "name": "Kärleken är evig"
+      },
       "duration_ms": 188693,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "5QbKjrvhIJg27yUgfZr7f4",
+      "album": {
+        "id": "5QbKjrvhIJg27yUgfZr7f4",
+        "name": "Kärleken är evig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b19664854537f91ca95e5bd5"
+      },
       "release_date": "1986-05-11",
       "popularity": 44
     }

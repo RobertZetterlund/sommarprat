@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/8ca48e29-7d71-4c28-9463-8dcbac4b7117.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6SddhDAnOCIz776PyXZrxa",
-      "name": "En vandringsdag",
+      "track": {
+        "id": "6SddhDAnOCIz776PyXZrxa",
+        "name": "En vandringsdag"
+      },
       "duration_ms": 297066,
-      "artist": [
-        "Anna Ihlis"
+      "artists": [
+        {
+          "name": "Anna Ihlis",
+          "id": "1bNiPK3IaQZcD8nLNxiRHA"
+        }
       ],
-      "artistId": [
-        "1bNiPK3IaQZcD8nLNxiRHA"
-      ],
-      "albumId": "58uhWPJT6eipAqnhjlD5bx",
+      "album": {
+        "id": "58uhWPJT6eipAqnhjlD5bx",
+        "name": "Avskedet 1864-2018",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb1291a593f53b797bda619f"
+      },
       "release_date": "2018-06-01",
       "popularity": 2
     },
     {
-      "trackId": "6rBzSjdrihboUkZ0YyhWLc",
-      "name": "This Is the Year",
+      "track": {
+        "id": "6rBzSjdrihboUkZ0YyhWLc",
+        "name": "This Is the Year"
+      },
       "duration_ms": 184666,
-      "artist": [
-        "Marit Bergman"
+      "artists": [
+        {
+          "name": "Marit Bergman",
+          "id": "1Z8YLeRzSedy0jT5D08pVU"
+        }
       ],
-      "artistId": [
-        "1Z8YLeRzSedy0jT5D08pVU"
-      ],
-      "albumId": "4hbobVgZ2HhBzeiclP1df4",
+      "album": {
+        "id": "4hbobVgZ2HhBzeiclP1df4",
+        "name": "3.00 A.M. Serenades",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274cb7f86bd8d2fb6b042ce9a"
+      },
       "release_date": "2003-05-31",
       "popularity": 33
     },
     {
-      "trackId": "5iTKSKZjEFw0H2nYpylcHj",
-      "name": "My Secret",
+      "track": {
+        "id": "5iTKSKZjEFw0H2nYpylcHj",
+        "name": "My Secret"
+      },
       "duration_ms": 301760,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "5VCGkjrbMQlJnYaCJigbfK",
+      "album": {
+        "id": "5VCGkjrbMQlJnYaCJigbfK",
+        "name": "Somebody Outside",
+        "img": "https://i.scdn.co/image/ab67616d00001e021aa3c6af23e72f5e3a092def"
+      },
       "release_date": "2004",
       "popularity": 19
     },
     {
-      "trackId": "57SNUEngomVJnhEB3fgJky",
-      "name": "Så skimrande var aldrig havet",
+      "track": {
+        "id": "57SNUEngomVJnhEB3fgJky",
+        "name": "Så skimrande var aldrig havet"
+      },
       "duration_ms": 158426,
-      "artist": [
-        "Lill Lindfors"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC"
-      ],
-      "albumId": "0l537xeeUQXZAkArjKmb2H",
+      "album": {
+        "id": "0l537xeeUQXZAkArjKmb2H",
+        "name": "Sommar, sommar, sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec33b6331501e4f4fcc2ff1d"
+      },
       "release_date": "1997-01-01",
       "popularity": 26
     },
     {
-      "trackId": "2rnCae7ZO9bIfQFscasS3q",
-      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+      "track": {
+        "id": "2rnCae7ZO9bIfQFscasS3q",
+        "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta"
+      },
       "duration_ms": 292600,
-      "artist": [
-        "Maria Callas",
-        "Tullio Serafin",
-        "Philharmonia Orchestra"
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "id": "0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "id": "3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "id": "09KZU0NsS7jRa5p0SflmGY"
+        }
       ],
-      "artistId": [
-        "0bjdfjE8XbLa2Odstu6E1E",
-        "3UYZxxxrntUxxEeRycqHvq",
-        "09KZU0NsS7jRa5p0SflmGY"
-      ],
-      "albumId": "2FJtdO13XdtncsnpzWZOAt",
+      "album": {
+        "id": "2FJtdO13XdtncsnpzWZOAt",
+        "name": "Lyric and Coloratura Arias",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5630840de7c785da638a1f0"
+      },
       "release_date": "1997",
       "popularity": 37
     },
     {
-      "trackId": "4ig7BR50EFmJRc51FLm88O",
-      "name": "Vaggvisa",
+      "track": {
+        "id": "4ig7BR50EFmJRc51FLm88O",
+        "name": "Vaggvisa"
+      },
       "duration_ms": 254362,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 24
     },
     {
-      "trackId": "31xWp6w2lOwgBucTlzdk3A",
-      "name": "LET MY SHOES LEAD ME FORWARD",
+      "track": {
+        "id": "31xWp6w2lOwgBucTlzdk3A",
+        "name": "LET MY SHOES LEAD ME FORWARD"
+      },
       "duration_ms": 265533,
-      "artist": [
-        "Jenny Wilson"
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "id": "3axEmcxTibioxD1rZi1IOB"
+        }
       ],
-      "artistId": [
-        "3axEmcxTibioxD1rZi1IOB"
-      ],
-      "albumId": "4F2aABjslmakn5sLuYbyPW",
+      "album": {
+        "id": "4F2aABjslmakn5sLuYbyPW",
+        "name": "LOVE AND YOUTH",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239e7d952fc27785eb16dd120"
+      },
       "release_date": "2005-04-12",
       "popularity": 32
     },
     {
-      "trackId": "2tUyERWNGVMjC4w3136HSh",
-      "name": "Jorden är ett litet rum",
+      "track": {
+        "id": "2tUyERWNGVMjC4w3136HSh",
+        "name": "Jorden är ett litet rum"
+      },
       "duration_ms": 250906,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "4sewAubkcE7IHdxJJQdvDO",
+      "album": {
+        "id": "4sewAubkcE7IHdxJJQdvDO",
+        "name": "En blekt blondins ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e021fb4d3ec2c0f6c55d371bcf5"
+      },
       "release_date": "2007",
       "popularity": 27
     },
     {
-      "trackId": "66Bzmhj4cOinK5bxjx5DAK",
-      "name": "Release Me",
+      "track": {
+        "id": "66Bzmhj4cOinK5bxjx5DAK",
+        "name": "Release Me"
+      },
       "duration_ms": 184935,
-      "artist": [
-        "Oh Laura"
+      "artists": [
+        {
+          "name": "Oh Laura",
+          "id": "3myGY9DKqe4EcE5VMDQq7j"
+        }
       ],
-      "artistId": [
-        "3myGY9DKqe4EcE5VMDQq7j"
-      ],
-      "albumId": "7mxCAymM5G7iwKI0gtqKfz",
+      "album": {
+        "id": "7mxCAymM5G7iwKI0gtqKfz",
+        "name": "A Song Inside My Head, A Demon In My Bed",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ae7b087f2d0895959bb6ec8"
+      },
       "release_date": "2007-05-23",
       "popularity": 47
     },
     {
-      "trackId": "6Rvz1jM5eUqzNs2Pi8RMTG",
-      "name": "I'm a Fool to Want You",
+      "track": {
+        "id": "6Rvz1jM5eUqzNs2Pi8RMTG",
+        "name": "I'm a Fool to Want You"
+      },
       "duration_ms": 203266,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "4LrLP7DM1KBj8r2Sc098JA",
+      "album": {
+        "id": "4LrLP7DM1KBj8r2Sc098JA",
+        "name": "Lady In Satin",
+        "img": "https://i.scdn.co/image/ab67616d00001e020d8f3ef58cefad0ec738f3dd"
+      },
       "release_date": "1958-06",
       "popularity": 48
     },
     {
-      "trackId": "4PINSJIlBWsnVeveicq1S8",
-      "name": "I'll Be Your Mirror",
+      "track": {
+        "id": "4PINSJIlBWsnVeveicq1S8",
+        "name": "I'll Be Your Mirror"
+      },
       "duration_ms": 134040,
-      "artist": [
-        "The Velvet Underground",
-        "Nico"
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "id": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "id": "0IwlY33zbBXN7zlS9DP2Cj"
+        }
       ],
-      "artistId": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "0IwlY33zbBXN7zlS9DP2Cj"
-      ],
-      "albumId": "4xwx0x7k6c5VuThz5qVqmV",
+      "album": {
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7"
+      },
       "release_date": "1967-03-12",
       "popularity": 57
     },
     {
-      "trackId": "4ig7BR50EFmJRc51FLm88O",
-      "name": "Vaggvisa",
+      "track": {
+        "id": "4ig7BR50EFmJRc51FLm88O",
+        "name": "Vaggvisa"
+      },
       "duration_ms": 254362,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 24
     },
     {
-      "trackId": "0ZGDxwoBaGmLIZE6rxoURK",
-      "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+      "track": {
+        "id": "0ZGDxwoBaGmLIZE6rxoURK",
+        "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]"
+      },
       "duration_ms": 143506,
-      "artist": [
-        "Singer's Edge Karaoke"
+      "artists": [
+        {
+          "name": "Singer's Edge Karaoke",
+          "id": "3CtgjasLNN3Ym8SHm5JuJn"
+        }
       ],
-      "artistId": [
-        "3CtgjasLNN3Ym8SHm5JuJn"
-      ],
-      "albumId": "0C9piLHM2FN3c4DnfyvSlG",
+      "album": {
+        "id": "0C9piLHM2FN3c4DnfyvSlG",
+        "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d4e3db2be3764e45adff8e1"
+      },
       "release_date": "2014-03-13",
       "popularity": 0
     },
     {
-      "trackId": "6H3Wa6hWR9DRMzMSd4pZkT",
-      "name": "Make Your Own Kind Of Music",
+      "track": {
+        "id": "6H3Wa6hWR9DRMzMSd4pZkT",
+        "name": "Make Your Own Kind Of Music"
+      },
       "duration_ms": 139533,
-      "artist": [
-        "Cass Elliot"
+      "artists": [
+        {
+          "name": "Cass Elliot",
+          "id": "5jX7X3kRkfJTRqAdT7RcHk"
+        }
       ],
-      "artistId": [
-        "5jX7X3kRkfJTRqAdT7RcHk"
-      ],
-      "albumId": "3x44BijmAfm1N7Cs7yILL4",
+      "album": {
+        "id": "3x44BijmAfm1N7Cs7yILL4",
+        "name": "Mama's Big Ones",
+        "img": "https://i.scdn.co/image/ab67616d00001e021441866921b337b26dd53cff"
+      },
       "release_date": "1973-09-28",
       "popularity": 58
     }

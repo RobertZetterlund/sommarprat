@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300184_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "65lfnNT9adFAtsuR0ygRjt",
-      "name": "25 minuter kvar",
+      "track": {
+        "id": "65lfnNT9adFAtsuR0ygRjt",
+        "name": "25 minuter kvar"
+      },
       "duration_ms": 207666,
-      "artist": [
-        "Ewert Ljusberg"
+      "artists": [
+        {
+          "name": "Ewert Ljusberg",
+          "id": "7z14gJhOaAQN6DguOxaMc0"
+        }
       ],
-      "artistId": [
-        "7z14gJhOaAQN6DguOxaMc0"
-      ],
-      "albumId": "3IoufgNmgguSzhJDEF6mhf",
+      "album": {
+        "id": "3IoufgNmgguSzhJDEF6mhf",
+        "name": "Goknul!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f41ca71afe4b287bade99fa9"
+      },
       "release_date": "1972-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6wWlaSxOrBizAcpqkuv1FJ",
-      "name": "Twist in My Sobriety",
+      "track": {
+        "id": "6wWlaSxOrBizAcpqkuv1FJ",
+        "name": "Twist in My Sobriety"
+      },
       "duration_ms": 292080,
-      "artist": [
-        "Tanita Tikaram"
+      "artists": [
+        {
+          "name": "Tanita Tikaram",
+          "id": "2gTl60Ao3u7bljVnAqxPh8"
+        }
       ],
-      "artistId": [
-        "2gTl60Ao3u7bljVnAqxPh8"
-      ],
-      "albumId": "3SuC7635bYkUsS5iHTSnSf",
+      "album": {
+        "id": "3SuC7635bYkUsS5iHTSnSf",
+        "name": "Ancient Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e027164632c1d8483a15736a7a1"
+      },
       "release_date": "1988-09-12",
       "popularity": 60
     },
     {
-      "trackId": "3OwtuzRo8mc7lgsBau9MWk",
-      "name": "Where the Wild Roses Grow - 2011 - Remaster",
+      "track": {
+        "id": "3OwtuzRo8mc7lgsBau9MWk",
+        "name": "Where the Wild Roses Grow - 2011 - Remaster"
+      },
       "duration_ms": 237080,
-      "artist": [
-        "Nick Cave & The Bad Seeds",
-        "Kylie Minogue"
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "id": "4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "Kylie Minogue",
+          "id": "4RVnAU35WRWra6OZ3CbbMA"
+        }
       ],
-      "artistId": [
-        "4UXJsSlnKd7ltsrHebV79Q",
-        "4RVnAU35WRWra6OZ3CbbMA"
-      ],
-      "albumId": "0SJIg249cRWdGWEcqXsYyW",
+      "album": {
+        "id": "0SJIg249cRWdGWEcqXsYyW",
+        "name": "Murder Ballads (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6d53991e9eced932ea15ef8"
+      },
       "release_date": "1996",
       "popularity": 58
     },
     {
-      "trackId": "1ntKYuqLlmV3sTZoNyeHhM",
-      "name": "Hazard",
+      "track": {
+        "id": "1ntKYuqLlmV3sTZoNyeHhM",
+        "name": "Hazard"
+      },
       "duration_ms": 317306,
-      "artist": [
-        "Richard Marx"
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "id": "0grdhNhiRLFBaFVyybqsj6"
+        }
       ],
-      "artistId": [
-        "0grdhNhiRLFBaFVyybqsj6"
-      ],
-      "albumId": "0hNMHkt0vLHIioGUoOTk0F",
+      "album": {
+        "id": "0hNMHkt0vLHIioGUoOTk0F",
+        "name": "Rush Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e02130b0f73a9a710d29a457243"
+      },
       "release_date": "1991-01-01",
       "popularity": 63
     },
     {
-      "trackId": "2UP3LtHVsSiwt39JR4foQT",
-      "name": "Kliff",
+      "track": {
+        "id": "2UP3LtHVsSiwt39JR4foQT",
+        "name": "Kliff"
+      },
       "duration_ms": 195000,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "4fD5UIcbjsAMBdJnCkcx2J",
+      "album": {
+        "id": "4fD5UIcbjsAMBdJnCkcx2J",
+        "name": "Nya Perspektiv",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b6c4e1f8043006dcbb9f3d9"
+      },
       "release_date": "1975",
       "popularity": 41
     },
     {
-      "trackId": "7kixCGSpKVDPF7nOqfWQcx",
-      "name": "The Third Man Theme (The Harry Lime Theme) - Original Version",
+      "track": {
+        "id": "7kixCGSpKVDPF7nOqfWQcx",
+        "name": "The Third Man Theme (The Harry Lime Theme) - Original Version"
+      },
       "duration_ms": 133520,
-      "artist": [
-        "Anton Karas"
+      "artists": [
+        {
+          "name": "Anton Karas",
+          "id": "1N6hAy84Nd6KdUhr4BjXWS"
+        }
       ],
-      "artistId": [
-        "1N6hAy84Nd6KdUhr4BjXWS"
-      ],
-      "albumId": "7tW9Jnbk3HCz5TrpzgDGWp",
+      "album": {
+        "id": "7tW9Jnbk3HCz5TrpzgDGWp",
+        "name": "Anton Karas plays \"The Third Man Theme\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff13f203d3046a909d650cf9"
+      },
       "release_date": "2002",
       "popularity": 33
     },
     {
-      "trackId": "4ZhPLoMzZwewHLLjV1J15c",
-      "name": "99 Luftballons",
+      "track": {
+        "id": "4ZhPLoMzZwewHLLjV1J15c",
+        "name": "99 Luftballons"
+      },
       "duration_ms": 232466,
-      "artist": [
-        "Nena"
+      "artists": [
+        {
+          "name": "Nena",
+          "id": "6Tz0QRoe083BcOo2YbG9lV"
+        }
       ],
-      "artistId": [
-        "6Tz0QRoe083BcOo2YbG9lV"
-      ],
-      "albumId": "78hVLZZJhaXgrnfXKc6yxF",
+      "album": {
+        "id": "78hVLZZJhaXgrnfXKc6yxF",
+        "name": "Nena",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a043c8c45330aa972c46339"
+      },
       "release_date": "1983-09-23",
       "popularity": 73
     },
     {
-      "trackId": "65tTCp2tdOFkUvAreEq3eH",
-      "name": "För att du är här",
+      "track": {
+        "id": "65tTCp2tdOFkUvAreEq3eH",
+        "name": "För att du är här"
+      },
       "duration_ms": 278866,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "4cLsjd6LMR1irSYvLWe9Tw",
+      "album": {
+        "id": "4cLsjd6LMR1irSYvLWe9Tw",
+        "name": "Lai Lai",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297e16a2c5078ae2c54eb0409"
+      },
       "release_date": "1999-01-01",
       "popularity": 27
     },
     {
-      "trackId": "02oUhPB9IzkQKFgyfmVi4m",
-      "name": "Trouble of the World",
+      "track": {
+        "id": "02oUhPB9IzkQKFgyfmVi4m",
+        "name": "Trouble of the World"
+      },
       "duration_ms": 284133,
-      "artist": [
-        "Mahalia Jackson"
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "id": "6QBUIuGCAJSAtefEY1EEdB"
+        }
       ],
-      "artistId": [
-        "6QBUIuGCAJSAtefEY1EEdB"
-      ],
-      "albumId": "2w9wFu5qjGKqBHDLNU2b8N",
+      "album": {
+        "id": "2w9wFu5qjGKqBHDLNU2b8N",
+        "name": "The Essential Mahalia Jackson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8284c3b528dffbb24f53db3"
+      },
       "release_date": "2004",
       "popularity": 24
     },
     {
-      "trackId": "0I1DJdLt9BKOb7GWmWxCjo",
-      "name": "Fields Of Gold",
+      "track": {
+        "id": "0I1DJdLt9BKOb7GWmWxCjo",
+        "name": "Fields Of Gold"
+      },
       "duration_ms": 222120,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "5kV0KBXfELibs6qQJLmOtg",
+      "album": {
+        "id": "5kV0KBXfELibs6qQJLmOtg",
+        "name": "Ten Summoner's Tales",
+        "img": "https://i.scdn.co/image/ab67616d00001e02653b110d9560eb1656f4c583"
+      },
       "release_date": "1993-03-09",
       "popularity": 70
     },
     {
-      "trackId": "46RVKt5Edm1zl0rXhPJZxz",
-      "name": "Down Under",
+      "track": {
+        "id": "46RVKt5Edm1zl0rXhPJZxz",
+        "name": "Down Under"
+      },
       "duration_ms": 220866,
-      "artist": [
-        "Men At Work"
+      "artists": [
+        {
+          "name": "Men At Work",
+          "id": "0f3EsoviYnRKTkmayI3cux"
+        }
       ],
-      "artistId": [
-        "0f3EsoviYnRKTkmayI3cux"
-      ],
-      "albumId": "6GYIy1SuhPDrugCZ5yNeQy",
+      "album": {
+        "id": "6GYIy1SuhPDrugCZ5yNeQy",
+        "name": "The Best Of Men At Work: Contraband",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d6a1f7a12629154fa274631f"
+      },
       "release_date": "1996-02-01",
       "popularity": 71
     },
     {
-      "trackId": "0YMFcrMtBowDdD5bPz0cgy",
-      "name": "Talkin' Bout a Revolution",
+      "track": {
+        "id": "0YMFcrMtBowDdD5bPz0cgy",
+        "name": "Talkin' Bout a Revolution"
+      },
       "duration_ms": 161600,
-      "artist": [
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "6hmmX5UP4rIvOpGSaPerV8",
+      "album": {
+        "id": "6hmmX5UP4rIvOpGSaPerV8",
+        "name": "Tracy Chapman",
+        "img": "https://i.scdn.co/image/ab67616d00001e027602becfedf6e25752cb54ff"
+      },
       "release_date": "1988-04-05",
       "popularity": 68
     },
     {
-      "trackId": "0GD6Ug6ouPqkthlnT058aC",
-      "name": "For Crying Out Loud",
+      "track": {
+        "id": "0GD6Ug6ouPqkthlnT058aC",
+        "name": "For Crying Out Loud"
+      },
       "duration_ms": 525200,
-      "artist": [
-        "Meat Loaf"
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "id": "7dnB1wSxbYa8CejeVg98hz"
+        }
       ],
-      "artistId": [
-        "7dnB1wSxbYa8CejeVg98hz"
-      ],
-      "albumId": "6mvI80w5r78niBmwtu7RF9",
+      "album": {
+        "id": "6mvI80w5r78niBmwtu7RF9",
+        "name": "Bat Out Of Hell",
+        "img": "https://i.scdn.co/image/ab67616d00001e024111af27787499f6d8752e9f"
+      },
       "release_date": "1977-10-21",
       "popularity": 48
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

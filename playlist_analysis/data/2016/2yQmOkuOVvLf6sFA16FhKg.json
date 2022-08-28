@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/25b0081f-4760-4402-8ea4-732f05dc769d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6FfLgEr0FVitkdRAxxzEyZ",
-      "name": "Andrew Luck",
+      "track": {
+        "id": "6FfLgEr0FVitkdRAxxzEyZ",
+        "name": "Andrew Luck"
+      },
       "duration_ms": 137928,
-      "artist": [
-        "Hood Tali"
+      "artists": [
+        {
+          "name": "Hood Tali",
+          "id": "3zE7bOr2rPmW2ZYzG9VZRN"
+        }
       ],
-      "artistId": [
-        "3zE7bOr2rPmW2ZYzG9VZRN"
-      ],
-      "albumId": "4JOb3i6NZMeWBvCbeRmxZ8",
+      "album": {
+        "id": "4JOb3i6NZMeWBvCbeRmxZ8",
+        "name": "Demon Tali (DELUXE)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e647de2b929ece2619bcf5f"
+      },
       "release_date": "2021-09-10",
       "popularity": 10
     },
     {
-      "trackId": "5aIfLbdgkbH7NbQryd1poB",
-      "name": "Samba de Janeiro",
+      "track": {
+        "id": "5aIfLbdgkbH7NbQryd1poB",
+        "name": "Samba de Janeiro"
+      },
       "duration_ms": 168444,
-      "artist": [
-        "Bellini"
+      "artists": [
+        {
+          "name": "Bellini",
+          "id": "2CzPCLry0VHxB4JNva2du6"
+        }
       ],
-      "artistId": [
-        "2CzPCLry0VHxB4JNva2du6"
-      ],
-      "albumId": "5TfIXTpntvzKhPPH7JBBoR",
+      "album": {
+        "id": "5TfIXTpntvzKhPPH7JBBoR",
+        "name": "Samba de Janeiro",
+        "img": "https://i.scdn.co/image/ab67616d00001e0215cfd8f433616f3a7677fb93"
+      },
       "release_date": "1997-08-01",
       "popularity": 58
     },
     {
-      "trackId": "16W3Eqvgh4Sl84RoHZYnNV",
-      "name": "Jiya Jale",
+      "track": {
+        "id": "16W3Eqvgh4Sl84RoHZYnNV",
+        "name": "Jiya Jale"
+      },
       "duration_ms": 309106,
-      "artist": [
-        "Lata Mangeshkar",
-        "M. G. Sreekumar"
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "id": "61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "M. G. Sreekumar",
+          "id": "3wjaprBWmoSJn4KP9tgkxt"
+        }
       ],
-      "artistId": [
-        "61JrslREXq98hurYL2hYoc",
-        "3wjaprBWmoSJn4KP9tgkxt"
-      ],
-      "albumId": "54NUwj7U1MOhA1ZGbnhiMz",
+      "album": {
+        "id": "54NUwj7U1MOhA1ZGbnhiMz",
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e2aa94e199e50bc8e10646f"
+      },
       "release_date": "1998-07-08",
       "popularity": 49
     },
     {
-      "trackId": "51pqlgzFBtqcRmb1CKdc56",
-      "name": "House Of Cards Main Title Theme",
+      "track": {
+        "id": "51pqlgzFBtqcRmb1CKdc56",
+        "name": "House Of Cards Main Title Theme"
+      },
       "duration_ms": 109852,
-      "artist": [
-        "Jeff Beal"
+      "artists": [
+        {
+          "name": "Jeff Beal",
+          "id": "4J71DltC2dxSTBO9kq14zS"
+        }
       ],
-      "artistId": [
-        "4J71DltC2dxSTBO9kq14zS"
-      ],
-      "albumId": "7rkJhtjwAElptOD9CkQyKB",
+      "album": {
+        "id": "7rkJhtjwAElptOD9CkQyKB",
+        "name": "House Of Cards (Music From The Netflix Original Series)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026557bbf4c5e7ca63638aa029"
+      },
       "release_date": "2013-01-01",
       "popularity": 45
     },
     {
-      "trackId": "6ro6je8M6kpJIWwpFrYnj7",
-      "name": "Night Wind",
+      "track": {
+        "id": "6ro6je8M6kpJIWwpFrYnj7",
+        "name": "Night Wind"
+      },
       "duration_ms": 302266,
-      "artist": [
-        "See New Project"
+      "artists": [
+        {
+          "name": "See New Project",
+          "id": "6uYwQoHp6ofit8TGYGVl1J"
+        }
       ],
-      "artistId": [
-        "6uYwQoHp6ofit8TGYGVl1J"
-      ],
-      "albumId": "55QVWcc2U2uCPriduuI5XF",
+      "album": {
+        "id": "55QVWcc2U2uCPriduuI5XF",
+        "name": "Baliana Meets Indiana",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f427b275e6172062fa50580"
+      },
       "release_date": "2008",
       "popularity": 0
     },
     {
-      "trackId": "4rGV82TI7hzv5aCQ4B8vfB",
-      "name": "Dream Baby Dream",
+      "track": {
+        "id": "4rGV82TI7hzv5aCQ4B8vfB",
+        "name": "Dream Baby Dream"
+      },
       "duration_ms": 350093,
-      "artist": [
-        "El Perro del Mar"
+      "artists": [
+        {
+          "name": "El Perro del Mar",
+          "id": "0bnwha8WPTU2sf4Q4P6vE0"
+        }
       ],
-      "artistId": [
-        "0bnwha8WPTU2sf4Q4P6vE0"
-      ],
-      "albumId": "0JwV2Ce4dYEUSPnFqRdqon",
+      "album": {
+        "id": "0JwV2Ce4dYEUSPnFqRdqon",
+        "name": "Dream Baby Dream",
+        "img": "https://i.scdn.co/image/ab67616d00001e025dccf4e67c870ce51ad01423"
+      },
       "release_date": "2016-05-04",
       "popularity": 20
     },
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "5N0w2n2B3OzvBZv4WjcVyA",
-      "name": "Habiby Da",
+      "track": {
+        "id": "5N0w2n2B3OzvBZv4WjcVyA",
+        "name": "Habiby Da"
+      },
       "duration_ms": 267106,
-      "artist": [
-        "Hisham Abbas"
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "id": "6OQ7sfN0G1E2pZMhYW9wjG"
+        }
       ],
-      "artistId": [
-        "6OQ7sfN0G1E2pZMhYW9wjG"
-      ],
-      "albumId": "4L55wqHzJVwxNDHSqapcEt",
+      "album": {
+        "id": "4L55wqHzJVwxNDHSqapcEt",
+        "name": "Habiby Da",
+        "img": "https://i.scdn.co/image/ab67616d00001e02653a8cc091d7ba1e7dabf6ac"
+      },
       "release_date": "2016-07-26",
       "popularity": 50
     },
     {
-      "trackId": "3SdTKo2uVsxFblQjpScoHy",
-      "name": "Stand by Me",
+      "track": {
+        "id": "3SdTKo2uVsxFblQjpScoHy",
+        "name": "Stand by Me"
+      },
       "duration_ms": 180055,
-      "artist": [
-        "Ben E. King"
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "id": "3plJVWt88EqjvtuB4ZDRV3"
+        }
       ],
-      "artistId": [
-        "3plJVWt88EqjvtuB4ZDRV3"
-      ],
-      "albumId": "18Fj7coTfyMi7mEPXIweN7",
+      "album": {
+        "id": "18Fj7coTfyMi7mEPXIweN7",
+        "name": "Don't Play That Song (Mono)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021813ea8f590a0aab2820f922"
+      },
       "release_date": "1962-08-20",
       "popularity": 79
     },
     {
-      "trackId": "2zkspD0TzqDevOnl0FjKsN",
-      "name": "Chiquitita",
+      "track": {
+        "id": "2zkspD0TzqDevOnl0FjKsN",
+        "name": "Chiquitita"
+      },
       "duration_ms": 219248,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "5o8VfKUMg0Dm9bHXk6Op1p",
+      "album": {
+        "id": "5o8VfKUMg0Dm9bHXk6Op1p",
+        "name": "Chiquitita",
+        "img": "https://i.scdn.co/image/ab67616d00001e02726eff7ea47152b6a2b76670"
+      },
       "release_date": "2014-11-18",
       "popularity": 30
     },
     {
-      "trackId": "7yuF2FK7adgzGiIfEpR7Km",
-      "name": "Yeke Yeke",
+      "track": {
+        "id": "7yuF2FK7adgzGiIfEpR7Km",
+        "name": "Yeke Yeke"
+      },
       "duration_ms": 238253,
-      "artist": [
-        "Mory Kanté"
+      "artists": [
+        {
+          "name": "Mory Kanté",
+          "id": "0roLSs1WqlurDniSZ1pttN"
+        }
       ],
-      "artistId": [
-        "0roLSs1WqlurDniSZ1pttN"
-      ],
-      "albumId": "7gWws7q8OQDc8t5R4IXIx3",
+      "album": {
+        "id": "7gWws7q8OQDc8t5R4IXIx3",
+        "name": "Akwaba Beach",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d041183e638a291fb2b29b3f"
+      },
       "release_date": "1987-01-01",
       "popularity": 50
     },
     {
-      "trackId": "5BKKy9fIJL5uM9fz1SnqyP",
-      "name": "Chicago",
+      "track": {
+        "id": "5BKKy9fIJL5uM9fz1SnqyP",
+        "name": "Chicago"
+      },
       "duration_ms": 245506,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "7pomP86PUhoJpY3fsC0WDQ",
+      "album": {
+        "id": "7pomP86PUhoJpY3fsC0WDQ",
+        "name": "XSCAPE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed81569cdc08ab5c2dc5bd91"
+      },
       "release_date": "2014-05-09",
       "popularity": 77
     },
     {
-      "trackId": "6lknMmJZALXxx7emwwZWLX",
-      "name": "Frozen",
+      "track": {
+        "id": "6lknMmJZALXxx7emwwZWLX",
+        "name": "Frozen"
+      },
       "duration_ms": 120157,
-      "artist": [
-        "Madonna",
-        "Sickick"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "id": "3NR7hAacOhmcztWvD7vJfS"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW",
-        "3NR7hAacOhmcztWvD7vJfS"
-      ],
-      "albumId": "2GAIUdfLIFtxDty42RowjE",
+      "album": {
+        "id": "2GAIUdfLIFtxDty42RowjE",
+        "name": "Frozen",
+        "img": "https://i.scdn.co/image/ab67616d00001e024cef50f6a5d84d46ad9a4af1"
+      },
       "release_date": "2021-12-03",
       "popularity": 75
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

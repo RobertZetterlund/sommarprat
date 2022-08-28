@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c5884416-da4e-4083-b1fa-390713687189.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0gPjkIsB3pQJZ0j6rmUOWc",
-      "name": "Thief's Theme",
+      "track": {
+        "id": "0gPjkIsB3pQJZ0j6rmUOWc",
+        "name": "Thief's Theme"
+      },
       "duration_ms": 179080,
-      "artist": [
-        "Nas"
+      "artists": [
+        {
+          "name": "Nas",
+          "id": "20qISvAhX20dpIbOOzGK3q"
+        }
       ],
-      "artistId": [
-        "20qISvAhX20dpIbOOzGK3q"
-      ],
-      "albumId": "0jghcWTsQzux5T9sAfZO13",
+      "album": {
+        "id": "0jghcWTsQzux5T9sAfZO13",
+        "name": "Street's Disciple",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cf1755770b6c0c9aa38f41c"
+      },
       "release_date": "2004-11-30",
       "popularity": 42
     },
     {
-      "trackId": "7KXjTSCq5nL1LoYtL7XAwS",
-      "name": "HUMBLE.",
+      "track": {
+        "id": "7KXjTSCq5nL1LoYtL7XAwS",
+        "name": "HUMBLE."
+      },
       "duration_ms": 177000,
-      "artist": [
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "4eLPsYPBmXABThSJ821sqY",
+      "album": {
+        "id": "4eLPsYPBmXABThSJ821sqY",
+        "name": "DAMN.",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699"
+      },
       "release_date": "2017-04-14",
       "popularity": 82
     },
     {
-      "trackId": "4OnqJ1ml4Jgr5AAKNrrYCD",
-      "name": "Down in Mexico",
+      "track": {
+        "id": "4OnqJ1ml4Jgr5AAKNrrYCD",
+        "name": "Down in Mexico"
+      },
       "duration_ms": 196466,
-      "artist": [
-        "The Coasters"
+      "artists": [
+        {
+          "name": "The Coasters",
+          "id": "3QZKZBEmr54lAVI5XvmjnM"
+        }
       ],
-      "artistId": [
-        "3QZKZBEmr54lAVI5XvmjnM"
-      ],
-      "albumId": "3HRX7bzilG4zT8CZ6KTdtO",
+      "album": {
+        "id": "3HRX7bzilG4zT8CZ6KTdtO",
+        "name": "The Coasters",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d458302f94dcb78cbde22e6"
+      },
       "release_date": "2005-02-08",
       "popularity": 54
     },
     {
-      "trackId": "722tgOgdIbNe3BEyLnejw4",
-      "name": "Black Skinhead",
+      "track": {
+        "id": "722tgOgdIbNe3BEyLnejw4",
+        "name": "Black Skinhead"
+      },
       "duration_ms": 188013,
-      "artist": [
-        "Kanye West"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "7D2NdGvBHIavgLhmcwhluK",
+      "album": {
+        "id": "7D2NdGvBHIavgLhmcwhluK",
+        "name": "Yeezus",
+        "img": "https://i.scdn.co/image/ab67616d00001e021dacfbc31cc873d132958af9"
+      },
       "release_date": "2013-06-18",
       "popularity": 75
     },
     {
-      "trackId": "6HZILIRieu8S0iqY8kIKhj",
-      "name": "DNA.",
+      "track": {
+        "id": "6HZILIRieu8S0iqY8kIKhj",
+        "name": "DNA."
+      },
       "duration_ms": 185946,
-      "artist": [
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "4eLPsYPBmXABThSJ821sqY",
+      "album": {
+        "id": "4eLPsYPBmXABThSJ821sqY",
+        "name": "DAMN.",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699"
+      },
       "release_date": "2017-04-14",
       "popularity": 79
     },
     {
-      "trackId": "7sKt5Y2zJpYw78iAxndB8y",
-      "name": "Only God Can Judge Me (ft. Rappin' 4-Tay)",
+      "track": {
+        "id": "7sKt5Y2zJpYw78iAxndB8y",
+        "name": "Only God Can Judge Me (ft. Rappin' 4-Tay)"
+      },
       "duration_ms": 296906,
-      "artist": [
-        "2Pac",
-        "Rappin' 4-Tay"
+      "artists": [
+        {
+          "name": "2Pac",
+          "id": "1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Rappin' 4-Tay",
+          "id": "4tzxCsdhR0IIUNyzwrag4C"
+        }
       ],
-      "artistId": [
-        "1ZwdS5xdxEREPySFridCfh",
-        "4tzxCsdhR0IIUNyzwrag4C"
-      ],
-      "albumId": "78iX7tMceN0FsnmabAtlOC",
+      "album": {
+        "id": "78iX7tMceN0FsnmabAtlOC",
+        "name": "All Eyez On Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02073aebff28f79959d2543596"
+      },
       "release_date": "1996-02-13",
       "popularity": 67
     },
     {
-      "trackId": "1NcSixtkG20Ip6rjQYbcbu",
-      "name": "U.N.I.T.Y.",
+      "track": {
+        "id": "1NcSixtkG20Ip6rjQYbcbu",
+        "name": "U.N.I.T.Y."
+      },
       "duration_ms": 252407,
-      "artist": [
-        "Queen Latifah"
+      "artists": [
+        {
+          "name": "Queen Latifah",
+          "id": "5m7wCUhYhBh7A3A3YMxrbt"
+        }
       ],
-      "artistId": [
-        "5m7wCUhYhBh7A3A3YMxrbt"
-      ],
-      "albumId": "7c0jejSKzJ7Wf6knemuBzN",
+      "album": {
+        "id": "7c0jejSKzJ7Wf6knemuBzN",
+        "name": "Women Of Hip Hop",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8632efa37893325413ff352"
+      },
       "release_date": "2018-08-31",
       "popularity": 49
     },
     {
-      "trackId": "7s25THrKz86DM225dOYwnr",
-      "name": "Respect",
+      "track": {
+        "id": "7s25THrKz86DM225dOYwnr",
+        "name": "Respect"
+      },
       "duration_ms": 147600,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+      "album": {
+        "id": "5WndWfzGwCkHzAbQXVkg2V",
+        "name": "I Never Loved a Man the Way I Love You",
+        "img": "https://i.scdn.co/image/ab67616d00001e026aa9314b7ddfbd8f036ba3ac"
+      },
       "release_date": "1967-03-10",
       "popularity": 73
     },
     {
-      "trackId": "2ZKh6zhNVeHyWTM3hMWjiq",
-      "name": "Senİ Sana Bırakmam",
+      "track": {
+        "id": "2ZKh6zhNVeHyWTM3hMWjiq",
+        "name": "Senİ Sana Bırakmam"
+      },
       "duration_ms": 263373,
-      "artist": [
-        "İbrahim Tatlıses"
+      "artists": [
+        {
+          "name": "İbrahim Tatlıses",
+          "id": "0gPgE6wLLiPnrakh9WcsdQ"
+        }
       ],
-      "artistId": [
-        "0gPgE6wLLiPnrakh9WcsdQ"
-      ],
-      "albumId": "7p8mO4666dIfctGEVKiTPg",
+      "album": {
+        "id": "7p8mO4666dIfctGEVKiTPg",
+        "name": "Tek Tek",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f1f73d9fc014f1bd2fcdbb0"
+      },
       "release_date": "2003",
       "popularity": 48
     },
     {
-      "trackId": "0DMRKqrpd0QO4RWiEdMib0",
-      "name": "You Know I'm No Good",
+      "track": {
+        "id": "0DMRKqrpd0QO4RWiEdMib0",
+        "name": "You Know I'm No Good"
+      },
       "duration_ms": 257186,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 72
     },
     {
-      "trackId": "3hhbDnFUb2bicI2df6VurK",
-      "name": "River",
+      "track": {
+        "id": "3hhbDnFUb2bicI2df6VurK",
+        "name": "River"
+      },
       "duration_ms": 240200,
-      "artist": [
-        "Leon Bridges"
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "id": "3qnGvpP8Yth1AqSBMqON5x"
+        }
       ],
-      "artistId": [
-        "3qnGvpP8Yth1AqSBMqON5x"
-      ],
-      "albumId": "21KIagsx1ZvYcv0sVkEAWv",
+      "album": {
+        "id": "21KIagsx1ZvYcv0sVkEAWv",
+        "name": "Coming Home (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8df0c930a741d6f49cc3f8d"
+      },
       "release_date": "2015-06-23",
       "popularity": 72
     },
     {
-      "trackId": "1Vk4yRsz0iBzDiZEoFMQyv",
-      "name": "Mia & Sebastian’s Theme",
+      "track": {
+        "id": "1Vk4yRsz0iBzDiZEoFMQyv",
+        "name": "Mia & Sebastian’s Theme"
+      },
       "duration_ms": 98040,
-      "artist": [
-        "Justin Hurwitz"
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "id": "2snm3HmsnDUDxbIChdl2Oj"
+        }
       ],
-      "artistId": [
-        "2snm3HmsnDUDxbIChdl2Oj"
-      ],
-      "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
+      "album": {
+        "id": "3GU8BzFEAdFSRjc8jZkL3S",
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bdf4dd39843ad48c5b66bc4"
+      },
       "release_date": "2016-12-09",
       "popularity": 66
     }

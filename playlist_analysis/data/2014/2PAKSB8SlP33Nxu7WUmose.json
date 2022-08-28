@@ -7,228 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300152_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6UfHn9aP8mDdOkBzpYqH4P",
-      "name": "Världen Är Full Av Violer",
+      "track": {
+        "id": "6UfHn9aP8mDdOkBzpYqH4P",
+        "name": "Världen Är Full Av Violer"
+      },
       "duration_ms": 167440,
-      "artist": [
-        "Ulla Billquist"
+      "artists": [
+        {
+          "name": "Ulla Billquist",
+          "id": "2H1av1uTCYBHnj8esnTtwc"
+        }
       ],
-      "artistId": [
-        "2H1av1uTCYBHnj8esnTtwc"
-      ],
-      "albumId": "7EAFS4S5nmGxAG8qpKGEdy",
+      "album": {
+        "id": "7EAFS4S5nmGxAG8qpKGEdy",
+        "name": "Ulla Billquist",
+        "img": "https://i.scdn.co/image/ab67616d00001e02825cbd3d12e15d4784ef6ba7"
+      },
       "release_date": "2003",
       "popularity": 18
     },
     {
-      "trackId": "7gy9d7iBHW9BWhMNPjHuFf",
-      "name": "Declare Independence",
+      "track": {
+        "id": "7gy9d7iBHW9BWhMNPjHuFf",
+        "name": "Declare Independence"
+      },
       "duration_ms": 253453,
-      "artist": [
-        "Björk"
+      "artists": [
+        {
+          "name": "Björk",
+          "id": "7w29UYBi0qsHi5RTcv3lmA"
+        }
       ],
-      "artistId": [
-        "7w29UYBi0qsHi5RTcv3lmA"
-      ],
-      "albumId": "64EKrS1Ubw2rQ9qn9QRUq3",
+      "album": {
+        "id": "64EKrS1Ubw2rQ9qn9QRUq3",
+        "name": "Volta",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e330b00f02804de2bdd9105"
+      },
       "release_date": "2007-05-01",
       "popularity": 32
     },
     {
-      "trackId": "7yBO9ap6S5qLK8QGm8OXy9",
-      "name": "Comfortably Numb",
+      "track": {
+        "id": "7yBO9ap6S5qLK8QGm8OXy9",
+        "name": "Comfortably Numb"
+      },
       "duration_ms": 264640,
-      "artist": [
-        "Scissor Sisters"
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "id": "3Y10boYzeuFCJ4Qgp53w6o"
+        }
       ],
-      "artistId": [
-        "3Y10boYzeuFCJ4Qgp53w6o"
-      ],
-      "albumId": "3qXgnckOi2NbaAyjD3m2jP",
+      "album": {
+        "id": "3qXgnckOi2NbaAyjD3m2jP",
+        "name": "Scissor Sisters",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200d4c6f896dd4292a2b66fc7"
+      },
       "release_date": "2004",
       "popularity": 35
     },
     {
-      "trackId": "6zL7ng2LCs8yj8lcfe0YgL",
-      "name": "Talk Me Down",
+      "track": {
+        "id": "6zL7ng2LCs8yj8lcfe0YgL",
+        "name": "Talk Me Down"
+      },
       "duration_ms": 184160,
-      "artist": [
-        "Willy Mason"
+      "artists": [
+        {
+          "name": "Willy Mason",
+          "id": "2uYZJqMXH5Q6xvPU6BPySL"
+        }
       ],
-      "artistId": [
-        "2uYZJqMXH5Q6xvPU6BPySL"
-      ],
-      "albumId": "5GJijPPQPtjNcLRhuxGJIy",
+      "album": {
+        "id": "5GJijPPQPtjNcLRhuxGJIy",
+        "name": "Carry On",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d2f04c2752a3d1d7f450381"
+      },
       "release_date": "2012-01-01",
       "popularity": 40
     },
     {
-      "trackId": "0ni4y3JyET7duYFxYrJrkP",
-      "name": "The Boho Dance",
+      "track": {
+        "id": "0ni4y3JyET7duYFxYrJrkP",
+        "name": "The Boho Dance"
+      },
       "duration_ms": 240132,
-      "artist": [
-        "Piano Project"
+      "artists": [
+        {
+          "name": "Piano Project",
+          "id": "0sOfFTIMocxq5mPB8SFLHn"
+        }
       ],
-      "artistId": [
-        "0sOfFTIMocxq5mPB8SFLHn"
-      ],
-      "albumId": "5kLPnzPxClCmU5XGcye7Lz",
+      "album": {
+        "id": "5kLPnzPxClCmU5XGcye7Lz",
+        "name": "Piano Renditions of Joni Mitchell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c411d6d5a1d50722681a6520"
+      },
       "release_date": "2021-06-11",
       "popularity": 1
     },
     {
-      "trackId": "2SkY1MBAolcLSpWDWCP7Kd",
-      "name": "What's He Building?",
+      "track": {
+        "id": "2SkY1MBAolcLSpWDWCP7Kd",
+        "name": "What's He Building?"
+      },
       "duration_ms": 200280,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "7cAcex6xw4fP67ltgn1gm3",
+      "album": {
+        "id": "7cAcex6xw4fP67ltgn1gm3",
+        "name": "Mule Variations (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddbc5baae5ad5f0b4de990b6"
+      },
       "release_date": "1999-04-27",
       "popularity": 34
     },
     {
-      "trackId": "377hlxXs9TcQXlo6zOZCdx",
-      "name": "Lighthouse",
+      "track": {
+        "id": "377hlxXs9TcQXlo6zOZCdx",
+        "name": "Lighthouse"
+      },
       "duration_ms": 201706,
-      "artist": [
-        "Tonbruket"
+      "artists": [
+        {
+          "name": "Tonbruket",
+          "id": "5Txp8CzIIEwkALY9agmKpJ"
+        }
       ],
-      "artistId": [
-        "5Txp8CzIIEwkALY9agmKpJ"
-      ],
-      "albumId": "13E8ErTEixNOcjSu25cauS",
+      "album": {
+        "id": "13E8ErTEixNOcjSu25cauS",
+        "name": "Dig It to the End",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221bf8567a6845b647f753f0c"
+      },
       "release_date": "2011-05-27",
       "popularity": 17
     },
     {
-      "trackId": "3Y9wdXMh6sNt9fUwUqTqb7",
-      "name": "Twisted Nerve",
+      "track": {
+        "id": "3Y9wdXMh6sNt9fUwUqTqb7",
+        "name": "Twisted Nerve"
+      },
       "duration_ms": 87666,
-      "artist": [
-        "Bernard Herrmann"
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "id": "5bUj39bg0zEbRzjUEISMG9"
+        }
       ],
-      "artistId": [
-        "5bUj39bg0zEbRzjUEISMG9"
-      ],
-      "albumId": "1FpzNqDbugk77xUj0qOrtQ",
+      "album": {
+        "id": "1FpzNqDbugk77xUj0qOrtQ",
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fecfac11994325a39cd03dec"
+      },
       "release_date": "2003-09-23",
       "popularity": 52
     },
     {
-      "trackId": "1A5kyguhx0spJ6peFzoTxW",
-      "name": "Birdy",
+      "track": {
+        "id": "1A5kyguhx0spJ6peFzoTxW",
+        "name": "Birdy"
+      },
       "duration_ms": 237840,
-      "artist": [
-        "22-Pistepirkko"
+      "artists": [
+        {
+          "name": "22-Pistepirkko",
+          "id": "7viKRqdDIZZ6ZHdmcGQX3m"
+        }
       ],
-      "artistId": [
-        "7viKRqdDIZZ6ZHdmcGQX3m"
-      ],
-      "albumId": "7LU24yxOhOen3KnwKhvsjF",
+      "album": {
+        "id": "7LU24yxOhOen3KnwKhvsjF",
+        "name": "Big Lupu",
+        "img": "https://i.scdn.co/image/ab67616d00001e0254abb339ea274fda1a7f433c"
+      },
       "release_date": "1992-01-01",
       "popularity": 37
     },
     {
-      "trackId": "0MUiCfheaPQ7nNjpL1TmEf",
-      "name": "Sigue en Ti y No Mas",
+      "track": {
+        "id": "0MUiCfheaPQ7nNjpL1TmEf",
+        "name": "Sigue en Ti y No Mas"
+      },
       "duration_ms": 140487,
-      "artist": [
-        "Jonathan Stin"
+      "artists": [
+        {
+          "name": "Jonathan Stin",
+          "id": "1W9oAiHDPzAZ4PAn6LHdNu"
+        }
       ],
-      "artistId": [
-        "1W9oAiHDPzAZ4PAn6LHdNu"
-      ],
-      "albumId": "6rIkweLDDG5vBkihODrzn4",
+      "album": {
+        "id": "6rIkweLDDG5vBkihODrzn4",
+        "name": "Siempre Te Ame",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cd350de5d880369baf5371a"
+      },
       "release_date": "2021-07-27",
       "popularity": 9
     },
     {
-      "trackId": "6rH2JRSsG4PInKoUOcshrX",
-      "name": "The Caterpillar",
+      "track": {
+        "id": "6rH2JRSsG4PInKoUOcshrX",
+        "name": "The Caterpillar"
+      },
       "duration_ms": 221826,
-      "artist": [
-        "The Cure"
+      "artists": [
+        {
+          "name": "The Cure",
+          "id": "7bu3H8JO7d0UbMoVzbo70s"
+        }
       ],
-      "artistId": [
-        "7bu3H8JO7d0UbMoVzbo70s"
-      ],
-      "albumId": "5OniNO040dM4H5kAlet3XV",
+      "album": {
+        "id": "5OniNO040dM4H5kAlet3XV",
+        "name": "The Top (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270452bf6a0ce890c43665bc9"
+      },
       "release_date": "1984-04-30",
       "popularity": 42
     },
     {
-      "trackId": "60nZcImufyMA1MKQY3dcCH",
-      "name": "Happy - From \"Despicable Me 2\"",
+      "track": {
+        "id": "60nZcImufyMA1MKQY3dcCH",
+        "name": "Happy - From \"Despicable Me 2\""
+      },
       "duration_ms": 232720,
-      "artist": [
-        "Pharrell Williams"
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
+        }
       ],
-      "artistId": [
-        "2RdwBSPQiwcmiDo9kixcl8"
-      ],
-      "albumId": "0lrmy4pJINsFzycJvttX2W",
+      "album": {
+        "id": "0lrmy4pJINsFzycJvttX2W",
+        "name": "G I R L",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8107e6d9214baa81bb79bba"
+      },
       "release_date": "2014-03-03",
       "popularity": 80
     },
     {
-      "trackId": "6J90u0PATa8IgDgtSJjwaV",
-      "name": "Cantiga (Caico)",
+      "track": {
+        "id": "6J90u0PATa8IgDgtSJjwaV",
+        "name": "Cantiga (Caico)"
+      },
       "duration_ms": 271560,
-      "artist": [
-        "Maria João & Mário Laginha"
+      "artists": [
+        {
+          "name": "Maria João & Mário Laginha",
+          "id": "1sveOJNtUJbGEOoikMHwEZ"
+        }
       ],
-      "artistId": [
-        "1sveOJNtUJbGEOoikMHwEZ"
-      ],
-      "albumId": "0tn7u3rh9N8BlfjoZKD8iO",
+      "album": {
+        "id": "0tn7u3rh9N8BlfjoZKD8iO",
+        "name": "Undercovers",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281f21c26c859add079b73c7f"
+      },
       "release_date": "2002-01-01",
       "popularity": 3
     },
     {
-      "trackId": "2HZkKw4rJEB7O7OAk4BMsc",
-      "name": "Allt på ett kort",
+      "track": {
+        "id": "2HZkKw4rJEB7O7OAk4BMsc",
+        "name": "Allt på ett kort"
+      },
       "duration_ms": 151226,
-      "artist": [
-        "bob hund"
+      "artists": [
+        {
+          "name": "bob hund",
+          "id": "6OZxE19iim1JKvCA3GmCVx"
+        }
       ],
-      "artistId": [
-        "6OZxE19iim1JKvCA3GmCVx"
-      ],
-      "albumId": "6F0ONreS7JGG2almPjMn07",
+      "album": {
+        "id": "6F0ONreS7JGG2almPjMn07",
+        "name": "bob hund 1993",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ccb93bd0ddc1c01d3cd5def"
+      },
       "release_date": "1993",
       "popularity": 22
     },
     {
-      "trackId": "6LjXQUSCSevJUT08E1ax8j",
-      "name": "Goldwrap",
+      "track": {
+        "id": "6LjXQUSCSevJUT08E1ax8j",
+        "name": "Goldwrap"
+      },
       "duration_ms": 242666,
-      "artist": [
-        "Esbjörn Svensson Trio"
+      "artists": [
+        {
+          "name": "Esbjörn Svensson Trio",
+          "id": "3HJzLaMbS0jMabxS3wttGk"
+        }
       ],
-      "artistId": [
-        "3HJzLaMbS0jMabxS3wttGk"
-      ],
-      "albumId": "1FXFyWXLIdOVgjR0MaRa9y",
+      "album": {
+        "id": "1FXFyWXLIdOVgjR0MaRa9y",
+        "name": "Tuesday Wonderland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02101c6ec4042615cff7a7b197"
+      },
       "release_date": "2006-09-22",
       "popularity": 23
     },
     {
-      "trackId": "1Ty6h0UNBtWLCHR5rOc3KO",
-      "name": "Ludvig 2020",
+      "track": {
+        "id": "1Ty6h0UNBtWLCHR5rOc3KO",
+        "name": "Ludvig 2020"
+      },
       "duration_ms": 152191,
-      "artist": [
-        "Spesialstyrken",
-        "Effektiv"
+      "artists": [
+        {
+          "name": "Spesialstyrken",
+          "id": "4ge6BVfvTr07o1jau9iNyt"
+        },
+        {
+          "name": "Effektiv",
+          "id": "3QyoJDJ7VKcaULqkBH6fFV"
+        }
       ],
-      "artistId": [
-        "4ge6BVfvTr07o1jau9iNyt",
-        "3QyoJDJ7VKcaULqkBH6fFV"
-      ],
-      "albumId": "4gIRukKoxXOZxPwhjiH52D",
+      "album": {
+        "id": "4gIRukKoxXOZxPwhjiH52D",
+        "name": "Ludvig 2020",
+        "img": "https://i.scdn.co/image/ab67616d00001e02332de59e6c9311a4b1265f97"
+      },
       "release_date": "2020-02-24",
       "popularity": 32
     }

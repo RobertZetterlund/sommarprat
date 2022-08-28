@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241562_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3z7dWKRsjDNM24ohLKZBnA",
-      "name": "Astronomy Domine - 2011 Remaster",
+      "track": {
+        "id": "3z7dWKRsjDNM24ohLKZBnA",
+        "name": "Astronomy Domine - 2011 Remaster"
+      },
       "duration_ms": 251880,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "0Fke5eiQ6lszQHlwiFygqn",
+      "album": {
+        "id": "0Fke5eiQ6lszQHlwiFygqn",
+        "name": "The Piper At The Gates Of Dawn [2011 - Remaster] (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ebf2ba3431fa5fdbffaff684"
+      },
       "release_date": "1967-08-05",
       "popularity": 45
     },
     {
-      "trackId": "53GtVpUnVP6gIpfuc63OKq",
-      "name": "What Should Be Done - 2017 Remastered",
+      "track": {
+        "id": "53GtVpUnVP6gIpfuc63OKq",
+        "name": "What Should Be Done - 2017 Remastered"
+      },
       "duration_ms": 253760,
-      "artist": [
-        "Uriah Heep"
+      "artists": [
+        {
+          "name": "Uriah Heep",
+          "id": "45O9BwPMyywM755SYUK0sP"
+        }
       ],
-      "artistId": [
-        "45O9BwPMyywM755SYUK0sP"
-      ],
-      "albumId": "7swSWTcQ33JelJP84v0zyn",
+      "album": {
+        "id": "7swSWTcQ33JelJP84v0zyn",
+        "name": "Look At Yourself (Expanded Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e88659125859ec7e30830f8"
+      },
       "release_date": "1971-09-20",
       "popularity": 18
     },
     {
-      "trackId": "7CR5qGZ2eJwYrFQ8UmHuaR",
-      "name": "Ordinary Man (feat. Elton John)",
+      "track": {
+        "id": "7CR5qGZ2eJwYrFQ8UmHuaR",
+        "name": "Ordinary Man (feat. Elton John)"
+      },
       "duration_ms": 301730,
-      "artist": [
-        "Ozzy Osbourne",
-        "Elton John"
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "id": "6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "6ZLTlhejhndI4Rh53vYhrY",
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "2x2cG56QicVfymWnRF0Nmj",
+      "album": {
+        "id": "2x2cG56QicVfymWnRF0Nmj",
+        "name": "Ordinary Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e02048dd3ae0e24cf27db6ca17d"
+      },
       "release_date": "2020-02-21",
       "popularity": 50
     },
     {
-      "trackId": "7BRG1uU2WiaFXDLnniCfjd",
-      "name": "DÄR GÄDDAN SIMMAR",
+      "track": {
+        "id": "7BRG1uU2WiaFXDLnniCfjd",
+        "name": "DÄR GÄDDAN SIMMAR"
+      },
       "duration_ms": 156000,
-      "artist": [
-        "Hooja"
+      "artists": [
+        {
+          "name": "Hooja",
+          "id": "054fVwphDX8QB8Pm7IjRcL"
+        }
       ],
-      "artistId": [
-        "054fVwphDX8QB8Pm7IjRcL"
-      ],
-      "albumId": "7AowFzSGAy33pR1GpuJ5WO",
+      "album": {
+        "id": "7AowFzSGAy33pR1GpuJ5WO",
+        "name": "DÄR GÄDDAN SIMMAR",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3f01388ade4de3b6ad82844"
+      },
       "release_date": "2021-12-23",
       "popularity": 60
     },
     {
-      "trackId": "2zyRVV93ijUwH1SyrPcTRR",
-      "name": "Hello Hooray",
+      "track": {
+        "id": "2zyRVV93ijUwH1SyrPcTRR",
+        "name": "Hello Hooray"
+      },
       "duration_ms": 258600,
-      "artist": [
-        "Alice Cooper"
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "id": "3EhbVgyfGd7HkpsagwL9GS"
+        }
       ],
-      "artistId": [
-        "3EhbVgyfGd7HkpsagwL9GS"
-      ],
-      "albumId": "4SlY4oyiPg6At7vyouZ7ep",
+      "album": {
+        "id": "4SlY4oyiPg6At7vyouZ7ep",
+        "name": "Billion Dollar Babies (Deluxe Reissue)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb0e08f7ce7a7a446e3cf0cd"
+      },
       "release_date": "1973",
       "popularity": 37
     },
     {
-      "trackId": "2lAbLCbTklfVd0YqeM3hSI",
-      "name": "Do Anything You Want To",
+      "track": {
+        "id": "2lAbLCbTklfVd0YqeM3hSI",
+        "name": "Do Anything You Want To"
+      },
       "duration_ms": 231546,
-      "artist": [
-        "Thin Lizzy"
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "id": "6biWAmrHyiMkX49LkycGqQ"
+        }
       ],
-      "artistId": [
-        "6biWAmrHyiMkX49LkycGqQ"
-      ],
-      "albumId": "74J4goYLcEur0WFYZeu4Js",
+      "album": {
+        "id": "74J4goYLcEur0WFYZeu4Js",
+        "name": "Black Rose (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0668d674c7ba72a00a5bbc1"
+      },
       "release_date": "1979",
       "popularity": 35
     },
     {
-      "trackId": "1Jmqubf9kGkWeYQXQKImL5",
-      "name": "People Are Strange",
+      "track": {
+        "id": "1Jmqubf9kGkWeYQXQKImL5",
+        "name": "People Are Strange"
+      },
       "duration_ms": 130173,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "6v5IVMmY1IvWtbfnQoiFSf",
+      "album": {
+        "id": "6v5IVMmY1IvWtbfnQoiFSf",
+        "name": "Strange Days",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286339e6cd71cc2a167451ee5"
+      },
       "release_date": "1967-09-25",
       "popularity": 71
     },
     {
-      "trackId": "3dQZWGbzbmzS0VGW0ZLLNz",
-      "name": "The Tempest - Tuona E Fulmina (Summer III)",
+      "track": {
+        "id": "3dQZWGbzbmzS0VGW0ZLLNz",
+        "name": "The Tempest - Tuona E Fulmina (Summer III)"
+      },
       "duration_ms": 199986,
-      "artist": [
-        "Uli Jon Roth",
-        "Sky Orchestra"
+      "artists": [
+        {
+          "name": "Uli Jon Roth",
+          "id": "2VoP4JXyxNPIoYAFdB5ssQ"
+        },
+        {
+          "name": "Sky Orchestra",
+          "id": "2Q0V8TD0yhxFKAVS4hbp1Q"
+        }
       ],
-      "artistId": [
-        "2VoP4JXyxNPIoYAFdB5ssQ",
-        "2Q0V8TD0yhxFKAVS4hbp1Q"
-      ],
-      "albumId": "1Gy6g3NAXUjcJCGzM00xw6",
+      "album": {
+        "id": "1Gy6g3NAXUjcJCGzM00xw6",
+        "name": "Metamorphosis",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5263fd11735bf32a3eb36dd"
+      },
       "release_date": "2004-03-20",
       "popularity": 17
     },
     {
-      "trackId": "6unmtLYQ2LQ1Cg4IdAiU9g",
-      "name": "Nobody's Fault but Mine - Remaster",
+      "track": {
+        "id": "6unmtLYQ2LQ1Cg4IdAiU9g",
+        "name": "Nobody's Fault but Mine - Remaster"
+      },
       "duration_ms": 388093,
-      "artist": [
-        "Led Zeppelin"
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "id": "36QJpDe2go2KgaRleHCDTp"
+        }
       ],
-      "artistId": [
-        "36QJpDe2go2KgaRleHCDTp"
-      ],
-      "albumId": "3uhD8hNpb0m3iIZ18RHH5u",
+      "album": {
+        "id": "3uhD8hNpb0m3iIZ18RHH5u",
+        "name": "Presence (Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227f6c518a8e36d45b5e7d95e"
+      },
       "release_date": "1976-03-31",
       "popularity": 53
     },
     {
-      "trackId": "6qtiuEtuvLFvT8LBKyvE6e",
-      "name": "The Sun Will Shine Again",
+      "track": {
+        "id": "6qtiuEtuvLFvT8LBKyvE6e",
+        "name": "The Sun Will Shine Again"
+      },
       "duration_ms": 264266,
-      "artist": [
-        "Jon Lord",
-        "Sam Brown"
+      "artists": [
+        {
+          "name": "Jon Lord",
+          "id": "4ff6Uen2n24VIpFt1l10ek"
+        },
+        {
+          "name": "Sam Brown",
+          "id": "3gvT4Mc7kn54IUy08Y0Tr5"
+        }
       ],
-      "artistId": [
-        "4ff6Uen2n24VIpFt1l10ek",
-        "3gvT4Mc7kn54IUy08Y0Tr5"
-      ],
-      "albumId": "2do39OUjdoILytcULbfa1a",
+      "album": {
+        "id": "2do39OUjdoILytcULbfa1a",
+        "name": "Beyond The Notes",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b01b2b21fee03f4f519a623"
+      },
       "release_date": "2004-09-20",
       "popularity": 12
     },
     {
-      "trackId": "6HULeBJLl1IO2lqHIVC2IX",
-      "name": "Phoenix Rising",
+      "track": {
+        "id": "6HULeBJLl1IO2lqHIVC2IX",
+        "name": "Phoenix Rising"
+      },
       "duration_ms": 289935,
-      "artist": [
-        "Phenomena"
+      "artists": [
+        {
+          "name": "Phenomena",
+          "id": "551BjvPd72WvqLnGCPRgiO"
+        }
       ],
-      "artistId": [
-        "551BjvPd72WvqLnGCPRgiO"
-      ],
-      "albumId": "2CGwhCm6N1jEIZGodt11B7",
+      "album": {
+        "id": "2CGwhCm6N1jEIZGodt11B7",
+        "name": "Phenomena",
+        "img": "https://i.scdn.co/image/ab67616d00001e020fa4320213c994d713cb1eb8"
+      },
       "release_date": "1985-01-01",
       "popularity": 24
     },
     {
-      "trackId": "1Dm8CUdf6wyTmQHwLVtoxb",
-      "name": "Running",
+      "track": {
+        "id": "1Dm8CUdf6wyTmQHwLVtoxb",
+        "name": "Running"
+      },
       "duration_ms": 273866,
-      "artist": [
-        "Geoff Dolce"
+      "artists": [
+        {
+          "name": "Geoff Dolce",
+          "id": "5r1qzjTqi0x8mUDNFumYTd"
+        }
       ],
-      "artistId": [
-        "5r1qzjTqi0x8mUDNFumYTd"
-      ],
-      "albumId": "5iEJOHXOCd9oghFmHL4axT",
+      "album": {
+        "id": "5iEJOHXOCd9oghFmHL4axT",
+        "name": "Chains",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8739f125cb953e70807a1f0"
+      },
       "release_date": "2014-09-23",
       "popularity": 1
     },
     {
-      "trackId": "5jN6rOrZ58DvXrzA5LQB5P",
-      "name": "Scream Thy Last Scream - 2010 Mix",
+      "track": {
+        "id": "5jN6rOrZ58DvXrzA5LQB5P",
+        "name": "Scream Thy Last Scream - 2010 Mix"
+      },
       "duration_ms": 282533,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "4kzYgNWgzrtCn2y36Q0gVK",
+      "album": {
+        "id": "4kzYgNWgzrtCn2y36Q0gVK",
+        "name": "The Early Years 1965-1967 CAMBRIDGE ST/ATION",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4c6e127fcf560685b342688"
+      },
       "release_date": "2016-11-06",
       "popularity": 14
     }

@@ -7,174 +7,248 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257739_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1pnw1lIXSbvmXbg3JqLn9K",
-      "name": "Memories",
+      "track": {
+        "id": "1pnw1lIXSbvmXbg3JqLn9K",
+        "name": "Memories"
+      },
       "duration_ms": 245533,
-      "artist": [
-        "Slick Rick"
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "id": "1W9qOBYRTfP7HcizWN43G1"
+        }
       ],
-      "artistId": [
-        "1W9qOBYRTfP7HcizWN43G1"
-      ],
-      "albumId": "4cZL0gsOEIOPLXdhc18vex",
+      "album": {
+        "id": "4cZL0gsOEIOPLXdhc18vex",
+        "name": "The Art Of Storytelling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e9a2bb369e73812ebcf30b56"
+      },
       "release_date": "1999-01-01",
       "popularity": 32
     },
     {
-      "trackId": "7wig0c7koqSvDiincDAEXX",
-      "name": "Your Glow",
+      "track": {
+        "id": "7wig0c7koqSvDiincDAEXX",
+        "name": "Your Glow"
+      },
       "duration_ms": 112124,
-      "artist": [
-        "Prime Suspect"
+      "artists": [
+        {
+          "name": "Prime Suspect",
+          "id": "5YQhFX1KlOhn5yZJL22mAR"
+        }
       ],
-      "artistId": [
-        "5YQhFX1KlOhn5yZJL22mAR"
-      ],
-      "albumId": "1xuQYgF21HQ9va023HWgod",
+      "album": {
+        "id": "1xuQYgF21HQ9va023HWgod",
+        "name": "Your Glow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506762575944e16e55fcf5ad"
+      },
       "release_date": "2022-08-12",
       "popularity": 48
     },
     {
-      "trackId": "0G3ImRQDWtOTwTK1oL5uWF",
-      "name": "O.G. Original Gangster",
+      "track": {
+        "id": "0G3ImRQDWtOTwTK1oL5uWF",
+        "name": "O.G. Original Gangster"
+      },
       "duration_ms": 283293,
-      "artist": [
-        "ICE-T"
+      "artists": [
+        {
+          "name": "ICE-T",
+          "id": "0eGh2jSWPBX5GuqIHoZJZG"
+        }
       ],
-      "artistId": [
-        "0eGh2jSWPBX5GuqIHoZJZG"
-      ],
-      "albumId": "08Bjvwbg1cFsFfXSdhG23I",
+      "album": {
+        "id": "08Bjvwbg1cFsFfXSdhG23I",
+        "name": "O.G. Original Gangster",
+        "img": "https://i.scdn.co/image/ab67616d00001e02130dcab9b9d160b5d9352c78"
+      },
       "release_date": "1991",
       "popularity": 43
     },
     {
-      "trackId": "3gRlmtdCyNoKiyozn2pqc9",
-      "name": "Mathematics",
+      "track": {
+        "id": "3gRlmtdCyNoKiyozn2pqc9",
+        "name": "Mathematics"
+      },
       "duration_ms": 246440,
-      "artist": [
-        "Mos Def"
+      "artists": [
+        {
+          "name": "Mos Def",
+          "id": "0Mz5XE0kb1GBnbLQm2VbcO"
+        }
       ],
-      "artistId": [
-        "0Mz5XE0kb1GBnbLQm2VbcO"
-      ],
-      "albumId": "5gK2l2LgWY0BA4p9uy27z6",
+      "album": {
+        "id": "5gK2l2LgWY0BA4p9uy27z6",
+        "name": "Black On Both Sides",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d"
+      },
       "release_date": "1999-10-12",
       "popularity": 63
     },
     {
-      "trackId": "4XgwhGf1uX0mvNjixeep21",
-      "name": "Strictly Snappin' Necks",
+      "track": {
+        "id": "4XgwhGf1uX0mvNjixeep21",
+        "name": "Strictly Snappin' Necks"
+      },
       "duration_ms": 269026,
-      "artist": [
-        "EPMD"
+      "artists": [
+        {
+          "name": "EPMD",
+          "id": "3zpKjsMg2gw1St5WcWoUJN"
+        }
       ],
-      "artistId": [
-        "3zpKjsMg2gw1St5WcWoUJN"
-      ],
-      "albumId": "4dxBNRPePGqky6mIKGAVsr",
+      "album": {
+        "id": "4dxBNRPePGqky6mIKGAVsr",
+        "name": "Unfinished Business",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247bbaf7004bed897197e46c1"
+      },
       "release_date": "1989-04-01",
       "popularity": 18
     },
     {
-      "trackId": "6bSFrkX3LA8x5H60KBaqBG",
-      "name": "Sex Style",
+      "track": {
+        "id": "6bSFrkX3LA8x5H60KBaqBG",
+        "name": "Sex Style"
+      },
       "duration_ms": 203173,
-      "artist": [
-        "Kool Keith",
-        "KutMasta Kurt"
+      "artists": [
+        {
+          "name": "Kool Keith",
+          "id": "3zFaWPA8Jobgf5egh38KD2"
+        },
+        {
+          "name": "KutMasta Kurt",
+          "id": "2T3TY0bgKbi5lH3TfD0m7O"
+        }
       ],
-      "artistId": [
-        "3zFaWPA8Jobgf5egh38KD2",
-        "2T3TY0bgKbi5lH3TfD0m7O"
-      ],
-      "albumId": "24tZC54R5v3rg7PDETTLub",
+      "album": {
+        "id": "24tZC54R5v3rg7PDETTLub",
+        "name": "Sex Style",
+        "img": "https://i.scdn.co/image/ab67616d00001e02427bdcf48237e0a5d1cc15ab"
+      },
       "release_date": "1997-02-04",
       "popularity": 31
     },
     {
-      "trackId": "5YIF6HSOtHN9HdcE5IPzMe",
-      "name": "Funky Cold Medina",
+      "track": {
+        "id": "5YIF6HSOtHN9HdcE5IPzMe",
+        "name": "Funky Cold Medina"
+      },
       "duration_ms": 248160,
-      "artist": [
-        "Tone-Loc"
+      "artists": [
+        {
+          "name": "Tone-Loc",
+          "id": "5Y8EphH8Vdqu5SLj6K5vjj"
+        }
       ],
-      "artistId": [
-        "5Y8EphH8Vdqu5SLj6K5vjj"
-      ],
-      "albumId": "6xE6A0Vwd2LmopR6Mn8UFG",
+      "album": {
+        "id": "6xE6A0Vwd2LmopR6Mn8UFG",
+        "name": "Loc-ed After Dark",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d02bf7ee36c4c913636a4f3"
+      },
       "release_date": "1989-01-01",
       "popularity": 58
     },
     {
-      "trackId": "254bXAqt3zP6P50BdQvEsq",
-      "name": "Everywhere - 2017 Remaster",
+      "track": {
+        "id": "254bXAqt3zP6P50BdQvEsq",
+        "name": "Everywhere - 2017 Remaster"
+      },
       "duration_ms": 226653,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "4AsXQ17Arq1cUVoa9dKJ3F",
+      "album": {
+        "id": "4AsXQ17Arq1cUVoa9dKJ3F",
+        "name": "Tango In the Night (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6"
+      },
       "release_date": "1987-04-13",
       "popularity": 77
     },
     {
-      "trackId": "5gr2WhY1WZQLyvzmuvSOjP",
-      "name": "Brown Sugar",
+      "track": {
+        "id": "5gr2WhY1WZQLyvzmuvSOjP",
+        "name": "Brown Sugar"
+      },
       "duration_ms": 476133,
-      "artist": [
-        "Kevin Vega"
+      "artists": [
+        {
+          "name": "Kevin Vega",
+          "id": "7p0RQVcY44M4fcvJArsBJY"
+        }
       ],
-      "artistId": [
-        "7p0RQVcY44M4fcvJArsBJY"
-      ],
-      "albumId": "0tP3Jhnqrl3fLUAP0IIdAy",
+      "album": {
+        "id": "0tP3Jhnqrl3fLUAP0IIdAy",
+        "name": "Is Always Watching",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a406ac54efd54e834e3bba68"
+      },
       "release_date": "2011",
       "popularity": 0
     },
     {
-      "trackId": "2dXsILW8gzkosqleHAvl0v",
-      "name": "For Whom The Bell Tolls - Remastered",
+      "track": {
+        "id": "2dXsILW8gzkosqleHAvl0v",
+        "name": "For Whom The Bell Tolls - Remastered"
+      },
       "duration_ms": 309973,
-      "artist": [
-        "Metallica"
+      "artists": [
+        {
+          "name": "Metallica",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB"
+        }
       ],
-      "artistId": [
-        "2ye2Wgw4gimLv2eAKyk1NB"
-      ],
-      "albumId": "05DePtm7oQMdL3Uzw2Jmsc",
+      "album": {
+        "id": "05DePtm7oQMdL3Uzw2Jmsc",
+        "name": "Ride The Lightning (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933"
+      },
       "release_date": "1984-07-26",
       "popularity": 73
     },
     {
-      "trackId": "18AXbzPzBS8Y3AkgSxzJPb",
-      "name": "In The Air Tonight - 2015 Remastered",
+      "track": {
+        "id": "18AXbzPzBS8Y3AkgSxzJPb",
+        "name": "In The Air Tonight - 2015 Remastered"
+      },
       "duration_ms": 336453,
-      "artist": [
-        "Phil Collins"
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "id": "4lxfqrEsLX6N1N4OCSkILp"
+        }
       ],
-      "artistId": [
-        "4lxfqrEsLX6N1N4OCSkILp"
-      ],
-      "albumId": "1cM3r0WQZWNkCpEbmFjLln",
+      "album": {
+        "id": "1cM3r0WQZWNkCpEbmFjLln",
+        "name": "Face Value (Deluxe Editon)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6954c1f074f66907a8c5483"
+      },
       "release_date": "1981-01-01",
       "popularity": 77
     },
     {
-      "trackId": "3heGDu6dvbgggKrIMmY0c2",
-      "name": "Non Fiction",
+      "track": {
+        "id": "3heGDu6dvbgggKrIMmY0c2",
+        "name": "Non Fiction"
+      },
       "duration_ms": 169008,
-      "artist": [
-        "Bilbro$e Bagginz"
+      "artists": [
+        {
+          "name": "Bilbro$e Bagginz",
+          "id": "2f6k8ogz43rCpa6T1J8T7Z"
+        }
       ],
-      "artistId": [
-        "2f6k8ogz43rCpa6T1J8T7Z"
-      ],
-      "albumId": "3O4UNYdora6Qd6yfm8wbnv",
+      "album": {
+        "id": "3O4UNYdora6Qd6yfm8wbnv",
+        "name": "Hottest In The City",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc1832fad9f6409172d2f6d"
+      },
       "release_date": "2022-08-12",
-      "popularity": 27
+      "popularity": 26
     }
   ]
 }

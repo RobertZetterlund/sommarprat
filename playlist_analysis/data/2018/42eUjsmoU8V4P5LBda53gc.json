@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a70925ae-f99d-46e8-8afd-8a42063259c3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "track": {
+        "id": "5Z01UMMf7V1o0MzF86s6WJ",
+        "name": "Lose Yourself - From \"8 Mile\" Soundtrack"
+      },
       "duration_ms": 326466,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "5qENHeCSlwWpEzb25peRmQ",
+      "album": {
+        "id": "5qENHeCSlwWpEzb25peRmQ",
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578"
+      },
       "release_date": "2005-12-06",
       "popularity": 76
     },
     {
-      "trackId": "66Bzmhj4cOinK5bxjx5DAK",
-      "name": "Release Me",
+      "track": {
+        "id": "66Bzmhj4cOinK5bxjx5DAK",
+        "name": "Release Me"
+      },
       "duration_ms": 184935,
-      "artist": [
-        "Oh Laura"
+      "artists": [
+        {
+          "name": "Oh Laura",
+          "id": "3myGY9DKqe4EcE5VMDQq7j"
+        }
       ],
-      "artistId": [
-        "3myGY9DKqe4EcE5VMDQq7j"
-      ],
-      "albumId": "7mxCAymM5G7iwKI0gtqKfz",
+      "album": {
+        "id": "7mxCAymM5G7iwKI0gtqKfz",
+        "name": "A Song Inside My Head, A Demon In My Bed",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ae7b087f2d0895959bb6ec8"
+      },
       "release_date": "2007-05-23",
       "popularity": 47
     },
     {
-      "trackId": "2FuIq91XO1IefihydpbhuD",
-      "name": "Crucify Your Mind",
+      "track": {
+        "id": "2FuIq91XO1IefihydpbhuD",
+        "name": "Crucify Your Mind"
+      },
       "duration_ms": 160226,
-      "artist": [
-        "Guitar Tribute Players"
+      "artists": [
+        {
+          "name": "Guitar Tribute Players",
+          "id": "3AoiBjr0pSGswX96XxEgH7"
+        }
       ],
-      "artistId": [
-        "3AoiBjr0pSGswX96XxEgH7"
-      ],
-      "albumId": "6jjtxU2mgN4oQcbsk8U6SX",
+      "album": {
+        "id": "6jjtxU2mgN4oQcbsk8U6SX",
+        "name": "Acoustic Tribute to Rodriguez",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208cb32728b670a2f53036527"
+      },
       "release_date": "2013-11-05",
       "popularity": 1
     },
     {
-      "trackId": "4oh6NKtMdiXIhgGGQBR09b",
-      "name": "Distant Sun",
+      "track": {
+        "id": "4oh6NKtMdiXIhgGGQBR09b",
+        "name": "Distant Sun"
+      },
       "duration_ms": 229738,
-      "artist": [
-        "Crowded House"
+      "artists": [
+        {
+          "name": "Crowded House",
+          "id": "7ohlPA8dRBtCf92zaZCaaB"
+        }
       ],
-      "artistId": [
-        "7ohlPA8dRBtCf92zaZCaaB"
-      ],
-      "albumId": "7bzJtH0rm6rcgmWiKyIVxK",
+      "album": {
+        "id": "7bzJtH0rm6rcgmWiKyIVxK",
+        "name": "Together Alone",
+        "img": "https://i.scdn.co/image/ab67616d00001e020258aac680f550f5db888c83"
+      },
       "release_date": "1993-01-01",
       "popularity": 57
     },
     {
-      "trackId": "1lqMLr9Wj7SM2F9AikGcxN",
-      "name": "Hurricane",
+      "track": {
+        "id": "1lqMLr9Wj7SM2F9AikGcxN",
+        "name": "Hurricane"
+      },
       "duration_ms": 512732,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "1T8usYsiGEMPMQOLFgJEbE",
+      "album": {
+        "id": "1T8usYsiGEMPMQOLFgJEbE",
+        "name": "Desire",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e1a23e42f68260b7b274e09"
+      },
       "release_date": "1976-01-16",
       "popularity": 67
     },
     {
-      "trackId": "17xGX76BVzLRSbpYteAGR4",
-      "name": "Bedshaped",
+      "track": {
+        "id": "17xGX76BVzLRSbpYteAGR4",
+        "name": "Bedshaped"
+      },
       "duration_ms": 278000,
-      "artist": [
-        "Keane"
+      "artists": [
+        {
+          "name": "Keane",
+          "id": "53A0W3U0s8diEn9RhXQhVz"
+        }
       ],
-      "artistId": [
-        "53A0W3U0s8diEn9RhXQhVz"
-      ],
-      "albumId": "0MlTOiC5ZYKFGeZ8h3D4rd",
+      "album": {
+        "id": "0MlTOiC5ZYKFGeZ8h3D4rd",
+        "name": "Hopes And Fears",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d6cd95a046a3c0dacbc7d33"
+      },
       "release_date": "2004-05-10",
       "popularity": 57
     },
     {
-      "trackId": "3AJwUDP919kvQ9QcozQPxg",
-      "name": "Yellow",
+      "track": {
+        "id": "3AJwUDP919kvQ9QcozQPxg",
+        "name": "Yellow"
+      },
       "duration_ms": 266773,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "6ZG5lRT77aJ3btmArcykra",
+      "album": {
+        "id": "6ZG5lRT77aJ3btmArcykra",
+        "name": "Parachutes",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d92b2ad5af9fbc8637425f0"
+      },
       "release_date": "2000-07-10",
       "popularity": 88
     },
     {
-      "trackId": "7orAUdS7qfqutuyRXpkGH8",
-      "name": "A Dios Le Pido",
+      "track": {
+        "id": "7orAUdS7qfqutuyRXpkGH8",
+        "name": "A Dios Le Pido"
+      },
       "duration_ms": 205373,
-      "artist": [
-        "Juanes"
+      "artists": [
+        {
+          "name": "Juanes",
+          "id": "0UWZUmn7sybxMCqrw9tGa7"
+        }
       ],
-      "artistId": [
-        "0UWZUmn7sybxMCqrw9tGa7"
-      ],
-      "albumId": "1pfOQNO03YsguyaKHoEJyJ",
+      "album": {
+        "id": "1pfOQNO03YsguyaKHoEJyJ",
+        "name": "Lo que el viento se llevó",
+        "img": "https://i.scdn.co/image/ab67616d00001e025392939d2268ae2492d2cf0c"
+      },
       "release_date": "2022-08-12",
       "popularity": 1
     },
     {
-      "trackId": "0U9ZPFkXmGW4VNxISLGpHD",
-      "name": "Port of Amsterdam - The Sunday Show, Recorded 5.2.70; 2000 Remaster",
+      "track": {
+        "id": "0U9ZPFkXmGW4VNxISLGpHD",
+        "name": "Port of Amsterdam - The Sunday Show, Recorded 5.2.70; 2000 Remaster"
+      },
       "duration_ms": 198160,
-      "artist": [
-        "David Bowie",
-        "The Tony Visconti Trio"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "The Tony Visconti Trio",
+          "id": "5kjkpVNaIz2X2c9akVEawS"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy",
-        "5kjkpVNaIz2X2c9akVEawS"
-      ],
-      "albumId": "29RCxn2H66nE9O1454d26L",
+      "album": {
+        "id": "29RCxn2H66nE9O1454d26L",
+        "name": "Bowie at the Beeb (The Best of the BBC Sessions 1968-1972)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e499e7c7a13b08d6a2683cd"
+      },
       "release_date": "2000-09-25",
       "popularity": 32
     },
     {
-      "trackId": "2Vy9F0mp0gcj9NxzfVDcQm",
-      "name": "Guajira guantanamera",
+      "track": {
+        "id": "2Vy9F0mp0gcj9NxzfVDcQm",
+        "name": "Guajira guantanamera"
+      },
       "duration_ms": 312120,
-      "artist": [
-        "Compay Segundo"
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "id": "2wpr4ILskkRzPBGodmbMs1"
+        }
       ],
-      "artistId": [
-        "2wpr4ILskkRzPBGodmbMs1"
-      ],
-      "albumId": "4JnzA5hRujlF3yG3OeOltp",
+      "album": {
+        "id": "4JnzA5hRujlF3yG3OeOltp",
+        "name": "Coleccion",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e96e61d9c8d2acf707b0e7d8"
+      },
       "release_date": "2003",
       "popularity": 51
     },
     {
-      "trackId": "70YvYr2hGlS01bKRIho1HM",
-      "name": "La Grange - 2005 Remaster",
+      "track": {
+        "id": "70YvYr2hGlS01bKRIho1HM",
+        "name": "La Grange - 2005 Remaster"
+      },
       "duration_ms": 230480,
-      "artist": [
-        "ZZ Top"
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "id": "2AM4ilv6UzW0uMRuqKtDgN"
+        }
       ],
-      "artistId": [
-        "2AM4ilv6UzW0uMRuqKtDgN"
-      ],
-      "albumId": "0Em8m9kRctyH9S3MTXAHvY",
+      "album": {
+        "id": "0Em8m9kRctyH9S3MTXAHvY",
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020fe2ec86a0ec561ef2e2aae1"
+      },
       "release_date": "1973-07-26",
       "popularity": 76
     }

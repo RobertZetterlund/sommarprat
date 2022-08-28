@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247535_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2AqmtgKAp7scMFisn3j6ma",
-      "name": "Hotel Song",
+      "track": {
+        "id": "2AqmtgKAp7scMFisn3j6ma",
+        "name": "Hotel Song"
+      },
       "duration_ms": 207880,
-      "artist": [
-        "Regina Spektor"
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "id": "3z6Gk257P9jNcZbBXJNX5i"
+        }
       ],
-      "artistId": [
-        "3z6Gk257P9jNcZbBXJNX5i"
-      ],
-      "albumId": "4L4tcx3itXbtx5kuchKhFE",
+      "album": {
+        "id": "4L4tcx3itXbtx5kuchKhFE",
+        "name": "Begin to Hope",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d81f491319b86356eb10c4e"
+      },
       "release_date": "2006-06-13",
       "popularity": 43
     },
     {
-      "trackId": "6MdxDs0CR2NdbtPoW1M6PU",
-      "name": "Giddy Up!",
+      "track": {
+        "id": "6MdxDs0CR2NdbtPoW1M6PU",
+        "name": "Giddy Up!"
+      },
       "duration_ms": 171426,
-      "artist": [
-        "The Hives"
+      "artists": [
+        {
+          "name": "The Hives",
+          "id": "4DToQR3aKrHQSSRzSz8Nzt"
+        }
       ],
-      "artistId": [
-        "4DToQR3aKrHQSSRzSz8Nzt"
-      ],
-      "albumId": "3UpE4fszD4goeSoyZXq4dg",
+      "album": {
+        "id": "3UpE4fszD4goeSoyZXq4dg",
+        "name": "The Black and White album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd31723de0bf3c86431c2f90"
+      },
       "release_date": "2007-01-01",
       "popularity": 18
     },
     {
-      "trackId": "0dpoonJETto1xBxZsJ4KbV",
-      "name": "Clattering Hooves",
+      "track": {
+        "id": "0dpoonJETto1xBxZsJ4KbV",
+        "name": "Clattering Hooves"
+      },
       "duration_ms": 282613,
-      "artist": [
-        "Jenny Wilson"
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "id": "3axEmcxTibioxD1rZi1IOB"
+        }
       ],
-      "artistId": [
-        "3axEmcxTibioxD1rZi1IOB"
-      ],
-      "albumId": "00avgNqb6OhpbQmh2EOdBo",
+      "album": {
+        "id": "00avgNqb6OhpbQmh2EOdBo",
+        "name": "Hardships!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263aad775646c219e0399e49f"
+      },
       "release_date": "2009-02-25",
       "popularity": 10
     },
     {
-      "trackId": "4jU7NPkz4HVnM4hweqNhI1",
-      "name": "Blue Orchid",
+      "track": {
+        "id": "4jU7NPkz4HVnM4hweqNhI1",
+        "name": "Blue Orchid"
+      },
       "duration_ms": 157560,
-      "artist": [
-        "The White Stripes"
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "id": "4F84IBURUo98rz4r61KF70"
+        }
       ],
-      "artistId": [
-        "4F84IBURUo98rz4r61KF70"
-      ],
-      "albumId": "3rHeq4F5wnaLBjNtuz7Yvh",
+      "album": {
+        "id": "3rHeq4F5wnaLBjNtuz7Yvh",
+        "name": "Get Behind Me Satan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8a1ae591befe4bb0a9261ab"
+      },
       "release_date": "2005-06-07",
       "popularity": 65
     },
     {
-      "trackId": "3ZsMVJNxDHLtnud0GRM1UO",
-      "name": "Raise It",
+      "track": {
+        "id": "3ZsMVJNxDHLtnud0GRM1UO",
+        "name": "Raise It"
+      },
       "duration_ms": 164053,
-      "artist": [
-        "Street Fighting Man"
+      "artists": [
+        {
+          "name": "Street Fighting Man",
+          "id": "1aiEJl379iX3hX6bSIzzUy"
+        }
       ],
-      "artistId": [
-        "1aiEJl379iX3hX6bSIzzUy"
-      ],
-      "albumId": "03s4ikqdocFenvZqYbqeV5",
+      "album": {
+        "id": "03s4ikqdocFenvZqYbqeV5",
+        "name": "The Shadow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d60d515f0422d9dfadc215da"
+      },
       "release_date": "2011-01-14",
       "popularity": 0
     },
     {
-      "trackId": "2WoZsxEDAqtoPJ3B7jcc1g",
-      "name": "Standing In The Way of Control",
+      "track": {
+        "id": "2WoZsxEDAqtoPJ3B7jcc1g",
+        "name": "Standing In The Way of Control"
+      },
       "duration_ms": 256399,
-      "artist": [
-        "Gossip"
+      "artists": [
+        {
+          "name": "Gossip",
+          "id": "3sFTupo9UGgrujjN21BjwR"
+        }
       ],
-      "artistId": [
-        "3sFTupo9UGgrujjN21BjwR"
-      ],
-      "albumId": "6BizfjVHCp9uIBC3futGoO",
+      "album": {
+        "id": "6BizfjVHCp9uIBC3futGoO",
+        "name": "Standing In The Way Of Control",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252068ce2f2ad5a5f602262ba"
+      },
       "release_date": "2007-01-01",
       "popularity": 21
     },
     {
-      "trackId": "51H2y6YrNNXcy3dfc3qSbA",
-      "name": "When Doves Cry",
+      "track": {
+        "id": "51H2y6YrNNXcy3dfc3qSbA",
+        "name": "When Doves Cry"
+      },
       "duration_ms": 352906,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "7nXJ5k4XgRj5OLg9m8V3zc",
+      "album": {
+        "id": "7nXJ5k4XgRj5OLg9m8V3zc",
+        "name": "Purple Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d52bfb90ee8dfeda8378b99b"
+      },
       "release_date": "1984-06-25",
       "popularity": 71
     },
     {
-      "trackId": "7nQdVGgNh7xMqlOo7qwhj8",
-      "name": "20 år",
+      "track": {
+        "id": "7nQdVGgNh7xMqlOo7qwhj8",
+        "name": "20 år"
+      },
       "duration_ms": 178040,
-      "artist": [
-        "Magnus Weideskog"
+      "artists": [
+        {
+          "name": "Magnus Weideskog",
+          "id": "6o0QgzoxIDPzDxtu4WXBA1"
+        }
       ],
-      "artistId": [
-        "6o0QgzoxIDPzDxtu4WXBA1"
-      ],
-      "albumId": "6yIHTyy52pOVlAw7DGOI7H",
+      "album": {
+        "id": "6yIHTyy52pOVlAw7DGOI7H",
+        "name": "Unga Hjärtan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235f060f5ae416479d26c4eec"
+      },
       "release_date": "2010-02-01",
       "popularity": 1
     },
     {
-      "trackId": "2Ms33RTRCT6gArrpcrPxmo",
-      "name": "Feel",
+      "track": {
+        "id": "2Ms33RTRCT6gArrpcrPxmo",
+        "name": "Feel"
+      },
       "duration_ms": 263866,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "4QyE2i0y4nyxHsiwm6VK9V",
+      "album": {
+        "id": "4QyE2i0y4nyxHsiwm6VK9V",
+        "name": "Escapology",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a9ad390e0635b43ff01d250"
+      },
       "release_date": "2002",
       "popularity": 72
     },
     {
-      "trackId": "0GhvlDzQWAja8IhPDV155H",
-      "name": "Listen To Yourself",
+      "track": {
+        "id": "0GhvlDzQWAja8IhPDV155H",
+        "name": "Listen To Yourself"
+      },
       "duration_ms": 286293,
-      "artist": [
-        "Skin"
+      "artists": [
+        {
+          "name": "Skin",
+          "id": "0HIhHN1AjF18APmk5yIEZY"
+        }
       ],
-      "artistId": [
-        "0HIhHN1AjF18APmk5yIEZY"
-      ],
-      "albumId": "2hVgGUgCdMFhfIyreRjmJN",
+      "album": {
+        "id": "2hVgGUgCdMFhfIyreRjmJN",
+        "name": "Fleshwounds",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264c6f7984ac6173f985b7346"
+      },
       "release_date": "2003-09-09",
       "popularity": 18
     },
     {
-      "trackId": "1S5Ur6oKF4dzrRMuxmHk39",
-      "name": "True Love Way",
+      "track": {
+        "id": "1S5Ur6oKF4dzrRMuxmHk39",
+        "name": "True Love Way"
+      },
       "duration_ms": 242786,
-      "artist": [
-        "Kings of Leon"
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "id": "2qk9voo8llSGYcZ6xrBzKx"
+        }
       ],
-      "artistId": [
-        "2qk9voo8llSGYcZ6xrBzKx"
-      ],
-      "albumId": "5CiZOqd3iF6p2PsqBjljat",
+      "album": {
+        "id": "5CiZOqd3iF6p2PsqBjljat",
+        "name": "Because Of The Times",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287ac8463e02cd86380ff6b47"
+      },
       "release_date": "2007-04-02",
       "popularity": 44
     },
     {
-      "trackId": "2mxT8OWvZSjAzmYYGeBjoY",
-      "name": "Trouble Is a Friend",
+      "track": {
+        "id": "2mxT8OWvZSjAzmYYGeBjoY",
+        "name": "Trouble Is a Friend"
+      },
       "duration_ms": 215746,
-      "artist": [
-        "Lenka"
+      "artists": [
+        {
+          "name": "Lenka",
+          "id": "5g3uG8zZZANGT6YOssgjfC"
+        }
       ],
-      "artistId": [
-        "5g3uG8zZZANGT6YOssgjfC"
-      ],
-      "albumId": "4RDt6hhOexGpinuMYkhpBE",
+      "album": {
+        "id": "4RDt6hhOexGpinuMYkhpBE",
+        "name": "Lenka (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273828856d5bb812e8a5e66d5"
+      },
       "release_date": "2008-09-23",
       "popularity": 54
     },
     {
-      "trackId": "7w5GAUVhimHVPSwTsPnxq5",
-      "name": "Sail Away",
+      "track": {
+        "id": "7w5GAUVhimHVPSwTsPnxq5",
+        "name": "Sail Away"
+      },
       "duration_ms": 315373,
-      "artist": [
-        "David Gray"
+      "artists": [
+        {
+          "name": "David Gray",
+          "id": "7J2lZBANizgPNfUzux31PV"
+        }
       ],
-      "artistId": [
-        "7J2lZBANizgPNfUzux31PV"
-      ],
-      "albumId": "0rK8K0z9sYhEhCW51v9jrp",
+      "album": {
+        "id": "0rK8K0z9sYhEhCW51v9jrp",
+        "name": "White Ladder",
+        "img": "https://i.scdn.co/image/ab67616d00001e02248a1fed548434258c112e34"
+      },
       "release_date": "1998-11-02",
       "popularity": 62
     }

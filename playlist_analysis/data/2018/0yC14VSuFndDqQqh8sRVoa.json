@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/38067f99-538d-4fb2-b4a7-55edcd0bc38b.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1jDJFeK9x3OZboIAHsY9k2",
-      "name": "I'm Still Standing",
+      "track": {
+        "id": "1jDJFeK9x3OZboIAHsY9k2",
+        "name": "I'm Still Standing"
+      },
       "duration_ms": 183440,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "0OmYuz9hwn1XoqmDaU0yJ7",
+      "album": {
+        "id": "0OmYuz9hwn1XoqmDaU0yJ7",
+        "name": "Too Low For Zero",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89"
+      },
       "release_date": "1983-05-30",
       "popularity": 82
     },
     {
-      "trackId": "53AU0RJlfFTofiu0uZZSIf",
-      "name": "Je pense à toi",
+      "track": {
+        "id": "53AU0RJlfFTofiu0uZZSIf",
+        "name": "Je pense à toi"
+      },
       "duration_ms": 316880,
-      "artist": [
-        "Amadou & Mariam"
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "id": "3KH7WsR2JZQ94Ik8SyabU6"
+        }
       ],
-      "artistId": [
-        "3KH7WsR2JZQ94Ik8SyabU6"
-      ],
-      "albumId": "3YkgbENywpHkRQlzT2y3aR",
+      "album": {
+        "id": "3YkgbENywpHkRQlzT2y3aR",
+        "name": "Sou Ni Tile",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243d446ce75eeb6993a6bd811"
+      },
       "release_date": "1998-01-01",
       "popularity": 50
     },
     {
-      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-      "name": "En stund på jorden",
+      "track": {
+        "id": "0Zii0Q4Z17kd1XMB27CQ2t",
+        "name": "En stund på jorden"
+      },
       "duration_ms": 232858,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 50
     },
     {
-      "trackId": "0bHA8LApeZHv7ZlhVUWg8X",
-      "name": "American Oxygen",
+      "track": {
+        "id": "0bHA8LApeZHv7ZlhVUWg8X",
+        "name": "American Oxygen"
+      },
       "duration_ms": 320161,
-      "artist": [
-        "Rihanna"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ],
-      "albumId": "2IyX9LGBbewZDfNZ5Cjn4G",
+      "album": {
+        "id": "2IyX9LGBbewZDfNZ5Cjn4G",
+        "name": "American Oxygen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcf5ae6bc3b8b7c68cee71ba"
+      },
       "release_date": "2015-04-14",
       "popularity": 54
     },
     {
-      "trackId": "2igwFfvr1OAGX9SKDCPBwO",
-      "name": "Empire State Of Mind",
+      "track": {
+        "id": "2igwFfvr1OAGX9SKDCPBwO",
+        "name": "Empire State Of Mind"
+      },
       "duration_ms": 276920,
-      "artist": [
-        "JAY-Z",
-        "Alicia Keys"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Alicia Keys",
+          "id": "3DiDSECUqqY1AuBP8qtaIa"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB",
-        "3DiDSECUqqY1AuBP8qtaIa"
-      ],
-      "albumId": "2CUT0104gySOIvqwtXeFsX",
+      "album": {
+        "id": "2CUT0104gySOIvqwtXeFsX",
+        "name": "The Blueprint 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10"
+      },
       "release_date": "2009-09-08",
       "popularity": 82
     },
     {
-      "trackId": "3mlMpmY8oZIBFc39D9zLbh",
-      "name": "The Long And Winding Road - Remastered 2009",
+      "track": {
+        "id": "3mlMpmY8oZIBFc39D9zLbh",
+        "name": "The Long And Winding Road - Remastered 2009"
+      },
       "duration_ms": 218186,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+      "album": {
+        "id": "0jTGHV5xqHPvEcwL8f6YU5",
+        "name": "Let It Be (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1"
+      },
       "release_date": "1970-05-08",
       "popularity": 63
     },
     {
-      "trackId": "6I1kZgg3bGrPKxhZOltbRW",
-      "name": "Alla vill till himmelen men ingen vill dö",
+      "track": {
+        "id": "6I1kZgg3bGrPKxhZOltbRW",
+        "name": "Alla vill till himmelen men ingen vill dö"
+      },
       "duration_ms": 246386,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "3tXuKxDCfmokZIoqzTYAjN",
+      "album": {
+        "id": "3tXuKxDCfmokZIoqzTYAjN",
+        "name": "Alla vill till himmelen men ingen vill dö",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f"
+      },
       "release_date": "2005-06-03",
       "popularity": 55
     },
     {
-      "trackId": "1bGSy8Y0mY0AMZzp4d4xTK",
-      "name": "Suedi",
+      "track": {
+        "id": "1bGSy8Y0mY0AMZzp4d4xTK",
+        "name": "Suedi"
+      },
       "duration_ms": 260399,
-      "artist": [
-        "Erik Lundin"
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "id": "0dCSPVQ30JS4cRaCTtbEmp"
+        }
       ],
-      "artistId": [
-        "0dCSPVQ30JS4cRaCTtbEmp"
-      ],
-      "albumId": "5zuqeiwaG7raGKk6ERT2gf",
+      "album": {
+        "id": "5zuqeiwaG7raGKk6ERT2gf",
+        "name": "Suedi",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce7533f808e92adf88fb05d"
+      },
       "release_date": "2015-11-06",
       "popularity": 34
     },
     {
-      "trackId": "6pbCkvCENw0suVGr4Ckkae",
-      "name": "Like Glue",
+      "track": {
+        "id": "6pbCkvCENw0suVGr4Ckkae",
+        "name": "Like Glue"
+      },
       "duration_ms": 232506,
-      "artist": [
-        "Sean Paul"
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "id": "3Isy6kedDrgPYoTS1dazA9"
+        }
       ],
-      "artistId": [
-        "3Isy6kedDrgPYoTS1dazA9"
-      ],
-      "albumId": "3nAwSh2fcp3M8voQKZS2as",
+      "album": {
+        "id": "3nAwSh2fcp3M8voQKZS2as",
+        "name": "Dutty Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df82ce803b2a84ce68e66e6d"
+      },
       "release_date": "2002-11-12",
       "popularity": 63
     },
     {
-      "trackId": "2EKTVAV9Mzwxt0m9VFJpMA",
-      "name": "Soobax",
+      "track": {
+        "id": "2EKTVAV9Mzwxt0m9VFJpMA",
+        "name": "Soobax"
+      },
       "duration_ms": 222226,
-      "artist": [
-        "K'NAAN"
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "id": "7pGyQZx9thVa8GxMBeXscB"
+        }
       ],
-      "artistId": [
-        "7pGyQZx9thVa8GxMBeXscB"
-      ],
-      "albumId": "7LwJvGC7osGfL46x9c57tW",
+      "album": {
+        "id": "7LwJvGC7osGfL46x9c57tW",
+        "name": "The Dusty Foot Philosopher",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298b7518cbdab71ec864e3e83"
+      },
       "release_date": "2006",
       "popularity": 20
     },
     {
-      "trackId": "3PDVdp1ysCTojhZOvLlGd6",
-      "name": "A Change Is Gonna Come",
+      "track": {
+        "id": "3PDVdp1ysCTojhZOvLlGd6",
+        "name": "A Change Is Gonna Come"
+      },
       "duration_ms": 234253,
-      "artist": [
-        "Seal"
+      "artists": [
+        {
+          "name": "Seal",
+          "id": "5GtMEZEeFFsuHY8ad4kOxv"
+        }
       ],
-      "artistId": [
-        "5GtMEZEeFFsuHY8ad4kOxv"
-      ],
-      "albumId": "5coBwIJ5Z8h2OlrimmdE1S",
+      "album": {
+        "id": "5coBwIJ5Z8h2OlrimmdE1S",
+        "name": "Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b50853f98aeaafc69401ccd"
+      },
       "release_date": "2008-10-31",
       "popularity": 42
     },
     {
-      "trackId": "3LodQuubJHwPgkxp4BxHE7",
-      "name": "Sverige",
+      "track": {
+        "id": "3LodQuubJHwPgkxp4BxHE7",
+        "name": "Sverige"
+      },
       "duration_ms": 179000,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "2DGzTm2R2v3G0IjnxXtP3Y",
+      "album": {
+        "id": "2DGzTm2R2v3G0IjnxXtP3Y",
+        "name": "Vapen & ammunition",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238195e65555be2b7f9324e1c"
+      },
       "release_date": "2002-04-15",
       "popularity": 53
     },
     {
-      "trackId": "6OH7UCFY7SEJxxQkaYfAv8",
-      "name": "Comin' Home Baby",
+      "track": {
+        "id": "6OH7UCFY7SEJxxQkaYfAv8",
+        "name": "Comin' Home Baby"
+      },
       "duration_ms": 519600,
-      "artist": [
-        "Herbie Mann"
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "id": "6ycoXr0Ayd89vFUT6BOiWo"
+        }
       ],
-      "artistId": [
-        "6ycoXr0Ayd89vFUT6BOiWo"
-      ],
-      "albumId": "5Pi9gvFQLlXGdgI19hb6IR",
+      "album": {
+        "id": "5Pi9gvFQLlXGdgI19hb6IR",
+        "name": "Atlantic Jazz: Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221f3e2e18b963431056f4efc"
+      },
       "release_date": "2005-05-10",
       "popularity": 46
     }

@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4000997a-aa8c-4ef5-997e-aa91c61f4c53.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2ziXHAGqSDbmUIdRUjjQoQ",
-      "name": "Ara Malikian: Pisando Flores",
+      "track": {
+        "id": "2ziXHAGqSDbmUIdRUjjQoQ",
+        "name": "Ara Malikian: Pisando Flores"
+      },
       "duration_ms": 246493,
-      "artist": [
-        "Ara Malikian"
+      "artists": [
+        {
+          "name": "Ara Malikian",
+          "id": "5kIE5Bm5P9h6KDsz46V2qc"
+        }
       ],
-      "artistId": [
-        "5kIE5Bm5P9h6KDsz46V2qc"
-      ],
-      "albumId": "5SjLAVT3IuQs6CfBtAQSVF",
+      "album": {
+        "id": "5SjLAVT3IuQs6CfBtAQSVF",
+        "name": "Ara Malikian: Pisando Flores",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251ce8e10244e2340c6df672d"
+      },
       "release_date": "2013-11-11",
       "popularity": 29
     },
     {
-      "trackId": "3LGZh5qqXpMXiAlcUetjAT",
-      "name": "Här kommer natten",
+      "track": {
+        "id": "3LGZh5qqXpMXiAlcUetjAT",
+        "name": "Här kommer natten"
+      },
       "duration_ms": 216160,
-      "artist": [
-        "Pugh Rogefeldt"
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "id": "22Wo43V44RtrpJZsjeI9EA"
+        }
       ],
-      "artistId": [
-        "22Wo43V44RtrpJZsjeI9EA"
-      ],
-      "albumId": "2cCdsdbWfcagJut7abW3VQ",
+      "album": {
+        "id": "2cCdsdbWfcagJut7abW3VQ",
+        "name": "Ja dä ä dä",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e9651c812472833e1e5e3f2"
+      },
       "release_date": "1969",
       "popularity": 29
     },
     {
-      "trackId": "5UWarhuxo8QZ5lKxgw5EHv",
-      "name": "The House of the Rising Sun",
+      "track": {
+        "id": "5UWarhuxo8QZ5lKxgw5EHv",
+        "name": "The House of the Rising Sun"
+      },
       "duration_ms": 231253,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "12aKG91Tj6hJFOe90TzcX2",
+      "album": {
+        "id": "12aKG91Tj6hJFOe90TzcX2",
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c1edace3ab711d2963dfdc8"
+      },
       "release_date": "1967",
       "popularity": 31
     },
     {
-      "trackId": "5ywoRjfVIlcJiSAxwPT3Pt",
-      "name": "Mr. Bojangles",
+      "track": {
+        "id": "5ywoRjfVIlcJiSAxwPT3Pt",
+        "name": "Mr. Bojangles"
+      },
       "duration_ms": 299213,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3bm8jq96m8I1FZc8BsfG8g",
+      "album": {
+        "id": "3bm8jq96m8I1FZc8BsfG8g",
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e61aa18bbda3f9c5dbb499b7"
+      },
       "release_date": "1971",
       "popularity": 52
     },
     {
-      "trackId": "7vtkjHQoNgLtNqLiwewQHn",
-      "name": "What Have They Done to My Song, Ma",
+      "track": {
+        "id": "7vtkjHQoNgLtNqLiwewQHn",
+        "name": "What Have They Done to My Song, Ma"
+      },
       "duration_ms": 272466,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3bm8jq96m8I1FZc8BsfG8g",
+      "album": {
+        "id": "3bm8jq96m8I1FZc8BsfG8g",
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e61aa18bbda3f9c5dbb499b7"
+      },
       "release_date": "1971",
       "popularity": 22
     },
     {
-      "trackId": "3FAclTFfvUuQYnEsptbK8w",
-      "name": "Back To Black",
+      "track": {
+        "id": "3FAclTFfvUuQYnEsptbK8w",
+        "name": "Back To Black"
+      },
       "duration_ms": 241293,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 78
     },
     {
-      "trackId": "0DMRKqrpd0QO4RWiEdMib0",
-      "name": "You Know I'm No Good",
+      "track": {
+        "id": "0DMRKqrpd0QO4RWiEdMib0",
+        "name": "You Know I'm No Good"
+      },
       "duration_ms": 257186,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 72
     },
     {
-      "trackId": "43Ud1IajwtBvw6ONj6aK2Q",
-      "name": "Mother - Remastered 2010",
+      "track": {
+        "id": "43Ud1IajwtBvw6ONj6aK2Q",
+        "name": "Mother - Remastered 2010"
+      },
       "duration_ms": 336306,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "0DFYbYCcHCEJPcN1hODG6K",
+      "album": {
+        "id": "0DFYbYCcHCEJPcN1hODG6K",
+        "name": "Plastic Ono Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e026462162d227ec2be2ebee12d"
+      },
       "release_date": "1970-12-11",
       "popularity": 48
     },
     {
-      "trackId": "3OVtPAs0bDjw5YG5z7S15C",
-      "name": "Målarskolan",
+      "track": {
+        "id": "3OVtPAs0bDjw5YG5z7S15C",
+        "name": "Målarskolan"
+      },
       "duration_ms": 132146,
-      "artist": [
-        "Benny Andersson"
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        }
       ],
-      "artistId": [
-        "0kV0e99xlTJcLKSu8KrLyp"
-      ],
-      "albumId": "3YGh4CN0JocLK0SwvJgMWc",
+      "album": {
+        "id": "3YGh4CN0JocLK0SwvJgMWc",
+        "name": "Piano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02997e204b1d3e2e08a3c55e34"
+      },
       "release_date": "2017-09-29",
       "popularity": 25
     },
     {
-      "trackId": "740iAl8nD295Et5Aa2fVGt",
-      "name": "Godnattvisan",
+      "track": {
+        "id": "740iAl8nD295Et5Aa2fVGt",
+        "name": "Godnattvisan"
+      },
       "duration_ms": 120545,
-      "artist": [
-        "Humlan Djojj",
-        "Josefine Götestam"
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "id": "73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine Götestam",
+          "id": "42OtrLDsfIE3pD915uvaju"
+        }
       ],
-      "artistId": [
-        "73nQT8Arf05XV666SlvrVQ",
-        "42OtrLDsfIE3pD915uvaju"
-      ],
-      "albumId": "0YML9QbfcWc3RKbTlyzEas",
+      "album": {
+        "id": "0YML9QbfcWc3RKbTlyzEas",
+        "name": "Godnattvisan",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ba7eb61f09524542366422c"
+      },
       "release_date": "2019-06-07",
       "popularity": 54
     },
     {
-      "trackId": "4aXLE55XSzAy4tD067AOvE",
-      "name": "En sjöman älskar havets våg/Det var en gång en sjöman",
+      "track": {
+        "id": "4aXLE55XSzAy4tD067AOvE",
+        "name": "En sjöman älskar havets våg/Det var en gång en sjöman"
+      },
       "duration_ms": 78666,
-      "artist": [
-        "Dunderklumpen"
+      "artists": [
+        {
+          "name": "Dunderklumpen",
+          "id": "7JEAI44WjRpZ46Gz58cJoD"
+        }
       ],
-      "artistId": [
-        "7JEAI44WjRpZ46Gz58cJoD"
-      ],
-      "albumId": "7n44DlSzlzsn0TeBB2397e",
+      "album": {
+        "id": "7n44DlSzlzsn0TeBB2397e",
+        "name": "Dunderklumpen / Toots Thielemans & Beppe Wolgers spelar och berättar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251949f977e8164daa6262bba"
+      },
       "release_date": "1974-01-01",
       "popularity": 26
     },
     {
-      "trackId": "2ligYprGslguY9OGdF9rg3",
-      "name": "Cirkus Finemang",
+      "track": {
+        "id": "2ligYprGslguY9OGdF9rg3",
+        "name": "Cirkus Finemang"
+      },
       "duration_ms": 257253,
-      "artist": [
-        "Benny Anderssons Orkester"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS"
-      ],
-      "albumId": "1s5COefw7fWcruo5qMkfUj",
+      "album": {
+        "id": "1s5COefw7fWcruo5qMkfUj",
+        "name": "Benny Anderssons Orkester",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b3eb13d02fed87d31022dec"
+      },
       "release_date": "2007-01-01",
       "popularity": 23
     },
     {
-      "trackId": "740iAl8nD295Et5Aa2fVGt",
-      "name": "Godnattvisan",
+      "track": {
+        "id": "740iAl8nD295Et5Aa2fVGt",
+        "name": "Godnattvisan"
+      },
       "duration_ms": 120545,
-      "artist": [
-        "Humlan Djojj",
-        "Josefine Götestam"
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "id": "73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine Götestam",
+          "id": "42OtrLDsfIE3pD915uvaju"
+        }
       ],
-      "artistId": [
-        "73nQT8Arf05XV666SlvrVQ",
-        "42OtrLDsfIE3pD915uvaju"
-      ],
-      "albumId": "0YML9QbfcWc3RKbTlyzEas",
+      "album": {
+        "id": "0YML9QbfcWc3RKbTlyzEas",
+        "name": "Godnattvisan",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ba7eb61f09524542366422c"
+      },
       "release_date": "2019-06-07",
       "popularity": 54
     },
     {
-      "trackId": "6kWJvPfC4DgUpRsXKNa9z9",
-      "name": "All That She Wants",
+      "track": {
+        "id": "6kWJvPfC4DgUpRsXKNa9z9",
+        "name": "All That She Wants"
+      },
       "duration_ms": 211213,
-      "artist": [
-        "Ace of Base"
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "id": "5ksRONqssB7BR161NTtJAm"
+        }
       ],
-      "artistId": [
-        "5ksRONqssB7BR161NTtJAm"
-      ],
-      "albumId": "5UwIyIyFzkM7wKeGtRJPgB",
+      "album": {
+        "id": "5UwIyIyFzkM7wKeGtRJPgB",
+        "name": "The Sign",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda5556cb6981c3113df6175"
+      },
       "release_date": "1993-12-24",
       "popularity": 73
     }

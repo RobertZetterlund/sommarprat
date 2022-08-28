@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354582_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0fiTN2N5HEIefAHtm00vYG",
-      "name": "Wildfire",
+      "track": {
+        "id": "0fiTN2N5HEIefAHtm00vYG",
+        "name": "Wildfire"
+      },
       "duration_ms": 201000,
-      "artist": [
-        "SBTRKT",
-        "Little Dragon"
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "id": "1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Little Dragon",
+          "id": "6Tyzp9KzpiZ04DABQoedps"
+        }
       ],
-      "artistId": [
-        "1O10apSOoAPjOu6UhUNmeI",
-        "6Tyzp9KzpiZ04DABQoedps"
-      ],
-      "albumId": "35xfQriUFj6M2AVq78OsEq",
+      "album": {
+        "id": "35xfQriUFj6M2AVq78OsEq",
+        "name": "SBTRKT (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02779c4164a3cb1e610a757c41"
+      },
       "release_date": "2011",
       "popularity": 55
     },
     {
-      "trackId": "5cAQUcKoOSWmp1vUZdE1lv",
-      "name": "Punkdrömmar",
+      "track": {
+        "id": "5cAQUcKoOSWmp1vUZdE1lv",
+        "name": "Punkdrömmar"
+      },
       "duration_ms": 190480,
-      "artist": [
-        "[ingenting]"
+      "artists": [
+        {
+          "name": "[ingenting]",
+          "id": "6nceGL5HhapgE9AJvlZK1l"
+        }
       ],
-      "artistId": [
-        "6nceGL5HhapgE9AJvlZK1l"
-      ],
-      "albumId": "6xgEj8s6yoW8aVcMONz2Kq",
+      "album": {
+        "id": "6xgEj8s6yoW8aVcMONz2Kq",
+        "name": "Mycket Väsen För Ingenting",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f21c6799ee50df9736994e11"
+      },
       "release_date": "2006-10-18",
       "popularity": 33
     },
     {
-      "trackId": "6GyFP1nfCDB8lbD2bG0Hq9",
-      "name": "Midnight City",
+      "track": {
+        "id": "6GyFP1nfCDB8lbD2bG0Hq9",
+        "name": "Midnight City"
+      },
       "duration_ms": 243960,
-      "artist": [
-        "M83"
+      "artists": [
+        {
+          "name": "M83",
+          "id": "63MQldklfxkjYDoUE4Tppz"
+        }
       ],
-      "artistId": [
-        "63MQldklfxkjYDoUE4Tppz"
-      ],
-      "albumId": "6EB14IXV5oyOiItGBv7mtG",
+      "album": {
+        "id": "6EB14IXV5oyOiItGBv7mtG",
+        "name": "Hurry up, We're Dreaming",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3591763154a27326b3f431a"
+      },
       "release_date": "2011-10-17",
       "popularity": 76
     },
     {
-      "trackId": "75FEaRjZTKLhTrFGsfMUXR",
-      "name": "Running Up That Hill (A Deal With God)",
+      "track": {
+        "id": "75FEaRjZTKLhTrFGsfMUXR",
+        "name": "Running Up That Hill (A Deal With God)"
+      },
       "duration_ms": 298933,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "5BWl0bB1q0TqyFmkBEupZy",
+      "album": {
+        "id": "5BWl0bB1q0TqyFmkBEupZy",
+        "name": "Hounds Of Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ab64f52273635308b6bf27"
+      },
       "release_date": "1985",
       "popularity": 94
     },
     {
-      "trackId": "3IrkbGQCoEPAkzJ0Tkv8nm",
-      "name": "Dirt Off Your Shoulder",
+      "track": {
+        "id": "3IrkbGQCoEPAkzJ0Tkv8nm",
+        "name": "Dirt Off Your Shoulder"
+      },
       "duration_ms": 245173,
-      "artist": [
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "4FWvo9oS4gRgHtAwDwUjiO",
+      "album": {
+        "id": "4FWvo9oS4gRgHtAwDwUjiO",
+        "name": "The Black Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c528802c308a1e0e4d9945dd"
+      },
       "release_date": "2003-11-14",
       "popularity": 63
     },
     {
-      "trackId": "1Bq65xKgu0kjSUMUlfWyPl",
-      "name": "Transmission - 2020 Digital Remaster",
+      "track": {
+        "id": "1Bq65xKgu0kjSUMUlfWyPl",
+        "name": "Transmission - 2020 Digital Remaster"
+      },
       "duration_ms": 218440,
-      "artist": [
-        "Joy Division"
+      "artists": [
+        {
+          "name": "Joy Division",
+          "id": "432R46LaYsJZV2Gmc4jUV5"
+        }
       ],
-      "artistId": [
-        "432R46LaYsJZV2Gmc4jUV5"
-      ],
-      "albumId": "51BKPr5L8cGZGk9bl9Jf5L",
+      "album": {
+        "id": "51BKPr5L8cGZGk9bl9Jf5L",
+        "name": "Transmission",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5d8dac0b019953e2e00151e"
+      },
       "release_date": "1979-10-07",
       "popularity": 55
     },
     {
-      "trackId": "2AAufvupYM1WJEhysEcjpF",
-      "name": "Mother Protect",
+      "track": {
+        "id": "2AAufvupYM1WJEhysEcjpF",
+        "name": "Mother Protect"
+      },
       "duration_ms": 301426,
-      "artist": [
-        "Niki & The Dove"
+      "artists": [
+        {
+          "name": "Niki & The Dove",
+          "id": "4hiLNlqr4vQdiuo1aQKSXS"
+        }
       ],
-      "artistId": [
-        "4hiLNlqr4vQdiuo1aQKSXS"
-      ],
-      "albumId": "1Lw2jjZD0CRtyXBDfRORIc",
+      "album": {
+        "id": "1Lw2jjZD0CRtyXBDfRORIc",
+        "name": "The Drummer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02478b0b0091a57134d7162f5e"
+      },
       "release_date": "2011-01-01",
       "popularity": 19
     },
     {
-      "trackId": "1E2tRwT1GIHk1a8oYQMfjC",
-      "name": "Teenage Crime - Radio Edit",
+      "track": {
+        "id": "1E2tRwT1GIHk1a8oYQMfjC",
+        "name": "Teenage Crime - Radio Edit"
+      },
       "duration_ms": 170920,
-      "artist": [
-        "Adrian Lux"
+      "artists": [
+        {
+          "name": "Adrian Lux",
+          "id": "5kp9Qhzri9LrDkzrtjt5Sh"
+        }
       ],
-      "artistId": [
-        "5kp9Qhzri9LrDkzrtjt5Sh"
-      ],
-      "albumId": "72XSI1AWTvZbMrzCRvbtUK",
+      "album": {
+        "id": "72XSI1AWTvZbMrzCRvbtUK",
+        "name": "Teenage Crime",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252b9e6296e1d48b2f031cee2"
+      },
       "release_date": "2010-08-02",
       "popularity": 37
     },
     {
-      "trackId": "1mnqraQ8oV8MX92rdOFLWW",
-      "name": "1 Thing",
+      "track": {
+        "id": "1mnqraQ8oV8MX92rdOFLWW",
+        "name": "1 Thing"
+      },
       "duration_ms": 238760,
-      "artist": [
-        "Amerie"
+      "artists": [
+        {
+          "name": "Amerie",
+          "id": "08rMCq2ek1YjdDBsCPVH2s"
+        }
       ],
-      "artistId": [
-        "08rMCq2ek1YjdDBsCPVH2s"
-      ],
-      "albumId": "2PFK4dMZkqUQfxfSrK8WMf",
+      "album": {
+        "id": "2PFK4dMZkqUQfxfSrK8WMf",
+        "name": "Touch",
+        "img": "https://i.scdn.co/image/ab67616d00001e0215dd2fc9aa1109bbe1456916"
+      },
       "release_date": "2005",
       "popularity": 63
     },
     {
-      "trackId": "1d1Uc9yNUMvUb0RbakGDt0",
-      "name": "Caring Is Creepy - 2021 Remaster",
+      "track": {
+        "id": "1d1Uc9yNUMvUb0RbakGDt0",
+        "name": "Caring Is Creepy - 2021 Remaster"
+      },
       "duration_ms": 199053,
-      "artist": [
-        "The Shins"
+      "artists": [
+        {
+          "name": "The Shins",
+          "id": "4LG4Bs1Gadht7TCrMytQUO"
+        }
       ],
-      "artistId": [
-        "4LG4Bs1Gadht7TCrMytQUO"
-      ],
-      "albumId": "5XmhHMj5LZLWo32aA6ntKE",
+      "album": {
+        "id": "5XmhHMj5LZLWo32aA6ntKE",
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024205b816277c7f9dba098d28"
+      },
       "release_date": "2001-06-19",
       "popularity": 57
     },
     {
-      "trackId": "4nXeZFbbcZNvX4nHMJR5xJ",
-      "name": "Jag är en vampyr",
+      "track": {
+        "id": "4nXeZFbbcZNvX4nHMJR5xJ",
+        "name": "Jag är en vampyr"
+      },
       "duration_ms": 257586,
-      "artist": [
-        "Markus Krunegård"
+      "artists": [
+        {
+          "name": "Markus Krunegård",
+          "id": "3P6ePaE5unCm7vjccfcBAe"
+        }
       ],
-      "artistId": [
-        "3P6ePaE5unCm7vjccfcBAe"
-      ],
-      "albumId": "3fWDtHxl6iVkvm4ECIDnQc",
+      "album": {
+        "id": "3fWDtHxl6iVkvm4ECIDnQc",
+        "name": "Markusevangeliet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac8dc7224473e8a3ee7c1691"
+      },
       "release_date": "2008-01-01",
       "popularity": 47
     }

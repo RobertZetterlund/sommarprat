@@ -7,258 +7,370 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/6139becf-77c6-42c2-a889-9309e2a5ed27.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0d2DNxbCayrP578p8xHB20",
-      "name": "Bakhuvudet mot Gatstenen",
+      "track": {
+        "id": "0d2DNxbCayrP578p8xHB20",
+        "name": "Bakhuvudet mot Gatstenen"
+      },
       "duration_ms": 176892,
-      "artist": [
-        "Bräkne Hoby"
+      "artists": [
+        {
+          "name": "Bräkne Hoby",
+          "id": "4AUsZSBqRNDLUd2QRy21fd"
+        }
       ],
-      "artistId": [
-        "4AUsZSBqRNDLUd2QRy21fd"
-      ],
-      "albumId": "008UkN9ey8bLKY6fJUzQxL",
+      "album": {
+        "id": "008UkN9ey8bLKY6fJUzQxL",
+        "name": "Bakhuvudet mot Gatstenen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab8f571ccf230403f7f007de"
+      },
       "release_date": "2015-02-25",
       "popularity": 8
     },
     {
-      "trackId": "2HkXUCtoIYkFLf28kSFslF",
-      "name": "Femton minuter från Eslöv",
+      "track": {
+        "id": "2HkXUCtoIYkFLf28kSFslF",
+        "name": "Femton minuter från Eslöv"
+      },
       "duration_ms": 210706,
-      "artist": [
-        "Östen Warnerbring"
+      "artists": [
+        {
+          "name": "Östen Warnerbring",
+          "id": "0fDwWceuLMyzxnN0UIXBAe"
+        }
       ],
-      "artistId": [
-        "0fDwWceuLMyzxnN0UIXBAe"
-      ],
-      "albumId": "7iOT7CQT9Ae8kGr8Ad3PLp",
+      "album": {
+        "id": "7iOT7CQT9Ae8kGr8Ad3PLp",
+        "name": "20 bästa / Musik vi minns...",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287e3c18b0a556695f7cc670c"
+      },
       "release_date": "2001-01-01",
       "popularity": 34
     },
     {
-      "trackId": "7lZAQ3Q6sCkZbDsDwcDLuy",
-      "name": "Det ska bli slut på rumban",
+      "track": {
+        "id": "7lZAQ3Q6sCkZbDsDwcDLuy",
+        "name": "Det ska bli slut på rumban"
+      },
       "duration_ms": 227466,
-      "artist": [
-        "Röda Bönor"
+      "artists": [
+        {
+          "name": "Röda Bönor",
+          "id": "38Dkdgms2HWirOGTIsvyCq"
+        }
       ],
-      "artistId": [
-        "38Dkdgms2HWirOGTIsvyCq"
-      ],
-      "albumId": "6nyPuPCKiS6l8punTDbQh0",
+      "album": {
+        "id": "6nyPuPCKiS6l8punTDbQh0",
+        "name": "Röda Bönor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02675ce313aaa5b0c9e90ca7be"
+      },
       "release_date": "1976-01-01",
       "popularity": 17
     },
     {
-      "trackId": "06Gdd6zfAHBy7B5DxaBugm",
-      "name": "Cashen dom tas",
+      "track": {
+        "id": "06Gdd6zfAHBy7B5DxaBugm",
+        "name": "Cashen dom tas"
+      },
       "duration_ms": 287893,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "5kdYKxMey0V4SNP3geTX9k",
+      "album": {
+        "id": "5kdYKxMey0V4SNP3geTX9k",
+        "name": "Cashen dom tas",
+        "img": "https://i.scdn.co/image/ab67616d00001e022bff445b58be18b9c053bed6"
+      },
       "release_date": "2003",
       "popularity": 45
     },
     {
-      "trackId": "6A8HKMjF6ABQXLONm8OvBb",
-      "name": "En Gång Hörde Jag en Melodi",
+      "track": {
+        "id": "6A8HKMjF6ABQXLONm8OvBb",
+        "name": "En Gång Hörde Jag en Melodi"
+      },
       "duration_ms": 183133,
-      "artist": [
-        "Barbro Hörberg"
+      "artists": [
+        {
+          "name": "Barbro Hörberg",
+          "id": "7urXjli8ptr8Y8Z0XLtiJ9"
+        }
       ],
-      "artistId": [
-        "7urXjli8ptr8Y8Z0XLtiJ9"
-      ],
-      "albumId": "0JF836dLfSt7Alp85cOWJx",
+      "album": {
+        "id": "0JF836dLfSt7Alp85cOWJx",
+        "name": "Gamla Älskade Barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e75e3e56ce6f6df3318c8cd2"
+      },
       "release_date": "1974",
       "popularity": 4
     },
     {
-      "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
-      "name": "Ska vi byta?",
+      "track": {
+        "id": "3LSdaNWsEMAuiXy3xYm3gZ",
+        "name": "Ska vi byta?"
+      },
       "duration_ms": 155440,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     },
     {
-      "trackId": "7IzK70b5B36WaKchnvTwYP",
-      "name": "Rosens sång",
+      "track": {
+        "id": "7IzK70b5B36WaKchnvTwYP",
+        "name": "Rosens sång"
+      },
       "duration_ms": 241373,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 7
     },
     {
-      "trackId": "276csyZ96bR7gOmAD1ASRp",
-      "name": "Kärlek Och Solsken Och Du",
+      "track": {
+        "id": "276csyZ96bR7gOmAD1ASRp",
+        "name": "Kärlek Och Solsken Och Du"
+      },
       "duration_ms": 168320,
-      "artist": [
-        "Sonya Hedenbratt"
+      "artists": [
+        {
+          "name": "Sonya Hedenbratt",
+          "id": "5HVch6mQG6oZMWcbDQeM3m"
+        }
       ],
-      "artistId": [
-        "5HVch6mQG6oZMWcbDQeM3m"
-      ],
-      "albumId": "4y4Nh2c9U80nNfDFfI6Obv",
+      "album": {
+        "id": "4y4Nh2c9U80nNfDFfI6Obv",
+        "name": "Sonya",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e148b535b8db3f64b98c06a5"
+      },
       "release_date": "2001-01-06",
       "popularity": 16
     },
     {
-      "trackId": "4jgfMs3mtnjX0oG4wEWEuf",
-      "name": "Donna Juanita",
+      "track": {
+        "id": "4jgfMs3mtnjX0oG4wEWEuf",
+        "name": "Donna Juanita"
+      },
       "duration_ms": 293200,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 11
     },
     {
-      "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
-      "name": "Ska vi byta?",
+      "track": {
+        "id": "3LSdaNWsEMAuiXy3xYm3gZ",
+        "name": "Ska vi byta?"
+      },
       "duration_ms": 155440,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     },
     {
-      "trackId": "2QDIjweUOIUiD8zbSQUwDo",
-      "name": "Tango i Nizza",
+      "track": {
+        "id": "2QDIjweUOIUiD8zbSQUwDo",
+        "name": "Tango i Nizza"
+      },
       "duration_ms": 198640,
-      "artist": [
-        "Frode Veddinge & Trille"
+      "artists": [
+        {
+          "name": "Frode Veddinge & Trille",
+          "id": "7Ga09Sj7DFqCMBAYIGfhYI"
+        }
       ],
-      "artistId": [
-        "7Ga09Sj7DFqCMBAYIGfhYI"
-      ],
-      "albumId": "2t7jdQoqFjRNu41SOod8KY",
+      "album": {
+        "id": "2t7jdQoqFjRNu41SOod8KY",
+        "name": "Folk & Vise Klubben Vol. 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02372515c037e5c76ea4cebffb"
+      },
       "release_date": "2000-09-18",
       "popularity": 0
     },
     {
-      "trackId": "0PuOq5TwVoDVhfUMWT1tj0",
-      "name": "Vi håller om varandra",
+      "track": {
+        "id": "0PuOq5TwVoDVhfUMWT1tj0",
+        "name": "Vi håller om varandra"
+      },
       "duration_ms": 215400,
-      "artist": [
-        "Hasse & Tage"
+      "artists": [
+        {
+          "name": "Hasse & Tage",
+          "id": "6vv2q2O6fznDodjzBc1X3D"
+        }
       ],
-      "artistId": [
-        "6vv2q2O6fznDodjzBc1X3D"
-      ],
-      "albumId": "0LGTUomIXcfzuv1VDBLiXo",
+      "album": {
+        "id": "0LGTUomIXcfzuv1VDBLiXo",
+        "name": "Under Dubbelgöken - Liten lunchrevy på Berns med Hasse & Tage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bef14ff674edbc2bffd18f79"
+      },
       "release_date": "1979-01-01",
       "popularity": 13
     },
     {
-      "trackId": "2MODnWxgWazlghTKIMQTRT",
-      "name": "På slutet",
+      "track": {
+        "id": "2MODnWxgWazlghTKIMQTRT",
+        "name": "På slutet"
+      },
       "duration_ms": 153306,
-      "artist": [
-        "Hasse Alfredson",
-        "Tage Danielsson",
-        "Gunnar Svensson"
+      "artists": [
+        {
+          "name": "Hasse Alfredson",
+          "id": "7bQVHmJKaxiXYkZ2miMrwb"
+        },
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        },
+        {
+          "name": "Gunnar Svensson",
+          "id": "7xocqbC5RKnlOmVH8i3YkN"
+        }
       ],
-      "artistId": [
-        "7bQVHmJKaxiXYkZ2miMrwb",
-        "3camrFRWQjBFgfzZ6W62Ob",
-        "7xocqbC5RKnlOmVH8i3YkN"
-      ],
-      "albumId": "2yRcuUJBn4bhNGS2RuQMb9",
+      "album": {
+        "id": "2yRcuUJBn4bhNGS2RuQMb9",
+        "name": "88 öres-revyn från skeppet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f095396bb961a1789f7c1b03"
+      },
       "release_date": "1970-01-01",
       "popularity": 9
     },
     {
-      "trackId": "7F9zSFfb5g7pyrRt1sWYgl",
-      "name": "Tiden",
+      "track": {
+        "id": "7F9zSFfb5g7pyrRt1sWYgl",
+        "name": "Tiden"
+      },
       "duration_ms": 241653,
-      "artist": [
-        "Nippe Svensk"
+      "artists": [
+        {
+          "name": "Nippe Svensk",
+          "id": "1dSocnolGO3y4DOYPzJgzC"
+        }
       ],
-      "artistId": [
-        "1dSocnolGO3y4DOYPzJgzC"
-      ],
-      "albumId": "3RRCu9gELBVQkqfVdfJZEo",
+      "album": {
+        "id": "3RRCu9gELBVQkqfVdfJZEo",
+        "name": "Geniet Och Dåren",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271fe4e17632c9e6af90d0785"
+      },
       "release_date": "2014-05-14",
       "popularity": 3
     },
     {
-      "trackId": "2usba4Vw5KZJziq3ULIZ1g",
-      "name": "Ett bloss för moster Lillie",
+      "track": {
+        "id": "2usba4Vw5KZJziq3ULIZ1g",
+        "name": "Ett bloss för moster Lillie"
+      },
       "duration_ms": 222200,
-      "artist": [
-        "Lena Nyman"
+      "artists": [
+        {
+          "name": "Lena Nyman",
+          "id": "1UZ0FcVCkQFtDSMUqnwNrB"
+        }
       ],
-      "artistId": [
-        "1UZ0FcVCkQFtDSMUqnwNrB"
-      ],
-      "albumId": "1Ks5V46wA2zwxNAPl4PDWx",
+      "album": {
+        "id": "1Ks5V46wA2zwxNAPl4PDWx",
+        "name": "Bloss",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fdecc88ad8081a02f3f23f3"
+      },
       "release_date": "1997",
       "popularity": 27
     },
     {
-      "trackId": "7HW4rt3P5hCf96cLVJe2bv",
-      "name": "Kärleksvisa",
+      "track": {
+        "id": "7HW4rt3P5hCf96cLVJe2bv",
+        "name": "Kärleksvisa"
+      },
       "duration_ms": 145800,
-      "artist": [
-        "Stefan Sundström"
+      "artists": [
+        {
+          "name": "Stefan Sundström",
+          "id": "0NsAbGr86qKQMaXTuWwVKj"
+        }
       ],
-      "artistId": [
-        "0NsAbGr86qKQMaXTuWwVKj"
-      ],
-      "albumId": "3wkGKB0kUkZgi6qYvPBchC",
+      "album": {
+        "id": "3wkGKB0kUkZgi6qYvPBchC",
+        "name": "Sundström spelar Allan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2e4ba127a2a69c45420d3f3"
+      },
       "release_date": "2002-08-19",
       "popularity": 12
     },
     {
-      "trackId": "7xY0shBXDLln5FqqDIIQCS",
-      "name": "Förtvivla Först I Morgon",
+      "track": {
+        "id": "7xY0shBXDLln5FqqDIIQCS",
+        "name": "Förtvivla Först I Morgon"
+      },
       "duration_ms": 221216,
-      "artist": [
-        "Kjell Höglund"
+      "artists": [
+        {
+          "name": "Kjell Höglund",
+          "id": "69QSI0DPSaFVzYphVOWiv2"
+        }
       ],
-      "artistId": [
-        "69QSI0DPSaFVzYphVOWiv2"
-      ],
-      "albumId": "3MpNTSGN1ufjKZRGUyiVhz",
+      "album": {
+        "id": "3MpNTSGN1ufjKZRGUyiVhz",
+        "name": "Häxprocess",
+        "img": "https://i.scdn.co/image/ab67616d00001e02280ac201b89b2d987ee981b7"
+      },
       "release_date": "1973-01-01",
       "popularity": 11
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

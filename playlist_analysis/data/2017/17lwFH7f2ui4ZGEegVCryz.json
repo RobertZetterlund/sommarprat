@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/1a0919ed-ee4a-4716-9ad5-dc57ed4c9961.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3FAclTFfvUuQYnEsptbK8w",
-      "name": "Back To Black",
+      "track": {
+        "id": "3FAclTFfvUuQYnEsptbK8w",
+        "name": "Back To Black"
+      },
       "duration_ms": 241293,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 78
     },
     {
-      "trackId": "4skknrc3sJqaPTtUr2cwFq",
-      "name": "These Arms of Mine",
+      "track": {
+        "id": "4skknrc3sJqaPTtUr2cwFq",
+        "name": "These Arms of Mine"
+      },
       "duration_ms": 154533,
-      "artist": [
-        "Otis Redding"
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "id": "60df5JBRRPcnSpsIMxxwQm"
+        }
       ],
-      "artistId": [
-        "60df5JBRRPcnSpsIMxxwQm"
-      ],
-      "albumId": "2BFOk5b8jjm2xmsbx7qXq3",
+      "album": {
+        "id": "2BFOk5b8jjm2xmsbx7qXq3",
+        "name": "Pain in My Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd404b5ae961b29d83f17c1f"
+      },
       "release_date": "1964",
       "popularity": 62
     },
     {
-      "trackId": "2uODswvtqDImhmVvoyDBIH",
-      "name": "Fotbollstränare Bob Lindeman",
+      "track": {
+        "id": "2uODswvtqDImhmVvoyDBIH",
+        "name": "Fotbollstränare Bob Lindeman"
+      },
       "duration_ms": 251920,
-      "artist": [
-        "Hasse Alfredson",
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Hasse Alfredson",
+          "id": "7bQVHmJKaxiXYkZ2miMrwb"
+        },
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "7bQVHmJKaxiXYkZ2miMrwb",
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "1fcwWfnwSzLaQECjyWsvYT",
+      "album": {
+        "id": "1fcwWfnwSzLaQECjyWsvYT",
+        "name": "Lindemans låda cd 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02618e4c605770c5701c63d3a2"
+      },
       "release_date": "2008-01-01",
       "popularity": 18
     },
     {
-      "trackId": "1tqT6DhmsrtQgyCKUwotiw",
-      "name": "I Heard It Through The Grapevine",
+      "track": {
+        "id": "1tqT6DhmsrtQgyCKUwotiw",
+        "name": "I Heard It Through The Grapevine"
+      },
       "duration_ms": 194293,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "36VMWZPLjg9rucvMxdA2Pz",
+      "album": {
+        "id": "36VMWZPLjg9rucvMxdA2Pz",
+        "name": "In The Groove",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aff6573c5110e0732fbab3d8"
+      },
       "release_date": "1968-08-26",
       "popularity": 71
     },
     {
-      "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
-      "name": "The Winner Takes It All",
+      "track": {
+        "id": "3oEkrIfXfSh9zGnE7eBzSV",
+        "name": "The Winner Takes It All"
+      },
       "duration_ms": 294720,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 73
     },
     {
-      "trackId": "5eX6j2j6gfaXEryl54oIKZ",
-      "name": "If You're Ready (Come Go With Me)",
+      "track": {
+        "id": "5eX6j2j6gfaXEryl54oIKZ",
+        "name": "If You're Ready (Come Go With Me)"
+      },
       "duration_ms": 267173,
-      "artist": [
-        "The Staple Singers"
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "id": "7xGGqA85UIWX1GoTVM4itC"
+        }
       ],
-      "artistId": [
-        "7xGGqA85UIWX1GoTVM4itC"
-      ],
-      "albumId": "2p7fRyRo0bvJtmAE8O8Lk7",
+      "album": {
+        "id": "2p7fRyRo0bvJtmAE8O8Lk7",
+        "name": "Be What You Are (Reissue)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c450fb8202e31a5bc4bbf6b6"
+      },
       "release_date": "1973-01-01",
       "popularity": 46
     },
     {
-      "trackId": "7Gr61S9VTm8fcYfAo4Fd9g",
-      "name": "The Pretender",
+      "track": {
+        "id": "7Gr61S9VTm8fcYfAo4Fd9g",
+        "name": "The Pretender"
+      },
       "duration_ms": 351000,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "1AqUcQKtf2AQ6rFRKIBei8",
+      "album": {
+        "id": "1AqUcQKtf2AQ6rFRKIBei8",
+        "name": "The Pretender",
+        "img": "https://i.scdn.co/image/ab67616d00001e021007eba19c535d2085cf2038"
+      },
       "release_date": "1977-08-30",
       "popularity": 56
     },
     {
-      "trackId": "486W7TsJOJl2C6NktjOd9O",
-      "name": "Right By Your Side - Remastered Version",
+      "track": {
+        "id": "486W7TsJOJl2C6NktjOd9O",
+        "name": "Right By Your Side - Remastered Version"
+      },
       "duration_ms": 244946,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "4pGwe5BW8GVtIP8ruoa1jB",
+      "album": {
+        "id": "4pGwe5BW8GVtIP8ruoa1jB",
+        "name": "Touch (Reissue - Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a29ca418b2a64e80002a86e3"
+      },
       "release_date": "1983-11-14",
       "popularity": 36
     },
     {
-      "trackId": "4Hhv2vrOTy89HFRcjU3QOx",
-      "name": "At Last",
+      "track": {
+        "id": "4Hhv2vrOTy89HFRcjU3QOx",
+        "name": "At Last"
+      },
       "duration_ms": 179693,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "7rd4PorIOPjPTy7qdUeeCt",
+      "album": {
+        "id": "7rd4PorIOPjPTy7qdUeeCt",
+        "name": "At Last!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2229a8fdf377abaf3652624"
+      },
       "release_date": "1960",
       "popularity": 74
     },
     {
-      "trackId": "5oKN4qVwZJy2Cd7pjNzF1D",
-      "name": "Les Pecheurs des Perles: Au fond du temple saint (Rec. 1951)",
+      "track": {
+        "id": "5oKN4qVwZJy2Cd7pjNzF1D",
+        "name": "Les Pecheurs des Perles: Au fond du temple saint (Rec. 1951)"
+      },
       "duration_ms": 276360,
-      "artist": [
-        "Jussi Björling",
-        "RCA Victor Orchestra",
-        "Robert Merrill"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        },
+        {
+          "name": "RCA Victor Orchestra",
+          "id": "69H7juXRprAnTnSx7VmU9H"
+        },
+        {
+          "name": "Robert Merrill",
+          "id": "1G4jpiUOb1RmRNuaUhv1Ys"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A",
-        "69H7juXRprAnTnSx7VmU9H",
-        "1G4jpiUOb1RmRNuaUhv1Ys"
-      ],
-      "albumId": "0bPEERmQ19oKkP4tbHSvkg",
+      "album": {
+        "id": "0bPEERmQ19oKkP4tbHSvkg",
+        "name": "The Very Best of Jussi Björling - Pearl Fisher's Duet",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f5b00bfa92da71ca2c6203b"
+      },
       "release_date": "2010-10-05",
       "popularity": 19
     },
     {
-      "trackId": "3ORn0rgu27z7hlnNgvYWse",
-      "name": "Don't Think Twice, It's All Right",
+      "track": {
+        "id": "3ORn0rgu27z7hlnNgvYWse",
+        "name": "Don't Think Twice, It's All Right"
+      },
       "duration_ms": 189800,
-      "artist": [
-        "Joan Baez"
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "id": "1EevBGfUh3RSQSGpluxgBm"
+        }
       ],
-      "artistId": [
-        "1EevBGfUh3RSQSGpluxgBm"
-      ],
-      "albumId": "4r2BckN3R24ifqfXKUUbMn",
+      "album": {
+        "id": "4r2BckN3R24ifqfXKUUbMn",
+        "name": "The First 10 Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb68e4708859c90c8efc44ff"
+      },
       "release_date": "1970",
       "popularity": 43
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

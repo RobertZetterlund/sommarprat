@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/e41bb5fe-2343-43bd-8886-efa2c965fbf7.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1GeNWyZtCHbcp3ZWp8GTOO",
-      "name": "The Lady In Red",
+      "track": {
+        "id": "1GeNWyZtCHbcp3ZWp8GTOO",
+        "name": "The Lady In Red"
+      },
       "duration_ms": 256173,
-      "artist": [
-        "Chris de Burgh"
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "id": "2RpHsROrX075xfIwHn6B2U"
+        }
       ],
-      "artistId": [
-        "2RpHsROrX075xfIwHn6B2U"
-      ],
-      "albumId": "5Yi08NDFoVAnvHoXqpp9O5",
+      "album": {
+        "id": "5Yi08NDFoVAnvHoXqpp9O5",
+        "name": "Into The Light",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5b341a19b01d6b3d89a8e6a"
+      },
       "release_date": "1986-01-01",
       "popularity": 76
     },
     {
-      "trackId": "6EDifRJFWS1HZlQw3jj4Bz",
-      "name": "Te dans mä Karlstatösera",
+      "track": {
+        "id": "6EDifRJFWS1HZlQw3jj4Bz",
+        "name": "Te dans mä Karlstatösera"
+      },
       "duration_ms": 189733,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "142x8DL32k0QbhIaoow7Jr",
+      "album": {
+        "id": "142x8DL32k0QbhIaoow7Jr",
+        "name": "Mer glöd än någonsin - Sven-Ingvars bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2c77bd6b6dc3f213ca99908"
+      },
       "release_date": "2015-12-11",
       "popularity": 24
     },
     {
-      "trackId": "7AFy1aN1RQVgGOXzCtrK87",
-      "name": "Cabaret",
+      "track": {
+        "id": "7AFy1aN1RQVgGOXzCtrK87",
+        "name": "Cabaret"
+      },
       "duration_ms": 211200,
-      "artist": [
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Liza Minnelli",
+          "id": "1pdGj6Gak10Q2ajig4l1Dm"
+        }
       ],
-      "artistId": [
-        "1pdGj6Gak10Q2ajig4l1Dm"
-      ],
-      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "album": {
+        "id": "28qbOp4dEh18N5u6FInyOO",
+        "name": "Cabaret (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f0ddaafb889a16220871372"
+      },
       "release_date": "1972-02-13",
       "popularity": 48
     },
     {
-      "trackId": "0HYTXS6tTQijJckE25Nwyj",
-      "name": "Rock-A-Beatin' Boogie",
+      "track": {
+        "id": "0HYTXS6tTQijJckE25Nwyj",
+        "name": "Rock-A-Beatin' Boogie"
+      },
       "duration_ms": 139626,
-      "artist": [
-        "Bill Haley & His Comets"
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "id": "3MFp4cYuYtTZe3d3xkLLbr"
+        }
       ],
-      "artistId": [
-        "3MFp4cYuYtTZe3d3xkLLbr"
-      ],
-      "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
+      "album": {
+        "id": "2vB7uVHcRU4dmHeFQCTkSK",
+        "name": "Rock Around The Clock",
+        "img": "https://i.scdn.co/image/ab67616d00001e029060a2c0a01366ee03274597"
+      },
       "release_date": "1955-12-19",
       "popularity": 35
     },
     {
-      "trackId": "4w4Shi3xjbZBDGuhLw5LsQ",
-      "name": "Bright Side of the Road",
+      "track": {
+        "id": "4w4Shi3xjbZBDGuhLw5LsQ",
+        "name": "Bright Side of the Road"
+      },
       "duration_ms": 226760,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "11q2kAICayamyzbVlZvE90",
+      "album": {
+        "id": "11q2kAICayamyzbVlZvE90",
+        "name": "Into the Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02566ace033180c8e6a9cefcee"
+      },
       "release_date": "1979-08",
       "popularity": 66
     },
     {
-      "trackId": "7HhB6YscJ3pLz0PbR545l1",
-      "name": "Puccini: Turandot, Act 3: \"Nessun dorma\" (Live)",
+      "track": {
+        "id": "7HhB6YscJ3pLz0PbR545l1",
+        "name": "Puccini: Turandot, Act 3: \"Nessun dorma\" (Live)"
+      },
       "duration_ms": 204266,
-      "artist": [
-        "Giacomo Puccini",
-        "Luciano Pavarotti",
-        "Zubin Mehta"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Zubin Mehta",
+          "id": "3FEd0qHPFOgcpfw7bCXB4x"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "3FEd0qHPFOgcpfw7bCXB4x"
-      ],
-      "albumId": "4M1xaHN4ztbVWmyxPVNibu",
+      "album": {
+        "id": "4M1xaHN4ztbVWmyxPVNibu",
+        "name": "The Three Tenors in Concert, 1994 (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023beb4c2183706201a16f52c4"
+      },
       "release_date": "1994-08-01",
       "popularity": 32
     },
     {
-      "trackId": "17nOJOcPbcl4sKzM2yyYDp",
-      "name": "Sugar Man",
+      "track": {
+        "id": "17nOJOcPbcl4sKzM2yyYDp",
+        "name": "Sugar Man"
+      },
       "duration_ms": 229413,
-      "artist": [
-        "Rodríguez"
+      "artists": [
+        {
+          "name": "Rodríguez",
+          "id": "5PrHzxc3kFm4hIrGNmelpX"
+        }
       ],
-      "artistId": [
-        "5PrHzxc3kFm4hIrGNmelpX"
-      ],
-      "albumId": "3q90UAYeHLvAtnowiQlmgp",
+      "album": {
+        "id": "3q90UAYeHLvAtnowiQlmgp",
+        "name": "Cold Fact",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7e1b574a9e6b9f26c7c3f49"
+      },
       "release_date": "1970-03-05",
       "popularity": 59
     },
     {
-      "trackId": "3FXp6A2z6Il5BYBWzKROCT",
-      "name": "Den vackraste visan om kärleken",
+      "track": {
+        "id": "3FXp6A2z6Il5BYBWzKROCT",
+        "name": "Den vackraste visan om kärleken"
+      },
       "duration_ms": 185693,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "5oYur91aTCockleFOauIPo",
+      "album": {
+        "id": "5oYur91aTCockleFOauIPo",
+        "name": "Sven-Bertil Taube: Ett Samlingsalbum 1959-2001",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231cf4c5b4503d48a87d0e887"
+      },
       "release_date": "2001-01-01",
       "popularity": 6
     },
     {
-      "trackId": "6qdxrFxVkUd0bq5P6J132z",
-      "name": "Gente Di Mare",
+      "track": {
+        "id": "6qdxrFxVkUd0bq5P6J132z",
+        "name": "Gente Di Mare"
+      },
       "duration_ms": 234146,
-      "artist": [
-        "Umberto Tozzi"
+      "artists": [
+        {
+          "name": "Umberto Tozzi",
+          "id": "00w9sdZ78mWArooTmiSTld"
+        }
       ],
-      "artistId": [
-        "00w9sdZ78mWArooTmiSTld"
-      ],
-      "albumId": "3VH3gDtuP8L5Y2OJ1wOLkr",
+      "album": {
+        "id": "3VH3gDtuP8L5Y2OJ1wOLkr",
+        "name": "Grandes Exitos",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe68c9732c166fc5293d8ae7"
+      },
       "release_date": "2001-03-02",
       "popularity": 57
     },
     {
-      "trackId": "7wYTId0m7sgvh5zkLWHLmf",
-      "name": "Att Angöra En Brygga",
+      "track": {
+        "id": "7wYTId0m7sgvh5zkLWHLmf",
+        "name": "Att Angöra En Brygga"
+      },
       "duration_ms": 199000,
-      "artist": [
-        "Monica Borrfors"
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "id": "6kQLrF8BwbKymqwvCJJzLb"
+        }
       ],
-      "artistId": [
-        "6kQLrF8BwbKymqwvCJJzLb"
-      ],
-      "albumId": "6nMS7XdBiFlGoZgaSxcfKN",
+      "album": {
+        "id": "6nMS7XdBiFlGoZgaSxcfKN",
+        "name": "Monica Sjunger Monica",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f1783119084874d86dee2d5"
+      },
       "release_date": "2007-01-01",
       "popularity": 0
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     },
     {
-      "trackId": "1L78ErvwjrfwLiBa8fVAQn",
-      "name": "Zigenarliv dreamin (Live)",
+      "track": {
+        "id": "1L78ErvwjrfwLiBa8fVAQn",
+        "name": "Zigenarliv dreamin (Live)"
+      },
       "duration_ms": 447733,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "5ROJebGoLNmSpwdMHXEQ6f",
+      "album": {
+        "id": "5ROJebGoLNmSpwdMHXEQ6f",
+        "name": "Håkan Boma Ye! (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e738d2a1570a31594bfb264"
+      },
       "release_date": "2014-12-12",
       "popularity": 35
     }

@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243146_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6nr21LQZQyIVwyPg1o3BV0",
-      "name": "Olles födelsedag",
+      "track": {
+        "id": "6nr21LQZQyIVwyPg1o3BV0",
+        "name": "Olles födelsedag"
+      },
       "duration_ms": 94960,
-      "artist": [
-        "Pelle Svanslös"
+      "artists": [
+        {
+          "name": "Pelle Svanslös",
+          "id": "3Oz3v8eY3fK1dxw0Kg6Nbj"
+        }
       ],
-      "artistId": [
-        "3Oz3v8eY3fK1dxw0Kg6Nbj"
-      ],
-      "albumId": "0JEAlrJtfPHypDFmHbuyxF",
+      "album": {
+        "id": "0JEAlrJtfPHypDFmHbuyxF",
+        "name": "Pelle Svanslös",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a49dca806b7bcfacfcdef17f"
+      },
       "release_date": "1981-01-01",
       "popularity": 29
     },
     {
-      "trackId": "5jgFfDIR6FR0gvlA56Nakr",
-      "name": "Blackbird - Remastered 2009",
+      "track": {
+        "id": "5jgFfDIR6FR0gvlA56Nakr",
+        "name": "Blackbird - Remastered 2009"
+      },
       "duration_ms": 138386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 72
     },
     {
-      "trackId": "1BExV8JprNJLvLeDE9qdEW",
-      "name": "It's Been Awhile",
+      "track": {
+        "id": "1BExV8JprNJLvLeDE9qdEW",
+        "name": "It's Been Awhile"
+      },
       "duration_ms": 264706,
-      "artist": [
-        "Staind"
+      "artists": [
+        {
+          "name": "Staind",
+          "id": "5KDIH2gF0VpelTqyQS7udb"
+        }
       ],
-      "artistId": [
-        "5KDIH2gF0VpelTqyQS7udb"
-      ],
-      "albumId": "0HogGfosAvj4tF3GTv2KIE",
+      "album": {
+        "id": "0HogGfosAvj4tF3GTv2KIE",
+        "name": "Break the Cycle",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200e9c78a5d11dd6cf8e8f43e"
+      },
       "release_date": "2001-05-22",
       "popularity": 64
     },
     {
-      "trackId": "0YG8oSnOQ6DNk97YCJzhBq",
-      "name": "Banyana - The Children Of Africa",
+      "track": {
+        "id": "0YG8oSnOQ6DNk97YCJzhBq",
+        "name": "Banyana - The Children Of Africa"
+      },
       "duration_ms": 124573,
-      "artist": [
-        "Abdullah Ibrahim"
+      "artists": [
+        {
+          "name": "Abdullah Ibrahim",
+          "id": "39mb0I6tdTcCXkeigvzxOJ"
+        }
       ],
-      "artistId": [
-        "39mb0I6tdTcCXkeigvzxOJ"
-      ],
-      "albumId": "4CeLHvDorCRlMI2meWba4K",
+      "album": {
+        "id": "4CeLHvDorCRlMI2meWba4K",
+        "name": "The Enja Heritage Collection: Banyana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02521f7a31ac89cd5a7e4fd2ea"
+      },
       "release_date": "1987",
       "popularity": 22
     },
     {
-      "trackId": "5TOYgNohZAFEPOtnchPhZS",
-      "name": "Arlandria",
+      "track": {
+        "id": "5TOYgNohZAFEPOtnchPhZS",
+        "name": "Arlandria"
+      },
       "duration_ms": 267560,
-      "artist": [
-        "Foo Fighters"
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD"
+        }
       ],
-      "artistId": [
-        "7jy3rLJdDQY21OgRLCZ9sD"
-      ],
-      "albumId": "5lnQLEUiVDkLbFJHXHQu9m",
+      "album": {
+        "id": "5lnQLEUiVDkLbFJHXHQu9m",
+        "name": "Wasting Light",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdac19bbaee5cc123edcc26f"
+      },
       "release_date": "2011-04-12",
       "popularity": 57
     },
     {
-      "trackId": "1VylyWcBUNYGZex80qCAdi",
-      "name": "Working Class Hero",
+      "track": {
+        "id": "1VylyWcBUNYGZex80qCAdi",
+        "name": "Working Class Hero"
+      },
       "duration_ms": 263733,
-      "artist": [
-        "Green Day"
+      "artists": [
+        {
+          "name": "Green Day",
+          "id": "7oPftvlwr6VrsViSDV7fJY"
+        }
       ],
-      "artistId": [
-        "7oPftvlwr6VrsViSDV7fJY"
-      ],
-      "albumId": "2Bk5ScJpIEXY9QxSsaPZfp",
+      "album": {
+        "id": "2Bk5ScJpIEXY9QxSsaPZfp",
+        "name": "Working Class Hero",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa24839d156391c88bbf4c04"
+      },
       "release_date": "2007-05-01",
       "popularity": 47
     },
     {
-      "trackId": "7pu8AhGUxHZSCWTkQ2eb5M",
-      "name": "Bad Reputation",
+      "track": {
+        "id": "7pu8AhGUxHZSCWTkQ2eb5M",
+        "name": "Bad Reputation"
+      },
       "duration_ms": 169186,
-      "artist": [
-        "Joan Jett & the Blackhearts"
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "id": "1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
       ],
-      "artistId": [
-        "1Fmb52lZ6Jv7FMWXXTPO3K"
-      ],
-      "albumId": "1gB28ytYFQElaXngAfeYep",
+      "album": {
+        "id": "1gB28ytYFQElaXngAfeYep",
+        "name": "Bad Reputation (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02649fa6da25444974c752db30"
+      },
       "release_date": "1981-01-23",
       "popularity": 68
     },
     {
-      "trackId": "1WA5t08ybrrjaS1dyzDpDG",
-      "name": "Flowers & Football Tops",
+      "track": {
+        "id": "1WA5t08ybrrjaS1dyzDpDG",
+        "name": "Flowers & Football Tops"
+      },
       "duration_ms": 416520,
-      "artist": [
-        "Glasvegas"
+      "artists": [
+        {
+          "name": "Glasvegas",
+          "id": "478peoEkoKPsTgRiVzkvPl"
+        }
       ],
-      "artistId": [
-        "478peoEkoKPsTgRiVzkvPl"
-      ],
-      "albumId": "5TeMUnQg051IlhtwhkfqF7",
+      "album": {
+        "id": "5TeMUnQg051IlhtwhkfqF7",
+        "name": "Glasvegas",
+        "img": "https://i.scdn.co/image/ab67616d00001e0254414c56fa708a30db35a9d3"
+      },
       "release_date": "2008-07-28",
       "popularity": 31
     },
     {
-      "trackId": "3IEJfmTnLGHR0w4AHpHMJL",
-      "name": "En massa maskrosblad",
+      "track": {
+        "id": "3IEJfmTnLGHR0w4AHpHMJL",
+        "name": "En massa maskrosblad"
+      },
       "duration_ms": 220573,
-      "artist": [
-        "Text & Musik"
+      "artists": [
+        {
+          "name": "Text & Musik",
+          "id": "6PcSUiCN53uAp6zrUmQlW0"
+        }
       ],
-      "artistId": [
-        "6PcSUiCN53uAp6zrUmQlW0"
-      ],
-      "albumId": "7iOaxWjJuXIlNhp28zZf03",
+      "album": {
+        "id": "7iOaxWjJuXIlNhp28zZf03",
+        "name": "Jaguaren",
+        "img": "https://i.scdn.co/image/ab67616d00001e023319679e9b57c8a858b3417a"
+      },
       "release_date": "1976-01-01",
       "popularity": 0
     },
     {
-      "trackId": "2qAv1ztBSGACqqfxJxU9wA",
-      "name": "Out On the Piers - Acoustic Bonus Track",
+      "track": {
+        "id": "2qAv1ztBSGACqqfxJxU9wA",
+        "name": "Out On the Piers - Acoustic Bonus Track"
+      },
       "duration_ms": 267853,
-      "artist": [
-        "Marit Bergman"
+      "artists": [
+        {
+          "name": "Marit Bergman",
+          "id": "1Z8YLeRzSedy0jT5D08pVU"
+        }
       ],
-      "artistId": [
-        "1Z8YLeRzSedy0jT5D08pVU"
-      ],
-      "albumId": "5RbbSSpxGKRDQ7ODAi5mke",
+      "album": {
+        "id": "5RbbSSpxGKRDQ7ODAi5mke",
+        "name": "The Tear Collector",
+        "img": "https://i.scdn.co/image/ab67616d00001e02225d0461fd7d60977f14e29a"
+      },
       "release_date": "2009-09-10",
       "popularity": 3
     },
     {
-      "trackId": "0HOrDVS349XFcpCYsO2hAP",
-      "name": "You Ain't Seen Nothing Yet",
+      "track": {
+        "id": "0HOrDVS349XFcpCYsO2hAP",
+        "name": "You Ain't Seen Nothing Yet"
+      },
       "duration_ms": 234866,
-      "artist": [
-        "Bachman-Turner Overdrive"
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "id": "5q4AzEtCoYJyXjMMoEkSU5"
+        }
       ],
-      "artistId": [
-        "5q4AzEtCoYJyXjMMoEkSU5"
-      ],
-      "albumId": "3TtCMt4XLddj9PQeVBfsK1",
+      "album": {
+        "id": "3TtCMt4XLddj9PQeVBfsK1",
+        "name": "Not Fragile",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d109a35f286685993cf03050"
+      },
       "release_date": "1974",
       "popularity": 72
     },
     {
-      "trackId": "4QFvXdishEOwfIpoVVwoHA",
-      "name": "En näve näring",
+      "track": {
+        "id": "4QFvXdishEOwfIpoVVwoHA",
+        "name": "En näve näring"
+      },
       "duration_ms": 354933,
-      "artist": [
-        "Stefan Sundström"
+      "artists": [
+        {
+          "name": "Stefan Sundström",
+          "id": "0NsAbGr86qKQMaXTuWwVKj"
+        }
       ],
-      "artistId": [
-        "0NsAbGr86qKQMaXTuWwVKj"
-      ],
-      "albumId": "22LETQ3u4IXkn6drfIzQp6",
+      "album": {
+        "id": "22LETQ3u4IXkn6drfIzQp6",
+        "name": "Fabler från Bällingebro",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba9d1c2917c29a54d01eaba7"
+      },
       "release_date": "2006-10-18",
       "popularity": 12
     }

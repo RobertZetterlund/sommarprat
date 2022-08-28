@@ -7,234 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300164_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3Lk7RWStfLaHG7lXsuS87j",
-      "name": "One",
+      "track": {
+        "id": "3Lk7RWStfLaHG7lXsuS87j",
+        "name": "One"
+      },
       "duration_ms": 260466,
-      "artist": [
-        "Mary J. Blige",
-        "U2"
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "1XkoF8ryArs86LZvFOkbyr",
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "13HYuDhB1soZvHzwoymXoV",
+      "album": {
+        "id": "13HYuDhB1soZvHzwoymXoV",
+        "name": "The Breakthrough",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f6c43d16c3d2c3685f81735"
+      },
       "release_date": "2005-01-01",
       "popularity": 64
     },
     {
-      "trackId": "3yrSvpt2l1xhsV9Em88Pul",
-      "name": "Brown Eyed Girl",
+      "track": {
+        "id": "3yrSvpt2l1xhsV9Em88Pul",
+        "name": "Brown Eyed Girl"
+      },
       "duration_ms": 183306,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "7dsWupQRlFuhG8FGiQAUjC",
+      "album": {
+        "id": "7dsWupQRlFuhG8FGiQAUjC",
+        "name": "Blowin' Your Mind!",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f29a976eea00141514ab936"
+      },
       "release_date": "1967-09",
       "popularity": 80
     },
     {
-      "trackId": "41QWKQjT6riBhHAGYHU9Xu",
-      "name": "Red Dirt Girl",
+      "track": {
+        "id": "41QWKQjT6riBhHAGYHU9Xu",
+        "name": "Red Dirt Girl"
+      },
       "duration_ms": 245202,
-      "artist": [
-        "Emmylou Harris"
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "id": "5s6TJEuHTr9GR894wc6VfP"
+        }
       ],
-      "artistId": [
-        "5s6TJEuHTr9GR894wc6VfP"
-      ],
-      "albumId": "5rAT05WHdhzdiJMw9fsKSX",
+      "album": {
+        "id": "5rAT05WHdhzdiJMw9fsKSX",
+        "name": "Hickory Wind",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228727f1ae59e3087ff44cb8c"
+      },
       "release_date": "2001",
       "popularity": 50
     },
     {
-      "trackId": "6gJdDnF2TzfA1WPMXuCa3x",
-      "name": "Proud Mary",
+      "track": {
+        "id": "6gJdDnF2TzfA1WPMXuCa3x",
+        "name": "Proud Mary"
+      },
       "duration_ms": 327400,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "5HmYiJnUkFuciiqRrAAv4o",
+      "album": {
+        "id": "5HmYiJnUkFuciiqRrAAv4o",
+        "name": "What's Love Got to Do with It?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e9c361da971c6e81b51ef06b"
+      },
       "release_date": "1993",
       "popularity": 67
     },
     {
-      "trackId": "626qtlhAVljwDOx8K1Y1PH",
-      "name": "Fuckin' Perfect (Pink)",
+      "track": {
+        "id": "626qtlhAVljwDOx8K1Y1PH",
+        "name": "Fuckin' Perfect (Pink)"
+      },
       "duration_ms": 326431,
-      "artist": [
-        "Electronic Inspirations"
+      "artists": [
+        {
+          "name": "Electronic Inspirations",
+          "id": "3anzfxALwcCSbLQ24pZp26"
+        }
       ],
-      "artistId": [
-        "3anzfxALwcCSbLQ24pZp26"
-      ],
-      "albumId": "2kbWRfVkOu20M7OPFQoe2x",
+      "album": {
+        "id": "2kbWRfVkOu20M7OPFQoe2x",
+        "name": "The Prodigy Inexperience",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265a7930b05db99f2c0eb1664"
+      },
       "release_date": "2011-03-14",
       "popularity": 5
     },
     {
-      "trackId": "6PPStvh5QQntBYLWyOJegU",
-      "name": "Cudna jada od Mostara grada",
+      "track": {
+        "id": "6PPStvh5QQntBYLWyOJegU",
+        "name": "Cudna jada od Mostara grada"
+      },
       "duration_ms": 328000,
-      "artist": [
-        "Amarcord Wien"
+      "artists": [
+        {
+          "name": "Amarcord Wien",
+          "id": "6WTCE9grrRMdJtEo1MOvJe"
+        }
       ],
-      "artistId": [
-        "6WTCE9grrRMdJtEo1MOvJe"
-      ],
-      "albumId": "3DOCsPnvUweBmJ7Mp4bbLG",
+      "album": {
+        "id": "3DOCsPnvUweBmJ7Mp4bbLG",
+        "name": "Bon Voyage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eaf0c276bbb544f7a0bfea73"
+      },
       "release_date": "2011-03-11",
       "popularity": 0
     },
     {
-      "trackId": "5AjYl4giZXVywicVDFl8AV",
-      "name": "Här kommer natten",
+      "track": {
+        "id": "5AjYl4giZXVywicVDFl8AV",
+        "name": "Här kommer natten"
+      },
       "duration_ms": 231786,
-      "artist": [
-        "Miss Li"
+      "artists": [
+        {
+          "name": "Miss Li",
+          "id": "04HqRx07Bv9gh7rsrMTqs7"
+        }
       ],
-      "artistId": [
-        "04HqRx07Bv9gh7rsrMTqs7"
-      ],
-      "albumId": "18kMXUywQwVNPqutBKRUbD",
+      "album": {
+        "id": "18kMXUywQwVNPqutBKRUbD",
+        "name": "Wolves",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ebb9ebd10f1c8df7cbb356ad"
+      },
       "release_date": "2013-04-10",
       "popularity": 43
     },
     {
-      "trackId": "5tmejpX7WvRP3xxulzqvGA",
-      "name": "Upp och gå (feat. Caroline Af Ugglas)",
+      "track": {
+        "id": "5tmejpX7WvRP3xxulzqvGA",
+        "name": "Upp och gå (feat. Caroline Af Ugglas)"
+      },
       "duration_ms": 196720,
-      "artist": [
-        "Juha Mulari",
-        "Caroline af Ugglas"
+      "artists": [
+        {
+          "name": "Juha Mulari",
+          "id": "1InQhy0kR40Vxn0XnQ0tKr"
+        },
+        {
+          "name": "Caroline af Ugglas",
+          "id": "0gsiXahJ8QLRP2pad1DzNj"
+        }
       ],
-      "artistId": [
-        "1InQhy0kR40Vxn0XnQ0tKr",
-        "0gsiXahJ8QLRP2pad1DzNj"
-      ],
-      "albumId": "1UUbRXp5wAoYqdXwyRZ1su",
+      "album": {
+        "id": "1UUbRXp5wAoYqdXwyRZ1su",
+        "name": "Juha Mulari",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7df91a4c8e9c6f055b78768"
+      },
       "release_date": "2014-02-26",
       "popularity": 27
     },
     {
-      "trackId": "00k6820Pw61q3wmrnunCxu",
-      "name": "Misstänkt",
+      "track": {
+        "id": "00k6820Pw61q3wmrnunCxu",
+        "name": "Misstänkt"
+      },
       "duration_ms": 253626,
-      "artist": [
-        "Timbuktu",
-        "Seinabo Sey",
-        "Beldina"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Beldina",
+          "id": "1j9GGUnKOakzJXzYuaVGWT"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe",
-        "4X0v8sFoDZ6rIfkeOeVm2i",
-        "1j9GGUnKOakzJXzYuaVGWT"
-      ],
-      "albumId": "6a8GZWPmLWWTUDsQ61yAro",
+      "album": {
+        "id": "6a8GZWPmLWWTUDsQ61yAro",
+        "name": "För Livet Till Döden",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef505939f4e13d2479e65be2"
+      },
       "release_date": "2014-05-28",
       "popularity": 21
     },
     {
-      "trackId": "5PnEkOUOFnk0wMI71JwddQ",
-      "name": "L'appuntamento",
+      "track": {
+        "id": "5PnEkOUOFnk0wMI71JwddQ",
+        "name": "L'appuntamento"
+      },
       "duration_ms": 274000,
-      "artist": [
-        "Ornella Vanoni"
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "id": "4MR6tQyIrWK82b56cYPBDv"
+        }
       ],
-      "artistId": [
-        "4MR6tQyIrWK82b56cYPBDv"
-      ],
-      "albumId": "6zP8t0J8Ue5YpWl4vAEEYm",
+      "album": {
+        "id": "6zP8t0J8Ue5YpWl4vAEEYm",
+        "name": "Del Mio Meglio",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f393dd4da5da79ec3326a38"
+      },
       "release_date": "1996-04-29",
       "popularity": 60
     },
     {
-      "trackId": "75FYqcxt1YEAtqDLrOeIJn",
-      "name": "Three Little Birds",
+      "track": {
+        "id": "75FYqcxt1YEAtqDLrOeIJn",
+        "name": "Three Little Birds"
+      },
       "duration_ms": 180266,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "2mBbV0Ad6B4ydHMZlzAY7S",
+      "album": {
+        "id": "2mBbV0Ad6B4ydHMZlzAY7S",
+        "name": "Exodus",
+        "img": "https://i.scdn.co/image/ab67616d00001e02811bfdc4f55b3a7484524aaf"
+      },
       "release_date": "1977-06-03",
       "popularity": 77
     },
     {
-      "trackId": "4yEPWUqvU3RUlz8Qt0ziyI",
-      "name": "Slå på kaffet",
+      "track": {
+        "id": "4yEPWUqvU3RUlz8Qt0ziyI",
+        "name": "Slå på kaffet"
+      },
       "duration_ms": 170773,
-      "artist": [
-        "Blender"
+      "artists": [
+        {
+          "name": "Blender",
+          "id": "3fOgHwbiAAOouhhFf9yS8W"
+        }
       ],
-      "artistId": [
-        "3fOgHwbiAAOouhhFf9yS8W"
-      ],
-      "albumId": "2se1ULN0X7YZPdkl4TrrPw",
+      "album": {
+        "id": "2se1ULN0X7YZPdkl4TrrPw",
+        "name": "Ängel utan vingar",
+        "img": "https://i.scdn.co/image/ab67616d00001e025168d44b8f0df404cef56e6c"
+      },
       "release_date": "2016-05-13",
       "popularity": 43
     },
     {
-      "trackId": "1bWEPEC1y2XK4Q1iNMSkIg",
-      "name": "Stumblin' In",
+      "track": {
+        "id": "1bWEPEC1y2XK4Q1iNMSkIg",
+        "name": "Stumblin' In"
+      },
       "duration_ms": 269720,
-      "artist": [
-        "Chris Norman"
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "id": "2Pawr6MMX9VBIQ9oUHg7jc"
+        }
       ],
-      "artistId": [
-        "2Pawr6MMX9VBIQ9oUHg7jc"
-      ],
-      "albumId": "4JtrqTDp0qnzj978nrXS7r",
+      "album": {
+        "id": "4JtrqTDp0qnzj978nrXS7r",
+        "name": "One Acoustic Evening",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdf192a6d2f7a20baaa2a23f"
+      },
       "release_date": "2005-04-28",
       "popularity": 9
     },
     {
-      "trackId": "7ngRS53kqxLcEt9Pythc5d",
-      "name": "You Don't Own Me",
+      "track": {
+        "id": "7ngRS53kqxLcEt9Pythc5d",
+        "name": "You Don't Own Me"
+      },
       "duration_ms": 150000,
-      "artist": [
-        "Lesley Gore"
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "id": "08b2PA6eFyugsWAk41eQKZ"
+        }
       ],
-      "artistId": [
-        "08b2PA6eFyugsWAk41eQKZ"
-      ],
-      "albumId": "5eluBwSJ7uwDBizWCiazSJ",
+      "album": {
+        "id": "5eluBwSJ7uwDBizWCiazSJ",
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f88f87d7b1df743015cacac"
+      },
       "release_date": "1963-11-01",
       "popularity": 64
     },
     {
-      "trackId": "71iSmEeF0qRVyULABxP75P",
-      "name": "Shake It Out",
+      "track": {
+        "id": "71iSmEeF0qRVyULABxP75P",
+        "name": "Shake It Out"
+      },
       "duration_ms": 277600,
-      "artist": [
-        "Florence + The Machine"
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "id": "1moxjboGR7GNWYIMWsRjgG"
+        }
       ],
-      "artistId": [
-        "1moxjboGR7GNWYIMWsRjgG"
-      ],
-      "albumId": "19J2iqK89BCrNG4El2FRi5",
+      "album": {
+        "id": "19J2iqK89BCrNG4El2FRi5",
+        "name": "Ceremonials (Original Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a8c1075f751a78e0b7799c7"
+      },
       "release_date": "2011-01-01",
       "popularity": 66
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

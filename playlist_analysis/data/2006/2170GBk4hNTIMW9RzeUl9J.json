@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242360_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3Yv9NqOG58UPi1RN7XU5Ei",
-      "name": "Stranger On Earth",
+      "track": {
+        "id": "3Yv9NqOG58UPi1RN7XU5Ei",
+        "name": "Stranger On Earth"
+      },
       "duration_ms": 220786,
-      "artist": [
-        "Lisa Ekdahl",
-        "Peter Nordahl Trio"
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "id": "4SJSGUVZ04tezaGrxc96EE"
+        },
+        {
+          "name": "Peter Nordahl Trio",
+          "id": "6Qar0oNt9IZSMyrBxMg7ok"
+        }
       ],
-      "artistId": [
-        "4SJSGUVZ04tezaGrxc96EE",
-        "6Qar0oNt9IZSMyrBxMg7ok"
-      ],
-      "albumId": "2fOy0Sp7wjd7hOu0id8ORa",
+      "album": {
+        "id": "2fOy0Sp7wjd7hOu0id8ORa",
+        "name": "Heaven, Earth & Beyond",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270f81fff2abde5ce89caa6ac"
+      },
       "release_date": "2002-11-08",
       "popularity": 9
     },
     {
-      "trackId": "1k1Bqnv2R0uJXQN4u6LKYt",
-      "name": "Ain't No Sunshine",
+      "track": {
+        "id": "1k1Bqnv2R0uJXQN4u6LKYt",
+        "name": "Ain't No Sunshine"
+      },
       "duration_ms": 125093,
-      "artist": [
-        "Bill Withers"
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "id": "1ThoqLcyIYvZn7iWbj8fsj"
+        }
       ],
-      "artistId": [
-        "1ThoqLcyIYvZn7iWbj8fsj"
-      ],
-      "albumId": "6N8uPmDqbgXD3ztkCCfxoo",
+      "album": {
+        "id": "6N8uPmDqbgXD3ztkCCfxoo",
+        "name": "Just As I Am",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1e350d06ffebd2e19e047ce"
+      },
       "release_date": "1971-05-01",
       "popularity": 77
     },
     {
-      "trackId": "4PUf342kdrsvG9kC5xIs1g",
-      "name": "Olof, kära Olof",
+      "track": {
+        "id": "4PUf342kdrsvG9kC5xIs1g",
+        "name": "Olof, kära Olof"
+      },
       "duration_ms": 193065,
-      "artist": [
-        "Solen"
+      "artists": [
+        {
+          "name": "Solen",
+          "id": "0kO8xM63TaZM13XlV7yQXk"
+        }
       ],
-      "artistId": [
-        "0kO8xM63TaZM13XlV7yQXk"
-      ],
-      "albumId": "5lpmChnBz613vzhJr5gHFd",
+      "album": {
+        "id": "5lpmChnBz613vzhJr5gHFd",
+        "name": "Känslor säljer / Miljonär",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f4a17f8191e6bdeffe5cdb5"
+      },
       "release_date": "2017-03-24",
       "popularity": 32
     },
     {
-      "trackId": "1QdQ4r05QWhtcTTXOgRtyA",
-      "name": "Fine And Mellow",
+      "track": {
+        "id": "1QdQ4r05QWhtcTTXOgRtyA",
+        "name": "Fine And Mellow"
+      },
       "duration_ms": 196346,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "4MkdTflpaaGGcXb5vtOYRs",
+      "album": {
+        "id": "4MkdTflpaaGGcXb5vtOYRs",
+        "name": "Billie Holiday",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8743d2c7812763f7f66e83b"
+      },
       "release_date": "1957-01-01",
       "popularity": 42
     },
     {
-      "trackId": "0t3ssrMALrqWRqMXaOngdJ",
-      "name": "The Long And Winding Road - Remastered 1993",
+      "track": {
+        "id": "0t3ssrMALrqWRqMXaOngdJ",
+        "name": "The Long And Winding Road - Remastered 1993"
+      },
       "duration_ms": 236893,
-      "artist": [
-        "Paul McCartney"
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "id": "4STHEaNw4mPZ2tzheohgXB"
+        }
       ],
-      "artistId": [
-        "4STHEaNw4mPZ2tzheohgXB"
-      ],
-      "albumId": "2AtvtW3U8dv9C61S88M2w8",
+      "album": {
+        "id": "2AtvtW3U8dv9C61S88M2w8",
+        "name": "Give My Regards To Broad Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e0292eeb994e168a5ec582f4285"
+      },
       "release_date": "1984-10-22",
       "popularity": 31
     },
     {
-      "trackId": "1UXZCYGov983Bi53EoHu0I",
-      "name": "Nå då så",
+      "track": {
+        "id": "1UXZCYGov983Bi53EoHu0I",
+        "name": "Nå då så"
+      },
       "duration_ms": 234600,
-      "artist": [
-        "Mikael Ramel"
+      "artists": [
+        {
+          "name": "Mikael Ramel",
+          "id": "1ky50Ws1ZqW5dP5MRYO7dp"
+        }
       ],
-      "artistId": [
-        "1ky50Ws1ZqW5dP5MRYO7dp"
-      ],
-      "albumId": "24ZHF2rzvO63ItEdERgtk7",
+      "album": {
+        "id": "24ZHF2rzvO63ItEdERgtk7",
+        "name": "Mikael Ramel / Till dej",
+        "img": "https://i.scdn.co/image/ab67616d00001e029802e04a4527f03579b91b86"
+      },
       "release_date": "2003-01-01",
       "popularity": 8
     },
     {
-      "trackId": "7fW59TD8pQRSobXp3BslSd",
-      "name": "Maxine",
+      "track": {
+        "id": "7fW59TD8pQRSobXp3BslSd",
+        "name": "Maxine"
+      },
       "duration_ms": 229733,
-      "artist": [
-        "Donald Fagen"
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "id": "0S1SjYebdSaiMpI8xSW2Wb"
+        }
       ],
-      "artistId": [
-        "0S1SjYebdSaiMpI8xSW2Wb"
-      ],
-      "albumId": "5cOS6szqlcoqmiSoVTqqe8",
+      "album": {
+        "id": "5cOS6szqlcoqmiSoVTqqe8",
+        "name": "The Nightfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c3be4e1c786475f9489529f"
+      },
       "release_date": "1982-10-29",
       "popularity": 39
     },
     {
-      "trackId": "41hT6idTUfXX5Dmv32TXpO",
-      "name": "Feel A Little Better",
+      "track": {
+        "id": "41hT6idTUfXX5Dmv32TXpO",
+        "name": "Feel A Little Better"
+      },
       "duration_ms": 230333,
-      "artist": [
-        "Third World"
+      "artists": [
+        {
+          "name": "Third World",
+          "id": "6qfKnsgz1CwyqA7lTdieRJ"
+        }
       ],
-      "artistId": [
-        "6qfKnsgz1CwyqA7lTdieRJ"
-      ],
-      "albumId": "3YoEPzjAMfRO18CVXs2evN",
+      "album": {
+        "id": "3YoEPzjAMfRO18CVXs2evN",
+        "name": "96 Degrees In The Shade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285022daef38da8c9a7f81ac6"
+      },
       "release_date": "1977-01-01",
       "popularity": 35
     },
     {
-      "trackId": "3Um9toULmYFGCpvaIPFw7l",
-      "name": "What's Going On",
+      "track": {
+        "id": "3Um9toULmYFGCpvaIPFw7l",
+        "name": "What's Going On"
+      },
       "duration_ms": 233000,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "album": {
+        "id": "2v6ANhWhZBUKkg6pJJBs3B",
+        "name": "What's Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
+      },
       "release_date": "1971-05-21",
       "popularity": 69
     },
     {
-      "trackId": "3No0idjeViPyWDP4gh1YGo",
-      "name": "Jag ska fånga en ängel",
+      "track": {
+        "id": "3No0idjeViPyWDP4gh1YGo",
+        "name": "Jag ska fånga en ängel"
+      },
       "duration_ms": 234293,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "5O4erNlJ74PIF6kGol1ZrC",
-      "name": "Could You Be Loved",
+      "track": {
+        "id": "5O4erNlJ74PIF6kGol1ZrC",
+        "name": "Could You Be Loved"
+      },
       "duration_ms": 237000,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 78
     },
     {
-      "trackId": "69X2tFJnXPGGGvSOJdZ8ou",
-      "name": "Dance Me To The End Of Love",
+      "track": {
+        "id": "69X2tFJnXPGGGvSOJdZ8ou",
+        "name": "Dance Me To The End Of Love"
+      },
       "duration_ms": 237640,
-      "artist": [
-        "Madeleine Peyroux"
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "id": "7nXyULtoL8k7wP9l6kg8Ef"
+        }
       ],
-      "artistId": [
-        "7nXyULtoL8k7wP9l6kg8Ef"
-      ],
-      "albumId": "51v8hjqV3KirevIh7jWI0H",
+      "album": {
+        "id": "51v8hjqV3KirevIh7jWI0H",
+        "name": "Careless Love (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02562969e13c1cc2cdd0298be4"
+      },
       "release_date": "2021-08-27",
       "popularity": 38
     },
     {
-      "trackId": "63freQvGHqBUw8a4U9aXJQ",
-      "name": "I'm Still Here",
+      "track": {
+        "id": "63freQvGHqBUw8a4U9aXJQ",
+        "name": "I'm Still Here"
+      },
       "duration_ms": 109480,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "3zeDrhkNv8872fC7CsOCpI",
+      "album": {
+        "id": "3zeDrhkNv8872fC7CsOCpI",
+        "name": "Alice (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241f31d67822a5a08b8f8bace"
+      },
       "release_date": "2002-05-07",
       "popularity": 28
     },
     {
-      "trackId": "4vVue9p2IkdtmqXrpgBYVa",
-      "name": "Jag har aldrig varit på snusen",
+      "track": {
+        "id": "4vVue9p2IkdtmqXrpgBYVa",
+        "name": "Jag har aldrig varit på snusen"
+      },
       "duration_ms": 94600,
-      "artist": [
-        "Bengt Sändh",
-        "Rune Andersson"
+      "artists": [
+        {
+          "name": "Bengt Sändh",
+          "id": "22wER23wjTQ82o15BavkQb"
+        },
+        {
+          "name": "Rune Andersson",
+          "id": "1p7rwJjc7LvrLRcIOzMJzd"
+        }
       ],
-      "artistId": [
-        "22wER23wjTQ82o15BavkQb",
-        "1p7rwJjc7LvrLRcIOzMJzd"
-      ],
-      "albumId": "7APePfMaz5zfNptJvwNHvw",
+      "album": {
+        "id": "7APePfMaz5zfNptJvwNHvw",
+        "name": "Supvisor",
+        "img": "https://i.scdn.co/image/ab67616d00001e021556b3cb0d50ec3eea9952a4"
+      },
       "release_date": "1975-01-01",
       "popularity": 37
     }

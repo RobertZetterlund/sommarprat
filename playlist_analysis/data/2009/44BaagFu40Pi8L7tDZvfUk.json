@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3356163_2048_1148.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7Msq9qojB7yORuJvz49iUy",
-      "name": "P.S. I Love You - Remastered 2009",
+      "track": {
+        "id": "7Msq9qojB7yORuJvz49iUy",
+        "name": "P.S. I Love You - Remastered 2009"
+      },
       "duration_ms": 124360,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3KzAvEXcqJKBF97HrXwlgf",
+      "album": {
+        "id": "3KzAvEXcqJKBF97HrXwlgf",
+        "name": "Please Please Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df"
+      },
       "release_date": "1963-03-22",
       "popularity": 49
     },
     {
-      "trackId": "79KROYFmDP4rxgyinWSyQq",
-      "name": "Jag vill ha dej",
+      "track": {
+        "id": "79KROYFmDP4rxgyinWSyQq",
+        "name": "Jag vill ha dej"
+      },
       "duration_ms": 272626,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "4EwYCt3RDDGBEND0KoIdKT",
+      "album": {
+        "id": "4EwYCt3RDDGBEND0KoIdKT",
+        "name": "För väntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fe22f86ae713e1ba8692501"
+      },
       "release_date": "1981-02-05",
       "popularity": 19
     },
     {
-      "trackId": "3x8QuJyjUnr38WnSwjVaBn",
-      "name": "European Union Hymn Of Europe, \"Come, Sing A Song Of Joy For Peace…\"",
+      "track": {
+        "id": "3x8QuJyjUnr38WnSwjVaBn",
+        "name": "European Union Hymn Of Europe, \"Come, Sing A Song Of Joy For Peace…\""
+      },
       "duration_ms": 63040,
-      "artist": [
-        "Slovak Radio Symphony Orchestra",
-        "Peter Breiner",
-        "Various Artists"
+      "artists": [
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "id": "428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Peter Breiner",
+          "id": "50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Various Artists",
+          "id": "0LyfQWJT6nXafLPZqxe9Of"
+        }
       ],
-      "artistId": [
-        "428GNN7qZnTsMaK3SfPo6D",
-        "50MREZ0LJcSvrtKuyTV8Su",
-        "0LyfQWJT6nXafLPZqxe9Of"
-      ],
-      "albumId": "0U1oPI8TmFBj6Rv7PnAN1p",
+      "album": {
+        "id": "0U1oPI8TmFBj6Rv7PnAN1p",
+        "name": "National Anthems Of The World, Vol. 2: Cambodia - France",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b2725233403f138247b5ac3"
+      },
       "release_date": "1998-02-04",
       "popularity": 53
     },
     {
-      "trackId": "2HqpKpJvMrckAP9CPZHF7U",
-      "name": "This Girl's in Love with You",
+      "track": {
+        "id": "2HqpKpJvMrckAP9CPZHF7U",
+        "name": "This Girl's in Love with You"
+      },
       "duration_ms": 323226,
-      "artist": [
-        "Dionne Warwick"
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "id": "2JSjCHK79gdaiPWdKiNUNp"
+        }
       ],
-      "artistId": [
-        "2JSjCHK79gdaiPWdKiNUNp"
-      ],
-      "albumId": "6QnuijxmYzjFgVbw6JjpGD",
+      "album": {
+        "id": "6QnuijxmYzjFgVbw6JjpGD",
+        "name": "Promises, Promises",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb88c5eb487778b6c892cbc5"
+      },
       "release_date": "1968",
       "popularity": 36
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "64fzLaDcb7pO2bzfbC8itu",
-      "name": "The Long And Winding Road",
+      "track": {
+        "id": "64fzLaDcb7pO2bzfbC8itu",
+        "name": "The Long And Winding Road"
+      },
       "duration_ms": 206453,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "6J8vflvVRw8I95vvpn0a8o",
+      "album": {
+        "id": "6J8vflvVRw8I95vvpn0a8o",
+        "name": "Everything Is Everything (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4ee67ad8fc4257df8065e8e"
+      },
       "release_date": "1970-11-03",
       "popularity": 9
     },
     {
-      "trackId": "58KVXMRxCdnTqu09fbuo9O",
-      "name": "Jag står här på ett torg (Le Deserteur) - 1999 Remaster",
+      "track": {
+        "id": "58KVXMRxCdnTqu09fbuo9O",
+        "name": "Jag står här på ett torg (Le Deserteur) - 1999 Remaster"
+      },
       "duration_ms": 207440,
-      "artist": [
-        "Ulla Sjöblom"
+      "artists": [
+        {
+          "name": "Ulla Sjöblom",
+          "id": "00huu4jcNo6480UfSsL3qR"
+        }
       ],
-      "artistId": [
-        "00huu4jcNo6480UfSsL3qR"
-      ],
-      "albumId": "4Dlc7KCIIriABz3pvykrxj",
+      "album": {
+        "id": "4Dlc7KCIIriABz3pvykrxj",
+        "name": "Jag Står Här På Ett Torg",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b72d70d9f231f28ff5d8af65"
+      },
       "release_date": "1999",
       "popularity": 9
     },
     {
-      "trackId": "58CItiUB9n3sv8Y7nBHmwg",
-      "name": "Ich hab' noch einen Koffer in Berlin",
+      "track": {
+        "id": "58CItiUB9n3sv8Y7nBHmwg",
+        "name": "Ich hab' noch einen Koffer in Berlin"
+      },
       "duration_ms": 185933,
-      "artist": [
-        "Marlene Dietrich"
+      "artists": [
+        {
+          "name": "Marlene Dietrich",
+          "id": "3UuPzfQMdGK40O8Rj9jqVM"
+        }
       ],
-      "artistId": [
-        "3UuPzfQMdGK40O8Rj9jqVM"
-      ],
-      "albumId": "4UUXENM11yctBirhaEWTOH",
+      "album": {
+        "id": "4UUXENM11yctBirhaEWTOH",
+        "name": "Der blonde Engel - Marlene 100",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df94fd34e9ada63c26bf1996"
+      },
       "release_date": "2001-12-07",
       "popularity": 24
     },
     {
-      "trackId": "5xYZWCAC0GpTL1Mc4hlAco",
-      "name": "Perkele!",
+      "track": {
+        "id": "5xYZWCAC0GpTL1Mc4hlAco",
+        "name": "Perkele!"
+      },
       "duration_ms": 37520,
-      "artist": [
-        "M.A. Numminen"
+      "artists": [
+        {
+          "name": "M.A. Numminen",
+          "id": "2O2MRdVmId5VbqJLrNw8fx"
+        }
       ],
-      "artistId": [
-        "2O2MRdVmId5VbqJLrNw8fx"
-      ],
-      "albumId": "4xnJWnjjYWDdJFcyzM9A7o",
+      "album": {
+        "id": "4xnJWnjjYWDdJFcyzM9A7o",
+        "name": "Gör Ont I Sverige",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b4f7c7449fadfa05f5fb568"
+      },
       "release_date": "2008-04-02",
       "popularity": 8
     },
     {
-      "trackId": "3AXn3nAkIJ67LvULZHJGyI",
-      "name": "Kesäpäivä Kangasalla",
+      "track": {
+        "id": "3AXn3nAkIJ67LvULZHJGyI",
+        "name": "Kesäpäivä Kangasalla"
+      },
       "duration_ms": 157283,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "5UOe5urgS7gVc9kDC6RmaN",
+      "album": {
+        "id": "5UOe5urgS7gVc9kDC6RmaN",
+        "name": "Næra",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230ada663c1fcb46c0f53a7d9"
+      },
       "release_date": "2003-09-30",
       "popularity": 1
     },
     {
-      "trackId": "0rg1H6nmI6SHCEfIK1WCrm",
-      "name": "När jag vaknar",
+      "track": {
+        "id": "0rg1H6nmI6SHCEfIK1WCrm",
+        "name": "När jag vaknar"
+      },
       "duration_ms": 215266,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "67oyumtZk7JqH5onehTByo",
+      "album": {
+        "id": "67oyumtZk7JqH5onehTByo",
+        "name": "Ohh! Monica!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02398afc19d2d037305f593df7"
+      },
       "release_date": "1964-12-01",
       "popularity": 4
     },
     {
-      "trackId": "5xMNjx7uqCzMpJZSo4Wq55",
-      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "track": {
+        "id": "5xMNjx7uqCzMpJZSo4Wq55",
+        "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969"
+      },
       "duration_ms": 233813,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "6bYqwLMVRQzwPQweVzCiry",
+      "album": {
+        "id": "6bYqwLMVRQzwPQweVzCiry",
+        "name": "At San Quentin",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cdc0a6885821934441089ee"
+      },
       "release_date": "1969-06-04",
       "popularity": 58
     },
     {
-      "trackId": "5zMpGzZPsgOWJGVG9YzKia",
-      "name": "Höstvisa",
+      "track": {
+        "id": "5zMpGzZPsgOWJGVG9YzKia",
+        "name": "Höstvisa"
+      },
       "duration_ms": 209000,
-      "artist": [
-        "Cumulus"
+      "artists": [
+        {
+          "name": "Cumulus",
+          "id": "453SReS55opNWqjlRBI7KC"
+        }
       ],
-      "artistId": [
-        "453SReS55opNWqjlRBI7KC"
-      ],
-      "albumId": "4H9hU6nrhcYBHvapL8gqNR",
+      "album": {
+        "id": "4H9hU6nrhcYBHvapL8gqNR",
+        "name": "Cumulus",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208b511512506ef977579d170"
+      },
       "release_date": "1977",
       "popularity": 24
     },
     {
-      "trackId": "3fLJ2zOGZD2wyYATCZnOJU",
-      "name": "If You Go Away",
+      "track": {
+        "id": "3fLJ2zOGZD2wyYATCZnOJU",
+        "name": "If You Go Away"
+      },
       "duration_ms": 230066,
-      "artist": [
-        "Dusty Springfield"
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "id": "5zaXYwewAXedKNCff45U5l"
+        }
       ],
-      "artistId": [
-        "5zaXYwewAXedKNCff45U5l"
-      ],
-      "albumId": "4jdPgMWBBKtiQi7uEqfSW1",
+      "album": {
+        "id": "4jdPgMWBBKtiQi7uEqfSW1",
+        "name": "Where Am I Going",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202765f724d2f008cce35ce8c"
+      },
       "release_date": "1967-10-27",
       "popularity": 45
     }

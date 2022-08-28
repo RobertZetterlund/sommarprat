@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3268506_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0GCvEcU3yBkC4mwGtuMvhD",
-      "name": "Min plats på jorden",
+      "track": {
+        "id": "0GCvEcU3yBkC4mwGtuMvhD",
+        "name": "Min plats på jorden"
+      },
       "duration_ms": 277106,
-      "artist": [
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "5KuquR01zcC8NeiRiCQFYW",
+      "album": {
+        "id": "5KuquR01zcC8NeiRiCQFYW",
+        "name": "Min plats på jorden",
+        "img": "https://i.scdn.co/image/ab67616d00001e025eb84de99e0a9792beaa6fb1"
+      },
       "release_date": "2009-01-01",
       "popularity": 26
     },
     {
-      "trackId": "0gQfkPTobzK1gjrpxzTr3H",
-      "name": "Fly with Me (Lenas sång)",
+      "track": {
+        "id": "0gQfkPTobzK1gjrpxzTr3H",
+        "name": "Fly with Me (Lenas sång)"
+      },
       "duration_ms": 295400,
-      "artist": [
-        "Leyla Yilbar-Norgren",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Leyla Yilbar-Norgren",
+          "id": "0tHsCP8k9nZTygEhMa42ZJ"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "0tHsCP8k9nZTygEhMa42ZJ",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "0rcTy3MEI9HScHwYgElwCf",
+      "album": {
+        "id": "0rcTy3MEI9HScHwYgElwCf",
+        "name": "Fly With Me (Lenas Sång)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02344c1dcddb9b519cf923430a"
+      },
       "release_date": "2005-01-28",
       "popularity": 28
     },
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     },
     {
-      "trackId": "1B5Tp2Ml9nLlmTSJx8xVfI",
-      "name": "Always On My Mind",
+      "track": {
+        "id": "1B5Tp2Ml9nLlmTSJx8xVfI",
+        "name": "Always On My Mind"
+      },
       "duration_ms": 218440,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3gpHiNAmT5oXVxe6ewTGuN",
+      "album": {
+        "id": "3gpHiNAmT5oXVxe6ewTGuN",
+        "name": "Elvis (Fool)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02524e9e45a2e0067b8189a92e"
+      },
       "release_date": "1973-07-16",
       "popularity": 72
     },
     {
-      "trackId": "38c8DwepmaeoHAgDhrTUoz",
-      "name": "Lascia ch'io pianga",
+      "track": {
+        "id": "38c8DwepmaeoHAgDhrTUoz",
+        "name": "Lascia ch'io pianga"
+      },
       "duration_ms": 248680,
-      "artist": [
-        "Lesley Garrett"
+      "artists": [
+        {
+          "name": "Lesley Garrett",
+          "id": "62v9cky9vqZqt9vbMNqMLQ"
+        }
       ],
-      "artistId": [
-        "62v9cky9vqZqt9vbMNqMLQ"
-      ],
-      "albumId": "1CNc8RQdLx5jQU9RBIuccq",
+      "album": {
+        "id": "1CNc8RQdLx5jQU9RBIuccq",
+        "name": "Lesley Garrett - A Soprano's Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f94cfc5e8de661bea0b35445"
+      },
       "release_date": "2007-05-28",
       "popularity": 32
     },
     {
-      "trackId": "6r6jbHHCD82t5pvPplmovB",
-      "name": "Spelmansglädje (vals)",
+      "track": {
+        "id": "6r6jbHHCD82t5pvPplmovB",
+        "name": "Spelmansglädje (vals)"
+      },
       "duration_ms": 171333,
-      "artist": [
-        "Erik Sahlstrom"
+      "artists": [
+        {
+          "name": "Erik Sahlstrom",
+          "id": "12mtsv7tV5aGjyC7rB4hgC"
+        }
       ],
-      "artistId": [
-        "12mtsv7tV5aGjyC7rB4hgC"
-      ],
-      "albumId": "3TsAq4c1WLhTUzhDahmHUc",
+      "album": {
+        "id": "3TsAq4c1WLhTUzhDahmHUc",
+        "name": "Spelmän från fem landskap",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea1f4ec076e87e805ac42043"
+      },
       "release_date": "1996",
       "popularity": 3
     },
     {
-      "trackId": "6vcNJUWtUPB0hKC6VbZriY",
-      "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
+      "track": {
+        "id": "6vcNJUWtUPB0hKC6VbZriY",
+        "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version"
+      },
       "duration_ms": 178506,
-      "artist": [
-        "Scott McKenzie"
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "id": "7d7AZ3CQC457bFhK0wHpSO"
+        }
       ],
-      "artistId": [
-        "7d7AZ3CQC457bFhK0wHpSO"
-      ],
-      "albumId": "0JxUYNJnYnCeA9kwBRK4ez",
+      "album": {
+        "id": "0JxUYNJnYnCeA9kwBRK4ez",
+        "name": "San Francisco",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255a2136bf7726d3c99f7860b"
+      },
       "release_date": "1967-07-16",
       "popularity": 64
     },
     {
-      "trackId": "20q29hnZzjAsohgMYVCAfN",
-      "name": "Om sommaren sköna",
+      "track": {
+        "id": "20q29hnZzjAsohgMYVCAfN",
+        "name": "Om sommaren sköna"
+      },
       "duration_ms": 268200,
-      "artist": [
-        "Traditional",
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "Traditional",
+          "id": "1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "1U5zgr455OGyIkLNXvDdrf",
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "5paDajezbyZs61XH9sQKCP",
+      "album": {
+        "id": "5paDajezbyZs61XH9sQKCP",
+        "name": "Opera di Fiori",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d8358da7e0e3476e79a8e46"
+      },
       "release_date": "2011-07-06",
       "popularity": 4
     },
     {
-      "trackId": "2cxfJHyBAjByJFPoHc6zkO",
-      "name": "Glädjens blomster",
+      "track": {
+        "id": "2cxfJHyBAjByJFPoHc6zkO",
+        "name": "Glädjens blomster"
+      },
       "duration_ms": 78293,
-      "artist": [
-        "Göteborgs Symfonietta"
+      "artists": [
+        {
+          "name": "Göteborgs Symfonietta",
+          "id": "4nl9UTIL3ppsexgT6bAMuk"
+        }
       ],
-      "artistId": [
-        "4nl9UTIL3ppsexgT6bAMuk"
-      ],
-      "albumId": "1oBY6M49PdGxWJSd5T2iNl",
+      "album": {
+        "id": "1oBY6M49PdGxWJSd5T2iNl",
+        "name": "Svenska Sommar och Kärleksvisor, vol.3",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a946550e051e2c182f7eebf"
+      },
       "release_date": "2022-06-17",
       "popularity": 2
     },
     {
-      "trackId": "2mxByJWOajjiVsLWjNXvDJ",
-      "name": "Oh! Darling - Remastered 2009",
+      "track": {
+        "id": "2mxByJWOajjiVsLWjNXvDJ",
+        "name": "Oh! Darling - Remastered 2009"
+      },
       "duration_ms": 207240,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 66
     },
     {
-      "trackId": "2WKvXWdXgIo1HzcMhNG6lK",
-      "name": "Memory - From \"Cats\"",
+      "track": {
+        "id": "2WKvXWdXgIo1HzcMhNG6lK",
+        "name": "Memory - From \"Cats\""
+      },
       "duration_ms": 236493,
-      "artist": [
-        "Andrew Lloyd Webber",
-        "Sarah Brightman"
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "id": "4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Sarah Brightman",
+          "id": "7Ead768rc4ShGxnqtqccU5"
+        }
       ],
-      "artistId": [
-        "4aP1lp10BRYZO658B2NwkG",
-        "7Ead768rc4ShGxnqtqccU5"
-      ],
-      "albumId": "6w9kccwOJVBGpaGGfgj2MT",
+      "album": {
+        "id": "6w9kccwOJVBGpaGGfgj2MT",
+        "name": "The Andrew Lloyd Webber Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a57ebac9f22e5b09c2cbe72"
+      },
       "release_date": "1997-01-01",
       "popularity": 20
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     }

@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/61bf6430-1182-4491-b6a5-22133066ec3d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4J0WQvqCBytACvgKVrq1S3",
-      "name": "Håll om mig",
+      "track": {
+        "id": "4J0WQvqCBytACvgKVrq1S3",
+        "name": "Håll om mig"
+      },
       "duration_ms": 239040,
-      "artist": [
-        "Petter",
-        "Daniel Adams-Ray"
+      "artists": [
+        {
+          "name": "Petter",
+          "id": "5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Daniel Adams-Ray",
+          "id": "4C86wrjOUfXQDlt6A4oJOC"
+        }
       ],
-      "artistId": [
-        "5A0Bu9azuFEnud3q7t0V2r",
-        "4C86wrjOUfXQDlt6A4oJOC"
-      ],
-      "albumId": "7qETkdQzWjk1ToMdlHtXKj",
+      "album": {
+        "id": "7qETkdQzWjk1ToMdlHtXKj",
+        "name": "Början på allt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc0178565c575ee45999f7c1"
+      },
       "release_date": "2013-04-03",
       "popularity": 42
     },
     {
-      "trackId": "62ZRIc2HYCSTP4EBc22q3R",
-      "name": "Stjärnorna Finns Här",
+      "track": {
+        "id": "62ZRIc2HYCSTP4EBc22q3R",
+        "name": "Stjärnorna Finns Här"
+      },
       "duration_ms": 186866,
-      "artist": [
-        "Kapten Röd"
+      "artists": [
+        {
+          "name": "Kapten Röd",
+          "id": "4G2UDRhQLUDq0f93giGYwA"
+        }
       ],
-      "artistId": [
-        "4G2UDRhQLUDq0f93giGYwA"
-      ],
-      "albumId": "5aivLlT7s53Ok6h4xy41sE",
+      "album": {
+        "id": "5aivLlT7s53Ok6h4xy41sE",
+        "name": "Stjärnorna Finns Här",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243faf13db70a5fcc4c8a3879"
+      },
       "release_date": "2007-06-15",
       "popularity": 42
     },
     {
-      "trackId": "308mVlvGzbi2fbkXPscrYu",
-      "name": "Dont Give up the Fight",
+      "track": {
+        "id": "308mVlvGzbi2fbkXPscrYu",
+        "name": "Dont Give up the Fight"
+      },
       "duration_ms": 227401,
-      "artist": [
-        "Aly Youranday"
+      "artists": [
+        {
+          "name": "Aly Youranday",
+          "id": "73rm6azAHBNLzgmbYk8orI"
+        }
       ],
-      "artistId": [
-        "73rm6azAHBNLzgmbYk8orI"
-      ],
-      "albumId": "0tLzLTsoe8sXyvzRXEI4H7",
+      "album": {
+        "id": "0tLzLTsoe8sXyvzRXEI4H7",
+        "name": "Dont Give up the Fight",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f482d4fd05e248c067a4ff13"
+      },
       "release_date": "2018-03-23",
       "popularity": 12
     },
     {
-      "trackId": "0m7mTaFGMiKI3rBJpYknip",
-      "name": "Hands Held High",
+      "track": {
+        "id": "0m7mTaFGMiKI3rBJpYknip",
+        "name": "Hands Held High"
+      },
       "duration_ms": 233133,
-      "artist": [
-        "Linkin Park"
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "id": "6XyY86QOPPrYVGvF9ch6wz"
+        }
       ],
-      "artistId": [
-        "6XyY86QOPPrYVGvF9ch6wz"
-      ],
-      "albumId": "2tlTBLz2w52rpGCLBGyGw6",
+      "album": {
+        "id": "2tlTBLz2w52rpGCLBGyGw6",
+        "name": "Minutes to Midnight",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246e207de66ba06422897f769"
+      },
       "release_date": "2007-05-14",
       "popularity": 52
     },
     {
-      "trackId": "1wSGgkDKaX5OXM7NPqJv4U",
-      "name": "You are the Problem Here",
+      "track": {
+        "id": "1wSGgkDKaX5OXM7NPqJv4U",
+        "name": "You are the Problem Here"
+      },
       "duration_ms": 218373,
-      "artist": [
-        "First Aid Kit"
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "id": "21egYD1eInY6bGFcniCRT1"
+        }
       ],
-      "artistId": [
-        "21egYD1eInY6bGFcniCRT1"
-      ],
-      "albumId": "0gtFtyQ2fVOutl4TWJspTV",
+      "album": {
+        "id": "0gtFtyQ2fVOutl4TWJspTV",
+        "name": "You are the Problem Here",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9bc8284b3d0c8a2d43588cd"
+      },
       "release_date": "2017-03-10",
       "popularity": 31
     },
     {
-      "trackId": "0lczHKLHGd8LuzgrzIJ0nO",
-      "name": "Quiet",
+      "track": {
+        "id": "0lczHKLHGd8LuzgrzIJ0nO",
+        "name": "Quiet"
+      },
       "duration_ms": 202093,
-      "artist": [
-        "MILCK"
+      "artists": [
+        {
+          "name": "MILCK",
+          "id": "62lirbb6qJs4VOGpdCNHK8"
+        }
       ],
-      "artistId": [
-        "62lirbb6qJs4VOGpdCNHK8"
-      ],
-      "albumId": "14NXlqWlb4MGu4KswIm6xU",
+      "album": {
+        "id": "14NXlqWlb4MGu4KswIm6xU",
+        "name": "This Is Not The End",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a2cbf5e64563b623ce10efd"
+      },
       "release_date": "2018-01-19",
       "popularity": 41
     },
     {
-      "trackId": "7MwHsp9nETUhLJCYse2fLy",
-      "name": "Svarta Miljonärer",
+      "track": {
+        "id": "7MwHsp9nETUhLJCYse2fLy",
+        "name": "Svarta Miljonärer"
+      },
       "duration_ms": 205770,
-      "artist": [
-        "N"
+      "artists": [
+        {
+          "name": "N",
+          "id": "4jaTFsCTmYIMLy645JIemX"
+        }
       ],
-      "artistId": [
-        "4jaTFsCTmYIMLy645JIemX"
-      ],
-      "albumId": "4FM8PEw9Z4ZMm1bmiq8ePE",
+      "album": {
+        "id": "4FM8PEw9Z4ZMm1bmiq8ePE",
+        "name": "Svarta Miljonärer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3d5ebdc13d0ffcbc739c705"
+      },
       "release_date": "2015-10-16",
       "popularity": 37
     },
     {
-      "trackId": "3Rda5j7OscXANOWSvahGDK",
-      "name": "I Won't Stay Down",
+      "track": {
+        "id": "3Rda5j7OscXANOWSvahGDK",
+        "name": "I Won't Stay Down"
+      },
       "duration_ms": 206331,
-      "artist": [
-        "VERIDIA"
+      "artists": [
+        {
+          "name": "VERIDIA",
+          "id": "5U1ivAMtZn5wFOvoua7M2A"
+        }
       ],
-      "artistId": [
-        "5U1ivAMtZn5wFOvoua7M2A"
-      ],
-      "albumId": "6kFgVGPvCWYzERgZehP9bD",
+      "album": {
+        "id": "6kFgVGPvCWYzERgZehP9bD",
+        "name": "I Won't Stay Down",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e2bf5f737df1a33495ac876"
+      },
       "release_date": "2018-09-28",
       "popularity": 15
     },
     {
-      "trackId": "20a5vTrT9zr9AryntnV9Pj",
-      "name": "(I) Can Can (You)",
+      "track": {
+        "id": "20a5vTrT9zr9AryntnV9Pj",
+        "name": "(I) Can Can (You)"
+      },
       "duration_ms": 220640,
-      "artist": [
-        "Vanessa-Mae"
+      "artists": [
+        {
+          "name": "Vanessa-Mae",
+          "id": "1XucD9urBtUadfCNvZc4Pp"
+        }
       ],
-      "artistId": [
-        "1XucD9urBtUadfCNvZc4Pp"
-      ],
-      "albumId": "58L7VoNH6raQHKEzYSJwnZ",
+      "album": {
+        "id": "58L7VoNH6raQHKEzYSJwnZ",
+        "name": "Platinum Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e88485eb09de09c98c17a36"
+      },
       "release_date": "2007-02-19",
       "popularity": 31
     },
     {
-      "trackId": "37f4ITSlgPX81ad2EvmVQr",
-      "name": "Fight Song",
+      "track": {
+        "id": "37f4ITSlgPX81ad2EvmVQr",
+        "name": "Fight Song"
+      },
       "duration_ms": 204013,
-      "artist": [
-        "Rachel Platten"
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "id": "3QLIkT4rD2FMusaqmkepbq"
+        }
       ],
-      "artistId": [
-        "3QLIkT4rD2FMusaqmkepbq"
-      ],
-      "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+      "album": {
+        "id": "0mFDIOqypzHp6Xd0el1hoT",
+        "name": "Wildfire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9e4d7fae5dfcc8f9cc96bc9"
+      },
       "release_date": "2016-01-01",
       "popularity": 77
     },
     {
-      "trackId": "2aOouZly7nYqeMwoHcDPkP",
-      "name": "Hej då",
+      "track": {
+        "id": "2aOouZly7nYqeMwoHcDPkP",
+        "name": "Hej då"
+      },
       "duration_ms": 232373,
-      "artist": [
-        "Tomas Andersson Wij"
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "id": "2j8XNrT8TQH4JMeyEMJYfL"
+        }
       ],
-      "artistId": [
-        "2j8XNrT8TQH4JMeyEMJYfL"
-      ],
-      "albumId": "4qcHdFbD9ZqUNU9BW5QGuJ",
+      "album": {
+        "id": "4qcHdFbD9ZqUNU9BW5QGuJ",
+        "name": "Ett slag för dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02654738fb595f2353cf443afb"
+      },
       "release_date": "2000-09-22",
       "popularity": 11
     }

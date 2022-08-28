@@ -7,212 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2341893_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3rqCAAvokZpLrnrjX4RZxV",
-      "name": "Aqui É O País Do Futebol",
+      "track": {
+        "id": "3rqCAAvokZpLrnrjX4RZxV",
+        "name": "Aqui É O País Do Futebol"
+      },
       "duration_ms": 149733,
-      "artist": [
-        "Wilson Simonal"
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "id": "6DqFCzjARUV3xH9meu3Bya"
+        }
       ],
-      "artistId": [
-        "6DqFCzjARUV3xH9meu3Bya"
-      ],
-      "albumId": "2zjyR4n5flr7BLqkzvhwGa",
+      "album": {
+        "id": "2zjyR4n5flr7BLqkzvhwGa",
+        "name": "Eu Sou O Samba",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb96cae1d8cab7c57a38f7d1"
+      },
       "release_date": "2004-01-01",
       "popularity": 16
     },
     {
-      "trackId": "3xrYgdz1QEj2q3f5T1OGxb",
-      "name": "Eu Quero Tchu Eu Quero Tcha",
+      "track": {
+        "id": "3xrYgdz1QEj2q3f5T1OGxb",
+        "name": "Eu Quero Tchu Eu Quero Tcha"
+      },
       "duration_ms": 159755,
-      "artist": [
-        "João Lucas & Marcelo"
+      "artists": [
+        {
+          "name": "João Lucas & Marcelo",
+          "id": "07qXCavgZGcwnfNHSvSPtG"
+        }
       ],
-      "artistId": [
-        "07qXCavgZGcwnfNHSvSPtG"
-      ],
-      "albumId": "5YoSOrOY8x9bWnLheZ07vt",
+      "album": {
+        "id": "5YoSOrOY8x9bWnLheZ07vt",
+        "name": "Eu Quero Tchu Eu Quero Tcha - Single",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c09c9d1b01a9461e079df9e3"
+      },
       "release_date": "2012-03-13",
       "popularity": 44
     },
     {
-      "trackId": "4aF4hxNGTdmJdWNjJ9xMVT",
-      "name": "Ballad om vintern",
+      "track": {
+        "id": "4aF4hxNGTdmJdWNjJ9xMVT",
+        "name": "Ballad om vintern"
+      },
       "duration_ms": 138746,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "3cj1E5Fhfjmj3nj6BIzrK2",
+      "album": {
+        "id": "3cj1E5Fhfjmj3nj6BIzrK2",
+        "name": "Vatten och bröd",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5475c2d11b2d4309d5191ea"
+      },
       "release_date": "2006-01-01",
       "popularity": 24
     },
     {
-      "trackId": "2IXiZtz7EVJpsyZwoxBy6K",
-      "name": "Sorte Grande",
+      "track": {
+        "id": "2IXiZtz7EVJpsyZwoxBy6K",
+        "name": "Sorte Grande"
+      },
       "duration_ms": 228706,
-      "artist": [
-        "Ivete Sangalo"
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "id": "7dzq55YG3wjViqexDwiycQ"
+        }
       ],
-      "artistId": [
-        "7dzq55YG3wjViqexDwiycQ"
-      ],
-      "albumId": "0BWWqqGqH5z11TnBjI60X4",
+      "album": {
+        "id": "0BWWqqGqH5z11TnBjI60X4",
+        "name": "Clube Carnavalesco Inocentes Em Progresso",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265938b00d61a29eb71d019fb"
+      },
       "release_date": "2003-01-01",
       "popularity": 46
     },
     {
-      "trackId": "3MQcMZgLbTJHe6YdwrIYx9",
-      "name": "É uma Partida de Futebol",
+      "track": {
+        "id": "3MQcMZgLbTJHe6YdwrIYx9",
+        "name": "É uma Partida de Futebol"
+      },
       "duration_ms": 236360,
-      "artist": [
-        "Skank"
+      "artists": [
+        {
+          "name": "Skank",
+          "id": "4C4kpaAdp6aKSkguw40SsU"
+        }
       ],
-      "artistId": [
-        "4C4kpaAdp6aKSkguw40SsU"
-      ],
-      "albumId": "7evTWhFmwKyf1GXnLzos3p",
+      "album": {
+        "id": "7evTWhFmwKyf1GXnLzos3p",
+        "name": "O Samba Poconé",
+        "img": "https://i.scdn.co/image/ab67616d00001e025361a9772b72b58e353a9dea"
+      },
       "release_date": "1996-06-15",
       "popularity": 47
     },
     {
-      "trackId": "60KVPxakrwGmSipXuV906j",
-      "name": "Alagoas",
+      "track": {
+        "id": "60KVPxakrwGmSipXuV906j",
+        "name": "Alagoas"
+      },
       "duration_ms": 230773,
-      "artist": [
-        "Djavan"
+      "artists": [
+        {
+          "name": "Djavan",
+          "id": "5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
       ],
-      "artistId": [
-        "5rrmaoBXZ7Jcs4Qb77j0YA"
-      ],
-      "albumId": "6nNxchWJHFDd31sbiWlKPC",
+      "album": {
+        "id": "6nNxchWJHFDd31sbiWlKPC",
+        "name": "Djavan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02906b2e5d11cef03ba171dd18"
+      },
       "release_date": "1978-01-01",
       "popularity": 27
     },
     {
-      "trackId": "2G6A7WUtTjZzbmQQ3vNfNe",
-      "name": "Sem Trânsito, Sem Avião",
+      "track": {
+        "id": "2G6A7WUtTjZzbmQQ3vNfNe",
+        "name": "Sem Trânsito, Sem Avião"
+      },
       "duration_ms": 169133,
-      "artist": [
-        "Victor & Leo"
+      "artists": [
+        {
+          "name": "Victor & Leo",
+          "id": "2HtEBtekn0bXogyogD3PTr"
+        }
       ],
-      "artistId": [
-        "2HtEBtekn0bXogyogD3PTr"
-      ],
-      "albumId": "5OhkNWsMJ5ILdscQMikB5d",
+      "album": {
+        "id": "5OhkNWsMJ5ILdscQMikB5d",
+        "name": "Borboletas",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208ef9009b0273f096846003d"
+      },
       "release_date": "2008",
       "popularity": 38
     },
     {
-      "trackId": "0u5aoIlWLHDT5VjeNzOhIg",
-      "name": "Aquarela do Brasil",
+      "track": {
+        "id": "0u5aoIlWLHDT5VjeNzOhIg",
+        "name": "Aquarela do Brasil"
+      },
       "duration_ms": 273053,
-      "artist": [
-        "Daniela Mercury"
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "id": "2krrkKvM52JgvfGu2Uewbg"
+        }
       ],
-      "artistId": [
-        "2krrkKvM52JgvfGu2Uewbg"
-      ],
-      "albumId": "31ZPjnUQo7HgRWFhDn0CtN",
+      "album": {
+        "id": "31ZPjnUQo7HgRWFhDn0CtN",
+        "name": "Balé Mulato",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ab2016b3dcfdcd0f5518df1"
+      },
       "release_date": "2011-10-31",
       "popularity": 21
     },
     {
-      "trackId": "56e777pmzJym3FetUJgwpn",
-      "name": "Hur ska det gå?",
+      "track": {
+        "id": "56e777pmzJym3FetUJgwpn",
+        "name": "Hur ska det gå?"
+      },
       "duration_ms": 196066,
-      "artist": [
-        "Melissa Horn"
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "id": "0tOdy7SqogILIjzGU2hSr5"
+        }
       ],
-      "artistId": [
-        "0tOdy7SqogILIjzGU2hSr5"
-      ],
-      "albumId": "1YecbRHvwtF6mu08slHB31",
+      "album": {
+        "id": "1YecbRHvwtF6mu08slHB31",
+        "name": "Säg ingenting till mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02418e91259ba3b79e2336e42e"
+      },
       "release_date": "2009-10-12",
       "popularity": 30
     },
     {
-      "trackId": "3Qt9hPHPCdKOWEElSHgT3V",
-      "name": "Forró Nº 1",
+      "track": {
+        "id": "3Qt9hPHPCdKOWEElSHgT3V",
+        "name": "Forró Nº 1"
+      },
       "duration_ms": 185224,
-      "artist": [
-        "Katia De Troia"
+      "artists": [
+        {
+          "name": "Katia De Troia",
+          "id": "7vzpkaWcO0bkqix7tdhare"
+        }
       ],
-      "artistId": [
-        "7vzpkaWcO0bkqix7tdhare"
-      ],
-      "albumId": "7sYp6GS33N5V7vdhBuzALr",
+      "album": {
+        "id": "7sYp6GS33N5V7vdhBuzALr",
+        "name": "O Melhor do Forro Universitário, Vol 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bd711f671bd4977ddc8d508d"
+      },
       "release_date": "2001-09-01",
       "popularity": 0
     },
     {
-      "trackId": "4czNORk5MjW5WOn98bki32",
-      "name": "All Night Long (All Night) - Single Version",
+      "track": {
+        "id": "4czNORk5MjW5WOn98bki32",
+        "name": "All Night Long (All Night) - Single Version"
+      },
       "duration_ms": 258666,
-      "artist": [
-        "Lionel Richie"
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "id": "3gMaNLQm7D9MornNILzdSl"
+        }
       ],
-      "artistId": [
-        "3gMaNLQm7D9MornNILzdSl"
-      ],
-      "albumId": "1ET5QG3pd6NGqEFuZh0Qiz",
+      "album": {
+        "id": "1ET5QG3pd6NGqEFuZh0Qiz",
+        "name": "Back To Front",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a47127db3e929f64a2795666"
+      },
       "release_date": "1992-01-01",
       "popularity": 71
     },
     {
-      "trackId": "6zVovWztPYMzACR0JVRrVR",
-      "name": "Boca de Forno",
+      "track": {
+        "id": "6zVovWztPYMzACR0JVRrVR",
+        "name": "Boca de Forno"
+      },
       "duration_ms": 207230,
-      "artist": [
-        "Tio Rodrigo"
+      "artists": [
+        {
+          "name": "Tio Rodrigo",
+          "id": "3lueIHdLJnvUADvBMAf7Se"
+        }
       ],
-      "artistId": [
-        "3lueIHdLJnvUADvBMAf7Se"
-      ],
-      "albumId": "7M7doGIIR4O0eFwHHDP7HP",
+      "album": {
+        "id": "7M7doGIIR4O0eFwHHDP7HP",
+        "name": "Pra Brincar e Aprender",
+        "img": "https://i.scdn.co/image/ab67616d00001e021adf3fe7d22d83e52764c2f8"
+      },
       "release_date": "2021-10-08",
       "popularity": 3
     },
     {
-      "trackId": "3dyHvTXrfU6wZbuxl6h3H3",
-      "name": "Här kommer alla känslorna (på en och samma gång)",
+      "track": {
+        "id": "3dyHvTXrfU6wZbuxl6h3H3",
+        "name": "Här kommer alla känslorna (på en och samma gång)"
+      },
       "duration_ms": 160826,
-      "artist": [
-        "Per Gessle"
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "id": "5pFJ8lLOUnyEaNrrf7D1KK"
+        }
       ],
-      "artistId": [
-        "5pFJ8lLOUnyEaNrrf7D1KK"
-      ],
-      "albumId": "72CxJEk3v2yg5yjDWUQveI",
+      "album": {
+        "id": "72CxJEk3v2yg5yjDWUQveI",
+        "name": "Mazarin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb98c79f7875f95c87f0e225"
+      },
       "release_date": "2003-06-16",
       "popularity": 53
     },
     {
-      "trackId": "3oDFtOhcN08qeDPAK6MEQG",
-      "name": "Boom Boom Pow",
+      "track": {
+        "id": "3oDFtOhcN08qeDPAK6MEQG",
+        "name": "Boom Boom Pow"
+      },
       "duration_ms": 251440,
-      "artist": [
-        "Black Eyed Peas"
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "id": "1yxSLGMDHlW21z4YXirZDS"
+        }
       ],
-      "artistId": [
-        "1yxSLGMDHlW21z4YXirZDS"
-      ],
-      "albumId": "1dgbFU08pXJXZhGPlybdMX",
+      "album": {
+        "id": "1dgbFU08pXJXZhGPlybdMX",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5"
+      },
       "release_date": "2009-01-01",
       "popularity": 69
     },
     {
-      "trackId": "0aoXo0QpV9k4edV7wjwNkl",
-      "name": "Eu Vou Torcer",
+      "track": {
+        "id": "0aoXo0QpV9k4edV7wjwNkl",
+        "name": "Eu Vou Torcer"
+      },
       "duration_ms": 195506,
-      "artist": [
-        "Jorge Ben Jor"
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "id": "5JYtpnUKxAzXfHEYpOeeit"
+        }
       ],
-      "artistId": [
-        "5JYtpnUKxAzXfHEYpOeeit"
-      ],
-      "albumId": "5rcMJNWebtl2r2S18Je1A0",
+      "album": {
+        "id": "5rcMJNWebtl2r2S18Je1A0",
+        "name": "A Tabua De Esmeralda",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bce213e564b833e4e4be01f"
+      },
       "release_date": "1974-01-01",
       "popularity": 44
     }

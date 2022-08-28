@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/bf96888a-c000-465a-8d5d-f74bbd91fc30.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0iINibMKtoS8duvexsqnm5",
-      "name": "Tusk - 2015 Remaster",
+      "track": {
+        "id": "0iINibMKtoS8duvexsqnm5",
+        "name": "Tusk - 2015 Remaster"
+      },
       "duration_ms": 217573,
-      "artist": [
-        "Fleetwood Mac"
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "id": "08GQAI4eElDnROBrJRGE0X"
+        }
       ],
-      "artistId": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ],
-      "albumId": "1d075yQcykHjerQ2BN0ABn",
+      "album": {
+        "id": "1d075yQcykHjerQ2BN0ABn",
+        "name": "Tusk (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac3b1b1e8bb8a4986b485fb5"
+      },
       "release_date": "1979-10-12",
       "popularity": 58
     },
     {
-      "trackId": "4njvuACkIUH8MuPyes4eNC",
-      "name": "Jag spelar vanlig",
+      "track": {
+        "id": "4njvuACkIUH8MuPyes4eNC",
+        "name": "Jag spelar vanlig"
+      },
       "duration_ms": 250040,
-      "artist": [
-        "Olle Ljungström"
+      "artists": [
+        {
+          "name": "Olle Ljungström",
+          "id": "6wjchRNcNNSn1wPIaIiRq8"
+        }
       ],
-      "artistId": [
-        "6wjchRNcNNSn1wPIaIiRq8"
-      ],
-      "albumId": "2gyZXHAdUrih3FND0fLBWD",
+      "album": {
+        "id": "2gyZXHAdUrih3FND0fLBWD",
+        "name": "Olle Ljungström",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc7a4368fdbf86a5e052e2d8"
+      },
       "release_date": "1993-03-02",
       "popularity": 24
     },
     {
-      "trackId": "0sHnZNTPbyAFqoN67JbGo5",
-      "name": "Just Say (feat. Tinashe)",
+      "track": {
+        "id": "0sHnZNTPbyAFqoN67JbGo5",
+        "name": "Just Say (feat. Tinashe)"
+      },
       "duration_ms": 232089,
-      "artist": [
-        "KDA",
-        "Tinashe"
+      "artists": [
+        {
+          "name": "KDA",
+          "id": "3EK3opK9Hp93HJjBPupzfg"
+        },
+        {
+          "name": "Tinashe",
+          "id": "0NIIxcxNHmOoyBx03SfTCD"
+        }
       ],
-      "artistId": [
-        "3EK3opK9Hp93HJjBPupzfg",
-        "0NIIxcxNHmOoyBx03SfTCD"
-      ],
-      "albumId": "6varHOHHpMhaneFD6Whp8D",
+      "album": {
+        "id": "6varHOHHpMhaneFD6Whp8D",
+        "name": "Just Say (feat. Tinashe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d877cd4c55d815260eddcef8"
+      },
       "release_date": "2016-11-04",
       "popularity": 41
     },
     {
-      "trackId": "2AMysGXOe0zzZJMtH3Nizb",
-      "name": "Formidable",
+      "track": {
+        "id": "2AMysGXOe0zzZJMtH3Nizb",
+        "name": "Formidable"
+      },
       "duration_ms": 213933,
-      "artist": [
-        "Stromae"
+      "artists": [
+        {
+          "name": "Stromae",
+          "id": "5j4HeCoUlzhfWtjAfM1acR"
+        }
       ],
-      "artistId": [
-        "5j4HeCoUlzhfWtjAfM1acR"
-      ],
-      "albumId": "6uyslsVGFsHKzdGUosFwBM",
+      "album": {
+        "id": "6uyslsVGFsHKzdGUosFwBM",
+        "name": "racine carrée",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab580fab750cc9baf0d52b5c"
+      },
       "release_date": "2013-01-01",
       "popularity": 67
     },
     {
-      "trackId": "0RKTDDcdUvulNlDyLaktZB",
-      "name": "Snö",
+      "track": {
+        "id": "0RKTDDcdUvulNlDyLaktZB",
+        "name": "Snö"
+      },
       "duration_ms": 259187,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "5miuVRm6nR172VxxQSDdkb",
+      "album": {
+        "id": "5miuVRm6nR172VxxQSDdkb",
+        "name": "Me and Simon",
+        "img": "https://i.scdn.co/image/ab67616d00001e0214d9e14c10534d940223b1f7"
+      },
       "release_date": "2009",
       "popularity": 32
     },
     {
-      "trackId": "5fmjQPa7rtQ8FAOozL36mV",
-      "name": "Innan mörkret faller",
+      "track": {
+        "id": "5fmjQPa7rtQ8FAOozL36mV",
+        "name": "Innan mörkret faller"
+      },
       "duration_ms": 240226,
-      "artist": [
-        "Lars Winnerbäck"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI"
-      ],
-      "albumId": "2Vknxdd3cMEEMtznXjN1rI",
+      "album": {
+        "id": "2Vknxdd3cMEEMtznXjN1rI",
+        "name": "Daugava",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd1e319b591879d4da67bb5d"
+      },
       "release_date": "2007-01-01",
       "popularity": 35
     },
     {
-      "trackId": "1knUACOt5yfNAYn7gnYQVt",
-      "name": "Work",
+      "track": {
+        "id": "1knUACOt5yfNAYn7gnYQVt",
+        "name": "Work"
+      },
       "duration_ms": 224481,
-      "artist": [
-        "Charlotte Day Wilson"
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "id": "3GQboECxDT1xqPPWC30p7v"
+        }
       ],
-      "artistId": [
-        "3GQboECxDT1xqPPWC30p7v"
-      ],
-      "albumId": "6gCycQSo1Yp503MXyvzSF9",
+      "album": {
+        "id": "6gCycQSo1Yp503MXyvzSF9",
+        "name": "CDW",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da8b0ed446659f8905a85646"
+      },
       "release_date": "2016-08-26",
       "popularity": 64
     },
     {
-      "trackId": "1ZdhOMWyFR8Iv9eylMGYg2",
-      "name": "Mount Everest",
+      "track": {
+        "id": "1ZdhOMWyFR8Iv9eylMGYg2",
+        "name": "Mount Everest"
+      },
       "duration_ms": 157497,
-      "artist": [
-        "Labrinth"
+      "artists": [
+        {
+          "name": "Labrinth",
+          "id": "2feDdbD5araYcm6JhFHHw7"
+        }
       ],
-      "artistId": [
-        "2feDdbD5araYcm6JhFHHw7"
-      ],
-      "albumId": "0FSsRH1jeZqKbGcHwq3UO0",
+      "album": {
+        "id": "0FSsRH1jeZqKbGcHwq3UO0",
+        "name": "Imagination & the Misfit Kid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4c03429788f0aff263a5fc6"
+      },
       "release_date": "2019-11-22",
       "popularity": 82
     },
     {
-      "trackId": "5wTVNpi5WDByxBgKgUE6MU",
-      "name": "Supermodel",
+      "track": {
+        "id": "5wTVNpi5WDByxBgKgUE6MU",
+        "name": "Supermodel"
+      },
       "duration_ms": 181120,
-      "artist": [
-        "SZA"
+      "artists": [
+        {
+          "name": "SZA",
+          "id": "7tYKF4w9nC0nq9CsPZTHyP"
+        }
       ],
-      "artistId": [
-        "7tYKF4w9nC0nq9CsPZTHyP"
-      ],
-      "albumId": "76290XdXVF9rPzGdNRWdCh",
+      "album": {
+        "id": "76290XdXVF9rPzGdNRWdCh",
+        "name": "Ctrl",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c79d5ec52a6d0302f3add25"
+      },
       "release_date": "2017-06-09",
       "popularity": 71
     },
     {
-      "trackId": "58oT9wQPpFfQnq5hGBppbE",
-      "name": "La Belle Epoque",
+      "track": {
+        "id": "58oT9wQPpFfQnq5hGBppbE",
+        "name": "La Belle Epoque"
+      },
       "duration_ms": 238000,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "5wgnbsWtxNSDrtXbMbvoYc",
+      "album": {
+        "id": "5wgnbsWtxNSDrtXbMbvoYc",
+        "name": "Tigerdrottningen",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227cf412d283bb7dd2415c985"
+      },
       "release_date": "2014-01-01",
       "popularity": 47
     },
     {
-      "trackId": "40riOy7x9W7GXjyGp4pjAv",
-      "name": "Hotel California - 2013 Remaster",
+      "track": {
+        "id": "40riOy7x9W7GXjyGp4pjAv",
+        "name": "Hotel California - 2013 Remaster"
+      },
       "duration_ms": 391376,
-      "artist": [
-        "Eagles"
+      "artists": [
+        {
+          "name": "Eagles",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL"
+        }
       ],
-      "artistId": [
-        "0ECwFtbIWEVNwjlrfc6xoL"
-      ],
-      "albumId": "2widuo17g5CEC66IbzveRu",
+      "album": {
+        "id": "2widuo17g5CEC66IbzveRu",
+        "name": "Hotel California (2013 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778"
+      },
       "release_date": "1976-12-08",
       "popularity": 83
     },
     {
-      "trackId": "5LTv4cAeN7iBJaJ8CWzALO",
-      "name": "Eller hur",
+      "track": {
+        "id": "5LTv4cAeN7iBJaJ8CWzALO",
+        "name": "Eller hur"
+      },
       "duration_ms": 209427,
-      "artist": [
-        "Parham"
+      "artists": [
+        {
+          "name": "Parham",
+          "id": "3ldCASdD4QRyfTt6lpPn6y"
+        }
       ],
-      "artistId": [
-        "3ldCASdD4QRyfTt6lpPn6y"
-      ],
-      "albumId": "0hP6yTbYSPhU7ottdibppU",
+      "album": {
+        "id": "0hP6yTbYSPhU7ottdibppU",
+        "name": "Hemma här",
+        "img": "https://i.scdn.co/image/ab67616d00001e024efc089e869d1976109aea10"
+      },
       "release_date": "2016-05-06",
       "popularity": 33
     },
     {
-      "trackId": "37CRPk0L5ZpfPeePEPwE0t",
-      "name": "Ashes to Ashes - 2017 Remaster",
+      "track": {
+        "id": "37CRPk0L5ZpfPeePEPwE0t",
+        "name": "Ashes to Ashes - 2017 Remaster"
+      },
       "duration_ms": 266160,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "5fxvWHvIDPIALfTfRiwyB0",
+      "album": {
+        "id": "5fxvWHvIDPIALfTfRiwyB0",
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b62b49cec67e610f6f3d1221"
+      },
       "release_date": "1980",
       "popularity": 63
     },
     {
-      "trackId": "4vLYewWIvqHfKtJDk8c8tq",
-      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "track": {
+        "id": "4vLYewWIvqHfKtJDk8c8tq",
+        "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
+      },
       "duration_ms": 562640,
-      "artist": [
-        "Miles Davis",
-        "John Coltrane",
-        "Cannonball Adderley"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "id": "5v74mT11KGJqadf9sLw4dA"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4",
-        "2hGh5VOeeqimQFxqXvfCUf",
-        "5v74mT11KGJqadf9sLw4dA"
-      ],
-      "albumId": "4sb0eMpDn3upAFfyi4q2rw",
+      "album": {
+        "id": "4sb0eMpDn3upAFfyi4q2rw",
+        "name": "Kind Of Blue (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ebc17239b6b18ba88cfb8ca"
+      },
       "release_date": "1959-08-17",
       "popularity": 60
     }

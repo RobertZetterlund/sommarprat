@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2861081_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5Zzs9O9QlPgWkfhoaR2J0H",
-      "name": "Sex Crime (1984) - Live",
+      "track": {
+        "id": "5Zzs9O9QlPgWkfhoaR2J0H",
+        "name": "Sex Crime (1984) - Live"
+      },
       "duration_ms": 227066,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "0C2W2DUuXsn8iRHYInqs71",
+      "album": {
+        "id": "0C2W2DUuXsn8iRHYInqs71",
+        "name": "Live 1983-1989",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295f8ed4cb2be01d60ad6474d"
+      },
       "release_date": "1993-11-20",
       "popularity": 26
     },
     {
-      "trackId": "5ChkMS8OtdzJeqyybCc9R5",
-      "name": "Billie Jean",
+      "track": {
+        "id": "5ChkMS8OtdzJeqyybCc9R5",
+        "name": "Billie Jean"
+      },
       "duration_ms": 293826,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 84
     },
     {
-      "trackId": "1oaaSrDJimABpOdCEbw2DJ",
-      "name": "No Ordinary Love",
+      "track": {
+        "id": "1oaaSrDJimABpOdCEbw2DJ",
+        "name": "No Ordinary Love"
+      },
       "duration_ms": 440466,
-      "artist": [
-        "Sade"
+      "artists": [
+        {
+          "name": "Sade",
+          "id": "47zz7sob9NUcODy0BTDvKx"
+        }
       ],
-      "artistId": [
-        "47zz7sob9NUcODy0BTDvKx"
-      ],
-      "albumId": "2PfGKHtqEX58bHtkQxJnWG",
+      "album": {
+        "id": "2PfGKHtqEX58bHtkQxJnWG",
+        "name": "Love Deluxe",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee65bbd54f993b5f01d5c511"
+      },
       "release_date": "1992-10-26",
       "popularity": 65
     },
     {
-      "trackId": "3sLhMSePzxSrmxluIqeoAZ",
-      "name": "I Put a Spell On You",
+      "track": {
+        "id": "3sLhMSePzxSrmxluIqeoAZ",
+        "name": "I Put a Spell On You"
+      },
       "duration_ms": 144866,
-      "artist": [
-        "Screamin' Jay Hawkins"
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "id": "3VBpsrUi2vV7Uj87ONHu7Z"
+        }
       ],
-      "artistId": [
-        "3VBpsrUi2vV7Uj87ONHu7Z"
-      ],
-      "albumId": "2lKtE0pl4RtMD2bUwKzdcz",
+      "album": {
+        "id": "2lKtE0pl4RtMD2bUwKzdcz",
+        "name": "At Home with Screamin' Jay Hawkins",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8a1366f0f2073775e931aa3"
+      },
       "release_date": "1958",
       "popularity": 50
     },
     {
-      "trackId": "5I17rGCM1Zn4J9puVHTh8X",
-      "name": "Håll mitt hjärta (Same Old Story)",
+      "track": {
+        "id": "5I17rGCM1Zn4J9puVHTh8X",
+        "name": "Håll mitt hjärta (Same Old Story)"
+      },
       "duration_ms": 261600,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6ikkPeJhCsStZUcEECJX6e",
+      "album": {
+        "id": "6ikkPeJhCsStZUcEECJX6e",
+        "name": "Ingen Annan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247eba23a799e35950fd983de"
+      },
       "release_date": "2002",
       "popularity": 40
     },
     {
-      "trackId": "0vRRMEDKF4Ec5aDIDojinr",
-      "name": "Five Foot One",
+      "track": {
+        "id": "0vRRMEDKF4Ec5aDIDojinr",
+        "name": "Five Foot One"
+      },
       "duration_ms": 270893,
-      "artist": [
-        "Iggy Pop"
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "id": "33EUXrFKGjpUSGacqEHhU4"
+        }
       ],
-      "artistId": [
-        "33EUXrFKGjpUSGacqEHhU4"
-      ],
-      "albumId": "5MMqSMFphOrGIXmlYN9Whc",
+      "album": {
+        "id": "5MMqSMFphOrGIXmlYN9Whc",
+        "name": "New Values",
+        "img": "https://i.scdn.co/image/ab67616d00001e0266943df96d1a0fd906feccef"
+      },
       "release_date": "1979-09-01",
       "popularity": 26
     },
     {
-      "trackId": "0tURbnatc9qCxlYpXuPK8I",
-      "name": "A Place In The Sun",
+      "track": {
+        "id": "0tURbnatc9qCxlYpXuPK8I",
+        "name": "A Place In The Sun"
+      },
       "duration_ms": 172960,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "1MB4UsW8MUMLMRxuNsXpDm",
+      "album": {
+        "id": "1MB4UsW8MUMLMRxuNsXpDm",
+        "name": "Down To Earth",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdeb1dd616d6f2f02eea9a3d"
+      },
       "release_date": "1966-11-01",
       "popularity": 53
     },
     {
-      "trackId": "2Syr5GtKjed76Crov4StYX",
-      "name": "Bo Kurdistan",
+      "track": {
+        "id": "2Syr5GtKjed76Crov4StYX",
+        "name": "Bo Kurdistan"
+      },
       "duration_ms": 249887,
-      "artist": [
-        "Zakaria Abdulla"
+      "artists": [
+        {
+          "name": "Zakaria Abdulla",
+          "id": "0djFs3ZfBAfMj6i8j3pUdF"
+        }
       ],
-      "artistId": [
-        "0djFs3ZfBAfMj6i8j3pUdF"
-      ],
-      "albumId": "22CN8czCD5PckX64iq5m9b",
+      "album": {
+        "id": "22CN8czCD5PckX64iq5m9b",
+        "name": "Lapperey Spî (White Page)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5d72547d65c165715399218"
+      },
       "release_date": "2010-04-07",
       "popularity": 23
     },
     {
-      "trackId": "6O2DsXw8EdbDKmAfxHBCKs",
-      "name": "Der Mussolini",
+      "track": {
+        "id": "6O2DsXw8EdbDKmAfxHBCKs",
+        "name": "Der Mussolini"
+      },
       "duration_ms": 234600,
-      "artist": [
-        "DAF"
+      "artists": [
+        {
+          "name": "DAF",
+          "id": "4KtyUYo9zaM9YggIVc7uxx"
+        }
       ],
-      "artistId": [
-        "4KtyUYo9zaM9YggIVc7uxx"
-      ],
-      "albumId": "5B7r3lpNrTH8xaAS69Eg99",
+      "album": {
+        "id": "5B7r3lpNrTH8xaAS69Eg99",
+        "name": "Alles ist Gut",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a478250b784bf4b98f30fbe"
+      },
       "release_date": "1981-03-03",
       "popularity": 37
     },
     {
-      "trackId": "1TLTUhEUYOyORxufZlCOWj",
-      "name": "War",
+      "track": {
+        "id": "1TLTUhEUYOyORxufZlCOWj",
+        "name": "War"
+      },
       "duration_ms": 216533,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "6Gdf5vvFmoEwcsEV61tXiT",
+      "album": {
+        "id": "6Gdf5vvFmoEwcsEV61tXiT",
+        "name": "Rastaman Vibration",
+        "img": "https://i.scdn.co/image/ab67616d00001e02280b04817e7547fea8cfb7d0"
+      },
       "release_date": "1976",
       "popularity": 60
     },
     {
-      "trackId": "2W6siVrVv0GC5LNGT8rtTp",
-      "name": "Bircên Dîyarbekir",
+      "track": {
+        "id": "2W6siVrVv0GC5LNGT8rtTp",
+        "name": "Bircên Dîyarbekir"
+      },
       "duration_ms": 404157,
-      "artist": [
-        "Ciwan Haco"
+      "artists": [
+        {
+          "name": "Ciwan Haco",
+          "id": "4o7TBxtRmKEAbKYFrjv3NG"
+        }
       ],
-      "artistId": [
-        "4o7TBxtRmKEAbKYFrjv3NG"
-      ],
-      "albumId": "7lggouPfv6zspT3nLfhDGN",
+      "album": {
+        "id": "7lggouPfv6zspT3nLfhDGN",
+        "name": "Dîyarbekir (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe9c174ea3318b07d5580ba4"
+      },
       "release_date": "1981-09-11",
       "popularity": 22
     }

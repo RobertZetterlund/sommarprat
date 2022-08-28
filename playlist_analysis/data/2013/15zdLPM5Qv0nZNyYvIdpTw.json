@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2845254_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1x9iOd3K1JC6tdjGZJpFgZ",
-      "name": "You Can Leave Your Hat On",
+      "track": {
+        "id": "1x9iOd3K1JC6tdjGZJpFgZ",
+        "name": "You Can Leave Your Hat On"
+      },
       "duration_ms": 255293,
-      "artist": [
-        "Joe Cocker"
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "id": "3pFCERyEiP5xeN2EsPXhjI"
+        }
       ],
-      "artistId": [
-        "3pFCERyEiP5xeN2EsPXhjI"
-      ],
-      "albumId": "0YnLeYOGgy0vtxQRbgW7s1",
+      "album": {
+        "id": "0YnLeYOGgy0vtxQRbgW7s1",
+        "name": "Cocker",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f717e644cddcd7bc55c9885"
+      },
       "release_date": "1986-06-06",
       "popularity": 58
     },
     {
-      "trackId": "5hDowhxXBk5POQppBYONeO",
-      "name": "Vart jag än går",
+      "track": {
+        "id": "5hDowhxXBk5POQppBYONeO",
+        "name": "Vart jag än går"
+      },
       "duration_ms": 207333,
-      "artist": [
-        "Stiftelsen"
+      "artists": [
+        {
+          "name": "Stiftelsen",
+          "id": "00PLVqZ4oaOmbI4lacLUBO"
+        }
       ],
-      "artistId": [
-        "00PLVqZ4oaOmbI4lacLUBO"
-      ],
-      "albumId": "02l3IMmYpgTPixONhItSBp",
+      "album": {
+        "id": "02l3IMmYpgTPixONhItSBp",
+        "name": "Ljungaverk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcb40ffbc7c5d2f20b62b0aa"
+      },
       "release_date": "2012-01-01",
       "popularity": 54
     },
     {
-      "trackId": "5ExtrubqKISZvDfXwtRtwk",
-      "name": "Brusa högre lilla å",
+      "track": {
+        "id": "5ExtrubqKISZvDfXwtRtwk",
+        "name": "Brusa högre lilla å"
+      },
       "duration_ms": 307560,
-      "artist": [
-        "Björn J:son Lindh"
+      "artists": [
+        {
+          "name": "Björn J:son Lindh",
+          "id": "2h8kv7MQIuItRyW41oTiVb"
+        }
       ],
-      "artistId": [
-        "2h8kv7MQIuItRyW41oTiVb"
-      ],
-      "albumId": "2mIxlE47BHybSHpnHFUOYe",
+      "album": {
+        "id": "2mIxlE47BHybSHpnHFUOYe",
+        "name": "Våta vingar (2007 mastering)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce40396d56a03b8e9538ae27"
+      },
       "release_date": "1980-01-01",
       "popularity": 34
     },
     {
-      "trackId": "2eJYg5IY30FCczfLWAvPh4",
-      "name": "Heading for a Fall",
+      "track": {
+        "id": "2eJYg5IY30FCczfLWAvPh4",
+        "name": "Heading for a Fall"
+      },
       "duration_ms": 220973,
-      "artist": [
-        "Vaya Con Dios"
+      "artists": [
+        {
+          "name": "Vaya Con Dios",
+          "id": "0ODWsmNXtn928qhhEn87C8"
+        }
       ],
-      "artistId": [
-        "0ODWsmNXtn928qhhEn87C8"
-      ],
-      "albumId": "1gnEMcnqktjLmAF5Xl1KoX",
+      "album": {
+        "id": "1gnEMcnqktjLmAF5Xl1KoX",
+        "name": "Time Flies",
+        "img": "https://i.scdn.co/image/ab67616d00001e02401bed266627cf48a03493bc"
+      },
       "release_date": "1992-02-21",
       "popularity": 47
     },
     {
-      "trackId": "4tRt91OQSbE9eFA3RwgqSd",
-      "name": "The Only Boy Awake",
+      "track": {
+        "id": "4tRt91OQSbE9eFA3RwgqSd",
+        "name": "The Only Boy Awake"
+      },
       "duration_ms": 163294,
-      "artist": [
-        "Meadows"
+      "artists": [
+        {
+          "name": "Meadows",
+          "id": "5jN2q5MCOQJaBAYIF7Os4J"
+        }
       ],
-      "artistId": [
-        "5jN2q5MCOQJaBAYIF7Os4J"
-      ],
-      "albumId": "0SCTqWnQqJFtgOewaNW062",
+      "album": {
+        "id": "0SCTqWnQqJFtgOewaNW062",
+        "name": "The Only Boy Awake",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a58375005b7631871fe1ae1"
+      },
       "release_date": "2016-10-21",
       "popularity": 54
     },
     {
-      "trackId": "7775LOkL1K6Yxx7VPhjVTt",
-      "name": "Har du kvar din röda cykel",
+      "track": {
+        "id": "7775LOkL1K6Yxx7VPhjVTt",
+        "name": "Har du kvar din röda cykel"
+      },
       "duration_ms": 301160,
-      "artist": [
-        "Claes Janson",
-        "Thomas Jutterström",
-        "Thomas Arnesen"
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "id": "0E2Jf1UHMqdQDdH12mc712"
+        },
+        {
+          "name": "Thomas Jutterström",
+          "id": "1xm6pwjypr5LSEaF8mVCci"
+        },
+        {
+          "name": "Thomas Arnesen",
+          "id": "22Kq7XZRUsDP2ZHGyx6edk"
+        }
       ],
-      "artistId": [
-        "0E2Jf1UHMqdQDdH12mc712",
-        "1xm6pwjypr5LSEaF8mVCci",
-        "22Kq7XZRUsDP2ZHGyx6edk"
-      ],
-      "albumId": "20T05r5VHVEQEDUvqmvzeS",
+      "album": {
+        "id": "20T05r5VHVEQEDUvqmvzeS",
+        "name": "Frestelser",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd3d034a7ed6e1b4514314f4"
+      },
       "release_date": "1989-01-01",
       "popularity": 17
     },
     {
-      "trackId": "3zBhihYUHBmGd2bcQIobrF",
-      "name": "(Sittin' On) the Dock of the Bay",
+      "track": {
+        "id": "3zBhihYUHBmGd2bcQIobrF",
+        "name": "(Sittin' On) the Dock of the Bay"
+      },
       "duration_ms": 163755,
-      "artist": [
-        "Otis Redding"
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "id": "60df5JBRRPcnSpsIMxxwQm"
+        }
       ],
-      "artistId": [
-        "60df5JBRRPcnSpsIMxxwQm"
-      ],
-      "albumId": "03HMOcANauhLD0WNrMkmLU",
+      "album": {
+        "id": "03HMOcANauhLD0WNrMkmLU",
+        "name": "The Dock of the Bay (Mono)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213a5da9563c438059afa7ad4"
+      },
       "release_date": "1968",
       "popularity": 75
     },
     {
-      "trackId": "7sZSh0Pnt1tQzhlMUoiRKe",
-      "name": "Utbränd",
+      "track": {
+        "id": "7sZSh0Pnt1tQzhlMUoiRKe",
+        "name": "Utbränd"
+      },
       "duration_ms": 144946,
-      "artist": [
-        "Peter Carlsson",
-        "Blå Grodorna"
+      "artists": [
+        {
+          "name": "Peter Carlsson",
+          "id": "69xzYURe3bufjctoJyUVBt"
+        },
+        {
+          "name": "Blå Grodorna",
+          "id": "2tJsneFMRTpPrNAsRsDG8F"
+        }
       ],
-      "artistId": [
-        "69xzYURe3bufjctoJyUVBt",
-        "2tJsneFMRTpPrNAsRsDG8F"
-      ],
-      "albumId": "5zP0U0WL4bKw2nLjbQ0fdy",
+      "album": {
+        "id": "5zP0U0WL4bKw2nLjbQ0fdy",
+        "name": "Några Grammofoninspelningar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02683a94fa70e15729f206f941"
+      },
       "release_date": "2000-01-01",
       "popularity": 13
     },
     {
-      "trackId": "7M13FwBAKWNa2jqcZeUhL6",
-      "name": "Love Generation - Radio Edit",
+      "track": {
+        "id": "7M13FwBAKWNa2jqcZeUhL6",
+        "name": "Love Generation - Radio Edit"
+      },
       "duration_ms": 204798,
-      "artist": [
-        "Bob Sinclar",
-        "Gary Pine"
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "id": "5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "id": "2cSQyZg5t274Y3Nv0uuwjd"
+        }
       ],
-      "artistId": [
-        "5YFS41yoX0YuFY39fq21oN",
-        "2cSQyZg5t274Y3Nv0uuwjd"
-      ],
-      "albumId": "18K5xK91s36fWgIcfzkcEt",
+      "album": {
+        "id": "18K5xK91s36fWgIcfzkcEt",
+        "name": "Love Generation (Radio Edit)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282feaca18c25474ce8de175f"
+      },
       "release_date": "2005-06-20",
       "popularity": 68
     },
     {
-      "trackId": "43AmZr6vbPd1CqKdQSvO7N",
-      "name": "Målet är ingenting, vägen är allt - Edit",
+      "track": {
+        "id": "43AmZr6vbPd1CqKdQSvO7N",
+        "name": "Målet är ingenting, vägen är allt - Edit"
+      },
       "duration_ms": 203040,
-      "artist": [
-        "Robert Broberg"
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "id": "05JNHlwtdHqPJ6wcW7Mil5"
+        }
       ],
-      "artistId": [
-        "05JNHlwtdHqPJ6wcW7Mil5"
-      ],
-      "albumId": "1eK1vnRIbR5mDbzRDm1iTl",
+      "album": {
+        "id": "1eK1vnRIbR5mDbzRDm1iTl",
+        "name": "Robert Brobergs Älskade Original",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e731490ed8345ae3e98de5f1"
+      },
       "release_date": "2000-06-13",
       "popularity": 13
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "7KOegFQMd13ETQry4A6Tu1",
-      "name": "Strövtåg i hembygden",
+      "track": {
+        "id": "7KOegFQMd13ETQry4A6Tu1",
+        "name": "Strövtåg i hembygden"
+      },
       "duration_ms": 249573,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 56
     }

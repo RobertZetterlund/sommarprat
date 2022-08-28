@@ -7,216 +7,318 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3230690_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "334ZXS3LTVR4ReDnZn9mzO",
-      "name": "Teknikens under",
+      "track": {
+        "id": "334ZXS3LTVR4ReDnZn9mzO",
+        "name": "Teknikens under"
+      },
       "duration_ms": 321133,
-      "artist": [
-        "Wilmer X"
+      "artists": [
+        {
+          "name": "Wilmer X",
+          "id": "6yT4ID0YITwJKB9KOiZ41t"
+        }
       ],
-      "artistId": [
-        "6yT4ID0YITwJKB9KOiZ41t"
-      ],
-      "albumId": "1BagxmkA7ofX5SNZAsL8Be",
+      "album": {
+        "id": "1BagxmkA7ofX5SNZAsL8Be",
+        "name": "Teknikens under",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d8d61c428f73f062fe1505d"
+      },
       "release_date": "1988-01-01",
       "popularity": 37
     },
     {
-      "trackId": "255SvIiUX5y0g36XwbNRg8",
-      "name": "Phum",
+      "track": {
+        "id": "255SvIiUX5y0g36XwbNRg8",
+        "name": "Phum"
+      },
       "duration_ms": 219200,
-      "artist": [
-        "Nils Petter Molvær"
+      "artists": [
+        {
+          "name": "Nils Petter Molvær",
+          "id": "2r1f1zkIjuQ7ETeJHsXpsc"
+        }
       ],
-      "artistId": [
-        "2r1f1zkIjuQ7ETeJHsXpsc"
-      ],
-      "albumId": "76Z70kaNILhjzrf0wC0RB6",
+      "album": {
+        "id": "76Z70kaNILhjzrf0wC0RB6",
+        "name": "Khmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e028338c53d383d897a5cd28d7d"
+      },
       "release_date": "1998",
       "popularity": 13
     },
     {
-      "trackId": "3e9BareWvE1p6YiFqlFEx7",
-      "name": "Misa Criolla: 1. Kyrie",
+      "track": {
+        "id": "3e9BareWvE1p6YiFqlFEx7",
+        "name": "Misa Criolla: 1. Kyrie"
+      },
       "duration_ms": 231426,
-      "artist": [
-        "Ariel Ramírez",
-        "José Carreras",
-        "Domingo Cura"
+      "artists": [
+        {
+          "name": "Ariel Ramírez",
+          "id": "2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "José Carreras",
+          "id": "1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Domingo Cura",
+          "id": "0PyBsZlcv8KxT5BsBFnmwG"
+        }
       ],
-      "artistId": [
-        "2dTieljE0C4ydCdUPIPLRW",
-        "1ahGKezyX9Rl7GuEF2tc15",
-        "0PyBsZlcv8KxT5BsBFnmwG"
-      ],
-      "albumId": "5WRU8YI00n28ZMvNAwZ2cB",
+      "album": {
+        "id": "5WRU8YI00n28ZMvNAwZ2cB",
+        "name": "Ramirez: Missa Criolla; Navidad Nuestra; Navidad en Verano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3db92b487f131ddc5168f60"
+      },
       "release_date": "1988-01-01",
       "popularity": 23
     },
     {
-      "trackId": "5OjWZJWyPwC2PREwrVflfc",
-      "name": "Requiem In D Minor, K. 626: Sanctus",
+      "track": {
+        "id": "5OjWZJWyPwC2PREwrVflfc",
+        "name": "Requiem In D Minor, K. 626: Sanctus"
+      },
       "duration_ms": 98000,
-      "artist": [
-        "Slovak Philharmonic",
-        "Jozef Kundlák",
-        "Jaroslava Horska"
+      "artists": [
+        {
+          "name": "Slovak Philharmonic",
+          "id": "2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Jozef Kundlák",
+          "id": "7rqISdBrqKEzmMgsIth0v5"
+        },
+        {
+          "name": "Jaroslava Horska",
+          "id": "6UhWIdPqpOwvdLS2Y9BL92"
+        }
       ],
-      "artistId": [
-        "2rfkmr5WzRN9D9gAfb2ycd",
-        "7rqISdBrqKEzmMgsIth0v5",
-        "6UhWIdPqpOwvdLS2Y9BL92"
-      ],
-      "albumId": "4tar8qSUz4gxnXV9H6xwjM",
+      "album": {
+        "id": "4tar8qSUz4gxnXV9H6xwjM",
+        "name": "Mozart: Requiem In D Minor",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c72ad5458bcc5d5650e3093"
+      },
       "release_date": "1989-04-15",
       "popularity": 43
     },
     {
-      "trackId": "65qoi0wj4qHCYKYaNixYRW",
-      "name": "Bandura",
+      "track": {
+        "id": "65qoi0wj4qHCYKYaNixYRW",
+        "name": "Bandura"
+      },
       "duration_ms": 144706,
-      "artist": [
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "6Lo0aL2Yq8NnRPVulAI0Hw",
+      "album": {
+        "id": "6Lo0aL2Yq8NnRPVulAI0Hw",
+        "name": "Jazz på ryska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02059e1cfa2e6a0b934e63ce79"
+      },
       "release_date": "1967",
       "popularity": 24
     },
     {
-      "trackId": "1UsTlzvA9ClJ0gCk2Iaxrw",
-      "name": "Meningen med livet",
+      "track": {
+        "id": "1UsTlzvA9ClJ0gCk2Iaxrw",
+        "name": "Meningen med livet"
+      },
       "duration_ms": 192075,
-      "artist": [
-        "TOBIAS LARSSON BAND"
+      "artists": [
+        {
+          "name": "TOBIAS LARSSON BAND",
+          "id": "2Mid9VQ6hKubf64ZcCMRrs"
+        }
       ],
-      "artistId": [
-        "2Mid9VQ6hKubf64ZcCMRrs"
-      ],
-      "albumId": "72NSTwELXzLTRh5HYp0XwO",
+      "album": {
+        "id": "72NSTwELXzLTRh5HYp0XwO",
+        "name": "Meningen med livet",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c0dc3b1a9b3015fcdc03711"
+      },
       "release_date": "2019-12-13",
       "popularity": 19
     },
     {
-      "trackId": "4VH1vhJovPkhtIPKc9UQH8",
-      "name": "Peppelinos bar",
+      "track": {
+        "id": "4VH1vhJovPkhtIPKc9UQH8",
+        "name": "Peppelinos bar"
+      },
       "duration_ms": 202293,
-      "artist": [
-        "Lasse Stefanz"
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "id": "0ntVZReCfBFQctUiiaTaeu"
+        }
       ],
-      "artistId": [
-        "0ntVZReCfBFQctUiiaTaeu"
-      ],
-      "albumId": "3rKkuqKaKvWqJhSsxvUh68",
+      "album": {
+        "id": "3rKkuqKaKvWqJhSsxvUh68",
+        "name": "Peppelinos bar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026253cc2f8e5a7641ee3da677"
+      },
       "release_date": "1988-01-01",
       "popularity": 48
     },
     {
-      "trackId": "1zOZAPt0NuqgD2gcVQ2LkU",
-      "name": "Jag Har Drömt...",
+      "track": {
+        "id": "1zOZAPt0NuqgD2gcVQ2LkU",
+        "name": "Jag Har Drömt..."
+      },
       "duration_ms": 203621,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 19
     },
     {
-      "trackId": "0YwNdeDFbGP6AGwsQrtzdY",
-      "name": "I Am A Man Of Constant Sorrow - Radio Edit",
+      "track": {
+        "id": "0YwNdeDFbGP6AGwsQrtzdY",
+        "name": "I Am A Man Of Constant Sorrow - Radio Edit"
+      },
       "duration_ms": 190000,
-      "artist": [
-        "The Soggy Bottom Boys",
-        "Dan Tyminski"
+      "artists": [
+        {
+          "name": "The Soggy Bottom Boys",
+          "id": "3T0CG1MKkAu9rxA2ezgyLC"
+        },
+        {
+          "name": "Dan Tyminski",
+          "id": "1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
       ],
-      "artistId": [
-        "3T0CG1MKkAu9rxA2ezgyLC",
-        "1eNxt1JI2Bgjl8bPDQ5sG8"
-      ],
-      "albumId": "7gzX88qS3Vx2r87g5pbdfJ",
+      "album": {
+        "id": "7gzX88qS3Vx2r87g5pbdfJ",
+        "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7e90e0f6a18e36a594d39c2"
+      },
       "release_date": "2000-12-05",
       "popularity": 63
     },
     {
-      "trackId": "1gJUnlMq7e2cc39lGUfnPB",
-      "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\"",
+      "track": {
+        "id": "1gJUnlMq7e2cc39lGUfnPB",
+        "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\""
+      },
       "duration_ms": 233400,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Frederica von Stade",
-        "Kiri Te Kanawa"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Frederica von Stade",
+          "id": "5LUjwmTidlIffhKkvXZo8k"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "id": "3fcsflK8xu26XH4OYTcm5T"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5LUjwmTidlIffhKkvXZo8k",
-        "3fcsflK8xu26XH4OYTcm5T"
-      ],
-      "albumId": "5SNTSThGzDGsWqU1wV4C1d",
+      "album": {
+        "id": "5SNTSThGzDGsWqU1wV4C1d",
+        "name": "Mozart: Le Nozze di Figaro",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c26ab8d5b805530f72783d46"
+      },
       "release_date": "1982-01-01",
       "popularity": 32
     },
     {
-      "trackId": "1yOvRXkTgOI6RAqiltR1Lq",
-      "name": "Dance of the Blessed Spirits",
+      "track": {
+        "id": "1yOvRXkTgOI6RAqiltR1Lq",
+        "name": "Dance of the Blessed Spirits"
+      },
       "duration_ms": 435266,
-      "artist": [
-        "Christoph Willibald Gluck",
-        "James Galway",
-        "London Mozart Players"
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "id": "7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "James Galway",
+          "id": "774mHr909NkDVeyyXQBQfZ"
+        },
+        {
+          "name": "London Mozart Players",
+          "id": "1sylrdKARMDYTJbs8IPWGy"
+        }
       ],
-      "artistId": [
-        "7vfydQ0nVBVgJ0ajs8EtRM",
-        "774mHr909NkDVeyyXQBQfZ",
-        "1sylrdKARMDYTJbs8IPWGy"
-      ],
-      "albumId": "6ovvFNZkOQsYmsDMZXwTwS",
+      "album": {
+        "id": "6ovvFNZkOQsYmsDMZXwTwS",
+        "name": "James Galway - Music for my Little Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d00fb9e75782e10525aeef"
+      },
       "release_date": "2002",
       "popularity": 35
     },
     {
-      "trackId": "353yxKKvM5DA8Mr4LpnfNy",
-      "name": "I Gave My Love a Cherry (The Riddle Song)",
+      "track": {
+        "id": "353yxKKvM5DA8Mr4LpnfNy",
+        "name": "I Gave My Love a Cherry (The Riddle Song)"
+      },
       "duration_ms": 170906,
-      "artist": [
-        "Carly Simon"
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "id": "4FtSnMlCVxCswABUmdhwpm"
+        }
       ],
-      "artistId": [
-        "4FtSnMlCVxCswABUmdhwpm"
-      ],
-      "albumId": "21dZCNFZCw3hqwvcA8Gz3j",
+      "album": {
+        "id": "21dZCNFZCw3hqwvcA8Gz3j",
+        "name": "Into White",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe5df0065989153b98706166"
+      },
       "release_date": "2007",
       "popularity": 15
     },
     {
-      "trackId": "3dXl2lCQWXuuL8UCFeN1Yo",
-      "name": "If I Laugh - Remastered 2021",
+      "track": {
+        "id": "3dXl2lCQWXuuL8UCFeN1Yo",
+        "name": "If I Laugh - Remastered 2021"
+      },
       "duration_ms": 200600,
-      "artist": [
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "7ez8WRX4sGhKHZryJPJCNg",
+      "album": {
+        "id": "7ez8WRX4sGhKHZryJPJCNg",
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ad5a5cecefb47d820d22362"
+      },
       "release_date": "1971-10-01",
       "popularity": 41
     },
     {
-      "trackId": "0lIoY4ZQsdn5QzhraM9o9u",
-      "name": "Because the Night",
+      "track": {
+        "id": "0lIoY4ZQsdn5QzhraM9o9u",
+        "name": "Because the Night"
+      },
       "duration_ms": 204800,
-      "artist": [
-        "Patti Smith"
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "id": "0vYkHhJ48Bs3jWcvZXvOrP"
+        }
       ],
-      "artistId": [
-        "0vYkHhJ48Bs3jWcvZXvOrP"
-      ],
-      "albumId": "1p6cWoueuunhpgy6131zAd",
+      "album": {
+        "id": "1p6cWoueuunhpgy6131zAd",
+        "name": "Easter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a28eabe111f67a386e75a31a"
+      },
       "release_date": "1978",
       "popularity": 69
     }

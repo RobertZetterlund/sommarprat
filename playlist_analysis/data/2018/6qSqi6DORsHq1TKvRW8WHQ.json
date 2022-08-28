@@ -7,234 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/79b6f86c-5504-4338-8b0d-cc4bd8bc2819.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4LyBVNtG7sLKOV9OGTHZh7",
-      "name": "Roslagsvår",
+      "track": {
+        "id": "4LyBVNtG7sLKOV9OGTHZh7",
+        "name": "Roslagsvår"
+      },
       "duration_ms": 180040,
-      "artist": [
-        "Alice Babs"
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "id": "3omPckNeXtMpCdOXVfcOST"
+        }
       ],
-      "artistId": [
-        "3omPckNeXtMpCdOXVfcOST"
-      ],
-      "albumId": "2BCVO2jwndeqVSZZMRKjql",
+      "album": {
+        "id": "2BCVO2jwndeqVSZZMRKjql",
+        "name": "Alice Babs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02866633c3ed26aea9ce2ec4b9"
+      },
       "release_date": "1957",
       "popularity": 10
     },
     {
-      "trackId": "7rIpG0Ej6j4oQyspgnMyYl",
-      "name": "Millionär Malte Lindeman",
+      "track": {
+        "id": "7rIpG0Ej6j4oQyspgnMyYl",
+        "name": "Millionär Malte Lindeman"
+      },
       "duration_ms": 269733,
-      "artist": [
-        "Hasse Alfredson",
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Hasse Alfredson",
+          "id": "7bQVHmJKaxiXYkZ2miMrwb"
+        },
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "7bQVHmJKaxiXYkZ2miMrwb",
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "4i5wHfuqNOLQHVgyn3o67Q",
+      "album": {
+        "id": "4i5wHfuqNOLQHVgyn3o67Q",
+        "name": "Lindemans låda cd 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02184c50427104049b3b9fc033"
+      },
       "release_date": "2008-01-01",
       "popularity": 11
     },
     {
-      "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
-      "name": "The Winner Takes It All",
+      "track": {
+        "id": "3oEkrIfXfSh9zGnE7eBzSV",
+        "name": "The Winner Takes It All"
+      },
       "duration_ms": 294720,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 73
     },
     {
-      "trackId": "5Oowc85tcdDE4rWWexm6fo",
-      "name": "Mon Amour",
+      "track": {
+        "id": "5Oowc85tcdDE4rWWexm6fo",
+        "name": "Mon Amour"
+      },
       "duration_ms": 229506,
-      "artist": [
-        "Ben L'Oncle Soul"
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "id": "2dJTa3mUidZAO9sKcY72tK"
+        }
       ],
-      "artistId": [
-        "2dJTa3mUidZAO9sKcY72tK"
-      ],
-      "albumId": "6XbYsGvaSrNPOrY9E5jRd7",
+      "album": {
+        "id": "6XbYsGvaSrNPOrY9E5jRd7",
+        "name": "Ben L'Oncle Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269ced4879207dbda78473eef"
+      },
       "release_date": "2010-01-01",
       "popularity": 25
     },
     {
-      "trackId": "2cwxukwW922rPXcKYWvLlu",
-      "name": "Röda sten",
+      "track": {
+        "id": "2cwxukwW922rPXcKYWvLlu",
+        "name": "Röda sten"
+      },
       "duration_ms": 243760,
-      "artist": [
-        "Albin Lee Meldau"
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "id": "1AdKbbV5v6ifuJertEjNeK"
+        }
       ],
-      "artistId": [
-        "1AdKbbV5v6ifuJertEjNeK"
-      ],
-      "albumId": "59yVJJgWzN71NZtKnwqeci",
+      "album": {
+        "id": "59yVJJgWzN71NZtKnwqeci",
+        "name": "På svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d6429dcfc10771094b9e0057"
+      },
       "release_date": "2020-06-12",
       "popularity": 48
     },
     {
-      "trackId": "1LCqE6x3pbGWxnLDAy4nYE",
-      "name": "I Nybyggarnas Spår",
+      "track": {
+        "id": "1LCqE6x3pbGWxnLDAy4nYE",
+        "name": "I Nybyggarnas Spår"
+      },
       "duration_ms": 241400,
-      "artist": [
-        "Mats Westling"
+      "artists": [
+        {
+          "name": "Mats Westling",
+          "id": "5rjmePfBPuGlACDGjprimu"
+        }
       ],
-      "artistId": [
-        "5rjmePfBPuGlACDGjprimu"
-      ],
-      "albumId": "1lYnXI3kd6gc1050oohjD7",
+      "album": {
+        "id": "1lYnXI3kd6gc1050oohjD7",
+        "name": "Café Jacob",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248c467996af4daf711e0843c"
+      },
       "release_date": "2008-10-29",
       "popularity": 10
     },
     {
-      "trackId": "4ciRwt5dGHKKm8Et8r1xJ0",
-      "name": "Hier encore",
+      "track": {
+        "id": "4ciRwt5dGHKKm8Et8r1xJ0",
+        "name": "Hier encore"
+      },
       "duration_ms": 143466,
-      "artist": [
-        "Charles Aznavour"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT"
-      ],
-      "albumId": "0wcD2yLF9h3i41ryKQpgmK",
+      "album": {
+        "id": "0wcD2yLF9h3i41ryKQpgmK",
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff9a551232de2ac70d2ab5ca"
+      },
       "release_date": "1964",
       "popularity": 60
     },
     {
-      "trackId": "7i3OR8YPh8KXMezP4hmIoo",
-      "name": "Jag har vandrat mina stigar",
+      "track": {
+        "id": "7i3OR8YPh8KXMezP4hmIoo",
+        "name": "Jag har vandrat mina stigar"
+      },
       "duration_ms": 179200,
-      "artist": [
-        "Small Town Singers"
+      "artists": [
+        {
+          "name": "Small Town Singers",
+          "id": "50hq76iOfQrFsSUx8z3Czo"
+        }
       ],
-      "artistId": [
-        "50hq76iOfQrFsSUx8z3Czo"
-      ],
-      "albumId": "1GZwGHyHSjFTxidlYitdVk",
+      "album": {
+        "id": "1GZwGHyHSjFTxidlYitdVk",
+        "name": "Small Town Singers Sjunger Svenska Visor",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273eb033eff8fd09e5b71f660"
+      },
       "release_date": "2002",
       "popularity": 22
     },
     {
-      "trackId": "4aLcGMxwFtcZRpl7NDtNW2",
-      "name": "Time To Say Goodbye",
+      "track": {
+        "id": "4aLcGMxwFtcZRpl7NDtNW2",
+        "name": "Time To Say Goodbye"
+      },
       "duration_ms": 245893,
-      "artist": [
-        "Francesco Sartori",
-        "Lucio Quarantotto",
-        "Sarah Brightman"
+      "artists": [
+        {
+          "name": "Francesco Sartori",
+          "id": "0VtVDsLKIsyiBa1DeAdKbU"
+        },
+        {
+          "name": "Lucio Quarantotto",
+          "id": "1lMNYBJkRVsauCctH6Scvn"
+        },
+        {
+          "name": "Sarah Brightman",
+          "id": "7Ead768rc4ShGxnqtqccU5"
+        }
       ],
-      "artistId": [
-        "0VtVDsLKIsyiBa1DeAdKbU",
-        "1lMNYBJkRVsauCctH6Scvn",
-        "7Ead768rc4ShGxnqtqccU5"
-      ],
-      "albumId": "6O4lYKMQFLDcaUrBocYSRz",
+      "album": {
+        "id": "6O4lYKMQFLDcaUrBocYSRz",
+        "name": "The Best of Andrea Bocelli - 'Vivere'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1fef75fd377a1dd08dc3e2a"
+      },
       "release_date": "2007-01-01",
       "popularity": 59
     },
     {
-      "trackId": "0UKSIHg4yrvcjlR5K66Dsj",
-      "name": "Subete No Hito No Kokoro Ni Hanna O",
+      "track": {
+        "id": "0UKSIHg4yrvcjlR5K66Dsj",
+        "name": "Subete No Hito No Kokoro Ni Hanna O"
+      },
       "duration_ms": 296573,
-      "artist": [
-        "Shokichi Kina"
+      "artists": [
+        {
+          "name": "Shokichi Kina",
+          "id": "5gkrprwugXcmHhT36ZmU46"
+        }
       ],
-      "artistId": [
-        "5gkrprwugXcmHhT36ZmU46"
-      ],
-      "albumId": "5fZ8QL8Zh7s5PGSZ7JeAH2",
+      "album": {
+        "id": "5fZ8QL8Zh7s5PGSZ7JeAH2",
+        "name": "Asian Classics 2: Peppermint Tea House - Best of Shoukichi Kina",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aed99fd788be3281ec15999a"
+      },
       "release_date": "1994-01-01",
       "popularity": 6
     },
     {
-      "trackId": "3492c69DsiY9PZsjspF2cb",
-      "name": "Not There Yet",
+      "track": {
+        "id": "3492c69DsiY9PZsjspF2cb",
+        "name": "Not There Yet"
+      },
       "duration_ms": 205186,
-      "artist": [
-        "Eric Hutchinson"
+      "artists": [
+        {
+          "name": "Eric Hutchinson",
+          "id": "39x8gyJjTHiBQklFgVJSV4"
+        }
       ],
-      "artistId": [
-        "39x8gyJjTHiBQklFgVJSV4"
-      ],
-      "albumId": "2pHlCJNp5Tc2M1D0LwwjSc",
+      "album": {
+        "id": "2pHlCJNp5Tc2M1D0LwwjSc",
+        "name": "Moving Up Living Down",
+        "img": "https://i.scdn.co/image/ab67616d00001e0294b132032b8e33fc73aa845b"
+      },
       "release_date": "2012-04-13",
       "popularity": 30
     },
     {
-      "trackId": "5xpQEjjDoe7egEqiw807Je",
-      "name": "Prospettiva Nevski",
+      "track": {
+        "id": "5xpQEjjDoe7egEqiw807Je",
+        "name": "Prospettiva Nevski"
+      },
       "duration_ms": 221266,
-      "artist": [
-        "Alice"
+      "artists": [
+        {
+          "name": "Alice",
+          "id": "3zNFrznlC0kv866J7Karl3"
+        }
       ],
-      "artistId": [
-        "3zNFrznlC0kv866J7Karl3"
-      ],
-      "albumId": "4EbqYOpoUVX0tm7J09X1Vq",
+      "album": {
+        "id": "4EbqYOpoUVX0tm7J09X1Vq",
+        "name": "Gioielli Rubati",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274ccdadfd7801a4d4b93088b"
+      },
       "release_date": "1985-01-01",
       "popularity": 44
     },
     {
-      "trackId": "4Uzv9ZmajuHh2tJzpATR3T",
-      "name": "Ticket To Heaven",
+      "track": {
+        "id": "4Uzv9ZmajuHh2tJzpATR3T",
+        "name": "Ticket To Heaven"
+      },
       "duration_ms": 264200,
-      "artist": [
-        "Dire Straits"
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+        }
       ],
-      "artistId": [
-        "0WwSkZ7LtFUFjGjMZBMt6T"
-      ],
-      "albumId": "7gk5j9Ok764TbTsmkxthYt",
+      "album": {
+        "id": "7gk5j9Ok764TbTsmkxthYt",
+        "name": "On Every Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277491e0e159600ec88f591c0"
+      },
       "release_date": "1991-09-10",
       "popularity": 54
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     },
     {
-      "trackId": "7qYAVSalYQTSM1cqGTxyjO",
-      "name": "Blue Eyed Elaine",
+      "track": {
+        "id": "7qYAVSalYQTSM1cqGTxyjO",
+        "name": "Blue Eyed Elaine"
+      },
       "duration_ms": 154720,
-      "artist": [
-        "John Prine",
-        "Mac Wiseman"
+      "artists": [
+        {
+          "name": "John Prine",
+          "id": "0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Mac Wiseman",
+          "id": "01buTDfh4qo8wbcUt9Enly"
+        }
       ],
-      "artistId": [
-        "0nJUwPwC9Ti4vvuJ0q3MfT",
-        "01buTDfh4qo8wbcUt9Enly"
-      ],
-      "albumId": "0JafNTEJPn2G6iDbxyY1h4",
+      "album": {
+        "id": "0JafNTEJPn2G6iDbxyY1h4",
+        "name": "Standard Songs for Average People",
+        "img": "https://i.scdn.co/image/ab67616d00001e025fc943bc7dfb4a944aa22615"
+      },
       "release_date": "2007-04-24",
       "popularity": 30
     },
     {
-      "trackId": "6OH7UCFY7SEJxxQkaYfAv8",
-      "name": "Comin' Home Baby",
+      "track": {
+        "id": "6OH7UCFY7SEJxxQkaYfAv8",
+        "name": "Comin' Home Baby"
+      },
       "duration_ms": 519600,
-      "artist": [
-        "Herbie Mann"
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "id": "6ycoXr0Ayd89vFUT6BOiWo"
+        }
       ],
-      "artistId": [
-        "6ycoXr0Ayd89vFUT6BOiWo"
-      ],
-      "albumId": "5Pi9gvFQLlXGdgI19hb6IR",
+      "album": {
+        "id": "5Pi9gvFQLlXGdgI19hb6IR",
+        "name": "Atlantic Jazz: Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221f3e2e18b963431056f4efc"
+      },
       "release_date": "2005-05-10",
       "popularity": 46
     }

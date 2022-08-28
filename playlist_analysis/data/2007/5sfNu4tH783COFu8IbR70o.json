@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258019_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6Cq0hI2EBeCzrStcExWcJs",
-      "name": "OJ OJ",
+      "track": {
+        "id": "6Cq0hI2EBeCzrStcExWcJs",
+        "name": "OJ OJ"
+      },
       "duration_ms": 180266,
-      "artist": [
-        "David Urwitz"
+      "artists": [
+        {
+          "name": "David Urwitz",
+          "id": "2ces6d2YsQP1RpGMYpdFy8"
+        }
       ],
-      "artistId": [
-        "2ces6d2YsQP1RpGMYpdFy8"
-      ],
-      "albumId": "18SXWGqYGUBeCGwaTBkGlq",
+      "album": {
+        "id": "18SXWGqYGUBeCGwaTBkGlq",
+        "name": "David Urwitz",
+        "img": "https://i.scdn.co/image/ab67616d00001e022152b0f57d17ca2d09354e8c"
+      },
       "release_date": "2010-03-01",
       "popularity": 8
     },
     {
-      "trackId": "4qjWcGhRQ28WEYuLDZ4aAR",
-      "name": "Cheek to Cheek",
+      "track": {
+        "id": "4qjWcGhRQ28WEYuLDZ4aAR",
+        "name": "Cheek to Cheek"
+      },
       "duration_ms": 195840,
-      "artist": [
-        "Sahara Hotnights"
+      "artists": [
+        {
+          "name": "Sahara Hotnights",
+          "id": "2VPvWVAiP9GICmwh4bLUuE"
+        }
       ],
-      "artistId": [
-        "2VPvWVAiP9GICmwh4bLUuE"
-      ],
-      "albumId": "5eIZ42osOPPTKEL65l8rV3",
+      "album": {
+        "id": "5eIZ42osOPPTKEL65l8rV3",
+        "name": "What If Leaving Is a Loving Thing",
+        "img": "https://i.scdn.co/image/ab67616d00001e024be3aaba0b1edbdcbeec27d4"
+      },
       "release_date": "2007-01-01",
       "popularity": 51
     },
     {
-      "trackId": "6m5e75AGo6BgCxWPmVPSBd",
-      "name": "Vackra pojkar, vackra män",
+      "track": {
+        "id": "6m5e75AGo6BgCxWPmVPSBd",
+        "name": "Vackra pojkar, vackra män"
+      },
       "duration_ms": 241840,
-      "artist": [
-        "Rikard Wolff"
+      "artists": [
+        {
+          "name": "Rikard Wolff",
+          "id": "6SUSECiKAbiTLIUySSvzTx"
+        }
       ],
-      "artistId": [
-        "6SUSECiKAbiTLIUySSvzTx"
-      ],
-      "albumId": "0K0gPGuaxWqIK2H3x9IOnh",
+      "album": {
+        "id": "0K0gPGuaxWqIK2H3x9IOnh",
+        "name": "Stjärnklara Nätter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02305e95fe6c6ba499c81255bf"
+      },
       "release_date": "1997",
       "popularity": 20
     },
     {
-      "trackId": "3FAclTFfvUuQYnEsptbK8w",
-      "name": "Back To Black",
+      "track": {
+        "id": "3FAclTFfvUuQYnEsptbK8w",
+        "name": "Back To Black"
+      },
       "duration_ms": 241293,
-      "artist": [
-        "Amy Winehouse"
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "id": "6Q192DXotxtaysaqNPy5yR"
+        }
       ],
-      "artistId": [
-        "6Q192DXotxtaysaqNPy5yR"
-      ],
-      "albumId": "0E4xv5gPjykrwBgBZzI8XG",
+      "album": {
+        "id": "0E4xv5gPjykrwBgBZzI8XG",
+        "name": "Back To Black (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0276ffb5b5ab045d22c81235c1"
+      },
       "release_date": "2006",
       "popularity": 78
     },
     {
-      "trackId": "4lU46bL9MBbCE9baLrEnf4",
-      "name": "2006",
+      "track": {
+        "id": "4lU46bL9MBbCE9baLrEnf4",
+        "name": "2006"
+      },
       "duration_ms": 195400,
-      "artist": [
-        "Hello Saferide"
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "id": "4Qxe8uorrQxMoMkhv0HrK3"
+        }
       ],
-      "artistId": [
-        "4Qxe8uorrQxMoMkhv0HrK3"
-      ],
-      "albumId": "7nJ2OmbYMSL76Suj5zzDoV",
+      "album": {
+        "id": "7nJ2OmbYMSL76Suj5zzDoV",
+        "name": "Would You Let Me Play This EP 10 Times A Day?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222f9adecc893427726384f51"
+      },
       "release_date": "2006-06-04",
       "popularity": 15
     },
     {
-      "trackId": "7vIyudiO2Tr9hZ2yzfwQmx",
-      "name": "Waitin' On A Sunny Day",
+      "track": {
+        "id": "7vIyudiO2Tr9hZ2yzfwQmx",
+        "name": "Waitin' On A Sunny Day"
+      },
       "duration_ms": 256133,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "23vzCh5cDn0LzdGmGWrT1d",
+      "album": {
+        "id": "23vzCh5cDn0LzdGmGWrT1d",
+        "name": "The Rising",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810"
+      },
       "release_date": "2002-07-30",
       "popularity": 59
     },
     {
-      "trackId": "5S8EZuiSNFR2N5eG58oISQ",
-      "name": "It Takes A Fool To Remain Sane",
+      "track": {
+        "id": "5S8EZuiSNFR2N5eG58oISQ",
+        "name": "It Takes A Fool To Remain Sane"
+      },
       "duration_ms": 236400,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "4zvEPDfNKoC15SoNOAEkBR",
+      "album": {
+        "id": "4zvEPDfNKoC15SoNOAEkBR",
+        "name": "We Are The Ark",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283391d5d31e98eabefc400fd"
+      },
       "release_date": "2000-09-25",
       "popularity": 52
     },
     {
-      "trackId": "4AcmCtkRMoumRV6MnxTBKl",
-      "name": "No Party",
+      "track": {
+        "id": "4AcmCtkRMoumRV6MnxTBKl",
+        "name": "No Party"
+      },
       "duration_ms": 186093,
-      "artist": [
-        "Marit Bergman"
+      "artists": [
+        {
+          "name": "Marit Bergman",
+          "id": "1Z8YLeRzSedy0jT5D08pVU"
+        }
       ],
-      "artistId": [
-        "1Z8YLeRzSedy0jT5D08pVU"
-      ],
-      "albumId": "2aye2gNwO61bAD3TXGGkqo",
+      "album": {
+        "id": "2aye2gNwO61bAD3TXGGkqo",
+        "name": "I Think It's A Rainbow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02719dc81684d4af6a9eba389b"
+      },
       "release_date": "2006-09-04",
       "popularity": 21
     },
     {
-      "trackId": "2nOFUmxtFpKm1LxgeWaPSo",
-      "name": "I Write You a Love Song",
+      "track": {
+        "id": "2nOFUmxtFpKm1LxgeWaPSo",
+        "name": "I Write You a Love Song"
+      },
       "duration_ms": 218426,
-      "artist": [
-        "Izabella Scorupco"
+      "artists": [
+        {
+          "name": "Izabella Scorupco",
+          "id": "6fy4jhAd7QpmC2eV5uHz5l"
+        }
       ],
-      "artistId": [
-        "6fy4jhAd7QpmC2eV5uHz5l"
-      ],
-      "albumId": "3Q60EolCg7sGwqtPmZVvLX",
+      "album": {
+        "id": "3Q60EolCg7sGwqtPmZVvLX",
+        "name": "Iza",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4d37d98adfb77b518bc6034"
+      },
       "release_date": "1991",
       "popularity": 40
     },
     {
-      "trackId": "6yk6jU3Ia33ed2XL4V9IeW",
-      "name": "Live Forever",
+      "track": {
+        "id": "6yk6jU3Ia33ed2XL4V9IeW",
+        "name": "Live Forever"
+      },
       "duration_ms": 182626,
-      "artist": [
-        "Magnus Carlsson"
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "id": "12VIfmT1N5FGyCuuXGKuYB"
+        }
       ],
-      "artistId": [
-        "12VIfmT1N5FGyCuuXGKuYB"
-      ],
-      "albumId": "5g18f9GEyipB2xX2d9xy5x",
+      "album": {
+        "id": "5g18f9GEyipB2xX2d9xy5x",
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bd8e11a4ddbd1f6e2672284"
+      },
       "release_date": "2007-01-01",
       "popularity": 41
     },
     {
-      "trackId": "4UDaVq5tm2mQ6tNgWydhUX",
-      "name": "Kom igen Lena!",
+      "track": {
+        "id": "4UDaVq5tm2mQ6tNgWydhUX",
+        "name": "Kom igen Lena!"
+      },
       "duration_ms": 231320,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "2x39gXdLwYnTxJyxExXpTj",
+      "album": {
+        "id": "2x39gXdLwYnTxJyxExXpTj",
+        "name": "Det är så jag säger det",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db1ff210fd90fce8b4c1f949"
+      },
       "release_date": "2002-10-28",
       "popularity": 53
     },
     {
-      "trackId": "0sFVpmdxNfHn5ohWb067AZ",
-      "name": "Gianni Schicchi: O mio Babbino caro",
+      "track": {
+        "id": "0sFVpmdxNfHn5ohWb067AZ",
+        "name": "Gianni Schicchi: O mio Babbino caro"
+      },
       "duration_ms": 149253,
-      "artist": [
-        "Giacomo Puccini",
-        "Barbara Hendricks",
-        "Paavo Järvi"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Barbara Hendricks",
+          "id": "3NkCIDMU5HgFAyVLVdCWgE"
+        },
+        {
+          "name": "Paavo Järvi",
+          "id": "3V9McxlPI0G2RmkU0DhYGO"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "3NkCIDMU5HgFAyVLVdCWgE",
-        "3V9McxlPI0G2RmkU0DhYGO"
-      ],
-      "albumId": "4aNapNp4isInQuV5JITJRb",
+      "album": {
+        "id": "4aNapNp4isInQuV5JITJRb",
+        "name": "Best Opera Arias",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263b69af97ed39c347d00ee87"
+      },
       "release_date": "2018-05-14",
       "popularity": 5
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     }

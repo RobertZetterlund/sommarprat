@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c186e58a-2c4b-4e53-8f89-ee919c2187f3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5aMjnPmNXl48i8runzkAcW",
-      "name": "Arête",
+      "track": {
+        "id": "5aMjnPmNXl48i8runzkAcW",
+        "name": "Arête"
+      },
       "duration_ms": 371626,
-      "artist": [
-        "Brambles"
+      "artists": [
+        {
+          "name": "Brambles",
+          "id": "0sNXk2NCcF4VpqvJ0KRffX"
+        }
       ],
-      "artistId": [
-        "0sNXk2NCcF4VpqvJ0KRffX"
-      ],
-      "albumId": "6wIw0on4JGm2gdtfSs0h9f",
+      "album": {
+        "id": "6wIw0on4JGm2gdtfSs0h9f",
+        "name": "Charcoal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f2d09869a2b18d0f1eff471a"
+      },
       "release_date": "2012-10-22",
       "popularity": 34
     },
     {
-      "trackId": "4DVu7YgHVJaeN0C7HNpy2q",
-      "name": "Turiya & Ramakrishna",
+      "track": {
+        "id": "4DVu7YgHVJaeN0C7HNpy2q",
+        "name": "Turiya & Ramakrishna"
+      },
       "duration_ms": 498146,
-      "artist": [
-        "Alice Coltrane"
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "id": "0oKYiTD5CdNbrofRvM1dIr"
+        }
       ],
-      "artistId": [
-        "0oKYiTD5CdNbrofRvM1dIr"
-      ],
-      "albumId": "6XyhwP7a50E4u83H9aM8sD",
+      "album": {
+        "id": "6XyhwP7a50E4u83H9aM8sD",
+        "name": "Ptah The El Daoud",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab4b96fdbadfa7d47a4e2b2"
+      },
       "release_date": "1996-01-01",
       "popularity": 54
     },
     {
-      "trackId": "1SDgm575BlGRkGqaJLw4uS",
-      "name": "Transportation",
+      "track": {
+        "id": "1SDgm575BlGRkGqaJLw4uS",
+        "name": "Transportation"
+      },
       "duration_ms": 278733,
-      "artist": [
-        "Julia Kent"
+      "artists": [
+        {
+          "name": "Julia Kent",
+          "id": "2YJXo1ERQAO7r4hQtu2vFc"
+        }
       ],
-      "artistId": [
-        "2YJXo1ERQAO7r4hQtu2vFc"
-      ],
-      "albumId": "4ZJaiFAnvdNlQbuVaMdjcR",
+      "album": {
+        "id": "4ZJaiFAnvdNlQbuVaMdjcR",
+        "name": "Character",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc2612a1c3c3388d8e0d9591"
+      },
       "release_date": "2013-02-25",
       "popularity": 17
     },
     {
-      "trackId": "17FMWyPpwuPoSvjkbu5ggt",
-      "name": "Martoli Bridge",
+      "track": {
+        "id": "17FMWyPpwuPoSvjkbu5ggt",
+        "name": "Martoli Bridge"
+      },
       "duration_ms": 122640,
-      "artist": [
-        "Nils Petter Molvær"
+      "artists": [
+        {
+          "name": "Nils Petter Molvær",
+          "id": "2r1f1zkIjuQ7ETeJHsXpsc"
+        }
       ],
-      "artistId": [
-        "2r1f1zkIjuQ7ETeJHsXpsc"
-      ],
-      "albumId": "1INC2K6yyGoafXSqHrdAAv",
+      "album": {
+        "id": "1INC2K6yyGoafXSqHrdAAv",
+        "name": "Buoyancy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f35f731fcef04ad2c899ec9a"
+      },
       "release_date": "2016-09-02",
       "popularity": 11
     },
     {
-      "trackId": "7M9pPyt8Gr41THLhbz4NSB",
-      "name": "Don't Let Me Be Misunderstood",
+      "track": {
+        "id": "7M9pPyt8Gr41THLhbz4NSB",
+        "name": "Don't Let Me Be Misunderstood"
+      },
       "duration_ms": 166200,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "0do3UV5axUHkROOTkcxr1J",
+      "album": {
+        "id": "0do3UV5axUHkROOTkcxr1J",
+        "name": "Broadway-Blues-Ballads",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bc47b0dbddd7142c9a2ebf0"
+      },
       "release_date": "1964-11-01",
       "popularity": 58
     },
     {
-      "trackId": "38RQBHUXnNaqr8rXKbZKbZ",
-      "name": "Unkerich",
+      "track": {
+        "id": "38RQBHUXnNaqr8rXKbZKbZ",
+        "name": "Unkerich"
+      },
       "duration_ms": 331053,
-      "artist": [
-        "Bohren & Der Club Of Gore"
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "id": "4VpWzXVUAR2YyQuWQpNGAf"
+        }
       ],
-      "artistId": [
-        "4VpWzXVUAR2YyQuWQpNGAf"
-      ],
-      "albumId": "0YORgbKjaK7IKqdPkmitrU",
+      "album": {
+        "id": "0YORgbKjaK7IKqdPkmitrU",
+        "name": "Dolores",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f8ce6c20a3dbf1e391bb2b9"
+      },
       "release_date": "2008-10-12",
       "popularity": 17
     },
     {
-      "trackId": "7tx8rQNNLzD2HdJXFGmEq5",
-      "name": "Pity Party",
+      "track": {
+        "id": "7tx8rQNNLzD2HdJXFGmEq5",
+        "name": "Pity Party"
+      },
       "duration_ms": 167241,
-      "artist": [
-        "Sarah Lenore"
+      "artists": [
+        {
+          "name": "Sarah Lenore",
+          "id": "4H2xPnLZ6qdTlQzf3XF6r7"
+        }
       ],
-      "artistId": [
-        "4H2xPnLZ6qdTlQzf3XF6r7"
-      ],
-      "albumId": "2yK4gG2BQATtLZvCLFpnR4",
+      "album": {
+        "id": "2yK4gG2BQATtLZvCLFpnR4",
+        "name": "Pity Party",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fea77ff598bfdc4cb3d07c1f"
+      },
       "release_date": "2022-01-18",
       "popularity": 4
     },
     {
-      "trackId": "6O4gXg3fIrLLQktkGmHxUT",
-      "name": "Diarabi",
+      "track": {
+        "id": "6O4gXg3fIrLLQktkGmHxUT",
+        "name": "Diarabi"
+      },
       "duration_ms": 423293,
-      "artist": [
-        "Ami Koita"
+      "artists": [
+        {
+          "name": "Ami Koita",
+          "id": "72wIu36q0AcrDdpKUQEtcK"
+        }
       ],
-      "artistId": [
-        "72wIu36q0AcrDdpKUQEtcK"
-      ],
-      "albumId": "1iDeladgQJUEwRacoBDfNj",
+      "album": {
+        "id": "1iDeladgQJUEwRacoBDfNj",
+        "name": "Tata Sira",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e91af8666243f12cf30ffb8"
+      },
       "release_date": "1985",
       "popularity": 24
     },
     {
-      "trackId": "4mraRJO2iZA5WQ5dxlSQx9",
-      "name": "Heather",
+      "track": {
+        "id": "4mraRJO2iZA5WQ5dxlSQx9",
+        "name": "Heather"
+      },
       "duration_ms": 520533,
-      "artist": [
-        "Billy Cobham"
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "id": "0IwfuIL3gUJxjzUqY3wJ3j"
+        }
       ],
-      "artistId": [
-        "0IwfuIL3gUJxjzUqY3wJ3j"
-      ],
-      "albumId": "7rhZVplfUfwBkq3tB3cSGJ",
+      "album": {
+        "id": "7rhZVplfUfwBkq3tB3cSGJ",
+        "name": "Crosswinds",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225e19dbb2dd87d9dae3278e0"
+      },
       "release_date": "1974",
       "popularity": 38
     },
     {
-      "trackId": "2OzVzXI9qCiZV6Uu7E90se",
-      "name": "All Things To All Men",
+      "track": {
+        "id": "2OzVzXI9qCiZV6Uu7E90se",
+        "name": "All Things To All Men"
+      },
       "duration_ms": 641480,
-      "artist": [
-        "The Cinematic Orchestra",
-        "Roots Manuva"
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "id": "32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Roots Manuva",
+          "id": "4sSSkVtrCTzENCgm2vokiY"
+        }
       ],
-      "artistId": [
-        "32ogthv0BdaSMPml02X9YB",
-        "4sSSkVtrCTzENCgm2vokiY"
-      ],
-      "albumId": "1EUXHvyflL27HwOTQgaVuh",
+      "album": {
+        "id": "1EUXHvyflL27HwOTQgaVuh",
+        "name": "Every Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2a761a90fb7ca422398f0cf"
+      },
       "release_date": "2002-05-13",
       "popularity": 37
     },
     {
-      "trackId": "0hKRSZhUGEhKU6aNSPBACZ",
-      "name": "A Day In The Life - Remastered 2009",
+      "track": {
+        "id": "0hKRSZhUGEhKU6aNSPBACZ",
+        "name": "A Day In The Life - Remastered 2009"
+      },
       "duration_ms": 337413,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "6QaVfG1pHYl1z15ZxkvVDW",
+      "album": {
+        "id": "6QaVfG1pHYl1z15ZxkvVDW",
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a"
+      },
       "release_date": "1967-06-01",
       "popularity": 64
     }

@@ -7,210 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3541886_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5RnlUyTKgmd7V6tXdQcKVK",
-      "name": "Ready or Not Here I Come (Can't Hide from Love)",
+      "track": {
+        "id": "5RnlUyTKgmd7V6tXdQcKVK",
+        "name": "Ready or Not Here I Come (Can't Hide from Love)"
+      },
       "duration_ms": 119466,
-      "artist": [
-        "The Delfonics"
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "id": "6YPRXu1dazGYcSZv4HJEH4"
+        }
       ],
-      "artistId": [
-        "6YPRXu1dazGYcSZv4HJEH4"
-      ],
-      "albumId": "6KBNPaBdwwrSQPyz1RxRSF",
+      "album": {
+        "id": "6KBNPaBdwwrSQPyz1RxRSF",
+        "name": "The Sound Of Sexy Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f699570966e5711c62693af3"
+      },
       "release_date": "1969",
       "popularity": 46
     },
     {
-      "trackId": "3vZO25GdYuqFrR1kzZADnp",
-      "name": "Ready or Not",
+      "track": {
+        "id": "3vZO25GdYuqFrR1kzZADnp",
+        "name": "Ready or Not"
+      },
       "duration_ms": 226986,
-      "artist": [
-        "Fugees",
-        "Ms. Lauryn Hill",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Fugees",
+          "id": "2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "2WKdxPFRD7IqZvlIAvhMgY",
-        "2Mu5NfyYm8n5iTomuKAEHl",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "18XFe4CPBgVezXkxZP6rTb",
+      "album": {
+        "id": "18XFe4CPBgVezXkxZP6rTb",
+        "name": "The Score (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137"
+      },
       "release_date": "1996-02-13",
       "popularity": 71
     },
     {
-      "trackId": "1Hz50iSoqe2GNYKRiqQh4K",
-      "name": "Feel The Vibe - Original Mix",
+      "track": {
+        "id": "1Hz50iSoqe2GNYKRiqQh4K",
+        "name": "Feel The Vibe - Original Mix"
+      },
       "duration_ms": 426946,
-      "artist": [
-        "Axwell"
+      "artists": [
+        {
+          "name": "Axwell",
+          "id": "1xNmvlEiICkRlRGqlNFZ43"
+        }
       ],
-      "artistId": [
-        "1xNmvlEiICkRlRGqlNFZ43"
-      ],
-      "albumId": "4IIxpqMECvFMODC34mzx7l",
+      "album": {
+        "id": "4IIxpqMECvFMODC34mzx7l",
+        "name": "Feel The Vibe",
+        "img": "https://i.scdn.co/image/ab67616d00001e0207ba633fbe5011cedfde0f02"
+      },
       "release_date": "2009-08-08",
       "popularity": 16
     },
     {
-      "trackId": "6Pgkp4qUoTmJIPn7ReaGxL",
-      "name": "Without You (feat. Sandro Cavazza)",
+      "track": {
+        "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+        "name": "Without You (feat. Sandro Cavazza)"
+      },
       "duration_ms": 181672,
-      "artist": [
-        "Avicii",
-        "Sandro Cavazza"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "id": "5JYo7gm2dkyLLlWHjxS7Dy"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5JYo7gm2dkyLLlWHjxS7Dy"
-      ],
-      "albumId": "1m3mf7xkXIwssVriaaTjOS",
+      "album": {
+        "id": "1m3mf7xkXIwssVriaaTjOS",
+        "name": "AVĪCI (01)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389"
+      },
       "release_date": "2017-08-10",
       "popularity": 78
     },
     {
-      "trackId": "7gh2v4IHnxdiwSgA6xluhe",
-      "name": "Through the Fire",
+      "track": {
+        "id": "7gh2v4IHnxdiwSgA6xluhe",
+        "name": "Through the Fire"
+      },
       "duration_ms": 288653,
-      "artist": [
-        "Chaka Khan"
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "id": "6mQfAAqZGBzIfrmlZCeaYT"
+        }
       ],
-      "artistId": [
-        "6mQfAAqZGBzIfrmlZCeaYT"
-      ],
-      "albumId": "08yanJqA75TPyDowCXvvPU",
+      "album": {
+        "id": "08yanJqA75TPyDowCXvvPU",
+        "name": "I Feel for You",
+        "img": "https://i.scdn.co/image/ab67616d00001e028be5f9356ee08a1f9e67ff87"
+      },
       "release_date": "1984",
       "popularity": 61
     },
     {
-      "trackId": "4mmkhcEm1Ljy1U9nwtsxUo",
-      "name": "Through The Wire",
+      "track": {
+        "id": "4mmkhcEm1Ljy1U9nwtsxUo",
+        "name": "Through The Wire"
+      },
       "duration_ms": 221226,
-      "artist": [
-        "Kanye West"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "4Uv86qWpGTxf7fU7lG5X6F",
+      "album": {
+        "id": "4Uv86qWpGTxf7fU7lG5X6F",
+        "name": "The College Dropout",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78"
+      },
       "release_date": "2004-02-10",
       "popularity": 75
     },
     {
-      "trackId": "5osSw3tL07Tuid7AWsvYcc",
-      "name": "Ante Up (feat. Busta Rhymes, Teflon & Remi Martin) - Remix",
+      "track": {
+        "id": "5osSw3tL07Tuid7AWsvYcc",
+        "name": "Ante Up (feat. Busta Rhymes, Teflon & Remi Martin) - Remix"
+      },
       "duration_ms": 247693,
-      "artist": [
-        "M.O.P.",
-        "Busta Rhymes",
-        "Teflon"
+      "artists": [
+        {
+          "name": "M.O.P.",
+          "id": "1BH45DVSTeGBvcYXNCd67g"
+        },
+        {
+          "name": "Busta Rhymes",
+          "id": "1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Teflon",
+          "id": "7362Tj1IkoHp7oWveGTf51"
+        }
       ],
-      "artistId": [
-        "1BH45DVSTeGBvcYXNCd67g",
-        "1YfEcTuGvBQ8xSD1f53UnK",
-        "7362Tj1IkoHp7oWveGTf51"
-      ],
-      "albumId": "0mw0v424Ribwwrt0oMVB1j",
+      "album": {
+        "id": "0mw0v424Ribwwrt0oMVB1j",
+        "name": "Warriorz",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299d5e13356b05f244af52d78"
+      },
       "release_date": "2000-08-29",
       "popularity": 62
     },
     {
-      "trackId": "5PQmSHzWnlgG4EBuIqjac2",
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "track": {
+        "id": "5PQmSHzWnlgG4EBuIqjac2",
+        "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)"
+      },
       "duration_ms": 282373,
-      "artist": [
-        "Nas",
-        "Ms. Lauryn Hill"
+      "artists": [
+        {
+          "name": "Nas",
+          "id": "20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        }
       ],
-      "artistId": [
-        "20qISvAhX20dpIbOOzGK3q",
-        "2Mu5NfyYm8n5iTomuKAEHl"
-      ],
-      "albumId": "78Fgb88MY0ECc4GVMejqTg",
+      "album": {
+        "id": "78Fgb88MY0ECc4GVMejqTg",
+        "name": "It Was Written",
+        "img": "https://i.scdn.co/image/ab67616d00001e02886d823ecbfcbe661a6b0ab9"
+      },
       "release_date": "1996-07-02",
       "popularity": 70
     },
     {
-      "trackId": "2EKzS2s2VKnbQ7jxyk2WHi",
-      "name": "När vi två blir en",
+      "track": {
+        "id": "2EKzS2s2VKnbQ7jxyk2WHi",
+        "name": "När vi två blir en"
+      },
       "duration_ms": 188466,
-      "artist": [
-        "Gyllene Tider"
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "id": "0FINyNBXqnTlRC4dvpSeSb"
+        }
       ],
-      "artistId": [
-        "0FINyNBXqnTlRC4dvpSeSb"
-      ],
-      "albumId": "7lbMjjnuHPSgU4wZolWdQ1",
+      "album": {
+        "id": "7lbMjjnuHPSgU4wZolWdQ1",
+        "name": "Moderna Tider",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ac2b55bb9a1d3ec1a350cd5"
+      },
       "release_date": "1981-03-10",
       "popularity": 57
     },
     {
-      "trackId": "2AkmdLbVKS1steeZdy8H1l",
-      "name": "I Want To Break Free - Single Remix",
+      "track": {
+        "id": "2AkmdLbVKS1steeZdy8H1l",
+        "name": "I Want To Break Free - Single Remix"
+      },
       "duration_ms": 258013,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "61foK8xa76FEOk36uOxoc9",
+      "album": {
+        "id": "61foK8xa76FEOk36uOxoc9",
+        "name": "The Works (Deluxe Edition 2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1e7c0e1bf0980298428a1ae"
+      },
       "release_date": "1984-02-27",
       "popularity": 73
     },
     {
-      "trackId": "456WNXWhDwYOSf5SpTuqxd",
-      "name": "Dog Days Are Over",
+      "track": {
+        "id": "456WNXWhDwYOSf5SpTuqxd",
+        "name": "Dog Days Are Over"
+      },
       "duration_ms": 252818,
-      "artist": [
-        "Florence + The Machine"
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "id": "1moxjboGR7GNWYIMWsRjgG"
+        }
       ],
-      "artistId": [
-        "1moxjboGR7GNWYIMWsRjgG"
-      ],
-      "albumId": "1rLLyY5p6HXNl2lKzINWp5",
+      "album": {
+        "id": "1rLLyY5p6HXNl2lKzINWp5",
+        "name": "Lungs (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02003f81b1f4246362638e682d"
+      },
       "release_date": "2009",
       "popularity": 74
     },
     {
-      "trackId": "0sKlV58cODrjxGFOyf9IXY",
-      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "track": {
+        "id": "0sKlV58cODrjxGFOyf9IXY",
+        "name": "The Way You Make Me Feel - 2012 Remaster"
+      },
       "duration_ms": 298120,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "24TAupSNVWSAHL0R7n71vm",
+      "album": {
+        "id": "24TAupSNVWSAHL0R7n71vm",
+        "name": "Bad 25th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bb21d27effb96a1d0fe8d6d"
+      },
       "release_date": "1987-08-31",
       "popularity": 74
     },
     {
-      "trackId": "6Z0F3Mqj7tq1CBZo5qMlUg",
-      "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
+      "track": {
+        "id": "6Z0F3Mqj7tq1CBZo5qMlUg",
+        "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version"
+      },
       "duration_ms": 174120,
-      "artist": [
-        "Hannah Montana"
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "id": "7nU4hB040gTmHm45YYMvqc"
+        }
       ],
-      "artistId": [
-        "7nU4hB040gTmHm45YYMvqc"
-      ],
-      "albumId": "0TyDqWrWHzuyFjjnKqDClu",
+      "album": {
+        "id": "0TyDqWrWHzuyFjjnKqDClu",
+        "name": "Hannah Montana",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268b7347e7eb2edaf0a6878f2"
+      },
       "release_date": "2006-01-01",
       "popularity": 63
     },
     {
-      "trackId": "3WcpUldZTbItlFt7qcJ7cv",
-      "name": "Love Sweet Sound - Mark Knight & Funkagenda's A.H.B Mix",
+      "track": {
+        "id": "3WcpUldZTbItlFt7qcJ7cv",
+        "name": "Love Sweet Sound - Mark Knight & Funkagenda's A.H.B Mix"
+      },
       "duration_ms": 353302,
-      "artist": [
-        "Groove Armada"
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "id": "67tgMwUfnmqzYsNAtnP6YJ"
+        }
       ],
-      "artistId": [
-        "67tgMwUfnmqzYsNAtnP6YJ"
-      ],
-      "albumId": "6RQoaIee9z9meFUbv59RJY",
+      "album": {
+        "id": "6RQoaIee9z9meFUbv59RJY",
+        "name": "Strictly Social Diva",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b53a42bc97dddc61bde53703"
+      },
       "release_date": "2009-11-03",
       "popularity": 32
     }

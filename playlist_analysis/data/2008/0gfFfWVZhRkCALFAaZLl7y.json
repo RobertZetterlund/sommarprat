@@ -7,214 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252181_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4KspXoCVJXGY1VrvEe1Hdm",
-      "name": "Don't Look Back into the Sun",
+      "track": {
+        "id": "4KspXoCVJXGY1VrvEe1Hdm",
+        "name": "Don't Look Back into the Sun"
+      },
       "duration_ms": 180266,
-      "artist": [
-        "The Libertines"
+      "artists": [
+        {
+          "name": "The Libertines",
+          "id": "4fSPtBgFPZzygkY6MehwQ7"
+        }
       ],
-      "artistId": [
-        "4fSPtBgFPZzygkY6MehwQ7"
-      ],
-      "albumId": "4p8bvIgDBZ7eLvuflo6YhI",
+      "album": {
+        "id": "4p8bvIgDBZ7eLvuflo6YhI",
+        "name": "Don't Look Back into the Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fd4645a2f1c3cdcc867afe8"
+      },
       "release_date": "2003-08-18",
       "popularity": 64
     },
     {
-      "trackId": "48QL8Kl4JE9dlxJ0F05PlH",
-      "name": "Missile",
+      "track": {
+        "id": "48QL8Kl4JE9dlxJ0F05PlH",
+        "name": "Missile"
+      },
       "duration_ms": 216560,
-      "artist": [
-        "IAMX"
+      "artists": [
+        {
+          "name": "IAMX",
+          "id": "223iUzG0kb5V166FJP9ovD"
+        }
       ],
-      "artistId": [
-        "223iUzG0kb5V166FJP9ovD"
-      ],
-      "albumId": "62yU7fz3CPBKQpuQ5gIpmQ",
+      "album": {
+        "id": "62yU7fz3CPBKQpuQ5gIpmQ",
+        "name": "Kiss + Swallow",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d851b9b7585e2b9e35bd193"
+      },
       "release_date": "2004-07-13",
       "popularity": 30
     },
     {
-      "trackId": "1XqFgLm68edZokMlz6kDPv",
-      "name": "Matinee Idol",
+      "track": {
+        "id": "1XqFgLm68edZokMlz6kDPv",
+        "name": "Matinee Idol"
+      },
       "duration_ms": 188000,
-      "artist": [
-        "Rufus Wainwright"
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "id": "2PfBzriIMRsCXPDtSy9vg8"
+        }
       ],
-      "artistId": [
-        "2PfBzriIMRsCXPDtSy9vg8"
-      ],
-      "albumId": "38BDbkp5RJII1ixnynG1ti",
+      "album": {
+        "id": "38BDbkp5RJII1ixnynG1ti",
+        "name": "Rufus Wainwright",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226b9af2c576f441b8f6d903c"
+      },
       "release_date": "1998-01-01",
       "popularity": 16
     },
     {
-      "trackId": "0lmbYpumTlipEY0mUffz9Z",
-      "name": "Autumnsong",
+      "track": {
+        "id": "0lmbYpumTlipEY0mUffz9Z",
+        "name": "Autumnsong"
+      },
       "duration_ms": 220346,
-      "artist": [
-        "Manic Street Preachers"
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "id": "2uH0RyPcX7fnCcT90HFDQX"
+        }
       ],
-      "artistId": [
-        "2uH0RyPcX7fnCcT90HFDQX"
-      ],
-      "albumId": "4ziF4MNYqoNM4XiSEybYYs",
+      "album": {
+        "id": "4ziF4MNYqoNM4XiSEybYYs",
+        "name": "Send Away The Tigers",
+        "img": "https://i.scdn.co/image/ab67616d00001e021cecf829e21d3c6707bf9828"
+      },
       "release_date": "2007-05-07",
       "popularity": 51
     },
     {
-      "trackId": "28Rj5ukJQXyptCOuvAiZY1",
-      "name": "Gin & Milk",
+      "track": {
+        "id": "28Rj5ukJQXyptCOuvAiZY1",
+        "name": "Gin & Milk"
+      },
       "duration_ms": 185693,
-      "artist": [
-        "Dirty Pretty Things"
+      "artists": [
+        {
+          "name": "Dirty Pretty Things",
+          "id": "6fHETUBbKmdmgybtFOFQuc"
+        }
       ],
-      "artistId": [
-        "6fHETUBbKmdmgybtFOFQuc"
-      ],
-      "albumId": "3fk5b09jPto2iiQz9b207c",
+      "album": {
+        "id": "3fk5b09jPto2iiQz9b207c",
+        "name": "Waterloo To Anywhere",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a98f5ccfbede5e7d134c347"
+      },
       "release_date": "2006-01-01",
       "popularity": 39
     },
     {
-      "trackId": "7oTfQbrBS1NiLo4ogWzfzt",
-      "name": "Cue the Pulse to Begin",
+      "track": {
+        "id": "7oTfQbrBS1NiLo4ogWzfzt",
+        "name": "Cue the Pulse to Begin"
+      },
       "duration_ms": 241973,
-      "artist": [
-        "Burnside Project"
+      "artists": [
+        {
+          "name": "Burnside Project",
+          "id": "4RD9Q8qVEGyjAFzojb4BjW"
+        }
       ],
-      "artistId": [
-        "4RD9Q8qVEGyjAFzojb4BjW"
-      ],
-      "albumId": "5d6COnTayJzRki8s5sDLWU",
+      "album": {
+        "id": "5d6COnTayJzRki8s5sDLWU",
+        "name": "The Networks, The Circuits, The Streams, The Harmonies",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c08a97b6730ade62f65e8e2c"
+      },
       "release_date": "2003",
       "popularity": 17
     },
     {
-      "trackId": "2d6m2F4I7wCuAKtSsdhh83",
-      "name": "Famous Last Words",
+      "track": {
+        "id": "2d6m2F4I7wCuAKtSsdhh83",
+        "name": "Famous Last Words"
+      },
       "duration_ms": 299226,
-      "artist": [
-        "My Chemical Romance"
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "id": "7FBcuc1gsnv6Y1nwFtNRCb"
+        }
       ],
-      "artistId": [
-        "7FBcuc1gsnv6Y1nwFtNRCb"
-      ],
-      "albumId": "0FZK97MXMm5mUQ8mtudjuK",
+      "album": {
+        "id": "0FZK97MXMm5mUQ8mtudjuK",
+        "name": "The Black Parade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217f77fab7e8f18d5f9fee4a1"
+      },
       "release_date": "2006-10-23",
       "popularity": 72
     },
     {
-      "trackId": "5gxvyrayf5uH3GIhkd56Gy",
-      "name": "For Lovers (Originally Performed By Wolfman feat. Pete Doherty) [Full Vocal Version]",
+      "track": {
+        "id": "5gxvyrayf5uH3GIhkd56Gy",
+        "name": "For Lovers (Originally Performed By Wolfman feat. Pete Doherty) [Full Vocal Version]"
+      },
       "duration_ms": 234920,
-      "artist": [
-        "Paris Music"
+      "artists": [
+        {
+          "name": "Paris Music",
+          "id": "7iFUYe1KDzmMGlvCSbL6nw"
+        }
       ],
-      "artistId": [
-        "7iFUYe1KDzmMGlvCSbL6nw"
-      ],
-      "albumId": "5BzYB0kRkOhRDIjMVy22UU",
+      "album": {
+        "id": "5BzYB0kRkOhRDIjMVy22UU",
+        "name": "Karaoke Hits 2004, Vol. 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241fb18977375a6bfe2b60d6f"
+      },
       "release_date": "2013-02-08",
       "popularity": 9
     },
     {
-      "trackId": "3dffUzlp5VejBhCJ3czOso",
-      "name": "Baby's Gonna Die Tonight",
+      "track": {
+        "id": "3dffUzlp5VejBhCJ3czOso",
+        "name": "Baby's Gonna Die Tonight"
+      },
       "duration_ms": 178103,
-      "artist": [
-        "Adam Green"
+      "artists": [
+        {
+          "name": "Adam Green",
+          "id": "3RyJG8xp58XSmsiuIySzUj"
+        }
       ],
-      "artistId": [
-        "3RyJG8xp58XSmsiuIySzUj"
-      ],
-      "albumId": "6SOejPMi9x9ObKe8ovohq7",
+      "album": {
+        "id": "6SOejPMi9x9ObKe8ovohq7",
+        "name": "Garfield",
+        "img": "https://i.scdn.co/image/ab67616d00001e026296433a45dc2a43f5d6cf48"
+      },
       "release_date": "2002",
       "popularity": 18
     },
     {
-      "trackId": "6kxhwSR3VYmytKwa49n7q8",
-      "name": "If Winter Ends",
+      "track": {
+        "id": "6kxhwSR3VYmytKwa49n7q8",
+        "name": "If Winter Ends"
+      },
       "duration_ms": 205266,
-      "artist": [
-        "Bright Eyes"
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "id": "5o206eFLx38glA2bb4zqIU"
+        }
       ],
-      "artistId": [
-        "5o206eFLx38glA2bb4zqIU"
-      ],
-      "albumId": "0xdUCpZlDLH2bmfmYq2Aei",
+      "album": {
+        "id": "0xdUCpZlDLH2bmfmYq2Aei",
+        "name": "Letting Off The Happiness",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c31e8a6ae5e551495a27b90"
+      },
       "release_date": "1998-11-02",
       "popularity": 33
     },
     {
-      "trackId": "2LEDHtYDssIc3vE9V1OaKW",
-      "name": "Studentsången",
+      "track": {
+        "id": "2LEDHtYDssIc3vE9V1OaKW",
+        "name": "Studentsången"
+      },
       "duration_ms": 99026,
-      "artist": [
-        "Stockholms Studentsångare"
+      "artists": [
+        {
+          "name": "Stockholms Studentsångare",
+          "id": "3IKIBP0fJdLLSog5SEem8p"
+        }
       ],
-      "artistId": [
-        "3IKIBP0fJdLLSog5SEem8p"
-      ],
-      "albumId": "4ZS1wr0Q35iDyaC6NwY2Ci",
+      "album": {
+        "id": "4ZS1wr0Q35iDyaC6NwY2Ci",
+        "name": "Vårkonsert med Stockholms studentsångare",
+        "img": "https://i.scdn.co/image/ab67616d00001e02769ec5c0010b23d0b63e7a5d"
+      },
       "release_date": "1992-01-01",
       "popularity": 9
     },
     {
-      "trackId": "4UDaVq5tm2mQ6tNgWydhUX",
-      "name": "Kom igen Lena!",
+      "track": {
+        "id": "4UDaVq5tm2mQ6tNgWydhUX",
+        "name": "Kom igen Lena!"
+      },
       "duration_ms": 231320,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "2x39gXdLwYnTxJyxExXpTj",
+      "album": {
+        "id": "2x39gXdLwYnTxJyxExXpTj",
+        "name": "Det är så jag säger det",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db1ff210fd90fce8b4c1f949"
+      },
       "release_date": "2002-10-28",
       "popularity": 53
     },
     {
-      "trackId": "0CK0wN1Fhd4afkKyICrSlB",
-      "name": "My My, Hey Hey (Out of the Blue)",
+      "track": {
+        "id": "0CK0wN1Fhd4afkKyICrSlB",
+        "name": "My My, Hey Hey (Out of the Blue)"
+      },
       "duration_ms": 238802,
-      "artist": [
-        "Midnite String Quartet"
+      "artists": [
+        {
+          "name": "Midnite String Quartet",
+          "id": "648dUUIlz7RSeg3O8CbTat"
+        }
       ],
-      "artistId": [
-        "648dUUIlz7RSeg3O8CbTat"
-      ],
-      "albumId": "0kbyHgUm2hHfiywTEuIdmJ",
+      "album": {
+        "id": "0kbyHgUm2hHfiywTEuIdmJ",
+        "name": "MSQ Performs Neil Young",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da5d16078adb2188bf218a11"
+      },
       "release_date": "2021-11-26",
       "popularity": 4
     },
     {
-      "trackId": "4j08A1efdJcVINBHSmQKPS",
-      "name": "Under Pressure",
+      "track": {
+        "id": "4j08A1efdJcVINBHSmQKPS",
+        "name": "Under Pressure"
+      },
       "duration_ms": 211733,
-      "artist": [
-        "My Chemical Romance",
-        "The Used"
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "id": "7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "id": "55VydwMyCuGcavwPuhutPL"
+        }
       ],
-      "artistId": [
-        "7FBcuc1gsnv6Y1nwFtNRCb",
-        "55VydwMyCuGcavwPuhutPL"
-      ],
-      "albumId": "3yeNEy2TFt4hvtQ6sRichS",
+      "album": {
+        "id": "3yeNEy2TFt4hvtQ6sRichS",
+        "name": "Under Pressure",
+        "img": "https://i.scdn.co/image/ab67616d00001e02478568a2fa6d578b0f6f8f50"
+      },
       "release_date": "2005-04-12",
       "popularity": 52
     },
     {
-      "trackId": "0mC2H7DRxLssATrahVayIZ",
-      "name": "Humdrum Blues",
+      "track": {
+        "id": "0mC2H7DRxLssATrahVayIZ",
+        "name": "Humdrum Blues"
+      },
       "duration_ms": 121733,
-      "artist": [
-        "Oscar Brown, Jr."
+      "artists": [
+        {
+          "name": "Oscar Brown, Jr.",
+          "id": "4tlPDFGdI3IwmwpGgW0Aza"
+        }
       ],
-      "artistId": [
-        "4tlPDFGdI3IwmwpGgW0Aza"
-      ],
-      "albumId": "213yUx6RlmljEZptl3KTFz",
+      "album": {
+        "id": "213yUx6RlmljEZptl3KTFz",
+        "name": "Sin & Soul... And Then Some",
+        "img": "https://i.scdn.co/image/ab67616d00001e020064b882fe7b944572f5efd6"
+      },
       "release_date": "1996-11-04",
       "popularity": 14
     }

@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/e2b86b5a-1c9d-414a-85ce-f8a12a780af0.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5TjO0GOOon3R6YOnRFPwzk",
-      "name": "Chicago",
+      "track": {
+        "id": "5TjO0GOOon3R6YOnRFPwzk",
+        "name": "Chicago"
+      },
       "duration_ms": 179840,
-      "artist": [
-        "Benny Goodman"
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "id": "1pBuKaLHJlIlqYxQQaflve"
+        }
       ],
-      "artistId": [
-        "1pBuKaLHJlIlqYxQQaflve"
-      ],
-      "albumId": "1I1E1ZUYFDK0Dn4DK5YmrH",
+      "album": {
+        "id": "1I1E1ZUYFDK0Dn4DK5YmrH",
+        "name": "The Best Of Benny Goodman",
+        "img": "https://i.scdn.co/image/ab67616d00001e02786965f18ad7960240020a43"
+      },
       "release_date": "1997-01-01",
       "popularity": 47
     },
     {
-      "trackId": "42JtcEN0XW2mCGsMENWUox",
-      "name": "Vintersaga",
+      "track": {
+        "id": "42JtcEN0XW2mCGsMENWUox",
+        "name": "Vintersaga"
+      },
       "duration_ms": 238093,
-      "artist": [
-        "Monica Törnell"
+      "artists": [
+        {
+          "name": "Monica Törnell",
+          "id": "2mzcDa3H7xrIikDmF9rFwN"
+        }
       ],
-      "artistId": [
-        "2mzcDa3H7xrIikDmF9rFwN"
-      ],
-      "albumId": "1KrXeJBmvnDj3weYsWIFpQ",
+      "album": {
+        "id": "1KrXeJBmvnDj3weYsWIFpQ",
+        "name": "Mica",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283495c6a24a87307236c670f"
+      },
       "release_date": "1984-01-01",
       "popularity": 34
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "0EWwr0BzqbCBq1UMpeEijM",
-      "name": "Nocturne No. 20 in C-Sharp Minor, Op. posth (The Pianist)",
+      "track": {
+        "id": "0EWwr0BzqbCBq1UMpeEijM",
+        "name": "Nocturne No. 20 in C-Sharp Minor, Op. posth (The Pianist)"
+      },
       "duration_ms": 274546,
-      "artist": [
-        "Frédéric Chopin",
-        "Roland Pöntinen"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Roland Pöntinen",
+          "id": "3oob8cWQ5FMlfVZRwSSVES"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "3oob8cWQ5FMlfVZRwSSVES"
-      ],
-      "albumId": "3UUIThdycDTtTJzqmRMGGt",
+      "album": {
+        "id": "3UUIThdycDTtTJzqmRMGGt",
+        "name": "Pianorama - Collection of Film Music for Piano",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cbaa514fe07198067e8ad7bc"
+      },
       "release_date": "2006-01-01",
       "popularity": 37
     },
     {
-      "trackId": "6YqdbEEX9FxMVtgRXNpN0E",
-      "name": "Fördomar 2",
+      "track": {
+        "id": "6YqdbEEX9FxMVtgRXNpN0E",
+        "name": "Fördomar 2"
+      },
       "duration_ms": 111826,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "3KVd387YbvDT5hHGclCsHE",
+      "album": {
+        "id": "3KVd387YbvDT5hHGclCsHE",
+        "name": "Mitt Kvarter",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e1755edae8f697408f4c728"
+      },
       "release_date": "2000-01-01",
       "popularity": 23
     },
     {
-      "trackId": "7wYTId0m7sgvh5zkLWHLmf",
-      "name": "Att Angöra En Brygga",
+      "track": {
+        "id": "7wYTId0m7sgvh5zkLWHLmf",
+        "name": "Att Angöra En Brygga"
+      },
       "duration_ms": 199000,
-      "artist": [
-        "Monica Borrfors"
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "id": "6kQLrF8BwbKymqwvCJJzLb"
+        }
       ],
-      "artistId": [
-        "6kQLrF8BwbKymqwvCJJzLb"
-      ],
-      "albumId": "6nMS7XdBiFlGoZgaSxcfKN",
+      "album": {
+        "id": "6nMS7XdBiFlGoZgaSxcfKN",
+        "name": "Monica Sjunger Monica",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f1783119084874d86dee2d5"
+      },
       "release_date": "2007-01-01",
       "popularity": 0
     },
     {
-      "trackId": "0ZhhR9EOFbWjX0YDXO3twe",
-      "name": "Valse triste, Op. 44, No. 1 (From \"Kuolema\")",
+      "track": {
+        "id": "0ZhhR9EOFbWjX0YDXO3twe",
+        "name": "Valse triste, Op. 44, No. 1 (From \"Kuolema\")"
+      },
       "duration_ms": 266466,
-      "artist": [
-        "Jean Sibelius",
-        "Swedish Radio Symphony Orchestra",
-        "Esa-Pekka Salonen"
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "id": "7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "id": "0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        }
       ],
-      "artistId": [
-        "7jzR5qj8vFnSu5JHaXgFEr",
-        "0K6ufQj8JzIZPPkvZrEwJS",
-        "3ilNZUdmNZ2nUcuAOIpsQl"
-      ],
-      "albumId": "5A0idPvCmh7GEzUuMoiDAc",
+      "album": {
+        "id": "5A0idPvCmh7GEzUuMoiDAc",
+        "name": "Greatest Hits: Sibelius",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b6f49e04cad8c2486a86c9d"
+      },
       "release_date": "1963",
       "popularity": 4
     },
     {
-      "trackId": "5dYnh6HqaQN3UUhqbWx1RR",
-      "name": "Sommargästens visa",
+      "track": {
+        "id": "5dYnh6HqaQN3UUhqbWx1RR",
+        "name": "Sommargästens visa"
+      },
       "duration_ms": 198893,
-      "artist": [
-        "Elisabet Hermodsson",
-        "Jan Kling",
-        "Larsolof Loman"
+      "artists": [
+        {
+          "name": "Elisabet Hermodsson",
+          "id": "3042u3iyDJ3xtjUOh3oTEn"
+        },
+        {
+          "name": "Jan Kling",
+          "id": "7HB0c6ZmyY6qHWPicyKVW6"
+        },
+        {
+          "name": "Larsolof Loman",
+          "id": "6yncs83h48HNrXCSb1Unrc"
+        }
       ],
-      "artistId": [
-        "3042u3iyDJ3xtjUOh3oTEn",
-        "7HB0c6ZmyY6qHWPicyKVW6",
-        "6yncs83h48HNrXCSb1Unrc"
-      ],
-      "albumId": "0yxdF9XQDhIWQCr8DIfS4k",
+      "album": {
+        "id": "0yxdF9XQDhIWQCr8DIfS4k",
+        "name": "Vakna med en sommarsjäl",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dee453da0d766976ce9a453e"
+      },
       "release_date": "2017-05-30",
       "popularity": 1
     },
     {
-      "trackId": "2LXIDbMQe5KEvJ0g31vA8C",
-      "name": "Det gåtfulla folket",
+      "track": {
+        "id": "2LXIDbMQe5KEvJ0g31vA8C",
+        "name": "Det gåtfulla folket"
+      },
       "duration_ms": 215173,
-      "artist": [
-        "Olle Adolphson"
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "id": "4hkOyd0eTeViYkZooM4Jay"
+        }
       ],
-      "artistId": [
-        "4hkOyd0eTeViYkZooM4Jay"
-      ],
-      "albumId": "1LcBO0r324MVgi8nxEZrMQ",
+      "album": {
+        "id": "1LcBO0r324MVgi8nxEZrMQ",
+        "name": "Gamla fina låtar 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02072c5a8dc39c57a7c65c6003"
+      },
       "release_date": "1991-01-01",
       "popularity": 34
     },
     {
-      "trackId": "1qHRbk7nqoQDRRPtLwomGB",
-      "name": "Så skimrande var aldrig havet",
+      "track": {
+        "id": "1qHRbk7nqoQDRRPtLwomGB",
+        "name": "Så skimrande var aldrig havet"
+      },
       "duration_ms": 83320,
-      "artist": [
-        "Ingvar Wixell"
+      "artists": [
+        {
+          "name": "Ingvar Wixell",
+          "id": "4Ji71insQgY8xcElRz2jdc"
+        }
       ],
-      "artistId": [
-        "4Ji71insQgY8xcElRz2jdc"
-      ],
-      "albumId": "6kbPZV6fA3f7wICl8FI6am",
+      "album": {
+        "id": "6kbPZV6fA3f7wICl8FI6am",
+        "name": "Fridas Visor & Evert Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e1bcef371ce34375bf64584"
+      },
       "release_date": "1996",
       "popularity": 1
     },
     {
-      "trackId": "4wmdo3Ib8VgdTDLsuAZCkY",
-      "name": "Ska nya röster sjunga",
+      "track": {
+        "id": "4wmdo3Ib8VgdTDLsuAZCkY",
+        "name": "Ska nya röster sjunga"
+      },
       "duration_ms": 257866,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 28
     },
     {
-      "trackId": "0nQLxiNGbbUoSGrxksETLm",
-      "name": "The Power",
+      "track": {
+        "id": "0nQLxiNGbbUoSGrxksETLm",
+        "name": "The Power"
+      },
       "duration_ms": 228993,
-      "artist": [
-        "SNAP!"
+      "artists": [
+        {
+          "name": "SNAP!",
+          "id": "2FrKQPjJe4pVMZOgm0ESOx"
+        }
       ],
-      "artistId": [
-        "2FrKQPjJe4pVMZOgm0ESOx"
-      ],
-      "albumId": "40dT7brCvniJawDHpBCE4A",
+      "album": {
+        "id": "40dT7brCvniJawDHpBCE4A",
+        "name": "World Power",
+        "img": "https://i.scdn.co/image/ab67616d00001e02521fcfb205cf0baa97d8056d"
+      },
       "release_date": "1990-01-01",
       "popularity": 61
     }

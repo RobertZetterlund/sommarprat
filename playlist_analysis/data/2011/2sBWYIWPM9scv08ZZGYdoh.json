@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243425_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4kWm3Tw5Kej3BELlGo7KYu",
-      "name": "Fire In Freetown",
+      "track": {
+        "id": "4kWm3Tw5Kej3BELlGo7KYu",
+        "name": "Fire In Freetown"
+      },
       "duration_ms": 276600,
-      "artist": [
-        "K'NAAN"
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "id": "7pGyQZx9thVa8GxMBeXscB"
+        }
       ],
-      "artistId": [
-        "7pGyQZx9thVa8GxMBeXscB"
-      ],
-      "albumId": "5NeG7Rk7ZUGVgvIRxPOmJ3",
+      "album": {
+        "id": "5NeG7Rk7ZUGVgvIRxPOmJ3",
+        "name": "Troubadour (Champion Edition - Asian Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc777b7053754412f01d52d0"
+      },
       "release_date": "2009",
       "popularity": 14
     },
     {
-      "trackId": "4TZ8FBKuJqRrXLqOlLcZ8D",
-      "name": "Hooyo",
+      "track": {
+        "id": "4TZ8FBKuJqRrXLqOlLcZ8D",
+        "name": "Hooyo"
+      },
       "duration_ms": 300200,
-      "artist": [
-        "Gulled Ahmed"
+      "artists": [
+        {
+          "name": "Gulled Ahmed",
+          "id": "25nTK1gahxg1P1HGj0qx2J"
+        }
       ],
-      "artistId": [
-        "25nTK1gahxg1P1HGj0qx2J"
-      ],
-      "albumId": "0sLn88lGGz4r6kW06NNhlj",
+      "album": {
+        "id": "0sLn88lGGz4r6kW06NNhlj",
+        "name": "Gulled Ahmed",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8f80baac0108e4ff94082ef"
+      },
       "release_date": "2019-03-28",
       "popularity": 4
     },
     {
-      "trackId": "5O4erNlJ74PIF6kGol1ZrC",
-      "name": "Could You Be Loved",
+      "track": {
+        "id": "5O4erNlJ74PIF6kGol1ZrC",
+        "name": "Could You Be Loved"
+      },
       "duration_ms": 237000,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 78
     },
     {
-      "trackId": "7LZoKNMhsZ7qbP1lYGDva8",
-      "name": "To Love Somebody",
+      "track": {
+        "id": "7LZoKNMhsZ7qbP1lYGDva8",
+        "name": "To Love Somebody"
+      },
       "duration_ms": 158746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "6T4nAC6CRLciyg4tQbgovi",
+      "album": {
+        "id": "6T4nAC6CRLciyg4tQbgovi",
+        "name": "To Love Somebody (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d443fe6c1b51189c885c8bb8"
+      },
       "release_date": "1969",
       "popularity": 51
     },
     {
-      "trackId": "5KapB9KJnRsZrprzIAXycW",
-      "name": "Uknowhowwedu",
+      "track": {
+        "id": "5KapB9KJnRsZrprzIAXycW",
+        "name": "Uknowhowwedu"
+      },
       "duration_ms": 214866,
-      "artist": [
-        "Bahamadia"
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "id": "6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
       ],
-      "artistId": [
-        "6ZcRUVs3I5U8EOnm9ZdCsO"
-      ],
-      "albumId": "4ioG1W3KU4WBhYlwEBp7BA",
+      "album": {
+        "id": "4ioG1W3KU4WBhYlwEBp7BA",
+        "name": "Kollage",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244016e2326d59e4dd362ea5e"
+      },
       "release_date": "1996-04-02",
       "popularity": 58
     },
     {
-      "trackId": "0nLiqZ6A27jJri2VCalIUs",
-      "name": "Nothing Else Matters",
+      "track": {
+        "id": "0nLiqZ6A27jJri2VCalIUs",
+        "name": "Nothing Else Matters"
+      },
       "duration_ms": 388266,
-      "artist": [
-        "Metallica"
+      "artists": [
+        {
+          "name": "Metallica",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB"
+        }
       ],
-      "artistId": [
-        "2ye2Wgw4gimLv2eAKyk1NB"
-      ],
-      "albumId": "2Kh43m04B1UkVcpcRa1Zug",
+      "album": {
+        "id": "2Kh43m04B1UkVcpcRa1Zug",
+        "name": "Metallica",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf84c5b276431b473e924802"
+      },
       "release_date": "1991-08-12",
       "popularity": 80
     },
     {
-      "trackId": "1YEwlI2aCKITozVudLxrBs",
-      "name": "Regn hos mej",
+      "track": {
+        "id": "1YEwlI2aCKITozVudLxrBs",
+        "name": "Regn hos mej"
+      },
       "duration_ms": 185186,
-      "artist": [
-        "Orup"
+      "artists": [
+        {
+          "name": "Orup",
+          "id": "6fJM13619LsYtyPqHvsf6A"
+        }
       ],
-      "artistId": [
-        "6fJM13619LsYtyPqHvsf6A"
-      ],
-      "albumId": "2YtQqFjhKsnfVvPNkG1TjK",
+      "album": {
+        "id": "2YtQqFjhKsnfVvPNkG1TjK",
+        "name": "Orup 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6901a072a9cb30a8f1bf956"
+      },
       "release_date": "1989-03-03",
       "popularity": 43
     },
     {
-      "trackId": "5PQmSHzWnlgG4EBuIqjac2",
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "track": {
+        "id": "5PQmSHzWnlgG4EBuIqjac2",
+        "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)"
+      },
       "duration_ms": 282373,
-      "artist": [
-        "Nas",
-        "Ms. Lauryn Hill"
+      "artists": [
+        {
+          "name": "Nas",
+          "id": "20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        }
       ],
-      "artistId": [
-        "20qISvAhX20dpIbOOzGK3q",
-        "2Mu5NfyYm8n5iTomuKAEHl"
-      ],
-      "albumId": "78Fgb88MY0ECc4GVMejqTg",
+      "album": {
+        "id": "78Fgb88MY0ECc4GVMejqTg",
+        "name": "It Was Written",
+        "img": "https://i.scdn.co/image/ab67616d00001e02886d823ecbfcbe661a6b0ab9"
+      },
       "release_date": "1996-07-02",
       "popularity": 70
     },
     {
-      "trackId": "612VcBshQcy4mpB2utGc3H",
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "track": {
+        "id": "612VcBshQcy4mpB2utGc3H",
+        "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster"
+      },
       "duration_ms": 280000,
-      "artist": [
-        "Eric Clapton"
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "id": "6PAt558ZEZl0DmdXlnjMgD"
+        }
       ],
-      "artistId": [
-        "6PAt558ZEZl0DmdXlnjMgD"
-      ],
-      "albumId": "3ebyEGol0Abc7VAxYf7vEg",
+      "album": {
+        "id": "3ebyEGol0Abc7VAxYf7vEg",
+        "name": "Unplugged (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d55ec7fcfacd95e73877b787"
+      },
       "release_date": "1992-08-25",
       "popularity": 70
     },
     {
-      "trackId": "5ByAIlEEnxYdvpnezg7HTX",
-      "name": "Juicy - 2005 Remaster",
+      "track": {
+        "id": "5ByAIlEEnxYdvpnezg7HTX",
+        "name": "Juicy - 2005 Remaster"
+      },
       "duration_ms": 302760,
-      "artist": [
-        "The Notorious B.I.G."
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "id": "5me0Irg2ANcsgc93uaYrpb"
+        }
       ],
-      "artistId": [
-        "5me0Irg2ANcsgc93uaYrpb"
-      ],
-      "albumId": "2HTbQ0RHwukKVXAlTmCZP2",
+      "album": {
+        "id": "2HTbQ0RHwukKVXAlTmCZP2",
+        "name": "Ready to Die (The Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db09958534ac66f9a90d3cf7"
+      },
       "release_date": "1994-09-13",
       "popularity": 75
     },
     {
-      "trackId": "1kiNatIrwDusOZfR29W0LJ",
-      "name": "Man in the Mirror - 2012 Remaster",
+      "track": {
+        "id": "1kiNatIrwDusOZfR29W0LJ",
+        "name": "Man in the Mirror - 2012 Remaster"
+      },
       "duration_ms": 318680,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "24TAupSNVWSAHL0R7n71vm",
+      "album": {
+        "id": "24TAupSNVWSAHL0R7n71vm",
+        "name": "Bad 25th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bb21d27effb96a1d0fe8d6d"
+      },
       "release_date": "1987-08-31",
       "popularity": 69
     }

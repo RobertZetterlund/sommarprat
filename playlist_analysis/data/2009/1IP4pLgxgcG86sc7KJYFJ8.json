@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249750_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4aLcGMxwFtcZRpl7NDtNW2",
-      "name": "Time To Say Goodbye",
+      "track": {
+        "id": "4aLcGMxwFtcZRpl7NDtNW2",
+        "name": "Time To Say Goodbye"
+      },
       "duration_ms": 245893,
-      "artist": [
-        "Francesco Sartori",
-        "Lucio Quarantotto",
-        "Sarah Brightman"
+      "artists": [
+        {
+          "name": "Francesco Sartori",
+          "id": "0VtVDsLKIsyiBa1DeAdKbU"
+        },
+        {
+          "name": "Lucio Quarantotto",
+          "id": "1lMNYBJkRVsauCctH6Scvn"
+        },
+        {
+          "name": "Sarah Brightman",
+          "id": "7Ead768rc4ShGxnqtqccU5"
+        }
       ],
-      "artistId": [
-        "0VtVDsLKIsyiBa1DeAdKbU",
-        "1lMNYBJkRVsauCctH6Scvn",
-        "7Ead768rc4ShGxnqtqccU5"
-      ],
-      "albumId": "6O4lYKMQFLDcaUrBocYSRz",
+      "album": {
+        "id": "6O4lYKMQFLDcaUrBocYSRz",
+        "name": "The Best of Andrea Bocelli - 'Vivere'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1fef75fd377a1dd08dc3e2a"
+      },
       "release_date": "2007-01-01",
       "popularity": 59
     },
     {
-      "trackId": "1Jwc3ODLQxtbnS8M9TflSP",
-      "name": "Walk Like an Egyptian",
+      "track": {
+        "id": "1Jwc3ODLQxtbnS8M9TflSP",
+        "name": "Walk Like an Egyptian"
+      },
       "duration_ms": 204706,
-      "artist": [
-        "The Bangles"
+      "artists": [
+        {
+          "name": "The Bangles",
+          "id": "51l0uqRxGaczYr4271pVIC"
+        }
       ],
-      "artistId": [
-        "51l0uqRxGaczYr4271pVIC"
-      ],
-      "albumId": "4yaX6Gmlvo42PnGgBdhzGf",
+      "album": {
+        "id": "4yaX6Gmlvo42PnGgBdhzGf",
+        "name": "The Essential Bangles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fed4a89ebe66064c67f2f4ea"
+      },
       "release_date": "2004",
       "popularity": 63
     },
     {
-      "trackId": "5zMpGzZPsgOWJGVG9YzKia",
-      "name": "Höstvisa",
+      "track": {
+        "id": "5zMpGzZPsgOWJGVG9YzKia",
+        "name": "Höstvisa"
+      },
       "duration_ms": 209000,
-      "artist": [
-        "Cumulus"
+      "artists": [
+        {
+          "name": "Cumulus",
+          "id": "453SReS55opNWqjlRBI7KC"
+        }
       ],
-      "artistId": [
-        "453SReS55opNWqjlRBI7KC"
-      ],
-      "albumId": "4H9hU6nrhcYBHvapL8gqNR",
+      "album": {
+        "id": "4H9hU6nrhcYBHvapL8gqNR",
+        "name": "Cumulus",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208b511512506ef977579d170"
+      },
       "release_date": "1977",
       "popularity": 24
     },
     {
-      "trackId": "4iIVsaOFYcutuOUslA79P2",
-      "name": "Don't Stop Believing",
+      "track": {
+        "id": "4iIVsaOFYcutuOUslA79P2",
+        "name": "Don't Stop Believing"
+      },
       "duration_ms": 257746,
-      "artist": [
-        "Starship"
+      "artists": [
+        {
+          "name": "Starship",
+          "id": "0kObWap02DEg9EAJ3PBxzf"
+        }
       ],
-      "artistId": [
-        "0kObWap02DEg9EAJ3PBxzf"
-      ],
-      "albumId": "1rGCEmoHd41BBDvUPQ1U23",
+      "album": {
+        "id": "1rGCEmoHd41BBDvUPQ1U23",
+        "name": "Classic Rock Greats",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c9f3aac05cb5bf30f92ece7"
+      },
       "release_date": "2009-12-01",
       "popularity": 23
     },
     {
-      "trackId": "3pRaLNL3b8x5uBOcsgvdqM",
-      "name": "Hallelujah",
+      "track": {
+        "id": "3pRaLNL3b8x5uBOcsgvdqM",
+        "name": "Hallelujah"
+      },
       "duration_ms": 413826,
-      "artist": [
-        "Jeff Buckley"
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "id": "3nnQpaTvKb5jCQabZefACI"
+        }
       ],
-      "artistId": [
-        "3nnQpaTvKb5jCQabZefACI"
-      ],
-      "albumId": "7yQtjAjhtNi76KRu05XWFS",
+      "album": {
+        "id": "7yQtjAjhtNi76KRu05XWFS",
+        "name": "Grace",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a760642a56847027428cb61"
+      },
       "release_date": "1994",
       "popularity": 70
     },
     {
-      "trackId": "2OpEjOrVbb3BxpU2n4h6QV",
-      "name": "Sycamore Trees",
+      "track": {
+        "id": "2OpEjOrVbb3BxpU2n4h6QV",
+        "name": "Sycamore Trees"
+      },
       "duration_ms": 234506,
-      "artist": [
-        "Jimmy Scott"
+      "artists": [
+        {
+          "name": "Jimmy Scott",
+          "id": "5T7u5bYO62WTYOk5RBZwjo"
+        }
       ],
-      "artistId": [
-        "5T7u5bYO62WTYOk5RBZwjo"
-      ],
-      "albumId": "7KTThkarRqhJX5DVkDOo7Z",
+      "album": {
+        "id": "7KTThkarRqhJX5DVkDOo7Z",
+        "name": "Twin Peaks: Fire Walk With Me - Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3deb4ba912e7b0a7c160f74"
+      },
       "release_date": "1992",
       "popularity": 36
     },
     {
-      "trackId": "04NTgfyFFx8FRm0vZszMF7",
-      "name": "Gonna Fly Now",
+      "track": {
+        "id": "04NTgfyFFx8FRm0vZszMF7",
+        "name": "Gonna Fly Now"
+      },
       "duration_ms": 289746,
-      "artist": [
-        "Rocky Orchestra"
+      "artists": [
+        {
+          "name": "Rocky Orchestra",
+          "id": "5Strpt0ddlNJdlzloGjVQT"
+        }
       ],
-      "artistId": [
-        "5Strpt0ddlNJdlzloGjVQT"
-      ],
-      "albumId": "5SPoOMzF5s2ff8LJ2W6oyH",
+      "album": {
+        "id": "5SPoOMzF5s2ff8LJ2W6oyH",
+        "name": "The Rocky Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267c0a118cc63685a9f6d4f63"
+      },
       "release_date": "1990-04-14",
       "popularity": 45
     },
     {
-      "trackId": "5MxNLUsfh7uzROypsoO5qe",
-      "name": "Dream On",
+      "track": {
+        "id": "5MxNLUsfh7uzROypsoO5qe",
+        "name": "Dream On"
+      },
       "duration_ms": 266960,
-      "artist": [
-        "Aerosmith"
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "id": "7Ey4PD4MYsKc5I2dolUwbH"
+        }
       ],
-      "artistId": [
-        "7Ey4PD4MYsKc5I2dolUwbH"
-      ],
-      "albumId": "19lEZSnCCbVEkKchoPQWDZ",
+      "album": {
+        "id": "19lEZSnCCbVEkKchoPQWDZ",
+        "name": "Aerosmith",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b11078ee23dcd99e085ac33e"
+      },
       "release_date": "1973-01-05",
       "popularity": 80
     },
     {
-      "trackId": "0BnxL59z0vrxjEFWsDsVQw",
-      "name": "Anthem",
+      "track": {
+        "id": "0BnxL59z0vrxjEFWsDsVQw",
+        "name": "Anthem"
+      },
       "duration_ms": 185626,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "69KkOFZHGPVSrF6soNzKmA",
+      "album": {
+        "id": "69KkOFZHGPVSrF6soNzKmA",
+        "name": "Gränslös - Det bästa med Tommy Körberg (2012 version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f972c947ea7261f5465a1db6"
+      },
       "release_date": "2012-01-01",
       "popularity": 42
     },
     {
-      "trackId": "65tTCp2tdOFkUvAreEq3eH",
-      "name": "För att du är här",
+      "track": {
+        "id": "65tTCp2tdOFkUvAreEq3eH",
+        "name": "För att du är här"
+      },
       "duration_ms": 278866,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "4cLsjd6LMR1irSYvLWe9Tw",
+      "album": {
+        "id": "4cLsjd6LMR1irSYvLWe9Tw",
+        "name": "Lai Lai",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297e16a2c5078ae2c54eb0409"
+      },
       "release_date": "1999-01-01",
       "popularity": 27
     },
     {
-      "trackId": "5zMpGzZPsgOWJGVG9YzKia",
-      "name": "Höstvisa",
+      "track": {
+        "id": "5zMpGzZPsgOWJGVG9YzKia",
+        "name": "Höstvisa"
+      },
       "duration_ms": 209000,
-      "artist": [
-        "Cumulus"
+      "artists": [
+        {
+          "name": "Cumulus",
+          "id": "453SReS55opNWqjlRBI7KC"
+        }
       ],
-      "artistId": [
-        "453SReS55opNWqjlRBI7KC"
-      ],
-      "albumId": "4H9hU6nrhcYBHvapL8gqNR",
+      "album": {
+        "id": "4H9hU6nrhcYBHvapL8gqNR",
+        "name": "Cumulus",
+        "img": "https://i.scdn.co/image/ab67616d00001e0208b511512506ef977579d170"
+      },
       "release_date": "1977",
       "popularity": 24
     }

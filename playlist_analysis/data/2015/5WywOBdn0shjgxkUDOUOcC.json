@@ -7,178 +7,258 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531019_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5lnYe0UdNFTYKwQf2wPhBL",
-      "name": "Pigor och drängar",
+      "track": {
+        "id": "5lnYe0UdNFTYKwQf2wPhBL",
+        "name": "Pigor och drängar"
+      },
       "duration_ms": 221840,
-      "artist": [
-        "Ulf Lundell",
-        "Vibafemba"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        },
+        {
+          "name": "Vibafemba",
+          "id": "6VDrTt7xUfkkDsVx8EuVWp"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A",
-        "6VDrTt7xUfkkDsVx8EuVWp"
-      ],
-      "albumId": "5KJDjL1BTwIJFMyLzGyPLv",
+      "album": {
+        "id": "5KJDjL1BTwIJFMyLzGyPLv",
+        "name": "Samla alla fem",
+        "img": "https://i.scdn.co/image/ab67616d00001e028aa570b6a26c6276113cb714"
+      },
       "release_date": "2002-11-04",
       "popularity": 8
     },
     {
-      "trackId": "3fbtA5GK9KdyfTCQiZ1eS0",
-      "name": "Romance 1: (Arr. for Trombone and Piano) II",
+      "track": {
+        "id": "3fbtA5GK9KdyfTCQiZ1eS0",
+        "name": "Romance 1: (Arr. for Trombone and Piano) II"
+      },
       "duration_ms": 72746,
-      "artist": [
-        "Pyotr Ilyich Tchaikovsky",
-        "Christian Lindberg",
-        "Roland Pöntinen"
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "id": "3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Christian Lindberg",
+          "id": "2gQKtXD5BZqKT8Tl9JfFcy"
+        },
+        {
+          "name": "Roland Pöntinen",
+          "id": "3oob8cWQ5FMlfVZRwSSVES"
+        }
       ],
-      "artistId": [
-        "3MKCzCnpzw3TjUYs2v7vDA",
-        "2gQKtXD5BZqKT8Tl9JfFcy",
-        "3oob8cWQ5FMlfVZRwSSVES"
-      ],
-      "albumId": "5RnABpWLmoRiIXEOnRvvW1",
+      "album": {
+        "id": "5RnABpWLmoRiIXEOnRvvW1",
+        "name": "Tchaikovsky: Six Romances Op. 6 (Arr. for Trombone and Piano)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025146bc6adcda29d78773d550"
+      },
       "release_date": "2022-05-31",
       "popularity": 39
     },
     {
-      "trackId": "5B5dFE2ofUxmsXbhGrPZT9",
-      "name": "A Most Peculiar Man",
+      "track": {
+        "id": "5B5dFE2ofUxmsXbhGrPZT9",
+        "name": "A Most Peculiar Man"
+      },
       "duration_ms": 150560,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "07RAGILF28QweYQSZasr5k",
+      "album": {
+        "id": "07RAGILF28QweYQSZasr5k",
+        "name": "Sounds Of Silence",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244a8aa7ac5c2e2defbfd702b"
+      },
       "release_date": "1966-01-17",
       "popularity": 44
     },
     {
-      "trackId": "5oo4vVTG5tUERk5JO01wvU",
-      "name": "Trettifyran",
+      "track": {
+        "id": "5oo4vVTG5tUERk5JO01wvU",
+        "name": "Trettifyran"
+      },
       "duration_ms": 141760,
-      "artist": [
-        "Per Myrberg"
+      "artists": [
+        {
+          "name": "Per Myrberg",
+          "id": "74HgFbSvwVCvess9LgMze2"
+        }
       ],
-      "artistId": [
-        "74HgFbSvwVCvess9LgMze2"
-      ],
-      "albumId": "5NvkzT4V6lzCREmK37K4wa",
+      "album": {
+        "id": "5NvkzT4V6lzCREmK37K4wa",
+        "name": "34:an",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8d45b0e0ed4541494b0e3a8"
+      },
       "release_date": "1965",
       "popularity": 33
     },
     {
-      "trackId": "6AhUX0ObPgTnS5GGFrRidN",
-      "name": "Seasons in the Sun",
+      "track": {
+        "id": "6AhUX0ObPgTnS5GGFrRidN",
+        "name": "Seasons in the Sun"
+      },
       "duration_ms": 205586,
-      "artist": [
-        "Terry Jacks"
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "id": "09dDdtfi4mWLdC2BHOrIrl"
+        }
       ],
-      "artistId": [
-        "09dDdtfi4mWLdC2BHOrIrl"
-      ],
-      "albumId": "1k7WkNHGPNPnri2tsowvtg",
+      "album": {
+        "id": "1k7WkNHGPNPnri2tsowvtg",
+        "name": "70s 100 Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02871ab8561721e8967eda8269"
+      },
       "release_date": "2010-03-01",
       "popularity": 51
     },
     {
-      "trackId": "4vTT30mAGogt38JwZc0oyW",
-      "name": "Money Money",
+      "track": {
+        "id": "4vTT30mAGogt38JwZc0oyW",
+        "name": "Money Money"
+      },
       "duration_ms": 182000,
-      "artist": [
-        "Joel Grey",
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Joel Grey",
+          "id": "64WqSGPXrSf1YbxoimVNbd"
+        },
+        {
+          "name": "Liza Minnelli",
+          "id": "1pdGj6Gak10Q2ajig4l1Dm"
+        }
       ],
-      "artistId": [
-        "64WqSGPXrSf1YbxoimVNbd",
-        "1pdGj6Gak10Q2ajig4l1Dm"
-      ],
-      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "album": {
+        "id": "28qbOp4dEh18N5u6FInyOO",
+        "name": "Cabaret (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f0ddaafb889a16220871372"
+      },
       "release_date": "1972-02-13",
       "popularity": 40
     },
     {
-      "trackId": "3O8r5fzSLXMR4NY4MRO0ko",
-      "name": "Hello God",
+      "track": {
+        "id": "3O8r5fzSLXMR4NY4MRO0ko",
+        "name": "Hello God"
+      },
       "duration_ms": 182533,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "0kodgeZfYZc7qZ7KJAbx3O",
+      "album": {
+        "id": "0kodgeZfYZc7qZ7KJAbx3O",
+        "name": "Halos & Horns",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c3f2e6605a6c7b0625e7e1a"
+      },
       "release_date": "2002-07-09",
       "popularity": 28
     },
     {
-      "trackId": "3VbGCXWRiouAq8VyMYN2MI",
-      "name": "Love Me Do - Remastered 2009",
+      "track": {
+        "id": "3VbGCXWRiouAq8VyMYN2MI",
+        "name": "Love Me Do - Remastered 2009"
+      },
       "duration_ms": 141693,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3KzAvEXcqJKBF97HrXwlgf",
+      "album": {
+        "id": "3KzAvEXcqJKBF97HrXwlgf",
+        "name": "Please Please Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df"
+      },
       "release_date": "1963-03-22",
       "popularity": 67
     },
     {
-      "trackId": "5DqoBOPQONI21hFAJ6wOri",
-      "name": "Window Pain",
+      "track": {
+        "id": "5DqoBOPQONI21hFAJ6wOri",
+        "name": "Window Pain"
+      },
       "duration_ms": 245266,
-      "artist": [
-        "Melanie"
+      "artists": [
+        {
+          "name": "Melanie",
+          "id": "6sOP8RUFR0q0nBOBOXGdBK"
+        }
       ],
-      "artistId": [
-        "6sOP8RUFR0q0nBOBOXGdBK"
-      ],
-      "albumId": "1x14VLttehUKhYh08bbnMc",
+      "album": {
+        "id": "1x14VLttehUKhYh08bbnMc",
+        "name": "Cowabonga",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee614d16659aed4a6287bdb0"
+      },
       "release_date": "1988-01-01",
       "popularity": 0
     },
     {
-      "trackId": "4yCIzykHs6MlMcK4HwUbWe",
-      "name": "Amazing Grace",
+      "track": {
+        "id": "4yCIzykHs6MlMcK4HwUbWe",
+        "name": "Amazing Grace"
+      },
       "duration_ms": 245026,
-      "artist": [
-        "LeAnn Rimes"
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "id": "2d3VHzlOEwXvmBdS4pzOPL"
+        }
       ],
-      "artistId": [
-        "2d3VHzlOEwXvmBdS4pzOPL"
-      ],
-      "albumId": "5FXJHigDDA8I1xT47xpsWk",
+      "album": {
+        "id": "5FXJHigDDA8I1xT47xpsWk",
+        "name": "You Light Up My Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dccd1cfd851b2a9dca21222"
+      },
       "release_date": "1997-09-09",
       "popularity": 37
     },
     {
-      "trackId": "4qEEVP9zQztdHOAMvUsm1j",
-      "name": "De Nære Ting",
+      "track": {
+        "id": "4qEEVP9zQztdHOAMvUsm1j",
+        "name": "De Nære Ting"
+      },
       "duration_ms": 187573,
-      "artist": [
-        "Trond Granlund"
+      "artists": [
+        {
+          "name": "Trond Granlund",
+          "id": "20iTZJD8KAdzPvcgEZe76R"
+        }
       ],
-      "artistId": [
-        "20iTZJD8KAdzPvcgEZe76R"
-      ],
-      "albumId": "7IYIYwoiU7bii7NGJsyxxC",
+      "album": {
+        "id": "7IYIYwoiU7bii7NGJsyxxC",
+        "name": "Sanger Jeg Lærte Av Faren Min",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209a5b9f68f1c9eabb333b659"
+      },
       "release_date": "2010-02-01",
       "popularity": 31
     },
     {
-      "trackId": "4QKk0GijhiDBcoRLeZvdZZ",
-      "name": "Ballerina - 1999 Remaster",
+      "track": {
+        "id": "4QKk0GijhiDBcoRLeZvdZZ",
+        "name": "Ballerina - 1999 Remaster"
+      },
       "duration_ms": 423280,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "4pG3bKkbmReDt5QTDn3JDz",
+      "album": {
+        "id": "4pG3bKkbmReDt5QTDn3JDz",
+        "name": "Astral Weeks",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c849bc0a79a44105a4258662"
+      },
       "release_date": "1968-11-01",
       "popularity": 34
     }

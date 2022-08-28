@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3251018_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "43Ud1IajwtBvw6ONj6aK2Q",
-      "name": "Mother - Remastered 2010",
+      "track": {
+        "id": "43Ud1IajwtBvw6ONj6aK2Q",
+        "name": "Mother - Remastered 2010"
+      },
       "duration_ms": 336306,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "0DFYbYCcHCEJPcN1hODG6K",
+      "album": {
+        "id": "0DFYbYCcHCEJPcN1hODG6K",
+        "name": "Plastic Ono Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e026462162d227ec2be2ebee12d"
+      },
       "release_date": "1970-12-11",
       "popularity": 48
     },
     {
-      "trackId": "06xX9E1BTTwyOwyaBuszSK",
-      "name": "Fångad av en stormvind - Swedish Version",
+      "track": {
+        "id": "06xX9E1BTTwyOwyaBuszSK",
+        "name": "Fångad av en stormvind - Swedish Version"
+      },
       "duration_ms": 180760,
-      "artist": [
-        "Carola"
+      "artists": [
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        }
       ],
-      "artistId": [
-        "3uFum0NCM1PtmCO0MwsOAt"
-      ],
-      "albumId": "4cotyYQgYleaHbqQEgU9Hv",
+      "album": {
+        "id": "4cotyYQgYleaHbqQEgU9Hv",
+        "name": "Främling 25 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202e7b8d0e871a838221132a2"
+      },
       "release_date": "1983-03-26",
       "popularity": 53
     },
     {
-      "trackId": "3HjFgVVRtNFJhGihyp9MRN",
-      "name": "Blåsippan ute i backarna står",
+      "track": {
+        "id": "3HjFgVVRtNFJhGihyp9MRN",
+        "name": "Blåsippan ute i backarna står"
+      },
       "duration_ms": 50164,
-      "artist": [
-        "Anna-Lisa Löfström"
+      "artists": [
+        {
+          "name": "Anna-Lisa Löfström",
+          "id": "2jyoEHW97jXE0pV3HtJaoQ"
+        }
       ],
-      "artistId": [
-        "2jyoEHW97jXE0pV3HtJaoQ"
-      ],
-      "albumId": "0pyRMNoMAuIxf0uasq5cCB",
+      "album": {
+        "id": "0pyRMNoMAuIxf0uasq5cCB",
+        "name": "Barnmusik & Visor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0c224bbc784fc387c664d2b"
+      },
       "release_date": "2016-03-12",
       "popularity": 17
     },
     {
-      "trackId": "6uPlyYAhVihzNIxsqpSySO",
-      "name": "Majas visa (När lillan kom till jorden)",
+      "track": {
+        "id": "6uPlyYAhVihzNIxsqpSySO",
+        "name": "Majas visa (När lillan kom till jorden)"
+      },
       "duration_ms": 85200,
-      "artist": [
-        "Alice Babs",
-        "Titti"
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "id": "3omPckNeXtMpCdOXVfcOST"
+        },
+        {
+          "name": "Titti",
+          "id": "7IbS2SEpGqbjRAgEgplBWp"
+        }
       ],
-      "artistId": [
-        "3omPckNeXtMpCdOXVfcOST",
-        "7IbS2SEpGqbjRAgEgplBWp"
-      ],
-      "albumId": "6jy6cwR3A9Z6kD9la3LjHT",
+      "album": {
+        "id": "6jy6cwR3A9Z6kD9la3LjHT",
+        "name": "Sjung med oss mamma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5d4c9fdc3d31fe240426f6"
+      },
       "release_date": "1963-11-11",
       "popularity": 33
     },
     {
-      "trackId": "68BTFws92cRztMS1oQ7Ewj",
-      "name": "All You Need Is Love - Remastered 2009",
+      "track": {
+        "id": "68BTFws92cRztMS1oQ7Ewj",
+        "name": "All You Need Is Love - Remastered 2009"
+      },
       "duration_ms": 230386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "2BtE7qm1qzM80p9vLSiXkj",
+      "album": {
+        "id": "2BtE7qm1qzM80p9vLSiXkj",
+        "name": "Magical Mystery Tour (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1"
+      },
       "release_date": "1967-11-27",
       "popularity": 65
     },
     {
-      "trackId": "29UxoYPUyAy5WlMB5Vootz",
-      "name": "Zarabanda lejana",
+      "track": {
+        "id": "29UxoYPUyAy5WlMB5Vootz",
+        "name": "Zarabanda lejana"
+      },
       "duration_ms": 304506,
-      "artist": [
-        "Joaquín Rodrigo",
-        "Andrés Segovia"
+      "artists": [
+        {
+          "name": "Joaquín Rodrigo",
+          "id": "3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Andrés Segovia",
+          "id": "3Din7QXYnTjT52WF62KS97"
+        }
       ],
-      "artistId": [
-        "3eqv9LW7ZXlYWXVFjHS4Mr",
-        "3Din7QXYnTjT52WF62KS97"
-      ],
-      "albumId": "37vSAxajqAPW4zDgQFeMpH",
+      "album": {
+        "id": "37vSAxajqAPW4zDgQFeMpH",
+        "name": "The Golden Years of Andres Segovia (1952-1954)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02946a0ef2fbad9af5b6eaf5e8"
+      },
       "release_date": "1954",
       "popularity": 1
     },
     {
-      "trackId": "0xljZqZHvXhVfse33fQ9bK",
-      "name": "Vem tänder stjärnorna",
+      "track": {
+        "id": "0xljZqZHvXhVfse33fQ9bK",
+        "name": "Vem tänder stjärnorna"
+      },
       "duration_ms": 243426,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "1gpNgZzbVcWCtHREPUkVRV",
+      "album": {
+        "id": "1gpNgZzbVcWCtHREPUkVRV",
+        "name": "En blekt blondins hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ecb81fc5f561ea4e429de30"
+      },
       "release_date": "1991-09-12",
       "popularity": 44
     },
     {
-      "trackId": "3i5M6UDp6iJtvJUOnX3v2t",
-      "name": "Mandy's Song",
+      "track": {
+        "id": "3i5M6UDp6iJtvJUOnX3v2t",
+        "name": "Mandy's Song"
+      },
       "duration_ms": 117500,
-      "artist": [
-        "Lille Du"
+      "artists": [
+        {
+          "name": "Lille Du",
+          "id": "1bNG6qjWLR1cCdvsrxenvH"
+        }
       ],
-      "artistId": [
-        "1bNG6qjWLR1cCdvsrxenvH"
-      ],
-      "albumId": "44AT5kvRSurQZ5ONRuqpcH",
+      "album": {
+        "id": "44AT5kvRSurQZ5ONRuqpcH",
+        "name": "Mandy's Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a1454e7e9086a75aa8ecf26"
+      },
       "release_date": "2022-06-10",
       "popularity": 61
     },
     {
-      "trackId": "2kfKzsVOdfeh778FtuT5bo",
-      "name": "Welcome to My World",
+      "track": {
+        "id": "2kfKzsVOdfeh778FtuT5bo",
+        "name": "Welcome to My World"
+      },
       "duration_ms": 142893,
-      "artist": [
-        "Jim Reeves"
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "id": "2Ev0e8GUIX4u7d9etNLTXg"
+        }
       ],
-      "artistId": [
-        "2Ev0e8GUIX4u7d9etNLTXg"
-      ],
-      "albumId": "2pU9doTVvJH0xeZQnzvsPU",
+      "album": {
+        "id": "2pU9doTVvJH0xeZQnzvsPU",
+        "name": "The Essential Jim Reeves",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ad1ec148473d914523a4725f"
+      },
       "release_date": "1995-07-31",
       "popularity": 51
     },
     {
-      "trackId": "0qfxMXDXa2gBqTgrcdI9Vi",
-      "name": "Som Stjärnor Små (Duett Med Lisa Nilsson)",
+      "track": {
+        "id": "0qfxMXDXa2gBqTgrcdI9Vi",
+        "name": "Som Stjärnor Små (Duett Med Lisa Nilsson)"
+      },
       "duration_ms": 190626,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "6ipaFvEKsfSvsTERiPiMFb",
+      "album": {
+        "id": "6ipaFvEKsfSvsTERiPiMFb",
+        "name": "Alderville Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e023eae010adda0e499cbaa9821"
+      },
       "release_date": "2007-11-19",
       "popularity": 14
     },
     {
-      "trackId": "3wqYQbDzFYKytO7uVLQtHD",
-      "name": "Tusind stykker",
+      "track": {
+        "id": "3wqYQbDzFYKytO7uVLQtHD",
+        "name": "Tusind stykker"
+      },
       "duration_ms": 261959,
-      "artist": [
-        "Anne Linnet"
+      "artists": [
+        {
+          "name": "Anne Linnet",
+          "id": "6AWEo7TFXeaDNDMMFuE2YY"
+        }
       ],
-      "artistId": [
-        "6AWEo7TFXeaDNDMMFuE2YY"
-      ],
-      "albumId": "1G1Ck0pVl2zluufmNIhrd7",
+      "album": {
+        "id": "1G1Ck0pVl2zluufmNIhrd7",
+        "name": "Jeg Er Jo Lige Her",
+        "img": "https://i.scdn.co/image/ab67616d00001e022399800164beed2657b38fad"
+      },
       "release_date": "1988-07-19",
       "popularity": 47
     },
     {
-      "trackId": "49CcYj1bsJ0fjkICI8hIrR",
-      "name": "Jag vill tacka Livet",
+      "track": {
+        "id": "49CcYj1bsJ0fjkICI8hIrR",
+        "name": "Jag vill tacka Livet"
+      },
       "duration_ms": 266040,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "6Ye4WhlxwRkxAyyF1frCdi",
+      "album": {
+        "id": "6Ye4WhlxwRkxAyyF1frCdi",
+        "name": "Jag vill tacka livet - 13 sånger av Violeta Parra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f92f9109892c50471f98257e"
+      },
       "release_date": "1979",
       "popularity": 24
     },
     {
-      "trackId": "02PpkpEkterJbHj3xXjYDs",
-      "name": "Här På Schlätta (Från “Uti Bögda”)",
+      "track": {
+        "id": "02PpkpEkterJbHj3xXjYDs",
+        "name": "Här På Schlätta (Från “Uti Bögda”)"
+      },
       "duration_ms": 137976,
-      "artist": [
-        "Kass Humor"
+      "artists": [
+        {
+          "name": "Kass Humor",
+          "id": "4lOWM55CT050Ax9o3x5ztq"
+        }
       ],
-      "artistId": [
-        "4lOWM55CT050Ax9o3x5ztq"
-      ],
-      "albumId": "6L8nYXhvMb5X467x26VCx4",
+      "album": {
+        "id": "6L8nYXhvMb5X467x26VCx4",
+        "name": "Här På Schlätta (Från “Uti Bögda”)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b83896b83976c701cbf983ed"
+      },
       "release_date": "2016-12-05",
       "popularity": 30
     },
     {
-      "trackId": "0GdHzLwAZkDcJz6cAV0Qz9",
-      "name": "Hon Kommer Med Solsken",
+      "track": {
+        "id": "0GdHzLwAZkDcJz6cAV0Qz9",
+        "name": "Hon Kommer Med Solsken"
+      },
       "duration_ms": 175453,
-      "artist": [
-        "Östen Med Resten"
+      "artists": [
+        {
+          "name": "Östen Med Resten",
+          "id": "20nKo8C8M0JpIznby9Dv5p"
+        }
       ],
-      "artistId": [
-        "20nKo8C8M0JpIznby9Dv5p"
-      ],
-      "albumId": "03wYV1m0EmBAhtgVLvGNKn",
+      "album": {
+        "id": "03wYV1m0EmBAhtgVLvGNKn",
+        "name": "Greatest of the Best",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245acf3eba462c0090c7cf1bb"
+      },
       "release_date": "2002-04-03",
       "popularity": 50
     }

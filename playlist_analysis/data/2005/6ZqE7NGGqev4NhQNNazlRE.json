@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234430_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7g6M0YoqdwFEhh27ngMeMs",
-      "name": "L'hymne national russe",
+      "track": {
+        "id": "7g6M0YoqdwFEhh27ngMeMs",
+        "name": "L'hymne national russe"
+      },
       "duration_ms": 223106,
-      "artist": [
-        "The Red Army Choir"
+      "artists": [
+        {
+          "name": "The Red Army Choir",
+          "id": "4yNluGAiPbYXLwlA9KspbG"
+        }
       ],
-      "artistId": [
-        "4yNluGAiPbYXLwlA9KspbG"
-      ],
-      "albumId": "2m1KOKSJsO9auAMShRI1Xe",
+      "album": {
+        "id": "2m1KOKSJsO9auAMShRI1Xe",
+        "name": "Choeurs de l'armée rouge - Intégrale",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c03ef5a7f95e5251f30c9f5"
+      },
       "release_date": "2004-01-01",
       "popularity": 40
     },
     {
-      "trackId": "1Lav2Z3RKu71MJLIjQz4dQ",
-      "name": "Wild Dances",
+      "track": {
+        "id": "1Lav2Z3RKu71MJLIjQz4dQ",
+        "name": "Wild Dances"
+      },
       "duration_ms": 183200,
-      "artist": [
-        "Ruslana"
+      "artists": [
+        {
+          "name": "Ruslana",
+          "id": "5nkB6GEbHINTSqmi5XMSoa"
+        }
       ],
-      "artistId": [
-        "5nkB6GEbHINTSqmi5XMSoa"
-      ],
-      "albumId": "1z6OfyGs0GepuESby1DUhB",
+      "album": {
+        "id": "1z6OfyGs0GepuESby1DUhB",
+        "name": "Wild Dances",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3310238d06afe3898fa0fdb"
+      },
       "release_date": "2004-01-01",
       "popularity": 50
     },
     {
-      "trackId": "4gj5Wv7rAJYhBrGPu01mxD",
-      "name": "The Ballad Of Lucy Jordan",
+      "track": {
+        "id": "4gj5Wv7rAJYhBrGPu01mxD",
+        "name": "The Ballad Of Lucy Jordan"
+      },
       "duration_ms": 249533,
-      "artist": [
-        "Marianne Faithfull"
+      "artists": [
+        {
+          "name": "Marianne Faithfull",
+          "id": "7mlge4peaoNgzTsY6M32RB"
+        }
       ],
-      "artistId": [
-        "7mlge4peaoNgzTsY6M32RB"
-      ],
-      "albumId": "3H0cWLh4X4x5TB8TTkE3LE",
+      "album": {
+        "id": "3H0cWLh4X4x5TB8TTkE3LE",
+        "name": "Broken English",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c252389bd832c823935d550"
+      },
       "release_date": "1979-11-02",
       "popularity": 53
     },
     {
-      "trackId": "0o8pNcu6bxaxQI0G0AJuk5",
-      "name": "Sveriges favoritturkar",
+      "track": {
+        "id": "0o8pNcu6bxaxQI0G0AJuk5",
+        "name": "Sveriges favoritturkar"
+      },
       "duration_ms": 221072,
-      "artist": [
-        "Sångturkarna"
+      "artists": [
+        {
+          "name": "Sångturkarna",
+          "id": "12JFNY38lo94XMz3cFSyQg"
+        }
       ],
-      "artistId": [
-        "12JFNY38lo94XMz3cFSyQg"
-      ],
-      "albumId": "7xbGGam42QAbl5no8TqeRV",
+      "album": {
+        "id": "7xbGGam42QAbl5no8TqeRV",
+        "name": "Sveriges favoritturkar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0d81922a3b6a66be55545ce"
+      },
       "release_date": "2021-10-06",
       "popularity": 43
     },
     {
-      "trackId": "3YYL1xRxFima23PcmRijRY",
-      "name": "Yala",
+      "track": {
+        "id": "3YYL1xRxFima23PcmRijRY",
+        "name": "Yala"
+      },
       "duration_ms": 244640,
-      "artist": [
-        "Oumou Sangaré"
+      "artists": [
+        {
+          "name": "Oumou Sangaré",
+          "id": "65CKKZilbcSKkAPC9a5Mvh"
+        }
       ],
-      "artistId": [
-        "65CKKZilbcSKkAPC9a5Mvh"
-      ],
-      "albumId": "3b7OKZVFIGpWaviLFbOGPI",
+      "album": {
+        "id": "3b7OKZVFIGpWaviLFbOGPI",
+        "name": "Oumou",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f11444672332c4e5fd339fbb"
+      },
       "release_date": "1990-01-01",
       "popularity": 35
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "6MC0QTKf4VTZ6HWeTmNPGp",
-      "name": "Tchintchirote",
+      "track": {
+        "id": "6MC0QTKf4VTZ6HWeTmNPGp",
+        "name": "Tchintchirote"
+      },
       "duration_ms": 194490,
-      "artist": [
-        "Cesária Evora"
+      "artists": [
+        {
+          "name": "Cesária Evora",
+          "id": "0Nks3cFWU2a7rooAlFQYgn"
+        }
       ],
-      "artistId": [
-        "0Nks3cFWU2a7rooAlFQYgn"
-      ],
-      "albumId": "6HgvwjJVmQEL2K7lFwGZgB",
+      "album": {
+        "id": "6HgvwjJVmQEL2K7lFwGZgB",
+        "name": "Cabo Verde",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5af72676429822187537789"
+      },
       "release_date": "1997-02-18",
       "popularity": 47
     },
     {
-      "trackId": "2EyW1eAfHxHA2Uufos1y1f",
-      "name": "Tänk om (feat. Nougie Jadama)",
+      "track": {
+        "id": "2EyW1eAfHxHA2Uufos1y1f",
+        "name": "Tänk om (feat. Nougie Jadama)"
+      },
       "duration_ms": 237226,
-      "artist": [
-        "Feven",
-        "Nougie Jadama"
+      "artists": [
+        {
+          "name": "Feven",
+          "id": "2dIIk1exnmJHdJpqp7KgK5"
+        },
+        {
+          "name": "Nougie Jadama",
+          "id": "7tsic8DNRWC44RUlmjilsJ"
+        }
       ],
-      "artistId": [
-        "2dIIk1exnmJHdJpqp7KgK5",
-        "7tsic8DNRWC44RUlmjilsJ"
-      ],
-      "albumId": "6i0e4JVcdNLGucQvoSOcvG",
+      "album": {
+        "id": "6i0e4JVcdNLGucQvoSOcvG",
+        "name": "Hela vägen ut",
+        "img": "https://i.scdn.co/image/ab67616d00001e0254fcfef98a84832aed56b6aa"
+      },
       "release_date": "2000-01-01",
       "popularity": 3
     },
     {
-      "trackId": "6UEzGV76d96lYTA68iBO0B",
-      "name": "First We Take Manhattan",
+      "track": {
+        "id": "6UEzGV76d96lYTA68iBO0B",
+        "name": "First We Take Manhattan"
+      },
       "duration_ms": 360133,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3gUw30X6A7WEGcRdv1nFr9",
+      "album": {
+        "id": "3gUw30X6A7WEGcRdv1nFr9",
+        "name": "I'm Your Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225b12e3030dcf540319f687e"
+      },
       "release_date": "1988-02-02",
       "popularity": 48
     },
     {
-      "trackId": "7rZ3Gqfwh5SuM5tvHK1eAq",
-      "name": "Karlavagnen",
+      "track": {
+        "id": "7rZ3Gqfwh5SuM5tvHK1eAq",
+        "name": "Karlavagnen"
+      },
       "duration_ms": 190423,
-      "artist": [
-        "Rymdpojken"
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "id": "6EgpIGGBsDihJL6JucBT17"
+        }
       ],
-      "artistId": [
-        "6EgpIGGBsDihJL6JucBT17"
-      ],
-      "albumId": "1sqRHRlSZ1rJQwTeGP5en5",
+      "album": {
+        "id": "1sqRHRlSZ1rJQwTeGP5en5",
+        "name": "Karlavagnen",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a8e97bc0b315914c1b4fa87"
+      },
       "release_date": "2021-03-26",
       "popularity": 59
     },
     {
-      "trackId": "5oE6INocVL9viDow5y8QNM",
-      "name": "Fragile",
+      "track": {
+        "id": "5oE6INocVL9viDow5y8QNM",
+        "name": "Fragile"
+      },
       "duration_ms": 236306,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+      "album": {
+        "id": "3mVCQqgwEvwD7lHy9KHi7R",
+        "name": "...Nothing Like The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "10ETGjbVJ1F93HYnOeUiI2",
-      "name": "Rocksamba (Vi klarar det) - Live",
+      "track": {
+        "id": "10ETGjbVJ1F93HYnOeUiI2",
+        "name": "Rocksamba (Vi klarar det) - Live"
+      },
       "duration_ms": 328266,
-      "artist": [
-        "Björn Afzelius",
-        "Mikael Wiehe"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        },
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0",
-        "3VOOmK7ZqJNgOPN1hopJuL"
-      ],
-      "albumId": "2vNCmGZ70kvD2z2GOXP2QF",
+      "album": {
+        "id": "2vNCmGZ70kvD2z2GOXP2QF",
+        "name": "Olympiska nätter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9984c98d9f600eb516e7807"
+      },
       "release_date": "2009-06-15",
       "popularity": 5
     }

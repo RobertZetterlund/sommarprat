@@ -7,208 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3256228_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "20qnQazP18TYmZjabBzJ6y",
-      "name": "Vitalins vals",
+      "track": {
+        "id": "20qnQazP18TYmZjabBzJ6y",
+        "name": "Vitalins vals"
+      },
       "duration_ms": 180840,
-      "artist": [
-        "Benny Anderssons Orkester"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS"
-      ],
-      "albumId": "0IpwjWmQNt0ceesV6p629y",
+      "album": {
+        "id": "0IpwjWmQNt0ceesV6p629y",
+        "name": "BAO!",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e872fdad60c7d69cbb278d6"
+      },
       "release_date": "2004",
       "popularity": 15
     },
     {
-      "trackId": "5MoDQWMDMaAGDEiWsJfeCi",
-      "name": "Eternal Flame",
+      "track": {
+        "id": "5MoDQWMDMaAGDEiWsJfeCi",
+        "name": "Eternal Flame"
+      },
       "duration_ms": 238026,
-      "artist": [
-        "The Bangles"
+      "artists": [
+        {
+          "name": "The Bangles",
+          "id": "51l0uqRxGaczYr4271pVIC"
+        }
       ],
-      "artistId": [
-        "51l0uqRxGaczYr4271pVIC"
-      ],
-      "albumId": "4yaX6Gmlvo42PnGgBdhzGf",
+      "album": {
+        "id": "4yaX6Gmlvo42PnGgBdhzGf",
+        "name": "The Essential Bangles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fed4a89ebe66064c67f2f4ea"
+      },
       "release_date": "2004",
       "popularity": 67
     },
     {
-      "trackId": "1tXICN3ZSSvVAEz2LskRic",
-      "name": "Desafinado",
+      "track": {
+        "id": "1tXICN3ZSSvVAEz2LskRic",
+        "name": "Desafinado"
+      },
       "duration_ms": 251293,
-      "artist": [
-        "Stan Getz",
-        "João Gilberto",
-        "Antônio Carlos Jobim"
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "id": "0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "João Gilberto",
+          "id": "77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Antônio Carlos Jobim",
+          "id": "3pO5VjZ4wOHCMBXOvbMISG"
+        }
       ],
-      "artistId": [
-        "0FMucZsEnCxs5pqBjHjIc8",
-        "77ZUbcdoU5KCPHNUl8bgQy",
-        "3pO5VjZ4wOHCMBXOvbMISG"
-      ],
-      "albumId": "2LJAm2dBEBhPaHkcOhtdlS",
+      "album": {
+        "id": "2LJAm2dBEBhPaHkcOhtdlS",
+        "name": "Autumn Jazz",
+        "img": "https://i.scdn.co/image/ab67616d00001e0214c8f7491164178aedd0060c"
+      },
       "release_date": "2022-08-05",
       "popularity": 2
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "29q3LvVxljm9iJZGErJ4it",
-      "name": "Line For Lyons - Instrumental",
+      "track": {
+        "id": "29q3LvVxljm9iJZGErJ4it",
+        "name": "Line For Lyons - Instrumental"
+      },
       "duration_ms": 151600,
-      "artist": [
-        "Gerry Mulligan Quartet",
-        "Chet Baker"
+      "artists": [
+        {
+          "name": "Gerry Mulligan Quartet",
+          "id": "6nLkWu5DSXItXcB6q2ISTO"
+        },
+        {
+          "name": "Chet Baker",
+          "id": "3rxeQlsv0Sc2nyYaZ5W71T"
+        }
       ],
-      "artistId": [
-        "6nLkWu5DSXItXcB6q2ISTO",
-        "3rxeQlsv0Sc2nyYaZ5W71T"
-      ],
-      "albumId": "0LQ1BLetSy1432P1OfDY6e",
+      "album": {
+        "id": "0LQ1BLetSy1432P1OfDY6e",
+        "name": "Gerry Mulligan Quartet/Chubby Jackson Big Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e02937df9f5707cee3b15973c15"
+      },
       "release_date": "1992-01-01",
       "popularity": 22
     },
     {
-      "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
-      "name": "The Winner Takes It All",
+      "track": {
+        "id": "3oEkrIfXfSh9zGnE7eBzSV",
+        "name": "The Winner Takes It All"
+      },
       "duration_ms": 294720,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 73
     },
     {
-      "trackId": "3eOYmWvienEIgHJFAWE3ZD",
-      "name": "Live Tomorrow",
+      "track": {
+        "id": "3eOYmWvienEIgHJFAWE3ZD",
+        "name": "Live Tomorrow"
+      },
       "duration_ms": 215906,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "64o8Xiysec8ro1PqcgYWuh",
+      "album": {
+        "id": "64o8Xiysec8ro1PqcgYWuh",
+        "name": "Laleh",
+        "img": "https://i.scdn.co/image/ab67616d00001e028222e77e2fbf4a3ce0c6c6b0"
+      },
       "release_date": "2005-03-01",
       "popularity": 43
     },
     {
-      "trackId": "3uhF5EBcuqqXELlszBhIOy",
-      "name": "Himlen runt hörnet",
+      "track": {
+        "id": "3uhF5EBcuqqXELlszBhIOy",
+        "name": "Himlen runt hörnet"
+      },
       "duration_ms": 305413,
-      "artist": [
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "6OlWJqjVgsi1NJ1Y1CFesI",
+      "album": {
+        "id": "6OlWJqjVgsi1NJ1Y1CFesI",
+        "name": "Himlen runt hörnet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272f6103496d5b45ed1e3ea7d"
+      },
       "release_date": "1992-01-01",
       "popularity": 46
     },
     {
-      "trackId": "1PuZw2fPU7Y1jBuij2sFLX",
-      "name": "Skenbart",
+      "track": {
+        "id": "1PuZw2fPU7Y1jBuij2sFLX",
+        "name": "Skenbart"
+      },
       "duration_ms": 259146,
-      "artist": [
-        "Benny Anderssons Orkester",
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        },
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS",
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "0IpwjWmQNt0ceesV6p629y",
+      "album": {
+        "id": "0IpwjWmQNt0ceesV6p629y",
+        "name": "BAO!",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e872fdad60c7d69cbb278d6"
+      },
       "release_date": "2004",
       "popularity": 15
     },
     {
-      "trackId": "14H2fE4WEdkEem0kjVeODT",
-      "name": "Phantom of the Opera - 2015 Remaster",
+      "track": {
+        "id": "14H2fE4WEdkEem0kjVeODT",
+        "name": "Phantom of the Opera - 2015 Remaster"
+      },
       "duration_ms": 441466,
-      "artist": [
-        "Iron Maiden"
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "id": "6mdiAmATAx73kdxrNrnlao"
+        }
       ],
-      "artistId": [
-        "6mdiAmATAx73kdxrNrnlao"
-      ],
-      "albumId": "3DNeMApEMCo4IDXNMYnlFi",
+      "album": {
+        "id": "3DNeMApEMCo4IDXNMYnlFi",
+        "name": "Iron Maiden (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ac3ed972e1c181cd2ee8d55"
+      },
       "release_date": "1980",
       "popularity": 59
     },
     {
-      "trackId": "3glXn6Hu7YJQM9wN0cWotz",
-      "name": "Captain Nemo",
+      "track": {
+        "id": "3glXn6Hu7YJQM9wN0cWotz",
+        "name": "Captain Nemo"
+      },
       "duration_ms": 243933,
-      "artist": [
-        "Ace of Base"
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "id": "5ksRONqssB7BR161NTtJAm"
+        }
       ],
-      "artistId": [
-        "5ksRONqssB7BR161NTtJAm"
-      ],
-      "albumId": "4oXtR5JbdA9PLwbR49zx9Q",
+      "album": {
+        "id": "4oXtR5JbdA9PLwbR49zx9Q",
+        "name": "Flowers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f82c35d0067cd13f928330d1"
+      },
       "release_date": "1998-01-21",
       "popularity": 17
     },
     {
-      "trackId": "3WQG1PkTkvJPEZNnQcbfa5",
-      "name": "Underbart är kort",
+      "track": {
+        "id": "3WQG1PkTkvJPEZNnQcbfa5",
+        "name": "Underbart är kort"
+      },
       "duration_ms": 258466,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+      "album": {
+        "id": "7bDYb5Q2xcNgQ2g3u4lYiR",
+        "name": "Den sista jäntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281ddc01043d8abd1e8945194"
+      },
       "release_date": "1973-09-05",
       "popularity": 26
     },
     {
-      "trackId": "5JvsxPAHsGxwNq4xto2HtM",
-      "name": "Listen To Your Heart",
+      "track": {
+        "id": "5JvsxPAHsGxwNq4xto2HtM",
+        "name": "Listen To Your Heart"
+      },
       "duration_ms": 328093,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "4rQV5S9FhajZdyzFfcyYw9",
+      "album": {
+        "id": "4rQV5S9FhajZdyzFfcyYw9",
+        "name": "Look Sharp! (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d32e463de3d8d8b39dcac2c"
+      },
       "release_date": "1988-10-21",
       "popularity": 72
     },
     {
-      "trackId": "7FWa4VXtLrAfxoWg91snSA",
-      "name": "Fåfänglighet",
+      "track": {
+        "id": "7FWa4VXtLrAfxoWg91snSA",
+        "name": "Fåfänglighet"
+      },
       "duration_ms": 160893,
-      "artist": [
-        "Heine Bugge",
-        "Robert Vennström"
+      "artists": [
+        {
+          "name": "Heine Bugge",
+          "id": "7nz36JXN6RMToAvvV3qgNY"
+        },
+        {
+          "name": "Robert Vennström",
+          "id": "4ncaTRX66Q8x7izbGBK32F"
+        }
       ],
-      "artistId": [
-        "7nz36JXN6RMToAvvV3qgNY",
-        "4ncaTRX66Q8x7izbGBK32F"
-      ],
-      "albumId": "03AMKMZnuiYktgYpKodqr8",
+      "album": {
+        "id": "03AMKMZnuiYktgYpKodqr8",
+        "name": "Till Bergen (med Nils Ferlin)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d4f1f8ef2c1e1f538d3f8c60"
+      },
       "release_date": "2016-01-30",
       "popularity": 0
     }

@@ -7,270 +7,394 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860926_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1peJzOcj1YON5HQU7zl586",
-      "name": "They Can't Take That Away From Me - Remastered",
+      "track": {
+        "id": "1peJzOcj1YON5HQU7zl586",
+        "name": "They Can't Take That Away From Me - Remastered"
+      },
       "duration_ms": 116373,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "13LdtuGdkmByA44TiFejuQ",
+      "album": {
+        "id": "13LdtuGdkmByA44TiFejuQ",
+        "name": "Date Night Jazz Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e026fbfdb939c4a186c19018567"
+      },
       "release_date": "2022-08-11",
       "popularity": 4
     },
     {
-      "trackId": "14lyZKpPu1ECQpfXhgrip6",
-      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "track": {
+        "id": "14lyZKpPu1ECQpfXhgrip6",
+        "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav."
+      },
       "duration_ms": 50480,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP"
-      ],
-      "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+      "album": {
+        "id": "1aCpHSQE5ghxibsQ5gkBe0",
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7ed978a7fd1498ce8c031f7"
+      },
       "release_date": "1981",
       "popularity": 42
     },
     {
-      "trackId": "38jTsUXJDuchwqIPeXLmBR",
-      "name": "Öckerövalsen",
+      "track": {
+        "id": "38jTsUXJDuchwqIPeXLmBR",
+        "name": "Öckerövalsen"
+      },
       "duration_ms": 128546,
-      "artist": [
-        "Andrew Walter"
+      "artists": [
+        {
+          "name": "Andrew Walter",
+          "id": "2Yxp7rubuk3AIyix35fUTi"
+        }
       ],
-      "artistId": [
-        "2Yxp7rubuk3AIyix35fUTi"
-      ],
-      "albumId": "1BgHdnasaOGvfBAvtw35xt",
+      "album": {
+        "id": "1BgHdnasaOGvfBAvtw35xt",
+        "name": "Saltstänkta Sånger",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a2f10b573aad75deebaad578"
+      },
       "release_date": "2008-07-21",
       "popularity": 14
     },
     {
-      "trackId": "72iajVlDwVArna4ym7zrG6",
-      "name": "Harry Belafonte",
+      "track": {
+        "id": "72iajVlDwVArna4ym7zrG6",
+        "name": "Harry Belafonte"
+      },
       "duration_ms": 184902,
-      "artist": [
-        "Franska Trion"
+      "artists": [
+        {
+          "name": "Franska Trion",
+          "id": "1oDZOVYmQduTh3G4nmsyqv"
+        }
       ],
-      "artistId": [
-        "1oDZOVYmQduTh3G4nmsyqv"
-      ],
-      "albumId": "1fDrA1VkdtB4w5y5rn9Kq9",
+      "album": {
+        "id": "1fDrA1VkdtB4w5y5rn9Kq9",
+        "name": "Los Angeles",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f289d84c8b4907a7a0d0c69"
+      },
       "release_date": "2017-09-25",
       "popularity": 27
     },
     {
-      "trackId": "3W64IS8ZqASfmEYTZMgO3M",
-      "name": "Du är min man",
+      "track": {
+        "id": "3W64IS8ZqASfmEYTZMgO3M",
+        "name": "Du är min man"
+      },
       "duration_ms": 215600,
-      "artist": [
-        "Benny Anderssons Orkester",
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        },
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS",
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "0IpwjWmQNt0ceesV6p629y",
+      "album": {
+        "id": "0IpwjWmQNt0ceesV6p629y",
+        "name": "BAO!",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e872fdad60c7d69cbb278d6"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "2Fj1mdaM5Ol9wD0MQ5vHnn",
-      "name": "That’s My Kick - Remastered 2020",
+      "track": {
+        "id": "2Fj1mdaM5Ol9wD0MQ5vHnn",
+        "name": "That’s My Kick - Remastered 2020"
+      },
       "duration_ms": 171040,
-      "artist": [
-        "Erroll Garner"
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "id": "6C65D20ASusYqHGSIktfED"
+        }
       ],
-      "artistId": [
-        "6C65D20ASusYqHGSIktfED"
-      ],
-      "albumId": "4pKIjIDSlgSelaUKcTlIiN",
+      "album": {
+        "id": "4pKIjIDSlgSelaUKcTlIiN",
+        "name": "That's My Kick (Octave Remastered Series)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec5e72fd00ebc038a7018a74"
+      },
       "release_date": "2020-01-17",
       "popularity": 17
     },
     {
-      "trackId": "6NC31PJ1u7ceT9n5z05DjX",
-      "name": "Nu kommer kvällen",
+      "track": {
+        "id": "6NC31PJ1u7ceT9n5z05DjX",
+        "name": "Nu kommer kvällen"
+      },
       "duration_ms": 129759,
-      "artist": [
-        "Storkyrkans Kör"
+      "artists": [
+        {
+          "name": "Storkyrkans Kör",
+          "id": "2iUReUXJaxvslFuCQzWTNU"
+        }
       ],
-      "artistId": [
-        "2iUReUXJaxvslFuCQzWTNU"
-      ],
-      "albumId": "3xrk5qdNYsWMXo4wVOYBTh",
+      "album": {
+        "id": "3xrk5qdNYsWMXo4wVOYBTh",
+        "name": "Musik från Storkyrkan / Music from Stockholm Cathedral",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8d5ac74695801cb078b9369"
+      },
       "release_date": "1992-11-22",
       "popularity": 0
     },
     {
-      "trackId": "3jjrKRjXcWXzG8jPWFLZQX",
-      "name": "Kaj Ä Gaj",
+      "track": {
+        "id": "3jjrKRjXcWXzG8jPWFLZQX",
+        "name": "Kaj Ä Gaj"
+      },
       "duration_ms": 241400,
-      "artist": [
-        "Joddla Med Siv"
+      "artists": [
+        {
+          "name": "Joddla Med Siv",
+          "id": "1PxhrL4CXxTVPzNxZ0wRx4"
+        }
       ],
-      "artistId": [
-        "1PxhrL4CXxTVPzNxZ0wRx4"
-      ],
-      "albumId": "5p7YEvWA30h7GiSorHSeov",
+      "album": {
+        "id": "5p7YEvWA30h7GiSorHSeov",
+        "name": "Uma-Ness Från Senegal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2a24b20d3bcf9e4652c48d0"
+      },
       "release_date": "1998",
       "popularity": 42
     },
     {
-      "trackId": "0Hz0ySp6XYrBhEQPU16Hz8",
-      "name": "Valborg",
+      "track": {
+        "id": "0Hz0ySp6XYrBhEQPU16Hz8",
+        "name": "Valborg"
+      },
       "duration_ms": 198173,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "4y7g9dQcKkmBBNtMYhHxQs",
+      "album": {
+        "id": "4y7g9dQcKkmBBNtMYhHxQs",
+        "name": "Det kommer aldrig va över för mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295646685141ef8371ffacc8c"
+      },
       "release_date": "2013-01-01",
       "popularity": 60
     },
     {
-      "trackId": "6FCr45o1ife4sRZIuQAhOP",
-      "name": "Messiah, HWV 56: Part II: Aria: He was despised and rejected of men (Alto)",
+      "track": {
+        "id": "6FCr45o1ife4sRZIuQAhOP",
+        "name": "Messiah, HWV 56: Part II: Aria: He was despised and rejected of men (Alto)"
+      },
       "duration_ms": 359693,
-      "artist": [
-        "George Frideric Handel",
-        "Christina Högman",
-        "Kristina Hammarstrom"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Högman",
+          "id": "4204EReYts5J3YCu7um2y9"
+        },
+        {
+          "name": "Kristina Hammarstrom",
+          "id": "3HmZvSGXaDmF6P6VqPs8DE"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "4204EReYts5J3YCu7um2y9",
-        "3HmZvSGXaDmF6P6VqPs8DE"
-      ],
-      "albumId": "522dQcdH39ChNDisnthaFb",
+      "album": {
+        "id": "522dQcdH39ChNDisnthaFb",
+        "name": "Handel: Messiah",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506640df1a458b85579d1220"
+      },
       "release_date": "2010-10-01",
       "popularity": 0
     },
     {
-      "trackId": "2agNqg2JW3XcGONCUK8v3Q",
-      "name": "Sommarpsalm",
+      "track": {
+        "id": "2agNqg2JW3XcGONCUK8v3Q",
+        "name": "Sommarpsalm"
+      },
       "duration_ms": 181760,
-      "artist": [
-        "St. Jacob's Chamber Choir",
-        "Gary Graden",
-        "Anders Bondeman"
+      "artists": [
+        {
+          "name": "St. Jacob's Chamber Choir",
+          "id": "0ZQWLY2V9i4cFsLZEhMWov"
+        },
+        {
+          "name": "Gary Graden",
+          "id": "5bmLbbHbHsE9cdHolV4lig"
+        },
+        {
+          "name": "Anders Bondeman",
+          "id": "5pHEjbVqif2iExbZV6kU51"
+        }
       ],
-      "artistId": [
-        "0ZQWLY2V9i4cFsLZEhMWov",
-        "5bmLbbHbHsE9cdHolV4lig",
-        "5pHEjbVqif2iExbZV6kU51"
-      ],
-      "albumId": "6U7YcK2rDYIpst9HdojBy3",
+      "album": {
+        "id": "6U7YcK2rDYIpst9HdojBy3",
+        "name": "Sånger & Psalmer i S:t Jacobs kyrka",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290c0c9c7d89004115ed03fb4"
+      },
       "release_date": "2009-05-28",
       "popularity": 21
     },
     {
-      "trackId": "7KOegFQMd13ETQry4A6Tu1",
-      "name": "Strövtåg i hembygden",
+      "track": {
+        "id": "7KOegFQMd13ETQry4A6Tu1",
+        "name": "Strövtåg i hembygden"
+      },
       "duration_ms": 249573,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 56
     },
     {
-      "trackId": "0QFZuRzpWKodJJmGIeHDQj",
-      "name": "Det var dans bort i vägen",
+      "track": {
+        "id": "0QFZuRzpWKodJJmGIeHDQj",
+        "name": "Det var dans bort i vägen"
+      },
       "duration_ms": 207693,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "2aZ37mVqAeNeFfQ9prvnpd",
+      "album": {
+        "id": "2aZ37mVqAeNeFfQ9prvnpd",
+        "name": "Sven Ingvars i Frödingland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2fe827653054bf895d8ee11"
+      },
       "release_date": "1971-01-01",
       "popularity": 34
     },
     {
-      "trackId": "5i5DwG5jSN0lWv2f3qRG6H",
-      "name": "Kärleksvisan",
+      "track": {
+        "id": "5i5DwG5jSN0lWv2f3qRG6H",
+        "name": "Kärleksvisan"
+      },
       "duration_ms": 275482,
-      "artist": [
-        "Vintergatan"
+      "artists": [
+        {
+          "name": "Vintergatan",
+          "id": "2bl9NxlK21JgGjP5HkNi5o"
+        }
       ],
-      "artistId": [
-        "2bl9NxlK21JgGjP5HkNi5o"
-      ],
-      "albumId": "2vxMgZE6GxlU2wcxogv3tS",
+      "album": {
+        "id": "2vxMgZE6GxlU2wcxogv3tS",
+        "name": "Kärleksvisan",
+        "img": "https://i.scdn.co/image/ab67616d00001e028481d5ed2fbb0237d2438669"
+      },
       "release_date": "2022-04-22",
       "popularity": 44
     },
     {
-      "trackId": "5H8alkkUp7fdjQobWgUFfF",
-      "name": "Den olydiga ballongens egen visa - 2002 Remaster",
+      "track": {
+        "id": "5H8alkkUp7fdjQobWgUFfF",
+        "name": "Den olydiga ballongens egen visa - 2002 Remaster"
+      },
       "duration_ms": 135186,
-      "artist": [
-        "Alice Babs/Bengt Hallbergs Orkester"
+      "artists": [
+        {
+          "name": "Alice Babs/Bengt Hallbergs Orkester",
+          "id": "5PK0htav9BUXcvicObnn9m"
+        }
       ],
-      "artistId": [
-        "5PK0htav9BUXcvicObnn9m"
-      ],
-      "albumId": "7uEghXlvN8WFfj2nEY01za",
+      "album": {
+        "id": "7uEghXlvN8WFfj2nEY01za",
+        "name": "Den olydiga ballongen",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e1a200bf17873109ba3f590"
+      },
       "release_date": "2003",
       "popularity": 13
     },
     {
-      "trackId": "1TdYQO8sOiLVYz4YzwFqBN",
-      "name": "O hur saligt att fa vandra (Shall We Gather at the River) (arr. L. Strand): O, hur saligt att få vandra",
+      "track": {
+        "id": "1TdYQO8sOiLVYz4YzwFqBN",
+        "name": "O hur saligt att fa vandra (Shall We Gather at the River) (arr. L. Strand): O, hur saligt att få vandra"
+      },
       "duration_ms": 261917,
-      "artist": [
-        "Robert Lowry",
-        "Leif Strand",
-        "Leif Strands Kammarkör"
+      "artists": [
+        {
+          "name": "Robert Lowry",
+          "id": "71pAV5TkgpnAw7P8WzjIov"
+        },
+        {
+          "name": "Leif Strand",
+          "id": "6w4AfEmsguqaplvX9IphWJ"
+        },
+        {
+          "name": "Leif Strands Kammarkör",
+          "id": "4jWDe8NzpYkg4YKtNbKQ8L"
+        }
       ],
-      "artistId": [
-        "71pAV5TkgpnAw7P8WzjIov",
-        "6w4AfEmsguqaplvX9IphWJ",
-        "4jWDe8NzpYkg4YKtNbKQ8L"
-      ],
-      "albumId": "7zn5ods5EtaXMlGYY1EYg0",
+      "album": {
+        "id": "7zn5ods5EtaXMlGYY1EYg0",
+        "name": "Sorgen och Glädjen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea746c9354fb17fe5b890a2f"
+      },
       "release_date": "2014-04-01",
       "popularity": 5
     },
     {
-      "trackId": "4wmdo3Ib8VgdTDLsuAZCkY",
-      "name": "Ska nya röster sjunga",
+      "track": {
+        "id": "4wmdo3Ib8VgdTDLsuAZCkY",
+        "name": "Ska nya röster sjunga"
+      },
       "duration_ms": 257866,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 28
     },
     {
-      "trackId": "2eTUtIq62aYUHkIN99cmDX",
-      "name": "I'm Checkin' Out Go'Om Bye",
+      "track": {
+        "id": "2eTUtIq62aYUHkIN99cmDX",
+        "name": "I'm Checkin' Out Go'Om Bye"
+      },
       "duration_ms": 256120,
-      "artist": [
-        "Alice Babs"
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "id": "3omPckNeXtMpCdOXVfcOST"
+        }
       ],
-      "artistId": [
-        "3omPckNeXtMpCdOXVfcOST"
-      ],
-      "albumId": "26aZe5wY5BaADUQ2ndQeQK",
+      "album": {
+        "id": "26aZe5wY5BaADUQ2ndQeQK",
+        "name": "Swingtime Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f63625234c7e3ca98b378e1"
+      },
       "release_date": "1998-10-28",
       "popularity": 2
     }

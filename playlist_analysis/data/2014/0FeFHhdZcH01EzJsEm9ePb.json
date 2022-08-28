@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300137_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7cIw0QQOyaG8ed9HoZs77s",
-      "name": "Jan-Olof talar om Henry",
+      "track": {
+        "id": "7cIw0QQOyaG8ed9HoZs77s",
+        "name": "Jan-Olof talar om Henry"
+      },
       "duration_ms": 34093,
-      "artist": [
-        "Snutarna"
+      "artists": [
+        {
+          "name": "Snutarna",
+          "id": "5q1e2OGL6WnpsJDaNmAqCr"
+        }
       ],
-      "artistId": [
-        "5q1e2OGL6WnpsJDaNmAqCr"
-      ],
-      "albumId": "3tfZhbYjA1d3BgkmTXnsSj",
+      "album": {
+        "id": "3tfZhbYjA1d3BgkmTXnsSj",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9e332b090d191d218f2ce08"
+      },
       "release_date": "1994",
       "popularity": 0
     },
     {
-      "trackId": "6I3LXAGlKejmgxXloLPiGK",
-      "name": "A Mi Manera (Comme D'Habitude)",
+      "track": {
+        "id": "6I3LXAGlKejmgxXloLPiGK",
+        "name": "A Mi Manera (Comme D'Habitude)"
+      },
       "duration_ms": 231533,
-      "artist": [
-        "Gipsy Kings"
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "id": "3jc496ljiyrS3ECrD7QiqL"
+        }
       ],
-      "artistId": [
-        "3jc496ljiyrS3ECrD7QiqL"
-      ],
-      "albumId": "43uh4QoHA259dOUkXte7dl",
+      "album": {
+        "id": "43uh4QoHA259dOUkXte7dl",
+        "name": "Gipsy Kings",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e7cb1429534f0d21133b714"
+      },
       "release_date": "1987-08-24",
       "popularity": 59
     },
     {
-      "trackId": "1ZK8WJqkD1XhEYI1AlkMHG",
-      "name": "La mer",
+      "track": {
+        "id": "1ZK8WJqkD1XhEYI1AlkMHG",
+        "name": "La mer"
+      },
       "duration_ms": 201840,
-      "artist": [
-        "Charles Trenet"
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "id": "4a16JEaHldo5vZuRojtGTZ"
+        }
       ],
-      "artistId": [
-        "4a16JEaHldo5vZuRojtGTZ"
-      ],
-      "albumId": "2BgO56jZnE4xbfvlZOjK0L",
+      "album": {
+        "id": "2BgO56jZnE4xbfvlZOjK0L",
+        "name": "Disque D'or",
+        "img": "https://i.scdn.co/image/ab67616d00001e028555817419b10e2b4757c242"
+      },
       "release_date": "1992",
       "popularity": 54
     },
     {
-      "trackId": "7brc41T70B1IIwg2jCIX1Z",
-      "name": "Autumn Leaves",
+      "track": {
+        "id": "7brc41T70B1IIwg2jCIX1Z",
+        "name": "Autumn Leaves"
+      },
       "duration_ms": 289560,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "1w72yNvC0RLKYHkm41TXqy",
+      "album": {
+        "id": "1w72yNvC0RLKYHkm41TXqy",
+        "name": "Live At Blues Alley",
+        "img": "https://i.scdn.co/image/ab67616d00001e023743a8f779f6f5b4f421cb01"
+      },
       "release_date": "1997",
       "popularity": 48
     },
     {
-      "trackId": "23UbRcbWIsgqDDAExRJqS1",
-      "name": "Mack The Knife",
+      "track": {
+        "id": "23UbRcbWIsgqDDAExRJqS1",
+        "name": "Mack The Knife"
+      },
       "duration_ms": 292240,
-      "artist": [
-        "Frank Sinatra",
-        "Quincy Jones"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "3rxIQc9kWT6Ueg4BhnOwRK"
-      ],
-      "albumId": "4zvku3SSgsUaVRsvcCZ1aU",
+      "album": {
+        "id": "4zvku3SSgsUaVRsvcCZ1aU",
+        "name": "L.A. Is My Lady",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5f9d048d29057ea7b872ea3"
+      },
       "release_date": "1984-01-01",
       "popularity": 38
     },
     {
-      "trackId": "7HB1REjjalFLSXgXlAAwFs",
-      "name": "Concerto for Strings in G Major, RV 151, \"Alla Rustica\": I. Presto",
+      "track": {
+        "id": "7HB1REjjalFLSXgXlAAwFs",
+        "name": "Concerto for Strings in G Major, RV 151, \"Alla Rustica\": I. Presto"
+      },
       "duration_ms": 79840,
-      "artist": [
-        "Antonio Vivaldi",
-        "Accademia I Filarmonici",
-        "Alberto Martini"
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "id": "2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Accademia I Filarmonici",
+          "id": "0b2HyDBr40AFGwJtcIP0iz"
+        },
+        {
+          "name": "Alberto Martini",
+          "id": "6oLzEKop7iBKGNwjgElkzo"
+        }
       ],
-      "artistId": [
-        "2QOIawHpSlOwXDvSqQ9YJR",
-        "0b2HyDBr40AFGwJtcIP0iz",
-        "6oLzEKop7iBKGNwjgElkzo"
-      ],
-      "albumId": "7ohkIZeTU8U9W1Upge3T9m",
+      "album": {
+        "id": "7ohkIZeTU8U9W1Upge3T9m",
+        "name": "Vivaldi: Concertos for Strings",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228efaa18b542c2c661609641"
+      },
       "release_date": "1997-03-27",
       "popularity": 56
     },
     {
-      "trackId": "3RziapqS8nr6DiejCtI3cd",
-      "name": "Somliga går med trasiga skor",
+      "track": {
+        "id": "3RziapqS8nr6DiejCtI3cd",
+        "name": "Somliga går med trasiga skor"
+      },
       "duration_ms": 180960,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5KkQk6jEItnuoB1820v5aA",
+      "album": {
+        "id": "5KkQk6jEItnuoB1820v5aA",
+        "name": "Tio vackra visor och personliga Person",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c34b63edb70626b39d952db"
+      },
       "release_date": "1968",
       "popularity": 49
     },
     {
-      "trackId": "2CeqxyOZEyiL6pTDYZ9gPH",
-      "name": "Fever",
+      "track": {
+        "id": "2CeqxyOZEyiL6pTDYZ9gPH",
+        "name": "Fever"
+      },
       "duration_ms": 201333,
-      "artist": [
-        "Peggy Lee"
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "id": "602DnpaSXJB4b9DZrvxbDc"
+        }
       ],
-      "artistId": [
-        "602DnpaSXJB4b9DZrvxbDc"
-      ],
-      "albumId": "16BF4fvjjxlzrdKrUl4k5F",
+      "album": {
+        "id": "16BF4fvjjxlzrdKrUl4k5F",
+        "name": "The Capitol Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7087466d74c3470d191cf37"
+      },
       "release_date": "1988-01-01",
       "popularity": 57
     },
     {
-      "trackId": "3BU3k6tgL1BJmhVwfi1haf",
-      "name": "Kapitel 6.5 - Ein Zuhause auf Sylt",
+      "track": {
+        "id": "3BU3k6tgL1BJmhVwfi1haf",
+        "name": "Kapitel 6.5 - Ein Zuhause auf Sylt"
+      },
       "duration_ms": 185500,
-      "artist": [
-        "Lena Wolf"
+      "artists": [
+        {
+          "name": "Lena Wolf",
+          "id": "0GfYTLlUgFhvrRLXrU5qdJ"
+        }
       ],
-      "artistId": [
-        "0GfYTLlUgFhvrRLXrU5qdJ"
-      ],
-      "albumId": "3hPwiNzbn4EyDRaWBcUu0C",
+      "album": {
+        "id": "3hPwiNzbn4EyDRaWBcUu0C",
+        "name": "Ein Zuhause auf Sylt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3613614e7358af477efed4d"
+      },
       "release_date": "2022-03-22",
       "popularity": 10
     },
     {
-      "trackId": "0Y9flBkRvAGWroz7GRg2TF",
-      "name": "Cabaret - Originally Performed By Liza Minelli",
+      "track": {
+        "id": "0Y9flBkRvAGWroz7GRg2TF",
+        "name": "Cabaret - Originally Performed By Liza Minelli"
+      },
       "duration_ms": 202066,
-      "artist": [
-        "Karaoke Party"
+      "artists": [
+        {
+          "name": "Karaoke Party",
+          "id": "5BGFRXbRgWW1KY5WDtJsZN"
+        }
       ],
-      "artistId": [
-        "5BGFRXbRgWW1KY5WDtJsZN"
-      ],
-      "albumId": "6IF2n6Ix9Gb2n2W1Poiveo",
+      "album": {
+        "id": "6IF2n6Ix9Gb2n2W1Poiveo",
+        "name": "Karaoke International Pro,Vol. 1 (Songs Karaoke)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253d2265e2382d4e585c85b51"
+      },
       "release_date": "2012-02-21",
       "popularity": 0
     },
     {
-      "trackId": "1Wk28PGpRRSZsje7LXkFel",
-      "name": "Tillägnan",
+      "track": {
+        "id": "1Wk28PGpRRSZsje7LXkFel",
+        "name": "Tillägnan"
+      },
       "duration_ms": 323800,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 20
     },
     {
-      "trackId": "7kHRSzOgNouWQWoW6C7Spn",
-      "name": "Begravningstango",
+      "track": {
+        "id": "7kHRSzOgNouWQWoW6C7Spn",
+        "name": "Begravningstango"
+      },
       "duration_ms": 207533,
-      "artist": [
-        "Evabritt Strandberg"
+      "artists": [
+        {
+          "name": "Evabritt Strandberg",
+          "id": "0hcA1I1KIekzpyCUOdbygL"
+        }
       ],
-      "artistId": [
-        "0hcA1I1KIekzpyCUOdbygL"
-      ],
-      "albumId": "7z4odZQiAU0P1wYuTiGmW9",
+      "album": {
+        "id": "7z4odZQiAU0P1wYuTiGmW9",
+        "name": "Brel - En föreställning som går rakt in i hjärtat",
+        "img": "https://i.scdn.co/image/ab67616d00001e02747fd1653833065d9590ba4f"
+      },
       "release_date": "1983-01-01",
       "popularity": 2
     },
     {
-      "trackId": "5mTTUruTBISM0ZHc1U1fED",
-      "name": "Jag glömmer aldrig dig",
+      "track": {
+        "id": "5mTTUruTBISM0ZHc1U1fED",
+        "name": "Jag glömmer aldrig dig"
+      },
       "duration_ms": 220920,
-      "artist": [
-        "Fröken Elvis"
+      "artists": [
+        {
+          "name": "Fröken Elvis",
+          "id": "4eJX7IMtVGWAex3qxydIs8"
+        }
       ],
-      "artistId": [
-        "4eJX7IMtVGWAex3qxydIs8"
-      ],
-      "albumId": "2Oub4WOStPROZod2dFAY29",
+      "album": {
+        "id": "2Oub4WOStPROZod2dFAY29",
+        "name": "Elvis på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de227f7908639bb365505303"
+      },
       "release_date": "2015-04-08",
       "popularity": 32
     }

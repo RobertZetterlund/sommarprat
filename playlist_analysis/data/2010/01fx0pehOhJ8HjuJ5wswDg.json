@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3236229_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7ixiCZEHWHc8FxaQXQh2P4",
-      "name": "Bam Bam",
+      "track": {
+        "id": "7ixiCZEHWHc8FxaQXQh2P4",
+        "name": "Bam Bam"
+      },
       "duration_ms": 196506,
-      "artist": [
-        "Sister Nancy"
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "id": "21pMSs2JHWwwy2kp1QIIVB"
+        }
       ],
-      "artistId": [
-        "21pMSs2JHWwwy2kp1QIIVB"
-      ],
-      "albumId": "3Il1CWXA64e8gukuJZoj0e",
+      "album": {
+        "id": "3Il1CWXA64e8gukuJZoj0e",
+        "name": "One Two",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233c6f21ab00263515f0b0d6d"
+      },
       "release_date": "2002-03-15",
       "popularity": 67
     },
     {
-      "trackId": "0VotjdI6ufLgQUi3MUAhAn",
-      "name": "Let Me Touch You For Awhile",
+      "track": {
+        "id": "0VotjdI6ufLgQUi3MUAhAn",
+        "name": "Let Me Touch You For Awhile"
+      },
       "duration_ms": 201693,
-      "artist": [
-        "Alison Krauss & Union Station"
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "id": "0OTnx2X2FDXeewcm72lavT"
+        }
       ],
-      "artistId": [
-        "0OTnx2X2FDXeewcm72lavT"
-      ],
-      "albumId": "6FfrJoeF2HYdMsMLChPVVM",
+      "album": {
+        "id": "6FfrJoeF2HYdMsMLChPVVM",
+        "name": "New Favorite",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ba239901f0f0ff80937460f"
+      },
       "release_date": "2001-08-14",
       "popularity": 40
     },
     {
-      "trackId": "6s8q3fQNcayP7yEFpuF3wz",
-      "name": "It's Hard to Be a Saint in the City",
+      "track": {
+        "id": "6s8q3fQNcayP7yEFpuF3wz",
+        "name": "It's Hard to Be a Saint in the City"
+      },
       "duration_ms": 196293,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "4hQ5RfHzq1SGJNfZWrpg7C",
+      "album": {
+        "id": "4hQ5RfHzq1SGJNfZWrpg7C",
+        "name": "Greetings from Asbury Park, N.J.",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b7ddb366927d22d174b645c"
+      },
       "release_date": "1973-01-05",
       "popularity": 39
     },
     {
-      "trackId": "6JAzU3Vy6uxrnh2zAd0byh",
-      "name": "Wait Til You See My Smile",
+      "track": {
+        "id": "6JAzU3Vy6uxrnh2zAd0byh",
+        "name": "Wait Til You See My Smile"
+      },
       "duration_ms": 240213,
-      "artist": [
-        "Alicia Keys"
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "id": "3DiDSECUqqY1AuBP8qtaIa"
+        }
       ],
-      "artistId": [
-        "3DiDSECUqqY1AuBP8qtaIa"
-      ],
-      "albumId": "0Rxab8t0y7GlaTJTHX2wEN",
+      "album": {
+        "id": "0Rxab8t0y7GlaTJTHX2wEN",
+        "name": "The Element Of Freedom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe6a98e875958c7d7080584e"
+      },
       "release_date": "2009-12-15",
       "popularity": 38
     },
     {
-      "trackId": "6YqdbEEX9FxMVtgRXNpN0E",
-      "name": "Fördomar 2",
+      "track": {
+        "id": "6YqdbEEX9FxMVtgRXNpN0E",
+        "name": "Fördomar 2"
+      },
       "duration_ms": 111826,
-      "artist": [
-        "The Latin Kings"
+      "artists": [
+        {
+          "name": "The Latin Kings",
+          "id": "5xy5lbpiufHCNWfApvpSYJ"
+        }
       ],
-      "artistId": [
-        "5xy5lbpiufHCNWfApvpSYJ"
-      ],
-      "albumId": "3KVd387YbvDT5hHGclCsHE",
+      "album": {
+        "id": "3KVd387YbvDT5hHGclCsHE",
+        "name": "Mitt Kvarter",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e1755edae8f697408f4c728"
+      },
       "release_date": "2000-01-01",
       "popularity": 23
     },
     {
-      "trackId": "4nQkNmJJWnFIRsbIMeIrlX",
-      "name": "You Got The Love - New Voyager Radio Edit",
+      "track": {
+        "id": "4nQkNmJJWnFIRsbIMeIrlX",
+        "name": "You Got The Love - New Voyager Radio Edit"
+      },
       "duration_ms": 193600,
-      "artist": [
-        "The Source & Candi Staton",
-        "The Source",
-        "Candi Staton"
+      "artists": [
+        {
+          "name": "The Source & Candi Staton",
+          "id": "2xkmkfqXFQHMk0zhFXMUq6"
+        },
+        {
+          "name": "The Source",
+          "id": "25EAVXsff9L7LHy7UIsPbR"
+        },
+        {
+          "name": "Candi Staton",
+          "id": "3S34Unhn5yRcaH5K9aU5Et"
+        }
       ],
-      "artistId": [
-        "2xkmkfqXFQHMk0zhFXMUq6",
-        "25EAVXsff9L7LHy7UIsPbR",
-        "3S34Unhn5yRcaH5K9aU5Et"
-      ],
-      "albumId": "1HT8FmsDQuWYmkCBVREimB",
+      "album": {
+        "id": "1HT8FmsDQuWYmkCBVREimB",
+        "name": "You Got the Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e83d90d0a31b25b9979bc9e"
+      },
       "release_date": "1996",
       "popularity": 60
     },
     {
-      "trackId": "2fuCquhmrzHpu5xcA1ci9x",
-      "name": "Under Pressure - Remastered 2011",
+      "track": {
+        "id": "2fuCquhmrzHpu5xcA1ci9x",
+        "name": "Under Pressure - Remastered 2011"
+      },
       "duration_ms": 248440,
-      "artist": [
-        "Queen",
-        "David Bowie"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d",
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6reTSIf5MoBco62rk8T7Q1",
+      "album": {
+        "id": "6reTSIf5MoBco62rk8T7Q1",
+        "name": "Hot Space (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d254ca497999ae980a5a38c5"
+      },
       "release_date": "1982-05-03",
       "popularity": 79
     },
     {
-      "trackId": "5ByAIlEEnxYdvpnezg7HTX",
-      "name": "Juicy - 2005 Remaster",
+      "track": {
+        "id": "5ByAIlEEnxYdvpnezg7HTX",
+        "name": "Juicy - 2005 Remaster"
+      },
       "duration_ms": 302760,
-      "artist": [
-        "The Notorious B.I.G."
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "id": "5me0Irg2ANcsgc93uaYrpb"
+        }
       ],
-      "artistId": [
-        "5me0Irg2ANcsgc93uaYrpb"
-      ],
-      "albumId": "2HTbQ0RHwukKVXAlTmCZP2",
+      "album": {
+        "id": "2HTbQ0RHwukKVXAlTmCZP2",
+        "name": "Ready to Die (The Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db09958534ac66f9a90d3cf7"
+      },
       "release_date": "1994-09-13",
       "popularity": 75
     },
     {
-      "trackId": "2KrN3MCNztKcSleZgHEj83",
-      "name": "Little Lion Man",
+      "track": {
+        "id": "2KrN3MCNztKcSleZgHEj83",
+        "name": "Little Lion Man"
+      },
       "duration_ms": 245173,
-      "artist": [
-        "Mumford & Sons"
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "id": "3gd8FJtBJtkRxdfbTu19U2"
+        }
       ],
-      "artistId": [
-        "3gd8FJtBJtkRxdfbTu19U2"
-      ],
-      "albumId": "0kjj3EUl6EOrKSC9iDurZq",
+      "album": {
+        "id": "0kjj3EUl6EOrKSC9iDurZq",
+        "name": "Sigh No More",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b457397404b3890a6dc2e51"
+      },
       "release_date": "2009-01-01",
       "popularity": 67
     },
     {
-      "trackId": "2PLi7OmleXPNBrGLon3sUy",
-      "name": "Sweet Disposition",
+      "track": {
+        "id": "2PLi7OmleXPNBrGLon3sUy",
+        "name": "Sweet Disposition"
+      },
       "duration_ms": 234360,
-      "artist": [
-        "The Temper Trap"
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "id": "4W48hZAnAHVOC2c8WH8pcq"
+        }
       ],
-      "artistId": [
-        "4W48hZAnAHVOC2c8WH8pcq"
-      ],
-      "albumId": "6MJlXwm9rJV1sWBhNKIZG0",
+      "album": {
+        "id": "6MJlXwm9rJV1sWBhNKIZG0",
+        "name": "Conditions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb3d624d713c325479dfd208"
+      },
       "release_date": "2009-08-10",
       "popularity": 71
     },
     {
-      "trackId": "2UT3iEU7uQAXNUxCKfiZAj",
-      "name": "Dancing on My Own",
+      "track": {
+        "id": "2UT3iEU7uQAXNUxCKfiZAj",
+        "name": "Dancing on My Own"
+      },
       "duration_ms": 288670,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0uQvFZsNoC7MZpcZZLtlYs",
+      "album": {
+        "id": "0uQvFZsNoC7MZpcZZLtlYs",
+        "name": "Body Talk, Pt.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a9b4d6c5fb4461ed90c200a"
+      },
       "release_date": "2010-01-01",
       "popularity": 55
     },
     {
-      "trackId": "0NX14YH2t16bwwlJSfXazr",
-      "name": "Can't Hardly Wait - 2008 Remaster",
+      "track": {
+        "id": "0NX14YH2t16bwwlJSfXazr",
+        "name": "Can't Hardly Wait - 2008 Remaster"
+      },
       "duration_ms": 188146,
-      "artist": [
-        "The Replacements"
+      "artists": [
+        {
+          "name": "The Replacements",
+          "id": "4WPY0N74T3KUja57xMQTZ3"
+        }
       ],
-      "artistId": [
-        "4WPY0N74T3KUja57xMQTZ3"
-      ],
-      "albumId": "2kTTz2kpR2AXtBmiIZEyyv",
+      "album": {
+        "id": "2kTTz2kpR2AXtBmiIZEyyv",
+        "name": "Pleased to Meet Me (Expanded)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c5d8fa774f960a1892ad802"
+      },
       "release_date": "1987",
       "popularity": 53
     },
     {
-      "trackId": "28sMmBCmfHoy6NjZnovEYG",
-      "name": "Balls to the Wall",
+      "track": {
+        "id": "28sMmBCmfHoy6NjZnovEYG",
+        "name": "Balls to the Wall"
+      },
       "duration_ms": 342600,
-      "artist": [
-        "Accept"
+      "artists": [
+        {
+          "name": "Accept",
+          "id": "3JDIAtVrJdQ7GFOX26LYpv"
+        }
       ],
-      "artistId": [
-        "3JDIAtVrJdQ7GFOX26LYpv"
-      ],
-      "albumId": "2ogbkPbabA9E5LFXiFhDas",
+      "album": {
+        "id": "2ogbkPbabA9E5LFXiFhDas",
+        "name": "Balls To The Wall",
+        "img": "https://i.scdn.co/image/ab67616d00001e029672ce1224cb4a7d334cb256"
+      },
       "release_date": "1983",
       "popularity": 51
     },
     {
-      "trackId": "0H6MJKyLtf6T12qoKMVW6G",
-      "name": "Living Again",
+      "track": {
+        "id": "0H6MJKyLtf6T12qoKMVW6G",
+        "name": "Living Again"
+      },
       "duration_ms": 216640,
-      "artist": [
-        "CeeLo Green"
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "id": "5nLYd9ST4Cnwy6NHaCxbj8"
+        }
       ],
-      "artistId": [
-        "5nLYd9ST4Cnwy6NHaCxbj8"
-      ],
-      "albumId": "6ExpMpLWJzbaRqDIH9GH8t",
+      "album": {
+        "id": "6ExpMpLWJzbaRqDIH9GH8t",
+        "name": "Cee-Lo Green... Is The Soul Machine",
+        "img": "https://i.scdn.co/image/ab67616d00001e027bc6804224db56aeb889fa8a"
+      },
       "release_date": "2004-03-02",
       "popularity": 7
     }

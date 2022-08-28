@@ -7,240 +7,350 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/d88f605a-0078-47cb-bc07-d4087b325d83.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6sDc7xKVYe28DdASxT4FxR",
-      "name": "En jävel på kärlek",
+      "track": {
+        "id": "6sDc7xKVYe28DdASxT4FxR",
+        "name": "En jävel på kärlek"
+      },
       "duration_ms": 216333,
-      "artist": [
-        "Glenmark Eriksson Strömstedt"
+      "artists": [
+        {
+          "name": "Glenmark Eriksson Strömstedt",
+          "id": "18zO6eeR1PG505akCHt9yB"
+        }
       ],
-      "artistId": [
-        "18zO6eeR1PG505akCHt9yB"
-      ],
-      "albumId": "6SVY7GMw6KZxOSduyXSeoi",
+      "album": {
+        "id": "6SVY7GMw6KZxOSduyXSeoi",
+        "name": "Glenmark Eriksson Strömstedt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa43248575a4f9f5a0b19be1"
+      },
       "release_date": "1995-03-01",
       "popularity": 49
     },
     {
-      "trackId": "5tnmiItWijEQtRrIojjW5j",
-      "name": "Going Down To The River",
+      "track": {
+        "id": "5tnmiItWijEQtRrIojjW5j",
+        "name": "Going Down To The River"
+      },
       "duration_ms": 204466,
-      "artist": [
-        "Jill Johnson",
-        "Doug Seegers",
-        "Magnus Carlson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        },
+        {
+          "name": "Doug Seegers",
+          "id": "2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Magnus Carlson",
+          "id": "4Ag5mrJhXH238pExZYJcaM"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw",
-        "2WO6GcXH1rWwzge9wOnuxm",
-        "4Ag5mrJhXH238pExZYJcaM"
-      ],
-      "albumId": "0mcRytaCKZai9Mw9ljdVyp",
+      "album": {
+        "id": "0mcRytaCKZai9Mw9ljdVyp",
+        "name": "Livemusiken från Jills Veranda Nashville",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce2352d34d3dcb9e07214cc0"
+      },
       "release_date": "2014-04-09",
       "popularity": 38
     },
     {
-      "trackId": "5VdA5KgeVRUwBJrycciXp2",
-      "name": "Blinka lilla stjärna där",
+      "track": {
+        "id": "5VdA5KgeVRUwBJrycciXp2",
+        "name": "Blinka lilla stjärna där"
+      },
       "duration_ms": 101624,
-      "artist": [
-        "Adamson",
-        "Vaggvisor"
+      "artists": [
+        {
+          "name": "Adamson",
+          "id": "0Le0xLw8bmlimx2cMVtVbr"
+        },
+        {
+          "name": "Vaggvisor",
+          "id": "5yLTSEQlxtbK0dyLmYAP3T"
+        }
       ],
-      "artistId": [
-        "0Le0xLw8bmlimx2cMVtVbr",
-        "5yLTSEQlxtbK0dyLmYAP3T"
-      ],
-      "albumId": "09O0jbnHlh9WqHz7OzuLO0",
+      "album": {
+        "id": "09O0jbnHlh9WqHz7OzuLO0",
+        "name": "Vaggvisor med sång",
+        "img": "https://i.scdn.co/image/ab67616d00001e025729da8f0483c8a9c485f251"
+      },
       "release_date": "2020-01-17",
       "popularity": 56
     },
     {
-      "trackId": "1Sd8I2aucIUkPHja16CDu1",
-      "name": "Dear Havanna",
+      "track": {
+        "id": "1Sd8I2aucIUkPHja16CDu1",
+        "name": "Dear Havanna"
+      },
       "duration_ms": 177893,
-      "artist": [
-        "Jill Johnson",
-        "Havanna Werner Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        },
+        {
+          "name": "Havanna Werner Johnson",
+          "id": "5Jv214x15UoVfHMo4LIpLU"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw",
-        "5Jv214x15UoVfHMo4LIpLU"
-      ],
-      "albumId": "10OeMzAgC6XD8qTAqtxrEb",
+      "album": {
+        "id": "10OeMzAgC6XD8qTAqtxrEb",
+        "name": "Dear Havanna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02041a21c8547885a42e6be799"
+      },
       "release_date": "2021-11-26",
       "popularity": 38
     },
     {
-      "trackId": "69o3qL8watZsJZJPS6cuuR",
-      "name": "Kärleken är",
+      "track": {
+        "id": "69o3qL8watZsJZJPS6cuuR",
+        "name": "Kärleken är"
+      },
       "duration_ms": 188733,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "2LrQTbD54ATgwoantqnJSH",
+      "album": {
+        "id": "2LrQTbD54ATgwoantqnJSH",
+        "name": "När hela världen ser på",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269411e89481f3a948cdad6aa"
+      },
       "release_date": "1998-01-01",
       "popularity": 40
     },
     {
-      "trackId": "0FtARLWBXtCeJKF4aMGFQj",
-      "name": "You Believe In You",
+      "track": {
+        "id": "0FtARLWBXtCeJKF4aMGFQj",
+        "name": "You Believe In You"
+      },
       "duration_ms": 224680,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "10OeMzAgC6XD8qTAqtxrEb",
+      "album": {
+        "id": "10OeMzAgC6XD8qTAqtxrEb",
+        "name": "Dear Havanna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02041a21c8547885a42e6be799"
+      },
       "release_date": "2021-11-26",
       "popularity": 24
     },
     {
-      "trackId": "3M1MbdMOc0MMD9oxsscdtw",
-      "name": "Crazy in Love",
+      "track": {
+        "id": "3M1MbdMOc0MMD9oxsscdtw",
+        "name": "Crazy in Love"
+      },
       "duration_ms": 182506,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "2HkYSJxNf8FLikNbc08uFB",
+      "album": {
+        "id": "2HkYSJxNf8FLikNbc08uFB",
+        "name": "Discography",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a48e545616b468689498732"
+      },
       "release_date": "2003-01-01",
       "popularity": 41
     },
     {
-      "trackId": "3M1MbdMOc0MMD9oxsscdtw",
-      "name": "Crazy in Love",
+      "track": {
+        "id": "3M1MbdMOc0MMD9oxsscdtw",
+        "name": "Crazy in Love"
+      },
       "duration_ms": 182506,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "2HkYSJxNf8FLikNbc08uFB",
+      "album": {
+        "id": "2HkYSJxNf8FLikNbc08uFB",
+        "name": "Discography",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a48e545616b468689498732"
+      },
       "release_date": "2003-01-01",
       "popularity": 41
     },
     {
-      "trackId": "3M1MbdMOc0MMD9oxsscdtw",
-      "name": "Crazy in Love",
+      "track": {
+        "id": "3M1MbdMOc0MMD9oxsscdtw",
+        "name": "Crazy in Love"
+      },
       "duration_ms": 182506,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "2HkYSJxNf8FLikNbc08uFB",
+      "album": {
+        "id": "2HkYSJxNf8FLikNbc08uFB",
+        "name": "Discography",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a48e545616b468689498732"
+      },
       "release_date": "2003-01-01",
       "popularity": 41
     },
     {
-      "trackId": "0yyCMVBC7mbFRq7QYbTvsf",
-      "name": "I Will Never Let You Know",
+      "track": {
+        "id": "0yyCMVBC7mbFRq7QYbTvsf",
+        "name": "I Will Never Let You Know"
+      },
       "duration_ms": 238346,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "4zOfaLLySKPnGkqJzLy6L2",
+      "album": {
+        "id": "4zOfaLLySKPnGkqJzLy6L2",
+        "name": "For You I’ll Wait",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241d269fd4b2d54492e9ce34f"
+      },
       "release_date": "2016-09-23",
       "popularity": 36
     },
     {
-      "trackId": "3M1MbdMOc0MMD9oxsscdtw",
-      "name": "Crazy in Love",
+      "track": {
+        "id": "3M1MbdMOc0MMD9oxsscdtw",
+        "name": "Crazy in Love"
+      },
       "duration_ms": 182506,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "2HkYSJxNf8FLikNbc08uFB",
+      "album": {
+        "id": "2HkYSJxNf8FLikNbc08uFB",
+        "name": "Discography",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a48e545616b468689498732"
+      },
       "release_date": "2003-01-01",
       "popularity": 41
     },
     {
-      "trackId": "1f7bJzsezTm9ZS2DVBUVOM",
-      "name": "Open Your Heart",
+      "track": {
+        "id": "1f7bJzsezTm9ZS2DVBUVOM",
+        "name": "Open Your Heart"
+      },
       "duration_ms": 240560,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "7rQh2zaslI0a4RqbfRuJX8",
+      "album": {
+        "id": "7rQh2zaslI0a4RqbfRuJX8",
+        "name": "Så mycket bättre / Tolkningarna (Säsong 7)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02675e024fa478055d59ccc480"
+      },
       "release_date": "2016-12-11",
       "popularity": 47
     },
     {
-      "trackId": "69o3qL8watZsJZJPS6cuuR",
-      "name": "Kärleken är",
+      "track": {
+        "id": "69o3qL8watZsJZJPS6cuuR",
+        "name": "Kärleken är"
+      },
       "duration_ms": 188733,
-      "artist": [
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "2LrQTbD54ATgwoantqnJSH",
+      "album": {
+        "id": "2LrQTbD54ATgwoantqnJSH",
+        "name": "När hela världen ser på",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269411e89481f3a948cdad6aa"
+      },
       "release_date": "1998-01-01",
       "popularity": 40
     },
     {
-      "trackId": "3ZjTNeZRYHDGVuazD1dqO7",
-      "name": "Blue Eyes Crying In The Rain",
+      "track": {
+        "id": "3ZjTNeZRYHDGVuazD1dqO7",
+        "name": "Blue Eyes Crying In The Rain"
+      },
       "duration_ms": 164840,
-      "artist": [
-        "Jill Johnson",
-        "Kristian Gidlund"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        },
+        {
+          "name": "Kristian Gidlund",
+          "id": "6ftLmH4taDk31NEYDlI2Md"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw",
-        "6ftLmH4taDk31NEYDlI2Md"
-      ],
-      "albumId": "0mcRytaCKZai9Mw9ljdVyp",
+      "album": {
+        "id": "0mcRytaCKZai9Mw9ljdVyp",
+        "name": "Livemusiken från Jills Veranda Nashville",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce2352d34d3dcb9e07214cc0"
+      },
       "release_date": "2014-04-09",
       "popularity": 23
     },
     {
-      "trackId": "4DuORQdDLtYmzkqJ6g5quY",
-      "name": "Go Rest High On That Mountain - Live From Jills Veranda / 2015",
+      "track": {
+        "id": "4DuORQdDLtYmzkqJ6g5quY",
+        "name": "Go Rest High On That Mountain - Live From Jills Veranda / 2015"
+      },
       "duration_ms": 275279,
-      "artist": [
-        "Jills Veranda",
-        "Seinabo Sey",
-        "Jill Johnson"
+      "artists": [
+        {
+          "name": "Jills Veranda",
+          "id": "3JxJYMoTOLMo33DXq443WR"
+        },
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        }
       ],
-      "artistId": [
-        "3JxJYMoTOLMo33DXq443WR",
-        "4X0v8sFoDZ6rIfkeOeVm2i",
-        "2aaGbpl5Y2ykZsNFZM6ofw"
-      ],
-      "albumId": "5dtPjfmQcQGV4syet7DWZP",
+      "album": {
+        "id": "5dtPjfmQcQGV4syet7DWZP",
+        "name": "Livemusiken från Jills Veranda, Nashville (Säsong 2)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a93f60668b3333b124ed2aba"
+      },
       "release_date": "2015-12-18",
       "popularity": 20
     },
     {
-      "trackId": "5uhJnZd0m9Xz3GafDeMJxK",
-      "name": "Kingdom Come",
+      "track": {
+        "id": "5uhJnZd0m9Xz3GafDeMJxK",
+        "name": "Kingdom Come"
+      },
       "duration_ms": 252080,
-      "artist": [
-        "The Souljazz Orchestra"
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "id": "0MiCOT2cVYso39XSskiUUo"
+        }
       ],
-      "artistId": [
-        "0MiCOT2cVYso39XSskiUUo"
-      ],
-      "albumId": "2w28yTFohFkW0UnIGKqLdY",
+      "album": {
+        "id": "2w28yTFohFkW0UnIGKqLdY",
+        "name": "Inner Fire",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ec8168b682d187436172fe6"
+      },
       "release_date": "2014-02-24",
       "popularity": 44
     }

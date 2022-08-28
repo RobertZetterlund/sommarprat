@@ -7,274 +7,410 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234344_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Obqve5zvrOgJCMRX9Qa9w",
-      "name": "Blue Moon",
+      "track": {
+        "id": "2Obqve5zvrOgJCMRX9Qa9w",
+        "name": "Blue Moon"
+      },
       "duration_ms": 198066,
-      "artist": [
-        "Greta Keller"
+      "artists": [
+        {
+          "name": "Greta Keller",
+          "id": "41JyYIaQcVeaPIX4in07h3"
+        }
       ],
-      "artistId": [
-        "41JyYIaQcVeaPIX4in07h3"
-      ],
-      "albumId": "29Y9Ghm6WvN82FYI4VJzOD",
+      "album": {
+        "id": "29Y9Ghm6WvN82FYI4VJzOD",
+        "name": "Pennies from Heaven - Original Soundtrack to the BBC Tv Series",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb859eae659415a03d6dd7b9"
+      },
       "release_date": "2013-10-01",
       "popularity": 12
     },
     {
-      "trackId": "0YJAz1QqMNrPhJ2vhHupcZ",
-      "name": "Begin the Beguine",
+      "track": {
+        "id": "0YJAz1QqMNrPhJ2vhHupcZ",
+        "name": "Begin the Beguine"
+      },
       "duration_ms": 196160,
-      "artist": [
-        "Artie Shaw"
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "id": "5wam12nGWDBIrLDV78TNSF"
+        }
       ],
-      "artistId": [
-        "5wam12nGWDBIrLDV78TNSF"
-      ],
-      "albumId": "3uXjIDVSLPp8niomuVDd5h",
+      "album": {
+        "id": "3uXjIDVSLPp8niomuVDd5h",
+        "name": "Begin The Beguine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc8e5a7dff01549ac7816454"
+      },
       "release_date": "1987-09-01",
       "popularity": 52
     },
     {
-      "trackId": "3htLbUu5CmNxZC2yLsT2JC",
-      "name": "Nähdään Kohta",
+      "track": {
+        "id": "3htLbUu5CmNxZC2yLsT2JC",
+        "name": "Nähdään Kohta"
+      },
       "duration_ms": 157000,
-      "artist": [
-        "Andre",
-        "LILBRO"
+      "artists": [
+        {
+          "name": "Andre",
+          "id": "1uDFvPycDYIGmBhpxoOyYN"
+        },
+        {
+          "name": "LILBRO",
+          "id": "1PIujpIZmCo918lfPJfn3w"
+        }
       ],
-      "artistId": [
-        "1uDFvPycDYIGmBhpxoOyYN",
-        "1PIujpIZmCo918lfPJfn3w"
-      ],
-      "albumId": "7t71TJrUh3grVh6VzNa822",
+      "album": {
+        "id": "7t71TJrUh3grVh6VzNa822",
+        "name": "Nähdään Kohta",
+        "img": "https://i.scdn.co/image/ab67616d00001e024fbe010fbaa6a04653d37a1b"
+      },
       "release_date": "2021-08-20",
       "popularity": 45
     },
     {
-      "trackId": "1Mse9NKBbEASi50CQ4aYhr",
-      "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+      "track": {
+        "id": "1Mse9NKBbEASi50CQ4aYhr",
+        "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon"
+      },
       "duration_ms": 301586,
-      "artist": [
-        "Johann Pachelbel",
-        "Sir Neville Marriner",
-        "Academy of St. Martin in the Fields"
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "id": "62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "id": "6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "id": "77CaCn32H4mOMQA7UElzfF"
+        }
       ],
-      "artistId": [
-        "62TD7509VQIxUe4WpwO0s3",
-        "6NUhQz7eAEsZvjEHTKHux9",
-        "77CaCn32H4mOMQA7UElzfF"
-      ],
-      "albumId": "5YCuibCDJrkVcS3UOAYqr9",
+      "album": {
+        "id": "5YCuibCDJrkVcS3UOAYqr9",
+        "name": "Mozart: Eine Kleine Nachtmusik etc.",
+        "img": "https://i.scdn.co/image/ab67616d00001e0250f0e9f3fe510cfe42f5f2d9"
+      },
       "release_date": "1986",
       "popularity": 54
     },
     {
-      "trackId": "2yTjLx8CDh1kpfl9L4XBmI",
-      "name": "Les Contes d'Hoffmann / Act 1: Entr'acte",
+      "track": {
+        "id": "2yTjLx8CDh1kpfl9L4XBmI",
+        "name": "Les Contes d'Hoffmann / Act 1: Entr'acte"
+      },
       "duration_ms": 78200,
-      "artist": [
-        "Jacques Offenbach",
-        "Orchestre de la Suisse Romande",
-        "Richard Bonynge"
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "id": "4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Orchestre de la Suisse Romande",
+          "id": "4NzLn7UyhvBlgzhF7WwMM1"
+        },
+        {
+          "name": "Richard Bonynge",
+          "id": "6JAPOSeaWl61UBRKZYgAeZ"
+        }
       ],
-      "artistId": [
-        "4OihBPCQzR4GfbzqOY69Xm",
-        "4NzLn7UyhvBlgzhF7WwMM1",
-        "6JAPOSeaWl61UBRKZYgAeZ"
-      ],
-      "albumId": "5NTxBeORiOZX9Lj3ve6dIr",
+      "album": {
+        "id": "5NTxBeORiOZX9Lj3ve6dIr",
+        "name": "Offenbach: Les Contes d'Hoffmann - Highlights",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a96c03abad3ba810b4684523"
+      },
       "release_date": "1972-01-01",
       "popularity": 37
     },
     {
-      "trackId": "2b9FWk7vi5DpQypM3aSS9d",
-      "name": "Night And Day",
+      "track": {
+        "id": "2b9FWk7vi5DpQypM3aSS9d",
+        "name": "Night And Day"
+      },
       "duration_ms": 290840,
-      "artist": [
-        "Fred Astaire"
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "id": "4BtDAwCZhR6nPrJtbVgQNX"
+        }
       ],
-      "artistId": [
-        "4BtDAwCZhR6nPrJtbVgQNX"
-      ],
-      "albumId": "0eNmpX93xeVCWWuNnKE7Oz",
+      "album": {
+        "id": "0eNmpX93xeVCWWuNnKE7Oz",
+        "name": "Mr. Top Hat",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdc429e8b5f5a696de97db1f"
+      },
       "release_date": "1957-02-01",
       "popularity": 38
     },
     {
-      "trackId": "4bQWcOUsyFx5drm6ILhnyZ",
-      "name": "Der Wind hat mir ein Lied erzählt",
+      "track": {
+        "id": "4bQWcOUsyFx5drm6ILhnyZ",
+        "name": "Der Wind hat mir ein Lied erzählt"
+      },
       "duration_ms": 172640,
-      "artist": [
-        "Zarah Leander"
+      "artists": [
+        {
+          "name": "Zarah Leander",
+          "id": "5R15K0QUPe4AhP1vaPoaX3"
+        }
       ],
-      "artistId": [
-        "5R15K0QUPe4AhP1vaPoaX3"
-      ],
-      "albumId": "3JtLstihLEMQXQe2TovCBX",
+      "album": {
+        "id": "3JtLstihLEMQXQe2TovCBX",
+        "name": "Wunderbar",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d9b12563dd3e30000db1bf2"
+      },
       "release_date": "2013-06-11",
       "popularity": 14
     },
     {
-      "trackId": "4b9V3YphJiIjqYmifs05PV",
-      "name": "24 Préludes, Op. 28: 24. In D Minor - 2011 Recording",
+      "track": {
+        "id": "4b9V3YphJiIjqYmifs05PV",
+        "name": "24 Préludes, Op. 28: 24. In D Minor - 2011 Recording"
+      },
       "duration_ms": 144666,
-      "artist": [
-        "Frédéric Chopin",
-        "Maurizio Pollini"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "id": "2VIdKQmRHnWofsR4odfFOh"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "2VIdKQmRHnWofsR4odfFOh"
-      ],
-      "albumId": "38isoaeAY2A5W3aWVVxlPd",
+      "album": {
+        "id": "38isoaeAY2A5W3aWVVxlPd",
+        "name": "Chopin: 24 Préludes; Nocturnes; Mazurkas; Scherzo",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e8c0ba8912c9c12ab46e8b1"
+      },
       "release_date": "2012-01-01",
       "popularity": 36
     },
     {
-      "trackId": "2NwSjLKUbqTMqYatfTqy56",
-      "name": "Top Hat, White Tie and Tails",
+      "track": {
+        "id": "2NwSjLKUbqTMqYatfTqy56",
+        "name": "Top Hat, White Tie and Tails"
+      },
       "duration_ms": 160213,
-      "artist": [
-        "Fred Astaire"
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "id": "4BtDAwCZhR6nPrJtbVgQNX"
+        }
       ],
-      "artistId": [
-        "4BtDAwCZhR6nPrJtbVgQNX"
-      ],
-      "albumId": "3BRsqvWiZJlE1og7MdwFEh",
+      "album": {
+        "id": "3BRsqvWiZJlE1og7MdwFEh",
+        "name": "The Early Years at RKO",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253ee0449de171a8da7e3400a"
+      },
       "release_date": "2013-11-15",
       "popularity": 21
     },
     {
-      "trackId": "5UgMumN4UnkUharjmOafoM",
-      "name": "Debussy: Syrinx, L. 129: Syrinx (Très modéré - Un peu mouvementé)",
+      "track": {
+        "id": "5UgMumN4UnkUharjmOafoM",
+        "name": "Debussy: Syrinx, L. 129: Syrinx (Très modéré - Un peu mouvementé)"
+      },
       "duration_ms": 201826,
-      "artist": [
-        "Claude Debussy",
-        "Emmanuel Pahud"
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "id": "1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "id": "6duaKoFWgzQNgHlfmn3dHq"
+        }
       ],
-      "artistId": [
-        "1Uff91EOsvd99rtAupatMP",
-        "6duaKoFWgzQNgHlfmn3dHq"
-      ],
-      "albumId": "65euiiZkbWP8DEJkEUzUmw",
+      "album": {
+        "id": "65euiiZkbWP8DEJkEUzUmw",
+        "name": "Pahud plays Debussy, Ravel & Prokofiev",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5ad1e106a5ecd070cec77e"
+      },
       "release_date": "2000-04-01",
       "popularity": 11
     },
     {
-      "trackId": "3LAhCH1k1ISceWxQafKZ5Y",
-      "name": "Piano Sonata No. 13 in E-Flat Major, Op. 27 No. 1 \"Quasi una fantasia\": II. Allegro molto e vivace",
+      "track": {
+        "id": "3LAhCH1k1ISceWxQafKZ5Y",
+        "name": "Piano Sonata No. 13 in E-Flat Major, Op. 27 No. 1 \"Quasi una fantasia\": II. Allegro molto e vivace"
+      },
       "duration_ms": 107960,
-      "artist": [
-        "Ludwig van Beethoven",
-        "Rudolf Buchbinder"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Rudolf Buchbinder",
+          "id": "7bdwlNOPsycFColkPRlNxY"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "7bdwlNOPsycFColkPRlNxY"
-      ],
-      "albumId": "210AqCWih4kCiPjNX2Uw9H",
+      "album": {
+        "id": "210AqCWih4kCiPjNX2Uw9H",
+        "name": "Innovations: Beethoven",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212ef6a1c59487e7063fb9379"
+      },
       "release_date": "2022-08-15",
       "popularity": 4
     },
     {
-      "trackId": "5c8BioP5IfiUAC0dkr69sL",
-      "name": "Matthäuspassion, BWV 244: Kommt, ihr Tochter, helft mir klagen (Chorus I and II)",
+      "track": {
+        "id": "5c8BioP5IfiUAC0dkr69sL",
+        "name": "Matthäuspassion, BWV 244: Kommt, ihr Tochter, helft mir klagen (Chorus I and II)"
+      },
       "duration_ms": 396173,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Knaben des Kölner Domchores",
-        "Dresdner Kammerchor"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Knaben des Kölner Domchores",
+          "id": "1NftXcojlsv4770FGeEJ4I"
+        },
+        {
+          "name": "Dresdner Kammerchor",
+          "id": "4yDjrNfw6inxy2NjexHpV1"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "1NftXcojlsv4770FGeEJ4I",
-        "4yDjrNfw6inxy2NjexHpV1"
-      ],
-      "albumId": "4FqaJh7AsWgsUcuoakPz34",
+      "album": {
+        "id": "4FqaJh7AsWgsUcuoakPz34",
+        "name": "J.S. Bach: Matthäuspassion, BWV 244",
+        "img": "https://i.scdn.co/image/ab67616d00001e02449d6c2d61ee1d01afae40ff"
+      },
       "release_date": "2005-11-01",
       "popularity": 45
     },
     {
-      "trackId": "66jmiL0C4SNpCDod04NsKv",
-      "name": "Winterreise, D. 911: No. 1, Gute Nacht",
+      "track": {
+        "id": "66jmiL0C4SNpCDod04NsKv",
+        "name": "Winterreise, D. 911: No. 1, Gute Nacht"
+      },
       "duration_ms": 324773,
-      "artist": [
-        "Franz Schubert",
-        "Dietrich Fischer-Dieskau",
-        "Gerald Moore"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "id": "10CN8N2O3FlGlPVJWBiu5D"
+        },
+        {
+          "name": "Gerald Moore",
+          "id": "0QjqcG7aDPrqJrEogqZu3w"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "10CN8N2O3FlGlPVJWBiu5D",
-        "0QjqcG7aDPrqJrEogqZu3w"
-      ],
-      "albumId": "3NB3p9HQ4astXjeeBBHHsr",
+      "album": {
+        "id": "3NB3p9HQ4astXjeeBBHHsr",
+        "name": "Schubert: Winterreise",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d5afb29f4460a360076db32"
+      },
       "release_date": "1985-01-01",
       "popularity": 27
     },
     {
-      "trackId": "7KBAWnH7rRCVLGdCqhRO2b",
-      "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": I. Allegro assai",
+      "track": {
+        "id": "7KBAWnH7rRCVLGdCqhRO2b",
+        "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": I. Allegro assai"
+      },
       "duration_ms": 81413,
-      "artist": [
-        "Ludwig van Beethoven",
-        "Emil Gilels"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Emil Gilels",
+          "id": "21h8E3aA7a9mjcUHbLpjxf"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "21h8E3aA7a9mjcUHbLpjxf"
-      ],
-      "albumId": "210AqCWih4kCiPjNX2Uw9H",
+      "album": {
+        "id": "210AqCWih4kCiPjNX2Uw9H",
+        "name": "Innovations: Beethoven",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212ef6a1c59487e7063fb9379"
+      },
       "release_date": "2022-08-15",
       "popularity": 8
     },
     {
-      "trackId": "4POdAOXswlEPw0qnJWVgZT",
-      "name": "For Aliina",
+      "track": {
+        "id": "4POdAOXswlEPw0qnJWVgZT",
+        "name": "For Aliina"
+      },
       "duration_ms": 166026,
-      "artist": [
-        "Arvo Pärt",
-        "Käbi Laretei"
+      "artists": [
+        {
+          "name": "Arvo Pärt",
+          "id": "2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Käbi Laretei",
+          "id": "0WaQdkcyX1fvYKNfc0fr2U"
+        }
       ],
-      "artistId": [
-        "2P6ygesd9xg5DPOBnda2jg",
-        "0WaQdkcyX1fvYKNfc0fr2U"
-      ],
-      "albumId": "0Q7idfrWSBsspC508uZDQx",
+      "album": {
+        "id": "0Q7idfrWSBsspC508uZDQx",
+        "name": "Exil - \"Home - Elsewhere\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5e5404b76a72a6d17260276"
+      },
       "release_date": "1994-10-01",
       "popularity": 0
     },
     {
-      "trackId": "0mTUTkFQ2MxmUHFL8EdfeR",
-      "name": "The Firebird (L'oiseau De Feu) - Suite (1919): Finale",
+      "track": {
+        "id": "0mTUTkFQ2MxmUHFL8EdfeR",
+        "name": "The Firebird (L'oiseau De Feu) - Suite (1919): Finale"
+      },
       "duration_ms": 192453,
-      "artist": [
-        "Igor Stravinsky",
-        "Orchestre de l'Opéra Bastille",
-        "Myung-Whun Chung"
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "id": "7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Orchestre de l'Opéra Bastille",
+          "id": "4w8yzPixoCNwxRpUZYpWpP"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "id": "4hdiwtmc6OEFFxpSlwwmby"
+        }
       ],
-      "artistId": [
-        "7ie36YytMoKtPiL7tUvmoE",
-        "4w8yzPixoCNwxRpUZYpWpP",
-        "4hdiwtmc6OEFFxpSlwwmby"
-      ],
-      "albumId": "2q1xMRl4AcA7rI8GfGnmvD",
+      "album": {
+        "id": "2q1xMRl4AcA7rI8GfGnmvD",
+        "name": "Stravinsky: The Firebird (Ballet Suite)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023620c09ca7ca202e676b783b"
+      },
       "release_date": "2009-01-01",
       "popularity": 45
     },
     {
-      "trackId": "14lyZKpPu1ECQpfXhgrip6",
-      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "track": {
+        "id": "14lyZKpPu1ECQpfXhgrip6",
+        "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav."
+      },
       "duration_ms": 50480,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP"
-      ],
-      "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+      "album": {
+        "id": "1aCpHSQE5ghxibsQ5gkBe0",
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7ed978a7fd1498ce8c031f7"
+      },
       "release_date": "1981",
       "popularity": 42
     }

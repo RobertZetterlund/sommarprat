@@ -7,222 +7,322 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/df2e3e4e-95ca-4d21-8b4f-ba7180aaf4ca.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1zW2csx1vVJrKfvDrFQNVt",
-      "name": "Jump in the Line",
+      "track": {
+        "id": "1zW2csx1vVJrKfvDrFQNVt",
+        "name": "Jump in the Line"
+      },
       "duration_ms": 221704,
-      "artist": [
-        "Harry Belafonte"
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "id": "6Tw1ktF4xMmzaLLbe98I2z"
+        }
       ],
-      "artistId": [
-        "6Tw1ktF4xMmzaLLbe98I2z"
-      ],
-      "albumId": "1o6SO1ywnIQgb3MFMF1siI",
+      "album": {
+        "id": "1o6SO1ywnIQgb3MFMF1siI",
+        "name": "Jump Up Calypso",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d601d5b51bcb9931de6b57c6"
+      },
       "release_date": "1961-07-21",
       "popularity": 65
     },
     {
-      "trackId": "63OFKbMaZSDZ4wtesuuq6f",
-      "name": "Born To Be Wild",
+      "track": {
+        "id": "63OFKbMaZSDZ4wtesuuq6f",
+        "name": "Born To Be Wild"
+      },
       "duration_ms": 210373,
-      "artist": [
-        "Steppenwolf"
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "id": "1WRM9i067hd2ujxxi8FI3m"
+        }
       ],
-      "artistId": [
-        "1WRM9i067hd2ujxxi8FI3m"
-      ],
-      "albumId": "6GLHwIp1K3u1zdLOdPRG0W",
+      "album": {
+        "id": "6GLHwIp1K3u1zdLOdPRG0W",
+        "name": "Steppenwolf",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec7e2c5c7ecd29301f1c4b93"
+      },
       "release_date": "1968",
       "popularity": 72
     },
     {
-      "trackId": "6yBbmHFTxihIDFAerzDMGi",
-      "name": "Hold On Tight",
+      "track": {
+        "id": "6yBbmHFTxihIDFAerzDMGi",
+        "name": "Hold On Tight"
+      },
       "duration_ms": 186600,
-      "artist": [
-        "Electric Light Orchestra"
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "id": "7jefIIksOi1EazgRTfW2Pk"
+        }
       ],
-      "artistId": [
-        "7jefIIksOi1EazgRTfW2Pk"
-      ],
-      "albumId": "4k1GJg2poyo6hwWLqJn9C2",
+      "album": {
+        "id": "4k1GJg2poyo6hwWLqJn9C2",
+        "name": "Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a2bad3ba10ed2a9c5322418"
+      },
       "release_date": "1981-08-01",
       "popularity": 58
     },
     {
-      "trackId": "53pZ8y3yMYUNpclGwIufu0",
-      "name": "Conga",
+      "track": {
+        "id": "53pZ8y3yMYUNpclGwIufu0",
+        "name": "Conga"
+      },
       "duration_ms": 255760,
-      "artist": [
-        "Gloria Estefan",
-        "Miami Sound Machine"
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "id": "5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Miami Sound Machine",
+          "id": "18xgcedCGxFbqLbIQn5R8F"
+        }
       ],
-      "artistId": [
-        "5IFCkqu9J6xdWeYMk5I889",
-        "18xgcedCGxFbqLbIQn5R8F"
-      ],
-      "albumId": "5wkQo9u8qrKOdfGqoizWPo",
+      "album": {
+        "id": "5wkQo9u8qrKOdfGqoizWPo",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02981a03926fd6675d6dc8d773"
+      },
       "release_date": "1985",
       "popularity": 60
     },
     {
-      "trackId": "5oVaDKgGAH1GOlUa10WT5t",
-      "name": "Beyond The Sea",
+      "track": {
+        "id": "5oVaDKgGAH1GOlUa10WT5t",
+        "name": "Beyond The Sea"
+      },
       "duration_ms": 205173,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "1Qy7vORyImzsfU89puG4gV",
+      "album": {
+        "id": "1Qy7vORyImzsfU89puG4gV",
+        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c4e909d28945f72df161d49"
+      },
       "release_date": "2010-10-15",
       "popularity": 43
     },
     {
-      "trackId": "4a5pNRjwmzYQuEY1E7O6pj",
-      "name": "Breakfast In America - 2010 Remastered",
+      "track": {
+        "id": "4a5pNRjwmzYQuEY1E7O6pj",
+        "name": "Breakfast In America - 2010 Remastered"
+      },
       "duration_ms": 159346,
-      "artist": [
-        "Supertramp"
+      "artists": [
+        {
+          "name": "Supertramp",
+          "id": "3JsMj0DEzyWc0VDlHuy9Bx"
+        }
       ],
-      "artistId": [
-        "3JsMj0DEzyWc0VDlHuy9Bx"
-      ],
-      "albumId": "1zcm3UvHNHpseYOUfd0pna",
+      "album": {
+        "id": "1zcm3UvHNHpseYOUfd0pna",
+        "name": "Breakfast In America (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e"
+      },
       "release_date": "1979-03-29",
       "popularity": 70
     },
     {
-      "trackId": "4wrS2dvdYei9jZN0JlUBP6",
-      "name": "Twist And Shout",
+      "track": {
+        "id": "4wrS2dvdYei9jZN0JlUBP6",
+        "name": "Twist And Shout"
+      },
       "duration_ms": 237506,
-      "artist": [
-        "Chaka Demus & Pliers",
-        "Jack Radics",
-        "The Taxi Gang"
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "id": "6RQkaOWddQmiLLJqSgnTbm"
+        },
+        {
+          "name": "Jack Radics",
+          "id": "0YeIluqMsCUwn5NC3TG2iQ"
+        },
+        {
+          "name": "The Taxi Gang",
+          "id": "2Af07b1sTnXHHSdCqdLSfy"
+        }
       ],
-      "artistId": [
-        "6RQkaOWddQmiLLJqSgnTbm",
-        "0YeIluqMsCUwn5NC3TG2iQ",
-        "2Af07b1sTnXHHSdCqdLSfy"
-      ],
-      "albumId": "6GTzBIyPe32G2mXBaYSqYY",
+      "album": {
+        "id": "6GTzBIyPe32G2mXBaYSqYY",
+        "name": "Tease Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ede9997b1c47f6891a25671"
+      },
       "release_date": "1993-01-01",
       "popularity": 58
     },
     {
-      "trackId": "6VTbbVjKOC2qWagIDbkJrC",
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "track": {
+        "id": "6VTbbVjKOC2qWagIDbkJrC",
+        "name": "My Baby Just Cares for Me - 2013 Remastered Version"
+      },
       "duration_ms": 215746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "58gOQaPc4RCw8eWdTDRes7",
+      "album": {
+        "id": "58gOQaPc4RCw8eWdTDRes7",
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7cd1d8168aaca9041daad61"
+      },
       "release_date": "1958-06-24",
       "popularity": 66
     },
     {
-      "trackId": "62t1CoiZS1JeoQrYEB6aEs",
-      "name": "If I Could",
+      "track": {
+        "id": "62t1CoiZS1JeoQrYEB6aEs",
+        "name": "If I Could"
+      },
       "duration_ms": 181213,
-      "artist": [
-        "Sophie Zelmani"
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "id": "59hh4MU8JBy0tvPlhz5fzk"
+        }
       ],
-      "artistId": [
-        "59hh4MU8JBy0tvPlhz5fzk"
-      ],
-      "albumId": "1NpMn6eJENrB51UohuR8hy",
+      "album": {
+        "id": "1NpMn6eJENrB51UohuR8hy",
+        "name": "I'm the Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e26056d9ffdbf4ada73ac7b8"
+      },
       "release_date": "2010-02-22",
       "popularity": 38
     },
     {
-      "trackId": "4kP69y3GKHi9tXckfgp4bK",
-      "name": "For Once In My Life",
+      "track": {
+        "id": "4kP69y3GKHi9tXckfgp4bK",
+        "name": "For Once In My Life"
+      },
       "duration_ms": 169800,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "3pPBbp1Nl9n1AM9xFpdKtZ",
+      "album": {
+        "id": "3pPBbp1Nl9n1AM9xFpdKtZ",
+        "name": "For Once In My Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cab4dfee401a04dacfa11784"
+      },
       "release_date": "1968-12-01",
       "popularity": 72
     },
     {
-      "trackId": "2qqXskNxJuTVaF53Ddiuk8",
-      "name": "Song for Bob",
+      "track": {
+        "id": "2qqXskNxJuTVaF53Ddiuk8",
+        "name": "Song for Bob"
+      },
       "duration_ms": 363320,
-      "artist": [
-        "Nick Cave",
-        "Warren Ellis"
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "id": "1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "id": "0A8tch4LePxVn1Cn60wGXu"
+        }
       ],
-      "artistId": [
-        "1RM5gp0RFfjpJhCYFPB30p",
-        "0A8tch4LePxVn1Cn60wGXu"
-      ],
-      "albumId": "6RzRjlvdLSDwkx8bMHyPLs",
+      "album": {
+        "id": "6RzRjlvdLSDwkx8bMHyPLs",
+        "name": "The Assassination of Jesse James By the Coward Robert Ford",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a884c5765d8c8c63848100b0"
+      },
       "release_date": "2008-09-17",
       "popularity": 40
     },
     {
-      "trackId": "3buV0hT4g8GOIa8l2OJIJN",
-      "name": "What Must Be Done",
+      "track": {
+        "id": "3buV0hT4g8GOIa8l2OJIJN",
+        "name": "What Must Be Done"
+      },
       "duration_ms": 117813,
-      "artist": [
-        "Nick Cave",
-        "Warren Ellis"
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "id": "1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "id": "0A8tch4LePxVn1Cn60wGXu"
+        }
       ],
-      "artistId": [
-        "1RM5gp0RFfjpJhCYFPB30p",
-        "0A8tch4LePxVn1Cn60wGXu"
-      ],
-      "albumId": "6RzRjlvdLSDwkx8bMHyPLs",
+      "album": {
+        "id": "6RzRjlvdLSDwkx8bMHyPLs",
+        "name": "The Assassination of Jesse James By the Coward Robert Ford",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a884c5765d8c8c63848100b0"
+      },
       "release_date": "2008-09-17",
       "popularity": 33
     },
     {
-      "trackId": "2P4OICZRVAQcYAV2JReRfj",
-      "name": "Waiting For Love",
+      "track": {
+        "id": "2P4OICZRVAQcYAV2JReRfj",
+        "name": "Waiting For Love"
+      },
       "duration_ms": 230613,
-      "artist": [
-        "Avicii"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6"
-      ],
-      "albumId": "7dqftJ3kas6D0VAdmt3k3V",
+      "album": {
+        "id": "7dqftJ3kas6D0VAdmt3k3V",
+        "name": "Stories",
+        "img": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468"
+      },
       "release_date": "2015-10-02",
       "popularity": 79
     },
     {
-      "trackId": "1lqMLr9Wj7SM2F9AikGcxN",
-      "name": "Hurricane",
+      "track": {
+        "id": "1lqMLr9Wj7SM2F9AikGcxN",
+        "name": "Hurricane"
+      },
       "duration_ms": 512732,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "1T8usYsiGEMPMQOLFgJEbE",
+      "album": {
+        "id": "1T8usYsiGEMPMQOLFgJEbE",
+        "name": "Desire",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e1a23e42f68260b7b274e09"
+      },
       "release_date": "1976-01-16",
       "popularity": 67
     },
     {
-      "trackId": "3R3qPpiWfYbSqwgS7A8Ypy",
-      "name": "Nothing Compares 2 U",
+      "track": {
+        "id": "3R3qPpiWfYbSqwgS7A8Ypy",
+        "name": "Nothing Compares 2 U"
+      },
       "duration_ms": 378346,
-      "artist": [
-        "Jimmy Scott"
+      "artists": [
+        {
+          "name": "Jimmy Scott",
+          "id": "5T7u5bYO62WTYOk5RBZwjo"
+        }
       ],
-      "artistId": [
-        "5T7u5bYO62WTYOk5RBZwjo"
-      ],
-      "albumId": "0BCoKgFUJxca69dLVXsRpH",
+      "album": {
+        "id": "0BCoKgFUJxca69dLVXsRpH",
+        "name": "Pedro Almodóvar - Viva La Tristeza!",
+        "img": "https://i.scdn.co/image/ab67616d00001e026436cac21081118469051f71"
+      },
       "release_date": "2003-05-13",
       "popularity": 45
     }

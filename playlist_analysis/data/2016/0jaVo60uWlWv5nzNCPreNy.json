@@ -7,132 +7,190 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4274fd17-6af1-496b-9438-79e9979ccca9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4qzUsJRX439NTXGD2ak1Jw",
-      "name": "Hon Va",
+      "track": {
+        "id": "4qzUsJRX439NTXGD2ak1Jw",
+        "name": "Hon Va"
+      },
       "duration_ms": 184998,
-      "artist": [
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "1WUagXFvCh1pnAj9hJSFnp",
+      "album": {
+        "id": "1WUagXFvCh1pnAj9hJSFnp",
+        "name": "Naturkraft",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7e9397cf938f98efcff140e"
+      },
       "release_date": "2016-03-25",
       "popularity": 12
     },
     {
-      "trackId": "2yj9zAtKSdDyrfajv4Teug",
-      "name": "Raoui",
+      "track": {
+        "id": "2yj9zAtKSdDyrfajv4Teug",
+        "name": "Raoui"
+      },
       "duration_ms": 226933,
-      "artist": [
-        "Souad Massi"
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "id": "0oXFsuB6XBuDTsXJgplR7k"
+        }
       ],
-      "artistId": [
-        "0oXFsuB6XBuDTsXJgplR7k"
-      ],
-      "albumId": "1Z3U2c2fuKEHQfIzdvgp2Z",
+      "album": {
+        "id": "1Z3U2c2fuKEHQfIzdvgp2Z",
+        "name": "Raoui",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b0114ce6f289c97e4a47a06"
+      },
       "release_date": "2001",
       "popularity": 43
     },
     {
-      "trackId": "2217fjGdGIdPpZ0zeo4z8r",
-      "name": "Invincible",
+      "track": {
+        "id": "2217fjGdGIdPpZ0zeo4z8r",
+        "name": "Invincible"
+      },
       "duration_ms": 225200,
-      "artist": [
-        "Capone-N-Noreaga"
+      "artists": [
+        {
+          "name": "Capone-N-Noreaga",
+          "id": "6KVPfr3ujUkKOrJf4QeRWD"
+        }
       ],
-      "artistId": [
-        "6KVPfr3ujUkKOrJf4QeRWD"
-      ],
-      "albumId": "0ZuL9pJhFqvRK1HxASAMGY",
+      "album": {
+        "id": "0ZuL9pJhFqvRK1HxASAMGY",
+        "name": "The Reunion",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b7dbe10267c00ebb569162c"
+      },
       "release_date": "2000-11-21",
       "popularity": 49
     },
     {
-      "trackId": "2wMaMPOhHhUAHqEOJ32B8K",
-      "name": "Helt okej",
+      "track": {
+        "id": "2wMaMPOhHhUAHqEOJ32B8K",
+        "name": "Helt okej"
+      },
       "duration_ms": 260773,
-      "artist": [
-        "Blues"
+      "artists": [
+        {
+          "name": "Blues",
+          "id": "60gzYweXIZf4AsXywpHJGt"
+        }
       ],
-      "artistId": [
-        "60gzYweXIZf4AsXywpHJGt"
-      ],
-      "albumId": "14n7s0yeQoZcODYF4MUYmb",
+      "album": {
+        "id": "14n7s0yeQoZcODYF4MUYmb",
+        "name": "Samhällstjänst",
+        "img": "https://i.scdn.co/image/ab67616d00001e021500b9f416e82fa4ce24d8f2"
+      },
       "release_date": "1999-05-01",
       "popularity": 33
     },
     {
-      "trackId": "3WG2nCsGkB9fvKWFjzqB51",
-      "name": "Wishing On A Star (Full Vocal Version) [In the Style of Jay-Z]",
+      "track": {
+        "id": "3WG2nCsGkB9fvKWFjzqB51",
+        "name": "Wishing On A Star (Full Vocal Version) [In the Style of Jay-Z]"
+      },
       "duration_ms": 226551,
-      "artist": [
-        "Karaoke Library"
+      "artists": [
+        {
+          "name": "Karaoke Library",
+          "id": "6IkKvcB77pnK30tY65DGGv"
+        }
       ],
-      "artistId": [
-        "6IkKvcB77pnK30tY65DGGv"
-      ],
-      "albumId": "082bM5qyMtMNXh4QCC6v5R",
+      "album": {
+        "id": "082bM5qyMtMNXh4QCC6v5R",
+        "name": "In the Style of Jay-Z (Karaoke - Professional Performance Tracks)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277180c20bf6ef0b1dd37a52c"
+      },
       "release_date": "2011-02-11",
       "popularity": 1
     },
     {
-      "trackId": "4j2zFvpzcYsAMGky0MUp0F",
-      "name": "Tystas ner - RMH Remix",
+      "track": {
+        "id": "4j2zFvpzcYsAMGky0MUp0F",
+        "name": "Tystas ner - RMH Remix"
+      },
       "duration_ms": 423253,
-      "artist": [
-        "Stress",
-        "Sebbe Staxx",
-        "Aleks"
+      "artists": [
+        {
+          "name": "Stress",
+          "id": "2vJo3bWY09MoK1QrRZD1wf"
+        },
+        {
+          "name": "Sebbe Staxx",
+          "id": "2PQ0dKMMDle5scqjI1XOPK"
+        },
+        {
+          "name": "Aleks",
+          "id": "0zKX6nlK1A4ZmztnFPOKGs"
+        }
       ],
-      "artistId": [
-        "2vJo3bWY09MoK1QrRZD1wf",
-        "2PQ0dKMMDle5scqjI1XOPK",
-        "0zKX6nlK1A4ZmztnFPOKGs"
-      ],
-      "albumId": "4sR0M2aOAePXzQhDSyjM4C",
+      "album": {
+        "id": "4sR0M2aOAePXzQhDSyjM4C",
+        "name": "Tystas ner (RHM Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5af91c732b5733a75ac1f57"
+      },
       "release_date": "2012-01-01",
       "popularity": 28
     },
     {
-      "trackId": "14QX1ckbDIhqetvu5VZ3cP",
-      "name": "In This Shirt",
+      "track": {
+        "id": "14QX1ckbDIhqetvu5VZ3cP",
+        "name": "In This Shirt"
+      },
       "duration_ms": 335146,
-      "artist": [
-        "The Irrepressibles"
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "id": "1v5bOzXbhrQ57qSvRwGA6s"
+        }
       ],
-      "artistId": [
-        "1v5bOzXbhrQ57qSvRwGA6s"
-      ],
-      "albumId": "6AOnHGR6Adnmi4FyR3UK6e",
+      "album": {
+        "id": "6AOnHGR6Adnmi4FyR3UK6e",
+        "name": "Mirror Mirror",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d68e7bf7f2092849bc7f2a9d"
+      },
       "release_date": "2010-10-01",
       "popularity": 71
     },
     {
-      "trackId": "43NM185rqN8QlUXEDcuBSc",
-      "name": "Simone",
+      "track": {
+        "id": "43NM185rqN8QlUXEDcuBSc",
+        "name": "Simone"
+      },
       "duration_ms": 215000,
-      "artist": [
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "1WUagXFvCh1pnAj9hJSFnp",
+      "album": {
+        "id": "1WUagXFvCh1pnAj9hJSFnp",
+        "name": "Naturkraft",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7e9397cf938f98efcff140e"
+      },
       "release_date": "2016-03-25",
       "popularity": 15
     },
     {
-      "trackId": "3dgQqOiQ9fCKVhNOedd2lf",
-      "name": "Started From the Bottom",
+      "track": {
+        "id": "3dgQqOiQ9fCKVhNOedd2lf",
+        "name": "Started From the Bottom"
+      },
       "duration_ms": 174120,
-      "artist": [
-        "Drake"
+      "artists": [
+        {
+          "name": "Drake",
+          "id": "3TVXtAsR1Inumwj472S9r4"
+        }
       ],
-      "artistId": [
-        "3TVXtAsR1Inumwj472S9r4"
-      ],
-      "albumId": "2ZUFSbIkmFkGag000RWOpA",
+      "album": {
+        "id": "2ZUFSbIkmFkGag000RWOpA",
+        "name": "Nothing Was The Same (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8"
+      },
       "release_date": "2013-01-01",
       "popularity": 66
     }

@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300236_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5JBmtBqvgnx9f3OpcO0HAm",
-      "name": "Colours",
+      "track": {
+        "id": "5JBmtBqvgnx9f3OpcO0HAm",
+        "name": "Colours"
+      },
       "duration_ms": 164026,
-      "artist": [
-        "Donovan"
+      "artists": [
+        {
+          "name": "Donovan",
+          "id": "6vLlQYujOujIrm7zAKzEdG"
+        }
       ],
-      "artistId": [
-        "6vLlQYujOujIrm7zAKzEdG"
-      ],
-      "albumId": "1CuCleCDIPiBJFU0wpL4og",
+      "album": {
+        "id": "1CuCleCDIPiBJFU0wpL4og",
+        "name": "Fairytale (Deluxe Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02626e1d354540763dd71c5206"
+      },
       "release_date": "1965-10-22",
       "popularity": 19
     },
     {
-      "trackId": "6ykMXUuF0hOSSqR3VViBn2",
-      "name": "Splitter nya blå glänsande sockiplast",
+      "track": {
+        "id": "6ykMXUuF0hOSSqR3VViBn2",
+        "name": "Splitter nya blå glänsande sockiplast"
+      },
       "duration_ms": 178933,
-      "artist": [
-        "Björn Rosenström"
+      "artists": [
+        {
+          "name": "Björn Rosenström",
+          "id": "11xRVFTsfUOVt4vSVX865Q"
+        }
       ],
-      "artistId": [
-        "11xRVFTsfUOVt4vSVX865Q"
-      ],
-      "albumId": "27fTvZwbG1y0FCJrBapo80",
+      "album": {
+        "id": "27fTvZwbG1y0FCJrBapo80",
+        "name": "Låtar som är sådär",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bcd9c35a41ffb259661d999"
+      },
       "release_date": "1995",
       "popularity": 41
     },
     {
-      "trackId": "1fCn21zZq0SgHyckCdUbba",
-      "name": "Varvindar friska - Vardans",
+      "track": {
+        "id": "1fCn21zZq0SgHyckCdUbba",
+        "name": "Varvindar friska - Vardans"
+      },
       "duration_ms": 328698,
-      "artist": [
-        "Nina Pedersen"
+      "artists": [
+        {
+          "name": "Nina Pedersen",
+          "id": "0NH7qwrBWp720NXxWvOOyf"
+        }
       ],
-      "artistId": [
-        "0NH7qwrBWp720NXxWvOOyf"
-      ],
-      "albumId": "3YY3pi7pyxQz2htiJsuiID",
+      "album": {
+        "id": "3YY3pi7pyxQz2htiJsuiID",
+        "name": "Songs from the Top of the World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bbff8a835f17b3068ed7fc46"
+      },
       "release_date": "2011-12-19",
       "popularity": 0
     },
     {
-      "trackId": "78MGDgPr7oThhxTIcrtApb",
-      "name": "Stay Alive",
+      "track": {
+        "id": "78MGDgPr7oThhxTIcrtApb",
+        "name": "Stay Alive"
+      },
       "duration_ms": 266906,
-      "artist": [
-        "José González"
+      "artists": [
+        {
+          "name": "José González",
+          "id": "6xrCU6zdcSTsG2hLrojpmI"
+        }
       ],
-      "artistId": [
-        "6xrCU6zdcSTsG2hLrojpmI"
-      ],
-      "albumId": "4zSB5nqKVh9jQcRByMUcMG",
+      "album": {
+        "id": "4zSB5nqKVh9jQcRByMUcMG",
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0f02f3da6a18a0edd70fda7"
+      },
       "release_date": "2013-01-01",
       "popularity": 48
     },
     {
-      "trackId": "71GvlH0VdeClloLIkHrAVu",
-      "name": "Diamonds on the Soles of Her Shoes",
+      "track": {
+        "id": "71GvlH0VdeClloLIkHrAVu",
+        "name": "Diamonds on the Soles of Her Shoes"
+      },
       "duration_ms": 349280,
-      "artist": [
-        "Paul Simon"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI"
-      ],
-      "albumId": "6WgGWYw6XXQyLTsWt7tXky",
+      "album": {
+        "id": "6WgGWYw6XXQyLTsWt7tXky",
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209880a7b8636c5a0615dc0c8"
+      },
       "release_date": "1986-08-12",
       "popularity": 62
     },
     {
-      "trackId": "734dz1YaFITwawPpM25fSt",
-      "name": "Je veux",
+      "track": {
+        "id": "734dz1YaFITwawPpM25fSt",
+        "name": "Je veux"
+      },
       "duration_ms": 215933,
-      "artist": [
-        "Zaz"
+      "artists": [
+        {
+          "name": "Zaz",
+          "id": "1mbgj8ERPs8lWi7t5cYrdy"
+        }
       ],
-      "artistId": [
-        "1mbgj8ERPs8lWi7t5cYrdy"
-      ],
-      "albumId": "6MuoqipFgorIZEYwGWEFAU",
+      "album": {
+        "id": "6MuoqipFgorIZEYwGWEFAU",
+        "name": "Zaz",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b5969aba116e8248a3e6369"
+      },
       "release_date": "2010-05-10",
       "popularity": 68
     },
     {
-      "trackId": "5qFCBmwHhcoW9rvMBLWDw6",
-      "name": "Souwedi Na Wengue",
+      "track": {
+        "id": "5qFCBmwHhcoW9rvMBLWDw6",
+        "name": "Souwedi Na Wengue"
+      },
       "duration_ms": 215600,
-      "artist": [
-        "Richard Bona"
+      "artists": [
+        {
+          "name": "Richard Bona",
+          "id": "70wm2qxYZ4i2KqcyyH2GyT"
+        }
       ],
-      "artistId": [
-        "70wm2qxYZ4i2KqcyyH2GyT"
-      ],
-      "albumId": "2OQiRUe3Y1b7c7tczeh1rE",
+      "album": {
+        "id": "2OQiRUe3Y1b7c7tczeh1rE",
+        "name": "Scenes From My Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f459d856d985e51e329cccd"
+      },
       "release_date": "1999-07-20",
       "popularity": 24
     },
     {
-      "trackId": "41tzwyMUaaApPEefMyu5r1",
-      "name": "Toutes les mamas",
+      "track": {
+        "id": "41tzwyMUaaApPEefMyu5r1",
+        "name": "Toutes les mamas"
+      },
       "duration_ms": 233400,
-      "artist": [
-        "Maurane"
+      "artists": [
+        {
+          "name": "Maurane",
+          "id": "1bsGJW4NXgXaHzD2Lpk7if"
+        }
       ],
-      "artistId": [
-        "1bsGJW4NXgXaHzD2Lpk7if"
-      ],
-      "albumId": "1OjiQ3K31A1aBCLrOqYgly",
+      "album": {
+        "id": "1OjiQ3K31A1aBCLrOqYgly",
+        "name": "Maurane",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b8f27933213d800e04cb6022"
+      },
       "release_date": "1989-01-01",
       "popularity": 32
     },
     {
-      "trackId": "3LodQuubJHwPgkxp4BxHE7",
-      "name": "Sverige",
+      "track": {
+        "id": "3LodQuubJHwPgkxp4BxHE7",
+        "name": "Sverige"
+      },
       "duration_ms": 179000,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "2DGzTm2R2v3G0IjnxXtP3Y",
+      "album": {
+        "id": "2DGzTm2R2v3G0IjnxXtP3Y",
+        "name": "Vapen & ammunition",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238195e65555be2b7f9324e1c"
+      },
       "release_date": "2002-04-15",
       "popularity": 53
     },
     {
-      "trackId": "6wCXnKJBcInWW9p4p1oHxw",
-      "name": "Boeves Psalm",
+      "track": {
+        "id": "6wCXnKJBcInWW9p4p1oHxw",
+        "name": "Boeves Psalm"
+      },
       "duration_ms": 150733,
-      "artist": [
-        "Lars Hollmer"
+      "artists": [
+        {
+          "name": "Lars Hollmer",
+          "id": "5NDGsql3uVOyEdQoelgBGM"
+        }
       ],
-      "artistId": [
-        "5NDGsql3uVOyEdQoelgBGM"
-      ],
-      "albumId": "4p5qxuDaY0Jsa69MboxWBL",
+      "album": {
+        "id": "4p5qxuDaY0Jsa69MboxWBL",
+        "name": "XII Sibiriska Cyklar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216c29c612eeb495a74e4b7d6"
+      },
       "release_date": "1981-03-20",
       "popularity": 35
     },
     {
-      "trackId": "1LHA7d264KbX5VxjnH3F25",
-      "name": "Catch the Moon",
+      "track": {
+        "id": "1LHA7d264KbX5VxjnH3F25",
+        "name": "Catch the Moon"
+      },
       "duration_ms": 270240,
-      "artist": [
-        "Stefan Andersson"
+      "artists": [
+        {
+          "name": "Stefan Andersson",
+          "id": "4yBfxwfLaloRqynwFrXONV"
+        }
       ],
-      "artistId": [
-        "4yBfxwfLaloRqynwFrXONV"
-      ],
-      "albumId": "2edY0SOt7Ca2tROrwIJ5j4",
+      "album": {
+        "id": "2edY0SOt7Ca2tROrwIJ5j4",
+        "name": "Emperors' Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c20851a7a4bf6e9143f6329e"
+      },
       "release_date": "1992-01-01",
       "popularity": 41
     },
     {
-      "trackId": "7Bz8yww6UMbTgTVLG6zbI4",
-      "name": "Low Rider",
+      "track": {
+        "id": "7Bz8yww6UMbTgTVLG6zbI4",
+        "name": "Low Rider"
+      },
       "duration_ms": 190826,
-      "artist": [
-        "War"
+      "artists": [
+        {
+          "name": "War",
+          "id": "3ICyfoySNDZqtBVmaBT84I"
+        }
       ],
-      "artistId": [
-        "3ICyfoySNDZqtBVmaBT84I"
-      ],
-      "albumId": "59euB5Ns7yGbS06OYHwxRN",
+      "album": {
+        "id": "59euB5Ns7yGbS06OYHwxRN",
+        "name": "Why Can't We Be Friends?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a07cc88003498f7559787673"
+      },
       "release_date": "1975-01-01",
       "popularity": 68
     },
     {
-      "trackId": "2QNXN9BreDYSCiVBsSgW6r",
-      "name": "NIGHTSNAKES",
+      "track": {
+        "id": "2QNXN9BreDYSCiVBsSgW6r",
+        "name": "NIGHTSNAKES"
+      },
       "duration_ms": 236017,
-      "artist": [
-        "TENSU",
-        "vvpskvd.",
-        "L19U1D"
+      "artists": [
+        {
+          "name": "TENSU",
+          "id": "2ihHEpSZa2NaLfORIRrNby"
+        },
+        {
+          "name": "vvpskvd.",
+          "id": "4HrUqrQRBMyLml2vQmggKA"
+        },
+        {
+          "name": "L19U1D",
+          "id": "6eIJYF4G64wbLdUXpxCKd2"
+        }
       ],
-      "artistId": [
-        "2ihHEpSZa2NaLfORIRrNby",
-        "4HrUqrQRBMyLml2vQmggKA",
-        "6eIJYF4G64wbLdUXpxCKd2"
-      ],
-      "albumId": "3fGTJXyOdlVV4gXTHxKH4p",
+      "album": {
+        "id": "3fGTJXyOdlVV4gXTHxKH4p",
+        "name": "NIGHTSNAKES",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c656e49f401229f181771f72"
+      },
       "release_date": "2021-06-16",
       "popularity": 39
     },
     {
-      "trackId": "4NZ87zh5vmK82IK4RDXvH9",
-      "name": "Har Du Sagt A, Så Har Du Sagt A",
+      "track": {
+        "id": "4NZ87zh5vmK82IK4RDXvH9",
+        "name": "Har Du Sagt A, Så Har Du Sagt A"
+      },
       "duration_ms": 212120,
-      "artist": [
-        "Vamp"
+      "artists": [
+        {
+          "name": "Vamp",
+          "id": "5kOdtYNbevIlgUOQkhASnk"
+        }
       ],
-      "artistId": [
-        "5kOdtYNbevIlgUOQkhASnk"
-      ],
-      "albumId": "6SYLCkFuRONS6B8YTUTLaE",
+      "album": {
+        "id": "6SYLCkFuRONS6B8YTUTLaE",
+        "name": "Siste Stikk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2353ef5e3879a0ae251d4b8"
+      },
       "release_date": "2011-01-01",
       "popularity": 14
     },
     {
-      "trackId": "2t77hjgJY4sC9DoX5uaVUD",
-      "name": "Don't Give Up",
+      "track": {
+        "id": "2t77hjgJY4sC9DoX5uaVUD",
+        "name": "Don't Give Up"
+      },
       "duration_ms": 394826,
-      "artist": [
-        "Peter Gabriel"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I"
-      ],
-      "albumId": "0hQb1KT6L3iEYRkS5u8cjm",
+      "album": {
+        "id": "0hQb1KT6L3iEYRkS5u8cjm",
+        "name": "So (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211bb04f55be562c76d8e8ecf"
+      },
       "release_date": "1986-05-19",
       "popularity": 60
     }

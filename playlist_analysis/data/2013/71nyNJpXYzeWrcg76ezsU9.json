@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2944087_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4f3phKXMCHPgLkGVVwMe5V",
-      "name": "Teenage Icon",
+      "track": {
+        "id": "4f3phKXMCHPgLkGVVwMe5V",
+        "name": "Teenage Icon"
+      },
       "duration_ms": 184240,
-      "artist": [
-        "The Vaccines"
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "id": "0Ak6DLKHtpR6TEEnmcorKA"
+        }
       ],
-      "artistId": [
-        "0Ak6DLKHtpR6TEEnmcorKA"
-      ],
-      "albumId": "2XWOaQwiK4GAODTPVwDSr4",
+      "album": {
+        "id": "2XWOaQwiK4GAODTPVwDSr4",
+        "name": "Come Of Age",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf25c435afdd3f63252692f2"
+      },
       "release_date": "2012-09-03",
       "popularity": 47
     },
     {
-      "trackId": "3FY5DfNiXE3yVey1muTXz1",
-      "name": "Sightsee M.C!",
+      "track": {
+        "id": "3FY5DfNiXE3yVey1muTXz1",
+        "name": "Sightsee M.C!"
+      },
       "duration_ms": 295400,
-      "artist": [
-        "Big Audio Dynamite"
+      "artists": [
+        {
+          "name": "Big Audio Dynamite",
+          "id": "7hqZBHSgDs1odG9aupMzEI"
+        }
       ],
-      "artistId": [
-        "7hqZBHSgDs1odG9aupMzEI"
-      ],
-      "albumId": "6Cq9fy1koAPkAs490VZMqW",
+      "album": {
+        "id": "6Cq9fy1koAPkAs490VZMqW",
+        "name": "No. 10, Upping St.",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a237fef0b7c578baf29617f4"
+      },
       "release_date": "1987-03-31",
       "popularity": 15
     },
     {
-      "trackId": "7G2RDVxS0xvofNNNjA5yuN",
-      "name": "Don't Lie",
+      "track": {
+        "id": "7G2RDVxS0xvofNNNjA5yuN",
+        "name": "Don't Lie"
+      },
       "duration_ms": 213413,
-      "artist": [
-        "Vampire Weekend"
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "id": "5BvJzeQpmsdsFp4HGUYUEx"
+        }
       ],
-      "artistId": [
-        "5BvJzeQpmsdsFp4HGUYUEx"
-      ],
-      "albumId": "1GXMNFfoHF4sN7lG8gZq1j",
+      "album": {
+        "id": "1GXMNFfoHF4sN7lG8gZq1j",
+        "name": "Modern Vampires of the City",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263fcc0d5defd6b6da534b002"
+      },
       "release_date": "2013-05-13",
       "popularity": 42
     },
     {
-      "trackId": "0Z7b5GlC70FAES1YduhhqQ",
-      "name": "Rill Rill",
+      "track": {
+        "id": "0Z7b5GlC70FAES1YduhhqQ",
+        "name": "Rill Rill"
+      },
       "duration_ms": 229893,
-      "artist": [
-        "Sleigh Bells"
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "id": "59pWgeY26Q6yJy37QvJflh"
+        }
       ],
-      "artistId": [
-        "59pWgeY26Q6yJy37QvJflh"
-      ],
-      "albumId": "3dEgxewsJAZ6s2nVUieNA5",
+      "album": {
+        "id": "3dEgxewsJAZ6s2nVUieNA5",
+        "name": "Treats",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d25372c4ebb55d160190304"
+      },
       "release_date": "2010-05-11",
       "popularity": 42
     },
     {
-      "trackId": "6VAgMYJEJ6ePqMe1Beu9Lc",
-      "name": "Jag vet inte vem jag är men jag vet att jag är din",
+      "track": {
+        "id": "6VAgMYJEJ6ePqMe1Beu9Lc",
+        "name": "Jag vet inte vem jag är men jag vet att jag är din"
+      },
       "duration_ms": 214413,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "1TSO7M4RaU156GYLIKjkL1",
+      "album": {
+        "id": "1TSO7M4RaU156GYLIKjkL1",
+        "name": "För sent för Edelweiss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccc8337effe128a3baaad8cd"
+      },
       "release_date": "2008-03-26",
       "popularity": 46
     },
     {
-      "trackId": "4fxF8ljwryMZX5c9EKrLFE",
-      "name": "Boombastic",
+      "track": {
+        "id": "4fxF8ljwryMZX5c9EKrLFE",
+        "name": "Boombastic"
+      },
       "duration_ms": 249933,
-      "artist": [
-        "Shaggy"
+      "artists": [
+        {
+          "name": "Shaggy",
+          "id": "5EvFsr3kj42KNv97ZEnqij"
+        }
       ],
-      "artistId": [
-        "5EvFsr3kj42KNv97ZEnqij"
-      ],
-      "albumId": "40rtksAqnwebfPKWzSL6Iv",
+      "album": {
+        "id": "40rtksAqnwebfPKWzSL6Iv",
+        "name": "Boombastic",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211394cad51642144dc4014b3"
+      },
       "release_date": "1995-07-11",
       "popularity": 70
     },
     {
-      "trackId": "1ixbwbeBi5ufN4noUKmW5a",
-      "name": "Paper Planes",
+      "track": {
+        "id": "1ixbwbeBi5ufN4noUKmW5a",
+        "name": "Paper Planes"
+      },
       "duration_ms": 205200,
-      "artist": [
-        "M.I.A."
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "id": "0QJIPDAEDILuo8AIq3pMuU"
+        }
       ],
-      "artistId": [
-        "0QJIPDAEDILuo8AIq3pMuU"
-      ],
-      "albumId": "2xoj2gYed3IYmGWn3owSfu",
+      "album": {
+        "id": "2xoj2gYed3IYmGWn3owSfu",
+        "name": "Kala",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8ea5b2ab46dc5fc899ef81e"
+      },
       "release_date": "2007-08-20",
       "popularity": 77
     },
     {
-      "trackId": "4Q1WP8SIqfyJ6AcgcYSgZ0",
-      "name": "Sommarvin",
+      "track": {
+        "id": "4Q1WP8SIqfyJ6AcgcYSgZ0",
+        "name": "Sommarvin"
+      },
       "duration_ms": 194466,
-      "artist": [
-        "Hästpojken"
+      "artists": [
+        {
+          "name": "Hästpojken",
+          "id": "4LR7Yqrdq5TeOPe9O0qASx"
+        }
       ],
-      "artistId": [
-        "4LR7Yqrdq5TeOPe9O0qASx"
-      ],
-      "albumId": "6JhBemqIzPvdNzhaOUwrIt",
+      "album": {
+        "id": "6JhBemqIzPvdNzhaOUwrIt",
+        "name": "En magisk tanke",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249f500b603548561d9a2fcb1"
+      },
       "release_date": "2013-03-11",
       "popularity": 27
     },
     {
-      "trackId": "15rbqfWtrFCW3uLf9a01sf",
-      "name": "Untrust Us",
+      "track": {
+        "id": "15rbqfWtrFCW3uLf9a01sf",
+        "name": "Untrust Us"
+      },
       "duration_ms": 186373,
-      "artist": [
-        "Crystal Castles"
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "id": "7K3zpFXBvPcvzhj7zlGJdO"
+        }
       ],
-      "artistId": [
-        "7K3zpFXBvPcvzhj7zlGJdO"
-      ],
-      "albumId": "3LnVvIeiLCngvwEnbdxwCT",
+      "album": {
+        "id": "3LnVvIeiLCngvwEnbdxwCT",
+        "name": "Crystal Castles",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e58f83c489e88a6d0e3a31e1"
+      },
       "release_date": "2008-03-16",
       "popularity": 50
     },
     {
-      "trackId": "1c4ZMVziaCtUll3h71NasA",
-      "name": "Jag kommer - Mash Up International Remix",
+      "track": {
+        "id": "1c4ZMVziaCtUll3h71NasA",
+        "name": "Jag kommer - Mash Up International Remix"
+      },
       "duration_ms": 203440,
-      "artist": [
-        "Veronica Maggio",
-        "Kakan"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        },
+        {
+          "name": "Kakan",
+          "id": "41M6aA9Il7cldaYjH5V1tk"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs",
-        "41M6aA9Il7cldaYjH5V1tk"
-      ],
-      "albumId": "15P4J9L0cqe7qI482ZfIgp",
+      "album": {
+        "id": "15P4J9L0cqe7qI482ZfIgp",
+        "name": "Jag kommer (Mash Up International Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eabc6218c67718301a0327f3"
+      },
       "release_date": "2011-01-01",
       "popularity": 43
     },
     {
-      "trackId": "14bK53FOW6YL2N0fuJCtQy",
-      "name": "SpongeBob & Patrick Confront the Psychic Wall of Energy",
+      "track": {
+        "id": "14bK53FOW6YL2N0fuJCtQy",
+        "name": "SpongeBob & Patrick Confront the Psychic Wall of Energy"
+      },
       "duration_ms": 219813,
-      "artist": [
-        "The Flaming Lips"
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "id": "16eRpMNXSQ15wuJoeqguaB"
+        }
       ],
-      "artistId": [
-        "16eRpMNXSQ15wuJoeqguaB"
-      ],
-      "albumId": "3yaX4L63CKiN2oleC53fy8",
+      "album": {
+        "id": "3yaX4L63CKiN2oleC53fy8",
+        "name": "The SpongeBob SquarePants Movie-Music From The Movie and More",
+        "img": "https://i.scdn.co/image/ab67616d00001e0237dcc623f72b6d492f56f675"
+      },
       "release_date": "2004-11-09",
       "popularity": 33
     },
     {
-      "trackId": "29ufIwomYfLbWBxPMdaUZm",
-      "name": "North American Scum",
+      "track": {
+        "id": "29ufIwomYfLbWBxPMdaUZm",
+        "name": "North American Scum"
+      },
       "duration_ms": 328706,
-      "artist": [
-        "LCD Soundsystem"
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "id": "066X20Nz7iquqkkCW6Jxy6"
+        }
       ],
-      "artistId": [
-        "066X20Nz7iquqkkCW6Jxy6"
-      ],
-      "albumId": "1R8kkopLT4IAxzMMkjic6X",
+      "album": {
+        "id": "1R8kkopLT4IAxzMMkjic6X",
+        "name": "Sound of Silver",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6272ad26e7a55bc342a6dd0"
+      },
       "release_date": "2007-03-12",
       "popularity": 51
     },
     {
-      "trackId": "12TPkk0h9K2Ux4W3SvyD0X",
-      "name": "Josef",
+      "track": {
+        "id": "12TPkk0h9K2Ux4W3SvyD0X",
+        "name": "Josef"
+      },
       "duration_ms": 143226,
-      "artist": [
-        "Makthaverskan"
+      "artists": [
+        {
+          "name": "Makthaverskan",
+          "id": "57MIstrTi3Sw9J9yJybN0E"
+        }
       ],
-      "artistId": [
-        "57MIstrTi3Sw9J9yJybN0E"
-      ],
-      "albumId": "3wHLKUq9PwWFKKaVY7pi9w",
+      "album": {
+        "id": "3wHLKUq9PwWFKKaVY7pi9w",
+        "name": "Makthaverskan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca902457cbecb4caf280f0ac"
+      },
       "release_date": "2009-11-05",
       "popularity": 9
     },
     {
-      "trackId": "6gSDSkAJ3vuSINvcroq1Vn",
-      "name": "Bankrobber",
+      "track": {
+        "id": "6gSDSkAJ3vuSINvcroq1Vn",
+        "name": "Bankrobber"
+      },
       "duration_ms": 274026,
-      "artist": [
-        "The Clash"
+      "artists": [
+        {
+          "name": "The Clash",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS"
+        }
       ],
-      "artistId": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-      ],
-      "albumId": "3Zkggi5I9uH5x94DuN6u1S",
+      "album": {
+        "id": "3Zkggi5I9uH5x94DuN6u1S",
+        "name": "Hits Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257f627f712e7060d287dd732"
+      },
       "release_date": "2013-08-26",
       "popularity": 50
     }

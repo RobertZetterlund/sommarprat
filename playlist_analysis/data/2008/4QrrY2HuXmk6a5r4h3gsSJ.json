@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252441_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4lQfnSLKKSKlep9ASNoTbo",
-      "name": "Babblarnas vaggvisa",
+      "track": {
+        "id": "4lQfnSLKKSKlep9ASNoTbo",
+        "name": "Babblarnas vaggvisa"
+      },
       "duration_ms": 304779,
-      "artist": [
-        "Vintergatan"
+      "artists": [
+        {
+          "name": "Vintergatan",
+          "id": "2bl9NxlK21JgGjP5HkNi5o"
+        }
       ],
-      "artistId": [
-        "2bl9NxlK21JgGjP5HkNi5o"
-      ],
-      "albumId": "3byd3r0bluk22eusc6uth3",
+      "album": {
+        "id": "3byd3r0bluk22eusc6uth3",
+        "name": "Babblarnas vaggvisa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9e2071395aaf49577189246"
+      },
       "release_date": "2022-04-08",
       "popularity": 57
     },
     {
-      "trackId": "7dYHFjUaV00o0eqATMEC14",
-      "name": "Fröken Fräken",
+      "track": {
+        "id": "7dYHFjUaV00o0eqATMEC14",
+        "name": "Fröken Fräken"
+      },
       "duration_ms": 180346,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "142x8DL32k0QbhIaoow7Jr",
+      "album": {
+        "id": "142x8DL32k0QbhIaoow7Jr",
+        "name": "Mer glöd än någonsin - Sven-Ingvars bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2c77bd6b6dc3f213ca99908"
+      },
       "release_date": "2015-12-11",
       "popularity": 32
     },
     {
-      "trackId": "0j3p1p06deJ7f9xmJ9yG22",
-      "name": "Back In The U.S.S.R. - Remastered 2009",
+      "track": {
+        "id": "0j3p1p06deJ7f9xmJ9yG22",
+        "name": "Back In The U.S.S.R. - Remastered 2009"
+      },
       "duration_ms": 163453,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 65
     },
     {
-      "trackId": "63OFKbMaZSDZ4wtesuuq6f",
-      "name": "Born To Be Wild",
+      "track": {
+        "id": "63OFKbMaZSDZ4wtesuuq6f",
+        "name": "Born To Be Wild"
+      },
       "duration_ms": 210373,
-      "artist": [
-        "Steppenwolf"
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "id": "1WRM9i067hd2ujxxi8FI3m"
+        }
       ],
-      "artistId": [
-        "1WRM9i067hd2ujxxi8FI3m"
-      ],
-      "albumId": "6GLHwIp1K3u1zdLOdPRG0W",
+      "album": {
+        "id": "6GLHwIp1K3u1zdLOdPRG0W",
+        "name": "Steppenwolf",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec7e2c5c7ecd29301f1c4b93"
+      },
       "release_date": "1968",
       "popularity": 72
     },
     {
-      "trackId": "7aAkwqs3Yp94iIiPRRD7QA",
-      "name": "My Father's Eyes - 2015 Remaster",
+      "track": {
+        "id": "7aAkwqs3Yp94iIiPRRD7QA",
+        "name": "My Father's Eyes - 2015 Remaster"
+      },
       "duration_ms": 323053,
-      "artist": [
-        "Eric Clapton"
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "id": "6PAt558ZEZl0DmdXlnjMgD"
+        }
       ],
-      "artistId": [
-        "6PAt558ZEZl0DmdXlnjMgD"
-      ],
-      "albumId": "3gaFg68VkhrZUU9wfaLp5T",
+      "album": {
+        "id": "3gaFg68VkhrZUU9wfaLp5T",
+        "name": "Forever Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e021a4b277e3bf902464b1ab186"
+      },
       "release_date": "2015-04-28",
       "popularity": 53
     },
     {
-      "trackId": "40NRm1ZLvZpUSCUXAGGZ8J",
-      "name": "Kung Fu Fighting",
+      "track": {
+        "id": "40NRm1ZLvZpUSCUXAGGZ8J",
+        "name": "Kung Fu Fighting"
+      },
       "duration_ms": 197693,
-      "artist": [
-        "Carl Douglas"
+      "artists": [
+        {
+          "name": "Carl Douglas",
+          "id": "5Pqx4mXYDGIDcg8E5FYjZ8"
+        }
       ],
-      "artistId": [
-        "5Pqx4mXYDGIDcg8E5FYjZ8"
-      ],
-      "albumId": "7wA3s9ug9RoJXi9qGQbSjX",
+      "album": {
+        "id": "7wA3s9ug9RoJXi9qGQbSjX",
+        "name": "The Soul of the Kung Fu Fighter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dec0aaf058acf0bee4915a72"
+      },
       "release_date": "2001",
       "popularity": 67
     },
     {
-      "trackId": "3mWpUEBYnv9SIFWfixSJFx",
-      "name": "Can't Get Enough Of Your Love, Babe",
+      "track": {
+        "id": "3mWpUEBYnv9SIFWfixSJFx",
+        "name": "Can't Get Enough Of Your Love, Babe"
+      },
       "duration_ms": 274000,
-      "artist": [
-        "Barry White"
+      "artists": [
+        {
+          "name": "Barry White",
+          "id": "3rfgbfpPSfXY40lzRK7Syt"
+        }
       ],
-      "artistId": [
-        "3rfgbfpPSfXY40lzRK7Syt"
-      ],
-      "albumId": "42Si9RbdXYGWQsfNTzjlnG",
+      "album": {
+        "id": "42Si9RbdXYGWQsfNTzjlnG",
+        "name": "Can't Get Enough",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa3252b7843a8a3426cc34bf"
+      },
       "release_date": "1974-02-15",
       "popularity": 68
     },
     {
-      "trackId": "5p3JunprHCxClJjOmcLV8G",
-      "name": "Walk On the Wild Side",
+      "track": {
+        "id": "5p3JunprHCxClJjOmcLV8G",
+        "name": "Walk On the Wild Side"
+      },
       "duration_ms": 254173,
-      "artist": [
-        "Lou Reed"
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "id": "42TFhl7WlMRXiNqzSrnzPL"
+        }
       ],
-      "artistId": [
-        "42TFhl7WlMRXiNqzSrnzPL"
-      ],
-      "albumId": "5SqbMEyAt8332ISGiLX0St",
+      "album": {
+        "id": "5SqbMEyAt8332ISGiLX0St",
+        "name": "Transformer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e"
+      },
       "release_date": "1972-12-01",
       "popularity": 72
     },
     {
-      "trackId": "4vaSYDF88lJNZbl0k8MVft",
-      "name": "Demolition Man",
+      "track": {
+        "id": "4vaSYDF88lJNZbl0k8MVft",
+        "name": "Demolition Man"
+      },
       "duration_ms": 245706,
-      "artist": [
-        "Grace Jones"
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "id": "2f9ZiYA2ic1r1voObUimdd"
+        }
       ],
-      "artistId": [
-        "2f9ZiYA2ic1r1voObUimdd"
-      ],
-      "albumId": "6q8R2OCmCS9W6Y7kqnSd78",
+      "album": {
+        "id": "6q8R2OCmCS9W6Y7kqnSd78",
+        "name": "Nightclubbing",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3a83072adb1a52cac58afa7"
+      },
       "release_date": "1981",
       "popularity": 26
     },
     {
-      "trackId": "2udGjDmpK1dH9VGyw7nrei",
-      "name": "Cocaine",
+      "track": {
+        "id": "2udGjDmpK1dH9VGyw7nrei",
+        "name": "Cocaine"
+      },
       "duration_ms": 221640,
-      "artist": [
-        "Eric Clapton"
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "id": "6PAt558ZEZl0DmdXlnjMgD"
+        }
       ],
-      "artistId": [
-        "6PAt558ZEZl0DmdXlnjMgD"
-      ],
-      "albumId": "0GBrlPh90D25SQ6EJu4VtT",
+      "album": {
+        "id": "0GBrlPh90D25SQ6EJu4VtT",
+        "name": "Slowhand 35th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e7464d9d8a25b2bf74b782a"
+      },
       "release_date": "1977-11-01",
       "popularity": 68
     },
     {
-      "trackId": "28P5HAF0Kll9Xd9dX4qw7A",
-      "name": "Eye of the Tiger",
+      "track": {
+        "id": "28P5HAF0Kll9Xd9dX4qw7A",
+        "name": "Eye of the Tiger"
+      },
       "duration_ms": 243773,
-      "artist": [
-        "Survivor"
+      "artists": [
+        {
+          "name": "Survivor",
+          "id": "26bcq2nyj5GB7uRr558iQg"
+        }
       ],
-      "artistId": [
-        "26bcq2nyj5GB7uRr558iQg"
-      ],
-      "albumId": "1v8q5oFweXG7AH9kjCoMyX",
+      "album": {
+        "id": "1v8q5oFweXG7AH9kjCoMyX",
+        "name": "Eye Of The Tiger",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228c091d788ec5126817dc07a"
+      },
       "release_date": "1982",
       "popularity": 59
     },
     {
-      "trackId": "6i6ETV4DCuhLtnlZ6Xlypd",
-      "name": "Living in America - From \"Rocky IV\" Soundtrack",
+      "track": {
+        "id": "6i6ETV4DCuhLtnlZ6Xlypd",
+        "name": "Living in America - From \"Rocky IV\" Soundtrack"
+      },
       "duration_ms": 281760,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "0pvhletDH7CphbKErUtPCF",
+      "album": {
+        "id": "0pvhletDH7CphbKErUtPCF",
+        "name": "80s 100 Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db56ceff816b668b7b6f04ff"
+      },
       "release_date": "2010-02-26",
       "popularity": 33
     },
     {
-      "trackId": "04NTgfyFFx8FRm0vZszMF7",
-      "name": "Gonna Fly Now",
+      "track": {
+        "id": "04NTgfyFFx8FRm0vZszMF7",
+        "name": "Gonna Fly Now"
+      },
       "duration_ms": 289746,
-      "artist": [
-        "Rocky Orchestra"
+      "artists": [
+        {
+          "name": "Rocky Orchestra",
+          "id": "5Strpt0ddlNJdlzloGjVQT"
+        }
       ],
-      "artistId": [
-        "5Strpt0ddlNJdlzloGjVQT"
-      ],
-      "albumId": "5SPoOMzF5s2ff8LJ2W6oyH",
+      "album": {
+        "id": "5SPoOMzF5s2ff8LJ2W6oyH",
+        "name": "The Rocky Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267c0a118cc63685a9f6d4f63"
+      },
       "release_date": "1990-04-14",
       "popularity": 45
     },
     {
-      "trackId": "1DapqOfkDAQCiKnvfwKo0g",
-      "name": "All Around the World - Remastered",
+      "track": {
+        "id": "1DapqOfkDAQCiKnvfwKo0g",
+        "name": "All Around the World - Remastered"
+      },
       "duration_ms": 265760,
-      "artist": [
-        "Lisa Stansfield",
-        "Ian Devaney",
-        "Andy Morris"
+      "artists": [
+        {
+          "name": "Lisa Stansfield",
+          "id": "2jS7I1u7BpgWT9ssG62Zr1"
+        },
+        {
+          "name": "Ian Devaney",
+          "id": "6Ufm4BHf4ZdolpvcvYgH2S"
+        },
+        {
+          "name": "Andy Morris",
+          "id": "0A1FSG9WZ2dQ5JSkQYJHIp"
+        }
       ],
-      "artistId": [
-        "2jS7I1u7BpgWT9ssG62Zr1",
-        "6Ufm4BHf4ZdolpvcvYgH2S",
-        "0A1FSG9WZ2dQ5JSkQYJHIp"
-      ],
-      "albumId": "2NGdpRuh0JgRLrdAK8AyNR",
+      "album": {
+        "id": "2NGdpRuh0JgRLrdAK8AyNR",
+        "name": "Affection",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a604708f8cc63898ea5e660"
+      },
       "release_date": "1989",
       "popularity": 64
     },
     {
-      "trackId": "2zYzyRzz6pRmhPzyfMEC8s",
-      "name": "Highway to Hell",
+      "track": {
+        "id": "2zYzyRzz6pRmhPzyfMEC8s",
+        "name": "Highway to Hell"
+      },
       "duration_ms": 208400,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "10v912xgTZbjAtYfyKWJCS",
+      "album": {
+        "id": "10v912xgTZbjAtYfyKWJCS",
+        "name": "Highway to Hell",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251c02a77d09dfcd53c8676d0"
+      },
       "release_date": "1979-07-27",
       "popularity": 83
     }

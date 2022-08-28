@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/594b89ed-7b9a-43f9-85d3-922f5d76d4b9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5fF1DsZIKTFo6Vy0I4PMzG",
-      "name": "My Last Mistake",
+      "track": {
+        "id": "5fF1DsZIKTFo6Vy0I4PMzG",
+        "name": "My Last Mistake"
+      },
       "duration_ms": 192240,
-      "artist": [
-        "Dan Auerbach"
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "id": "6YWdHD3R863Apw1hkx3BwC"
+        }
       ],
-      "artistId": [
-        "6YWdHD3R863Apw1hkx3BwC"
-      ],
-      "albumId": "2KQn93GMsH7IoOvQ0Hlqzx",
+      "album": {
+        "id": "2KQn93GMsH7IoOvQ0Hlqzx",
+        "name": "Keep It Hid",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d958dbe6d20025e40a04c3f"
+      },
       "release_date": "2009-02-10",
       "popularity": 31
     },
     {
-      "trackId": "09VKRXfyCe98pSrGT1mzIg",
-      "name": "Det överexponerade gömstället",
+      "track": {
+        "id": "09VKRXfyCe98pSrGT1mzIg",
+        "name": "Det överexponerade gömstället"
+      },
       "duration_ms": 316600,
-      "artist": [
-        "bob hund"
+      "artists": [
+        {
+          "name": "bob hund",
+          "id": "6OZxE19iim1JKvCA3GmCVx"
+        }
       ],
-      "artistId": [
-        "6OZxE19iim1JKvCA3GmCVx"
-      ],
-      "albumId": "2u8y0SPhhOsEVELK4M2miY",
+      "album": {
+        "id": "2u8y0SPhhOsEVELK4M2miY",
+        "name": "Det Överexponerade Gömstället",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2a16c0f6fcc54b4f122c16d"
+      },
       "release_date": "2011-03-16",
       "popularity": 19
     },
     {
-      "trackId": "1Q0sruYhnsq6lmhWgeRFh5",
-      "name": "This Woman's Work",
+      "track": {
+        "id": "1Q0sruYhnsq6lmhWgeRFh5",
+        "name": "This Woman's Work"
+      },
       "duration_ms": 218906,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "0Bk6rV33JObdtOpjJg0vIy",
+      "album": {
+        "id": "0Bk6rV33JObdtOpjJg0vIy",
+        "name": "The Sensual World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02880759ab68485eceddc5b1ac"
+      },
       "release_date": "1989",
       "popularity": 60
     },
     {
-      "trackId": "24wC3NjIJjwiQnPFaiHVnU",
-      "name": "Csöttfers a la meszterkok",
+      "track": {
+        "id": "24wC3NjIJjwiQnPFaiHVnU",
+        "name": "Csöttfers a la meszterkok"
+      },
       "duration_ms": 39693,
-      "artist": [
-        "Anders Melander"
+      "artists": [
+        {
+          "name": "Anders Melander",
+          "id": "18UHgmYbEJGkAwKQYAXgrV"
+        }
       ],
-      "artistId": [
-        "18UHgmYbEJGkAwKQYAXgrV"
-      ],
-      "albumId": "3odXhvBGiRd3Ep9h0FG2Un",
+      "album": {
+        "id": "3odXhvBGiRd3Ep9h0FG2Un",
+        "name": "Ebba och Didrik (Musik från TV-serien)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b67706b6ef602e023c7d8f84"
+      },
       "release_date": "1990-04-25",
       "popularity": 1
     },
     {
-      "trackId": "0ESdqfoXzXITo2dDiMRXV9",
-      "name": "Tyst person",
+      "track": {
+        "id": "0ESdqfoXzXITo2dDiMRXV9",
+        "name": "Tyst person"
+      },
       "duration_ms": 168946,
-      "artist": [
-        "Britta Persson"
+      "artists": [
+        {
+          "name": "Britta Persson",
+          "id": "1p3J6laThbGvAuz642q1O6"
+        }
       ],
-      "artistId": [
-        "1p3J6laThbGvAuz642q1O6"
-      ],
-      "albumId": "2v1Nk5W06VRTIP3fyyQIIj",
+      "album": {
+        "id": "2v1Nk5W06VRTIP3fyyQIIj",
+        "name": "Folk – Dikt och toner om personer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3a284e949aa9e35fcecf0ba"
+      },
       "release_date": "2019-08-16",
       "popularity": 16
     },
     {
-      "trackId": "5lB2bBaKkloGJG2hIUEnEG",
-      "name": "Silent Shout",
+      "track": {
+        "id": "5lB2bBaKkloGJG2hIUEnEG",
+        "name": "Silent Shout"
+      },
       "duration_ms": 293626,
-      "artist": [
-        "The Knife"
+      "artists": [
+        {
+          "name": "The Knife",
+          "id": "7eQZTqEMozBcuSubfu52i4"
+        }
       ],
-      "artistId": [
-        "7eQZTqEMozBcuSubfu52i4"
-      ],
-      "albumId": "4ewtgI9fTMA21qI6ObKOvo",
+      "album": {
+        "id": "4ewtgI9fTMA21qI6ObKOvo",
+        "name": "Silent Shout",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297f4b370a7c18cf9290c0147"
+      },
       "release_date": "2006-02-17",
       "popularity": 34
     },
     {
-      "trackId": "7km8eBZqlTKiqlgdl2Zk5u",
-      "name": "Perth",
+      "track": {
+        "id": "7km8eBZqlTKiqlgdl2Zk5u",
+        "name": "Perth"
+      },
       "duration_ms": 262079,
-      "artist": [
-        "Bon Iver"
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ"
+        }
       ],
-      "artistId": [
-        "4LEiUm1SRbFMgfqnQTwUbQ"
-      ],
-      "albumId": "3JKDDYSBFozqcjWwSV3Yj3",
+      "album": {
+        "id": "3JKDDYSBFozqcjWwSV3Yj3",
+        "name": "Bon Iver",
+        "img": "https://i.scdn.co/image/ab67616d00001e026880235a103031a13ff8c902"
+      },
       "release_date": "2011-06-20",
       "popularity": 49
     },
     {
-      "trackId": "4UkXuoVlcEQJBXeP5NvfQm",
-      "name": "Älgen",
+      "track": {
+        "id": "4UkXuoVlcEQJBXeP5NvfQm",
+        "name": "Älgen"
+      },
       "duration_ms": 248493,
-      "artist": [
-        "Amason"
+      "artists": [
+        {
+          "name": "Amason",
+          "id": "4cJKxS7uOPhwb5UQ70sYpN"
+        }
       ],
-      "artistId": [
-        "4cJKxS7uOPhwb5UQ70sYpN"
-      ],
-      "albumId": "2lYmxilk8cXJlxxXmns1IU",
+      "album": {
+        "id": "2lYmxilk8cXJlxxXmns1IU",
+        "name": "Sky City",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ea1ac674a37817f906f9235"
+      },
       "release_date": "2015-01-27",
       "popularity": 33
     },
     {
-      "trackId": "5I2OjdgZWSkY4Cbsle3K4g",
-      "name": "Hela livet var ett disco",
+      "track": {
+        "id": "5I2OjdgZWSkY4Cbsle3K4g",
+        "name": "Hela livet var ett disco"
+      },
       "duration_ms": 246880,
-      "artist": [
-        "Markus Krunegård"
+      "artists": [
+        {
+          "name": "Markus Krunegård",
+          "id": "3P6ePaE5unCm7vjccfcBAe"
+        }
       ],
-      "artistId": [
-        "3P6ePaE5unCm7vjccfcBAe"
-      ],
-      "albumId": "4AFcwwOL0XcZE5hnHN3Fjc",
+      "album": {
+        "id": "4AFcwwOL0XcZE5hnHN3Fjc",
+        "name": "Prinsen av Peking",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccece3294fd19b691ed23cad"
+      },
       "release_date": "2009-01-01",
       "popularity": 33
     },
     {
-      "trackId": "44eQkbofZeY7rEPnPdobwa",
-      "name": "Do It Again",
+      "track": {
+        "id": "44eQkbofZeY7rEPnPdobwa",
+        "name": "Do It Again"
+      },
       "duration_ms": 306323,
-      "artist": [
-        "Röyksopp",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Röyksopp",
+          "id": "5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "5nPOO9iTcrs9k6yFffPxjH",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "5rgGVO0mjqDYsHQnD4XkJV",
+      "album": {
+        "id": "5rgGVO0mjqDYsHQnD4XkJV",
+        "name": "Do It Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283f481912754558f3b0146df"
+      },
       "release_date": "2014-04-23",
       "popularity": 41
     },
     {
-      "trackId": "5bZsYnjyTT8wqOrR6yspy9",
-      "name": "Till och med dom",
+      "track": {
+        "id": "5bZsYnjyTT8wqOrR6yspy9",
+        "name": "Till och med dom"
+      },
       "duration_ms": 258226,
-      "artist": [
-        "Emil Jensen"
+      "artists": [
+        {
+          "name": "Emil Jensen",
+          "id": "2sdhZm1TCh9CLoM4QUBsll"
+        }
       ],
-      "artistId": [
-        "2sdhZm1TCh9CLoM4QUBsll"
-      ],
-      "albumId": "3kSkNIhBw1rT4BY34eQfcl",
+      "album": {
+        "id": "3kSkNIhBw1rT4BY34eQfcl",
+        "name": "I det nya landet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287a33c630b1212265cfc3a7b"
+      },
       "release_date": "2013-10-02",
       "popularity": 13
     },
     {
-      "trackId": "0h5USKo7wVbr1I1DEoRncM",
-      "name": "Dagisrevolutionären",
+      "track": {
+        "id": "0h5USKo7wVbr1I1DEoRncM",
+        "name": "Dagisrevolutionären"
+      },
       "duration_ms": 232128,
-      "artist": [
-        "Doktor Kosmos"
+      "artists": [
+        {
+          "name": "Doktor Kosmos",
+          "id": "1n14d4zMN8otdsf3PU0krI"
+        }
       ],
-      "artistId": [
-        "1n14d4zMN8otdsf3PU0krI"
-      ],
-      "albumId": "4rJkabU2gVPZIlzxGDlHN2",
+      "album": {
+        "id": "4rJkabU2gVPZIlzxGDlHN2",
+        "name": "Hej Alla Barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02502221aa8054999cd6d1689c"
+      },
       "release_date": "2019-05-17",
       "popularity": 12
     }

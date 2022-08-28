@@ -7,294 +7,434 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3298689_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2ICHjh9PknqFGZz7497MMW",
-      "name": "Längtan till Italien",
+      "track": {
+        "id": "2ICHjh9PknqFGZz7497MMW",
+        "name": "Längtan till Italien"
+      },
       "duration_ms": 167320,
-      "artist": [
-        "Ingvar Wixell"
+      "artists": [
+        {
+          "name": "Ingvar Wixell",
+          "id": "4Ji71insQgY8xcElRz2jdc"
+        }
       ],
-      "artistId": [
-        "4Ji71insQgY8xcElRz2jdc"
-      ],
-      "albumId": "6kbPZV6fA3f7wICl8FI6am",
+      "album": {
+        "id": "6kbPZV6fA3f7wICl8FI6am",
+        "name": "Fridas Visor & Evert Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e1bcef371ce34375bf64584"
+      },
       "release_date": "1996",
       "popularity": 5
     },
     {
-      "trackId": "1DzYDC7LD4dyKSp0AeLj63",
-      "name": "Kung för en dag",
+      "track": {
+        "id": "1DzYDC7LD4dyKSp0AeLj63",
+        "name": "Kung för en dag"
+      },
       "duration_ms": 197013,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "21OkRaD7g0PJOAlcS4X9N7",
+      "album": {
+        "id": "21OkRaD7g0PJOAlcS4X9N7",
+        "name": "Uggla Box",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb68d681f896a50204cb92b7"
+      },
       "release_date": "1977",
       "popularity": 54
     },
     {
-      "trackId": "0p3MsOQq1toIeKJ2Q1WXrP",
-      "name": "Sammy Davis Jnr Medley- a) Once In A Lifetime b) Who Can I Turn To? c) What Kind Of Fool Am I?",
+      "track": {
+        "id": "0p3MsOQq1toIeKJ2Q1WXrP",
+        "name": "Sammy Davis Jnr Medley- a) Once In A Lifetime b) Who Can I Turn To? c) What Kind Of Fool Am I?"
+      },
       "duration_ms": 266000,
-      "artist": [
-        "Kevin Grunill"
+      "artists": [
+        {
+          "name": "Kevin Grunill",
+          "id": "2W7AZhuEMvTwWFXWjZvkdj"
+        }
       ],
-      "artistId": [
-        "2W7AZhuEMvTwWFXWjZvkdj"
-      ],
-      "albumId": "7BDgiwb0i0ZKHiGGQeocD5",
+      "album": {
+        "id": "7BDgiwb0i0ZKHiGGQeocD5",
+        "name": "At The End Of The Pier - Kevin Grunill At The Wurlitzer Theatre Organ",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de993924eb45ef41e40d063c"
+      },
       "release_date": "2007-11-20",
       "popularity": 0
     },
     {
-      "trackId": "3mjFxRF7eUVOE79ZRttBp7",
-      "name": "Suite Bergamasque: 3. Clair De Lune",
+      "track": {
+        "id": "3mjFxRF7eUVOE79ZRttBp7",
+        "name": "Suite Bergamasque: 3. Clair De Lune"
+      },
       "duration_ms": 298400,
-      "artist": [
-        "Claude Debussy",
-        "Lars Roos"
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "id": "1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Lars Roos",
+          "id": "0M95sWc84uLm8fM6Sl3b9t"
+        }
       ],
-      "artistId": [
-        "1Uff91EOsvd99rtAupatMP",
-        "0M95sWc84uLm8fM6Sl3b9t"
-      ],
-      "albumId": "3dHn6hYVmCMj603VFyNXRf",
+      "album": {
+        "id": "3dHn6hYVmCMj603VFyNXRf",
+        "name": "Für Elise",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d92cfff9e1c021ea03a032a3"
+      },
       "release_date": "1987-01-01",
       "popularity": 28
     },
     {
-      "trackId": "3YYUmw4asVeqUlkJMKPfzW",
-      "name": "Il Barbiere di Siviglia, '(The) Barber of Seville': Una voce poco fa - 1986 Remastered Version",
+      "track": {
+        "id": "3YYUmw4asVeqUlkJMKPfzW",
+        "name": "Il Barbiere di Siviglia, '(The) Barber of Seville': Una voce poco fa - 1986 Remastered Version"
+      },
       "duration_ms": 412360,
-      "artist": [
-        "Gioachino Rossini",
-        "Maria Callas",
-        "Tullio Serafin"
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "id": "0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "id": "0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "id": "3UYZxxxrntUxxEeRycqHvq"
+        }
       ],
-      "artistId": [
-        "0roWUeP7Ac4yK4VN6L2gF4",
-        "0bjdfjE8XbLa2Odstu6E1E",
-        "3UYZxxxrntUxxEeRycqHvq"
-      ],
-      "albumId": "0tREYnFHLtGOkfegsYOBRb",
+      "album": {
+        "id": "0tREYnFHLtGOkfegsYOBRb",
+        "name": "The Very Best of Maria Callas",
+        "img": "https://i.scdn.co/image/ab67616d00001e020c38c04f87539b92c9abb035"
+      },
       "release_date": "2003-02-15",
       "popularity": 32
     },
     {
-      "trackId": "7avkps7zie4kYMGsK4EZzB",
-      "name": "Misty",
+      "track": {
+        "id": "7avkps7zie4kYMGsK4EZzB",
+        "name": "Misty"
+      },
       "duration_ms": 233666,
-      "artist": [
-        "Putte Wickman"
+      "artists": [
+        {
+          "name": "Putte Wickman",
+          "id": "6sx2v1gYnSUlkVO7M5Mk95"
+        }
       ],
-      "artistId": [
-        "6sx2v1gYnSUlkVO7M5Mk95"
-      ],
-      "albumId": "6w7jZACnaozB1KCqtpTAEf",
+      "album": {
+        "id": "6w7jZACnaozB1KCqtpTAEf",
+        "name": "My Inspiration - Swedish Jazz Legends",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bad1345902e4838eedd0af6"
+      },
       "release_date": "2011-01-01",
       "popularity": 19
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "3zxtfa55zUeRYRKpGtuVVl",
-      "name": "Così fan tutte, K.588 / Act 1: \"Soave sia il vento\"",
+      "track": {
+        "id": "3zxtfa55zUeRYRKpGtuVVl",
+        "name": "Così fan tutte, K.588 / Act 1: \"Soave sia il vento\""
+      },
       "duration_ms": 171480,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Miah Persson",
-        "Angela Brower"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Miah Persson",
+          "id": "3hcyVVem6bxNJH1gx2Ww5F"
+        },
+        {
+          "name": "Angela Brower",
+          "id": "6H0vbcDDS1q3y5L87qWifw"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3hcyVVem6bxNJH1gx2Ww5F",
-        "6H0vbcDDS1q3y5L87qWifw"
-      ],
-      "albumId": "5azjbVDVbTWLKbV8sjLjX1",
+      "album": {
+        "id": "5azjbVDVbTWLKbV8sjLjX1",
+        "name": "Mozart: Così fan tutte",
+        "img": "https://i.scdn.co/image/ab67616d00001e027f63b4c1e37e194675fe1b59"
+      },
       "release_date": "2013-01-01",
       "popularity": 27
     },
     {
-      "trackId": "06xX9E1BTTwyOwyaBuszSK",
-      "name": "Fångad av en stormvind - Swedish Version",
+      "track": {
+        "id": "06xX9E1BTTwyOwyaBuszSK",
+        "name": "Fångad av en stormvind - Swedish Version"
+      },
       "duration_ms": 180760,
-      "artist": [
-        "Carola"
+      "artists": [
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        }
       ],
-      "artistId": [
-        "3uFum0NCM1PtmCO0MwsOAt"
-      ],
-      "albumId": "4cotyYQgYleaHbqQEgU9Hv",
+      "album": {
+        "id": "4cotyYQgYleaHbqQEgU9Hv",
+        "name": "Främling 25 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202e7b8d0e871a838221132a2"
+      },
       "release_date": "1983-03-26",
       "popularity": 53
     },
     {
-      "trackId": "1uRKT2LRANv4baowBWHfDS",
-      "name": "(We're Gonna) Rock Around The Clock",
+      "track": {
+        "id": "1uRKT2LRANv4baowBWHfDS",
+        "name": "(We're Gonna) Rock Around The Clock"
+      },
       "duration_ms": 129893,
-      "artist": [
-        "Bill Haley & His Comets"
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "id": "3MFp4cYuYtTZe3d3xkLLbr"
+        }
       ],
-      "artistId": [
-        "3MFp4cYuYtTZe3d3xkLLbr"
-      ],
-      "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
+      "album": {
+        "id": "2vB7uVHcRU4dmHeFQCTkSK",
+        "name": "Rock Around The Clock",
+        "img": "https://i.scdn.co/image/ab67616d00001e029060a2c0a01366ee03274597"
+      },
       "release_date": "1955-12-19",
       "popularity": 66
     },
     {
-      "trackId": "6kslhEiY1vM8SeAySF9rOL",
-      "name": "Lilla mor",
+      "track": {
+        "id": "6kslhEiY1vM8SeAySF9rOL",
+        "name": "Lilla mor"
+      },
       "duration_ms": 201373,
-      "artist": [
-        "Bertil Boo"
+      "artists": [
+        {
+          "name": "Bertil Boo",
+          "id": "3TiAFGZ9ZwmEPnFVtZyXQS"
+        }
       ],
-      "artistId": [
-        "3TiAFGZ9ZwmEPnFVtZyXQS"
-      ],
-      "albumId": "0ybVpXjzdbWo1KEq3gNdoE",
+      "album": {
+        "id": "0ybVpXjzdbWo1KEq3gNdoE",
+        "name": "Minnenas Musik Vol.1",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e85a101dffecf8c6fd9d8a6"
+      },
       "release_date": "2000-01-01",
       "popularity": 4
     },
     {
-      "trackId": "3Qc6vRR8SLiEXKz16ptH9X",
-      "name": "L'oiseau de feu (The Firebird): IV. Danse de l'oiseau de feu (Dance of the Firebird)",
+      "track": {
+        "id": "3Qc6vRR8SLiEXKz16ptH9X",
+        "name": "L'oiseau de feu (The Firebird): IV. Danse de l'oiseau de feu (Dance of the Firebird)"
+      },
       "duration_ms": 85240,
-      "artist": [
-        "Igor Stravinsky",
-        "Michael Tilson Thomas"
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "id": "7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "id": "2v1lHgfpG4joXW7kDdDI78"
+        }
       ],
-      "artistId": [
-        "7ie36YytMoKtPiL7tUvmoE",
-        "2v1lHgfpG4joXW7kDdDI78"
-      ],
-      "albumId": "4tCggL0RNKiu2TLuoQxG56",
+      "album": {
+        "id": "4tCggL0RNKiu2TLuoQxG56",
+        "name": "Stravinsky: L' Oiseau De Feu; Le Sacre Du Printemps; Perséphone",
+        "img": "https://i.scdn.co/image/ab67616d00001e020221cfc68b701224559136d9"
+      },
       "release_date": "1999-01-01",
       "popularity": 2
     },
     {
-      "trackId": "1iJPBy1qziT1mxqMYWtEQK",
-      "name": "Monicas vals",
+      "track": {
+        "id": "1iJPBy1qziT1mxqMYWtEQK",
+        "name": "Monicas vals"
+      },
       "duration_ms": 199933,
-      "artist": [
-        "The Real Group"
+      "artists": [
+        {
+          "name": "The Real Group",
+          "id": "4EIXOUTnf8Gtbk2kq4LYNK"
+        }
       ],
-      "artistId": [
-        "4EIXOUTnf8Gtbk2kq4LYNK"
-      ],
-      "albumId": "6qZJPuvppklfSBmVZUWwbq",
+      "album": {
+        "id": "6qZJPuvppklfSBmVZUWwbq",
+        "name": "Varför får man inte bara vara som man är?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281a8fc0b6dd83018917f0a7e"
+      },
       "release_date": "1994-01-01",
       "popularity": 13
     },
     {
-      "trackId": "46v4XAUfknD2BTqZQ60YAX",
-      "name": "Karl Johan",
+      "track": {
+        "id": "46v4XAUfknD2BTqZQ60YAX",
+        "name": "Karl Johan"
+      },
       "duration_ms": 145737,
-      "artist": [
-        "Ringnes-Ronny",
-        "Lothepus",
-        "hekkan"
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "id": "4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Lothepus",
+          "id": "2HEAdsUVqQO9KqF1wKmHOO"
+        },
+        {
+          "name": "hekkan",
+          "id": "0ksnusx0OEpak0OQZhrNzD"
+        }
       ],
-      "artistId": [
-        "4TNb6OInXahdseLnzAY1eL",
-        "2HEAdsUVqQO9KqF1wKmHOO",
-        "0ksnusx0OEpak0OQZhrNzD"
-      ],
-      "albumId": "3utPt70XO4HjPN5mGloU5X",
+      "album": {
+        "id": "3utPt70XO4HjPN5mGloU5X",
+        "name": "Karl Johan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc6db6d03a9ee52d03476ab4"
+      },
       "release_date": "2020-07-22",
       "popularity": 51
     },
     {
-      "trackId": "0A7j9nhm25v5HQ2zZNCDmX",
-      "name": "Tre pepparkaksgubbar",
+      "track": {
+        "id": "0A7j9nhm25v5HQ2zZNCDmX",
+        "name": "Tre pepparkaksgubbar"
+      },
       "duration_ms": 50466,
-      "artist": [
-        "Alice Babs",
-        "Titti"
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "id": "3omPckNeXtMpCdOXVfcOST"
+        },
+        {
+          "name": "Titti",
+          "id": "7IbS2SEpGqbjRAgEgplBWp"
+        }
       ],
-      "artistId": [
-        "3omPckNeXtMpCdOXVfcOST",
-        "7IbS2SEpGqbjRAgEgplBWp"
-      ],
-      "albumId": "6jy6cwR3A9Z6kD9la3LjHT",
+      "album": {
+        "id": "6jy6cwR3A9Z6kD9la3LjHT",
+        "name": "Sjung med oss mamma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5d4c9fdc3d31fe240426f6"
+      },
       "release_date": "1963-11-11",
       "popularity": 7
     },
     {
-      "trackId": "52PdWeHdTrZpWsLbi8UeW2",
-      "name": "Stockholm Diary",
+      "track": {
+        "id": "52PdWeHdTrZpWsLbi8UeW2",
+        "name": "Stockholm Diary"
+      },
       "duration_ms": 753920,
-      "artist": [
-        "Esa-Pekka Salonen",
-        "Ostrobothnian Chamber Orchestra",
-        "Malin Broman"
+      "artists": [
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Ostrobothnian Chamber Orchestra",
+          "id": "7A0u8NYeGO91iCE7xRs50j"
+        },
+        {
+          "name": "Malin Broman",
+          "id": "1UWgqvj4Hzby5SvzEYzupV"
+        }
       ],
-      "artistId": [
-        "3ilNZUdmNZ2nUcuAOIpsQl",
-        "7A0u8NYeGO91iCE7xRs50j",
-        "1UWgqvj4Hzby5SvzEYzupV"
-      ],
-      "albumId": "2uhrR2KLBdw9HT8M9qo2cs",
+      "album": {
+        "id": "2uhrR2KLBdw9HT8M9qo2cs",
+        "name": "Stockholm Diary",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269825c08b086a54e64fcbdc1"
+      },
       "release_date": "2022-04-01",
       "popularity": 1
     },
     {
-      "trackId": "34dnU6G18trjkKmc08PMOq",
-      "name": "Il barbiere di Siviglia, Riccardo Stracciari: Act I- \" Largo al factotum\"",
+      "track": {
+        "id": "34dnU6G18trjkKmc08PMOq",
+        "name": "Il barbiere di Siviglia, Riccardo Stracciari: Act I- \" Largo al factotum\""
+      },
       "duration_ms": 233600,
-      "artist": [
-        "Riccardo Stracciari"
+      "artists": [
+        {
+          "name": "Riccardo Stracciari",
+          "id": "6INPrh4CxMfcLSe1XsFDI1"
+        }
       ],
-      "artistId": [
-        "6INPrh4CxMfcLSe1XsFDI1"
-      ],
-      "albumId": "3tlOw3fveOraRFk4J2Nuvw",
+      "album": {
+        "id": "3tlOw3fveOraRFk4J2Nuvw",
+        "name": "Opera for ever new additions",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f72b2cb2c3cc3aeb8c7ea98"
+      },
       "release_date": "2010-11-30",
       "popularity": 0
     },
     {
-      "trackId": "46v4XAUfknD2BTqZQ60YAX",
-      "name": "Karl Johan",
+      "track": {
+        "id": "46v4XAUfknD2BTqZQ60YAX",
+        "name": "Karl Johan"
+      },
       "duration_ms": 145737,
-      "artist": [
-        "Ringnes-Ronny",
-        "Lothepus",
-        "hekkan"
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "id": "4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Lothepus",
+          "id": "2HEAdsUVqQO9KqF1wKmHOO"
+        },
+        {
+          "name": "hekkan",
+          "id": "0ksnusx0OEpak0OQZhrNzD"
+        }
       ],
-      "artistId": [
-        "4TNb6OInXahdseLnzAY1eL",
-        "2HEAdsUVqQO9KqF1wKmHOO",
-        "0ksnusx0OEpak0OQZhrNzD"
-      ],
-      "albumId": "3utPt70XO4HjPN5mGloU5X",
+      "album": {
+        "id": "3utPt70XO4HjPN5mGloU5X",
+        "name": "Karl Johan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc6db6d03a9ee52d03476ab4"
+      },
       "release_date": "2020-07-22",
       "popularity": 51
     },
     {
-      "trackId": "1VCtHxQtu0P5PEnpMdTZw1",
-      "name": "The Kingdom - Intro",
+      "track": {
+        "id": "1VCtHxQtu0P5PEnpMdTZw1",
+        "name": "The Kingdom - Intro"
+      },
       "duration_ms": 129266,
-      "artist": [
-        "Joachim Holbek"
+      "artists": [
+        {
+          "name": "Joachim Holbek",
+          "id": "6Y7Z4ntL9vZKD5nu0Gow6i"
+        }
       ],
-      "artistId": [
-        "6Y7Z4ntL9vZKD5nu0Gow6i"
-      ],
-      "albumId": "2wb2NntJeZva6Ea77VYn0t",
+      "album": {
+        "id": "2wb2NntJeZva6Ea77VYn0t",
+        "name": "The Kingdom",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f2d37dfc631a28113916b3f"
+      },
       "release_date": "1994",
       "popularity": 13
     }

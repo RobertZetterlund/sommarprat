@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252989_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1KVNgxCjXXI74Y3XK47xfk",
-      "name": "Det kommer bara leda till nåt ont",
+      "track": {
+        "id": "1KVNgxCjXXI74Y3XK47xfk",
+        "name": "Det kommer bara leda till nåt ont"
+      },
       "duration_ms": 222906,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "5DgxERJ0OOJKS3Jx7UkEwi",
+      "album": {
+        "id": "5DgxERJ0OOJKS3Jx7UkEwi",
+        "name": "Säkert!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f74b459fcbfedbf2eed745"
+      },
       "release_date": "2007-03-15",
       "popularity": 29
     },
     {
-      "trackId": "6r8k1vznHrzlEKYxL4dZEe",
-      "name": "La Isla Bonita",
+      "track": {
+        "id": "6r8k1vznHrzlEKYxL4dZEe",
+        "name": "La Isla Bonita"
+      },
       "duration_ms": 242733,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "6fmnT17jc2Sc69q3nza1eD",
+      "album": {
+        "id": "6fmnT17jc2Sc69q3nza1eD",
+        "name": "True Blue (Reissue)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027136940d1367fb6514ec9b4f"
+      },
       "release_date": "1986-06-30",
       "popularity": 73
     },
     {
-      "trackId": "2243noZsb18ZDuDAFmLC5F",
-      "name": "Já Decidiu",
+      "track": {
+        "id": "2243noZsb18ZDuDAFmLC5F",
+        "name": "Já Decidiu"
+      },
       "duration_ms": 221366,
-      "artist": [
-        "Eveen Davi"
+      "artists": [
+        {
+          "name": "Eveen Davi",
+          "id": "0L3posC6f9vYlhjyE4KXz4"
+        }
       ],
-      "artistId": [
-        "0L3posC6f9vYlhjyE4KXz4"
-      ],
-      "albumId": "1r9RQQbnWyzXILvu8IckaQ",
+      "album": {
+        "id": "1r9RQQbnWyzXILvu8IckaQ",
+        "name": "Já Decidiu",
+        "img": "https://i.scdn.co/image/ab67616d00001e02251548786a4cfc659eb655ed"
+      },
       "release_date": "2022-03-04",
       "popularity": 36
     },
     {
-      "trackId": "7gtrXOGETM9OkerNjNXeie",
-      "name": "Waiting Around to Die",
+      "track": {
+        "id": "7gtrXOGETM9OkerNjNXeie",
+        "name": "Waiting Around to Die"
+      },
       "duration_ms": 165186,
-      "artist": [
-        "Townes Van Zandt"
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "id": "3ZWab2LEVkNKiBPIClTwof"
+        }
       ],
-      "artistId": [
-        "3ZWab2LEVkNKiBPIClTwof"
-      ],
-      "albumId": "6KFVwdp9yZczVIVv4glWue",
+      "album": {
+        "id": "6KFVwdp9yZczVIVv4glWue",
+        "name": "Townes Van Zandt",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c883be3287c02f857e91c06"
+      },
       "release_date": "1969-09",
       "popularity": 51
     },
     {
-      "trackId": "0HbpZr0twktPkOHaMKroly",
-      "name": "Matti Apornas Son",
+      "track": {
+        "id": "0HbpZr0twktPkOHaMKroly",
+        "name": "Matti Apornas Son"
+      },
       "duration_ms": 257893,
-      "artist": [
-        "Mattias Alkberg"
+      "artists": [
+        {
+          "name": "Mattias Alkberg",
+          "id": "5p8AjcGi5g19fWNvC2zhqE"
+        }
       ],
-      "artistId": [
-        "5p8AjcGi5g19fWNvC2zhqE"
-      ],
-      "albumId": "3eSVDID7U4iPkISNnd44ed",
+      "album": {
+        "id": "3eSVDID7U4iPkISNnd44ed",
+        "name": "Ditt Hjärta Är En Stjärna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cba9a68b6384ea4b125b2a31"
+      },
       "release_date": "2005-09-15",
       "popularity": 4
     },
     {
-      "trackId": "2Mpj1Ul5OFPyyP4wB62Rvi",
-      "name": "Survivor",
+      "track": {
+        "id": "2Mpj1Ul5OFPyyP4wB62Rvi",
+        "name": "Survivor"
+      },
       "duration_ms": 254026,
-      "artist": [
-        "Destiny's Child"
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "id": "1Y8cdNmUJH7yBTd9yOvr5i"
+        }
       ],
-      "artistId": [
-        "1Y8cdNmUJH7yBTd9yOvr5i"
-      ],
-      "albumId": "2HcjLD0ButtKsQYqzoyOx9",
+      "album": {
+        "id": "2HcjLD0ButtKsQYqzoyOx9",
+        "name": "Survivor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02163cdae7f1e2c82786a84e3e"
+      },
       "release_date": "2001-05-01",
       "popularity": 70
     },
     {
-      "trackId": "3CdJlOOJZeJjwqFj4KHDAv",
-      "name": "Teenline",
+      "track": {
+        "id": "3CdJlOOJZeJjwqFj4KHDAv",
+        "name": "Teenline"
+      },
       "duration_ms": 222053,
-      "artist": [
-        "The Shivvers"
+      "artists": [
+        {
+          "name": "The Shivvers",
+          "id": "2s3zHhJ18IqSPNfOKb5Ip6"
+        }
       ],
-      "artistId": [
-        "2s3zHhJ18IqSPNfOKb5Ip6"
-      ],
-      "albumId": "3UJIHfRGlXH7BRKzosUVNI",
+      "album": {
+        "id": "3UJIHfRGlXH7BRKzosUVNI",
+        "name": "Lost Hits From Milwaukee's First Family Of Powerpop 1979-82",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d0f69940932ba548abc8307"
+      },
       "release_date": "2006-04-25",
       "popularity": 22
     },
     {
-      "trackId": "1sQxrKrojCSuBk6XuaT8vm",
-      "name": "Vi kommer att dö samtidigt",
+      "track": {
+        "id": "1sQxrKrojCSuBk6XuaT8vm",
+        "name": "Vi kommer att dö samtidigt"
+      },
       "duration_ms": 179586,
-      "artist": [
-        "Säkert!"
+      "artists": [
+        {
+          "name": "Säkert!",
+          "id": "6aNouxfdfQCKjiZG0LJcjx"
+        }
       ],
-      "artistId": [
-        "6aNouxfdfQCKjiZG0LJcjx"
-      ],
-      "albumId": "5DgxERJ0OOJKS3Jx7UkEwi",
+      "album": {
+        "id": "5DgxERJ0OOJKS3Jx7UkEwi",
+        "name": "Säkert!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f74b459fcbfedbf2eed745"
+      },
       "release_date": "2007-03-15",
       "popularity": 40
     },
     {
-      "trackId": "5oOC6EBnSQ3PfRAQyfjAla",
-      "name": "That Summer Feeling",
+      "track": {
+        "id": "5oOC6EBnSQ3PfRAQyfjAla",
+        "name": "That Summer Feeling"
+      },
       "duration_ms": 366600,
-      "artist": [
-        "Jonathan Richman"
+      "artists": [
+        {
+          "name": "Jonathan Richman",
+          "id": "6hkch2KhRl0tywpeVK5xR5"
+        }
       ],
-      "artistId": [
-        "6hkch2KhRl0tywpeVK5xR5"
-      ],
-      "albumId": "2RtcqYl0VAhDw9DPMEqWF5",
+      "album": {
+        "id": "2RtcqYl0VAhDw9DPMEqWF5",
+        "name": "I, Jonathan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dde31a0c569f68ed6362825a"
+      },
       "release_date": "1992-01-01",
       "popularity": 45
     },
     {
-      "trackId": "1XrdmJxGSLjvEuHLdVF5VW",
-      "name": "A New England",
+      "track": {
+        "id": "1XrdmJxGSLjvEuHLdVF5VW",
+        "name": "A New England"
+      },
       "duration_ms": 232853,
-      "artist": [
-        "Kirsty MacColl"
+      "artists": [
+        {
+          "name": "Kirsty MacColl",
+          "id": "6UlNIFEuWlBqb4TvlVCekq"
+        }
       ],
-      "artistId": [
-        "6UlNIFEuWlBqb4TvlVCekq"
-      ],
-      "albumId": "1jWUD2a9m08a6FFKth91Yl",
+      "album": {
+        "id": "1jWUD2a9m08a6FFKth91Yl",
+        "name": "The Stiff Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a956ba083e98ce4b223ce339"
+      },
       "release_date": "2006-10-04",
       "popularity": 54
     },
     {
-      "trackId": "6iGU74CwXuT4XVepjc9Emf",
-      "name": "God Only Knows - Mono / 1997 Remastered",
+      "track": {
+        "id": "6iGU74CwXuT4XVepjc9Emf",
+        "name": "God Only Knows - Mono / 1997 Remastered"
+      },
       "duration_ms": 173040,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "6GphKx2QAPRoVGWE9D7ou8",
+      "album": {
+        "id": "6GphKx2QAPRoVGWE9D7ou8",
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bde8dfd1922129f3d9e3732f"
+      },
       "release_date": "1966-06-16",
       "popularity": 67
     },
     {
-      "trackId": "3qupdJBQflEYzfvyIjVj1h",
-      "name": "Ruby's Arms",
+      "track": {
+        "id": "3qupdJBQflEYzfvyIjVj1h",
+        "name": "Ruby's Arms"
+      },
       "duration_ms": 335480,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "7lCEnPYYkUuvnkrCbA6RCa",
+      "album": {
+        "id": "7lCEnPYYkUuvnkrCbA6RCa",
+        "name": "Heartattack And Vine (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0262c6579558e64de02203d442"
+      },
       "release_date": "1980-09-09",
       "popularity": 34
     }

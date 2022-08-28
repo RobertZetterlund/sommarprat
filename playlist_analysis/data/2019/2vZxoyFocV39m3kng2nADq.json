@@ -7,212 +7,302 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/1928c752-c29f-4d36-956d-0b7e11b00e48.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4cqn2zzaX2cGBWGfLHH5Ff",
-      "name": "Stand by Me",
+      "track": {
+        "id": "4cqn2zzaX2cGBWGfLHH5Ff",
+        "name": "Stand by Me"
+      },
       "duration_ms": 222677,
-      "artist": [
-        "Derrick Morgan"
+      "artists": [
+        {
+          "name": "Derrick Morgan",
+          "id": "2RM3xqQNdhZknQBsyQl3ZM"
+        }
       ],
-      "artistId": [
-        "2RM3xqQNdhZknQBsyQl3ZM"
-      ],
-      "albumId": "1s4XlXOc8lONdPp47ZGLNO",
+      "album": {
+        "id": "1s4XlXOc8lONdPp47ZGLNO",
+        "name": "Stand By Me / For the Time Being",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4b2080fe9e60b7ff951aa02"
+      },
       "release_date": "2018-11-22",
       "popularity": 9
     },
     {
-      "trackId": "1wSnFi455Lur0rp52LLGXa",
-      "name": "Glasnost",
+      "track": {
+        "id": "1wSnFi455Lur0rp52LLGXa",
+        "name": "Glasnost"
+      },
       "duration_ms": 253040,
-      "artist": [
-        "Björn Afzelius"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0"
-      ],
-      "albumId": "7pKNjhskqOsSXeGU95XsfT",
+      "album": {
+        "id": "7pKNjhskqOsSXeGU95XsfT",
+        "name": "Riddarna kring runda bordet",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f324e01de2ffb02bca2de2a"
+      },
       "release_date": "1987-01-01",
       "popularity": 8
     },
     {
-      "trackId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "name": "Everybody Wants To Rule The World",
+      "track": {
+        "id": "4RvWPyQ5RL0ao9LPZeSouE",
+        "name": "Everybody Wants To Rule The World"
+      },
       "duration_ms": 251488,
-      "artist": [
-        "Tears For Fears"
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "id": "4bthk9UfsYUYdcFyqxmSUU"
+        }
       ],
-      "artistId": [
-        "4bthk9UfsYUYdcFyqxmSUU"
-      ],
-      "albumId": "3myPwaMYjdwhtq0nFgeG6W",
+      "album": {
+        "id": "3myPwaMYjdwhtq0nFgeG6W",
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222463d6939fec9e17b2a6235"
+      },
       "release_date": "1985-02-25",
       "popularity": 87
     },
     {
-      "trackId": "5GjPQ0eI7AgmOnADn1EO6Q",
-      "name": "Eleanor Rigby - Remastered 2009",
+      "track": {
+        "id": "5GjPQ0eI7AgmOnADn1EO6Q",
+        "name": "Eleanor Rigby - Remastered 2009"
+      },
       "duration_ms": 126533,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3PRoXYsngSwjEQWR5PsHWR",
+      "album": {
+        "id": "3PRoXYsngSwjEQWR5PsHWR",
+        "name": "Revolver (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a"
+      },
       "release_date": "1966-08-05",
       "popularity": 68
     },
     {
-      "trackId": "1aIAfQYt8K0PkJnQ1RU3wF",
-      "name": "Angels Landing - José Padilla Mix",
+      "track": {
+        "id": "1aIAfQYt8K0PkJnQ1RU3wF",
+        "name": "Angels Landing - José Padilla Mix"
+      },
       "duration_ms": 336720,
-      "artist": [
-        "Salt Tank"
+      "artists": [
+        {
+          "name": "Salt Tank",
+          "id": "4ovf2sz0laJlCRfhuK5dSh"
+        }
       ],
-      "artistId": [
-        "4ovf2sz0laJlCRfhuK5dSh"
-      ],
-      "albumId": "63HGg2el7g2LOWaeskvQSA",
+      "album": {
+        "id": "63HGg2el7g2LOWaeskvQSA",
+        "name": "Café del Mar Music - 2 Decades (1994 - 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283091b5bba1cdb8b9d3151f2"
+      },
       "release_date": "2013-12-20",
       "popularity": 39
     },
     {
-      "trackId": "0urpGnhNA7Ab9ErUqqW8YW",
-      "name": "Kataghani",
+      "track": {
+        "id": "0urpGnhNA7Ab9ErUqqW8YW",
+        "name": "Kataghani"
+      },
       "duration_ms": 241440,
-      "artist": [
-        "Homayun Sakhi"
+      "artists": [
+        {
+          "name": "Homayun Sakhi",
+          "id": "04GXR3ePBEJ1fokzOxYx9u"
+        }
       ],
-      "artistId": [
-        "04GXR3ePBEJ1fokzOxYx9u"
-      ],
-      "albumId": "0wiVMPX3xXXqAkwRjGDyGT",
+      "album": {
+        "id": "0wiVMPX3xXXqAkwRjGDyGT",
+        "name": "Music Of Central Asia, Vol. 3: Homayun Sakhi - The Art Of The Afghan Rubâb",
+        "img": "https://i.scdn.co/image/ab67616d00001e029031696df5b90ee01b5b93da"
+      },
       "release_date": "2006-03-14",
       "popularity": 21
     },
     {
-      "trackId": "754WgEesWgssZG3XzU9XcG",
-      "name": "Nuclear",
+      "track": {
+        "id": "754WgEesWgssZG3XzU9XcG",
+        "name": "Nuclear"
+      },
       "duration_ms": 303986,
-      "artist": [
-        "Mike Oldfield"
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "id": "562Od3CffWedyz2BbeYWVn"
+        }
       ],
-      "artistId": [
-        "562Od3CffWedyz2BbeYWVn"
-      ],
-      "albumId": "05tYzb5o4rZaOEr6K4cNSC",
+      "album": {
+        "id": "05tYzb5o4rZaOEr6K4cNSC",
+        "name": "Man On The Rocks",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224d2d2abca78a7ce0e3e15b5"
+      },
       "release_date": "2014-01-01",
       "popularity": 53
     },
     {
-      "trackId": "0TsMTnKBiFufRJw6nOaSz1",
-      "name": "Theology / Civilization - From \"Conan the Barbarian\"",
+      "track": {
+        "id": "0TsMTnKBiFufRJw6nOaSz1",
+        "name": "Theology / Civilization - From \"Conan the Barbarian\""
+      },
       "duration_ms": 195552,
-      "artist": [
-        "Basil Poledouris"
+      "artists": [
+        {
+          "name": "Basil Poledouris",
+          "id": "4jF9GaNGCGBeu2nKqFZ1K0"
+        }
       ],
-      "artistId": [
-        "4jF9GaNGCGBeu2nKqFZ1K0"
-      ],
-      "albumId": "0fnNPxk3ZhzJmKiAxjKH1h",
+      "album": {
+        "id": "0fnNPxk3ZhzJmKiAxjKH1h",
+        "name": "Conan the Barbarian - Conan le Barbare (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02055c9b6ff49a475cbb291974"
+      },
       "release_date": "2011-08-15",
       "popularity": 42
     },
     {
-      "trackId": "7E81YAfHOaSlnevLjKMghT",
-      "name": "Justified & Ancient",
+      "track": {
+        "id": "7E81YAfHOaSlnevLjKMghT",
+        "name": "Justified & Ancient"
+      },
       "duration_ms": 228372,
-      "artist": [
-        "The KLF"
+      "artists": [
+        {
+          "name": "The KLF",
+          "id": "6dYrdRlNZSKaVxYg5IrvCH"
+        }
       ],
-      "artistId": [
-        "6dYrdRlNZSKaVxYg5IrvCH"
-      ],
-      "albumId": "1kJY7mRPwF5eJOf8DMZdwa",
+      "album": {
+        "id": "1kJY7mRPwF5eJOf8DMZdwa",
+        "name": "Solid State Logik 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a8ed71d7332a6a4d1497f3e"
+      },
       "release_date": "2021-01-01",
       "popularity": 53
     },
     {
-      "trackId": "2Wu3PyBibUzzvFzAkofCTA",
-      "name": "Drink to Moving On",
+      "track": {
+        "id": "2Wu3PyBibUzzvFzAkofCTA",
+        "name": "Drink to Moving On"
+      },
       "duration_ms": 199200,
-      "artist": [
-        "Grand National"
+      "artists": [
+        {
+          "name": "Grand National",
+          "id": "21Z32HrM98tvP45zCAsTuH"
+        }
       ],
-      "artistId": [
-        "21Z32HrM98tvP45zCAsTuH"
-      ],
-      "albumId": "5B3zXF83vPOEy1EBEimJUn",
+      "album": {
+        "id": "5B3zXF83vPOEy1EBEimJUn",
+        "name": "Kicking the National Habit",
+        "img": "https://i.scdn.co/image/ab67616d00001e021356870e2478fca8e228cf2b"
+      },
       "release_date": "2004-05-24",
       "popularity": 38
     },
     {
-      "trackId": "4WKQHFv4KqIehRBb3V3a9p",
-      "name": "Rudy, A Message To You",
+      "track": {
+        "id": "4WKQHFv4KqIehRBb3V3a9p",
+        "name": "Rudy, A Message To You"
+      },
       "duration_ms": 168480,
-      "artist": [
-        "Dandy Livingstone"
+      "artists": [
+        {
+          "name": "Dandy Livingstone",
+          "id": "2kV3Q07NlB0i9taIpo2KyF"
+        }
       ],
-      "artistId": [
-        "2kV3Q07NlB0i9taIpo2KyF"
-      ],
-      "albumId": "3U6KCS5Upe8m98q7guV1Lf",
+      "album": {
+        "id": "3U6KCS5Upe8m98q7guV1Lf",
+        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdd10b036ba648aa2de743eb"
+      },
       "release_date": "2002-12-10",
       "popularity": 57
     },
     {
-      "trackId": "0Aus6ITqXh47Wl7jdoa9TF",
-      "name": "Ismael",
+      "track": {
+        "id": "0Aus6ITqXh47Wl7jdoa9TF",
+        "name": "Ismael"
+      },
       "duration_ms": 265146,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "7ABYhkgpW9GIhOU70M1A1P",
+      "album": {
+        "id": "7ABYhkgpW9GIhOU70M1A1P",
+        "name": "En plats i solen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d564960b1919b743062ba4fd"
+      },
       "release_date": "2010-06-30",
       "popularity": 31
     },
     {
-      "trackId": "7ryhoJiuzSt4qVaID67mku",
-      "name": "Home By The Sea",
+      "track": {
+        "id": "7ryhoJiuzSt4qVaID67mku",
+        "name": "Home By The Sea"
+      },
       "duration_ms": 307693,
-      "artist": [
-        "Genesis"
+      "artists": [
+        {
+          "name": "Genesis",
+          "id": "3CkvROUTQ6nRi9yQOcsB50"
+        }
       ],
-      "artistId": [
-        "3CkvROUTQ6nRi9yQOcsB50"
-      ],
-      "albumId": "3we7A7UllAuA6QH6U9jmHs",
+      "album": {
+        "id": "3we7A7UllAuA6QH6U9jmHs",
+        "name": "The Platinum Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02981217bc3c222788fcfd6b91"
+      },
       "release_date": "2004-11-29",
       "popularity": 36
     },
     {
-      "trackId": "6jPggfBgf9SFe1Ae4HTBxA",
-      "name": "Highway Man",
+      "track": {
+        "id": "6jPggfBgf9SFe1Ae4HTBxA",
+        "name": "Highway Man"
+      },
       "duration_ms": 229586,
-      "artist": [
-        "HOFFMAESTRO"
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "id": "6hL8IlB7tKuRiqChLyEJGr"
+        }
       ],
-      "artistId": [
-        "6hL8IlB7tKuRiqChLyEJGr"
-      ],
-      "albumId": "3kG203MbpftpTNKPP3Jxgf",
+      "album": {
+        "id": "3kG203MbpftpTNKPP3Jxgf",
+        "name": "The Storm",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd4de9a55521ecf4d768f8f6"
+      },
       "release_date": "2006-11-14",
       "popularity": 50
     },
     {
-      "trackId": "7xiw42KTmCcqfZNCZqUcnF",
-      "name": "Remembrance",
+      "track": {
+        "id": "7xiw42KTmCcqfZNCZqUcnF",
+        "name": "Remembrance"
+      },
       "duration_ms": 349200,
-      "artist": [
-        "Balmorhea"
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "id": "1U0FaHAc4fcwQcYEJFgkm9"
+        }
       ],
-      "artistId": [
-        "1U0FaHAc4fcwQcYEJFgkm9"
-      ],
-      "albumId": "017xVwah8y6Jc37bsRZ4u4",
+      "album": {
+        "id": "017xVwah8y6Jc37bsRZ4u4",
+        "name": "All Is Wild, All Is Silent",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d04a43a2bb5e2ed4c47fb45"
+      },
       "release_date": "2009-10-03",
       "popularity": 59
     }

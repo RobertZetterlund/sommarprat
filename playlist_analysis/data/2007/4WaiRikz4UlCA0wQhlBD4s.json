@@ -7,186 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257761_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "37MVvwUET0VkpwYFcccOIw",
-      "name": "Camelot: I Loved You Once in Silence",
+      "track": {
+        "id": "37MVvwUET0VkpwYFcccOIw",
+        "name": "Camelot: I Loved You Once in Silence"
+      },
       "duration_ms": 187026,
-      "artist": [
-        "Frederick Loewe",
-        "Julie Andrews",
-        "Franz Allers"
+      "artists": [
+        {
+          "name": "Frederick Loewe",
+          "id": "6vSV6SDf1vteodhgV83AJ6"
+        },
+        {
+          "name": "Julie Andrews",
+          "id": "5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Franz Allers",
+          "id": "6WdfiLSbnrKRLINWsG1UCe"
+        }
       ],
-      "artistId": [
-        "6vSV6SDf1vteodhgV83AJ6",
-        "5RdqZVi36tpDPYNPw8jJbO",
-        "6WdfiLSbnrKRLINWsG1UCe"
-      ],
-      "albumId": "5Fp6Y3gNufwzUeEBxuOZpo",
+      "album": {
+        "id": "5Fp6Y3gNufwzUeEBxuOZpo",
+        "name": "Camelot (Original Broadway Cast Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d1f2205cc771974953d7ddb5"
+      },
       "release_date": "1960",
       "popularity": 21
     },
     {
-      "trackId": "5wzjc23Qsn7wN75eLMvFEc",
-      "name": "Secret Love",
+      "track": {
+        "id": "5wzjc23Qsn7wN75eLMvFEc",
+        "name": "Secret Love"
+      },
       "duration_ms": 219600,
-      "artist": [
-        "Doris Day"
+      "artists": [
+        {
+          "name": "Doris Day",
+          "id": "3ESG6pj6a0LvUKklENalT6"
+        }
       ],
-      "artistId": [
-        "3ESG6pj6a0LvUKklENalT6"
-      ],
-      "albumId": "2Y22ODrM3QKXoxwqkgN9sf",
+      "album": {
+        "id": "2Y22ODrM3QKXoxwqkgN9sf",
+        "name": "Calamity Jane",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b512c03855b31d9deeb6cc43"
+      },
       "release_date": "1953-11-09",
       "popularity": 39
     },
     {
-      "trackId": "3MltMjezCXptMpxkxd6dSf",
-      "name": "Some Enchanted Evening",
+      "track": {
+        "id": "3MltMjezCXptMpxkxd6dSf",
+        "name": "Some Enchanted Evening"
+      },
       "duration_ms": 233733,
-      "artist": [
-        "Barbra Streisand"
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "id": "7jmTilWYlKOuavFfmQAcu6"
+        }
       ],
-      "artistId": [
-        "7jmTilWYlKOuavFfmQAcu6"
-      ],
-      "albumId": "3SQ2Wb2xEwIYtqzqW43uif",
+      "album": {
+        "id": "3SQ2Wb2xEwIYtqzqW43uif",
+        "name": "Back To Broadway",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe93befb4b4785a08a22cf68"
+      },
       "release_date": "1993-05-27",
       "popularity": 21
     },
     {
-      "trackId": "7rwAzZpANJEN0vn0pzYONW",
-      "name": "Mehr davon",
+      "track": {
+        "id": "7rwAzZpANJEN0vn0pzYONW",
+        "name": "Mehr davon"
+      },
       "duration_ms": 173808,
-      "artist": [
-        "LOTTE"
+      "artists": [
+        {
+          "name": "LOTTE",
+          "id": "3gqabzO7zvHVzAIT0Nxqa3"
+        }
       ],
-      "artistId": [
-        "3gqabzO7zvHVzAIT0Nxqa3"
-      ],
-      "albumId": "7u16dLnOhtHtBXt9FAVImm",
+      "album": {
+        "id": "7u16dLnOhtHtBXt9FAVImm",
+        "name": "Mehr davon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02796f1ec243641d3046034ec9"
+      },
       "release_date": "2020-06-19",
       "popularity": 56
     },
     {
-      "trackId": "2RoZ7IaXpnQDv6L9fnLioy",
-      "name": "Il re pastore, K.208 / Act 2: \"L'amerò, sarò costante\"",
+      "track": {
+        "id": "2RoZ7IaXpnQDv6L9fnLioy",
+        "name": "Il re pastore, K.208 / Act 2: \"L'amerò, sarò costante\""
+      },
       "duration_ms": 375853,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Emma Kirkby",
-        "Christopher Hirons"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Emma Kirkby",
+          "id": "7cIdAeGd445NFOMJ3fr64K"
+        },
+        {
+          "name": "Christopher Hirons",
+          "id": "6QAxY6RqEnOEb4yuyTlYcp"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "7cIdAeGd445NFOMJ3fr64K",
-        "6QAxY6RqEnOEb4yuyTlYcp"
-      ],
-      "albumId": "6vGQV43bkeK0fhwZWb7ZbO",
+      "album": {
+        "id": "6vGQV43bkeK0fhwZWb7ZbO",
+        "name": "Celebrating Emma Kirkby",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a5f18e2209dab39180d400c"
+      },
       "release_date": "2022-07-29",
       "popularity": 0
     },
     {
-      "trackId": "3smqY3VDKQ4HLfvdFMCEuG",
-      "name": "Marble Halls - 2009 Remaster",
+      "track": {
+        "id": "3smqY3VDKQ4HLfvdFMCEuG",
+        "name": "Marble Halls - 2009 Remaster"
+      },
       "duration_ms": 234986,
-      "artist": [
-        "Enya"
+      "artists": [
+        {
+          "name": "Enya",
+          "id": "6uothxMWeLWIhsGeF7cyo4"
+        }
       ],
-      "artistId": [
-        "6uothxMWeLWIhsGeF7cyo4"
-      ],
-      "albumId": "6ZuPbMe6CvQKl1nvAy0nZm",
+      "album": {
+        "id": "6ZuPbMe6CvQKl1nvAy0nZm",
+        "name": "Shepherd Moons",
+        "img": "https://i.scdn.co/image/ab67616d00001e023184c671068d02838d47b277"
+      },
       "release_date": "1991-11-15",
       "popularity": 51
     },
     {
-      "trackId": "31gGBW3iiuwtrLwiJYLROq",
-      "name": "Blomstertid",
+      "track": {
+        "id": "31gGBW3iiuwtrLwiJYLROq",
+        "name": "Blomstertid"
+      },
       "duration_ms": 140500,
-      "artist": [
-        "Bianca Ingrosso"
+      "artists": [
+        {
+          "name": "Bianca Ingrosso",
+          "id": "3VhdRFPzyb8huDuJkxpLFa"
+        }
       ],
-      "artistId": [
-        "3VhdRFPzyb8huDuJkxpLFa"
-      ],
-      "albumId": "6dYtRAFf281HXcXqFTPVBl",
+      "album": {
+        "id": "6dYtRAFf281HXcXqFTPVBl",
+        "name": "Blomstertid",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db903867243d8d738caf3e5b"
+      },
       "release_date": "2021-07-02",
       "popularity": 55
     },
     {
-      "trackId": "3xl7PsO7Hzuig6To9FgDm6",
-      "name": "Left Outside Alone",
+      "track": {
+        "id": "3xl7PsO7Hzuig6To9FgDm6",
+        "name": "Left Outside Alone"
+      },
       "duration_ms": 257426,
-      "artist": [
-        "Anastacia"
+      "artists": [
+        {
+          "name": "Anastacia",
+          "id": "2siHvYaxjaW5rKVRiIrMYH"
+        }
       ],
-      "artistId": [
-        "2siHvYaxjaW5rKVRiIrMYH"
-      ],
-      "albumId": "032ovDTHUzM5tWZeFqPPEA",
+      "album": {
+        "id": "032ovDTHUzM5tWZeFqPPEA",
+        "name": "Anastacia",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff4a7c68133a6c9398be6b64"
+      },
       "release_date": "2004",
       "popularity": 64
     },
     {
-      "trackId": "0BOK6Nr9Wc4Uk4TZpuczY3",
-      "name": "Hänsel und Gretel, DRITTES BILD/ACT 3/TROISIEME ACTE, Erste Szene/Scene 1/Première Scène: Wo bin ich? Wach'ich? (Gretel/Hänsel)",
+      "track": {
+        "id": "0BOK6Nr9Wc4Uk4TZpuczY3",
+        "name": "Hänsel und Gretel, DRITTES BILD/ACT 3/TROISIEME ACTE, Erste Szene/Scene 1/Première Scène: Wo bin ich? Wach'ich? (Gretel/Hänsel)"
+      },
       "duration_ms": 350840,
-      "artist": [
-        "Engelbert Humperdinck",
-        "Anne Sofie von Otter",
-        "Jeffrey Tate"
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "id": "7mBhwof0k7DfGf6AqrbH4A"
+        },
+        {
+          "name": "Anne Sofie von Otter",
+          "id": "4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "id": "08C4m48uN8PsFIPgTS1KqK"
+        }
       ],
-      "artistId": [
-        "7mBhwof0k7DfGf6AqrbH4A",
-        "4pFlv4QVInj7bAo0MqHpwW",
-        "08C4m48uN8PsFIPgTS1KqK"
-      ],
-      "albumId": "5k4pLhYrhyGtOmuPEEZ0OP",
+      "album": {
+        "id": "5k4pLhYrhyGtOmuPEEZ0OP",
+        "name": "Humperdinck: Hänsel und Gretel",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297a7e58d5ce25b0933492e23"
+      },
       "release_date": "1990-09-24",
       "popularity": 1
     },
     {
-      "trackId": "5weEKs3DfdvkUL398vrRTC",
-      "name": "La Bohème: Donde lieta uscì",
+      "track": {
+        "id": "5weEKs3DfdvkUL398vrRTC",
+        "name": "La Bohème: Donde lieta uscì"
+      },
       "duration_ms": 202933,
-      "artist": [
-        "Mirella Freni",
-        "Argeo Quadri",
-        "Vienna Volksoper Orchestra"
+      "artists": [
+        {
+          "name": "Mirella Freni",
+          "id": "5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Argeo Quadri",
+          "id": "0B6D3fIpw4HN91as9ln1Lx"
+        },
+        {
+          "name": "Vienna Volksoper Orchestra",
+          "id": "058Y9LnHNkJEnH36W12Bwl"
+        }
       ],
-      "artistId": [
-        "5dz9lXIYillOvg5xH0t5EN",
-        "0B6D3fIpw4HN91as9ln1Lx",
-        "058Y9LnHNkJEnH36W12Bwl"
-      ],
-      "albumId": "3YP9iFTyp88FL2bnlYrx2x",
+      "album": {
+        "id": "3YP9iFTyp88FL2bnlYrx2x",
+        "name": "Mirella Freni - The first Recitals",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259b54601391c6ea9eec920fe"
+      },
       "release_date": "2012-04-11",
       "popularity": 8
     },
     {
-      "trackId": "7GGZMzgfgiMAiGWhaRZOoV",
-      "name": "Wagner: Tristan und Isolde: Mild und leise - Liebestod",
+      "track": {
+        "id": "7GGZMzgfgiMAiGWhaRZOoV",
+        "name": "Wagner: Tristan und Isolde: Mild und leise - Liebestod"
+      },
       "duration_ms": 369306,
-      "artist": [
-        "Birgit Nilsson"
+      "artists": [
+        {
+          "name": "Birgit Nilsson",
+          "id": "6ljM6B2XmSU7BtG3tZLQ1K"
+        }
       ],
-      "artistId": [
-        "6ljM6B2XmSU7BtG3tZLQ1K"
-      ],
-      "albumId": "5YUgmnI56QHOcAorQgFRtP",
+      "album": {
+        "id": "5YUgmnI56QHOcAorQgFRtP",
+        "name": "Birgit Nilsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a349b7c82e273728071caa0"
+      },
       "release_date": "2000-08-15",
       "popularity": 16
     },
     {
-      "trackId": "35h7WhKwB0S9T8mfxGSXW5",
-      "name": "Embraceable You",
+      "track": {
+        "id": "35h7WhKwB0S9T8mfxGSXW5",
+        "name": "Embraceable You"
+      },
       "duration_ms": 292826,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "2vz9bOelnO5EoDBPkzEJjt",
+      "album": {
+        "id": "2vz9bOelnO5EoDBPkzEJjt",
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5590032331e49e38a5c0c37"
+      },
       "release_date": "1959-01-01",
       "popularity": 31
     }

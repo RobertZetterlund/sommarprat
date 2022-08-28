@@ -7,200 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3235383_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1gJUnlMq7e2cc39lGUfnPB",
-      "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\"",
+      "track": {
+        "id": "1gJUnlMq7e2cc39lGUfnPB",
+        "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\""
+      },
       "duration_ms": 233400,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Frederica von Stade",
-        "Kiri Te Kanawa"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Frederica von Stade",
+          "id": "5LUjwmTidlIffhKkvXZo8k"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "id": "3fcsflK8xu26XH4OYTcm5T"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5LUjwmTidlIffhKkvXZo8k",
-        "3fcsflK8xu26XH4OYTcm5T"
-      ],
-      "albumId": "5SNTSThGzDGsWqU1wV4C1d",
+      "album": {
+        "id": "5SNTSThGzDGsWqU1wV4C1d",
+        "name": "Mozart: Le Nozze di Figaro",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c26ab8d5b805530f72783d46"
+      },
       "release_date": "1982-01-01",
       "popularity": 32
     },
     {
-      "trackId": "2STqplYkSLD5ovON11dwcB",
-      "name": "West End Blues",
+      "track": {
+        "id": "2STqplYkSLD5ovON11dwcB",
+        "name": "West End Blues"
+      },
       "duration_ms": 195440,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "2xRcy7P8BrID3FSCWfD8nQ",
+      "album": {
+        "id": "2xRcy7P8BrID3FSCWfD8nQ",
+        "name": "This Is Jazz #1",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275e33805ac122adcd29e1852"
+      },
       "release_date": "1996-03-22",
       "popularity": 39
     },
     {
-      "trackId": "2lj4kO5PdVBbvIifZIAL2D",
-      "name": "Hela världen för mig",
+      "track": {
+        "id": "2lj4kO5PdVBbvIifZIAL2D",
+        "name": "Hela världen för mig"
+      },
       "duration_ms": 181266,
-      "artist": [
-        "Sanna Nielsen"
+      "artists": [
+        {
+          "name": "Sanna Nielsen",
+          "id": "3PvEhkL4pgu9glR6yOlYKK"
+        }
       ],
-      "artistId": [
-        "3PvEhkL4pgu9glR6yOlYKK"
-      ],
-      "albumId": "7yqLMVu9KiypTD5WWi84OJ",
+      "album": {
+        "id": "7yqLMVu9KiypTD5WWi84OJ",
+        "name": "Melodifestivalfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e022e7d6fc2171f7bbd7727f9aa"
+      },
       "release_date": "2003",
       "popularity": 33
     },
     {
-      "trackId": "1yM7seaAYWeeyNM1r1Gf6D",
-      "name": "I'm into Something Good",
+      "track": {
+        "id": "1yM7seaAYWeeyNM1r1Gf6D",
+        "name": "I'm into Something Good"
+      },
       "duration_ms": 152413,
-      "artist": [
-        "The Langley Schools Music Project",
-        "Hans Fenger (Musical Director)",
-        "Irwin Chusid (Producer)"
+      "artists": [
+        {
+          "name": "The Langley Schools Music Project",
+          "id": "6ojlqCc9kmeczxajlp7DWZ"
+        },
+        {
+          "name": "Hans Fenger (Musical Director)",
+          "id": "1NJTl2s0vHNOcGEzyjD0YF"
+        },
+        {
+          "name": "Irwin Chusid (Producer)",
+          "id": "2qrIq0AxRZAJ5IYHjgMM0R"
+        }
       ],
-      "artistId": [
-        "6ojlqCc9kmeczxajlp7DWZ",
-        "1NJTl2s0vHNOcGEzyjD0YF",
-        "2qrIq0AxRZAJ5IYHjgMM0R"
-      ],
-      "albumId": "4EM8nfZ2lWPXUK9NOABzSW",
+      "album": {
+        "id": "4EM8nfZ2lWPXUK9NOABzSW",
+        "name": "Innocence and Despair",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cb9171132a2686937907f85"
+      },
       "release_date": "2001",
       "popularity": 8
     },
     {
-      "trackId": "5C7pEZKfwrwxL7B8W38tmn",
-      "name": "Haamuja",
+      "track": {
+        "id": "5C7pEZKfwrwxL7B8W38tmn",
+        "name": "Haamuja"
+      },
       "duration_ms": 203043,
-      "artist": [
-        "Kauriinmetsästäjät"
+      "artists": [
+        {
+          "name": "Kauriinmetsästäjät",
+          "id": "5uWvsppzpW5fjSRMaSBqzq"
+        }
       ],
-      "artistId": [
-        "5uWvsppzpW5fjSRMaSBqzq"
-      ],
-      "albumId": "3I6t1GkQWbvCn4hdmoTves",
+      "album": {
+        "id": "3I6t1GkQWbvCn4hdmoTves",
+        "name": "Haamuja",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278e6733f18c40fc1c1c6bb07"
+      },
       "release_date": "2021-10-28",
       "popularity": 35
     },
     {
-      "trackId": "28VihOtzeplADhpQBc06qt",
-      "name": "Kolapapperskung",
+      "track": {
+        "id": "28VihOtzeplADhpQBc06qt",
+        "name": "Kolapapperskung"
+      },
       "duration_ms": 114453,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "0RJlkJLb2oW8KkAwNJiryq",
+      "album": {
+        "id": "0RJlkJLb2oW8KkAwNJiryq",
+        "name": "För kärlekens skull - Svenska artister hyllar Ted Gärdestad",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb157c10fe205c36fa1719bb"
+      },
       "release_date": "2015-08-28",
       "popularity": 28
     },
     {
-      "trackId": "5W9tTjA7fkbkoOlGFqEIOZ",
-      "name": "Sommarnatt - 1999",
+      "track": {
+        "id": "5W9tTjA7fkbkoOlGFqEIOZ",
+        "name": "Sommarnatt - 1999"
+      },
       "duration_ms": 238533,
-      "artist": [
-        "Snowstorm"
+      "artists": [
+        {
+          "name": "Snowstorm",
+          "id": "7MTotDfi3oohb0PBdlFsA5"
+        }
       ],
-      "artistId": [
-        "7MTotDfi3oohb0PBdlFsA5"
-      ],
-      "albumId": "3eRPYZNQCEVHcEntFwWuo6",
+      "album": {
+        "id": "3eRPYZNQCEVHcEntFwWuo6",
+        "name": "Snowstorm-Factory-Magnum Bonum",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dba937bc12e2827179c0d91"
+      },
       "release_date": "1999",
       "popularity": 46
     },
     {
-      "trackId": "5kK1Iru9ogP3Iy1zsANU1n",
-      "name": "The Power of Love",
+      "track": {
+        "id": "5kK1Iru9ogP3Iy1zsANU1n",
+        "name": "The Power of Love"
+      },
       "duration_ms": 342400,
-      "artist": [
-        "Céline Dion"
+      "artists": [
+        {
+          "name": "Céline Dion",
+          "id": "4S9EykWXhStSc15wEx8QFK"
+        }
       ],
-      "artistId": [
-        "4S9EykWXhStSc15wEx8QFK"
-      ],
-      "albumId": "6Po5zdKMIH5Xk99vjXyQpC",
+      "album": {
+        "id": "6Po5zdKMIH5Xk99vjXyQpC",
+        "name": "The Colour Of My Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3d0e02b3a9e8057484cfef0"
+      },
       "release_date": "1993-11-09",
       "popularity": 70
     },
     {
-      "trackId": "2ioF03URRvHjQBXtnK34Ru",
-      "name": "Limelight",
+      "track": {
+        "id": "2ioF03URRvHjQBXtnK34Ru",
+        "name": "Limelight"
+      },
       "duration_ms": 163293,
-      "artist": [
-        "Charlie Chaplin",
-        "Thomas Beckmann"
+      "artists": [
+        {
+          "name": "Charlie Chaplin",
+          "id": "6AmG7SNdlV9boPZ7dFVnLY"
+        },
+        {
+          "name": "Thomas Beckmann",
+          "id": "0vJvSsME7opPIkM4qhoFIW"
+        }
       ],
-      "artistId": [
-        "6AmG7SNdlV9boPZ7dFVnLY",
-        "0vJvSsME7opPIkM4qhoFIW"
-      ],
-      "albumId": "5ebyoEnkFH5ycNPqyy2krO",
+      "album": {
+        "id": "5ebyoEnkFH5ycNPqyy2krO",
+        "name": "Charlie Chaplin",
+        "img": "https://i.scdn.co/image/ab67616d00001e023175275b4a463830c55af800"
+      },
       "release_date": "1989-04-01",
       "popularity": 29
     },
     {
-      "trackId": "3VaCpod81lyosglnknTNlg",
-      "name": "La gazza ladra: Overture",
+      "track": {
+        "id": "3VaCpod81lyosglnknTNlg",
+        "name": "La gazza ladra: Overture"
+      },
       "duration_ms": 588373,
-      "artist": [
-        "Gioachino Rossini",
-        "Prague Sinfonia",
-        "Christian Benda"
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "id": "0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "id": "2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "id": "0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
       ],
-      "artistId": [
-        "0roWUeP7Ac4yK4VN6L2gF4",
-        "2rslujXEON2msrHEXH3VjL",
-        "0BJkJ1ZYbOXeQMhQLT1Uhy"
-      ],
-      "albumId": "3AW0Ehf13id5P5BRwDBSE0",
+      "album": {
+        "id": "3AW0Ehf13id5P5BRwDBSE0",
+        "name": "Rossini: Complete Overtures, Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2d1ca5d943102cc26894c12"
+      },
       "release_date": "2012-10-02",
       "popularity": 37
     },
     {
-      "trackId": "4pGXQ2TG09IAKGQhQW01wl",
-      "name": "Milenburg Joyce",
+      "track": {
+        "id": "4pGXQ2TG09IAKGQhQW01wl",
+        "name": "Milenburg Joyce"
+      },
       "duration_ms": 199213,
-      "artist": [
-        "Sir Bourbon Dixieland Band"
+      "artists": [
+        {
+          "name": "Sir Bourbon Dixieland Band",
+          "id": "44banrHU22nyal77vLtoKP"
+        }
       ],
-      "artistId": [
-        "44banrHU22nyal77vLtoKP"
-      ],
-      "albumId": "2N5JSNfmNE3chKArtXHIbu",
+      "album": {
+        "id": "2N5JSNfmNE3chKArtXHIbu",
+        "name": "Twenty Good Years with Sir Bourbon Dixieland Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a394ab41d7a0cad365dabdeb"
+      },
       "release_date": "2002-01-01",
       "popularity": 0
     },
     {
-      "trackId": "1dTaNO0Ui3eG0yjGPzCxpi",
-      "name": "Vildkatten - Instrumental Version",
+      "track": {
+        "id": "1dTaNO0Ui3eG0yjGPzCxpi",
+        "name": "Vildkatten - Instrumental Version"
+      },
       "duration_ms": 190136,
-      "artist": [
-        "Kenta´s Garage"
+      "artists": [
+        {
+          "name": "Kenta´s Garage",
+          "id": "1oW4xm0D4byyqPWdhTGRNH"
+        }
       ],
-      "artistId": [
-        "1oW4xm0D4byyqPWdhTGRNH"
-      ],
-      "albumId": "57FLMr75NCBuzNSIPN3wGh",
+      "album": {
+        "id": "57FLMr75NCBuzNSIPN3wGh",
+        "name": "Med vänner",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232c0222dfebbec273092268a"
+      },
       "release_date": "2021-02-28",
       "popularity": 28
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     }

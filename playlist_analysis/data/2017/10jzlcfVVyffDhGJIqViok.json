@@ -7,236 +7,350 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/d4791328-5192-400f-a5fa-8a9022cf7b64.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "081KHJU55jhaXfqH89yIXA",
-      "name": "Min Nye Kjole",
+      "track": {
+        "id": "081KHJU55jhaXfqH89yIXA",
+        "name": "Min Nye Kjole"
+      },
       "duration_ms": 118800,
-      "artist": [
-        "Mathilde"
+      "artists": [
+        {
+          "name": "Mathilde",
+          "id": "0cXiA8otnWCpKKIs6P19DQ"
+        }
       ],
-      "artistId": [
-        "0cXiA8otnWCpKKIs6P19DQ"
-      ],
-      "albumId": "6y8DFc8owyo96fcIhPVOgI",
+      "album": {
+        "id": "6y8DFc8owyo96fcIhPVOgI",
+        "name": "Klassikere Fra Halvfjerdserne Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae8b3f8eb51321ff508ffed5"
+      },
       "release_date": "2013-07-01",
       "popularity": 0
     },
     {
-      "trackId": "5YnoNG3iSjd0L8aZiLk5KX",
-      "name": "Elgar: Sea Pictures, Op. 37: No. 1, Sea Slumber-Song",
+      "track": {
+        "id": "5YnoNG3iSjd0L8aZiLk5KX",
+        "name": "Elgar: Sea Pictures, Op. 37: No. 1, Sea Slumber-Song"
+      },
       "duration_ms": 302173,
-      "artist": [
-        "Edward Elgar",
-        "Dame Janet Baker",
-        "London Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "id": "430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Dame Janet Baker",
+          "id": "4ThA3BeHNucwqI7wKyKS8h"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "id": "5yxyJsFanEAuwSM5kOuZKc"
+        }
       ],
-      "artistId": [
-        "430byzy0c5bPn5opiu0SRd",
-        "4ThA3BeHNucwqI7wKyKS8h",
-        "5yxyJsFanEAuwSM5kOuZKc"
-      ],
-      "albumId": "5cP82ZEUSCSoHu5lp1t63F",
+      "album": {
+        "id": "5cP82ZEUSCSoHu5lp1t63F",
+        "name": "Elgar: Cello Concerto",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cbb816c087fdb4597e8e990"
+      },
       "release_date": "1965",
       "popularity": 17
     },
     {
-      "trackId": "2htlZBiU0yTR8c1dEY8Fbp",
-      "name": "Dichterliebe, Op. 48: I. Im wunderschönen Monat Mai",
+      "track": {
+        "id": "2htlZBiU0yTR8c1dEY8Fbp",
+        "name": "Dichterliebe, Op. 48: I. Im wunderschönen Monat Mai"
+      },
       "duration_ms": 96720,
-      "artist": [
-        "Robert Schumann",
-        "Christian Gerhaher"
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "id": "2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "id": "0reEj3pa0lTG2gOkj9BoPb"
+        }
       ],
-      "artistId": [
-        "2UqjDAXnDxejEyE0CzfUrZ",
-        "0reEj3pa0lTG2gOkj9BoPb"
-      ],
-      "albumId": "6dcawH89qmOF4ufu4qepQz",
+      "album": {
+        "id": "6dcawH89qmOF4ufu4qepQz",
+        "name": "Schumann: Dichterliebe",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a27828b00bd6ba762129a78"
+      },
       "release_date": "2004-08-01",
       "popularity": 8
     },
     {
-      "trackId": "1EoC287STxjC9HNNtRj1kv",
-      "name": "Peer Gynt-Suite Nr. 1, Op. 46: I. Morgenstemning (Morning Mood)",
+      "track": {
+        "id": "1EoC287STxjC9HNNtRj1kv",
+        "name": "Peer Gynt-Suite Nr. 1, Op. 46: I. Morgenstemning (Morning Mood)"
+      },
       "duration_ms": 235533,
-      "artist": [
-        "Edvard Grieg",
-        "BBC Scottish Symphony Orchestra",
-        "Jerzy Maksymiuk"
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "id": "5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "id": "3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Jerzy Maksymiuk",
+          "id": "2EGK18Dwe9ylcNRgGr56mX"
+        }
       ],
-      "artistId": [
-        "5ihY290YPGc3aY2xTyx7Gy",
-        "3CufywuKIBC8WhWNvzTQr1",
-        "2EGK18Dwe9ylcNRgGr56mX"
-      ],
-      "albumId": "5ZQaqZOFLl0dntuuso108e",
+      "album": {
+        "id": "5ZQaqZOFLl0dntuuso108e",
+        "name": "Grieg: Peer Gynt / Lyric Pieces / Sigurd Jorsalfar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200125842a5d5faafc44884c6"
+      },
       "release_date": "1994-01-11",
       "popularity": 43
     },
     {
-      "trackId": "7xdqHSEoKW6OLFp7A34Rbs",
-      "name": "Sunnanvindsvalsen",
+      "track": {
+        "id": "7xdqHSEoKW6OLFp7A34Rbs",
+        "name": "Sunnanvindsvalsen"
+      },
       "duration_ms": 169426,
-      "artist": [
-        "Anders Börje"
+      "artists": [
+        {
+          "name": "Anders Börje",
+          "id": "6QN1gggDwk0CvMli6ysstz"
+        }
       ],
-      "artistId": [
-        "6QN1gggDwk0CvMli6ysstz"
-      ],
-      "albumId": "7GJjmo2VLEaHnFNLl0ZKiL",
+      "album": {
+        "id": "7GJjmo2VLEaHnFNLl0ZKiL",
+        "name": "Schlagerkavalkaden 15 - Handklaver och kärlek 1956-57",
+        "img": "https://i.scdn.co/image/ab67616d00001e029b3d5a3a078e4eb7b68a9810"
+      },
       "release_date": "2016-11-11",
       "popularity": 0
     },
     {
-      "trackId": "4pfkZUqRCYG5If39QHFpbQ",
-      "name": "Kinderszenen, Op. 15: 1. Von fremden Ländern und Menschen",
+      "track": {
+        "id": "4pfkZUqRCYG5If39QHFpbQ",
+        "name": "Kinderszenen, Op. 15: 1. Von fremden Ländern und Menschen"
+      },
       "duration_ms": 113240,
-      "artist": [
-        "Robert Schumann",
-        "Martha Argerich"
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "id": "2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martha Argerich",
+          "id": "66MvLAvLznk5UOvASVGjk4"
+        }
       ],
-      "artistId": [
-        "2UqjDAXnDxejEyE0CzfUrZ",
-        "66MvLAvLznk5UOvASVGjk4"
-      ],
-      "albumId": "6sxH5yHob34qbhbYjYWjsX",
+      "album": {
+        "id": "6sxH5yHob34qbhbYjYWjsX",
+        "name": "Schumann: Kinderszenen; Kreisleriana",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235887a1c7edc3395cd8d5937"
+      },
       "release_date": "1984-01-01",
       "popularity": 53
     },
     {
-      "trackId": "6mhf5DiX8a1t6XAJ8sAJmH",
-      "name": "Clarinet Concerto in A Major, K. 622: II. Adagio",
+      "track": {
+        "id": "6mhf5DiX8a1t6XAJ8sAJmH",
+        "name": "Clarinet Concerto in A Major, K. 622: II. Adagio"
+      },
       "duration_ms": 400760,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Martin Fröst",
-        "Deutsche Kammerphilharmonie Bremen"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Martin Fröst",
+          "id": "3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "id": "2g3N0oxbmn5Q95mYNNdIo4"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3HmzM7c3S5iM1jBG3gl0FF",
-        "2g3N0oxbmn5Q95mYNNdIo4"
-      ],
-      "albumId": "4Z0HmIiOYuz5N82qAiNJQ3",
+      "album": {
+        "id": "4Z0HmIiOYuz5N82qAiNJQ3",
+        "name": "Mozart: Clarinet Concerto & Kegelstatt Trio",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e2c8a2943d86758622472d6"
+      },
       "release_date": "2014-04-01",
       "popularity": 50
     },
     {
-      "trackId": "4wcnRzeG92ef1Cugv1IGoU",
-      "name": "Violin Sonata No. 26 in B-Flat Major, K. 378: III. Rondo (Allegro)",
+      "track": {
+        "id": "4wcnRzeG92ef1Cugv1IGoU",
+        "name": "Violin Sonata No. 26 in B-Flat Major, K. 378: III. Rondo (Allegro)"
+      },
       "duration_ms": 266293,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Maria João Pires",
-        "Augustin Dumay"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Maria João Pires",
+          "id": "1hRLlo7ZGxEmc0ztMOKurs"
+        },
+        {
+          "name": "Augustin Dumay",
+          "id": "3opEhp6tLG4SOgtt8Z9atz"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "1hRLlo7ZGxEmc0ztMOKurs",
-        "3opEhp6tLG4SOgtt8Z9atz"
-      ],
-      "albumId": "2O9CHCSmv9iXXZ2re5Sszc",
+      "album": {
+        "id": "2O9CHCSmv9iXXZ2re5Sszc",
+        "name": "Soft Morning with Mozart",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228b365a8f5ef38bdc03f1820"
+      },
       "release_date": "2022-08-13",
       "popularity": 3
     },
     {
-      "trackId": "5xpQEjjDoe7egEqiw807Je",
-      "name": "Prospettiva Nevski",
+      "track": {
+        "id": "5xpQEjjDoe7egEqiw807Je",
+        "name": "Prospettiva Nevski"
+      },
       "duration_ms": 221266,
-      "artist": [
-        "Alice"
+      "artists": [
+        {
+          "name": "Alice",
+          "id": "3zNFrznlC0kv866J7Karl3"
+        }
       ],
-      "artistId": [
-        "3zNFrznlC0kv866J7Karl3"
-      ],
-      "albumId": "4EbqYOpoUVX0tm7J09X1Vq",
+      "album": {
+        "id": "4EbqYOpoUVX0tm7J09X1Vq",
+        "name": "Gioielli Rubati",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274ccdadfd7801a4d4b93088b"
+      },
       "release_date": "1985-01-01",
       "popularity": 44
     },
     {
-      "trackId": "1Wg7jfEXBsBM24UpWHpORo",
-      "name": "Ben Becker",
+      "track": {
+        "id": "1Wg7jfEXBsBM24UpWHpORo",
+        "name": "Ben Becker"
+      },
       "duration_ms": 238080,
-      "artist": [
-        "dNzl."
+      "artists": [
+        {
+          "name": "dNzl.",
+          "id": "1A60CRCXrbmf4A2S0CqyEL"
+        }
       ],
-      "artistId": [
-        "1A60CRCXrbmf4A2S0CqyEL"
-      ],
-      "albumId": "3pKwJy9jx8AGkCQtokyCwL",
+      "album": {
+        "id": "3pKwJy9jx8AGkCQtokyCwL",
+        "name": "Ben Becker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec1d627da659d77e1bf1f772"
+      },
       "release_date": "2022-05-21",
       "popularity": 0
     },
     {
-      "trackId": "5dlK61XS5dc0q9sbCUlOTk",
-      "name": "Fredag morgon",
+      "track": {
+        "id": "5dlK61XS5dc0q9sbCUlOTk",
+        "name": "Fredag morgon"
+      },
       "duration_ms": 425893,
-      "artist": [
-        "Frida Hyvönen"
+      "artists": [
+        {
+          "name": "Frida Hyvönen",
+          "id": "58XdW0XyGukvmGatf7NC2R"
+        }
       ],
-      "artistId": [
-        "58XdW0XyGukvmGatf7NC2R"
-      ],
-      "albumId": "5vvefHi9yyhwwyZhMsR1LZ",
+      "album": {
+        "id": "5vvefHi9yyhwwyZhMsR1LZ",
+        "name": "Kvinnor och barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ceee34f253767380e74670f"
+      },
       "release_date": "2016-11-04",
       "popularity": 25
     },
     {
-      "trackId": "0Fl4zQ1y0qW06TrejCXYqy",
-      "name": "Dade dade",
+      "track": {
+        "id": "0Fl4zQ1y0qW06TrejCXYqy",
+        "name": "Dade dade"
+      },
       "duration_ms": 273449,
-      "artist": [
-        "Adrian Minune",
-        "Lele"
+      "artists": [
+        {
+          "name": "Adrian Minune",
+          "id": "6nU9Rg6157nS2p7zUfZJ6p"
+        },
+        {
+          "name": "Lele",
+          "id": "1vVemTBdqWTcJ0zCc0Oa6G"
+        }
       ],
-      "artistId": [
-        "6nU9Rg6157nS2p7zUfZJ6p",
-        "1vVemTBdqWTcJ0zCc0Oa6G"
-      ],
-      "albumId": "7yp830GdogDNtYu356SXKt",
+      "album": {
+        "id": "7yp830GdogDNtYu356SXKt",
+        "name": "Briliantele manelelor, Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e0214351452ebafa48c3ff373cf"
+      },
       "release_date": "2017-09-15",
       "popularity": 22
     },
     {
-      "trackId": "1dTaNO0Ui3eG0yjGPzCxpi",
-      "name": "Vildkatten - Instrumental Version",
+      "track": {
+        "id": "1dTaNO0Ui3eG0yjGPzCxpi",
+        "name": "Vildkatten - Instrumental Version"
+      },
       "duration_ms": 190136,
-      "artist": [
-        "Kenta´s Garage"
+      "artists": [
+        {
+          "name": "Kenta´s Garage",
+          "id": "1oW4xm0D4byyqPWdhTGRNH"
+        }
       ],
-      "artistId": [
-        "1oW4xm0D4byyqPWdhTGRNH"
-      ],
-      "albumId": "57FLMr75NCBuzNSIPN3wGh",
+      "album": {
+        "id": "57FLMr75NCBuzNSIPN3wGh",
+        "name": "Med vänner",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232c0222dfebbec273092268a"
+      },
       "release_date": "2021-02-28",
       "popularity": 28
     },
     {
-      "trackId": "7hKovtV58bhDZSxdO5MObf",
-      "name": "Morgen, Op. 27, Nr. 4",
+      "track": {
+        "id": "7hKovtV58bhDZSxdO5MObf",
+        "name": "Morgen, Op. 27, Nr. 4"
+      },
       "duration_ms": 253933,
-      "artist": [
-        "Richard Strauss",
-        "Simone Kermes"
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "id": "6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Simone Kermes",
+          "id": "5YB96PPFR0dEMazdUzMJDb"
+        }
       ],
-      "artistId": [
-        "6pAwHPeExeUbMd5w7Iny6D",
-        "5YB96PPFR0dEMazdUzMJDb"
-      ],
-      "albumId": "77lQ5xe4s9qXfM1v9isbdw",
+      "album": {
+        "id": "77lQ5xe4s9qXfM1v9isbdw",
+        "name": "Strauss & Mahler - Piano Quartets & Lieder",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dd2050185185c46805eb561"
+      },
       "release_date": "2014-03-14",
       "popularity": 2
     },
     {
-      "trackId": "6yiSyupeI7KYdBZKJdnIUO",
-      "name": "Go Slowly",
+      "track": {
+        "id": "6yiSyupeI7KYdBZKJdnIUO",
+        "name": "Go Slowly"
+      },
       "duration_ms": 228236,
-      "artist": [
-        "Radiohead"
+      "artists": [
+        {
+          "name": "Radiohead",
+          "id": "4Z8W4fKeB5YxbusRsdQVPb"
+        }
       ],
-      "artistId": [
-        "4Z8W4fKeB5YxbusRsdQVPb"
-      ],
-      "albumId": "6zTAW5oRuOmxJuUHhcQope",
+      "album": {
+        "id": "6zTAW5oRuOmxJuUHhcQope",
+        "name": "In Rainbows (Disk 2)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b88d5c1b3358cca2c94ec0b"
+      },
       "release_date": "2007",
       "popularity": 48
     }

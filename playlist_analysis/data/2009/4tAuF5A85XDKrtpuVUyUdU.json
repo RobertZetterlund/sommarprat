@@ -7,276 +7,398 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247463_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6x0cSVN0ahCXCteCtncdjg",
-      "name": "Sommartid",
+      "track": {
+        "id": "6x0cSVN0ahCXCteCtncdjg",
+        "name": "Sommartid"
+      },
       "duration_ms": 221160,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 37
     },
     {
-      "trackId": "47w7rUI8g7hXXoqNtqPwaT",
-      "name": "Terapin",
+      "track": {
+        "id": "47w7rUI8g7hXXoqNtqPwaT",
+        "name": "Terapin"
+      },
       "duration_ms": 257920,
-      "artist": [
-        "Henrik Schyffert"
+      "artists": [
+        {
+          "name": "Henrik Schyffert",
+          "id": "2mt1gW1nwWk43XmcbfhKp6"
+        }
       ],
-      "artistId": [
-        "2mt1gW1nwWk43XmcbfhKp6"
-      ],
-      "albumId": "0vPcvoflqWUvv7nUO2cfGy",
+      "album": {
+        "id": "0vPcvoflqWUvv7nUO2cfGy",
+        "name": "The 90's - Ett försvarstal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02411bd389dab6d046e08f0865"
+      },
       "release_date": "2009",
       "popularity": 15
     },
     {
-      "trackId": "2rmVKSvnRKZ7c2xVP7vfAQ",
-      "name": "Der Fuehrer's Face",
+      "track": {
+        "id": "2rmVKSvnRKZ7c2xVP7vfAQ",
+        "name": "Der Fuehrer's Face"
+      },
       "duration_ms": 160446,
-      "artist": [
-        "Spike Jones"
+      "artists": [
+        {
+          "name": "Spike Jones",
+          "id": "117YLv0bvUKDzQgaHwTF7b"
+        }
       ],
-      "artistId": [
-        "117YLv0bvUKDzQgaHwTF7b"
-      ],
-      "albumId": "6OsTLu6hMaftuXNMFXBDjw",
+      "album": {
+        "id": "6OsTLu6hMaftuXNMFXBDjw",
+        "name": "Thank You Music Lovers",
+        "img": "https://i.scdn.co/image/ab67616d00001e022204cce296a82a8fbb827a43"
+      },
       "release_date": "2000-01-01",
       "popularity": 21
     },
     {
-      "trackId": "5nJ9WqiiVz9Rz6a2xLhHlZ",
-      "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "track": {
+        "id": "5nJ9WqiiVz9Rz6a2xLhHlZ",
+        "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969"
+      },
       "duration_ms": 226586,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "2vfiwvlxOBNBohRXfvlMtY",
+      "album": {
+        "id": "2vfiwvlxOBNBohRXfvlMtY",
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "img": "https://i.scdn.co/image/ab67616d00001e027bfdcc5707e04f9418d2b69d"
+      },
       "release_date": "1997-09-16",
       "popularity": 41
     },
     {
-      "trackId": "1tsOB58QHINgc2FEJylsLP",
-      "name": "Foxey Lady",
+      "track": {
+        "id": "1tsOB58QHINgc2FEJylsLP",
+        "name": "Foxey Lady"
+      },
       "duration_ms": 198293,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "2vfiwvlxOBNBohRXfvlMtY",
+      "album": {
+        "id": "2vfiwvlxOBNBohRXfvlMtY",
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "img": "https://i.scdn.co/image/ab67616d00001e027bfdcc5707e04f9418d2b69d"
+      },
       "release_date": "1997-09-16",
       "popularity": 45
     },
     {
-      "trackId": "3wGRIB4QduqQ0hKdmf1L1d",
-      "name": "Boy",
+      "track": {
+        "id": "3wGRIB4QduqQ0hKdmf1L1d",
+        "name": "Boy"
+      },
       "duration_ms": 171066,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 6
     },
     {
-      "trackId": "6A0IZ3A7iGKF9QIOKYHwrF",
-      "name": "Kärleken är evig",
+      "track": {
+        "id": "6A0IZ3A7iGKF9QIOKYHwrF",
+        "name": "Kärleken är evig"
+      },
       "duration_ms": 188693,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "5QbKjrvhIJg27yUgfZr7f4",
+      "album": {
+        "id": "5QbKjrvhIJg27yUgfZr7f4",
+        "name": "Kärleken är evig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b19664854537f91ca95e5bd5"
+      },
       "release_date": "1986-05-11",
       "popularity": 44
     },
     {
-      "trackId": "0jZ4fre462hosE6k5EgRVS",
-      "name": "Dansa i neon",
+      "track": {
+        "id": "0jZ4fre462hosE6k5EgRVS",
+        "name": "Dansa i neon"
+      },
       "duration_ms": 202746,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "2w4nmMnXhTF3aTh1ENqoa8",
+      "album": {
+        "id": "2w4nmMnXhTF3aTh1ENqoa8",
+        "name": "Dansa i neon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfe1bc46b21169a7f07a6fdb"
+      },
       "release_date": "1987",
       "popularity": 42
     },
     {
-      "trackId": "4pFgAIjcZbNtWsvzJ9BqMj",
-      "name": "Om igen",
+      "track": {
+        "id": "4pFgAIjcZbNtWsvzJ9BqMj",
+        "name": "Om igen"
+      },
       "duration_ms": 185440,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 35
     },
     {
-      "trackId": "3LcEmuhDD0I4qX4AFu0tdt",
-      "name": "Det går väl an",
+      "track": {
+        "id": "3LcEmuhDD0I4qX4AFu0tdt",
+        "name": "Det går väl an"
+      },
       "duration_ms": 237960,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 16
     },
     {
-      "trackId": "3aKHyPT3HxL15Y5Q3d5kfD",
-      "name": "Why",
+      "track": {
+        "id": "3aKHyPT3HxL15Y5Q3d5kfD",
+        "name": "Why"
+      },
       "duration_ms": 300093,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "7x7exi6KipFhzFLEobxoiz",
+      "album": {
+        "id": "7x7exi6KipFhzFLEobxoiz",
+        "name": "My Name",
+        "img": "https://i.scdn.co/image/ab67616d00001e029cc3f58f077ca4cd9f2ef9b0"
+      },
       "release_date": "1989-10-03",
       "popularity": 7
     },
     {
-      "trackId": "624J2v7vxpMVoNv5FyrP6D",
-      "name": "Why",
+      "track": {
+        "id": "624J2v7vxpMVoNv5FyrP6D",
+        "name": "Why"
+      },
       "duration_ms": 299160,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "1T8NH2yMjPBlUDwim5Vtdo",
+      "album": {
+        "id": "1T8NH2yMjPBlUDwim5Vtdo",
+        "name": "Lena 20 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d2d85a530ccec6218055d55"
+      },
       "release_date": "2007-11-07",
       "popularity": 18
     },
     {
-      "trackId": "1W4enuwKve0ADervr4Cumu",
-      "name": "Standing in My Rain",
+      "track": {
+        "id": "1W4enuwKve0ADervr4Cumu",
+        "name": "Standing in My Rain"
+      },
       "duration_ms": 282186,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "1T8NH2yMjPBlUDwim5Vtdo",
+      "album": {
+        "id": "1T8NH2yMjPBlUDwim5Vtdo",
+        "name": "Lena 20 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d2d85a530ccec6218055d55"
+      },
       "release_date": "2007-11-07",
       "popularity": 10
     },
     {
-      "trackId": "6x0cSVN0ahCXCteCtncdjg",
-      "name": "Sommartid",
+      "track": {
+        "id": "6x0cSVN0ahCXCteCtncdjg",
+        "name": "Sommartid"
+      },
       "duration_ms": 221160,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 37
     },
     {
-      "trackId": "4XqrKv9mO6sswnj5Tfql7e",
-      "name": "The Murderer",
+      "track": {
+        "id": "4XqrKv9mO6sswnj5Tfql7e",
+        "name": "The Murderer"
+      },
       "duration_ms": 224200,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "26qUw7CzwQPpGk5qZqEvqZ",
+      "album": {
+        "id": "26qUw7CzwQPpGk5qZqEvqZ",
+        "name": "A Woman's Gotta Do What a Woman's Gotta Do",
+        "img": "https://i.scdn.co/image/ab67616d00001e022de7bf1dd41de1fc7ccd2637"
+      },
       "release_date": "1991-05-26",
-      "popularity": 1
+      "popularity": 2
     },
     {
-      "trackId": "3TyMriMoR8ybeGF32IxXz2",
-      "name": "Einzug der Gladiatoren (The Entry of the Gladiators), Op. 68, \"Triumph March\"",
+      "track": {
+        "id": "3TyMriMoR8ybeGF32IxXz2",
+        "name": "Einzug der Gladiatoren (The Entry of the Gladiators), Op. 68, \"Triumph March\""
+      },
       "duration_ms": 164733,
-      "artist": [
-        "Julius Fučík",
-        "Czech Philharmonic Orchestra",
-        "Václav Neumann"
+      "artists": [
+        {
+          "name": "Julius Fučík",
+          "id": "4IWLhAyPCROEDrthOxG8YJ"
+        },
+        {
+          "name": "Czech Philharmonic Orchestra",
+          "id": "35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Václav Neumann",
+          "id": "5tQs2q4OYuqqHL2a5u4B61"
+        }
       ],
-      "artistId": [
-        "4IWLhAyPCROEDrthOxG8YJ",
-        "35NnUEPKGspM23lTZvK3cb",
-        "5tQs2q4OYuqqHL2a5u4B61"
-      ],
-      "albumId": "0l2txwVO9OKgjY4ZxxnS3H",
+      "album": {
+        "id": "0l2txwVO9OKgjY4ZxxnS3H",
+        "name": "Fučík: Marches & Waltzes",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ae2f04da2d79a40efa7fc96"
+      },
       "release_date": "2016-07-01",
       "popularity": 9
     },
     {
-      "trackId": "6ic8OlLUNEATToEFU3xmaH",
-      "name": "Gimme More",
+      "track": {
+        "id": "6ic8OlLUNEATToEFU3xmaH",
+        "name": "Gimme More"
+      },
       "duration_ms": 251240,
-      "artist": [
-        "Britney Spears"
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "id": "26dSoYclwsYLMAKD3tpOr4"
+        }
       ],
-      "artistId": [
-        "26dSoYclwsYLMAKD3tpOr4"
-      ],
-      "albumId": "1ePkYcH5ZQCb1b4tQeiEDj",
+      "album": {
+        "id": "1ePkYcH5ZQCb1b4tQeiEDj",
+        "name": "Blackout",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca10fae7d292c52f7e8b11ca"
+      },
       "release_date": "2007-10-25",
       "popularity": 79
     },
     {
-      "trackId": "6HF5812BSZURDCLsMqoF9U",
-      "name": "Diletta Leotta",
+      "track": {
+        "id": "6HF5812BSZURDCLsMqoF9U",
+        "name": "Diletta Leotta"
+      },
       "duration_ms": 200171,
-      "artist": [
-        "Vais",
-        "Glauco"
+      "artists": [
+        {
+          "name": "Vais",
+          "id": "7dnUlAGlHzqoLEMpue10JM"
+        },
+        {
+          "name": "Glauco",
+          "id": "6zRPngg8Akh7YyNy18Pkm4"
+        }
       ],
-      "artistId": [
-        "7dnUlAGlHzqoLEMpue10JM",
-        "6zRPngg8Akh7YyNy18Pkm4"
-      ],
-      "albumId": "6BxUpUjlFEAUC9SPi3J3xN",
+      "album": {
+        "id": "6BxUpUjlFEAUC9SPi3J3xN",
+        "name": "Diletta Leotta",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efdfa5e7eeadbe456a985bb1"
+      },
       "release_date": "2019-06-21",
       "popularity": 2
     },
     {
-      "trackId": "5P0tWr5JZqDoi5wq2OalFH",
-      "name": "Je t'aime moi non plus",
+      "track": {
+        "id": "5P0tWr5JZqDoi5wq2OalFH",
+        "name": "Je t'aime moi non plus"
+      },
       "duration_ms": 268600,
-      "artist": [
-        "Serge Gainsbourg",
-        "Jane Birkin"
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "id": "01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "id": "4XYH5Be5pn1qkxhfaID3J5"
+        }
       ],
-      "artistId": [
-        "01C9OoXDvCKkGcf735Tcfo",
-        "4XYH5Be5pn1qkxhfaID3J5"
-      ],
-      "albumId": "0K7Rapnz35iffV4NNGWtPG",
+      "album": {
+        "id": "0K7Rapnz35iffV4NNGWtPG",
+        "name": "Comic Strip",
+        "img": "https://i.scdn.co/image/ab67616d00001e02243695a2f99da1403306c6b8"
+      },
       "release_date": "1996",
       "popularity": 52
     }

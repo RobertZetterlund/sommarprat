@@ -7,234 +7,346 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2c06c290-b0b1-469e-b732-9d45112050a7.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0SvFFt1NsJJmQGdj8ofVSd",
-      "name": "Mein kleiner grüner Kaktus",
+      "track": {
+        "id": "0SvFFt1NsJJmQGdj8ofVSd",
+        "name": "Mein kleiner grüner Kaktus"
+      },
       "duration_ms": 155733,
-      "artist": [
-        "Max Raabe"
+      "artists": [
+        {
+          "name": "Max Raabe",
+          "id": "0d2e8VbttQLewZySpLQudr"
+        }
       ],
-      "artistId": [
-        "0d2e8VbttQLewZySpLQudr"
-      ],
-      "albumId": "59tO9HvieKa6iqbfY1R0ym",
+      "album": {
+        "id": "59tO9HvieKa6iqbfY1R0ym",
+        "name": "30 Jahre Palast Orchester - Ich hör so gern Musik",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee8e91edf556b0c9967e17bc"
+      },
       "release_date": "2017-01-27",
       "popularity": 31
     },
     {
-      "trackId": "6JuFmZhQuaOo1FJsALn7Pn",
-      "name": "Piano Concerto No. 1 in E Minor, Op. 11: I. Allegro maestoso",
+      "track": {
+        "id": "6JuFmZhQuaOo1FJsALn7Pn",
+        "name": "Piano Concerto No. 1 in E Minor, Op. 11: I. Allegro maestoso"
+      },
       "duration_ms": 1202586,
-      "artist": [
-        "Frédéric Chopin",
-        "Ingrid Fliter",
-        "Scottish Chamber Orchestra"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Ingrid Fliter",
+          "id": "7iUbgcO0RSM8jJHbXNnrdq"
+        },
+        {
+          "name": "Scottish Chamber Orchestra",
+          "id": "45y5kS0Nhm3v7Do6W5dbcS"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "7iUbgcO0RSM8jJHbXNnrdq",
-        "45y5kS0Nhm3v7Do6W5dbcS"
-      ],
-      "albumId": "2PfquYUvTsE2NujkS0pRpl",
+      "album": {
+        "id": "2PfquYUvTsE2NujkS0pRpl",
+        "name": "Chopin: Piano Concertos",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e15ac4e3655038e0cabb5b1"
+      },
       "release_date": "2014-02-10",
       "popularity": 39
     },
     {
-      "trackId": "3Be7CLdHZpyzsVijme39cW",
-      "name": "What's Love Got to Do with It",
+      "track": {
+        "id": "3Be7CLdHZpyzsVijme39cW",
+        "name": "What's Love Got to Do with It"
+      },
       "duration_ms": 208156,
-      "artist": [
-        "Kygo",
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Kygo",
+          "id": "23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "23fqKkggKUBHNkbKtXEls4",
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "1JFKchcdu3ewuhA5PIHWno",
+      "album": {
+        "id": "1JFKchcdu3ewuhA5PIHWno",
+        "name": "What's Love Got to Do with It",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0b43fee481f279a186dff20"
+      },
       "release_date": "2020-07-17",
       "popularity": 72
     },
     {
-      "trackId": "6WA234y5leKTZ2p95hu0NI",
-      "name": "Lirum dirum",
+      "track": {
+        "id": "6WA234y5leKTZ2p95hu0NI",
+        "name": "Lirum dirum"
+      },
       "duration_ms": 203626,
-      "artist": [
-        "Harry Persson",
-        "Glada Spelmän"
+      "artists": [
+        {
+          "name": "Harry Persson",
+          "id": "2hSpEMKEA4r7ZQr6M9GDUF"
+        },
+        {
+          "name": "Glada Spelmän",
+          "id": "7D3Ze9yxDYKGi0eAjMWDpj"
+        }
       ],
-      "artistId": [
-        "2hSpEMKEA4r7ZQr6M9GDUF",
-        "7D3Ze9yxDYKGi0eAjMWDpj"
-      ],
-      "albumId": "6ohEGOi3mUvOKeFXpwcCPL",
+      "album": {
+        "id": "6ohEGOi3mUvOKeFXpwcCPL",
+        "name": "Någonting att äta, någonting att dricka",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe8504ae63d93226f33ab1a0"
+      },
       "release_date": "2005",
       "popularity": 3
     },
     {
-      "trackId": "4TTeoTPnWeRFWvWQ0ZLWQp",
-      "name": "Don't Be That Way",
+      "track": {
+        "id": "4TTeoTPnWeRFWvWQ0ZLWQp",
+        "name": "Don't Be That Way"
+      },
       "duration_ms": 152933,
-      "artist": [
-        "Chick Webb"
+      "artists": [
+        {
+          "name": "Chick Webb",
+          "id": "7AgtFmxbJL1wDbp7yYrzQb"
+        }
       ],
-      "artistId": [
-        "7AgtFmxbJL1wDbp7yYrzQb"
-      ],
-      "albumId": "6SRaZWf2CBJpfNJ3B2qFOz",
+      "album": {
+        "id": "6SRaZWf2CBJpfNJ3B2qFOz",
+        "name": "Spinnin' The Webb",
+        "img": "https://i.scdn.co/image/ab67616d00001e028074085abd2a6483dd82b141"
+      },
       "release_date": "1994-01-01",
       "popularity": 14
     },
     {
-      "trackId": "5dae01pKNjRQtgOeAkFzPY",
-      "name": "Mona Lisa",
+      "track": {
+        "id": "5dae01pKNjRQtgOeAkFzPY",
+        "name": "Mona Lisa"
+      },
       "duration_ms": 194986,
-      "artist": [
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "7GBvXtxnvBluo2f4xBVNkm",
+      "album": {
+        "id": "7GBvXtxnvBluo2f4xBVNkm",
+        "name": "Unforgettable",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdd261528e3590ac36bb85f0"
+      },
       "release_date": "1954-01-01",
       "popularity": 51
     },
     {
-      "trackId": "5KQayYnhYzTZkItLlkA4cn",
-      "name": "I Ain't Taking Orders From No One",
+      "track": {
+        "id": "5KQayYnhYzTZkItLlkA4cn",
+        "name": "I Ain't Taking Orders From No One"
+      },
       "duration_ms": 184940,
-      "artist": [
-        "Sophie Tucker"
+      "artists": [
+        {
+          "name": "Sophie Tucker",
+          "id": "58nEgrqod6YO5ZATASjIQ8"
+        }
       ],
-      "artistId": [
-        "58nEgrqod6YO5ZATASjIQ8"
-      ],
-      "albumId": "6V5vW8NSECWKzXFjvmxWco",
+      "album": {
+        "id": "6V5vW8NSECWKzXFjvmxWco",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7a39273a9fd8bdac5598f5b"
+      },
       "release_date": "2000-01-01",
       "popularity": 0
     },
     {
-      "trackId": "48BSXfxyLLxDIp934Is2A9",
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "track": {
+        "id": "48BSXfxyLLxDIp934Is2A9",
+        "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prelude"
+      },
       "duration_ms": 132120,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Torleif Thedéen"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Torleif Thedéen",
+          "id": "6AmX6uFptshw56Z5LbOFhZ"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "6AmX6uFptshw56Z5LbOFhZ"
-      ],
-      "albumId": "2cj4D33pmIvDCiDYWg80Nj",
+      "album": {
+        "id": "2cj4D33pmIvDCiDYWg80Nj",
+        "name": "Bach, J.S.: 6 Suites for Solo Cello, Bwv 1007-1012",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f643b186c98073881b0c12ec"
+      },
       "release_date": "2000-05-31",
       "popularity": 34
     },
     {
-      "trackId": "5heiTautAti5rDVU1OhneA",
-      "name": "There's No Business Like Show Business - From \"Annie Get Your Gun\"",
+      "track": {
+        "id": "5heiTautAti5rDVU1OhneA",
+        "name": "There's No Business Like Show Business - From \"Annie Get Your Gun\""
+      },
       "duration_ms": 191293,
-      "artist": [
-        "Ethel Merman",
-        "Ray Middleton",
-        "William O'Neal"
+      "artists": [
+        {
+          "name": "Ethel Merman",
+          "id": "4Kgu9tJgtNXTWMjefKahs9"
+        },
+        {
+          "name": "Ray Middleton",
+          "id": "3pfx5bZJcVL2dC9xyeK4cM"
+        },
+        {
+          "name": "William O'Neal",
+          "id": "24tDMPsj1bpwbxmh9vkfqX"
+        }
       ],
-      "artistId": [
-        "4Kgu9tJgtNXTWMjefKahs9",
-        "3pfx5bZJcVL2dC9xyeK4cM",
-        "24tDMPsj1bpwbxmh9vkfqX"
-      ],
-      "albumId": "1IDWNeKQAJWJL2ysC2k1u2",
+      "album": {
+        "id": "1IDWNeKQAJWJL2ysC2k1u2",
+        "name": "Annie Get Your Gun (Original Broadway Cast / Bonus Tracks)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024eb4133627a0474424266142"
+      },
       "release_date": "1946-01-01",
       "popularity": 37
     },
     {
-      "trackId": "5heiTautAti5rDVU1OhneA",
-      "name": "There's No Business Like Show Business - From \"Annie Get Your Gun\"",
+      "track": {
+        "id": "5heiTautAti5rDVU1OhneA",
+        "name": "There's No Business Like Show Business - From \"Annie Get Your Gun\""
+      },
       "duration_ms": 191293,
-      "artist": [
-        "Ethel Merman",
-        "Ray Middleton",
-        "William O'Neal"
+      "artists": [
+        {
+          "name": "Ethel Merman",
+          "id": "4Kgu9tJgtNXTWMjefKahs9"
+        },
+        {
+          "name": "Ray Middleton",
+          "id": "3pfx5bZJcVL2dC9xyeK4cM"
+        },
+        {
+          "name": "William O'Neal",
+          "id": "24tDMPsj1bpwbxmh9vkfqX"
+        }
       ],
-      "artistId": [
-        "4Kgu9tJgtNXTWMjefKahs9",
-        "3pfx5bZJcVL2dC9xyeK4cM",
-        "24tDMPsj1bpwbxmh9vkfqX"
-      ],
-      "albumId": "1IDWNeKQAJWJL2ysC2k1u2",
+      "album": {
+        "id": "1IDWNeKQAJWJL2ysC2k1u2",
+        "name": "Annie Get Your Gun (Original Broadway Cast / Bonus Tracks)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024eb4133627a0474424266142"
+      },
       "release_date": "1946-01-01",
       "popularity": 37
     },
     {
-      "trackId": "4OqUm7mQFsi6pAVg34GBir",
-      "name": "Illan viimeinen tango",
+      "track": {
+        "id": "4OqUm7mQFsi6pAVg34GBir",
+        "name": "Illan viimeinen tango"
+      },
       "duration_ms": 183893,
-      "artist": [
-        "Eino Grön"
+      "artists": [
+        {
+          "name": "Eino Grön",
+          "id": "23m1wRBXuodv7oXi6QP5AY"
+        }
       ],
-      "artistId": [
-        "23m1wRBXuodv7oXi6QP5AY"
-      ],
-      "albumId": "6nclSgjlgTZUSz9o64q4T7",
+      "album": {
+        "id": "6nclSgjlgTZUSz9o64q4T7",
+        "name": "Eino Grön laulaa tangoja",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c62e3a3a9c4f323dc558d88a"
+      },
       "release_date": "1967",
       "popularity": 9
     },
     {
-      "trackId": "2ueOVitGw6YDUtz8pkzLi6",
-      "name": "Lili Marleen",
+      "track": {
+        "id": "2ueOVitGw6YDUtz8pkzLi6",
+        "name": "Lili Marleen"
+      },
       "duration_ms": 181400,
-      "artist": [
-        "Marlene Dietrich"
+      "artists": [
+        {
+          "name": "Marlene Dietrich",
+          "id": "3UuPzfQMdGK40O8Rj9jqVM"
+        }
       ],
-      "artistId": [
-        "3UuPzfQMdGK40O8Rj9jqVM"
-      ],
-      "albumId": "4ZxAg70ooaiNOUUeEdquC9",
+      "album": {
+        "id": "4ZxAg70ooaiNOUUeEdquC9",
+        "name": "The Essential Marlene Dietrich",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205d2aa3c652ecd47a4fc97cc"
+      },
       "release_date": "1991-01-01",
       "popularity": 40
     },
     {
-      "trackId": "2uuii2O3dgyQsLK3sumwwp",
-      "name": "Candy Lips",
+      "track": {
+        "id": "2uuii2O3dgyQsLK3sumwwp",
+        "name": "Candy Lips"
+      },
       "duration_ms": 164466,
-      "artist": [
-        "Clarence Williams",
-        "Clarence Williams' Washboard Four"
+      "artists": [
+        {
+          "name": "Clarence Williams",
+          "id": "5zjKpiCCiuKiT6uhSt7aFe"
+        },
+        {
+          "name": "Clarence Williams' Washboard Four",
+          "id": "1XFJ7fCm2CkoWABL7U7P5h"
+        }
       ],
-      "artistId": [
-        "5zjKpiCCiuKiT6uhSt7aFe",
-        "1XFJ7fCm2CkoWABL7U7P5h"
-      ],
-      "albumId": "4FPPQQgbJNQXscZeHyJeJn",
+      "album": {
+        "id": "4FPPQQgbJNQXscZeHyJeJn",
+        "name": "Gimme Blues: Clarence Williams' Washboard Bands 1926-29",
+        "img": "https://i.scdn.co/image/ab67616d00001e02258ff835633ef07371dc517a"
+      },
       "release_date": "2011-01-01",
       "popularity": 0
     },
     {
-      "trackId": "0LCgNW4PZQ5lpZFpWMuHn0",
-      "name": "Sång om syrsor",
+      "track": {
+        "id": "0LCgNW4PZQ5lpZFpWMuHn0",
+        "name": "Sång om syrsor"
+      },
       "duration_ms": 182386,
-      "artist": [
-        "Zarah Leander",
-        "FFB Orchester Berlin"
+      "artists": [
+        {
+          "name": "Zarah Leander",
+          "id": "5R15K0QUPe4AhP1vaPoaX3"
+        },
+        {
+          "name": "FFB Orchester Berlin",
+          "id": "1HtEtFzGpj3yyySufhQhlr"
+        }
       ],
-      "artistId": [
-        "5R15K0QUPe4AhP1vaPoaX3",
-        "1HtEtFzGpj3yyySufhQhlr"
-      ],
-      "albumId": "5bcGc9JTqDpFLFVhBxcBnp",
+      "album": {
+        "id": "5bcGc9JTqDpFLFVhBxcBnp",
+        "name": "Svenska Sångfavoriter 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205444ad8bfeca18cebbbb020"
+      },
       "release_date": "2005-01-14",
       "popularity": 17
     },
     {
-      "trackId": "7pyCJ0V0kIY57QdlEcM1eO",
-      "name": "Leaving the Table",
+      "track": {
+        "id": "7pyCJ0V0kIY57QdlEcM1eO",
+        "name": "Leaving the Table"
+      },
       "duration_ms": 227480,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3jeTB3j3QmUs8SPIVleHtU",
+      "album": {
+        "id": "3jeTB3j3QmUs8SPIVleHtU",
+        "name": "You Want It Darker",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fc3f01275cae3d8ecb1c26b"
+      },
       "release_date": "2016-10-21",
       "popularity": 46
     }

@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530884_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6a4mvE1CdiRMPyAvG8ByLN",
-      "name": "Under The Boardwalk",
+      "track": {
+        "id": "6a4mvE1CdiRMPyAvG8ByLN",
+        "name": "Under The Boardwalk"
+      },
       "duration_ms": 183173,
-      "artist": [
-        "Bruce Willis"
+      "artists": [
+        {
+          "name": "Bruce Willis",
+          "id": "6UpHyjBIGRSHpna0GQ68bH"
+        }
       ],
-      "artistId": [
-        "6UpHyjBIGRSHpna0GQ68bH"
-      ],
-      "albumId": "56jScJ8N9n8B4ZNu52KeHk",
+      "album": {
+        "id": "56jScJ8N9n8B4ZNu52KeHk",
+        "name": "The Return Of Bruno",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a26392988c58b7c0ec02a1b"
+      },
       "release_date": "1987-01-01",
       "popularity": 48
     },
     {
-      "trackId": "2yBVeksU2EtrPJbTu4ZslK",
-      "name": "What a Fool Believes",
+      "track": {
+        "id": "2yBVeksU2EtrPJbTu4ZslK",
+        "name": "What a Fool Believes"
+      },
       "duration_ms": 223866,
-      "artist": [
-        "The Doobie Brothers"
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "id": "39T6qqI0jDtSWWioX8eGJz"
+        }
       ],
-      "artistId": [
-        "39T6qqI0jDtSWWioX8eGJz"
-      ],
-      "albumId": "7je2uv9QBH65HhADDZitbB",
+      "album": {
+        "id": "7je2uv9QBH65HhADDZitbB",
+        "name": "Minute by Minute",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba6340ac3b1653b6ea0e5da5"
+      },
       "release_date": "1978",
       "popularity": 70
     },
     {
-      "trackId": "7bJSiwLFnhoO7g83bWkCtA",
-      "name": "Love Will Keep Us Alive",
+      "track": {
+        "id": "7bJSiwLFnhoO7g83bWkCtA",
+        "name": "Love Will Keep Us Alive"
+      },
       "duration_ms": 243453,
-      "artist": [
-        "Eagles"
+      "artists": [
+        {
+          "name": "Eagles",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL"
+        }
       ],
-      "artistId": [
-        "0ECwFtbIWEVNwjlrfc6xoL"
-      ],
-      "albumId": "2Tz88LCwtg5sli8x2YjJyF",
+      "album": {
+        "id": "2Tz88LCwtg5sli8x2YjJyF",
+        "name": "Hell Freezes Over (Remaster 2018)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296d28597a5ae44ab66552183"
+      },
       "release_date": "1994-11-08",
       "popularity": 65
     },
     {
-      "trackId": "5lUTzPuiloBHm1qEaJcJfF",
-      "name": "Candyman",
+      "track": {
+        "id": "5lUTzPuiloBHm1qEaJcJfF",
+        "name": "Candyman"
+      },
       "duration_ms": 194213,
-      "artist": [
-        "Christina Aguilera"
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "id": "1l7ZsJRRS8wlW3WfJfPfNS"
+        }
       ],
-      "artistId": [
-        "1l7ZsJRRS8wlW3WfJfPfNS"
-      ],
-      "albumId": "0zRJsgzHZUUdk8Rjk6Segd",
+      "album": {
+        "id": "0zRJsgzHZUUdk8Rjk6Segd",
+        "name": "Back To Basics",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d74f4550a6e409bf51652db7"
+      },
       "release_date": "2006-08-14",
       "popularity": 66
     },
     {
-      "trackId": "3uMEiKt4C68YPwD7cnmbY8",
-      "name": "Vandrar i ett regn",
+      "track": {
+        "id": "3uMEiKt4C68YPwD7cnmbY8",
+        "name": "Vandrar i ett regn"
+      },
       "duration_ms": 211491,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "6tqbVThKQaAbkJ96dj4kvf",
+      "album": {
+        "id": "6tqbVThKQaAbkJ96dj4kvf",
+        "name": "Magnus Den Store (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a3f711326cc2d6413d16a0f"
+      },
       "release_date": "2013-02-27",
       "popularity": 30
     },
     {
-      "trackId": "5F4ksIKmuXEtgBf6SfEQRr",
-      "name": "Loves Me Like a Rock",
+      "track": {
+        "id": "5F4ksIKmuXEtgBf6SfEQRr",
+        "name": "Loves Me Like a Rock"
+      },
       "duration_ms": 213453,
-      "artist": [
-        "Paul Simon"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI"
-      ],
-      "albumId": "50pzpI17hwQj7LKcOiLMFD",
+      "album": {
+        "id": "50pzpI17hwQj7LKcOiLMFD",
+        "name": "There Goes Rhymin' Simon",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b3dcd1fd0d85f3721625c03"
+      },
       "release_date": "1973-05-05",
       "popularity": 56
     },
     {
-      "trackId": "4xm2RpQtpFVlPlO1v4BrBr",
-      "name": "The Great Pretender",
+      "track": {
+        "id": "4xm2RpQtpFVlPlO1v4BrBr",
+        "name": "The Great Pretender"
+      },
       "duration_ms": 206573,
-      "artist": [
-        "Freddie Mercury"
+      "artists": [
+        {
+          "name": "Freddie Mercury",
+          "id": "4M1FpEWs2PeYfJe7xxJfhH"
+        }
       ],
-      "artistId": [
-        "4M1FpEWs2PeYfJe7xxJfhH"
-      ],
-      "albumId": "2LCNkugsIYizh1dBYkN143",
+      "album": {
+        "id": "2LCNkugsIYizh1dBYkN143",
+        "name": "Messenger Of The Gods: The Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202147849c349501e8f19c930"
+      },
       "release_date": "2016-09-02",
       "popularity": 59
     },
     {
-      "trackId": "5t9KYe0Fhd5cW6UYT4qP8f",
-      "name": "Good Vibrations - Remastered 2001",
+      "track": {
+        "id": "5t9KYe0Fhd5cW6UYT4qP8f",
+        "name": "Good Vibrations - Remastered 2001"
+      },
       "duration_ms": 219026,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "37rNuexqEXWeSIOiJtn3A9",
+      "album": {
+        "id": "37rNuexqEXWeSIOiJtn3A9",
+        "name": "Smiley Smile (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb9dac3244b8486758058a81"
+      },
       "release_date": "1967-09-18",
       "popularity": 71
     },
     {
-      "trackId": "2ge3Pu115MjX1XCf0Jybc4",
-      "name": "La Femme Accident - 12'' Version",
+      "track": {
+        "id": "2ge3Pu115MjX1XCf0Jybc4",
+        "name": "La Femme Accident - 12'' Version"
+      },
       "duration_ms": 376933,
-      "artist": [
-        "Orchestral Manoeuvres In The Dark",
-        "Tom Lord-Alge"
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "id": "7wJ9NwdRWtN92NunmXuwBk"
+        },
+        {
+          "name": "Tom Lord-Alge",
+          "id": "32ckuKo8LrZhQMyCehYKkt"
+        }
       ],
-      "artistId": [
-        "7wJ9NwdRWtN92NunmXuwBk",
-        "32ckuKo8LrZhQMyCehYKkt"
-      ],
-      "albumId": "45GBfsudmOMfIGcPcm5b0l",
+      "album": {
+        "id": "45GBfsudmOMfIGcPcm5b0l",
+        "name": "Indie Rock This Summer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243222344361038df6df24122"
+      },
       "release_date": "2022-08-08",
       "popularity": 0
     },
     {
-      "trackId": "29b70iOlgRkYQ8ZzINZXph",
-      "name": "Sad Eyes - Studio Outtake - 1990",
+      "track": {
+        "id": "29b70iOlgRkYQ8ZzINZXph",
+        "name": "Sad Eyes - Studio Outtake - 1990"
+      },
       "duration_ms": 227733,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "13pZUSPWE87x40BorpgLx2",
+      "album": {
+        "id": "13pZUSPWE87x40BorpgLx2",
+        "name": "Tracks",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3c26f3a7d35628340d948f1"
+      },
       "release_date": "1998-11-10",
       "popularity": 55
     },
     {
-      "trackId": "2MRCuYlcWyQiVgQfSmusFD",
-      "name": "I Believe in the Man in the Sky",
+      "track": {
+        "id": "2MRCuYlcWyQiVgQfSmusFD",
+        "name": "I Believe in the Man in the Sky"
+      },
       "duration_ms": 132200,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0OflUemnHFws5bKzEbBVV3",
+      "album": {
+        "id": "0OflUemnHFws5bKzEbBVV3",
+        "name": "His Hand in Mine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ace8ddfa0d31f9ec92700cd8"
+      },
       "release_date": "1960-11-23",
       "popularity": 31
     },
     {
-      "trackId": "7onlwkpqBWb0UOKVJAqeM7",
-      "name": "Början",
+      "track": {
+        "id": "7onlwkpqBWb0UOKVJAqeM7",
+        "name": "Början"
+      },
       "duration_ms": 146160,
-      "artist": [
-        "Galenskaparna & After Shave"
+      "artists": [
+        {
+          "name": "Galenskaparna & After Shave",
+          "id": "1yP4vKrljoPWZofWJchg0E"
+        }
       ],
-      "artistId": [
-        "1yP4vKrljoPWZofWJchg0E"
-      ],
-      "albumId": "48BKycGUlspltDcp30ka18",
+      "album": {
+        "id": "48BKycGUlspltDcp30ka18",
+        "name": "Cyklar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257378c3ed4de40e691daf5c2"
+      },
       "release_date": "1987",
       "popularity": 10
     }

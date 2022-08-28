@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3302794_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3QcuZo6WLcFkqqLmDs0d95",
-      "name": "Doctor My Eyes",
+      "track": {
+        "id": "3QcuZo6WLcFkqqLmDs0d95",
+        "name": "Doctor My Eyes"
+      },
       "duration_ms": 199906,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "0n93YRc9GP3ZgREgTHvP5u",
+      "album": {
+        "id": "0n93YRc9GP3ZgREgTHvP5u",
+        "name": "Jackson Browne (Saturate Before Using)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02759f9719982a240d02539e38"
+      },
       "release_date": "1972",
       "popularity": 67
     },
     {
-      "trackId": "2aoo2jlRnM3A0NyLQqMN2f",
-      "name": "All Along the Watchtower",
+      "track": {
+        "id": "2aoo2jlRnM3A0NyLQqMN2f",
+        "name": "All Along the Watchtower"
+      },
       "duration_ms": 240800,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "5z090LQztiqh13wYspQvKQ",
+      "album": {
+        "id": "5z090LQztiqh13wYspQvKQ",
+        "name": "Electric Ladyland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292"
+      },
       "release_date": "1968-10-25",
       "popularity": 76
     },
     {
-      "trackId": "0nlZjTPzW6S9JIESuGfImT",
-      "name": "Lowdown",
+      "track": {
+        "id": "0nlZjTPzW6S9JIESuGfImT",
+        "name": "Lowdown"
+      },
       "duration_ms": 315640,
-      "artist": [
-        "Boz Scaggs"
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "id": "46njgd2Rq9tZc4ZjeQMgbh"
+        }
       ],
-      "artistId": [
-        "46njgd2Rq9tZc4ZjeQMgbh"
-      ],
-      "albumId": "7DysI4j6UqK00RTfETKXqs",
+      "album": {
+        "id": "7DysI4j6UqK00RTfETKXqs",
+        "name": "Silk Degrees",
+        "img": "https://i.scdn.co/image/ab67616d00001e0294676ce6aa5288318b4ca52a"
+      },
       "release_date": "1976",
       "popularity": 65
     },
     {
-      "trackId": "2CdPhaZLjIpduA0rVnHIv8",
-      "name": "Roots Natty Roots Natty Congo",
+      "track": {
+        "id": "2CdPhaZLjIpduA0rVnHIv8",
+        "name": "Roots Natty Roots Natty Congo"
+      },
       "duration_ms": 343186,
-      "artist": [
-        "Babatunde Tony Ellis"
+      "artists": [
+        {
+          "name": "Babatunde Tony Ellis",
+          "id": "6XKe7eiqYL72rL2MPWdHEp"
+        }
       ],
-      "artistId": [
-        "6XKe7eiqYL72rL2MPWdHEp"
-      ],
-      "albumId": "5ooBNVrk7DQ8RX0YQKT8LH",
+      "album": {
+        "id": "5ooBNVrk7DQ8RX0YQKT8LH",
+        "name": "No Place To Run",
+        "img": "https://i.scdn.co/image/ab67616d00001e02747968aa0b39574f54b7aa5f"
+      },
       "release_date": "1979-01-01",
       "popularity": 4
     },
     {
-      "trackId": "01UYpHuzHi4eB9PAbDoPY2",
-      "name": "Summer Breeze",
+      "track": {
+        "id": "01UYpHuzHi4eB9PAbDoPY2",
+        "name": "Summer Breeze"
+      },
       "duration_ms": 205480,
-      "artist": [
-        "Seals and Crofts"
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "id": "6jdObwsrIjSRnBbMw6lPBj"
+        }
       ],
-      "artistId": [
-        "6jdObwsrIjSRnBbMw6lPBj"
-      ],
-      "albumId": "4dkdQY484elFRfcVNY6uzj",
+      "album": {
+        "id": "4dkdQY484elFRfcVNY6uzj",
+        "name": "Seals & Crofts' Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfa20da3b777d38da4b044ca"
+      },
       "release_date": "1972",
       "popularity": 65
     },
     {
-      "trackId": "6RxDswZiVaCJDYZ1W9ASE8",
-      "name": "A Case of You - Piano & A Microphone 1983 Version",
+      "track": {
+        "id": "6RxDswZiVaCJDYZ1W9ASE8",
+        "name": "A Case of You - Piano & A Microphone 1983 Version"
+      },
       "duration_ms": 100533,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "6gbmDvcU1JDPy1niL6YFJY",
+      "album": {
+        "id": "6gbmDvcU1JDPy1niL6YFJY",
+        "name": "Piano & A Microphone 1983",
+        "img": "https://i.scdn.co/image/ab67616d00001e02105086205323b81177c709d4"
+      },
       "release_date": "2018-09-14",
       "popularity": 30
     },
     {
-      "trackId": "709EL6en3W3ZsuXpvpa6im",
-      "name": "Something In The Way She Moves - Live At The Troubadour / 2007",
+      "track": {
+        "id": "709EL6en3W3ZsuXpvpa6im",
+        "name": "Something In The Way She Moves - Live At The Troubadour / 2007"
+      },
       "duration_ms": 244106,
-      "artist": [
-        "Carole King",
-        "James Taylor"
+      "artists": [
+        {
+          "name": "Carole King",
+          "id": "319yZVtYM9MBGqmSQnMyY6"
+        },
+        {
+          "name": "James Taylor",
+          "id": "0vn7UBvSQECKJm2817Yf1P"
+        }
       ],
-      "artistId": [
-        "319yZVtYM9MBGqmSQnMyY6",
-        "0vn7UBvSQECKJm2817Yf1P"
-      ],
-      "albumId": "5lDM7HLXPBVDxFru5s1lgd",
+      "album": {
+        "id": "5lDM7HLXPBVDxFru5s1lgd",
+        "name": "Live At The Troubadour",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d4846c6529498ff1825c985"
+      },
       "release_date": "2010-01-01",
       "popularity": 26
     },
     {
-      "trackId": "5st5644IlBmKiiRE73UsoZ",
-      "name": "Fuck You",
+      "track": {
+        "id": "5st5644IlBmKiiRE73UsoZ",
+        "name": "Fuck You"
+      },
       "duration_ms": 219893,
-      "artist": [
-        "Lily Allen"
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "id": "13saZpZnCDWOI9D4IJhp1f"
+        }
       ],
-      "artistId": [
-        "13saZpZnCDWOI9D4IJhp1f"
-      ],
-      "albumId": "2OUL7ZpAvUaWyylZ1lXpe0",
+      "album": {
+        "id": "2OUL7ZpAvUaWyylZ1lXpe0",
+        "name": "It's Not Me, It's You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02321bad65a3be5bbd317eb11b"
+      },
       "release_date": "2009-01-26",
       "popularity": 62
     },
     {
-      "trackId": "6GKfnB8wQhmCqsHmgDAkN4",
-      "name": "Casser La Voix",
+      "track": {
+        "id": "6GKfnB8wQhmCqsHmgDAkN4",
+        "name": "Casser La Voix"
+      },
       "duration_ms": 279133,
-      "artist": [
-        "Patrick Bruel"
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "id": "0vmrFTWCwK3gFGDzeUzeMg"
+        }
       ],
-      "artistId": [
-        "0vmrFTWCwK3gFGDzeUzeMg"
-      ],
-      "albumId": "2BPmd6BmvLHEz9ieEJBSNt",
+      "album": {
+        "id": "2BPmd6BmvLHEz9ieEJBSNt",
+        "name": "Alors regarde",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b8420ca49fa8270c3cdd7c9"
+      },
       "release_date": "1989-10-16",
       "popularity": 47
     },
     {
-      "trackId": "4Zucyo10zPhTN0oIIn1i6U",
-      "name": "Love Theme From Chinatown (Main Title) - From The \"Chinatown\" Soundtrack",
+      "track": {
+        "id": "4Zucyo10zPhTN0oIIn1i6U",
+        "name": "Love Theme From Chinatown (Main Title) - From The \"Chinatown\" Soundtrack"
+      },
       "duration_ms": 124040,
-      "artist": [
-        "Jerry Goldsmith"
+      "artists": [
+        {
+          "name": "Jerry Goldsmith",
+          "id": "7t8q7ikEtcPNtoaKAm9Vu6"
+        }
       ],
-      "artistId": [
-        "7t8q7ikEtcPNtoaKAm9Vu6"
-      ],
-      "albumId": "5eobMjKVQ5h5vgNhOdQoVS",
+      "album": {
+        "id": "5eobMjKVQ5h5vgNhOdQoVS",
+        "name": "Chinatown (Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d162c5c56b14201ff4c4367b"
+      },
       "release_date": "2011-01-01",
       "popularity": 38
     },
     {
-      "trackId": "3pErM4EiWKf3k8KU3jjbXn",
-      "name": "You Belong to Me",
+      "track": {
+        "id": "3pErM4EiWKf3k8KU3jjbXn",
+        "name": "You Belong to Me"
+      },
       "duration_ms": 232666,
-      "artist": [
-        "Carly Simon"
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "id": "4FtSnMlCVxCswABUmdhwpm"
+        }
       ],
-      "artistId": [
-        "4FtSnMlCVxCswABUmdhwpm"
-      ],
-      "albumId": "6TUPBFLSBxRwHDXV0y3AHs",
+      "album": {
+        "id": "6TUPBFLSBxRwHDXV0y3AHs",
+        "name": "Boys in the Trees",
+        "img": "https://i.scdn.co/image/ab67616d00001e022efa84a453ce06dafbedae64"
+      },
       "release_date": "1978",
       "popularity": 50
     },
     {
-      "trackId": "2IcaiXwQOABvLdjzWXKkqQ",
-      "name": "We Can Work It Out",
+      "track": {
+        "id": "2IcaiXwQOABvLdjzWXKkqQ",
+        "name": "We Can Work It Out"
+      },
       "duration_ms": 223666,
-      "artist": [
-        "Chaka Khan"
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "id": "6mQfAAqZGBzIfrmlZCeaYT"
+        }
       ],
-      "artistId": [
-        "6mQfAAqZGBzIfrmlZCeaYT"
-      ],
-      "albumId": "6elTNQdWmobPp0QGEPwPMc",
+      "album": {
+        "id": "6elTNQdWmobPp0QGEPwPMc",
+        "name": "What Cha' Gonna Do for Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e026911b3d0a4abd46a780cb6c9"
+      },
       "release_date": "1981",
       "popularity": 31
     }

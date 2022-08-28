@@ -7,160 +7,230 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3232988_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6YpkljD5apD7TLmG8JILPc",
-      "name": "Comfortable Numb",
+      "track": {
+        "id": "6YpkljD5apD7TLmG8JILPc",
+        "name": "Comfortable Numb"
+      },
       "duration_ms": 550399,
-      "artist": [
-        "The Crazy Diamonds"
+      "artists": [
+        {
+          "name": "The Crazy Diamonds",
+          "id": "35hixzb5AFkCyD72j0op3C"
+        }
       ],
-      "artistId": [
-        "35hixzb5AFkCyD72j0op3C"
-      ],
-      "albumId": "6QkZRmTabUl02J62bocV2S",
+      "album": {
+        "id": "6QkZRmTabUl02J62bocV2S",
+        "name": "Greatest Hits of Pink Floyd",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233fb4a730416022364886266"
+      },
       "release_date": "2012-03-14",
       "popularity": 3
     },
     {
-      "trackId": "0urQn9B5jr85DTkCHnZBQL",
-      "name": "Isn't She Lovely",
+      "track": {
+        "id": "0urQn9B5jr85DTkCHnZBQL",
+        "name": "Isn't She Lovely"
+      },
       "duration_ms": 271373,
-      "artist": [
-        "Lee Ritenour"
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "id": "1nDqTUspmq8IXhcEZT93iq"
+        }
       ],
-      "artistId": [
-        "1nDqTUspmq8IXhcEZT93iq"
-      ],
-      "albumId": "49HzKcx46MoOg2aZfgiE2c",
+      "album": {
+        "id": "49HzKcx46MoOg2aZfgiE2c",
+        "name": "Captain Fingers",
+        "img": "https://i.scdn.co/image/ab67616d00001e026c7befe8028b23d89ba08a1e"
+      },
       "release_date": "1977",
       "popularity": 18
     },
     {
-      "trackId": "1wUxJp6xjtiVrXhsHBGHSy",
-      "name": "Concerto for Flute and Harp in C Major, K. 299: II. Andantino",
+      "track": {
+        "id": "1wUxJp6xjtiVrXhsHBGHSy",
+        "name": "Concerto for Flute and Harp in C Major, K. 299: II. Andantino"
+      },
       "duration_ms": 452000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Jiří Válek",
-        "Hana Mullerova"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jiří Válek",
+          "id": "3fy2bA62oqu2OxyTUsJgAn"
+        },
+        {
+          "name": "Hana Mullerova",
+          "id": "10BZZcy4jus4jMxUknYq9p"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3fy2bA62oqu2OxyTUsJgAn",
-        "10BZZcy4jus4jMxUknYq9p"
-      ],
-      "albumId": "0WYDjGqtVswFtw2xABNiV9",
+      "album": {
+        "id": "0WYDjGqtVswFtw2xABNiV9",
+        "name": "Mozart: Concerto for Flute and Harp / Sinfonia Concertante",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a59cb68aae60c1f9c0dc7461"
+      },
       "release_date": "1989-02-15",
       "popularity": 42
     },
     {
-      "trackId": "6l6b7epmL1Eg7ZlxYqMVed",
-      "name": "Here Comes The Flood",
+      "track": {
+        "id": "6l6b7epmL1Eg7ZlxYqMVed",
+        "name": "Here Comes The Flood"
+      },
       "duration_ms": 339000,
-      "artist": [
-        "Peter Gabriel"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I"
-      ],
-      "albumId": "0kDFjyfGFtiIMXlxJ120Ok",
+      "album": {
+        "id": "0kDFjyfGFtiIMXlxJ120Ok",
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b141e77892ab2ccb60cf3cf"
+      },
       "release_date": "1977",
       "popularity": 41
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     },
     {
-      "trackId": "7bXfHoEdg1jR9ie6FvE7ef",
-      "name": "Jag vill ha en egen måne",
+      "track": {
+        "id": "7bXfHoEdg1jR9ie6FvE7ef",
+        "name": "Jag vill ha en egen måne"
+      },
       "duration_ms": 202320,
-      "artist": [
-        "Janne Schaffer"
+      "artists": [
+        {
+          "name": "Janne Schaffer",
+          "id": "1FdRWg2tqR4I7jjA29vWYU"
+        }
       ],
-      "artistId": [
-        "1FdRWg2tqR4I7jjA29vWYU"
-      ],
-      "albumId": "25fn5Y6ZPYzJ1eMNjRDj9c",
+      "album": {
+        "id": "25fn5Y6ZPYzJ1eMNjRDj9c",
+        "name": "Överblick",
+        "img": "https://i.scdn.co/image/ab67616d00001e027546e4de6ab0ef0e8e6864f2"
+      },
       "release_date": "2004-01-01",
       "popularity": 29
     },
     {
-      "trackId": "4gGbnyw4jztAZSIPYuabs5",
-      "name": "Are You Going With Me?",
+      "track": {
+        "id": "4gGbnyw4jztAZSIPYuabs5",
+        "name": "Are You Going With Me?"
+      },
       "duration_ms": 527373,
-      "artist": [
-        "Pat Metheny Group"
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "id": "4uBSazM6snEc9wCG3jMlYt"
+        }
       ],
-      "artistId": [
-        "4uBSazM6snEc9wCG3jMlYt"
-      ],
-      "albumId": "1heeMC7VVWEDxdQKxesqQK",
+      "album": {
+        "id": "1heeMC7VVWEDxdQKxesqQK",
+        "name": "Offramp",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a325ec0bef6d38ad95a26c9a"
+      },
       "release_date": "1982-05-03",
       "popularity": 43
     },
     {
-      "trackId": "37Tmv4NnfQeb0ZgUC4fOJj",
-      "name": "Sultans Of Swing",
+      "track": {
+        "id": "37Tmv4NnfQeb0ZgUC4fOJj",
+        "name": "Sultans Of Swing"
+      },
       "duration_ms": 348400,
-      "artist": [
-        "Dire Straits"
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+        }
       ],
-      "artistId": [
-        "0WwSkZ7LtFUFjGjMZBMt6T"
-      ],
-      "albumId": "2rCS6Xwx32V27pvgFzLzlT",
+      "album": {
+        "id": "2rCS6Xwx32V27pvgFzLzlT",
+        "name": "Dire Straits",
+        "img": "https://i.scdn.co/image/ab67616d00001e029dfee5404d5e0763998c958e"
+      },
       "release_date": "1978-10-07",
       "popularity": 81
     },
     {
-      "trackId": "3SPcBPzvbmWLl8NU5efx4W",
-      "name": "Telephone Line",
+      "track": {
+        "id": "3SPcBPzvbmWLl8NU5efx4W",
+        "name": "Telephone Line"
+      },
       "duration_ms": 280360,
-      "artist": [
-        "Electric Light Orchestra"
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "id": "7jefIIksOi1EazgRTfW2Pk"
+        }
       ],
-      "artistId": [
-        "7jefIIksOi1EazgRTfW2Pk"
-      ],
-      "albumId": "7a35UzxXYuKQGMGImyB0Un",
+      "album": {
+        "id": "7a35UzxXYuKQGMGImyB0Un",
+        "name": "A New World Record",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee5b1065368b0981e3cb0a33"
+      },
       "release_date": "1976-09-01",
       "popularity": 62
     },
     {
-      "trackId": "25tZHMv3ctlzqDaHAeuU9c",
-      "name": "The Great Gig In The Sky - 2011 Remastered Version",
+      "track": {
+        "id": "25tZHMv3ctlzqDaHAeuU9c",
+        "name": "The Great Gig In The Sky - 2011 Remastered Version"
+      },
       "duration_ms": 284413,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "2WT1pbYjLJciAR26yMebkH",
+      "album": {
+        "id": "2WT1pbYjLJciAR26yMebkH",
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3709135d1005baa36939d80"
+      },
       "release_date": "1973-03-01",
       "popularity": 59
     },
     {
-      "trackId": "3yF1ldID5Zi8dCQXfpaga7",
-      "name": "LIVING CORPSE",
+      "track": {
+        "id": "3yF1ldID5Zi8dCQXfpaga7",
+        "name": "LIVING CORPSE"
+      },
       "duration_ms": 117578,
-      "artist": [
-        "EL$E"
+      "artists": [
+        {
+          "name": "EL$E",
+          "id": "36zaLvAR3hvPMtlSqgQs2i"
+        }
       ],
-      "artistId": [
-        "36zaLvAR3hvPMtlSqgQs2i"
-      ],
-      "albumId": "2OyRgwlQ6LHWYAUPbDwG1M",
+      "album": {
+        "id": "2OyRgwlQ6LHWYAUPbDwG1M",
+        "name": "EVANGELION YOUTH",
+        "img": "https://i.scdn.co/image/ab67616d00001e02349ab76e146e63fe511ef177"
+      },
       "release_date": "2022-02-04",
       "popularity": 27
     }

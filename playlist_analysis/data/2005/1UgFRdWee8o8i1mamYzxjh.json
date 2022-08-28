@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3236294_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "28EL5veTZtx38TqxIZwFyQ",
-      "name": "Golden",
+      "track": {
+        "id": "28EL5veTZtx38TqxIZwFyQ",
+        "name": "Golden"
+      },
       "duration_ms": 231560,
-      "artist": [
-        "Jill Scott"
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "id": "6AVLthptCPhfrxlHadOBJD"
+        }
       ],
-      "artistId": [
-        "6AVLthptCPhfrxlHadOBJD"
-      ],
-      "albumId": "2w9BYQcL8keWGjEHSJRwa9",
+      "album": {
+        "id": "2w9BYQcL8keWGjEHSJRwa9",
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236dc9ea817eb078d10d0fa1c"
+      },
       "release_date": "2004-08-31",
       "popularity": 55
     },
     {
-      "trackId": "0PVgef4kvggErf7OS2oktc",
-      "name": "Native New Yorker",
+      "track": {
+        "id": "0PVgef4kvggErf7OS2oktc",
+        "name": "Native New Yorker"
+      },
       "duration_ms": 259733,
-      "artist": [
-        "Odyssey"
+      "artists": [
+        {
+          "name": "Odyssey",
+          "id": "5b4SvpTqll0LSqJWPpXya5"
+        }
       ],
-      "artistId": [
-        "5b4SvpTqll0LSqJWPpXya5"
-      ],
-      "albumId": "1uXAM1SMOvZqP198Xnfda6",
+      "album": {
+        "id": "1uXAM1SMOvZqP198Xnfda6",
+        "name": "Odyssey (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c8cb1c41b25d18e728d01dc"
+      },
       "release_date": "1977",
       "popularity": 47
     },
     {
-      "trackId": "3nFJbZCHP4d9vduKjJLdBL",
-      "name": "Never Too Much",
+      "track": {
+        "id": "3nFJbZCHP4d9vduKjJLdBL",
+        "name": "Never Too Much"
+      },
       "duration_ms": 230466,
-      "artist": [
-        "Luther Vandross"
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "id": "19y5MFBH7gohEdGwKM7QsP"
+        }
       ],
-      "artistId": [
-        "19y5MFBH7gohEdGwKM7QsP"
-      ],
-      "albumId": "1B4oPgG5ljWTRxsKcTHAYn",
+      "album": {
+        "id": "1B4oPgG5ljWTRxsKcTHAYn",
+        "name": "Never Too Much",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c614878cb234061701cac6c"
+      },
       "release_date": "1981-07-23",
       "popularity": 71
     },
     {
-      "trackId": "3oGqQ3Ly4wzilxFo4puTn9",
-      "name": "I Wish I Knew",
+      "track": {
+        "id": "3oGqQ3Ly4wzilxFo4puTn9",
+        "name": "I Wish I Knew"
+      },
       "duration_ms": 290160,
-      "artist": [
-        "John Coltrane Quartet"
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "id": "67PZTxaHKMZBFRUh8wIzCy"
+        }
       ],
-      "artistId": [
-        "67PZTxaHKMZBFRUh8wIzCy"
-      ],
-      "albumId": "0Ydakb7npXmyTwFLvKc5qt",
+      "album": {
+        "id": "0Ydakb7npXmyTwFLvKc5qt",
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3d4884d3433efed2c4a0563"
+      },
       "release_date": "1963",
       "popularity": 38
     },
     {
-      "trackId": "6b0AtCzgnYrb7T84o18V4l",
-      "name": "I Won't Back Down",
+      "track": {
+        "id": "6b0AtCzgnYrb7T84o18V4l",
+        "name": "I Won't Back Down"
+      },
       "duration_ms": 128199,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2zCyI9fuV5JrQzrO3kMwbw",
+      "album": {
+        "id": "2zCyI9fuV5JrQzrO3kMwbw",
+        "name": "American III: Solitary Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c26357620e211089bf6b45e9"
+      },
       "release_date": "2000-01-01",
       "popularity": 53
     },
     {
-      "trackId": "28cnXtME493VX9NOw9cIUh",
-      "name": "Hurt",
+      "track": {
+        "id": "28cnXtME493VX9NOw9cIUh",
+        "name": "Hurt"
+      },
       "duration_ms": 216533,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2BlL4Gv2DLPu8p58Wcmlm9",
+      "album": {
+        "id": "2BlL4Gv2DLPu8p58Wcmlm9",
+        "name": "American IV: The Man Comes Around",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f4f62da3d811b6501a69ffa"
+      },
       "release_date": "2002-01-01",
       "popularity": 73
     },
     {
-      "trackId": "4yorDWFzW0orW36OMr9WSS",
-      "name": "Pissed Off",
+      "track": {
+        "id": "4yorDWFzW0orW36OMr9WSS",
+        "name": "Pissed Off"
+      },
       "duration_ms": 281960,
-      "artist": [
-        "Angie Stone"
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "id": "2hWr3AjjKOCVmWcwvuT4uM"
+        }
       ],
-      "artistId": [
-        "2hWr3AjjKOCVmWcwvuT4uM"
-      ],
-      "albumId": "1pJld4hH1xL3ONIlWZEhXw",
+      "album": {
+        "id": "1pJld4hH1xL3ONIlWZEhXw",
+        "name": "Mahogany Soul",
+        "img": "https://i.scdn.co/image/ab67616d00001e025dee330121693d5b21e7fe4b"
+      },
       "release_date": "2001-10-16",
       "popularity": 32
     },
     {
-      "trackId": "49cx1hO8AOm5uAsd4WtaEH",
-      "name": "Oh What A World",
+      "track": {
+        "id": "49cx1hO8AOm5uAsd4WtaEH",
+        "name": "Oh What A World"
+      },
       "duration_ms": 263133,
-      "artist": [
-        "Rufus Wainwright"
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "id": "2PfBzriIMRsCXPDtSy9vg8"
+        }
       ],
-      "artistId": [
-        "2PfBzriIMRsCXPDtSy9vg8"
-      ],
-      "albumId": "1DGZ1iMl4iWeiM9l2PLjeD",
+      "album": {
+        "id": "1DGZ1iMl4iWeiM9l2PLjeD",
+        "name": "Want One",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271f8f23deed2aa1b6cc328ba"
+      },
       "release_date": "2003-09-23",
       "popularity": 42
     },
     {
-      "trackId": "4hLOIKru9HeBvhDwrZSB33",
-      "name": "My Lady Story",
+      "track": {
+        "id": "4hLOIKru9HeBvhDwrZSB33",
+        "name": "My Lady Story"
+      },
       "duration_ms": 213426,
-      "artist": [
-        "Antony and the Johnsons"
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "id": "4fxp616ALtFWnXfwxnjLzW"
+        }
       ],
-      "artistId": [
-        "4fxp616ALtFWnXfwxnjLzW"
-      ],
-      "albumId": "24Xm5zS2KvwojChzxLGdn9",
+      "album": {
+        "id": "24Xm5zS2KvwojChzxLGdn9",
+        "name": "I Am A Bird Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0591c5bfd1d391228e8423c"
+      },
       "release_date": "2005-02-07",
       "popularity": 34
     },
     {
-      "trackId": "4jU7NPkz4HVnM4hweqNhI1",
-      "name": "Blue Orchid",
+      "track": {
+        "id": "4jU7NPkz4HVnM4hweqNhI1",
+        "name": "Blue Orchid"
+      },
       "duration_ms": 157560,
-      "artist": [
-        "The White Stripes"
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "id": "4F84IBURUo98rz4r61KF70"
+        }
       ],
-      "artistId": [
-        "4F84IBURUo98rz4r61KF70"
-      ],
-      "albumId": "3rHeq4F5wnaLBjNtuz7Yvh",
+      "album": {
+        "id": "3rHeq4F5wnaLBjNtuz7Yvh",
+        "name": "Get Behind Me Satan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8a1ae591befe4bb0a9261ab"
+      },
       "release_date": "2005-06-07",
       "popularity": 65
     },
     {
-      "trackId": "36EDvc2ZS5Bi7M29EaQPuc",
-      "name": "Fevgo",
+      "track": {
+        "id": "36EDvc2ZS5Bi7M29EaQPuc",
+        "name": "Fevgo"
+      },
       "duration_ms": 177026,
-      "artist": [
-        "Haris Alexiou"
+      "artists": [
+        {
+          "name": "Haris Alexiou",
+          "id": "4cgCxnsmy9kDcl3oA2BYRY"
+        }
       ],
-      "artistId": [
-        "4cgCxnsmy9kDcl3oA2BYRY"
-      ],
-      "albumId": "6qvynyFieyMwibJr9p2TVZ",
+      "album": {
+        "id": "6qvynyFieyMwibJr9p2TVZ",
+        "name": "I Megaliteres Epitihies Tis Haris Alexiou",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b13b7787cf735c73cbb92422"
+      },
       "release_date": "2014-01-01",
       "popularity": 36
     },
     {
-      "trackId": "0vUXdN869fROnNA5FTBa3W",
-      "name": "Verdi: Macbeth, Act 2: \"La luce langue\" (Lady Macbeth)",
+      "track": {
+        "id": "0vUXdN869fROnNA5FTBa3W",
+        "name": "Verdi: Macbeth, Act 2: \"La luce langue\" (Lady Macbeth)"
+      },
       "duration_ms": 251200,
-      "artist": [
-        "Giuseppe Verdi",
-        "Maria Callas",
-        "Nicola Rescigno"
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "id": "1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Maria Callas",
+          "id": "0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "id": "0q361GTlmwBoXupFQc0T8v"
+        }
       ],
-      "artistId": [
-        "1JOQXgYdQV2yfrhewqx96o",
-        "0bjdfjE8XbLa2Odstu6E1E",
-        "0q361GTlmwBoXupFQc0T8v"
-      ],
-      "albumId": "4wuvarP294roWWgqVo0CoQ",
+      "album": {
+        "id": "4wuvarP294roWWgqVo0CoQ",
+        "name": "Callas portrays Verdi Heroines - Callas Remastered",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d5d41b54b1d61abb317786a"
+      },
       "release_date": "2014-09-19",
       "popularity": 8
     },
     {
-      "trackId": "756CJtQRFSxEx9jV4P9hpA",
-      "name": "I Believe in a Thing Called Love",
+      "track": {
+        "id": "756CJtQRFSxEx9jV4P9hpA",
+        "name": "I Believe in a Thing Called Love"
+      },
       "duration_ms": 217653,
-      "artist": [
-        "The Darkness"
+      "artists": [
+        {
+          "name": "The Darkness",
+          "id": "5r1bdqzhgRoHC3YcCV6N5a"
+        }
       ],
-      "artistId": [
-        "5r1bdqzhgRoHC3YcCV6N5a"
-      ],
-      "albumId": "6vW9ZDllNv87WHXS3XTjlM",
+      "album": {
+        "id": "6vW9ZDllNv87WHXS3XTjlM",
+        "name": "Permission to Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfc0369fca487d12600962ec"
+      },
       "release_date": "2003-07-07",
       "popularity": 70
     },
     {
-      "trackId": "7hgKD9ba7QJGG8SrVF2z7o",
-      "name": "Come Fly With Me - Instrumental",
+      "track": {
+        "id": "7hgKD9ba7QJGG8SrVF2z7o",
+        "name": "Come Fly With Me - Instrumental"
+      },
       "duration_ms": 263533,
-      "artist": [
-        "Monty Alexander"
+      "artists": [
+        {
+          "name": "Monty Alexander",
+          "id": "30V1rKijENF5MFcGidInfh"
+        }
       ],
-      "artistId": [
-        "30V1rKijENF5MFcGidInfh"
-      ],
-      "albumId": "3bhWSMyAXhAkF5l87ZOqYq",
+      "album": {
+        "id": "3bhWSMyAXhAkF5l87ZOqYq",
+        "name": "Echoes Of Jilly's",
+        "img": "https://i.scdn.co/image/ab67616d00001e02727cb22a337c2c857b6ba3cd"
+      },
       "release_date": "1997-01-01",
       "popularity": 14
     },
     {
-      "trackId": "7yBO9ap6S5qLK8QGm8OXy9",
-      "name": "Comfortably Numb",
+      "track": {
+        "id": "7yBO9ap6S5qLK8QGm8OXy9",
+        "name": "Comfortably Numb"
+      },
       "duration_ms": 264640,
-      "artist": [
-        "Scissor Sisters"
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "id": "3Y10boYzeuFCJ4Qgp53w6o"
+        }
       ],
-      "artistId": [
-        "3Y10boYzeuFCJ4Qgp53w6o"
-      ],
-      "albumId": "3qXgnckOi2NbaAyjD3m2jP",
+      "album": {
+        "id": "3qXgnckOi2NbaAyjD3m2jP",
+        "name": "Scissor Sisters",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200d4c6f896dd4292a2b66fc7"
+      },
       "release_date": "2004",
       "popularity": 35
     }

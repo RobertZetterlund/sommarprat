@@ -7,226 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f7ad468f-8f62-428b-964a-2211af6f4071.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1j2QSt7Ff73i0ax1pz6K52",
-      "name": "Pluhar: Orfeo Chamán, Prologue: La selva (Butes)",
+      "track": {
+        "id": "1j2QSt7Ff73i0ax1pz6K52",
+        "name": "Pluhar: Orfeo Chamán, Prologue: La selva (Butes)"
+      },
       "duration_ms": 141000,
-      "artist": [
-        "Christina Pluhar",
-        "Vincenzo Capezzuto",
-        "L'Arpeggiata"
+      "artists": [
+        {
+          "name": "Christina Pluhar",
+          "id": "7xB7TQUAeFWgqdkhGiArgZ"
+        },
+        {
+          "name": "Vincenzo Capezzuto",
+          "id": "5HDQn2UgN1MFJpDm7H8zQJ"
+        },
+        {
+          "name": "L'Arpeggiata",
+          "id": "3kC7VaScP8y69rzg0vsswQ"
+        }
       ],
-      "artistId": [
-        "7xB7TQUAeFWgqdkhGiArgZ",
-        "5HDQn2UgN1MFJpDm7H8zQJ",
-        "3kC7VaScP8y69rzg0vsswQ"
-      ],
-      "albumId": "22stS4l0QKKZeAWavGfKkA",
+      "album": {
+        "id": "22stS4l0QKKZeAWavGfKkA",
+        "name": "Pluhar: Orfeo Chaman",
+        "img": "https://i.scdn.co/image/ab67616d00001e025432c24bee60df4561981760"
+      },
       "release_date": "2016-10-07",
       "popularity": 30
     },
     {
-      "trackId": "50F9WqEC0iXjxQ7JkcXQb0",
-      "name": "Ett hål i lakanet",
+      "track": {
+        "id": "50F9WqEC0iXjxQ7JkcXQb0",
+        "name": "Ett hål i lakanet"
+      },
       "duration_ms": 272746,
-      "artist": [
-        "Barbro Hörberg"
+      "artists": [
+        {
+          "name": "Barbro Hörberg",
+          "id": "7urXjli8ptr8Y8Z0XLtiJ9"
+        }
       ],
-      "artistId": [
-        "7urXjli8ptr8Y8Z0XLtiJ9"
-      ],
-      "albumId": "0SrGEG4PYLb68zVZ7Ser4u",
+      "album": {
+        "id": "0SrGEG4PYLb68zVZ7Ser4u",
+        "name": "Med ögon känsliga för grönt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6b8306828d0efed29c8c4c5"
+      },
       "release_date": "1973-01-01",
       "popularity": 21
     },
     {
-      "trackId": "4kvQEVA5FRXX9dpWrGEnQD",
-      "name": "En valsmelodi",
+      "track": {
+        "id": "4kvQEVA5FRXX9dpWrGEnQD",
+        "name": "En valsmelodi"
+      },
       "duration_ms": 191693,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "1ZkzTN5A0Viffra14nS2QX",
+      "album": {
+        "id": "1ZkzTN5A0Viffra14nS2QX",
+        "name": "Nils Ferlin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3911e0f438f0f6252a0fe70"
+      },
       "release_date": "1961",
       "popularity": 18
     },
     {
-      "trackId": "6WK6PgqSgVfeMZNiYUajdc",
-      "name": "Serse, HWV 40, Act I Scene 1: Arioso \"Ombra mai fù\"",
+      "track": {
+        "id": "6WK6PgqSgVfeMZNiYUajdc",
+        "name": "Serse, HWV 40, Act I Scene 1: Arioso \"Ombra mai fù\""
+      },
       "duration_ms": 183333,
-      "artist": [
-        "George Frideric Handel",
-        "Andreas Scholl",
-        "Akademie für Alte Musik Berlin"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Andreas Scholl",
+          "id": "2LnE7uKchgVW2Uv7vzwixZ"
+        },
+        {
+          "name": "Akademie für Alte Musik Berlin",
+          "id": "1R1hwKrqqLqYiD53NtXEBJ"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "2LnE7uKchgVW2Uv7vzwixZ",
-        "1R1hwKrqqLqYiD53NtXEBJ"
-      ],
-      "albumId": "1NhltGpKXjUYFf6bBxEWAH",
+      "album": {
+        "id": "1NhltGpKXjUYFf6bBxEWAH",
+        "name": "Handel: Ombra mai fu",
+        "img": "https://i.scdn.co/image/ab67616d00001e027970cc39cba17b1416c90a88"
+      },
       "release_date": "1999-03-09",
       "popularity": 41
     },
     {
-      "trackId": "1ZK8WJqkD1XhEYI1AlkMHG",
-      "name": "La mer",
+      "track": {
+        "id": "1ZK8WJqkD1XhEYI1AlkMHG",
+        "name": "La mer"
+      },
       "duration_ms": 201840,
-      "artist": [
-        "Charles Trenet"
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "id": "4a16JEaHldo5vZuRojtGTZ"
+        }
       ],
-      "artistId": [
-        "4a16JEaHldo5vZuRojtGTZ"
-      ],
-      "albumId": "2BgO56jZnE4xbfvlZOjK0L",
+      "album": {
+        "id": "2BgO56jZnE4xbfvlZOjK0L",
+        "name": "Disque D'or",
+        "img": "https://i.scdn.co/image/ab67616d00001e028555817419b10e2b4757c242"
+      },
       "release_date": "1992",
       "popularity": 54
     },
     {
-      "trackId": "3igS5jruTVPBPV20PH826q",
-      "name": "Amulet",
+      "track": {
+        "id": "3igS5jruTVPBPV20PH826q",
+        "name": "Amulet"
+      },
       "duration_ms": 297266,
-      "artist": [
-        "Natacha Atlas"
+      "artists": [
+        {
+          "name": "Natacha Atlas",
+          "id": "0aVJmlOwIxTZeHzhFiFL5Y"
+        }
       ],
-      "artistId": [
-        "0aVJmlOwIxTZeHzhFiFL5Y"
-      ],
-      "albumId": "1nMkSh9Z7IoH0bymXoQbVq",
+      "album": {
+        "id": "1nMkSh9Z7IoH0bymXoQbVq",
+        "name": "Halim",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef1486b8669007e63201f62b"
+      },
       "release_date": "1997-05-05",
       "popularity": 17
     },
     {
-      "trackId": "6X71GYAOP6lPwKIW8CiaJU",
-      "name": "Idiot Wind - Take 6",
+      "track": {
+        "id": "6X71GYAOP6lPwKIW8CiaJU",
+        "name": "Idiot Wind - Take 6"
+      },
       "duration_ms": 529600,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "5faKzawYFUfk3IRRe6ERXl",
+      "album": {
+        "id": "5faKzawYFUfk3IRRe6ERXl",
+        "name": "More Blood, More Tracks: The Bootleg Series, Vol. 14 (Sampler)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026724f11842fdbc0c49653ac1"
+      },
       "release_date": "2018-11-02",
       "popularity": 25
     },
     {
-      "trackId": "6y4FVJwf09ssxuRnlEgXkp",
-      "name": "Let's Stick Together",
+      "track": {
+        "id": "6y4FVJwf09ssxuRnlEgXkp",
+        "name": "Let's Stick Together"
+      },
       "duration_ms": 179160,
-      "artist": [
-        "Bryan Ferry"
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "id": "5RNFFojXkPRmlJZIwXeKQC"
+        }
       ],
-      "artistId": [
-        "5RNFFojXkPRmlJZIwXeKQC"
-      ],
-      "albumId": "7q7RBiiadKQR4DCbs7OMbd",
+      "album": {
+        "id": "7q7RBiiadKQR4DCbs7OMbd",
+        "name": "Let's Stick Together",
+        "img": "https://i.scdn.co/image/ab67616d00001e028924d0252e61e6f1f68808a5"
+      },
       "release_date": "1976",
       "popularity": 63
     },
     {
-      "trackId": "2yNfLnLb97QvVna6fO4kIE",
-      "name": "From Jewish Life, B. 55: I. Prayer",
+      "track": {
+        "id": "2yNfLnLb97QvVna6fO4kIE",
+        "name": "From Jewish Life, B. 55: I. Prayer"
+      },
       "duration_ms": 275293,
-      "artist": [
-        "Ernest Bloch",
-        "Sol Gabetta"
+      "artists": [
+        {
+          "name": "Ernest Bloch",
+          "id": "4s7qI7HT1XDzotj6IYNEuJ"
+        },
+        {
+          "name": "Sol Gabetta",
+          "id": "4XvLzjMwnILZ9YnMHOVMIN"
+        }
       ],
-      "artistId": [
-        "4s7qI7HT1XDzotj6IYNEuJ",
-        "4XvLzjMwnILZ9YnMHOVMIN"
-      ],
-      "albumId": "6BA0uvfekY4KsPqo0nZWjg",
+      "album": {
+        "id": "6BA0uvfekY4KsPqo0nZWjg",
+        "name": "Prayer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd7362f6d41a435fa382120b"
+      },
       "release_date": "2014-10-17",
       "popularity": 32
     },
     {
-      "trackId": "2csTj5jVZnsfiLzwBLV8hl",
-      "name": "Sjuttonde balladen",
+      "track": {
+        "id": "2csTj5jVZnsfiLzwBLV8hl",
+        "name": "Sjuttonde balladen"
+      },
       "duration_ms": 183560,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+      "album": {
+        "id": "22jr1k8N3Iz8abiAIoe0iB",
+        "name": "Cornelis sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e32ae3048034e79c68b3ce15"
+      },
       "release_date": "1969",
       "popularity": 35
     },
     {
-      "trackId": "6FT83pFXKhDlXDsNJFAHWz",
-      "name": "You Never Can Tell",
+      "track": {
+        "id": "6FT83pFXKhDlXDsNJFAHWz",
+        "name": "You Never Can Tell"
+      },
       "duration_ms": 161906,
-      "artist": [
-        "Chuck Berry"
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "id": "293zczrfYafIItmnmM3coR"
+        }
       ],
-      "artistId": [
-        "293zczrfYafIItmnmM3coR"
-      ],
-      "albumId": "6ITR4bqkKZGyanAlQgXtyK",
+      "album": {
+        "id": "6ITR4bqkKZGyanAlQgXtyK",
+        "name": "St. Louis To Liverpool",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e226488b7af9f296c95be551"
+      },
       "release_date": "1964-11-01",
       "popularity": 70
     },
     {
-      "trackId": "2E5vl5eF4M4QbaADGegVDP",
-      "name": "The Partisan",
+      "track": {
+        "id": "2E5vl5eF4M4QbaADGegVDP",
+        "name": "The Partisan"
+      },
       "duration_ms": 205853,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "2pTyJZOTqFYn2UPP30zZNl",
+      "album": {
+        "id": "2pTyJZOTqFYn2UPP30zZNl",
+        "name": "Songs From A Room",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6d9829249efe7ddd08f1b00"
+      },
       "release_date": "1969-03-24",
       "popularity": 53
     },
     {
-      "trackId": "0uVwEbcp49xuPUdPOGLsAU",
-      "name": "Gianni Schicchi: \"O mio babbino caro\"",
+      "track": {
+        "id": "0uVwEbcp49xuPUdPOGLsAU",
+        "name": "Gianni Schicchi: \"O mio babbino caro\""
+      },
       "duration_ms": 169413,
-      "artist": [
-        "Giacomo Puccini",
-        "Renée Fleming",
-        "London Philharmonic Orchestra"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Renée Fleming",
+          "id": "3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "id": "3PfJE6ebCbCHeuqO4BfNeA"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "3SK3gLBgy1jRuA4VnLlcs8",
-        "3PfJE6ebCbCHeuqO4BfNeA"
-      ],
-      "albumId": "0p9wRVe7Tv8odsHp8sPdoJ",
+      "album": {
+        "id": "0p9wRVe7Tv8odsHp8sPdoJ",
+        "name": "Puccini: Opera Arias",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf707ebef8a06aa536ed8a41"
+      },
       "release_date": "2008-01-01",
       "popularity": 46
     },
     {
-      "trackId": "4FMI4Ln1LhyxGldkNXan5e",
-      "name": "Köln, January 24, 1975, Pt. II C - Live",
+      "track": {
+        "id": "4FMI4Ln1LhyxGldkNXan5e",
+        "name": "Köln, January 24, 1975, Pt. II C - Live"
+      },
       "duration_ms": 416840,
-      "artist": [
-        "Keith Jarrett"
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "id": "0F3Aew9DSd6fb6192K1K0Y"
+        }
       ],
-      "artistId": [
-        "0F3Aew9DSd6fb6192K1K0Y"
-      ],
-      "albumId": "0I8vpSE1bSmysN2PhmHoQg",
+      "album": {
+        "id": "0I8vpSE1bSmysN2PhmHoQg",
+        "name": "The Köln Concert",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264d8292b7825888183e4da28"
+      },
       "release_date": "1975-11-30",
       "popularity": 49
     },
     {
-      "trackId": "4FMI4Ln1LhyxGldkNXan5e",
-      "name": "Köln, January 24, 1975, Pt. II C - Live",
+      "track": {
+        "id": "4FMI4Ln1LhyxGldkNXan5e",
+        "name": "Köln, January 24, 1975, Pt. II C - Live"
+      },
       "duration_ms": 416840,
-      "artist": [
-        "Keith Jarrett"
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "id": "0F3Aew9DSd6fb6192K1K0Y"
+        }
       ],
-      "artistId": [
-        "0F3Aew9DSd6fb6192K1K0Y"
-      ],
-      "albumId": "0I8vpSE1bSmysN2PhmHoQg",
+      "album": {
+        "id": "0I8vpSE1bSmysN2PhmHoQg",
+        "name": "The Köln Concert",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264d8292b7825888183e4da28"
+      },
       "release_date": "1975-11-30",
       "popularity": 49
     }

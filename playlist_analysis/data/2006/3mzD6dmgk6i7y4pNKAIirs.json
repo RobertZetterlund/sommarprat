@@ -7,250 +7,370 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3237860_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0TLD1RLFqPmpVR5ATWdMz6",
-      "name": "Is That All There Is?",
+      "track": {
+        "id": "0TLD1RLFqPmpVR5ATWdMz6",
+        "name": "Is That All There Is?"
+      },
       "duration_ms": 262000,
-      "artist": [
-        "Peggy Lee"
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "id": "602DnpaSXJB4b9DZrvxbDc"
+        }
       ],
-      "artistId": [
-        "602DnpaSXJB4b9DZrvxbDc"
-      ],
-      "albumId": "5g3oYY3KItihWWRhwqtk07",
+      "album": {
+        "id": "5g3oYY3KItihWWRhwqtk07",
+        "name": "Is That All There Is?",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cf46721ea626ead910366a6"
+      },
       "release_date": "1969-01-01",
       "popularity": 44
     },
     {
-      "trackId": "6W0yiWS14ADfZnRzrvKX14",
-      "name": "Överbyvals",
+      "track": {
+        "id": "6W0yiWS14ADfZnRzrvKX14",
+        "name": "Överbyvals"
+      },
       "duration_ms": 226400,
-      "artist": [
-        "Carl Anton",
-        "Peter Matssons Orkester"
+      "artists": [
+        {
+          "name": "Carl Anton",
+          "id": "1cat5qANo5zS8TawCLUGAP"
+        },
+        {
+          "name": "Peter Matssons Orkester",
+          "id": "2D2wB0iUtZTBzLzwPf4KRr"
+        }
       ],
-      "artistId": [
-        "1cat5qANo5zS8TawCLUGAP",
-        "2D2wB0iUtZTBzLzwPf4KRr"
-      ],
-      "albumId": "1wNQ441mnM041tIOoh3OMi",
+      "album": {
+        "id": "1wNQ441mnM041tIOoh3OMi",
+        "name": "Carl Anton Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e022726ae52786cfae0b5859578"
+      },
       "release_date": "1997",
       "popularity": 28
     },
     {
-      "trackId": "56XRWdLKEHY8oqP7pEAe3G",
-      "name": "Aida / Act 1: Celeste Aida",
+      "track": {
+        "id": "56XRWdLKEHY8oqP7pEAe3G",
+        "name": "Aida / Act 1: Celeste Aida"
+      },
       "duration_ms": 207400,
-      "artist": [
-        "Giuseppe Verdi",
-        "Roberto Alagna",
-        "Claudio Abbado"
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "id": "1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Roberto Alagna",
+          "id": "2AyySZZK01JT6ZSYZ2CWgf"
+        },
+        {
+          "name": "Claudio Abbado",
+          "id": "6HclTVD03WSY6GUpN16BkP"
+        }
       ],
-      "artistId": [
-        "1JOQXgYdQV2yfrhewqx96o",
-        "2AyySZZK01JT6ZSYZ2CWgf",
-        "6HclTVD03WSY6GUpN16BkP"
-      ],
-      "albumId": "6cwHOkPnjdu4Jxu3VeVtKF",
+      "album": {
+        "id": "6cwHOkPnjdu4Jxu3VeVtKF",
+        "name": "Claudio Abbado - Legendary Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205a3adb4ca4f9ddb9cd870ac"
+      },
       "release_date": "2022-06-01",
       "popularity": 1
     },
     {
-      "trackId": "3x6KyIGq8DxESh3cYIZxfF",
-      "name": "Med Ögon Känsliga För Grönt",
+      "track": {
+        "id": "3x6KyIGq8DxESh3cYIZxfF",
+        "name": "Med Ögon Känsliga För Grönt"
+      },
       "duration_ms": 255800,
-      "artist": [
-        "Gunilla Backman"
+      "artists": [
+        {
+          "name": "Gunilla Backman",
+          "id": "6zo2bHN4q6GOIwdWENy8kH"
+        }
       ],
-      "artistId": [
-        "6zo2bHN4q6GOIwdWENy8kH"
-      ],
-      "albumId": "1hfLx0PKkNWnGruEpXQDbZ",
+      "album": {
+        "id": "1hfLx0PKkNWnGruEpXQDbZ",
+        "name": "Nära mig",
+        "img": "https://i.scdn.co/image/ab67616d00001e0262b1b05ef8ce9f7e8614cf51"
+      },
       "release_date": "2006-10-18",
       "popularity": 1
     },
     {
-      "trackId": "0wJRSqwnP2vx02j0XBznwJ",
-      "name": "Can Anyone Explain - 2002 Remastered Version",
+      "track": {
+        "id": "0wJRSqwnP2vx02j0XBznwJ",
+        "name": "Can Anyone Explain - 2002 Remastered Version"
+      },
       "duration_ms": 188653,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "3JkaJFyUrxToI7aIpBizYi",
+      "album": {
+        "id": "3JkaJFyUrxToI7aIpBizYi",
+        "name": "Mr Paganini",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204221180c2cf5585ccfedc88"
+      },
       "release_date": "2002-11-04",
       "popularity": 20
     },
     {
-      "trackId": "51Sf4BKVEpdVoVmNuhM9nG",
-      "name": "Symphony No. 2 In C Minor - \"Resurrection\" / 1st Movement - Allegro maestoso (Totenfeier): Ausdrucksvoll (English horn & bass clarinet)",
+      "track": {
+        "id": "51Sf4BKVEpdVoVmNuhM9nG",
+        "name": "Symphony No. 2 In C Minor - \"Resurrection\" / 1st Movement - Allegro maestoso (Totenfeier): Ausdrucksvoll (English horn & bass clarinet)"
+      },
       "duration_ms": 137933,
-      "artist": [
-        "Gustav Mahler",
-        "Wiener Philharmoniker",
-        "Gilbert Kaplan"
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "id": "2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Gilbert Kaplan",
+          "id": "5HAqwGXbWhRcjOqDvq2cHB"
+        }
       ],
-      "artistId": [
-        "2ANtgfhQkKpsW6EYSDqldz",
-        "003f4bk13c6Q3gAUXv7dGJ",
-        "5HAqwGXbWhRcjOqDvq2cHB"
-      ],
-      "albumId": "7gT4IDM5LLU3z9uU2tcbB6",
+      "album": {
+        "id": "7gT4IDM5LLU3z9uU2tcbB6",
+        "name": "Mahler: Symphony No. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d922833c60e1cf19f13d12b8"
+      },
       "release_date": "2003-01-01",
       "popularity": 27
     },
     {
-      "trackId": "23UbRcbWIsgqDDAExRJqS1",
-      "name": "Mack The Knife",
+      "track": {
+        "id": "23UbRcbWIsgqDDAExRJqS1",
+        "name": "Mack The Knife"
+      },
       "duration_ms": 292240,
-      "artist": [
-        "Frank Sinatra",
-        "Quincy Jones"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "3rxIQc9kWT6Ueg4BhnOwRK"
-      ],
-      "albumId": "4zvku3SSgsUaVRsvcCZ1aU",
+      "album": {
+        "id": "4zvku3SSgsUaVRsvcCZ1aU",
+        "name": "L.A. Is My Lady",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5f9d048d29057ea7b872ea3"
+      },
       "release_date": "1984-01-01",
       "popularity": 38
     },
     {
-      "trackId": "62gZY6joWPt97hbsbIdd4t",
-      "name": "Att angöra en brygga",
+      "track": {
+        "id": "62gZY6joWPt97hbsbIdd4t",
+        "name": "Att angöra en brygga"
+      },
       "duration_ms": 153826,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 46
     },
     {
-      "trackId": "1RwQZNgaXl01krZHuSUlE8",
-      "name": "BUBBEL PÅ BALKONGEN",
+      "track": {
+        "id": "1RwQZNgaXl01krZHuSUlE8",
+        "name": "BUBBEL PÅ BALKONGEN"
+      },
       "duration_ms": 166062,
-      "artist": [
-        "Elov & Beny",
-        "Sofie Svensson & Dom Där"
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "id": "4uAXlCewJdAu44uAHehKfd"
+        },
+        {
+          "name": "Sofie Svensson & Dom Där",
+          "id": "7LBwVPl8kIn3I949KmBVim"
+        }
       ],
-      "artistId": [
-        "4uAXlCewJdAu44uAHehKfd",
-        "7LBwVPl8kIn3I949KmBVim"
-      ],
-      "albumId": "09dL2m4Jx62jwDYqGhtCcn",
+      "album": {
+        "id": "09dL2m4Jx62jwDYqGhtCcn",
+        "name": "BUBBEL PÅ BALKONGEN",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220484fd4484c5952603bea75"
+      },
       "release_date": "2022-06-24",
       "popularity": 74
     },
     {
-      "trackId": "21P3jLXHYAzbb0v06CVYZS",
-      "name": "Mazurka Op.7 No.5",
+      "track": {
+        "id": "21P3jLXHYAzbb0v06CVYZS",
+        "name": "Mazurka Op.7 No.5"
+      },
       "duration_ms": 31479,
-      "artist": [
-        "Spring Music"
+      "artists": [
+        {
+          "name": "Spring Music",
+          "id": "3PfBKTz6rYAjxFT8GNBS9t"
+        }
       ],
-      "artistId": [
-        "3PfBKTz6rYAjxFT8GNBS9t"
-      ],
-      "albumId": "5c1vxqgS9OSM6xWYcq2ic6",
+      "album": {
+        "id": "5c1vxqgS9OSM6xWYcq2ic6",
+        "name": "Frédéric Chopin - selected piano music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3e6f4e1ac63a5512cdb7ef2"
+      },
       "release_date": "2019-02-27",
       "popularity": 34
     },
     {
-      "trackId": "29FNeqjOV2kPWGS55qhtGB",
-      "name": "Money, Money, Money",
+      "track": {
+        "id": "29FNeqjOV2kPWGS55qhtGB",
+        "name": "Money, Money, Money"
+      },
       "duration_ms": 186786,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "2cKZfaz7GiGtZEeQNj1RyR",
+      "album": {
+        "id": "2cKZfaz7GiGtZEeQNj1RyR",
+        "name": "ABBA Gold",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312"
+      },
       "release_date": "2008-01-01",
       "popularity": 64
     },
     {
-      "trackId": "6e38HvOxLS1j0TCAhGFz2Z",
-      "name": "My Heart Belongs to Daddy",
+      "track": {
+        "id": "6e38HvOxLS1j0TCAhGFz2Z",
+        "name": "My Heart Belongs to Daddy"
+      },
       "duration_ms": 301413,
-      "artist": [
-        "Marilyn Monroe"
+      "artists": [
+        {
+          "name": "Marilyn Monroe",
+          "id": "5sEocv1pFst7o3pam69obY"
+        }
       ],
-      "artistId": [
-        "5sEocv1pFst7o3pam69obY"
-      ],
-      "albumId": "0SH5DsuoVpQfEULF6NGFsa",
+      "album": {
+        "id": "0SH5DsuoVpQfEULF6NGFsa",
+        "name": "Deluxe: I Wanna Be Loved By You",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272a1758bf61d01647446d6e6"
+      },
       "release_date": "2012-09-03",
       "popularity": 33
     },
     {
-      "trackId": "6OuRbvP4PgbuzBIapVzmFJ",
-      "name": "Sailing",
+      "track": {
+        "id": "6OuRbvP4PgbuzBIapVzmFJ",
+        "name": "Sailing"
+      },
       "duration_ms": 277960,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+      "album": {
+        "id": "7vV3q5jE7DSuKsnHr7OmmN",
+        "name": "Atlantic Crossing",
+        "img": "https://i.scdn.co/image/ab67616d00001e029199bdfc160aa8d63a57040a"
+      },
       "release_date": "1975",
       "popularity": 67
     },
     {
-      "trackId": "1elo48azWVdMM3yadyDJlA",
-      "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro",
+      "track": {
+        "id": "1elo48azWVdMM3yadyDJlA",
+        "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": I. Allegro"
+      },
       "duration_ms": 367800,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Swedish Chamber Orchestra",
-        "Petter Sundkvist"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "id": "1mlMBjVFn5oeZLAXHIM5no"
+        },
+        {
+          "name": "Petter Sundkvist",
+          "id": "1E5aqmylA3ARaM1xRh9ndg"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "1mlMBjVFn5oeZLAXHIM5no",
-        "1E5aqmylA3ARaM1xRh9ndg"
-      ],
-      "albumId": "5Z5KuSEf2kwvokOejRaQ8I",
+      "album": {
+        "id": "5Z5KuSEf2kwvokOejRaQ8I",
+        "name": "Mozart: Serenades No. 6 and 13, 'Eine Kleine Nachtmusik' / Divertimento No. 10",
+        "img": "https://i.scdn.co/image/ab67616d00001e0218549c9b190916eb7cb33d1c"
+      },
       "release_date": "2006-01-17",
       "popularity": 38
     },
     {
-      "trackId": "1vBV8g43wck8Vd3AHpudB5",
-      "name": "You Still Believe In Me",
+      "track": {
+        "id": "1vBV8g43wck8Vd3AHpudB5",
+        "name": "You Still Believe In Me"
+      },
       "duration_ms": 186666,
-      "artist": [
-        "Anne Sofie von Otter",
-        "Elvis Costello",
-        "Steve Nieve"
+      "artists": [
+        {
+          "name": "Anne Sofie von Otter",
+          "id": "4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Elvis Costello",
+          "id": "2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Steve Nieve",
+          "id": "2b99MsfdhmMze4rADKlONq"
+        }
       ],
-      "artistId": [
-        "4pFlv4QVInj7bAo0MqHpwW",
-        "2BGRfQgtzikz1pzAD0kaEn",
-        "2b99MsfdhmMze4rADKlONq"
-      ],
-      "albumId": "0fUffGylGjIiZQ3FOVzeqK",
+      "album": {
+        "id": "0fUffGylGjIiZQ3FOVzeqK",
+        "name": "For The Stars",
+        "img": "https://i.scdn.co/image/ab67616d00001e02228a3db248dbd065f3c5a60c"
+      },
       "release_date": "2001-01-01",
       "popularity": 15
     },
     {
-      "trackId": "5m3XMzewNg9EADweC7j7Nn",
-      "name": "Embraceable You",
+      "track": {
+        "id": "5m3XMzewNg9EADweC7j7Nn",
+        "name": "Embraceable You"
+      },
       "duration_ms": 291173,
-      "artist": [
-        "Sarah Vaughan",
-        "Clifford Brown"
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "id": "1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "id": "1HJHwWck1EY096ea2iPAHO"
+        }
       ],
-      "artistId": [
-        "1bgyxtWjZwA5PQlDsvs9b8",
-        "1HJHwWck1EY096ea2iPAHO"
-      ],
-      "albumId": "7wX89EWCK8cNZeGnBS5bMG",
+      "album": {
+        "id": "7wX89EWCK8cNZeGnBS5bMG",
+        "name": "Sarah Vaughan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3a41184ba752731d19d8ef0"
+      },
       "release_date": "1954-12-01",
       "popularity": 52
     }

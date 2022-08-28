@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860865_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2V4Bc2I962j7acQj1N0PiQ",
-      "name": "Celebrity Skin",
+      "track": {
+        "id": "2V4Bc2I962j7acQj1N0PiQ",
+        "name": "Celebrity Skin"
+      },
       "duration_ms": 162666,
-      "artist": [
-        "Hole"
+      "artists": [
+        {
+          "name": "Hole",
+          "id": "5SHQUMAmEK5KmuSb0aDvsn"
+        }
       ],
-      "artistId": [
-        "5SHQUMAmEK5KmuSb0aDvsn"
-      ],
-      "albumId": "2KE8WCHtD8qnAxXeIzNEId",
+      "album": {
+        "id": "2KE8WCHtD8qnAxXeIzNEId",
+        "name": "Celebrity Skin",
+        "img": "https://i.scdn.co/image/ab67616d00001e020649124c37ce988317263671"
+      },
       "release_date": "1998-01-01",
       "popularity": 68
     },
     {
-      "trackId": "0uEp9E98JB5awlA084uaIg",
-      "name": "Doo Wop (That Thing)",
+      "track": {
+        "id": "0uEp9E98JB5awlA084uaIg",
+        "name": "Doo Wop (That Thing)"
+      },
       "duration_ms": 320266,
-      "artist": [
-        "Ms. Lauryn Hill"
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        }
       ],
-      "artistId": [
-        "2Mu5NfyYm8n5iTomuKAEHl"
-      ],
-      "albumId": "1BZoqf8Zje5nGdwZhOjAtD",
+      "album": {
+        "id": "1BZoqf8Zje5nGdwZhOjAtD",
+        "name": "The Miseducation of Lauryn Hill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e08b1250db5f75643f1508c9"
+      },
       "release_date": "1998-08-25",
       "popularity": 73
     },
     {
-      "trackId": "1xuPsqp5mdZnmODKjeWJEh",
-      "name": "Bang And Blame - Remastered",
+      "track": {
+        "id": "1xuPsqp5mdZnmODKjeWJEh",
+        "name": "Bang And Blame - Remastered"
+      },
       "duration_ms": 327506,
-      "artist": [
-        "R.E.M."
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "id": "4KWTAlx2RvbpseOGMEmROg"
+        }
       ],
-      "artistId": [
-        "4KWTAlx2RvbpseOGMEmROg"
-      ],
-      "albumId": "2Q6XCez8NWMKNKYMsm54DK",
+      "album": {
+        "id": "2Q6XCez8NWMKNKYMsm54DK",
+        "name": "Monster (25th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee83254432bbea156d10763f"
+      },
       "release_date": "1994-09-27",
       "popularity": 48
     },
     {
-      "trackId": "4tVCq6a7xxewC5icyFduXI",
-      "name": "Alphabet Street - Live from One Nite Alone Tour...The Aftershow",
+      "track": {
+        "id": "4tVCq6a7xxewC5icyFduXI",
+        "name": "Alphabet Street - Live from One Nite Alone Tour...The Aftershow"
+      },
       "duration_ms": 175040,
-      "artist": [
-        "Prince",
-        "The New Power Generation"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "id": "1xtGjxE9c1YmEmFPCH6Izp"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j",
-        "1xtGjxE9c1YmEmFPCH6Izp"
-      ],
-      "albumId": "4cnxxYwMvBQN4LGEq2nKVq",
+      "album": {
+        "id": "4cnxxYwMvBQN4LGEq2nKVq",
+        "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c02ced489483042f820ad4b0"
+      },
       "release_date": "2002-12-17",
       "popularity": 23
     },
     {
-      "trackId": "5Ivvwqr3PZFhw3VG7CpTGp",
-      "name": "Min tanke är fri",
+      "track": {
+        "id": "5Ivvwqr3PZFhw3VG7CpTGp",
+        "name": "Min tanke är fri"
+      },
       "duration_ms": 184266,
-      "artist": [
-        "Stefan Sundström"
+      "artists": [
+        {
+          "name": "Stefan Sundström",
+          "id": "0NsAbGr86qKQMaXTuWwVKj"
+        }
       ],
-      "artistId": [
-        "0NsAbGr86qKQMaXTuWwVKj"
-      ],
-      "albumId": "0wtDBZEFluo815L5ammyNn",
+      "album": {
+        "id": "0wtDBZEFluo815L5ammyNn",
+        "name": "Den Flygande Holländaren",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8282874301b3aafca4590b9"
+      },
       "release_date": "2007-12-05",
       "popularity": 11
     },
     {
-      "trackId": "2Xg1jewTdorDPXO8EUPXSS",
-      "name": "All This Useless Beauty",
+      "track": {
+        "id": "2Xg1jewTdorDPXO8EUPXSS",
+        "name": "All This Useless Beauty"
+      },
       "duration_ms": 277973,
-      "artist": [
-        "Elvis Costello & The Attractions"
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "id": "4qmHkMxr6pTWh5Zo74odpH"
+        }
       ],
-      "artistId": [
-        "4qmHkMxr6pTWh5Zo74odpH"
-      ],
-      "albumId": "4jmwlMQCPd1QL7zt7cYKnt",
+      "album": {
+        "id": "4jmwlMQCPd1QL7zt7cYKnt",
+        "name": "All This Useless Beauty",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2071416232184d914f3ff06"
+      },
       "release_date": "1996-05-14",
       "popularity": 22
     },
     {
-      "trackId": "0LZ90308GB1Tp05STjabeC",
-      "name": "Gravé dans la roche",
+      "track": {
+        "id": "0LZ90308GB1Tp05STjabeC",
+        "name": "Gravé dans la roche"
+      },
       "duration_ms": 285893,
-      "artist": [
-        "SNIPER"
+      "artists": [
+        {
+          "name": "SNIPER",
+          "id": "1nTVNdaDAzXB1AbP30cGk6"
+        }
       ],
-      "artistId": [
-        "1nTVNdaDAzXB1AbP30cGk6"
-      ],
-      "albumId": "6chD9SocKyshylTuhbKV2O",
+      "album": {
+        "id": "6chD9SocKyshylTuhbKV2O",
+        "name": "Gravé dans la roche",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c20c2d775a423e281cb66f47"
+      },
       "release_date": "2003-05-19",
       "popularity": 57
     },
     {
-      "trackId": "2JwbDJhFqCNJMYkEilvZnB",
-      "name": "Kors i jösse namn",
+      "track": {
+        "id": "2JwbDJhFqCNJMYkEilvZnB",
+        "name": "Kors i jösse namn"
+      },
       "duration_ms": 127335,
-      "artist": [
-        "Jigs"
+      "artists": [
+        {
+          "name": "Jigs",
+          "id": "4KJo5EDf7XXEmUCE0ALeHs"
+        }
       ],
-      "artistId": [
-        "4KJo5EDf7XXEmUCE0ALeHs"
-      ],
-      "albumId": "6rrrH34mEe5y0XCnk5H4e1",
+      "album": {
+        "id": "6rrrH34mEe5y0XCnk5H4e1",
+        "name": "Goa bitar 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bb5682bc925530c584b4057b"
+      },
       "release_date": "1974",
       "popularity": 20
     },
     {
-      "trackId": "0QdSaA288xAm07GNHoB68f",
-      "name": "The One You Love",
+      "track": {
+        "id": "0QdSaA288xAm07GNHoB68f",
+        "name": "The One You Love"
+      },
       "duration_ms": 222640,
-      "artist": [
-        "Rufus Wainwright"
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "id": "2PfBzriIMRsCXPDtSy9vg8"
+        }
       ],
-      "artistId": [
-        "2PfBzriIMRsCXPDtSy9vg8"
-      ],
-      "albumId": "1ljqYrQ1kKw40mrQmYOa1m",
+      "album": {
+        "id": "1ljqYrQ1kKw40mrQmYOa1m",
+        "name": "Want Two",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a686fdb4555cf1ab88a6fb98"
+      },
       "release_date": "2004-01-01",
       "popularity": 32
     },
     {
-      "trackId": "78k57V2uo6Sm72j1H7Ih14",
-      "name": "Puccini: Gianni Schicchi, Act 1: \"O mio babbino caro\" (Lauretta)",
+      "track": {
+        "id": "78k57V2uo6Sm72j1H7Ih14",
+        "name": "Puccini: Gianni Schicchi, Act 1: \"O mio babbino caro\" (Lauretta)"
+      },
       "duration_ms": 154506,
-      "artist": [
-        "Giacomo Puccini",
-        "Maria Callas",
-        "Tullio Serafin"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "id": "0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "id": "3UYZxxxrntUxxEeRycqHvq"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "0bjdfjE8XbLa2Odstu6E1E",
-        "3UYZxxxrntUxxEeRycqHvq"
-      ],
-      "albumId": "7l9aRLHFrTictdjkTbtpQs",
+      "album": {
+        "id": "7l9aRLHFrTictdjkTbtpQs",
+        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
+        "img": "https://i.scdn.co/image/ab67616d00001e026438a3e57f5b7bbc52a7da67"
+      },
       "release_date": "1954",
       "popularity": 45
     },
     {
-      "trackId": "1Ud6moTC0KyXMq1Oxfien0",
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "track": {
+        "id": "1Ud6moTC0KyXMq1Oxfien0",
+        "name": "Sympathy For The Devil - 50th Anniversary Edition"
+      },
       "duration_ms": 378146,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "6OHri5qNxwCdVSdyCslspd",
+      "album": {
+        "id": "6OHri5qNxwCdVSdyCslspd",
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244934a06d21864415376f5f2"
+      },
       "release_date": "1968-12-06",
       "popularity": 74
     },
     {
-      "trackId": "2qc6AnYaS5KcqnWsQauwNq",
-      "name": "Femmina Alfa",
+      "track": {
+        "id": "2qc6AnYaS5KcqnWsQauwNq",
+        "name": "Femmina Alfa"
+      },
       "duration_ms": 168228,
-      "artist": [
-        "Baby K"
+      "artists": [
+        {
+          "name": "Baby K",
+          "id": "725KKhVCSCQbYkZBptBTfg"
+        }
       ],
-      "artistId": [
-        "725KKhVCSCQbYkZBptBTfg"
-      ],
-      "albumId": "4chkHtLL1t6T7cXirROQPr",
+      "album": {
+        "id": "4chkHtLL1t6T7cXirROQPr",
+        "name": "Femmina Alfa - EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e1c50f6340655c56bb7ae7c"
+      },
       "release_date": "2011-10-05",
       "popularity": 26
     },
     {
-      "trackId": "0HfLmJBqjYOncYS6MigJUh",
-      "name": "It's Been Hurting All The Way With You Joanna",
+      "track": {
+        "id": "0HfLmJBqjYOncYS6MigJUh",
+        "name": "It's Been Hurting All The Way With You Joanna"
+      },
       "duration_ms": 264640,
-      "artist": [
-        "Moneybrother"
+      "artists": [
+        {
+          "name": "Moneybrother",
+          "id": "6O6kWwVAL4xK4G8SBcsNJR"
+        }
       ],
-      "artistId": [
-        "6O6kWwVAL4xK4G8SBcsNJR"
-      ],
-      "albumId": "5Gj0wTwgin1rkrlsbQltCZ",
+      "album": {
+        "id": "5Gj0wTwgin1rkrlsbQltCZ",
+        "name": "Blood Panic",
+        "img": "https://i.scdn.co/image/ab67616d00001e024adac6e9b87fbf825ac37083"
+      },
       "release_date": "2003-05-09",
       "popularity": 34
     }

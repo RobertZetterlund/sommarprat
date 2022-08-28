@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c5c50edf-f59e-47e3-93f8-8f51762da3ac.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4rJCdl8LwL81XARLH0veVH",
-      "name": "C'Mon Everybody",
+      "track": {
+        "id": "4rJCdl8LwL81XARLH0veVH",
+        "name": "C'Mon Everybody"
+      },
       "duration_ms": 115000,
-      "artist": [
-        "Sex Pistols"
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "id": "1u7kkVrr14iBvrpYnZILJR"
+        }
       ],
-      "artistId": [
-        "1u7kkVrr14iBvrpYnZILJR"
-      ],
-      "albumId": "31saU8yDo1EVbvEBgScfOD",
+      "album": {
+        "id": "31saU8yDo1EVbvEBgScfOD",
+        "name": "The Great Rock 'N' Roll Swindle",
+        "img": "https://i.scdn.co/image/ab67616d00001e024cd46b77a0b802fb173ae3a2"
+      },
       "release_date": "1979-02-26",
       "popularity": 30
     },
     {
-      "trackId": "3fElupNRLRJ0tbUDahPrAb",
-      "name": "I'm Waiting For The Man",
+      "track": {
+        "id": "3fElupNRLRJ0tbUDahPrAb",
+        "name": "I'm Waiting For The Man"
+      },
       "duration_ms": 279520,
-      "artist": [
-        "The Velvet Underground",
-        "Nico"
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "id": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "id": "0IwlY33zbBXN7zlS9DP2Cj"
+        }
       ],
-      "artistId": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "0IwlY33zbBXN7zlS9DP2Cj"
-      ],
-      "albumId": "4xwx0x7k6c5VuThz5qVqmV",
+      "album": {
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7"
+      },
       "release_date": "1967-03-12",
       "popularity": 56
     },
     {
-      "trackId": "6p0aaeKpvFZGNGaGj6IT35",
-      "name": "Plan B",
+      "track": {
+        "id": "6p0aaeKpvFZGNGaGj6IT35",
+        "name": "Plan B"
+      },
       "duration_ms": 307533,
-      "artist": [
-        "Dexys Midnight Runners"
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "id": "4QTVePrFu1xuGM9K0kNXkk"
+        }
       ],
-      "artistId": [
-        "4QTVePrFu1xuGM9K0kNXkk"
-      ],
-      "albumId": "7nCWzcMZanUBPZgZaKpzM6",
+      "album": {
+        "id": "7nCWzcMZanUBPZgZaKpzM6",
+        "name": "Too Rye Ay",
+        "img": "https://i.scdn.co/image/ab67616d00001e028bd8adbdc4727d9080240905"
+      },
       "release_date": "1982-07-22",
       "popularity": 25
     },
     {
-      "trackId": "6y4FVJwf09ssxuRnlEgXkp",
-      "name": "Let's Stick Together",
+      "track": {
+        "id": "6y4FVJwf09ssxuRnlEgXkp",
+        "name": "Let's Stick Together"
+      },
       "duration_ms": 179160,
-      "artist": [
-        "Bryan Ferry"
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "id": "5RNFFojXkPRmlJZIwXeKQC"
+        }
       ],
-      "artistId": [
-        "5RNFFojXkPRmlJZIwXeKQC"
-      ],
-      "albumId": "7q7RBiiadKQR4DCbs7OMbd",
+      "album": {
+        "id": "7q7RBiiadKQR4DCbs7OMbd",
+        "name": "Let's Stick Together",
+        "img": "https://i.scdn.co/image/ab67616d00001e028924d0252e61e6f1f68808a5"
+      },
       "release_date": "1976",
       "popularity": 63
     },
     {
-      "trackId": "2HEgBBls7l0smWTxPx0MtZ",
-      "name": "These Boots Are Made for Walkin'",
+      "track": {
+        "id": "2HEgBBls7l0smWTxPx0MtZ",
+        "name": "These Boots Are Made for Walkin'"
+      },
       "duration_ms": 166133,
-      "artist": [
-        "Nancy Sinatra"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2"
-      ],
-      "albumId": "1J3CtRxcG9Tkuw2xQ59NEk",
+      "album": {
+        "id": "1J3CtRxcG9Tkuw2xQ59NEk",
+        "name": "Start Walkin' 1965-1976",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adb57932715c7824dc4df04e"
+      },
       "release_date": "2021-02-05",
       "popularity": 65
     },
     {
-      "trackId": "34UnzNK51PfiYFrEgc9lrD",
-      "name": "Victoria - Mono Mix",
+      "track": {
+        "id": "34UnzNK51PfiYFrEgc9lrD",
+        "name": "Victoria - Mono Mix"
+      },
       "duration_ms": 220053,
-      "artist": [
-        "The Kinks"
+      "artists": [
+        {
+          "name": "The Kinks",
+          "id": "1SQRv42e4PjEYfPhS0Tk9E"
+        }
       ],
-      "artistId": [
-        "1SQRv42e4PjEYfPhS0Tk9E"
-      ],
-      "albumId": "4bEv1K9Lg99M0hip5B04i6",
+      "album": {
+        "id": "4bEv1K9Lg99M0hip5B04i6",
+        "name": "Arthur (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7624fdf7fd6d366e00f42a1"
+      },
       "release_date": "1969-10-10",
       "popularity": 49
     },
     {
-      "trackId": "4zJBF8rXepeoJ0qJOqMLhj",
-      "name": "The Kids Are Alright",
+      "track": {
+        "id": "4zJBF8rXepeoJ0qJOqMLhj",
+        "name": "The Kids Are Alright"
+      },
       "duration_ms": 187733,
-      "artist": [
-        "The Who"
+      "artists": [
+        {
+          "name": "The Who",
+          "id": "67ea9eGLXYMsO2eYQRui3w"
+        }
       ],
-      "artistId": [
-        "67ea9eGLXYMsO2eYQRui3w"
-      ],
-      "albumId": "0ooEHMMu3yiwnFwNYHcqwX",
+      "album": {
+        "id": "0ooEHMMu3yiwnFwNYHcqwX",
+        "name": "My Generation (50th Anniversary / Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4bce589ca107c9ca77cd3d6"
+      },
       "release_date": "1965-12-03",
       "popularity": 42
     },
     {
-      "trackId": "6vTtCOimcPs5H1Jr9d0Aep",
-      "name": "Sour Times",
+      "track": {
+        "id": "6vTtCOimcPs5H1Jr9d0Aep",
+        "name": "Sour Times"
+      },
       "duration_ms": 252266,
-      "artist": [
-        "Portishead"
+      "artists": [
+        {
+          "name": "Portishead",
+          "id": "6liAMWkVf5LH7YR9yfFy1Y"
+        }
       ],
-      "artistId": [
-        "6liAMWkVf5LH7YR9yfFy1Y"
-      ],
-      "albumId": "3539EbNgIdEDGBKkUf4wno",
+      "album": {
+        "id": "3539EbNgIdEDGBKkUf4wno",
+        "name": "Dummy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc20397b139223620af148f6"
+      },
       "release_date": "1994-01-01",
       "popularity": 61
     },
     {
-      "trackId": "34AOG3lfnW4iztB03dwB81",
-      "name": "Problem Is",
+      "track": {
+        "id": "34AOG3lfnW4iztB03dwB81",
+        "name": "Problem Is"
+      },
       "duration_ms": 226000,
-      "artist": [
-        "Dub Pistols",
-        "Terry Hall"
+      "artists": [
+        {
+          "name": "Dub Pistols",
+          "id": "4LYX3rRdXV2l99wR5YPFoK"
+        },
+        {
+          "name": "Terry Hall",
+          "id": "0b5EqFBUKekB0M1YRlmwUo"
+        }
       ],
-      "artistId": [
-        "4LYX3rRdXV2l99wR5YPFoK",
-        "0b5EqFBUKekB0M1YRlmwUo"
-      ],
-      "albumId": "2gIUkyOi4vnXUn1VtED3W3",
+      "album": {
+        "id": "2gIUkyOi4vnXUn1VtED3W3",
+        "name": "Problem Is",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3ec090bdda7e8ba43d9fead"
+      },
       "release_date": "2003-10-06",
       "popularity": 3
     },
     {
-      "trackId": "4iyHsFZsLECwTIdsF39Dkn",
-      "name": "Johnsburg, Illinois",
+      "track": {
+        "id": "4iyHsFZsLECwTIdsF39Dkn",
+        "name": "Johnsburg, Illinois"
+      },
       "duration_ms": 93493,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "51hrKjSvIX69tl1g13R0hI",
+      "album": {
+        "id": "51hrKjSvIX69tl1g13R0hI",
+        "name": "Swordfishtrombones",
+        "img": "https://i.scdn.co/image/ab67616d00001e021552f4ed62163510b2d6f685"
+      },
       "release_date": "1983-09-01",
       "popularity": 33
     },
     {
-      "trackId": "5YSI1311X8t31PBjkBG4CZ",
-      "name": "Wuthering Heights",
+      "track": {
+        "id": "5YSI1311X8t31PBjkBG4CZ",
+        "name": "Wuthering Heights"
+      },
       "duration_ms": 269066,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "5NKTuBLCYhN0OwqFiGdXd1",
+      "album": {
+        "id": "5NKTuBLCYhN0OwqFiGdXd1",
+        "name": "The Kick Inside",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230da683c0c018535adbaf0e5"
+      },
       "release_date": "1978-02-17",
       "popularity": 72
     },
     {
-      "trackId": "1QjmzcCodDDi6HaCHLw8pR",
-      "name": "Enjoy Yourself (It's Later Than You Think)",
+      "track": {
+        "id": "1QjmzcCodDDi6HaCHLw8pR",
+        "name": "Enjoy Yourself (It's Later Than You Think)"
+      },
       "duration_ms": 199626,
-      "artist": [
-        "Guy Lombardo & His Royal Canadians",
-        "Kenny Gardner"
+      "artists": [
+        {
+          "name": "Guy Lombardo & His Royal Canadians",
+          "id": "5fJ4w85NxFXyWlPU9wH6BE"
+        },
+        {
+          "name": "Kenny Gardner",
+          "id": "04XeQaM8JE2DG1zJnzjw7i"
+        }
       ],
-      "artistId": [
-        "5fJ4w85NxFXyWlPU9wH6BE",
-        "04XeQaM8JE2DG1zJnzjw7i"
-      ],
-      "albumId": "4IM0ksRYPrQyeN6G3mHjkw",
+      "album": {
+        "id": "4IM0ksRYPrQyeN6G3mHjkw",
+        "name": "Get Out Those Old Records",
+        "img": "https://i.scdn.co/image/ab67616d00001e029467f6b2bb757816fa86fff9"
+      },
       "release_date": "2002",
       "popularity": 0
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

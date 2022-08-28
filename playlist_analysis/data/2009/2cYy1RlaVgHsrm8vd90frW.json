@@ -7,260 +7,374 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249664_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6TYFcqqQVQPb3YsgfRhvqs",
-      "name": "Tamally Maak",
+      "track": {
+        "id": "6TYFcqqQVQPb3YsgfRhvqs",
+        "name": "Tamally Maak"
+      },
       "duration_ms": 269232,
-      "artist": [
-        "Amr Diab"
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "id": "5abSRg0xN1NV3gLbuvX24M"
+        }
       ],
-      "artistId": [
-        "5abSRg0xN1NV3gLbuvX24M"
-      ],
-      "albumId": "1qmAaW25CPUyam9Wrp9ZEu",
+      "album": {
+        "id": "1qmAaW25CPUyam9Wrp9ZEu",
+        "name": "Tamally Maak",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a37edda69e67266f05a9753"
+      },
       "release_date": "2000-01-01",
       "popularity": 58
     },
     {
-      "trackId": "7yuF2FK7adgzGiIfEpR7Km",
-      "name": "Yeke Yeke",
+      "track": {
+        "id": "7yuF2FK7adgzGiIfEpR7Km",
+        "name": "Yeke Yeke"
+      },
       "duration_ms": 238253,
-      "artist": [
-        "Mory Kanté"
+      "artists": [
+        {
+          "name": "Mory Kanté",
+          "id": "0roLSs1WqlurDniSZ1pttN"
+        }
       ],
-      "artistId": [
-        "0roLSs1WqlurDniSZ1pttN"
-      ],
-      "albumId": "7gWws7q8OQDc8t5R4IXIx3",
+      "album": {
+        "id": "7gWws7q8OQDc8t5R4IXIx3",
+        "name": "Akwaba Beach",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d041183e638a291fb2b29b3f"
+      },
       "release_date": "1987-01-01",
       "popularity": 50
     },
     {
-      "trackId": "15xj7p5uDk9sDnNbQtgZ8Y",
-      "name": "Dudu",
+      "track": {
+        "id": "15xj7p5uDk9sDnNbQtgZ8Y",
+        "name": "Dudu"
+      },
       "duration_ms": 277916,
-      "artist": [
-        "Tarkan"
+      "artists": [
+        {
+          "name": "Tarkan",
+          "id": "2yMN0IP20GOaN6q0p0zL5k"
+        }
       ],
-      "artistId": [
-        "2yMN0IP20GOaN6q0p0zL5k"
-      ],
-      "albumId": "7iAF2p1sEHQ6ixJHRdiTXn",
+      "album": {
+        "id": "7iAF2p1sEHQ6ixJHRdiTXn",
+        "name": "Dudu",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e9767ffdb710d4d134990d4"
+      },
       "release_date": "2003-06-20",
       "popularity": 61
     },
     {
-      "trackId": "062BaogLOnVgqCikR5e8aD",
-      "name": "Secret Love",
+      "track": {
+        "id": "062BaogLOnVgqCikR5e8aD",
+        "name": "Secret Love"
+      },
       "duration_ms": 226826,
-      "artist": [
-        "Nicos",
-        "Giorgos Stavrianos"
+      "artists": [
+        {
+          "name": "Nicos",
+          "id": "6wmVsn3wWsfI1hD8hfjyyw"
+        },
+        {
+          "name": "Giorgos Stavrianos",
+          "id": "4jz2sPqjc7xD0IXdOimTqp"
+        }
       ],
-      "artistId": [
-        "6wmVsn3wWsfI1hD8hfjyyw",
-        "4jz2sPqjc7xD0IXdOimTqp"
-      ],
-      "albumId": "0M0kRsrG4LH41Qog5HeCeP",
+      "album": {
+        "id": "0M0kRsrG4LH41Qog5HeCeP",
+        "name": "Mediterraneo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9856b83c61fa7072684a60c"
+      },
       "release_date": "2001",
       "popularity": 40
     },
     {
-      "trackId": "28L2HrS3sAvNvMBWQwcPQT",
-      "name": "Pobre Diabla",
+      "track": {
+        "id": "28L2HrS3sAvNvMBWQwcPQT",
+        "name": "Pobre Diabla"
+      },
       "duration_ms": 255680,
-      "artist": [
-        "Don Omar"
+      "artists": [
+        {
+          "name": "Don Omar",
+          "id": "33ScadVnbm2X8kkUqOkC6Z"
+        }
       ],
-      "artistId": [
-        "33ScadVnbm2X8kkUqOkC6Z"
-      ],
-      "albumId": "4UHJUOLJNaaip7Kjj1DGxY",
+      "album": {
+        "id": "4UHJUOLJNaaip7Kjj1DGxY",
+        "name": "Los clásicos de salón comunal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a627edc9ef07b112c73bf449"
+      },
       "release_date": "2022-08-05",
       "popularity": 7
     },
     {
-      "trackId": "0cYX51Hneb8qIOx0tHm7ng",
-      "name": "Aïcha - Version Mixte",
+      "track": {
+        "id": "0cYX51Hneb8qIOx0tHm7ng",
+        "name": "Aïcha - Version Mixte"
+      },
       "duration_ms": 259600,
-      "artist": [
-        "Khaled"
+      "artists": [
+        {
+          "name": "Khaled",
+          "id": "28ztjHIXceRRntmTUfnmUX"
+        }
       ],
-      "artistId": [
-        "28ztjHIXceRRntmTUfnmUX"
-      ],
-      "albumId": "2Ul6M5sIJdZjKVxwgDG7dC",
+      "album": {
+        "id": "2Ul6M5sIJdZjKVxwgDG7dC",
+        "name": "Sahra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e1b1864f0ac9fc86215c3c85"
+      },
       "release_date": "1996-01-01",
       "popularity": 57
     },
     {
-      "trackId": "3ZTuYuaV1fhdNnuIBuzTYy",
-      "name": "Nour El Ein",
+      "track": {
+        "id": "3ZTuYuaV1fhdNnuIBuzTYy",
+        "name": "Nour El Ein"
+      },
       "duration_ms": 307762,
-      "artist": [
-        "Amr Diab"
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "id": "5abSRg0xN1NV3gLbuvX24M"
+        }
       ],
-      "artistId": [
-        "5abSRg0xN1NV3gLbuvX24M"
-      ],
-      "albumId": "3qZ0kZ8d3F8EpvEyx0yemA",
+      "album": {
+        "id": "3qZ0kZ8d3F8EpvEyx0yemA",
+        "name": "Nour El Ein",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d352e68d3f9ef21f6d167a96"
+      },
       "release_date": "1996-01-01",
       "popularity": 57
     },
     {
-      "trackId": "0NJyThbEN5v6vFWrsH5uPF",
-      "name": "Inta Eyh",
+      "track": {
+        "id": "0NJyThbEN5v6vFWrsH5uPF",
+        "name": "Inta Eyh"
+      },
       "duration_ms": 304720,
-      "artist": [
-        "Nancy Ajram"
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "id": "0LnHdW6HMPoOlNdhG3DHjE"
+        }
       ],
-      "artistId": [
-        "0LnHdW6HMPoOlNdhG3DHjE"
-      ],
-      "albumId": "2Cq6dxYeJSGMq9ivFt1AK6",
+      "album": {
+        "id": "2Cq6dxYeJSGMq9ivFt1AK6",
+        "name": "Ah W Noss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02838b460e30d6a77512ffd00c"
+      },
       "release_date": "2004-01-01",
       "popularity": 58
     },
     {
-      "trackId": "6nuAWExo1ntFeJcrTEtUx9",
-      "name": "Iran Iran",
+      "track": {
+        "id": "6nuAWExo1ntFeJcrTEtUx9",
+        "name": "Iran Iran"
+      },
       "duration_ms": 245986,
-      "artist": [
-        "Arash"
+      "artists": [
+        {
+          "name": "Arash",
+          "id": "7hQmAXAzWI6D350VTgkKTG"
+        }
       ],
-      "artistId": [
-        "7hQmAXAzWI6D350VTgkKTG"
-      ],
-      "albumId": "70NiCsHAe30cTSwzpfZDNe",
+      "album": {
+        "id": "70NiCsHAe30cTSwzpfZDNe",
+        "name": "CROSSFADE - The Remix Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02779129017a289b292cd662ea"
+      },
       "release_date": "2006-04-01",
       "popularity": 28
     },
     {
-      "trackId": "3xB5lxPNq0nEVbwHtFLLXW",
-      "name": "Allah La Yehremmy Minak",
+      "track": {
+        "id": "3xB5lxPNq0nEVbwHtFLLXW",
+        "name": "Allah La Yehremmy Minak"
+      },
       "duration_ms": 232646,
-      "artist": [
-        "Amr Diab"
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "id": "5abSRg0xN1NV3gLbuvX24M"
+        }
       ],
-      "artistId": [
-        "5abSRg0xN1NV3gLbuvX24M"
-      ],
-      "albumId": "69K4T7RgSnqTuERclJIiv9",
+      "album": {
+        "id": "69K4T7RgSnqTuERclJIiv9",
+        "name": "Kammel Kalamak",
+        "img": "https://i.scdn.co/image/ab67616d00001e02027b0429b1d6ae7aa630f865"
+      },
       "release_date": "2005-12-07",
       "popularity": 30
     },
     {
-      "trackId": "6dK1HEHZcQlh24bSU7pTaZ",
-      "name": "Mundian to Bach Ke",
+      "track": {
+        "id": "6dK1HEHZcQlh24bSU7pTaZ",
+        "name": "Mundian to Bach Ke"
+      },
       "duration_ms": 244666,
-      "artist": [
-        "Panjabi MC"
+      "artists": [
+        {
+          "name": "Panjabi MC",
+          "id": "74D1UgRzMhTSPz698exXmR"
+        }
       ],
-      "artistId": [
-        "74D1UgRzMhTSPz698exXmR"
-      ],
-      "albumId": "3oBgmkaKhFwt7ZGihmBJ0C",
+      "album": {
+        "id": "3oBgmkaKhFwt7ZGihmBJ0C",
+        "name": "Panjabi MC: The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e0240d3da0acec805cd5494c8f6"
+      },
       "release_date": "2003-01-01",
       "popularity": 62
     },
     {
-      "trackId": "1qTBojbVTCM10DNWyNRxTZ",
-      "name": "Hasdi Hasdi",
+      "track": {
+        "id": "1qTBojbVTCM10DNWyNRxTZ",
+        "name": "Hasdi Hasdi"
+      },
       "duration_ms": 201753,
-      "artist": [
-        "Panjabi Hit Squad"
+      "artists": [
+        {
+          "name": "Panjabi Hit Squad",
+          "id": "3IlSLDQTwlMSGiWDRoJ0Gj"
+        }
       ],
-      "artistId": [
-        "3IlSLDQTwlMSGiWDRoJ0Gj"
-      ],
-      "albumId": "1xSOkSOQZcrwGFYYib8Bri",
+      "album": {
+        "id": "1xSOkSOQZcrwGFYYib8Bri",
+        "name": "Essential Desi",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263bb204c4f814b26d557669e"
+      },
       "release_date": "2012-01-20",
       "popularity": 35
     },
     {
-      "trackId": "5UD1jZiJ1AQUVSU51gFHiT",
-      "name": "Im Nin Alu-2000",
+      "track": {
+        "id": "5UD1jZiJ1AQUVSU51gFHiT",
+        "name": "Im Nin Alu-2000"
+      },
       "duration_ms": 217493,
-      "artist": [
-        "Ofra Haza"
+      "artists": [
+        {
+          "name": "Ofra Haza",
+          "id": "6tOL5L1TlmBLdFMeEoXgae"
+        }
       ],
-      "artistId": [
-        "6tOL5L1TlmBLdFMeEoXgae"
-      ],
-      "albumId": "3U0jwE39DRDBzFcux8W2Z6",
+      "album": {
+        "id": "3U0jwE39DRDBzFcux8W2Z6",
+        "name": "Ofra Haza",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adb145b318a2eb44e3f9eac5"
+      },
       "release_date": "1996-12-01",
       "popularity": 41
     },
     {
-      "trackId": "0jwfXlMDaoyeNlQgXKtO3r",
-      "name": "Time Out",
+      "track": {
+        "id": "0jwfXlMDaoyeNlQgXKtO3r",
+        "name": "Time Out"
+      },
       "duration_ms": 203809,
-      "artist": [
-        "Ander Huang"
+      "artists": [
+        {
+          "name": "Ander Huang",
+          "id": "1mAjrDuYNJU2ilt49OITNK"
+        }
       ],
-      "artistId": [
-        "1mAjrDuYNJU2ilt49OITNK"
-      ],
-      "albumId": "0pbsuU6XRhwPHLEEVBUI9K",
+      "album": {
+        "id": "0pbsuU6XRhwPHLEEVBUI9K",
+        "name": "Time Out",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b6f6f0836d821be348ad22b4"
+      },
       "release_date": "2022-07-22",
       "popularity": 25
     },
     {
-      "trackId": "2CYxB3hyLthTbj4MZYq3sw",
-      "name": "Eshgh",
+      "track": {
+        "id": "2CYxB3hyLthTbj4MZYq3sw",
+        "name": "Eshgh"
+      },
       "duration_ms": 297720,
-      "artist": [
-        "Googoosh"
+      "artists": [
+        {
+          "name": "Googoosh",
+          "id": "07L6XZ7QaTsZLP8jwLoFgY"
+        }
       ],
-      "artistId": [
-        "07L6XZ7QaTsZLP8jwLoFgY"
-      ],
-      "albumId": "6jtoQ2qCPzmoinv8uTJ5zP",
+      "album": {
+        "id": "6jtoQ2qCPzmoinv8uTJ5zP",
+        "name": "Aks Khosoosi",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bd426330f6e5823716214ba"
+      },
       "release_date": "2015-03-21",
       "popularity": 32
     },
     {
-      "trackId": "4xMRFkFYufAuTEKR0YMN3Z",
-      "name": "Always - Single Version",
+      "track": {
+        "id": "4xMRFkFYufAuTEKR0YMN3Z",
+        "name": "Always - Single Version"
+      },
       "duration_ms": 174626,
-      "artist": [
-        "Aysel",
-        "Arash"
+      "artists": [
+        {
+          "name": "Aysel",
+          "id": "0p8VQ0bbarbct1dXDthN5N"
+        },
+        {
+          "name": "Arash",
+          "id": "7hQmAXAzWI6D350VTgkKTG"
+        }
       ],
-      "artistId": [
-        "0p8VQ0bbarbct1dXDthN5N",
-        "7hQmAXAzWI6D350VTgkKTG"
-      ],
-      "albumId": "2tJbLZDH2pNDCYQYaUl2oC",
+      "album": {
+        "id": "2tJbLZDH2pNDCYQYaUl2oC",
+        "name": "Always",
+        "img": "https://i.scdn.co/image/ab67616d00001e028114662e561cc6f7e41cdaf4"
+      },
       "release_date": "2009-04-13",
       "popularity": 42
     },
     {
-      "trackId": "0m3Ze0cy8qBHSsV2exAfCw",
-      "name": "Amazing",
+      "track": {
+        "id": "0m3Ze0cy8qBHSsV2exAfCw",
+        "name": "Amazing"
+      },
       "duration_ms": 238333,
-      "artist": [
-        "Kanye West",
-        "Jeezy"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jeezy",
+          "id": "4yBK75WVCQXej1p04GWqxH"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "4yBK75WVCQXej1p04GWqxH"
-      ],
-      "albumId": "3WFTGIO6E3Xh4paEOBY9OU",
+      "album": {
+        "id": "3WFTGIO6E3Xh4paEOBY9OU",
+        "name": "808s & Heartbreak",
+        "img": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18"
+      },
       "release_date": "2008-11-24",
       "popularity": 65
     },
     {
-      "trackId": "2lUGL2iwOZ3WNQbmhBf8oF",
-      "name": "Behnaz",
+      "track": {
+        "id": "2lUGL2iwOZ3WNQbmhBf8oF",
+        "name": "Behnaz"
+      },
       "duration_ms": 215413,
-      "artist": [
-        "Arash"
+      "artists": [
+        {
+          "name": "Arash",
+          "id": "7hQmAXAzWI6D350VTgkKTG"
+        }
       ],
-      "artistId": [
-        "7hQmAXAzWI6D350VTgkKTG"
-      ],
-      "albumId": "4VxqrQsfvo0e9GBqcH1qb0",
+      "album": {
+        "id": "4VxqrQsfvo0e9GBqcH1qb0",
+        "name": "Arash",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274609ddd951d192024864c34"
+      },
       "release_date": "2005-02-01",
       "popularity": 21
     }

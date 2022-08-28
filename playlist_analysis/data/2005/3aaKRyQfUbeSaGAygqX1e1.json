@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234023_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7aDwxfjJ1EUKEPhiwJK5fy",
-      "name": "Hyreskasern",
+      "track": {
+        "id": "7aDwxfjJ1EUKEPhiwJK5fy",
+        "name": "Hyreskasern"
+      },
       "duration_ms": 278773,
-      "artist": [
-        "Peps Blodsband"
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "id": "16qbt9c47JP8oKWOSAycMD"
+        }
       ],
-      "artistId": [
-        "16qbt9c47JP8oKWOSAycMD"
-      ],
-      "albumId": "0vyTAbOhyE4wsV5veDmY31",
+      "album": {
+        "id": "0vyTAbOhyE4wsV5veDmY31",
+        "name": "Spår",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252ae1ef1118800e29234a855"
+      },
       "release_date": "1978-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6DavaRzYekSRYl0VMHnlwo",
-      "name": "Helpless (feat. Neil Young) - Concert Version",
+      "track": {
+        "id": "6DavaRzYekSRYl0VMHnlwo",
+        "name": "Helpless (feat. Neil Young) - Concert Version"
+      },
       "duration_ms": 353226,
-      "artist": [
-        "The Band",
-        "Neil Young"
+      "artists": [
+        {
+          "name": "The Band",
+          "id": "4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Neil Young",
+          "id": "6v8FB84lnmJs434UJf2Mrm"
+        }
       ],
-      "artistId": [
-        "4vpDg7Y7fU982Ds30zawDA",
-        "6v8FB84lnmJs434UJf2Mrm"
-      ],
-      "albumId": "7uqVE9qWdqjtDeLpdHyMxP",
+      "album": {
+        "id": "7uqVE9qWdqjtDeLpdHyMxP",
+        "name": "The Last Waltz (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02415e5ff0f5a631e22af127a6"
+      },
       "release_date": "2002-12-16",
       "popularity": 42
     },
     {
-      "trackId": "3Gzxjoueji5LrfhNTHkU0W",
-      "name": "En skål i bröder",
+      "track": {
+        "id": "3Gzxjoueji5LrfhNTHkU0W",
+        "name": "En skål i bröder"
+      },
       "duration_ms": 246240,
-      "artist": [
-        "Rolf Wikström"
+      "artists": [
+        {
+          "name": "Rolf Wikström",
+          "id": "6JnHX2U0qF3EcoAHta5V3r"
+        }
       ],
-      "artistId": [
-        "6JnHX2U0qF3EcoAHta5V3r"
-      ],
-      "albumId": "64S9Hjx3O5aRPvS1bNuPKw",
+      "album": {
+        "id": "64S9Hjx3O5aRPvS1bNuPKw",
+        "name": "Mitt hjärta är ditt",
+        "img": "https://i.scdn.co/image/ab67616d00001e026346fed1a83a408bbfd63ef3"
+      },
       "release_date": "1989-01-01",
       "popularity": 15
     },
     {
-      "trackId": "4FLUda3tCvPWBCvUeyiivd",
-      "name": "Silver Threads And Golden Needles",
+      "track": {
+        "id": "4FLUda3tCvPWBCvUeyiivd",
+        "name": "Silver Threads And Golden Needles"
+      },
       "duration_ms": 141160,
-      "artist": [
-        "Linda Ronstadt"
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "id": "1sXbwvCQLGZnaH0Jp2HTVc"
+        }
       ],
-      "artistId": [
-        "1sXbwvCQLGZnaH0Jp2HTVc"
-      ],
-      "albumId": "3a7qArnirRgatBiSlc2k3W",
+      "album": {
+        "id": "3a7qArnirRgatBiSlc2k3W",
+        "name": "Hand Sown...Home Grown",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a621b176813a64a76fe40564"
+      },
       "release_date": "1969-03",
       "popularity": 37
     },
     {
-      "trackId": "5RtowNGRzi71N0vz38qJ8R",
-      "name": "Dansa på min grav",
+      "track": {
+        "id": "5RtowNGRzi71N0vz38qJ8R",
+        "name": "Dansa på min grav"
+      },
       "duration_ms": 219253,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "3Q4wGWDxBeECfA5YhUqHPa",
+      "album": {
+        "id": "3Q4wGWDxBeECfA5YhUqHPa",
+        "name": "Dansa på min grav",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b4e1272ae20c211346fc937"
+      },
       "release_date": "2003-11-19",
       "popularity": 39
     },
     {
-      "trackId": "03VJWrI1A8RnGA1VHi56h8",
-      "name": "Não chores mais [No Woman, No Cry] (feat. Os Paralamas do Sucesso)",
+      "track": {
+        "id": "03VJWrI1A8RnGA1VHi56h8",
+        "name": "Não chores mais [No Woman, No Cry] (feat. Os Paralamas do Sucesso)"
+      },
       "duration_ms": 276200,
-      "artist": [
-        "Gilberto Gil",
-        "Os Paralamas Do Sucesso"
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "id": "7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "id": "7EM9m7HOXxVgP9oEpDDv70"
+        }
       ],
-      "artistId": [
-        "7oEkUINVIj1Nr3Wnj8tzqr",
-        "7EM9m7HOXxVgP9oEpDDv70"
-      ],
-      "albumId": "39JW7qNJNN7NDr5jPRr1T8",
+      "album": {
+        "id": "39JW7qNJNN7NDr5jPRr1T8",
+        "name": "Kaya N'Gan Daya",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238f6fedbfab6032bcd63afb3"
+      },
       "release_date": "2002-11-30",
       "popularity": 40
     },
     {
-      "trackId": "0BeXq6tkxaPcomaTdpogj0",
-      "name": "Märk hur vår skugga",
+      "track": {
+        "id": "0BeXq6tkxaPcomaTdpogj0",
+        "name": "Märk hur vår skugga"
+      },
       "duration_ms": 237320,
-      "artist": [
-        "Imperiet"
+      "artists": [
+        {
+          "name": "Imperiet",
+          "id": "4uWiErrlBRdqgKn5NrIJjg"
+        }
       ],
-      "artistId": [
-        "4uWiErrlBRdqgKn5NrIJjg"
-      ],
-      "albumId": "5VZ7OGUW33OhiBjWpZVOa4",
+      "album": {
+        "id": "5VZ7OGUW33OhiBjWpZVOa4",
+        "name": "Synd",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ffe23f5fa16a974320c677a5"
+      },
       "release_date": "1986-01-01",
       "popularity": 43
     },
     {
-      "trackId": "4yWl0tnEanf3zmZzl9kbQn",
-      "name": "Forever Young - Slow Version",
+      "track": {
+        "id": "4yWl0tnEanf3zmZzl9kbQn",
+        "name": "Forever Young - Slow Version"
+      },
       "duration_ms": 296133,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "3gYbjd76d8T5Ct5WxCxX5R",
+      "album": {
+        "id": "3gYbjd76d8T5Ct5WxCxX5R",
+        "name": "Planet Waves",
+        "img": "https://i.scdn.co/image/ab67616d00001e024042ca1eaf2d769794da7930"
+      },
       "release_date": "1974-01-17",
       "popularity": 51
     },
     {
-      "trackId": "2TjnCxxQRYn56Ye8gkUKiW",
-      "name": "Desperado - 2013 Remaster",
+      "track": {
+        "id": "2TjnCxxQRYn56Ye8gkUKiW",
+        "name": "Desperado - 2013 Remaster"
+      },
       "duration_ms": 213712,
-      "artist": [
-        "Eagles"
+      "artists": [
+        {
+          "name": "Eagles",
+          "id": "0ECwFtbIWEVNwjlrfc6xoL"
+        }
       ],
-      "artistId": [
-        "0ECwFtbIWEVNwjlrfc6xoL"
-      ],
-      "albumId": "09WBxbis5Sixt01FVMs8UM",
+      "album": {
+        "id": "09WBxbis5Sixt01FVMs8UM",
+        "name": "Desperado (2013 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d73b1bb77cee09f0278be04"
+      },
       "release_date": "1973",
       "popularity": 68
     },
     {
-      "trackId": "6V34b4QlPxfwqqmdXupcs3",
-      "name": "Helena",
+      "track": {
+        "id": "6V34b4QlPxfwqqmdXupcs3",
+        "name": "Helena"
+      },
       "duration_ms": 200360,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "3cT50PQXXybChUGP6TDrlr",
+      "album": {
+        "id": "3cT50PQXXybChUGP6TDrlr",
+        "name": "Undringar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cb77aa3a5ff8114f478413a"
+      },
       "release_date": "1972-01-01",
       "popularity": 33
     },
     {
-      "trackId": "1MQQUwq3CWiVJuyAeLzFF2",
-      "name": "ÄCKLIGT",
+      "track": {
+        "id": "1MQQUwq3CWiVJuyAeLzFF2",
+        "name": "ÄCKLIGT"
+      },
       "duration_ms": 146117,
-      "artist": [
-        "Rasmus Gozzi"
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "id": "3loTvAld5Tpk5aSNbboGpj"
+        }
       ],
-      "artistId": [
-        "3loTvAld5Tpk5aSNbboGpj"
-      ],
-      "albumId": "2Klr2cUwmHLCLsZd6KHM8J",
+      "album": {
+        "id": "2Klr2cUwmHLCLsZd6KHM8J",
+        "name": "ÄCKLIGT",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e087cc360b7d8dcf51b029b1"
+      },
       "release_date": "2021-04-30",
       "popularity": 43
     },
     {
-      "trackId": "3JaE63iPs0x06ECHdpri57",
-      "name": "Find the Cost of Freedom",
+      "track": {
+        "id": "3JaE63iPs0x06ECHdpri57",
+        "name": "Find the Cost of Freedom"
+      },
       "duration_ms": 118373,
-      "artist": [
-        "Crosby, Stills, Nash & Young"
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "id": "1CYsQCypByMVgnv17qsSbQ"
+        }
       ],
-      "artistId": [
-        "1CYsQCypByMVgnv17qsSbQ"
-      ],
-      "albumId": "5C1NUv7hNWS6n0GBtLetKM",
+      "album": {
+        "id": "5C1NUv7hNWS6n0GBtLetKM",
+        "name": "So Far",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9ea21d1d1915aa5e4db37f5"
+      },
       "release_date": "1974-08-19",
       "popularity": 49
     }

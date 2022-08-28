@@ -7,294 +7,426 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a185202f-db49-444a-8640-f94676932290.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5IONrCRMaQomlgoKpIoI8O",
-      "name": "Ge upp igen",
+      "track": {
+        "id": "5IONrCRMaQomlgoKpIoI8O",
+        "name": "Ge upp igen"
+      },
       "duration_ms": 170226,
-      "artist": [
-        "Miriam Bryant",
-        "Yasin"
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "id": "2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Yasin",
+          "id": "6rYEqmajzlhGVaayOJ2bpJ"
+        }
       ],
-      "artistId": [
-        "2zd9YxlsQvA5mkZ1NarYVQ",
-        "6rYEqmajzlhGVaayOJ2bpJ"
-      ],
-      "albumId": "2CmaPlYkvb9Q8N1NM9zbHx",
+      "album": {
+        "id": "2CmaPlYkvb9Q8N1NM9zbHx",
+        "name": "Ge upp igen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ffbe05d971a14e06f895431a"
+      },
       "release_date": "2020-11-13",
       "popularity": 56
     },
     {
-      "trackId": "22gZR0z4d9ZxGm76RjOmoS",
-      "name": "Monument - The Inevitable End Version",
+      "track": {
+        "id": "22gZR0z4d9ZxGm76RjOmoS",
+        "name": "Monument - The Inevitable End Version"
+      },
       "duration_ms": 286588,
-      "artist": [
-        "Röyksopp",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Röyksopp",
+          "id": "5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "5nPOO9iTcrs9k6yFffPxjH",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0feYndmmYH6wbYi3cAMahJ",
+      "album": {
+        "id": "0feYndmmYH6wbYi3cAMahJ",
+        "name": "The Inevitable End",
+        "img": "https://i.scdn.co/image/ab67616d00001e023dc03e73f2c00210e4ed7959"
+      },
       "release_date": "2014-11-07",
       "popularity": 53
     },
     {
-      "trackId": "22gZR0z4d9ZxGm76RjOmoS",
-      "name": "Monument - The Inevitable End Version",
+      "track": {
+        "id": "22gZR0z4d9ZxGm76RjOmoS",
+        "name": "Monument - The Inevitable End Version"
+      },
       "duration_ms": 286588,
-      "artist": [
-        "Röyksopp",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Röyksopp",
+          "id": "5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "5nPOO9iTcrs9k6yFffPxjH",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "0feYndmmYH6wbYi3cAMahJ",
+      "album": {
+        "id": "0feYndmmYH6wbYi3cAMahJ",
+        "name": "The Inevitable End",
+        "img": "https://i.scdn.co/image/ab67616d00001e023dc03e73f2c00210e4ed7959"
+      },
       "release_date": "2014-11-07",
       "popularity": 53
     },
     {
-      "trackId": "2LMkwUfqC6S6s6qDVlEuzV",
-      "name": "White Ferrari",
+      "track": {
+        "id": "2LMkwUfqC6S6s6qDVlEuzV",
+        "name": "White Ferrari"
+      },
       "duration_ms": 248807,
-      "artist": [
-        "Frank Ocean"
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "id": "2h93pZq0e7k5yf4dywlkpM"
+        }
       ],
-      "artistId": [
-        "2h93pZq0e7k5yf4dywlkpM"
-      ],
-      "albumId": "3mH6qwIy9crq0I9YQbOuDf",
+      "album": {
+        "id": "3mH6qwIy9crq0I9YQbOuDf",
+        "name": "Blonde",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526"
+      },
       "release_date": "2016-08-20",
       "popularity": 77
     },
     {
-      "trackId": "0qG1teoBvooRo7Z5Z8edCk",
-      "name": "La ritournelle",
+      "track": {
+        "id": "0qG1teoBvooRo7Z5Z8edCk",
+        "name": "La ritournelle"
+      },
       "duration_ms": 454480,
-      "artist": [
-        "Sébastien Tellier"
+      "artists": [
+        {
+          "name": "Sébastien Tellier",
+          "id": "23ymPLjbtAMzTJS2qRtQ8Z"
+        }
       ],
-      "artistId": [
-        "23ymPLjbtAMzTJS2qRtQ8Z"
-      ],
-      "albumId": "05MRLgXFBdHFMww01vbvWY",
+      "album": {
+        "id": "05MRLgXFBdHFMww01vbvWY",
+        "name": "Politics",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f4497b79f6cc676a29b77117"
+      },
       "release_date": "2004-01-01",
       "popularity": 57
     },
     {
-      "trackId": "77KyNPhCUXjkBaj5yQ9GY9",
-      "name": "The Joy of D.H. Lawrence",
+      "track": {
+        "id": "77KyNPhCUXjkBaj5yQ9GY9",
+        "name": "The Joy of D.H. Lawrence"
+      },
       "duration_ms": 244312,
-      "artist": [
-        "Erik Enocksson"
+      "artists": [
+        {
+          "name": "Erik Enocksson",
+          "id": "1ot4IWvtkwWLAYwNUJYZex"
+        }
       ],
-      "artistId": [
-        "1ot4IWvtkwWLAYwNUJYZex"
-      ],
-      "albumId": "7n0Ml88mIWDPvEBjDVlq8r",
+      "album": {
+        "id": "7n0Ml88mIWDPvEBjDVlq8r",
+        "name": "Kning Disk 2005-2012 Box Set",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d74a09f01ee8e7127fcb55df"
+      },
       "release_date": "2012-12-08",
       "popularity": 31
     },
     {
-      "trackId": "6Iex6SKg1ItGeqVURzUZYd",
-      "name": "Vågorna",
+      "track": {
+        "id": "6Iex6SKg1ItGeqVURzUZYd",
+        "name": "Vågorna"
+      },
       "duration_ms": 231638,
-      "artist": [
-        "Sabina Ddumba"
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "id": "2Mp409M6EpFr3kGdQ1mwjS"
+        }
       ],
-      "artistId": [
-        "2Mp409M6EpFr3kGdQ1mwjS"
-      ],
-      "albumId": "2jhuNL8Y8J65VfQS77WDL6",
+      "album": {
+        "id": "2jhuNL8Y8J65VfQS77WDL6",
+        "name": "Så Mycket Bättre 2017: Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f5b5a6e00b6adaba52e83276"
+      },
       "release_date": "2017-12-11",
       "popularity": 44
     },
     {
-      "trackId": "0QeUQ4roCy9mU4AyfK5fI7",
-      "name": "Nasty Girl",
+      "track": {
+        "id": "0QeUQ4roCy9mU4AyfK5fI7",
+        "name": "Nasty Girl"
+      },
       "duration_ms": 257826,
-      "artist": [
-        "Destiny's Child"
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "id": "1Y8cdNmUJH7yBTd9yOvr5i"
+        }
       ],
-      "artistId": [
-        "1Y8cdNmUJH7yBTd9yOvr5i"
-      ],
-      "albumId": "0IVseR3zfrrInlKJQNh294",
+      "album": {
+        "id": "0IVseR3zfrrInlKJQNh294",
+        "name": "Survivor",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269c31a0f21885826fa6813f0"
+      },
       "release_date": "2001-01-01",
       "popularity": 41
     },
     {
-      "trackId": "0qmYhfRmXWaONXN6ps27PP",
-      "name": "Bandz A Make Her Dance Remix (feat. French Montana, LoLa Monroe, Wiz Khalifa & B.o.B)",
+      "track": {
+        "id": "0qmYhfRmXWaONXN6ps27PP",
+        "name": "Bandz A Make Her Dance Remix (feat. French Montana, LoLa Monroe, Wiz Khalifa & B.o.B)"
+      },
       "duration_ms": 275013,
-      "artist": [
-        "Juicy J",
-        "French Montana",
-        "Lola Monroe"
+      "artists": [
+        {
+          "name": "Juicy J",
+          "id": "5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "French Montana",
+          "id": "6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Lola Monroe",
+          "id": "4sTSxjxleIc35L1ZGNJQoI"
+        }
       ],
-      "artistId": [
-        "5gCRApTajqwbnHHPbr2Fpi",
-        "6vXTefBL93Dj5IqAWq6OTv",
-        "4sTSxjxleIc35L1ZGNJQoI"
-      ],
-      "albumId": "3ld04L36tb3TYAoPBFyjoe",
+      "album": {
+        "id": "3ld04L36tb3TYAoPBFyjoe",
+        "name": "Bandz A Make Her Dance Remix (feat. French Montana, LoLa Monroe, Wiz Khalifa & B.o.B)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022f666b2f25309e02f29095bf"
+      },
       "release_date": "2012-12-03",
       "popularity": 32
     },
     {
-      "trackId": "3XRosKfSgFSDIb6YVpApIl",
-      "name": "Treat Me Like Fire",
+      "track": {
+        "id": "3XRosKfSgFSDIb6YVpApIl",
+        "name": "Treat Me Like Fire"
+      },
       "duration_ms": 250706,
-      "artist": [
-        "LION BABE"
+      "artists": [
+        {
+          "name": "LION BABE",
+          "id": "4VA3EAvncrTucjTmrvd4GE"
+        }
       ],
-      "artistId": [
-        "4VA3EAvncrTucjTmrvd4GE"
-      ],
-      "albumId": "6R4ePhJDTDNwX6xVmmYuwn",
+      "album": {
+        "id": "6R4ePhJDTDNwX6xVmmYuwn",
+        "name": "Begin",
+        "img": "https://i.scdn.co/image/ab67616d00001e026454cc79bc32f309749b019b"
+      },
       "release_date": "2016-01-22",
       "popularity": 55
     },
     {
-      "trackId": "7wBJfHzpfI3032CSD7CE2m",
-      "name": "STARGAZING",
+      "track": {
+        "id": "7wBJfHzpfI3032CSD7CE2m",
+        "name": "STARGAZING"
+      },
       "duration_ms": 270714,
-      "artist": [
-        "Travis Scott"
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY"
+        }
       ],
-      "artistId": [
-        "0Y5tJX1MQlPlqiwlOH1tJY"
-      ],
-      "albumId": "41GuZcammIkupMPKH2OJ6I",
+      "album": {
+        "id": "41GuZcammIkupMPKH2OJ6I",
+        "name": "ASTROWORLD",
+        "img": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3"
+      },
       "release_date": "2018-08-03",
       "popularity": 75
     },
     {
-      "trackId": "5TRPicyLGbAF2LGBFbHGvO",
-      "name": "Flashing Lights",
+      "track": {
+        "id": "5TRPicyLGbAF2LGBFbHGvO",
+        "name": "Flashing Lights"
+      },
       "duration_ms": 237506,
-      "artist": [
-        "Kanye West",
-        "Dwele"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dwele",
+          "id": "7u6LfVyYpEzMpHLL7jTyvU"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "7u6LfVyYpEzMpHLL7jTyvU"
-      ],
-      "albumId": "4SZko61aMnmgvNhfhgTuD3",
+      "album": {
+        "id": "4SZko61aMnmgvNhfhgTuD3",
+        "name": "Graduation",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a"
+      },
       "release_date": "2007-09-11",
       "popularity": 82
     },
     {
-      "trackId": "72ysGFB4mZTgQsPqN9PzPS",
-      "name": "Hello Bitches",
+      "track": {
+        "id": "72ysGFB4mZTgQsPqN9PzPS",
+        "name": "Hello Bitches"
+      },
       "duration_ms": 178177,
-      "artist": [
-        "CL"
+      "artists": [
+        {
+          "name": "CL",
+          "id": "0tzSBCPJZmHTdOA3ZV2mN3"
+        }
       ],
-      "artistId": [
-        "0tzSBCPJZmHTdOA3ZV2mN3"
-      ],
-      "albumId": "1pu6aEuAKBdTdQLSbfBNTG",
+      "album": {
+        "id": "1pu6aEuAKBdTdQLSbfBNTG",
+        "name": "Hello Bitches",
+        "img": "https://i.scdn.co/image/ab67616d00001e02478544f074e0f7fe79e5d07c"
+      },
       "release_date": "2015-12-05",
       "popularity": 66
     },
     {
-      "trackId": "5r67bGhYXZNqk2m2Wupfmu",
-      "name": "Pour It Up",
+      "track": {
+        "id": "5r67bGhYXZNqk2m2Wupfmu",
+        "name": "Pour It Up"
+      },
       "duration_ms": 161200,
-      "artist": [
-        "Rihanna"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ],
-      "albumId": "5pLlGJrxuQO3jMoQe1XxZY",
+      "album": {
+        "id": "5pLlGJrxuQO3jMoQe1XxZY",
+        "name": "Unapologetic (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026dee21d6cd1823e4d6231d37"
+      },
       "release_date": "2012-12-11",
       "popularity": 67
     },
     {
-      "trackId": "5r67bGhYXZNqk2m2Wupfmu",
-      "name": "Pour It Up",
+      "track": {
+        "id": "5r67bGhYXZNqk2m2Wupfmu",
+        "name": "Pour It Up"
+      },
       "duration_ms": 161200,
-      "artist": [
-        "Rihanna"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ],
-      "albumId": "5pLlGJrxuQO3jMoQe1XxZY",
+      "album": {
+        "id": "5pLlGJrxuQO3jMoQe1XxZY",
+        "name": "Unapologetic (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026dee21d6cd1823e4d6231d37"
+      },
       "release_date": "2012-12-11",
       "popularity": 67
     },
     {
-      "trackId": "3iVcZ5G6tvkXZkZKlMpIUs",
-      "name": "Alright",
+      "track": {
+        "id": "3iVcZ5G6tvkXZkZKlMpIUs",
+        "name": "Alright"
+      },
       "duration_ms": 219333,
-      "artist": [
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "7ycBtnsMtyVbbwTfJwRjSP",
+      "album": {
+        "id": "7ycBtnsMtyVbbwTfJwRjSP",
+        "name": "To Pimp A Butterfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1"
+      },
       "release_date": "2015-03-16",
       "popularity": 79
     },
     {
-      "trackId": "3iVcZ5G6tvkXZkZKlMpIUs",
-      "name": "Alright",
+      "track": {
+        "id": "3iVcZ5G6tvkXZkZKlMpIUs",
+        "name": "Alright"
+      },
       "duration_ms": 219333,
-      "artist": [
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "7ycBtnsMtyVbbwTfJwRjSP",
+      "album": {
+        "id": "7ycBtnsMtyVbbwTfJwRjSP",
+        "name": "To Pimp A Butterfly",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1"
+      },
       "release_date": "2015-03-16",
       "popularity": 79
     },
     {
-      "trackId": "414J8tKHbtF16XOiHGBEso",
-      "name": "Tezeta (Nostalgia)",
+      "track": {
+        "id": "414J8tKHbtF16XOiHGBEso",
+        "name": "Tezeta (Nostalgia)"
+      },
       "duration_ms": 376640,
-      "artist": [
-        "Mulatu Astatke"
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "id": "7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
       ],
-      "artistId": [
-        "7HGFXtBhRq3g1Ma3nH4Rgv"
-      ],
-      "albumId": "5VKvVk4gaPAJyXjof8NnzX",
+      "album": {
+        "id": "5VKvVk4gaPAJyXjof8NnzX",
+        "name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d2ff02d83be9464cb4666f1"
+      },
       "release_date": "1998-10-06",
       "popularity": 55
     },
     {
-      "trackId": "4RVbK6cV0VqWdpCDcx3hiT",
-      "name": "Reborn",
+      "track": {
+        "id": "4RVbK6cV0VqWdpCDcx3hiT",
+        "name": "Reborn"
+      },
       "duration_ms": 324674,
-      "artist": [
-        "KIDS SEE GHOSTS"
+      "artists": [
+        {
+          "name": "KIDS SEE GHOSTS",
+          "id": "2hPgGN4uhvXAxiXQBIXOmE"
+        }
       ],
-      "artistId": [
-        "2hPgGN4uhvXAxiXQBIXOmE"
-      ],
-      "albumId": "6pwuKxMUkNg673KETsXPUV",
+      "album": {
+        "id": "6pwuKxMUkNg673KETsXPUV",
+        "name": "KIDS SEE GHOSTS",
+        "img": "https://i.scdn.co/image/ab67616d00001e02013c00ee367dd85396f79c82"
+      },
       "release_date": "2018-06-08",
       "popularity": 71
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

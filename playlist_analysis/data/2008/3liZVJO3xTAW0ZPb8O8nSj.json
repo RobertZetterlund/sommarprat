@@ -7,228 +7,334 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3252810_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5jBIxQUJEQVv3JzHh3cYa5",
-      "name": "Titta jag flyger",
+      "track": {
+        "id": "5jBIxQUJEQVv3JzHh3cYa5",
+        "name": "Titta jag flyger"
+      },
       "duration_ms": 182760,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "491a89ZF90FNP2TDqWOLEd",
+      "album": {
+        "id": "491a89ZF90FNP2TDqWOLEd",
+        "name": "100 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd5ef17b080f0b1e90b653e7"
+      },
       "release_date": "2022-05-20",
       "popularity": 6
     },
     {
-      "trackId": "6pPWRBubXOBAHnjl5ZIujB",
-      "name": "The Best",
+      "track": {
+        "id": "6pPWRBubXOBAHnjl5ZIujB",
+        "name": "The Best"
+      },
       "duration_ms": 329800,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "3hgAoHSmany3EiKL0Aqh3G",
+      "album": {
+        "id": "3hgAoHSmany3EiKL0Aqh3G",
+        "name": "Foreign Affair",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a04b4373fd72bf81c8784adf"
+      },
       "release_date": "1989-09-13",
       "popularity": 69
     },
     {
-      "trackId": "2uhNv2XPgmzWNsnxQBwJsh",
-      "name": "Requiem in D Minor, K. 626: 3. Sequentia: Confutatis - Live",
+      "track": {
+        "id": "2uhNv2XPgmzWNsnxQBwJsh",
+        "name": "Requiem in D Minor, K. 626: 3. Sequentia: Confutatis - Live"
+      },
       "duration_ms": 154000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Claudio Abbado",
-        "Berliner Philharmoniker"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Claudio Abbado",
+          "id": "6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "6HclTVD03WSY6GUpN16BkP",
-        "6uRJnvQ3f8whVnmeoecv5Z"
-      ],
-      "albumId": "09ZGdaL9F1eSqKS8U9sKFt",
+      "album": {
+        "id": "09ZGdaL9F1eSqKS8U9sKFt",
+        "name": "Mozart: Requiem",
+        "img": "https://i.scdn.co/image/ab67616d00001e02294e552253536ac3ff9361fb"
+      },
       "release_date": "1999-01-01",
       "popularity": 40
     },
     {
-      "trackId": "6tQYPeiw2mZH8jshEz16T6",
-      "name": "Di Capua: O sole mio",
+      "track": {
+        "id": "6tQYPeiw2mZH8jshEz16T6",
+        "name": "Di Capua: O sole mio"
+      },
       "duration_ms": 195826,
-      "artist": [
-        "Eduardo di Capua",
-        "Jussi Björling",
-        "Orchestra"
+      "artists": [
+        {
+          "name": "Eduardo di Capua",
+          "id": "2q0Rkp6Ud5XxPTCkCCdbYr"
+        },
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        },
+        {
+          "name": "Orchestra",
+          "id": "21ND47q78JLAfDR1qpKQmj"
+        }
       ],
-      "artistId": [
-        "2q0Rkp6Ud5XxPTCkCCdbYr",
-        "4FNjPnaiiXYeG2qOhVtd8A",
-        "21ND47q78JLAfDR1qpKQmj"
-      ],
-      "albumId": "227vMy8EYRTWCAifcB4KSV",
+      "album": {
+        "id": "227vMy8EYRTWCAifcB4KSV",
+        "name": "Jussis mest önskade",
+        "img": "https://i.scdn.co/image/ab67616d00001e02957e6c7dbaf6ffb0bd5fcb27"
+      },
       "release_date": "2000-01-01",
       "popularity": 3
     },
     {
-      "trackId": "5OOR7iX9b4dlT5EdrESY6v",
-      "name": "Fuga y Misterio",
+      "track": {
+        "id": "5OOR7iX9b4dlT5EdrESY6v",
+        "name": "Fuga y Misterio"
+      },
       "duration_ms": 196866,
-      "artist": [
-        "Astor Piazzolla"
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "id": "7dsugSamBB7enWE2IrlbFg"
+        }
       ],
-      "artistId": [
-        "7dsugSamBB7enWE2IrlbFg"
-      ],
-      "albumId": "3jgVrHZQ0H0ghYUrCqBlb4",
+      "album": {
+        "id": "3jgVrHZQ0H0ghYUrCqBlb4",
+        "name": "Maria De Buenos Aires Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3049eaf7bd1cd00d23308b4"
+      },
       "release_date": "2005-05-24",
       "popularity": 32
     },
     {
-      "trackId": "3xrdC2Jq5KufeZst1zx1Cj",
-      "name": "Moritat (Mackie Kniven)",
+      "track": {
+        "id": "3xrdC2Jq5KufeZst1zx1Cj",
+        "name": "Moritat (Mackie Kniven)"
+      },
       "duration_ms": 174893,
-      "artist": [
-        "Monica Dominique",
-        "Monica Nielsen"
+      "artists": [
+        {
+          "name": "Monica Dominique",
+          "id": "4fXHTCH1eArZTamCjimXeT"
+        },
+        {
+          "name": "Monica Nielsen",
+          "id": "7qC5kDZWbR3fhjA6Vp5X70"
+        }
       ],
-      "artistId": [
-        "4fXHTCH1eArZTamCjimXeT",
-        "7qC5kDZWbR3fhjA6Vp5X70"
-      ],
-      "albumId": "4vHUbRLZNdglWxb19PQGio",
+      "album": {
+        "id": "4vHUbRLZNdglWxb19PQGio",
+        "name": "Säg Vad Ni Vill",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cb15b8b0f147cf0e308b2c8"
+      },
       "release_date": "2009-11-24",
       "popularity": 0
     },
     {
-      "trackId": "2B3WqjX1Z5jOS2a1dxanVM",
-      "name": "Foreign",
+      "track": {
+        "id": "2B3WqjX1Z5jOS2a1dxanVM",
+        "name": "Foreign"
+      },
       "duration_ms": 174521,
-      "artist": [
-        "Unga Scener",
-        "Aj B"
+      "artists": [
+        {
+          "name": "Unga Scener",
+          "id": "7uubu7R9BJ9dZ5cgQIZQ7U"
+        },
+        {
+          "name": "Aj B",
+          "id": "7HNexSRBLdVWgYldSK1EN4"
+        }
       ],
-      "artistId": [
-        "7uubu7R9BJ9dZ5cgQIZQ7U",
-        "7HNexSRBLdVWgYldSK1EN4"
-      ],
-      "albumId": "2cmYB0SYsqNTpDMugZu34E",
+      "album": {
+        "id": "2cmYB0SYsqNTpDMugZu34E",
+        "name": "Foreign",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df6d4b223172c47411c650d3"
+      },
       "release_date": "2019-11-29",
       "popularity": 49
     },
     {
-      "trackId": "4hslerq7Tf8u0Fl600gLF5",
-      "name": "Nätterna",
+      "track": {
+        "id": "4hslerq7Tf8u0Fl600gLF5",
+        "name": "Nätterna"
+      },
       "duration_ms": 175113,
-      "artist": [
-        "JVN"
+      "artists": [
+        {
+          "name": "JVN",
+          "id": "5i9kI2RbRqlOnDjtkK1eW6"
+        }
       ],
-      "artistId": [
-        "5i9kI2RbRqlOnDjtkK1eW6"
-      ],
-      "albumId": "3JHo0OBntb1wCN0wZ0Mv8O",
+      "album": {
+        "id": "3JHo0OBntb1wCN0wZ0Mv8O",
+        "name": "Nätterna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cced2fedeabb74c095f24c9d"
+      },
       "release_date": "2022-08-05",
       "popularity": 50
     },
     {
-      "trackId": "5wwPdWKbDEiybmWkZqsGGn",
-      "name": "Next Up - S4-E2, Pt. 1",
+      "track": {
+        "id": "5wwPdWKbDEiybmWkZqsGGn",
+        "name": "Next Up - S4-E2, Pt. 1"
+      },
       "duration_ms": 120839,
-      "artist": [
-        "JBee",
-        "Mixtape Madness"
+      "artists": [
+        {
+          "name": "JBee",
+          "id": "3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "id": "4ocdD0Bi1syVqLs1GiHqQ9"
+        }
       ],
-      "artistId": [
-        "3LIh5lV3zpZkgmO0K6R6bq",
-        "4ocdD0Bi1syVqLs1GiHqQ9"
-      ],
-      "albumId": "0j070iW9OV0gL2IbSWIHcE",
+      "album": {
+        "id": "0j070iW9OV0gL2IbSWIHcE",
+        "name": "Next Up - S4-E2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b02c20ea0da1686e6f6ece01"
+      },
       "release_date": "2022-02-10",
       "popularity": 77
     },
     {
-      "trackId": "4kJP7MKmU0BlvzGydLb8L7",
-      "name": "Orphan Child",
+      "track": {
+        "id": "4kJP7MKmU0BlvzGydLb8L7",
+        "name": "Orphan Child"
+      },
       "duration_ms": 221200,
-      "artist": [
-        "Edel Akongu Ekodelele"
+      "artists": [
+        {
+          "name": "Edel Akongu Ekodelele",
+          "id": "2ED8rRtGaSySnKeiQPKeY3"
+        }
       ],
-      "artistId": [
-        "2ED8rRtGaSySnKeiQPKeY3"
-      ],
-      "albumId": "4NvQTnaJXsojd4se6zUQt0",
+      "album": {
+        "id": "4NvQTnaJXsojd4se6zUQt0",
+        "name": "Music from All Corners of the World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6d820f063977913dc2b8302"
+      },
       "release_date": "2020-11-20",
       "popularity": 0
     },
     {
-      "trackId": "3jN0gwwEfPMmy6CyxFvIMm",
-      "name": "På väg",
+      "track": {
+        "id": "3jN0gwwEfPMmy6CyxFvIMm",
+        "name": "På väg"
+      },
       "duration_ms": 153853,
-      "artist": [
-        "Hoola Bandoola Band"
+      "artists": [
+        {
+          "name": "Hoola Bandoola Band",
+          "id": "5nKrlPFxyS6Al128p3vQG7"
+        }
       ],
-      "artistId": [
-        "5nKrlPFxyS6Al128p3vQG7"
-      ],
-      "albumId": "6IkfqOEH0PmkDKrIHSiyYI",
+      "album": {
+        "id": "6IkfqOEH0PmkDKrIHSiyYI",
+        "name": "På väg",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ad7cd64349d4107439c3aca"
+      },
       "release_date": "1973-01-01",
       "popularity": 23
     },
     {
-      "trackId": "7LERyg9XcEUqstzZyJqbAj",
-      "name": "Sacred Hearts",
+      "track": {
+        "id": "7LERyg9XcEUqstzZyJqbAj",
+        "name": "Sacred Hearts"
+      },
       "duration_ms": 183133,
-      "artist": [
-        "Elise Einarsdotter"
+      "artists": [
+        {
+          "name": "Elise Einarsdotter",
+          "id": "2LKjrHzYzh29nygf1ty3iX"
+        }
       ],
-      "artistId": [
-        "2LKjrHzYzh29nygf1ty3iX"
-      ],
-      "albumId": "6g7x3BRmHMGRwGqmsvicB1",
+      "album": {
+        "id": "6g7x3BRmHMGRwGqmsvicB1",
+        "name": "Sketches of Roses",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de379254aab8e5c7a7c1e79f"
+      },
       "release_date": "2010-10-01",
       "popularity": 0
     },
     {
-      "trackId": "43hI0avsM7DrJnEHZwK1Bn",
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+      "track": {
+        "id": "43hI0avsM7DrJnEHZwK1Bn",
+        "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
+      },
       "duration_ms": 162160,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Jacqueline du Pré"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jacqueline du Pré",
+          "id": "5VRErWhTZd0si1lqt1DwoW"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "5VRErWhTZd0si1lqt1DwoW"
-      ],
-      "albumId": "1RamR7uAjlbgwteiLj0O6E",
+      "album": {
+        "id": "1RamR7uAjlbgwteiLj0O6E",
+        "name": "Her Early BBC Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e028dd778c4b75e2e415ca8ee7e"
+      },
       "release_date": "2022-06-17",
       "popularity": 13
     },
     {
-      "trackId": "4ZtNuxaq8xeJIJ2qVSxTed",
-      "name": "Dodge the Dodo",
+      "track": {
+        "id": "4ZtNuxaq8xeJIJ2qVSxTed",
+        "name": "Dodge the Dodo"
+      },
       "duration_ms": 325133,
-      "artist": [
-        "Esbjörn Svensson Trio"
+      "artists": [
+        {
+          "name": "Esbjörn Svensson Trio",
+          "id": "3HJzLaMbS0jMabxS3wttGk"
+        }
       ],
-      "artistId": [
-        "3HJzLaMbS0jMabxS3wttGk"
-      ],
-      "albumId": "4jM7MG25QkVfp0SSkQ6138",
+      "album": {
+        "id": "4jM7MG25QkVfp0SSkQ6138",
+        "name": "From Gagarin's Point of View",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5513ec998df897c0c91bcd0"
+      },
       "release_date": "1999-04-26",
       "popularity": 27
     },
     {
-      "trackId": "6CVqdefyKI9ltgNIIBokxS",
-      "name": "Var blev ni av ljuva drömmar?",
+      "track": {
+        "id": "6CVqdefyKI9ltgNIIBokxS",
+        "name": "Var blev ni av ljuva drömmar?"
+      },
       "duration_ms": 305106,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "5fSDA3K2BP3bHRwOQyySo0",
+      "album": {
+        "id": "5fSDA3K2BP3bHRwOQyySo0",
+        "name": "O vad en liten gumma kan gno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a31f8511326313f56a0dbdba"
+      },
       "release_date": "2001-01-01",
       "popularity": 27
     }

@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/6533ee90-093a-419a-9a99-217543ded1a2.jpeg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5zr3mpLwwj1lKRC0ywtLhT",
-      "name": "Better Get to Livin'",
+      "track": {
+        "id": "5zr3mpLwwj1lKRC0ywtLhT",
+        "name": "Better Get to Livin'"
+      },
       "duration_ms": 215840,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "50FL6Vavo5CtZ1S9QQSJeO",
+      "album": {
+        "id": "50FL6Vavo5CtZ1S9QQSJeO",
+        "name": "Dumplin' Original Motion Picture Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02502e02deb6d09c3618ec59a6"
+      },
       "release_date": "2018-11-30",
       "popularity": 42
     },
     {
-      "trackId": "0tV8pOpiNsKqUys0ilUcXz",
-      "name": "Rise Up",
+      "track": {
+        "id": "0tV8pOpiNsKqUys0ilUcXz",
+        "name": "Rise Up"
+      },
       "duration_ms": 253342,
-      "artist": [
-        "Andra Day"
+      "artists": [
+        {
+          "name": "Andra Day",
+          "id": "1c4rxrxy8eDLvMVL1DTiBe"
+        }
       ],
-      "artistId": [
-        "1c4rxrxy8eDLvMVL1DTiBe"
-      ],
-      "albumId": "6Blubl1glavmervPJa3QVs",
+      "album": {
+        "id": "6Blubl1glavmervPJa3QVs",
+        "name": "Cheers to the Fall",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccd9af18cc83991382c9ab9a"
+      },
       "release_date": "2015-08-28",
       "popularity": 73
     },
     {
-      "trackId": "0atRkLynwT9JbhSQkoPdLY",
-      "name": "Jag saknar dig mindre och mindre",
+      "track": {
+        "id": "0atRkLynwT9JbhSQkoPdLY",
+        "name": "Jag saknar dig mindre och mindre"
+      },
       "duration_ms": 272373,
-      "artist": [
-        "Melissa Horn"
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "id": "0tOdy7SqogILIjzGU2hSr5"
+        }
       ],
-      "artistId": [
-        "0tOdy7SqogILIjzGU2hSr5"
-      ],
-      "albumId": "7aCSH1fnzWjLChB2VHG671",
+      "album": {
+        "id": "7aCSH1fnzWjLChB2VHG671",
+        "name": "Innan jag kände dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02052277c22950c49fe7c34c97"
+      },
       "release_date": "2011-09-12",
       "popularity": 53
     },
     {
-      "trackId": "3m7MznkIFJv9xV3gF0iKAT",
-      "name": "Do Panjereh",
+      "track": {
+        "id": "3m7MznkIFJv9xV3gF0iKAT",
+        "name": "Do Panjereh"
+      },
       "duration_ms": 292388,
-      "artist": [
-        "Googoosh"
+      "artists": [
+        {
+          "name": "Googoosh",
+          "id": "07L6XZ7QaTsZLP8jwLoFgY"
+        }
       ],
-      "artistId": [
-        "07L6XZ7QaTsZLP8jwLoFgY"
-      ],
-      "albumId": "0jUBst8o9oje6jFjSdUBZg",
+      "album": {
+        "id": "0jUBst8o9oje6jFjSdUBZg",
+        "name": "Mann O Ghonjeshkayeh Khoneh",
+        "img": "https://i.scdn.co/image/ab67616d00001e0297bb83bb3e625a3e66f2991f"
+      },
       "release_date": "1995",
       "popularity": 33
     },
     {
-      "trackId": "1z8UF89C06AQZv99JsR39B",
-      "name": "Just Breathe - Pearl Jam Live On 10 Legs",
+      "track": {
+        "id": "1z8UF89C06AQZv99JsR39B",
+        "name": "Just Breathe - Pearl Jam Live On 10 Legs"
+      },
       "duration_ms": 230587,
-      "artist": [
-        "Pearl Jam"
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "id": "1w5Kfo2jwwIPruYS2UWh56"
+        }
       ],
-      "artistId": [
-        "1w5Kfo2jwwIPruYS2UWh56"
-      ],
-      "albumId": "3D4SPKGZqzWUwhETarQv9S",
+      "album": {
+        "id": "3D4SPKGZqzWUwhETarQv9S",
+        "name": "Live On Ten Legs",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252adc02c92019af92217998c"
+      },
       "release_date": "2010-01-01",
       "popularity": 28
     },
     {
-      "trackId": "4y8mZRVyXjrRpsADd1r9pD",
-      "name": "Jag och min far",
+      "track": {
+        "id": "4y8mZRVyXjrRpsADd1r9pD",
+        "name": "Jag och min far"
+      },
       "duration_ms": 182253,
-      "artist": [
-        "Olle Ljungström"
+      "artists": [
+        {
+          "name": "Olle Ljungström",
+          "id": "6wjchRNcNNSn1wPIaIiRq8"
+        }
       ],
-      "artistId": [
-        "6wjchRNcNNSn1wPIaIiRq8"
-      ],
-      "albumId": "3BU9nA5dWFiB9F7WcoIROU",
+      "album": {
+        "id": "3BU9nA5dWFiB9F7WcoIROU",
+        "name": "Det stora kalaset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a13227e71a093dcd4dfc1db8"
+      },
       "release_date": "1998-01-30",
       "popularity": 34
     },
     {
-      "trackId": "2Ck6gblyk3UFCVPTh8o3TN",
-      "name": "Youth",
+      "track": {
+        "id": "2Ck6gblyk3UFCVPTh8o3TN",
+        "name": "Youth"
+      },
       "duration_ms": 253013,
-      "artist": [
-        "Daughter"
+      "artists": [
+        {
+          "name": "Daughter",
+          "id": "46CitWgnWrvF9t70C2p1Me"
+        }
       ],
-      "artistId": [
-        "46CitWgnWrvF9t70C2p1Me"
-      ],
-      "albumId": "74ShfU6i2GfPyqwdc5uGl7",
+      "album": {
+        "id": "74ShfU6i2GfPyqwdc5uGl7",
+        "name": "If You Leave",
+        "img": "https://i.scdn.co/image/ab67616d00001e022baa927782b9fa829c66b8d1"
+      },
       "release_date": "2013-03-18",
       "popularity": 67
     },
     {
-      "trackId": "7zKlSAsmB3p5959tsmLeqn",
-      "name": "Pretty Good At Drinkin' Beer",
+      "track": {
+        "id": "7zKlSAsmB3p5959tsmLeqn",
+        "name": "Pretty Good At Drinkin' Beer"
+      },
       "duration_ms": 179906,
-      "artist": [
-        "Billy Currington"
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "id": "1By9QBFnjZAoI83BZppHlt"
+        }
       ],
-      "artistId": [
-        "1By9QBFnjZAoI83BZppHlt"
-      ],
-      "albumId": "1gbcNmTEXs2GYktvarZuli",
+      "album": {
+        "id": "1gbcNmTEXs2GYktvarZuli",
+        "name": "Enjoy Yourself",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242c902796574bddbe0d3082e"
+      },
       "release_date": "2010-01-01",
       "popularity": 63
     },
     {
-      "trackId": "74XmDKScx9ZXCyQSUtCWa5",
-      "name": "Drinkin'",
+      "track": {
+        "id": "74XmDKScx9ZXCyQSUtCWa5",
+        "name": "Drinkin'"
+      },
       "duration_ms": 222586,
-      "artist": [
-        "Holly Williams"
+      "artists": [
+        {
+          "name": "Holly Williams",
+          "id": "5mfdtMy6vJUShmdyCuJhox"
+        }
       ],
-      "artistId": [
-        "5mfdtMy6vJUShmdyCuJhox"
-      ],
-      "albumId": "4T5125N4iMUMDwBRgKekYC",
+      "album": {
+        "id": "4T5125N4iMUMDwBRgKekYC",
+        "name": "The Highway",
+        "img": "https://i.scdn.co/image/ab67616d00001e028bcc9db0b4e9e9157720cbea"
+      },
       "release_date": "2013",
       "popularity": 24
     },
     {
-      "trackId": "4CLPNURPcKztF9RRdcWLGP",
-      "name": "Follow Your Arrow",
+      "track": {
+        "id": "4CLPNURPcKztF9RRdcWLGP",
+        "name": "Follow Your Arrow"
+      },
       "duration_ms": 199640,
-      "artist": [
-        "Kacey Musgraves"
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "id": "70kkdajctXSbqSMJbQO424"
+        }
       ],
-      "artistId": [
-        "70kkdajctXSbqSMJbQO424"
-      ],
-      "albumId": "6IGpQUt0KNi5rBUXZZOFI6",
+      "album": {
+        "id": "6IGpQUt0KNi5rBUXZZOFI6",
+        "name": "Same Trailer Different Park",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227276e651476643cd5c10e71"
+      },
       "release_date": "2013-01-01",
       "popularity": 66
     },
     {
-      "trackId": "1zykpC01BlqIf8KQJAONWD",
-      "name": "Godnattvisa",
+      "track": {
+        "id": "1zykpC01BlqIf8KQJAONWD",
+        "name": "Godnattvisa"
+      },
       "duration_ms": 228600,
-      "artist": [
-        "Benny Anderssons Orkester",
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "id": "5KcJSAFLAEtpCkK5EI0KLS"
+        },
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "5KcJSAFLAEtpCkK5EI0KLS",
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "4xA5LZBkNDsGwBZczk7rVB",
+      "album": {
+        "id": "4xA5LZBkNDsGwBZczk7rVB",
+        "name": "BAO 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8031fbe56a10642a36c7474"
+      },
       "release_date": "2007-01-01",
       "popularity": 15
     }

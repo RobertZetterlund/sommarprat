@@ -7,132 +7,190 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c124269e-cadd-4657-9624-14c7c73ce692.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4ZREMqESEEloSWGdxJySKC",
-      "name": "The Wall Street Shuffle",
+      "track": {
+        "id": "4ZREMqESEEloSWGdxJySKC",
+        "name": "The Wall Street Shuffle"
+      },
       "duration_ms": 231146,
-      "artist": [
-        "10cc"
+      "artists": [
+        {
+          "name": "10cc",
+          "id": "6i6WlGzQtXtz7GcC5H5st5"
+        }
       ],
-      "artistId": [
-        "6i6WlGzQtXtz7GcC5H5st5"
-      ],
-      "albumId": "5FPOXQ7ssVwLwSxqL4rGYa",
+      "album": {
+        "id": "5FPOXQ7ssVwLwSxqL4rGYa",
+        "name": "Tenology",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfc5182637320569f6388b05"
+      },
       "release_date": "2012-01-01",
       "popularity": 45
     },
     {
-      "trackId": "225xvV8r1yKMHErSWivnow",
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "track": {
+        "id": "225xvV8r1yKMHErSWivnow",
+        "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack"
+      },
       "duration_ms": 298760,
-      "artist": [
-        "Aerosmith"
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "id": "7Ey4PD4MYsKc5I2dolUwbH"
+        }
       ],
-      "artistId": [
-        "7Ey4PD4MYsKc5I2dolUwbH"
-      ],
-      "albumId": "4f7HKjBnjpMsDBDTHYV890",
+      "album": {
+        "id": "4f7HKjBnjpMsDBDTHYV890",
+        "name": "Armageddon - The Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da8d92affd796f7e20af7375"
+      },
       "release_date": "1998-06-23",
       "popularity": 74
     },
     {
-      "trackId": "0pvjX3TISD3X96l9TV6Pe1",
-      "name": "Så länge skutan kan gå",
+      "track": {
+        "id": "0pvjX3TISD3X96l9TV6Pe1",
+        "name": "Så länge skutan kan gå"
+      },
       "duration_ms": 233183,
-      "artist": [
-        "Kleerup"
+      "artists": [
+        {
+          "name": "Kleerup",
+          "id": "2YL0l5fnyHE9FEf1bwFGCc"
+        }
       ],
-      "artistId": [
-        "2YL0l5fnyHE9FEf1bwFGCc"
-      ],
-      "albumId": "2UOjc5NJb94WsFF9tiIjhl",
+      "album": {
+        "id": "2UOjc5NJb94WsFF9tiIjhl",
+        "name": "Det var den sommaren",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247a208d741ff95bb470afe44"
+      },
       "release_date": "2016-01-01",
       "popularity": 25
     },
     {
-      "trackId": "32gyYqj6gwZvFRoGgsrFhy",
-      "name": "Gotlandsk Sommarnatt",
+      "track": {
+        "id": "32gyYqj6gwZvFRoGgsrFhy",
+        "name": "Gotlandsk Sommarnatt"
+      },
       "duration_ms": 110800,
-      "artist": [
-        "Ernie Englund"
+      "artists": [
+        {
+          "name": "Ernie Englund",
+          "id": "4RpMbrHkRdDu2QOgJwyiet"
+        }
       ],
-      "artistId": [
-        "4RpMbrHkRdDu2QOgJwyiet"
-      ],
-      "albumId": "0h2OVSK1cBJd3x8SzO6om7",
+      "album": {
+        "id": "0h2OVSK1cBJd3x8SzO6om7",
+        "name": "Svenska sommarhits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f02743bf64da1629f8a726b8"
+      },
       "release_date": "2002-01-01",
       "popularity": 30
     },
     {
-      "trackId": "7o2CTH4ctstm8TNelqjb51",
-      "name": "Sweet Child O' Mine",
+      "track": {
+        "id": "7o2CTH4ctstm8TNelqjb51",
+        "name": "Sweet Child O' Mine"
+      },
       "duration_ms": 354520,
-      "artist": [
-        "Guns N' Roses"
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC"
+        }
       ],
-      "artistId": [
-        "3qm84nBOXUEQ2vnTfUTTFC"
-      ],
-      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "album": {
+        "id": "3I9Z1nDCL4E0cP62flcbI5",
+        "name": "Appetite For Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60"
+      },
       "release_date": "1987-07-21",
       "popularity": 83
     },
     {
-      "trackId": "3BQHpFgAp4l80e1XslIjNI",
-      "name": "Yesterday - Remastered 2009",
+      "track": {
+        "id": "3BQHpFgAp4l80e1XslIjNI",
+        "name": "Yesterday - Remastered 2009"
+      },
       "duration_ms": 125666,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+      "album": {
+        "id": "0PT5m6hwPRrpBwIHVnvbFX",
+        "name": "Help! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa"
+      },
       "release_date": "1965-08-06",
       "popularity": 75
     },
     {
-      "trackId": "26oXjYgoTyhtY8OJ0vYbBD",
-      "name": "Vincero",
+      "track": {
+        "id": "26oXjYgoTyhtY8OJ0vYbBD",
+        "name": "Vincero"
+      },
       "duration_ms": 225640,
-      "artist": [
-        "Fredrik Kempe"
+      "artists": [
+        {
+          "name": "Fredrik Kempe",
+          "id": "5a3wjp9dcWyJitaiwXIsC7"
+        }
       ],
-      "artistId": [
-        "5a3wjp9dcWyJitaiwXIsC7"
-      ],
-      "albumId": "6sFyn9bcvCqdzs7ULVzAER",
+      "album": {
+        "id": "6sFyn9bcvCqdzs7ULVzAER",
+        "name": "Songs For Your Broken Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e027df2c00e101ef332648f3240"
+      },
       "release_date": "2002-01-01",
       "popularity": 38
     },
     {
-      "trackId": "1oHClQEgDmmbcEx12Kc5nZ",
-      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "track": {
+        "id": "1oHClQEgDmmbcEx12Kc5nZ",
+        "name": "4 Minutes (feat. Justin Timberlake & Timbaland)"
+      },
       "duration_ms": 189693,
-      "artist": [
-        "Madonna",
-        "Justin Timberlake",
-        "Timbaland"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Justin Timberlake",
+          "id": "31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW",
-        "31TPClRtHm23RisEBtV3X7",
-        "5Y5TRrQiqgUO4S36tzjIRZ"
-      ],
-      "albumId": "43lok9zd7BW5CoYkXZs7S0",
+      "album": {
+        "id": "43lok9zd7BW5CoYkXZs7S0",
+        "name": "Celebration (double disc version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f9f218b386e6aeb27184307"
+      },
       "release_date": "2009-09-18",
       "popularity": 71
     },
     {
-      "trackId": "0B52e8kJrbBzUfTMP1O4Ss",
-      "name": "Papirsklip",
+      "track": {
+        "id": "0B52e8kJrbBzUfTMP1O4Ss",
+        "name": "Papirsklip"
+      },
       "duration_ms": 202346,
-      "artist": [
-        "Kim Larsen"
+      "artists": [
+        {
+          "name": "Kim Larsen",
+          "id": "2ZQifdPOptKHxTaYTLh0BC"
+        }
       ],
-      "artistId": [
-        "2ZQifdPOptKHxTaYTLh0BC"
-      ],
-      "albumId": "2ANAhaU6vEtp1L9p2vBYxq",
+      "album": {
+        "id": "2ANAhaU6vEtp1L9p2vBYxq",
+        "name": "Midt Om Natten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a51078848b4ece664dc7e02a"
+      },
       "release_date": "1983",
       "popularity": 52
     }

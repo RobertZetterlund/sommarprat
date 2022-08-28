@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242424_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5asQ9qZcupS9TJiLWYuPo2",
-      "name": "Mellan månen och mitt fönster - Version",
+      "track": {
+        "id": "5asQ9qZcupS9TJiLWYuPo2",
+        "name": "Mellan månen och mitt fönster - Version"
+      },
       "duration_ms": 203586,
-      "artist": [
-        "Peter LeMarc"
+      "artists": [
+        {
+          "name": "Peter LeMarc",
+          "id": "4VKbol7eCoEJUemlKvE3Ve"
+        }
       ],
-      "artistId": [
-        "4VKbol7eCoEJUemlKvE3Ve"
-      ],
-      "albumId": "6xZEBi1qQoF2j4IkVYA5xO",
+      "album": {
+        "id": "6xZEBi1qQoF2j4IkVYA5xO",
+        "name": "LeMarc - Klassiker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3593a634876c6e748fa3424"
+      },
       "release_date": "1995-01-01",
       "popularity": 20
     },
     {
-      "trackId": "2PKqwOJE9GWpZVEOReRrUA",
-      "name": "Return of the Mack (Mark Morrison vs. Bad Royale)",
+      "track": {
+        "id": "2PKqwOJE9GWpZVEOReRrUA",
+        "name": "Return of the Mack (Mark Morrison vs. Bad Royale)"
+      },
       "duration_ms": 197294,
-      "artist": [
-        "Mark Morrison",
-        "Bad Royale"
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "id": "6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Bad Royale",
+          "id": "7kHe4uFK1KQFqMRP7td4mS"
+        }
       ],
-      "artistId": [
-        "6V3F8MZrOKdT9fU686ybE9",
-        "7kHe4uFK1KQFqMRP7td4mS"
-      ],
-      "albumId": "7uF3sq4XmkzvlKT62tr3sq",
+      "album": {
+        "id": "7uF3sq4XmkzvlKT62tr3sq",
+        "name": "Return of the Mack (Mark Morrison vs. Bad Royale)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b3dc13ac6a4c90307bfe4dc"
+      },
       "release_date": "2020-04-24",
       "popularity": 35
     },
     {
-      "trackId": "5MEuFY2DxrozPEgGpR8Fji",
-      "name": "Välkommen in",
+      "track": {
+        "id": "5MEuFY2DxrozPEgGpR8Fji",
+        "name": "Välkommen in"
+      },
       "duration_ms": 212453,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "2fOs6I0CgvaZj9agU8EAlH",
+      "album": {
+        "id": "2fOs6I0CgvaZj9agU8EAlH",
+        "name": "Satan i gatan (Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de25b67688e3520e24612209"
+      },
       "release_date": "2011-01-01",
       "popularity": 63
     },
     {
-      "trackId": "17f7vVLfZlSvoCTE0cfcBG",
-      "name": "The Fields Of Athenry",
+      "track": {
+        "id": "17f7vVLfZlSvoCTE0cfcBG",
+        "name": "The Fields Of Athenry"
+      },
       "duration_ms": 279680,
-      "artist": [
-        "The Dubliners"
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "id": "72RvmgEg2omdlMV9aExO6a"
+        }
       ],
-      "artistId": [
-        "72RvmgEg2omdlMV9aExO6a"
-      ],
-      "albumId": "6zSE18SYsAeMn6x8bmk6ZL",
+      "album": {
+        "id": "6zSE18SYsAeMn6x8bmk6ZL",
+        "name": "Live At The Gaiety",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a867e25878c573dc4fc1c0c7"
+      },
       "release_date": "2008-11-01",
       "popularity": 46
     },
     {
-      "trackId": "2RTs9X6kfS7D7oSsICcwS0",
-      "name": "Cabo Verde Mandá Mantenha",
+      "track": {
+        "id": "2RTs9X6kfS7D7oSsICcwS0",
+        "name": "Cabo Verde Mandá Mantenha"
+      },
       "duration_ms": 241800,
-      "artist": [
-        "Cesária Evora"
+      "artists": [
+        {
+          "name": "Cesária Evora",
+          "id": "0Nks3cFWU2a7rooAlFQYgn"
+        }
       ],
-      "artistId": [
-        "0Nks3cFWU2a7rooAlFQYgn"
-      ],
-      "albumId": "69n9wWU4RiRlGodII9vgnV",
+      "album": {
+        "id": "69n9wWU4RiRlGodII9vgnV",
+        "name": "Café Atlantico",
+        "img": "https://i.scdn.co/image/ab67616d00001e021059a0a8fcddb78f89a4c88e"
+      },
       "release_date": "1999-05-04",
       "popularity": 31
     },
     {
-      "trackId": "7E9rcVjE66zO7p4IwyhjBC",
-      "name": "Under ytan",
+      "track": {
+        "id": "7E9rcVjE66zO7p4IwyhjBC",
+        "name": "Under ytan"
+      },
       "duration_ms": 202706,
-      "artist": [
-        "Uno Svenningsson"
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "id": "65OPXmm2nfPvaX1fjHo8kR"
+        }
       ],
-      "artistId": [
-        "65OPXmm2nfPvaX1fjHo8kR"
-      ],
-      "albumId": "7uBv5UUDd1VQ0oklzZ90Ne",
+      "album": {
+        "id": "7uBv5UUDd1VQ0oklzZ90Ne",
+        "name": "Uno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb4163f280f9b91c7b700827"
+      },
       "release_date": "1994-08-27",
       "popularity": 45
     },
     {
-      "trackId": "6825upeGpYA3rrEosDKsGR",
-      "name": "Ooops Up",
+      "track": {
+        "id": "6825upeGpYA3rrEosDKsGR",
+        "name": "Ooops Up"
+      },
       "duration_ms": 402214,
-      "artist": [
-        "SNAP!"
+      "artists": [
+        {
+          "name": "SNAP!",
+          "id": "2FrKQPjJe4pVMZOgm0ESOx"
+        }
       ],
-      "artistId": [
-        "2FrKQPjJe4pVMZOgm0ESOx"
-      ],
-      "albumId": "40dT7brCvniJawDHpBCE4A",
+      "album": {
+        "id": "40dT7brCvniJawDHpBCE4A",
+        "name": "World Power",
+        "img": "https://i.scdn.co/image/ab67616d00001e02521fcfb205cf0baa97d8056d"
+      },
       "release_date": "1990-01-01",
       "popularity": 49
     },
     {
-      "trackId": "2bvzxeD1hPWEYotw40Euq9",
-      "name": "Wishing Well",
+      "track": {
+        "id": "2bvzxeD1hPWEYotw40Euq9",
+        "name": "Wishing Well"
+      },
       "duration_ms": 210466,
-      "artist": [
-        "Sananda Maitreya"
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "id": "6RGxLsQUoGk5PLyMVwb3yE"
+        }
       ],
-      "artistId": [
-        "6RGxLsQUoGk5PLyMVwb3yE"
-      ],
-      "albumId": "0nw38yniBfbluS93FdYcbE",
+      "album": {
+        "id": "0nw38yniBfbluS93FdYcbE",
+        "name": "Introducing The Hardline According To Terence Trent D'Arby",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f39310fa42ccd3e371ffa84"
+      },
       "release_date": "1987-07-06",
       "popularity": 58
     },
     {
-      "trackId": "45Ia1U4KtIjAPPU7Wv1Sea",
-      "name": "Are You Gonna Go My Way",
+      "track": {
+        "id": "45Ia1U4KtIjAPPU7Wv1Sea",
+        "name": "Are You Gonna Go My Way"
+      },
       "duration_ms": 211933,
-      "artist": [
-        "Lenny Kravitz"
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "id": "5gznATMVO85ZcLTkE9ULU7"
+        }
       ],
-      "artistId": [
-        "5gznATMVO85ZcLTkE9ULU7"
-      ],
-      "albumId": "35LzZH7Fgog8lf1hfcdoMQ",
+      "album": {
+        "id": "35LzZH7Fgog8lf1hfcdoMQ",
+        "name": "Are You Gonna Go My Way",
+        "img": "https://i.scdn.co/image/ab67616d00001e02542d87e4d1512bf7facb3860"
+      },
       "release_date": "1993-03-09",
       "popularity": 75
     },
     {
-      "trackId": "3QHONiXGMGU3z68mQInncF",
-      "name": "I'll Be Missing You (feat. 112)",
+      "track": {
+        "id": "3QHONiXGMGU3z68mQInncF",
+        "name": "I'll Be Missing You (feat. 112)"
+      },
       "duration_ms": 301520,
-      "artist": [
-        "Diddy",
-        "Faith Evans",
-        "112"
+      "artists": [
+        {
+          "name": "Diddy",
+          "id": "59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Faith Evans",
+          "id": "5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "112",
+          "id": "7urq0VfqxEYEEiZUkebXT4"
+        }
       ],
-      "artistId": [
-        "59wfkuBoNyhDMQGCljbUbA",
-        "5NDMothbpdpq2xHqSjrrWn",
-        "7urq0VfqxEYEEiZUkebXT4"
-      ],
-      "albumId": "46JQVqJpOg8opDLUl1qHT1",
+      "album": {
+        "id": "46JQVqJpOg8opDLUl1qHT1",
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ad6e5838f15401ff7d62856"
+      },
       "release_date": "2004-03-09",
       "popularity": 71
     },
     {
-      "trackId": "0Q0IVlqMV64kNLlwjPj0Hl",
-      "name": "Killing Me Softly With His Song",
+      "track": {
+        "id": "0Q0IVlqMV64kNLlwjPj0Hl",
+        "name": "Killing Me Softly With His Song"
+      },
       "duration_ms": 298773,
-      "artist": [
-        "Fugees",
-        "Ms. Lauryn Hill"
+      "artists": [
+        {
+          "name": "Fugees",
+          "id": "2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        }
       ],
-      "artistId": [
-        "2WKdxPFRD7IqZvlIAvhMgY",
-        "2Mu5NfyYm8n5iTomuKAEHl"
-      ],
-      "albumId": "18XFe4CPBgVezXkxZP6rTb",
+      "album": {
+        "id": "18XFe4CPBgVezXkxZP6rTb",
+        "name": "The Score (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137"
+      },
       "release_date": "1996-02-13",
       "popularity": 76
     },
     {
-      "trackId": "6VSA5vHrlYvqkAa5H2Um6j",
-      "name": "Ta de lugnt",
+      "track": {
+        "id": "6VSA5vHrlYvqkAa5H2Um6j",
+        "name": "Ta de lugnt"
+      },
       "duration_ms": 217053,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "38puzkTypCZVdMd4FefkL8",
+      "album": {
+        "id": "38puzkTypCZVdMd4FefkL8",
+        "name": "The botten is nådd",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d55e8e96bb2801a95a5011"
+      },
       "release_date": "2003-06-02",
       "popularity": 22
     },
     {
-      "trackId": "7BfW1eoDh27W69nxsmRicb",
-      "name": "Buffalo Soldier",
+      "track": {
+        "id": "7BfW1eoDh27W69nxsmRicb",
+        "name": "Buffalo Soldier"
+      },
       "duration_ms": 255840,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "5Rg4ZSwf1LPCuAMr0msdun",
+      "album": {
+        "id": "5Rg4ZSwf1LPCuAMr0msdun",
+        "name": "Confrontation",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e0b5fe0454234229e52a491"
+      },
       "release_date": "1983",
       "popularity": 73
     }

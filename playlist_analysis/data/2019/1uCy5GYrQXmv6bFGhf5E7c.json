@@ -7,178 +7,258 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/797f662f-b6ee-44d5-b824-9f648578cfd9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Y5m6eRxzXyLekE0mLyhCC",
-      "name": "Leave my shame",
+      "track": {
+        "id": "2Y5m6eRxzXyLekE0mLyhCC",
+        "name": "Leave my shame"
+      },
       "duration_ms": 211013,
-      "artist": [
-        "Stina Wollter"
+      "artists": [
+        {
+          "name": "Stina Wollter",
+          "id": "1Ny7UZ1mO95uKYhSPL6tV4"
+        }
       ],
-      "artistId": [
-        "1Ny7UZ1mO95uKYhSPL6tV4"
-      ],
-      "albumId": "03bf7mnp6PZWD64v2JYfCD",
+      "album": {
+        "id": "03bf7mnp6PZWD64v2JYfCD",
+        "name": "Garden songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248c565de13fab0cb64dbec9f"
+      },
       "release_date": "2018-04-06",
       "popularity": 27
     },
     {
-      "trackId": "128XLAOONHrTBqzyxGitDZ",
-      "name": "Dellen",
+      "track": {
+        "id": "128XLAOONHrTBqzyxGitDZ",
+        "name": "Dellen"
+      },
       "duration_ms": 214850,
-      "artist": [
-        "Östen Med Resten",
-        "Emma Härdelin"
+      "artists": [
+        {
+          "name": "Östen Med Resten",
+          "id": "20nKo8C8M0JpIznby9Dv5p"
+        },
+        {
+          "name": "Emma Härdelin",
+          "id": "5zZDo971ZuMzJeBnB3O6H0"
+        }
       ],
-      "artistId": [
-        "20nKo8C8M0JpIznby9Dv5p",
-        "5zZDo971ZuMzJeBnB3O6H0"
-      ],
-      "albumId": "4Eripu8SvG4rlmAEaWsglZ",
+      "album": {
+        "id": "4Eripu8SvG4rlmAEaWsglZ",
+        "name": "Dellen",
+        "img": "https://i.scdn.co/image/ab67616d00001e023c250dd36b07b67ff5c1d5b9"
+      },
       "release_date": "2021-01-22",
       "popularity": 20
     },
     {
-      "trackId": "2z6vx17ranLZ5o812Jx2ee",
-      "name": "Gråtlåten",
+      "track": {
+        "id": "2z6vx17ranLZ5o812Jx2ee",
+        "name": "Gråtlåten"
+      },
       "duration_ms": 218206,
-      "artist": [
-        "Sara Parkman",
-        "Samantha Ohlanders",
-        "Ellika Frisell"
+      "artists": [
+        {
+          "name": "Sara Parkman",
+          "id": "3QKspYZWuPR8sJ6WW1zAdw"
+        },
+        {
+          "name": "Samantha Ohlanders",
+          "id": "1JlYeVJ5xycoQRdC3r2NuX"
+        },
+        {
+          "name": "Ellika Frisell",
+          "id": "5EqC7VQdonemq8mqC9QRsP"
+        }
       ],
-      "artistId": [
-        "3QKspYZWuPR8sJ6WW1zAdw",
-        "1JlYeVJ5xycoQRdC3r2NuX",
-        "5EqC7VQdonemq8mqC9QRsP"
-      ],
-      "albumId": "5gQXw7s6MM3qIxUyCLes5G",
+      "album": {
+        "id": "5gQXw7s6MM3qIxUyCLes5G",
+        "name": "Matriarkerna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202082dca39a01bcdf77f2199"
+      },
       "release_date": "2017-11-03",
       "popularity": 14
     },
     {
-      "trackId": "7xxkKwLxSWzrejgKCuOoK0",
-      "name": "Polska i D-moll efter Hultkläppen",
+      "track": {
+        "id": "7xxkKwLxSWzrejgKCuOoK0",
+        "name": "Polska i D-moll efter Hultkläppen"
+      },
       "duration_ms": 173537,
-      "artist": [
-        "Thomas von Wachenfeldt"
+      "artists": [
+        {
+          "name": "Thomas von Wachenfeldt",
+          "id": "4j1RfF21tNCNxcPnzGqISV"
+        }
       ],
-      "artistId": [
-        "4j1RfF21tNCNxcPnzGqISV"
-      ],
-      "albumId": "62LOmDZxTHWYYnU1YeDOhD",
+      "album": {
+        "id": "62LOmDZxTHWYYnU1YeDOhD",
+        "name": "Polska i D-moll efter Hultkläppen",
+        "img": "https://i.scdn.co/image/ab67616d00001e022df4f668668dbf4909ef32b1"
+      },
       "release_date": "2018-12-03",
       "popularity": 1
     },
     {
-      "trackId": "1KisLC5k47O4hc7zzJmiF6",
-      "name": "Hålla Din Hand",
+      "track": {
+        "id": "1KisLC5k47O4hc7zzJmiF6",
+        "name": "Hålla Din Hand"
+      },
       "duration_ms": 239509,
-      "artist": [
-        "Doktor Kosmos"
+      "artists": [
+        {
+          "name": "Doktor Kosmos",
+          "id": "1n14d4zMN8otdsf3PU0krI"
+        }
       ],
-      "artistId": [
-        "1n14d4zMN8otdsf3PU0krI"
-      ],
-      "albumId": "4rJkabU2gVPZIlzxGDlHN2",
+      "album": {
+        "id": "4rJkabU2gVPZIlzxGDlHN2",
+        "name": "Hej Alla Barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02502221aa8054999cd6d1689c"
+      },
       "release_date": "2019-05-17",
       "popularity": 24
     },
     {
-      "trackId": "3B1QZcT1mnQQKknSTSjt8e",
-      "name": "Annorstädes vals",
+      "track": {
+        "id": "3B1QZcT1mnQQKknSTSjt8e",
+        "name": "Annorstädes vals"
+      },
       "duration_ms": 169960,
-      "artist": [
-        "Ingvar Wixell"
+      "artists": [
+        {
+          "name": "Ingvar Wixell",
+          "id": "4Ji71insQgY8xcElRz2jdc"
+        }
       ],
-      "artistId": [
-        "4Ji71insQgY8xcElRz2jdc"
-      ],
-      "albumId": "3cNpSXxkZG0wE2TnIbd66m",
+      "album": {
+        "id": "3cNpSXxkZG0wE2TnIbd66m",
+        "name": "Festivalfavoriter 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d6d36a5ac533b01509861eb"
+      },
       "release_date": "2007-02-02",
       "popularity": 9
     },
     {
-      "trackId": "56DWBKKeeEyKQGDThccBrs",
-      "name": "Påtalåten",
+      "track": {
+        "id": "56DWBKKeeEyKQGDThccBrs",
+        "name": "Påtalåten"
+      },
       "duration_ms": 193586,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "4SxDqdOTDrkv2A1erLHqsQ",
+      "album": {
+        "id": "4SxDqdOTDrkv2A1erLHqsQ",
+        "name": "74-87",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccb13f81aee54e6d6673824f"
+      },
       "release_date": "1975",
       "popularity": 35
     },
     {
-      "trackId": "3FWo404EVBJMXju9tiqwTr",
-      "name": "Fattigplatt",
+      "track": {
+        "id": "3FWo404EVBJMXju9tiqwTr",
+        "name": "Fattigplatt"
+      },
       "duration_ms": 382213,
-      "artist": [
-        "Västerbrokören"
+      "artists": [
+        {
+          "name": "Västerbrokören",
+          "id": "1H9I68iAsfYPvZw11D1ZZK"
+        }
       ],
-      "artistId": [
-        "1H9I68iAsfYPvZw11D1ZZK"
-      ],
-      "albumId": "50hjR6WtoYyfsxbl2zq8dX",
+      "album": {
+        "id": "50hjR6WtoYyfsxbl2zq8dX",
+        "name": "Svälg ditt läppstift",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d050d841bfd2f33be4462a2a"
+      },
       "release_date": "2018-11-23",
       "popularity": 5
     },
     {
-      "trackId": "53T2w0Gg3Q02rYyHh07m0A",
-      "name": "Lilla Kulturbidragsvalsen",
+      "track": {
+        "id": "53T2w0Gg3Q02rYyHh07m0A",
+        "name": "Lilla Kulturbidragsvalsen"
+      },
       "duration_ms": 207049,
-      "artist": [
-        "Väsen"
+      "artists": [
+        {
+          "name": "Väsen",
+          "id": "1Njrx1AMU4ymWHjfSlwLpE"
+        }
       ],
-      "artistId": [
-        "1Njrx1AMU4ymWHjfSlwLpE"
-      ],
-      "albumId": "5N4VblrjQ3ANxWJciDL9bv",
+      "album": {
+        "id": "5N4VblrjQ3ANxWJciDL9bv",
+        "name": "Mindset",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c89adf00d3ae65511c041b9"
+      },
       "release_date": "2013-01-16",
       "popularity": 32
     },
     {
-      "trackId": "6G1V1TM0TeHfQzIQSEKCsH",
-      "name": "Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -\"The Tempest\": 3. Allegretto - Live",
+      "track": {
+        "id": "6G1V1TM0TeHfQzIQSEKCsH",
+        "name": "Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -\"The Tempest\": 3. Allegretto - Live"
+      },
       "duration_ms": 457200,
-      "artist": [
-        "Ludwig van Beethoven",
-        "András Schiff"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "András Schiff",
+          "id": "24K6LTZFqBAvKsorwK0iXd"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "24K6LTZFqBAvKsorwK0iXd"
-      ],
-      "albumId": "0t3h0a12tYYJKAmVM43A1x",
+      "album": {
+        "id": "0t3h0a12tYYJKAmVM43A1x",
+        "name": "Beethoven: The Piano Sonatas, Volume V",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265631fbaa036e1bae971e1bd"
+      },
       "release_date": "2007-09-07",
       "popularity": 47
     },
     {
-      "trackId": "3WUbDhk6aPqSrUTJkGOq9r",
-      "name": "Innermost Peace",
+      "track": {
+        "id": "3WUbDhk6aPqSrUTJkGOq9r",
+        "name": "Innermost Peace"
+      },
       "duration_ms": 308066,
-      "artist": [
-        "Göran Månsson Band"
+      "artists": [
+        {
+          "name": "Göran Månsson Band",
+          "id": "6ZyLwpXfaexMPUwBSX02aK"
+        }
       ],
-      "artistId": [
-        "6ZyLwpXfaexMPUwBSX02aK"
-      ],
-      "albumId": "4KTjSvZrf1ZLFFX5GKbizJ",
+      "album": {
+        "id": "4KTjSvZrf1ZLFFX5GKbizJ",
+        "name": "Up North",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca9566efd3239fe0d8992766"
+      },
       "release_date": "2012-09-01",
       "popularity": 1
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

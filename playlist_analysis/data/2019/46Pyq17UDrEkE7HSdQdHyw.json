@@ -7,248 +7,358 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ac6724e3-5453-4ae8-a819-cb3bc810d528.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-      "name": "En stund på jorden",
+      "track": {
+        "id": "0Zii0Q4Z17kd1XMB27CQ2t",
+        "name": "En stund på jorden"
+      },
       "duration_ms": 232858,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 50
     },
     {
-      "trackId": "2rgHxOarlO4W35mg0IZ5u8",
-      "name": "This Town Ain't Big Enough For Both Of Us",
+      "track": {
+        "id": "2rgHxOarlO4W35mg0IZ5u8",
+        "name": "This Town Ain't Big Enough For Both Of Us"
+      },
       "duration_ms": 184600,
-      "artist": [
-        "Sparks"
+      "artists": [
+        {
+          "name": "Sparks",
+          "id": "7pwjGKaqnfkvS7eQbHaqyH"
+        }
       ],
-      "artistId": [
-        "7pwjGKaqnfkvS7eQbHaqyH"
-      ],
-      "albumId": "7KOmuu3cbJQEQYGt3XmLmY",
+      "album": {
+        "id": "7KOmuu3cbJQEQYGt3XmLmY",
+        "name": "Kimono My House",
+        "img": "https://i.scdn.co/image/ab67616d00001e027aebbd28dd4cfaca652008b7"
+      },
       "release_date": "1974-05",
       "popularity": 53
     },
     {
-      "trackId": "5CAywHU7hnMrEabrwVT1Ro",
-      "name": "Don't Fence Me In",
+      "track": {
+        "id": "5CAywHU7hnMrEabrwVT1Ro",
+        "name": "Don't Fence Me In"
+      },
       "duration_ms": 169179,
-      "artist": [
-        "Labrinth"
+      "artists": [
+        {
+          "name": "Labrinth",
+          "id": "2feDdbD5araYcm6JhFHHw7"
+        }
       ],
-      "artistId": [
-        "2feDdbD5araYcm6JhFHHw7"
-      ],
-      "albumId": "1OVpRLg5hJOeAFGq09V21c",
+      "album": {
+        "id": "1OVpRLg5hJOeAFGq09V21c",
+        "name": "Don't Fence Me In",
+        "img": "https://i.scdn.co/image/ab67616d00001e021915a273e108108ddaed8e69"
+      },
       "release_date": "2019-01-15",
       "popularity": 36
     },
     {
-      "trackId": "2Uz5iX4KWFLBHe2oswcaPQ",
-      "name": "Swing it Magistern",
+      "track": {
+        "id": "2Uz5iX4KWFLBHe2oswcaPQ",
+        "name": "Swing it Magistern"
+      },
       "duration_ms": 214253,
-      "artist": [
-        "Titti Sjöblom",
-        "Ehrling Eliasson"
+      "artists": [
+        {
+          "name": "Titti Sjöblom",
+          "id": "5kPYwmgz8UgnBTI2tmqIHP"
+        },
+        {
+          "name": "Ehrling Eliasson",
+          "id": "5z1pe4m6P1ywiOwsICM1fT"
+        }
       ],
-      "artistId": [
-        "5kPYwmgz8UgnBTI2tmqIHP",
-        "5z1pe4m6P1ywiOwsICM1fT"
-      ],
-      "albumId": "6KakL7a9GCFqVve7PKHJAi",
+      "album": {
+        "id": "6KakL7a9GCFqVve7PKHJAi",
+        "name": "Alice Babs - Mamma & Idol",
+        "img": "https://i.scdn.co/image/ab67616d00001e02937f101a5c3c36ac38b7b968"
+      },
       "release_date": "2014",
       "popularity": 0
     },
     {
-      "trackId": "563dMvpmbyo9UycIkMY6SZ",
-      "name": "I Mumindalen",
+      "track": {
+        "id": "563dMvpmbyo9UycIkMY6SZ",
+        "name": "I Mumindalen"
+      },
       "duration_ms": 189240,
-      "artist": [
-        "Tove Jansson",
-        "Mumintrollen",
-        "Mumin"
+      "artists": [
+        {
+          "name": "Tove Jansson",
+          "id": "0CXfq61wfiH7rvmJ7O0Ct4"
+        },
+        {
+          "name": "Mumintrollen",
+          "id": "6SXUdE8lwqmLKPQgyGrpUP"
+        },
+        {
+          "name": "Mumin",
+          "id": "1CG3qCwsmo5TtUEEEdla4u"
+        }
       ],
-      "artistId": [
-        "0CXfq61wfiH7rvmJ7O0Ct4",
-        "6SXUdE8lwqmLKPQgyGrpUP",
-        "1CG3qCwsmo5TtUEEEdla4u"
-      ],
-      "albumId": "7lb8Hu1ODGpOj7dDiXo0FB",
+      "album": {
+        "id": "7lb8Hu1ODGpOj7dDiXo0FB",
+        "name": "Min egen Mumin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa02c0fb728cee53603ca214"
+      },
       "release_date": "1992",
       "popularity": 33
     },
     {
-      "trackId": "1w9bL991svVXbjvgQuAEuE",
-      "name": "Jag vill sjunga och ropa",
+      "track": {
+        "id": "1w9bL991svVXbjvgQuAEuE",
+        "name": "Jag vill sjunga och ropa"
+      },
       "duration_ms": 224840,
-      "artist": [
-        "Lars-Åke Lundberg"
+      "artists": [
+        {
+          "name": "Lars-Åke Lundberg",
+          "id": "5Yogk0skvjHQBvvK8Awmro"
+        }
       ],
-      "artistId": [
-        "5Yogk0skvjHQBvvK8Awmro"
-      ],
-      "albumId": "505kppsWd81pR719mu8k13",
+      "album": {
+        "id": "505kppsWd81pR719mu8k13",
+        "name": "Vi sätter oss i ringen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf0206d44fdded26946725fd"
+      },
       "release_date": "1972",
       "popularity": 1
     },
     {
-      "trackId": "7r4V3ncDaRcz2DoFKIX3JS",
-      "name": "Flyttfåglarna",
+      "track": {
+        "id": "7r4V3ncDaRcz2DoFKIX3JS",
+        "name": "Flyttfåglarna"
+      },
       "duration_ms": 142093,
-      "artist": [
-        "Artur Erikson"
+      "artists": [
+        {
+          "name": "Artur Erikson",
+          "id": "4HspmSf8SAId14Sdad6QJU"
+        }
       ],
-      "artistId": [
-        "4HspmSf8SAId14Sdad6QJU"
-      ],
-      "albumId": "3KdCoToKMkodtztflstAXj",
+      "album": {
+        "id": "3KdCoToKMkodtztflstAXj",
+        "name": "När den evigt klara morgon gryr",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279821a1105f3aeffd2c223c3"
+      },
       "release_date": "1968",
       "popularity": 12
     },
     {
-      "trackId": "7JgvMqkRSgoxlZOyxjf8sE",
-      "name": "Well Did You Evah!",
+      "track": {
+        "id": "7JgvMqkRSgoxlZOyxjf8sE",
+        "name": "Well Did You Evah!"
+      },
       "duration_ms": 209040,
-      "artist": [
-        "Debbie Harry",
-        "Iggy Pop"
+      "artists": [
+        {
+          "name": "Debbie Harry",
+          "id": "7FxMjqH6DH056sdsstGeVl"
+        },
+        {
+          "name": "Iggy Pop",
+          "id": "33EUXrFKGjpUSGacqEHhU4"
+        }
       ],
-      "artistId": [
-        "7FxMjqH6DH056sdsstGeVl",
-        "33EUXrFKGjpUSGacqEHhU4"
-      ],
-      "albumId": "6yv9QuiWw5udCMAJu523ZW",
+      "album": {
+        "id": "6yv9QuiWw5udCMAJu523ZW",
+        "name": "Most of All: The Best of Deborah Harry",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b2aac2beb3cea28ae10a5e2"
+      },
       "release_date": "1999-10-04",
       "popularity": 16
     },
     {
-      "trackId": "3BtLUQKv8rBKVqXb23XWci",
-      "name": "Miss Otis Regrets",
+      "track": {
+        "id": "3BtLUQKv8rBKVqXb23XWci",
+        "name": "Miss Otis Regrets"
+      },
       "duration_ms": 157333,
-      "artist": [
-        "Bette Midler"
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "id": "13y0kncDD4J9wxCyfKr10W"
+        }
       ],
-      "artistId": [
-        "13y0kncDD4J9wxCyfKr10W"
-      ],
-      "albumId": "0pVxC28TGjIk0SEqm7wUCD",
+      "album": {
+        "id": "0pVxC28TGjIk0SEqm7wUCD",
+        "name": "Experience The Divine (Greatest Hits)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ef7ac5a82dc411eca6badc5"
+      },
       "release_date": "1993",
       "popularity": 26
     },
     {
-      "trackId": "2ZWKuGuQ087pzwK4vO4E31",
-      "name": "Lady Stardust - 2012 Remaster",
+      "track": {
+        "id": "2ZWKuGuQ087pzwK4vO4E31",
+        "name": "Lady Stardust - 2012 Remaster"
+      },
       "duration_ms": 201426,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "48D1hRORqJq52qsnUYZX56",
+      "album": {
+        "id": "48D1hRORqJq52qsnUYZX56",
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680"
+      },
       "release_date": "1972-06-06",
       "popularity": 54
     },
     {
-      "trackId": "7iceFyXQeIaDuIxIlJZrGB",
-      "name": "Revolution",
+      "track": {
+        "id": "7iceFyXQeIaDuIxIlJZrGB",
+        "name": "Revolution"
+      },
       "duration_ms": 260813,
-      "artist": [
-        "Elias"
+      "artists": [
+        {
+          "name": "Elias",
+          "id": "0UCLbPGOhtnYf29U7qbfLf"
+        }
       ],
-      "artistId": [
-        "0UCLbPGOhtnYf29U7qbfLf"
-      ],
-      "albumId": "0ysbz1S6Ml5PdyN4qqsj94",
+      "album": {
+        "id": "0ysbz1S6Ml5PdyN4qqsj94",
+        "name": "Entwined",
+        "img": "https://i.scdn.co/image/ab67616d00001e02783a135cd8086818deb7ca80"
+      },
       "release_date": "2018-06-15",
       "popularity": 47
     },
     {
-      "trackId": "2o8d8EMYgi9h4HJWHunTl1",
-      "name": "He's Funny That Way",
+      "track": {
+        "id": "2o8d8EMYgi9h4HJWHunTl1",
+        "name": "He's Funny That Way"
+      },
       "duration_ms": 210453,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "1Roqqh9z76dk77g98fiR2E",
+      "album": {
+        "id": "1Roqqh9z76dk77g98fiR2E",
+        "name": "Universal Love - Wedding Songs Reimagined",
+        "img": "https://i.scdn.co/image/ab67616d00001e02354a826aa4d59e22371c6ee0"
+      },
       "release_date": "2018-04-05",
       "popularity": 23
     },
     {
-      "trackId": "3OuMjpeIflZDHEepZRplmC",
-      "name": "Just A Gigolo - From “Just A Gigolo”",
+      "track": {
+        "id": "3OuMjpeIflZDHEepZRplmC",
+        "name": "Just A Gigolo - From “Just A Gigolo”"
+      },
       "duration_ms": 205746,
-      "artist": [
-        "Marlene Dietrich"
+      "artists": [
+        {
+          "name": "Marlene Dietrich",
+          "id": "3UuPzfQMdGK40O8Rj9jqVM"
+        }
       ],
-      "artistId": [
-        "3UuPzfQMdGK40O8Rj9jqVM"
-      ],
-      "albumId": "69XO7o4wdbJsTHgCQ4OkrY",
+      "album": {
+        "id": "69XO7o4wdbJsTHgCQ4OkrY",
+        "name": "The Ultimate Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e023769d7f8d07b7ce223431ff2"
+      },
       "release_date": "2015-11-27",
       "popularity": 17
     },
     {
-      "trackId": "2usba4Vw5KZJziq3ULIZ1g",
-      "name": "Ett bloss för moster Lillie",
+      "track": {
+        "id": "2usba4Vw5KZJziq3ULIZ1g",
+        "name": "Ett bloss för moster Lillie"
+      },
       "duration_ms": 222200,
-      "artist": [
-        "Lena Nyman"
+      "artists": [
+        {
+          "name": "Lena Nyman",
+          "id": "1UZ0FcVCkQFtDSMUqnwNrB"
+        }
       ],
-      "artistId": [
-        "1UZ0FcVCkQFtDSMUqnwNrB"
-      ],
-      "albumId": "1Ks5V46wA2zwxNAPl4PDWx",
+      "album": {
+        "id": "1Ks5V46wA2zwxNAPl4PDWx",
+        "name": "Bloss",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fdecc88ad8081a02f3f23f3"
+      },
       "release_date": "1997",
       "popularity": 27
     },
     {
-      "trackId": "0VZoywpdMocpfq3fcYpvMs",
-      "name": "Det finns en väg",
+      "track": {
+        "id": "0VZoywpdMocpfq3fcYpvMs",
+        "name": "Det finns en väg"
+      },
       "duration_ms": 186253,
-      "artist": [
-        "Jonas Gardell"
+      "artists": [
+        {
+          "name": "Jonas Gardell",
+          "id": "5JAuEHFIUj9FqnQRrsmISo"
+        }
       ],
-      "artistId": [
-        "5JAuEHFIUj9FqnQRrsmISo"
-      ],
-      "albumId": "1SXdjqrIj85AGunmdmMeqd",
+      "album": {
+        "id": "1SXdjqrIj85AGunmdmMeqd",
+        "name": "Det finns en väg",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2aa14cf5927e0cd34740229"
+      },
       "release_date": "2018-02-10",
       "popularity": 23
     },
     {
-      "trackId": "5S8EZuiSNFR2N5eG58oISQ",
-      "name": "It Takes A Fool To Remain Sane",
+      "track": {
+        "id": "5S8EZuiSNFR2N5eG58oISQ",
+        "name": "It Takes A Fool To Remain Sane"
+      },
       "duration_ms": 236400,
-      "artist": [
-        "The Ark"
+      "artists": [
+        {
+          "name": "The Ark",
+          "id": "73ib5ljBj2xAIR7R3hTwF4"
+        }
       ],
-      "artistId": [
-        "73ib5ljBj2xAIR7R3hTwF4"
-      ],
-      "albumId": "4zvEPDfNKoC15SoNOAEkBR",
+      "album": {
+        "id": "4zvEPDfNKoC15SoNOAEkBR",
+        "name": "We Are The Ark",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283391d5d31e98eabefc400fd"
+      },
       "release_date": "2000-09-25",
       "popularity": 52
     },
     {
-      "trackId": "5uhJnZd0m9Xz3GafDeMJxK",
-      "name": "Kingdom Come",
+      "track": {
+        "id": "5uhJnZd0m9Xz3GafDeMJxK",
+        "name": "Kingdom Come"
+      },
       "duration_ms": 252080,
-      "artist": [
-        "The Souljazz Orchestra"
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "id": "0MiCOT2cVYso39XSskiUUo"
+        }
       ],
-      "artistId": [
-        "0MiCOT2cVYso39XSskiUUo"
-      ],
-      "albumId": "2w28yTFohFkW0UnIGKqLdY",
+      "album": {
+        "id": "2w28yTFohFkW0UnIGKqLdY",
+        "name": "Inner Fire",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ec8168b682d187436172fe6"
+      },
       "release_date": "2014-02-24",
       "popularity": 44
     }

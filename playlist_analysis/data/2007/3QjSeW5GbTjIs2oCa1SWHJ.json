@@ -7,118 +7,170 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257896_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7AYGI7SfoNfDJs2B20wUjS",
-      "name": "Bullfest",
+      "track": {
+        "id": "7AYGI7SfoNfDJs2B20wUjS",
+        "name": "Bullfest"
+      },
       "duration_ms": 172440,
-      "artist": [
-        "Sigge Fürst"
+      "artists": [
+        {
+          "name": "Sigge Fürst",
+          "id": "7835xq833eMio3iZsP4vLu"
+        }
       ],
-      "artistId": [
-        "7835xq833eMio3iZsP4vLu"
-      ],
-      "albumId": "6vB3BKVHCddW6QnOElncZr",
+      "album": {
+        "id": "6vB3BKVHCddW6QnOElncZr",
+        "name": "Svenska år: 1949 - Ett dubbelnöje",
+        "img": "https://i.scdn.co/image/ab67616d00001e020512c2b4b21abb1d2a641511"
+      },
       "release_date": "2009-09-14",
       "popularity": 30
     },
     {
-      "trackId": "5gtZZga52R9mL53GZD2Rgr",
-      "name": "En gång jag seglar i hamn",
+      "track": {
+        "id": "5gtZZga52R9mL53GZD2Rgr",
+        "name": "En gång jag seglar i hamn"
+      },
       "duration_ms": 163733,
-      "artist": [
-        "Stig Olin"
+      "artists": [
+        {
+          "name": "Stig Olin",
+          "id": "002Km70IpHm8DmiiFWy6mv"
+        }
       ],
-      "artistId": [
-        "002Km70IpHm8DmiiFWy6mv"
-      ],
-      "albumId": "2UCWZMZzb1VdOIyqm1zgj9",
+      "album": {
+        "id": "2UCWZMZzb1VdOIyqm1zgj9",
+        "name": "Diamanter - 50-talet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02769481fbdf4cdfe64d8305ae"
+      },
       "release_date": "2007-04-27",
       "popularity": 26
     },
     {
-      "trackId": "3QHONiXGMGU3z68mQInncF",
-      "name": "I'll Be Missing You (feat. 112)",
+      "track": {
+        "id": "3QHONiXGMGU3z68mQInncF",
+        "name": "I'll Be Missing You (feat. 112)"
+      },
       "duration_ms": 301520,
-      "artist": [
-        "Diddy",
-        "Faith Evans",
-        "112"
+      "artists": [
+        {
+          "name": "Diddy",
+          "id": "59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Faith Evans",
+          "id": "5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "112",
+          "id": "7urq0VfqxEYEEiZUkebXT4"
+        }
       ],
-      "artistId": [
-        "59wfkuBoNyhDMQGCljbUbA",
-        "5NDMothbpdpq2xHqSjrrWn",
-        "7urq0VfqxEYEEiZUkebXT4"
-      ],
-      "albumId": "46JQVqJpOg8opDLUl1qHT1",
+      "album": {
+        "id": "46JQVqJpOg8opDLUl1qHT1",
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ad6e5838f15401ff7d62856"
+      },
       "release_date": "2004-03-09",
       "popularity": 71
     },
     {
-      "trackId": "7mOfeDExZHCImmcmGYrv3T",
-      "name": "I Need To Wake Up",
+      "track": {
+        "id": "7mOfeDExZHCImmcmGYrv3T",
+        "name": "I Need To Wake Up"
+      },
       "duration_ms": 213880,
-      "artist": [
-        "Melissa Etheridge"
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "id": "01Ppu7N8uYJI8SAONo2YZA"
+        }
       ],
-      "artistId": [
-        "01Ppu7N8uYJI8SAONo2YZA"
-      ],
-      "albumId": "4KkOtgBFxbOPBshZYEzt0P",
+      "album": {
+        "id": "4KkOtgBFxbOPBshZYEzt0P",
+        "name": "Greatest Hits: The Road Less Traveled",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8d5630851491429bbd21ab4"
+      },
       "release_date": "2005-10-18",
       "popularity": 31
     },
     {
-      "trackId": "2DpTsOEwX4qGvBBUmfwduK",
-      "name": "Hurricane Country - Havana/Soundtrack Version",
+      "track": {
+        "id": "2DpTsOEwX4qGvBBUmfwduK",
+        "name": "Hurricane Country - Havana/Soundtrack Version"
+      },
       "duration_ms": 299533,
-      "artist": [
-        "Dave Grusin"
+      "artists": [
+        {
+          "name": "Dave Grusin",
+          "id": "0SPkat5bgfP5wo2kbqZIwu"
+        }
       ],
-      "artistId": [
-        "0SPkat5bgfP5wo2kbqZIwu"
-      ],
-      "albumId": "1caA7EbEqowrG82GWhi2O4",
+      "album": {
+        "id": "1caA7EbEqowrG82GWhi2O4",
+        "name": "Havana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f4be84f753a64d7745d3c6b7"
+      },
       "release_date": "1990-01-01",
       "popularity": 9
     },
     {
-      "trackId": "3gjsECEyGpX3DXIFCO407o",
-      "name": "Take The \"A\" Train",
+      "track": {
+        "id": "3gjsECEyGpX3DXIFCO407o",
+        "name": "Take The \"A\" Train"
+      },
       "duration_ms": 184186,
-      "artist": [
-        "Oscar Peterson"
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "id": "6zkX5fhrSD4tdVOmimR9wB"
+        }
       ],
-      "artistId": [
-        "6zkX5fhrSD4tdVOmimR9wB"
-      ],
-      "albumId": "1pKJpLhilpDIcpVPtyxvMc",
+      "album": {
+        "id": "1pKJpLhilpDIcpVPtyxvMc",
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "img": "https://i.scdn.co/image/ab67616d00001e02700dde28095d360f7317a416"
+      },
       "release_date": "1960-02-15",
       "popularity": 38
     },
     {
-      "trackId": "5GyKjgNEyJSQaKXHrtKtZt",
-      "name": "I'm Like A Bird",
+      "track": {
+        "id": "5GyKjgNEyJSQaKXHrtKtZt",
+        "name": "I'm Like A Bird"
+      },
       "duration_ms": 243160,
-      "artist": [
-        "Nelly Furtado"
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "id": "2jw70GZXlAI8QzWeY2bgRc"
+        }
       ],
-      "artistId": [
-        "2jw70GZXlAI8QzWeY2bgRc"
-      ],
-      "albumId": "5s7nQXAAXWUZiIkyniCb2T",
+      "album": {
+        "id": "5s7nQXAAXWUZiIkyniCb2T",
+        "name": "Kids Songs: Family Day!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02362f86f844060049d4debd53"
+      },
       "release_date": "2022-08-17",
       "popularity": 1
     },
     {
-      "trackId": "1ckU1EhAO0Nr73QYw24SWJ",
-      "name": "My Love Is Your Love",
+      "track": {
+        "id": "1ckU1EhAO0Nr73QYw24SWJ",
+        "name": "My Love Is Your Love"
+      },
       "duration_ms": 261573,
-      "artist": [
-        "Whitney Houston"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP"
-      ],
-      "albumId": "00NABajpGsPCObfcl4LJsM",
+      "album": {
+        "id": "00NABajpGsPCObfcl4LJsM",
+        "name": "My Love Is Your Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284b84d08fdbaebb99098890c"
+      },
       "release_date": "1998-11-17",
       "popularity": 67
     }

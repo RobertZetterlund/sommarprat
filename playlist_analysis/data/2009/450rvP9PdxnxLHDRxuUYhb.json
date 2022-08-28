@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3246546_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1l54QxfWWAWHwkOjbxx0m5",
-      "name": "En sång till en vän",
+      "track": {
+        "id": "1l54QxfWWAWHwkOjbxx0m5",
+        "name": "En sång till en vän"
+      },
       "duration_ms": 269270,
-      "artist": [
-        "Johan Eriksson"
+      "artists": [
+        {
+          "name": "Johan Eriksson",
+          "id": "4TUwxsw6TF2tHxexUNVnNu"
+        }
       ],
-      "artistId": [
-        "4TUwxsw6TF2tHxexUNVnNu"
-      ],
-      "albumId": "19ygbo5CGSwF1ONVBDzg7S",
+      "album": {
+        "id": "19ygbo5CGSwF1ONVBDzg7S",
+        "name": "En sång till en vän / Song For A Friend",
+        "img": "https://i.scdn.co/image/ab67616d00001e029cd672e87aa0a0260fd40b8d"
+      },
       "release_date": "2021-03-02",
       "popularity": 10
     },
     {
-      "trackId": "46p30TZPuiUiOPXAljoOnb",
-      "name": "Persuaders",
+      "track": {
+        "id": "46p30TZPuiUiOPXAljoOnb",
+        "name": "Persuaders"
+      },
       "duration_ms": 147826,
-      "artist": [
-        "Nylon 66'ers"
+      "artists": [
+        {
+          "name": "Nylon 66'ers",
+          "id": "1nCTpkTDbnzkfVvfUSEnt6"
+        }
       ],
-      "artistId": [
-        "1nCTpkTDbnzkfVvfUSEnt6"
-      ],
-      "albumId": "3CLIecPSCRHevY0OWiAdzt",
+      "album": {
+        "id": "3CLIecPSCRHevY0OWiAdzt",
+        "name": "Absurdo",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a44323592f0a1482f998813"
+      },
       "release_date": "1993",
       "popularity": 0
     },
     {
-      "trackId": "51cCsvHThwnJwf2E0llXn4",
-      "name": "Stäm Blod",
+      "track": {
+        "id": "51cCsvHThwnJwf2E0llXn4",
+        "name": "Stäm Blod"
+      },
       "duration_ms": 256133,
-      "artist": [
-        "Iodine Jupiter"
+      "artists": [
+        {
+          "name": "Iodine Jupiter",
+          "id": "6czEjrx3sTUTF3HYNmOeg1"
+        }
       ],
-      "artistId": [
-        "6czEjrx3sTUTF3HYNmOeg1"
-      ],
-      "albumId": "1q1AgnIz73k39GFMCHavMs",
+      "album": {
+        "id": "1q1AgnIz73k39GFMCHavMs",
+        "name": "Lilla Flickan Zombie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fcd7b9243e5948da1836a2b5"
+      },
       "release_date": "1995-10-30",
       "popularity": 4
     },
     {
-      "trackId": "4hHbeIIKO5Y5uLyIEbY9Gn",
-      "name": "Come Fly With Me - Remastered 1998",
+      "track": {
+        "id": "4hHbeIIKO5Y5uLyIEbY9Gn",
+        "name": "Come Fly With Me - Remastered 1998"
+      },
       "duration_ms": 199093,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
+      "album": {
+        "id": "66v9QmjAj0Wwhh2OpbU4BE",
+        "name": "Come Fly With Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02068a5559744d17bd5e871740"
+      },
       "release_date": "1958",
       "popularity": 65
     },
     {
-      "trackId": "5Q7ayTarb9Tpmkik5cVMug",
-      "name": "Viva Las Vegas",
+      "track": {
+        "id": "5Q7ayTarb9Tpmkik5cVMug",
+        "name": "Viva Las Vegas"
+      },
       "duration_ms": 144840,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ufobt4J5vaT3z7lgUub6a",
+      "album": {
+        "id": "3ufobt4J5vaT3z7lgUub6a",
+        "name": "Elvis' Gold Records, Vol. 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02615da669de17a4432e5a4824"
+      },
       "release_date": "1968-01-22",
       "popularity": 65
     },
     {
-      "trackId": "7Duqn8un04Nz5n4PWk83Q5",
-      "name": "Ready to Go",
+      "track": {
+        "id": "7Duqn8un04Nz5n4PWk83Q5",
+        "name": "Ready to Go"
+      },
       "duration_ms": 301933,
-      "artist": [
-        "Republica"
+      "artists": [
+        {
+          "name": "Republica",
+          "id": "06YQ6XwCdPUn8rAXV70gge"
+        }
       ],
-      "artistId": [
-        "06YQ6XwCdPUn8rAXV70gge"
-      ],
-      "albumId": "7GSMMsVZatrRySHVLlrJ2h",
+      "album": {
+        "id": "7GSMMsVZatrRySHVLlrJ2h",
+        "name": "Republica",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d577eba3860affba2f2d334"
+      },
       "release_date": "1996",
       "popularity": 53
     },
     {
-      "trackId": "0VV8wkOM4w78A2OHZOTzNP",
-      "name": "Live And Let Die - 2018 Remaster",
+      "track": {
+        "id": "0VV8wkOM4w78A2OHZOTzNP",
+        "name": "Live And Let Die - 2018 Remaster"
+      },
       "duration_ms": 192773,
-      "artist": [
-        "Wings"
+      "artists": [
+        {
+          "name": "Wings",
+          "id": "3sFhA6G1N0gG1pszb6kk1m"
+        }
       ],
-      "artistId": [
-        "3sFhA6G1N0gG1pszb6kk1m"
-      ],
-      "albumId": "1RzrSgWinUzgsnw3oQDXOy",
+      "album": {
+        "id": "1RzrSgWinUzgsnw3oQDXOy",
+        "name": "Red Rose Speedway (Archive Collection)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02395734c8512bd160c6ee3f56"
+      },
       "release_date": "1973-04-30",
       "popularity": 64
     },
     {
-      "trackId": "38zsOOcu31XbbYj9BIPUF1",
-      "name": "Your Song",
+      "track": {
+        "id": "38zsOOcu31XbbYj9BIPUF1",
+        "name": "Your Song"
+      },
       "duration_ms": 241786,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "69P9Ro0W286yLFgYwrGVN0",
+      "album": {
+        "id": "69P9Ro0W286yLFgYwrGVN0",
+        "name": "Elton John",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b292ed7c7360a04d3d6b74a"
+      },
       "release_date": "1970-04-10",
       "popularity": 78
     },
     {
-      "trackId": "4pyVfb9OoiVhg6ZqaWwT74",
-      "name": "A Kind Of Magic",
+      "track": {
+        "id": "4pyVfb9OoiVhg6ZqaWwT74",
+        "name": "A Kind Of Magic"
+      },
       "duration_ms": 284106,
-      "artist": [
-        "Elaine Paige"
+      "artists": [
+        {
+          "name": "Elaine Paige",
+          "id": "7KckozT8XPOqtgJjpAcrnA"
+        }
       ],
-      "artistId": [
-        "7KckozT8XPOqtgJjpAcrnA"
-      ],
-      "albumId": "5XRlRppPnRGKKSmNtrEFbx",
+      "album": {
+        "id": "5XRlRppPnRGKKSmNtrEFbx",
+        "name": "The Queen Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e026405ab239061fb32c7318349"
+      },
       "release_date": "1988-01-01",
       "popularity": 2
     },
     {
-      "trackId": "6EPRKhUOdiFSQwGBRBbvsZ",
-      "name": "Ace of Spades",
+      "track": {
+        "id": "6EPRKhUOdiFSQwGBRBbvsZ",
+        "name": "Ace of Spades"
+      },
       "duration_ms": 166360,
-      "artist": [
-        "Motörhead"
+      "artists": [
+        {
+          "name": "Motörhead",
+          "id": "1DFr97A9HnbV3SKTJFu62M"
+        }
       ],
-      "artistId": [
-        "1DFr97A9HnbV3SKTJFu62M"
-      ],
-      "albumId": "3rxF05Aux0QTrN533Kjc91",
+      "album": {
+        "id": "3rxF05Aux0QTrN533Kjc91",
+        "name": "Ace of Spades (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022051e219a4af7648223953c1"
+      },
       "release_date": "1980-11-08",
       "popularity": 74
     },
     {
-      "trackId": "0SLtqCrXBRrnkxSOMA3X4W",
-      "name": "Let Me Entertain You",
+      "track": {
+        "id": "0SLtqCrXBRrnkxSOMA3X4W",
+        "name": "Let Me Entertain You"
+      },
       "duration_ms": 262000,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
+      "album": {
+        "id": "31Sx9uz9KqlvmX07Pvp0wN",
+        "name": "Life Thru A Lens",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c36cf94d717475042f6bb0f3"
+      },
       "release_date": "1997-01-01",
       "popularity": 66
     }

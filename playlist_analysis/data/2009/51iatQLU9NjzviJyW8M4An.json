@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3246496_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3SOolXGudRj8IbpmEFPAj1",
-      "name": "The Best Is Yet To Come",
+      "track": {
+        "id": "3SOolXGudRj8IbpmEFPAj1",
+        "name": "The Best Is Yet To Come"
+      },
       "duration_ms": 207800,
-      "artist": [
-        "Stacey Kent"
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "id": "03EYBMnqSchCMp5D9qmFXi"
+        }
       ],
-      "artistId": [
-        "03EYBMnqSchCMp5D9qmFXi"
-      ],
-      "albumId": "1A5ThMX4BueAGS2d8geecc",
+      "album": {
+        "id": "1A5ThMX4BueAGS2d8geecc",
+        "name": "The Boy Next Door (Special Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248cf733d555bd7f6e663254d"
+      },
       "release_date": "2003",
       "popularity": 41
     },
     {
-      "trackId": "6qNCLr8GOZOMZJKjfIhxiE",
-      "name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version",
+      "track": {
+        "id": "6qNCLr8GOZOMZJKjfIhxiE",
+        "name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version"
+      },
       "duration_ms": 202360,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "7BHw2NR6r6GRfsaojQL9xk",
+      "album": {
+        "id": "7BHw2NR6r6GRfsaojQL9xk",
+        "name": "Diana Ross",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245b84ee384d91b7973e4955f"
+      },
       "release_date": "1976-02-10",
       "popularity": 52
     },
     {
-      "trackId": "6NqifdCpPVpkOX2soLxFXq",
-      "name": "Yentl: Papa, Can You Hear Me?",
+      "track": {
+        "id": "6NqifdCpPVpkOX2soLxFXq",
+        "name": "Yentl: Papa, Can You Hear Me?"
+      },
       "duration_ms": 298733,
-      "artist": [
-        "Michel Legrand",
-        "Itzhak Perlman",
-        "John Williams"
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "id": "1EtE0iSY6iFlN9L9c53ETy"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "id": "0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "id": "3dRfiJ2650SZu6GbydcHNb"
+        }
       ],
-      "artistId": [
-        "1EtE0iSY6iFlN9L9c53ETy",
-        "0hIG9FXgjQxT8fKaYceFbA",
-        "3dRfiJ2650SZu6GbydcHNb"
-      ],
-      "albumId": "7fYlJ1HNLfs6JIvJCJ2rqq",
+      "album": {
+        "id": "7fYlJ1HNLfs6JIvJCJ2rqq",
+        "name": "Cinema Serenade",
+        "img": "https://i.scdn.co/image/ab67616d00001e020267c7c4063b992b1f7ae1ca"
+      },
       "release_date": "1997-05-13",
       "popularity": 25
     },
     {
-      "trackId": "0BnxL59z0vrxjEFWsDsVQw",
-      "name": "Anthem",
+      "track": {
+        "id": "0BnxL59z0vrxjEFWsDsVQw",
+        "name": "Anthem"
+      },
       "duration_ms": 185626,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "69KkOFZHGPVSrF6soNzKmA",
+      "album": {
+        "id": "69KkOFZHGPVSrF6soNzKmA",
+        "name": "Gränslös - Det bästa med Tommy Körberg (2012 version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f972c947ea7261f5465a1db6"
+      },
       "release_date": "2012-01-01",
       "popularity": 42
     },
     {
-      "trackId": "4m9KmD3nxPBKsFWwZRmH9E",
-      "name": "Good Song",
+      "track": {
+        "id": "4m9KmD3nxPBKsFWwZRmH9E",
+        "name": "Good Song"
+      },
       "duration_ms": 254626,
-      "artist": [
-        "Salem Al Fakir"
+      "artists": [
+        {
+          "name": "Salem Al Fakir",
+          "id": "2MRmHQ6G4vEIIlMYbMLlQ5"
+        }
       ],
-      "artistId": [
-        "2MRmHQ6G4vEIIlMYbMLlQ5"
-      ],
-      "albumId": "3wl5JnJ067OSNpHH0H5VXp",
+      "album": {
+        "id": "3wl5JnJ067OSNpHH0H5VXp",
+        "name": "This Is Who I Am",
+        "img": "https://i.scdn.co/image/ab67616d00001e022087d03cff5d912942e5c50d"
+      },
       "release_date": "2007-01-22",
       "popularity": 33
     },
     {
-      "trackId": "6OxRX1BuBlQVH3Vi9qAJ74",
-      "name": "Lembra de Mim",
+      "track": {
+        "id": "6OxRX1BuBlQVH3Vi9qAJ74",
+        "name": "Lembra de Mim"
+      },
       "duration_ms": 261399,
-      "artist": [
-        "Ivan Lins"
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "id": "64neTfIIdYKNhJ9zxoz3jF"
+        }
       ],
-      "artistId": [
-        "64neTfIIdYKNhJ9zxoz3jF"
-      ],
-      "albumId": "5MDYh5HUDq8qfGFlIyGf0I",
+      "album": {
+        "id": "5MDYh5HUDq8qfGFlIyGf0I",
+        "name": "Anjo De Mim",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bae51a1c7808d6e105ebfabf"
+      },
       "release_date": "1995",
       "popularity": 48
     },
     {
-      "trackId": "0YaiLHNZkmOtLKqDl3nWGL",
-      "name": "Someone Took The Words Away",
+      "track": {
+        "id": "0YaiLHNZkmOtLKqDl3nWGL",
+        "name": "Someone Took The Words Away"
+      },
       "duration_ms": 274866,
-      "artist": [
-        "Elvis Costello"
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "id": "2BGRfQgtzikz1pzAD0kaEn"
+        }
       ],
-      "artistId": [
-        "2BGRfQgtzikz1pzAD0kaEn"
-      ],
-      "albumId": "6JNPHPomTtS1DaDCr9Gr72",
+      "album": {
+        "id": "6JNPHPomTtS1DaDCr9Gr72",
+        "name": "North",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ccf9edbbd66ad77caeaa718"
+      },
       "release_date": "2003-09-23",
       "popularity": 10
     },
     {
-      "trackId": "0bE7ZKQFFEGulhcZtrHrWK",
-      "name": "Up On The Roof - Live At The Troubadour / 2007",
+      "track": {
+        "id": "0bE7ZKQFFEGulhcZtrHrWK",
+        "name": "Up On The Roof - Live At The Troubadour / 2007"
+      },
       "duration_ms": 249146,
-      "artist": [
-        "Carole King",
-        "James Taylor"
+      "artists": [
+        {
+          "name": "Carole King",
+          "id": "319yZVtYM9MBGqmSQnMyY6"
+        },
+        {
+          "name": "James Taylor",
+          "id": "0vn7UBvSQECKJm2817Yf1P"
+        }
       ],
-      "artistId": [
-        "319yZVtYM9MBGqmSQnMyY6",
-        "0vn7UBvSQECKJm2817Yf1P"
-      ],
-      "albumId": "5lDM7HLXPBVDxFru5s1lgd",
+      "album": {
+        "id": "5lDM7HLXPBVDxFru5s1lgd",
+        "name": "Live At The Troubadour",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d4846c6529498ff1825c985"
+      },
       "release_date": "2010-01-01",
       "popularity": 25
     },
     {
-      "trackId": "2OBy39ZgnKIB5bz95ahnuz",
-      "name": "Bananeira (Banana Tree)",
+      "track": {
+        "id": "2OBy39ZgnKIB5bz95ahnuz",
+        "name": "Bananeira (Banana Tree)"
+      },
       "duration_ms": 192493,
-      "artist": [
-        "Sérgio Mendes",
-        "Mr. Vegas"
+      "artists": [
+        {
+          "name": "Sérgio Mendes",
+          "id": "65c5si0ePAwkOCn4M35Ho7"
+        },
+        {
+          "name": "Mr. Vegas",
+          "id": "1pmixngtBJleMrGUG5o8DE"
+        }
       ],
-      "artistId": [
-        "65c5si0ePAwkOCn4M35Ho7",
-        "1pmixngtBJleMrGUG5o8DE"
-      ],
-      "albumId": "4sceISkCvRuDbd74AtKeEH",
+      "album": {
+        "id": "4sceISkCvRuDbd74AtKeEH",
+        "name": "Timeless",
+        "img": "https://i.scdn.co/image/ab67616d00001e02add74c8bfe883a9e31b242fa"
+      },
       "release_date": "2006-01-01",
       "popularity": 37
     },
     {
-      "trackId": "6zwBDwepkToYE2axXVK3cw",
-      "name": "Shaking the Tree - Live",
+      "track": {
+        "id": "6zwBDwepkToYE2axXVK3cw",
+        "name": "Shaking the Tree - Live"
+      },
       "duration_ms": 348066,
-      "artist": [
-        "Peter Gabriel",
-        "Youssou N'Dour"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "id": "77zlytAFjPFjUKda8TNIDY"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I",
-        "77zlytAFjPFjUKda8TNIDY"
-      ],
-      "albumId": "6fM1m2d2Hkt4LZMN2EGP9K",
+      "album": {
+        "id": "6fM1m2d2Hkt4LZMN2EGP9K",
+        "name": "Get Up! Stand Up! (Highlights from the Human Rights Concerts 1986-1998)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02522770bd1d55500f3f94549c"
+      },
       "release_date": "2013",
       "popularity": 12
     },
     {
-      "trackId": "4ZoBC5MhSEzuknIgAkBaoT",
-      "name": "My Life",
+      "track": {
+        "id": "4ZoBC5MhSEzuknIgAkBaoT",
+        "name": "My Life"
+      },
       "duration_ms": 284000,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "1HmCO8VK98AU6EXPOjGYyI",
+      "album": {
+        "id": "1HmCO8VK98AU6EXPOjGYyI",
+        "name": "52nd Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e021d4675d5a0345bb93686e4b6"
+      },
       "release_date": "1978-10-13",
       "popularity": 71
     },
     {
-      "trackId": "4UDaVq5tm2mQ6tNgWydhUX",
-      "name": "Kom igen Lena!",
+      "track": {
+        "id": "4UDaVq5tm2mQ6tNgWydhUX",
+        "name": "Kom igen Lena!"
+      },
       "duration_ms": 231320,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "2x39gXdLwYnTxJyxExXpTj",
+      "album": {
+        "id": "2x39gXdLwYnTxJyxExXpTj",
+        "name": "Det är så jag säger det",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db1ff210fd90fce8b4c1f949"
+      },
       "release_date": "2002-10-28",
       "popularity": 53
     },
     {
-      "trackId": "0SlyoOqJ8E3uiBC6KkujYl",
-      "name": "Vackert Så (Duett Med Håkan Hellström)",
+      "track": {
+        "id": "0SlyoOqJ8E3uiBC6KkujYl",
+        "name": "Vackert Så (Duett Med Håkan Hellström)"
+      },
       "duration_ms": 247240,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "6ipaFvEKsfSvsTERiPiMFb",
+      "album": {
+        "id": "6ipaFvEKsfSvsTERiPiMFb",
+        "name": "Alderville Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e023eae010adda0e499cbaa9821"
+      },
       "release_date": "2007-11-19",
       "popularity": 14
     }

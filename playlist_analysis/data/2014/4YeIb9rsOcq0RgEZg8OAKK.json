@@ -7,220 +7,318 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300141_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0DZwrC4QQOYqpcxCeZzwDg",
-      "name": "Riff Raff",
+      "track": {
+        "id": "0DZwrC4QQOYqpcxCeZzwDg",
+        "name": "Riff Raff"
+      },
       "duration_ms": 311880,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "4iMaHsHqTg3rwOtRa5wEbm",
+      "album": {
+        "id": "4iMaHsHqTg3rwOtRa5wEbm",
+        "name": "Powerage",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bf8d1987a42dd781a8039de"
+      },
       "release_date": "1978-05-05",
       "popularity": 48
     },
     {
-      "trackId": "3IjrDeaVRFEi3GgHI5xyjX",
-      "name": "Detroit Rock City",
+      "track": {
+        "id": "3IjrDeaVRFEi3GgHI5xyjX",
+        "name": "Detroit Rock City"
+      },
       "duration_ms": 227466,
-      "artist": [
-        "KISS"
+      "artists": [
+        {
+          "name": "KISS",
+          "id": "07XSN3sPlIlB2L2XNcTwJw"
+        }
       ],
-      "artistId": [
-        "07XSN3sPlIlB2L2XNcTwJw"
-      ],
-      "albumId": "7j2bCsZXZqwkXJ0pI9o5aA",
+      "album": {
+        "id": "7j2bCsZXZqwkXJ0pI9o5aA",
+        "name": "Smashes, Thrashes And Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d54bf34c48d94050cf0008f"
+      },
       "release_date": "1988-11-15",
       "popularity": 70
     },
     {
-      "trackId": "4kU7cIlf4FDrWrs99AcaWS",
-      "name": "Bodies",
+      "track": {
+        "id": "4kU7cIlf4FDrWrs99AcaWS",
+        "name": "Bodies"
+      },
       "duration_ms": 183373,
-      "artist": [
-        "Sex Pistols"
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "id": "1u7kkVrr14iBvrpYnZILJR"
+        }
       ],
-      "artistId": [
-        "1u7kkVrr14iBvrpYnZILJR"
-      ],
-      "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+      "album": {
+        "id": "6ggO3YVhyonYuFWUPBRyIv",
+        "name": "Never Mind The Bollocks, Here’s The Sex Pistols",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b691fa29c123b5fc4bc5d469"
+      },
       "release_date": "1977-10-27",
       "popularity": 47
     },
     {
-      "trackId": "7rwM67LyGTDIq33h3Ukc6Y",
-      "name": "I Gotsta Get Paid",
+      "track": {
+        "id": "7rwM67LyGTDIq33h3Ukc6Y",
+        "name": "I Gotsta Get Paid"
+      },
       "duration_ms": 243160,
-      "artist": [
-        "ZZ Top"
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "id": "2AM4ilv6UzW0uMRuqKtDgN"
+        }
       ],
-      "artistId": [
-        "2AM4ilv6UzW0uMRuqKtDgN"
-      ],
-      "albumId": "6x2lSp3LAyn3GgB0E7rD4L",
+      "album": {
+        "id": "6x2lSp3LAyn3GgB0E7rD4L",
+        "name": "La Futura",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c35decc59406f78986813988"
+      },
       "release_date": "2012-09-11",
       "popularity": 53
     },
     {
-      "trackId": "4K1imZQQ0yKtJ40vGmUajS",
-      "name": "Girl from the North Country",
+      "track": {
+        "id": "4K1imZQQ0yKtJ40vGmUajS",
+        "name": "Girl from the North Country"
+      },
       "duration_ms": 220400,
-      "artist": [
-        "Bob Dylan",
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX",
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "5WBx64FIN04CvM2T1MGrUN",
+      "album": {
+        "id": "5WBx64FIN04CvM2T1MGrUN",
+        "name": "Nashville Skyline",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222debe1325cc21c9bb0c0b07"
+      },
       "release_date": "1969-04-09",
       "popularity": 66
     },
     {
-      "trackId": "5wkQ7sIvr7eigcWmrTjDiO",
-      "name": "Eyemaster",
+      "track": {
+        "id": "5wkQ7sIvr7eigcWmrTjDiO",
+        "name": "Eyemaster"
+      },
       "duration_ms": 198133,
-      "artist": [
-        "Entombed"
+      "artists": [
+        {
+          "name": "Entombed",
+          "id": "2pnezMcaiTHfGmgmGQjLsB"
+        }
       ],
-      "artistId": [
-        "2pnezMcaiTHfGmgmGQjLsB"
-      ],
-      "albumId": "1CZwyjL96gGx4PryOIFNYn",
+      "album": {
+        "id": "1CZwyjL96gGx4PryOIFNYn",
+        "name": "Wolverine Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e028caf88d5a1f7574c17614803"
+      },
       "release_date": "1993-10-04",
       "popularity": 37
     },
     {
-      "trackId": "2btWvfhvg9qn2ApUIl4GCE",
-      "name": "City Slang - The Best Stuff You Havent Heard",
+      "track": {
+        "id": "2btWvfhvg9qn2ApUIl4GCE",
+        "name": "City Slang - The Best Stuff You Havent Heard"
+      },
       "duration_ms": 315520,
-      "artist": [
-        "Sonic's Rendezvous Band"
+      "artists": [
+        {
+          "name": "Sonic's Rendezvous Band",
+          "id": "3g7DDdGFGmFH0SHvjcEjzR"
+        }
       ],
-      "artistId": [
-        "3g7DDdGFGmFH0SHvjcEjzR"
-      ],
-      "albumId": "1RELLPv1RcftL6Xuq5Aaxs",
+      "album": {
+        "id": "1RELLPv1RcftL6Xuq5Aaxs",
+        "name": "Sonic's Rendezvous Band",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f76e369ec23e170e527cebf6"
+      },
       "release_date": "2010-05-31",
       "popularity": 37
     },
     {
-      "trackId": "4ojKzVmmAtk9gC3CyO1PgJ",
-      "name": "Runmaröpsalm",
+      "track": {
+        "id": "4ojKzVmmAtk9gC3CyO1PgJ",
+        "name": "Runmaröpsalm"
+      },
       "duration_ms": 162346,
-      "artist": [
-        "Pernilla Andersson"
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "id": "1muQ9itiu5KB1WiqehGoSy"
+        }
       ],
-      "artistId": [
-        "1muQ9itiu5KB1WiqehGoSy"
-      ],
-      "albumId": "19fxPspLsoKnkZHJLsiabT",
+      "album": {
+        "id": "19fxPspLsoKnkZHJLsiabT",
+        "name": "Det är en spricka i allt, det är så ljuset kommer in - Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ea09c2a35713c2c927b22ba"
+      },
       "release_date": "2012-10-15",
       "popularity": 3
     },
     {
-      "trackId": "2dp14VWbIxOVNmaWKkVB1r",
-      "name": "One Bourbon, One Scotch, One Beer",
+      "track": {
+        "id": "2dp14VWbIxOVNmaWKkVB1r",
+        "name": "One Bourbon, One Scotch, One Beer"
+      },
       "duration_ms": 184960,
-      "artist": [
-        "John Lee Hooker"
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "id": "1yNOfXGQNGjAynk77wv85x"
+        }
       ],
-      "artistId": [
-        "1yNOfXGQNGjAynk77wv85x"
-      ],
-      "albumId": "6AToTGNfNIiOSMcl6xGJTY",
+      "album": {
+        "id": "6AToTGNfNIiOSMcl6xGJTY",
+        "name": "The Real Folk Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210eb89d605247b9d3dee9e09"
+      },
       "release_date": "1966-01-01",
       "popularity": 57
     },
     {
-      "trackId": "7pu8AhGUxHZSCWTkQ2eb5M",
-      "name": "Bad Reputation",
+      "track": {
+        "id": "7pu8AhGUxHZSCWTkQ2eb5M",
+        "name": "Bad Reputation"
+      },
       "duration_ms": 169186,
-      "artist": [
-        "Joan Jett & the Blackhearts"
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "id": "1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
       ],
-      "artistId": [
-        "1Fmb52lZ6Jv7FMWXXTPO3K"
-      ],
-      "albumId": "1gB28ytYFQElaXngAfeYep",
+      "album": {
+        "id": "1gB28ytYFQElaXngAfeYep",
+        "name": "Bad Reputation (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02649fa6da25444974c752db30"
+      },
       "release_date": "1981-01-23",
       "popularity": 68
     },
     {
-      "trackId": "6Bm4iUw1PhEDfo5kOeQ7lr",
-      "name": "Minus Celsius",
+      "track": {
+        "id": "6Bm4iUw1PhEDfo5kOeQ7lr",
+        "name": "Minus Celsius"
+      },
       "duration_ms": 214466,
-      "artist": [
-        "Backyard Babies"
+      "artists": [
+        {
+          "name": "Backyard Babies",
+          "id": "4ASJkb9HOe3Vz5ZaXOjnfN"
+        }
       ],
-      "artistId": [
-        "4ASJkb9HOe3Vz5ZaXOjnfN"
-      ],
-      "albumId": "7533F0KDSoO8MTVi98X8WB",
+      "album": {
+        "id": "7533F0KDSoO8MTVi98X8WB",
+        "name": "Stockholm Syndrome",
+        "img": "https://i.scdn.co/image/ab67616d00001e029faebfc98babb12ff445b21a"
+      },
       "release_date": "2003-10-31",
       "popularity": 38
     },
     {
-      "trackId": "1IfTpcSw3BbYUMVUsp7Ub4",
-      "name": "(Gotta Get Some Action) Now!",
+      "track": {
+        "id": "1IfTpcSw3BbYUMVUsp7Ub4",
+        "name": "(Gotta Get Some Action) Now!"
+      },
       "duration_ms": 196533,
-      "artist": [
-        "The Hellacopters"
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "id": "1lsXuaLnHnfL7GoJXKkUtH"
+        }
       ],
-      "artistId": [
-        "1lsXuaLnHnfL7GoJXKkUtH"
-      ],
-      "albumId": "3eTfwI1yjT8IEM0QdI9ddy",
+      "album": {
+        "id": "3eTfwI1yjT8IEM0QdI9ddy",
+        "name": "Supershitty To The Max!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273b07a9c691be415c6079a10"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     },
     {
-      "trackId": "4vxBaxhL2LPYc9QVfWwuip",
-      "name": "Flat Tyre On A Muddy Road",
+      "track": {
+        "id": "4vxBaxhL2LPYc9QVfWwuip",
+        "name": "Flat Tyre On A Muddy Road"
+      },
       "duration_ms": 246133,
-      "artist": [
-        "Dregen",
-        "Titiyo"
+      "artists": [
+        {
+          "name": "Dregen",
+          "id": "663P1NUOnzy8MiAjQFXVYA"
+        },
+        {
+          "name": "Titiyo",
+          "id": "2s5enJCtVBAAdWD94jOIbM"
+        }
       ],
-      "artistId": [
-        "663P1NUOnzy8MiAjQFXVYA",
-        "2s5enJCtVBAAdWD94jOIbM"
-      ],
-      "albumId": "6cMzkXlLfQkMjqXjlYOUJu",
+      "album": {
+        "id": "6cMzkXlLfQkMjqXjlYOUJu",
+        "name": "Dregen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02235d0c1894786e4db6f0ae6e"
+      },
       "release_date": "2013-01-01",
       "popularity": 34
     },
     {
-      "trackId": "4LwU4Vp6od3Sb08CsP99GC",
-      "name": "The Next Episode",
+      "track": {
+        "id": "4LwU4Vp6od3Sb08CsP99GC",
+        "name": "The Next Episode"
+      },
       "duration_ms": 161506,
-      "artist": [
-        "Dr. Dre",
-        "Snoop Dogg"
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "id": "6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "id": "7hJcb9fa4alzcOq3EaNPoG"
+        }
       ],
-      "artistId": [
-        "6DPYiyq5kWVQS4RGwxzPC7",
-        "7hJcb9fa4alzcOq3EaNPoG"
-      ],
-      "albumId": "7q2B4M5EiBkqrlsNW8lB7N",
+      "album": {
+        "id": "7q2B4M5EiBkqrlsNW8lB7N",
+        "name": "2001",
+        "img": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5"
+      },
       "release_date": "1999-11-16",
       "popularity": 80
     },
     {
-      "trackId": "1Ymkj8FuQbxXf6svZnh78Z",
-      "name": "Jag och min far",
+      "track": {
+        "id": "1Ymkj8FuQbxXf6svZnh78Z",
+        "name": "Jag och min far"
+      },
       "duration_ms": 212813,
-      "artist": [
-        "Pernilla Andersson",
-        "Dregen"
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "id": "1muQ9itiu5KB1WiqehGoSy"
+        },
+        {
+          "name": "Dregen",
+          "id": "663P1NUOnzy8MiAjQFXVYA"
+        }
       ],
-      "artistId": [
-        "1muQ9itiu5KB1WiqehGoSy",
-        "663P1NUOnzy8MiAjQFXVYA"
-      ],
-      "albumId": "5MxaWDH2D38b52c1jxQ6sP",
+      "album": {
+        "id": "5MxaWDH2D38b52c1jxQ6sP",
+        "name": "Gör dig till hund",
+        "img": "https://i.scdn.co/image/ab67616d00001e021260837ae06c9712b21b7563"
+      },
       "release_date": "2008-10-27",
       "popularity": 30
     }

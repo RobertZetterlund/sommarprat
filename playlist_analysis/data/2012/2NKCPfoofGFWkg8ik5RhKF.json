@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354549_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1d6KS9GH06JAd19uiBy9IE",
-      "name": "Ironic - 2015 Remaster",
+      "track": {
+        "id": "1d6KS9GH06JAd19uiBy9IE",
+        "name": "Ironic - 2015 Remaster"
+      },
       "duration_ms": 230000,
-      "artist": [
-        "Alanis Morissette"
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "id": "6ogn9necmbUdCppmNnGOdi"
+        }
       ],
-      "artistId": [
-        "6ogn9necmbUdCppmNnGOdi"
-      ],
-      "albumId": "5Ap3F8CxjjsQKZGASDcHNA",
+      "album": {
+        "id": "5Ap3F8CxjjsQKZGASDcHNA",
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02242e643ea07118ecf677a6ef"
+      },
       "release_date": "1995",
       "popularity": 71
     },
     {
-      "trackId": "2mee8crLYSz5V7FXNNKLbu",
-      "name": "My Girl",
+      "track": {
+        "id": "2mee8crLYSz5V7FXNNKLbu",
+        "name": "My Girl"
+      },
       "duration_ms": 175853,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "6thSjE17RxW8tJFtLyXA3B",
+      "album": {
+        "id": "6thSjE17RxW8tJFtLyXA3B",
+        "name": "I Was Made To Love Her",
+        "img": "https://i.scdn.co/image/ab67616d00001e023acbc801a982cbd02bc782c9"
+      },
       "release_date": "1967-08-01",
       "popularity": 25
     },
     {
-      "trackId": "4650WGL6InVqP7YN5POqIz",
-      "name": "Party Rock Anthem",
+      "track": {
+        "id": "4650WGL6InVqP7YN5POqIz",
+        "name": "Party Rock Anthem"
+      },
       "duration_ms": 262146,
-      "artist": [
-        "LMFAO",
-        "Lauren Bennett",
-        "GoonRock"
+      "artists": [
+        {
+          "name": "LMFAO",
+          "id": "3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lauren Bennett",
+          "id": "2jLE4BoXHriQ96JagEtiDP"
+        },
+        {
+          "name": "GoonRock",
+          "id": "53sIBaVjXQhfH89Vu6nEGh"
+        }
       ],
-      "artistId": [
-        "3sgFRtyBnxXD5ESfmbK4dl",
-        "2jLE4BoXHriQ96JagEtiDP",
-        "53sIBaVjXQhfH89Vu6nEGh"
-      ],
-      "albumId": "6g2Ig47IgyqyatDpj7UpHo",
+      "album": {
+        "id": "6g2Ig47IgyqyatDpj7UpHo",
+        "name": "Sorry For Party Rocking",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273cbe62524627a0fdfc06a8a"
+      },
       "release_date": "2010-12-01",
       "popularity": 60
     },
     {
-      "trackId": "6nzXkCBOhb2mxctNihOqbb",
-      "name": "Bad Girls",
+      "track": {
+        "id": "6nzXkCBOhb2mxctNihOqbb",
+        "name": "Bad Girls"
+      },
       "duration_ms": 227520,
-      "artist": [
-        "M.I.A."
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "id": "0QJIPDAEDILuo8AIq3pMuU"
+        }
       ],
-      "artistId": [
-        "0QJIPDAEDILuo8AIq3pMuU"
-      ],
-      "albumId": "3dAxXNscIj0p53lBMEziYR",
+      "album": {
+        "id": "3dAxXNscIj0p53lBMEziYR",
+        "name": "Matangi",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d6fa293f49903ed38fbe0de"
+      },
       "release_date": "2013-01-01",
       "popularity": 76
     },
     {
-      "trackId": "5p3JunprHCxClJjOmcLV8G",
-      "name": "Walk On the Wild Side",
+      "track": {
+        "id": "5p3JunprHCxClJjOmcLV8G",
+        "name": "Walk On the Wild Side"
+      },
       "duration_ms": 254173,
-      "artist": [
-        "Lou Reed"
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "id": "42TFhl7WlMRXiNqzSrnzPL"
+        }
       ],
-      "artistId": [
-        "42TFhl7WlMRXiNqzSrnzPL"
-      ],
-      "albumId": "5SqbMEyAt8332ISGiLX0St",
+      "album": {
+        "id": "5SqbMEyAt8332ISGiLX0St",
+        "name": "Transformer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e"
+      },
       "release_date": "1972-12-01",
       "popularity": 72
     },
     {
-      "trackId": "5C6JcIKSLGmTLMZ0GENkvO",
-      "name": "Titta på mej",
+      "track": {
+        "id": "5C6JcIKSLGmTLMZ0GENkvO",
+        "name": "Titta på mej"
+      },
       "duration_ms": 195453,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "4EwYCt3RDDGBEND0KoIdKT",
+      "album": {
+        "id": "4EwYCt3RDDGBEND0KoIdKT",
+        "name": "För väntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fe22f86ae713e1ba8692501"
+      },
       "release_date": "1981-02-05",
       "popularity": 14
     },
     {
-      "trackId": "1mea3bSkSGXuIRvnydlB5b",
-      "name": "Viva La Vida",
+      "track": {
+        "id": "1mea3bSkSGXuIRvnydlB5b",
+        "name": "Viva La Vida"
+      },
       "duration_ms": 242373,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "1CEODgTmTwLyabvwd7HBty",
+      "album": {
+        "id": "1CEODgTmTwLyabvwd7HBty",
+        "name": "Viva La Vida or Death and All His Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e"
+      },
       "release_date": "2008-05-26",
       "popularity": 81
     },
     {
-      "trackId": "6tdSdLJl9bjCSuxhqGKRMO",
-      "name": "Mein Herr",
+      "track": {
+        "id": "6tdSdLJl9bjCSuxhqGKRMO",
+        "name": "Mein Herr"
+      },
       "duration_ms": 213506,
-      "artist": [
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Liza Minnelli",
+          "id": "1pdGj6Gak10Q2ajig4l1Dm"
+        }
       ],
-      "artistId": [
-        "1pdGj6Gak10Q2ajig4l1Dm"
-      ],
-      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "album": {
+        "id": "28qbOp4dEh18N5u6FInyOO",
+        "name": "Cabaret (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f0ddaafb889a16220871372"
+      },
       "release_date": "1972-02-13",
       "popularity": 40
     },
     {
-      "trackId": "2RnPATK99oGOZygnD2GTO6",
-      "name": "With A Little Help From My Friends - Remastered 2009",
+      "track": {
+        "id": "2RnPATK99oGOZygnD2GTO6",
+        "name": "With A Little Help From My Friends - Remastered 2009"
+      },
       "duration_ms": 164106,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "6QaVfG1pHYl1z15ZxkvVDW",
+      "album": {
+        "id": "6QaVfG1pHYl1z15ZxkvVDW",
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a"
+      },
       "release_date": "1967-06-01",
       "popularity": 65
     },
     {
-      "trackId": "4p28gCKIdsY7vrgLLArWSX",
-      "name": "If The Stars Were Mine",
+      "track": {
+        "id": "4p28gCKIdsY7vrgLLArWSX",
+        "name": "If The Stars Were Mine"
+      },
       "duration_ms": 168853,
-      "artist": [
-        "Melody Gardot"
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "id": "2P1puQXmG48EVLBrHbum1J"
+        }
       ],
-      "artistId": [
-        "2P1puQXmG48EVLBrHbum1J"
-      ],
-      "albumId": "0TupiHxrDDzR9uH41u4r5o",
+      "album": {
+        "id": "0TupiHxrDDzR9uH41u4r5o",
+        "name": "My One And Only Thrill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc621afbeefe1e0406bcfa91"
+      },
       "release_date": "2009",
       "popularity": 30
     },
     {
-      "trackId": "6lmLUNd7mcyYqKcg6EIAOu",
-      "name": "Coming In From The Cold",
+      "track": {
+        "id": "6lmLUNd7mcyYqKcg6EIAOu",
+        "name": "Coming In From The Cold"
+      },
       "duration_ms": 271023,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 62
     },
     {
-      "trackId": "5wXUl2SkuD9KjpQmC3OkDQ",
-      "name": "Robert Lind",
+      "track": {
+        "id": "5wXUl2SkuD9KjpQmC3OkDQ",
+        "name": "Robert Lind"
+      },
       "duration_ms": 266906,
-      "artist": [
-        "Hasse Alfredson",
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Hasse Alfredson",
+          "id": "7bQVHmJKaxiXYkZ2miMrwb"
+        },
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "7bQVHmJKaxiXYkZ2miMrwb",
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "7aGGmstrda7eU0yuOmoxXc",
+      "album": {
+        "id": "7aGGmstrda7eU0yuOmoxXc",
+        "name": "Hasse & Tages klassiker",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc3bd3ce0d22a7a58e24096d"
+      },
       "release_date": "2001-01-01",
       "popularity": 13
     },
     {
-      "trackId": "0SpdCj83hKPcwTqNzUkWXr",
-      "name": "Wise Up",
+      "track": {
+        "id": "0SpdCj83hKPcwTqNzUkWXr",
+        "name": "Wise Up"
+      },
       "duration_ms": 221870,
-      "artist": [
-        "Aimee Mann"
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "id": "3UpIbyXfGzmHG6TMH4dJEk"
+        }
       ],
-      "artistId": [
-        "3UpIbyXfGzmHG6TMH4dJEk"
-      ],
-      "albumId": "1eEcY3aadclBQnBcpTJGeV",
+      "album": {
+        "id": "1eEcY3aadclBQnBcpTJGeV",
+        "name": "Bachelor, No. 2 (Or, The Last Remains of the Dodo) [20th Anniversary Edition]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f28d385cedeb276d657188f9"
+      },
       "release_date": "2000-05-02",
       "popularity": 40
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     }

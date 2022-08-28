@@ -7,234 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258738_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7Mn6MCchSQqxeWwbL8sFN4",
-      "name": "Please Tell Me",
+      "track": {
+        "id": "7Mn6MCchSQqxeWwbL8sFN4",
+        "name": "Please Tell Me"
+      },
       "duration_ms": 176047,
-      "artist": [
-        "Buck Shot"
+      "artists": [
+        {
+          "name": "Buck Shot",
+          "id": "0f7No2sjnW3SMx7cS11Rg5"
+        }
       ],
-      "artistId": [
-        "0f7No2sjnW3SMx7cS11Rg5"
-      ],
-      "albumId": "036aDO4BAujMjwPcwUnibg",
+      "album": {
+        "id": "036aDO4BAujMjwPcwUnibg",
+        "name": "Good Men, Bad Men",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273148866a4cd32a5c7ec1fae"
+      },
       "release_date": "2022-06-20",
       "popularity": 30
     },
     {
-      "trackId": "4Ti31LzQw6CkIypW9zCNKI",
-      "name": "Original",
+      "track": {
+        "id": "4Ti31LzQw6CkIypW9zCNKI",
+        "name": "Original"
+      },
       "duration_ms": 225266,
-      "artist": [
-        "Sally Nyolo"
+      "artists": [
+        {
+          "name": "Sally Nyolo",
+          "id": "63YppDRNOmAKeYjBSITPTV"
+        }
       ],
-      "artistId": [
-        "63YppDRNOmAKeYjBSITPTV"
-      ],
-      "albumId": "6FAGJQg10dPj54a45eyr0B",
+      "album": {
+        "id": "6FAGJQg10dPj54a45eyr0B",
+        "name": "Beti",
+        "img": "https://i.scdn.co/image/ab67616d00001e026dea6cf8ccab2853d4cc210f"
+      },
       "release_date": "2000-01-10",
       "popularity": 22
     },
     {
-      "trackId": "2nGG3PPFjgs5K4bkZvPcY0",
-      "name": "Danjer",
+      "track": {
+        "id": "2nGG3PPFjgs5K4bkZvPcY0",
+        "name": "Danjer"
+      },
       "duration_ms": 197493,
-      "artist": [
-        "O.G.C."
+      "artists": [
+        {
+          "name": "O.G.C.",
+          "id": "73h5znw4QchoWo2FJXBvp5"
+        }
       ],
-      "artistId": [
-        "73h5znw4QchoWo2FJXBvp5"
-      ],
-      "albumId": "3wixh23VQw9BPhGPxvLxrX",
+      "album": {
+        "id": "3wixh23VQw9BPhGPxvLxrX",
+        "name": "Da Storm",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c65afbbe40aa51d9ab5fed4e"
+      },
       "release_date": "1996-01-01",
       "popularity": 48
     },
     {
-      "trackId": "2s89qv9maW8RMCoaxtvNtn",
-      "name": "Things Behind The Sun",
+      "track": {
+        "id": "2s89qv9maW8RMCoaxtvNtn",
+        "name": "Things Behind The Sun"
+      },
       "duration_ms": 234475,
-      "artist": [
-        "Nick Drake"
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "id": "5c3GLXai8YOMid29ZEuR9y"
+        }
       ],
-      "artistId": [
-        "5c3GLXai8YOMid29ZEuR9y"
-      ],
-      "albumId": "5mwOo1zikswhmfHvtqVSXg",
+      "album": {
+        "id": "5mwOo1zikswhmfHvtqVSXg",
+        "name": "Pink Moon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e369195caf5d169bf5e9eafc"
+      },
       "release_date": "1972-02-25",
       "popularity": 51
     },
     {
-      "trackId": "0ilnE5Tlf1FbXCDq4RkvjN",
-      "name": "Beautiful Things (feat. Dwele)",
+      "track": {
+        "id": "0ilnE5Tlf1FbXCDq4RkvjN",
+        "name": "Beautiful Things (feat. Dwele)"
+      },
       "duration_ms": 346800,
-      "artist": [
-        "Bahamadia",
-        "Dwele"
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "id": "6ZcRUVs3I5U8EOnm9ZdCsO"
+        },
+        {
+          "name": "Dwele",
+          "id": "7u6LfVyYpEzMpHLL7jTyvU"
+        }
       ],
-      "artistId": [
-        "6ZcRUVs3I5U8EOnm9ZdCsO",
-        "7u6LfVyYpEzMpHLL7jTyvU"
-      ],
-      "albumId": "6fEmV0y9haaM0878R4FxLD",
+      "album": {
+        "id": "6fEmV0y9haaM0878R4FxLD",
+        "name": "BB Queen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a42609f48a9ca6266f7f9b69"
+      },
       "release_date": "2000-07-25",
       "popularity": 21
     },
     {
-      "trackId": "0JpF8e6L86FTld99LwbBdk",
-      "name": "Pobjednicki Cocek",
+      "track": {
+        "id": "0JpF8e6L86FTld99LwbBdk",
+        "name": "Pobjednicki Cocek"
+      },
       "duration_ms": 232133,
-      "artist": [
-        "Blehorkestar Bakija Bakic"
+      "artists": [
+        {
+          "name": "Blehorkestar Bakija Bakic",
+          "id": "3VsVnh07NRg5Ou0wr7nfBO"
+        }
       ],
-      "artistId": [
-        "3VsVnh07NRg5Ou0wr7nfBO"
-      ],
-      "albumId": "74KbnY5PgSH2G0Bfn9WgCU",
+      "album": {
+        "id": "74KbnY5PgSH2G0Bfn9WgCU",
+        "name": "Road of the Gypsies - L'Épopée Tzigane",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285827e9d916211b6ee4d5f1a"
+      },
       "release_date": "2012-03-16",
       "popularity": 4
     },
     {
-      "trackId": "3Y9wdXMh6sNt9fUwUqTqb7",
-      "name": "Twisted Nerve",
+      "track": {
+        "id": "3Y9wdXMh6sNt9fUwUqTqb7",
+        "name": "Twisted Nerve"
+      },
       "duration_ms": 87666,
-      "artist": [
-        "Bernard Herrmann"
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "id": "5bUj39bg0zEbRzjUEISMG9"
+        }
       ],
-      "artistId": [
-        "5bUj39bg0zEbRzjUEISMG9"
-      ],
-      "albumId": "1FpzNqDbugk77xUj0qOrtQ",
+      "album": {
+        "id": "1FpzNqDbugk77xUj0qOrtQ",
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fecfac11994325a39cd03dec"
+      },
       "release_date": "2003-09-23",
       "popularity": 52
     },
     {
-      "trackId": "1c2Nf1uNs9ZZ6WlrU0wYRq",
-      "name": "ella",
+      "track": {
+        "id": "1c2Nf1uNs9ZZ6WlrU0wYRq",
+        "name": "ella"
+      },
       "duration_ms": 264533,
-      "artist": [
-        "nizzs"
+      "artists": [
+        {
+          "name": "nizzs",
+          "id": "617uHanLtkf6WT2M0fchXG"
+        }
       ],
-      "artistId": [
-        "617uHanLtkf6WT2M0fchXG"
-      ],
-      "albumId": "0dfIPMJG4CQjKpe1aHlBPG",
+      "album": {
+        "id": "0dfIPMJG4CQjKpe1aHlBPG",
+        "name": "ella",
+        "img": "https://i.scdn.co/image/ab67616d00001e022eb76a92bcc73a71e08c4d5e"
+      },
       "release_date": "2022-04-15",
       "popularity": 31
     },
     {
-      "trackId": "0fxjsll9jmmRgMFbwdp4Xg",
-      "name": "Yègellé Tezeta",
+      "track": {
+        "id": "0fxjsll9jmmRgMFbwdp4Xg",
+        "name": "Yègellé Tezeta"
+      },
       "duration_ms": 194293,
-      "artist": [
-        "Mulatu Astatke"
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "id": "7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
       ],
-      "artistId": [
-        "7HGFXtBhRq3g1Ma3nH4Rgv"
-      ],
-      "albumId": "3MHdUsf9wX9WffvOP59RBz",
+      "album": {
+        "id": "3MHdUsf9wX9WffvOP59RBz",
+        "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205ae534a661e44f25951e41b"
+      },
       "release_date": "1969",
       "popularity": 52
     },
     {
-      "trackId": "19JKzn93QEpf0i3xe1uq22",
-      "name": "Enecs Eht No Kcab",
+      "track": {
+        "id": "19JKzn93QEpf0i3xe1uq22",
+        "name": "Enecs Eht No Kcab"
+      },
       "duration_ms": 215222,
-      "artist": [
-        "One Be Lo",
-        "DJ Virus",
-        "Decompoze"
+      "artists": [
+        {
+          "name": "One Be Lo",
+          "id": "2wQR86xNE8mkPaffnClYAj"
+        },
+        {
+          "name": "DJ Virus",
+          "id": "4nD3WnzQCbSRw3AJOv7FJJ"
+        },
+        {
+          "name": "Decompoze",
+          "id": "6a2DOFSYwz1yiSwR05lpWW"
+        }
       ],
-      "artistId": [
-        "2wQR86xNE8mkPaffnClYAj",
-        "4nD3WnzQCbSRw3AJOv7FJJ",
-        "6a2DOFSYwz1yiSwR05lpWW"
-      ],
-      "albumId": "5Nk9U1oRN7jfLCWOI6LgNc",
+      "album": {
+        "id": "5Nk9U1oRN7jfLCWOI6LgNc",
+        "name": "Sonogram",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f82a175a3523b54d38938c50"
+      },
       "release_date": "2005-02-15",
       "popularity": 41
     },
     {
-      "trackId": "4TBEx9Vq1TyuVoIope0DMK",
-      "name": "Just idag är jag stark",
+      "track": {
+        "id": "4TBEx9Vq1TyuVoIope0DMK",
+        "name": "Just idag är jag stark"
+      },
       "duration_ms": 218066,
-      "artist": [
-        "Kenta"
+      "artists": [
+        {
+          "name": "Kenta",
+          "id": "432eI2RoKNEXW7EK2UON6R"
+        }
       ],
-      "artistId": [
-        "432eI2RoKNEXW7EK2UON6R"
-      ],
-      "albumId": "5bIPIDLNlvUWHOm6UhRxs8",
+      "album": {
+        "id": "5bIPIDLNlvUWHOm6UhRxs8",
+        "name": "Kenta",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d87645b7bee75043027bdea"
+      },
       "release_date": "1979",
       "popularity": 49
     },
     {
-      "trackId": "51QtcsJ5xAoJTHxe1gXAaJ",
-      "name": "Nallekarkit",
+      "track": {
+        "id": "51QtcsJ5xAoJTHxe1gXAaJ",
+        "name": "Nallekarkit"
+      },
       "duration_ms": 185827,
-      "artist": [
-        "Mikael Gabriel",
-        "JVG"
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "id": "79Pc4RR5E625J7dK543jDw"
+        },
+        {
+          "name": "JVG",
+          "id": "55mdlQp6zN8zdyIYB9DDQj"
+        }
       ],
-      "artistId": [
-        "79Pc4RR5E625J7dK543jDw",
-        "55mdlQp6zN8zdyIYB9DDQj"
-      ],
-      "albumId": "2CzWeEkRtgJrJgUFJj9sli",
+      "album": {
+        "id": "2CzWeEkRtgJrJgUFJj9sli",
+        "name": "Nallekarkit",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213320436187806b8bc970a69"
+      },
       "release_date": "2022-03-17",
       "popularity": 50
     },
     {
-      "trackId": "6x3HF1SdlVeZqOb7soisuh",
-      "name": "Fruit Tree",
+      "track": {
+        "id": "6x3HF1SdlVeZqOb7soisuh",
+        "name": "Fruit Tree"
+      },
       "duration_ms": 286280,
-      "artist": [
-        "Nick Drake"
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "id": "5c3GLXai8YOMid29ZEuR9y"
+        }
       ],
-      "artistId": [
-        "5c3GLXai8YOMid29ZEuR9y"
-      ],
-      "albumId": "7IpcJbVxLLEfW0KXB7ndE2",
+      "album": {
+        "id": "7IpcJbVxLLEfW0KXB7ndE2",
+        "name": "Five Leaves Left",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bd158c797b1026005c2917bc"
+      },
       "release_date": "1969-07-03",
       "popularity": 38
     },
     {
-      "trackId": "0JBVCUBvMiSOoPJLjQQHr5",
-      "name": "Famous Last Words",
+      "track": {
+        "id": "0JBVCUBvMiSOoPJLjQQHr5",
+        "name": "Famous Last Words"
+      },
       "duration_ms": 305280,
-      "artist": [
-        "Word A' Mouth"
+      "artists": [
+        {
+          "name": "Word A' Mouth",
+          "id": "01LXVihiMo8gJnKk39pZbA"
+        }
       ],
-      "artistId": [
-        "01LXVihiMo8gJnKk39pZbA"
-      ],
-      "albumId": "21tkKiB2eq0Q3Nl49OxKbr",
+      "album": {
+        "id": "21tkKiB2eq0Q3Nl49OxKbr",
+        "name": "Lyricist Lounge Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ebf6d77b4e67d2acb497418d"
+      },
       "release_date": "2002-01-01",
       "popularity": 19
     },
     {
-      "trackId": "0shK5iZQppbHPQYiy60xs9",
-      "name": "Rosa Parks",
+      "track": {
+        "id": "0shK5iZQppbHPQYiy60xs9",
+        "name": "Rosa Parks"
+      },
       "duration_ms": 324373,
-      "artist": [
-        "Outkast"
+      "artists": [
+        {
+          "name": "Outkast",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7"
+        }
       ],
-      "artistId": [
-        "1G9G7WwrXka3Z1r7aIDjI7"
-      ],
-      "albumId": "5ceB3rxgXqIRpsOvVzTG28",
+      "album": {
+        "id": "5ceB3rxgXqIRpsOvVzTG28",
+        "name": "Aquemini",
+        "img": "https://i.scdn.co/image/ab67616d00001e02377a6d2051b23afea65ee41a"
+      },
       "release_date": "1998-09-29",
       "popularity": 65
     },
     {
-      "trackId": "3H1WufSXLnOPckdJnFDbtF",
-      "name": "Leflaur Leflah Eshkoshka",
+      "track": {
+        "id": "3H1WufSXLnOPckdJnFDbtF",
+        "name": "Leflaur Leflah Eshkoshka"
+      },
       "duration_ms": 303299,
-      "artist": [
-        "Heltah Skeltah"
+      "artists": [
+        {
+          "name": "Heltah Skeltah",
+          "id": "6VimeBsWv0rmWzxd6roZZC"
+        }
       ],
-      "artistId": [
-        "6VimeBsWv0rmWzxd6roZZC"
-      ],
-      "albumId": "2y2mVMtsGw109N65M3NiWO",
+      "album": {
+        "id": "2y2mVMtsGw109N65M3NiWO",
+        "name": "Nocturnal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e45bbff322c1f90757fed935"
+      },
       "release_date": "1996-01-01",
       "popularity": 48
     }

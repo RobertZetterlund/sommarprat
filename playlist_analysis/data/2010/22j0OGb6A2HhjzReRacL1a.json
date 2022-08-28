@@ -7,142 +7,202 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3236089_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0zoyMJyqoNJQQzHv8BtrVT",
-      "name": "Blå, blå Känslor (eller blå, blå vindar)",
+      "track": {
+        "id": "0zoyMJyqoNJQQzHv8BtrVT",
+        "name": "Blå, blå Känslor (eller blå, blå vindar)"
+      },
       "duration_ms": 254000,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "5FqxwiaOpEIVmRo21kRKWs",
+      "album": {
+        "id": "5FqxwiaOpEIVmRo21kRKWs",
+        "name": "Blåblus",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8f316a6861e6de62ad0b591"
+      },
       "release_date": "1972",
       "popularity": 15
     },
     {
-      "trackId": "2f9Wq2T8qty2EmsUMNNPxq",
-      "name": "Visa vid vindens ängar",
+      "track": {
+        "id": "2f9Wq2T8qty2EmsUMNNPxq",
+        "name": "Visa vid vindens ängar"
+      },
       "duration_ms": 174946,
-      "artist": [
-        "Mats Paulson"
+      "artists": [
+        {
+          "name": "Mats Paulson",
+          "id": "0HW2OAV5XOPQgKoFx2Q6uJ"
+        }
       ],
-      "artistId": [
-        "0HW2OAV5XOPQgKoFx2Q6uJ"
-      ],
-      "albumId": "5B8wRCBPCy55DWEPPS5viG",
+      "album": {
+        "id": "5B8wRCBPCy55DWEPPS5viG",
+        "name": "Visor vid vindens ängar",
+        "img": "https://i.scdn.co/image/ab67616d00001e029159c1c449c1b9f35cc4d5cb"
+      },
       "release_date": "1978-01-01",
       "popularity": 43
     },
     {
-      "trackId": "2JDanVGPLrE314uTEqObUh",
-      "name": "Om himlen Och Österlen",
+      "track": {
+        "id": "2JDanVGPLrE314uTEqObUh",
+        "name": "Om himlen Och Österlen"
+      },
       "duration_ms": 263506,
-      "artist": [
-        "Jan Malmsjö"
+      "artists": [
+        {
+          "name": "Jan Malmsjö",
+          "id": "0VNgTklamUX0j9Cpc2vzuQ"
+        }
       ],
-      "artistId": [
-        "0VNgTklamUX0j9Cpc2vzuQ"
-      ],
-      "albumId": "2QX8wxizoEkU7HsLfDEa7N",
+      "album": {
+        "id": "2QX8wxizoEkU7HsLfDEa7N",
+        "name": "Malmsjö Idag!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a77b89af264788daeb5bdca3"
+      },
       "release_date": "1995",
       "popularity": 10
     },
     {
-      "trackId": "5gBWGTO2prExy9yVwhUbOU",
-      "name": "Sakta vi gå genom stan",
+      "track": {
+        "id": "5gBWGTO2prExy9yVwhUbOU",
+        "name": "Sakta vi gå genom stan"
+      },
       "duration_ms": 202360,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "2iflMrGtjzufU2Jw7JhoLE",
+      "album": {
+        "id": "2iflMrGtjzufU2Jw7JhoLE",
+        "name": "Ahh! Monica!",
+        "img": "https://i.scdn.co/image/ab67616d00001e021be2287322ce09930868607c"
+      },
       "release_date": "1962-04-03",
       "popularity": 44
     },
     {
-      "trackId": "06Vm2JsuFNI3zv7MX6QiJG",
-      "name": "Sommar och sol är det bästa jag vet",
+      "track": {
+        "id": "06Vm2JsuFNI3zv7MX6QiJG",
+        "name": "Sommar och sol är det bästa jag vet"
+      },
       "duration_ms": 144626,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "1CEdo6I5G19D9UT9HMgfcZ",
+      "album": {
+        "id": "1CEdo6I5G19D9UT9HMgfcZ",
+        "name": "Svenska sommarklassiker 2005",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f53abeaeb99169c981f6c6c6"
+      },
       "release_date": "2005-01-01",
       "popularity": 41
     },
     {
-      "trackId": "6EOKwO6WaLal58MSsi6U4W",
-      "name": "Eleanor Rigby",
+      "track": {
+        "id": "6EOKwO6WaLal58MSsi6U4W",
+        "name": "Eleanor Rigby"
+      },
       "duration_ms": 125226,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0XRZpF083HqgygM0v1hQyE",
+      "album": {
+        "id": "0XRZpF083HqgygM0v1hQyE",
+        "name": "Yellow Submarine Songtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d807dd713cdfbeed142881e2"
+      },
       "release_date": "2014-01-01",
       "popularity": 67
     },
     {
-      "trackId": "3jHVqSjOqtv0djEsGJmTG1",
-      "name": "Tack Sverige",
+      "track": {
+        "id": "3jHVqSjOqtv0djEsGJmTG1",
+        "name": "Tack Sverige"
+      },
       "duration_ms": 178266,
-      "artist": [
-        "Agnetha Fältskog"
+      "artists": [
+        {
+          "name": "Agnetha Fältskog",
+          "id": "7fUtt9kVZOyn9LWy0JbDRI"
+        }
       ],
-      "artistId": [
-        "7fUtt9kVZOyn9LWy0JbDRI"
-      ],
-      "albumId": "2BvM1TChHE7L2ldKsviVuK",
+      "album": {
+        "id": "2BvM1TChHE7L2ldKsviVuK",
+        "name": "Agnetha Fältskog",
+        "img": "https://i.scdn.co/image/ab67616d00001e02576f14513a595c13e3343198"
+      },
       "release_date": "1968-09-05",
       "popularity": 9
     },
     {
-      "trackId": "3Xc3cH6j8zgbrVQZgaJHmY",
-      "name": "Blå blå är kärleken",
+      "track": {
+        "id": "3Xc3cH6j8zgbrVQZgaJHmY",
+        "name": "Blå blå är kärleken"
+      },
       "duration_ms": 181760,
-      "artist": [
-        "Britt Bergstrom"
+      "artists": [
+        {
+          "name": "Britt Bergstrom",
+          "id": "19zxn7McfboAEUSGQv3dne"
+        }
       ],
-      "artistId": [
-        "19zxn7McfboAEUSGQv3dne"
-      ],
-      "albumId": "1AcxgbtWm9qtHlUxze1T2w",
+      "album": {
+        "id": "1AcxgbtWm9qtHlUxze1T2w",
+        "name": "Gamla fina låtar 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a492bbf10f70ec263635337"
+      },
       "release_date": "1991-01-01",
       "popularity": 28
     },
     {
-      "trackId": "7g8weNYLvEVs62tgSv4itm",
-      "name": "Bygga Upp Ett Stort Berg",
+      "track": {
+        "id": "7g8weNYLvEVs62tgSv4itm",
+        "name": "Bygga Upp Ett Stort Berg"
+      },
       "duration_ms": 171173,
-      "artist": [
-        "Jan Malmsjö"
+      "artists": [
+        {
+          "name": "Jan Malmsjö",
+          "id": "0VNgTklamUX0j9Cpc2vzuQ"
+        }
       ],
-      "artistId": [
-        "0VNgTklamUX0j9Cpc2vzuQ"
-      ],
-      "albumId": "01U0MoAIEgdINZsEyE2yT0",
+      "album": {
+        "id": "01U0MoAIEgdINZsEyE2yT0",
+        "name": "You Make Me Feel So Young",
+        "img": "https://i.scdn.co/image/ab67616d00001e023379d8929410922f5143da50"
+      },
       "release_date": "1996-06-01",
       "popularity": 16
     },
     {
-      "trackId": "0xLmm2bZ0jPNbvi2yYyL6j",
-      "name": "Cherry Oh Baby",
+      "track": {
+        "id": "0xLmm2bZ0jPNbvi2yYyL6j",
+        "name": "Cherry Oh Baby"
+      },
       "duration_ms": 161500,
-      "artist": [
-        "Byron Lee"
+      "artists": [
+        {
+          "name": "Byron Lee",
+          "id": "1qerVYQkyneFNgZfMKH6HX"
+        }
       ],
-      "artistId": [
-        "1qerVYQkyneFNgZfMKH6HX"
-      ],
-      "albumId": "02hmx1aWBdFIAIcgchse7r",
+      "album": {
+        "id": "02hmx1aWBdFIAIcgchse7r",
+        "name": "Rasta Love 20 Hot Reggae Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e027fa5190bafd5f739bf442ba3"
+      },
       "release_date": "2022-07-22",
       "popularity": 0
     }

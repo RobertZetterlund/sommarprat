@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a0953806-11bc-4dcb-84f5-b58f7b8810dc.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5fNRMdo6yjYhoVSOySuaar",
-      "name": "Joe",
+      "track": {
+        "id": "5fNRMdo6yjYhoVSOySuaar",
+        "name": "Joe"
+      },
       "duration_ms": 155733,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "25FDyd2psz02G6ehzVr8sc",
+      "album": {
+        "id": "25FDyd2psz02G6ehzVr8sc",
+        "name": "Sheela-na-gig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02608f19c5587592e15318c5d6"
+      },
       "release_date": "1992-02-17",
       "popularity": 4
     },
     {
-      "trackId": "2TSLt0hkUrp9dhQOwqI0ZS",
-      "name": "This Is Love",
+      "track": {
+        "id": "2TSLt0hkUrp9dhQOwqI0ZS",
+        "name": "This Is Love"
+      },
       "duration_ms": 224893,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "481bJKUAaLEvsPb7KqpZQP",
+      "album": {
+        "id": "481bJKUAaLEvsPb7KqpZQP",
+        "name": "Jay And Silent Bob Strike Back (Music From The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027447aed49e197c7244beb3e5"
+      },
       "release_date": "2001-08-14",
       "popularity": 8
     },
     {
-      "trackId": "1YAlQXgiLY8tck2VcTjo4G",
-      "name": "Me-Jane",
+      "track": {
+        "id": "1YAlQXgiLY8tck2VcTjo4G",
+        "name": "Me-Jane"
+      },
       "duration_ms": 162866,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2fDJpBJhtloxzUENHlU9JB",
+      "album": {
+        "id": "2fDJpBJhtloxzUENHlU9JB",
+        "name": "Rid Of Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e025950e19534bed4e25b6048f1"
+      },
       "release_date": "1993-01-01",
       "popularity": 32
     },
     {
-      "trackId": "2K7qvmfEWQm41wIJkjDBj4",
-      "name": "The Last Living Rose",
+      "track": {
+        "id": "2K7qvmfEWQm41wIJkjDBj4",
+        "name": "The Last Living Rose"
+      },
       "duration_ms": 141280,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2JfiVMvVhdueC48EmskS7t",
+      "album": {
+        "id": "2JfiVMvVhdueC48EmskS7t",
+        "name": "Let England Shake",
+        "img": "https://i.scdn.co/image/ab67616d00001e020682f13c108d0aa9fb3a7e7a"
+      },
       "release_date": "2011-01-01",
       "popularity": 35
     },
     {
-      "trackId": "2PttdezZsumXSdsrf5r5Ea",
-      "name": "Angelene",
+      "track": {
+        "id": "2PttdezZsumXSdsrf5r5Ea",
+        "name": "Angelene"
+      },
       "duration_ms": 214226,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "1LQlpOjLrnNvsqg6tosrYD",
+      "album": {
+        "id": "1LQlpOjLrnNvsqg6tosrYD",
+        "name": "Is This Desire?",
+        "img": "https://i.scdn.co/image/ab67616d00001e020927e8d8299223187f1d8d04"
+      },
       "release_date": "1998-01-01",
       "popularity": 51
     },
     {
-      "trackId": "5nn7S94u7W7TyxFVehJxGV",
-      "name": "Wind Quintet No. 4: I. Prologue",
+      "track": {
+        "id": "5nn7S94u7W7TyxFVehJxGV",
+        "name": "Wind Quintet No. 4: I. Prologue"
+      },
       "duration_ms": 415240,
-      "artist": [
-        "Harvey J. Stokes",
-        "Hampton Winds"
+      "artists": [
+        {
+          "name": "Harvey J. Stokes",
+          "id": "5cUuHpMiFm01n55lj8PZsV"
+        },
+        {
+          "name": "Hampton Winds",
+          "id": "4ur57NsuQjCtoK0mDChBs3"
+        }
       ],
-      "artistId": [
-        "5cUuHpMiFm01n55lj8PZsV",
-        "4ur57NsuQjCtoK0mDChBs3"
-      ],
-      "albumId": "4mr95Bj7QKOGUDczxXNaGF",
+      "album": {
+        "id": "4mr95Bj7QKOGUDczxXNaGF",
+        "name": "Stokes: The Complete Wind Quintets",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d0a341d412778604a39532a"
+      },
       "release_date": "2011-08-01",
       "popularity": 0
     },
     {
-      "trackId": "537IPiZTZ1GVcohzFHAHf5",
-      "name": "To Bring You My Love",
+      "track": {
+        "id": "537IPiZTZ1GVcohzFHAHf5",
+        "name": "To Bring You My Love"
+      },
       "duration_ms": 331600,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2yMg8ronKfVDHngnlLNnl8",
+      "album": {
+        "id": "2yMg8ronKfVDHngnlLNnl8",
+        "name": "To Bring You My Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ea4af8437d78b607f30c8f0"
+      },
       "release_date": "1995-01-01",
       "popularity": 47
     },
     {
-      "trackId": "4pez5PGFmgDxGcNs2UgZ2l",
-      "name": "JackHammer",
+      "track": {
+        "id": "4pez5PGFmgDxGcNs2UgZ2l",
+        "name": "JackHammer"
+      },
       "duration_ms": 217968,
-      "artist": [
-        "Harvey Mandel"
+      "artists": [
+        {
+          "name": "Harvey Mandel",
+          "id": "3Wrfz3A5PMc9fle2Tchv3N"
+        }
       ],
-      "artistId": [
-        "3Wrfz3A5PMc9fle2Tchv3N"
-      ],
-      "albumId": "4DnuRrSsecMrdnP4DlJF3d",
+      "album": {
+        "id": "4DnuRrSsecMrdnP4DlJF3d",
+        "name": "Snake Pit",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd001ec192745717d943eebe"
+      },
       "release_date": "2016-11-18",
       "popularity": 1
     },
     {
-      "trackId": "6DST3HT8zF8WpNmg9tHuaa",
-      "name": "Let England Shake",
+      "track": {
+        "id": "6DST3HT8zF8WpNmg9tHuaa",
+        "name": "Let England Shake"
+      },
       "duration_ms": 189280,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2JfiVMvVhdueC48EmskS7t",
+      "album": {
+        "id": "2JfiVMvVhdueC48EmskS7t",
+        "name": "Let England Shake",
+        "img": "https://i.scdn.co/image/ab67616d00001e020682f13c108d0aa9fb3a7e7a"
+      },
       "release_date": "2011-01-01",
       "popularity": 40
     },
     {
-      "trackId": "4QmBs5a3mFFLaLA1QTEVrN",
-      "name": "A Place Called Home",
+      "track": {
+        "id": "4QmBs5a3mFFLaLA1QTEVrN",
+        "name": "A Place Called Home"
+      },
       "duration_ms": 222066,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "0hBWhJEmVyNPG2Jq71CJXz",
+      "album": {
+        "id": "0hBWhJEmVyNPG2Jq71CJXz",
+        "name": "Stories From The City, Stories From The Sea",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209e4ac9a68d9ea5ef0ad9b05"
+      },
       "release_date": "2000-01-01",
       "popularity": 45
     },
     {
-      "trackId": "1GzvHphmlkPG2llMGu91sz",
-      "name": "Oaxaca",
+      "track": {
+        "id": "1GzvHphmlkPG2llMGu91sz",
+        "name": "Oaxaca"
+      },
       "duration_ms": 169706,
-      "artist": [
-        "Daniel Lanois"
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "id": "5S0AJvE9NB1kGrXRfYh690"
+        }
       ],
-      "artistId": [
-        "5S0AJvE9NB1kGrXRfYh690"
-      ],
-      "albumId": "05tAz0b9gHjjlpaIOxNvfy",
+      "album": {
+        "id": "05tAz0b9gHjjlpaIOxNvfy",
+        "name": "Belladonna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243f9b966695f846efe9dff6c"
+      },
       "release_date": "2005-07-12",
       "popularity": 18
     }

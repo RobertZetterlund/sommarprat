@@ -7,202 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300233_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3DK6m7It6Pw857FcQftMds",
-      "name": "Runaway",
+      "track": {
+        "id": "3DK6m7It6Pw857FcQftMds",
+        "name": "Runaway"
+      },
       "duration_ms": 547733,
-      "artist": [
-        "Kanye West",
-        "Pusha T"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "id": "0ONHkAv9pCAFxb0zJwDNTy"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "0ONHkAv9pCAFxb0zJwDNTy"
-      ],
-      "albumId": "20r762YmB5HeofjMCiPMLv",
+      "album": {
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+      },
       "release_date": "2010-11-22",
       "popularity": 78
     },
     {
-      "trackId": "1rJM37Dd4OcSJvzI84yCcP",
-      "name": "Fu-Gee-La",
+      "track": {
+        "id": "1rJM37Dd4OcSJvzI84yCcP",
+        "name": "Fu-Gee-La"
+      },
       "duration_ms": 260066,
-      "artist": [
-        "Fugees",
-        "Ms. Lauryn Hill",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Fugees",
+          "id": "2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "2WKdxPFRD7IqZvlIAvhMgY",
-        "2Mu5NfyYm8n5iTomuKAEHl",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "18XFe4CPBgVezXkxZP6rTb",
+      "album": {
+        "id": "18XFe4CPBgVezXkxZP6rTb",
+        "name": "The Score (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137"
+      },
       "release_date": "1996-02-13",
       "popularity": 65
     },
     {
-      "trackId": "6BG00qlioCB6wuPdeEImmF",
-      "name": "Svär på min mamma",
+      "track": {
+        "id": "6BG00qlioCB6wuPdeEImmF",
+        "name": "Svär på min mamma"
+      },
       "duration_ms": 208487,
-      "artist": [
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "0eEXNNdFCeH6H08kO3kgIm",
+      "album": {
+        "id": "0eEXNNdFCeH6H08kO3kgIm",
+        "name": "Svär på min mamma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02505b00c7bd70fbfab22a9636"
+      },
       "release_date": "2014-05-16",
       "popularity": 29
     },
     {
-      "trackId": "4kTLpAbhuEGHAAdDjOIWaa",
-      "name": "Pursuit Of Happiness (Nightmare)",
+      "track": {
+        "id": "4kTLpAbhuEGHAAdDjOIWaa",
+        "name": "Pursuit Of Happiness (Nightmare)"
+      },
       "duration_ms": 295293,
-      "artist": [
-        "Kid Cudi",
-        "MGMT",
-        "Ratatat"
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "id": "0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "MGMT",
+          "id": "0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Ratatat",
+          "id": "57dN52uHvrHOxijzpIgu3E"
+        }
       ],
-      "artistId": [
-        "0fA0VVWsXO9YnASrzqfmYu",
-        "0SwO7SWeDHJijQ3XNS7xEE",
-        "57dN52uHvrHOxijzpIgu3E"
-      ],
-      "albumId": "6oPPKtAwNNlkW4wwHfQDfM",
+      "album": {
+        "id": "6oPPKtAwNNlkW4wwHfQDfM",
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02713f297a7bdc1d48971062b2"
+      },
       "release_date": "2009-01-01",
       "popularity": 72
     },
     {
-      "trackId": "0PIXeBuPkFCpV0zAhLROoS",
-      "name": "Knäpper mina fingrar - Remix",
+      "track": {
+        "id": "0PIXeBuPkFCpV0zAhLROoS",
+        "name": "Knäpper mina fingrar - Remix"
+      },
       "duration_ms": 263021,
-      "artist": [
-        "Linda Pira",
-        "Kumba",
-        "ROSH"
+      "artists": [
+        {
+          "name": "Linda Pira",
+          "id": "0qeei9KQnptjwb8MgkqEoy"
+        },
+        {
+          "name": "Kumba",
+          "id": "0GD2LYGX4nMj9F84HsIWp1"
+        },
+        {
+          "name": "ROSH",
+          "id": "739zjStIc6EHrV5thshKkp"
+        }
       ],
-      "artistId": [
-        "0qeei9KQnptjwb8MgkqEoy",
-        "0GD2LYGX4nMj9F84HsIWp1",
-        "739zjStIc6EHrV5thshKkp"
-      ],
-      "albumId": "3SqGWXewLT9SsdQRvFYJeQ",
+      "album": {
+        "id": "3SqGWXewLT9SsdQRvFYJeQ",
+        "name": "Knäpper mina fingrar (Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adab23ca52e28f96d972ec3c"
+      },
       "release_date": "2014-01-01",
       "popularity": 34
     },
     {
-      "trackId": "08bn759cPYICtUPoYx29P0",
-      "name": "Sock It 2 Me (feat. Da Brat)",
+      "track": {
+        "id": "08bn759cPYICtUPoYx29P0",
+        "name": "Sock It 2 Me (feat. Da Brat)"
+      },
       "duration_ms": 257466,
-      "artist": [
-        "Missy Elliott",
-        "Da Brat"
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "id": "2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Da Brat",
+          "id": "2I1bnmb9VQEQGKHxvr0gSf"
+        }
       ],
-      "artistId": [
-        "2wIVse2owClT7go1WT98tk",
-        "2I1bnmb9VQEQGKHxvr0gSf"
-      ],
-      "albumId": "6UkdyvPElK6JDkyeRClbI2",
+      "album": {
+        "id": "6UkdyvPElK6JDkyeRClbI2",
+        "name": "Supa Dupa Fly",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f27571e59cac2e7a4624c9c4"
+      },
       "release_date": "1997-07-11",
       "popularity": 52
     },
     {
-      "trackId": "1TJBqS7OM2xB15CX859MI7",
-      "name": "Vipassana (Ryan Lewis Remix)",
+      "track": {
+        "id": "1TJBqS7OM2xB15CX859MI7",
+        "name": "Vipassana (Ryan Lewis Remix)"
+      },
       "duration_ms": 238481,
-      "artist": [
-        "Macklemore & Ryan Lewis"
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "id": "5BcAKTbp20cv7tC5VqPFoC"
+        }
       ],
-      "artistId": [
-        "5BcAKTbp20cv7tC5VqPFoC"
-      ],
-      "albumId": "0sf58fd9cOtyZEQgnE531s",
+      "album": {
+        "id": "0sf58fd9cOtyZEQgnE531s",
+        "name": "VS. Redux",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cb9e92ce4e41de2795ce2d0"
+      },
       "release_date": "2010-10-20",
       "popularity": 36
     },
     {
-      "trackId": "5UsLjwBaTHBX4ektWIr4XX",
-      "name": "Forever",
+      "track": {
+        "id": "5UsLjwBaTHBX4ektWIr4XX",
+        "name": "Forever"
+      },
       "duration_ms": 357706,
-      "artist": [
-        "Drake",
-        "Kanye West",
-        "Lil Wayne"
+      "artists": [
+        {
+          "name": "Drake",
+          "id": "3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "id": "55Aa2cqylxrFIXC767Z865"
+        }
       ],
-      "artistId": [
-        "3TVXtAsR1Inumwj472S9r4",
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "55Aa2cqylxrFIXC767Z865"
-      ],
-      "albumId": "7MZzYkbHL9Tk3O6WeD4Z0Z",
+      "album": {
+        "id": "7MZzYkbHL9Tk3O6WeD4Z0Z",
+        "name": "Relapse: Refill",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506c4cc93e5a6234164125e1"
+      },
       "release_date": "2009-05-15",
       "popularity": 73
     },
     {
-      "trackId": "46oKpr00CmuPJGvPZ3y9uk",
-      "name": "It's A Pity",
+      "track": {
+        "id": "46oKpr00CmuPJGvPZ3y9uk",
+        "name": "It's A Pity"
+      },
       "duration_ms": 253160,
-      "artist": [
-        "Tanya Stephens"
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "id": "0vL0HKEtNHGobKmDNarMFQ"
+        }
       ],
-      "artistId": [
-        "0vL0HKEtNHGobKmDNarMFQ"
-      ],
-      "albumId": "0jeZIxOER2j9RbJqokIwja",
+      "album": {
+        "id": "0jeZIxOER2j9RbJqokIwja",
+        "name": "Tanya...Collection Of Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e029bfc8e481a0b874039125640"
+      },
       "release_date": "2009-08-21",
       "popularity": 49
     },
     {
-      "trackId": "0k4awhu5O7Ezi7NPJHShgV",
-      "name": "Där regnbågen tar slut - RHM Remix",
+      "track": {
+        "id": "0k4awhu5O7Ezi7NPJHShgV",
+        "name": "Där regnbågen tar slut - RHM Remix"
+      },
       "duration_ms": 224000,
-      "artist": [
-        "Daniel Adams-Ray",
-        "Adam Tensta",
-        "Eboi"
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "id": "4C86wrjOUfXQDlt6A4oJOC"
+        },
+        {
+          "name": "Adam Tensta",
+          "id": "5ICm42Qd6Mxunp1xyBGUp0"
+        },
+        {
+          "name": "Eboi",
+          "id": "7KWyu8jANkeNdR4XJd9bIx"
+        }
       ],
-      "artistId": [
-        "4C86wrjOUfXQDlt6A4oJOC",
-        "5ICm42Qd6Mxunp1xyBGUp0",
-        "7KWyu8jANkeNdR4XJd9bIx"
-      ],
-      "albumId": "1qAbeIYvs3OUzRbbPuZ5fD",
+      "album": {
+        "id": "1qAbeIYvs3OUzRbbPuZ5fD",
+        "name": "Där regnbågen tar slut (RMH Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284d0fa7873510837b142436a"
+      },
       "release_date": "2014-01-01",
       "popularity": 16
     },
     {
-      "trackId": "3bidbhpOYeV4knp8AIu8Xn",
-      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "track": {
+        "id": "3bidbhpOYeV4knp8AIu8Xn",
+        "name": "Can't Hold Us (feat. Ray Dalton)"
+      },
       "duration_ms": 258342,
-      "artist": [
-        "Macklemore & Ryan Lewis",
-        "Macklemore",
-        "Ryan Lewis"
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "id": "5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "id": "3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "id": "4myTppRgh0rojLxx8RycOp"
+        }
       ],
-      "artistId": [
-        "5BcAKTbp20cv7tC5VqPFoC",
-        "3JhNCzhSMTxs9WLGJJxWOY",
-        "4myTppRgh0rojLxx8RycOp"
-      ],
-      "albumId": "76FXHQhTuT4QMIxfL09gX8",
+      "album": {
+        "id": "76FXHQhTuT4QMIxfL09gX8",
+        "name": "The Heist",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298a02fef3a8b1d80a0f164ec"
+      },
       "release_date": "2012-10-09",
       "popularity": 82
     },
     {
-      "trackId": "46JdPZmwWfkCJHVzd5gi8v",
-      "name": "Där dit vinden kommer (feat. Jaqe, Duvchi, jj & Joy)",
+      "track": {
+        "id": "46JdPZmwWfkCJHVzd5gi8v",
+        "name": "Där dit vinden kommer (feat. Jaqe, Duvchi, jj & Joy)"
+      },
       "duration_ms": 293773,
-      "artist": [
-        "Lorentz",
-        "Jaqe",
-        "Duvchi"
+      "artists": [
+        {
+          "name": "Lorentz",
+          "id": "2QDnY1LY2mnzeeKGZLHoc7"
+        },
+        {
+          "name": "Jaqe",
+          "id": "6GFNszjoVtonHtwNFGUABT"
+        },
+        {
+          "name": "Duvchi",
+          "id": "0Pv1zES3REvZ4OuYrW2tGc"
+        }
       ],
-      "artistId": [
-        "2QDnY1LY2mnzeeKGZLHoc7",
-        "6GFNszjoVtonHtwNFGUABT",
-        "0Pv1zES3REvZ4OuYrW2tGc"
-      ],
-      "albumId": "5RSIKKWVyC0cennm5XVbg3",
+      "album": {
+        "id": "5RSIKKWVyC0cennm5XVbg3",
+        "name": "Kärlekslåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c51c9dd8393da9224d22bf2"
+      },
       "release_date": "2014-05-20",
       "popularity": 41
     }

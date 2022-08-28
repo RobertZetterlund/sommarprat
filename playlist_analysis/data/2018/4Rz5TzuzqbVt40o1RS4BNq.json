@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/299ace34-728d-4a83-97a7-01c855018bc5.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "523RWM0cEycsptzPhVMAyt",
-      "name": "Tiis",
+      "track": {
+        "id": "523RWM0cEycsptzPhVMAyt",
+        "name": "Tiis"
+      },
       "duration_ms": 331026,
-      "artist": [
-        "Fatou Guewel"
+      "artists": [
+        {
+          "name": "Fatou Guewel",
+          "id": "2zXgXWb44VMBiLgQOnXd88"
+        }
       ],
-      "artistId": [
-        "2zXgXWb44VMBiLgQOnXd88"
-      ],
-      "albumId": "52cpXy8ypCbtkK5nqw5uls",
+      "album": {
+        "id": "52cpXy8ypCbtkK5nqw5uls",
+        "name": "Fatou",
+        "img": "https://i.scdn.co/image/ab67616d00001e022012e1cf20ec9f3230c88571"
+      },
       "release_date": "1998-06-01",
       "popularity": 6
     },
     {
-      "trackId": "1eu3GSrsyUxWMmEKgC4Xr5",
-      "name": "Come Give Me Love",
+      "track": {
+        "id": "1eu3GSrsyUxWMmEKgC4Xr5",
+        "name": "Come Give Me Love"
+      },
       "duration_ms": 209120,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 51
     },
     {
-      "trackId": "6jUyYHDikmw9WltPojSR37",
-      "name": "Got 'Til It's Gone",
+      "track": {
+        "id": "6jUyYHDikmw9WltPojSR37",
+        "name": "Got 'Til It's Gone"
+      },
       "duration_ms": 241760,
-      "artist": [
-        "Janet Jackson",
-        "Q-Tip",
-        "Joni Mitchell"
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "id": "4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "Q-Tip",
+          "id": "3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        }
       ],
-      "artistId": [
-        "4qwGe91Bz9K2T8jXTZ815W",
-        "3ZotbHeyVQKxQCPDJuQ4SU",
-        "5hW4L92KnC6dX9t7tYM4Ve"
-      ],
-      "albumId": "6ZANEjETQ9L9pjBuvOAhCQ",
+      "album": {
+        "id": "6ZANEjETQ9L9pjBuvOAhCQ",
+        "name": "The Velvet Rope",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea84373a962d15eeed9aa3bf"
+      },
       "release_date": "1997-10-07",
       "popularity": 63
     },
     {
-      "trackId": "0wXuerDYiBnERgIpbb3JBR",
-      "name": "Redbone",
+      "track": {
+        "id": "0wXuerDYiBnERgIpbb3JBR",
+        "name": "Redbone"
+      },
       "duration_ms": 326933,
-      "artist": [
-        "Childish Gambino"
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "id": "73sIBHcqh3Z3NyqHKZ7FOL"
+        }
       ],
-      "artistId": [
-        "73sIBHcqh3Z3NyqHKZ7FOL"
-      ],
-      "albumId": "4Carzsnpd6yvuHZ49I0oz8",
+      "album": {
+        "id": "4Carzsnpd6yvuHZ49I0oz8",
+        "name": "\"Awaken, My Love!\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f78c98bbf2b3c9e2a764203e"
+      },
       "release_date": "2016-12-02",
       "popularity": 83
     },
     {
-      "trackId": "5i9neh0JtIQR7J2BFHPyru",
-      "name": "Nothing at All",
+      "track": {
+        "id": "5i9neh0JtIQR7J2BFHPyru",
+        "name": "Nothing at All"
+      },
       "duration_ms": 325224,
-      "artist": [
-        "King Hoodie"
+      "artists": [
+        {
+          "name": "King Hoodie",
+          "id": "1jgkvKzSxLwpZqrNUcrKqy"
+        }
       ],
-      "artistId": [
-        "1jgkvKzSxLwpZqrNUcrKqy"
-      ],
-      "albumId": "0hvLB1CTBdkg9emQw2cee1",
+      "album": {
+        "id": "0hvLB1CTBdkg9emQw2cee1",
+        "name": "Playgrounds",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234e99fa8ff86ea546b1cbd0c"
+      },
       "release_date": "2017-03-07",
       "popularity": 2
     },
     {
-      "trackId": "0Q0IVlqMV64kNLlwjPj0Hl",
-      "name": "Killing Me Softly With His Song",
+      "track": {
+        "id": "0Q0IVlqMV64kNLlwjPj0Hl",
+        "name": "Killing Me Softly With His Song"
+      },
       "duration_ms": 298773,
-      "artist": [
-        "Fugees",
-        "Ms. Lauryn Hill"
+      "artists": [
+        {
+          "name": "Fugees",
+          "id": "2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "id": "2Mu5NfyYm8n5iTomuKAEHl"
+        }
       ],
-      "artistId": [
-        "2WKdxPFRD7IqZvlIAvhMgY",
-        "2Mu5NfyYm8n5iTomuKAEHl"
-      ],
-      "albumId": "18XFe4CPBgVezXkxZP6rTb",
+      "album": {
+        "id": "18XFe4CPBgVezXkxZP6rTb",
+        "name": "The Score (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137"
+      },
       "release_date": "1996-02-13",
       "popularity": 76
     },
     {
-      "trackId": "3qH4iiT4EXlbW7Z6UjdbvT",
-      "name": "Tell Her She's The Light Of The World",
+      "track": {
+        "id": "3qH4iiT4EXlbW7Z6UjdbvT",
+        "name": "Tell Her She's The Light Of The World"
+      },
       "duration_ms": 290546,
-      "artist": [
-        "Winhill/Losehill"
+      "artists": [
+        {
+          "name": "Winhill/Losehill",
+          "id": "7fXcDsj4r6w3mVHauFRNqu"
+        }
       ],
-      "artistId": [
-        "7fXcDsj4r6w3mVHauFRNqu"
-      ],
-      "albumId": "06wBsC9LKMZ6mJBqVf00zn",
+      "album": {
+        "id": "06wBsC9LKMZ6mJBqVf00zn",
+        "name": "Swing of Sorrow",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de6c859f8e79cb500f2aab1b"
+      },
       "release_date": "2012-02-22",
       "popularity": 13
     },
     {
-      "trackId": "71sMzjGn5KsFIYvNwHQbhk",
-      "name": "Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet",
+      "track": {
+        "id": "71sMzjGn5KsFIYvNwHQbhk",
+        "name": "Overture (Suite) No. 2 in B Minor, BWV 1067: VI. Menuet"
+      },
       "duration_ms": 80000,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Cologne Chamber Orchestra",
-        "Helmut Muller-Bruhl"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "id": "16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "id": "2A5MfDq59CDZg119HhLcT7"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "16WKM2I7sY0uccRe5tlRc6",
-        "2A5MfDq59CDZg119HhLcT7"
-      ],
-      "albumId": "3AvGH9V6SzXnIEppm6YtRF",
+      "album": {
+        "id": "3AvGH9V6SzXnIEppm6YtRF",
+        "name": "Bach: Overtures (Suites) Nos. 1-4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02459844a3a48996cee40e25f0"
+      },
       "release_date": "2000-12-02",
       "popularity": 30
     },
     {
-      "trackId": "2pMPWE7PJH1PizfgGRMnR9",
-      "name": "Bad Religion",
+      "track": {
+        "id": "2pMPWE7PJH1PizfgGRMnR9",
+        "name": "Bad Religion"
+      },
       "duration_ms": 175453,
-      "artist": [
-        "Frank Ocean"
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "id": "2h93pZq0e7k5yf4dywlkpM"
+        }
       ],
-      "artistId": [
-        "2h93pZq0e7k5yf4dywlkpM"
-      ],
-      "albumId": "392p3shh2jkxUxY2VHvlH8",
+      "album": {
+        "id": "392p3shh2jkxUxY2VHvlH8",
+        "name": "channel ORANGE",
+        "img": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5"
+      },
       "release_date": "2012-07-10",
       "popularity": 64
     },
     {
-      "trackId": "1HnPQbXWRS1lqH165Rrj5p",
-      "name": "Fängslad",
+      "track": {
+        "id": "1HnPQbXWRS1lqH165Rrj5p",
+        "name": "Fängslad"
+      },
       "duration_ms": 153044,
-      "artist": [
-        "O!"
+      "artists": [
+        {
+          "name": "O!",
+          "id": "7nza9FCmRyw0Kha7Sqv2K6"
+        }
       ],
-      "artistId": [
-        "7nza9FCmRyw0Kha7Sqv2K6"
-      ],
-      "albumId": "5pU4HS02zs0S9Vs7TIB6My",
+      "album": {
+        "id": "5pU4HS02zs0S9Vs7TIB6My",
+        "name": "Fängslad",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f603d50eeea4573cc8ab240e"
+      },
       "release_date": "2018-06-15",
       "popularity": 3
     },
     {
-      "trackId": "6y4PEr2EUddFQITZRfugYz",
-      "name": "Dö ung",
+      "track": {
+        "id": "6y4PEr2EUddFQITZRfugYz",
+        "name": "Dö ung"
+      },
       "duration_ms": 204477,
-      "artist": [
-        "JËLLY"
+      "artists": [
+        {
+          "name": "JËLLY",
+          "id": "6mqTQZ0Cz6MAeGNHfaseMX"
+        }
       ],
-      "artistId": [
-        "6mqTQZ0Cz6MAeGNHfaseMX"
-      ],
-      "albumId": "0P6iFAv2jHbPEN3pDvIJ3d",
+      "album": {
+        "id": "0P6iFAv2jHbPEN3pDvIJ3d",
+        "name": "Dö ung",
+        "img": "https://i.scdn.co/image/ab67616d00001e02717fe03c1a1b20143ba79494"
+      },
       "release_date": "2018-06-29",
       "popularity": 16
     },
     {
-      "trackId": "27TFfAFo4sE4fw04QDqJmD",
-      "name": "Himlen är oskyldigt blå",
+      "track": {
+        "id": "27TFfAFo4sE4fw04QDqJmD",
+        "name": "Himlen är oskyldigt blå"
+      },
       "duration_ms": 273266,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7vQoYBKkBQc3TK3gGPwehn",
+      "album": {
+        "id": "7vQoYBKkBQc3TK3gGPwehn",
+        "name": "Droppar av solregn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e931d6bb79f4959257a2daa8"
+      },
       "release_date": "2001-01-01",
       "popularity": 49
     }

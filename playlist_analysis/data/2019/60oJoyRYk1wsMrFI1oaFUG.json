@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/0761b6dc-0674-47d4-b618-891a8bbd3f07.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6DMOzL2zPZBAW0LDYCYLWm",
-      "name": "I've Never Been To Me",
+      "track": {
+        "id": "6DMOzL2zPZBAW0LDYCYLWm",
+        "name": "I've Never Been To Me"
+      },
       "duration_ms": 234773,
-      "artist": [
-        "Charlene"
+      "artists": [
+        {
+          "name": "Charlene",
+          "id": "52o9SO5Qt09Vr9bDCbTbmu"
+        }
       ],
-      "artistId": [
-        "52o9SO5Qt09Vr9bDCbTbmu"
-      ],
-      "albumId": "7rXwVP5P5mfUQUTYYD6Jza",
+      "album": {
+        "id": "7rXwVP5P5mfUQUTYYD6Jza",
+        "name": "I've Never Been To Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273329ec8473347e689e6ec5c"
+      },
       "release_date": "1982-01-01",
       "popularity": 59
     },
     {
-      "trackId": "144JMbvbR5txNzoZ112wo4",
-      "name": "Strong Enough",
+      "track": {
+        "id": "144JMbvbR5txNzoZ112wo4",
+        "name": "Strong Enough"
+      },
       "duration_ms": 224000,
-      "artist": [
-        "Cher"
+      "artists": [
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "0jZfbz0dNfDjPSg0hYJNth",
+      "album": {
+        "id": "0jZfbz0dNfDjPSg0hYJNth",
+        "name": "Believe",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261c83e0a3e42be611729c840"
+      },
       "release_date": "1998",
       "popularity": 66
     },
     {
-      "trackId": "20OFwXhEXf12DzwXmaV7fj",
-      "name": "Bad Moon Rising",
+      "track": {
+        "id": "20OFwXhEXf12DzwXmaV7fj",
+        "name": "Bad Moon Rising"
+      },
       "duration_ms": 141600,
-      "artist": [
-        "Creedence Clearwater Revival"
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": "3IYUhFvPQItj6xySrBmZkd"
+        }
       ],
-      "artistId": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ],
-      "albumId": "0i9mOB6mPGqwVvtJEXiwPG",
+      "album": {
+        "id": "0i9mOB6mPGqwVvtJEXiwPG",
+        "name": "Green River (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023efcd243aaa5638f55318f91"
+      },
       "release_date": "1969-08-03",
       "popularity": 78
     },
     {
-      "trackId": "1wSPm3y4Lk6ABkVxCmwkZx",
-      "name": "No More Tears (Enough Is Enough) (feat. Donna Summer)",
+      "track": {
+        "id": "1wSPm3y4Lk6ABkVxCmwkZx",
+        "name": "No More Tears (Enough Is Enough) (feat. Donna Summer)"
+      },
       "duration_ms": 282493,
-      "artist": [
-        "Barbra Streisand",
-        "Donna Summer"
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "id": "7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Donna Summer",
+          "id": "2eogQKWWoohI3BSnoG7E2U"
+        }
       ],
-      "artistId": [
-        "7jmTilWYlKOuavFfmQAcu6",
-        "2eogQKWWoohI3BSnoG7E2U"
-      ],
-      "albumId": "03LP0iA5hWsCVeDFHMV7Z8",
+      "album": {
+        "id": "03LP0iA5hWsCVeDFHMV7Z8",
+        "name": "The Essential Barbra Streisand",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212a9599adcf94626f77e42f7"
+      },
       "release_date": "2002-01-29",
       "popularity": 47
     },
     {
-      "trackId": "4cOdK2wGLETKBW3PvgPWqT",
-      "name": "Never Gonna Give You Up",
+      "track": {
+        "id": "4cOdK2wGLETKBW3PvgPWqT",
+        "name": "Never Gonna Give You Up"
+      },
       "duration_ms": 213573,
-      "artist": [
-        "Rick Astley"
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "id": "0gxyHStUsqpMadRV0Di1Qt"
+        }
       ],
-      "artistId": [
-        "0gxyHStUsqpMadRV0Di1Qt"
-      ],
-      "albumId": "5Z9iiGl2FcIfa3BMiv6OIw",
+      "album": {
+        "id": "5Z9iiGl2FcIfa3BMiv6OIw",
+        "name": "Whenever You Need Somebody",
+        "img": "https://i.scdn.co/image/ab67616d00001e025755e164993798e0c9ef7d7a"
+      },
       "release_date": "1987-11-12",
       "popularity": 80
     },
     {
-      "trackId": "70LrxJ5u19umvrXbC19g20",
-      "name": "Take Me To Church",
+      "track": {
+        "id": "70LrxJ5u19umvrXbC19g20",
+        "name": "Take Me To Church"
+      },
       "duration_ms": 241688,
-      "artist": [
-        "Hozier"
+      "artists": [
+        {
+          "name": "Hozier",
+          "id": "2FXC3k01G6Gw61bmprjgqS"
+        }
       ],
-      "artistId": [
-        "2FXC3k01G6Gw61bmprjgqS"
-      ],
-      "albumId": "44zQnmrFcPCmPp6NLMfTuz",
+      "album": {
+        "id": "44zQnmrFcPCmPp6NLMfTuz",
+        "name": "Hozier (Special Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022303ece0e9af3917d0bce05f"
+      },
       "release_date": "2014-11-06",
       "popularity": 57
     },
     {
-      "trackId": "3CDWy7Sk9hK5g1HsV9LKW9",
-      "name": "I'll Tell Me Ma",
+      "track": {
+        "id": "3CDWy7Sk9hK5g1HsV9LKW9",
+        "name": "I'll Tell Me Ma"
+      },
       "duration_ms": 172386,
-      "artist": [
-        "Young Dubliners"
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "id": "6goa2f1QVVT8aqSxKWnsVj"
+        }
       ],
-      "artistId": [
-        "6goa2f1QVVT8aqSxKWnsVj"
-      ],
-      "albumId": "291LYTwbCHyPWBrD12eD3B",
+      "album": {
+        "id": "291LYTwbCHyPWBrD12eD3B",
+        "name": "With All Due Respect: The Irish Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02643dc911dc8f69ced16e8ed0"
+      },
       "release_date": "2007-02-13",
       "popularity": 46
     },
     {
-      "trackId": "4gIBVzdQutBd809V7cxyhg",
-      "name": "Keep On Running - Mono Version",
+      "track": {
+        "id": "4gIBVzdQutBd809V7cxyhg",
+        "name": "Keep On Running - Mono Version"
+      },
       "duration_ms": 166573,
-      "artist": [
-        "The Spencer Davis Group"
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "id": "3i9hP422d2KMjaupTzBNVS"
+        }
       ],
-      "artistId": [
-        "3i9hP422d2KMjaupTzBNVS"
-      ],
-      "albumId": "2VzPbH9M7hVNDF1PvY2dTA",
+      "album": {
+        "id": "2VzPbH9M7hVNDF1PvY2dTA",
+        "name": "The Second Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8e5e1f9943c9a7fb365ab29"
+      },
       "release_date": "1966",
       "popularity": 53
     },
     {
-      "trackId": "7aFBDoQAdm0rdxNy2el4k2",
-      "name": "Skaka rumpa i en samba (feat. Tony Irving)",
+      "track": {
+        "id": "7aFBDoQAdm0rdxNy2el4k2",
+        "name": "Skaka rumpa i en samba (feat. Tony Irving)"
+      },
       "duration_ms": 172573,
-      "artist": [
-        "Drifters",
-        "Tony Irving"
+      "artists": [
+        {
+          "name": "Drifters",
+          "id": "1sFDelD4hE9T8Uykq7gMwh"
+        },
+        {
+          "name": "Tony Irving",
+          "id": "62ofgHvJCvppuVUy4NVvMN"
+        }
       ],
-      "artistId": [
-        "1sFDelD4hE9T8Uykq7gMwh",
-        "62ofgHvJCvppuVUy4NVvMN"
-      ],
-      "albumId": "0SWL8pfGb1pGUGSjmxqOsc",
+      "album": {
+        "id": "0SWL8pfGb1pGUGSjmxqOsc",
+        "name": "Skaka rumpa i en samba (feat. Tony Irving)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7d64f975f1988252e063e3e"
+      },
       "release_date": "2019-05-24",
       "popularity": 11
     },
     {
-      "trackId": "1BLXxFPDL2BT37nHKD7KrA",
-      "name": "Pata Pata - Stereo Version",
+      "track": {
+        "id": "1BLXxFPDL2BT37nHKD7KrA",
+        "name": "Pata Pata - Stereo Version"
+      },
       "duration_ms": 180174,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "4xPYddRQPYB5jbTB3e7tL5",
+      "album": {
+        "id": "4xPYddRQPYB5jbTB3e7tL5",
+        "name": "Pata Pata",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d46caefb22d460eb8ca14db0"
+      },
       "release_date": "2017",
       "popularity": 58
     },
     {
-      "trackId": "49CcYj1bsJ0fjkICI8hIrR",
-      "name": "Jag vill tacka Livet",
+      "track": {
+        "id": "49CcYj1bsJ0fjkICI8hIrR",
+        "name": "Jag vill tacka Livet"
+      },
       "duration_ms": 266040,
-      "artist": [
-        "Arja Saijonmaa"
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "id": "7eoFSuG70jwEpxd1LdKNxK"
+        }
       ],
-      "artistId": [
-        "7eoFSuG70jwEpxd1LdKNxK"
-      ],
-      "albumId": "6Ye4WhlxwRkxAyyF1frCdi",
+      "album": {
+        "id": "6Ye4WhlxwRkxAyyF1frCdi",
+        "name": "Jag vill tacka livet - 13 sånger av Violeta Parra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f92f9109892c50471f98257e"
+      },
       "release_date": "1979",
       "popularity": 24
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

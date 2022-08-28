@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c8de2ad9-9c61-4ebe-b1cc-3f22c7486a60.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6mhoTz4fxHVJ5swrXe2KtL",
-      "name": "In The Beginning",
+      "track": {
+        "id": "6mhoTz4fxHVJ5swrXe2KtL",
+        "name": "In The Beginning"
+      },
       "duration_ms": 74373,
-      "artist": [
-        "Mötley Crüe"
+      "artists": [
+        {
+          "name": "Mötley Crüe",
+          "id": "0cc6vw3VN8YlIcvr1v7tBL"
+        }
       ],
-      "artistId": [
-        "0cc6vw3VN8YlIcvr1v7tBL"
-      ],
-      "albumId": "7xuz2r1QalMeEVkYuDfPgY",
+      "album": {
+        "id": "7xuz2r1QalMeEVkYuDfPgY",
+        "name": "Shout At The Devil",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e21514654e93e55e9612bd5a"
+      },
       "release_date": "1983-09-26",
       "popularity": 40
     },
     {
-      "trackId": "31dqpLUModJWNbxrXu6TWd",
-      "name": "Shot in the Dark",
+      "track": {
+        "id": "31dqpLUModJWNbxrXu6TWd",
+        "name": "Shot in the Dark"
+      },
       "duration_ms": 256293,
-      "artist": [
-        "Ozzy Osbourne"
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "id": "6ZLTlhejhndI4Rh53vYhrY"
+        }
       ],
-      "artistId": [
-        "6ZLTlhejhndI4Rh53vYhrY"
-      ],
-      "albumId": "2IPIumpbhrtBvjyzIgGE9j",
+      "album": {
+        "id": "2IPIumpbhrtBvjyzIgGE9j",
+        "name": "The Ultimate Sin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8dec214036a4cfb3dcf143a"
+      },
       "release_date": "1986-02-22",
       "popularity": 63
     },
     {
-      "trackId": "0TaWdoJiAJoln9OQ1RbdNs",
-      "name": "My Way - 1993 Remastered Version",
+      "track": {
+        "id": "0TaWdoJiAJoln9OQ1RbdNs",
+        "name": "My Way - 1993 Remastered Version"
+      },
       "duration_ms": 244813,
-      "artist": [
-        "Sid Vicious"
+      "artists": [
+        {
+          "name": "Sid Vicious",
+          "id": "1YnxVTLZQkk6KJI2c5sBqU"
+        }
       ],
-      "artistId": [
-        "1YnxVTLZQkk6KJI2c5sBqU"
-      ],
-      "albumId": "3EZ09EIoMr6Y5Q9aidbnhy",
+      "album": {
+        "id": "3EZ09EIoMr6Y5Q9aidbnhy",
+        "name": "Playlist: New Wave",
+        "img": "https://i.scdn.co/image/ab67616d00001e0294a30b97c0ca004ba578ada6"
+      },
       "release_date": "2008-04-28",
       "popularity": 43
     },
     {
-      "trackId": "1uLAI3dSVYnn1KeCTAgkHr",
-      "name": "Sleepless Nights",
+      "track": {
+        "id": "1uLAI3dSVYnn1KeCTAgkHr",
+        "name": "Sleepless Nights"
+      },
       "duration_ms": 305933,
-      "artist": [
-        "King Diamond"
+      "artists": [
+        {
+          "name": "King Diamond",
+          "id": "5i0ph60TnwTlIGrOZAmcZa"
+        }
       ],
-      "artistId": [
-        "5i0ph60TnwTlIGrOZAmcZa"
-      ],
-      "albumId": "3soSRzbPLtJEstj20sQTnK",
+      "album": {
+        "id": "3soSRzbPLtJEstj20sQTnK",
+        "name": "Conspiracy",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d066a1fad421f4f38105ad1"
+      },
       "release_date": "1989-08-21",
       "popularity": 39
     },
     {
-      "trackId": "55gnXnrMcV8VESW9UxTSHA",
-      "name": "The Highwayman",
+      "track": {
+        "id": "55gnXnrMcV8VESW9UxTSHA",
+        "name": "The Highwayman"
+      },
       "duration_ms": 230560,
-      "artist": [
-        "Jimmy Webb"
+      "artists": [
+        {
+          "name": "Jimmy Webb",
+          "id": "0YJUdunUDA1pTDxJ8AJlyB"
+        }
       ],
-      "artistId": [
-        "0YJUdunUDA1pTDxJ8AJlyB"
-      ],
-      "albumId": "4CyzFJiQcpwPXle8STeAdv",
+      "album": {
+        "id": "4CyzFJiQcpwPXle8STeAdv",
+        "name": "El Mirage",
+        "img": "https://i.scdn.co/image/ab67616d00001e026831d6173be5232c621041ef"
+      },
       "release_date": "1977",
       "popularity": 29
     },
     {
-      "trackId": "70Z9t1qhytWtG4cCmmi7mU",
-      "name": "I Wanna Rock",
+      "track": {
+        "id": "70Z9t1qhytWtG4cCmmi7mU",
+        "name": "I Wanna Rock"
+      },
       "duration_ms": 179760,
-      "artist": [
-        "Twisted Sister"
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "id": "7b85ve82Sh36a3UAx74wut"
+        }
       ],
-      "artistId": [
-        "7b85ve82Sh36a3UAx74wut"
-      ],
-      "albumId": "0dzqapIToiOhULGvzDKpXm",
+      "album": {
+        "id": "0dzqapIToiOhULGvzDKpXm",
+        "name": "Stay Hungry",
+        "img": "https://i.scdn.co/image/ab67616d00001e023469ef94acfa666fde83dec5"
+      },
       "release_date": "1984-05-10",
       "popularity": 73
     },
     {
-      "trackId": "7AKqiTZxUtVnp7Kc3iNxCy",
-      "name": "Helan & Halvan",
+      "track": {
+        "id": "7AKqiTZxUtVnp7Kc3iNxCy",
+        "name": "Helan & Halvan"
+      },
       "duration_ms": 145833,
-      "artist": [
-        "Onkel"
+      "artists": [
+        {
+          "name": "Onkel",
+          "id": "73nA61o9FnJGeHuk9MR6NI"
+        }
       ],
-      "artistId": [
-        "73nA61o9FnJGeHuk9MR6NI"
-      ],
-      "albumId": "26NEB0tODtcbLzLqET64yz",
+      "album": {
+        "id": "26NEB0tODtcbLzLqET64yz",
+        "name": "Kånkelmania 2.0, Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b65e2f4ad52a5e753eb977e5"
+      },
       "release_date": "2019-05-31",
       "popularity": 9
     },
     {
-      "trackId": "17letBj5uqJns5jJa4yDu2",
-      "name": "Dunder Och Snus",
+      "track": {
+        "id": "17letBj5uqJns5jJa4yDu2",
+        "name": "Dunder Och Snus"
+      },
       "duration_ms": 283626,
-      "artist": [
-        "Fiskebyxa"
+      "artists": [
+        {
+          "name": "Fiskebyxa",
+          "id": "0n4cuybWprOPpyFENxVRUD"
+        }
       ],
-      "artistId": [
-        "0n4cuybWprOPpyFENxVRUD"
-      ],
-      "albumId": "1Gz1LhFXf6ZyeG2nKbXfPM",
+      "album": {
+        "id": "1Gz1LhFXf6ZyeG2nKbXfPM",
+        "name": "Punkjävlar... En Hyllning Till Eddie Meduza",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b88f1bd257b80f0629641b9d"
+      },
       "release_date": "2005-02-28",
       "popularity": 2
     },
     {
-      "trackId": "3XFWhWDmkyXUN582f6BoLp",
-      "name": "Ingen saknar mig i morgon",
+      "track": {
+        "id": "3XFWhWDmkyXUN582f6BoLp",
+        "name": "Ingen saknar mig i morgon"
+      },
       "duration_ms": 204296,
-      "artist": [
-        "Max Fenders"
+      "artists": [
+        {
+          "name": "Max Fenders",
+          "id": "215ieZeTQNtEzRxafXmn2m"
+        }
       ],
-      "artistId": [
-        "215ieZeTQNtEzRxafXmn2m"
-      ],
-      "albumId": "4EfUaf54vO6XOwGTNsEME0",
+      "album": {
+        "id": "4EfUaf54vO6XOwGTNsEME0",
+        "name": "Venus",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228260c4f31bc3ac71bacfeeb"
+      },
       "release_date": "1977",
       "popularity": 35
     },
     {
-      "trackId": "7nemcVsXVFZF01iqpIIo2Y",
-      "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "track": {
+        "id": "7nemcVsXVFZF01iqpIIo2Y",
+        "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)"
+      },
       "duration_ms": 301226,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "19AUoKWRAaQYrggVvdQnqq",
+      "album": {
+        "id": "19AUoKWRAaQYrggVvdQnqq",
+        "name": "High Voltage",
+        "img": "https://i.scdn.co/image/ab67616d00001e02286a0837ff3424065a735e0a"
+      },
       "release_date": "1976-05-14",
       "popularity": 71
     },
     {
-      "trackId": "1BBZ7WFBkXHIaGbEZvkUCl",
-      "name": "Så länge skutan kan gå",
+      "track": {
+        "id": "1BBZ7WFBkXHIaGbEZvkUCl",
+        "name": "Så länge skutan kan gå"
+      },
       "duration_ms": 190106,
-      "artist": [
-        "Per Myrberg"
+      "artists": [
+        {
+          "name": "Per Myrberg",
+          "id": "74HgFbSvwVCvess9LgMze2"
+        }
       ],
-      "artistId": [
-        "74HgFbSvwVCvess9LgMze2"
-      ],
-      "albumId": "5EgZCLR6QjKs266yNJ95Y0",
+      "album": {
+        "id": "5EgZCLR6QjKs266yNJ95Y0",
+        "name": "Sommarnatt - Per Myrberg sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e020362b62e8e964624f39d4c9d"
+      },
       "release_date": "2007-01-01",
       "popularity": 13
     },
     {
-      "trackId": "7n0lp1r1yHYXN2jZvqzbAI",
-      "name": "I Can Hear Your Heartbeat",
+      "track": {
+        "id": "7n0lp1r1yHYXN2jZvqzbAI",
+        "name": "I Can Hear Your Heartbeat"
+      },
       "duration_ms": 211146,
-      "artist": [
-        "Chris Rea"
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "id": "5KEG7G8LDYlHgFDqZyEEs2"
+        }
       ],
-      "artistId": [
-        "5KEG7G8LDYlHgFDqZyEEs2"
-      ],
-      "albumId": "4FgqV1hg6SM4XRt9Y7SJyw",
+      "album": {
+        "id": "4FgqV1hg6SM4XRt9Y7SJyw",
+        "name": "Water Sign",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b24b8434a8eb9e0232f6eebe"
+      },
       "release_date": "1983-07-18",
       "popularity": 52
     },
     {
-      "trackId": "6iDs7caj4dlxyTpT1mMnS4",
-      "name": "I Can Hear Your Heart beat (Karaoke Version) [In The Style Of Chris Rea]",
+      "track": {
+        "id": "6iDs7caj4dlxyTpT1mMnS4",
+        "name": "I Can Hear Your Heart beat (Karaoke Version) [In The Style Of Chris Rea]"
+      },
       "duration_ms": 198773,
-      "artist": [
-        "Karaoke Universe"
+      "artists": [
+        {
+          "name": "Karaoke Universe",
+          "id": "7a2AgzWfEyFkgSAXjLe4T3"
+        }
       ],
-      "artistId": [
-        "7a2AgzWfEyFkgSAXjLe4T3"
-      ],
-      "albumId": "33MiTAqDze5SploK0hJpHw",
+      "album": {
+        "id": "33MiTAqDze5SploK0hJpHw",
+        "name": "I Can Hear Your Heart beat (Karaoke Version) [In The Style Of Chris Rea]",
+        "img": "https://i.scdn.co/image/ab67616d00001e020970aae01f95db32883cf4dc"
+      },
       "release_date": "2013-09-03",
       "popularity": 0
     }

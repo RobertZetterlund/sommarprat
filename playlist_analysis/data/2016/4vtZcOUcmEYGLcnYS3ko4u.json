@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3c65b634-5bdf-46e7-be36-98cdd9952701.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4LZbc8nWOj791Bq14P2H5G",
-      "name": "Big Girls Don't Cry (Sped Up) - You Can Hold My Hand If You Want To, Cause I Want to Hold Yours Too",
+      "track": {
+        "id": "4LZbc8nWOj791Bq14P2H5G",
+        "name": "Big Girls Don't Cry (Sped Up) - You Can Hold My Hand If You Want To, Cause I Want to Hold Yours Too"
+      },
       "duration_ms": 216637,
-      "artist": [
-        "Hiko"
+      "artists": [
+        {
+          "name": "Hiko",
+          "id": "0KYOBAf6Zky4CFQne2JPTX"
+        }
       ],
-      "artistId": [
-        "0KYOBAf6Zky4CFQne2JPTX"
-      ],
-      "albumId": "4XE1XeD4OiMpju7Yu4iA9u",
+      "album": {
+        "id": "4XE1XeD4OiMpju7Yu4iA9u",
+        "name": "Big Girls Don't Cry (Sped Up) - You Can Hold My Hand If You Want To, Cause I Want to Hold Yours Too",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac6ce30fe535a4bc1b14013a"
+      },
       "release_date": "2022-04-07",
       "popularity": 38
     },
     {
-      "trackId": "7e0Kx1ZlWFAjY35hLuJmmO",
-      "name": "Hard Time - Kretsen Remix",
+      "track": {
+        "id": "7e0Kx1ZlWFAjY35hLuJmmO",
+        "name": "Hard Time - Kretsen Remix"
+      },
       "duration_ms": 252000,
-      "artist": [
-        "Seinabo Sey",
-        "Kretsen"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Kretsen",
+          "id": "2pCUatDVV7tUKkKb8vOkyw"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i",
-        "2pCUatDVV7tUKkKb8vOkyw"
-      ],
-      "albumId": "75JCyRoajT0Xfw6nUKJq7X",
+      "album": {
+        "id": "75JCyRoajT0Xfw6nUKJq7X",
+        "name": "Hard Time / Pistols At Dawn",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a93e66b88c1a28a5ba8fc7c"
+      },
       "release_date": "2015-06-05",
       "popularity": 41
     },
     {
-      "trackId": "2gVHZ9GmBjUX76jaI2syD7",
-      "name": "Sallimleh Alayh",
+      "track": {
+        "id": "2gVHZ9GmBjUX76jaI2syD7",
+        "name": "Sallimleh Alayh"
+      },
       "duration_ms": 350800,
-      "artist": [
-        "Fairuz"
+      "artists": [
+        {
+          "name": "Fairuz",
+          "id": "0dwFxqYkvZLSA6U6XfQcDV"
+        }
       ],
-      "artistId": [
-        "0dwFxqYkvZLSA6U6XfQcDV"
-      ],
-      "albumId": "2ghb9Yy8zjyrgamm3SRzdI",
+      "album": {
+        "id": "2ghb9Yy8zjyrgamm3SRzdI",
+        "name": "Mish Kayan Hayek T'Koun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02673bc3ed5c0fbbb4fcb15ece"
+      },
       "release_date": "1999",
       "popularity": 46
     },
     {
-      "trackId": "4PLXC2ARifFlFfAFGw6rGs",
-      "name": "Ingen här som dej",
+      "track": {
+        "id": "4PLXC2ARifFlFfAFGw6rGs",
+        "name": "Ingen här som dej"
+      },
       "duration_ms": 204746,
-      "artist": [
-        "Lani Mo"
+      "artists": [
+        {
+          "name": "Lani Mo",
+          "id": "45hO5u8evtwIpSYefQHW8P"
+        }
       ],
-      "artistId": [
-        "45hO5u8evtwIpSYefQHW8P"
-      ],
-      "albumId": "2832LB3EFzrqnDIrq5MHV7",
+      "album": {
+        "id": "2832LB3EFzrqnDIrq5MHV7",
+        "name": "T(r)aktkänsla",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a60fa6ebeb3d2b1f4e40b8a4"
+      },
       "release_date": "2016-04-19",
       "popularity": 29
     },
     {
-      "trackId": "7e0pwQZAAsOu19flOJXyCK",
-      "name": "Still",
+      "track": {
+        "id": "7e0pwQZAAsOu19flOJXyCK",
+        "name": "Still"
+      },
       "duration_ms": 173209,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 53
     },
     {
-      "trackId": "7EMR7wcOHzK7qdyRPnqRMm",
-      "name": "Unrequited Love",
+      "track": {
+        "id": "7EMR7wcOHzK7qdyRPnqRMm",
+        "name": "Unrequited Love"
+      },
       "duration_ms": 249000,
-      "artist": [
-        "Yuna"
+      "artists": [
+        {
+          "name": "Yuna",
+          "id": "3kHVioJpVxlazAAKQ64pC1"
+        }
       ],
-      "artistId": [
-        "3kHVioJpVxlazAAKQ64pC1"
-      ],
-      "albumId": "4hynGWtmIAaKmaOm8snH71",
+      "album": {
+        "id": "4hynGWtmIAaKmaOm8snH71",
+        "name": "Chapters (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243af1e35eb5caee319858e51"
+      },
       "release_date": "2016-05-20",
       "popularity": 32
     },
     {
-      "trackId": "4qzUsJRX439NTXGD2ak1Jw",
-      "name": "Hon Va",
+      "track": {
+        "id": "4qzUsJRX439NTXGD2ak1Jw",
+        "name": "Hon Va"
+      },
       "duration_ms": 184998,
-      "artist": [
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "1WUagXFvCh1pnAj9hJSFnp",
+      "album": {
+        "id": "1WUagXFvCh1pnAj9hJSFnp",
+        "name": "Naturkraft",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7e9397cf938f98efcff140e"
+      },
       "release_date": "2016-03-25",
       "popularity": 12
     },
     {
-      "trackId": "67tGiMTRR4Oo0lTGkPFjhy",
-      "name": "A Prince",
+      "track": {
+        "id": "67tGiMTRR4Oo0lTGkPFjhy",
+        "name": "A Prince"
+      },
       "duration_ms": 182295,
-      "artist": [
-        "Jorja Smith"
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "id": "1CoZyIx7UvdxT5c8UkMzHd"
+        }
       ],
-      "artistId": [
-        "1CoZyIx7UvdxT5c8UkMzHd"
-      ],
-      "albumId": "2MiKWsV3oxpUP0bre2SLd6",
+      "album": {
+        "id": "2MiKWsV3oxpUP0bre2SLd6",
+        "name": "A Prince",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbc8a139cd55ea83bc043796"
+      },
       "release_date": "2016-04-05",
       "popularity": 50
     },
     {
-      "trackId": "1atZOKVacKIvlIgSE4dzfl",
-      "name": "Oudak Rannan",
+      "track": {
+        "id": "1atZOKVacKIvlIgSE4dzfl",
+        "name": "Oudak Rannan"
+      },
       "duration_ms": 310906,
-      "artist": [
-        "Fairuz"
+      "artists": [
+        {
+          "name": "Fairuz",
+          "id": "0dwFxqYkvZLSA6U6XfQcDV"
+        }
       ],
-      "artistId": [
-        "0dwFxqYkvZLSA6U6XfQcDV"
-      ],
-      "albumId": "7MrdWIvdobTf6MqVD3yILM",
+      "album": {
+        "id": "7MrdWIvdobTf6MqVD3yILM",
+        "name": "Legend - The Best Of Fairuz",
+        "img": "https://i.scdn.co/image/ab67616d00001e02370e2a57c9809c5a09fedcbd"
+      },
       "release_date": "2006-01-01",
       "popularity": 29
     },
     {
-      "trackId": "06M8KfNJwdqxB9lLuPVt28",
-      "name": "Tänd alla ljus - Från Benjamin's",
+      "track": {
+        "id": "06M8KfNJwdqxB9lLuPVt28",
+        "name": "Tänd alla ljus - Från Benjamin's"
+      },
       "duration_ms": 168000,
-      "artist": [
-        "Benjamin Ingrosso",
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "id": "7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "7jEEE187pVG6InOxn03oA5",
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "2N7xVJBwo7MaFhEukHMoDt",
+      "album": {
+        "id": "2N7xVJBwo7MaFhEukHMoDt",
+        "name": "Tänd alla ljus (Från Benjamin's)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f05fa287b142faf02f13b2ba"
+      },
       "release_date": "2022-03-22",
       "popularity": 45
     },
     {
-      "trackId": "0VffaI2jwQknRrxpECYHsF",
-      "name": "Greyhound",
+      "track": {
+        "id": "0VffaI2jwQknRrxpECYHsF",
+        "name": "Greyhound"
+      },
       "duration_ms": 410096,
-      "artist": [
-        "Swedish House Mafia"
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "id": "1h6Cn3P4NGzXbaXidqURXs"
+        }
       ],
-      "artistId": [
-        "1h6Cn3P4NGzXbaXidqURXs"
-      ],
-      "albumId": "4ljisoNarj0BpQSMIEv88L",
+      "album": {
+        "id": "4ljisoNarj0BpQSMIEv88L",
+        "name": "Until Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e02781f6dd5abe91929df0314e3"
+      },
       "release_date": "2012-01-01",
       "popularity": 62
     },
     {
-      "trackId": "7nOtXCM1w97j4KeBRH2rPj",
-      "name": "Used To Love You",
+      "track": {
+        "id": "7nOtXCM1w97j4KeBRH2rPj",
+        "name": "Used To Love You"
+      },
       "duration_ms": 209746,
-      "artist": [
-        "Yuna",
-        "Jhené Aiko"
+      "artists": [
+        {
+          "name": "Yuna",
+          "id": "3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jhené Aiko",
+          "id": "5ZS223C6JyBfXasXxrRqOk"
+        }
       ],
-      "artistId": [
-        "3kHVioJpVxlazAAKQ64pC1",
-        "5ZS223C6JyBfXasXxrRqOk"
-      ],
-      "albumId": "4hynGWtmIAaKmaOm8snH71",
+      "album": {
+        "id": "4hynGWtmIAaKmaOm8snH71",
+        "name": "Chapters (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0243af1e35eb5caee319858e51"
+      },
       "release_date": "2016-05-20",
       "popularity": 47
     },
     {
-      "trackId": "2OnEoyPL8qwnpYZNlfP55d",
-      "name": "In Common - Kaskade Radio Mix",
+      "track": {
+        "id": "2OnEoyPL8qwnpYZNlfP55d",
+        "name": "In Common - Kaskade Radio Mix"
+      },
       "duration_ms": 197360,
-      "artist": [
-        "Alicia Keys",
-        "Kaskade"
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "id": "3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Kaskade",
+          "id": "6TQj5BFPooTa08A7pk8AQ1"
+        }
       ],
-      "artistId": [
-        "3DiDSECUqqY1AuBP8qtaIa",
-        "6TQj5BFPooTa08A7pk8AQ1"
-      ],
-      "albumId": "52Y1gGjYphRowQYLxu8bxX",
+      "album": {
+        "id": "52Y1gGjYphRowQYLxu8bxX",
+        "name": "KEYS II",
+        "img": "https://i.scdn.co/image/ab67616d00001e027cdb195067de6719ef7db8bb"
+      },
       "release_date": "2022-08-12",
       "popularity": 23
     }

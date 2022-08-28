@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2851183_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4h5KBcltGefua73AUPYps7",
-      "name": "Izzo (H.O.V.A.)",
+      "track": {
+        "id": "4h5KBcltGefua73AUPYps7",
+        "name": "Izzo (H.O.V.A.)"
+      },
       "duration_ms": 240626,
-      "artist": [
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "69CmkikTHkGKdkrUZTtyWl",
+      "album": {
+        "id": "69CmkikTHkGKdkrUZTtyWl",
+        "name": "The Blueprint (Explicit Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b3f6f34954118500ed3e7a7"
+      },
       "release_date": "2001-09-11",
       "popularity": 62
     },
     {
-      "trackId": "1N4MKISvC1ddfRCRQDXDd2",
-      "name": "Madame George - 1999 Remaster",
+      "track": {
+        "id": "1N4MKISvC1ddfRCRQDXDd2",
+        "name": "Madame George - 1999 Remaster"
+      },
       "duration_ms": 585173,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "4pG3bKkbmReDt5QTDn3JDz",
+      "album": {
+        "id": "4pG3bKkbmReDt5QTDn3JDz",
+        "name": "Astral Weeks",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c849bc0a79a44105a4258662"
+      },
       "release_date": "1968-11-01",
       "popularity": 45
     },
     {
-      "trackId": "6cjwec9ii5uLK7CDfPBYt1",
-      "name": "Wide Open Spaces",
+      "track": {
+        "id": "6cjwec9ii5uLK7CDfPBYt1",
+        "name": "Wide Open Spaces"
+      },
       "duration_ms": 223832,
-      "artist": [
-        "The Chicks"
+      "artists": [
+        {
+          "name": "The Chicks",
+          "id": "25IG9fa7cbdmCIy3OnuH57"
+        }
       ],
-      "artistId": [
-        "25IG9fa7cbdmCIy3OnuH57"
-      ],
-      "albumId": "11Rni6y5dnNo6NRVuxltIj",
+      "album": {
+        "id": "11Rni6y5dnNo6NRVuxltIj",
+        "name": "Wide Open Spaces",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c2a9c9ce2e9016223cdb74a"
+      },
       "release_date": "1998-01-27",
       "popularity": 68
     },
     {
-      "trackId": "2tsW3Lr6LatRZz7Bbe3CBK",
-      "name": "Les copains d'abord",
+      "track": {
+        "id": "2tsW3Lr6LatRZz7Bbe3CBK",
+        "name": "Les copains d'abord"
+      },
       "duration_ms": 241213,
-      "artist": [
-        "Georges Brassens"
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "id": "5UWyW1PcEM8coxeqg3RIHr"
+        }
       ],
-      "artistId": [
-        "5UWyW1PcEM8coxeqg3RIHr"
-      ],
-      "albumId": "0y9YoYaHJNk6f9mUP7jhvR",
+      "album": {
+        "id": "0y9YoYaHJNk6f9mUP7jhvR",
+        "name": "Georges Brassens N°10",
+        "img": "https://i.scdn.co/image/ab67616d00001e02484d11375876dfe05d6c896c"
+      },
       "release_date": "1964",
       "popularity": 56
     },
     {
-      "trackId": "70C4NyhjD5OZUMzvWZ3njJ",
-      "name": "Piano Man",
+      "track": {
+        "id": "70C4NyhjD5OZUMzvWZ3njJ",
+        "name": "Piano Man"
+      },
       "duration_ms": 339000,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "69wjSAZXZiD2EBia3b3gxL",
+      "album": {
+        "id": "69wjSAZXZiD2EBia3b3gxL",
+        "name": "Piano Man (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3"
+      },
       "release_date": "1973-11-07",
       "popularity": 76
     },
     {
-      "trackId": "3cahGAUUQ0n55EjLBs2Wjo",
-      "name": "Today - 2011 Remaster",
+      "track": {
+        "id": "3cahGAUUQ0n55EjLBs2Wjo",
+        "name": "Today - 2011 Remaster"
+      },
       "duration_ms": 201173,
-      "artist": [
-        "The Smashing Pumpkins"
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+        }
       ],
-      "artistId": [
-        "40Yq4vzPs9VNUrIBG5Jr2i"
-      ],
-      "albumId": "2Qs2SpclDToB087fLolhCN",
+      "album": {
+        "id": "2Qs2SpclDToB087fLolhCN",
+        "name": "Siamese Dream (2011 - Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd1e7c26933d06af2fd0afe6"
+      },
       "release_date": "1993-07-27",
       "popularity": 61
     },
     {
-      "trackId": "0ZGDxwoBaGmLIZE6rxoURK",
-      "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+      "track": {
+        "id": "0ZGDxwoBaGmLIZE6rxoURK",
+        "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]"
+      },
       "duration_ms": 143506,
-      "artist": [
-        "Singer's Edge Karaoke"
+      "artists": [
+        {
+          "name": "Singer's Edge Karaoke",
+          "id": "3CtgjasLNN3Ym8SHm5JuJn"
+        }
       ],
-      "artistId": [
-        "3CtgjasLNN3Ym8SHm5JuJn"
-      ],
-      "albumId": "0C9piLHM2FN3c4DnfyvSlG",
+      "album": {
+        "id": "0C9piLHM2FN3c4DnfyvSlG",
+        "name": "Make Your Own Kind of Music (Originally Performed by Mama Cass Elliott) [Karaoke Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d4e3db2be3764e45adff8e1"
+      },
       "release_date": "2014-03-13",
       "popularity": 0
     },
     {
-      "trackId": "2MLHyLy5z5l5YRp7momlgw",
-      "name": "Island In The Sun",
+      "track": {
+        "id": "2MLHyLy5z5l5YRp7momlgw",
+        "name": "Island In The Sun"
+      },
       "duration_ms": 200306,
-      "artist": [
-        "Weezer"
+      "artists": [
+        {
+          "name": "Weezer",
+          "id": "3jOstUTkEu2JkjvRdBA5Gu"
+        }
       ],
-      "artistId": [
-        "3jOstUTkEu2JkjvRdBA5Gu"
-      ],
-      "albumId": "2OBSz5Nlto0Q5CtYPzPY7c",
+      "album": {
+        "id": "2OBSz5Nlto0Q5CtYPzPY7c",
+        "name": "Weezer (Green Album)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815"
+      },
       "release_date": "2001-05-15",
       "popularity": 78
     },
     {
-      "trackId": "7MF7QAodbGzNYav5ZfIhAY",
-      "name": "Midnight Train to Georgia",
+      "track": {
+        "id": "7MF7QAodbGzNYav5ZfIhAY",
+        "name": "Midnight Train to Georgia"
+      },
       "duration_ms": 279333,
-      "artist": [
-        "Gladys Knight & The Pips"
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "id": "0TF2NxkJZPQoX1H53rEFM1"
+        }
       ],
-      "artistId": [
-        "0TF2NxkJZPQoX1H53rEFM1"
-      ],
-      "albumId": "6pMzuVjsypAwbeKiZm56wP",
+      "album": {
+        "id": "6pMzuVjsypAwbeKiZm56wP",
+        "name": "Imagination (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9c903069dab033b532c4f7a"
+      },
       "release_date": "1973",
       "popularity": 71
     },
     {
-      "trackId": "1sDJIdL67kM0350tbLGRLv",
-      "name": "California",
+      "track": {
+        "id": "1sDJIdL67kM0350tbLGRLv",
+        "name": "California"
+      },
       "duration_ms": 265217,
-      "artist": [
-        "Twinkle Twinkle Little Rock Star"
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "id": "3mGCLimuzOdod4Lnegny4d"
+        }
       ],
-      "artistId": [
-        "3mGCLimuzOdod4Lnegny4d"
-      ],
-      "albumId": "6VLQDevTtifjfPhGKczihX",
+      "album": {
+        "id": "6VLQDevTtifjfPhGKczihX",
+        "name": "Lullaby Versions of Joni Mitchell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02419a4568c2e39e82e5aa97c5"
+      },
       "release_date": "2021-06-04",
       "popularity": 5
     },
     {
-      "trackId": "1Oy62t0ARVJWwIqL7wyqjm",
-      "name": "In A Flash",
+      "track": {
+        "id": "1Oy62t0ARVJWwIqL7wyqjm",
+        "name": "In A Flash"
+      },
       "duration_ms": 182000,
-      "artist": [
-        "Ron Sexsmith"
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "id": "2wXBWJhbm1gfEVjyEEuhDH"
+        }
       ],
-      "artistId": [
-        "2wXBWJhbm1gfEVjyEEuhDH"
-      ],
-      "albumId": "6jyv2CtHwqyPpSzanKMZi4",
+      "album": {
+        "id": "6jyv2CtHwqyPpSzanKMZi4",
+        "name": "Whereabouts",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0eb9dc7002e38809d19fbd2"
+      },
       "release_date": "1999-01-01",
       "popularity": 11
     },
     {
-      "trackId": "5CqLGYG9WPnvtCZurOfAx4",
-      "name": "34:an",
+      "track": {
+        "id": "5CqLGYG9WPnvtCZurOfAx4",
+        "name": "34:an"
+      },
       "duration_ms": 137813,
-      "artist": [
-        "Eddie Meduza"
+      "artists": [
+        {
+          "name": "Eddie Meduza",
+          "id": "3cMEiDsx9VpGvF71hUGswS"
+        }
       ],
-      "artistId": [
-        "3cMEiDsx9VpGvF71hUGswS"
-      ],
-      "albumId": "7hnME0i6Eq3aNqWY67JWtp",
+      "album": {
+        "id": "7hnME0i6Eq3aNqWY67JWtp",
+        "name": "Gasen i botten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02857e1ec5329e2cc491879532"
+      },
       "release_date": "1981-11-24",
       "popularity": 39
     },
     {
-      "trackId": "3p58uPQ08nLtr8IwVGdYKg",
-      "name": "Daughter",
+      "track": {
+        "id": "3p58uPQ08nLtr8IwVGdYKg",
+        "name": "Daughter"
+      },
       "duration_ms": 212866,
-      "artist": [
-        "Loudon Wainwright III"
+      "artists": [
+        {
+          "name": "Loudon Wainwright III",
+          "id": "3loACRmkzdtOMNJEaB6j8L"
+        }
       ],
-      "artistId": [
-        "3loACRmkzdtOMNJEaB6j8L"
-      ],
-      "albumId": "6L1QV8S8MbJxRdm3UqQyz9",
+      "album": {
+        "id": "6L1QV8S8MbJxRdm3UqQyz9",
+        "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e024054ad4034544e1d65497b06"
+      },
       "release_date": "2007-01-01",
       "popularity": 50
     },
     {
-      "trackId": "7JqO9mOheNWFVEbSShulMx",
-      "name": "Sjörövar-Fabbe",
+      "track": {
+        "id": "7JqO9mOheNWFVEbSShulMx",
+        "name": "Sjörövar-Fabbe"
+      },
       "duration_ms": 140426,
-      "artist": [
-        "Astrid Lindgren",
-        "Pippi Långstrump"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Pippi Långstrump",
+          "id": "7bb7LMk1Jzrvxr1U9r9uvx"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "7bb7LMk1Jzrvxr1U9r9uvx"
-      ],
-      "albumId": "2SYUiUnTQXOOioWUb17tgL",
+      "album": {
+        "id": "2SYUiUnTQXOOioWUb17tgL",
+        "name": "Pippi Långstrump på de sju haven",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1679253bb6ba7eb29de8d8"
+      },
       "release_date": "1970-01-01",
       "popularity": 49
     }

@@ -7,240 +7,342 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/e5e33bb9-10fc-48c6-ae63-580a7d7182e9.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2QpGZOhTCHHiKmpSO9FW4h",
-      "name": "Follow God",
+      "track": {
+        "id": "2QpGZOhTCHHiKmpSO9FW4h",
+        "name": "Follow God"
+      },
       "duration_ms": 104591,
-      "artist": [
-        "Kanye West"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "0FgZKfoU2Br5sHOfvZKTI9",
+      "album": {
+        "id": "0FgZKfoU2Br5sHOfvZKTI9",
+        "name": "JESUS IS KING",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bb797bbfe2480650b6c2964"
+      },
       "release_date": "2019-10-25",
       "popularity": 72
     },
     {
-      "trackId": "1rRHrIgrPPHUYD97oYAgli",
-      "name": "İkimiz Bir Fidanız",
+      "track": {
+        "id": "1rRHrIgrPPHUYD97oYAgli",
+        "name": "İkimiz Bir Fidanız"
+      },
       "duration_ms": 210580,
-      "artist": [
-        "Kamuran Akkor"
+      "artists": [
+        {
+          "name": "Kamuran Akkor",
+          "id": "1hWI1MD4Pe3cgDsgk4eLfR"
+        }
       ],
-      "artistId": [
-        "1hWI1MD4Pe3cgDsgk4eLfR"
-      ],
-      "albumId": "3IkS5E4iTSOdTiufaoNx0Q",
+      "album": {
+        "id": "3IkS5E4iTSOdTiufaoNx0Q",
+        "name": "İkimiz Bir Fidanız (45'lik)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02456abf062cac7a30a56fc14c"
+      },
       "release_date": "1975",
       "popularity": 34
     },
     {
-      "trackId": "53rwYHTHFgGrKkSiqyAH7k",
-      "name": "Aramam",
+      "track": {
+        "id": "53rwYHTHFgGrKkSiqyAH7k",
+        "name": "Aramam"
+      },
       "duration_ms": 297800,
-      "artist": [
-        "İbrahim Tatlıses"
+      "artists": [
+        {
+          "name": "İbrahim Tatlıses",
+          "id": "0gPgE6wLLiPnrakh9WcsdQ"
+        }
       ],
-      "artistId": [
-        "0gPgE6wLLiPnrakh9WcsdQ"
-      ],
-      "albumId": "4evG8PVJi96f7SovJY8e9u",
+      "album": {
+        "id": "4evG8PVJi96f7SovJY8e9u",
+        "name": "Aramam",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efbf74c909ddaae3d5bf8bf3"
+      },
       "release_date": "2004-11-04",
       "popularity": 54
     },
     {
-      "trackId": "2JQqfVJhFnNADUJDDPmw63",
-      "name": "After The Rain",
+      "track": {
+        "id": "2JQqfVJhFnNADUJDDPmw63",
+        "name": "After The Rain"
+      },
       "duration_ms": 249453,
-      "artist": [
-        "John Coltrane"
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "id": "2hGh5VOeeqimQFxqXvfCUf"
+        }
       ],
-      "artistId": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "albumId": "3Ot8usQajsFawIAsULDrqj",
+      "album": {
+        "id": "3Ot8usQajsFawIAsULDrqj",
+        "name": "Impressions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02784af815b31bec88e2256dc0"
+      },
       "release_date": "1963-07-01",
       "popularity": 36
     },
     {
-      "trackId": "7LFIjdZU5CkTZg25CvrwZj",
-      "name": "Honey",
+      "track": {
+        "id": "7LFIjdZU5CkTZg25CvrwZj",
+        "name": "Honey"
+      },
       "duration_ms": 294002,
-      "artist": [
-        "Robyn"
+      "artists": [
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "7rtmaF7HH7OeBI4iIJpMw3",
+      "album": {
+        "id": "7rtmaF7HH7OeBI4iIJpMw3",
+        "name": "Honey",
+        "img": "https://i.scdn.co/image/ab67616d00001e0293aabe1dc8f745fb00b4c809"
+      },
       "release_date": "2018-10-26",
       "popularity": 36
     },
     {
-      "trackId": "17FMWyPpwuPoSvjkbu5ggt",
-      "name": "Martoli Bridge",
+      "track": {
+        "id": "17FMWyPpwuPoSvjkbu5ggt",
+        "name": "Martoli Bridge"
+      },
       "duration_ms": 122640,
-      "artist": [
-        "Nils Petter Molvær"
+      "artists": [
+        {
+          "name": "Nils Petter Molvær",
+          "id": "2r1f1zkIjuQ7ETeJHsXpsc"
+        }
       ],
-      "artistId": [
-        "2r1f1zkIjuQ7ETeJHsXpsc"
-      ],
-      "albumId": "1INC2K6yyGoafXSqHrdAAv",
+      "album": {
+        "id": "1INC2K6yyGoafXSqHrdAAv",
+        "name": "Buoyancy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f35f731fcef04ad2c899ec9a"
+      },
       "release_date": "2016-09-02",
       "popularity": 11
     },
     {
-      "trackId": "7kjg968TRnMo8133PxwGEd",
-      "name": "Remedios - Radio-Edit",
+      "track": {
+        "id": "7kjg968TRnMo8133PxwGEd",
+        "name": "Remedios - Radio-Edit"
+      },
       "duration_ms": 185806,
-      "artist": [
-        "Pizeta"
+      "artists": [
+        {
+          "name": "Pizeta",
+          "id": "6eU8OJ3ZbHoMGFmDcSyE75"
+        }
       ],
-      "artistId": [
-        "6eU8OJ3ZbHoMGFmDcSyE75"
-      ],
-      "albumId": "4NKNRBIF64TMYCh3pjpZgQ",
+      "album": {
+        "id": "4NKNRBIF64TMYCh3pjpZgQ",
+        "name": "Remedios",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fd5fd83ca576cbe4dc7fea3"
+      },
       "release_date": "2014-07-21",
       "popularity": 37
     },
     {
-      "trackId": "1gT5TGwbkkkUliNzHRIGi1",
-      "name": "4:44",
+      "track": {
+        "id": "1gT5TGwbkkkUliNzHRIGi1",
+        "name": "4:44"
+      },
       "duration_ms": 284493,
-      "artist": [
-        "JAY-Z"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB"
-      ],
-      "albumId": "7GoZNNb7Yl74fpk8Z6I2cv",
+      "album": {
+        "id": "7GoZNNb7Yl74fpk8Z6I2cv",
+        "name": "4:44",
+        "img": "https://i.scdn.co/image/ab67616d00001e027513c4956ea5552caf02eab6"
+      },
       "release_date": "2017-07-07",
       "popularity": 70
     },
     {
-      "trackId": "5wwitdgVIIUfzLVrPzUKTD",
-      "name": "Ballad for K",
+      "track": {
+        "id": "5wwitdgVIIUfzLVrPzUKTD",
+        "name": "Ballad for K"
+      },
       "duration_ms": 235360,
-      "artist": [
-        "Ruhi Erdogan"
+      "artists": [
+        {
+          "name": "Ruhi Erdogan",
+          "id": "4Zq1tQD7jF0vq34UndlvR9"
+        }
       ],
-      "artistId": [
-        "4Zq1tQD7jF0vq34UndlvR9"
-      ],
-      "albumId": "0pKNfS9dVfw4fYRHYQeXZl",
+      "album": {
+        "id": "0pKNfS9dVfw4fYRHYQeXZl",
+        "name": "Ballad for K",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec96750aa43a0c14549d5ba5"
+      },
       "release_date": "2021-08-27",
       "popularity": 37
     },
     {
-      "trackId": "4bNA6gAbD2ubeIz7N9UuGK",
-      "name": "Swim",
+      "track": {
+        "id": "4bNA6gAbD2ubeIz7N9UuGK",
+        "name": "Swim"
+      },
       "duration_ms": 223288,
-      "artist": [
-        "Mapei"
+      "artists": [
+        {
+          "name": "Mapei",
+          "id": "6baWjwY7WiVPCZcW7pqqhz"
+        }
       ],
-      "artistId": [
-        "6baWjwY7WiVPCZcW7pqqhz"
-      ],
-      "albumId": "0j9Z0w74apvuJ4rmUGk1sv",
+      "album": {
+        "id": "0j9Z0w74apvuJ4rmUGk1sv",
+        "name": "Swim",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c76b78f6d60ab0eb63737747"
+      },
       "release_date": "2020-02-06",
       "popularity": 19
     },
     {
-      "trackId": "0KcamY9qNRH3md0G8eZuX7",
-      "name": "Keziban",
+      "track": {
+        "id": "0KcamY9qNRH3md0G8eZuX7",
+        "name": "Keziban"
+      },
       "duration_ms": 204545,
-      "artist": [
-        "Mustafa Acar"
+      "artists": [
+        {
+          "name": "Mustafa Acar",
+          "id": "7ybJVOBebfaYEO270x0woy"
+        }
       ],
-      "artistId": [
-        "7ybJVOBebfaYEO270x0woy"
-      ],
-      "albumId": "2fHtBWS2rsefk3idPJD8Di",
+      "album": {
+        "id": "2fHtBWS2rsefk3idPJD8Di",
+        "name": "KAMP TÜRKÜLERİ",
+        "img": "https://i.scdn.co/image/ab67616d00001e02844bcce403cbcd61f99b4c02"
+      },
       "release_date": "2021-01-24",
       "popularity": 0
     },
     {
-      "trackId": "27MOjeexUXfG9Da0FSHYhj",
-      "name": "İnce İnce",
+      "track": {
+        "id": "27MOjeexUXfG9Da0FSHYhj",
+        "name": "İnce İnce"
+      },
       "duration_ms": 221055,
-      "artist": [
-        "Selda Bağcan"
+      "artists": [
+        {
+          "name": "Selda Bağcan",
+          "id": "2NGRETzxjeN4b9o3OGY6Yn"
+        }
       ],
-      "artistId": [
-        "2NGRETzxjeN4b9o3OGY6Yn"
-      ],
-      "albumId": "7FoIFwRIhSawtF9NdLWohp",
+      "album": {
+        "id": "7FoIFwRIhSawtF9NdLWohp",
+        "name": "Selda",
+        "img": "https://i.scdn.co/image/ab67616d00001e027597ee639db04d86b75d379a"
+      },
       "release_date": "1976",
       "popularity": 32
     },
     {
-      "trackId": "0E9xqU5VPLZURAiSO8LNW0",
-      "name": "Time Is Running Out",
+      "track": {
+        "id": "0E9xqU5VPLZURAiSO8LNW0",
+        "name": "Time Is Running Out"
+      },
       "duration_ms": 156010,
-      "artist": [
-        "Eli Cash"
+      "artists": [
+        {
+          "name": "Eli Cash",
+          "id": "6wd8vxouwrAb0bW8LvNSNs"
+        }
       ],
-      "artistId": [
-        "6wd8vxouwrAb0bW8LvNSNs"
-      ],
-      "albumId": "1eEapKOvcOiHMqF9hFsjy6",
+      "album": {
+        "id": "1eEapKOvcOiHMqF9hFsjy6",
+        "name": "The Drone Age",
+        "img": "https://i.scdn.co/image/ab67616d00001e02594ef8f4bff86ed631607531"
+      },
       "release_date": "2019-03-08",
       "popularity": 0
     },
     {
-      "trackId": "11IUlPkA0HqOXfAZ8FmuPy",
-      "name": "Self M.Ade",
+      "track": {
+        "id": "11IUlPkA0HqOXfAZ8FmuPy",
+        "name": "Self M.Ade"
+      },
       "duration_ms": 211635,
-      "artist": [
-        "Young M.A"
+      "artists": [
+        {
+          "name": "Young M.A",
+          "id": "7LvoDJUNGnOrPdGRzVtOJ9"
+        }
       ],
-      "artistId": [
-        "7LvoDJUNGnOrPdGRzVtOJ9"
-      ],
-      "albumId": "23Fvpx2T1drg9lJ4WC0fXl",
+      "album": {
+        "id": "23Fvpx2T1drg9lJ4WC0fXl",
+        "name": "Herstory",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211042a73bbccc204ae394e58"
+      },
       "release_date": "2017-04-27",
       "popularity": 34
     },
     {
-      "trackId": "5wJC8qlivbwAx29bnTecSn",
-      "name": "A.P.I.D.T.A.",
+      "track": {
+        "id": "5wJC8qlivbwAx29bnTecSn",
+        "name": "A.P.I.D.T.A."
+      },
       "duration_ms": 328365,
-      "artist": [
-        "Jay Electronica"
+      "artists": [
+        {
+          "name": "Jay Electronica",
+          "id": "0TkqXdyWLsssJH7okthMPQ"
+        }
       ],
-      "artistId": [
-        "0TkqXdyWLsssJH7okthMPQ"
-      ],
-      "albumId": "0ZJt4dCoI19u71k37E1nQu",
+      "album": {
+        "id": "0ZJt4dCoI19u71k37E1nQu",
+        "name": "A Written Testimony",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc25254953d3e29508b27363"
+      },
       "release_date": "2020-03-13",
       "popularity": 49
     },
     {
-      "trackId": "4SZepBIPDRwPaHIjAKwRDb",
-      "name": "R.I.P. SCREW",
+      "track": {
+        "id": "4SZepBIPDRwPaHIjAKwRDb",
+        "name": "R.I.P. SCREW"
+      },
       "duration_ms": 185610,
-      "artist": [
-        "Travis Scott"
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY"
+        }
       ],
-      "artistId": [
-        "0Y5tJX1MQlPlqiwlOH1tJY"
-      ],
-      "albumId": "41GuZcammIkupMPKH2OJ6I",
+      "album": {
+        "id": "41GuZcammIkupMPKH2OJ6I",
+        "name": "ASTROWORLD",
+        "img": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3"
+      },
       "release_date": "2018-08-03",
       "popularity": 67
     },
     {
-      "trackId": "7HYX0zJkY6fjEJvaXSn9Od",
-      "name": "Can You Lose By Following God",
+      "track": {
+        "id": "7HYX0zJkY6fjEJvaXSn9Od",
+        "name": "Can You Lose By Following God"
+      },
       "duration_ms": 254306,
-      "artist": [
-        "Whole Truth"
+      "artists": [
+        {
+          "name": "Whole Truth",
+          "id": "4P20GTWdbAFbEI7yY2ttwB"
+        }
       ],
-      "artistId": [
-        "4P20GTWdbAFbEI7yY2ttwB"
-      ],
-      "albumId": "5RNDzxhlXYBsT8FH9h0ORO",
+      "album": {
+        "id": "5RNDzxhlXYBsT8FH9h0ORO",
+        "name": "Can You Lose By Following God b/w God Is Going To Raise A Nation",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232260c035a5f76e6f4cea13d"
+      },
       "release_date": "1974-01-01",
       "popularity": 41
     }

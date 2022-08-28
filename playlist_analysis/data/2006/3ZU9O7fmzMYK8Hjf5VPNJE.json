@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241754_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1uPrIHgYztXSkkcts9jet8",
-      "name": "She Bangs - English Version",
+      "track": {
+        "id": "1uPrIHgYztXSkkcts9jet8",
+        "name": "She Bangs - English Version"
+      },
       "duration_ms": 280626,
-      "artist": [
-        "Ricky Martin"
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "id": "7slfeZO9LsJbWgpkIoXBUJ"
+        }
       ],
-      "artistId": [
-        "7slfeZO9LsJbWgpkIoXBUJ"
-      ],
-      "albumId": "3zI9R2ktXKRwcPpZH1zpPe",
+      "album": {
+        "id": "3zI9R2ktXKRwcPpZH1zpPe",
+        "name": "Sound Loaded",
+        "img": "https://i.scdn.co/image/ab67616d00001e027067e13923911540f8bb7218"
+      },
       "release_date": "2000",
       "popularity": 60
     },
     {
-      "trackId": "7CqYgEn6V8gSaKOawAfmYr",
-      "name": "Sommarlängtan",
+      "track": {
+        "id": "7CqYgEn6V8gSaKOawAfmYr",
+        "name": "Sommarlängtan"
+      },
       "duration_ms": 157880,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "3cT50PQXXybChUGP6TDrlr",
+      "album": {
+        "id": "3cT50PQXXybChUGP6TDrlr",
+        "name": "Undringar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cb77aa3a5ff8114f478413a"
+      },
       "release_date": "1972-01-01",
       "popularity": 42
     },
     {
-      "trackId": "5I17rGCM1Zn4J9puVHTh8X",
-      "name": "Håll mitt hjärta (Same Old Story)",
+      "track": {
+        "id": "5I17rGCM1Zn4J9puVHTh8X",
+        "name": "Håll mitt hjärta (Same Old Story)"
+      },
       "duration_ms": 261600,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6ikkPeJhCsStZUcEECJX6e",
+      "album": {
+        "id": "6ikkPeJhCsStZUcEECJX6e",
+        "name": "Ingen Annan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247eba23a799e35950fd983de"
+      },
       "release_date": "2002",
       "popularity": 40
     },
     {
-      "trackId": "4Cchv4yDV38NlLnBTyyNZs",
-      "name": "Anywhere is Paradise",
+      "track": {
+        "id": "4Cchv4yDV38NlLnBTyyNZs",
+        "name": "Anywhere is Paradise"
+      },
       "duration_ms": 242426,
-      "artist": [
-        "Stefan Andersson"
+      "artists": [
+        {
+          "name": "Stefan Andersson",
+          "id": "4yBfxwfLaloRqynwFrXONV"
+        }
       ],
-      "artistId": [
-        "4yBfxwfLaloRqynwFrXONV"
-      ],
-      "albumId": "31Zvm4y7rkO33gFIHJumjW",
+      "album": {
+        "id": "31Zvm4y7rkO33gFIHJumjW",
+        "name": "Under a Low Ceilinged Sky",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256f8d313aefbf19307ec10cc"
+      },
       "release_date": "1996-04-05",
       "popularity": 33
     },
     {
-      "trackId": "2LoC5OOwNjf5MguZoJKPBf",
-      "name": "Allt som jag känner",
+      "track": {
+        "id": "2LoC5OOwNjf5MguZoJKPBf",
+        "name": "Allt som jag känner"
+      },
       "duration_ms": 252800,
-      "artist": [
-        "Tone Norum",
-        "Tommy Nilsson"
+      "artists": [
+        {
+          "name": "Tone Norum",
+          "id": "0a6rCwqcO5k3S6nHJFCRyn"
+        },
+        {
+          "name": "Tommy Nilsson",
+          "id": "0PnNyzP7CgoDXZHr6cWOyq"
+        }
       ],
-      "artistId": [
-        "0a6rCwqcO5k3S6nHJFCRyn",
-        "0PnNyzP7CgoDXZHr6cWOyq"
-      ],
-      "albumId": "0l537xeeUQXZAkArjKmb2H",
+      "album": {
+        "id": "0l537xeeUQXZAkArjKmb2H",
+        "name": "Sommar, sommar, sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec33b6331501e4f4fcc2ff1d"
+      },
       "release_date": "1997-01-01",
       "popularity": 48
     },
     {
-      "trackId": "4xlEKYv7HmC8zXoJIbpZKM",
-      "name": "Steady, As She Goes",
+      "track": {
+        "id": "4xlEKYv7HmC8zXoJIbpZKM",
+        "name": "Steady, As She Goes"
+      },
       "duration_ms": 215266,
-      "artist": [
-        "The Raconteurs"
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "id": "4wo1267SJuUfHgasdlfNfc"
+        }
       ],
-      "artistId": [
-        "4wo1267SJuUfHgasdlfNfc"
-      ],
-      "albumId": "4Z1sCXBHHKWCsScOLAfuig",
+      "album": {
+        "id": "4Z1sCXBHHKWCsScOLAfuig",
+        "name": "Broken Boy Soldiers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaafcdc8e35209dc99554017"
+      },
       "release_date": "2006-05-15",
       "popularity": 70
     },
     {
-      "trackId": "24TxFqy866mInqFfgTvhAU",
-      "name": "La Nonna",
+      "track": {
+        "id": "24TxFqy866mInqFfgTvhAU",
+        "name": "La Nonna"
+      },
       "duration_ms": 124800,
-      "artist": [
-        "SebastianoP"
+      "artists": [
+        {
+          "name": "SebastianoP",
+          "id": "1P5t5mQjHi2gITgz84wE1R"
+        }
       ],
-      "artistId": [
-        "1P5t5mQjHi2gITgz84wE1R"
-      ],
-      "albumId": "3MfK6BzjsyZu9fDmSBeFUF",
+      "album": {
+        "id": "3MfK6BzjsyZu9fDmSBeFUF",
+        "name": "SAN LEO",
+        "img": "https://i.scdn.co/image/ab67616d00001e02001790e0ab54a3a7abfbc8ac"
+      },
       "release_date": "2022-03-30",
       "popularity": 31
     },
     {
-      "trackId": "0lpzGXZ7D6XdOrKCKlcjWd",
-      "name": "La Nana - Remastered",
+      "track": {
+        "id": "0lpzGXZ7D6XdOrKCKlcjWd",
+        "name": "La Nana - Remastered"
+      },
       "duration_ms": 185885,
-      "artist": [
-        "Rosa Durán",
-        "Perico el del Lunar"
+      "artists": [
+        {
+          "name": "Rosa Durán",
+          "id": "1KsbqttjWAeUsPfJhEorOX"
+        },
+        {
+          "name": "Perico el del Lunar",
+          "id": "7wp6ENLeAiDrASY5Aqd3FS"
+        }
       ],
-      "artistId": [
-        "1KsbqttjWAeUsPfJhEorOX",
-        "7wp6ENLeAiDrASY5Aqd3FS"
-      ],
-      "albumId": "0NCNWhpJ5CvOgV4A24nwIk",
+      "album": {
+        "id": "0NCNWhpJ5CvOgV4A24nwIk",
+        "name": "Antología Completa del Cante Flamenco",
+        "img": "https://i.scdn.co/image/ab67616d00001e02334880a7b973604b9812e5f2"
+      },
       "release_date": "2017-02-01",
       "popularity": 7
     },
     {
-      "trackId": "2Q6Q19BjqzXmlJl8OPnM5T",
-      "name": "Jag säger ingenting",
+      "track": {
+        "id": "2Q6Q19BjqzXmlJl8OPnM5T",
+        "name": "Jag säger ingenting"
+      },
       "duration_ms": 229106,
-      "artist": [
-        "Stefan Andersson"
+      "artists": [
+        {
+          "name": "Stefan Andersson",
+          "id": "4yBfxwfLaloRqynwFrXONV"
+        }
       ],
-      "artistId": [
-        "4yBfxwfLaloRqynwFrXONV"
-      ],
-      "albumId": "3tx50YDXzqSu6VzGv8g8uP",
+      "album": {
+        "id": "3tx50YDXzqSu6VzGv8g8uP",
+        "name": "På svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e084631d151f7c4beea45c8a"
+      },
       "release_date": "1997-08-25",
       "popularity": 19
     },
     {
-      "trackId": "5oE6INocVL9viDow5y8QNM",
-      "name": "Fragile",
+      "track": {
+        "id": "5oE6INocVL9viDow5y8QNM",
+        "name": "Fragile"
+      },
       "duration_ms": 236306,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+      "album": {
+        "id": "3mVCQqgwEvwD7lHy9KHi7R",
+        "name": "...Nothing Like The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "1eu3GSrsyUxWMmEKgC4Xr5",
-      "name": "Come Give Me Love",
+      "track": {
+        "id": "1eu3GSrsyUxWMmEKgC4Xr5",
+        "name": "Come Give Me Love"
+      },
       "duration_ms": 209120,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 51
     },
     {
-      "trackId": "0hEFGMHEnImIB98VJ7628X",
-      "name": "La Camisa Negra",
+      "track": {
+        "id": "0hEFGMHEnImIB98VJ7628X",
+        "name": "La Camisa Negra"
+      },
       "duration_ms": 216866,
-      "artist": [
-        "Juanes"
+      "artists": [
+        {
+          "name": "Juanes",
+          "id": "0UWZUmn7sybxMCqrw9tGa7"
+        }
       ],
-      "artistId": [
-        "0UWZUmn7sybxMCqrw9tGa7"
-      ],
-      "albumId": "1pfOQNO03YsguyaKHoEJyJ",
+      "album": {
+        "id": "1pfOQNO03YsguyaKHoEJyJ",
+        "name": "Lo que el viento se llevó",
+        "img": "https://i.scdn.co/image/ab67616d00001e025392939d2268ae2492d2cf0c"
+      },
       "release_date": "2022-08-12",
       "popularity": 1
     }

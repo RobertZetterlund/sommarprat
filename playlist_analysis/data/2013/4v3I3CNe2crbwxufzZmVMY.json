@@ -7,218 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860845_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6Ac4NVYYl2U73QiTt11ZKd",
-      "name": "Hooked On A Feeling",
+      "track": {
+        "id": "6Ac4NVYYl2U73QiTt11ZKd",
+        "name": "Hooked On A Feeling"
+      },
       "duration_ms": 172866,
-      "artist": [
-        "Blue Swede",
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "id": "0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "0UpuH5U4nZ3UGGUJi0Zfbp",
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6fBMaH0IiymemwFKmn18Ze",
+      "album": {
+        "id": "6fBMaH0IiymemwFKmn18Ze",
+        "name": "Hooked On A Feeling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2439940aedd2801c9ae2e5b"
+      },
       "release_date": "1973-04-01",
       "popularity": 73
     },
     {
-      "trackId": "1xfALb1OOHUnduOK5OJw04",
-      "name": "Medley: Come See About Me/Baby Love/Stop! In The Name Of Love",
+      "track": {
+        "id": "1xfALb1OOHUnduOK5OJw04",
+        "name": "Medley: Come See About Me/Baby Love/Stop! In The Name Of Love"
+      },
       "duration_ms": 241453,
-      "artist": [
-        "Diana Ross & The Supremes"
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "id": "0rXI0q8Cahq6numvPlloaq"
+        }
       ],
-      "artistId": [
-        "0rXI0q8Cahq6numvPlloaq"
-      ],
-      "albumId": "7aMhHj54HEIgkSP0TJMTz3",
+      "album": {
+        "id": "7aMhHj54HEIgkSP0TJMTz3",
+        "name": "Supreme Rarities: Motown Lost & Found",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eaf4732549b71a62ff81efdb"
+      },
       "release_date": "2004-08-13",
       "popularity": 22
     },
     {
-      "trackId": "2un9SnAaNkxJyQUWG3koil",
-      "name": "My Art",
+      "track": {
+        "id": "2un9SnAaNkxJyQUWG3koil",
+        "name": "My Art"
+      },
       "duration_ms": 121666,
-      "artist": [
-        "Le Tigre"
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "id": "2n6FviARgtjjimZXu18uRM"
+        }
       ],
-      "artistId": [
-        "2n6FviARgtjjimZXu18uRM"
-      ],
-      "albumId": "0sba5xAGgB7VP3X6BSzIOg",
+      "album": {
+        "id": "0sba5xAGgB7VP3X6BSzIOg",
+        "name": "Feminist Sweepstakes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aee1f0db6d6e20303b8b12ad"
+      },
       "release_date": "2001-10-16",
       "popularity": 24
     },
     {
-      "trackId": "5LNKHZI4G8iF5cfAypmZ6H",
-      "name": "Befrielsen Är Nära",
+      "track": {
+        "id": "5LNKHZI4G8iF5cfAypmZ6H",
+        "name": "Befrielsen Är Nära"
+      },
       "duration_ms": 81573,
-      "artist": [
-        "Jösses Flickor"
+      "artists": [
+        {
+          "name": "Jösses Flickor",
+          "id": "4lhJvOI6L5kGvPBtNctTuM"
+        }
       ],
-      "artistId": [
-        "4lhJvOI6L5kGvPBtNctTuM"
-      ],
-      "albumId": "5trP6vb1yzBazYq8N06m02",
+      "album": {
+        "id": "5trP6vb1yzBazYq8N06m02",
+        "name": "Återkomsten",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b67a3576a047ef97595b6de"
+      },
       "release_date": "2009-12-17",
       "popularity": 10
     },
     {
-      "trackId": "3sLhMSePzxSrmxluIqeoAZ",
-      "name": "I Put a Spell On You",
+      "track": {
+        "id": "3sLhMSePzxSrmxluIqeoAZ",
+        "name": "I Put a Spell On You"
+      },
       "duration_ms": 144866,
-      "artist": [
-        "Screamin' Jay Hawkins"
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "id": "3VBpsrUi2vV7Uj87ONHu7Z"
+        }
       ],
-      "artistId": [
-        "3VBpsrUi2vV7Uj87ONHu7Z"
-      ],
-      "albumId": "2lKtE0pl4RtMD2bUwKzdcz",
+      "album": {
+        "id": "2lKtE0pl4RtMD2bUwKzdcz",
+        "name": "At Home with Screamin' Jay Hawkins",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8a1366f0f2073775e931aa3"
+      },
       "release_date": "1958",
       "popularity": 50
     },
     {
-      "trackId": "31xWp6w2lOwgBucTlzdk3A",
-      "name": "LET MY SHOES LEAD ME FORWARD",
+      "track": {
+        "id": "31xWp6w2lOwgBucTlzdk3A",
+        "name": "LET MY SHOES LEAD ME FORWARD"
+      },
       "duration_ms": 265533,
-      "artist": [
-        "Jenny Wilson"
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "id": "3axEmcxTibioxD1rZi1IOB"
+        }
       ],
-      "artistId": [
-        "3axEmcxTibioxD1rZi1IOB"
-      ],
-      "albumId": "4F2aABjslmakn5sLuYbyPW",
+      "album": {
+        "id": "4F2aABjslmakn5sLuYbyPW",
+        "name": "LOVE AND YOUTH",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239e7d952fc27785eb16dd120"
+      },
       "release_date": "2005-04-12",
       "popularity": 32
     },
     {
-      "trackId": "7vOLJwP5O0woITaIQWOoUX",
-      "name": "Why ?",
+      "track": {
+        "id": "7vOLJwP5O0woITaIQWOoUX",
+        "name": "Why ?"
+      },
       "duration_ms": 243773,
-      "artist": [
-        "Bronski Beat"
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "id": "2wpWOzQE5TpA0dVnh5YD08"
+        }
       ],
-      "artistId": [
-        "2wpWOzQE5TpA0dVnh5YD08"
-      ],
-      "albumId": "6OMYQUITdN6wBaWfEtgooI",
+      "album": {
+        "id": "6OMYQUITdN6wBaWfEtgooI",
+        "name": "The Age of Consent",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d8909cd2090c7b95c723935"
+      },
       "release_date": "1984-10-15",
       "popularity": 56
     },
     {
-      "trackId": "6hpmTwgNCz81H2bFEREx29",
-      "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2",
+      "track": {
+        "id": "6hpmTwgNCz81H2bFEREx29",
+        "name": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2"
+      },
       "duration_ms": 318800,
-      "artist": [
-        "James Brown",
-        "The Original J.B.s"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "The Original J.B.s",
+          "id": "4GwjLszGqU37HqCgpBNPoU"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW",
-        "4GwjLszGqU37HqCgpBNPoU"
-      ],
-      "albumId": "2qHJQ1SqVTUfN93ovRHjZc",
+      "album": {
+        "id": "2qHJQ1SqVTUfN93ovRHjZc",
+        "name": "70's Funk Classics",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b9094895b623e3a0dbbc583e"
+      },
       "release_date": "1995-04-16",
       "popularity": 57
     },
     {
-      "trackId": "66sIqFKumQFnLclpWn2mdX",
-      "name": "Agneta",
+      "track": {
+        "id": "66sIqFKumQFnLclpWn2mdX",
+        "name": "Agneta"
+      },
       "duration_ms": 158573,
-      "artist": [
-        "Sunshine Rabbits"
+      "artists": [
+        {
+          "name": "Sunshine Rabbits",
+          "id": "2PwbLCCtHywJRaRSwpe0Nb"
+        }
       ],
-      "artistId": [
-        "2PwbLCCtHywJRaRSwpe0Nb"
-      ],
-      "albumId": "2FEHsZYG9xowg3UX8XaTcZ",
+      "album": {
+        "id": "2FEHsZYG9xowg3UX8XaTcZ",
+        "name": "Aiming For The Flesh",
+        "img": "https://i.scdn.co/image/ab67616d00001e02797b3a88ea3b788f5a736991"
+      },
       "release_date": "2012-05-16",
       "popularity": 0
     },
     {
-      "trackId": "5RYXBVtaTWshpXGTg6f8IV",
-      "name": "Ingen Kommer Undan Politiken",
+      "track": {
+        "id": "5RYXBVtaTWshpXGTg6f8IV",
+        "name": "Ingen Kommer Undan Politiken"
+      },
       "duration_ms": 228080,
-      "artist": [
-        "Marie Fredriksson"
+      "artists": [
+        {
+          "name": "Marie Fredriksson",
+          "id": "4YkPXMsmFf3K2XFHPddqFU"
+        }
       ],
-      "artistId": [
-        "4YkPXMsmFf3K2XFHPddqFU"
-      ],
-      "albumId": "3AC9dhzWLt1SVg2LG9VhVJ",
+      "album": {
+        "id": "3AC9dhzWLt1SVg2LG9VhVJ",
+        "name": "Ingen Kommer Undan Politiken",
+        "img": "https://i.scdn.co/image/ab67616d00001e0266dce481c8fb36ecba26cca2"
+      },
       "release_date": "2006-08-04",
       "popularity": 13
     },
     {
-      "trackId": "1jzDzZWeSDBg5fhNc3tczV",
-      "name": "Paranoid",
+      "track": {
+        "id": "1jzDzZWeSDBg5fhNc3tczV",
+        "name": "Paranoid"
+      },
       "duration_ms": 168440,
-      "artist": [
-        "Black Sabbath"
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "id": "5M52tdBnJaKSvOpJGz8mfZ"
+        }
       ],
-      "artistId": [
-        "5M52tdBnJaKSvOpJGz8mfZ"
-      ],
-      "albumId": "132qAo1cDiEJdA3fv4xyNK",
+      "album": {
+        "id": "132qAo1cDiEJdA3fv4xyNK",
+        "name": "Paranoid (2009 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029683e5d7361bb80bfb00f46d"
+      },
       "release_date": "1970-09-18",
       "popularity": 79
     },
     {
-      "trackId": "0iOZM63lendWRTTeKhZBSC",
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "track": {
+        "id": "0iOZM63lendWRTTeKhZBSC",
+        "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack"
+      },
       "duration_ms": 244026,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "3bzgbgiytguTDnwzflAZr2",
+      "album": {
+        "id": "3bzgbgiytguTDnwzflAZr2",
+        "name": "Bookends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8fb5b4308dc27f210064ef4"
+      },
       "release_date": "1968-04-03",
       "popularity": 75
     },
     {
-      "trackId": "7l812LB02j5D8QTvpD6c8l",
-      "name": "A Question of Time",
+      "track": {
+        "id": "7l812LB02j5D8QTvpD6c8l",
+        "name": "A Question of Time"
+      },
       "duration_ms": 249320,
-      "artist": [
-        "Depeche Mode"
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "id": "762310PdDnwsDxAQxzQkfX"
+        }
       ],
-      "artistId": [
-        "762310PdDnwsDxAQxzQkfX"
-      ],
-      "albumId": "2xEeSf4j9XsAAI15co5cNh",
+      "album": {
+        "id": "2xEeSf4j9XsAAI15co5cNh",
+        "name": "Black Celebration (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02878ae6fc96ee5954168838fc"
+      },
       "release_date": "1986-03-17",
       "popularity": 48
     },
     {
-      "trackId": "63ZexL8pTOQIPKoYhvkIrJ",
-      "name": "Trendy Discotheque - Original Mix",
+      "track": {
+        "id": "63ZexL8pTOQIPKoYhvkIrJ",
+        "name": "Trendy Discotheque - Original Mix"
+      },
       "duration_ms": 233546,
-      "artist": [
-        "Pay TV"
+      "artists": [
+        {
+          "name": "Pay TV",
+          "id": "2ku0JVI7gqLtSB00esQcHb"
+        }
       ],
-      "artistId": [
-        "2ku0JVI7gqLtSB00esQcHb"
-      ],
-      "albumId": "2PN58eEThMDOFCFz99MMo8",
+      "album": {
+        "id": "2PN58eEThMDOFCFz99MMo8",
+        "name": "Trendy Discotheque",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256cd190e282ddaa5e9e37566"
+      },
       "release_date": "2007-01-01",
       "popularity": 13
     },
     {
-      "trackId": "7JqO9mOheNWFVEbSShulMx",
-      "name": "Sjörövar-Fabbe",
+      "track": {
+        "id": "7JqO9mOheNWFVEbSShulMx",
+        "name": "Sjörövar-Fabbe"
+      },
       "duration_ms": 140426,
-      "artist": [
-        "Astrid Lindgren",
-        "Pippi Långstrump"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Pippi Långstrump",
+          "id": "7bb7LMk1Jzrvxr1U9r9uvx"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "7bb7LMk1Jzrvxr1U9r9uvx"
-      ],
-      "albumId": "2SYUiUnTQXOOioWUb17tgL",
+      "album": {
+        "id": "2SYUiUnTQXOOioWUb17tgL",
+        "name": "Pippi Långstrump på de sju haven",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1679253bb6ba7eb29de8d8"
+      },
       "release_date": "1970-01-01",
       "popularity": 49
     }

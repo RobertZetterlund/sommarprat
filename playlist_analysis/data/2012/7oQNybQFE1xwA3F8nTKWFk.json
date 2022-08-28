@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354591_1200_676.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "074AR1n9TLRFUPJqYSvA7r",
-      "name": "If I Can't Have You - From \"Saturday Night Fever\"",
+      "track": {
+        "id": "074AR1n9TLRFUPJqYSvA7r",
+        "name": "If I Can't Have You - From \"Saturday Night Fever\""
+      },
       "duration_ms": 178066,
-      "artist": [
-        "Yvonne Elliman"
+      "artists": [
+        {
+          "name": "Yvonne Elliman",
+          "id": "2d6JU9LvNhZR7AAtu4x2rS"
+        }
       ],
-      "artistId": [
-        "2d6JU9LvNhZR7AAtu4x2rS"
-      ],
-      "albumId": "3xaCKtqadm4KnviPFKEjs7",
+      "album": {
+        "id": "3xaCKtqadm4KnviPFKEjs7",
+        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c129b7e46bb0d8b054dae51f"
+      },
       "release_date": "1977-11-15",
       "popularity": 55
     },
     {
-      "trackId": "5qoT6MJByLif7MNrBeyiYO",
-      "name": "The Lion Sleeps Tonight - Remastered",
+      "track": {
+        "id": "5qoT6MJByLif7MNrBeyiYO",
+        "name": "The Lion Sleeps Tonight - Remastered"
+      },
       "duration_ms": 163474,
-      "artist": [
-        "The Tokens"
+      "artists": [
+        {
+          "name": "The Tokens",
+          "id": "1GAJzApRTMmYZ9EjQ91VOy"
+        }
       ],
-      "artistId": [
-        "1GAJzApRTMmYZ9EjQ91VOy"
-      ],
-      "albumId": "2AHtfFn70pLKeK0pzfhY2F",
+      "album": {
+        "id": "2AHtfFn70pLKeK0pzfhY2F",
+        "name": "The Lions Sleeps Tonight (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0288efa0be990c7c5ac985428d"
+      },
       "release_date": "2014-12-13",
       "popularity": 16
     },
     {
-      "trackId": "3z1YJ16Cgv4Zuw9ETkQQ9Z",
-      "name": "This World Today Is A Mess",
+      "track": {
+        "id": "3z1YJ16Cgv4Zuw9ETkQQ9Z",
+        "name": "This World Today Is A Mess"
+      },
       "duration_ms": 171053,
-      "artist": [
-        "Donna Hightower"
+      "artists": [
+        {
+          "name": "Donna Hightower",
+          "id": "0xQF84XFzPdTKHpEmRuH3M"
+        }
       ],
-      "artistId": [
-        "0xQF84XFzPdTKHpEmRuH3M"
-      ],
-      "albumId": "60lQ2tD9TlxDgAbJJDYlc0",
+      "album": {
+        "id": "60lQ2tD9TlxDgAbJJDYlc0",
+        "name": "This World Today Is A Mess",
+        "img": "https://i.scdn.co/image/ab67616d00001e02202ca88314920e421ebce3df"
+      },
       "release_date": "1974-01-01",
       "popularity": 46
     },
     {
-      "trackId": "5yJrl2r0vr6u9BXqQXZE3V",
-      "name": "La vie en rose",
+      "track": {
+        "id": "5yJrl2r0vr6u9BXqQXZE3V",
+        "name": "La vie en rose"
+      },
       "duration_ms": 448000,
-      "artist": [
-        "Grace Jones"
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "id": "2f9ZiYA2ic1r1voObUimdd"
+        }
       ],
-      "artistId": [
-        "2f9ZiYA2ic1r1voObUimdd"
-      ],
-      "albumId": "1omnfUAyi7BQRSLYcf3sZ4",
+      "album": {
+        "id": "1omnfUAyi7BQRSLYcf3sZ4",
+        "name": "Portfolio",
+        "img": "https://i.scdn.co/image/ab67616d00001e02065b99c2688ccc61113e9fb7"
+      },
       "release_date": "1977-01-01",
       "popularity": 57
     },
     {
-      "trackId": "60GPWNVPPm80tcZKu2oUce",
-      "name": "Gunga mej",
+      "track": {
+        "id": "60GPWNVPPm80tcZKu2oUce",
+        "name": "Gunga mej"
+      },
       "duration_ms": 231840,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "1gpNgZzbVcWCtHREPUkVRV",
+      "album": {
+        "id": "1gpNgZzbVcWCtHREPUkVRV",
+        "name": "En blekt blondins hjärta",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ecb81fc5f561ea4e429de30"
+      },
       "release_date": "1991-09-12",
       "popularity": 24
     },
     {
-      "trackId": "1eu3GSrsyUxWMmEKgC4Xr5",
-      "name": "Come Give Me Love",
+      "track": {
+        "id": "1eu3GSrsyUxWMmEKgC4Xr5",
+        "name": "Come Give Me Love"
+      },
       "duration_ms": 209120,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 51
     },
     {
-      "trackId": "7B7lf3sIze5VR2WuYttn18",
-      "name": "I Feel Love - 12\" Version",
+      "track": {
+        "id": "7B7lf3sIze5VR2WuYttn18",
+        "name": "I Feel Love - 12\" Version"
+      },
       "duration_ms": 495186,
-      "artist": [
-        "Donna Summer"
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "id": "2eogQKWWoohI3BSnoG7E2U"
+        }
       ],
-      "artistId": [
-        "2eogQKWWoohI3BSnoG7E2U"
-      ],
-      "albumId": "4h63dypm4IYSGfCDe2Gcz6",
+      "album": {
+        "id": "4h63dypm4IYSGfCDe2Gcz6",
+        "name": "Bad Girls (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024863c8620f7c3fa135068768"
+      },
       "release_date": "1979-04-25",
       "popularity": 60
     },
     {
-      "trackId": "1UVuHBtA32wuLQbJrThlZR",
-      "name": "Les hommes qui passent",
+      "track": {
+        "id": "1UVuHBtA32wuLQbJrThlZR",
+        "name": "Les hommes qui passent"
+      },
       "duration_ms": 226720,
-      "artist": [
-        "Patricia Kaas"
+      "artists": [
+        {
+          "name": "Patricia Kaas",
+          "id": "4JQHNk6teUNYxC27Bg0UPI"
+        }
       ],
-      "artistId": [
-        "4JQHNk6teUNYxC27Bg0UPI"
-      ],
-      "albumId": "476Pa4Hmt18BBEHMPjuM8b",
+      "album": {
+        "id": "476Pa4Hmt18BBEHMPjuM8b",
+        "name": "Scène de vie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02669641749419eafa95fa0c7b"
+      },
       "release_date": "1990",
       "popularity": 30
     },
     {
-      "trackId": "0o2eGeNxofrU3EF8aPgs9Y",
-      "name": "I Treni Di Tozeur - Remastered / 2005",
+      "track": {
+        "id": "0o2eGeNxofrU3EF8aPgs9Y",
+        "name": "I Treni Di Tozeur - Remastered / 2005"
+      },
       "duration_ms": 188506,
-      "artist": [
-        "Franco Battiato",
-        "Alice"
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "id": "4lianjyuR1tqf6oUX8kjrZ"
+        },
+        {
+          "name": "Alice",
+          "id": "3zNFrznlC0kv866J7Karl3"
+        }
       ],
-      "artistId": [
-        "4lianjyuR1tqf6oUX8kjrZ",
-        "3zNFrznlC0kv866J7Karl3"
-      ],
-      "albumId": "3B3ErxNokLVEbNxLxikoAY",
+      "album": {
+        "id": "3B3ErxNokLVEbNxLxikoAY",
+        "name": "Collezione Italiana",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b3b6ef27720b180fada7091"
+      },
       "release_date": "2006-01-01",
       "popularity": 44
     },
     {
-      "trackId": "7kllQQPam6HumbUCIPSvHJ",
-      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
+      "track": {
+        "id": "7kllQQPam6HumbUCIPSvHJ",
+        "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)"
+      },
       "duration_ms": 222346,
-      "artist": [
-        "MFSB",
-        "The Three Degrees"
+      "artists": [
+        {
+          "name": "MFSB",
+          "id": "2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "id": "2zpFG5cvw00QmrYTUsjApa"
+        }
       ],
-      "artistId": [
-        "2mknvtcck8i82nKxDPDibv",
-        "2zpFG5cvw00QmrYTUsjApa"
-      ],
-      "albumId": "6x6beV2H3fTTL2ovxA3iVQ",
+      "album": {
+        "id": "6x6beV2H3fTTL2ovxA3iVQ",
+        "name": "Love Is The Message",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd82a45b652fb7ea2e9e6e21"
+      },
       "release_date": "1973-12-01",
       "popularity": 48
     },
     {
-      "trackId": "485RAkVJ0pbneJk8yQwFq6",
-      "name": "Keep On Walking",
+      "track": {
+        "id": "485RAkVJ0pbneJk8yQwFq6",
+        "name": "Keep On Walking"
+      },
       "duration_ms": 182920,
-      "artist": [
-        "Salem Al Fakir"
+      "artists": [
+        {
+          "name": "Salem Al Fakir",
+          "id": "2MRmHQ6G4vEIIlMYbMLlQ5"
+        }
       ],
-      "artistId": [
-        "2MRmHQ6G4vEIIlMYbMLlQ5"
-      ],
-      "albumId": "7sKI0nbdgb0lDo8qXx6hkG",
+      "album": {
+        "id": "7sKI0nbdgb0lDo8qXx6hkG",
+        "name": "Ignore This",
+        "img": "https://i.scdn.co/image/ab67616d00001e0291434a8ede8e9948cbb002d7"
+      },
       "release_date": "2010-03-08",
       "popularity": 41
     },
     {
-      "trackId": "6VzG27NVjcEAP4af8ShhWM",
-      "name": "You Are Everything",
+      "track": {
+        "id": "6VzG27NVjcEAP4af8ShhWM",
+        "name": "You Are Everything"
+      },
       "duration_ms": 174400,
-      "artist": [
-        "The Stylistics"
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "id": "2O0Hw1WSMbskB5tD9aWah3"
+        }
       ],
-      "artistId": [
-        "2O0Hw1WSMbskB5tD9aWah3"
-      ],
-      "albumId": "2gQx5PIKDCftkEiMwB2Pcf",
+      "album": {
+        "id": "2gQx5PIKDCftkEiMwB2Pcf",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256d49032f5a25c0c19b48ec4"
+      },
       "release_date": "1992-01-01",
       "popularity": 49
     },
     {
-      "trackId": "6tKIxyPIIbO6zGVs3MuOEU",
-      "name": "I Never Can Say Goodbye",
+      "track": {
+        "id": "6tKIxyPIIbO6zGVs3MuOEU",
+        "name": "I Never Can Say Goodbye"
+      },
       "duration_ms": 191346,
-      "artist": [
-        "Gloria Gaynor"
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "id": "6V6WCgi7waF55bJmylC4H5"
+        }
       ],
-      "artistId": [
-        "6V6WCgi7waF55bJmylC4H5"
-      ],
-      "albumId": "3NPgyC3jnWXsZNS220qd3p",
+      "album": {
+        "id": "3NPgyC3jnWXsZNS220qd3p",
+        "name": "Surreal Estate The Most Haunted Playlist Ever",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c49c1b4c35222b55261ccc2c"
+      },
       "release_date": "2022-08-02",
       "popularity": 0
     },
     {
-      "trackId": "15XYdD283tK9iyJzL738bn",
-      "name": "Désenchantée",
+      "track": {
+        "id": "15XYdD283tK9iyJzL738bn",
+        "name": "Désenchantée"
+      },
       "duration_ms": 322760,
-      "artist": [
-        "Mylène Farmer"
+      "artists": [
+        {
+          "name": "Mylène Farmer",
+          "id": "0e04xgVBPU6mE2QkSHlufD"
+        }
       ],
-      "artistId": [
-        "0e04xgVBPU6mE2QkSHlufD"
-      ],
-      "albumId": "2P7i0qBBgJPxc01wRQU2DM",
+      "album": {
+        "id": "2P7i0qBBgJPxc01wRQU2DM",
+        "name": "L'Autre",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c01f5670830f5ea89856e36c"
+      },
       "release_date": "1991-01-01",
       "popularity": 58
     },
     {
-      "trackId": "2knr7ikPt4l7bk92qS4ZXW",
-      "name": "Euphoria",
+      "track": {
+        "id": "2knr7ikPt4l7bk92qS4ZXW",
+        "name": "Euphoria"
+      },
       "duration_ms": 214133,
-      "artist": [
-        "Loreen"
+      "artists": [
+        {
+          "name": "Loreen",
+          "id": "49aaHxvAJ0tCh0F15OnwIl"
+        }
       ],
-      "artistId": [
-        "49aaHxvAJ0tCh0F15OnwIl"
-      ],
-      "albumId": "73FYKSgOypVgghYr8GsEGl",
+      "album": {
+        "id": "73FYKSgOypVgghYr8GsEGl",
+        "name": "Heal",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296663c059e615c7db2ed9bb6"
+      },
       "release_date": "2012-10-19",
       "popularity": 63
     }

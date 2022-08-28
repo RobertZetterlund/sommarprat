@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3248767_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5xaxDkj8Et25VRGmfHMI47",
-      "name": "Rosen som du gav mig",
+      "track": {
+        "id": "5xaxDkj8Et25VRGmfHMI47",
+        "name": "Rosen som du gav mig"
+      },
       "duration_ms": 258426,
-      "artist": [
-        "Carina Jaarnek"
+      "artists": [
+        {
+          "name": "Carina Jaarnek",
+          "id": "4TkA9R4Bu0OzTlxvHC6P8n"
+        }
       ],
-      "artistId": [
-        "4TkA9R4Bu0OzTlxvHC6P8n"
-      ],
-      "albumId": "1EbIIjAaDXMViv8QQAWJh0",
+      "album": {
+        "id": "1EbIIjAaDXMViv8QQAWJh0",
+        "name": "Under alla dessa år",
+        "img": "https://i.scdn.co/image/ab67616d00001e02544182359f79d5938393bcd6"
+      },
       "release_date": "1998",
       "popularity": 25
     },
     {
-      "trackId": "0GQpHGSn14nL1SBH9z16Li",
-      "name": "Var e vargen? - Remix 1995",
+      "track": {
+        "id": "0GQpHGSn14nL1SBH9z16Li",
+        "name": "Var e vargen? - Remix 1995"
+      },
       "duration_ms": 273573,
-      "artist": [
-        "Imperiet"
+      "artists": [
+        {
+          "name": "Imperiet",
+          "id": "4uWiErrlBRdqgKn5NrIJjg"
+        }
       ],
-      "artistId": [
-        "4uWiErrlBRdqgKn5NrIJjg"
-      ],
-      "albumId": "5lY7cylovT6hi6h2cTOMS6",
+      "album": {
+        "id": "5lY7cylovT6hi6h2cTOMS6",
+        "name": "MNW Klassiker - Imperiet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a62cc2e5de6fa9f51a719074"
+      },
       "release_date": "2007-01-01",
       "popularity": 41
     },
     {
-      "trackId": "5p3JunprHCxClJjOmcLV8G",
-      "name": "Walk On the Wild Side",
+      "track": {
+        "id": "5p3JunprHCxClJjOmcLV8G",
+        "name": "Walk On the Wild Side"
+      },
       "duration_ms": 254173,
-      "artist": [
-        "Lou Reed"
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "id": "42TFhl7WlMRXiNqzSrnzPL"
+        }
       ],
-      "artistId": [
-        "42TFhl7WlMRXiNqzSrnzPL"
-      ],
-      "albumId": "5SqbMEyAt8332ISGiLX0St",
+      "album": {
+        "id": "5SqbMEyAt8332ISGiLX0St",
+        "name": "Transformer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e"
+      },
       "release_date": "1972-12-01",
       "popularity": 72
     },
     {
-      "trackId": "03yOjwHoOPDlTUg0NRxN6t",
-      "name": "Cemetry Gates - 2011 Remaster",
+      "track": {
+        "id": "03yOjwHoOPDlTUg0NRxN6t",
+        "name": "Cemetry Gates - 2011 Remaster"
+      },
       "duration_ms": 161040,
-      "artist": [
-        "The Smiths"
+      "artists": [
+        {
+          "name": "The Smiths",
+          "id": "3yY2gUcIsjMr8hjo51PoJ8"
+        }
       ],
-      "artistId": [
-        "3yY2gUcIsjMr8hjo51PoJ8"
-      ],
-      "albumId": "5Y0p2XCgRRIjna91aQE8q7",
+      "album": {
+        "id": "5Y0p2XCgRRIjna91aQE8q7",
+        "name": "The Queen Is Dead",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9"
+      },
       "release_date": "1986-06-16",
       "popularity": 60
     },
     {
-      "trackId": "7HIJv1nlyZtA0ph0WJAsOk",
-      "name": "Anchor Made of Gold",
+      "track": {
+        "id": "7HIJv1nlyZtA0ph0WJAsOk",
+        "name": "Anchor Made of Gold"
+      },
       "duration_ms": 305240,
-      "artist": [
-        "Jenny Wilson"
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "id": "3axEmcxTibioxD1rZi1IOB"
+        }
       ],
-      "artistId": [
-        "3axEmcxTibioxD1rZi1IOB"
-      ],
-      "albumId": "6SrO4ddUxiGYOTI2qjZouD",
+      "album": {
+        "id": "6SrO4ddUxiGYOTI2qjZouD",
+        "name": "Blazing I",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d1c2b7d7a4b870dfde75b55"
+      },
       "release_date": "2011-04-04",
       "popularity": 13
     },
     {
-      "trackId": "1BPcp8rQuIobmRcfdbYyZD",
-      "name": "You’re My Thrill",
+      "track": {
+        "id": "1BPcp8rQuIobmRcfdbYyZD",
+        "name": "You’re My Thrill"
+      },
       "duration_ms": 197760,
-      "artist": [
-        "Lena Horne"
+      "artists": [
+        {
+          "name": "Lena Horne",
+          "id": "2I6nP70ltmOHi6xjJUXHMe"
+        }
       ],
-      "artistId": [
-        "2I6nP70ltmOHi6xjJUXHMe"
-      ],
-      "albumId": "06dKhaYzSXdj0hH7LbbIHq",
+      "album": {
+        "id": "06dKhaYzSXdj0hH7LbbIHq",
+        "name": "BD Music Presents Ladies in Blue",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248ea7561aa5350f8e1b51096"
+      },
       "release_date": "2005-06-25",
       "popularity": 0
     },
     {
-      "trackId": "1ORNDo58BSH2uP0nNXJTT1",
-      "name": "Black Eyed Dog",
+      "track": {
+        "id": "1ORNDo58BSH2uP0nNXJTT1",
+        "name": "Black Eyed Dog"
+      },
       "duration_ms": 207653,
-      "artist": [
-        "Nick Drake"
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "id": "5c3GLXai8YOMid29ZEuR9y"
+        }
       ],
-      "artistId": [
-        "5c3GLXai8YOMid29ZEuR9y"
-      ],
-      "albumId": "0nHa7yhIyuYgRL6msr9dJR",
+      "album": {
+        "id": "0nHa7yhIyuYgRL6msr9dJR",
+        "name": "Made To Love Magic",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202209c3c60b4cc83158ec470"
+      },
       "release_date": "2004-01-01",
       "popularity": 40
     },
     {
-      "trackId": "5jgFfDIR6FR0gvlA56Nakr",
-      "name": "Blackbird - Remastered 2009",
+      "track": {
+        "id": "5jgFfDIR6FR0gvlA56Nakr",
+        "name": "Blackbird - Remastered 2009"
+      },
       "duration_ms": 138386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1klALx0u4AavZNEvC4LrTL",
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2"
+      },
       "release_date": "1968-11-22",
       "popularity": 72
     },
     {
-      "trackId": "4FmCUATNIarCQh72JYdvnm",
-      "name": "That's Life",
+      "track": {
+        "id": "4FmCUATNIarCQh72JYdvnm",
+        "name": "That's Life"
+      },
       "duration_ms": 187040,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3gNsjaUsu9cRckgUFx5NsY",
+      "album": {
+        "id": "3gNsjaUsu9cRckgUFx5NsY",
+        "name": "That's Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c21d73934bb9760a2f791a2"
+      },
       "release_date": "1966-11",
       "popularity": 69
     },
     {
-      "trackId": "1WT19Nx2CmN5fwb5RyrmEK",
-      "name": "Grandma's Hands",
+      "track": {
+        "id": "1WT19Nx2CmN5fwb5RyrmEK",
+        "name": "Grandma's Hands"
+      },
       "duration_ms": 121955,
-      "artist": [
-        "Marion Gaines Singers"
+      "artists": [
+        {
+          "name": "Marion Gaines Singers",
+          "id": "6bgzLm0WnoKtGq49D4HVKq"
+        }
       ],
-      "artistId": [
-        "6bgzLm0WnoKtGq49D4HVKq"
-      ],
-      "albumId": "3hscPCSdNU6xYpflAm7DNQ",
+      "album": {
+        "id": "3hscPCSdNU6xYpflAm7DNQ",
+        "name": "This Too Is Gospel",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f7b4adf4c116e5861ca6b04"
+      },
       "release_date": "1972-01-01",
       "popularity": 1
     },
     {
-      "trackId": "1OOtq8tRnDM8kG2gqUPjAj",
-      "name": "Beat It",
+      "track": {
+        "id": "1OOtq8tRnDM8kG2gqUPjAj",
+        "name": "Beat It"
+      },
       "duration_ms": 258040,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 81
     },
     {
-      "trackId": "3XtnJ1CGbZxEfXVtLXGEvI",
-      "name": "Come prima",
+      "track": {
+        "id": "3XtnJ1CGbZxEfXVtLXGEvI",
+        "name": "Come prima"
+      },
       "duration_ms": 161280,
-      "artist": [
-        "Marino Marini"
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "id": "2XLDoRIbLGPDqTXeTrVIbo"
+        }
       ],
-      "artistId": [
-        "2XLDoRIbLGPDqTXeTrVIbo"
-      ],
-      "albumId": "30sPjaQu7aPsedPMgZWWQ2",
+      "album": {
+        "id": "30sPjaQu7aPsedPMgZWWQ2",
+        "name": "L'Incredibile Marino Marini",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259a679661c157438d388c911"
+      },
       "release_date": "1955-12-03",
       "popularity": 32
     },
     {
-      "trackId": "1KwNeihbLHgoklnbwl0pFU",
-      "name": "Fear of the Dark",
+      "track": {
+        "id": "1KwNeihbLHgoklnbwl0pFU",
+        "name": "Fear of the Dark"
+      },
       "duration_ms": 180800,
-      "artist": [
-        "Malin Artz"
+      "artists": [
+        {
+          "name": "Malin Artz",
+          "id": "3kQ6OEeuy0feCo28PhNJLP"
+        }
       ],
-      "artistId": [
-        "3kQ6OEeuy0feCo28PhNJLP"
-      ],
-      "albumId": "1IWE72RZetQwGjnii5Kdu5",
+      "album": {
+        "id": "1IWE72RZetQwGjnii5Kdu5",
+        "name": "Fear of the Dark",
+        "img": "https://i.scdn.co/image/ab67616d00001e02866a7fdbc0ebf6868fe1c8d0"
+      },
       "release_date": "2018-10-17",
       "popularity": 1
     }

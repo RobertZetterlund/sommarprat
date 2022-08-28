@@ -7,210 +7,314 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2e2b2d35-5fac-4d62-9dd2-646a6737ebb3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4WY0rvaDS9iln4ZtabOykQ",
-      "name": "The High Mass: Kyrie: Kyrie eleison (Chorus)",
+      "track": {
+        "id": "4WY0rvaDS9iln4ZtabOykQ",
+        "name": "The High Mass: Kyrie: Kyrie eleison (Chorus)"
+      },
       "duration_ms": 364160,
-      "artist": [
-        "Sven-David Sandström",
-        "Lena Hoel",
-        "Siri Torjesen"
+      "artists": [
+        {
+          "name": "Sven-David Sandström",
+          "id": "00AUnQaXE6XTTZvr7kgNHb"
+        },
+        {
+          "name": "Lena Hoel",
+          "id": "2VsbjGocRJQI2cI1xlTdZh"
+        },
+        {
+          "name": "Siri Torjesen",
+          "id": "2kFlT9Xa9KplUSvzW6p0c5"
+        }
       ],
-      "artistId": [
-        "00AUnQaXE6XTTZvr7kgNHb",
-        "2VsbjGocRJQI2cI1xlTdZh",
-        "2kFlT9Xa9KplUSvzW6p0c5"
-      ],
-      "albumId": "4AIbIriejFw6CTvzoXhIUh",
+      "album": {
+        "id": "4AIbIriejFw6CTvzoXhIUh",
+        "name": "The High Mass",
+        "img": "https://i.scdn.co/image/ab67616d00001e0224f66c55cefb5657dab8f28e"
+      },
       "release_date": "1995-01-01",
       "popularity": 0
     },
     {
-      "trackId": "5qwjH4yeWHPiClYdMnEeiA",
-      "name": "Räggibitn'",
+      "track": {
+        "id": "5qwjH4yeWHPiClYdMnEeiA",
+        "name": "Räggibitn'"
+      },
       "duration_ms": 201108,
-      "artist": [
-        "Lindbärs"
+      "artists": [
+        {
+          "name": "Lindbärs",
+          "id": "4unYZH2ygRDILvplbLN5FN"
+        }
       ],
-      "artistId": [
-        "4unYZH2ygRDILvplbLN5FN"
-      ],
-      "albumId": "49iOhHH8vvkOGYijzkkeBm",
+      "album": {
+        "id": "49iOhHH8vvkOGYijzkkeBm",
+        "name": "Balladen om Theobald Thor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1fcaf3cdbfac67cbbe01947"
+      },
       "release_date": "2021-04-14",
       "popularity": 39
     },
     {
-      "trackId": "7pipz88aN0avbIYusF70Tu",
-      "name": "The High Mass (Excerpts): IIIb. Credo. Crucifixus",
+      "track": {
+        "id": "7pipz88aN0avbIYusF70Tu",
+        "name": "The High Mass (Excerpts): IIIb. Credo. Crucifixus"
+      },
       "duration_ms": 286266,
-      "artist": [
-        "Sven-David Sandström",
-        "Swedish Radio Choir",
-        "Eric Ericson Chamber Choir"
+      "artists": [
+        {
+          "name": "Sven-David Sandström",
+          "id": "00AUnQaXE6XTTZvr7kgNHb"
+        },
+        {
+          "name": "Swedish Radio Choir",
+          "id": "1A9umzen6B9Shk2spCzR9y"
+        },
+        {
+          "name": "Eric Ericson Chamber Choir",
+          "id": "1jXIt678bAwAiFlKEve27W"
+        }
       ],
-      "artistId": [
-        "00AUnQaXE6XTTZvr7kgNHb",
-        "1A9umzen6B9Shk2spCzR9y",
-        "1jXIt678bAwAiFlKEve27W"
-      ],
-      "albumId": "2FoYko0hrkXT6xsu0oA5TE",
+      "album": {
+        "id": "2FoYko0hrkXT6xsu0oA5TE",
+        "name": "The Swedish Choir, Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02070226c151a3fa50f81d7107"
+      },
       "release_date": "2021-03-19",
       "popularity": 0
     },
     {
-      "trackId": "5nRFn9AaiHsl0f3uo6d2ki",
-      "name": "Till Havs",
+      "track": {
+        "id": "5nRFn9AaiHsl0f3uo6d2ki",
+        "name": "Till Havs"
+      },
       "duration_ms": 136760,
-      "artist": [
-        "Jussi Björling & Nils Grevillius Orchestra"
+      "artists": [
+        {
+          "name": "Jussi Björling & Nils Grevillius Orchestra",
+          "id": "264175n225eFvqtFTF9XOU"
+        }
       ],
-      "artistId": [
-        "264175n225eFvqtFTF9XOU"
-      ],
-      "albumId": "5VIAGRLS99mg0RpCiILjPb",
+      "album": {
+        "id": "5VIAGRLS99mg0RpCiILjPb",
+        "name": "Essential Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02310c2a8ddadca78056794f53"
+      },
       "release_date": "2009-03-10",
       "popularity": 15
     },
     {
-      "trackId": "7Kz4f9CgtAfbmPBMX5q2ZV",
-      "name": "La Voix",
+      "track": {
+        "id": "7Kz4f9CgtAfbmPBMX5q2ZV",
+        "name": "La Voix"
+      },
       "duration_ms": 177013,
-      "artist": [
-        "Malena Ernman",
-        "Fredrik Kempe"
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        },
+        {
+          "name": "Fredrik Kempe",
+          "id": "5a3wjp9dcWyJitaiwXIsC7"
+        }
       ],
-      "artistId": [
-        "0muluUHym4N0wB62sD0MPo",
-        "5a3wjp9dcWyJitaiwXIsC7"
-      ],
-      "albumId": "0h8iIqw8uv8Rif7zPK8iml",
+      "album": {
+        "id": "0h8iIqw8uv8Rif7zPK8iml",
+        "name": "La voix du nord",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4bf2684ed19f5ae803cf0ca"
+      },
       "release_date": "2010-07-26",
       "popularity": 36
     },
     {
-      "trackId": "46myjng22bqiMChbgDHLQj",
-      "name": "Fantasiresan - För sömn och vila",
+      "track": {
+        "id": "46myjng22bqiMChbgDHLQj",
+        "name": "Fantasiresan - För sömn och vila"
+      },
       "duration_ms": 917773,
-      "artist": [
-        "Christina Divén"
+      "artists": [
+        {
+          "name": "Christina Divén",
+          "id": "3SFF7ZOtYEQrZjroJBoBTN"
+        }
       ],
-      "artistId": [
-        "3SFF7ZOtYEQrZjroJBoBTN"
-      ],
-      "albumId": "2JR2YxeRd61izoiDpF7F6N",
+      "album": {
+        "id": "2JR2YxeRd61izoiDpF7F6N",
+        "name": "Lek med Delfinerna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fea24b7814e0af1886b84914"
+      },
       "release_date": "1997-01-01",
       "popularity": 25
     },
     {
-      "trackId": "1MwVOQPwBmJFDshhtxtuER",
-      "name": "Matthäus-Passion, BWV 244 / Erster Teil: No. 1 \"Kommt, ihr Töchter, helft mir klagen\"",
+      "track": {
+        "id": "1MwVOQPwBmJFDshhtxtuER",
+        "name": "Matthäus-Passion, BWV 244 / Erster Teil: No. 1 \"Kommt, ihr Töchter, helft mir klagen\""
+      },
       "duration_ms": 419000,
-      "artist": [
-        "Johann Sebastian Bach",
-        "English Baroque Soloists",
-        "The Monteverdi Choir"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "id": "3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "id": "0Cqfz92flAzrp94pgN1jEW"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "3OtZV9aCZ6G004vjOQcf59",
-        "0Cqfz92flAzrp94pgN1jEW"
-      ],
-      "albumId": "5YbjOf1fj1Q1ZbfCNMiF3W",
+      "album": {
+        "id": "5YbjOf1fj1Q1ZbfCNMiF3W",
+        "name": "The John Eliot Gardiner Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2be3cae1e8affabbed264ff"
+      },
       "release_date": "2013-01-01",
       "popularity": 6
     },
     {
-      "trackId": "7647WNclsrXgytRPOvrOKj",
-      "name": "Kom till mig",
+      "track": {
+        "id": "7647WNclsrXgytRPOvrOKj",
+        "name": "Kom till mig"
+      },
       "duration_ms": 187773,
-      "artist": [
-        "Sven-David Sandström",
-        "Storkyrkans Kör",
-        "Gustaf Sjokvist"
+      "artists": [
+        {
+          "name": "Sven-David Sandström",
+          "id": "00AUnQaXE6XTTZvr7kgNHb"
+        },
+        {
+          "name": "Storkyrkans Kör",
+          "id": "2iUReUXJaxvslFuCQzWTNU"
+        },
+        {
+          "name": "Gustaf Sjokvist",
+          "id": "4lTGFS2bOWcU2U8DmJueKP"
+        }
       ],
-      "artistId": [
-        "00AUnQaXE6XTTZvr7kgNHb",
-        "2iUReUXJaxvslFuCQzWTNU",
-        "4lTGFS2bOWcU2U8DmJueKP"
-      ],
-      "albumId": "6Sls5Dl5h8gYpwInvqs2pA",
+      "album": {
+        "id": "6Sls5Dl5h8gYpwInvqs2pA",
+        "name": "I vår tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ca0c504986025c037565276"
+      },
       "release_date": "2011-01-01",
       "popularity": 0
     },
     {
-      "trackId": "2SRXbLBCJ5Fu91hxJAVPtl",
-      "name": "Jeg elsker dig (I love thee), Op.5, No.3",
+      "track": {
+        "id": "2SRXbLBCJ5Fu91hxJAVPtl",
+        "name": "Jeg elsker dig (I love thee), Op.5, No.3"
+      },
       "duration_ms": 102013,
-      "artist": [
-        "Edvard Grieg",
-        "Barbara Bonney",
-        "Antonio Pappano"
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "id": "5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Barbara Bonney",
+          "id": "24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Antonio Pappano",
+          "id": "0xHw5qPRSEc8sUmSmXf5sw"
+        }
       ],
-      "artistId": [
-        "5ihY290YPGc3aY2xTyx7Gy",
-        "24fwyM31DLDqYOPvQ0jFFr",
-        "0xHw5qPRSEc8sUmSmXf5sw"
-      ],
-      "albumId": "2FFK5R5xwX0yNpPhykcnjr",
+      "album": {
+        "id": "2FFK5R5xwX0yNpPhykcnjr",
+        "name": "Barbara Bonney - Diamonds In The Snow",
+        "img": "https://i.scdn.co/image/ab67616d00001e022f7442d840217d37b2340658"
+      },
       "release_date": "2000-01-01",
       "popularity": 1
     },
     {
-      "trackId": "47jlmGhTc6AjGppeHPJmUq",
-      "name": "Hälsingland",
+      "track": {
+        "id": "47jlmGhTc6AjGppeHPJmUq",
+        "name": "Hälsingland"
+      },
       "duration_ms": 203606,
-      "artist": [
-        "Maskinisten"
+      "artists": [
+        {
+          "name": "Maskinisten",
+          "id": "7EqcInpJPb4pRMPyEvUKRR"
+        }
       ],
-      "artistId": [
-        "7EqcInpJPb4pRMPyEvUKRR"
-      ],
-      "albumId": "2a48lh4Xr6WA9BYAEhLQUq",
+      "album": {
+        "id": "2a48lh4Xr6WA9BYAEhLQUq",
+        "name": "Hälsingland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e9b40aa9a526533dcc1e1e5c"
+      },
       "release_date": "2018-10-09",
       "popularity": 34
     },
     {
-      "trackId": "0XWMAEcZMjs43rIWJA4d37",
-      "name": "Marlowe's Theme",
+      "track": {
+        "id": "0XWMAEcZMjs43rIWJA4d37",
+        "name": "Marlowe's Theme"
+      },
       "duration_ms": 316933,
-      "artist": [
-        "Putte Wickman"
+      "artists": [
+        {
+          "name": "Putte Wickman",
+          "id": "6sx2v1gYnSUlkVO7M5Mk95"
+        }
       ],
-      "artistId": [
-        "6sx2v1gYnSUlkVO7M5Mk95"
-      ],
-      "albumId": "4oAp1NxlZbuTzSOfZjzlCX",
+      "album": {
+        "id": "4oAp1NxlZbuTzSOfZjzlCX",
+        "name": "We Will Always Be Together",
+        "img": "https://i.scdn.co/image/ab67616d00001e029b7fd9f9ec9e35777e9245ee"
+      },
       "release_date": "2004-01-01",
       "popularity": 19
     },
     {
-      "trackId": "2p7zP8FPUzbRLyD498is2z",
-      "name": "In paradisum",
+      "track": {
+        "id": "2p7zP8FPUzbRLyD498is2z",
+        "name": "In paradisum"
+      },
       "duration_ms": 278120,
-      "artist": [
-        "Sven-David Sandström",
-        "Sofia Vokalensemble",
-        "Bengt Ollen"
+      "artists": [
+        {
+          "name": "Sven-David Sandström",
+          "id": "00AUnQaXE6XTTZvr7kgNHb"
+        },
+        {
+          "name": "Sofia Vokalensemble",
+          "id": "77VcFcxShb5YeMsMy5SD4N"
+        },
+        {
+          "name": "Bengt Ollen",
+          "id": "1479Z2Z29s3qCgDU1W4DAb"
+        }
       ],
-      "artistId": [
-        "00AUnQaXE6XTTZvr7kgNHb",
-        "77VcFcxShb5YeMsMy5SD4N",
-        "1479Z2Z29s3qCgDU1W4DAb"
-      ],
-      "albumId": "4iN8IOCvqQhIrsvfexd2y5",
+      "album": {
+        "id": "4iN8IOCvqQhIrsvfexd2y5",
+        "name": "In paradisum",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9b74d989ef4bd6a95cf8048"
+      },
       "release_date": "2019-11-15",
       "popularity": 5
     },
     {
-      "trackId": "3dc3X4Qi9CaaSBMnsdMBP1",
-      "name": "Någonstans bland alla skuggorna",
+      "track": {
+        "id": "3dc3X4Qi9CaaSBMnsdMBP1",
+        "name": "Någonstans bland alla skuggorna"
+      },
       "duration_ms": 190866,
-      "artist": [
-        "Einar Ekberg"
+      "artists": [
+        {
+          "name": "Einar Ekberg",
+          "id": "0BZKPU9xjUNwHWkMPXR1Uu"
+        }
       ],
-      "artistId": [
-        "0BZKPU9xjUNwHWkMPXR1Uu"
-      ],
-      "albumId": "1iOWbOSt0Na3t29JK2099F",
+      "album": {
+        "id": "1iOWbOSt0Na3t29JK2099F",
+        "name": "Ögonblicket och evigheten (Sångerna vi minns)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02140d85bbf0075340cd83d6f5"
+      },
       "release_date": "1991-01-01",
       "popularity": 2
     }

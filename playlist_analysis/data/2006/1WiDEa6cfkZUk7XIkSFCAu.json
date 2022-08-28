@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3238023_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0P7DoyGrr4Wp9w5TotEtUC",
-      "name": "The Weight - Remastered 2000",
+      "track": {
+        "id": "0P7DoyGrr4Wp9w5TotEtUC",
+        "name": "The Weight - Remastered 2000"
+      },
       "duration_ms": 274493,
-      "artist": [
-        "The Band"
+      "artists": [
+        {
+          "name": "The Band",
+          "id": "4vpDg7Y7fU982Ds30zawDA"
+        }
       ],
-      "artistId": [
-        "4vpDg7Y7fU982Ds30zawDA"
-      ],
-      "albumId": "0ky5kdvfPxSmSpj03hpSAE",
+      "album": {
+        "id": "0ky5kdvfPxSmSpj03hpSAE",
+        "name": "Music From Big Pink (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220bbceac6950d3fe13fa13c3"
+      },
       "release_date": "1968-07-01",
       "popularity": 70
     },
     {
-      "trackId": "1nBRZclNp9DLa6V3ywExAl",
-      "name": "Blowing in the Wind",
+      "track": {
+        "id": "1nBRZclNp9DLa6V3ywExAl",
+        "name": "Blowing in the Wind"
+      },
       "duration_ms": 261918,
-      "artist": [
-        "Beverly White",
-        "Josh White Jr.",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Beverly White",
+          "id": "3VnoA1X81BnAqCImFSuEoY"
+        },
+        {
+          "name": "Josh White Jr.",
+          "id": "1oq9kZVhUUGNrLrbKnk5HZ"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3VnoA1X81BnAqCImFSuEoY",
-        "1oq9kZVhUUGNrLrbKnk5HZ",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "5oxNXtEn7wOgzwj0en49lA",
+      "album": {
+        "id": "5oxNXtEn7wOgzwj0en49lA",
+        "name": "Blowing in the Wind (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02374a7435be76dcdc9bf4dbe7"
+      },
       "release_date": "2020-05-01",
       "popularity": 0
     },
     {
-      "trackId": "4M1zcX803dgkDkISHZDPYi",
-      "name": "Don't Play That Song",
+      "track": {
+        "id": "4M1zcX803dgkDkISHZDPYi",
+        "name": "Don't Play That Song"
+      },
       "duration_ms": 182040,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "1s3FSienS5KcpWckmq4NHO",
+      "album": {
+        "id": "1s3FSienS5KcpWckmq4NHO",
+        "name": "Spirit in the Dark",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270de3def267a4ca716171842"
+      },
       "release_date": "1970-08-24",
       "popularity": 50
     },
     {
-      "trackId": "0mdbkMqSMCQ9S1U0LDDRwD",
-      "name": "Mathilde",
+      "track": {
+        "id": "0mdbkMqSMCQ9S1U0LDDRwD",
+        "name": "Mathilde"
+      },
       "duration_ms": 154666,
-      "artist": [
-        "Jacques Brel"
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "id": "4RN2vlFWepLa46qQIU2PHs"
+        }
       ],
-      "artistId": [
-        "4RN2vlFWepLa46qQIU2PHs"
-      ],
-      "albumId": "6Us9T05UuNDMP2NtVrSVyG",
+      "album": {
+        "id": "6Us9T05UuNDMP2NtVrSVyG",
+        "name": "15 Ans D'Amour",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c13ecf7ced29f9982b013314"
+      },
       "release_date": "1988-01-01",
       "popularity": 39
     },
     {
-      "trackId": "4FMI4Ln1LhyxGldkNXan5e",
-      "name": "Köln, January 24, 1975, Pt. II C - Live",
+      "track": {
+        "id": "4FMI4Ln1LhyxGldkNXan5e",
+        "name": "Köln, January 24, 1975, Pt. II C - Live"
+      },
       "duration_ms": 416840,
-      "artist": [
-        "Keith Jarrett"
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "id": "0F3Aew9DSd6fb6192K1K0Y"
+        }
       ],
-      "artistId": [
-        "0F3Aew9DSd6fb6192K1K0Y"
-      ],
-      "albumId": "0I8vpSE1bSmysN2PhmHoQg",
+      "album": {
+        "id": "0I8vpSE1bSmysN2PhmHoQg",
+        "name": "The Köln Concert",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264d8292b7825888183e4da28"
+      },
       "release_date": "1975-11-30",
       "popularity": 49
     },
     {
-      "trackId": "2YplrdHMBoRdnHgMeHEwHm",
-      "name": "The Sound of Silence - Electric Version",
+      "track": {
+        "id": "2YplrdHMBoRdnHgMeHEwHm",
+        "name": "The Sound of Silence - Electric Version"
+      },
       "duration_ms": 185253,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "07RAGILF28QweYQSZasr5k",
+      "album": {
+        "id": "07RAGILF28QweYQSZasr5k",
+        "name": "Sounds Of Silence",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244a8aa7ac5c2e2defbfd702b"
+      },
       "release_date": "1966-01-17",
       "popularity": 51
     },
     {
-      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
-      "name": "Here Comes The Sun - Remastered 2009",
+      "track": {
+        "id": "6dGnYIeXmHdcikdzNNDMm2",
+        "name": "Here Comes The Sun - Remastered 2009"
+      },
       "duration_ms": 185733,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 82
     },
     {
-      "trackId": "5Dz7rYGQTo42qlBr1nRe3e",
-      "name": "An Gabhar Bán",
+      "track": {
+        "id": "5Dz7rYGQTo42qlBr1nRe3e",
+        "name": "An Gabhar Bán"
+      },
       "duration_ms": 194920,
-      "artist": [
-        "Clannad"
+      "artists": [
+        {
+          "name": "Clannad",
+          "id": "0BkAYxgwF9VQiid4wI07yJ"
+        }
       ],
-      "artistId": [
-        "0BkAYxgwF9VQiid4wI07yJ"
-      ],
-      "albumId": "73kJd88BanLyOqvijpc6z6",
+      "album": {
+        "id": "73kJd88BanLyOqvijpc6z6",
+        "name": "Clannad 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ad2ea6826a7a26cc8e07614"
+      },
       "release_date": "2006",
       "popularity": 16
     },
     {
-      "trackId": "62Xj6x2LSWv47PtRAXrg5Z",
-      "name": "Summertime",
+      "track": {
+        "id": "62Xj6x2LSWv47PtRAXrg5Z",
+        "name": "Summertime"
+      },
       "duration_ms": 173493,
-      "artist": [
-        "Billie Holiday"
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "id": "1YzCsTRb22dQkh9lghPIrp"
+        }
       ],
-      "artistId": [
-        "1YzCsTRb22dQkh9lghPIrp"
-      ],
-      "albumId": "7pBwUBRsdgtIyX7tGOmaoy",
+      "album": {
+        "id": "7pBwUBRsdgtIyX7tGOmaoy",
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02452bd32b5454a87f36ad8e8c"
+      },
       "release_date": "1933",
       "popularity": 46
     },
     {
-      "trackId": "4SD1AmG7x1ks4XYgH0cNRj",
-      "name": "Look What They've Done To My Song, Ma",
+      "track": {
+        "id": "4SD1AmG7x1ks4XYgH0cNRj",
+        "name": "Look What They've Done To My Song, Ma"
+      },
       "duration_ms": 242826,
-      "artist": [
-        "Melanie"
+      "artists": [
+        {
+          "name": "Melanie",
+          "id": "6sOP8RUFR0q0nBOBOXGdBK"
+        }
       ],
-      "artistId": [
-        "6sOP8RUFR0q0nBOBOXGdBK"
-      ],
-      "albumId": "0d0QHnq1JlNiBTQhC1eKRS",
+      "album": {
+        "id": "0d0QHnq1JlNiBTQhC1eKRS",
+        "name": "Beautiful People: The Greatest Hits of Melanie",
+        "img": "https://i.scdn.co/image/ab67616d00001e02275a3e31ea8b473fad22de0a"
+      },
       "release_date": "1999-07-01",
       "popularity": 35
     },
     {
-      "trackId": "4Cnp3vk6Cl0RC0A4dieUid",
-      "name": "I denna ljuva sommartid",
+      "track": {
+        "id": "4Cnp3vk6Cl0RC0A4dieUid",
+        "name": "I denna ljuva sommartid"
+      },
       "duration_ms": 162826,
-      "artist": [
-        "Anders Widmark"
+      "artists": [
+        {
+          "name": "Anders Widmark",
+          "id": "4ZgY2pumPsq9z3kNxGTDef"
+        }
       ],
-      "artistId": [
-        "4ZgY2pumPsq9z3kNxGTDef"
-      ],
-      "albumId": "58TQrEfi5T1bi5KQVhRJ9r",
+      "album": {
+        "id": "58TQrEfi5T1bi5KQVhRJ9r",
+        "name": "Psalmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc7b5002f93dfd6037bdac0"
+      },
       "release_date": "1997-09-01",
       "popularity": 35
     },
     {
-      "trackId": "7Kdly9Zg5MljRiqopcDUcH",
-      "name": "Sandpolskan",
+      "track": {
+        "id": "7Kdly9Zg5MljRiqopcDUcH",
+        "name": "Sandpolskan"
+      },
       "duration_ms": 185020,
-      "artist": [
-        "Ale Möller"
+      "artists": [
+        {
+          "name": "Ale Möller",
+          "id": "5kWZBRi1mL1QA414GqLllw"
+        }
       ],
-      "artistId": [
-        "5kWZBRi1mL1QA414GqLllw"
-      ],
-      "albumId": "37JjLqhgmB6XLyBdQeVcsn",
+      "album": {
+        "id": "37JjLqhgmB6XLyBdQeVcsn",
+        "name": "Bodjal",
+        "img": "https://i.scdn.co/image/ab67616d00001e02393c0659179b712dc1d97950"
+      },
       "release_date": "2004-03-17",
       "popularity": 13
     },
     {
-      "trackId": "3pHscmOUAkrIcmWOn2UPP0",
-      "name": "Stor uppmuntran",
+      "track": {
+        "id": "3pHscmOUAkrIcmWOn2UPP0",
+        "name": "Stor uppmuntran"
+      },
       "duration_ms": 245758,
-      "artist": [
-        "Wolf Biermann",
-        "Lena Granhagen"
+      "artists": [
+        {
+          "name": "Wolf Biermann",
+          "id": "6DnJnXNndN4xnoL1LN2lEx"
+        },
+        {
+          "name": "Lena Granhagen",
+          "id": "2j5g9dSctysNgUQhLzKhEN"
+        }
       ],
-      "artistId": [
-        "6DnJnXNndN4xnoL1LN2lEx",
-        "2j5g9dSctysNgUQhLzKhEN"
-      ],
-      "albumId": "6yU7zgFQFz31ke10bTVHNf",
+      "album": {
+        "id": "6yU7zgFQFz31ke10bTVHNf",
+        "name": "Lena Granhagen sjunger Theodorakis & Biermann",
+        "img": "https://i.scdn.co/image/ab67616d00001e025238e47e32fbabce5b8f698f"
+      },
       "release_date": "2014-04-01",
       "popularity": 0
     },
     {
-      "trackId": "3RCiiIBQUJAnyCbZWdpNnb",
-      "name": "So Mild The Wind, So Meek The Water",
+      "track": {
+        "id": "3RCiiIBQUJAnyCbZWdpNnb",
+        "name": "So Mild The Wind, So Meek The Water"
+      },
       "duration_ms": 369733,
-      "artist": [
-        "Jan Garbarek"
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "id": "7MEyCD4G0Zl6kmikEAZsym"
+        }
       ],
-      "artistId": [
-        "7MEyCD4G0Zl6kmikEAZsym"
-      ],
-      "albumId": "60hubjc64OMNjJce1ckuZ7",
+      "album": {
+        "id": "60hubjc64OMNjJce1ckuZ7",
+        "name": "Rites",
+        "img": "https://i.scdn.co/image/ab67616d00001e02336e935dc0b7aabe2c582071"
+      },
       "release_date": "1998-10-05",
       "popularity": 12
     }

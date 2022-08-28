@@ -7,210 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860955_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0LrwgdLsFaWh9VXIjBRe8t",
-      "name": "Changes - 2015 Remaster",
+      "track": {
+        "id": "0LrwgdLsFaWh9VXIjBRe8t",
+        "name": "Changes - 2015 Remaster"
+      },
       "duration_ms": 217746,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 68
     },
     {
-      "trackId": "4GmfoKVBh1mIR6OVaMDXRK",
-      "name": "Jag och min far",
+      "track": {
+        "id": "4GmfoKVBh1mIR6OVaMDXRK",
+        "name": "Jag och min far"
+      },
       "duration_ms": 235331,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "6tqbVThKQaAbkJ96dj4kvf",
+      "album": {
+        "id": "6tqbVThKQaAbkJ96dj4kvf",
+        "name": "Magnus Den Store (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a3f711326cc2d6413d16a0f"
+      },
       "release_date": "2013-02-27",
       "popularity": 48
     },
     {
-      "trackId": "22JqoUT14gcVHABc20JqOd",
-      "name": "Ett fullkomligt kaos",
+      "track": {
+        "id": "22JqoUT14gcVHABc20JqOd",
+        "name": "Ett fullkomligt kaos"
+      },
       "duration_ms": 183066,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "5ZiXZ2iktIvZIDg0RnJlgi",
+      "album": {
+        "id": "5ZiXZ2iktIvZIDg0RnJlgi",
+        "name": "Kaos",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c03e8f304bb5c8c3e4421108"
+      },
       "release_date": "2001-09-06",
       "popularity": 39
     },
     {
-      "trackId": "7JKEA8xYDoFp4q0QBW2PGg",
-      "name": "Shackles (Praise You)",
+      "track": {
+        "id": "7JKEA8xYDoFp4q0QBW2PGg",
+        "name": "Shackles (Praise You)"
+      },
       "duration_ms": 198346,
-      "artist": [
-        "Mary Mary"
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "id": "12Kgt2eahvxNWhD5PnSUde"
+        }
       ],
-      "artistId": [
-        "12Kgt2eahvxNWhD5PnSUde"
-      ],
-      "albumId": "20bME4IGNpUBm1Rk3TzuP9",
+      "album": {
+        "id": "20bME4IGNpUBm1Rk3TzuP9",
+        "name": "Go Get It",
+        "img": "https://i.scdn.co/image/ab67616d00001e0285ba427424ce99a14c88685e"
+      },
       "release_date": "2000",
       "popularity": 65
     },
     {
-      "trackId": "3K7Q9PHUWPTaknlbFPThn2",
-      "name": "Celebration",
+      "track": {
+        "id": "3K7Q9PHUWPTaknlbFPThn2",
+        "name": "Celebration"
+      },
       "duration_ms": 298866,
-      "artist": [
-        "Kool & The Gang"
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "id": "3VNITwohbvU5Wuy5PC6dsI"
+        }
       ],
-      "artistId": [
-        "3VNITwohbvU5Wuy5PC6dsI"
-      ],
-      "albumId": "2kc4mhFRsoIRVD0XEYnwhI",
+      "album": {
+        "id": "2kc4mhFRsoIRVD0XEYnwhI",
+        "name": "Celebrate!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02887b7c596249f628db6c6473"
+      },
       "release_date": "1980-09-29",
       "popularity": 72
     },
     {
-      "trackId": "48BSXfxyLLxDIp934Is2A9",
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "track": {
+        "id": "48BSXfxyLLxDIp934Is2A9",
+        "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prelude"
+      },
       "duration_ms": 132120,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Torleif Thedéen"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Torleif Thedéen",
+          "id": "6AmX6uFptshw56Z5LbOFhZ"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "6AmX6uFptshw56Z5LbOFhZ"
-      ],
-      "albumId": "2cj4D33pmIvDCiDYWg80Nj",
+      "album": {
+        "id": "2cj4D33pmIvDCiDYWg80Nj",
+        "name": "Bach, J.S.: 6 Suites for Solo Cello, Bwv 1007-1012",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f643b186c98073881b0c12ec"
+      },
       "release_date": "2000-05-31",
       "popularity": 34
     },
     {
-      "trackId": "6O0NefwIzq9aF9Xnjr21EU",
-      "name": "Han tuggar kex - Akustisk",
+      "track": {
+        "id": "6O0NefwIzq9aF9Xnjr21EU",
+        "name": "Han tuggar kex - Akustisk"
+      },
       "duration_ms": 222040,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "64o8Xiysec8ro1PqcgYWuh",
+      "album": {
+        "id": "64o8Xiysec8ro1PqcgYWuh",
+        "name": "Laleh",
+        "img": "https://i.scdn.co/image/ab67616d00001e028222e77e2fbf4a3ce0c6c6b0"
+      },
       "release_date": "2005-03-01",
       "popularity": 19
     },
     {
-      "trackId": "5g6nzsOxwxdoj6sqAl0NXB",
-      "name": "It's Raining Men",
+      "track": {
+        "id": "5g6nzsOxwxdoj6sqAl0NXB",
+        "name": "It's Raining Men"
+      },
       "duration_ms": 211013,
-      "artist": [
-        "The Weather Girls"
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "id": "19xz1vcuKNjniGEftTOSSH"
+        }
       ],
-      "artistId": [
-        "19xz1vcuKNjniGEftTOSSH"
-      ],
-      "albumId": "0Um71BYb1Zl8Oa6vSvn2ox",
+      "album": {
+        "id": "0Um71BYb1Zl8Oa6vSvn2ox",
+        "name": "The Best of Disco",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c76dd4f82e782ffe0f014a6"
+      },
       "release_date": "1996-11-25",
       "popularity": 64
     },
     {
-      "trackId": "11fl9jUVWC3bpmc3lvPGEh",
-      "name": "Veni Sancte Spiritus",
+      "track": {
+        "id": "11fl9jUVWC3bpmc3lvPGEh",
+        "name": "Veni Sancte Spiritus"
+      },
       "duration_ms": 176960,
-      "artist": [
-        "Sven-David Sandström",
-        "Storkyrkans Kör",
-        "Gustaf Sjokvist"
+      "artists": [
+        {
+          "name": "Sven-David Sandström",
+          "id": "00AUnQaXE6XTTZvr7kgNHb"
+        },
+        {
+          "name": "Storkyrkans Kör",
+          "id": "2iUReUXJaxvslFuCQzWTNU"
+        },
+        {
+          "name": "Gustaf Sjokvist",
+          "id": "4lTGFS2bOWcU2U8DmJueKP"
+        }
       ],
-      "artistId": [
-        "00AUnQaXE6XTTZvr7kgNHb",
-        "2iUReUXJaxvslFuCQzWTNU",
-        "4lTGFS2bOWcU2U8DmJueKP"
-      ],
-      "albumId": "6Sls5Dl5h8gYpwInvqs2pA",
+      "album": {
+        "id": "6Sls5Dl5h8gYpwInvqs2pA",
+        "name": "I vår tid",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ca0c504986025c037565276"
+      },
       "release_date": "2011-01-01",
       "popularity": 0
     },
     {
-      "trackId": "1NyKQprlJOmMKJocWdqvyx",
-      "name": "Commentary: White Cloud White Swan & Native Son",
+      "track": {
+        "id": "1NyKQprlJOmMKJocWdqvyx",
+        "name": "Commentary: White Cloud White Swan & Native Son"
+      },
       "duration_ms": 46500,
-      "artist": [
-        "Deva Premal",
-        "Miten",
-        "Manose"
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "id": "2970BxpdOBQmkMit6i9kVF"
+        },
+        {
+          "name": "Miten",
+          "id": "4jrXM6oLQfV9L458Luwc3P"
+        },
+        {
+          "name": "Manose",
+          "id": "4JuGrH8E5Xgddd61nqIViQ"
+        }
       ],
-      "artistId": [
-        "2970BxpdOBQmkMit6i9kVF",
-        "4jrXM6oLQfV9L458Luwc3P",
-        "4JuGrH8E5Xgddd61nqIViQ"
-      ],
-      "albumId": "10cm4tjW6appzMYbGA68j8",
+      "album": {
+        "id": "10cm4tjW6appzMYbGA68j8",
+        "name": "Cosmic Connections Live: Commentator Playlist",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9a846d50c3de6c23e4a9949"
+      },
       "release_date": "2016-07-29",
       "popularity": 4
     },
     {
-      "trackId": "4q2nejfnJpmHqr2GAi09ph",
-      "name": "Välkommen Åter",
+      "track": {
+        "id": "4q2nejfnJpmHqr2GAi09ph",
+        "name": "Välkommen Åter"
+      },
       "duration_ms": 175714,
-      "artist": [
-        "Hanna Ferm",
-        "Junie"
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "id": "2xQUbkvQFCU8DpdBFbMfLq"
+        },
+        {
+          "name": "Junie",
+          "id": "3Jy86CVPHDVN858HitaK1N"
+        }
       ],
-      "artistId": [
-        "2xQUbkvQFCU8DpdBFbMfLq",
-        "3Jy86CVPHDVN858HitaK1N"
-      ],
-      "albumId": "38ApGKtXK58w6N7DRfJ1kX",
+      "album": {
+        "id": "38ApGKtXK58w6N7DRfJ1kX",
+        "name": "Välkommen Åter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02847add8ceb82cd27302ffe15"
+      },
       "release_date": "2022-05-20",
       "popularity": 64
     },
     {
-      "trackId": "7m5EAcPN1e9jZuoCs64eDb",
-      "name": "Var inte rädd",
+      "track": {
+        "id": "7m5EAcPN1e9jZuoCs64eDb",
+        "name": "Var inte rädd"
+      },
       "duration_ms": 189000,
-      "artist": [
-        "Susanne Häll"
+      "artists": [
+        {
+          "name": "Susanne Häll",
+          "id": "5HEgEvvimG6DHmguTa5iba"
+        }
       ],
-      "artistId": [
-        "5HEgEvvimG6DHmguTa5iba"
-      ],
-      "albumId": "58ZGEWqMRwvfDAi64osbm6",
+      "album": {
+        "id": "58ZGEWqMRwvfDAi64osbm6",
+        "name": "Jiddra inte!",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ade5837d4a10d1eab70961f"
+      },
       "release_date": "2011",
       "popularity": 7
     },
     {
-      "trackId": "4kHKI0onmVMAFyfOCbYCEi",
-      "name": "Operator",
+      "track": {
+        "id": "4kHKI0onmVMAFyfOCbYCEi",
+        "name": "Operator"
+      },
       "duration_ms": 192533,
-      "artist": [
-        "The Manhattan Transfer"
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "id": "2dogRElUKV20C2khRHqjRc"
+        }
       ],
-      "artistId": [
-        "2dogRElUKV20C2khRHqjRc"
-      ],
-      "albumId": "2xpz9Rm7NSVyOGN5zBODNx",
+      "album": {
+        "id": "2xpz9Rm7NSVyOGN5zBODNx",
+        "name": "The Manhattan Transfer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238552ffbe1d7b28e69a9826a"
+      },
       "release_date": "1975-04-02",
       "popularity": 39
     },
     {
-      "trackId": "1VxrYvOkWTCRs7Ikx2IsCN",
-      "name": "Hanna",
+      "track": {
+        "id": "1VxrYvOkWTCRs7Ikx2IsCN",
+        "name": "Hanna"
+      },
       "duration_ms": 185760,
-      "artist": [
-        "Melissa Horn"
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "id": "0tOdy7SqogILIjzGU2hSr5"
+        }
       ],
-      "artistId": [
-        "0tOdy7SqogILIjzGU2hSr5"
-      ],
-      "albumId": "357nQyU7dtZmBxRckZR1Vh",
+      "album": {
+        "id": "357nQyU7dtZmBxRckZR1Vh",
+        "name": "Långa Nätter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa994846ca8fe4ec4698c5f1"
+      },
       "release_date": "2008-04-28",
       "popularity": 40
     }

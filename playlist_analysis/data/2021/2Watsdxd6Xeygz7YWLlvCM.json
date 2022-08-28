@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ba10fedb-788c-4397-8dbf-72ce24f363ca.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1yaDnmzs2C38H7wYl3EKNu",
-      "name": "Ahie",
+      "track": {
+        "id": "1yaDnmzs2C38H7wYl3EKNu",
+        "name": "Ahie"
+      },
       "duration_ms": 171973,
-      "artist": [
-        "João Donato"
+      "artists": [
+        {
+          "name": "João Donato",
+          "id": "17wDxPR2GcU3r1dpCoCiUi"
+        }
       ],
-      "artistId": [
-        "17wDxPR2GcU3r1dpCoCiUi"
-      ],
-      "albumId": "6GEO5pSp3ojwIm9vZqTtRd",
+      "album": {
+        "id": "6GEO5pSp3ojwIm9vZqTtRd",
+        "name": "Quem É Quem",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5510d5ecf9533c3bf0f3908"
+      },
       "release_date": "1973-01-08",
       "popularity": 22
     },
     {
-      "trackId": "3ZE3wv8V3w2T2f7nOCjV0N",
-      "name": "Life on Mars? - 2015 Remaster",
+      "track": {
+        "id": "3ZE3wv8V3w2T2f7nOCjV0N",
+        "name": "Life on Mars? - 2015 Remaster"
+      },
       "duration_ms": 235986,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 70
     },
     {
-      "trackId": "2kkvB3RNRzwjFdGhaUA0tz",
-      "name": "Layla",
+      "track": {
+        "id": "2kkvB3RNRzwjFdGhaUA0tz",
+        "name": "Layla"
+      },
       "duration_ms": 423840,
-      "artist": [
-        "Derek & The Dominos"
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "id": "2rc78XDH9zuJP6bm78lU8Z"
+        }
       ],
-      "artistId": [
-        "2rc78XDH9zuJP6bm78lU8Z"
-      ],
-      "albumId": "5iIWnMgvSM8uEBwXKsPcXM",
+      "album": {
+        "id": "5iIWnMgvSM8uEBwXKsPcXM",
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fbcaf7402f38faac27610efc"
+      },
       "release_date": "1970-11-01",
       "popularity": 74
     },
     {
-      "trackId": "3rdxkiSVNtrYwleW3TJMFs",
-      "name": "Ayo Technology",
+      "track": {
+        "id": "3rdxkiSVNtrYwleW3TJMFs",
+        "name": "Ayo Technology"
+      },
       "duration_ms": 165739,
-      "artist": [
-        "Revelries"
+      "artists": [
+        {
+          "name": "Revelries",
+          "id": "7KigP1NA8s7IiVIxP5ndwJ"
+        }
       ],
-      "artistId": [
-        "7KigP1NA8s7IiVIxP5ndwJ"
-      ],
-      "albumId": "5hMDoWcBZI290nu5CSOCr9",
+      "album": {
+        "id": "5hMDoWcBZI290nu5CSOCr9",
+        "name": "Ayo Technology",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265e95649255f8dc560b1f00f"
+      },
       "release_date": "2022-02-18",
       "popularity": 59
     },
     {
-      "trackId": "4Hhv2vrOTy89HFRcjU3QOx",
-      "name": "At Last",
+      "track": {
+        "id": "4Hhv2vrOTy89HFRcjU3QOx",
+        "name": "At Last"
+      },
       "duration_ms": 179693,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "7rd4PorIOPjPTy7qdUeeCt",
+      "album": {
+        "id": "7rd4PorIOPjPTy7qdUeeCt",
+        "name": "At Last!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b2229a8fdf377abaf3652624"
+      },
       "release_date": "1960",
       "popularity": 74
     },
     {
-      "trackId": "0IWeRzL25DKZqUhW4HyRjI",
-      "name": "False Advertising",
+      "track": {
+        "id": "0IWeRzL25DKZqUhW4HyRjI",
+        "name": "False Advertising"
+      },
       "duration_ms": 352294,
-      "artist": [
-        "Bright Eyes"
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "id": "5o206eFLx38glA2bb4zqIU"
+        }
       ],
-      "artistId": [
-        "5o206eFLx38glA2bb4zqIU"
-      ],
-      "albumId": "0qPgTNLl3ojenY9bE4nzqm",
+      "album": {
+        "id": "0qPgTNLl3ojenY9bE4nzqm",
+        "name": "LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268fa6a8ed6c81d6a96adcf5e"
+      },
       "release_date": "2002-08-13",
       "popularity": 31
     },
     {
-      "trackId": "78gYSkOhQXm54K8Ge8PByE",
-      "name": "Hudamokk",
+      "track": {
+        "id": "78gYSkOhQXm54K8Ge8PByE",
+        "name": "Hudamokk"
+      },
       "duration_ms": 58181,
-      "artist": [
-        "Leslie Fisher"
+      "artists": [
+        {
+          "name": "Leslie Fisher",
+          "id": "1ikYbdpqgJkYpBB4QrCkhN"
+        }
       ],
-      "artistId": [
-        "1ikYbdpqgJkYpBB4QrCkhN"
-      ],
-      "albumId": "344O33Adf6pQtdKRI51UEQ",
+      "album": {
+        "id": "344O33Adf6pQtdKRI51UEQ",
+        "name": "Hudamokk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e01c9b96f23fcd870249ef8c"
+      },
       "release_date": "2022-07-15",
-      "popularity": 16
+      "popularity": 15
     },
     {
-      "trackId": "0opOhce6Xe4T5FEXqz97Cx",
-      "name": "Sina mali, sina deni (Free)",
+      "track": {
+        "id": "0opOhce6Xe4T5FEXqz97Cx",
+        "name": "Sina mali, sina deni (Free)"
+      },
       "duration_ms": 248933,
-      "artist": [
-        "Khadja Nin"
+      "artists": [
+        {
+          "name": "Khadja Nin",
+          "id": "64X9DGiFHjK6Xn0ebXRNwy"
+        }
       ],
-      "artistId": [
-        "64X9DGiFHjK6Xn0ebXRNwy"
-      ],
-      "albumId": "4Q0Us98Wb1UoaEkKk6yD0M",
+      "album": {
+        "id": "4Q0Us98Wb1UoaEkKk6yD0M",
+        "name": "Sambolera",
+        "img": "https://i.scdn.co/image/ab67616d00001e02655a0d962f89f0a53b950abd"
+      },
       "release_date": "1996-06-03",
       "popularity": 40
     },
     {
-      "trackId": "3uKzc3dRhBc7SaXAA5gp2R",
-      "name": "Too Long",
+      "track": {
+        "id": "3uKzc3dRhBc7SaXAA5gp2R",
+        "name": "Too Long"
+      },
       "duration_ms": 282985,
-      "artist": [
-        "Yael Naim"
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "id": "32aFdXARUiqP81SXqIPD4w"
+        }
       ],
-      "artistId": [
-        "32aFdXARUiqP81SXqIPD4w"
-      ],
-      "albumId": "5Iso63Aj7dqC50fWXHeIsk",
+      "album": {
+        "id": "5Iso63Aj7dqC50fWXHeIsk",
+        "name": "Yael Naim",
+        "img": "https://i.scdn.co/image/ab67616d00001e0206a866cc2e08661f1fc39609"
+      },
       "release_date": "2007-10-22",
       "popularity": 26
     },
     {
-      "trackId": "1qAu9Y6Akd0CLAF6xLFtET",
-      "name": "Var kommer barnen in",
+      "track": {
+        "id": "1qAu9Y6Akd0CLAF6xLFtET",
+        "name": "Var kommer barnen in"
+      },
       "duration_ms": 338160,
-      "artist": [
-        "Hansson de Wolfe United"
+      "artists": [
+        {
+          "name": "Hansson de Wolfe United",
+          "id": "6JCjVVSyBJhvt7j1sZjPF3"
+        }
       ],
-      "artistId": [
-        "6JCjVVSyBJhvt7j1sZjPF3"
-      ],
-      "albumId": "0x7Hko4a1pZ4bLXgnDw9EA",
+      "album": {
+        "id": "0x7Hko4a1pZ4bLXgnDw9EA",
+        "name": "Existens-maximum",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f15003eb6642d6ec265afd9e"
+      },
       "release_date": "1981-04-27",
       "popularity": 35
     },
     {
-      "trackId": "5eMjcHVRRh1tbimTgJPoGn",
-      "name": "Stay - 2018 Remaster",
+      "track": {
+        "id": "5eMjcHVRRh1tbimTgJPoGn",
+        "name": "Stay - 2018 Remaster"
+      },
       "duration_ms": 204464,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "24UtAJJRIuHICjdIDqaNhg",
+      "album": {
+        "id": "24UtAJJRIuHICjdIDqaNhg",
+        "name": "Running on Empty (2018 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6c74b0e9c661f7101027568"
+      },
       "release_date": "1977",
       "popularity": 60
     }

@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2849525_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3WukyZq5emOinOZ6pzislO",
-      "name": "Rågsved",
+      "track": {
+        "id": "3WukyZq5emOinOZ6pzislO",
+        "name": "Rågsved"
+      },
       "duration_ms": 280868,
-      "artist": [
-        "Sonya Hedenbratt"
+      "artists": [
+        {
+          "name": "Sonya Hedenbratt",
+          "id": "5HVch6mQG6oZMWcbDQeM3m"
+        }
       ],
-      "artistId": [
-        "5HVch6mQG6oZMWcbDQeM3m"
-      ],
-      "albumId": "4j9VltYyub865hJS8I3uuC",
+      "album": {
+        "id": "4j9VltYyub865hJS8I3uuC",
+        "name": "Visor på Falkeröd - Ett vishemman i Bohuslän",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a2e8fd2a896ad34dd9c1a9c"
+      },
       "release_date": "2001-07-18",
       "popularity": 10
     },
     {
-      "trackId": "1YgSkRV5tFyD00i7IpK91v",
-      "name": "Come Give Me Love",
+      "track": {
+        "id": "1YgSkRV5tFyD00i7IpK91v",
+        "name": "Come Give Me Love"
+      },
       "duration_ms": 195200,
-      "artist": [
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "1CEdo6I5G19D9UT9HMgfcZ",
+      "album": {
+        "id": "1CEdo6I5G19D9UT9HMgfcZ",
+        "name": "Svenska sommarklassiker 2005",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f53abeaeb99169c981f6c6c6"
+      },
       "release_date": "2005-01-01",
       "popularity": 35
     },
     {
-      "trackId": "617Aca3P9fZ3KHHIdVfz4K",
-      "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar",
+      "track": {
+        "id": "617Aca3P9fZ3KHHIdVfz4K",
+        "name": "Depressiva tankar kan ibland kompenseras med kaffe och bullar"
+      },
       "duration_ms": 135306,
-      "artist": [
-        "Tage Danielsson"
+      "artists": [
+        {
+          "name": "Tage Danielsson",
+          "id": "3camrFRWQjBFgfzZ6W62Ob"
+        }
       ],
-      "artistId": [
-        "3camrFRWQjBFgfzZ6W62Ob"
-      ],
-      "albumId": "7LqQIEXYenRZEB0qoMsVVu",
+      "album": {
+        "id": "7LqQIEXYenRZEB0qoMsVVu",
+        "name": "Lådan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296ed8333ce014fc546bf997c"
+      },
       "release_date": "1968-01-01",
       "popularity": 23
     },
     {
-      "trackId": "3ebOJcNrx3BTGNPkHcsn68",
-      "name": "Pappa",
+      "track": {
+        "id": "3ebOJcNrx3BTGNPkHcsn68",
+        "name": "Pappa"
+      },
       "duration_ms": 354866,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "4SxDqdOTDrkv2A1erLHqsQ",
+      "album": {
+        "id": "4SxDqdOTDrkv2A1erLHqsQ",
+        "name": "74-87",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccb13f81aee54e6d6673824f"
+      },
       "release_date": "1975",
       "popularity": 23
     },
     {
-      "trackId": "7HyPjbCCozmHxRcEnYGgAN",
-      "name": "Keep Me In Your Heart",
+      "track": {
+        "id": "7HyPjbCCozmHxRcEnYGgAN",
+        "name": "Keep Me In Your Heart"
+      },
       "duration_ms": 293493,
-      "artist": [
-        "Jorge Calderon"
+      "artists": [
+        {
+          "name": "Jorge Calderon",
+          "id": "4I2H0RmDEyl3VicrzNAOcc"
+        }
       ],
-      "artistId": [
-        "4I2H0RmDEyl3VicrzNAOcc"
-      ],
-      "albumId": "6BVQO7SpQheQaLWrQqMd9o",
+      "album": {
+        "id": "6BVQO7SpQheQaLWrQqMd9o",
+        "name": "Enjoy Every Sandwich - The Songs of Warren Zevon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab55cc48cb5b0ef8669b31b1"
+      },
       "release_date": "2004-10-19",
       "popularity": 22
     },
     {
-      "trackId": "1FNRNgLhLCHwDDDimSHtwf",
-      "name": "Dansen på Sunnanö",
+      "track": {
+        "id": "1FNRNgLhLCHwDDDimSHtwf",
+        "name": "Dansen på Sunnanö"
+      },
       "duration_ms": 212373,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "5wr4Af6hWmRnOfBzhCrxvW",
+      "album": {
+        "id": "5wr4Af6hWmRnOfBzhCrxvW",
+        "name": "I skärgården & vid Medelhavet",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b7ba4698e4214ffd28a6fed"
+      },
       "release_date": "2005-05-25",
       "popularity": 17
     },
     {
-      "trackId": "3g2fYZW5v2od8KIF7VktT0",
-      "name": "Scarborough Fair / Canticle",
+      "track": {
+        "id": "3g2fYZW5v2od8KIF7VktT0",
+        "name": "Scarborough Fair / Canticle"
+      },
       "duration_ms": 190346,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "1sh32o99zA04PJIUJUpEj7",
+      "album": {
+        "id": "1sh32o99zA04PJIUJUpEj7",
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb107b5a07df183f1836d9cb"
+      },
       "release_date": "1966-10-10",
       "popularity": 60
     },
     {
-      "trackId": "01gMw6DbUQ6UHhohpWeJlg",
-      "name": "Det här är ditt land (This Land Is Your Land)",
+      "track": {
+        "id": "01gMw6DbUQ6UHhohpWeJlg",
+        "name": "Det här är ditt land (This Land Is Your Land)"
+      },
       "duration_ms": 268866,
-      "artist": [
-        "Mikael Wiehe"
+      "artists": [
+        {
+          "name": "Mikael Wiehe",
+          "id": "3VOOmK7ZqJNgOPN1hopJuL"
+        }
       ],
-      "artistId": [
-        "3VOOmK7ZqJNgOPN1hopJuL"
-      ],
-      "albumId": "4yrClOx6PDTDFH6sCK1Pwx",
+      "album": {
+        "id": "4yrClOx6PDTDFH6sCK1Pwx",
+        "name": "En Sång Till Modet",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e37b9438eef4a5ece35fa6f"
+      },
       "release_date": "2000",
       "popularity": 36
     },
     {
-      "trackId": "4K1imZQQ0yKtJ40vGmUajS",
-      "name": "Girl from the North Country",
+      "track": {
+        "id": "4K1imZQQ0yKtJ40vGmUajS",
+        "name": "Girl from the North Country"
+      },
       "duration_ms": 220400,
-      "artist": [
-        "Bob Dylan",
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX",
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "5WBx64FIN04CvM2T1MGrUN",
+      "album": {
+        "id": "5WBx64FIN04CvM2T1MGrUN",
+        "name": "Nashville Skyline",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222debe1325cc21c9bb0c0b07"
+      },
       "release_date": "1969-04-09",
       "popularity": 66
     },
     {
-      "trackId": "6C20UYVe7GFDXvB4t0AAw2",
-      "name": "Something Fine",
+      "track": {
+        "id": "6C20UYVe7GFDXvB4t0AAw2",
+        "name": "Something Fine"
+      },
       "duration_ms": 228560,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "0n93YRc9GP3ZgREgTHvP5u",
+      "album": {
+        "id": "0n93YRc9GP3ZgREgTHvP5u",
+        "name": "Jackson Browne (Saturate Before Using)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02759f9719982a240d02539e38"
+      },
       "release_date": "1972",
       "popularity": 34
     },
     {
-      "trackId": "70tuzGbIrqGUi75yy82U1n",
-      "name": "Jobb",
+      "track": {
+        "id": "70tuzGbIrqGUi75yy82U1n",
+        "name": "Jobb"
+      },
       "duration_ms": 236600,
-      "artist": [
-        "Afasi & Filthy"
+      "artists": [
+        {
+          "name": "Afasi & Filthy",
+          "id": "0I2XqVXqHScXjHhk6AYYRe"
+        }
       ],
-      "artistId": [
-        "0I2XqVXqHScXjHhk6AYYRe"
-      ],
-      "albumId": "0AYslRPMrBlGQiyEyVoFAB",
+      "album": {
+        "id": "0AYslRPMrBlGQiyEyVoFAB",
+        "name": "Fläcken",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bfe22e1035f9bed9dfbf7c3"
+      },
       "release_date": "2008",
       "popularity": 33
     }

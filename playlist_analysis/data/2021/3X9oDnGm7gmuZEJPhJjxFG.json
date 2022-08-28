@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/faa65df3-803e-420b-bb01-a6762812c49c.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5moTxUGPZXgGmosl4rIELm",
-      "name": "Anarchy In The UK",
+      "track": {
+        "id": "5moTxUGPZXgGmosl4rIELm",
+        "name": "Anarchy In The UK"
+      },
       "duration_ms": 212480,
-      "artist": [
-        "Sex Pistols"
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "id": "1u7kkVrr14iBvrpYnZILJR"
+        }
       ],
-      "artistId": [
-        "1u7kkVrr14iBvrpYnZILJR"
-      ],
-      "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+      "album": {
+        "id": "6ggO3YVhyonYuFWUPBRyIv",
+        "name": "Never Mind The Bollocks, Here’s The Sex Pistols",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b691fa29c123b5fc4bc5d469"
+      },
       "release_date": "1977-10-27",
       "popularity": 61
     },
     {
-      "trackId": "7Di7t9yGoxdZRLAt5a4pi0",
-      "name": "Manic Monday",
+      "track": {
+        "id": "7Di7t9yGoxdZRLAt5a4pi0",
+        "name": "Manic Monday"
+      },
       "duration_ms": 184173,
-      "artist": [
-        "The Bangles"
+      "artists": [
+        {
+          "name": "The Bangles",
+          "id": "51l0uqRxGaczYr4271pVIC"
+        }
       ],
-      "artistId": [
-        "51l0uqRxGaczYr4271pVIC"
-      ],
-      "albumId": "2ta5ItEJ00a6xgQ601xgSd",
+      "album": {
+        "id": "2ta5ItEJ00a6xgQ601xgSd",
+        "name": "Different Light",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccbf6907d1b128481253f3d5"
+      },
       "release_date": "1985-07-11",
       "popularity": 62
     },
     {
-      "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
-      "name": "Öppna landskap",
+      "track": {
+        "id": "1WVjxyTSZ5UiI6TlcHyUPh",
+        "name": "Öppna landskap"
+      },
       "duration_ms": 278333,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "7aB0bPRv2elnc0Ou1whaty",
+      "album": {
+        "id": "7aB0bPRv2elnc0Ou1whaty",
+        "name": "Öppna Landskap 7595",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cec4d71708dbf4f7f02f8a6a"
+      },
       "release_date": "1995",
       "popularity": 49
     },
     {
-      "trackId": "2sivyXtmROPRlmieYt7Wts",
-      "name": "Endless Sadness",
+      "track": {
+        "id": "2sivyXtmROPRlmieYt7Wts",
+        "name": "Endless Sadness"
+      },
       "duration_ms": 197066,
-      "artist": [
-        "Sarah Klang"
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "id": "6Pm0evhKSUGTGYDxzpGGKf"
+        }
       ],
-      "artistId": [
-        "6Pm0evhKSUGTGYDxzpGGKf"
-      ],
-      "albumId": "5e26QF3aOhsWDXRfkMRhnT",
+      "album": {
+        "id": "5e26QF3aOhsWDXRfkMRhnT",
+        "name": "Creamy Blue",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d22c64593d811336073daf74"
+      },
       "release_date": "2019-10-25",
       "popularity": 39
     },
     {
-      "trackId": "2mtZZ8vWbyWbICYokuqHut",
-      "name": "Big Picture",
+      "track": {
+        "id": "2mtZZ8vWbyWbICYokuqHut",
+        "name": "Big Picture"
+      },
       "duration_ms": 281773,
-      "artist": [
-        "London Grammar"
+      "artists": [
+        {
+          "name": "London Grammar",
+          "id": "3Bd1cgCjtCI32PYvDC3ynO"
+        }
       ],
-      "artistId": [
-        "3Bd1cgCjtCI32PYvDC3ynO"
-      ],
-      "albumId": "6Rp9IG10sFNDKa7EE6tjJp",
+      "album": {
+        "id": "6Rp9IG10sFNDKa7EE6tjJp",
+        "name": "Truth Is A Beautiful Thing (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b8d89248315d098fc864098"
+      },
       "release_date": "2017-06-09",
       "popularity": 45
     },
     {
-      "trackId": "2fXKyAyPrEa24c6PJyqznF",
-      "name": "Common People",
+      "track": {
+        "id": "2fXKyAyPrEa24c6PJyqznF",
+        "name": "Common People"
+      },
       "duration_ms": 351626,
-      "artist": [
-        "Pulp"
+      "artists": [
+        {
+          "name": "Pulp",
+          "id": "36E7oYfz3LLRto6l2WmDcD"
+        }
       ],
-      "artistId": [
-        "36E7oYfz3LLRto6l2WmDcD"
-      ],
-      "albumId": "3ly9T2L4pqTZijFgQssd3x",
+      "album": {
+        "id": "3ly9T2L4pqTZijFgQssd3x",
+        "name": "Different Class",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd952bece8f049dbcd7df93f"
+      },
       "release_date": "1995-10-30",
       "popularity": 70
     },
     {
-      "trackId": "7K9hxoenkUNJlZc5itu37d",
-      "name": "The Times They are a-Changin'",
+      "track": {
+        "id": "7K9hxoenkUNJlZc5itu37d",
+        "name": "The Times They are a-Changin'"
+      },
       "duration_ms": 220320,
-      "artist": [
-        "Bryan Ferry"
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "id": "5RNFFojXkPRmlJZIwXeKQC"
+        }
       ],
-      "artistId": [
-        "5RNFFojXkPRmlJZIwXeKQC"
-      ],
-      "albumId": "7J4n1iPFkVIWK2zUAEvRui",
+      "album": {
+        "id": "7J4n1iPFkVIWK2zUAEvRui",
+        "name": "Dylanesque",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7bd2970099de308b955e192"
+      },
       "release_date": "2007-03-05",
       "popularity": 42
     },
     {
-      "trackId": "2jaN6NgXflZTj2z9CWcqaP",
-      "name": "Time Is On My Side - Mono Version",
+      "track": {
+        "id": "2jaN6NgXflZTj2z9CWcqaP",
+        "name": "Time Is On My Side - Mono Version"
+      },
       "duration_ms": 179133,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "0MDhZ0yRkugNEg7PmMMUE8",
+      "album": {
+        "id": "0MDhZ0yRkugNEg7PmMMUE8",
+        "name": "The Rolling Stones No. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ade1843699bf51399b70303a"
+      },
       "release_date": "1965-01-15",
       "popularity": 50
     },
     {
-      "trackId": "5M2y8QdDepGYMsWyxhoxQU",
-      "name": "Jag kommer",
+      "track": {
+        "id": "5M2y8QdDepGYMsWyxhoxQU",
+        "name": "Jag kommer"
+      },
       "duration_ms": 202746,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "2fOs6I0CgvaZj9agU8EAlH",
+      "album": {
+        "id": "2fOs6I0CgvaZj9agU8EAlH",
+        "name": "Satan i gatan (Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de25b67688e3520e24612209"
+      },
       "release_date": "2011-01-01",
       "popularity": 62
     },
     {
-      "trackId": "1l2Xmg54EUr3TDzNIaCr1z",
-      "name": "Coat of Many Colors",
+      "track": {
+        "id": "1l2Xmg54EUr3TDzNIaCr1z",
+        "name": "Coat of Many Colors"
+      },
       "duration_ms": 183666,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "17CT6ru3CyDXAi6xVaSUzg",
+      "album": {
+        "id": "17CT6ru3CyDXAi6xVaSUzg",
+        "name": "Coat Of Many Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e025eedc4901818fe24d8645672"
+      },
       "release_date": "1971",
       "popularity": 58
     },
     {
-      "trackId": "7e0pwQZAAsOu19flOJXyCK",
-      "name": "Still",
+      "track": {
+        "id": "7e0pwQZAAsOu19flOJXyCK",
+        "name": "Still"
+      },
       "duration_ms": 173209,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 53
     }

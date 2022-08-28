@@ -7,242 +7,346 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3fb57b1e-e115-4de0-a6eb-e99566df45ac.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "06KoWveyWUuK1BGVU4a0Es",
-      "name": "Le pas du chat noir",
+      "track": {
+        "id": "06KoWveyWUuK1BGVU4a0Es",
+        "name": "Le pas du chat noir"
+      },
       "duration_ms": 481506,
-      "artist": [
-        "Anouar Brahem"
+      "artists": [
+        {
+          "name": "Anouar Brahem",
+          "id": "1aO9NulHwrE9pxHXFfCIoM"
+        }
       ],
-      "artistId": [
-        "1aO9NulHwrE9pxHXFfCIoM"
-      ],
-      "albumId": "1Vi1fmvatCuzuASdvUGTuf",
+      "album": {
+        "id": "1Vi1fmvatCuzuASdvUGTuf",
+        "name": "Le pas du chat noir",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c44dd3972c9bc9ecf728fee0"
+      },
       "release_date": "2002-09-09",
       "popularity": 38
     },
     {
-      "trackId": "1KFQ2uuswAB7MoPvyFktNO",
-      "name": "Namas",
+      "track": {
+        "id": "1KFQ2uuswAB7MoPvyFktNO",
+        "name": "Namas"
+      },
       "duration_ms": 317533,
-      "artist": [
-        "Maria Kalaniemi",
-        "Aldargaz"
+      "artists": [
+        {
+          "name": "Maria Kalaniemi",
+          "id": "78ipNmGZnTAbqZ1mPTbuwr"
+        },
+        {
+          "name": "Aldargaz",
+          "id": "5cCJlI7zfPz7gI3kD8OwBK"
+        }
       ],
-      "artistId": [
-        "78ipNmGZnTAbqZ1mPTbuwr",
-        "5cCJlI7zfPz7gI3kD8OwBK"
-      ],
-      "albumId": "33o9D7MrHpybd5zHp3oOPo",
+      "album": {
+        "id": "33o9D7MrHpybd5zHp3oOPo",
+        "name": "Ahma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f948ee44422684fdbad378d5"
+      },
       "release_date": "1999-01-01",
       "popularity": 4
     },
     {
-      "trackId": "5QuBsgbjQHpwfiV7aIwvQV",
-      "name": "Get Here",
+      "track": {
+        "id": "5QuBsgbjQHpwfiV7aIwvQV",
+        "name": "Get Here"
+      },
       "duration_ms": 274693,
-      "artist": [
-        "Oleta Adams"
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "id": "1BMb6sQJVkmUyCuodmRs2g"
+        }
       ],
-      "artistId": [
-        "1BMb6sQJVkmUyCuodmRs2g"
-      ],
-      "albumId": "0AXqyNdhstfyZyVjjJMszO",
+      "album": {
+        "id": "0AXqyNdhstfyZyVjjJMszO",
+        "name": "Circle Of One",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b958417815e6b486637f76ad"
+      },
       "release_date": "1990-01-01",
       "popularity": 61
     },
     {
-      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-      "name": "En stund på jorden",
+      "track": {
+        "id": "0Zii0Q4Z17kd1XMB27CQ2t",
+        "name": "En stund på jorden"
+      },
       "duration_ms": 232858,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 50
     },
     {
-      "trackId": "1j3qE65hw8vxZU1QFqck8b",
-      "name": "Con Toda Palabra",
+      "track": {
+        "id": "1j3qE65hw8vxZU1QFqck8b",
+        "name": "Con Toda Palabra"
+      },
       "duration_ms": 269533,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "45GGSs0jmsNbIAesZ1Rkwp",
+      "album": {
+        "id": "45GGSs0jmsNbIAesZ1Rkwp",
+        "name": "The Living Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfee69e0b4938bfff2219b8f"
+      },
       "release_date": "2003-10-22",
       "popularity": 38
     },
     {
-      "trackId": "1bWEPEC1y2XK4Q1iNMSkIg",
-      "name": "Stumblin' In",
+      "track": {
+        "id": "1bWEPEC1y2XK4Q1iNMSkIg",
+        "name": "Stumblin' In"
+      },
       "duration_ms": 269720,
-      "artist": [
-        "Chris Norman"
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "id": "2Pawr6MMX9VBIQ9oUHg7jc"
+        }
       ],
-      "artistId": [
-        "2Pawr6MMX9VBIQ9oUHg7jc"
-      ],
-      "albumId": "4JtrqTDp0qnzj978nrXS7r",
+      "album": {
+        "id": "4JtrqTDp0qnzj978nrXS7r",
+        "name": "One Acoustic Evening",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdf192a6d2f7a20baaa2a23f"
+      },
       "release_date": "2005-04-28",
       "popularity": 9
     },
     {
-      "trackId": "7KOegFQMd13ETQry4A6Tu1",
-      "name": "Strövtåg i hembygden",
+      "track": {
+        "id": "7KOegFQMd13ETQry4A6Tu1",
+        "name": "Strövtåg i hembygden"
+      },
       "duration_ms": 249573,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "6jhxK856780OlBlvzsYude",
+      "album": {
+        "id": "6jhxK856780OlBlvzsYude",
+        "name": "Infruset",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f144ec3afc933daaa226d356"
+      },
       "release_date": "2012-10-31",
       "popularity": 56
     },
     {
-      "trackId": "0DtVtrlg74Hc1dwZfwfzvq",
-      "name": "Jag tycker inte om dig (Sympati)",
+      "track": {
+        "id": "0DtVtrlg74Hc1dwZfwfzvq",
+        "name": "Jag tycker inte om dig (Sympati)"
+      },
       "duration_ms": 240093,
-      "artist": [
-        "Lill Lindfors"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC"
-      ],
-      "albumId": "409iL2q7EQivFf8yToiYEW",
+      "album": {
+        "id": "409iL2q7EQivFf8yToiYEW",
+        "name": "Det Var En Lördag Afton",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ab4c0ea1a745d3d8acf3b88"
+      },
       "release_date": "2002",
       "popularity": 12
     },
     {
-      "trackId": "3M8FzayQWtkvOhqMn2V4T2",
-      "name": "Lean on Me",
+      "track": {
+        "id": "3M8FzayQWtkvOhqMn2V4T2",
+        "name": "Lean on Me"
+      },
       "duration_ms": 258834,
-      "artist": [
-        "Bill Withers"
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "id": "1ThoqLcyIYvZn7iWbj8fsj"
+        }
       ],
-      "artistId": [
-        "1ThoqLcyIYvZn7iWbj8fsj"
-      ],
-      "albumId": "0sFuW4rH5mFZUjNKnckO3v",
+      "album": {
+        "id": "0sFuW4rH5mFZUjNKnckO3v",
+        "name": "Still Bill",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298e08f603553915a041b6937"
+      },
       "release_date": "1972-05-01",
       "popularity": 70
     },
     {
-      "trackId": "61Yh6AEwsba6RYsrWiNmI0",
-      "name": "Emmenez-moi",
+      "track": {
+        "id": "61Yh6AEwsba6RYsrWiNmI0",
+        "name": "Emmenez-moi"
+      },
       "duration_ms": 212746,
-      "artist": [
-        "Charles Aznavour"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT"
-      ],
-      "albumId": "40SP9TYF1IuC3JZ35glqwd",
+      "album": {
+        "id": "40SP9TYF1IuC3JZ35glqwd",
+        "name": "Entre deux rêves (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ef15ae660d20a98d43721f1"
+      },
       "release_date": "1967",
       "popularity": 63
     },
     {
-      "trackId": "4kHKI0onmVMAFyfOCbYCEi",
-      "name": "Operator",
+      "track": {
+        "id": "4kHKI0onmVMAFyfOCbYCEi",
+        "name": "Operator"
+      },
       "duration_ms": 192533,
-      "artist": [
-        "The Manhattan Transfer"
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "id": "2dogRElUKV20C2khRHqjRc"
+        }
       ],
-      "artistId": [
-        "2dogRElUKV20C2khRHqjRc"
-      ],
-      "albumId": "2xpz9Rm7NSVyOGN5zBODNx",
+      "album": {
+        "id": "2xpz9Rm7NSVyOGN5zBODNx",
+        "name": "The Manhattan Transfer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238552ffbe1d7b28e69a9826a"
+      },
       "release_date": "1975-04-02",
       "popularity": 39
     },
     {
-      "trackId": "73NcHAInDhJJx44xugCzYs",
-      "name": "Oye Tú, Ven Aquí...",
+      "track": {
+        "id": "73NcHAInDhJJx44xugCzYs",
+        "name": "Oye Tú, Ven Aquí..."
+      },
       "duration_ms": 469498,
-      "artist": [
-        "Sr. Zambrana"
+      "artists": [
+        {
+          "name": "Sr. Zambrana",
+          "id": "7I5b4Cikp6jBN2DMAImGOs"
+        }
       ],
-      "artistId": [
-        "7I5b4Cikp6jBN2DMAImGOs"
-      ],
-      "albumId": "3mo5moRoX6UctrqKSxoSxi",
+      "album": {
+        "id": "3mo5moRoX6UctrqKSxoSxi",
+        "name": "Hechopolvo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6eebdc2cdbe365d2299c124"
+      },
       "release_date": "2008-01-28",
       "popularity": 0
     },
     {
-      "trackId": "3NfxSdJnVdon1axzloJgba",
-      "name": "I Say a Little Prayer",
+      "track": {
+        "id": "3NfxSdJnVdon1axzloJgba",
+        "name": "I Say a Little Prayer"
+      },
       "duration_ms": 216773,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+      "album": {
+        "id": "55HZ2ectg1mMTEKDqIq3kC",
+        "name": "Aretha Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246c31f64babcbfca6e061b6b"
+      },
       "release_date": "1968-06-14",
       "popularity": 74
     },
     {
-      "trackId": "6EcH7SBZJvlEli5AC4geoL",
-      "name": "Visst är det bätter men int' är det bra",
+      "track": {
+        "id": "6EcH7SBZJvlEli5AC4geoL",
+        "name": "Visst är det bätter men int' är det bra"
+      },
       "duration_ms": 174373,
-      "artist": [
-        "Allan Edwall"
+      "artists": [
+        {
+          "name": "Allan Edwall",
+          "id": "6dLcR9Q2Lyik2rZBL2zLjs"
+        }
       ],
-      "artistId": [
-        "6dLcR9Q2Lyik2rZBL2zLjs"
-      ],
-      "albumId": "1CFg6iqO1IOcYA5Q8tQorL",
+      "album": {
+        "id": "1CFg6iqO1IOcYA5Q8tQorL",
+        "name": "Färdknäpp",
+        "img": "https://i.scdn.co/image/ab67616d00001e02abeb1d37e041816c7c09ff30"
+      },
       "release_date": "1981-01-01",
       "popularity": 26
     },
     {
-      "trackId": "2UP3LtHVsSiwt39JR4foQT",
-      "name": "Kliff",
+      "track": {
+        "id": "2UP3LtHVsSiwt39JR4foQT",
+        "name": "Kliff"
+      },
       "duration_ms": 195000,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "4fD5UIcbjsAMBdJnCkcx2J",
+      "album": {
+        "id": "4fD5UIcbjsAMBdJnCkcx2J",
+        "name": "Nya Perspektiv",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b6c4e1f8043006dcbb9f3d9"
+      },
       "release_date": "1975",
       "popularity": 41
     },
     {
-      "trackId": "2SpEHTbUuebeLkgs9QB7Ue",
-      "name": "Jolene",
+      "track": {
+        "id": "2SpEHTbUuebeLkgs9QB7Ue",
+        "name": "Jolene"
+      },
       "duration_ms": 161533,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "5DyOxuvdSmTSNAmkfcsBsj",
+      "album": {
+        "id": "5DyOxuvdSmTSNAmkfcsBsj",
+        "name": "Jolene",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226399936751b54c7e9782324"
+      },
       "release_date": "1974-02-04",
       "popularity": 73
     },
     {
-      "trackId": "7g8weNYLvEVs62tgSv4itm",
-      "name": "Bygga Upp Ett Stort Berg",
+      "track": {
+        "id": "7g8weNYLvEVs62tgSv4itm",
+        "name": "Bygga Upp Ett Stort Berg"
+      },
       "duration_ms": 171173,
-      "artist": [
-        "Jan Malmsjö"
+      "artists": [
+        {
+          "name": "Jan Malmsjö",
+          "id": "0VNgTklamUX0j9Cpc2vzuQ"
+        }
       ],
-      "artistId": [
-        "0VNgTklamUX0j9Cpc2vzuQ"
-      ],
-      "albumId": "01U0MoAIEgdINZsEyE2yT0",
+      "album": {
+        "id": "01U0MoAIEgdINZsEyE2yT0",
+        "name": "You Make Me Feel So Young",
+        "img": "https://i.scdn.co/image/ab67616d00001e023379d8929410922f5143da50"
+      },
       "release_date": "1996-06-01",
       "popularity": 16
     }

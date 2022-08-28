@@ -7,306 +7,458 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243100_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "40lVGoByp5fadxfRoyw3EH",
-      "name": "Good Morning",
+      "track": {
+        "id": "40lVGoByp5fadxfRoyw3EH",
+        "name": "Good Morning"
+      },
       "duration_ms": 254380,
-      "artist": [
-        "Debbie Reynolds",
-        "Gene Kelly",
-        "Donald O'Connor"
+      "artists": [
+        {
+          "name": "Debbie Reynolds",
+          "id": "4Zf0pLGYwNB86Y97kisvkn"
+        },
+        {
+          "name": "Gene Kelly",
+          "id": "1mhlGWeiNrWnhJJc2EufYk"
+        },
+        {
+          "name": "Donald O'Connor",
+          "id": "6JGPCu8A5iBnvYuGx5vKP0"
+        }
       ],
-      "artistId": [
-        "4Zf0pLGYwNB86Y97kisvkn",
-        "1mhlGWeiNrWnhJJc2EufYk",
-        "6JGPCu8A5iBnvYuGx5vKP0"
-      ],
-      "albumId": "3BSTxcLwbHeVu50nUWTvvg",
+      "album": {
+        "id": "3BSTxcLwbHeVu50nUWTvvg",
+        "name": "Classic Soundtracks: Singing in the Rain (1952 Film Score)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9408e285ca712f9ee67609f"
+      },
       "release_date": "2012-04-28",
       "popularity": 31
     },
     {
-      "trackId": "5Ali9HGkt6kYdFjpibJZpa",
-      "name": "Come Fly with Me",
+      "track": {
+        "id": "5Ali9HGkt6kYdFjpibJZpa",
+        "name": "Come Fly with Me"
+      },
       "duration_ms": 184773,
-      "artist": [
-        "Roger Pontare",
-        "Lars Dylte",
-        "Sandviken Big Band"
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "id": "2eo54qMMNjVgFIxwhKfijG"
+        },
+        {
+          "name": "Lars Dylte",
+          "id": "261t4vOyUlIv6UpFihtsdQ"
+        },
+        {
+          "name": "Sandviken Big Band",
+          "id": "1wn97alkjK3MAfAJtsK4KE"
+        }
       ],
-      "artistId": [
-        "2eo54qMMNjVgFIxwhKfijG",
-        "261t4vOyUlIv6UpFihtsdQ",
-        "1wn97alkjK3MAfAJtsK4KE"
-      ],
-      "albumId": "1uNXaiRXOVnoFEOorRXD1f",
+      "album": {
+        "id": "1uNXaiRXOVnoFEOorRXD1f",
+        "name": "Sinatrafied",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c258ed4b0e59f1295d214433"
+      },
       "release_date": "2011-01-01",
       "popularity": 7
     },
     {
-      "trackId": "1Ud6moTC0KyXMq1Oxfien0",
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "track": {
+        "id": "1Ud6moTC0KyXMq1Oxfien0",
+        "name": "Sympathy For The Devil - 50th Anniversary Edition"
+      },
       "duration_ms": 378146,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "6OHri5qNxwCdVSdyCslspd",
+      "album": {
+        "id": "6OHri5qNxwCdVSdyCslspd",
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244934a06d21864415376f5f2"
+      },
       "release_date": "1968-12-06",
       "popularity": 74
     },
     {
-      "trackId": "5jFiXZjs3X0aoV19UNGEXN",
-      "name": "I Got You (I Feel Good) - 1966 Version",
+      "track": {
+        "id": "5jFiXZjs3X0aoV19UNGEXN",
+        "name": "I Got You (I Feel Good) - 1966 Version"
+      },
       "duration_ms": 167346,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "47ZVHI2JRggFzk9iDlbZQZ",
+      "album": {
+        "id": "47ZVHI2JRggFzk9iDlbZQZ",
+        "name": "Estate Graffiti",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255442a11201d693a14c98cd3"
+      },
       "release_date": "2022-08-05",
       "popularity": 1
     },
     {
-      "trackId": "1qpKMLztFXlRFSlGhjj1dZ",
-      "name": "Violin Concerto No. 3 in F Major, RV 293 \"L'autunno\": I. Allegro",
+      "track": {
+        "id": "1qpKMLztFXlRFSlGhjj1dZ",
+        "name": "Violin Concerto No. 3 in F Major, RV 293 \"L'autunno\": I. Allegro"
+      },
       "duration_ms": 301720,
-      "artist": [
-        "Antonio Vivaldi",
-        "Janine Jansen",
-        "Candida Thompson"
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "id": "2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Janine Jansen",
+          "id": "00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Candida Thompson",
+          "id": "53dqNaesiJ52bYl36DZuxM"
+        }
       ],
-      "artistId": [
-        "2QOIawHpSlOwXDvSqQ9YJR",
-        "00hfOKuZEhvKKNXmVdb1We",
-        "53dqNaesiJ52bYl36DZuxM"
-      ],
-      "albumId": "1smxmzL8C2nXjtrpLj0802",
+      "album": {
+        "id": "1smxmzL8C2nXjtrpLj0802",
+        "name": "Vivaldi: The Four Seasons",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277cfe638312f8f3df0e191ec"
+      },
       "release_date": "2004-08-01",
       "popularity": 52
     },
     {
-      "trackId": "3kiKvrMonNxyh8nzkhCrbU",
-      "name": "Musicology",
+      "track": {
+        "id": "3kiKvrMonNxyh8nzkhCrbU",
+        "name": "Musicology"
+      },
       "duration_ms": 264253,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "1jy9Nciz47PNHiUB7FxAjK",
+      "album": {
+        "id": "1jy9Nciz47PNHiUB7FxAjK",
+        "name": "Musicology",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228b476821e82d2ba009b0361"
+      },
       "release_date": "2004-04-20",
       "popularity": 46
     },
     {
-      "trackId": "0K0i1zUWXXqavtfD3TH1Sn",
-      "name": "Sinfonie Nr.3 Es-dur/symphony No.3 E Flat Op. 55 \\",
+      "track": {
+        "id": "0K0i1zUWXXqavtfD3TH1Sn",
+        "name": "Sinfonie Nr.3 Es-dur/symphony No.3 E Flat Op. 55 \\"
+      },
       "duration_ms": 712506,
-      "artist": [
-        "Herbert von Karajan",
-        "Philharmonia Orchestra"
+      "artists": [
+        {
+          "name": "Herbert von Karajan",
+          "id": "5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "id": "09KZU0NsS7jRa5p0SflmGY"
+        }
       ],
-      "artistId": [
-        "5zCaQxjl110XTrm4LQ1CxY",
-        "09KZU0NsS7jRa5p0SflmGY"
-      ],
-      "albumId": "2zGalsKWtRg77gduYBJJ3o",
+      "album": {
+        "id": "2zGalsKWtRg77gduYBJJ3o",
+        "name": "Sinfonien 1-9 / Symphonies 1-9. The Box",
+        "img": "https://i.scdn.co/image/ab67616d00001e02399b13a2edee0fabf0ced304"
+      },
       "release_date": "2014-06-20",
       "popularity": 0
     },
     {
-      "trackId": "1BeNBCYGOGcuwLCDPnAoVE",
-      "name": "Clarinet Concerto in A Major, K. 622: I. Allegro",
+      "track": {
+        "id": "1BeNBCYGOGcuwLCDPnAoVE",
+        "name": "Clarinet Concerto in A Major, K. 622: I. Allegro"
+      },
       "duration_ms": 740560,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Martin Fröst",
-        "Deutsche Kammerphilharmonie Bremen"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Martin Fröst",
+          "id": "3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "id": "2g3N0oxbmn5Q95mYNNdIo4"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3HmzM7c3S5iM1jBG3gl0FF",
-        "2g3N0oxbmn5Q95mYNNdIo4"
-      ],
-      "albumId": "4Z0HmIiOYuz5N82qAiNJQ3",
+      "album": {
+        "id": "4Z0HmIiOYuz5N82qAiNJQ3",
+        "name": "Mozart: Clarinet Concerto & Kegelstatt Trio",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e2c8a2943d86758622472d6"
+      },
       "release_date": "2014-04-01",
       "popularity": 26
     },
     {
-      "trackId": "7kh64k3P9Fk4EsA6vOdwmj",
-      "name": "Dig a Little Deeper",
+      "track": {
+        "id": "7kh64k3P9Fk4EsA6vOdwmj",
+        "name": "Dig a Little Deeper"
+      },
       "duration_ms": 167933,
-      "artist": [
-        "Jenifer Lewis",
-        "The Pinnacle Gospel Choir"
+      "artists": [
+        {
+          "name": "Jenifer Lewis",
+          "id": "6e28WiPlKSu1ukkhHCZEnF"
+        },
+        {
+          "name": "The Pinnacle Gospel Choir",
+          "id": "4R1dpQ2VCZsEutiXZKeIzk"
+        }
       ],
-      "artistId": [
-        "6e28WiPlKSu1ukkhHCZEnF",
-        "4R1dpQ2VCZsEutiXZKeIzk"
-      ],
-      "albumId": "0CcL28OkH89kjgKpNZC8sW",
+      "album": {
+        "id": "0CcL28OkH89kjgKpNZC8sW",
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d5758ffb1632e086776cf14d"
+      },
       "release_date": "2009-11-23",
       "popularity": 63
     },
     {
-      "trackId": "6BGGKUHQSPpRpICkABc1Vv",
-      "name": "Trollmors vaggsång",
+      "track": {
+        "id": "6BGGKUHQSPpRpICkABc1Vv",
+        "name": "Trollmors vaggsång"
+      },
       "duration_ms": 143480,
-      "artist": [
-        "Adolf Fredriks Musikklasser"
+      "artists": [
+        {
+          "name": "Adolf Fredriks Musikklasser",
+          "id": "60BNhPmsrBop6PQv3QnZH0"
+        }
       ],
-      "artistId": [
-        "60BNhPmsrBop6PQv3QnZH0"
-      ],
-      "albumId": "5f2nVYim8IlJW3L78RXlTd",
+      "album": {
+        "id": "5f2nVYim8IlJW3L78RXlTd",
+        "name": "Barn sjunger för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e022462258afc7f05c0438066e5"
+      },
       "release_date": "2013-11-01",
       "popularity": 37
     },
     {
-      "trackId": "3hZct5IXmHti0Xdcni8vfu",
-      "name": "Joga",
+      "track": {
+        "id": "3hZct5IXmHti0Xdcni8vfu",
+        "name": "Joga"
+      },
       "duration_ms": 305533,
-      "artist": [
-        "Björk Guðmundsdóttir",
-        "Sigurjon Birgir Sigurdsson",
-        "Gregorian"
+      "artists": [
+        {
+          "name": "Björk Guðmundsdóttir",
+          "id": "3HDfNAh4MpiptvaJP9We0w"
+        },
+        {
+          "name": "Sigurjon Birgir Sigurdsson",
+          "id": "4GW8ZbtKLVUswg0ucdccik"
+        },
+        {
+          "name": "Gregorian",
+          "id": "5QO1NNCLglKxgogzx6XLJn"
+        }
       ],
-      "artistId": [
-        "3HDfNAh4MpiptvaJP9We0w",
-        "4GW8ZbtKLVUswg0ucdccik",
-        "5QO1NNCLglKxgogzx6XLJn"
-      ],
-      "albumId": "63lHCog4E73RzcCGEpbrj7",
+      "album": {
+        "id": "63lHCog4E73RzcCGEpbrj7",
+        "name": "Masters of Chant: Chapter VI",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba433f4fd36f6033461abfd4"
+      },
       "release_date": "2007-09-28",
       "popularity": 17
     },
     {
-      "trackId": "0GCvEcU3yBkC4mwGtuMvhD",
-      "name": "Min plats på jorden",
+      "track": {
+        "id": "0GCvEcU3yBkC4mwGtuMvhD",
+        "name": "Min plats på jorden"
+      },
       "duration_ms": 277106,
-      "artist": [
-        "Malena Ernman"
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "id": "0muluUHym4N0wB62sD0MPo"
+        }
       ],
-      "artistId": [
-        "0muluUHym4N0wB62sD0MPo"
-      ],
-      "albumId": "5KuquR01zcC8NeiRiCQFYW",
+      "album": {
+        "id": "5KuquR01zcC8NeiRiCQFYW",
+        "name": "Min plats på jorden",
+        "img": "https://i.scdn.co/image/ab67616d00001e025eb84de99e0a9792beaa6fb1"
+      },
       "release_date": "2009-01-01",
       "popularity": 26
     },
     {
-      "trackId": "6jbmKRyrd02VqYozk94SFL",
-      "name": "En vänlig grönskas rika dräkt (Psalm 201)",
+      "track": {
+        "id": "6jbmKRyrd02VqYozk94SFL",
+        "name": "En vänlig grönskas rika dräkt (Psalm 201)"
+      },
       "duration_ms": 224666,
-      "artist": [
-        "Anders Widmark Trio"
+      "artists": [
+        {
+          "name": "Anders Widmark Trio",
+          "id": "74lV0oMFa3sSpDxUlfZ5yI"
+        }
       ],
-      "artistId": [
-        "74lV0oMFa3sSpDxUlfZ5yI"
-      ],
-      "albumId": "58TQrEfi5T1bi5KQVhRJ9r",
+      "album": {
+        "id": "58TQrEfi5T1bi5KQVhRJ9r",
+        "name": "Psalmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc7b5002f93dfd6037bdac0"
+      },
       "release_date": "1997-09-01",
       "popularity": 34
     },
     {
-      "trackId": "2R0PUAaAXBlk9hq9HC90XU",
-      "name": "Let's Be Happy (arr. G. Frost)",
+      "track": {
+        "id": "2R0PUAaAXBlk9hq9HC90XU",
+        "name": "Let's Be Happy (arr. G. Frost)"
+      },
       "duration_ms": 211880,
-      "artist": [
-        "Traditional",
-        "Göran Fröst",
-        "Martin Fröst"
+      "artists": [
+        {
+          "name": "Traditional",
+          "id": "1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Göran Fröst",
+          "id": "0wkKKoShunCm4wd556av48"
+        },
+        {
+          "name": "Martin Fröst",
+          "id": "3HmzM7c3S5iM1jBG3gl0FF"
+        }
       ],
-      "artistId": [
-        "1U5zgr455OGyIkLNXvDdrf",
-        "0wkKKoShunCm4wd556av48",
-        "3HmzM7c3S5iM1jBG3gl0FF"
-      ],
-      "albumId": "0a9MHFVZxcAWkKdFp4pn29",
+      "album": {
+        "id": "0a9MHFVZxcAWkKdFp4pn29",
+        "name": "Frost and Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba8e5ad8350aac6fff070845"
+      },
       "release_date": "2010-07-27",
       "popularity": 11
     },
     {
-      "trackId": "1hqhfsPSftPIaXjtcGYF1N",
-      "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+      "track": {
+        "id": "1hqhfsPSftPIaXjtcGYF1N",
+        "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante"
+      },
       "duration_ms": 435000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Géza Anda",
-        "Camerata Salzburg"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Géza Anda",
+          "id": "5658BnFZoMz8CtydqPjk8S"
+        },
+        {
+          "name": "Camerata Salzburg",
+          "id": "2YVKCFWKG6JdDHKYvbEljE"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5658BnFZoMz8CtydqPjk8S",
-        "2YVKCFWKG6JdDHKYvbEljE"
-      ],
-      "albumId": "0jEs1MUebFYhTfexffs7mk",
+      "album": {
+        "id": "0jEs1MUebFYhTfexffs7mk",
+        "name": "Mozart: Piano Concertos Nos.6, 17 & 21",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8512c04ba3c125799fc9e7e"
+      },
       "release_date": "1995-01-01",
       "popularity": 41
     },
     {
-      "trackId": "27uWcvHbpBjrPUM7gmqGyw",
-      "name": "6 Moments musicaux, Op. 94, D. 780: No. 3 in F Minor. Allegro moderato",
+      "track": {
+        "id": "27uWcvHbpBjrPUM7gmqGyw",
+        "name": "6 Moments musicaux, Op. 94, D. 780: No. 3 in F Minor. Allegro moderato"
+      },
       "duration_ms": 121400,
-      "artist": [
-        "Franz Schubert",
-        "Daniel Barenboim"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "id": "78sEozQOEJxzXegUuqRSgH"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "78sEozQOEJxzXegUuqRSgH"
-      ],
-      "albumId": "61eDyvICInmtuLLXh41BmO",
+      "album": {
+        "id": "61eDyvICInmtuLLXh41BmO",
+        "name": "Encores",
+        "img": "https://i.scdn.co/image/ab67616d00001e02345bd987db6a4a6a029503a6"
+      },
       "release_date": "2022-03-25",
       "popularity": 30
     },
     {
-      "trackId": "5i9M43j1VqqxI8TSKT77ZY",
-      "name": "Kors, vad fest i denna by",
+      "track": {
+        "id": "5i9M43j1VqqxI8TSKT77ZY",
+        "name": "Kors, vad fest i denna by"
+      },
       "duration_ms": 129466,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5UxihEHPAZYikGjOR2QRrh",
+      "album": {
+        "id": "5UxihEHPAZYikGjOR2QRrh",
+        "name": "Narrgnistor 2 En halv böj blues och andra ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f41c430b99756828c80965c6"
+      },
       "release_date": "1978-01-01",
       "popularity": 7
     },
     {
-      "trackId": "5STVXlv9aYCrZdawfM7LKB",
-      "name": "Underbara Anne-Sofie",
+      "track": {
+        "id": "5STVXlv9aYCrZdawfM7LKB",
+        "name": "Underbara Anne-Sofie"
+      },
       "duration_ms": 209443,
-      "artist": [
-        "Drängarna"
+      "artists": [
+        {
+          "name": "Drängarna",
+          "id": "2HwptwPQ4lvpYimzOJcYoY"
+        }
       ],
-      "artistId": [
-        "2HwptwPQ4lvpYimzOJcYoY"
-      ],
-      "albumId": "4zspxknKPatd7OmxNQC4d8",
+      "album": {
+        "id": "4zspxknKPatd7OmxNQC4d8",
+        "name": "Vilket Hålligång!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02954ab113fef40453653624ff"
+      },
       "release_date": "2016-06-23",
       "popularity": 22
     },
     {
-      "trackId": "2R0PUAaAXBlk9hq9HC90XU",
-      "name": "Let's Be Happy (arr. G. Frost)",
+      "track": {
+        "id": "2R0PUAaAXBlk9hq9HC90XU",
+        "name": "Let's Be Happy (arr. G. Frost)"
+      },
       "duration_ms": 211880,
-      "artist": [
-        "Traditional",
-        "Göran Fröst",
-        "Martin Fröst"
+      "artists": [
+        {
+          "name": "Traditional",
+          "id": "1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Göran Fröst",
+          "id": "0wkKKoShunCm4wd556av48"
+        },
+        {
+          "name": "Martin Fröst",
+          "id": "3HmzM7c3S5iM1jBG3gl0FF"
+        }
       ],
-      "artistId": [
-        "1U5zgr455OGyIkLNXvDdrf",
-        "0wkKKoShunCm4wd556av48",
-        "3HmzM7c3S5iM1jBG3gl0FF"
-      ],
-      "albumId": "0a9MHFVZxcAWkKdFp4pn29",
+      "album": {
+        "id": "0a9MHFVZxcAWkKdFp4pn29",
+        "name": "Frost and Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba8e5ad8350aac6fff070845"
+      },
       "release_date": "2010-07-27",
       "popularity": 11
     }

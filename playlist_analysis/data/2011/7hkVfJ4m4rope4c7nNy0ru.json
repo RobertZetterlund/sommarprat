@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243391_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5tuALO6ZT5poFybklnYnHe",
-      "name": "Mi korason",
+      "track": {
+        "id": "5tuALO6ZT5poFybklnYnHe",
+        "name": "Mi korason"
+      },
       "duration_ms": 196266,
-      "artist": [
-        "Yasmin Levy",
-        "Javier Limón"
+      "artists": [
+        {
+          "name": "Yasmin Levy",
+          "id": "1XDkuk3pjmco8Mkd93Qxbu"
+        },
+        {
+          "name": "Javier Limón",
+          "id": "001TRduQniM6dsJbQpMsbJ"
+        }
       ],
-      "artistId": [
-        "1XDkuk3pjmco8Mkd93Qxbu",
-        "001TRduQniM6dsJbQpMsbJ"
-      ],
-      "albumId": "4gxaBylPClHaSjbfuzJA9P",
+      "album": {
+        "id": "4gxaBylPClHaSjbfuzJA9P",
+        "name": "Sentir",
+        "img": "https://i.scdn.co/image/ab67616d00001e029df5c228d083ce603bfc9b16"
+      },
       "release_date": "2009-10-06",
       "popularity": 32
     },
     {
-      "trackId": "2AH3X0f6pikRGU4PPzsmEx",
-      "name": "Tokyo Kid",
+      "track": {
+        "id": "2AH3X0f6pikRGU4PPzsmEx",
+        "name": "Tokyo Kid"
+      },
       "duration_ms": 183955,
-      "artist": [
-        "Hibari Misora"
+      "artists": [
+        {
+          "name": "Hibari Misora",
+          "id": "1m5pMY5blqJwdxJ7vqQtuN"
+        }
       ],
-      "artistId": [
-        "1m5pMY5blqJwdxJ7vqQtuN"
-      ],
-      "albumId": "1OaZPAfCZ3yckZ3QVUHJUO",
+      "album": {
+        "id": "1OaZPAfCZ3yckZ3QVUHJUO",
+        "name": "Tokyo Kid",
+        "img": "https://i.scdn.co/image/ab67616d00001e0207d88e41f50e68cc57a7e8c6"
+      },
       "release_date": "2015-02-24",
       "popularity": 22
     },
     {
-      "trackId": "3SGhYLA10KTBuxxM2sypJd",
-      "name": "The Swan Crash Concert: Still Life - The Down",
+      "track": {
+        "id": "3SGhYLA10KTBuxxM2sypJd",
+        "name": "The Swan Crash Concert: Still Life - The Down"
+      },
       "duration_ms": 203226,
-      "artist": [
-        "New Tide Orquesta",
-        "New Tango Orquesta",
-        "Thomas Gustavsson"
+      "artists": [
+        {
+          "name": "New Tide Orquesta",
+          "id": "2pE8S57XJUMmyHrDXxTBKd"
+        },
+        {
+          "name": "New Tango Orquesta",
+          "id": "07J3rODeyLmIUqLFkbnbuJ"
+        },
+        {
+          "name": "Thomas Gustavsson",
+          "id": "5oJOtgGAcniuLFh3hgBbSR"
+        }
       ],
-      "artistId": [
-        "2pE8S57XJUMmyHrDXxTBKd",
-        "07J3rODeyLmIUqLFkbnbuJ",
-        "5oJOtgGAcniuLFh3hgBbSR"
-      ],
-      "albumId": "563FwI3yhCe7UhpygzzSVw",
+      "album": {
+        "id": "563FwI3yhCe7UhpygzzSVw",
+        "name": "Vesper",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6a1c04aedaf5e1d5134e8ad"
+      },
       "release_date": "2009-09-23",
       "popularity": 10
     },
     {
-      "trackId": "5wR9j3y5v3lruXrmBA0aU8",
-      "name": "Akiko Take",
+      "track": {
+        "id": "5wR9j3y5v3lruXrmBA0aU8",
+        "name": "Akiko Take"
+      },
       "duration_ms": 216368,
-      "artist": [
-        "3DaHardWay"
+      "artists": [
+        {
+          "name": "3DaHardWay",
+          "id": "2Glsd7iuVMR8UoueG9tNfa"
+        }
       ],
-      "artistId": [
-        "2Glsd7iuVMR8UoueG9tNfa"
-      ],
-      "albumId": "5AWTxu5LaNZzpdsXkv4SXl",
+      "album": {
+        "id": "5AWTxu5LaNZzpdsXkv4SXl",
+        "name": "3DaHardWay",
+        "img": "https://i.scdn.co/image/ab67616d00001e026539e4dec376864161b5b1e5"
+      },
       "release_date": "2021-12-31",
       "popularity": 23
     },
     {
-      "trackId": "64EePXuDYpMZMvaTT7k8vi",
-      "name": "The Words That Maketh Murder",
+      "track": {
+        "id": "64EePXuDYpMZMvaTT7k8vi",
+        "name": "The Words That Maketh Murder"
+      },
       "duration_ms": 225840,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "2JfiVMvVhdueC48EmskS7t",
+      "album": {
+        "id": "2JfiVMvVhdueC48EmskS7t",
+        "name": "Let England Shake",
+        "img": "https://i.scdn.co/image/ab67616d00001e020682f13c108d0aa9fb3a7e7a"
+      },
       "release_date": "2011-01-01",
       "popularity": 35
     },
     {
-      "trackId": "5rCvfNe8SXCjamfNuoZFhi",
-      "name": "The Freaks",
+      "track": {
+        "id": "5rCvfNe8SXCjamfNuoZFhi",
+        "name": "The Freaks"
+      },
       "duration_ms": 193480,
-      "artist": [
-        "Freddie Wadling",
-        "Cortex"
+      "artists": [
+        {
+          "name": "Freddie Wadling",
+          "id": "4NZBruC8XBoC8lj8kkW05m"
+        },
+        {
+          "name": "Cortex",
+          "id": "0cDPcadkOyUUwdmeOWSuS7"
+        }
       ],
-      "artistId": [
-        "4NZBruC8XBoC8lj8kkW05m",
-        "0cDPcadkOyUUwdmeOWSuS7"
-      ],
-      "albumId": "4cSqc6vBJet7CubHcwy7Pe",
+      "album": {
+        "id": "4cSqc6vBJet7CubHcwy7Pe",
+        "name": "Samlade sånger 1981-2016",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249945c6912da430463bee8a3"
+      },
       "release_date": "2016-10-21",
       "popularity": 29
     },
     {
-      "trackId": "1lCRw5FEZ1gPDNPzy1K4zW",
-      "name": "We Are The Champions - Remastered 2011",
+      "track": {
+        "id": "1lCRw5FEZ1gPDNPzy1K4zW",
+        "name": "We Are The Champions - Remastered 2011"
+      },
       "duration_ms": 179200,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "7tB40pGzj6Tg0HePj2jWZt",
+      "album": {
+        "id": "7tB40pGzj6Tg0HePj2jWZt",
+        "name": "News Of The World (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f7077ae1018b5fbab08dfa8"
+      },
       "release_date": "1977-10-28",
       "popularity": 74
     },
     {
-      "trackId": "21NwqiDCuH5JqV4Bb1lUyC",
-      "name": "Storebror",
+      "track": {
+        "id": "21NwqiDCuH5JqV4Bb1lUyC",
+        "name": "Storebror"
+      },
       "duration_ms": 241760,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "64o8Xiysec8ro1PqcgYWuh",
+      "album": {
+        "id": "64o8Xiysec8ro1PqcgYWuh",
+        "name": "Laleh",
+        "img": "https://i.scdn.co/image/ab67616d00001e028222e77e2fbf4a3ce0c6c6b0"
+      },
       "release_date": "2005-03-01",
       "popularity": 21
     },
     {
-      "trackId": "7G6tDQgXVvATSLqJ0JphH0",
-      "name": "Por ti!",
+      "track": {
+        "id": "7G6tDQgXVvATSLqJ0JphH0",
+        "name": "Por ti!"
+      },
       "duration_ms": 209306,
-      "artist": [
-        "Mariza"
+      "artists": [
+        {
+          "name": "Mariza",
+          "id": "65nZq8l5VZRG4X445F5kmN"
+        }
       ],
-      "artistId": [
-        "65nZq8l5VZRG4X445F5kmN"
-      ],
-      "albumId": "0L6Oo8wqZ44jBgy4xJeb83",
+      "album": {
+        "id": "0L6Oo8wqZ44jBgy4xJeb83",
+        "name": "Fado Em Mim",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e4e104da8d1ffaf64461347"
+      },
       "release_date": "2001",
       "popularity": 19
     },
     {
-      "trackId": "2nekCvC9XRXQckWNnkIp2l",
-      "name": "Harvest Moon",
+      "track": {
+        "id": "2nekCvC9XRXQckWNnkIp2l",
+        "name": "Harvest Moon"
+      },
       "duration_ms": 299106,
-      "artist": [
-        "Neil Young"
+      "artists": [
+        {
+          "name": "Neil Young",
+          "id": "6v8FB84lnmJs434UJf2Mrm"
+        }
       ],
-      "artistId": [
-        "6v8FB84lnmJs434UJf2Mrm"
-      ],
-      "albumId": "6AnpM7DFltgJLIjlToxYJ1",
+      "album": {
+        "id": "6AnpM7DFltgJLIjlToxYJ1",
+        "name": "Eat, Pray, Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02426288df0f8a68ea555c8d97"
+      },
       "release_date": "2010-01-01",
       "popularity": 67
     },
     {
-      "trackId": "68YjplzdC2mHRGBuvpLqTg",
-      "name": "よそ者",
+      "track": {
+        "id": "68YjplzdC2mHRGBuvpLqTg",
+        "name": "よそ者"
+      },
       "duration_ms": 272000,
-      "artist": [
-        "RC Succession"
+      "artists": [
+        {
+          "name": "RC Succession",
+          "id": "1wpwIk5yi1Oy6zjjzF7ntw"
+        }
       ],
-      "artistId": [
-        "1wpwIk5yi1Oy6zjjzF7ntw"
-      ],
-      "albumId": "6KvdhuixlvLGGpFqmuHd49",
+      "album": {
+        "id": "6KvdhuixlvLGGpFqmuHd49",
+        "name": "BLUE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7876be688262c152f5a92fc"
+      },
       "release_date": "1990",
       "popularity": 8
     },
     {
-      "trackId": "3y4Uza6K58JXQ7RYya8ZI5",
-      "name": "Shelter from the Storm",
+      "track": {
+        "id": "3y4Uza6K58JXQ7RYya8ZI5",
+        "name": "Shelter from the Storm"
+      },
       "duration_ms": 301133,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "4WD4pslu83FF6oMa1e19mF",
+      "album": {
+        "id": "4WD4pslu83FF6oMa1e19mF",
+        "name": "Blood On The Tracks",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272ca15b8637acbc7d15ff5ba"
+      },
       "release_date": "1975-01-17",
       "popularity": 62
     },
     {
-      "trackId": "7qukeMc93vsP6h34WhBRrM",
-      "name": "My Way - Live",
+      "track": {
+        "id": "7qukeMc93vsP6h34WhBRrM",
+        "name": "My Way - Live"
+      },
       "duration_ms": 298840,
-      "artist": [
-        "Nina Hagen"
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "id": "7xZHrltZh8zIRvjimgABvj"
+        }
       ],
-      "artistId": [
-        "7xZHrltZh8zIRvjimgABvj"
-      ],
-      "albumId": "51Ss8fEoTtLOninCfkJ2Hr",
+      "album": {
+        "id": "51Ss8fEoTtLOninCfkJ2Hr",
+        "name": "Mauerfall - Das legendäre Konzert für Berlin '89 (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5750d5d47079cd1c05be6ec"
+      },
       "release_date": "2014-10-31",
       "popularity": 18
     }

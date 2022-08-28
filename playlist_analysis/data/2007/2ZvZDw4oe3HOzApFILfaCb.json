@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257790_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Mpj1Ul5OFPyyP4wB62Rvi",
-      "name": "Survivor",
+      "track": {
+        "id": "2Mpj1Ul5OFPyyP4wB62Rvi",
+        "name": "Survivor"
+      },
       "duration_ms": 254026,
-      "artist": [
-        "Destiny's Child"
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "id": "1Y8cdNmUJH7yBTd9yOvr5i"
+        }
       ],
-      "artistId": [
-        "1Y8cdNmUJH7yBTd9yOvr5i"
-      ],
-      "albumId": "2HcjLD0ButtKsQYqzoyOx9",
+      "album": {
+        "id": "2HcjLD0ButtKsQYqzoyOx9",
+        "name": "Survivor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02163cdae7f1e2c82786a84e3e"
+      },
       "release_date": "2001-05-01",
       "popularity": 70
     },
     {
-      "trackId": "54X78diSLoUDI3joC2bjMz",
-      "name": "Purple Rain",
+      "track": {
+        "id": "54X78diSLoUDI3joC2bjMz",
+        "name": "Purple Rain"
+      },
       "duration_ms": 520786,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "7nXJ5k4XgRj5OLg9m8V3zc",
+      "album": {
+        "id": "7nXJ5k4XgRj5OLg9m8V3zc",
+        "name": "Purple Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d52bfb90ee8dfeda8378b99b"
+      },
       "release_date": "1984-06-25",
       "popularity": 74
     },
     {
-      "trackId": "3JvHwqxypIl5i6e6pdwovk",
-      "name": "Ingen kan älska som vi",
+      "track": {
+        "id": "3JvHwqxypIl5i6e6pdwovk",
+        "name": "Ingen kan älska som vi"
+      },
       "duration_ms": 275333,
-      "artist": [
-        "Grace"
+      "artists": [
+        {
+          "name": "Grace",
+          "id": "5vU2gQgA8RCyXUfb97Orgp"
+        }
       ],
-      "artistId": [
-        "5vU2gQgA8RCyXUfb97Orgp"
-      ],
-      "albumId": "5DVtRgwDtqn1ENCkZdtdDu",
+      "album": {
+        "id": "5DVtRgwDtqn1ENCkZdtdDu",
+        "name": "Ingen kan älska som vi",
+        "img": "https://i.scdn.co/image/ab67616d00001e026ef4dc150d9213b1a9d9a1d3"
+      },
       "release_date": "1988-10-28",
       "popularity": 43
     },
     {
-      "trackId": "1xugsCboIm1yILqpLvH9aD",
-      "name": "You Raise Me Up",
+      "track": {
+        "id": "1xugsCboIm1yILqpLvH9aD",
+        "name": "You Raise Me Up"
+      },
       "duration_ms": 292333,
-      "artist": [
-        "Josh Groban"
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "id": "6cXMpsP9x0SH4kFfMyVezF"
+        }
       ],
-      "artistId": [
-        "6cXMpsP9x0SH4kFfMyVezF"
-      ],
-      "albumId": "33TIHVlvlxFVDPGpiunsT3",
+      "album": {
+        "id": "33TIHVlvlxFVDPGpiunsT3",
+        "name": "Closer (Special Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5c04b57889b786257211a61"
+      },
       "release_date": "2003-11-11",
       "popularity": 59
     },
     {
-      "trackId": "4xmjDH6auBwuZ4GHimjXGe",
-      "name": "I Will Survive - Single Version",
+      "track": {
+        "id": "4xmjDH6auBwuZ4GHimjXGe",
+        "name": "I Will Survive - Single Version"
+      },
       "duration_ms": 197573,
-      "artist": [
-        "Gloria Gaynor"
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "id": "6V6WCgi7waF55bJmylC4H5"
+        }
       ],
-      "artistId": [
-        "6V6WCgi7waF55bJmylC4H5"
-      ],
-      "albumId": "2wV72iMZZu677uYCw2giDC",
+      "album": {
+        "id": "2wV72iMZZu677uYCw2giDC",
+        "name": "Colour Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d950c529be4f36a4c962fde6"
+      },
       "release_date": "1999-01-01",
       "popularity": 60
     },
     {
-      "trackId": "6F9jdzX7CfixvCsCkW7zw9",
-      "name": "Sorry Seems To Be The Hardest Word",
+      "track": {
+        "id": "6F9jdzX7CfixvCsCkW7zw9",
+        "name": "Sorry Seems To Be The Hardest Word"
+      },
       "duration_ms": 210066,
-      "artist": [
-        "Blue",
-        "Elton John"
+      "artists": [
+        {
+          "name": "Blue",
+          "id": "2yEkZBBjhzKzt6LF5XMaFi"
+        },
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "2yEkZBBjhzKzt6LF5XMaFi",
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "7kPVKSy6zNK1PnvylEqTpL",
+      "album": {
+        "id": "7kPVKSy6zNK1PnvylEqTpL",
+        "name": "Best Of Blue",
+        "img": "https://i.scdn.co/image/ab67616d00001e02364b6c1e6800490c7e507e8b"
+      },
       "release_date": "2004-01-01",
       "popularity": 59
     },
     {
-      "trackId": "69XUpOpjzDKcfdxqZebGiI",
-      "name": "Independent Women, Pt. 1",
+      "track": {
+        "id": "69XUpOpjzDKcfdxqZebGiI",
+        "name": "Independent Women, Pt. 1"
+      },
       "duration_ms": 221133,
-      "artist": [
-        "Destiny's Child"
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "id": "1Y8cdNmUJH7yBTd9yOvr5i"
+        }
       ],
-      "artistId": [
-        "1Y8cdNmUJH7yBTd9yOvr5i"
-      ],
-      "albumId": "2HcjLD0ButtKsQYqzoyOx9",
+      "album": {
+        "id": "2HcjLD0ButtKsQYqzoyOx9",
+        "name": "Survivor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02163cdae7f1e2c82786a84e3e"
+      },
       "release_date": "2001-05-01",
       "popularity": 65
     },
     {
-      "trackId": "3KIUjBZoo13uUWBtbWcPCP",
-      "name": "You Got (What I Want)",
+      "track": {
+        "id": "3KIUjBZoo13uUWBtbWcPCP",
+        "name": "You Got (What I Want)"
+      },
       "duration_ms": 264666,
-      "artist": [
-        "Graaf"
+      "artists": [
+        {
+          "name": "Graaf",
+          "id": "7ekpXqAEa9NgQP0aVJqcIB"
+        }
       ],
-      "artistId": [
-        "7ekpXqAEa9NgQP0aVJqcIB"
-      ],
-      "albumId": "19wvxE5VFzhIiH2u0HveAr",
+      "album": {
+        "id": "19wvxE5VFzhIiH2u0HveAr",
+        "name": "Graaf Sisters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c914f88aa939c7f7c5532979"
+      },
       "release_date": "1998-10-26",
       "popularity": 43
     },
     {
-      "trackId": "65E62rOSbm7SZbAMYjNTJq",
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "track": {
+        "id": "65E62rOSbm7SZbAMYjNTJq",
+        "name": "Pride (In The Name Of Love) - Remastered 2009"
+      },
       "duration_ms": 228426,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "6akaB3XfTnCwrY4DahsBCY",
+      "album": {
+        "id": "6akaB3XfTnCwrY4DahsBCY",
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277df2aceaf90f06a20b56b14"
+      },
       "release_date": "1984-10-01",
       "popularity": 68
     },
     {
-      "trackId": "0vEhxcEy4dpeeViF2YhZYW",
-      "name": "Mama - English Version",
+      "track": {
+        "id": "0vEhxcEy4dpeeViF2YhZYW",
+        "name": "Mama - English Version"
+      },
       "duration_ms": 198000,
-      "artist": [
-        "Il Divo"
+      "artists": [
+        {
+          "name": "Il Divo",
+          "id": "3KNZ9AOjBajjmr6ZR2VGfl"
+        }
       ],
-      "artistId": [
-        "3KNZ9AOjBajjmr6ZR2VGfl"
-      ],
-      "albumId": "2wHQ8jRc9zKG5tyNzopmJt",
+      "album": {
+        "id": "2wHQ8jRc9zKG5tyNzopmJt",
+        "name": "Il Divo",
+        "img": "https://i.scdn.co/image/ab67616d00001e024ea87be448aaca0f12f9b64c"
+      },
       "release_date": "2004-10-25",
       "popularity": 45
     },
     {
-      "trackId": "4Aiq1x5rny8OEAxQlpPdhW",
-      "name": "Husvagn",
+      "track": {
+        "id": "4Aiq1x5rny8OEAxQlpPdhW",
+        "name": "Husvagn"
+      },
       "duration_ms": 155200,
-      "artist": [
-        "Galenskaparna & After Shave"
+      "artists": [
+        {
+          "name": "Galenskaparna & After Shave",
+          "id": "1yP4vKrljoPWZofWJchg0E"
+        }
       ],
-      "artistId": [
-        "1yP4vKrljoPWZofWJchg0E"
-      ],
-      "albumId": "4B7aBWGNLYgiBuwBvmaqOq",
+      "album": {
+        "id": "4B7aBWGNLYgiBuwBvmaqOq",
+        "name": "En gó box",
+        "img": "https://i.scdn.co/image/ab67616d00001e02439b57acce462ebe9d64b540"
+      },
       "release_date": "1994",
       "popularity": 44
     }

@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258688_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "498EPEgZQ1jDoYHYpvF68F",
-      "name": "To All the Girls I've Loved Before",
+      "track": {
+        "id": "498EPEgZQ1jDoYHYpvF68F",
+        "name": "To All the Girls I've Loved Before"
+      },
       "duration_ms": 213960,
-      "artist": [
-        "Julio Iglesias",
-        "Willie Nelson"
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "id": "4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Willie Nelson",
+          "id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
       ],
-      "artistId": [
-        "4etuCZVdP8yiNPn4xf0ie5",
-        "5W5bDNCqJ1jbCgTxDD0Cb3"
-      ],
-      "albumId": "472BgcjV7Cp8526Nhp8YVn",
+      "album": {
+        "id": "472BgcjV7Cp8526Nhp8YVn",
+        "name": "1100 Bel Air Place",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221659be7a534eb3a4e7a7def"
+      },
       "release_date": "1984",
       "popularity": 51
     },
     {
-      "trackId": "3739sM5lHHvO4kqmI6Kpcg",
-      "name": "King of the Road - Re-recorded",
+      "track": {
+        "id": "3739sM5lHHvO4kqmI6Kpcg",
+        "name": "King of the Road - Re-recorded"
+      },
       "duration_ms": 149400,
-      "artist": [
-        "Roger Miller"
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "id": "1RP2UpEaRzkF0Id3JigqD8"
+        }
       ],
-      "artistId": [
-        "1RP2UpEaRzkF0Id3JigqD8"
-      ],
-      "albumId": "6vtxlSMG7LpObTInWIck89",
+      "album": {
+        "id": "6vtxlSMG7LpObTInWIck89",
+        "name": "Greatest Hits - Finest Performances",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fdac781e93048350a5d20c1"
+      },
       "release_date": "1996-01-01",
       "popularity": 60
     },
     {
-      "trackId": "4lOT0PTxIHrdltNL15jPqR",
-      "name": "Så länge skutan kan gå",
+      "track": {
+        "id": "4lOT0PTxIHrdltNL15jPqR",
+        "name": "Så länge skutan kan gå"
+      },
       "duration_ms": 145000,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "2tNx3kKe15sstNqF2Y6rVU",
+      "album": {
+        "id": "2tNx3kKe15sstNqF2Y6rVU",
+        "name": "Evert Taube 1960 - 1966",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b21e1cb1b9978d752e0d8e58"
+      },
       "release_date": "1960-01-01",
       "popularity": 35
     },
     {
-      "trackId": "4FmiciU3ZmfgABlbCSXcWw",
-      "name": "La vie en rose",
+      "track": {
+        "id": "4FmiciU3ZmfgABlbCSXcWw",
+        "name": "La vie en rose"
+      },
       "duration_ms": 186973,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "7l3ydaHRFTcEGM0D9rlfqS",
+      "album": {
+        "id": "7l3ydaHRFTcEGM0D9rlfqS",
+        "name": "de l'accordeoniste a milord",
+        "img": "https://i.scdn.co/image/ab67616d00001e02956e46e66798e6d0d92e5985"
+      },
       "release_date": "1986",
       "popularity": 59
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     },
     {
-      "trackId": "5hQgUrF5iMJgTcjN4pgoVi",
-      "name": "Save Your Love",
+      "track": {
+        "id": "5hQgUrF5iMJgTcjN4pgoVi",
+        "name": "Save Your Love"
+      },
       "duration_ms": 191000,
-      "artist": [
-        "Renée & Renato"
+      "artists": [
+        {
+          "name": "Renée & Renato",
+          "id": "7opSFbNpDbXiQ1QvxQ9apn"
+        }
       ],
-      "artistId": [
-        "7opSFbNpDbXiQ1QvxQ9apn"
-      ],
-      "albumId": "687hClv7W2EfXExT0otRaT",
+      "album": {
+        "id": "687hClv7W2EfXExT0otRaT",
+        "name": "Save Your Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249e165053699d67286325ae1"
+      },
       "release_date": "1985-08-24",
       "popularity": 45
     },
     {
-      "trackId": "3HKENICtez4Mz0tnUqpFIP",
-      "name": "Save the Last Dance for Me",
+      "track": {
+        "id": "3HKENICtez4Mz0tnUqpFIP",
+        "name": "Save the Last Dance for Me"
+      },
       "duration_ms": 218613,
-      "artist": [
-        "Michael Bublé"
+      "artists": [
+        {
+          "name": "Michael Bublé",
+          "id": "1GxkXlMwML1oSg5eLPiAz3"
+        }
       ],
-      "artistId": [
-        "1GxkXlMwML1oSg5eLPiAz3"
-      ],
-      "albumId": "1f9vWKabhNPNQnHLleExSh",
+      "album": {
+        "id": "1f9vWKabhNPNQnHLleExSh",
+        "name": "It's Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6ad2b2b62b581a23a7c1759"
+      },
       "release_date": "2005-02-08",
       "popularity": 56
     },
     {
-      "trackId": "0s3DYFA62sx5dUfPPRucOR",
-      "name": "Are You Lonesome Tonight?",
+      "track": {
+        "id": "0s3DYFA62sx5dUfPPRucOR",
+        "name": "Are You Lonesome Tonight?"
+      },
       "duration_ms": 186506,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0uJJdEZ8sRLNPoKEkjvqTD",
+      "album": {
+        "id": "0uJJdEZ8sRLNPoKEkjvqTD",
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025cc9e097906397c45324ea08"
+      },
       "release_date": "2022-02-18",
       "popularity": 51
     },
     {
-      "trackId": "4xUqqie4bBKufHtlMuZS3k",
-      "name": "Are You Lonesome Tonight?",
+      "track": {
+        "id": "4xUqqie4bBKufHtlMuZS3k",
+        "name": "Are You Lonesome Tonight?"
+      },
       "duration_ms": 186666,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+      "album": {
+        "id": "0gv5aiVS1WBUZOKeb7YawE",
+        "name": "Platinum - A Life In Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843"
+      },
       "release_date": "1997-07-15",
       "popularity": 56
     },
     {
-      "trackId": "1qCQTy0fTXerET4x8VHyr9",
-      "name": "What A Wonderful World",
+      "track": {
+        "id": "1qCQTy0fTXerET4x8VHyr9",
+        "name": "What A Wonderful World"
+      },
       "duration_ms": 137520,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "album": {
+        "id": "19UoBHanqMth4tk0rFw5RJ",
+        "name": "What A Wonderful World",
+        "img": "https://i.scdn.co/image/ab67616d00001e02601c5174eb7d0073bb79764f"
+      },
       "release_date": "1968",
       "popularity": 72
     },
     {
-      "trackId": "3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way",
+      "track": {
+        "id": "3spdoTYpuCpmq19tuD0bOe",
+        "name": "My Way"
+      },
       "duration_ms": 276800,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3IdNQBn7De23AVyv2V67wn",
+      "album": {
+        "id": "3IdNQBn7De23AVyv2V67wn",
+        "name": "My Way (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280aa6a82fce614eea8357253"
+      },
       "release_date": "1969-03",
       "popularity": 71
     },
     {
-      "trackId": "0I3cUqffwmH2mMUHIfpC0l",
-      "name": "Memory",
+      "track": {
+        "id": "0I3cUqffwmH2mMUHIfpC0l",
+        "name": "Memory"
+      },
       "duration_ms": 235160,
-      "artist": [
-        "Barbra Streisand"
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "id": "7jmTilWYlKOuavFfmQAcu6"
+        }
       ],
-      "artistId": [
-        "7jmTilWYlKOuavFfmQAcu6"
-      ],
-      "albumId": "3VrSsM3HH8cubywpIFj4Gr",
+      "album": {
+        "id": "3VrSsM3HH8cubywpIFj4Gr",
+        "name": "Memories",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a4a2c9f5edd85ec449fc508"
+      },
       "release_date": "1981",
       "popularity": 54
     },
     {
-      "trackId": "4eHbdreAnSOrDDsFfc4Fpm",
-      "name": "I Will Always Love You",
+      "track": {
+        "id": "4eHbdreAnSOrDDsFfc4Fpm",
+        "name": "I Will Always Love You"
+      },
       "duration_ms": 271093,
-      "artist": [
-        "Whitney Houston"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP"
-      ],
-      "albumId": "7JVJlkNNobS0GSoy4tCS96",
+      "album": {
+        "id": "7JVJlkNNobS0GSoy4tCS96",
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e02456c0b5d0316a80dc600802e"
+      },
       "release_date": "1992-11-17",
       "popularity": 76
     }

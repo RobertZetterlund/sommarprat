@@ -7,272 +7,390 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243932_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "13L8JqdlOxkCU2vWw1e60Z",
-      "name": "Trocas Duras - En Vivo",
+      "track": {
+        "id": "13L8JqdlOxkCU2vWw1e60Z",
+        "name": "Trocas Duras - En Vivo"
+      },
       "duration_ms": 130000,
-      "artist": [
-        "Grupo Margen"
+      "artists": [
+        {
+          "name": "Grupo Margen",
+          "id": "2R1ayZDiHEi1ibkDI23Brq"
+        }
       ],
-      "artistId": [
-        "2R1ayZDiHEi1ibkDI23Brq"
-      ],
-      "albumId": "3ISMWLMn8PolJsn08Lsbts",
+      "album": {
+        "id": "3ISMWLMn8PolJsn08Lsbts",
+        "name": "En Vivo 2022",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211ef5257cccabf4760993d1e"
+      },
       "release_date": "2022-04-08",
       "popularity": 23
     },
     {
-      "trackId": "3RziapqS8nr6DiejCtI3cd",
-      "name": "Somliga går med trasiga skor",
+      "track": {
+        "id": "3RziapqS8nr6DiejCtI3cd",
+        "name": "Somliga går med trasiga skor"
+      },
       "duration_ms": 180960,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5KkQk6jEItnuoB1820v5aA",
+      "album": {
+        "id": "5KkQk6jEItnuoB1820v5aA",
+        "name": "Tio vackra visor och personliga Person",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c34b63edb70626b39d952db"
+      },
       "release_date": "1968",
       "popularity": 49
     },
     {
-      "trackId": "0A6nzrnr0lUreHRTx3fRru",
-      "name": "Hasta Siempre",
+      "track": {
+        "id": "0A6nzrnr0lUreHRTx3fRru",
+        "name": "Hasta Siempre"
+      },
       "duration_ms": 227200,
-      "artist": [
-        "Carlos Puebla Y Los Tradicionales"
+      "artists": [
+        {
+          "name": "Carlos Puebla Y Los Tradicionales",
+          "id": "5Z0S2VbVVxvVX4DrEmT3CU"
+        }
       ],
-      "artistId": [
-        "5Z0S2VbVVxvVX4DrEmT3CU"
-      ],
-      "albumId": "2KiAgEqLGTie91SUiLxDiQ",
+      "album": {
+        "id": "2KiAgEqLGTie91SUiLxDiQ",
+        "name": "Hasta Siempre",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab081231163b329573c85a81"
+      },
       "release_date": "1994-07-01",
       "popularity": 43
     },
     {
-      "trackId": "5Zm2V4gcaqu8v2HMNHonvt",
-      "name": "Vientos del Ande - Remastered 2008",
+      "track": {
+        "id": "5Zm2V4gcaqu8v2HMNHonvt",
+        "name": "Vientos del Ande - Remastered 2008"
+      },
       "duration_ms": 259567,
-      "artist": [
-        "Pablo Huascar"
+      "artists": [
+        {
+          "name": "Pablo Huascar",
+          "id": "5uEIh1ZxWeXdv5QdyXDbb9"
+        }
       ],
-      "artistId": [
-        "5uEIh1ZxWeXdv5QdyXDbb9"
-      ],
-      "albumId": "2PpXV0vkqzdzVk7UOqSkh4",
+      "album": {
+        "id": "2PpXV0vkqzdzVk7UOqSkh4",
+        "name": "Guerreros de la Luz",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211a40467920c9f279e45dc38"
+      },
       "release_date": "1992",
       "popularity": 1
     },
     {
-      "trackId": "2un0U56JkIbRxU6ZkD9KsF",
-      "name": "Semana Santa en la Universidad Pontificia de Comillas: Viernes Santo: Cogitavit: Lamentación del Profeta - Remastered",
+      "track": {
+        "id": "2un0U56JkIbRxU6ZkD9KsF",
+        "name": "Semana Santa en la Universidad Pontificia de Comillas: Viernes Santo: Cogitavit: Lamentación del Profeta - Remastered"
+      },
       "duration_ms": 400369,
-      "artist": [
-        "Schola Cantorum de la Universidad Pontificia de Comillas"
+      "artists": [
+        {
+          "name": "Schola Cantorum de la Universidad Pontificia de Comillas",
+          "id": "0vcJR7HGXHHQrzn0qMdl0E"
+        }
       ],
-      "artistId": [
-        "0vcJR7HGXHHQrzn0qMdl0E"
-      ],
-      "albumId": "5WSb3GSpPZ3uLpvq0RT3t7",
+      "album": {
+        "id": "5WSb3GSpPZ3uLpvq0RT3t7",
+        "name": "Semana Santa en la Universidad Pontificia de Comillas",
+        "img": "https://i.scdn.co/image/ab67616d00001e022de4a37f3c7ec6923a980ba7"
+      },
       "release_date": "2016-10-25",
       "popularity": 2
     },
     {
-      "trackId": "0mdbkMqSMCQ9S1U0LDDRwD",
-      "name": "Mathilde",
+      "track": {
+        "id": "0mdbkMqSMCQ9S1U0LDDRwD",
+        "name": "Mathilde"
+      },
       "duration_ms": 154666,
-      "artist": [
-        "Jacques Brel"
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "id": "4RN2vlFWepLa46qQIU2PHs"
+        }
       ],
-      "artistId": [
-        "4RN2vlFWepLa46qQIU2PHs"
-      ],
-      "albumId": "6Us9T05UuNDMP2NtVrSVyG",
+      "album": {
+        "id": "6Us9T05UuNDMP2NtVrSVyG",
+        "name": "15 Ans D'Amour",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c13ecf7ced29f9982b013314"
+      },
       "release_date": "1988-01-01",
       "popularity": 39
     },
     {
-      "trackId": "6G3NoUqDpqD3Rgfel2pD6s",
-      "name": "Cocaine",
+      "track": {
+        "id": "6G3NoUqDpqD3Rgfel2pD6s",
+        "name": "Cocaine"
+      },
       "duration_ms": 169133,
-      "artist": [
-        "J.J. Cale"
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "id": "06nsZ3qSOYZ2hPVIMcr1IN"
+        }
       ],
-      "artistId": [
-        "06nsZ3qSOYZ2hPVIMcr1IN"
-      ],
-      "albumId": "4GIeoRcpLeLwgxQK8jo183",
+      "album": {
+        "id": "4GIeoRcpLeLwgxQK8jo183",
+        "name": "Troubadour",
+        "img": "https://i.scdn.co/image/ab67616d00001e02594fe64d5315a2873e2bf76f"
+      },
       "release_date": "1976-09",
       "popularity": 59
     },
     {
-      "trackId": "2jn198QJMvSSU8ar2cQ1M7",
-      "name": "Tatatí - En Vivo",
+      "track": {
+        "id": "2jn198QJMvSSU8ar2cQ1M7",
+        "name": "Tatatí - En Vivo"
+      },
       "duration_ms": 208626,
-      "artist": [
-        "Inti Illimani Histórico",
-        "Quilapayún"
+      "artists": [
+        {
+          "name": "Inti Illimani Histórico",
+          "id": "3ofeDjH3XD66EbnLIHWk8i"
+        },
+        {
+          "name": "Quilapayún",
+          "id": "76sZcEL2ZXBTqNeFJAhlup"
+        }
       ],
-      "artistId": [
-        "3ofeDjH3XD66EbnLIHWk8i",
-        "76sZcEL2ZXBTqNeFJAhlup"
-      ],
-      "albumId": "3eRuQvv0utFuquOA6qbIG7",
+      "album": {
+        "id": "3eRuQvv0utFuquOA6qbIG7",
+        "name": "Inti + Quila, Música en la Memoria, Juntos en Chile (Vol. 1) (En Vivo)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9c06cdfe096a9ecc87e5df1"
+      },
       "release_date": "2015-09-21",
       "popularity": 17
     },
     {
-      "trackId": "5NXYUnjruvZd3mXiJNJVeA",
-      "name": "El talismán",
+      "track": {
+        "id": "5NXYUnjruvZd3mXiJNJVeA",
+        "name": "El talismán"
+      },
       "duration_ms": 219813,
-      "artist": [
-        "Rosana"
+      "artists": [
+        {
+          "name": "Rosana",
+          "id": "5ttV0N9HvMH3KLqNKcS2M0"
+        }
       ],
-      "artistId": [
-        "5ttV0N9HvMH3KLqNKcS2M0"
-      ],
-      "albumId": "3iZk2FY3YtnSNjx06Ft8Xg",
+      "album": {
+        "id": "3iZk2FY3YtnSNjx06Ft8Xg",
+        "name": "Lunas rotas",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f69201652ca0e3d18403ce6a"
+      },
       "release_date": "1996",
       "popularity": 52
     },
     {
-      "trackId": "7kVef0i1En28J2jaHSWr0S",
-      "name": "Canto Nochero",
+      "track": {
+        "id": "7kVef0i1En28J2jaHSWr0S",
+        "name": "Canto Nochero"
+      },
       "duration_ms": 205226,
-      "artist": [
-        "Los Nocheros"
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "id": "2ydE5oBt6cwsDxH1TpIFmO"
+        }
       ],
-      "artistId": [
-        "2ydE5oBt6cwsDxH1TpIFmO"
-      ],
-      "albumId": "2gq63iWZus0TpSIngYJv27",
+      "album": {
+        "id": "2gq63iWZus0TpSIngYJv27",
+        "name": "Chacareras cuando sale el sol",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e057b63cb88d795220a02475"
+      },
       "release_date": "2022-08-05",
       "popularity": 0
     },
     {
-      "trackId": "0BrrbtOUCSoGoT1srnkBGR",
-      "name": "One-Way Ticket (To The Blues)",
+      "track": {
+        "id": "0BrrbtOUCSoGoT1srnkBGR",
+        "name": "One-Way Ticket (To The Blues)"
+      },
       "duration_ms": 157853,
-      "artist": [
-        "Neil Sedaka"
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "id": "5N6GwJzOcOY5kv8p0NjhYL"
+        }
       ],
-      "artistId": [
-        "5N6GwJzOcOY5kv8p0NjhYL"
-      ],
-      "albumId": "0Tal6Clg8tf5wySzqL9HFs",
+      "album": {
+        "id": "0Tal6Clg8tf5wySzqL9HFs",
+        "name": "Love Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e026fc140790c36e94b4e2720f6"
+      },
       "release_date": "2005-01-10",
       "popularity": 38
     },
     {
-      "trackId": "3lNujyRTzqnZbAmnG4Bd7a",
-      "name": "Adiós, Pampa mía",
+      "track": {
+        "id": "3lNujyRTzqnZbAmnG4Bd7a",
+        "name": "Adiós, Pampa mía"
+      },
       "duration_ms": 188160,
-      "artist": [
-        "Orquesta El Arranque"
+      "artists": [
+        {
+          "name": "Orquesta El Arranque",
+          "id": "5EsRO0Vumc48k4pMoC4MWV"
+        }
       ],
-      "artistId": [
-        "5EsRO0Vumc48k4pMoC4MWV"
-      ],
-      "albumId": "1Ooje3QU4zY9apPhfjSRU5",
+      "album": {
+        "id": "1Ooje3QU4zY9apPhfjSRU5",
+        "name": "Che, Tango Querido - Instrumentales 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fd5ca1f9833304665c8ad28"
+      },
       "release_date": "2008-01-01",
       "popularity": 0
     },
     {
-      "trackId": "7dsn1xq9R9GpSnw2bdKxVC",
-      "name": "Chan Chan",
+      "track": {
+        "id": "7dsn1xq9R9GpSnw2bdKxVC",
+        "name": "Chan Chan"
+      },
       "duration_ms": 271426,
-      "artist": [
-        "Eliades Ochoa",
-        "Cuarteto Patria"
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "id": "0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Cuarteto Patria",
+          "id": "4Ui5j0V10gw9x6KF7yiGSG"
+        }
       ],
-      "artistId": [
-        "0hXHTWhBUEpkyHJ0GnghEH",
-        "4Ui5j0V10gw9x6KF7yiGSG"
-      ],
-      "albumId": "4UiM8tDsngbLJSjC85e4ww",
+      "album": {
+        "id": "4UiM8tDsngbLJSjC85e4ww",
+        "name": "Chan Chan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02817d89c5427f9c1afb98896a"
+      },
       "release_date": "2014-06-22",
       "popularity": 21
     },
     {
-      "trackId": "4a5pNRjwmzYQuEY1E7O6pj",
-      "name": "Breakfast In America - 2010 Remastered",
+      "track": {
+        "id": "4a5pNRjwmzYQuEY1E7O6pj",
+        "name": "Breakfast In America - 2010 Remastered"
+      },
       "duration_ms": 159346,
-      "artist": [
-        "Supertramp"
+      "artists": [
+        {
+          "name": "Supertramp",
+          "id": "3JsMj0DEzyWc0VDlHuy9Bx"
+        }
       ],
-      "artistId": [
-        "3JsMj0DEzyWc0VDlHuy9Bx"
-      ],
-      "albumId": "1zcm3UvHNHpseYOUfd0pna",
+      "album": {
+        "id": "1zcm3UvHNHpseYOUfd0pna",
+        "name": "Breakfast In America (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e"
+      },
       "release_date": "1979-03-29",
       "popularity": 70
     },
     {
-      "trackId": "0hEFGMHEnImIB98VJ7628X",
-      "name": "La Camisa Negra",
+      "track": {
+        "id": "0hEFGMHEnImIB98VJ7628X",
+        "name": "La Camisa Negra"
+      },
       "duration_ms": 216866,
-      "artist": [
-        "Juanes"
+      "artists": [
+        {
+          "name": "Juanes",
+          "id": "0UWZUmn7sybxMCqrw9tGa7"
+        }
       ],
-      "artistId": [
-        "0UWZUmn7sybxMCqrw9tGa7"
-      ],
-      "albumId": "1pfOQNO03YsguyaKHoEJyJ",
+      "album": {
+        "id": "1pfOQNO03YsguyaKHoEJyJ",
+        "name": "Lo que el viento se llevó",
+        "img": "https://i.scdn.co/image/ab67616d00001e025392939d2268ae2492d2cf0c"
+      },
       "release_date": "2022-08-12",
       "popularity": 1
     },
     {
-      "trackId": "0oKOAL9nhFMieApXNLYkZ8",
-      "name": "Vem vet?",
+      "track": {
+        "id": "0oKOAL9nhFMieApXNLYkZ8",
+        "name": "Vem vet?"
+      },
       "duration_ms": 183413,
-      "artist": [
-        "Lisa Ekdahl"
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "id": "4SJSGUVZ04tezaGrxc96EE"
+        }
       ],
-      "artistId": [
-        "4SJSGUVZ04tezaGrxc96EE"
-      ],
-      "albumId": "7zt7vhLaqKhVuR08UZSwNP",
+      "album": {
+        "id": "7zt7vhLaqKhVuR08UZSwNP",
+        "name": "Lisa Ekdahl",
+        "img": "https://i.scdn.co/image/ab67616d00001e022eb0fb75c3006bfb6a641a1c"
+      },
       "release_date": "1994-02-21",
       "popularity": 48
     },
     {
-      "trackId": "6JDQDKJhpAR9qur1jQerFz",
-      "name": "Voy a la Calle Vapor",
+      "track": {
+        "id": "6JDQDKJhpAR9qur1jQerFz",
+        "name": "Voy a la Calle Vapor"
+      },
       "duration_ms": 249289,
-      "artist": [
-        "Septeto Habanero"
+      "artists": [
+        {
+          "name": "Septeto Habanero",
+          "id": "2xzfnbdjAjU2V1PROiyqz2"
+        }
       ],
-      "artistId": [
-        "2xzfnbdjAjU2V1PROiyqz2"
-      ],
-      "albumId": "45AxXYDjVUzLhOUTqkxbrP",
+      "album": {
+        "id": "45AxXYDjVUzLhOUTqkxbrP",
+        "name": "Orgullo De Los Soneros",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200eb4de57e51c601222dbd82"
+      },
       "release_date": "1998-10-27",
       "popularity": 31
     },
     {
-      "trackId": "3Fp1FcmDjqmuXjplvUSq0k",
-      "name": "Blågula färger",
+      "track": {
+        "id": "3Fp1FcmDjqmuXjplvUSq0k",
+        "name": "Blågula färger"
+      },
       "duration_ms": 232813,
-      "artist": [
-        "Advance Patrol"
+      "artists": [
+        {
+          "name": "Advance Patrol",
+          "id": "3io0EreSuC8AUj98QpFnOk"
+        }
       ],
-      "artistId": [
-        "3io0EreSuC8AUj98QpFnOk"
-      ],
-      "albumId": "4e4QHIfaLcypDjMg2ybBby",
+      "album": {
+        "id": "4e4QHIfaLcypDjMg2ybBby",
+        "name": "Aposteln",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d0aae3322280f783d07d28a"
+      },
       "release_date": "2005-11-07",
       "popularity": 17
     },
     {
-      "trackId": "5U7MyRNbuZrWkyAI4bm3Ja",
-      "name": "Gracias a la Vida",
+      "track": {
+        "id": "5U7MyRNbuZrWkyAI4bm3Ja",
+        "name": "Gracias a la Vida"
+      },
       "duration_ms": 278040,
-      "artist": [
-        "Violeta Parra"
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "id": "4ejp2yEDQIIJIy0iFpoI5B"
+        }
       ],
-      "artistId": [
-        "4ejp2yEDQIIJIy0iFpoI5B"
-      ],
-      "albumId": "16KWkUYL6MuyJwzyO5onbl",
+      "album": {
+        "id": "16KWkUYL6MuyJwzyO5onbl",
+        "name": "Mi Chile Lindo",
+        "img": "https://i.scdn.co/image/ab67616d00001e028393077fd051247aa2237923"
+      },
       "release_date": "2014-03-31",
       "popularity": 50
     }

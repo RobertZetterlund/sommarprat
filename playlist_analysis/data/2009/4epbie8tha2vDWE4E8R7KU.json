@@ -7,196 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249011_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6tXnRSvuNgOq4QcxpIN54r",
-      "name": "Weather With You",
+      "track": {
+        "id": "6tXnRSvuNgOq4QcxpIN54r",
+        "name": "Weather With You"
+      },
       "duration_ms": 224466,
-      "artist": [
-        "Crowded House"
+      "artists": [
+        {
+          "name": "Crowded House",
+          "id": "7ohlPA8dRBtCf92zaZCaaB"
+        }
       ],
-      "artistId": [
-        "7ohlPA8dRBtCf92zaZCaaB"
-      ],
-      "albumId": "1QSoW668F9DVj8Rk9azF7h",
+      "album": {
+        "id": "1QSoW668F9DVj8Rk9azF7h",
+        "name": "Woodface",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f9e9291ab85c1e8fa88143f"
+      },
       "release_date": "1991-01-01",
       "popularity": 69
     },
     {
-      "trackId": "5OwH2YXbDrU5HOIyZDRFtg",
-      "name": "Oh boy",
+      "track": {
+        "id": "5OwH2YXbDrU5HOIyZDRFtg",
+        "name": "Oh boy"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "Peps Persson"
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "id": "5xmgC1jISe31QZSp8gqKUJ"
+        }
       ],
-      "artistId": [
-        "5xmgC1jISe31QZSp8gqKUJ"
-      ],
-      "albumId": "1pIYOXNx3EJIX8c3zoZZGN",
+      "album": {
+        "id": "1pIYOXNx3EJIX8c3zoZZGN",
+        "name": "Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02526fbed31942217ef35d019b"
+      },
       "release_date": "2004-01-01",
       "popularity": 53
     },
     {
-      "trackId": "2APxH5XbOLDTmW9X5yi6Hw",
-      "name": "Dreams",
+      "track": {
+        "id": "2APxH5XbOLDTmW9X5yi6Hw",
+        "name": "Dreams"
+      },
       "duration_ms": 294000,
-      "artist": [
-        "Van Halen"
+      "artists": [
+        {
+          "name": "Van Halen",
+          "id": "2cnMpRsOVqtPMfq7YiFE6K"
+        }
       ],
-      "artistId": [
-        "2cnMpRsOVqtPMfq7YiFE6K"
-      ],
-      "albumId": "5Ew5vOg3PYyT9QUPCrdIZq",
+      "album": {
+        "id": "5Ew5vOg3PYyT9QUPCrdIZq",
+        "name": "5150",
+        "img": "https://i.scdn.co/image/ab67616d00001e02def8994935a955331c21bc12"
+      },
       "release_date": "1986-03-24",
       "popularity": 60
     },
     {
-      "trackId": "2T3jgoAMbBXiMMD8pSc6QL",
-      "name": "This Is The Life",
+      "track": {
+        "id": "2T3jgoAMbBXiMMD8pSc6QL",
+        "name": "This Is The Life"
+      },
       "duration_ms": 184413,
-      "artist": [
-        "Amy Macdonald"
+      "artists": [
+        {
+          "name": "Amy Macdonald",
+          "id": "1hJuGCUpefX24GFmss9bjH"
+        }
       ],
-      "artistId": [
-        "1hJuGCUpefX24GFmss9bjH"
-      ],
-      "albumId": "5DaToG3KvHnUgTPqY4cEbq",
+      "album": {
+        "id": "5DaToG3KvHnUgTPqY4cEbq",
+        "name": "This Is The Life (eDeluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa2d1f1ecc9aa8f82fd56f7c"
+      },
       "release_date": "2007-01-01",
       "popularity": 74
     },
     {
-      "trackId": "2YthE9OsxnUf9g4dPe0uCY",
-      "name": "JAN",
+      "track": {
+        "id": "2YthE9OsxnUf9g4dPe0uCY",
+        "name": "JAN"
+      },
       "duration_ms": 62403,
-      "artist": [
-        "Sko Beatz"
+      "artists": [
+        {
+          "name": "Sko Beatz",
+          "id": "4RDduBVIb2gK8sxJ9ubfu6"
+        }
       ],
-      "artistId": [
-        "4RDduBVIb2gK8sxJ9ubfu6"
-      ],
-      "albumId": "1pD2FqjRPC74nPyBGhHQgo",
+      "album": {
+        "id": "1pD2FqjRPC74nPyBGhHQgo",
+        "name": "OMG",
+        "img": "https://i.scdn.co/image/ab67616d00001e028edd76b571d3ae622defe3c5"
+      },
       "release_date": "2022-08-05",
       "popularity": 28
     },
     {
-      "trackId": "5rTZToEwovN6JEBcPps7Ph",
-      "name": "Sjösala vals",
+      "track": {
+        "id": "5rTZToEwovN6JEBcPps7Ph",
+        "name": "Sjösala vals"
+      },
       "duration_ms": 177466,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "5AO3qm5hMQR6ebrrL47nYi",
+      "album": {
+        "id": "5AO3qm5hMQR6ebrrL47nYi",
+        "name": "Evert Taube/Musik vi minns",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d34730e4839a57ca20d1d62b"
+      },
       "release_date": "2003-01-01",
       "popularity": 39
     },
     {
-      "trackId": "2MVQbDuhVs2muWFURtIdNb",
-      "name": "Unforgettable",
+      "track": {
+        "id": "2MVQbDuhVs2muWFURtIdNb",
+        "name": "Unforgettable"
+      },
       "duration_ms": 210906,
-      "artist": [
-        "Natalie Cole",
-        "Nat King Cole"
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "id": "5tTsrGPwQRWUsHR2Xf7Ke9"
+        },
+        {
+          "name": "Nat King Cole",
+          "id": "7v4imS0moSyGdXyLgVTIV7"
+        }
       ],
-      "artistId": [
-        "5tTsrGPwQRWUsHR2Xf7Ke9",
-        "7v4imS0moSyGdXyLgVTIV7"
-      ],
-      "albumId": "4ilUfGGQXin7hr1srDDXF0",
+      "album": {
+        "id": "4ilUfGGQXin7hr1srDDXF0",
+        "name": "Unforgettable: With Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfb2b41e8669c38536b7c3b6"
+      },
       "release_date": "1991-06-11",
       "popularity": 61
     },
     {
-      "trackId": "78RIER8V6EhrqVPOBi2GYa",
-      "name": "Here Comes the Rain Again - Remastered Version",
+      "track": {
+        "id": "78RIER8V6EhrqVPOBi2GYa",
+        "name": "Here Comes the Rain Again - Remastered Version"
+      },
       "duration_ms": 294586,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "4pGwe5BW8GVtIP8ruoa1jB",
+      "album": {
+        "id": "4pGwe5BW8GVtIP8ruoa1jB",
+        "name": "Touch (Reissue - Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a29ca418b2a64e80002a86e3"
+      },
       "release_date": "1983-11-14",
       "popularity": 64
     },
     {
-      "trackId": "6FwB8c8bU6JQWQmJqjFTpC",
-      "name": "Serenity",
+      "track": {
+        "id": "6FwB8c8bU6JQWQmJqjFTpC",
+        "name": "Serenity"
+      },
       "duration_ms": 143853,
-      "artist": [
-        "Gilberto Doyle"
+      "artists": [
+        {
+          "name": "Gilberto Doyle",
+          "id": "4RSNvFrFkYpnC36HACspDr"
+        }
       ],
-      "artistId": [
-        "4RSNvFrFkYpnC36HACspDr"
-      ],
-      "albumId": "1nPfbEom6kF47OsMqWuJjN",
+      "album": {
+        "id": "1nPfbEom6kF47OsMqWuJjN",
+        "name": "Serenity",
+        "img": "https://i.scdn.co/image/ab67616d00001e020ffc391b50de1d5ac2ac1f83"
+      },
       "release_date": "2022-07-22",
       "popularity": 31
     },
     {
-      "trackId": "6cFtFZDbBmKedqwoFCAYv3",
-      "name": "Änglamark",
+      "track": {
+        "id": "6cFtFZDbBmKedqwoFCAYv3",
+        "name": "Änglamark"
+      },
       "duration_ms": 197826,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "4ArA86KBWpxyBxVPfkAzd9",
+      "album": {
+        "id": "4ArA86KBWpxyBxVPfkAzd9",
+        "name": "Änglamark",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4d72d5969b263509db99efc"
+      },
       "release_date": "1995-01-01",
       "popularity": 37
     },
     {
-      "trackId": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "Heroes - 2017 Remaster",
+      "track": {
+        "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+        "name": "Heroes - 2017 Remaster"
+      },
       "duration_ms": 371413,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "4I5zzKYd2SKDgZ9DRf5LVk",
+      "album": {
+        "id": "4I5zzKYd2SKDgZ9DRf5LVk",
+        "name": "\"Heroes\" (2017 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985"
+      },
       "release_date": "1977",
       "popularity": 76
     },
     {
-      "trackId": "0DqFXzLtKkj9JO421NJpl1",
-      "name": "Suite No. 3 in D Major, BWV 1068: II. Air",
+      "track": {
+        "id": "0DqFXzLtKkj9JO421NJpl1",
+        "name": "Suite No. 3 in D Major, BWV 1068: II. Air"
+      },
       "duration_ms": 363253,
-      "artist": [
-        "Johann Sebastian Bach",
-        "David Bell",
-        "Berliner Philharmoniker"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "David Bell",
+          "id": "29BEmD7wvKp6F5GTCcejY3"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "29BEmD7wvKp6F5GTCcejY3",
-        "6uRJnvQ3f8whVnmeoecv5Z"
-      ],
-      "albumId": "0RsNQJd8Em0kBK5BDTdAkb",
+      "album": {
+        "id": "0RsNQJd8Em0kBK5BDTdAkb",
+        "name": "Born in the 1600s: Bach",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ac1605692de2a6b2fe063a2"
+      },
       "release_date": "2020-08-31",
       "popularity": 50
     },
     {
-      "trackId": "1QRKeAlaLqJUeCWMBRP20A",
-      "name": "Slipping Through My Fingers - From 'Mamma Mia!' Original Motion Picture Soundtrack",
+      "track": {
+        "id": "1QRKeAlaLqJUeCWMBRP20A",
+        "name": "Slipping Through My Fingers - From 'Mamma Mia!' Original Motion Picture Soundtrack"
+      },
       "duration_ms": 230893,
-      "artist": [
-        "Meryl Streep",
-        "Amanda Seyfried"
+      "artists": [
+        {
+          "name": "Meryl Streep",
+          "id": "2HB65P72dFRiOKvbLLcil2"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "id": "5RZjpmuD14JKXvB8Ry1G1u"
+        }
       ],
-      "artistId": [
-        "2HB65P72dFRiOKvbLLcil2",
-        "5RZjpmuD14JKXvB8Ry1G1u"
-      ],
-      "albumId": "6QtnCAFmqOwR75jOOmU7k9",
+      "album": {
+        "id": "6QtnCAFmqOwR75jOOmU7k9",
+        "name": "Mamma Mia! The Movie Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddc54feece71dda4290d0579"
+      },
       "release_date": "2008-01-01",
       "popularity": 70
     }

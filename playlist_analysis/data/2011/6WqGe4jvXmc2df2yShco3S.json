@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243408_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Am4TMJcqfQtr79278nZjj",
-      "name": "Love's Holiday",
+      "track": {
+        "id": "2Am4TMJcqfQtr79278nZjj",
+        "name": "Love's Holiday"
+      },
       "duration_ms": 262079,
-      "artist": [
-        "Earth, Wind & Fire"
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "id": "4QQgXkCYTt3BlENzhyNETg"
+        }
       ],
-      "artistId": [
-        "4QQgXkCYTt3BlENzhyNETg"
-      ],
-      "albumId": "0w0eT42Gyq6G9yXB0RirWh",
+      "album": {
+        "id": "0w0eT42Gyq6G9yXB0RirWh",
+        "name": "All 'N All",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f81891d2e28007ef6b918acd"
+      },
       "release_date": "1977-11-21",
       "popularity": 52
     },
     {
-      "trackId": "6cFtFZDbBmKedqwoFCAYv3",
-      "name": "Änglamark",
+      "track": {
+        "id": "6cFtFZDbBmKedqwoFCAYv3",
+        "name": "Änglamark"
+      },
       "duration_ms": 197826,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "4ArA86KBWpxyBxVPfkAzd9",
+      "album": {
+        "id": "4ArA86KBWpxyBxVPfkAzd9",
+        "name": "Änglamark",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4d72d5969b263509db99efc"
+      },
       "release_date": "1995-01-01",
       "popularity": 37
     },
     {
-      "trackId": "1bOLFHXStwdSHAdz412vMG",
-      "name": "I Mean You",
+      "track": {
+        "id": "1bOLFHXStwdSHAdz412vMG",
+        "name": "I Mean You"
+      },
       "duration_ms": 407293,
-      "artist": [
-        "Esbjörn Svensson Trio"
+      "artists": [
+        {
+          "name": "Esbjörn Svensson Trio",
+          "id": "3HJzLaMbS0jMabxS3wttGk"
+        }
       ],
-      "artistId": [
-        "3HJzLaMbS0jMabxS3wttGk"
-      ],
-      "albumId": "7gIeXaWDihgMi7s925uq4A",
+      "album": {
+        "id": "7gIeXaWDihgMi7s925uq4A",
+        "name": "Plays Monk",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dda83f92538f2ad0043dbedd"
+      },
       "release_date": "2000-10-23",
       "popularity": 38
     },
     {
-      "trackId": "14oT82TcyCxmxj2lDNjSTk",
-      "name": "Nu är det gott att leva - Live",
+      "track": {
+        "id": "14oT82TcyCxmxj2lDNjSTk",
+        "name": "Nu är det gott att leva - Live"
+      },
       "duration_ms": 213520,
-      "artist": [
-        "Tommy Körberg"
+      "artists": [
+        {
+          "name": "Tommy Körberg",
+          "id": "6R21HSNyo7HVac8pyqY3T2"
+        }
       ],
-      "artistId": [
-        "6R21HSNyo7HVac8pyqY3T2"
-      ],
-      "albumId": "1QJh9i94hL18YACZoBaar3",
+      "album": {
+        "id": "1QJh9i94hL18YACZoBaar3",
+        "name": "Rakt upp och ner",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236d5bcc7db91a98dfaf89c33"
+      },
       "release_date": "2007-05-30",
       "popularity": 6
     },
     {
-      "trackId": "1FjiBN5Ey021gw8tZqxGz4",
-      "name": "Company",
+      "track": {
+        "id": "1FjiBN5Ey021gw8tZqxGz4",
+        "name": "Company"
+      },
       "duration_ms": 292400,
-      "artist": [
-        "Rickie Lee Jones"
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "id": "0dYkMe3wK29DulSa0uR8Rq"
+        }
       ],
-      "artistId": [
-        "0dYkMe3wK29DulSa0uR8Rq"
-      ],
-      "albumId": "6IzMnrSzyRykaltIvnlNuk",
+      "album": {
+        "id": "6IzMnrSzyRykaltIvnlNuk",
+        "name": "Rickie Lee Jones",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b10b485cbfdb9c7e19ec92c1"
+      },
       "release_date": "1979-03-02",
       "popularity": 21
     },
     {
-      "trackId": "5o83CVtVdVQl4SucqXxhkj",
-      "name": "90 000",
+      "track": {
+        "id": "5o83CVtVdVQl4SucqXxhkj",
+        "name": "90 000"
+      },
       "duration_ms": 234560,
-      "artist": [
-        "Problem"
+      "artists": [
+        {
+          "name": "Problem",
+          "id": "08RxjVzdq6Xk9GriL5tu6V"
+        }
       ],
-      "artistId": [
-        "08RxjVzdq6Xk9GriL5tu6V"
-      ],
-      "albumId": "10oDppBUeqkHDEecCpwofu",
+      "album": {
+        "id": "10oDppBUeqkHDEecCpwofu",
+        "name": "Problem",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f477ee59b50a7dcba7050b28"
+      },
       "release_date": "1978-01-01",
       "popularity": 2
     },
     {
-      "trackId": "6B8C0FZ1fRSZhwCCBDK0Oc",
-      "name": "I'm All Alone - Original Broadway Cast Recording: \"Spamalot\"",
+      "track": {
+        "id": "6B8C0FZ1fRSZhwCCBDK0Oc",
+        "name": "I'm All Alone - Original Broadway Cast Recording: \"Spamalot\""
+      },
       "duration_ms": 199706,
-      "artist": [
-        "Tim Curry",
-        "Michael McGrath"
+      "artists": [
+        {
+          "name": "Tim Curry",
+          "id": "5upLeyz8OjRZcbFuXOF59B"
+        },
+        {
+          "name": "Michael McGrath",
+          "id": "3tzL9uNO4ATOzc31NhWi0O"
+        }
       ],
-      "artistId": [
-        "5upLeyz8OjRZcbFuXOF59B",
-        "3tzL9uNO4ATOzc31NhWi0O"
-      ],
-      "albumId": "5To3LrXgZuZEfDTiIjKqFf",
+      "album": {
+        "id": "5To3LrXgZuZEfDTiIjKqFf",
+        "name": "Monty Python's Spamalot",
+        "img": "https://i.scdn.co/image/ab67616d00001e029fe8cac73cbbcf1dcc12fb45"
+      },
       "release_date": "2005-01-01",
       "popularity": 24
     },
     {
-      "trackId": "3hNpnx2AXhIVBhNOoiBUmI",
-      "name": "Resten av ditt liv",
+      "track": {
+        "id": "3hNpnx2AXhIVBhNOoiBUmI",
+        "name": "Resten av ditt liv"
+      },
       "duration_ms": 234840,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "3qEtXKnOn9K5YQW05IPiFq",
+      "album": {
+        "id": "3qEtXKnOn9K5YQW05IPiFq",
+        "name": "Sagolandet",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3abd66a1f315935e5933847"
+      },
       "release_date": "2011-06-06",
       "popularity": 47
     },
     {
-      "trackId": "6N4GFeYeuBC5D3o2MLPx5a",
-      "name": "The Impossible Dream",
+      "track": {
+        "id": "6N4GFeYeuBC5D3o2MLPx5a",
+        "name": "The Impossible Dream"
+      },
       "duration_ms": 164973,
-      "artist": [
-        "Matt Monro"
+      "artists": [
+        {
+          "name": "Matt Monro",
+          "id": "06kr5yNAM2rOf4DXemM8fl"
+        }
       ],
-      "artistId": [
-        "06kr5yNAM2rOf4DXemM8fl"
-      ],
-      "albumId": "2Ij1CdeZ9ax50zZyHy6m71",
+      "album": {
+        "id": "2Ij1CdeZ9ax50zZyHy6m71",
+        "name": "Chill and Happy Jazz",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc459a94bf1523cbcf3bd41e"
+      },
       "release_date": "2022-08-09",
       "popularity": 0
     },
     {
-      "trackId": "1Let4BYaYSum46nAGO1i6v",
-      "name": "We're in This Love Together",
+      "track": {
+        "id": "1Let4BYaYSum46nAGO1i6v",
+        "name": "We're in This Love Together"
+      },
       "duration_ms": 226066,
-      "artist": [
-        "Al Jarreau"
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "id": "3YR92OLKlvkK5oKNekSqXe"
+        }
       ],
-      "artistId": [
-        "3YR92OLKlvkK5oKNekSqXe"
-      ],
-      "albumId": "5rMktOHgYGeV65qjHk6W2X",
+      "album": {
+        "id": "5rMktOHgYGeV65qjHk6W2X",
+        "name": "Breakin' Away",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216000c5042b4b9d6a86b28d9"
+      },
       "release_date": "1981",
       "popularity": 52
     },
     {
-      "trackId": "2iWTHXaFtRSMhd5OLpYD7f",
-      "name": "Life's What You Make It - 1997 Remaster",
+      "track": {
+        "id": "2iWTHXaFtRSMhd5OLpYD7f",
+        "name": "Life's What You Make It - 1997 Remaster"
+      },
       "duration_ms": 268893,
-      "artist": [
-        "Talk Talk"
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "id": "7Fo8TAyGJr4VmhE68QamMf"
+        }
       ],
-      "artistId": [
-        "7Fo8TAyGJr4VmhE68QamMf"
-      ],
-      "albumId": "70V1kL7w7Q9pDU4I6zDjYE",
+      "album": {
+        "id": "70V1kL7w7Q9pDU4I6zDjYE",
+        "name": "The Colour of Spring",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247ee1d155222cd13cc9d64cd"
+      },
       "release_date": "1986",
       "popularity": 57
     },
     {
-      "trackId": "5jzHWBOCpAHxe1TYLQEXP7",
-      "name": "Sommar, Sommar, Sommar",
+      "track": {
+        "id": "5jzHWBOCpAHxe1TYLQEXP7",
+        "name": "Sommar, Sommar, Sommar"
+      },
       "duration_ms": 188706,
-      "artist": [
-        "Jan Lundgren",
-        "Mattias Svensson",
-        "Rasmus Kihlberg"
+      "artists": [
+        {
+          "name": "Jan Lundgren",
+          "id": "4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Mattias Svensson",
+          "id": "0SpFS1C0X20BJ8m1qyBbcu"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "id": "1HtXGJ1iYUcRZCirb47OmR"
+        }
       ],
-      "artistId": [
-        "4yw84sobRr067mN2U8BNOI",
-        "0SpFS1C0X20BJ8m1qyBbcu",
-        "1HtXGJ1iYUcRZCirb47OmR"
-      ],
-      "albumId": "3ZGxz7JmoEG74JHDUkAPsg",
+      "album": {
+        "id": "3ZGxz7JmoEG74JHDUkAPsg",
+        "name": "Swedish Standards",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa1dd8cb7eadd14a4cbde156"
+      },
       "release_date": "2009-04-24",
       "popularity": 6
     }

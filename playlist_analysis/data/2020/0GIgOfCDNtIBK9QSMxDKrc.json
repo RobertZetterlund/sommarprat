@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/9b535f5b-871a-4733-b39d-7de69abb1068.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7oOEFDLSQscl0uGulnIEmG",
-      "name": "Love & Hate",
+      "track": {
+        "id": "7oOEFDLSQscl0uGulnIEmG",
+        "name": "Love & Hate"
+      },
       "duration_ms": 427093,
-      "artist": [
-        "Michael Kiwanuka"
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "id": "0bzfPKdbXL5ezYW2z3UGQj"
+        }
       ],
-      "artistId": [
-        "0bzfPKdbXL5ezYW2z3UGQj"
-      ],
-      "albumId": "0qxsfpy2VU0i4eDR9RTaAU",
+      "album": {
+        "id": "0qxsfpy2VU0i4eDR9RTaAU",
+        "name": "Love & Hate",
+        "img": "https://i.scdn.co/image/ab67616d00001e021070095e88dce90a090171b5"
+      },
       "release_date": "2016-07-15",
       "popularity": 64
     },
     {
-      "trackId": "3w4gsihuw6cwiMI0j0nI7t",
-      "name": "Bordsskick",
+      "track": {
+        "id": "3w4gsihuw6cwiMI0j0nI7t",
+        "name": "Bordsskick"
+      },
       "duration_ms": 180386,
-      "artist": [
-        "Parham"
+      "artists": [
+        {
+          "name": "Parham",
+          "id": "3ldCASdD4QRyfTt6lpPn6y"
+        }
       ],
-      "artistId": [
-        "3ldCASdD4QRyfTt6lpPn6y"
-      ],
-      "albumId": "6qYxLc1LDj2arGb0AlVAuD",
+      "album": {
+        "id": "6qYxLc1LDj2arGb0AlVAuD",
+        "name": "Vårt paradis",
+        "img": "https://i.scdn.co/image/ab67616d00001e02759204998597b3fb1d27704b"
+      },
       "release_date": "2019-10-04",
       "popularity": 27
     },
     {
-      "trackId": "39eZwqb8cC94W1m2r1W0YO",
-      "name": "I Still Dream About Trains",
+      "track": {
+        "id": "39eZwqb8cC94W1m2r1W0YO",
+        "name": "I Still Dream About Trains"
+      },
       "duration_ms": 211280,
-      "artist": [
-        "Doctor Paul"
+      "artists": [
+        {
+          "name": "Doctor Paul",
+          "id": "7BU2uXjpLbVFL6VrF7q5B3"
+        }
       ],
-      "artistId": [
-        "7BU2uXjpLbVFL6VrF7q5B3"
-      ],
-      "albumId": "6fvC4BO28XxECONqoSd0jM",
+      "album": {
+        "id": "6fvC4BO28XxECONqoSd0jM",
+        "name": "The Old Home Place",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dae74dd55e5120496cb06d3"
+      },
       "release_date": "2015-01-01",
       "popularity": 0
     },
     {
-      "trackId": "2gZUPNdnz5Y45eiGxpHGSc",
-      "name": "POWER",
+      "track": {
+        "id": "2gZUPNdnz5Y45eiGxpHGSc",
+        "name": "POWER"
+      },
       "duration_ms": 292093,
-      "artist": [
-        "Kanye West"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x"
-      ],
-      "albumId": "20r762YmB5HeofjMCiPMLv",
+      "album": {
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+      },
       "release_date": "2010-11-22",
       "popularity": 77
     },
     {
-      "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
-      "name": "Sinnerman",
+      "track": {
+        "id": "5xRP5iyVdGglqlY4Vcjhkx",
+        "name": "Sinnerman"
+      },
       "duration_ms": 622000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "album": {
+        "id": "31pd81sWDaK2pP3ok5892z",
+        "name": "Pastel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda3269eebbf31611d10bda6"
+      },
       "release_date": "1965-10-01",
       "popularity": 62
     },
     {
-      "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
-      "name": "Sinnerman",
+      "track": {
+        "id": "5xRP5iyVdGglqlY4Vcjhkx",
+        "name": "Sinnerman"
+      },
       "duration_ms": 622000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "album": {
+        "id": "31pd81sWDaK2pP3ok5892z",
+        "name": "Pastel Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fda3269eebbf31611d10bda6"
+      },
       "release_date": "1965-10-01",
       "popularity": 62
     },
     {
-      "trackId": "4WwXzj3A0VdbeXd3ANCyKi",
-      "name": "I natt jag drömde något som",
+      "track": {
+        "id": "4WwXzj3A0VdbeXd3ANCyKi",
+        "name": "I natt jag drömde något som"
+      },
       "duration_ms": 122000,
-      "artist": [
-        "Cornelis Vreeswijk",
-        "Fred Åkerström",
-        "Ann-Louise Hanson"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        },
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        },
+        {
+          "name": "Ann-Louise Hanson",
+          "id": "7f4HimNNpPUrIy44E6PeZb"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9",
-        "66se5dgU4TBgWvHtXrYrz0",
-        "7f4HimNNpPUrIy44E6PeZb"
-      ],
-      "albumId": "6we6zDeGkdF0JWDmbc5xX9",
+      "album": {
+        "id": "6we6zDeGkdF0JWDmbc5xX9",
+        "name": "Guldkorn (Samhällskritikern)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221c30ca66e9bc7f94c6c0388"
+      },
       "release_date": "2001",
       "popularity": 30
     },
     {
-      "trackId": "2ahnofp2LbBWDXcJbMaSTu",
-      "name": "What Is Love - 7\" Mix",
+      "track": {
+        "id": "2ahnofp2LbBWDXcJbMaSTu",
+        "name": "What Is Love - 7\" Mix"
+      },
       "duration_ms": 270373,
-      "artist": [
-        "Haddaway"
+      "artists": [
+        {
+          "name": "Haddaway",
+          "id": "0Suv0tRrNrUlRzAy8aXjma"
+        }
       ],
-      "artistId": [
-        "0Suv0tRrNrUlRzAy8aXjma"
-      ],
-      "albumId": "0qTVjeVP70YvQG4GctetOf",
+      "album": {
+        "id": "0qTVjeVP70YvQG4GctetOf",
+        "name": "What Is Love (Remixes)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b219cfdd901872b475f422f6"
+      },
       "release_date": "1993-03-22",
       "popularity": 70
     },
     {
-      "trackId": "5r3q5qzU1LoxfORgwuvLCa",
-      "name": "I've Got to Use My Imagination",
+      "track": {
+        "id": "5r3q5qzU1LoxfORgwuvLCa",
+        "name": "I've Got to Use My Imagination"
+      },
       "duration_ms": 210480,
-      "artist": [
-        "Gladys Knight & The Pips"
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "id": "0TF2NxkJZPQoX1H53rEFM1"
+        }
       ],
-      "artistId": [
-        "0TF2NxkJZPQoX1H53rEFM1"
-      ],
-      "albumId": "6pMzuVjsypAwbeKiZm56wP",
+      "album": {
+        "id": "6pMzuVjsypAwbeKiZm56wP",
+        "name": "Imagination (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9c903069dab033b532c4f7a"
+      },
       "release_date": "1973",
       "popularity": 38
     },
     {
-      "trackId": "0hyTCepHLrkjWBtczMxUxZ",
-      "name": "Mothers Of The Disappeared",
+      "track": {
+        "id": "0hyTCepHLrkjWBtczMxUxZ",
+        "name": "Mothers Of The Disappeared"
+      },
       "duration_ms": 314450,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "album": {
+        "id": "5y6wlw1LnqFnQFruMeiwGU",
+        "name": "The Joshua Tree (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7bea3d01f04e6d0408d2afe"
+      },
       "release_date": "1987-03-03",
       "popularity": 40
     },
     {
-      "trackId": "3AyuigFWbuirWHvidbMz8O",
-      "name": "Should Have Known Better",
+      "track": {
+        "id": "3AyuigFWbuirWHvidbMz8O",
+        "name": "Should Have Known Better"
+      },
       "duration_ms": 307697,
-      "artist": [
-        "Sufjan Stevens"
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "id": "4MXUO7sVCaFgFjoTI5ox5c"
+        }
       ],
-      "artistId": [
-        "4MXUO7sVCaFgFjoTI5ox5c"
-      ],
-      "albumId": "64xtjfsPHNHch0CZ7fPTjS",
+      "album": {
+        "id": "64xtjfsPHNHch0CZ7fPTjS",
+        "name": "Carrie & Lowell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02820e2ac14772ae3162c6d479"
+      },
       "release_date": "2015-03-31",
       "popularity": 63
     },
     {
-      "trackId": "4WGjmt1z8vCH8Tv5u7O1A5",
-      "name": "Girma Ziasela",
+      "track": {
+        "id": "4WGjmt1z8vCH8Tv5u7O1A5",
+        "name": "Girma Ziasela"
+      },
       "duration_ms": 324359,
-      "artist": [
-        "Yemane Barya"
+      "artists": [
+        {
+          "name": "Yemane Barya",
+          "id": "28by5BS46GMVEyPiawjZtT"
+        }
       ],
-      "artistId": [
-        "28by5BS46GMVEyPiawjZtT"
-      ],
-      "albumId": "52m1JEUStzCvH1ngdKmhWr",
+      "album": {
+        "id": "52m1JEUStzCvH1ngdKmhWr",
+        "name": "Zemen (Eritrean Music)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02afd6b36f936a0383f867a432"
+      },
       "release_date": "2014-05-16",
       "popularity": 28
     },
     {
-      "trackId": "0tV8pOpiNsKqUys0ilUcXz",
-      "name": "Rise Up",
+      "track": {
+        "id": "0tV8pOpiNsKqUys0ilUcXz",
+        "name": "Rise Up"
+      },
       "duration_ms": 253342,
-      "artist": [
-        "Andra Day"
+      "artists": [
+        {
+          "name": "Andra Day",
+          "id": "1c4rxrxy8eDLvMVL1DTiBe"
+        }
       ],
-      "artistId": [
-        "1c4rxrxy8eDLvMVL1DTiBe"
-      ],
-      "albumId": "6Blubl1glavmervPJa3QVs",
+      "album": {
+        "id": "6Blubl1glavmervPJa3QVs",
+        "name": "Cheers to the Fall",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccd9af18cc83991382c9ab9a"
+      },
       "release_date": "2015-08-28",
       "popularity": 73
     },
     {
-      "trackId": "1QXGdiZhjm8lPLJgPsXnZc",
-      "name": "Oh Freedom !",
+      "track": {
+        "id": "1QXGdiZhjm8lPLJgPsXnZc",
+        "name": "Oh Freedom !"
+      },
       "duration_ms": 187866,
-      "artist": [
-        "The Golden Gospel Singers"
+      "artists": [
+        {
+          "name": "The Golden Gospel Singers",
+          "id": "1rCCHAeY46jMz4Fo2d7KwE"
+        }
       ],
-      "artistId": [
-        "1rCCHAeY46jMz4Fo2d7KwE"
-      ],
-      "albumId": "329cKC4w5X9LXEJL6rZeLm",
+      "album": {
+        "id": "329cKC4w5X9LXEJL6rZeLm",
+        "name": "A Cappella Praise",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6d68617a859ac803ec2e30e"
+      },
       "release_date": "2007",
       "popularity": 15
     }

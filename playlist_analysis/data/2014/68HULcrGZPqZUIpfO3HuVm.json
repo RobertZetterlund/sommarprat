@@ -7,144 +7,206 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300206_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "35srNkJVToAzYiZzron1FY",
-      "name": "Young Forever",
+      "track": {
+        "id": "35srNkJVToAzYiZzron1FY",
+        "name": "Young Forever"
+      },
       "duration_ms": 253906,
-      "artist": [
-        "JAY-Z",
-        "Mr Hudson"
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "id": "3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Mr Hudson",
+          "id": "1zV9UjTUevjp5VUddqIUUn"
+        }
       ],
-      "artistId": [
-        "3nFkdlSjzX9mRTtwJOzDYB",
-        "1zV9UjTUevjp5VUddqIUUn"
-      ],
-      "albumId": "2CUT0104gySOIvqwtXeFsX",
+      "album": {
+        "id": "2CUT0104gySOIvqwtXeFsX",
+        "name": "The Blueprint 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10"
+      },
       "release_date": "2009-09-08",
       "popularity": 66
     },
     {
-      "trackId": "1kfGkqNAGpiPGfst4Ln7m6",
-      "name": "Niggas In Paris (Remade Instrumental Originally Recorded By Jay-Z & Kanye West)",
+      "track": {
+        "id": "1kfGkqNAGpiPGfst4Ln7m6",
+        "name": "Niggas In Paris (Remade Instrumental Originally Recorded By Jay-Z & Kanye West)"
+      },
       "duration_ms": 158825,
-      "artist": [
-        "Niggas In Paris Instrumental"
+      "artists": [
+        {
+          "name": "Niggas In Paris Instrumental",
+          "id": "4lkxf3bTtLOpaGDVdRRewn"
+        }
       ],
-      "artistId": [
-        "4lkxf3bTtLOpaGDVdRRewn"
-      ],
-      "albumId": "7F5f7faQJ683WX4q81oBqN",
+      "album": {
+        "id": "7F5f7faQJ683WX4q81oBqN",
+        "name": "Niggas In Paris (Remade Instrumental Originally Recorded By Jay-Z & Kanye West) - Single",
+        "img": "https://i.scdn.co/image/ab67616d00001e0201a7a881a4f50521ecd1503a"
+      },
       "release_date": "2011-12-25",
       "popularity": 31
     },
     {
-      "trackId": "1RRXUq5Fhqcbtm02i5p68U",
-      "name": "Little Rain",
+      "track": {
+        "id": "1RRXUq5Fhqcbtm02i5p68U",
+        "name": "Little Rain"
+      },
       "duration_ms": 212213,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "43TJjpNBfw0qY6E87VeIxX",
+      "album": {
+        "id": "43TJjpNBfw0qY6E87VeIxX",
+        "name": "Blue & Lonesome",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7afce056f527eba678349a5"
+      },
       "release_date": "2016-12-02",
       "popularity": 32
     },
     {
-      "trackId": "6bS7DqTuzrpkluB7boWmw2",
-      "name": "America",
+      "track": {
+        "id": "6bS7DqTuzrpkluB7boWmw2",
+        "name": "America"
+      },
       "duration_ms": 249760,
-      "artist": [
-        "Razorlight"
+      "artists": [
+        {
+          "name": "Razorlight",
+          "id": "450iujbtN6XgiA9pv6fVZz"
+        }
       ],
-      "artistId": [
-        "450iujbtN6XgiA9pv6fVZz"
-      ],
-      "albumId": "1AXk7nf6pCqLRrfPVJbZEj",
+      "album": {
+        "id": "1AXk7nf6pCqLRrfPVJbZEj",
+        "name": "Razorlight",
+        "img": "https://i.scdn.co/image/ab67616d00001e0299fd63802c4710e23e0f25a1"
+      },
       "release_date": "2006-01-01",
       "popularity": 67
     },
     {
-      "trackId": "7o2CTH4ctstm8TNelqjb51",
-      "name": "Sweet Child O' Mine",
+      "track": {
+        "id": "7o2CTH4ctstm8TNelqjb51",
+        "name": "Sweet Child O' Mine"
+      },
       "duration_ms": 354520,
-      "artist": [
-        "Guns N' Roses"
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "id": "3qm84nBOXUEQ2vnTfUTTFC"
+        }
       ],
-      "artistId": [
-        "3qm84nBOXUEQ2vnTfUTTFC"
-      ],
-      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "album": {
+        "id": "3I9Z1nDCL4E0cP62flcbI5",
+        "name": "Appetite For Destruction",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268384dd85fd5e95831252f60"
+      },
       "release_date": "1987-07-21",
       "popularity": 83
     },
     {
-      "trackId": "2ENzbkJJShkj1d9mPKofQ9",
-      "name": "Nu kan du få mig så lätt",
+      "track": {
+        "id": "2ENzbkJJShkj1d9mPKofQ9",
+        "name": "Nu kan du få mig så lätt"
+      },
       "duration_ms": 268333,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "3GLyWjI7skSDxKOBEhAhUE",
+      "album": {
+        "id": "3GLyWjI7skSDxKOBEhAhUE",
+        "name": "Känn ingen sorg för mig Göteborg",
+        "img": "https://i.scdn.co/image/ab67616d00001e029cf9c73c1277ff94d4608a32"
+      },
       "release_date": "2000-09-25",
       "popularity": 53
     },
     {
-      "trackId": "11X4Gw3T4hoktVruLgTnm1",
-      "name": "Heartbeats",
+      "track": {
+        "id": "11X4Gw3T4hoktVruLgTnm1",
+        "name": "Heartbeats"
+      },
       "duration_ms": 160240,
-      "artist": [
-        "José González"
+      "artists": [
+        {
+          "name": "José González",
+          "id": "6xrCU6zdcSTsG2hLrojpmI"
+        }
       ],
-      "artistId": [
-        "6xrCU6zdcSTsG2hLrojpmI"
-      ],
-      "albumId": "7M6XGBvDi3smtRuPUkrqsG",
+      "album": {
+        "id": "7M6XGBvDi3smtRuPUkrqsG",
+        "name": "Veneer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289c5e55db6ad58527a6a1206"
+      },
       "release_date": "2003-07-02",
       "popularity": 64
     },
     {
-      "trackId": "1uJX1TzzswUJlwpYxs16i3",
-      "name": "Not Afraid",
+      "track": {
+        "id": "1uJX1TzzswUJlwpYxs16i3",
+        "name": "Not Afraid"
+      },
       "duration_ms": 249266,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "6GwBcopd79zidRXsN4MSg4",
+      "album": {
+        "id": "6GwBcopd79zidRXsN4MSg4",
+        "name": "Curtain Call 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b80f17928d12a03f4cec33fd"
+      },
       "release_date": "2022-08-05",
       "popularity": 33
     },
     {
-      "trackId": "2374M0fQpWi3dLnB54qaLX",
-      "name": "Africa",
+      "track": {
+        "id": "2374M0fQpWi3dLnB54qaLX",
+        "name": "Africa"
+      },
       "duration_ms": 295893,
-      "artist": [
-        "TOTO"
+      "artists": [
+        {
+          "name": "TOTO",
+          "id": "0PFtn5NtBbbUNbU9EAmIWF"
+        }
       ],
-      "artistId": [
-        "0PFtn5NtBbbUNbU9EAmIWF"
-      ],
-      "albumId": "62U7xIHcID94o20Of5ea4D",
+      "album": {
+        "id": "62U7xIHcID94o20Of5ea4D",
+        "name": "Toto IV",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b"
+      },
       "release_date": "1982-04-08",
       "popularity": 83
     },
     {
-      "trackId": "6iGU74CwXuT4XVepjc9Emf",
-      "name": "God Only Knows - Mono / 1997 Remastered",
+      "track": {
+        "id": "6iGU74CwXuT4XVepjc9Emf",
+        "name": "God Only Knows - Mono / 1997 Remastered"
+      },
       "duration_ms": 173040,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "6GphKx2QAPRoVGWE9D7ou8",
+      "album": {
+        "id": "6GphKx2QAPRoVGWE9D7ou8",
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bde8dfd1922129f3d9e3732f"
+      },
       "release_date": "1966-06-16",
       "popularity": 67
     }

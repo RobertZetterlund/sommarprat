@@ -7,206 +7,298 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258610_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0tlT8CryDlTCWeIyndPIPq",
-      "name": "I Can't Give You Anything But Love",
+      "track": {
+        "id": "0tlT8CryDlTCWeIyndPIPq",
+        "name": "I Can't Give You Anything But Love"
+      },
       "duration_ms": 180653,
-      "artist": [
-        "Cliff Edwards"
+      "artists": [
+        {
+          "name": "Cliff Edwards",
+          "id": "0aeRagbqQCOKkVURrvcMrn"
+        }
       ],
-      "artistId": [
-        "0aeRagbqQCOKkVURrvcMrn"
-      ],
-      "albumId": "4AcLDEEtYVp0RYDfPhmC4M",
+      "album": {
+        "id": "4AcLDEEtYVp0RYDfPhmC4M",
+        "name": "The Roaring 20s Year-By-Year: 1920 to 1929, The Number One Hits of the Decade",
+        "img": "https://i.scdn.co/image/f7114c628989127e3546030a943d2723ff8953c4"
+      },
       "release_date": "2013-01-08",
       "popularity": 6
     },
     {
-      "trackId": "7wxLNg9adq6SxEnYmupH9y",
-      "name": "Balladen om Briggen Blue Bird av Hull",
+      "track": {
+        "id": "7wxLNg9adq6SxEnYmupH9y",
+        "name": "Balladen om Briggen Blue Bird av Hull"
+      },
       "duration_ms": 266146,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "09wjd4s1OE1rAxHQcicPch",
+      "album": {
+        "id": "09wjd4s1OE1rAxHQcicPch",
+        "name": "Evert Taube - 50 visor i urval av Sven-Bertil Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e027c1230c11269f16d06cb39d8"
+      },
       "release_date": "2013-01-01",
       "popularity": 18
     },
     {
-      "trackId": "3VQ7hwiEfaHDl3AySgyaiR",
-      "name": "Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King",
+      "track": {
+        "id": "3VQ7hwiEfaHDl3AySgyaiR",
+        "name": "Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King"
+      },
       "duration_ms": 153266,
-      "artist": [
-        "Edvard Grieg",
-        "Esa-Pekka Salonen"
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "id": "5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        }
       ],
-      "artistId": [
-        "5ihY290YPGc3aY2xTyx7Gy",
-        "3ilNZUdmNZ2nUcuAOIpsQl"
-      ],
-      "albumId": "2Rt1JJA8IvT38kzCyZksSP",
+      "album": {
+        "id": "2Rt1JJA8IvT38kzCyZksSP",
+        "name": "Grieg: Peer Gynt, Op. 23 (Excerpts) - Sony Classical Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c77f2e983126ffc3a86d1fad"
+      },
       "release_date": "1989",
       "popularity": 46
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "6OuRbvP4PgbuzBIapVzmFJ",
-      "name": "Sailing",
+      "track": {
+        "id": "6OuRbvP4PgbuzBIapVzmFJ",
+        "name": "Sailing"
+      },
       "duration_ms": 277960,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "7vV3q5jE7DSuKsnHr7OmmN",
+      "album": {
+        "id": "7vV3q5jE7DSuKsnHr7OmmN",
+        "name": "Atlantic Crossing",
+        "img": "https://i.scdn.co/image/ab67616d00001e029199bdfc160aa8d63a57040a"
+      },
       "release_date": "1975",
       "popularity": 67
     },
     {
-      "trackId": "0dRcFOOCdwbEMFLeibJhxV",
-      "name": "Island In The Sun",
+      "track": {
+        "id": "0dRcFOOCdwbEMFLeibJhxV",
+        "name": "Island In The Sun"
+      },
       "duration_ms": 201453,
-      "artist": [
-        "Harry Belafonte"
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "id": "6Tw1ktF4xMmzaLLbe98I2z"
+        }
       ],
-      "artistId": [
-        "6Tw1ktF4xMmzaLLbe98I2z"
-      ],
-      "albumId": "4OdO7cL7opGFZarQCjwQGi",
+      "album": {
+        "id": "4OdO7cL7opGFZarQCjwQGi",
+        "name": "The Essential Harry Belafonte",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef78da554cb83f444d8e7b2a"
+      },
       "release_date": "2005-08-16",
       "popularity": 45
     },
     {
-      "trackId": "34cXeE1vGOqqsfWFXrcYXQ",
-      "name": "Nina",
+      "track": {
+        "id": "34cXeE1vGOqqsfWFXrcYXQ",
+        "name": "Nina"
+      },
       "duration_ms": 174693,
-      "artist": [
-        "Devito"
+      "artists": [
+        {
+          "name": "Devito",
+          "id": "0JQ4vokBBqHxHzRb36fSWN"
+        }
       ],
-      "artistId": [
-        "0JQ4vokBBqHxHzRb36fSWN"
-      ],
-      "albumId": "1DMj3GrMVIDqCwzcZ2cGxX",
+      "album": {
+        "id": "1DMj3GrMVIDqCwzcZ2cGxX",
+        "name": "Nina",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d168a95ce17faaff98357523"
+      },
       "release_date": "2021-01-01",
       "popularity": 47
     },
     {
-      "trackId": "0uGqZjILElWMOQQ1WqlDUy",
-      "name": "Passionsfrukt",
+      "track": {
+        "id": "0uGqZjILElWMOQQ1WqlDUy",
+        "name": "Passionsfrukt"
+      },
       "duration_ms": 231733,
-      "artist": [
-        "Magnus Uggla"
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "id": "30j6YCWLSp59jLF7yIYZWq"
+        }
       ],
-      "artistId": [
-        "30j6YCWLSp59jLF7yIYZWq"
-      ],
-      "albumId": "1IYSMFv8suhmE3rKTksrve",
+      "album": {
+        "id": "1IYSMFv8suhmE3rKTksrve",
+        "name": "Den döende dandyn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b59724b5e81caafefe01d3d8"
+      },
       "release_date": "1986-05-02",
       "popularity": 34
     },
     {
-      "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
-      "name": "Öppna landskap",
+      "track": {
+        "id": "1WVjxyTSZ5UiI6TlcHyUPh",
+        "name": "Öppna landskap"
+      },
       "duration_ms": 278333,
-      "artist": [
-        "Ulf Lundell"
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "id": "5kFHS4mQd9W0r7qDp8ec9A"
+        }
       ],
-      "artistId": [
-        "5kFHS4mQd9W0r7qDp8ec9A"
-      ],
-      "albumId": "7aB0bPRv2elnc0Ou1whaty",
+      "album": {
+        "id": "7aB0bPRv2elnc0Ou1whaty",
+        "name": "Öppna Landskap 7595",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cec4d71708dbf4f7f02f8a6a"
+      },
       "release_date": "1995",
       "popularity": 49
     },
     {
-      "trackId": "3BUQr6hccjOeYauXpA1C5E",
-      "name": "Kristina från Vilhelmina - Live",
+      "track": {
+        "id": "3BUQr6hccjOeYauXpA1C5E",
+        "name": "Kristina från Vilhelmina - Live"
+      },
       "duration_ms": 201758,
-      "artist": [
-        "Kent-Owes"
+      "artists": [
+        {
+          "name": "Kent-Owes",
+          "id": "25YlWwGx1fQ8pxf7btIYB6"
+        }
       ],
-      "artistId": [
-        "25YlWwGx1fQ8pxf7btIYB6"
-      ],
-      "albumId": "2jt18GWNQkKNLkoDutSv1j",
+      "album": {
+        "id": "2jt18GWNQkKNLkoDutSv1j",
+        "name": "Bjuder upp till dans!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccf0aa05b5084cf64dc40062"
+      },
       "release_date": "2021-03-01",
       "popularity": 28
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     },
     {
-      "trackId": "1vxw6aYJls2oq3gW0DujAo",
-      "name": "Crazy",
+      "track": {
+        "id": "1vxw6aYJls2oq3gW0DujAo",
+        "name": "Crazy"
+      },
       "duration_ms": 177466,
-      "artist": [
-        "Gnarls Barkley"
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "id": "5SbkVQYYzlw1kte75QIabH"
+        }
       ],
-      "artistId": [
-        "5SbkVQYYzlw1kte75QIabH"
-      ],
-      "albumId": "5I0Wf7lRLZArM1K2uQ1AEA",
+      "album": {
+        "id": "5I0Wf7lRLZArM1K2uQ1AEA",
+        "name": "St. Elsewhere",
+        "img": "https://i.scdn.co/image/ab67616d00001e022cb3f40f7d4114236061f77f"
+      },
       "release_date": "2006-04-24",
       "popularity": 75
     },
     {
-      "trackId": "2NOyTijV4TGvH6zIntBIYI",
-      "name": "Strauss Jr., J.: An der schönen blauen Donau, Op. 314",
+      "track": {
+        "id": "2NOyTijV4TGvH6zIntBIYI",
+        "name": "Strauss Jr., J.: An der schönen blauen Donau, Op. 314"
+      },
       "duration_ms": 560826,
-      "artist": [
-        "Johann Strauss II",
-        "Wiener Johann Strauss Orchester",
-        "Willi Boskovsky"
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "id": "5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Wiener Johann Strauss Orchester",
+          "id": "4L1KSucx7LN4DyRT1w4z9S"
+        },
+        {
+          "name": "Willi Boskovsky",
+          "id": "0KE7MPlNGYZugOqQngcqQV"
+        }
       ],
-      "artistId": [
-        "5goS0v24Fc1ydjCKQRwtjM",
-        "4L1KSucx7LN4DyRT1w4z9S",
-        "0KE7MPlNGYZugOqQngcqQV"
-      ],
-      "albumId": "0t4cyanhQrhIsOY624gJ0D",
+      "album": {
+        "id": "0t4cyanhQrhIsOY624gJ0D",
+        "name": "Klassiska mästerverk [Klassisk musik av de största kompositörerna]",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f5279d18d872b6782c4f169"
+      },
       "release_date": "2012-11-23",
       "popularity": 9
     },
     {
-      "trackId": "5b7OgznPJJr1vHNYGyvxau",
-      "name": "Fly Me To The Moon (In Other Words)",
+      "track": {
+        "id": "5b7OgznPJJr1vHNYGyvxau",
+        "name": "Fly Me To The Moon (In Other Words)"
+      },
       "duration_ms": 147000,
-      "artist": [
-        "Frank Sinatra",
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "2NCtCObbmJoJnplsR5mLAl",
+      "album": {
+        "id": "2NCtCObbmJoJnplsR5mLAl",
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb81eb3c1238c60f2bbfd3b5"
+      },
       "release_date": "1962-12-10",
       "popularity": 71
     }

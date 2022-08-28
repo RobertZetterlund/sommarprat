@@ -7,242 +7,354 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3234174_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0QFZuRzpWKodJJmGIeHDQj",
-      "name": "Det var dans bort i vägen",
+      "track": {
+        "id": "0QFZuRzpWKodJJmGIeHDQj",
+        "name": "Det var dans bort i vägen"
+      },
       "duration_ms": 207693,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "2aZ37mVqAeNeFfQ9prvnpd",
+      "album": {
+        "id": "2aZ37mVqAeNeFfQ9prvnpd",
+        "name": "Sven Ingvars i Frödingland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2fe827653054bf895d8ee11"
+      },
       "release_date": "1971-01-01",
       "popularity": 34
     },
     {
-      "trackId": "1Ejwe18LP8jnvwGSQBGd0L",
-      "name": "The Typewriter",
+      "track": {
+        "id": "1Ejwe18LP8jnvwGSQBGd0L",
+        "name": "The Typewriter"
+      },
       "duration_ms": 101253,
-      "artist": [
-        "Leroy Anderson",
-        "Eastman Rochester Pops Orchestra",
-        "Frederick Fennell"
+      "artists": [
+        {
+          "name": "Leroy Anderson",
+          "id": "5YhX2onn51M81v4dSZajlX"
+        },
+        {
+          "name": "Eastman Rochester Pops Orchestra",
+          "id": "2r4ViReLKR4EkknqZwoPq0"
+        },
+        {
+          "name": "Frederick Fennell",
+          "id": "10Z0NK86gcVn3YytVA4WfJ"
+        }
       ],
-      "artistId": [
-        "5YhX2onn51M81v4dSZajlX",
-        "2r4ViReLKR4EkknqZwoPq0",
-        "10Z0NK86gcVn3YytVA4WfJ"
-      ],
-      "albumId": "1llpqpe9obcBw45gEI3WDL",
+      "album": {
+        "id": "1llpqpe9obcBw45gEI3WDL",
+        "name": "Frederick Fennell Conducts The Music Of Leroy Anderson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02657e1c9f9ca6ffa81b932099"
+      },
       "release_date": "1992-01-01",
       "popularity": 35
     },
     {
-      "trackId": "3enhfemedcEzww80C9dsWH",
-      "name": "Number 4",
+      "track": {
+        "id": "3enhfemedcEzww80C9dsWH",
+        "name": "Number 4"
+      },
       "duration_ms": 120372,
-      "artist": [
-        "Slowbuba"
+      "artists": [
+        {
+          "name": "Slowbuba",
+          "id": "1Pg039LgmzRMYcC6ESJQcD"
+        }
       ],
-      "artistId": [
-        "1Pg039LgmzRMYcC6ESJQcD"
-      ],
-      "albumId": "2KmtAikv1xUte7iBKyDLEs",
+      "album": {
+        "id": "2KmtAikv1xUte7iBKyDLEs",
+        "name": "12",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202825a291d8fbe6fcf042f8b"
+      },
       "release_date": "2021-09-28",
       "popularity": 24
     },
     {
-      "trackId": "5Ti0htuda4SJnwkWrVRbqZ",
-      "name": "Owa - Radio Edit",
+      "track": {
+        "id": "5Ti0htuda4SJnwkWrVRbqZ",
+        "name": "Owa - Radio Edit"
+      },
       "duration_ms": 224166,
-      "artist": [
-        "hvsh"
+      "artists": [
+        {
+          "name": "hvsh",
+          "id": "0q9zk8uO5AcH8HHwfp3l40"
+        }
       ],
-      "artistId": [
-        "0q9zk8uO5AcH8HHwfp3l40"
-      ],
-      "albumId": "6skwhKCll7FhzbUgqi8bd0",
+      "album": {
+        "id": "6skwhKCll7FhzbUgqi8bd0",
+        "name": "Owa (Radio Edit)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249e53cb833114fb10f9d3125"
+      },
       "release_date": "2022-06-22",
       "popularity": 16
     },
     {
-      "trackId": "1E12UBXZqLhg1u0DXIWqMH",
-      "name": "Red Cross (09-15-44)",
+      "track": {
+        "id": "1E12UBXZqLhg1u0DXIWqMH",
+        "name": "Red Cross (09-15-44)"
+      },
       "duration_ms": 189210,
-      "artist": [
-        "Tiny Grimes"
+      "artists": [
+        {
+          "name": "Tiny Grimes",
+          "id": "2SJ9t86XCfdJnyoMgAtPU1"
+        }
       ],
-      "artistId": [
-        "2SJ9t86XCfdJnyoMgAtPU1"
-      ],
-      "albumId": "0eKLorEHcxOtiXp8xchAjb",
+      "album": {
+        "id": "0eKLorEHcxOtiXp8xchAjb",
+        "name": "Classics: 1944-1949",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d107a73f0278dd73f877acbf"
+      },
       "release_date": "2002",
       "popularity": 0
     },
     {
-      "trackId": "1srMlzGV9Zjdvhfiv53m3b",
-      "name": "För Första Gången Nånsin",
+      "track": {
+        "id": "1srMlzGV9Zjdvhfiv53m3b",
+        "name": "För Första Gången Nånsin"
+      },
       "duration_ms": 224293,
-      "artist": [
-        "Annika Herlitz",
-        "Mimmi Sandén"
+      "artists": [
+        {
+          "name": "Annika Herlitz",
+          "id": "5gBb4inMl5EJFcQxEWpQJ7"
+        },
+        {
+          "name": "Mimmi Sandén",
+          "id": "3OXidOhUVXLVG7je2ISGv0"
+        }
       ],
-      "artistId": [
-        "5gBb4inMl5EJFcQxEWpQJ7",
-        "3OXidOhUVXLVG7je2ISGv0"
-      ],
-      "albumId": "1WNoZwWTbwzhRHoQaMGHbN",
+      "album": {
+        "id": "1WNoZwWTbwzhRHoQaMGHbN",
+        "name": "Frost (Svenskt Original Soundtrack/ Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204ca3d7818e58b65869ee7be"
+      },
       "release_date": "2014-01-01",
       "popularity": 41
     },
     {
-      "trackId": "14lyZKpPu1ECQpfXhgrip6",
-      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "track": {
+        "id": "14lyZKpPu1ECQpfXhgrip6",
+        "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav."
+      },
       "duration_ms": 50480,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP"
-      ],
-      "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+      "album": {
+        "id": "1aCpHSQE5ghxibsQ5gkBe0",
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7ed978a7fd1498ce8c031f7"
+      },
       "release_date": "1981",
       "popularity": 42
     },
     {
-      "trackId": "2UDADgwsXreo0c6ylxzb2Y",
-      "name": "Ängeln i rummet",
+      "track": {
+        "id": "2UDADgwsXreo0c6ylxzb2Y",
+        "name": "Ängeln i rummet"
+      },
       "duration_ms": 242040,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "0mFVscExJSpYhATY4hZyOH",
+      "album": {
+        "id": "0mFVscExJSpYhATY4hZyOH",
+        "name": "Fria världen 1.989",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234be43c089ff4a6d2f558065"
+      },
       "release_date": "1989-02-22",
       "popularity": 44
     },
     {
-      "trackId": "2yz5IaQLnO8WBCIWMXoRBS",
-      "name": "Känn ingen sorg för mig Göteborg",
+      "track": {
+        "id": "2yz5IaQLnO8WBCIWMXoRBS",
+        "name": "Känn ingen sorg för mig Göteborg"
+      },
       "duration_ms": 228893,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "3GLyWjI7skSDxKOBEhAhUE",
+      "album": {
+        "id": "3GLyWjI7skSDxKOBEhAhUE",
+        "name": "Känn ingen sorg för mig Göteborg",
+        "img": "https://i.scdn.co/image/ab67616d00001e029cf9c73c1277ff94d4608a32"
+      },
       "release_date": "2000-09-25",
       "popularity": 58
     },
     {
-      "trackId": "6WGIIDC0GtKTp5q7JAnnJ7",
-      "name": "Today's blowjob 20210707",
+      "track": {
+        "id": "6WGIIDC0GtKTp5q7JAnnJ7",
+        "name": "Today's blowjob 20210707"
+      },
       "duration_ms": 67638,
-      "artist": [
-        "Improvisation"
+      "artists": [
+        {
+          "name": "Improvisation",
+          "id": "4vFb49awrZM415wXasNPWW"
+        }
       ],
-      "artistId": [
-        "4vFb49awrZM415wXasNPWW"
-      ],
-      "albumId": "6LbMwsaQJwrFydTlmmWiq8",
+      "album": {
+        "id": "6LbMwsaQJwrFydTlmmWiq8",
+        "name": "Skin models",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277c0026e592d6dbd2bca11a1"
+      },
       "release_date": "2021-11-05",
       "popularity": 10
     },
     {
-      "trackId": "1pEeWKbTCtRsjtyG9Jxp7L",
-      "name": "Memory",
+      "track": {
+        "id": "1pEeWKbTCtRsjtyG9Jxp7L",
+        "name": "Memory"
+      },
       "duration_ms": 315626,
-      "artist": [
-        "Andrew Lloyd Webber",
-        "\"Cats\" 1981 Original London Cast",
-        "Elaine Paige"
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "id": "4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\"Cats\" 1981 Original London Cast",
+          "id": "5PwgSnrvg48DYvdsf2Y2ZD"
+        },
+        {
+          "name": "Elaine Paige",
+          "id": "7KckozT8XPOqtgJjpAcrnA"
+        }
       ],
-      "artistId": [
-        "4aP1lp10BRYZO658B2NwkG",
-        "5PwgSnrvg48DYvdsf2Y2ZD",
-        "7KckozT8XPOqtgJjpAcrnA"
-      ],
-      "albumId": "66UrYsmX0lRzAOwLxkPgjl",
+      "album": {
+        "id": "66UrYsmX0lRzAOwLxkPgjl",
+        "name": "Cats (Original London Cast Recording / 1981)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b19cc76dbca2a49b2633612c"
+      },
       "release_date": "1981-01-01",
       "popularity": 44
     },
     {
-      "trackId": "3y8pywLbRGC1x8oCDeTMyL",
-      "name": "Dressed For Success",
+      "track": {
+        "id": "3y8pywLbRGC1x8oCDeTMyL",
+        "name": "Dressed For Success"
+      },
       "duration_ms": 249840,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "4rQV5S9FhajZdyzFfcyYw9",
+      "album": {
+        "id": "4rQV5S9FhajZdyzFfcyYw9",
+        "name": "Look Sharp! (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d32e463de3d8d8b39dcac2c"
+      },
       "release_date": "1988-10-21",
       "popularity": 59
     },
     {
-      "trackId": "36HYwgjXqwVL0EIxMjbrPw",
-      "name": "Sången om pennan",
+      "track": {
+        "id": "36HYwgjXqwVL0EIxMjbrPw",
+        "name": "Sången om pennan"
+      },
       "duration_ms": 192533,
-      "artist": [
-        "Maritza Horn"
+      "artists": [
+        {
+          "name": "Maritza Horn",
+          "id": "2lR1s5nZaebHT4YozInbEd"
+        }
       ],
-      "artistId": [
-        "2lR1s5nZaebHT4YozInbEd"
-      ],
-      "albumId": "3acKYgyYqRSeDlwRaL2Ex7",
+      "album": {
+        "id": "3acKYgyYqRSeDlwRaL2Ex7",
+        "name": "Morgon i Georgia",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e26d54d5f34929f15f416a8"
+      },
       "release_date": "1988-01-01",
       "popularity": 3
     },
     {
-      "trackId": "4Evp4SGxHiKWGJmaBBxSo2",
-      "name": "Alto songo",
+      "track": {
+        "id": "4Evp4SGxHiKWGJmaBBxSo2",
+        "name": "Alto songo"
+      },
       "duration_ms": 402866,
-      "artist": [
-        "Afro-Cuban All Stars"
+      "artists": [
+        {
+          "name": "Afro-Cuban All Stars",
+          "id": "5cvnQ2gtwZraxeE99Y8aOg"
+        }
       ],
-      "artistId": [
-        "5cvnQ2gtwZraxeE99Y8aOg"
-      ],
-      "albumId": "3mjwCWLCCtHiEv0Ttek5zT",
+      "album": {
+        "id": "3mjwCWLCCtHiEv0Ttek5zT",
+        "name": "A Toda Cuba Le Gusta",
+        "img": "https://i.scdn.co/image/ab67616d00001e021fe90cf00d0e50b506e6ceb2"
+      },
       "release_date": "1997-04-09",
       "popularity": 39
     },
     {
-      "trackId": "62iWIPHlrygJCi3ItKH2g1",
-      "name": "Allt du kan göra kan jag göra bättre",
+      "track": {
+        "id": "62iWIPHlrygJCi3ItKH2g1",
+        "name": "Allt du kan göra kan jag göra bättre"
+      },
       "duration_ms": 112333,
-      "artist": [
-        "Towa Carson och Tosse Bark"
+      "artists": [
+        {
+          "name": "Towa Carson och Tosse Bark",
+          "id": "24IN9fMMd6JBbeaYWyNbvU"
+        }
       ],
-      "artistId": [
-        "24IN9fMMd6JBbeaYWyNbvU"
-      ],
-      "albumId": "3euz7saaZLUL3aMa5YJTgo",
+      "album": {
+        "id": "3euz7saaZLUL3aMa5YJTgo",
+        "name": "My Fair Lady/Annie Get Your Gun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a53b4a6ca1353103845b6e74"
+      },
       "release_date": "1959",
       "popularity": 0
     },
     {
-      "trackId": "3K5TAZ192q52fTDQjz52av",
-      "name": "Verdi: La forza del destino: Overture to Act 1",
+      "track": {
+        "id": "3K5TAZ192q52fTDQjz52av",
+        "name": "Verdi: La forza del destino: Overture to Act 1"
+      },
       "duration_ms": 431133,
-      "artist": [
-        "Giuseppe Verdi",
-        "Orchestra Del Teatro Alla Scala, Milano",
-        "Riccardo Muti"
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "id": "1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "id": "7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Riccardo Muti",
+          "id": "7silW8RiEOoLBgAg5JBCL1"
+        }
       ],
-      "artistId": [
-        "1JOQXgYdQV2yfrhewqx96o",
-        "7JdPe4gzrYmbcko3FTav57",
-        "7silW8RiEOoLBgAg5JBCL1"
-      ],
-      "albumId": "7dOAuusf4Bvmj33E7BL3z1",
+      "album": {
+        "id": "7dOAuusf4Bvmj33E7BL3z1",
+        "name": "Verdi: La forza del destino",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221f80b2e9529958335c6a6e5"
+      },
       "release_date": "1986",
       "popularity": 24
     }

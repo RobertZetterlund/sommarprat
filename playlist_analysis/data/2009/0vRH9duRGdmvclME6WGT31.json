@@ -7,222 +7,322 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3250409_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5tiFAYohJW727lflovpMKm",
-      "name": "Baby Love - Lofi Flip",
+      "track": {
+        "id": "5tiFAYohJW727lflovpMKm",
+        "name": "Baby Love - Lofi Flip"
+      },
       "duration_ms": 94173,
-      "artist": [
-        "uChill",
-        "The Supremes",
-        "LOUALLDAY"
+      "artists": [
+        {
+          "name": "uChill",
+          "id": "7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "The Supremes",
+          "id": "57bUPid8xztkieZfS7OlEV"
+        },
+        {
+          "name": "LOUALLDAY",
+          "id": "5t6GZtOQUoSS5OB0zmZUhm"
+        }
       ],
-      "artistId": [
-        "7tG1DhpZCWx7wvgNqC73ce",
-        "57bUPid8xztkieZfS7OlEV",
-        "5t6GZtOQUoSS5OB0zmZUhm"
-      ],
-      "albumId": "28NvWW5Ca9KJ0RJFSovW3E",
+      "album": {
+        "id": "28NvWW5Ca9KJ0RJFSovW3E",
+        "name": "LoTown Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02396626df677a62cc589edadb"
+      },
       "release_date": "2022-04-22",
       "popularity": 48
     },
     {
-      "trackId": "0CINJz55gaKzuAsqhZ0hEU",
-      "name": "Waking Up In Vegas",
+      "track": {
+        "id": "0CINJz55gaKzuAsqhZ0hEU",
+        "name": "Waking Up In Vegas"
+      },
       "duration_ms": 199186,
-      "artist": [
-        "Katy Perry"
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "id": "6jJ0s89eD6GaHleKKya26X"
+        }
       ],
-      "artistId": [
-        "6jJ0s89eD6GaHleKKya26X"
-      ],
-      "albumId": "3OALgjCs6Lqw41853v4wEQ",
+      "album": {
+        "id": "3OALgjCs6Lqw41853v4wEQ",
+        "name": "One Of The Boys",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f97d4244eff5852477d9ee0"
+      },
       "release_date": "2008-06-17",
       "popularity": 50
     },
     {
-      "trackId": "1c6E9YzpbBtoHoaIxeBtvY",
-      "name": "Efter plugget",
+      "track": {
+        "id": "1c6E9YzpbBtoHoaIxeBtvY",
+        "name": "Efter plugget"
+      },
       "duration_ms": 271000,
-      "artist": [
-        "Factory"
+      "artists": [
+        {
+          "name": "Factory",
+          "id": "6agvrU2vZ0xzyZFDNKx6Lx"
+        }
       ],
-      "artistId": [
-        "6agvrU2vZ0xzyZFDNKx6Lx"
-      ],
-      "albumId": "21o2V9h5XWvUY6sBdc9Ddi",
+      "album": {
+        "id": "21o2V9h5XWvUY6sBdc9Ddi",
+        "name": "Sommarhits - 75 svenska sommarlåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bc4fbf1e61fdde07f28ebe93"
+      },
       "release_date": "2017-06-03",
       "popularity": 14
     },
     {
-      "trackId": "1HDTvI2dlND6u5h5UtYRJz",
-      "name": "Say That You Love Me",
+      "track": {
+        "id": "1HDTvI2dlND6u5h5UtYRJz",
+        "name": "Say That You Love Me"
+      },
       "duration_ms": 231468,
-      "artist": [
-        "Yaadcore"
+      "artists": [
+        {
+          "name": "Yaadcore",
+          "id": "1hevfhry04udTTR3OPJIv4"
+        }
       ],
-      "artistId": [
-        "1hevfhry04udTTR3OPJIv4"
-      ],
-      "albumId": "754AVqPGMs1W1yEYxG5Hq5",
+      "album": {
+        "id": "754AVqPGMs1W1yEYxG5Hq5",
+        "name": "Reggaeland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02849b844484f0f6ee524a5e71"
+      },
       "release_date": "2022-03-18",
       "popularity": 25
     },
     {
-      "trackId": "4QQanmuhwKwWCSwbmdasPv",
-      "name": "Cabaret Songs, Vol. 1: V. Song of Black Max (As Told by the De Kooning Boys)",
+      "track": {
+        "id": "4QQanmuhwKwWCSwbmdasPv",
+        "name": "Cabaret Songs, Vol. 1: V. Song of Black Max (As Told by the De Kooning Boys)"
+      },
       "duration_ms": 181705,
-      "artist": [
-        "William Bolcom",
-        "Stephen Powell"
+      "artists": [
+        {
+          "name": "William Bolcom",
+          "id": "0Uj2XBKJsuZZsf5xSEPfmS"
+        },
+        {
+          "name": "Stephen Powell",
+          "id": "3KEd3caGaEIma5PJ0uCaL9"
+        }
       ],
-      "artistId": [
-        "0Uj2XBKJsuZZsf5xSEPfmS",
-        "3KEd3caGaEIma5PJ0uCaL9"
-      ],
-      "albumId": "1GnCkZUAGfTBNYsjTUUadC",
+      "album": {
+        "id": "1GnCkZUAGfTBNYsjTUUadC",
+        "name": "American Composers at Play: William Bolcom, Ricky Ian Gordon, Lori Laitman, John Musto",
+        "img": "https://i.scdn.co/image/ab67616d00001e026c9d333895ae83da883c392e"
+      },
       "release_date": "2020-08-25",
       "popularity": 0
     },
     {
-      "trackId": "6EjH7ihkymLIS2Z235vN21",
-      "name": "Have You Ever Been In Love",
+      "track": {
+        "id": "6EjH7ihkymLIS2Z235vN21",
+        "name": "Have You Ever Been In Love"
+      },
       "duration_ms": 248160,
-      "artist": [
-        "Céline Dion"
+      "artists": [
+        {
+          "name": "Céline Dion",
+          "id": "4S9EykWXhStSc15wEx8QFK"
+        }
       ],
-      "artistId": [
-        "4S9EykWXhStSc15wEx8QFK"
-      ],
-      "albumId": "1YQ5V21NSxR9ZauQ3RUbfZ",
+      "album": {
+        "id": "1YQ5V21NSxR9ZauQ3RUbfZ",
+        "name": "A New Day Has Come",
+        "img": "https://i.scdn.co/image/ab67616d00001e029891473cf4b39151f3feeb38"
+      },
       "release_date": "2001-01-01",
       "popularity": 48
     },
     {
-      "trackId": "1brpdmqkx3kSxyqzqXfW7J",
-      "name": "Heaven's On Fire",
+      "track": {
+        "id": "1brpdmqkx3kSxyqzqXfW7J",
+        "name": "Heaven's On Fire"
+      },
       "duration_ms": 201400,
-      "artist": [
-        "KISS"
+      "artists": [
+        {
+          "name": "KISS",
+          "id": "07XSN3sPlIlB2L2XNcTwJw"
+        }
       ],
-      "artistId": [
-        "07XSN3sPlIlB2L2XNcTwJw"
-      ],
-      "albumId": "5UxqSH1Ez2fcNVLqvLjsgB",
+      "album": {
+        "id": "5UxqSH1Ez2fcNVLqvLjsgB",
+        "name": "Animalize",
+        "img": "https://i.scdn.co/image/ab67616d00001e025796a96e792ccf729da94e85"
+      },
       "release_date": "1984-09-13",
       "popularity": 67
     },
     {
-      "trackId": "7ix7weOJNrB8AZXR6nFkJc",
-      "name": "Made In Sweden",
+      "track": {
+        "id": "7ix7weOJNrB8AZXR6nFkJc",
+        "name": "Made In Sweden"
+      },
       "duration_ms": 95026,
-      "artist": [
-        "E-Type"
+      "artists": [
+        {
+          "name": "E-Type",
+          "id": "53I4RAzuXWvaO1vzrCBJbD"
+        }
       ],
-      "artistId": [
-        "53I4RAzuXWvaO1vzrCBJbD"
-      ],
-      "albumId": "6HaxLemmf6z0xt74wnX8bA",
+      "album": {
+        "id": "6HaxLemmf6z0xt74wnX8bA",
+        "name": "Made In Sweden",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230202dfe915d64ee1dab94b6"
+      },
       "release_date": "1994-01-01",
       "popularity": 18
     },
     {
-      "trackId": "4DyxEpTnDv0aYzIY8LFz1c",
-      "name": "Heartstrings",
+      "track": {
+        "id": "4DyxEpTnDv0aYzIY8LFz1c",
+        "name": "Heartstrings"
+      },
       "duration_ms": 181653,
-      "artist": [
-        "Janet Leon"
+      "artists": [
+        {
+          "name": "Janet Leon",
+          "id": "1jYEIaJfxmcXFQGO4q5irm"
+        }
       ],
-      "artistId": [
-        "1jYEIaJfxmcXFQGO4q5irm"
-      ],
-      "albumId": "4LKfYWFsHfUGm4mBgPqusS",
+      "album": {
+        "id": "4LKfYWFsHfUGm4mBgPqusS",
+        "name": "Heartstrings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a60138527befa8caf020c7bd"
+      },
       "release_date": "2013",
       "popularity": 17
     },
     {
-      "trackId": "5RzFJd6W40SDTyZkX6xx45",
-      "name": "I Know You Want Me (Calle Ocho)",
+      "track": {
+        "id": "5RzFJd6W40SDTyZkX6xx45",
+        "name": "I Know You Want Me (Calle Ocho)"
+      },
       "duration_ms": 237120,
-      "artist": [
-        "Pitbull"
+      "artists": [
+        {
+          "name": "Pitbull",
+          "id": "0TnOYISbd1XYRBk9myaseg"
+        }
       ],
-      "artistId": [
-        "0TnOYISbd1XYRBk9myaseg"
-      ],
-      "albumId": "00zN65JStpVnpJn9ckMsQI",
+      "album": {
+        "id": "00zN65JStpVnpJn9ckMsQI",
+        "name": "Pitbull Starring In Rebelution",
+        "img": "https://i.scdn.co/image/ab67616d00001e02956346ed9c201b6de9d3a1a2"
+      },
       "release_date": "2009-08-31",
       "popularity": 69
     },
     {
-      "trackId": "5RM4iGrNOyeKLTcMv2FPc9",
-      "name": "The Way I Are",
+      "track": {
+        "id": "5RM4iGrNOyeKLTcMv2FPc9",
+        "name": "The Way I Are"
+      },
       "duration_ms": 179146,
-      "artist": [
-        "Timbaland",
-        "Keri Hilson",
-        "D.O.E."
+      "artists": [
+        {
+          "name": "Timbaland",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Keri Hilson",
+          "id": "63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "D.O.E.",
+          "id": "4TLCPR1sMYoNU1jA7O4uww"
+        }
       ],
-      "artistId": [
-        "5Y5TRrQiqgUO4S36tzjIRZ",
-        "63wjoROpeh5f11Qm93UiJ1",
-        "4TLCPR1sMYoNU1jA7O4uww"
-      ],
-      "albumId": "0V7TZQmJBgI81M9Z7GWxCI",
+      "album": {
+        "id": "0V7TZQmJBgI81M9Z7GWxCI",
+        "name": "Shock Value",
+        "img": "https://i.scdn.co/image/ab67616d00001e02755a9f1e89ad8e8cf91d4956"
+      },
       "release_date": "2007-01-01",
       "popularity": 57
     },
     {
-      "trackId": "6NgPfAg5nuFXfMP2y0BtkA",
-      "name": "Där varje minut blir två",
+      "track": {
+        "id": "6NgPfAg5nuFXfMP2y0BtkA",
+        "name": "Där varje minut blir två"
+      },
       "duration_ms": 227480,
-      "artist": [
-        "Niclas Wahlgren"
+      "artists": [
+        {
+          "name": "Niclas Wahlgren",
+          "id": "4pMgp6NWi4vcZ7gSBEX548"
+        }
       ],
-      "artistId": [
-        "4pMgp6NWi4vcZ7gSBEX548"
-      ],
-      "albumId": "05Fn6RDDC7opXq4CO0Unhv",
+      "album": {
+        "id": "05Fn6RDDC7opXq4CO0Unhv",
+        "name": "Plommon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02752e306ae026784d69f8427c"
+      },
       "release_date": "2009-09-28",
       "popularity": 26
     },
     {
-      "trackId": "4mnTMsp8Cgf9TNiQMhH11L",
-      "name": "I Wish I Was a Punk Rocker (with Flowers in My Hair)",
+      "track": {
+        "id": "4mnTMsp8Cgf9TNiQMhH11L",
+        "name": "I Wish I Was a Punk Rocker (with Flowers in My Hair)"
+      },
       "duration_ms": 151640,
-      "artist": [
-        "Sandi Thom"
+      "artists": [
+        {
+          "name": "Sandi Thom",
+          "id": "3xnfpcM4DC9zeHVuDhYICB"
+        }
       ],
-      "artistId": [
-        "3xnfpcM4DC9zeHVuDhYICB"
-      ],
-      "albumId": "2vh0Lg3vwmArk6KI0m9eb5",
+      "album": {
+        "id": "2vh0Lg3vwmArk6KI0m9eb5",
+        "name": "Smile...It Confuses People",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a731217c9463e1056cd727c"
+      },
       "release_date": "2006-06-05",
       "popularity": 62
     },
     {
-      "trackId": "3oDFtOhcN08qeDPAK6MEQG",
-      "name": "Boom Boom Pow",
+      "track": {
+        "id": "3oDFtOhcN08qeDPAK6MEQG",
+        "name": "Boom Boom Pow"
+      },
       "duration_ms": 251440,
-      "artist": [
-        "Black Eyed Peas"
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "id": "1yxSLGMDHlW21z4YXirZDS"
+        }
       ],
-      "artistId": [
-        "1yxSLGMDHlW21z4YXirZDS"
-      ],
-      "albumId": "1dgbFU08pXJXZhGPlybdMX",
+      "album": {
+        "id": "1dgbFU08pXJXZhGPlybdMX",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5"
+      },
       "release_date": "2009-01-01",
       "popularity": 69
     },
     {
-      "trackId": "1tH8ycIrUoZt94f82MrVL5",
-      "name": "These Boots Are Made For Walking",
+      "track": {
+        "id": "1tH8ycIrUoZt94f82MrVL5",
+        "name": "These Boots Are Made For Walking"
+      },
       "duration_ms": 162600,
-      "artist": [
-        "Nancy Sinatra"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2"
-      ],
-      "albumId": "2xPqWOuRbw3VS1CqwlQ2R1",
+      "album": {
+        "id": "2xPqWOuRbw3VS1CqwlQ2R1",
+        "name": "The Mexican - Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239280b45b3afd15392d3421c"
+      },
       "release_date": "2001-01-01",
       "popularity": 26
     }

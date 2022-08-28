@@ -7,256 +7,366 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3255347_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "47Oq5BeP1qKLymCjC5hcTi",
-      "name": "Styr den opp",
+      "track": {
+        "id": "47Oq5BeP1qKLymCjC5hcTi",
+        "name": "Styr den opp"
+      },
       "duration_ms": 402506,
-      "artist": [
-        "Peps Blodsband"
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "id": "16qbt9c47JP8oKWOSAycMD"
+        }
       ],
-      "artistId": [
-        "16qbt9c47JP8oKWOSAycMD"
-      ],
-      "albumId": "1ZYTcyOohNFetwUzj8t1bi",
+      "album": {
+        "id": "1ZYTcyOohNFetwUzj8t1bi",
+        "name": "Hög standard",
+        "img": "https://i.scdn.co/image/ab67616d00001e02691881a404f6b59c957b37f7"
+      },
       "release_date": "1975-01-01",
       "popularity": 24
     },
     {
-      "trackId": "0GEFbWYfsqESZ4vP0pGLVB",
-      "name": "I natt é hela stan vår",
+      "track": {
+        "id": "0GEFbWYfsqESZ4vP0pGLVB",
+        "name": "I natt é hela stan vår"
+      },
       "duration_ms": 146866,
-      "artist": [
-        "Noice"
+      "artists": [
+        {
+          "name": "Noice",
+          "id": "1TVoFA7SMYs6AG3u83FP69"
+        }
       ],
-      "artistId": [
-        "1TVoFA7SMYs6AG3u83FP69"
-      ],
-      "albumId": "6pOY4kJuPrvz6b2cktCzoW",
+      "album": {
+        "id": "6pOY4kJuPrvz6b2cktCzoW",
+        "name": "Tonårsdrömmar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a793eab002922f2aab39c666"
+      },
       "release_date": "1979-01-01",
       "popularity": 43
     },
     {
-      "trackId": "18cLbNZiXizNaSfR8QHCjF",
-      "name": "Attractive Female Wanted - 2008 Remaster",
+      "track": {
+        "id": "18cLbNZiXizNaSfR8QHCjF",
+        "name": "Attractive Female Wanted - 2008 Remaster"
+      },
       "duration_ms": 257240,
-      "artist": [
-        "Rod Stewart"
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "id": "2y8Jo9CKhJvtfeKOsYzRdT"
+        }
       ],
-      "artistId": [
-        "2y8Jo9CKhJvtfeKOsYzRdT"
-      ],
-      "albumId": "38tXOrjXUUfQWWV2DRwMio",
+      "album": {
+        "id": "38tXOrjXUUfQWWV2DRwMio",
+        "name": "Blondes Have More Fun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02843e6e9fe4544fd294d47b4d"
+      },
       "release_date": "1978-11-24",
       "popularity": 24
     },
     {
-      "trackId": "17gxfuiFUrLhbUKdunxUPJ",
-      "name": "Moon River",
+      "track": {
+        "id": "17gxfuiFUrLhbUKdunxUPJ",
+        "name": "Moon River"
+      },
       "duration_ms": 179866,
-      "artist": [
-        "Louis Armstrong"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek"
-      ],
-      "albumId": "213k6pbTGOHxlMpz5lb7zC",
+      "album": {
+        "id": "213k6pbTGOHxlMpz5lb7zC",
+        "name": "Hello, Dolly! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a11c39d4d29e2aa2917a6300"
+      },
       "release_date": "1964-10-25",
       "popularity": 53
     },
     {
-      "trackId": "3gWZ8TJ6oIpJWQBfrUOksW",
-      "name": "Brimful of Asha - Norman Cook Remix Single Version",
+      "track": {
+        "id": "3gWZ8TJ6oIpJWQBfrUOksW",
+        "name": "Brimful of Asha - Norman Cook Remix Single Version"
+      },
       "duration_ms": 243666,
-      "artist": [
-        "Cornershop",
-        "Norman Cook"
+      "artists": [
+        {
+          "name": "Cornershop",
+          "id": "3Kf7VEIRWquxrNIuyJZnfF"
+        },
+        {
+          "name": "Norman Cook",
+          "id": "4OQG8ttceevCWluX1i2BdO"
+        }
       ],
-      "artistId": [
-        "3Kf7VEIRWquxrNIuyJZnfF",
-        "4OQG8ttceevCWluX1i2BdO"
-      ],
-      "albumId": "7cepNiIFcqcjILIPPyFnVg",
+      "album": {
+        "id": "7cepNiIFcqcjILIPPyFnVg",
+        "name": "Brimful of Asha",
+        "img": "https://i.scdn.co/image/ab67616d00001e024934e5682e4444406294ab0c"
+      },
       "release_date": "1997-08-18",
       "popularity": 63
     },
     {
-      "trackId": "5dcwiQFqn0mTcWewYIv7MV",
-      "name": "Personal Jesus",
+      "track": {
+        "id": "5dcwiQFqn0mTcWewYIv7MV",
+        "name": "Personal Jesus"
+      },
       "duration_ms": 199240,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2BlL4Gv2DLPu8p58Wcmlm9",
+      "album": {
+        "id": "2BlL4Gv2DLPu8p58Wcmlm9",
+        "name": "American IV: The Man Comes Around",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f4f62da3d811b6501a69ffa"
+      },
       "release_date": "2002-01-01",
       "popularity": 60
     },
     {
-      "trackId": "0jJzyszVrJMUMpwDRCrEz8",
-      "name": "Tomorrow",
+      "track": {
+        "id": "0jJzyszVrJMUMpwDRCrEz8",
+        "name": "Tomorrow"
+      },
       "duration_ms": 200173,
-      "artist": [
-        "Brainpool"
+      "artists": [
+        {
+          "name": "Brainpool",
+          "id": "0FmyWp3oYPdFBsDznNObea"
+        }
       ],
-      "artistId": [
-        "0FmyWp3oYPdFBsDznNObea"
-      ],
-      "albumId": "3ybwU7bx2NQ0TW1ylyvnw7",
+      "album": {
+        "id": "3ybwU7bx2NQ0TW1ylyvnw7",
+        "name": "We Aimed to Please (Best of Brainpool Vol. 1)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02110c3de5cea3b26961109ca4"
+      },
       "release_date": "2005",
       "popularity": 2
     },
     {
-      "trackId": "2WVUPoFTzcRZeqoH3mhx4B",
-      "name": "Vad pojkar vill ha",
+      "track": {
+        "id": "2WVUPoFTzcRZeqoH3mhx4B",
+        "name": "Vad pojkar vill ha"
+      },
       "duration_ms": 286840,
-      "artist": [
-        "Rymdimperiet"
+      "artists": [
+        {
+          "name": "Rymdimperiet",
+          "id": "3yzvQIPDmdpLCNVB56AwmY"
+        }
       ],
-      "artistId": [
-        "3yzvQIPDmdpLCNVB56AwmY"
-      ],
-      "albumId": "7j0MfSa8eLqPBWDrAQ5Vhy",
+      "album": {
+        "id": "7j0MfSa8eLqPBWDrAQ5Vhy",
+        "name": "Vad pojkar vill ha",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d94f5942fb7c86ff04cf7e97"
+      },
       "release_date": "1981-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6tMiOMnn6qUoStQWH3iZLM",
-      "name": "Pictures Of Lily - Single Mix / Mono Version",
+      "track": {
+        "id": "6tMiOMnn6qUoStQWH3iZLM",
+        "name": "Pictures Of Lily - Single Mix / Mono Version"
+      },
       "duration_ms": 165773,
-      "artist": [
-        "The Who"
+      "artists": [
+        {
+          "name": "The Who",
+          "id": "67ea9eGLXYMsO2eYQRui3w"
+        }
       ],
-      "artistId": [
-        "67ea9eGLXYMsO2eYQRui3w"
-      ],
-      "albumId": "2JyNDhGhp0hiizSPuUs0i9",
+      "album": {
+        "id": "2JyNDhGhp0hiizSPuUs0i9",
+        "name": "The Who Sell Out (Super Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234894946601823e27fc08538"
+      },
       "release_date": "2021-04-23",
       "popularity": 30
     },
     {
-      "trackId": "6aNO3Tlxv3lMiWHQmhCCem",
-      "name": "Don't Let it Bring you Down",
+      "track": {
+        "id": "6aNO3Tlxv3lMiWHQmhCCem",
+        "name": "Don't Let it Bring you Down"
+      },
       "duration_ms": 230920,
-      "artist": [
-        "Bobby Sutliff"
+      "artists": [
+        {
+          "name": "Bobby Sutliff",
+          "id": "6vpLmWkoJICd5btc7pOcTF"
+        }
       ],
-      "artistId": [
-        "6vpLmWkoJICd5btc7pOcTF"
-      ],
-      "albumId": "1lrwURXzQVBSuMxGMbVDf9",
+      "album": {
+        "id": "1lrwURXzQVBSuMxGMbVDf9",
+        "name": "This Note's for you Too! A Tribute to Neil Young",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d83ad995306cd86336bfd08c"
+      },
       "release_date": "1999-04-20",
       "popularity": 4
     },
     {
-      "trackId": "0sWLOFiABlfNfASAHW6NRl",
-      "name": "Vem är den flickan",
+      "track": {
+        "id": "0sWLOFiABlfNfASAHW6NRl",
+        "name": "Vem är den flickan"
+      },
       "duration_ms": 208600,
-      "artist": [
-        "Wilmer X"
+      "artists": [
+        {
+          "name": "Wilmer X",
+          "id": "6yT4ID0YITwJKB9KOiZ41t"
+        }
       ],
-      "artistId": [
-        "6yT4ID0YITwJKB9KOiZ41t"
-      ],
-      "albumId": "0MGPG7ukOJLH3QZ5BvEkkB",
+      "album": {
+        "id": "0MGPG7ukOJLH3QZ5BvEkkB",
+        "name": "Djungelliv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9c3adfc000ea37c84b5f5d3"
+      },
       "release_date": "1983-01-01",
       "popularity": 26
     },
     {
-      "trackId": "3OuJz9r2pbX2uYp3CfmPtG",
-      "name": "Naturen",
+      "track": {
+        "id": "3OuJz9r2pbX2uYp3CfmPtG",
+        "name": "Naturen"
+      },
       "duration_ms": 104306,
-      "artist": [
-        "Philemon Arthur & The Dung"
+      "artists": [
+        {
+          "name": "Philemon Arthur & The Dung",
+          "id": "5o1e7nzu4Jwk0NTnb4mSLc"
+        }
       ],
-      "artistId": [
-        "5o1e7nzu4Jwk0NTnb4mSLc"
-      ],
-      "albumId": "4KcwX9LrC1uUsuni6omTom",
+      "album": {
+        "id": "4KcwX9LrC1uUsuni6omTom",
+        "name": "Musikens historia del I och II",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ff4241114c711b8f136773a"
+      },
       "release_date": "1972",
       "popularity": 18
     },
     {
-      "trackId": "3eIglLjkIX3rD8IcHz2Tkq",
-      "name": "Ska Man Förändra Världen - 1997 Remastered Version",
+      "track": {
+        "id": "3eIglLjkIX3rD8IcHz2Tkq",
+        "name": "Ska Man Förändra Världen - 1997 Remastered Version"
+      },
       "duration_ms": 14040,
-      "artist": [
-        "Robert Broberg"
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "id": "05JNHlwtdHqPJ6wcW7Mil5"
+        }
       ],
-      "artistId": [
-        "05JNHlwtdHqPJ6wcW7Mil5"
-      ],
-      "albumId": "1eK1vnRIbR5mDbzRDm1iTl",
+      "album": {
+        "id": "1eK1vnRIbR5mDbzRDm1iTl",
+        "name": "Robert Brobergs Älskade Original",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e731490ed8345ae3e98de5f1"
+      },
       "release_date": "2000-06-13",
       "popularity": 0
     },
     {
-      "trackId": "7lMyvGgljDJUK6PA0yflCp",
-      "name": "Bita ihop och härda ut",
+      "track": {
+        "id": "7lMyvGgljDJUK6PA0yflCp",
+        "name": "Bita ihop och härda ut"
+      },
       "duration_ms": 207026,
-      "artist": [
-        "Mats Möller"
+      "artists": [
+        {
+          "name": "Mats Möller",
+          "id": "5LOhkcbzkfkaoSJN3OTQzO"
+        }
       ],
-      "artistId": [
-        "5LOhkcbzkfkaoSJN3OTQzO"
-      ],
-      "albumId": "6a5ztXyV6RzVRIk84OY3h3",
+      "album": {
+        "id": "6a5ztXyV6RzVRIk84OY3h3",
+        "name": "Det jag ångrar mest",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209be50a4a76d78f3e2ad83f2"
+      },
       "release_date": "2006-06-11",
       "popularity": 0
     },
     {
-      "trackId": "758R5AwfFV4FBriIeWquXe",
-      "name": "'24' Theme",
+      "track": {
+        "id": "758R5AwfFV4FBriIeWquXe",
+        "name": "'24' Theme"
+      },
       "duration_ms": 279440,
-      "artist": [
-        "Sean Callery"
+      "artists": [
+        {
+          "name": "Sean Callery",
+          "id": "1mSdzR53wTsiokwyE8BJkl"
+        }
       ],
-      "artistId": [
-        "1mSdzR53wTsiokwyE8BJkl"
-      ],
-      "albumId": "6lGv5COzbSQ0wZd68VAREW",
+      "album": {
+        "id": "6lGv5COzbSQ0wZd68VAREW",
+        "name": "24 (Original Television Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02615ebf406b6f3b13a7a5ea3d"
+      },
       "release_date": "2004",
       "popularity": 17
     },
     {
-      "trackId": "6I9lOLSi1FA0mk8lXOBeQl",
-      "name": "The Journey",
+      "track": {
+        "id": "6I9lOLSi1FA0mk8lXOBeQl",
+        "name": "The Journey"
+      },
       "duration_ms": 246493,
-      "artist": [
-        "Papa Dee"
+      "artists": [
+        {
+          "name": "Papa Dee",
+          "id": "5L8MV6qPlIIkmhw1DRTf3Y"
+        }
       ],
-      "artistId": [
-        "5L8MV6qPlIIkmhw1DRTf3Y"
-      ],
-      "albumId": "75sCmCRMEmc310bzjBglFv",
+      "album": {
+        "id": "75sCmCRMEmc310bzjBglFv",
+        "name": "The Journey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b114e9fe626af3bc09b2c132"
+      },
       "release_date": "1996-03-05",
       "popularity": 19
     },
     {
-      "trackId": "1ASVp0nPr499UK44fpdBBd",
-      "name": "What's Inside a Girl?",
+      "track": {
+        "id": "1ASVp0nPr499UK44fpdBBd",
+        "name": "What's Inside a Girl?"
+      },
       "duration_ms": 202400,
-      "artist": [
-        "The Cramps"
+      "artists": [
+        {
+          "name": "The Cramps",
+          "id": "4lYtGx5NZQJHsMyhHc5iz3"
+        }
       ],
-      "artistId": [
-        "4lYtGx5NZQJHsMyhHc5iz3"
-      ],
-      "albumId": "5yS9cxbLm4L4eaZQzXGv4A",
+      "album": {
+        "id": "5yS9cxbLm4L4eaZQzXGv4A",
+        "name": "A Date with Elvis",
+        "img": "https://i.scdn.co/image/ab67616d00001e020335bbde841690bb54007c05"
+      },
       "release_date": "1986",
       "popularity": 40
     },
     {
-      "trackId": "5o2A6hu04HKbwVdyZfuZRX",
-      "name": "Miraklet",
+      "track": {
+        "id": "5o2A6hu04HKbwVdyZfuZRX",
+        "name": "Miraklet"
+      },
       "duration_ms": 272706,
-      "artist": [
-        "Di Leva"
+      "artists": [
+        {
+          "name": "Di Leva",
+          "id": "4L82oD5L2XQPwkHWOAJSad"
+        }
       ],
-      "artistId": [
-        "4L82oD5L2XQPwkHWOAJSad"
-      ],
-      "albumId": "0EpmsRA9bYmuaY1hlGakrX",
+      "album": {
+        "id": "0EpmsRA9bYmuaY1hlGakrX",
+        "name": "För Sverige i rymden",
+        "img": "https://i.scdn.co/image/ab67616d00001e020c59e978c7509d25aaac6bff"
+      },
       "release_date": "1999-05-28",
       "popularity": 32
     }

@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ac1e473e-5efe-4c44-b71e-0bf75e482793.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2HkXUCtoIYkFLf28kSFslF",
-      "name": "Femton minuter från Eslöv",
+      "track": {
+        "id": "2HkXUCtoIYkFLf28kSFslF",
+        "name": "Femton minuter från Eslöv"
+      },
       "duration_ms": 210706,
-      "artist": [
-        "Östen Warnerbring"
+      "artists": [
+        {
+          "name": "Östen Warnerbring",
+          "id": "0fDwWceuLMyzxnN0UIXBAe"
+        }
       ],
-      "artistId": [
-        "0fDwWceuLMyzxnN0UIXBAe"
-      ],
-      "albumId": "7iOT7CQT9Ae8kGr8Ad3PLp",
+      "album": {
+        "id": "7iOT7CQT9Ae8kGr8Ad3PLp",
+        "name": "20 bästa / Musik vi minns...",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287e3c18b0a556695f7cc670c"
+      },
       "release_date": "2001-01-01",
       "popularity": 34
     },
     {
-      "trackId": "4bl8idKCKkuvOyHRFSWot4",
-      "name": "Brev från kolonien",
+      "track": {
+        "id": "4bl8idKCKkuvOyHRFSWot4",
+        "name": "Brev från kolonien"
+      },
       "duration_ms": 144866,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "2M1yifaX3hZ3j3o0n0sxlC",
+      "album": {
+        "id": "2M1yifaX3hZ3j3o0n0sxlC",
+        "name": "Visor och oförskämdheter",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d8c4872e0a0cb5cccc044c3"
+      },
       "release_date": "1965",
       "popularity": 44
     },
     {
-      "trackId": "1uRKT2LRANv4baowBWHfDS",
-      "name": "(We're Gonna) Rock Around The Clock",
+      "track": {
+        "id": "1uRKT2LRANv4baowBWHfDS",
+        "name": "(We're Gonna) Rock Around The Clock"
+      },
       "duration_ms": 129893,
-      "artist": [
-        "Bill Haley & His Comets"
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "id": "3MFp4cYuYtTZe3d3xkLLbr"
+        }
       ],
-      "artistId": [
-        "3MFp4cYuYtTZe3d3xkLLbr"
-      ],
-      "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
+      "album": {
+        "id": "2vB7uVHcRU4dmHeFQCTkSK",
+        "name": "Rock Around The Clock",
+        "img": "https://i.scdn.co/image/ab67616d00001e029060a2c0a01366ee03274597"
+      },
       "release_date": "1955-12-19",
       "popularity": 66
     },
     {
-      "trackId": "0GjEhVFGZW8afUYGChu3Rr",
-      "name": "Dancing Queen",
+      "track": {
+        "id": "0GjEhVFGZW8afUYGChu3Rr",
+        "name": "Dancing Queen"
+      },
       "duration_ms": 230400,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1V6a99EbTTIegOhWoPxYI9",
+      "album": {
+        "id": "1V6a99EbTTIegOhWoPxYI9",
+        "name": "Arrival",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0"
+      },
       "release_date": "1976",
       "popularity": 83
     },
     {
-      "trackId": "3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way",
+      "track": {
+        "id": "3spdoTYpuCpmq19tuD0bOe",
+        "name": "My Way"
+      },
       "duration_ms": 276800,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3IdNQBn7De23AVyv2V67wn",
+      "album": {
+        "id": "3IdNQBn7De23AVyv2V67wn",
+        "name": "My Way (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280aa6a82fce614eea8357253"
+      },
       "release_date": "1969-03",
       "popularity": 71
     },
     {
-      "trackId": "7yzbimr8WVyAtBX3Eg6UL9",
-      "name": "Hallelujah",
+      "track": {
+        "id": "7yzbimr8WVyAtBX3Eg6UL9",
+        "name": "Hallelujah"
+      },
       "duration_ms": 277160,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "6I58qJMqZHhb8jtNT3CuJB",
+      "album": {
+        "id": "6I58qJMqZHhb8jtNT3CuJB",
+        "name": "Various Positions",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c56267153920f9c0df36c5b"
+      },
       "release_date": "1984-12-11",
       "popularity": 63
     },
     {
-      "trackId": "0oKOAL9nhFMieApXNLYkZ8",
-      "name": "Vem vet?",
+      "track": {
+        "id": "0oKOAL9nhFMieApXNLYkZ8",
+        "name": "Vem vet?"
+      },
       "duration_ms": 183413,
-      "artist": [
-        "Lisa Ekdahl"
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "id": "4SJSGUVZ04tezaGrxc96EE"
+        }
       ],
-      "artistId": [
-        "4SJSGUVZ04tezaGrxc96EE"
-      ],
-      "albumId": "7zt7vhLaqKhVuR08UZSwNP",
+      "album": {
+        "id": "7zt7vhLaqKhVuR08UZSwNP",
+        "name": "Lisa Ekdahl",
+        "img": "https://i.scdn.co/image/ab67616d00001e022eb0fb75c3006bfb6a641a1c"
+      },
       "release_date": "1994-02-21",
       "popularity": 48
     },
     {
-      "trackId": "68UzVHuJG09Z1AX9fk6jNY",
-      "name": "The Great Escape - Reprise Version",
+      "track": {
+        "id": "68UzVHuJG09Z1AX9fk6jNY",
+        "name": "The Great Escape - Reprise Version"
+      },
       "duration_ms": 171275,
-      "artist": [
-        "Moby",
-        "Nataly Dawn",
-        "Alice Skye"
+      "artists": [
+        {
+          "name": "Moby",
+          "id": "3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Nataly Dawn",
+          "id": "1vCgeJQjG0SFPCC9ixbCGz"
+        },
+        {
+          "name": "Alice Skye",
+          "id": "0vi9khHSAwMRQx1R65dIFR"
+        }
       ],
-      "artistId": [
-        "3OsRAKCvk37zwYcnzRf5XF",
-        "1vCgeJQjG0SFPCC9ixbCGz",
-        "0vi9khHSAwMRQx1R65dIFR"
-      ],
-      "albumId": "7DDaLbDUsTPBm5h7rUO9jJ",
+      "album": {
+        "id": "7DDaLbDUsTPBm5h7rUO9jJ",
+        "name": "Noapte de primăvară",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8763138eaa6d12f6a5bbf91"
+      },
       "release_date": "2022-08-10",
       "popularity": 0
     },
     {
-      "trackId": "5HAGOSvZSwes4XujkPWCd2",
-      "name": "Aldrig ska jag sluta älska dig",
+      "track": {
+        "id": "5HAGOSvZSwes4XujkPWCd2",
+        "name": "Aldrig ska jag sluta älska dig"
+      },
       "duration_ms": 245586,
-      "artist": [
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "4e3zWxWAdhDxNqFZYkxW6E",
+      "album": {
+        "id": "4e3zWxWAdhDxNqFZYkxW6E",
+        "name": "Musikalen - Livet är en schlager",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fa311ac44af5022a25537798"
+      },
       "release_date": "2015-01-28",
       "popularity": 36
     },
     {
-      "trackId": "5R8dQOPq8haW94K7mgERlO",
-      "name": "Poker Face",
+      "track": {
+        "id": "5R8dQOPq8haW94K7mgERlO",
+        "name": "Poker Face"
+      },
       "duration_ms": 237200,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "1jpUMnKpRlng1OJN7LJauV",
+      "album": {
+        "id": "1jpUMnKpRlng1OJN7LJauV",
+        "name": "The Fame",
+        "img": "https://i.scdn.co/image/ab67616d00001e02631810af03785dbad83f5c81"
+      },
       "release_date": "2008-01-01",
       "popularity": 75
     },
     {
-      "trackId": "5JlJlYUB4QeoO3B7um1zUi",
-      "name": "När en flicka talar skånska",
+      "track": {
+        "id": "5JlJlYUB4QeoO3B7um1zUi",
+        "name": "När en flicka talar skånska"
+      },
       "duration_ms": 247533,
-      "artist": [
-        "Danne Stråhed",
-        "Wizex"
+      "artists": [
+        {
+          "name": "Danne Stråhed",
+          "id": "3nc8VYKBqtooEzkV1S1orW"
+        },
+        {
+          "name": "Wizex",
+          "id": "4SaTBFtB3RPsxEGBdRB6EG"
+        }
       ],
-      "artistId": [
-        "3nc8VYKBqtooEzkV1S1orW",
-        "4SaTBFtB3RPsxEGBdRB6EG"
-      ],
-      "albumId": "4B5qWfCN6WD3c735lpwN4X",
+      "album": {
+        "id": "4B5qWfCN6WD3c735lpwN4X",
+        "name": "Drängavisan",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ac1f165582f630762c6b91f"
+      },
       "release_date": "1997",
       "popularity": 41
     },
     {
-      "trackId": "4i3cWTKAgFQz98e0UKnb5l",
-      "name": "Mozart: Die Zauberflöte, K. 620, Act 2: \"Ach, ich fühl's, es ist verschwunden!\" (Pamina)",
+      "track": {
+        "id": "4i3cWTKAgFQz98e0UKnb5l",
+        "name": "Mozart: Die Zauberflöte, K. 620, Act 2: \"Ach, ich fühl's, es ist verschwunden!\" (Pamina)"
+      },
       "duration_ms": 254640,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Lucia Popp",
-        "Bavarian Radio Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lucia Popp",
+          "id": "6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "id": "74gWOpgM97HU3Mn8A8d0Vm"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "6FUbcx4NUDhuIqsmsFyIqJ",
-        "74gWOpgM97HU3Mn8A8d0Vm"
-      ],
-      "albumId": "73LQrEvDrgpUP8vk0ja0ty",
+      "album": {
+        "id": "73LQrEvDrgpUP8vk0ja0ty",
+        "name": "Mozart - Die Zauberflöte",
+        "img": "https://i.scdn.co/image/ab67616d00001e02782a72d5bb911d914f19bf28"
+      },
       "release_date": "1981",
       "popularity": 21
     }

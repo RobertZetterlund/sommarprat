@@ -7,272 +7,398 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3250203_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7nfxm3GeqrgafzH2pp1zz0",
-      "name": "Les instruments de musique : Instruments à cordes et instruments à vent",
+      "track": {
+        "id": "7nfxm3GeqrgafzH2pp1zz0",
+        "name": "Les instruments de musique : Instruments à cordes et instruments à vent"
+      },
       "duration_ms": 88573,
-      "artist": [
-        "Hello Maestro"
+      "artists": [
+        {
+          "name": "Hello Maestro",
+          "id": "2zVbrESL4oZl46YzzBLqHS"
+        }
       ],
-      "artistId": [
-        "2zVbrESL4oZl46YzzBLqHS"
-      ],
-      "albumId": "1W5msWQ2dgnCdNRxv7PS3z",
+      "album": {
+        "id": "1W5msWQ2dgnCdNRxv7PS3z",
+        "name": "Il était une fois... Les instruments de musique",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9a34b66a18c2a9981f33e30"
+      },
       "release_date": "2021-11-26",
       "popularity": 12
     },
     {
-      "trackId": "1HzDhHApjdjXPLHF6GGYhu",
-      "name": "Wish You Were Here",
+      "track": {
+        "id": "1HzDhHApjdjXPLHF6GGYhu",
+        "name": "Wish You Were Here"
+      },
       "duration_ms": 321080,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "15Tc3f1XzDKLodDXDELISe",
+      "album": {
+        "id": "15Tc3f1XzDKLodDXDELISe",
+        "name": "A Collection Of Great Dance Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3ca136e83344321ebd3de01"
+      },
       "release_date": "1981-11-01",
       "popularity": 68
     },
     {
-      "trackId": "5X0jVLUFHSISTb412Q3gcb",
-      "name": "Carmina Burana: No. 1, O Fortuna",
+      "track": {
+        "id": "5X0jVLUFHSISTb412Q3gcb",
+        "name": "Carmina Burana: No. 1, O Fortuna"
+      },
       "duration_ms": 145760,
-      "artist": [
-        "Carl Orff",
-        "Atlanta Symphony Orchestra",
-        "Donald Runnicles"
+      "artists": [
+        {
+          "name": "Carl Orff",
+          "id": "4LXxsm5BF85PWnQ1dUDAze"
+        },
+        {
+          "name": "Atlanta Symphony Orchestra",
+          "id": "4Ty9IkZ89a93AEwhLGTjo6"
+        },
+        {
+          "name": "Donald Runnicles",
+          "id": "3mcoDPxS0qsZgKYkNP7wua"
+        }
       ],
-      "artistId": [
-        "4LXxsm5BF85PWnQ1dUDAze",
-        "4Ty9IkZ89a93AEwhLGTjo6",
-        "3mcoDPxS0qsZgKYkNP7wua"
-      ],
-      "albumId": "6oqGyjxAGGwPWCOl3R6mLE",
+      "album": {
+        "id": "6oqGyjxAGGwPWCOl3R6mLE",
+        "name": "Orff: Carmina Burana",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251e7fd451b10a700724550f9"
+      },
       "release_date": "2002-01-22",
       "popularity": 16
     },
     {
-      "trackId": "3Zz8mzZ1Buc4zhsb6aLJ90",
-      "name": "Pedar",
+      "track": {
+        "id": "3Zz8mzZ1Buc4zhsb6aLJ90",
+        "name": "Pedar"
+      },
       "duration_ms": 74344,
-      "artist": [
-        "Bijan Khavari"
+      "artists": [
+        {
+          "name": "Bijan Khavari",
+          "id": "33qcCVdZSsZj7kBan8S7qX"
+        }
       ],
-      "artistId": [
-        "33qcCVdZSsZj7kBan8S7qX"
-      ],
-      "albumId": "6IghL6ELZaEKeqUdkmvRNa",
+      "album": {
+        "id": "6IghL6ELZaEKeqUdkmvRNa",
+        "name": "Gole Mahtab",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7fd2814fe60f2c983eb13ee"
+      },
       "release_date": "2020-12-09",
       "popularity": 13
     },
     {
-      "trackId": "5oE6INocVL9viDow5y8QNM",
-      "name": "Fragile",
+      "track": {
+        "id": "5oE6INocVL9viDow5y8QNM",
+        "name": "Fragile"
+      },
       "duration_ms": 236306,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+      "album": {
+        "id": "3mVCQqgwEvwD7lHy9KHi7R",
+        "name": "...Nothing Like The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "4aUPKNRpzwhEJndA7Dh9Zu",
-      "name": "Mirage",
+      "track": {
+        "id": "4aUPKNRpzwhEJndA7Dh9Zu",
+        "name": "Mirage"
+      },
       "duration_ms": 409626,
-      "artist": [
-        "Ahmad Pejman"
+      "artists": [
+        {
+          "name": "Ahmad Pejman",
+          "id": "42SXWPm6yVlwZQKfmZGoIb"
+        }
       ],
-      "artistId": [
-        "42SXWPm6yVlwZQKfmZGoIb"
-      ],
-      "albumId": "2RSWLkkykXsjodUKentN36",
+      "album": {
+        "id": "2RSWLkkykXsjodUKentN36",
+        "name": "Mirage",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e9c583cde99aebe5c9ed25b"
+      },
       "release_date": "2002-01-05",
       "popularity": 0
     },
     {
-      "trackId": "7vCwSw8ZdtPBykjJdOtRQB",
-      "name": "Az Shiraz Ta Istanbul",
+      "track": {
+        "id": "7vCwSw8ZdtPBykjJdOtRQB",
+        "name": "Az Shiraz Ta Istanbul"
+      },
       "duration_ms": 147171,
-      "artist": [
-        "Meysam eddie",
-        "Amin Arsh"
+      "artists": [
+        {
+          "name": "Meysam eddie",
+          "id": "5gjMqZdorLT6W6IZPT6Vlm"
+        },
+        {
+          "name": "Amin Arsh",
+          "id": "4aCpEu7CJwb8NSQkliyWv0"
+        }
       ],
-      "artistId": [
-        "5gjMqZdorLT6W6IZPT6Vlm",
-        "4aCpEu7CJwb8NSQkliyWv0"
-      ],
-      "albumId": "6tcbDZioJrvSXoaOqLJa4O",
+      "album": {
+        "id": "6tcbDZioJrvSXoaOqLJa4O",
+        "name": "Az Shiraz Ta Istanbul",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a23ec628c226479944df9bbb"
+      },
       "release_date": "2021-05-08",
       "popularity": 0
     },
     {
-      "trackId": "2VXDJMJZoFIDcMfa0XvMwS",
-      "name": "Aroosi",
+      "track": {
+        "id": "2VXDJMJZoFIDcMfa0XvMwS",
+        "name": "Aroosi"
+      },
       "duration_ms": 201288,
-      "artist": [
-        "Omid Jahan",
-        "Hamed Pahlan"
+      "artists": [
+        {
+          "name": "Omid Jahan",
+          "id": "0Z5Abxi8FMbpGOzkhxmR7H"
+        },
+        {
+          "name": "Hamed Pahlan",
+          "id": "4WPjbuFjnb2CaknMPZgr1Y"
+        }
       ],
-      "artistId": [
-        "0Z5Abxi8FMbpGOzkhxmR7H",
-        "4WPjbuFjnb2CaknMPZgr1Y"
-      ],
-      "albumId": "0ybHi6zsrUgsfX6aHRrige",
+      "album": {
+        "id": "0ybHi6zsrUgsfX6aHRrige",
+        "name": "Aroosi",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223f4dd127030e19c406dd30c"
+      },
       "release_date": "2013-01-03",
       "popularity": 35
     },
     {
-      "trackId": "4lfkeyFHQLB65eZxMbiu0C",
-      "name": "Ilham",
+      "track": {
+        "id": "4lfkeyFHQLB65eZxMbiu0C",
+        "name": "Ilham"
+      },
       "duration_ms": 227880,
-      "artist": [
-        "Souad Massi"
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "id": "0oXFsuB6XBuDTsXJgplR7k"
+        }
       ],
-      "artistId": [
-        "0oXFsuB6XBuDTsXJgplR7k"
-      ],
-      "albumId": "1gNOkH5RcZYy3IiFLKfHyy",
+      "album": {
+        "id": "1gNOkH5RcZYy3IiFLKfHyy",
+        "name": "Mesk Elil",
+        "img": "https://i.scdn.co/image/ab67616d00001e0292c5021c1a5d87152e39daf1"
+      },
       "release_date": "2005-01-01",
       "popularity": 11
     },
     {
-      "trackId": "5SjWXrGT82DWuXxkMcC3DB",
-      "name": "MANO",
+      "track": {
+        "id": "5SjWXrGT82DWuXxkMcC3DB",
+        "name": "MANO"
+      },
       "duration_ms": 168798,
-      "artist": [
-        "Jireel"
+      "artists": [
+        {
+          "name": "Jireel",
+          "id": "2EWsHDexsSInArfFkhA2i6"
+        }
       ],
-      "artistId": [
-        "2EWsHDexsSInArfFkhA2i6"
-      ],
-      "albumId": "5P0fVGNFuCNtFzkKI0i7ij",
+      "album": {
+        "id": "5P0fVGNFuCNtFzkKI0i7ij",
+        "name": "MOTY",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bbf4a3158176041f6ef5a985"
+      },
       "release_date": "2022-05-06",
       "popularity": 64
     },
     {
-      "trackId": "6XdPdvX4DTo5lsmKgv5lFr",
-      "name": "Black Iron Railroad",
+      "track": {
+        "id": "6XdPdvX4DTo5lsmKgv5lFr",
+        "name": "Black Iron Railroad"
+      },
       "duration_ms": 206250,
-      "artist": [
-        "Bijan James"
+      "artists": [
+        {
+          "name": "Bijan James",
+          "id": "0V5taSbgyjGwVbIBgLObn5"
+        }
       ],
-      "artistId": [
-        "0V5taSbgyjGwVbIBgLObn5"
-      ],
-      "albumId": "37XFYiwJ2uvzpmLXLRr3V4",
+      "album": {
+        "id": "37XFYiwJ2uvzpmLXLRr3V4",
+        "name": "Elsewhere",
+        "img": "https://i.scdn.co/image/ab67616d00001e021de36a0791d1d4cb16b14f7d"
+      },
       "release_date": "2021-03-24",
       "popularity": 0
     },
     {
-      "trackId": "0MVbzhk4HB9GBogF1XrfVO",
-      "name": "Symphony No. 9 in D Minor, WAB 109/143 (Completed Version by Samale-Phillips-Cohrs-Mazzuca): II. Scherzo. Bewegt, lebhaft – Trio. Schnell – Scherzo da capo",
+      "track": {
+        "id": "0MVbzhk4HB9GBogF1XrfVO",
+        "name": "Symphony No. 9 in D Minor, WAB 109/143 (Completed Version by Samale-Phillips-Cohrs-Mazzuca): II. Scherzo. Bewegt, lebhaft – Trio. Schnell – Scherzo da capo"
+      },
       "duration_ms": 626364,
-      "artist": [
-        "Anton Bruckner",
-        "Berliner Philharmoniker",
-        "Sir Simon Rattle"
+      "artists": [
+        {
+          "name": "Anton Bruckner",
+          "id": "2bM3j1JQWBkmzuoZKu4zj2"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "id": "4GQwgdcDQwqtcHICjUNndp"
+        }
       ],
-      "artistId": [
-        "2bM3j1JQWBkmzuoZKu4zj2",
-        "6uRJnvQ3f8whVnmeoecv5Z",
-        "4GQwgdcDQwqtcHICjUNndp"
-      ],
-      "albumId": "3PWnPo9sWQYIP7mj16iNmo",
+      "album": {
+        "id": "3PWnPo9sWQYIP7mj16iNmo",
+        "name": "Bruckner: Symphony No. 9 in D Minor, WAB 109/143: II. Scherzo. Bewegt, lebhaft – Trio. Schnell – Scherzo da capo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfa01bb293821481effa0dc5"
+      },
       "release_date": "2022-08-12",
       "popularity": 42
     },
     {
-      "trackId": "73nDaxgkRPCa5lORozxYeB",
-      "name": "Ettes Ettes",
+      "track": {
+        "id": "73nDaxgkRPCa5lORozxYeB",
+        "name": "Ettes Ettes"
+      },
       "duration_ms": 486813,
-      "artist": [
-        "Aït Menguellet"
+      "artists": [
+        {
+          "name": "Aït Menguellet",
+          "id": "3yINbCnI314mJ6Fk8rI8tQ"
+        }
       ],
-      "artistId": [
-        "3yINbCnI314mJ6Fk8rI8tQ"
-      ],
-      "albumId": "4IH6PhBde0xs5GN7OG3WsJ",
+      "album": {
+        "id": "4IH6PhBde0xs5GN7OG3WsJ",
+        "name": "La balance (Bande originale du film de Bob Swaim)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0207c03476e19937a20964aaff"
+      },
       "release_date": "1982-11-19",
       "popularity": 6
     },
     {
-      "trackId": "3VxrTh6gPZrDzrpJEQDTbO",
-      "name": "KARMEL",
+      "track": {
+        "id": "3VxrTh6gPZrDzrpJEQDTbO",
+        "name": "KARMEL"
+      },
       "duration_ms": 187000,
-      "artist": [
-        "MUTANT PWR",
-        "Deys",
-        "NoTime"
+      "artists": [
+        {
+          "name": "MUTANT PWR",
+          "id": "1n7WlCDk20gfb7BvUBelhT"
+        },
+        {
+          "name": "Deys",
+          "id": "0EPzUAW8kwuPedmmVP6n9S"
+        },
+        {
+          "name": "NoTime",
+          "id": "4yFFgyS5fO3LIq9ZTn0hKD"
+        }
       ],
-      "artistId": [
-        "1n7WlCDk20gfb7BvUBelhT",
-        "0EPzUAW8kwuPedmmVP6n9S",
-        "4yFFgyS5fO3LIq9ZTn0hKD"
-      ],
-      "albumId": "4gysOoWC98G01SXKm7rgFw",
+      "album": {
+        "id": "4gysOoWC98G01SXKm7rgFw",
+        "name": "BAŚNIE O SMAKU MACHLOJKI",
+        "img": "https://i.scdn.co/image/ab67616d00001e022830f8c34bf59b203baab36e"
+      },
       "release_date": "2021-10-12",
       "popularity": 6
     },
     {
-      "trackId": "5SjWXrGT82DWuXxkMcC3DB",
-      "name": "MANO",
+      "track": {
+        "id": "5SjWXrGT82DWuXxkMcC3DB",
+        "name": "MANO"
+      },
       "duration_ms": 168798,
-      "artist": [
-        "Jireel"
+      "artists": [
+        {
+          "name": "Jireel",
+          "id": "2EWsHDexsSInArfFkhA2i6"
+        }
       ],
-      "artistId": [
-        "2EWsHDexsSInArfFkhA2i6"
-      ],
-      "albumId": "5P0fVGNFuCNtFzkKI0i7ij",
+      "album": {
+        "id": "5P0fVGNFuCNtFzkKI0i7ij",
+        "name": "MOTY",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bbf4a3158176041f6ef5a985"
+      },
       "release_date": "2022-05-06",
       "popularity": 64
     },
     {
-      "trackId": "2sCpyO6pwpl197lAkhHxPT",
-      "name": "Jagannatha Ho Kichhi Magunahin Tote",
+      "track": {
+        "id": "2sCpyO6pwpl197lAkhHxPT",
+        "name": "Jagannatha Ho Kichhi Magunahin Tote"
+      },
       "duration_ms": 316813,
-      "artist": [
-        "Namita Agrawal"
+      "artists": [
+        {
+          "name": "Namita Agrawal",
+          "id": "2NL2rRmP5HyBlFgVD9MgzJ"
+        }
       ],
-      "artistId": [
-        "2NL2rRmP5HyBlFgVD9MgzJ"
-      ],
-      "albumId": "6dpCbTudW94VJwcBZbNZdb",
+      "album": {
+        "id": "6dpCbTudW94VJwcBZbNZdb",
+        "name": "Namita Agrawal Top 25 Ratha Jatra Bhajans",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259cc8c13f26bb1ba2d772c12"
+      },
       "release_date": "2021-07-09",
       "popularity": 18
     },
     {
-      "trackId": "3oQomOPRNQ5NVFUmLJHbAV",
-      "name": "Over the Rainbow",
+      "track": {
+        "id": "3oQomOPRNQ5NVFUmLJHbAV",
+        "name": "Over the Rainbow"
+      },
       "duration_ms": 211933,
-      "artist": [
-        "Israel Kamakawiwo'ole"
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "id": "4ogvuDRerGhZfSf7TtzHlr"
+        }
       ],
-      "artistId": [
-        "4ogvuDRerGhZfSf7TtzHlr"
-      ],
-      "albumId": "4aM85igbrBcoRZVt7L11Zn",
+      "album": {
+        "id": "4aM85igbrBcoRZVt7L11Zn",
+        "name": "Alone In Iz World",
+        "img": "https://i.scdn.co/image/ab67616d00001e0256c868c8c85e7e4e62bd9ec1"
+      },
       "release_date": "2001-09-25",
       "popularity": 71
     },
     {
-      "trackId": "2TpwlVaPZen2nZ9Zd1rqp3",
-      "name": "Suddenly (feat. Rebecca) - Radio Edit",
+      "track": {
+        "id": "2TpwlVaPZen2nZ9Zd1rqp3",
+        "name": "Suddenly (feat. Rebecca) - Radio Edit"
+      },
       "duration_ms": 196773,
-      "artist": [
-        "Arash",
-        "Rebecca"
+      "artists": [
+        {
+          "name": "Arash",
+          "id": "7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Rebecca",
+          "id": "6X3VQq0KZ3hFAMa5aJG2Za"
+        }
       ],
-      "artistId": [
-        "7hQmAXAzWI6D350VTgkKTG",
-        "6X3VQq0KZ3hFAMa5aJG2Za"
-      ],
-      "albumId": "00EXsja6ZsjSrtjjfEdrJe",
+      "album": {
+        "id": "00EXsja6ZsjSrtjjfEdrJe",
+        "name": "Donya (Always Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02543132c13ced48237f54a9a9"
+      },
       "release_date": "2008",
       "popularity": 39
     }

@@ -7,222 +7,322 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3246252_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3rST2jxc4yDjgUxyYxXfFo",
-      "name": "Parlez-moi d'amour",
+      "track": {
+        "id": "3rST2jxc4yDjgUxyYxXfFo",
+        "name": "Parlez-moi d'amour"
+      },
       "duration_ms": 196120,
-      "artist": [
-        "Juliette Gréco"
+      "artists": [
+        {
+          "name": "Juliette Gréco",
+          "id": "7j237zyOedtfrugnWFJKOJ"
+        }
       ],
-      "artistId": [
-        "7j237zyOedtfrugnWFJKOJ"
-      ],
-      "albumId": "7aDwiRSLZ1w5uHE1gSMmNs",
+      "album": {
+        "id": "7aDwiRSLZ1w5uHE1gSMmNs",
+        "name": "Merci !",
+        "img": "https://i.scdn.co/image/ab67616d00001e0250ae8d3d901fd94323594614"
+      },
       "release_date": "2015-11-13",
       "popularity": 32
     },
     {
-      "trackId": "466wke2FOWOIl2dS76sb1N",
-      "name": "L'Amor",
+      "track": {
+        "id": "466wke2FOWOIl2dS76sb1N",
+        "name": "L'Amor"
+      },
       "duration_ms": 291133,
-      "artist": [
-        "Arianna Savall"
+      "artists": [
+        {
+          "name": "Arianna Savall",
+          "id": "3HWeELXhNJpGs2W9JViW2Z"
+        }
       ],
-      "artistId": [
-        "3HWeELXhNJpGs2W9JViW2Z"
-      ],
-      "albumId": "0pTeuIthfKL11NGfy0aEtf",
+      "album": {
+        "id": "0pTeuIthfKL11NGfy0aEtf",
+        "name": "Bella Terra",
+        "img": "https://i.scdn.co/image/ab67616d00001e02478de553340501880ac0ae0a"
+      },
       "release_date": "2003-01-01",
       "popularity": 29
     },
     {
-      "trackId": "0U6D3tEq5l8cFPLXDFbHj6",
-      "name": "L'hymne à l'amour",
+      "track": {
+        "id": "0U6D3tEq5l8cFPLXDFbHj6",
+        "name": "L'hymne à l'amour"
+      },
       "duration_ms": 246106,
-      "artist": [
-        "Johnny Hallyday"
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "id": "2HALYSe657tNJ1iKVXP2xA"
+        }
       ],
-      "artistId": [
-        "2HALYSe657tNJ1iKVXP2xA"
-      ],
-      "albumId": "1UZ7nohagyt799Vw0vUU4c",
+      "album": {
+        "id": "1UZ7nohagyt799Vw0vUU4c",
+        "name": "L'album de sa vie 100 titres",
+        "img": "https://i.scdn.co/image/ab67616d00001e023ccffc631692999d681727a2"
+      },
       "release_date": "2018-09-28",
       "popularity": 39
     },
     {
-      "trackId": "0FnwO8n6Dd8HXa7uV7CJic",
-      "name": "Saavu/Arrive",
+      "track": {
+        "id": "0FnwO8n6Dd8HXa7uV7CJic",
+        "name": "Saavu/Arrive"
+      },
       "duration_ms": 270893,
-      "artist": [
-        "Markku Lepistö"
+      "artists": [
+        {
+          "name": "Markku Lepistö",
+          "id": "08zAiSGGIGrs8zHuOIWqP2"
+        }
       ],
-      "artistId": [
-        "08zAiSGGIGrs8zHuOIWqP2"
-      ],
-      "albumId": "7wNUN7tz88wyZb7GNBIXFP",
+      "album": {
+        "id": "7wNUN7tz88wyZb7GNBIXFP",
+        "name": "Polku/Path",
+        "img": "https://i.scdn.co/image/ab67616d00001e021eae79e68ff4c8d859a783bb"
+      },
       "release_date": "2006-01-01",
       "popularity": 0
     },
     {
-      "trackId": "45QVpFPpNOYMXDbbEeZ39X",
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
+      "track": {
+        "id": "45QVpFPpNOYMXDbbEeZ39X",
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)"
+      },
       "duration_ms": 212640,
-      "artist": [
-        "George Frideric Handel",
-        "PianoBasso"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "PianoBasso",
+          "id": "0lFzJ6s1Rip3L1KbqTDmP7"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "0lFzJ6s1Rip3L1KbqTDmP7"
-      ],
-      "albumId": "0YijaagftFAOjGIfwFwji3",
+      "album": {
+        "id": "0YijaagftFAOjGIfwFwji3",
+        "name": "Tranquillo II",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271bdd38c56c1be33d3fecb80"
+      },
       "release_date": "2019-04-26",
       "popularity": 50
     },
     {
-      "trackId": "7wUJmcLZt8jjgqtfEgQ1oI",
-      "name": "Suikerbossie",
+      "track": {
+        "id": "7wUJmcLZt8jjgqtfEgQ1oI",
+        "name": "Suikerbossie"
+      },
       "duration_ms": 173466,
-      "artist": [
-        "Stef Bos"
+      "artists": [
+        {
+          "name": "Stef Bos",
+          "id": "4Rw9pvzG1NLs1RbB8cxBfW"
+        }
       ],
-      "artistId": [
-        "4Rw9pvzG1NLs1RbB8cxBfW"
-      ],
-      "albumId": "44XAHwfBhB6v3flcRwmA0z",
+      "album": {
+        "id": "44XAHwfBhB6v3flcRwmA0z",
+        "name": "Mpumalanga Tot Die Kaap",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc2c592669b54d601952529e"
+      },
       "release_date": "2001-06-12",
       "popularity": 24
     },
     {
-      "trackId": "0985ERRDlTlUABVs6V1y9Y",
-      "name": "Serenaden till Astri (Som stjärnor små)",
+      "track": {
+        "id": "0985ERRDlTlUABVs6V1y9Y",
+        "name": "Serenaden till Astri (Som stjärnor små)"
+      },
       "duration_ms": 155706,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "1Gx5b6ApFjeTVsVCZrWEBe",
+      "album": {
+        "id": "1Gx5b6ApFjeTVsVCZrWEBe",
+        "name": "EVERT! EVERT! EVERT!",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a2cf14df9d4cd2156271b71"
+      },
       "release_date": "2022-01-14",
       "popularity": 6
     },
     {
-      "trackId": "6cyzz6IwvfjbPiNreeMhZ0",
-      "name": "Remember to Love - Extended Mix",
+      "track": {
+        "id": "6cyzz6IwvfjbPiNreeMhZ0",
+        "name": "Remember to Love - Extended Mix"
+      },
       "duration_ms": 304487,
-      "artist": [
-        "Lee Wilson",
-        "Sattam"
+      "artists": [
+        {
+          "name": "Lee Wilson",
+          "id": "0kgsfMP7coSEX8bwUQVivr"
+        },
+        {
+          "name": "Sattam",
+          "id": "6iyc6BGLOwF8ZZIfcaLVP7"
+        }
       ],
-      "artistId": [
-        "0kgsfMP7coSEX8bwUQVivr",
-        "6iyc6BGLOwF8ZZIfcaLVP7"
-      ],
-      "albumId": "7yEq7FYgBKTzdGAkc6l45b",
+      "album": {
+        "id": "7yEq7FYgBKTzdGAkc6l45b",
+        "name": "Remember to Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7e93c2b197fc29f54c673e8"
+      },
       "release_date": "2021-02-12",
       "popularity": 44
     },
     {
-      "trackId": "3lziCDGQlrm7lqjxdRNqDO",
-      "name": "A Little Prayer",
+      "track": {
+        "id": "3lziCDGQlrm7lqjxdRNqDO",
+        "name": "A Little Prayer"
+      },
       "duration_ms": 288933,
-      "artist": [
-        "Evelyn Glennie",
-        "Barry Wordsworth"
+      "artists": [
+        {
+          "name": "Evelyn Glennie",
+          "id": "6MYiQGy8MIcBps6Ez0IQA8"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "id": "5sjJnaI3YhaO8KylpJk3gN"
+        }
       ],
-      "artistId": [
-        "6MYiQGy8MIcBps6Ez0IQA8",
-        "5sjJnaI3YhaO8KylpJk3gN"
-      ],
-      "albumId": "1YfyxS1Socs4ZQv9eeSIy1",
+      "album": {
+        "id": "1YfyxS1Socs4ZQv9eeSIy1",
+        "name": "Rhythm Song",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d86e160916ed6ce111fc72b"
+      },
       "release_date": "1990-04-02",
       "popularity": 11
     },
     {
-      "trackId": "7cNLZi1iLuMrku0GhDUV6V",
-      "name": "Artificiell prana",
+      "track": {
+        "id": "7cNLZi1iLuMrku0GhDUV6V",
+        "name": "Artificiell prana"
+      },
       "duration_ms": 650373,
-      "artist": [
-        "Mikael Ramel"
+      "artists": [
+        {
+          "name": "Mikael Ramel",
+          "id": "1ky50Ws1ZqW5dP5MRYO7dp"
+        }
       ],
-      "artistId": [
-        "1ky50Ws1ZqW5dP5MRYO7dp"
-      ],
-      "albumId": "24ZHF2rzvO63ItEdERgtk7",
+      "album": {
+        "id": "24ZHF2rzvO63ItEdERgtk7",
+        "name": "Mikael Ramel / Till dej",
+        "img": "https://i.scdn.co/image/ab67616d00001e029802e04a4527f03579b91b86"
+      },
       "release_date": "2003-01-01",
       "popularity": 19
     },
     {
-      "trackId": "6Y6jq2el8dK1g00JppZXye",
-      "name": "Stompalång Tut Pling Sång",
+      "track": {
+        "id": "6Y6jq2el8dK1g00JppZXye",
+        "name": "Stompalång Tut Pling Sång"
+      },
       "duration_ms": 230626,
-      "artist": [
-        "Babblarna"
+      "artists": [
+        {
+          "name": "Babblarna",
+          "id": "1aA5OGASCVhznQYm71BMYg"
+        }
       ],
-      "artistId": [
-        "1aA5OGASCVhznQYm71BMYg"
-      ],
-      "albumId": "4UJNmi54rOAergmdb546OD",
+      "album": {
+        "id": "4UJNmi54rOAergmdb546OD",
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230040d3f0ae79c0023365cf4"
+      },
       "release_date": "2015-01-01",
       "popularity": 51
     },
     {
-      "trackId": "1Et4wxGAlgQYz4kMxZ9z18",
-      "name": "Stand by Me (Extended Mix)",
+      "track": {
+        "id": "1Et4wxGAlgQYz4kMxZ9z18",
+        "name": "Stand by Me (Extended Mix)"
+      },
       "duration_ms": 274000,
-      "artist": [
-        "DJ Adam Wakers"
+      "artists": [
+        {
+          "name": "DJ Adam Wakers",
+          "id": "1P47XFSXN3RWOP5eVd38vh"
+        }
       ],
-      "artistId": [
-        "1P47XFSXN3RWOP5eVd38vh"
-      ],
-      "albumId": "3KN6LvMBMWr8wLUdgs355E",
+      "album": {
+        "id": "3KN6LvMBMWr8wLUdgs355E",
+        "name": "Stand by Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e020124b4b99feeb6dcd4db3871"
+      },
       "release_date": "2020-03-23",
       "popularity": 32
     },
     {
-      "trackId": "5vzP3ew0Pm2hHfKFgGJPFV",
-      "name": "Tango",
+      "track": {
+        "id": "5vzP3ew0Pm2hHfKFgGJPFV",
+        "name": "Tango"
+      },
       "duration_ms": 151053,
-      "artist": [
-        "Fritz Kreisler",
-        "Isaac Albéniz",
-        "Laurent Korcia"
+      "artists": [
+        {
+          "name": "Fritz Kreisler",
+          "id": "0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "name": "Isaac Albéniz",
+          "id": "4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "Laurent Korcia",
+          "id": "2GeutBKR3pXPk1OBmDYWD3"
+        }
       ],
-      "artistId": [
-        "0HdNDZaNm7xLt18v9aWDfe",
-        "4sbcjbyksdT4dJ5Lh0SvZp",
-        "2GeutBKR3pXPk1OBmDYWD3"
-      ],
-      "albumId": "4numRdsNn3TOQgHxCUpqqJ",
+      "album": {
+        "id": "4numRdsNn3TOQgHxCUpqqJ",
+        "name": "Danses",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ce2384ebc919e4bd2a58289"
+      },
       "release_date": "2004-09-21",
       "popularity": 18
     },
     {
-      "trackId": "7lTYyo3pDiHnKpw3qSDBa8",
-      "name": "Au café de la paix",
+      "track": {
+        "id": "7lTYyo3pDiHnKpw3qSDBa8",
+        "name": "Au café de la paix"
+      },
       "duration_ms": 245226,
-      "artist": [
-        "Thomas Fersen"
+      "artists": [
+        {
+          "name": "Thomas Fersen",
+          "id": "1e8wNOOTAfcvZnYAqxqHZM"
+        }
       ],
-      "artistId": [
-        "1e8wNOOTAfcvZnYAqxqHZM"
-      ],
-      "albumId": "31bS3FqWVQ9st6vTse9ZEw",
+      "album": {
+        "id": "31bS3FqWVQ9st6vTse9ZEw",
+        "name": "Les ronds de carotte",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267bda7f3807ea3fd69934b3a"
+      },
       "release_date": "1995-04-13",
       "popularity": 48
     },
     {
-      "trackId": "4qE1zFIyqtfYc2XfVnsKVf",
-      "name": "Isn't Life Strange",
+      "track": {
+        "id": "4qE1zFIyqtfYc2XfVnsKVf",
+        "name": "Isn't Life Strange"
+      },
       "duration_ms": 368560,
-      "artist": [
-        "The Moody Blues"
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "id": "5BcZ22XONcRoLhTbZRuME1"
+        }
       ],
-      "artistId": [
-        "5BcZ22XONcRoLhTbZRuME1"
-      ],
-      "albumId": "2v46G6QPCLJLOs0MJJGKka",
+      "album": {
+        "id": "2v46G6QPCLJLOs0MJJGKka",
+        "name": "Seventh Sojourn",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239f644f6d862ec7aca268875"
+      },
       "release_date": "1972-11-17",
       "popularity": 35
     }

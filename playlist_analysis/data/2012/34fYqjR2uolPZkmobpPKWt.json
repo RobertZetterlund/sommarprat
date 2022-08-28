@@ -7,170 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344557_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1H4WlPgrrF1Js5Be88OH9H",
-      "name": "Styrman Karlssons äventyr med porslinspjäsen",
+      "track": {
+        "id": "1H4WlPgrrF1Js5Be88OH9H",
+        "name": "Styrman Karlssons äventyr med porslinspjäsen"
+      },
       "duration_ms": 135226,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 27
     },
     {
-      "trackId": "1ynG0Ej6hJzKEAQl5ZB4D5",
-      "name": "Stormande hav",
+      "track": {
+        "id": "1ynG0Ej6hJzKEAQl5ZB4D5",
+        "name": "Stormande hav"
+      },
       "duration_ms": 185186,
-      "artist": [
-        "Timoteij"
+      "artists": [
+        {
+          "name": "Timoteij",
+          "id": "2KToq66TzR2OM0PZJSh5bR"
+        }
       ],
-      "artistId": [
-        "2KToq66TzR2OM0PZJSh5bR"
-      ],
-      "albumId": "50l7kmnZEBFktaVJl8De45",
+      "album": {
+        "id": "50l7kmnZEBFktaVJl8De45",
+        "name": "Stormande hav",
+        "img": "https://i.scdn.co/image/ab67616d00001e02290e00c976b82d57c297d22e"
+      },
       "release_date": "2012-01-01",
       "popularity": 37
     },
     {
-      "trackId": "3OcqDVSPoMs6RKujw2jkch",
-      "name": "Bianca",
+      "track": {
+        "id": "3OcqDVSPoMs6RKujw2jkch",
+        "name": "Bianca"
+      },
       "duration_ms": 295026,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "02IT4ZflpLBPnPJj9e7kYh",
+      "album": {
+        "id": "02IT4ZflpLBPnPJj9e7kYh",
+        "name": "Isola",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5e4b95f5265fee3e5e00b16"
+      },
       "release_date": "1997-11-12",
       "popularity": 20
     },
     {
-      "trackId": "75WMOzv7195ziyx0qEw1yE",
-      "name": "Little Deuce Coupe - Remastered",
+      "track": {
+        "id": "75WMOzv7195ziyx0qEw1yE",
+        "name": "Little Deuce Coupe - Remastered"
+      },
       "duration_ms": 100933,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "1AhsZr98dNCfhO1XC4Ht7C",
+      "album": {
+        "id": "1AhsZr98dNCfhO1XC4Ht7C",
+        "name": "Surfer Girl (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023149dcf7671f99b4b52f8b91"
+      },
       "release_date": "1963-09-16",
       "popularity": 50
     },
     {
-      "trackId": "0m0Er7CwPddgBzrEZVVMVJ",
-      "name": "Videvisan",
+      "track": {
+        "id": "0m0Er7CwPddgBzrEZVVMVJ",
+        "name": "Videvisan"
+      },
       "duration_ms": 113506,
-      "artist": [
-        "Adolf Fredriks Musikklasser"
+      "artists": [
+        {
+          "name": "Adolf Fredriks Musikklasser",
+          "id": "60BNhPmsrBop6PQv3QnZH0"
+        }
       ],
-      "artistId": [
-        "60BNhPmsrBop6PQv3QnZH0"
-      ],
-      "albumId": "5f2nVYim8IlJW3L78RXlTd",
+      "album": {
+        "id": "5f2nVYim8IlJW3L78RXlTd",
+        "name": "Barn sjunger för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e022462258afc7f05c0438066e5"
+      },
       "release_date": "2013-11-01",
       "popularity": 36
     },
     {
-      "trackId": "7BRG1uU2WiaFXDLnniCfjd",
-      "name": "DÄR GÄDDAN SIMMAR",
+      "track": {
+        "id": "7BRG1uU2WiaFXDLnniCfjd",
+        "name": "DÄR GÄDDAN SIMMAR"
+      },
       "duration_ms": 156000,
-      "artist": [
-        "Hooja"
+      "artists": [
+        {
+          "name": "Hooja",
+          "id": "054fVwphDX8QB8Pm7IjRcL"
+        }
       ],
-      "artistId": [
-        "054fVwphDX8QB8Pm7IjRcL"
-      ],
-      "albumId": "7AowFzSGAy33pR1GpuJ5WO",
+      "album": {
+        "id": "7AowFzSGAy33pR1GpuJ5WO",
+        "name": "DÄR GÄDDAN SIMMAR",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3f01388ade4de3b6ad82844"
+      },
       "release_date": "2021-12-23",
       "popularity": 60
     },
     {
-      "trackId": "5yO3oXQ0dvCRR9DJg2noU8",
-      "name": "Bullet With Butterfly Wings - Single Edit",
+      "track": {
+        "id": "5yO3oXQ0dvCRR9DJg2noU8",
+        "name": "Bullet With Butterfly Wings - Single Edit"
+      },
       "duration_ms": 225586,
-      "artist": [
-        "Frida Snell"
+      "artists": [
+        {
+          "name": "Frida Snell",
+          "id": "4IjzQBCwVIG8nLADKYLece"
+        }
       ],
-      "artistId": [
-        "4IjzQBCwVIG8nLADKYLece"
-      ],
-      "albumId": "0G9Z1pQzecYqNDNlrcGKb5",
+      "album": {
+        "id": "0G9Z1pQzecYqNDNlrcGKb5",
+        "name": "Bullet With Butterfly Wings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc98d9fa795982571565a76"
+      },
       "release_date": "2003-01-01",
       "popularity": 22
     },
     {
-      "trackId": "5ChkMS8OtdzJeqyybCc9R5",
-      "name": "Billie Jean",
+      "track": {
+        "id": "5ChkMS8OtdzJeqyybCc9R5",
+        "name": "Billie Jean"
+      },
       "duration_ms": 293826,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 84
     },
     {
-      "trackId": "7bu0znpSbTks0O6I98ij0W",
-      "name": "Tonight, Tonight - Remastered 2012",
+      "track": {
+        "id": "7bu0znpSbTks0O6I98ij0W",
+        "name": "Tonight, Tonight - Remastered 2012"
+      },
       "duration_ms": 254626,
-      "artist": [
-        "The Smashing Pumpkins"
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "id": "40Yq4vzPs9VNUrIBG5Jr2i"
+        }
       ],
-      "artistId": [
-        "40Yq4vzPs9VNUrIBG5Jr2i"
-      ],
-      "albumId": "55RhFRyQFihIyGf61MgcfV",
+      "album": {
+        "id": "55RhFRyQFihIyGf61MgcfV",
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6"
+      },
       "release_date": "1995",
       "popularity": 67
     },
     {
-      "trackId": "6wCXnKJBcInWW9p4p1oHxw",
-      "name": "Boeves Psalm",
+      "track": {
+        "id": "6wCXnKJBcInWW9p4p1oHxw",
+        "name": "Boeves Psalm"
+      },
       "duration_ms": 150733,
-      "artist": [
-        "Lars Hollmer"
+      "artists": [
+        {
+          "name": "Lars Hollmer",
+          "id": "5NDGsql3uVOyEdQoelgBGM"
+        }
       ],
-      "artistId": [
-        "5NDGsql3uVOyEdQoelgBGM"
-      ],
-      "albumId": "4p5qxuDaY0Jsa69MboxWBL",
+      "album": {
+        "id": "4p5qxuDaY0Jsa69MboxWBL",
+        "name": "XII Sibiriska Cyklar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216c29c612eeb495a74e4b7d6"
+      },
       "release_date": "1981-03-20",
       "popularity": 35
     },
     {
-      "trackId": "4w3tQBXhn5345eUXDGBWZG",
-      "name": "9 to 5",
+      "track": {
+        "id": "4w3tQBXhn5345eUXDGBWZG",
+        "name": "9 to 5"
+      },
       "duration_ms": 162466,
-      "artist": [
-        "Dolly Parton"
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "id": "32vWCbZh0xZ4o9gkz4PsEU"
+        }
       ],
-      "artistId": [
-        "32vWCbZh0xZ4o9gkz4PsEU"
-      ],
-      "albumId": "64Ky1tqKPfwxhJs6msphWd",
+      "album": {
+        "id": "64Ky1tqKPfwxhJs6msphWd",
+        "name": "9 To 5 And Odd Jobs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02060ccf36ab5b0e0a739799ec"
+      },
       "release_date": "1980",
       "popularity": 76
     },
     {
-      "trackId": "6VW7CMNOsayIfLU5n29cKX",
-      "name": "När det blåser på månen",
+      "track": {
+        "id": "6VW7CMNOsayIfLU5n29cKX",
+        "name": "När det blåser på månen"
+      },
       "duration_ms": 259560,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "2ZwNFTzVPJRl0AqwWuo7r7",
+      "album": {
+        "id": "2ZwNFTzVPJRl0AqwWuo7r7",
+        "name": "Kent",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1c10e987370c1a44e36ce84"
+      },
       "release_date": "1995-03-15",
       "popularity": 34
     }

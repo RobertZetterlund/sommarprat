@@ -7,246 +7,362 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/79b9e18b-ff1a-4d69-be3c-48c0ae6bc1c5.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0OTT64GkiDe8AyRh1wKIvm",
-      "name": "Bacchi tempel (bort allt vad oro gör)",
+      "track": {
+        "id": "0OTT64GkiDe8AyRh1wKIvm",
+        "name": "Bacchi tempel (bort allt vad oro gör)"
+      },
       "duration_ms": 133600,
-      "artist": [
-        "Carl Michael Bellman",
-        "Lunds studentsångarförening"
+      "artists": [
+        {
+          "name": "Carl Michael Bellman",
+          "id": "6wPS4X1B2rJNBrGJ26Xz0s"
+        },
+        {
+          "name": "Lunds studentsångarförening",
+          "id": "2SjOhfyBERBGbsvIJLPAn5"
+        }
       ],
-      "artistId": [
-        "6wPS4X1B2rJNBrGJ26Xz0s",
-        "2SjOhfyBERBGbsvIJLPAn5"
-      ],
-      "albumId": "4z3Efz9cXBYL3Uc6xiKFkq",
+      "album": {
+        "id": "4z3Efz9cXBYL3Uc6xiKFkq",
+        "name": "Svenska körer",
+        "img": "https://i.scdn.co/image/ab67616d00001e027f73f230b18886649c2a7ad8"
+      },
       "release_date": "2002-01-01",
       "popularity": 10
     },
     {
-      "trackId": "7cOpGjll3yAtYArdH7sIsO",
-      "name": "Per Olsson hade en bonnagård",
+      "track": {
+        "id": "7cOpGjll3yAtYArdH7sIsO",
+        "name": "Per Olsson hade en bonnagård"
+      },
       "duration_ms": 153000,
-      "artist": [
-        "Alice Andersson"
+      "artists": [
+        {
+          "name": "Alice Andersson",
+          "id": "5O514j7KlQOTtfMSMgaRzf"
+        }
       ],
-      "artistId": [
-        "5O514j7KlQOTtfMSMgaRzf"
-      ],
-      "albumId": "2Nci1yHERUya9J3OlOWi75",
+      "album": {
+        "id": "2Nci1yHERUya9J3OlOWi75",
+        "name": "Barnvisor och barnsånger på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3c7c278323380e312198dec"
+      },
       "release_date": "2015",
       "popularity": 31
     },
     {
-      "trackId": "20NeGg1Dr4XRnWAGODe6XK",
-      "name": "La traviata - original version / Act 1: Ah, fors'è lui...Sempre libera [La traviata]",
+      "track": {
+        "id": "20NeGg1Dr4XRnWAGODe6XK",
+        "name": "La traviata - original version / Act 1: Ah, fors'è lui...Sempre libera [La traviata]"
+      },
       "duration_ms": 598640,
-      "artist": [
-        "Giuseppe Verdi",
-        "Renée Fleming",
-        "Joseph Calleja"
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "id": "1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Renée Fleming",
+          "id": "3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Joseph Calleja",
+          "id": "30btg3WkeQgKssm3aPPE4W"
+        }
       ],
-      "artistId": [
-        "1JOQXgYdQV2yfrhewqx96o",
-        "3SK3gLBgy1jRuA4VnLlcs8",
-        "30btg3WkeQgKssm3aPPE4W"
-      ],
-      "albumId": "2ZqNshCWc65VqNvQzta1XW",
+      "album": {
+        "id": "2ZqNshCWc65VqNvQzta1XW",
+        "name": "Renée Fleming: By Request",
+        "img": "https://i.scdn.co/image/ab67616d00001e024761ab90b0ac7e48fbb8fa5c"
+      },
       "release_date": "2003-01-01",
       "popularity": 6
     },
     {
-      "trackId": "2pGXeb8ktLGyOhsOlHxURz",
-      "name": "Lassie",
+      "track": {
+        "id": "2pGXeb8ktLGyOhsOlHxURz",
+        "name": "Lassie"
+      },
       "duration_ms": 225044,
-      "artist": [
-        "Moonica Mac",
-        "Sara Parkman",
-        "Janice"
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "id": "4EeCKtQAywZzC578wwGp1n"
+        },
+        {
+          "name": "Sara Parkman",
+          "id": "3QKspYZWuPR8sJ6WW1zAdw"
+        },
+        {
+          "name": "Janice",
+          "id": "1uKR3ihZmv8a93heLPYKQ8"
+        }
       ],
-      "artistId": [
-        "4EeCKtQAywZzC578wwGp1n",
-        "3QKspYZWuPR8sJ6WW1zAdw",
-        "1uKR3ihZmv8a93heLPYKQ8"
-      ],
-      "albumId": "0GjOBLG619HyGxp8kvhb4D",
+      "album": {
+        "id": "0GjOBLG619HyGxp8kvhb4D",
+        "name": "Så mycket bättre 2021 - Tolkningarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3cd80d22c71e2569a2775d9"
+      },
       "release_date": "2021-12-20",
       "popularity": 45
     },
     {
-      "trackId": "7Mge9K9r5MOhKxhMHJXhj6",
-      "name": "Vaggsången",
+      "track": {
+        "id": "7Mge9K9r5MOhKxhMHJXhj6",
+        "name": "Vaggsången"
+      },
       "duration_ms": 85250,
-      "artist": [
-        "Adamson",
-        "Vaggvisor"
+      "artists": [
+        {
+          "name": "Adamson",
+          "id": "0Le0xLw8bmlimx2cMVtVbr"
+        },
+        {
+          "name": "Vaggvisor",
+          "id": "5yLTSEQlxtbK0dyLmYAP3T"
+        }
       ],
-      "artistId": [
-        "0Le0xLw8bmlimx2cMVtVbr",
-        "5yLTSEQlxtbK0dyLmYAP3T"
-      ],
-      "albumId": "7GCnsnbNzKKrKtz3RSeQcc",
+      "album": {
+        "id": "7GCnsnbNzKKrKtz3RSeQcc",
+        "name": "Vaggvisor på piano 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b160076a03c92aff2e71746"
+      },
       "release_date": "2020-03-27",
       "popularity": 43
     },
     {
-      "trackId": "4L7HW6gDfdEGOeqNtiMnuw",
-      "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
+      "track": {
+        "id": "4L7HW6gDfdEGOeqNtiMnuw",
+        "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2"
+      },
       "duration_ms": 389520,
-      "artist": [
-        "Frédéric Chopin",
-        "Maria João Pires"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maria João Pires",
+          "id": "1hRLlo7ZGxEmc0ztMOKurs"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "1hRLlo7ZGxEmc0ztMOKurs"
-      ],
-      "albumId": "6nRbwFgnL2EUMSQDLOuXzm",
+      "album": {
+        "id": "6nRbwFgnL2EUMSQDLOuXzm",
+        "name": "Klassiskt - 27 kända klassiska mästerverk",
+        "img": "https://i.scdn.co/image/ab67616d00001e021aec098f9152dd4cc6489314"
+      },
       "release_date": "2010-01-01",
       "popularity": 13
     },
     {
-      "trackId": "2OQzVmgl8WoNEYDdOLSEOf",
-      "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
+      "track": {
+        "id": "2OQzVmgl8WoNEYDdOLSEOf",
+        "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato"
+      },
       "duration_ms": 461400,
-      "artist": [
-        "Ludwig van Beethoven",
-        "Daniel Barenboim"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "id": "78sEozQOEJxzXegUuqRSgH"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "78sEozQOEJxzXegUuqRSgH"
-      ],
-      "albumId": "1pp9Xql2oo2vmb8jq6dq0U",
+      "album": {
+        "id": "1pp9Xql2oo2vmb8jq6dq0U",
+        "name": "Beethoven: The Piano Sonatas",
+        "img": "https://i.scdn.co/image/ab67616d00001e024daef82bc7d98c7b62298449"
+      },
       "release_date": "1984-01-01",
       "popularity": 51
     },
     {
-      "trackId": "7MyS2oS2uu69jv98Xcqmo7",
-      "name": "Thore Ehrling",
+      "track": {
+        "id": "7MyS2oS2uu69jv98Xcqmo7",
+        "name": "Thore Ehrling"
+      },
       "duration_ms": 174653,
-      "artist": [
-        "Ingmar Nordströms"
+      "artists": [
+        {
+          "name": "Ingmar Nordströms",
+          "id": "11v210K5CwGkgbGK3COISh"
+        }
       ],
-      "artistId": [
-        "11v210K5CwGkgbGK3COISh"
-      ],
-      "albumId": "7MX38HjCMh41WjQGQor6g1",
+      "album": {
+        "id": "7MX38HjCMh41WjQGQor6g1",
+        "name": "Saxpartyfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02967f8e590e0139dba50634aa"
+      },
       "release_date": "2007-02-28",
       "popularity": 4
     },
     {
-      "trackId": "2kgq609dHPmi8QaAm767W7",
-      "name": "Här skall dansas Lambeth Walk - Original",
+      "track": {
+        "id": "2kgq609dHPmi8QaAm767W7",
+        "name": "Här skall dansas Lambeth Walk - Original"
+      },
       "duration_ms": 181960,
-      "artist": [
-        "Sven Arefeldt"
+      "artists": [
+        {
+          "name": "Sven Arefeldt",
+          "id": "2aIyOIeU3ysoUghmyBCYAD"
+        }
       ],
-      "artistId": [
-        "2aIyOIeU3ysoUghmyBCYAD"
-      ],
-      "albumId": "4bQgUvNPWFm1BnVBzr7RhF",
+      "album": {
+        "id": "4bQgUvNPWFm1BnVBzr7RhF",
+        "name": "Sven Arefeldt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f05702be1d559151cfb46d43"
+      },
       "release_date": "1995-01-01",
       "popularity": 17
     },
     {
-      "trackId": "6fKeImjRBtX3Pvbeg9Ni9k",
-      "name": "Engelbrekt",
+      "track": {
+        "id": "6fKeImjRBtX3Pvbeg9Ni9k",
+        "name": "Engelbrekt"
+      },
       "duration_ms": 242253,
-      "artist": [
-        "Hel"
+      "artists": [
+        {
+          "name": "Hel",
+          "id": "7bDMRpzaYmEINcVTovxJFo"
+        }
       ],
-      "artistId": [
-        "7bDMRpzaYmEINcVTovxJFo"
-      ],
-      "albumId": "6IvzuQD06RaYHjLO7BhVmx",
+      "album": {
+        "id": "6IvzuQD06RaYHjLO7BhVmx",
+        "name": "Blodspår",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249dfff210872191a3c51237b"
+      },
       "release_date": "2001-03-01",
       "popularity": 26
     },
     {
-      "trackId": "6cnYq17LnL41obxA73YsCf",
-      "name": "Radio",
+      "track": {
+        "id": "6cnYq17LnL41obxA73YsCf",
+        "name": "Radio"
+      },
       "duration_ms": 193080,
-      "artist": [
-        "Grönwalls"
+      "artists": [
+        {
+          "name": "Grönwalls",
+          "id": "2NVoobCAvqjbOsoEc8sjur"
+        }
       ],
-      "artistId": [
-        "2NVoobCAvqjbOsoEc8sjur"
-      ],
-      "albumId": "3DVyBRKd0tzHDlTIzM4POx",
+      "album": {
+        "id": "3DVyBRKd0tzHDlTIzM4POx",
+        "name": "Ett Liv Tillsammans",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264f4d8b15db41d2190534798"
+      },
       "release_date": "1996",
       "popularity": 12
     },
     {
-      "trackId": "1nms4eC455m5bV9XDrv55P",
-      "name": "Messiah, HWV 56 / Pt. 1: 3. Chorus: And the glory of the Lord",
+      "track": {
+        "id": "1nms4eC455m5bV9XDrv55P",
+        "name": "Messiah, HWV 56 / Pt. 1: 3. Chorus: And the glory of the Lord"
+      },
       "duration_ms": 160400,
-      "artist": [
-        "George Frideric Handel",
-        "The Monteverdi Choir",
-        "English Baroque Soloists"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "id": "0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "id": "3OtZV9aCZ6G004vjOQcf59"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "0Cqfz92flAzrp94pgN1jEW",
-        "3OtZV9aCZ6G004vjOQcf59"
-      ],
-      "albumId": "4e5MOtI4r6XKYsvh5yFSrB",
+      "album": {
+        "id": "4e5MOtI4r6XKYsvh5yFSrB",
+        "name": "Handel: Messiah",
+        "img": "https://i.scdn.co/image/ab67616d00001e02607e0fa57f006ce8a4cdaa8b"
+      },
       "release_date": "1983-01-01",
       "popularity": 20
     },
     {
-      "trackId": "47w3XBbGEQzL1IDDHRxFPB",
-      "name": "Parlez-moi d'amour",
+      "track": {
+        "id": "47w3XBbGEQzL1IDDHRxFPB",
+        "name": "Parlez-moi d'amour"
+      },
       "duration_ms": 176560,
-      "artist": [
-        "Lucienne Boyer"
+      "artists": [
+        {
+          "name": "Lucienne Boyer",
+          "id": "5KIyBfTJdvEzz2OxfVvsE6"
+        }
       ],
-      "artistId": [
-        "5KIyBfTJdvEzz2OxfVvsE6"
-      ],
-      "albumId": "5d33BXEZQrKhK0OR2pEPJK",
+      "album": {
+        "id": "5d33BXEZQrKhK0OR2pEPJK",
+        "name": "Songs from France: The Lady in Blue (International French Stars)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd2140adc912931ffa468c69"
+      },
       "release_date": "1992",
       "popularity": 41
     },
     {
-      "trackId": "7uvdA3kdzlzv7OLCJ3kbxj",
-      "name": "Fäbodpsalm från Älvdalen",
+      "track": {
+        "id": "7uvdA3kdzlzv7OLCJ3kbxj",
+        "name": "Fäbodpsalm från Älvdalen"
+      },
       "duration_ms": 143200,
-      "artist": [
-        "Busk Margit Jonsson"
+      "artists": [
+        {
+          "name": "Busk Margit Jonsson",
+          "id": "3RekXTpIxw7wQmiFHdQcGL"
+        }
       ],
-      "artistId": [
-        "3RekXTpIxw7wQmiFHdQcGL"
-      ],
-      "albumId": "23Jq8HBt73LrsGl2bxesU7",
+      "album": {
+        "id": "23Jq8HBt73LrsGl2bxesU7",
+        "name": "Kom Hjärtans Fröjd...",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cad7913c1c73422c75d114fd"
+      },
       "release_date": "1996-01-01",
       "popularity": 1
     },
     {
-      "trackId": "3sJI7yMJz2RwLtS31z3Dgc",
-      "name": "Vallåt från Jämtland",
+      "track": {
+        "id": "3sJI7yMJz2RwLtS31z3Dgc",
+        "name": "Vallåt från Jämtland"
+      },
       "duration_ms": 114693,
-      "artist": [
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "6JAj80R40giQEAg3Le4CPE",
+      "album": {
+        "id": "6JAj80R40giQEAg3Le4CPE",
+        "name": "Jazz på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234190c904a52720a3ffcad76"
+      },
       "release_date": "1964",
       "popularity": 33
     },
     {
-      "trackId": "0Ww3FQPq0WIhtvEucX6KfB",
-      "name": "Slåtter hos Nils-Mats",
+      "track": {
+        "id": "0Ww3FQPq0WIhtvEucX6KfB",
+        "name": "Slåtter hos Nils-Mats"
+      },
       "duration_ms": 157306,
-      "artist": [
-        "Hasse Andersson"
+      "artists": [
+        {
+          "name": "Hasse Andersson",
+          "id": "08JjzDgK2ltxMBWlez1YyH"
+        }
       ],
-      "artistId": [
-        "08JjzDgK2ltxMBWlez1YyH"
-      ],
-      "albumId": "0MP0Vih1HtaUYXX3BsJYPn",
+      "album": {
+        "id": "0MP0Vih1HtaUYXX3BsJYPn",
+        "name": "Hasses bästa - låtarna från TV",
+        "img": "https://i.scdn.co/image/ab67616d00001e020badbbc96c8644d7c037e884"
+      },
       "release_date": "2015-05-29",
       "popularity": 18
     }

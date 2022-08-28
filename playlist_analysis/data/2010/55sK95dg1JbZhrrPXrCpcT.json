@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247516_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0ecna4Jm4TucB099Bc4del",
-      "name": "Den lilla planeten",
+      "track": {
+        "id": "0ecna4Jm4TucB099Bc4del",
+        "name": "Den lilla planeten"
+      },
       "duration_ms": 400226,
-      "artist": [
-        "bob hund"
+      "artists": [
+        {
+          "name": "bob hund",
+          "id": "6OZxE19iim1JKvCA3GmCVx"
+        }
       ],
-      "artistId": [
-        "6OZxE19iim1JKvCA3GmCVx"
-      ],
-      "albumId": "4ffSsY5yQ6xPCNTKIwzy61",
+      "album": {
+        "id": "4ffSsY5yQ6xPCNTKIwzy61",
+        "name": "10 år bakåt och 100 år framåt",
+        "img": "https://i.scdn.co/image/ab67616d00001e021fef3e405d02ca73323c6d54"
+      },
       "release_date": "2002",
       "popularity": 32
     },
     {
-      "trackId": "4jE0aedTghH3zbNwNeDb55",
-      "name": "With You",
+      "track": {
+        "id": "4jE0aedTghH3zbNwNeDb55",
+        "name": "With You"
+      },
       "duration_ms": 216426,
-      "artist": [
-        "Irya's Playground"
+      "artists": [
+        {
+          "name": "Irya's Playground",
+          "id": "3CjkZB7tMyiJyC2B3nZTEq"
+        }
       ],
-      "artistId": [
-        "3CjkZB7tMyiJyC2B3nZTEq"
-      ],
-      "albumId": "56xJt3EcxxozSuCOIyNuZP",
+      "album": {
+        "id": "56xJt3EcxxozSuCOIyNuZP",
+        "name": "Irya's Playground",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278ba299be8dfcd7758e82b40"
+      },
       "release_date": "2008-01-01",
       "popularity": 31
     },
     {
-      "trackId": "5RXVNrXliUluKyEWOggCY1",
-      "name": "Birk Borkason",
+      "track": {
+        "id": "5RXVNrXliUluKyEWOggCY1",
+        "name": "Birk Borkason"
+      },
       "duration_ms": 545866,
-      "artist": [
-        "Astrid Lindgren",
-        "Ronja Rövardotter"
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "id": "3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Ronja Rövardotter",
+          "id": "6yTKHzQTq8lERvsmlllWzy"
+        }
       ],
-      "artistId": [
-        "3MDsnjqnEd5TJaYsuacX1I",
-        "6yTKHzQTq8lERvsmlllWzy"
-      ],
-      "albumId": "6L25tlpmr1zmPNkc4n9XXh",
+      "album": {
+        "id": "6L25tlpmr1zmPNkc4n9XXh",
+        "name": "Ronja Rövardotter",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c4d07fc79794d1a9d71a279"
+      },
       "release_date": "1984-01-01",
       "popularity": 32
     },
     {
-      "trackId": "4WVUtbd7CL38fVdIQVN3fk",
-      "name": "Frontier Psychiatrist",
+      "track": {
+        "id": "4WVUtbd7CL38fVdIQVN3fk",
+        "name": "Frontier Psychiatrist"
+      },
       "duration_ms": 287693,
-      "artist": [
-        "The Avalanches"
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "id": "3C8RpaI3Go0yFF9whvKoED"
+        }
       ],
-      "artistId": [
-        "3C8RpaI3Go0yFF9whvKoED"
-      ],
-      "albumId": "0CvU96jYCiNP4c9u8dWHoI",
+      "album": {
+        "id": "0CvU96jYCiNP4c9u8dWHoI",
+        "name": "Since I Left You",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257df27ffa7a6215bf5c78cf6"
+      },
       "release_date": "2001-04-16",
       "popularity": 48
     },
     {
-      "trackId": "3aN1SKgYk4TcOdQeGgmJHV",
-      "name": "Tuttar Överallt",
+      "track": {
+        "id": "3aN1SKgYk4TcOdQeGgmJHV",
+        "name": "Tuttar Överallt"
+      },
       "duration_ms": 187320,
-      "artist": [
-        "Dökött"
+      "artists": [
+        {
+          "name": "Dökött",
+          "id": "7kF7cFiQyaWyN2i9KDL1RC"
+        }
       ],
-      "artistId": [
-        "7kF7cFiQyaWyN2i9KDL1RC"
-      ],
-      "albumId": "5yUyE83qhg2WLUu5VGa80Q",
+      "album": {
+        "id": "5yUyE83qhg2WLUu5VGa80Q",
+        "name": "Dökött",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c4c741b6d55db152f63cd7cb"
+      },
       "release_date": "1998-06-19",
       "popularity": 37
     },
     {
-      "trackId": "7k9uqU85D7lXWonEEza6sZ",
-      "name": "Rött & svart pumpar hjärtat - Single version",
+      "track": {
+        "id": "7k9uqU85D7lXWonEEza6sZ",
+        "name": "Rött & svart pumpar hjärtat - Single version"
+      },
       "duration_ms": 190000,
-      "artist": [
-        "Annika Norlin",
-        "Falkarna"
+      "artists": [
+        {
+          "name": "Annika Norlin",
+          "id": "5BEuyZUof5F3Nu9pjcWwD1"
+        },
+        {
+          "name": "Falkarna",
+          "id": "57FDPopqBSbFHy8vWHn915"
+        }
       ],
-      "artistId": [
-        "5BEuyZUof5F3Nu9pjcWwD1",
-        "57FDPopqBSbFHy8vWHn915"
-      ],
-      "albumId": "2MJunLFTkaIoNM2BWM3guD",
+      "album": {
+        "id": "2MJunLFTkaIoNM2BWM3guD",
+        "name": "Rött & svart pumpar hjärtat",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5d77df0689cf639369ab2ba"
+      },
       "release_date": "2017-03-03",
       "popularity": 43
     },
     {
-      "trackId": "3epM2ku3Ltw2v1gaZ5KWUO",
-      "name": "Fire on Babylon",
+      "track": {
+        "id": "3epM2ku3Ltw2v1gaZ5KWUO",
+        "name": "Fire on Babylon"
+      },
       "duration_ms": 311533,
-      "artist": [
-        "Sinéad O'Connor"
+      "artists": [
+        {
+          "name": "Sinéad O'Connor",
+          "id": "4sD9znwiVFx9cgRPZ42aQ1"
+        }
       ],
-      "artistId": [
-        "4sD9znwiVFx9cgRPZ42aQ1"
-      ],
-      "albumId": "7u20BJTgQrowjyaTEgE46p",
+      "album": {
+        "id": "7u20BJTgQrowjyaTEgE46p",
+        "name": "Universal Mother",
+        "img": "https://i.scdn.co/image/ab67616d00001e020252dd87b4ff317f775ced89"
+      },
       "release_date": "1994-09-13",
       "popularity": 32
     },
     {
-      "trackId": "7bgqK0cWSR4wFNxhnBtFyB",
-      "name": "Hell",
+      "track": {
+        "id": "7bgqK0cWSR4wFNxhnBtFyB",
+        "name": "Hell"
+      },
       "duration_ms": 192973,
-      "artist": [
-        "Squirrel Nut Zippers"
+      "artists": [
+        {
+          "name": "Squirrel Nut Zippers",
+          "id": "0LIll5i3kwo5A3IDpipgkS"
+        }
       ],
-      "artistId": [
-        "0LIll5i3kwo5A3IDpipgkS"
-      ],
-      "albumId": "1zfRj4Yk4OHWYVgzDD9y01",
+      "album": {
+        "id": "1zfRj4Yk4OHWYVgzDD9y01",
+        "name": "The Best of Squirrel Nut Zippers",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d482eb720ab7e61d474c1a8b"
+      },
       "release_date": "2002-01-01",
       "popularity": 43
     },
     {
-      "trackId": "0jV8lPEbz6mVI6Q34Ru0ym",
-      "name": "Walking and Falling",
+      "track": {
+        "id": "0jV8lPEbz6mVI6Q34Ru0ym",
+        "name": "Walking and Falling"
+      },
       "duration_ms": 133293,
-      "artist": [
-        "Laurie Anderson"
+      "artists": [
+        {
+          "name": "Laurie Anderson",
+          "id": "5hqB3Fxgin9YGYa0mIGf1G"
+        }
       ],
-      "artistId": [
-        "5hqB3Fxgin9YGYa0mIGf1G"
-      ],
-      "albumId": "5nfdstl6JxGrDQtm1B2LnZ",
+      "album": {
+        "id": "5nfdstl6JxGrDQtm1B2LnZ",
+        "name": "Big Science",
+        "img": "https://i.scdn.co/image/ab67616d00001e02588b07fde7427a6b8e2614fe"
+      },
       "release_date": "1982",
       "popularity": 29
     },
     {
-      "trackId": "1tUmvNaJ6iuImkfnA3ZXhi",
-      "name": "SPEEDY GONZALES RMX",
+      "track": {
+        "id": "1tUmvNaJ6iuImkfnA3ZXhi",
+        "name": "SPEEDY GONZALES RMX"
+      },
       "duration_ms": 119726,
-      "artist": [
-        "Efeboi"
+      "artists": [
+        {
+          "name": "Efeboi",
+          "id": "6K7Q7j0r7uEh2D1C1Oudjv"
+        }
       ],
-      "artistId": [
-        "6K7Q7j0r7uEh2D1C1Oudjv"
-      ],
-      "albumId": "1yWZ8OAn18jXk0AEciuDD2",
+      "album": {
+        "id": "1yWZ8OAn18jXk0AEciuDD2",
+        "name": "SPEEDY GONZALES RMX",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eca69c77622baf1e6dddd557"
+      },
       "release_date": "2022-07-20",
       "popularity": 10
     },
     {
-      "trackId": "4N6R6yqkFUTyF3AYOdR0T7",
-      "name": "Heavy Cross",
+      "track": {
+        "id": "4N6R6yqkFUTyF3AYOdR0T7",
+        "name": "Heavy Cross"
+      },
       "duration_ms": 242786,
-      "artist": [
-        "Gossip"
+      "artists": [
+        {
+          "name": "Gossip",
+          "id": "3sFTupo9UGgrujjN21BjwR"
+        }
       ],
-      "artistId": [
-        "3sFTupo9UGgrujjN21BjwR"
-      ],
-      "albumId": "6iKQraIqR247eFKjdTMoDR",
+      "album": {
+        "id": "6iKQraIqR247eFKjdTMoDR",
+        "name": "Heavy Cross",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff81dbdad78a567e86a64d72"
+      },
       "release_date": "2009-04-24",
       "popularity": 54
     },
     {
-      "trackId": "1rMZzXfD89RtfwhuRRNnqx",
-      "name": "Thank You for Hearing Me",
+      "track": {
+        "id": "1rMZzXfD89RtfwhuRRNnqx",
+        "name": "Thank You for Hearing Me"
+      },
       "duration_ms": 385466,
-      "artist": [
-        "Sinéad O'Connor"
+      "artists": [
+        {
+          "name": "Sinéad O'Connor",
+          "id": "4sD9znwiVFx9cgRPZ42aQ1"
+        }
       ],
-      "artistId": [
-        "4sD9znwiVFx9cgRPZ42aQ1"
-      ],
-      "albumId": "7u20BJTgQrowjyaTEgE46p",
+      "album": {
+        "id": "7u20BJTgQrowjyaTEgE46p",
+        "name": "Universal Mother",
+        "img": "https://i.scdn.co/image/ab67616d00001e020252dd87b4ff317f775ced89"
+      },
       "release_date": "1994-09-13",
       "popularity": 38
     }

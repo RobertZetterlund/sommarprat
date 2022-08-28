@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241053_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2mHchPRtQWet3iIS3jANr1",
-      "name": "God Save The Queen",
+      "track": {
+        "id": "2mHchPRtQWet3iIS3jANr1",
+        "name": "God Save The Queen"
+      },
       "duration_ms": 199453,
-      "artist": [
-        "Sex Pistols"
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "id": "1u7kkVrr14iBvrpYnZILJR"
+        }
       ],
-      "artistId": [
-        "1u7kkVrr14iBvrpYnZILJR"
-      ],
-      "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+      "album": {
+        "id": "6ggO3YVhyonYuFWUPBRyIv",
+        "name": "Never Mind The Bollocks, Here’s The Sex Pistols",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b691fa29c123b5fc4bc5d469"
+      },
       "release_date": "1977-10-27",
       "popularity": 61
     },
     {
-      "trackId": "3ZhMxNCJcoYBj2wrO4VU3l",
-      "name": "Tommy Gun - Remastered",
+      "track": {
+        "id": "3ZhMxNCJcoYBj2wrO4VU3l",
+        "name": "Tommy Gun - Remastered"
+      },
       "duration_ms": 197440,
-      "artist": [
-        "The Clash"
+      "artists": [
+        {
+          "name": "The Clash",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS"
+        }
       ],
-      "artistId": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-      ],
-      "albumId": "4NEvCc6vHcsCPviWPCCrVg",
+      "album": {
+        "id": "4NEvCc6vHcsCPviWPCCrVg",
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b32a59fcc8bcd8172bd54d6"
+      },
       "release_date": "1978",
       "popularity": 44
     },
     {
-      "trackId": "2Uqayp7267V5SJYOf7fLmV",
-      "name": "Zion Train",
+      "track": {
+        "id": "2Uqayp7267V5SJYOf7fLmV",
+        "name": "Zion Train"
+      },
       "duration_ms": 216640,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 50
     },
     {
-      "trackId": "5SlaxNH30Y3teyIRDb8AwX",
-      "name": "Kalla kriget",
+      "track": {
+        "id": "5SlaxNH30Y3teyIRDb8AwX",
+        "name": "Kalla kriget"
+      },
       "duration_ms": 178200,
-      "artist": [
-        "Reeperbahn"
+      "artists": [
+        {
+          "name": "Reeperbahn",
+          "id": "6P8sG88viK5GpVoKliTc1b"
+        }
       ],
-      "artistId": [
-        "6P8sG88viK5GpVoKliTc1b"
-      ],
-      "albumId": "7rcVB9aKQYadWGMmcnDVZi",
+      "album": {
+        "id": "7rcVB9aKQYadWGMmcnDVZi",
+        "name": "Venuspassagen (Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246602e7e389c302b72505128"
+      },
       "release_date": "1981-01-01",
       "popularity": 26
     },
     {
-      "trackId": "4MHzXgBy7hexDe2Bto11hP",
-      "name": "California Dreamin' - 2007 Digital Remaster",
+      "track": {
+        "id": "4MHzXgBy7hexDe2Bto11hP",
+        "name": "California Dreamin' - 2007 Digital Remaster"
+      },
       "duration_ms": 204373,
-      "artist": [
-        "The Beach Boys"
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "id": "3oDbviiivRWhXwIE8hxkVV"
+        }
       ],
-      "artistId": [
-        "3oDbviiivRWhXwIE8hxkVV"
-      ],
-      "albumId": "2dZC8JN4oGdw4BrRzmvS4m",
+      "album": {
+        "id": "2dZC8JN4oGdw4BrRzmvS4m",
+        "name": "The Warmth Of The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c955c39e5070294240e8993"
+      },
       "release_date": "2007-01-01",
       "popularity": 72
     },
     {
-      "trackId": "5LBL89K8kk0uw3tuB7pIFw",
-      "name": "L.A. Is My Lady",
+      "track": {
+        "id": "5LBL89K8kk0uw3tuB7pIFw",
+        "name": "L.A. Is My Lady"
+      },
       "duration_ms": 193200,
-      "artist": [
-        "Frank Sinatra",
-        "Quincy Jones"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "id": "3rxIQc9kWT6Ueg4BhnOwRK"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "3rxIQc9kWT6Ueg4BhnOwRK"
-      ],
-      "albumId": "4zvku3SSgsUaVRsvcCZ1aU",
+      "album": {
+        "id": "4zvku3SSgsUaVRsvcCZ1aU",
+        "name": "L.A. Is My Lady",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5f9d048d29057ea7b872ea3"
+      },
       "release_date": "1984-01-01",
       "popularity": 33
     },
     {
-      "trackId": "3HCah9Waf9Jby9gLIWN4MI",
-      "name": "Eyes Without A Face - Remastered",
+      "track": {
+        "id": "3HCah9Waf9Jby9gLIWN4MI",
+        "name": "Eyes Without A Face - Remastered"
+      },
       "duration_ms": 297426,
-      "artist": [
-        "Billy Idol"
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "id": "7lzordPuZEXxwt9aoVZYmG"
+        }
       ],
-      "artistId": [
-        "7lzordPuZEXxwt9aoVZYmG"
-      ],
-      "albumId": "1gTvJG5YnrTiwr0uDuzaoA",
+      "album": {
+        "id": "1gTvJG5YnrTiwr0uDuzaoA",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e025425de975a56867550d2dd65"
+      },
       "release_date": "2001-01-01",
       "popularity": 59
     },
     {
-      "trackId": "7uPmQttafLiJyju14JREY4",
-      "name": "Young Americans - 2016 Remaster",
+      "track": {
+        "id": "7uPmQttafLiJyju14JREY4",
+        "name": "Young Americans - 2016 Remaster"
+      },
       "duration_ms": 313706,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "0lITGovWgaQGi42EfqcE5P",
+      "album": {
+        "id": "0lITGovWgaQGi42EfqcE5P",
+        "name": "Young Americans (2016 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3bd6493ad6e29dcd2ad5a37"
+      },
       "release_date": "1975-03-07",
       "popularity": 63
     },
     {
-      "trackId": "71Y7sPJm0DpCix0fHaAlhI",
-      "name": "Peaches - 1996 Remaster",
+      "track": {
+        "id": "71Y7sPJm0DpCix0fHaAlhI",
+        "name": "Peaches - 1996 Remaster"
+      },
       "duration_ms": 245493,
-      "artist": [
-        "The Stranglers"
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "id": "0RUEHcBiENFEqxgicqS2ig"
+        }
       ],
-      "artistId": [
-        "0RUEHcBiENFEqxgicqS2ig"
-      ],
-      "albumId": "38lyLeszq1p2sck1lB53dq",
+      "album": {
+        "id": "38lyLeszq1p2sck1lB53dq",
+        "name": "Rattus Norvegicus",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271bc09bffecbaa3ce3c8f8bd"
+      },
       "release_date": "1977",
       "popularity": 51
     },
     {
-      "trackId": "2TxwOvziWFXvi3w7kuWxSe",
-      "name": "Cut the Rope",
+      "track": {
+        "id": "2TxwOvziWFXvi3w7kuWxSe",
+        "name": "Cut the Rope"
+      },
       "duration_ms": 109040,
-      "artist": [
-        "Mando Diao"
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "id": "5I4eibDkC7gg0hmczTZuND"
+        }
       ],
-      "artistId": [
-        "5I4eibDkC7gg0hmczTZuND"
-      ],
-      "albumId": "1StsgV2Djw49X5zMj5jztP",
+      "album": {
+        "id": "1StsgV2Djw49X5zMj5jztP",
+        "name": "Hurricane Bar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d77f5131e85a3164f9c3aeed"
+      },
       "release_date": "2004-09-22",
       "popularity": 24
     },
     {
-      "trackId": "2AdRSHeYmDGMrgIfiS2w7K",
-      "name": "Ask - 2011 Remaster",
+      "track": {
+        "id": "2AdRSHeYmDGMrgIfiS2w7K",
+        "name": "Ask - 2011 Remaster"
+      },
       "duration_ms": 198146,
-      "artist": [
-        "The Smiths"
+      "artists": [
+        {
+          "name": "The Smiths",
+          "id": "3yY2gUcIsjMr8hjo51PoJ8"
+        }
       ],
-      "artistId": [
-        "3yY2gUcIsjMr8hjo51PoJ8"
-      ],
-      "albumId": "45StnugV9WQMQwk4rRoTy8",
+      "album": {
+        "id": "45StnugV9WQMQwk4rRoTy8",
+        "name": "Louder Than Bombs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed3953f8af1f764a146b7583"
+      },
       "release_date": "1987",
       "popularity": 59
     },
     {
-      "trackId": "3xAHOhOi54ZZxkaRQKrAyX",
-      "name": "Competition Is None (feat. Papa Dee)",
+      "track": {
+        "id": "3xAHOhOi54ZZxkaRQKrAyX",
+        "name": "Competition Is None (feat. Papa Dee)"
+      },
       "duration_ms": 248800,
-      "artist": [
-        "Rob n Raz"
+      "artists": [
+        {
+          "name": "Rob n Raz",
+          "id": "3Dm7LtboNpBXP9FkhKacj8"
+        }
       ],
-      "artistId": [
-        "3Dm7LtboNpBXP9FkhKacj8"
-      ],
-      "albumId": "7KCKEsZHjAdaeMohg9hTPl",
+      "album": {
+        "id": "7KCKEsZHjAdaeMohg9hTPl",
+        "name": "Competition Is None (feat. Papa Dee)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddb76bacf7e5de3c20a70572"
+      },
       "release_date": "1988",
       "popularity": 2
     },
     {
-      "trackId": "6I1kZgg3bGrPKxhZOltbRW",
-      "name": "Alla vill till himmelen men ingen vill dö",
+      "track": {
+        "id": "6I1kZgg3bGrPKxhZOltbRW",
+        "name": "Alla vill till himmelen men ingen vill dö"
+      },
       "duration_ms": 246386,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "3tXuKxDCfmokZIoqzTYAjN",
+      "album": {
+        "id": "3tXuKxDCfmokZIoqzTYAjN",
+        "name": "Alla vill till himmelen men ingen vill dö",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f"
+      },
       "release_date": "2005-06-03",
       "popularity": 55
     },
     {
-      "trackId": "2OtMQxyxJwnc4Kdbmd7Wlh",
-      "name": "Brisbane (Security City) - 2004 Remaster",
+      "track": {
+        "id": "2OtMQxyxJwnc4Kdbmd7Wlh",
+        "name": "Brisbane (Security City) - 2004 Remaster"
+      },
       "duration_ms": 262546,
-      "artist": [
-        "The Saints"
+      "artists": [
+        {
+          "name": "The Saints",
+          "id": "6OWPd5ByKaNSFAZ3TCe5AO"
+        }
       ],
-      "artistId": [
-        "6OWPd5ByKaNSFAZ3TCe5AO"
-      ],
-      "albumId": "1oeKuxhz9elTls12SX2qvg",
+      "album": {
+        "id": "1oeKuxhz9elTls12SX2qvg",
+        "name": "Prehistoric Sounds (2004 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02da32f4a9bac10ecbd2d388a0"
+      },
       "release_date": "1978-10-01",
       "popularity": 15
     }

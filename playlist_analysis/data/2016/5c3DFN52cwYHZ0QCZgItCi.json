@@ -7,156 +7,222 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/91b05ad6-3a8f-48ac-956c-2a759f25a7b5.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4fiOTntQKr24p07FvQDHZE",
-      "name": "Raining Blood",
+      "track": {
+        "id": "4fiOTntQKr24p07FvQDHZE",
+        "name": "Raining Blood"
+      },
       "duration_ms": 255186,
-      "artist": [
-        "Slayer"
+      "artists": [
+        {
+          "name": "Slayer",
+          "id": "1IQ2e1buppatiN1bxUVkrk"
+        }
       ],
-      "artistId": [
-        "1IQ2e1buppatiN1bxUVkrk"
-      ],
-      "albumId": "5v5BfkxWDAKTkzrXl3H0mU",
+      "album": {
+        "id": "5v5BfkxWDAKTkzrXl3H0mU",
+        "name": "Reign In Blood (Expanded)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021530f31c8d4197777b70ee5d"
+      },
       "release_date": "1986-01-01",
       "popularity": 64
     },
     {
-      "trackId": "68CBshGhsYsilJgD6ow8HN",
-      "name": "Hey Dilbere - Remastered",
+      "track": {
+        "id": "68CBshGhsYsilJgD6ow8HN",
+        "name": "Hey Dilbere - Remastered"
+      },
       "duration_ms": 301083,
-      "artist": [
-        "Ciwan Haco"
+      "artists": [
+        {
+          "name": "Ciwan Haco",
+          "id": "4o7TBxtRmKEAbKYFrjv3NG"
+        }
       ],
-      "artistId": [
-        "4o7TBxtRmKEAbKYFrjv3NG"
-      ],
-      "albumId": "5ffzNQrzklKkAlj7BDh2i7",
+      "album": {
+        "id": "5ffzNQrzklKkAlj7BDh2i7",
+        "name": "Girtiyên Azadiyê (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02185c9e65cd9927dcce424ee1"
+      },
       "release_date": "1988-12-05",
       "popularity": 38
     },
     {
-      "trackId": "2lTZRMqenUIsWKz0YRc93W",
-      "name": "Bitanga I Princeza",
+      "track": {
+        "id": "2lTZRMqenUIsWKz0YRc93W",
+        "name": "Bitanga I Princeza"
+      },
       "duration_ms": 226106,
-      "artist": [
-        "Bijelo Dugme"
+      "artists": [
+        {
+          "name": "Bijelo Dugme",
+          "id": "6YrXP3uxNWpENU4zWRUSVx"
+        }
       ],
-      "artistId": [
-        "6YrXP3uxNWpENU4zWRUSVx"
-      ],
-      "albumId": "5CPVMGdQlqB27LCDZl705K",
+      "album": {
+        "id": "5CPVMGdQlqB27LCDZl705K",
+        "name": "Bitanga I Princeza",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a1ddd5dcf18940259d09bbb"
+      },
       "release_date": "1979-02-08",
       "popularity": 40
     },
     {
-      "trackId": "0t1lDXmMWBzF6mfnQ6KwqZ",
-      "name": "Dead Skin Mask",
+      "track": {
+        "id": "0t1lDXmMWBzF6mfnQ6KwqZ",
+        "name": "Dead Skin Mask"
+      },
       "duration_ms": 320520,
-      "artist": [
-        "Slayer"
+      "artists": [
+        {
+          "name": "Slayer",
+          "id": "1IQ2e1buppatiN1bxUVkrk"
+        }
       ],
-      "artistId": [
-        "1IQ2e1buppatiN1bxUVkrk"
-      ],
-      "albumId": "49QJ9TAWNqZGbFUvadXPgT",
+      "album": {
+        "id": "49QJ9TAWNqZGbFUvadXPgT",
+        "name": "Seasons In The Abyss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0c12d83c0488024b66c9739"
+      },
       "release_date": "1990-01-01",
       "popularity": 54
     },
     {
-      "trackId": "6VZivrPxu9MJ5rIPIERg56",
-      "name": "Shout At The Devil",
+      "track": {
+        "id": "6VZivrPxu9MJ5rIPIERg56",
+        "name": "Shout At The Devil"
+      },
       "duration_ms": 194986,
-      "artist": [
-        "Mötley Crüe"
+      "artists": [
+        {
+          "name": "Mötley Crüe",
+          "id": "0cc6vw3VN8YlIcvr1v7tBL"
+        }
       ],
-      "artistId": [
-        "0cc6vw3VN8YlIcvr1v7tBL"
-      ],
-      "albumId": "7xuz2r1QalMeEVkYuDfPgY",
+      "album": {
+        "id": "7xuz2r1QalMeEVkYuDfPgY",
+        "name": "Shout At The Devil",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e21514654e93e55e9612bd5a"
+      },
       "release_date": "1983-09-26",
       "popularity": 69
     },
     {
-      "trackId": "2mKX3nnLDmWVSp1aAkuDGb",
-      "name": "Gülpembe",
+      "track": {
+        "id": "2mKX3nnLDmWVSp1aAkuDGb",
+        "name": "Gülpembe"
+      },
       "duration_ms": 288306,
-      "artist": [
-        "Barış Manço"
+      "artists": [
+        {
+          "name": "Barış Manço",
+          "id": "3eVuump9qyK0YCQQo4mKbc"
+        }
       ],
-      "artistId": [
-        "3eVuump9qyK0YCQQo4mKbc"
-      ],
-      "albumId": "2BaQUSAuG5WAgZZlxOYSOu",
+      "album": {
+        "id": "2BaQUSAuG5WAgZZlxOYSOu",
+        "name": "Sözüm Meclisten Dışarı",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274a411befef44029b7f08cca"
+      },
       "release_date": "1991-12-03",
       "popularity": 48
     },
     {
-      "trackId": "6BmzbaB08O0FjHXeS0cR5b",
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "track": {
+        "id": "6BmzbaB08O0FjHXeS0cR5b",
+        "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)"
+      },
       "duration_ms": 204653,
-      "artist": [
-        "Thin Lizzy"
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "id": "6biWAmrHyiMkX49LkycGqQ"
+        }
       ],
-      "artistId": [
-        "6biWAmrHyiMkX49LkycGqQ"
-      ],
-      "albumId": "0DHKadXfnYCAXp28F3HI8U",
+      "album": {
+        "id": "0DHKadXfnYCAXp28F3HI8U",
+        "name": "Bad Reputation (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029d64200d0ce43d5e4826f08e"
+      },
       "release_date": "1977",
       "popularity": 64
     },
     {
-      "trackId": "28TcG73tbc4iGrGBFjiBnR",
-      "name": "Kings of Metal",
+      "track": {
+        "id": "28TcG73tbc4iGrGBFjiBnR",
+        "name": "Kings of Metal"
+      },
       "duration_ms": 223866,
-      "artist": [
-        "Manowar"
+      "artists": [
+        {
+          "name": "Manowar",
+          "id": "4CzUzn54Cp9TQr6a7JIlMZ"
+        }
       ],
-      "artistId": [
-        "4CzUzn54Cp9TQr6a7JIlMZ"
-      ],
-      "albumId": "7lZkD6ntnGAhmWowltbOYB",
+      "album": {
+        "id": "7lZkD6ntnGAhmWowltbOYB",
+        "name": "Kings of Metal",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265a0487dad311837ea91129e"
+      },
       "release_date": "1988-11-01",
       "popularity": 57
     },
     {
-      "trackId": "7kPZ2v5kmx0PTI5zV6mvDz",
-      "name": "Disciple",
+      "track": {
+        "id": "7kPZ2v5kmx0PTI5zV6mvDz",
+        "name": "Disciple"
+      },
       "duration_ms": 215693,
-      "artist": [
-        "Slayer"
+      "artists": [
+        {
+          "name": "Slayer",
+          "id": "1IQ2e1buppatiN1bxUVkrk"
+        }
       ],
-      "artistId": [
-        "1IQ2e1buppatiN1bxUVkrk"
-      ],
-      "albumId": "3MuaoZgcAFuanhg04e75LK",
+      "album": {
+        "id": "3MuaoZgcAFuanhg04e75LK",
+        "name": "God Hates Us All",
+        "img": "https://i.scdn.co/image/ab67616d00001e0223daab33eb8080aca54f554e"
+      },
       "release_date": "2001-01-01",
       "popularity": 48
     },
     {
-      "trackId": "3Ky8IzV8IVSwijtaTWB2SK",
-      "name": "Seasons In The Abyss",
+      "track": {
+        "id": "3Ky8IzV8IVSwijtaTWB2SK",
+        "name": "Seasons In The Abyss"
+      },
       "duration_ms": 397826,
-      "artist": [
-        "Slayer"
+      "artists": [
+        {
+          "name": "Slayer",
+          "id": "1IQ2e1buppatiN1bxUVkrk"
+        }
       ],
-      "artistId": [
-        "1IQ2e1buppatiN1bxUVkrk"
-      ],
-      "albumId": "49QJ9TAWNqZGbFUvadXPgT",
+      "album": {
+        "id": "49QJ9TAWNqZGbFUvadXPgT",
+        "name": "Seasons In The Abyss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0c12d83c0488024b66c9739"
+      },
       "release_date": "1990-01-01",
       "popularity": 58
     },
     {
-      "trackId": "6EXZxj0v0oy9y42M0jObEd",
-      "name": "Gulen Gulistane - Digel Sidar",
+      "track": {
+        "id": "6EXZxj0v0oy9y42M0jObEd",
+        "name": "Gulen Gulistane - Digel Sidar"
+      },
       "duration_ms": 260186,
-      "artist": [
-        "Serhado"
+      "artists": [
+        {
+          "name": "Serhado",
+          "id": "3upIzaese10iBobwKaFMqS"
+        }
       ],
-      "artistId": [
-        "3upIzaese10iBobwKaFMqS"
-      ],
-      "albumId": "1Fus8pvsTiXJaUn4wELSd2",
+      "album": {
+        "id": "1Fus8pvsTiXJaUn4wELSd2",
+        "name": "Xewna Jiyan (Hip Hop Bi Kurdi)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260837a8eba73baa5e9004d68"
+      },
       "release_date": "2007-02-21",
       "popularity": 33
     }

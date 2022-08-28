@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/5c70bb03-8304-445c-a947-2def91d966cc.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Y90nL1ohB4sgYELDs7uNx",
-      "name": "Glory Days",
+      "track": {
+        "id": "2Y90nL1ohB4sgYELDs7uNx",
+        "name": "Glory Days"
+      },
       "duration_ms": 254733,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "0PMasrHdpaoIRuHuhHp72O",
+      "album": {
+        "id": "0PMasrHdpaoIRuHuhHp72O",
+        "name": "Born In The U.S.A.",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a7865e686c36a4adda6c9978"
+      },
       "release_date": "1984-06-04",
       "popularity": 71
     },
     {
-      "trackId": "4oSOqIFMmaWa56ni5QBuOP",
-      "name": "Vad ska du bli?",
+      "track": {
+        "id": "4oSOqIFMmaWa56ni5QBuOP",
+        "name": "Vad ska du bli?"
+      },
       "duration_ms": 156533,
-      "artist": [
-        "Ebba Grön"
+      "artists": [
+        {
+          "name": "Ebba Grön",
+          "id": "2gvwV7CcpLmKyaE0fiSKI9"
+        }
       ],
-      "artistId": [
-        "2gvwV7CcpLmKyaE0fiSKI9"
-      ],
-      "albumId": "2zP275pJAbZbZFifh5av6R",
+      "album": {
+        "id": "2zP275pJAbZbZFifh5av6R",
+        "name": "Ebba Grön 1978 - 1982",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c12767a5b413c794d2c5a569"
+      },
       "release_date": "1987-01-01",
       "popularity": 29
     },
     {
-      "trackId": "2KmI1IcNSOhfUzLD357i3Z",
-      "name": "Help The Aged",
+      "track": {
+        "id": "2KmI1IcNSOhfUzLD357i3Z",
+        "name": "Help The Aged"
+      },
       "duration_ms": 268840,
-      "artist": [
-        "Pulp"
+      "artists": [
+        {
+          "name": "Pulp",
+          "id": "36E7oYfz3LLRto6l2WmDcD"
+        }
       ],
-      "artistId": [
-        "36E7oYfz3LLRto6l2WmDcD"
-      ],
-      "albumId": "4KVaUWQnFQSqP3lBViJTO5",
+      "album": {
+        "id": "4KVaUWQnFQSqP3lBViJTO5",
+        "name": "This Is Hardcore",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210bed0eb554cafa1d02f31c1"
+      },
       "release_date": "1998-03-30",
       "popularity": 41
     },
     {
-      "trackId": "43T696K5X1s1mtxIuuUvvz",
-      "name": "When All Is Said And Done",
+      "track": {
+        "id": "43T696K5X1s1mtxIuuUvvz",
+        "name": "When All Is Said And Done"
+      },
       "duration_ms": 198586,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5GByGaws7Cw0t28kjvAOzV",
+      "album": {
+        "id": "5GByGaws7Cw0t28kjvAOzV",
+        "name": "The Visitors (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242678f54dfd1d5afb3eea19a"
+      },
       "release_date": "1981",
       "popularity": 56
     },
     {
-      "trackId": "1Md4uahAVAdHWczUhuAs0W",
-      "name": "'o surdato 'nnammurato",
+      "track": {
+        "id": "1Md4uahAVAdHWczUhuAs0W",
+        "name": "'o surdato 'nnammurato"
+      },
       "duration_ms": 160079,
-      "artist": [
-        "Roberto Murolo"
+      "artists": [
+        {
+          "name": "Roberto Murolo",
+          "id": "4Y7fW86VPX4T4Ojio2fQCm"
+        }
       ],
-      "artistId": [
-        "4Y7fW86VPX4T4Ojio2fQCm"
-      ],
-      "albumId": "0IKlR2IAteMl1H3Pr7Tdxg",
+      "album": {
+        "id": "0IKlR2IAteMl1H3Pr7Tdxg",
+        "name": "Golden Memory: Roberto Murolo, vol. 12",
+        "img": "https://i.scdn.co/image/ab67616d00001e0238ea97fd3c30d6db69224ddf"
+      },
       "release_date": "2011",
       "popularity": 1
     },
     {
-      "trackId": "25NxW0iRRFOrIfxu4nrYfE",
-      "name": "Being Boring",
+      "track": {
+        "id": "25NxW0iRRFOrIfxu4nrYfE",
+        "name": "Being Boring"
+      },
       "duration_ms": 291306,
-      "artist": [
-        "Pet Shop Boys"
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "id": "2ycnb8Er79LoH2AsR5ldjh"
+        }
       ],
-      "artistId": [
-        "2ycnb8Er79LoH2AsR5ldjh"
-      ],
-      "albumId": "0Jt2LzWgtGxy3GZH5i2Kcy",
+      "album": {
+        "id": "0Jt2LzWgtGxy3GZH5i2Kcy",
+        "name": "Discography - Complete Singles Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02499c6d2eaeb941d76acdfe41"
+      },
       "release_date": "1998-03-31",
       "popularity": 48
     },
     {
-      "trackId": "1BhVnF9HSmbJChRuAxPEIp",
-      "name": "Mannen i den vita hatten (16 år senare)",
+      "track": {
+        "id": "1BhVnF9HSmbJChRuAxPEIp",
+        "name": "Mannen i den vita hatten (16 år senare)"
+      },
       "duration_ms": 398066,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "0xtOxVRRaA0kW7X4PlbtuP",
+      "album": {
+        "id": "0xtOxVRRaA0kW7X4PlbtuP",
+        "name": "Du & jag döden",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe168e1e3b834412cbe77793"
+      },
       "release_date": "2005-03-15",
       "popularity": 46
     },
     {
-      "trackId": "5Yx5PhdnwhNzLMBl34TZw4",
-      "name": "Both Sides Now",
+      "track": {
+        "id": "5Yx5PhdnwhNzLMBl34TZw4",
+        "name": "Both Sides Now"
+      },
       "duration_ms": 273573,
-      "artist": [
-        "Joni Mitchell"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve"
-      ],
-      "albumId": "02piRJBAWgCu2Et3rOkK4w",
+      "album": {
+        "id": "02piRJBAWgCu2Et3rOkK4w",
+        "name": "Easy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f94f1f43a1bbce6bfd98d303"
+      },
       "release_date": "2019-02-15",
       "popularity": 58
     },
     {
-      "trackId": "637V2ymBt4Ljlbz4EmRys8",
-      "name": "This Used to Be My Playground",
+      "track": {
+        "id": "637V2ymBt4Ljlbz4EmRys8",
+        "name": "This Used to Be My Playground"
+      },
       "duration_ms": 310266,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "7kUiJdXqLkMTkpY0PmXUv5",
+      "album": {
+        "id": "7kUiJdXqLkMTkpY0PmXUv5",
+        "name": "Something to Remember",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2d10037d24c6515511916f4"
+      },
       "release_date": "1995-11-17",
       "popularity": 51
     },
     {
-      "trackId": "6dEMm4y32HNThkGI8XQUtu",
-      "name": "Mamma (Arr. Mancini)",
+      "track": {
+        "id": "6dEMm4y32HNThkGI8XQUtu",
+        "name": "Mamma (Arr. Mancini)"
+      },
       "duration_ms": 216133,
-      "artist": [
-        "Cesare Andrea Bixio",
-        "Luciano Pavarotti",
-        "Henry Mancini"
+      "artists": [
+        {
+          "name": "Cesare Andrea Bixio",
+          "id": "4M5Ttp109RCi5lxSFFiprS"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Henry Mancini",
+          "id": "2EExdpjU4SK3xnJHO5paJf"
+        }
       ],
-      "artistId": [
-        "4M5Ttp109RCi5lxSFFiprS",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "2EExdpjU4SK3xnJHO5paJf"
-      ],
-      "albumId": "5XipJoZbbX3xQpVBGq5Tvd",
+      "album": {
+        "id": "5XipJoZbbX3xQpVBGq5Tvd",
+        "name": "Mamma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7045245d12a7c83e9da5c82"
+      },
       "release_date": "1984-01-01",
       "popularity": 28
     },
     {
-      "trackId": "5O0h2Fq8byNYT5tHwymFkH",
-      "name": "When I Get to Heaven",
+      "track": {
+        "id": "5O0h2Fq8byNYT5tHwymFkH",
+        "name": "When I Get to Heaven"
+      },
       "duration_ms": 222573,
-      "artist": [
-        "John Prine"
+      "artists": [
+        {
+          "name": "John Prine",
+          "id": "0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
       ],
-      "artistId": [
-        "0nJUwPwC9Ti4vvuJ0q3MfT"
-      ],
-      "albumId": "13UwfQZqne7ZQIkUZsAPLg",
+      "album": {
+        "id": "13UwfQZqne7ZQIkUZsAPLg",
+        "name": "The Tree of Forgiveness",
+        "img": "https://i.scdn.co/image/ab67616d00001e025270e5edbc5020d84db6e289"
+      },
       "release_date": "2018-04-13",
       "popularity": 45
     },
     {
-      "trackId": "2MeYsitFbcxoNVCO31Vjmz",
-      "name": "Closing Time",
+      "track": {
+        "id": "2MeYsitFbcxoNVCO31Vjmz",
+        "name": "Closing Time"
+      },
       "duration_ms": 357960,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "7E4FRoU4Pk0WuO1SQMV1Bo",
+      "album": {
+        "id": "7E4FRoU4Pk0WuO1SQMV1Bo",
+        "name": "The Future",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c590964fc4f433f500ebf0b6"
+      },
       "release_date": "1992-10-22",
       "popularity": 45
     },
     {
-      "trackId": "3Bw7ii9CwJp3chAKGlvRjV",
-      "name": "Walk All Over God's Heaven",
+      "track": {
+        "id": "3Bw7ii9CwJp3chAKGlvRjV",
+        "name": "Walk All Over God's Heaven"
+      },
       "duration_ms": 226786,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "1bYpsPzfkEsH1pOyf4qjvg",
+      "album": {
+        "id": "1bYpsPzfkEsH1pOyf4qjvg",
+        "name": "Blowin' In the Wind - The Gospel Soul of Etta James",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cebc87db2c30f9a23b42f7e7"
+      },
       "release_date": "2002-07-01",
       "popularity": 4
     }

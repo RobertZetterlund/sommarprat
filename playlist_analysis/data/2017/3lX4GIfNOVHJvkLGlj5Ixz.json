@@ -7,232 +7,334 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/08a204f8-55ec-4d0e-bdf6-42d06e1f2415.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5bOcEupoFi9NZZ2kHL5OHI",
-      "name": "Don’t Fight It - Live: December 29th 1967",
+      "track": {
+        "id": "5bOcEupoFi9NZZ2kHL5OHI",
+        "name": "Don’t Fight It - Live: December 29th 1967"
+      },
       "duration_ms": 149306,
-      "artist": [
-        "Tom Jones"
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "id": "1T0wRBO0CK0vK8ouUMqEl5"
+        }
       ],
-      "artistId": [
-        "1T0wRBO0CK0vK8ouUMqEl5"
-      ],
-      "albumId": "692GwiMl0ddcbrJHHotevE",
+      "album": {
+        "id": "692GwiMl0ddcbrJHHotevE",
+        "name": "Live On Air 1965-1968",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269bf030654c7e291dcdb67dc"
+      },
       "release_date": "1965",
       "popularity": 1
     },
     {
-      "trackId": "37f4ITSlgPX81ad2EvmVQr",
-      "name": "Fight Song",
+      "track": {
+        "id": "37f4ITSlgPX81ad2EvmVQr",
+        "name": "Fight Song"
+      },
       "duration_ms": 204013,
-      "artist": [
-        "Rachel Platten"
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "id": "3QLIkT4rD2FMusaqmkepbq"
+        }
       ],
-      "artistId": [
-        "3QLIkT4rD2FMusaqmkepbq"
-      ],
-      "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+      "album": {
+        "id": "0mFDIOqypzHp6Xd0el1hoT",
+        "name": "Wildfire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9e4d7fae5dfcc8f9cc96bc9"
+      },
       "release_date": "2016-01-01",
       "popularity": 77
     },
     {
-      "trackId": "2KklXplRtxMsBYo474Es0w",
-      "name": "Be Mine",
+      "track": {
+        "id": "2KklXplRtxMsBYo474Es0w",
+        "name": "Be Mine"
+      },
       "duration_ms": 161322,
-      "artist": [
-        "Ofenbach"
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "id": "4AKwRarlmsUlLjIwt38NLw"
+        }
       ],
-      "artistId": [
-        "4AKwRarlmsUlLjIwt38NLw"
-      ],
-      "albumId": "3tD94EmwfRLAX1SaZQvDhC",
+      "album": {
+        "id": "3tD94EmwfRLAX1SaZQvDhC",
+        "name": "Be Mine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e819b286432a124e510dc87b"
+      },
       "release_date": "2016-11-25",
       "popularity": 67
     },
     {
-      "trackId": "60nZcImufyMA1MKQY3dcCH",
-      "name": "Happy - From \"Despicable Me 2\"",
+      "track": {
+        "id": "60nZcImufyMA1MKQY3dcCH",
+        "name": "Happy - From \"Despicable Me 2\""
+      },
       "duration_ms": 232720,
-      "artist": [
-        "Pharrell Williams"
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
+        }
       ],
-      "artistId": [
-        "2RdwBSPQiwcmiDo9kixcl8"
-      ],
-      "albumId": "0lrmy4pJINsFzycJvttX2W",
+      "album": {
+        "id": "0lrmy4pJINsFzycJvttX2W",
+        "name": "G I R L",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8107e6d9214baa81bb79bba"
+      },
       "release_date": "2014-03-03",
       "popularity": 80
     },
     {
-      "trackId": "5v55pDsyrxIs6OTk3E5l69",
-      "name": "Rullar fram",
+      "track": {
+        "id": "5v55pDsyrxIs6OTk3E5l69",
+        "name": "Rullar fram"
+      },
       "duration_ms": 228920,
-      "artist": [
-        "Fronda"
+      "artists": [
+        {
+          "name": "Fronda",
+          "id": "4i6VLJAtySJ3Vxf9R1me6p"
+        }
       ],
-      "artistId": [
-        "4i6VLJAtySJ3Vxf9R1me6p"
-      ],
-      "albumId": "2u9ZI8Xqe2RqzRw7R4Kc0I",
+      "album": {
+        "id": "2u9ZI8Xqe2RqzRw7R4Kc0I",
+        "name": "Fridlysta frekvenser",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ef4e72f98a8caa330901c63"
+      },
       "release_date": "2007-09-19",
       "popularity": 50
     },
     {
-      "trackId": "6SXy02aTZU3ysoGUixYCz0",
-      "name": "Maybe Tomorrow",
+      "track": {
+        "id": "6SXy02aTZU3ysoGUixYCz0",
+        "name": "Maybe Tomorrow"
+      },
       "duration_ms": 272946,
-      "artist": [
-        "Stereophonics"
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "id": "21UJ7PRWb3Etgsu99f8yo8"
+        }
       ],
-      "artistId": [
-        "21UJ7PRWb3Etgsu99f8yo8"
-      ],
-      "albumId": "65ekRZTdz7ufM6yULqgjo8",
+      "album": {
+        "id": "65ekRZTdz7ufM6yULqgjo8",
+        "name": "You Gotta Go There To Come Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e0262e5f8cd227dd6bef37d84d6"
+      },
       "release_date": "2003-01-01",
       "popularity": 65
     },
     {
-      "trackId": "4SmQcy1PzpOghS8YAxJsng",
-      "name": "Aldrig nöjd",
+      "track": {
+        "id": "4SmQcy1PzpOghS8YAxJsng",
+        "name": "Aldrig nöjd"
+      },
       "duration_ms": 225360,
-      "artist": [
-        "Gissberg"
+      "artists": [
+        {
+          "name": "Gissberg",
+          "id": "0kDLpXsC5aGG75k3zDhaO4"
+        }
       ],
-      "artistId": [
-        "0kDLpXsC5aGG75k3zDhaO4"
-      ],
-      "albumId": "50CM74ALbYqPrX8pjRnOMn",
+      "album": {
+        "id": "50CM74ALbYqPrX8pjRnOMn",
+        "name": "Aldrig nöjd",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234836f55dbe3c82687f9cd0f"
+      },
       "release_date": "2013-07-19",
       "popularity": 34
     },
     {
-      "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "track": {
+        "id": "5Z01UMMf7V1o0MzF86s6WJ",
+        "name": "Lose Yourself - From \"8 Mile\" Soundtrack"
+      },
       "duration_ms": 326466,
-      "artist": [
-        "Eminem"
+      "artists": [
+        {
+          "name": "Eminem",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR"
+        }
       ],
-      "artistId": [
-        "7dGJo4pcD2V6oG8kP0tJRR"
-      ],
-      "albumId": "5qENHeCSlwWpEzb25peRmQ",
+      "album": {
+        "id": "5qENHeCSlwWpEzb25peRmQ",
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578"
+      },
       "release_date": "2005-12-06",
       "popularity": 76
     },
     {
-      "trackId": "47HoR9NqpjDb7iIxviKWLE",
-      "name": "Jag skrattar idag",
+      "track": {
+        "id": "47HoR9NqpjDb7iIxviKWLE",
+        "name": "Jag skrattar idag"
+      },
       "duration_ms": 214226,
-      "artist": [
-        "Ison & Fille"
+      "artists": [
+        {
+          "name": "Ison & Fille",
+          "id": "1fhvwCr1HKEZgZYOrfsHyk"
+        }
       ],
-      "artistId": [
-        "1fhvwCr1HKEZgZYOrfsHyk"
-      ],
-      "albumId": "2gJL7ul8doNdDx8FqMu320",
+      "album": {
+        "id": "2gJL7ul8doNdDx8FqMu320",
+        "name": "Resumé",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d28c13626ff57b63af5aa3e"
+      },
       "release_date": "2015-11-14",
       "popularity": 35
     },
     {
-      "trackId": "3bMsT2EiXYKSUjc9uvIkI3",
-      "name": "Wake Me Up - Avicii By Avicii",
+      "track": {
+        "id": "3bMsT2EiXYKSUjc9uvIkI3",
+        "name": "Wake Me Up - Avicii By Avicii"
+      },
       "duration_ms": 425760,
-      "artist": [
-        "Avicii",
-        "Tim Bergling"
+      "artists": [
+        {
+          "name": "Avicii",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Tim Bergling",
+          "id": "5baGk14NDI3ZDPbr6wJilc"
+        }
       ],
-      "artistId": [
-        "1vCWHaC5f2uS3yhpwWbIA6",
-        "5baGk14NDI3ZDPbr6wJilc"
-      ],
-      "albumId": "0ignCov9foaLxuqND5GMtl",
+      "album": {
+        "id": "0ignCov9foaLxuqND5GMtl",
+        "name": "True: Avicii By Avicii",
+        "img": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8"
+      },
       "release_date": "2014-01-01",
       "popularity": 49
     },
     {
-      "trackId": "6X6kCTsrpTZFDDfrlH2wLV",
-      "name": "Her Kiss",
+      "track": {
+        "id": "6X6kCTsrpTZFDDfrlH2wLV",
+        "name": "Her Kiss"
+      },
       "duration_ms": 183493,
-      "artist": [
-        "Boris René"
+      "artists": [
+        {
+          "name": "Boris René",
+          "id": "4DJBzPgrGYBZSY3uCv8HMJ"
+        }
       ],
-      "artistId": [
-        "4DJBzPgrGYBZSY3uCv8HMJ"
-      ],
-      "albumId": "0gu0TJatirlAYgN8pnLegh",
+      "album": {
+        "id": "0gu0TJatirlAYgN8pnLegh",
+        "name": "Her Kiss",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c0ee22811e8cf14abcf88ed"
+      },
       "release_date": "2017-02-04",
       "popularity": 30
     },
     {
-      "trackId": "32OlwWuMpZ6b0aN2RZOeMS",
-      "name": "Uptown Funk (feat. Bruno Mars)",
+      "track": {
+        "id": "32OlwWuMpZ6b0aN2RZOeMS",
+        "name": "Uptown Funk (feat. Bruno Mars)"
+      },
       "duration_ms": 269666,
-      "artist": [
-        "Mark Ronson",
-        "Bruno Mars"
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "id": "3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "id": "0du5cEVh5yTK9QJze8zA0C"
+        }
       ],
-      "artistId": [
-        "3hv9jJF3adDNsBSIQDqcjp",
-        "0du5cEVh5yTK9QJze8zA0C"
-      ],
-      "albumId": "3vLaOYCNCzngDf8QdBg2V1",
+      "album": {
+        "id": "3vLaOYCNCzngDf8QdBg2V1",
+        "name": "Uptown Special",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e419ccba0baa8bd3f3d7abf2"
+      },
       "release_date": "2015-01-12",
       "popularity": 83
     },
     {
-      "trackId": "3wu4Havrog2ZxcEJ157uKs",
-      "name": "SuperBowl Funk",
+      "track": {
+        "id": "3wu4Havrog2ZxcEJ157uKs",
+        "name": "SuperBowl Funk"
+      },
       "duration_ms": 175304,
-      "artist": [
-        "Ana Free"
+      "artists": [
+        {
+          "name": "Ana Free",
+          "id": "0vVzVoEiPJX6LvJmKOzCLP"
+        }
       ],
-      "artistId": [
-        "0vVzVoEiPJX6LvJmKOzCLP"
-      ],
-      "albumId": "2avyOXqYML58F78mg1eHPR",
+      "album": {
+        "id": "2avyOXqYML58F78mg1eHPR",
+        "name": "SuperBowl Funk",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295cf000b063a1d2120cd6b3a"
+      },
       "release_date": "2015-01-27",
       "popularity": 18
     },
     {
-      "trackId": "5masKPHeAOVNgxdLebIcK7",
-      "name": "Stole the Show",
+      "track": {
+        "id": "5masKPHeAOVNgxdLebIcK7",
+        "name": "Stole the Show"
+      },
       "duration_ms": 223186,
-      "artist": [
-        "Kygo",
-        "Parson James"
+      "artists": [
+        {
+          "name": "Kygo",
+          "id": "23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "id": "48sLioddyaXkuhyHXSkpsB"
+        }
       ],
-      "artistId": [
-        "23fqKkggKUBHNkbKtXEls4",
-        "48sLioddyaXkuhyHXSkpsB"
-      ],
-      "albumId": "0uMIzWh1uEpHEBell4rlF8",
+      "album": {
+        "id": "0uMIzWh1uEpHEBell4rlF8",
+        "name": "Cloud Nine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235590cb9280d5a1f5221ae1a"
+      },
       "release_date": "2016-05-13",
       "popularity": 74
     },
     {
-      "trackId": "5Ls1Ir6Vl5frICvnH4nVRH",
-      "name": "Giftig",
+      "track": {
+        "id": "5Ls1Ir6Vl5frICvnH4nVRH",
+        "name": "Giftig"
+      },
       "duration_ms": 229906,
-      "artist": [
-        "Mange Schmidt"
+      "artists": [
+        {
+          "name": "Mange Schmidt",
+          "id": "3XNYAscVt30VsW8dJiWQsl"
+        }
       ],
-      "artistId": [
-        "3XNYAscVt30VsW8dJiWQsl"
-      ],
-      "albumId": "0WfjZH6E9Le7XRSlra5CV4",
+      "album": {
+        "id": "0WfjZH6E9Le7XRSlra5CV4",
+        "name": "Känslan kommer tillbaks",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b976983daedf48c104b45431"
+      },
       "release_date": "2007-01-01",
       "popularity": 44
     },
     {
-      "trackId": "1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
+      "track": {
+        "id": "1rIKgCH4H52lrvDcz50hS8",
+        "name": "Lush Life"
+      },
       "duration_ms": 201122,
-      "artist": [
-        "Zara Larsson"
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "id": "1Xylc3o4UrD53lo9CvFvVg"
+        }
       ],
-      "artistId": [
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ],
-      "albumId": "5YLRVHDVRw3QqWbeTGpC5B",
+      "album": {
+        "id": "5YLRVHDVRw3QqWbeTGpC5B",
+        "name": "So Good",
+        "img": "https://i.scdn.co/image/ab67616d00001e029e1683774b22648f4f178ed3"
+      },
       "release_date": "2017-03-17",
       "popularity": 78
     }

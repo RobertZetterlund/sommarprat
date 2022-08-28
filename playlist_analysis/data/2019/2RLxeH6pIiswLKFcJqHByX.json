@@ -7,184 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f024c3cc-8aa5-4a1e-bb7c-4b4537b2edb1.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0fXMQOVQktTtD2AAmdnFkd",
-      "name": "Hold Her",
+      "track": {
+        "id": "0fXMQOVQktTtD2AAmdnFkd",
+        "name": "Hold Her"
+      },
       "duration_ms": 316106,
-      "artist": [
-        "Chaka Khan"
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "id": "6mQfAAqZGBzIfrmlZCeaYT"
+        }
       ],
-      "artistId": [
-        "6mQfAAqZGBzIfrmlZCeaYT"
-      ],
-      "albumId": "08yanJqA75TPyDowCXvvPU",
+      "album": {
+        "id": "08yanJqA75TPyDowCXvvPU",
+        "name": "I Feel for You",
+        "img": "https://i.scdn.co/image/ab67616d00001e028be5f9356ee08a1f9e67ff87"
+      },
       "release_date": "1984",
       "popularity": 22
     },
     {
-      "trackId": "0BlMvHfyilCmgKrNUQabR6",
-      "name": "Jai Ho",
+      "track": {
+        "id": "0BlMvHfyilCmgKrNUQabR6",
+        "name": "Jai Ho"
+      },
       "duration_ms": 319813,
-      "artist": [
-        "Sukhwinder Singh",
-        "Tanvi Shah",
-        "Mahalakshmi Iyer"
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "id": "19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Tanvi Shah",
+          "id": "11PIHAhH0HI8SCdjhJ5zyA"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "id": "0Yb0T3wUUNiIvHjqnfkbuH"
+        }
       ],
-      "artistId": [
-        "19MVxKZZdPj2X0F8pi0OCT",
-        "11PIHAhH0HI8SCdjhJ5zyA",
-        "0Yb0T3wUUNiIvHjqnfkbuH"
-      ],
-      "albumId": "6h9BPmXpndOzMoXLDcrNbZ",
+      "album": {
+        "id": "6h9BPmXpndOzMoXLDcrNbZ",
+        "name": "Jai Ho A.R. Rahman",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249edcd3168a80f9007ca171f"
+      },
       "release_date": "2009-05-25",
       "popularity": 46
     },
     {
-      "trackId": "4NyC5l3SuPvyUiIkmquMg4",
-      "name": "Sister",
+      "track": {
+        "id": "4NyC5l3SuPvyUiIkmquMg4",
+        "name": "Sister"
+      },
       "duration_ms": 512299,
-      "artist": [
-        "Tracey Thorn",
-        "Corinne Bailey Rae"
+      "artists": [
+        {
+          "name": "Tracey Thorn",
+          "id": "7xFnmid57ZE6iWEXdEXO3b"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "id": "29WzbAQtDnBJF09es0uddn"
+        }
       ],
-      "artistId": [
-        "7xFnmid57ZE6iWEXdEXO3b",
-        "29WzbAQtDnBJF09es0uddn"
-      ],
-      "albumId": "4rb4OC3d46iZld05PU927t",
+      "album": {
+        "id": "4rb4OC3d46iZld05PU927t",
+        "name": "Record",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7036341f9a898701fbdcc3a"
+      },
       "release_date": "2018-03-02",
       "popularity": 29
     },
     {
-      "trackId": "3VQ7hwiEfaHDl3AySgyaiR",
-      "name": "Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King",
+      "track": {
+        "id": "3VQ7hwiEfaHDl3AySgyaiR",
+        "name": "Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King"
+      },
       "duration_ms": 153266,
-      "artist": [
-        "Edvard Grieg",
-        "Esa-Pekka Salonen"
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "id": "5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "id": "3ilNZUdmNZ2nUcuAOIpsQl"
+        }
       ],
-      "artistId": [
-        "5ihY290YPGc3aY2xTyx7Gy",
-        "3ilNZUdmNZ2nUcuAOIpsQl"
-      ],
-      "albumId": "2Rt1JJA8IvT38kzCyZksSP",
+      "album": {
+        "id": "2Rt1JJA8IvT38kzCyZksSP",
+        "name": "Grieg: Peer Gynt, Op. 23 (Excerpts) - Sony Classical Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c77f2e983126ffc3a86d1fad"
+      },
       "release_date": "1989",
       "popularity": 46
     },
     {
-      "trackId": "5fQP3T652SI6zdDaEtgwOd",
-      "name": "Ubi Caritas",
+      "track": {
+        "id": "5fQP3T652SI6zdDaEtgwOd",
+        "name": "Ubi Caritas"
+      },
       "duration_ms": 322320,
-      "artist": [
-        "Ola Gjeilo",
-        "Voces8"
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "id": "29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Voces8",
+          "id": "32nW8kGbs65y8CSlIvREuc"
+        }
       ],
-      "artistId": [
-        "29lbSb4ujaVH5pHnQjFT0G",
-        "32nW8kGbs65y8CSlIvREuc"
-      ],
-      "albumId": "4IOXEu8EgItKI8J9JDaEr4",
+      "album": {
+        "id": "4IOXEu8EgItKI8J9JDaEr4",
+        "name": "Ola Gjeilo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bf0a8c7719d97002fba7c761"
+      },
       "release_date": "2016-04-01",
       "popularity": 35
     },
     {
-      "trackId": "178xNkaZ6wqtXw0tLTKlPI",
-      "name": "Puccini: Tosca, Act 2: \"Vissi d'arte\" (Tosca)",
+      "track": {
+        "id": "178xNkaZ6wqtXw0tLTKlPI",
+        "name": "Puccini: Tosca, Act 2: \"Vissi d'arte\" (Tosca)"
+      },
       "duration_ms": 180053,
-      "artist": [
-        "Giacomo Puccini",
-        "Maria Callas",
-        "Georges Prêtre"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "id": "0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Georges Prêtre",
+          "id": "5lfbI21DXOiKTCT3Gb802r"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "0bjdfjE8XbLa2Odstu6E1E",
-        "5lfbI21DXOiKTCT3Gb802r"
-      ],
-      "albumId": "0Y3MswvPOpbviRwebozrRv",
+      "album": {
+        "id": "0Y3MswvPOpbviRwebozrRv",
+        "name": "Callas in Concert - The Hologram Tour",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d330592b4ca5a24f6a60352d"
+      },
       "release_date": "2018-09-14",
       "popularity": 34
     },
     {
-      "trackId": "2aoo2jlRnM3A0NyLQqMN2f",
-      "name": "All Along the Watchtower",
+      "track": {
+        "id": "2aoo2jlRnM3A0NyLQqMN2f",
+        "name": "All Along the Watchtower"
+      },
       "duration_ms": 240800,
-      "artist": [
-        "Jimi Hendrix"
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "id": "776Uo845nYHJpNaStv1Ds4"
+        }
       ],
-      "artistId": [
-        "776Uo845nYHJpNaStv1Ds4"
-      ],
-      "albumId": "5z090LQztiqh13wYspQvKQ",
+      "album": {
+        "id": "5z090LQztiqh13wYspQvKQ",
+        "name": "Electric Ladyland",
+        "img": "https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292"
+      },
       "release_date": "1968-10-25",
       "popularity": 76
     },
     {
-      "trackId": "5avR5QWrpqO4rVQKcI4atz",
-      "name": "Stamp Your Feet",
+      "track": {
+        "id": "5avR5QWrpqO4rVQKcI4atz",
+        "name": "Stamp Your Feet"
+      },
       "duration_ms": 218920,
-      "artist": [
-        "Donna Summer"
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "id": "2eogQKWWoohI3BSnoG7E2U"
+        }
       ],
-      "artistId": [
-        "2eogQKWWoohI3BSnoG7E2U"
-      ],
-      "albumId": "1aphyK2t7CcmTDk84wnZk3",
+      "album": {
+        "id": "1aphyK2t7CcmTDk84wnZk3",
+        "name": "Stamp Your Feet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281c62eae97de8ca854d2ae82"
+      },
       "release_date": "2008-04-15",
       "popularity": 3
     },
     {
-      "trackId": "2YwjSPeznyCvkUYvqKbXa9",
-      "name": "Take Care Of Business",
+      "track": {
+        "id": "2YwjSPeznyCvkUYvqKbXa9",
+        "name": "Take Care Of Business"
+      },
       "duration_ms": 125960,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3ofZeSWPHZOE5WC2tNZDez",
+      "album": {
+        "id": "3ofZeSWPHZOE5WC2tNZDez",
+        "name": "I Put A Spell On You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02425e9a15a4a1b9fe123a1aa7"
+      },
       "release_date": "1965-06-01",
       "popularity": 49
     },
     {
-      "trackId": "35tgywQgB4oOOtB8gp29CM",
-      "name": "Polska från Medelpad",
+      "track": {
+        "id": "35tgywQgB4oOOtB8gp29CM",
+        "name": "Polska från Medelpad"
+      },
       "duration_ms": 150786,
-      "artist": [
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "6JAj80R40giQEAg3Le4CPE",
+      "album": {
+        "id": "6JAj80R40giQEAg3Le4CPE",
+        "name": "Jazz på svenska",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234190c904a52720a3ffcad76"
+      },
       "release_date": "1964",
       "popularity": 36
     },
     {
-      "trackId": "09O1ofQxYNGCWTi82lwc7V",
-      "name": "Memories of you",
+      "track": {
+        "id": "09O1ofQxYNGCWTi82lwc7V",
+        "name": "Memories of you"
+      },
       "duration_ms": 348653,
-      "artist": [
-        "Erik Borelius"
+      "artists": [
+        {
+          "name": "Erik Borelius",
+          "id": "3kvkkJTF1lmcNesLjdekzg"
+        }
       ],
-      "artistId": [
-        "3kvkkJTF1lmcNesLjdekzg"
-      ],
-      "albumId": "2tcF0AexSIwMHnNwd0m9VK",
+      "album": {
+        "id": "2tcF0AexSIwMHnNwd0m9VK",
+        "name": "Live the life of a star",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c9389c397c9c13e2dfd3011e"
+      },
       "release_date": "2006-01-01",
       "popularity": 0
     },
     {
-      "trackId": "3VJHbBZSvktGfRIAW2aXch",
-      "name": "Helan går",
+      "track": {
+        "id": "3VJHbBZSvktGfRIAW2aXch",
+        "name": "Helan går"
+      },
       "duration_ms": 195173,
-      "artist": [
-        "Lisa Howard"
+      "artists": [
+        {
+          "name": "Lisa Howard",
+          "id": "65eHyQC0V8h38ia3dLKaRm"
+        }
       ],
-      "artistId": [
-        "65eHyQC0V8h38ia3dLKaRm"
-      ],
-      "albumId": "6Bzcl46KbEPJLQAUYYcC9T",
+      "album": {
+        "id": "6Bzcl46KbEPJLQAUYYcC9T",
+        "name": "Helan går",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d581af2c401490add17b0edc"
+      },
       "release_date": "2022-05-06",
       "popularity": 40
     }

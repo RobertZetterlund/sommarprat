@@ -7,180 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/bc7fe317-31f7-4d89-8a82-33f5c9e49323.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0QeI79sp1vS8L3JgpEO7mD",
-      "name": "Let's Go Crazy",
+      "track": {
+        "id": "0QeI79sp1vS8L3JgpEO7mD",
+        "name": "Let's Go Crazy"
+      },
       "duration_ms": 280000,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "7nXJ5k4XgRj5OLg9m8V3zc",
+      "album": {
+        "id": "7nXJ5k4XgRj5OLg9m8V3zc",
+        "name": "Purple Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d52bfb90ee8dfeda8378b99b"
+      },
       "release_date": "1984-06-25",
       "popularity": 68
     },
     {
-      "trackId": "5DH7sJuOLdgyg8YC8Yy18I",
-      "name": "Wheels of a Dream (Reprise)",
+      "track": {
+        "id": "5DH7sJuOLdgyg8YC8Yy18I",
+        "name": "Wheels of a Dream (Reprise)"
+      },
       "duration_ms": 163013,
-      "artist": [
-        "Nicholas Rose",
-        "Brian Stokes Mitchell",
-        "Audra McDonald"
+      "artists": [
+        {
+          "name": "Nicholas Rose",
+          "id": "27Hl95vSapSNQajKmEKFtx"
+        },
+        {
+          "name": "Brian Stokes Mitchell",
+          "id": "22ZiDrzGc0fi8wGMaHPmtX"
+        },
+        {
+          "name": "Audra McDonald",
+          "id": "7F6surn3OpdyOzupSawyli"
+        }
       ],
-      "artistId": [
-        "27Hl95vSapSNQajKmEKFtx",
-        "22ZiDrzGc0fi8wGMaHPmtX",
-        "7F6surn3OpdyOzupSawyli"
-      ],
-      "albumId": "1zUWbK8YOlYPkmoAfCgyyt",
+      "album": {
+        "id": "1zUWbK8YOlYPkmoAfCgyyt",
+        "name": "Ragtime: The Musical (1996 Studio Cast Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270cd18967e9f1a4c80a873c8"
+      },
       "release_date": "1996-02-11",
       "popularity": 7
     },
     {
-      "trackId": "76uCsqn8W7Nn0uYhtwDvLR",
-      "name": "Alaska",
+      "track": {
+        "id": "76uCsqn8W7Nn0uYhtwDvLR",
+        "name": "Alaska"
+      },
       "duration_ms": 188000,
-      "artist": [
-        "Maggie Rogers"
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "id": "4NZvixzsSefsNiIqXn0NDe"
+        }
       ],
-      "artistId": [
-        "4NZvixzsSefsNiIqXn0NDe"
-      ],
-      "albumId": "20IfnRy0UNN3WzuRLM68KM",
+      "album": {
+        "id": "20IfnRy0UNN3WzuRLM68KM",
+        "name": "Date Night: Indie Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7049a53fa9144a6f95ac898"
+      },
       "release_date": "2022-08-11",
       "popularity": 2
     },
     {
-      "trackId": "5LAnTrLaN2SzUfWOglKPIy",
-      "name": "Midsommarnatt",
+      "track": {
+        "id": "5LAnTrLaN2SzUfWOglKPIy",
+        "name": "Midsommarnatt"
+      },
       "duration_ms": 194506,
-      "artist": [
-        "Eddie Meduza"
+      "artists": [
+        {
+          "name": "Eddie Meduza",
+          "id": "3cMEiDsx9VpGvF71hUGswS"
+        }
       ],
-      "artistId": [
-        "3cMEiDsx9VpGvF71hUGswS"
-      ],
-      "albumId": "3c4orI2iOp4y8sSH0IUnS7",
+      "album": {
+        "id": "3c4orI2iOp4y8sSH0IUnS7",
+        "name": "You Ain't My Friend",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f181cbfd196fca09d8ad109a"
+      },
       "release_date": "1990",
       "popularity": 51
     },
     {
-      "trackId": "7iaCrQ6XdKKuQZTvZkd7Lq",
-      "name": "Down To Earth",
+      "track": {
+        "id": "7iaCrQ6XdKKuQZTvZkd7Lq",
+        "name": "Down To Earth"
+      },
       "duration_ms": 358646,
-      "artist": [
-        "Peter Gabriel",
-        "Soweto Gospel Choir"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "id": "6mMaqfhEcPjrR2FEKWVpOl"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I",
-        "6mMaqfhEcPjrR2FEKWVpOl"
-      ],
-      "albumId": "1OW5LQ4eDo6Ig2BLU1hJEu",
+      "album": {
+        "id": "1OW5LQ4eDo6Ig2BLU1hJEu",
+        "name": "Rated PG",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fae37ed58415c7025ab51100"
+      },
       "release_date": "2019-04-26",
       "popularity": 39
     },
     {
-      "trackId": "2U1TXJYkyIOAWg8ujvUXW3",
-      "name": "I Haven't Told My Garden Yet",
+      "track": {
+        "id": "2U1TXJYkyIOAWg8ujvUXW3",
+        "name": "I Haven't Told My Garden Yet"
+      },
       "duration_ms": 199426,
-      "artist": [
-        "Sofie Livebrant"
+      "artists": [
+        {
+          "name": "Sofie Livebrant",
+          "id": "1W5oB1ITON4qnHnTuWJ8WP"
+        }
       ],
-      "artistId": [
-        "1W5oB1ITON4qnHnTuWJ8WP"
-      ],
-      "albumId": "5KOyA74QVm7CJAlk24F6H2",
+      "album": {
+        "id": "5KOyA74QVm7CJAlk24F6H2",
+        "name": "Emily and I",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b477910986081576167e3a39"
+      },
       "release_date": "2012-04-16",
       "popularity": 0
     },
     {
-      "trackId": "7ju97lgwC2rKQ6wwsf9no9",
-      "name": "Rain On Me (with Ariana Grande)",
+      "track": {
+        "id": "7ju97lgwC2rKQ6wwsf9no9",
+        "name": "Rain On Me (with Ariana Grande)"
+      },
       "duration_ms": 182200,
-      "artist": [
-        "Lady Gaga",
-        "Ariana Grande"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms",
-        "66CXWjxzNUsdJxJ2JdwvnR"
-      ],
-      "albumId": "05c49JgPmL4Uz2ZeqRx5SP",
+      "album": {
+        "id": "05c49JgPmL4Uz2ZeqRx5SP",
+        "name": "Chromatica",
+        "img": "https://i.scdn.co/image/ab67616d00001e026040effba89b9b00a6f6743a"
+      },
       "release_date": "2020-05-29",
       "popularity": 77
     },
     {
-      "trackId": "0PeotPe74osJ1xc8JonVio",
-      "name": "A Time for Everything - Radio Edit",
+      "track": {
+        "id": "0PeotPe74osJ1xc8JonVio",
+        "name": "A Time for Everything - Radio Edit"
+      },
       "duration_ms": 241493,
-      "artist": [
-        "Isabella Lundgren",
-        "Marcus Sturewall"
+      "artists": [
+        {
+          "name": "Isabella Lundgren",
+          "id": "58Ftd7Tzkeve7Ht36LYL2j"
+        },
+        {
+          "name": "Marcus Sturewall",
+          "id": "41Hew12Z3GksvalGmyIyas"
+        }
       ],
-      "artistId": [
-        "58Ftd7Tzkeve7Ht36LYL2j",
-        "41Hew12Z3GksvalGmyIyas"
-      ],
-      "albumId": "3fWMdzmXQskg94MDmkvowl",
+      "album": {
+        "id": "3fWMdzmXQskg94MDmkvowl",
+        "name": "A Time for Everything (Radio Edit)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ecb6a20cec3dee11b9a7402"
+      },
       "release_date": "2020-06-12",
       "popularity": 11
     },
     {
-      "trackId": "66u6ycRUqlrW9C05QJUmSo",
-      "name": "ave cesaria",
+      "track": {
+        "id": "66u6ycRUqlrW9C05QJUmSo",
+        "name": "ave cesaria"
+      },
       "duration_ms": 249520,
-      "artist": [
-        "Stromae"
+      "artists": [
+        {
+          "name": "Stromae",
+          "id": "5j4HeCoUlzhfWtjAfM1acR"
+        }
       ],
-      "artistId": [
-        "5j4HeCoUlzhfWtjAfM1acR"
-      ],
-      "albumId": "6uyslsVGFsHKzdGUosFwBM",
+      "album": {
+        "id": "6uyslsVGFsHKzdGUosFwBM",
+        "name": "racine carrée",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab580fab750cc9baf0d52b5c"
+      },
       "release_date": "2013-01-01",
       "popularity": 57
     },
     {
-      "trackId": "49cx1hO8AOm5uAsd4WtaEH",
-      "name": "Oh What A World",
+      "track": {
+        "id": "49cx1hO8AOm5uAsd4WtaEH",
+        "name": "Oh What A World"
+      },
       "duration_ms": 263133,
-      "artist": [
-        "Rufus Wainwright"
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "id": "2PfBzriIMRsCXPDtSy9vg8"
+        }
       ],
-      "artistId": [
-        "2PfBzriIMRsCXPDtSy9vg8"
-      ],
-      "albumId": "1DGZ1iMl4iWeiM9l2PLjeD",
+      "album": {
+        "id": "1DGZ1iMl4iWeiM9l2PLjeD",
+        "name": "Want One",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271f8f23deed2aa1b6cc328ba"
+      },
       "release_date": "2003-09-23",
       "popularity": 42
     },
     {
-      "trackId": "2ixswrurtpfZHrx406eGgw",
-      "name": "Want You Back",
+      "track": {
+        "id": "2ixswrurtpfZHrx406eGgw",
+        "name": "Want You Back"
+      },
       "duration_ms": 232120,
-      "artist": [
-        "HAIM"
+      "artists": [
+        {
+          "name": "HAIM",
+          "id": "4Ui2kfOqGujY81UcPrb5KE"
+        }
       ],
-      "artistId": [
-        "4Ui2kfOqGujY81UcPrb5KE"
-      ],
-      "albumId": "3EFSOzgqaOQqJCMAMMn4Cl",
+      "album": {
+        "id": "3EFSOzgqaOQqJCMAMMn4Cl",
+        "name": "Something To Tell You",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d1d41392095659415fcc71c"
+      },
       "release_date": "2017-07-07",
       "popularity": 52
     },
     {
-      "trackId": "3vi2IS8APhNorymm9yTsj7",
-      "name": "Love... Thy Will Be Done",
+      "track": {
+        "id": "3vi2IS8APhNorymm9yTsj7",
+        "name": "Love... Thy Will Be Done"
+      },
       "duration_ms": 247026,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "1X1So5oX4TCFGdK6BN9UXs",
+      "album": {
+        "id": "1X1So5oX4TCFGdK6BN9UXs",
+        "name": "Originals",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265af8f4075f3a6b96866e611"
+      },
       "release_date": "2019-06-07",
       "popularity": 30
     }

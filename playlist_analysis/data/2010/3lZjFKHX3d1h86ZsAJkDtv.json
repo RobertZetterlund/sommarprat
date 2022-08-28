@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3238431_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5WX1DuMv0CJP2misLg1ozi",
-      "name": "Sången om Britt",
+      "track": {
+        "id": "5WX1DuMv0CJP2misLg1ozi",
+        "name": "Sången om Britt"
+      },
       "duration_ms": 186826,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "6eoQyqhkcoDgjMHsqAphHs",
+      "album": {
+        "id": "6eoQyqhkcoDgjMHsqAphHs",
+        "name": "Cornelis Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfb03edae61ff13521b642c7"
+      },
       "release_date": "2004-01-01",
       "popularity": 14
     },
     {
-      "trackId": "28P5HAF0Kll9Xd9dX4qw7A",
-      "name": "Eye of the Tiger",
+      "track": {
+        "id": "28P5HAF0Kll9Xd9dX4qw7A",
+        "name": "Eye of the Tiger"
+      },
       "duration_ms": 243773,
-      "artist": [
-        "Survivor"
+      "artists": [
+        {
+          "name": "Survivor",
+          "id": "26bcq2nyj5GB7uRr558iQg"
+        }
       ],
-      "artistId": [
-        "26bcq2nyj5GB7uRr558iQg"
-      ],
-      "albumId": "1v8q5oFweXG7AH9kjCoMyX",
+      "album": {
+        "id": "1v8q5oFweXG7AH9kjCoMyX",
+        "name": "Eye Of The Tiger",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228c091d788ec5126817dc07a"
+      },
       "release_date": "1982",
       "popularity": 59
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     },
     {
-      "trackId": "0HVnaML1M41ACk570JuGK8",
-      "name": "Young Blood",
+      "track": {
+        "id": "0HVnaML1M41ACk570JuGK8",
+        "name": "Young Blood"
+      },
       "duration_ms": 218120,
-      "artist": [
-        "Norah Jones"
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "id": "2Kx7MNY7cI1ENniW7vT30N"
+        }
       ],
-      "artistId": [
-        "2Kx7MNY7cI1ENniW7vT30N"
-      ],
-      "albumId": "0U7AFwPDmrvgthIFj7DQWq",
+      "album": {
+        "id": "0U7AFwPDmrvgthIFj7DQWq",
+        "name": "The Fall",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4ed793513703dddf0308101"
+      },
       "release_date": "2009-11-17",
       "popularity": 34
     },
     {
-      "trackId": "5vFQlhvZJyV6WJyHt5CdT8",
-      "name": "Sån't är livet",
+      "track": {
+        "id": "5vFQlhvZJyV6WJyHt5CdT8",
+        "name": "Sån't är livet"
+      },
       "duration_ms": 176640,
-      "artist": [
-        "Anne-Lie Rydé"
+      "artists": [
+        {
+          "name": "Anne-Lie Rydé",
+          "id": "3EZPbpmB5cPVWmxUMpwpQw"
+        }
       ],
-      "artistId": [
-        "3EZPbpmB5cPVWmxUMpwpQw"
-      ],
-      "albumId": "1apXKuM6FY8GGolEYMIYqa",
+      "album": {
+        "id": "1apXKuM6FY8GGolEYMIYqa",
+        "name": "Stulna Kyssar",
+        "img": "https://i.scdn.co/image/ab67616d00001e026215b62229d07244f6ac93d0"
+      },
       "release_date": "1992-01-01",
       "popularity": 35
     },
     {
-      "trackId": "00xADV9jvYcw9h9lIANXje",
-      "name": "Upside Down",
+      "track": {
+        "id": "00xADV9jvYcw9h9lIANXje",
+        "name": "Upside Down"
+      },
       "duration_ms": 177053,
-      "artist": [
-        "Guitar Tribute Players"
+      "artists": [
+        {
+          "name": "Guitar Tribute Players",
+          "id": "3AoiBjr0pSGswX96XxEgH7"
+        }
       ],
-      "artistId": [
-        "3AoiBjr0pSGswX96XxEgH7"
-      ],
-      "albumId": "29cSIOaJZ51HT2LPRJLt9Y",
+      "album": {
+        "id": "29cSIOaJZ51HT2LPRJLt9Y",
+        "name": "Acoustic Tribute to Jack Johnson",
+        "img": "https://i.scdn.co/image/ab67616d00001e028704bd3cd6bc2f0737915dda"
+      },
       "release_date": "2013-07-30",
       "popularity": 13
     },
     {
-      "trackId": "3y8pywLbRGC1x8oCDeTMyL",
-      "name": "Dressed For Success",
+      "track": {
+        "id": "3y8pywLbRGC1x8oCDeTMyL",
+        "name": "Dressed For Success"
+      },
       "duration_ms": 249840,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "4rQV5S9FhajZdyzFfcyYw9",
+      "album": {
+        "id": "4rQV5S9FhajZdyzFfcyYw9",
+        "name": "Look Sharp! (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d32e463de3d8d8b39dcac2c"
+      },
       "release_date": "1988-10-21",
       "popularity": 59
     },
     {
-      "trackId": "1Dg4dFJr3HW7sbA7vPejre",
-      "name": "Eight Days A Week - Remastered 2009",
+      "track": {
+        "id": "1Dg4dFJr3HW7sbA7vPejre",
+        "name": "Eight Days A Week - Remastered 2009"
+      },
       "duration_ms": 163600,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "1vANZV20H5B4Fk6yf7Ot9a",
+      "album": {
+        "id": "1vANZV20H5B4Fk6yf7Ot9a",
+        "name": "Beatles For Sale (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255612ece447bec5d62c68375"
+      },
       "release_date": "1964-12-04",
       "popularity": 64
     },
     {
-      "trackId": "1ydZRag9jS1VAXcUs8DAu9",
-      "name": "Heavy Fuel",
+      "track": {
+        "id": "1ydZRag9jS1VAXcUs8DAu9",
+        "name": "Heavy Fuel"
+      },
       "duration_ms": 309866,
-      "artist": [
-        "Dire Straits"
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+        }
       ],
-      "artistId": [
-        "0WwSkZ7LtFUFjGjMZBMt6T"
-      ],
-      "albumId": "7gk5j9Ok764TbTsmkxthYt",
+      "album": {
+        "id": "7gk5j9Ok764TbTsmkxthYt",
+        "name": "On Every Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277491e0e159600ec88f591c0"
+      },
       "release_date": "1991-09-10",
       "popularity": 55
     },
     {
-      "trackId": "1bU0BMRPuf0TqXKCYjT9n7",
-      "name": "Kärlek och pepparrot",
+      "track": {
+        "id": "1bU0BMRPuf0TqXKCYjT9n7",
+        "name": "Kärlek och pepparrot"
+      },
       "duration_ms": 190266,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "2iflMrGtjzufU2Jw7JhoLE",
+      "album": {
+        "id": "2iflMrGtjzufU2Jw7JhoLE",
+        "name": "Ahh! Monica!",
+        "img": "https://i.scdn.co/image/ab67616d00001e021be2287322ce09930868607c"
+      },
       "release_date": "1962-04-03",
       "popularity": 13
     },
     {
-      "trackId": "0DlYZBlTMSz7dyNVP5tPkj",
-      "name": "Tain't What You Do",
+      "track": {
+        "id": "0DlYZBlTMSz7dyNVP5tPkj",
+        "name": "Tain't What You Do"
+      },
       "duration_ms": 188360,
-      "artist": [
-        "Jimmie Lunceford Orchestra, Trummy Young"
+      "artists": [
+        {
+          "name": "Jimmie Lunceford Orchestra, Trummy Young",
+          "id": "7uI6LHPpZapcZAU6ZlTOnN"
+        }
       ],
-      "artistId": [
-        "7uI6LHPpZapcZAU6ZlTOnN"
-      ],
-      "albumId": "6yddEK5J7zYzFYeMIGAXlX",
+      "album": {
+        "id": "6yddEK5J7zYzFYeMIGAXlX",
+        "name": "The Best of Jimmie Lunceford Orchestra",
+        "img": "https://i.scdn.co/image/ab67616d00001e0295f9238b32f0d5c403821a72"
+      },
       "release_date": "2012-05-01",
       "popularity": 5
     },
     {
-      "trackId": "1pzV2Uem3e2jslehbM6ybv",
-      "name": "Impromtu, Op. 90, D. 899, No. 3 in G-Flat",
+      "track": {
+        "id": "1pzV2Uem3e2jslehbM6ybv",
+        "name": "Impromtu, Op. 90, D. 899, No. 3 in G-Flat"
+      },
       "duration_ms": 370986,
-      "artist": [
-        "Franz Schubert",
-        "Arthur Rubinstein"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "id": "5N1GUHhFMRFFgMTjSOJDb9"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "5N1GUHhFMRFFgMTjSOJDb9"
-      ],
-      "albumId": "2ytXs8CezH3sgHPrf5sSjc",
+      "album": {
+        "id": "2ytXs8CezH3sgHPrf5sSjc",
+        "name": "Träumerei - Liebestraum - Für Elise - Clair de lune - Gymnopédie - Sony Classical Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e023bd78d11bb721874ba0818ff"
+      },
       "release_date": "1953",
       "popularity": 23
     }

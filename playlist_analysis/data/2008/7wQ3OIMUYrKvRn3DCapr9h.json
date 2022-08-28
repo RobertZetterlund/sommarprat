@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3251238_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2Okqc8s6a78MtjzBs3J9me",
-      "name": "Heels on Fire",
+      "track": {
+        "id": "2Okqc8s6a78MtjzBs3J9me",
+        "name": "Heels on Fire"
+      },
       "duration_ms": 211466,
-      "artist": [
-        "Sargasso Trio"
+      "artists": [
+        {
+          "name": "Sargasso Trio",
+          "id": "07ZR2A4Ok9eNeIBM39Meww"
+        }
       ],
-      "artistId": [
-        "07ZR2A4Ok9eNeIBM39Meww"
-      ],
-      "albumId": "01gWCIs2rXgPOQPPDsDvmC",
+      "album": {
+        "id": "01gWCIs2rXgPOQPPDsDvmC",
+        "name": "Burnin' Burnin' Burnin'",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b68180cbf88cbb42af2c818"
+      },
       "release_date": "2008-04-01",
       "popularity": 3
     },
     {
-      "trackId": "6Zc57REIi0ucPZ9oH6KywK",
-      "name": "The Deal",
+      "track": {
+        "id": "6Zc57REIi0ucPZ9oH6KywK",
+        "name": "The Deal"
+      },
       "duration_ms": 270960,
-      "artist": [
-        "Stephen Duffy"
+      "artists": [
+        {
+          "name": "Stephen Duffy",
+          "id": "2G5cWvHkX9WSrGv6OnmpWD"
+        }
       ],
-      "artistId": [
-        "2G5cWvHkX9WSrGv6OnmpWD"
-      ],
-      "albumId": "3pDbbAZWtJlJvAq4qsniXO",
+      "album": {
+        "id": "3pDbbAZWtJlJvAq4qsniXO",
+        "name": "I Love My Friends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b21d12d5adc235cd6b933c9a"
+      },
       "release_date": "2019-05-24",
       "popularity": 6
     },
     {
-      "trackId": "7jjfTtcWR1giSTlPQ4FtYu",
-      "name": "You Can Never Hold Back Spring",
+      "track": {
+        "id": "7jjfTtcWR1giSTlPQ4FtYu",
+        "name": "You Can Never Hold Back Spring"
+      },
       "duration_ms": 146800,
-      "artist": [
-        "Tom Waits"
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "id": "7x83XhcMbOTl1UdYsPTuZM"
+        }
       ],
-      "artistId": [
-        "7x83XhcMbOTl1UdYsPTuZM"
-      ],
-      "albumId": "0hSKsAfvBPfJupYNmzRfHt",
+      "album": {
+        "id": "0hSKsAfvBPfJupYNmzRfHt",
+        "name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259237cc9e74983afdbdde78e"
+      },
       "release_date": "2006-11-21",
       "popularity": 34
     },
     {
-      "trackId": "6VUYwnd11VvLWdubhFioLz",
-      "name": "On the Radio",
+      "track": {
+        "id": "6VUYwnd11VvLWdubhFioLz",
+        "name": "On the Radio"
+      },
       "duration_ms": 200413,
-      "artist": [
-        "Regina Spektor"
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "id": "3z6Gk257P9jNcZbBXJNX5i"
+        }
       ],
-      "artistId": [
-        "3z6Gk257P9jNcZbBXJNX5i"
-      ],
-      "albumId": "4L4tcx3itXbtx5kuchKhFE",
+      "album": {
+        "id": "4L4tcx3itXbtx5kuchKhFE",
+        "name": "Begin to Hope",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d81f491319b86356eb10c4e"
+      },
       "release_date": "2006-06-13",
       "popularity": 47
     },
     {
-      "trackId": "1BvpeiApX8qhof8Pmi3YlH",
-      "name": "New York Groove",
+      "track": {
+        "id": "1BvpeiApX8qhof8Pmi3YlH",
+        "name": "New York Groove"
+      },
       "duration_ms": 183693,
-      "artist": [
-        "Ace Frehley"
+      "artists": [
+        {
+          "name": "Ace Frehley",
+          "id": "62olK5zZHSgFUXGDykgBL8"
+        }
       ],
-      "artistId": [
-        "62olK5zZHSgFUXGDykgBL8"
-      ],
-      "albumId": "1NbNjch8MgBHxmRwm0OFhg",
+      "album": {
+        "id": "1NbNjch8MgBHxmRwm0OFhg",
+        "name": "Kiss: Ace Frehley",
+        "img": "https://i.scdn.co/image/ab67616d00001e029383cb896b3ec0967ecaea9f"
+      },
       "release_date": "1978-01-01",
       "popularity": 64
     },
     {
-      "trackId": "3ai00osfbVzOvFUSCE5Jym",
-      "name": "Trollens brudmarsch",
+      "track": {
+        "id": "3ai00osfbVzOvFUSCE5Jym",
+        "name": "Trollens brudmarsch"
+      },
       "duration_ms": 193200,
-      "artist": [
-        "Orsa Spelmän",
-        "Benny Andersson"
+      "artists": [
+        {
+          "name": "Orsa Spelmän",
+          "id": "2XmqtWcNsjq5XxlE6p5WrT"
+        },
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        }
       ],
-      "artistId": [
-        "2XmqtWcNsjq5XxlE6p5WrT",
-        "0kV0e99xlTJcLKSu8KrLyp"
-      ],
-      "albumId": "21VcbWj3Wn1LoBeRsZQKAQ",
+      "album": {
+        "id": "21VcbWj3Wn1LoBeRsZQKAQ",
+        "name": "Fiolen min - Svenska spelmanslåtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248f0d861418ff18671fbeeb4"
+      },
       "release_date": "2007-01-01",
       "popularity": 16
     },
     {
-      "trackId": "6NBQVnhQVgDscdv1BxmYKM",
-      "name": "The Treehouse Song",
+      "track": {
+        "id": "6NBQVnhQVgDscdv1BxmYKM",
+        "name": "The Treehouse Song"
+      },
       "duration_ms": 202013,
-      "artist": [
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "3p5erneWNiayhet6Pic6Ih",
+      "album": {
+        "id": "3p5erneWNiayhet6Pic6Ih",
+        "name": "Changing Of The Seasons",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e8c8b8a92137db695c68057"
+      },
       "release_date": "2008-01-01",
       "popularity": 27
     },
     {
-      "trackId": "6QAw6oxTw2Dbe6irIQyMQz",
-      "name": "Hey Princess",
+      "track": {
+        "id": "6QAw6oxTw2Dbe6irIQyMQz",
+        "name": "Hey Princess"
+      },
       "duration_ms": 219733,
-      "artist": [
-        "Popsicle"
+      "artists": [
+        {
+          "name": "Popsicle",
+          "id": "3Zdqisea5g5Gu6jcB7VLcJ"
+        }
       ],
-      "artistId": [
-        "3Zdqisea5g5Gu6jcB7VLcJ"
-      ],
-      "albumId": "3Wz51qNQ8bJsjs95aUnBFd",
+      "album": {
+        "id": "3Wz51qNQ8bJsjs95aUnBFd",
+        "name": "Lacquer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232ed47ca966549ed77fa9ed7"
+      },
       "release_date": "1992-03-03",
       "popularity": 34
     },
     {
-      "trackId": "6RUCEjG3CnZ5yaGu9vlZnr",
-      "name": "Calle Schewens vals",
+      "track": {
+        "id": "6RUCEjG3CnZ5yaGu9vlZnr",
+        "name": "Calle Schewens vals"
+      },
       "duration_ms": 230826,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "2tNx3kKe15sstNqF2Y6rVU",
+      "album": {
+        "id": "2tNx3kKe15sstNqF2Y6rVU",
+        "name": "Evert Taube 1960 - 1966",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b21e1cb1b9978d752e0d8e58"
+      },
       "release_date": "1960-01-01",
       "popularity": 30
     },
     {
-      "trackId": "6i6Wi5CAYZUFiQr4dP2QPm",
-      "name": "To the Dogs or Whoever",
+      "track": {
+        "id": "6i6Wi5CAYZUFiQr4dP2QPm",
+        "name": "To the Dogs or Whoever"
+      },
       "duration_ms": 182946,
-      "artist": [
-        "Josh Ritter"
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "id": "6igfLpd8s6DBBAuwebRUuo"
+        }
       ],
-      "artistId": [
-        "6igfLpd8s6DBBAuwebRUuo"
-      ],
-      "albumId": "5D25zBxrqnQQ5lf3YgVzgP",
+      "album": {
+        "id": "5D25zBxrqnQQ5lf3YgVzgP",
+        "name": "The Historical Conquests of Josh Ritter",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267cf39b92c85dc6999ce1020"
+      },
       "release_date": "2007-08-21",
       "popularity": 40
     },
     {
-      "trackId": "70C4NyhjD5OZUMzvWZ3njJ",
-      "name": "Piano Man",
+      "track": {
+        "id": "70C4NyhjD5OZUMzvWZ3njJ",
+        "name": "Piano Man"
+      },
       "duration_ms": 339000,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "69wjSAZXZiD2EBia3b3gxL",
+      "album": {
+        "id": "69wjSAZXZiD2EBia3b3gxL",
+        "name": "Piano Man (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3"
+      },
       "release_date": "1973-11-07",
       "popularity": 76
     }

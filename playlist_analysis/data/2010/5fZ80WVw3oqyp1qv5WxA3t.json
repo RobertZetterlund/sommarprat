@@ -7,170 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247514_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3zx4jAzUO6HQSsu6oFj8Wh",
-      "name": "Circle Of Life",
+      "track": {
+        "id": "3zx4jAzUO6HQSsu6oFj8Wh",
+        "name": "Circle Of Life"
+      },
       "duration_ms": 290560,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "5wNitMGZs4mCBdbKFbzwzn",
+      "album": {
+        "id": "5wNitMGZs4mCBdbKFbzwzn",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02995be10a6b380541b2717be8"
+      },
       "release_date": "2002",
       "popularity": 44
     },
     {
-      "trackId": "4wudbbceOZKjRlhTtbHvAs",
-      "name": "Spiegel im Spiegel - Version for Violin and Piano",
+      "track": {
+        "id": "4wudbbceOZKjRlhTtbHvAs",
+        "name": "Spiegel im Spiegel - Version for Violin and Piano"
+      },
       "duration_ms": 636000,
-      "artist": [
-        "Arvo Pärt",
-        "Vladimir Spivakov",
-        "Sergej Bezrodny"
+      "artists": [
+        {
+          "name": "Arvo Pärt",
+          "id": "2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vladimir Spivakov",
+          "id": "24o3OUQvNiz3IY9DQhFhnF"
+        },
+        {
+          "name": "Sergej Bezrodny",
+          "id": "5SB7fgTMdoI0NbO5uEfp9D"
+        }
       ],
-      "artistId": [
-        "2P6ygesd9xg5DPOBnda2jg",
-        "24o3OUQvNiz3IY9DQhFhnF",
-        "5SB7fgTMdoI0NbO5uEfp9D"
-      ],
-      "albumId": "69iw6Zy6fh2dSnEgBTZKJE",
+      "album": {
+        "id": "69iw6Zy6fh2dSnEgBTZKJE",
+        "name": "Arvo Pärt: Alina",
+        "img": "https://i.scdn.co/image/ab67616d00001e02528dc2d3e31f07374a703bed"
+      },
       "release_date": "1999-10-15",
       "popularity": 51
     },
     {
-      "trackId": "0JN7vUgUolHGHFrOR8xk7S",
-      "name": "When You Believe - from The Prince of Egypt",
+      "track": {
+        "id": "0JN7vUgUolHGHFrOR8xk7S",
+        "name": "When You Believe - from The Prince of Egypt"
+      },
       "duration_ms": 272893,
-      "artist": [
-        "Whitney Houston",
-        "Mariah Carey"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP",
-        "4iHNK0tOyZPYnBU7nGAgpQ"
-      ],
-      "albumId": "00NABajpGsPCObfcl4LJsM",
+      "album": {
+        "id": "00NABajpGsPCObfcl4LJsM",
+        "name": "My Love Is Your Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284b84d08fdbaebb99098890c"
+      },
       "release_date": "1998-11-17",
       "popularity": 65
     },
     {
-      "trackId": "5x7M4ltVRGFVZxzixZHFuh",
-      "name": "Bakfyllan",
+      "track": {
+        "id": "5x7M4ltVRGFVZxzixZHFuh",
+        "name": "Bakfyllan"
+      },
       "duration_ms": 147500,
-      "artist": [
-        "Mr. P",
-        "Jofa"
+      "artists": [
+        {
+          "name": "Mr. P",
+          "id": "5K6cIE6i4ZIWFlrpzi2T5u"
+        },
+        {
+          "name": "Jofa",
+          "id": "3Wis8lYSGuybe6pMwUT7Ug"
+        }
       ],
-      "artistId": [
-        "5K6cIE6i4ZIWFlrpzi2T5u",
-        "3Wis8lYSGuybe6pMwUT7Ug"
-      ],
-      "albumId": "0eeFjberl7FsQ0nRHivGpN",
+      "album": {
+        "id": "0eeFjberl7FsQ0nRHivGpN",
+        "name": "Bakfyllan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0215e840877d31a5ab2eacc063"
+      },
       "release_date": "2021-12-25",
       "popularity": 40
     },
     {
-      "trackId": "6hnoytxTvP20wFKDkAhCB8",
-      "name": "Morales: Officium defunctorum, a 4: II. Lectio I, \"Parce mihi, Domine\"",
+      "track": {
+        "id": "6hnoytxTvP20wFKDkAhCB8",
+        "name": "Morales: Officium defunctorum, a 4: II. Lectio I, \"Parce mihi, Domine\""
+      },
       "duration_ms": 235960,
-      "artist": [
-        "Cristobal de Morales",
-        "The Hilliard Ensemble",
-        "Paul Hillier"
+      "artists": [
+        {
+          "name": "Cristobal de Morales",
+          "id": "18oieUOKaB87vkVcV6GX89"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "id": "0L8W3JzyTX29RLKZgc3bqS"
+        },
+        {
+          "name": "Paul Hillier",
+          "id": "5pECl3lGqlL7VfZXxrkAlF"
+        }
       ],
-      "artistId": [
-        "18oieUOKaB87vkVcV6GX89",
-        "0L8W3JzyTX29RLKZgc3bqS",
-        "5pECl3lGqlL7VfZXxrkAlF"
-      ],
-      "albumId": "3oqwVXqencj7tskMeuZkau",
+      "album": {
+        "id": "3oqwVXqencj7tskMeuZkau",
+        "name": "Spain and the New World - Renaissance music from Aragon and Mexico",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f30536312fd4cc5163172b5"
+      },
       "release_date": "1991",
       "popularity": 17
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "3xTfj6XVCTRpdPTpCX346N",
-      "name": "All That You Have Is Your Soul",
+      "track": {
+        "id": "3xTfj6XVCTRpdPTpCX346N",
+        "name": "All That You Have Is Your Soul"
+      },
       "duration_ms": 318066,
-      "artist": [
-        "Tracy Chapman"
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "id": "7oPgCQqMMXEXrNau5vxYZP"
+        }
       ],
-      "artistId": [
-        "7oPgCQqMMXEXrNau5vxYZP"
-      ],
-      "albumId": "7xlc8VKmPqZJ9m1Dphm6O5",
+      "album": {
+        "id": "7xlc8VKmPqZJ9m1Dphm6O5",
+        "name": "Crossroads",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0ea30afca82960487f5e4c2"
+      },
       "release_date": "1989",
       "popularity": 48
     },
     {
-      "trackId": "6k5QsifpMWtY5ilnzBZ0u4",
-      "name": "He Ain't Heavy He's My Brother - 1998 Remaster",
+      "track": {
+        "id": "6k5QsifpMWtY5ilnzBZ0u4",
+        "name": "He Ain't Heavy He's My Brother - 1998 Remaster"
+      },
       "duration_ms": 262266,
-      "artist": [
-        "The Hollies"
+      "artists": [
+        {
+          "name": "The Hollies",
+          "id": "6waa8mKu91GjzD4NlONlNJ"
+        }
       ],
-      "artistId": [
-        "6waa8mKu91GjzD4NlONlNJ"
-      ],
-      "albumId": "12YClBmrcVkW7GqtR5jtkh",
+      "album": {
+        "id": "12YClBmrcVkW7GqtR5jtkh",
+        "name": "Confessions of the Mind (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021090108ed57fdf91e5db7b47"
+      },
       "release_date": "1970-11-01",
       "popularity": 60
     },
     {
-      "trackId": "1srMlzGV9Zjdvhfiv53m3b",
-      "name": "För Första Gången Nånsin",
+      "track": {
+        "id": "1srMlzGV9Zjdvhfiv53m3b",
+        "name": "För Första Gången Nånsin"
+      },
       "duration_ms": 224293,
-      "artist": [
-        "Annika Herlitz",
-        "Mimmi Sandén"
+      "artists": [
+        {
+          "name": "Annika Herlitz",
+          "id": "5gBb4inMl5EJFcQxEWpQJ7"
+        },
+        {
+          "name": "Mimmi Sandén",
+          "id": "3OXidOhUVXLVG7je2ISGv0"
+        }
       ],
-      "artistId": [
-        "5gBb4inMl5EJFcQxEWpQJ7",
-        "3OXidOhUVXLVG7je2ISGv0"
-      ],
-      "albumId": "1WNoZwWTbwzhRHoQaMGHbN",
+      "album": {
+        "id": "1WNoZwWTbwzhRHoQaMGHbN",
+        "name": "Frost (Svenskt Original Soundtrack/ Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204ca3d7818e58b65869ee7be"
+      },
       "release_date": "2014-01-01",
       "popularity": 41
     },
     {
-      "trackId": "33ffhHeLPecWksV6W1cLZj",
-      "name": "SIMEONE",
+      "track": {
+        "id": "33ffhHeLPecWksV6W1cLZj",
+        "name": "SIMEONE"
+      },
       "duration_ms": 140281,
-      "artist": [
-        "AIVA"
+      "artists": [
+        {
+          "name": "AIVA",
+          "id": "07ogFFhRxjjGsPHfq4dSQb"
+        }
       ],
-      "artistId": [
-        "07ogFFhRxjjGsPHfq4dSQb"
-      ],
-      "albumId": "7djxz0ojilwz6aMYBAlEg8",
+      "album": {
+        "id": "7djxz0ojilwz6aMYBAlEg8",
+        "name": "SIMEONE",
+        "img": "https://i.scdn.co/image/ab67616d00001e0250b50ecb3af0ca5717ed340a"
+      },
       "release_date": "2022-05-06",
       "popularity": 33
     },
     {
-      "trackId": "0tURbnatc9qCxlYpXuPK8I",
-      "name": "A Place In The Sun",
+      "track": {
+        "id": "0tURbnatc9qCxlYpXuPK8I",
+        "name": "A Place In The Sun"
+      },
       "duration_ms": 172960,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "1MB4UsW8MUMLMRxuNsXpDm",
+      "album": {
+        "id": "1MB4UsW8MUMLMRxuNsXpDm",
+        "name": "Down To Earth",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdeb1dd616d6f2f02eea9a3d"
+      },
       "release_date": "1966-11-01",
       "popularity": 53
     }

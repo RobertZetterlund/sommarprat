@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530762_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "09CDYf0psKR34H6JyMzzpA",
-      "name": "Pass This On",
+      "track": {
+        "id": "09CDYf0psKR34H6JyMzzpA",
+        "name": "Pass This On"
+      },
       "duration_ms": 228066,
-      "artist": [
-        "The Knife"
+      "artists": [
+        {
+          "name": "The Knife",
+          "id": "7eQZTqEMozBcuSubfu52i4"
+        }
       ],
-      "artistId": [
-        "7eQZTqEMozBcuSubfu52i4"
-      ],
-      "albumId": "5FXkHlKsYgwo8IJ4sHL1gs",
+      "album": {
+        "id": "5FXkHlKsYgwo8IJ4sHL1gs",
+        "name": "Deep Cuts",
+        "img": "https://i.scdn.co/image/ab67616d00001e02232a76e5c4c7bd8279c05272"
+      },
       "release_date": "2003",
       "popularity": 34
     },
     {
-      "trackId": "23Xn28hj2UKh9vQmK9bwsV",
-      "name": "I Never Loved This Hard This Fast Before",
+      "track": {
+        "id": "23Xn28hj2UKh9vQmK9bwsV",
+        "name": "I Never Loved This Hard This Fast Before"
+      },
       "duration_ms": 262011,
-      "artist": [
-        "Tami T"
+      "artists": [
+        {
+          "name": "Tami T",
+          "id": "1rlC0qRy1Ndg2uAoFoFlyJ"
+        }
       ],
-      "artistId": [
-        "1rlC0qRy1Ndg2uAoFoFlyJ"
-      ],
-      "albumId": "26SEul4ezwGMYgjeU9u0Fz",
+      "album": {
+        "id": "26SEul4ezwGMYgjeU9u0Fz",
+        "name": "I Never Loved This Hard This Fast Before",
+        "img": "https://i.scdn.co/image/ab67616d00001e0207fd02f24d2535d9b7709eaa"
+      },
       "release_date": "2013-09-13",
       "popularity": 32
     },
     {
-      "trackId": "0Mr7aKHWQ3RrDejAiSdAt7",
-      "name": "Rocky Dennis' Farewell Song To The Blind Girl",
+      "track": {
+        "id": "0Mr7aKHWQ3RrDejAiSdAt7",
+        "name": "Rocky Dennis' Farewell Song To The Blind Girl"
+      },
       "duration_ms": 317880,
-      "artist": [
-        "Jens Lekman"
+      "artists": [
+        {
+          "name": "Jens Lekman",
+          "id": "7tzI4rSFTHafjF18ZrNZWx"
+        }
       ],
-      "artistId": [
-        "7tzI4rSFTHafjF18ZrNZWx"
-      ],
-      "albumId": "2ANVudJexgWI0hslhkwKAc",
+      "album": {
+        "id": "2ANVudJexgWI0hslhkwKAc",
+        "name": "The Cherry Trees Are Still In Blossom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bb6949b353668d0c07918577"
+      },
       "release_date": "2022-04-27",
       "popularity": 13
     },
     {
-      "trackId": "4JaoU6fL2Ifz2gDyFYtpiP",
-      "name": "Halo",
+      "track": {
+        "id": "4JaoU6fL2Ifz2gDyFYtpiP",
+        "name": "Halo"
+      },
       "duration_ms": 232986,
-      "artist": [
-        "Ane Brun",
-        "Linnea Olsson"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "id": "5URaqWGLWi0maxmjctj8I0"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm",
-        "5URaqWGLWi0maxmjctj8I0"
-      ],
-      "albumId": "1bvAlOqMbnWLwTcp65kSAP",
+      "album": {
+        "id": "1bvAlOqMbnWLwTcp65kSAP",
+        "name": "Rarities",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a11993d6b640c685e3ec61d"
+      },
       "release_date": "2013-10-04",
       "popularity": 54
     },
     {
-      "trackId": "3hZct5IXmHti0Xdcni8vfu",
-      "name": "Joga",
+      "track": {
+        "id": "3hZct5IXmHti0Xdcni8vfu",
+        "name": "Joga"
+      },
       "duration_ms": 305533,
-      "artist": [
-        "Björk Guðmundsdóttir",
-        "Sigurjon Birgir Sigurdsson",
-        "Gregorian"
+      "artists": [
+        {
+          "name": "Björk Guðmundsdóttir",
+          "id": "3HDfNAh4MpiptvaJP9We0w"
+        },
+        {
+          "name": "Sigurjon Birgir Sigurdsson",
+          "id": "4GW8ZbtKLVUswg0ucdccik"
+        },
+        {
+          "name": "Gregorian",
+          "id": "5QO1NNCLglKxgogzx6XLJn"
+        }
       ],
-      "artistId": [
-        "3HDfNAh4MpiptvaJP9We0w",
-        "4GW8ZbtKLVUswg0ucdccik",
-        "5QO1NNCLglKxgogzx6XLJn"
-      ],
-      "albumId": "63lHCog4E73RzcCGEpbrj7",
+      "album": {
+        "id": "63lHCog4E73RzcCGEpbrj7",
+        "name": "Masters of Chant: Chapter VI",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba433f4fd36f6033461abfd4"
+      },
       "release_date": "2007-09-28",
       "popularity": 17
     },
     {
-      "trackId": "1AHPsqF3EtHeWpOM06Y3Y4",
-      "name": "Hope There's Someone",
+      "track": {
+        "id": "1AHPsqF3EtHeWpOM06Y3Y4",
+        "name": "Hope There's Someone"
+      },
       "duration_ms": 261200,
-      "artist": [
-        "Antony and the Johnsons"
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "id": "4fxp616ALtFWnXfwxnjLzW"
+        }
       ],
-      "artistId": [
-        "4fxp616ALtFWnXfwxnjLzW"
-      ],
-      "albumId": "24Xm5zS2KvwojChzxLGdn9",
+      "album": {
+        "id": "24Xm5zS2KvwojChzxLGdn9",
+        "name": "I Am A Bird Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0591c5bfd1d391228e8423c"
+      },
       "release_date": "2005-02-07",
       "popularity": 48
     },
     {
-      "trackId": "11X4Gw3T4hoktVruLgTnm1",
-      "name": "Heartbeats",
+      "track": {
+        "id": "11X4Gw3T4hoktVruLgTnm1",
+        "name": "Heartbeats"
+      },
       "duration_ms": 160240,
-      "artist": [
-        "José González"
+      "artists": [
+        {
+          "name": "José González",
+          "id": "6xrCU6zdcSTsG2hLrojpmI"
+        }
       ],
-      "artistId": [
-        "6xrCU6zdcSTsG2hLrojpmI"
-      ],
-      "albumId": "7M6XGBvDi3smtRuPUkrqsG",
+      "album": {
+        "id": "7M6XGBvDi3smtRuPUkrqsG",
+        "name": "Veneer",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289c5e55db6ad58527a6a1206"
+      },
       "release_date": "2003-07-02",
       "popularity": 64
     },
     {
-      "trackId": "6tNPeuaj47cdw0qyrGIJDq",
-      "name": "The Breaks",
+      "track": {
+        "id": "6tNPeuaj47cdw0qyrGIJDq",
+        "name": "The Breaks"
+      },
       "duration_ms": 276533,
-      "artist": [
-        "Planningtorock"
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "id": "7qHOphlWaJrfFa0BqpayDG"
+        }
       ],
-      "artistId": [
-        "7qHOphlWaJrfFa0BqpayDG"
-      ],
-      "albumId": "4Uc2byetfJ22TehSQqVjtY",
+      "album": {
+        "id": "4Uc2byetfJ22TehSQqVjtY",
+        "name": "W",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdf18d962d0ad0c68457aaa4"
+      },
       "release_date": "2011-05-23",
       "popularity": 27
     },
     {
-      "trackId": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
+      "track": {
+        "id": "0wrWxW18WK2MkrfDpRHkyh",
+        "name": "Me and the Devil"
+      },
       "duration_ms": 185000,
-      "artist": [
-        "Soap&Skin"
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "id": "2mAYpnSe3g2Y22JcZ2ddku"
+        }
       ],
-      "artistId": [
-        "2mAYpnSe3g2Y22JcZ2ddku"
-      ],
-      "albumId": "5yuGLsbL0XTjON5tewyApa",
+      "album": {
+        "id": "5yuGLsbL0XTjON5tewyApa",
+        "name": "Sugarbread",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d0104a5eaddc32bb0a7824"
+      },
       "release_date": "2013-03-11",
       "popularity": 55
     },
     {
-      "trackId": "5zvOXJrzzUlvXwyuwZ0toZ",
-      "name": "Oh! Carol",
+      "track": {
+        "id": "5zvOXJrzzUlvXwyuwZ0toZ",
+        "name": "Oh! Carol"
+      },
       "duration_ms": 135466,
-      "artist": [
-        "Neil Sedaka"
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "id": "5N6GwJzOcOY5kv8p0NjhYL"
+        }
       ],
-      "artistId": [
-        "5N6GwJzOcOY5kv8p0NjhYL"
-      ],
-      "albumId": "1Ue6n39wDCfKyy4IBOuPqO",
+      "album": {
+        "id": "1Ue6n39wDCfKyy4IBOuPqO",
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023843b432892fdff0ffd2c96d"
+      },
       "release_date": "1959-06-12",
       "popularity": 58
     },
     {
-      "trackId": "5st5644IlBmKiiRE73UsoZ",
-      "name": "Fuck You",
+      "track": {
+        "id": "5st5644IlBmKiiRE73UsoZ",
+        "name": "Fuck You"
+      },
       "duration_ms": 219893,
-      "artist": [
-        "Lily Allen"
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "id": "13saZpZnCDWOI9D4IJhp1f"
+        }
       ],
-      "artistId": [
-        "13saZpZnCDWOI9D4IJhp1f"
-      ],
-      "albumId": "2OUL7ZpAvUaWyylZ1lXpe0",
+      "album": {
+        "id": "2OUL7ZpAvUaWyylZ1lXpe0",
+        "name": "It's Not Me, It's You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02321bad65a3be5bbd317eb11b"
+      },
       "release_date": "2009-01-26",
       "popularity": 62
     },
     {
-      "trackId": "3qiyyUfYe7CRYLucrPmulD",
-      "name": "Baba O'Riley",
+      "track": {
+        "id": "3qiyyUfYe7CRYLucrPmulD",
+        "name": "Baba O'Riley"
+      },
       "duration_ms": 300400,
-      "artist": [
-        "The Who"
+      "artists": [
+        {
+          "name": "The Who",
+          "id": "67ea9eGLXYMsO2eYQRui3w"
+        }
       ],
-      "artistId": [
-        "67ea9eGLXYMsO2eYQRui3w"
-      ],
-      "albumId": "5MqyhhHbT13zsloD3uHhlQ",
+      "album": {
+        "id": "5MqyhhHbT13zsloD3uHhlQ",
+        "name": "Who's Next (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fe24dcd263c08c6dd84b6e8c"
+      },
       "release_date": "1971-08-14",
       "popularity": 75
     },
     {
-      "trackId": "5u5kqmwNLtJyVvewymi5q5",
-      "name": "A taste of honey",
+      "track": {
+        "id": "5u5kqmwNLtJyVvewymi5q5",
+        "name": "A taste of honey"
+      },
       "duration_ms": 139969,
-      "artist": [
-        "Paul Mauriat"
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "id": "5Oj26LEf8jdgR2woWEjlhi"
+        }
       ],
-      "artistId": [
-        "5Oj26LEf8jdgR2woWEjlhi"
-      ],
-      "albumId": "3LI5FI7AoPCaByvhpLzips",
+      "album": {
+        "id": "3LI5FI7AoPCaByvhpLzips",
+        "name": "Musique inoubliable",
+        "img": "https://i.scdn.co/image/ab67616d00001e026da2d4de464e3ae4b2ba46f0"
+      },
       "release_date": "1965-09-20",
       "popularity": 7
     }

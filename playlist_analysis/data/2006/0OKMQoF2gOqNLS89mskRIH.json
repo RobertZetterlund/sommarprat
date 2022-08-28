@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3237981_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2o0hVSbnkdvDDKKVNaUxnB",
-      "name": "La bohème",
+      "track": {
+        "id": "2o0hVSbnkdvDDKKVNaUxnB",
+        "name": "La bohème"
+      },
       "duration_ms": 245186,
-      "artist": [
-        "Charles Aznavour"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT"
-      ],
-      "albumId": "3e3Nfe6qFPnmfxUtkBfYrj",
+      "album": {
+        "id": "3e3Nfe6qFPnmfxUtkBfYrj",
+        "name": "La Bohème (Remastered 2014)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02de720eaca47406a3cca319a8"
+      },
       "release_date": "1966",
       "popularity": 64
     },
     {
-      "trackId": "3XsrcxmhmYuJwHU13qldcO",
-      "name": "My Heart Belongs to Daddy",
+      "track": {
+        "id": "3XsrcxmhmYuJwHU13qldcO",
+        "name": "My Heart Belongs to Daddy"
+      },
       "duration_ms": 174653,
-      "artist": [
-        "Lisa Ekdahl",
-        "Peter Nordahl Trio"
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "id": "4SJSGUVZ04tezaGrxc96EE"
+        },
+        {
+          "name": "Peter Nordahl Trio",
+          "id": "6Qar0oNt9IZSMyrBxMg7ok"
+        }
       ],
-      "artistId": [
-        "4SJSGUVZ04tezaGrxc96EE",
-        "6Qar0oNt9IZSMyrBxMg7ok"
-      ],
-      "albumId": "4vHgAUCUVzOetkCJvCeSl0",
+      "album": {
+        "id": "4vHgAUCUVzOetkCJvCeSl0",
+        "name": "Det Bästa Med",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5fc54b5b110a25a55c8f2b0"
+      },
       "release_date": "2007-01-02",
       "popularity": 2
     },
     {
-      "trackId": "3HSt1ZgyKd8MONJ722o8PT",
-      "name": "Vi kommer aldrig att dö",
+      "track": {
+        "id": "3HSt1ZgyKd8MONJ722o8PT",
+        "name": "Vi kommer aldrig att dö"
+      },
       "duration_ms": 264226,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "6eDA4i4dMMeLZ3HJtU65sF",
+      "album": {
+        "id": "6eDA4i4dMMeLZ3HJtU65sF",
+        "name": "Amerika",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3417f3aed4b81357618a6f9"
+      },
       "release_date": "1996-09-26",
       "popularity": 37
     },
     {
-      "trackId": "6lTEWW5E6WLfctDEx0g2Lx",
-      "name": "I Can't Give You Anything But Love",
+      "track": {
+        "id": "6lTEWW5E6WLfctDEx0g2Lx",
+        "name": "I Can't Give You Anything But Love"
+      },
       "duration_ms": 153000,
-      "artist": [
-        "Diana Krall"
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "id": "5z1VAFwT35EVvCp1XlZZuL"
+        }
       ],
-      "artistId": [
-        "5z1VAFwT35EVvCp1XlZZuL"
-      ],
-      "albumId": "6NqwpeiAjwYAppRNA7F3yD",
+      "album": {
+        "id": "6NqwpeiAjwYAppRNA7F3yD",
+        "name": "When I Look In Your Eyes",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ec8ab4f947e57d3ebd576c2"
+      },
       "release_date": "1999-01-01",
       "popularity": 31
     },
     {
-      "trackId": "75lo309Hq38GGv3smXRgHo",
-      "name": "Cherry Blossom - Remastered",
+      "track": {
+        "id": "75lo309Hq38GGv3smXRgHo",
+        "name": "Cherry Blossom - Remastered"
+      },
       "duration_ms": 371733,
-      "artist": [
-        "Horace Silver"
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "id": "5ZATfKurLqflrBhv2FLht5"
+        }
       ],
-      "artistId": [
-        "5ZATfKurLqflrBhv2FLht5"
-      ],
-      "albumId": "5Dv1TQLSP6dipg87qpI8pc",
+      "album": {
+        "id": "5Dv1TQLSP6dipg87qpI8pc",
+        "name": "The Tokyo Blues (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025493ca7836cfd4a1b8061f63"
+      },
       "release_date": "2009-01-01",
       "popularity": 13
     },
     {
-      "trackId": "0GLl7QeQMBLG9PSMdeCo9N",
-      "name": "Fåglar",
+      "track": {
+        "id": "0GLl7QeQMBLG9PSMdeCo9N",
+        "name": "Fåglar"
+      },
       "duration_ms": 155160,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "3x8aQUoOux2ANK6cqjxWtI",
+      "album": {
+        "id": "3x8aQUoOux2ANK6cqjxWtI",
+        "name": "Poem, ballader och lite blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c195492f74cea82ef076edc7"
+      },
       "release_date": "1970",
       "popularity": 27
     },
     {
-      "trackId": "7spOOIdHdF8Ghjo91qDTfB",
-      "name": "Don’t Wait Too Long",
+      "track": {
+        "id": "7spOOIdHdF8Ghjo91qDTfB",
+        "name": "Don’t Wait Too Long"
+      },
       "duration_ms": 190213,
-      "artist": [
-        "Madeleine Peyroux"
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "id": "7nXyULtoL8k7wP9l6kg8Ef"
+        }
       ],
-      "artistId": [
-        "7nXyULtoL8k7wP9l6kg8Ef"
-      ],
-      "albumId": "51v8hjqV3KirevIh7jWI0H",
+      "album": {
+        "id": "51v8hjqV3KirevIh7jWI0H",
+        "name": "Careless Love (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02562969e13c1cc2cdd0298be4"
+      },
       "release_date": "2021-08-27",
       "popularity": 32
     },
     {
-      "trackId": "3rZtRBAKCHaZVxMQqXLAPu",
-      "name": "Sommarregn (feat. Hanna Ferm)",
+      "track": {
+        "id": "3rZtRBAKCHaZVxMQqXLAPu",
+        "name": "Sommarregn (feat. Hanna Ferm)"
+      },
       "duration_ms": 182515,
-      "artist": [
-        "Oskar Häggström",
-        "Hanna Ferm"
+      "artists": [
+        {
+          "name": "Oskar Häggström",
+          "id": "69ZOZoebEshyscvb3HktEf"
+        },
+        {
+          "name": "Hanna Ferm",
+          "id": "2xQUbkvQFCU8DpdBFbMfLq"
+        }
       ],
-      "artistId": [
-        "69ZOZoebEshyscvb3HktEf",
-        "2xQUbkvQFCU8DpdBFbMfLq"
-      ],
-      "albumId": "12SjrFUpHO06Xm2Co5ookK",
+      "album": {
+        "id": "12SjrFUpHO06Xm2Co5ookK",
+        "name": "Sommarregn (feat. Hanna Ferm)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c98e9d879951fb1a2683c5fc"
+      },
       "release_date": "2022-06-17",
       "popularity": 56
     },
     {
-      "trackId": "1Ud6moTC0KyXMq1Oxfien0",
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "track": {
+        "id": "1Ud6moTC0KyXMq1Oxfien0",
+        "name": "Sympathy For The Devil - 50th Anniversary Edition"
+      },
       "duration_ms": 378146,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "6OHri5qNxwCdVSdyCslspd",
+      "album": {
+        "id": "6OHri5qNxwCdVSdyCslspd",
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244934a06d21864415376f5f2"
+      },
       "release_date": "1968-12-06",
       "popularity": 74
     },
     {
-      "trackId": "79wA8IJpqjdiNYRZDqOWA0",
-      "name": "Tel Aviv - Original Mix",
+      "track": {
+        "id": "79wA8IJpqjdiNYRZDqOWA0",
+        "name": "Tel Aviv - Original Mix"
+      },
       "duration_ms": 879757,
-      "artist": [
-        "Herbie Mann & Bobby Jaspar"
+      "artists": [
+        {
+          "name": "Herbie Mann & Bobby Jaspar",
+          "id": "5Xojzji9x0Xt4egvEkuqt6"
+        }
       ],
-      "artistId": [
-        "5Xojzji9x0Xt4egvEkuqt6"
-      ],
-      "albumId": "708qeToFxAsCWaXRiPI694",
+      "album": {
+        "id": "708qeToFxAsCWaXRiPI694",
+        "name": "Tel Aviv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ca041e1b15aa38601ff2e803"
+      },
       "release_date": "2014-12-09",
       "popularity": 0
     },
     {
-      "trackId": "6Nl6VTVDWmxmqOGreQoCuY",
-      "name": "Alfvén : Festspel, Op. 25 (Swedish Festive Music)",
+      "track": {
+        "id": "6Nl6VTVDWmxmqOGreQoCuY",
+        "name": "Alfvén : Festspel, Op. 25 (Swedish Festive Music)"
+      },
       "duration_ms": 344893,
-      "artist": [
-        "Hugo Alfvén",
-        "Royal Stockholm Philharmonic Orchestra",
-        "Andrew Davis"
+      "artists": [
+        {
+          "name": "Hugo Alfvén",
+          "id": "7oFvKLdVtXPcuZdfrWpcyj"
+        },
+        {
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "id": "5dyKtXKwZmYhlyh9c6UcB0"
+        },
+        {
+          "name": "Andrew Davis",
+          "id": "1Q9HCWdqbiui9pOsDtYkXW"
+        }
       ],
-      "artistId": [
-        "7oFvKLdVtXPcuZdfrWpcyj",
-        "5dyKtXKwZmYhlyh9c6UcB0",
-        "1Q9HCWdqbiui9pOsDtYkXW"
-      ],
-      "albumId": "2655rvu2MHSGArOCYUxkzt",
+      "album": {
+        "id": "2655rvu2MHSGArOCYUxkzt",
+        "name": "Nobel Prize Ceremony Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b81b243face1bd66e3873ed8"
+      },
       "release_date": "1996-09-30",
       "popularity": 1
     },
     {
-      "trackId": "5fFZWQ5bnitPAylRwh85B9",
-      "name": "Schysst & populär",
+      "track": {
+        "id": "5fFZWQ5bnitPAylRwh85B9",
+        "name": "Schysst & populär"
+      },
       "duration_ms": 248786,
-      "artist": [
-        "Oscar Danielson"
+      "artists": [
+        {
+          "name": "Oscar Danielson",
+          "id": "1MrlpnrM5jFgwSqYwul5HY"
+        }
       ],
-      "artistId": [
-        "1MrlpnrM5jFgwSqYwul5HY"
-      ],
-      "albumId": "2YqznIk7CF5UYFymUp98Dd",
+      "album": {
+        "id": "2YqznIk7CF5UYFymUp98Dd",
+        "name": "Fina år 1996-2012 - en samling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1c346102890f3dcb6903213"
+      },
       "release_date": "2012-10-01",
       "popularity": 17
     },
     {
-      "trackId": "18VAjAG3abDUk07HjofIpN",
-      "name": "Hon är så söt",
+      "track": {
+        "id": "18VAjAG3abDUk07HjofIpN",
+        "name": "Hon är så söt"
+      },
       "duration_ms": 231480,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "6dP45KohLF1BT51swxIpyU",
+      "album": {
+        "id": "6dP45KohLF1BT51swxIpyU",
+        "name": "På hotell",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a338d31da1718f639bef626"
+      },
       "release_date": "1994-08-11",
       "popularity": 42
     }

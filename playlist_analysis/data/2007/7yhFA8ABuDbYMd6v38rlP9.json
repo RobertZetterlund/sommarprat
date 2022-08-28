@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257128_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5lmGgOaixbwKHtpTzjJoqx",
-      "name": "Under My Thumb",
+      "track": {
+        "id": "5lmGgOaixbwKHtpTzjJoqx",
+        "name": "Under My Thumb"
+      },
       "duration_ms": 221533,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "72qrnM4yUNMDDlWiqKc8iY",
+      "album": {
+        "id": "72qrnM4yUNMDDlWiqKc8iY",
+        "name": "Aftermath",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694"
+      },
       "release_date": "1966-04-15",
       "popularity": 65
     },
     {
-      "trackId": "3kmopNzTM4r5LGaKWXGRdn",
-      "name": "Årstider",
+      "track": {
+        "id": "3kmopNzTM4r5LGaKWXGRdn",
+        "name": "Årstider"
+      },
       "duration_ms": 282906,
-      "artist": [
-        "Stefan Sundström"
+      "artists": [
+        {
+          "name": "Stefan Sundström",
+          "id": "0NsAbGr86qKQMaXTuWwVKj"
+        }
       ],
-      "artistId": [
-        "0NsAbGr86qKQMaXTuWwVKj"
-      ],
-      "albumId": "3wkGKB0kUkZgi6qYvPBchC",
+      "album": {
+        "id": "3wkGKB0kUkZgi6qYvPBchC",
+        "name": "Sundström spelar Allan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2e4ba127a2a69c45420d3f3"
+      },
       "release_date": "2002-08-19",
       "popularity": 7
     },
     {
-      "trackId": "2nBd9dE2mA7Z4STlKgryBc",
-      "name": "Natt i en stad",
+      "track": {
+        "id": "2nBd9dE2mA7Z4STlKgryBc",
+        "name": "Natt i en stad"
+      },
       "duration_ms": 178000,
-      "artist": [
-        "Nina Ramsby",
-        "Martin Hederos"
+      "artists": [
+        {
+          "name": "Nina Ramsby",
+          "id": "6ydrBmge20NnUZiq2Ep4jP"
+        },
+        {
+          "name": "Martin Hederos",
+          "id": "0KrueSPl32yXv6KbERkUBL"
+        }
       ],
-      "artistId": [
-        "6ydrBmge20NnUZiq2Ep4jP",
-        "0KrueSPl32yXv6KbERkUBL"
-      ],
-      "albumId": "1szTKEWpHY0OGq01JkOD6d",
+      "album": {
+        "id": "1szTKEWpHY0OGq01JkOD6d",
+        "name": "Visorna",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d44e8b9ac084b66a91cdc793"
+      },
       "release_date": "2004",
       "popularity": 24
     },
     {
-      "trackId": "7uDeZRc205MfMa7CiFyOUp",
-      "name": "Vals i Valparaiso",
+      "track": {
+        "id": "7uDeZRc205MfMa7CiFyOUp",
+        "name": "Vals i Valparaiso"
+      },
       "duration_ms": 193426,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "22jr1k8N3Iz8abiAIoe0iB",
+      "album": {
+        "id": "22jr1k8N3Iz8abiAIoe0iB",
+        "name": "Cornelis sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e32ae3048034e79c68b3ce15"
+      },
       "release_date": "1969",
       "popularity": 14
     },
     {
-      "trackId": "0pQskrTITgmCMyr85tb9qq",
-      "name": "Starman - 2012 Remaster",
+      "track": {
+        "id": "0pQskrTITgmCMyr85tb9qq",
+        "name": "Starman - 2012 Remaster"
+      },
       "duration_ms": 254293,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "48D1hRORqJq52qsnUYZX56",
+      "album": {
+        "id": "48D1hRORqJq52qsnUYZX56",
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680"
+      },
       "release_date": "1972-06-06",
       "popularity": 75
     },
     {
-      "trackId": "2OUPrMbmZwyN38ZRHZNJEF",
-      "name": "Woke Up This Morning - Chosen One Mix",
+      "track": {
+        "id": "2OUPrMbmZwyN38ZRHZNJEF",
+        "name": "Woke Up This Morning - Chosen One Mix"
+      },
       "duration_ms": 249240,
-      "artist": [
-        "Alabama 3",
-        "The Chosen One"
+      "artists": [
+        {
+          "name": "Alabama 3",
+          "id": "25zUD40u8M2kJmdcabBzrz"
+        },
+        {
+          "name": "The Chosen One",
+          "id": "5syWd6fU4rdGIsHox40hMA"
+        }
       ],
-      "artistId": [
-        "25zUD40u8M2kJmdcabBzrz",
-        "5syWd6fU4rdGIsHox40hMA"
-      ],
-      "albumId": "15QXFCAPFtH7Ro9fiXhjIO",
+      "album": {
+        "id": "15QXFCAPFtH7Ro9fiXhjIO",
+        "name": "La Peste",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6efd97d1b8e8933a5fa6176"
+      },
       "release_date": "2000-09-01",
       "popularity": 52
     },
     {
-      "trackId": "48nlehlMgkluf0jAoFGnv5",
-      "name": "Mitt lilla barn",
+      "track": {
+        "id": "48nlehlMgkluf0jAoFGnv5",
+        "name": "Mitt lilla barn"
+      },
       "duration_ms": 279266,
-      "artist": [
-        "Jojje Wadenius"
+      "artists": [
+        {
+          "name": "Jojje Wadenius",
+          "id": "3DsJnkx1vIQfiF7LpWDCde"
+        }
       ],
-      "artistId": [
-        "3DsJnkx1vIQfiF7LpWDCde"
-      ],
-      "albumId": "6g6kDzMmzMY43SGEC7Jvxi",
+      "album": {
+        "id": "6g6kDzMmzMY43SGEC7Jvxi",
+        "name": "Goda' goda'",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3d16dbdfe351aba48625a81"
+      },
       "release_date": "2001-02-23",
       "popularity": 28
     },
     {
-      "trackId": "0h4ZxSxvu8xYfuuPGXkIlw",
-      "name": "Herkules Jonssons låt",
+      "track": {
+        "id": "0h4ZxSxvu8xYfuuPGXkIlw",
+        "name": "Herkules Jonssons låt"
+      },
       "duration_ms": 184146,
-      "artist": [
-        "Arne Domnérus"
+      "artists": [
+        {
+          "name": "Arne Domnérus",
+          "id": "1ouwdRCWsw9IBhPoDMrhFv"
+        }
       ],
-      "artistId": [
-        "1ouwdRCWsw9IBhPoDMrhFv"
-      ],
-      "albumId": "6OqrjgMbgmWAQQDGcHliZK",
+      "album": {
+        "id": "6OqrjgMbgmWAQQDGcHliZK",
+        "name": "Black Sheep - Swedish Jazzlegends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02709cfa1153a3beb9d7299f56"
+      },
       "release_date": "2011-01-01",
       "popularity": 30
     },
     {
-      "trackId": "1KRcokkLCrwMPFWeP5Hroa",
-      "name": "Är det kärlek du behöver - N!NE EPA Remix",
+      "track": {
+        "id": "1KRcokkLCrwMPFWeP5Hroa",
+        "name": "Är det kärlek du behöver - N!NE EPA Remix"
+      },
       "duration_ms": 174080,
-      "artist": [
-        "Lasse Stefanz",
-        "N!NE"
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "id": "0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "id": "0RF3teBjUzbf1SDpnuR8Ro"
+        }
       ],
-      "artistId": [
-        "0ntVZReCfBFQctUiiaTaeu",
-        "0RF3teBjUzbf1SDpnuR8Ro"
-      ],
-      "albumId": "1iIvpW6StpS5bwdYl5hbjp",
+      "album": {
+        "id": "1iIvpW6StpS5bwdYl5hbjp",
+        "name": "Är det kärlek du behöver (EPA Remixes)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024fc6c9f66919c488d3d3eb61"
+      },
       "release_date": "2021-12-31",
       "popularity": 54
     },
     {
-      "trackId": "11cuwz8Jm1LZ14tYs0xe1v",
-      "name": "Il trionfo del tiempo e del disinganno, HWV 46a: \"Un pensiero nemico di pace\"",
+      "track": {
+        "id": "11cuwz8Jm1LZ14tYs0xe1v",
+        "name": "Il trionfo del tiempo e del disinganno, HWV 46a: \"Un pensiero nemico di pace\""
+      },
       "duration_ms": 234946,
-      "artist": [
-        "George Frideric Handel",
-        "Cecilia Bartoli",
-        "Les Musiciens du Louvre"
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "id": "1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "id": "3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Les Musiciens du Louvre",
+          "id": "05OQwvgj7Q7jHJy38bma4R"
+        }
       ],
-      "artistId": [
-        "1QL7yTHrdahRMpvNtn6rI2",
-        "3uw6GzeL10NfFrcikMo9Na",
-        "05OQwvgj7Q7jHJy38bma4R"
-      ],
-      "albumId": "5yvawcx07872HINdi5DYTU",
+      "album": {
+        "id": "5yvawcx07872HINdi5DYTU",
+        "name": "Opera Proibita (Bonus Track Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cebd62d985a53d27b4119ea2"
+      },
       "release_date": "2005-01-01",
       "popularity": 16
     },
     {
-      "trackId": "0KGGB0UriZ1LHD60mKmyq8",
-      "name": "Älska mej, Bill",
+      "track": {
+        "id": "0KGGB0UriZ1LHD60mKmyq8",
+        "name": "Älska mej, Bill"
+      },
       "duration_ms": 255066,
-      "artist": [
-        "Hoola Bandoola Band"
+      "artists": [
+        {
+          "name": "Hoola Bandoola Band",
+          "id": "5nKrlPFxyS6Al128p3vQG7"
+        }
       ],
-      "artistId": [
-        "5nKrlPFxyS6Al128p3vQG7"
-      ],
-      "albumId": "7AxRAhe0OVU8pEBqAfmeqz",
+      "album": {
+        "id": "7AxRAhe0OVU8pEBqAfmeqz",
+        "name": "Fri information",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a464c69815b8d0e86dff5830"
+      },
       "release_date": "1975-01-01",
       "popularity": 12
     },
     {
-      "trackId": "7M8lVjy8ht8UZbMl7kd9qq",
-      "name": "Valles dröm",
+      "track": {
+        "id": "7M8lVjy8ht8UZbMl7kd9qq",
+        "name": "Valles dröm"
+      },
       "duration_ms": 122588,
-      "artist": [
-        "Ville och Valle och Viktor"
+      "artists": [
+        {
+          "name": "Ville och Valle och Viktor",
+          "id": "51i1CPF3D4v1fxsabFQP25"
+        }
       ],
-      "artistId": [
-        "51i1CPF3D4v1fxsabFQP25"
-      ],
-      "albumId": "5ucqwZ9gYFRaUFsu5DyXeh",
+      "album": {
+        "id": "5ucqwZ9gYFRaUFsu5DyXeh",
+        "name": "Här kommer Ville och Valle och Viktor",
+        "img": "https://i.scdn.co/image/ab67616d00001e0265020cc7b61b9fe5fe3834cf"
+      },
       "release_date": "1971-01-01",
       "popularity": 4
     },
     {
-      "trackId": "5TAf4lnZCZTLlZHNZMLFLi",
-      "name": "I Try",
+      "track": {
+        "id": "5TAf4lnZCZTLlZHNZMLFLi",
+        "name": "I Try"
+      },
       "duration_ms": 239440,
-      "artist": [
-        "Macy Gray"
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "id": "4ylR3zwA0zaapAu94fktwa"
+        }
       ],
-      "artistId": [
-        "4ylR3zwA0zaapAu94fktwa"
-      ],
-      "albumId": "50DkoLL4ArRVXhWx9ssQSe",
+      "album": {
+        "id": "50DkoLL4ArRVXhWx9ssQSe",
+        "name": "On How Life Is",
+        "img": "https://i.scdn.co/image/ab67616d00001e026fb355dfc944cce3598e30a1"
+      },
       "release_date": "1999-07-03",
       "popularity": 72
     }

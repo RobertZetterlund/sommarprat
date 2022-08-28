@@ -7,220 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354527_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5yMXAaSvxo12QkYU75Ixv0",
-      "name": "Luka",
+      "track": {
+        "id": "5yMXAaSvxo12QkYU75Ixv0",
+        "name": "Luka"
+      },
       "duration_ms": 231933,
-      "artist": [
-        "Suzanne Vega"
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "id": "3X0tJzVYoWlfjLYI0Ridsw"
+        }
       ],
-      "artistId": [
-        "3X0tJzVYoWlfjLYI0Ridsw"
-      ],
-      "albumId": "5w4IN5bPXAQD5iAVPNqvMg",
+      "album": {
+        "id": "5w4IN5bPXAQD5iAVPNqvMg",
+        "name": "Solitude Standing",
+        "img": "https://i.scdn.co/image/ab67616d00001e02680490be41cefe6655496c68"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "0MGsmLjCtcSye47RvZWhpq",
-      "name": "Mysteriet deg (feat. Lisa Nilsson)",
+      "track": {
+        "id": "0MGsmLjCtcSye47RvZWhpq",
+        "name": "Mysteriet deg (feat. Lisa Nilsson)"
+      },
       "duration_ms": 241000,
-      "artist": [
-        "Bjørn Eidsvåg",
-        "Lisa Nilsson"
+      "artists": [
+        {
+          "name": "Bjørn Eidsvåg",
+          "id": "11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "id": "68QvqbdqwqqjW39YpUJHdG"
+        }
       ],
-      "artistId": [
-        "11Vny8qHe4KR50ZIjhz7sz",
-        "68QvqbdqwqqjW39YpUJHdG"
-      ],
-      "albumId": "5AIIeHfqDMUBqLCXZbiWKT",
+      "album": {
+        "id": "5AIIeHfqDMUBqLCXZbiWKT",
+        "name": "Tålt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af134bd21a2786876b7fbd17"
+      },
       "release_date": "2002-04-01",
       "popularity": 42
     },
     {
-      "trackId": "3AhXZa8sUQht0UEdBJgpGc",
-      "name": "Like a Rolling Stone",
+      "track": {
+        "id": "3AhXZa8sUQht0UEdBJgpGc",
+        "name": "Like a Rolling Stone"
+      },
       "duration_ms": 369600,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "6YabPKtZAjxwyWbuO9p4ZD",
+      "album": {
+        "id": "6YabPKtZAjxwyWbuO9p4ZD",
+        "name": "Highway 61 Revisited",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241720ef0ae31e10d39e43ca2"
+      },
       "release_date": "1965-08-30",
       "popularity": 70
     },
     {
-      "trackId": "2ml2xRwuFLv7NtDPzyssfL",
-      "name": "Widmung, Op. 25 No. 1",
+      "track": {
+        "id": "2ml2xRwuFLv7NtDPzyssfL",
+        "name": "Widmung, Op. 25 No. 1"
+      },
       "duration_ms": 237960,
-      "artist": [
-        "Robert Schumann",
-        "Martin James Bartlett"
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "id": "2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "id": "6zWfzjBaMu0anAw2kHMW0O"
+        }
       ],
-      "artistId": [
-        "2UqjDAXnDxejEyE0CzfUrZ",
-        "6zWfzjBaMu0anAw2kHMW0O"
-      ],
-      "albumId": "5NJMInZ0UluhhyLiIpwnWT",
+      "album": {
+        "id": "5NJMInZ0UluhhyLiIpwnWT",
+        "name": "Work - Schumann",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289d697d2950e5a86b0ad1c40"
+      },
       "release_date": "2021-01-25",
       "popularity": 49
     },
     {
-      "trackId": "3GyPYmwzX1nQcJA8w0wIP1",
-      "name": "Le jeu de Robin et de Marion (The Play of Robin and Marion): Scene 1: Marion is happily minding her own business…Robins m'aime (Marion)",
+      "track": {
+        "id": "3GyPYmwzX1nQcJA8w0wIP1",
+        "name": "Le jeu de Robin et de Marion (The Play of Robin and Marion): Scene 1: Marion is happily minding her own business…Robins m'aime (Marion)"
+      },
       "duration_ms": 181546,
-      "artist": [
-        "Adam de la Halle",
-        "Tonus Peregrinus",
-        "Antony Pitts"
+      "artists": [
+        {
+          "name": "Adam de la Halle",
+          "id": "5subEsI7oTDLALzsVZ6Fvw"
+        },
+        {
+          "name": "Tonus Peregrinus",
+          "id": "0K8Dhx1lhmDJaD0kSFyCa8"
+        },
+        {
+          "name": "Antony Pitts",
+          "id": "5S0hA6Bm22OipedKMmBuyJ"
+        }
       ],
-      "artistId": [
-        "5subEsI7oTDLALzsVZ6Fvw",
-        "0K8Dhx1lhmDJaD0kSFyCa8",
-        "5S0hA6Bm22OipedKMmBuyJ"
-      ],
-      "albumId": "7dmIdo5biRHkicdEusfaTW",
+      "album": {
+        "id": "7dmIdo5biRHkicdEusfaTW",
+        "name": "Adam De La Halle: Jeu De Robin Et De Marion (Le)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e46b56f4415d89da5105bd78"
+      },
       "release_date": "2006-04-18",
       "popularity": 8
     },
     {
-      "trackId": "20OFwXhEXf12DzwXmaV7fj",
-      "name": "Bad Moon Rising",
+      "track": {
+        "id": "20OFwXhEXf12DzwXmaV7fj",
+        "name": "Bad Moon Rising"
+      },
       "duration_ms": 141600,
-      "artist": [
-        "Creedence Clearwater Revival"
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": "3IYUhFvPQItj6xySrBmZkd"
+        }
       ],
-      "artistId": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ],
-      "albumId": "0i9mOB6mPGqwVvtJEXiwPG",
+      "album": {
+        "id": "0i9mOB6mPGqwVvtJEXiwPG",
+        "name": "Green River (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023efcd243aaa5638f55318f91"
+      },
       "release_date": "1969-08-03",
       "popularity": 78
     },
     {
-      "trackId": "504wsV4Br1jy9xUvWzpAog",
-      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "track": {
+        "id": "504wsV4Br1jy9xUvWzpAog",
+        "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo"
+      },
       "duration_ms": 176213,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould",
-        "Vladimir Golschmann"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "id": "3i9zo6m90f9mokNIXqCu0M"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP",
-        "3i9zo6m90f9mokNIXqCu0M"
-      ],
-      "albumId": "14rnDYdD1OCvTh9lSvodMK",
+      "album": {
+        "id": "14rnDYdD1OCvTh9lSvodMK",
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b941680859557c796b4eca9"
+      },
       "release_date": "1957",
       "popularity": 34
     },
     {
-      "trackId": "09WjCiwfLLKs17zxOqfHxl",
-      "name": "Farewell and Arrival",
+      "track": {
+        "id": "09WjCiwfLLKs17zxOqfHxl",
+        "name": "Farewell and Arrival"
+      },
       "duration_ms": 109160,
-      "artist": [
-        "Niklas Blumenthaler"
+      "artists": [
+        {
+          "name": "Niklas Blumenthaler",
+          "id": "14PMDJ6ZGkzsHqS51zw6cG"
+        }
       ],
-      "artistId": [
-        "14PMDJ6ZGkzsHqS51zw6cG"
-      ],
-      "albumId": "2xe6a5b9dwUVgglGJiJ1jK",
+      "album": {
+        "id": "2xe6a5b9dwUVgglGJiJ1jK",
+        "name": "Starry Night",
+        "img": "https://i.scdn.co/image/ab67616d00001e020123e3d9af801b282cee0c1f"
+      },
       "release_date": "2022-04-15",
       "popularity": 44
     },
     {
-      "trackId": "3uVMWI57CV8LKm0hfsDuX6",
-      "name": "Piano Sonata No. 15 in F Major, K. 533/494: 3. Rondo. Allegretto, K. 494",
+      "track": {
+        "id": "3uVMWI57CV8LKm0hfsDuX6",
+        "name": "Piano Sonata No. 15 in F Major, K. 533/494: 3. Rondo. Allegretto, K. 494"
+      },
       "duration_ms": 395133,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Alfred Brendel"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "id": "5vBh0nve44zwwVF5KWtCwA"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "5vBh0nve44zwwVF5KWtCwA"
-      ],
-      "albumId": "37qHlAzBNRI9UahnOI9lvr",
+      "album": {
+        "id": "37qHlAzBNRI9UahnOI9lvr",
+        "name": "Mozart: Piano Sonatas K.310, K.311 & K.533/494",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c40c5792d235b7dad4d286d"
+      },
       "release_date": "2003-01-01",
       "popularity": 40
     },
     {
-      "trackId": "0J3QMsdK5wdYnS2OCcKsbD",
-      "name": "Crazy Love - Live",
+      "track": {
+        "id": "0J3QMsdK5wdYnS2OCcKsbD",
+        "name": "Crazy Love - Live"
+      },
       "duration_ms": 222762,
-      "artist": [
-        "Ray Charles",
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "id": "1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "1eYhYunlNJlDoQhtYBvPsi",
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "3CwGxaRLRyEw6OiSbVhdRE",
+      "album": {
+        "id": "3CwGxaRLRyEw6OiSbVhdRE",
+        "name": "Genius Loves Company",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e827444b254f83e8303c790"
+      },
       "release_date": "2004-08-31",
       "popularity": 37
     },
     {
-      "trackId": "3g3xDtGtU0asKw6iYCYiG5",
-      "name": "American Tune",
+      "track": {
+        "id": "3g3xDtGtU0asKw6iYCYiG5",
+        "name": "American Tune"
+      },
       "duration_ms": 225133,
-      "artist": [
-        "Paul Simon"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI"
-      ],
-      "albumId": "50pzpI17hwQj7LKcOiLMFD",
+      "album": {
+        "id": "50pzpI17hwQj7LKcOiLMFD",
+        "name": "There Goes Rhymin' Simon",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b3dcd1fd0d85f3721625c03"
+      },
       "release_date": "1973-05-05",
       "popularity": 50
     },
     {
-      "trackId": "5CJIdzPSLJS4oklyO2wo9Q",
-      "name": "Du gråter så store tåra - Norwegian Version",
+      "track": {
+        "id": "5CJIdzPSLJS4oklyO2wo9Q",
+        "name": "Du gråter så store tåra - Norwegian Version"
+      },
       "duration_ms": 197866,
-      "artist": [
-        "Ane Brun"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm"
-      ],
-      "albumId": "1Eph2XorZbPsmNTTKmXDtv",
+      "album": {
+        "id": "1Eph2XorZbPsmNTTKmXDtv",
+        "name": "It All Starts With One (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c8abff12eb8b7ce416f949"
+      },
       "release_date": "2011-01-01",
       "popularity": 31
     },
     {
-      "trackId": "4rHBLlG0gUa284QtO5Zk4e",
-      "name": "Messa da Requiem: Dies irae: Ingemisco",
+      "track": {
+        "id": "4rHBLlG0gUa284QtO5Zk4e",
+        "name": "Messa da Requiem: Dies irae: Ingemisco"
+      },
       "duration_ms": 248226,
-      "artist": [
-        "Giuseppe Verdi",
-        "Jussi Björling",
-        "AVRO Hilversum Orkest"
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "id": "1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        },
+        {
+          "name": "AVRO Hilversum Orkest",
+          "id": "3JFzBLh7rTR5FnmY7Wr063"
+        }
       ],
-      "artistId": [
-        "1JOQXgYdQV2yfrhewqx96o",
-        "4FNjPnaiiXYeG2qOhVtd8A",
-        "3JFzBLh7rTR5FnmY7Wr063"
-      ],
-      "albumId": "2ZAMizjIWTCH1gQAmBwEmI",
+      "album": {
+        "id": "2ZAMizjIWTCH1gQAmBwEmI",
+        "name": "Jussi Björling Recital (Live 1959)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e444127037b2c688c91aad7"
+      },
       "release_date": "2014-12-01",
       "popularity": 0
     },
     {
-      "trackId": "2bsWDpQmY7hpRL3pEV3dvm",
-      "name": "Konzert für Klavier und Orchester Nr.1 in Es-Dur - Allegro maestoso-Quasi adagio-Allegretto vivace",
+      "track": {
+        "id": "2bsWDpQmY7hpRL3pEV3dvm",
+        "name": "Konzert für Klavier und Orchester Nr.1 in Es-Dur - Allegro maestoso-Quasi adagio-Allegretto vivace"
+      },
       "duration_ms": 1156733,
-      "artist": [
-        "Alfred Brendel",
-        "Wiener Symphoniker"
+      "artists": [
+        {
+          "name": "Alfred Brendel",
+          "id": "5vBh0nve44zwwVF5KWtCwA"
+        },
+        {
+          "name": "Wiener Symphoniker",
+          "id": "6XZxFuZaBnZBngpxbut80O"
+        }
       ],
-      "artistId": [
-        "5vBh0nve44zwwVF5KWtCwA",
-        "6XZxFuZaBnZBngpxbut80O"
-      ],
-      "albumId": "2H5DHHpSd2L3tJ0llDjSFV",
+      "album": {
+        "id": "2H5DHHpSd2L3tJ0llDjSFV",
+        "name": "Klavierkonzerte",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e34334555a5f358003ed5bbf"
+      },
       "release_date": "2006-10-09",
       "popularity": 0
     }

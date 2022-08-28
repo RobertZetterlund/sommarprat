@@ -7,270 +7,394 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3233539_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2NzLlgezxqnJiO6diRKZaA",
-      "name": "När jag var en ung caballero",
+      "track": {
+        "id": "2NzLlgezxqnJiO6diRKZaA",
+        "name": "När jag var en ung caballero"
+      },
       "duration_ms": 211266,
-      "artist": [
-        "Evert Taube"
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "id": "3fUWKywZQbkzjqydZH15fT"
+        }
       ],
-      "artistId": [
-        "3fUWKywZQbkzjqydZH15fT"
-      ],
-      "albumId": "5AO3qm5hMQR6ebrrL47nYi",
+      "album": {
+        "id": "5AO3qm5hMQR6ebrrL47nYi",
+        "name": "Evert Taube/Musik vi minns",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d34730e4839a57ca20d1d62b"
+      },
       "release_date": "2003-01-01",
       "popularity": 5
     },
     {
-      "trackId": "1uRKT2LRANv4baowBWHfDS",
-      "name": "(We're Gonna) Rock Around The Clock",
+      "track": {
+        "id": "1uRKT2LRANv4baowBWHfDS",
+        "name": "(We're Gonna) Rock Around The Clock"
+      },
       "duration_ms": 129893,
-      "artist": [
-        "Bill Haley & His Comets"
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "id": "3MFp4cYuYtTZe3d3xkLLbr"
+        }
       ],
-      "artistId": [
-        "3MFp4cYuYtTZe3d3xkLLbr"
-      ],
-      "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
+      "album": {
+        "id": "2vB7uVHcRU4dmHeFQCTkSK",
+        "name": "Rock Around The Clock",
+        "img": "https://i.scdn.co/image/ab67616d00001e029060a2c0a01366ee03274597"
+      },
       "release_date": "1955-12-19",
       "popularity": 66
     },
     {
-      "trackId": "4wr2HgyYMvJourcfOMzPCb",
-      "name": "Polisen",
+      "track": {
+        "id": "4wr2HgyYMvJourcfOMzPCb",
+        "name": "Polisen"
+      },
       "duration_ms": 154433,
-      "artist": [
-        "Ringnes-Ronny"
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "id": "4TNb6OInXahdseLnzAY1eL"
+        }
       ],
-      "artistId": [
-        "4TNb6OInXahdseLnzAY1eL"
-      ],
-      "albumId": "4dVz4LIb33QKCJoxQPYyNL",
+      "album": {
+        "id": "4dVz4LIb33QKCJoxQPYyNL",
+        "name": "Polisen",
+        "img": "https://i.scdn.co/image/ab67616d00001e023899e6080651b0c9dfd300c6"
+      },
       "release_date": "2021-04-09",
       "popularity": 60
     },
     {
-      "trackId": "0G3SZJNTdHJAmXCOTZxaT0",
-      "name": "Uppmuntran",
+      "track": {
+        "id": "0G3SZJNTdHJAmXCOTZxaT0",
+        "name": "Uppmuntran"
+      },
       "duration_ms": 183300,
-      "artist": [
-        "Wolf Biermann",
-        "Lena Granhagen"
+      "artists": [
+        {
+          "name": "Wolf Biermann",
+          "id": "6DnJnXNndN4xnoL1LN2lEx"
+        },
+        {
+          "name": "Lena Granhagen",
+          "id": "2j5g9dSctysNgUQhLzKhEN"
+        }
       ],
-      "artistId": [
-        "6DnJnXNndN4xnoL1LN2lEx",
-        "2j5g9dSctysNgUQhLzKhEN"
-      ],
-      "albumId": "6yU7zgFQFz31ke10bTVHNf",
+      "album": {
+        "id": "6yU7zgFQFz31ke10bTVHNf",
+        "name": "Lena Granhagen sjunger Theodorakis & Biermann",
+        "img": "https://i.scdn.co/image/ab67616d00001e025238e47e32fbabce5b8f698f"
+      },
       "release_date": "2014-04-01",
       "popularity": 9
     },
     {
-      "trackId": "30wWZkgDfUCugZlBiaDCax",
-      "name": "VAD E DE HÄR?",
+      "track": {
+        "id": "30wWZkgDfUCugZlBiaDCax",
+        "name": "VAD E DE HÄR?"
+      },
       "duration_ms": 161281,
-      "artist": [
-        "Jireel"
+      "artists": [
+        {
+          "name": "Jireel",
+          "id": "2EWsHDexsSInArfFkhA2i6"
+        }
       ],
-      "artistId": [
-        "2EWsHDexsSInArfFkhA2i6"
-      ],
-      "albumId": "7c5UGlBUaND72lQ8lMesHv",
+      "album": {
+        "id": "7c5UGlBUaND72lQ8lMesHv",
+        "name": "VAD E DE HÄR?",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242e727b60deacb5a9ccc1472"
+      },
       "release_date": "2022-07-15",
       "popularity": 59
     },
     {
-      "trackId": "5dXdy6YR6lxxC3GxBZcRWv",
-      "name": "Turistens klagan",
+      "track": {
+        "id": "5dXdy6YR6lxxC3GxBZcRWv",
+        "name": "Turistens klagan"
+      },
       "duration_ms": 200400,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "10znRN0s0flCvHfoSYPUzA",
+      "album": {
+        "id": "10znRN0s0flCvHfoSYPUzA",
+        "name": "Turistens klagan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfe8deb32bd4dbe31d35b0be"
+      },
       "release_date": "1980",
       "popularity": 48
     },
     {
-      "trackId": "0yxU21ecIK43OvBh4apONo",
-      "name": "Solito (Lonely) [feat. Nicky Jam & Akon]",
+      "track": {
+        "id": "0yxU21ecIK43OvBh4apONo",
+        "name": "Solito (Lonely) [feat. Nicky Jam & Akon]"
+      },
       "duration_ms": 230126,
-      "artist": [
-        "Messiah",
-        "Akon",
-        "Nicky Jam"
+      "artists": [
+        {
+          "name": "Messiah",
+          "id": "0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "Akon",
+          "id": "0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Nicky Jam",
+          "id": "1SupJlEpv7RS2tPNRaHViT"
+        }
       ],
-      "artistId": [
-        "0tR60pwxQ5WKjPxQcKoCQ7",
-        "0z4gvV4rjIZ9wHck67ucSV",
-        "1SupJlEpv7RS2tPNRaHViT"
-      ],
-      "albumId": "099rrpTXO9dnWvCminidQi",
+      "album": {
+        "id": "099rrpTXO9dnWvCminidQi",
+        "name": "Solito (Lonely) [feat. Nicky Jam & Akon]",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b5e63d878d4b18ed356f581"
+      },
       "release_date": "2019-12-06",
       "popularity": 43
     },
     {
-      "trackId": "1ecJdAizaDklfgCVtEUQsG",
-      "name": "Vill ha dig",
+      "track": {
+        "id": "1ecJdAizaDklfgCVtEUQsG",
+        "name": "Vill ha dig"
+      },
       "duration_ms": 215560,
-      "artist": [
-        "Freestyle"
+      "artists": [
+        {
+          "name": "Freestyle",
+          "id": "7fGejcqwbdfn47UP7NcdUt"
+        }
       ],
-      "artistId": [
-        "7fGejcqwbdfn47UP7NcdUt"
-      ],
-      "albumId": "2trJEF3hUbTvOC0p3bysMU",
+      "album": {
+        "id": "2trJEF3hUbTvOC0p3bysMU",
+        "name": "Guldkorn Den Kompletta Samlingen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc36ee35a5b06482391dfbfd"
+      },
       "release_date": "1998-03-16",
       "popularity": 50
     },
     {
-      "trackId": "5kSXpRYkgW86KMfdOJCHkw",
-      "name": "CHA CHA CHA",
+      "track": {
+        "id": "5kSXpRYkgW86KMfdOJCHkw",
+        "name": "CHA CHA CHA"
+      },
       "duration_ms": 130800,
-      "artist": [
-        "VSA 051"
+      "artists": [
+        {
+          "name": "VSA 051",
+          "id": "5xSCLop6zLun9viuTYOrrx"
+        }
       ],
-      "artistId": [
-        "5xSCLop6zLun9viuTYOrrx"
-      ],
-      "albumId": "1ss9CpD52N4pu2UNt2WHcy",
+      "album": {
+        "id": "1ss9CpD52N4pu2UNt2WHcy",
+        "name": "CHA CHA CHA",
+        "img": "https://i.scdn.co/image/ab67616d00001e023dc816648c1d5f657676425c"
+      },
       "release_date": "2022-06-24",
       "popularity": 35
     },
     {
-      "trackId": "6dZKWYSx5YBIme4SfpIHJ0",
-      "name": "In the Mood",
+      "track": {
+        "id": "6dZKWYSx5YBIme4SfpIHJ0",
+        "name": "In the Mood"
+      },
       "duration_ms": 211586,
-      "artist": [
-        "Glenn Miller"
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "id": "2aAHdB5HweT3mFcRzm0swc"
+        }
       ],
-      "artistId": [
-        "2aAHdB5HweT3mFcRzm0swc"
-      ],
-      "albumId": "7GiFhLj7OY98QpRwmlVUl8",
+      "album": {
+        "id": "7GiFhLj7OY98QpRwmlVUl8",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3644583af503ce72dfa4673"
+      },
       "release_date": "1996-04-14",
       "popularity": 56
     },
     {
-      "trackId": "138Kyvy2Zuafe3gt7fyaD4",
-      "name": "On The Sunny Side Of The Street",
+      "track": {
+        "id": "138Kyvy2Zuafe3gt7fyaD4",
+        "name": "On The Sunny Side Of The Street"
+      },
       "duration_ms": 350493,
-      "artist": [
-        "Louis Armstrong",
-        "Sy Oliver's Orchestra"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "id": "3gXg2za1fqp8wAPZr4jSeY"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek",
-        "3gXg2za1fqp8wAPZr4jSeY"
-      ],
-      "albumId": "1z3T9KhIbOb7k2sBVCsn6p",
+      "album": {
+        "id": "1z3T9KhIbOb7k2sBVCsn6p",
+        "name": "The Best Of The Decca Years Volume One: The Singer",
+        "img": "https://i.scdn.co/image/ab67616d00001e026555e6252a13f769b1bfe082"
+      },
       "release_date": "1989-01-01",
       "popularity": 40
     },
     {
-      "trackId": "0vaiFSYWi4dZxaqpxxVzCs",
-      "name": "Ein deutsches Requiem, Op. 45: 5. \"Ihr habt nun Traurigkeit\"",
+      "track": {
+        "id": "0vaiFSYWi4dZxaqpxxVzCs",
+        "name": "Ein deutsches Requiem, Op. 45: 5. \"Ihr habt nun Traurigkeit\""
+      },
       "duration_ms": 499253,
-      "artist": [
-        "Johannes Brahms",
-        "Kiri Te Kanawa",
-        "Chicago Symphony Chorus"
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "id": "5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "id": "3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Chicago Symphony Chorus",
+          "id": "18PZhbpywoKUnS1nCmXIPK"
+        }
       ],
-      "artistId": [
-        "5wTAi7QkpP6kp8a54lmTOq",
-        "3fcsflK8xu26XH4OYTcm5T",
-        "18PZhbpywoKUnS1nCmXIPK"
-      ],
-      "albumId": "4zqtZ8uDOrhSL0Yi2CYne4",
+      "album": {
+        "id": "4zqtZ8uDOrhSL0Yi2CYne4",
+        "name": "Kiri - A Portrait",
+        "img": "https://i.scdn.co/image/ab67616d00001e020d941f15ae2263ee47e87d30"
+      },
       "release_date": "1999-01-01",
       "popularity": 2
     },
     {
-      "trackId": "16HP3xlxKA3uQqREAsjA1X",
-      "name": "String Quartet No. 2 in D Major: III. Notturno: Andante",
+      "track": {
+        "id": "16HP3xlxKA3uQqREAsjA1X",
+        "name": "String Quartet No. 2 in D Major: III. Notturno: Andante"
+      },
       "duration_ms": 506266,
-      "artist": [
-        "Alexander Borodin",
-        "Budapest Haydn Quartet"
+      "artists": [
+        {
+          "name": "Alexander Borodin",
+          "id": "34MYamymtmnsmpwbqydd7I"
+        },
+        {
+          "name": "Budapest Haydn Quartet",
+          "id": "6kql0N3sgt0Xy8foYid0qG"
+        }
       ],
-      "artistId": [
-        "34MYamymtmnsmpwbqydd7I",
-        "6kql0N3sgt0Xy8foYid0qG"
-      ],
-      "albumId": "4DK7pKVcQ3gDZ9mVt97S04",
+      "album": {
+        "id": "4DK7pKVcQ3gDZ9mVt97S04",
+        "name": "BORODIN: String Quartets Nos. 1 and 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e026d25a1649f25ad50ba170d3d"
+      },
       "release_date": "1994-10-24",
       "popularity": 42
     },
     {
-      "trackId": "3qYUe1nOesjv2RNCHdAG60",
-      "name": "Här är jag",
+      "track": {
+        "id": "3qYUe1nOesjv2RNCHdAG60",
+        "name": "Här är jag"
+      },
       "duration_ms": 176653,
-      "artist": [
-        "Babblarna"
+      "artists": [
+        {
+          "name": "Babblarna",
+          "id": "1aA5OGASCVhznQYm71BMYg"
+        }
       ],
-      "artistId": [
-        "1aA5OGASCVhznQYm71BMYg"
-      ],
-      "albumId": "4UJNmi54rOAergmdb546OD",
+      "album": {
+        "id": "4UJNmi54rOAergmdb546OD",
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230040d3f0ae79c0023365cf4"
+      },
       "release_date": "2015-01-01",
       "popularity": 50
     },
     {
-      "trackId": "1gGGoz5wAJHFeqCQV5aF9t",
-      "name": "Annas visa",
+      "track": {
+        "id": "1gGGoz5wAJHFeqCQV5aF9t",
+        "name": "Annas visa"
+      },
       "duration_ms": 216400,
-      "artist": [
-        "Orsa Spelmän"
+      "artists": [
+        {
+          "name": "Orsa Spelmän",
+          "id": "2XmqtWcNsjq5XxlE6p5WrT"
+        }
       ],
-      "artistId": [
-        "2XmqtWcNsjq5XxlE6p5WrT"
-      ],
-      "albumId": "6YZ9mrbWtzKtqL560P1q9a",
+      "album": {
+        "id": "6YZ9mrbWtzKtqL560P1q9a",
+        "name": "Ödra",
+        "img": "https://i.scdn.co/image/ab67616d00001e024de032534f0e9c4d6071e49e"
+      },
       "release_date": "1997-01-01",
       "popularity": 13
     },
     {
-      "trackId": "1hCq2lgpG0YCB3JHMk4rRm",
-      "name": "Karusellen",
+      "track": {
+        "id": "1hCq2lgpG0YCB3JHMk4rRm",
+        "name": "Karusellen"
+      },
       "duration_ms": 35613,
-      "artist": [
-        "Julia Kedhammar"
+      "artists": [
+        {
+          "name": "Julia Kedhammar",
+          "id": "24JKr8xzxciKUmpx8fu8AY"
+        }
       ],
-      "artistId": [
-        "24JKr8xzxciKUmpx8fu8AY"
-      ],
-      "albumId": "6fTPXdngVF6VHQsiErDKvs",
+      "album": {
+        "id": "6fTPXdngVF6VHQsiErDKvs",
+        "name": "Barnens skattkammare",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0681a1c59e7f6e1e4b6d713"
+      },
       "release_date": "2010",
       "popularity": 25
     },
     {
-      "trackId": "1M9qeUdtOUzN8N4jQqKVit",
-      "name": "Fredagsfeeling",
+      "track": {
+        "id": "1M9qeUdtOUzN8N4jQqKVit",
+        "name": "Fredagsfeeling"
+      },
       "duration_ms": 156600,
-      "artist": [
-        "Grannen Måns"
+      "artists": [
+        {
+          "name": "Grannen Måns",
+          "id": "1GOGNYD5gumMX6VHfZGXuJ"
+        }
       ],
-      "artistId": [
-        "1GOGNYD5gumMX6VHfZGXuJ"
-      ],
-      "albumId": "5eqgNGarAvtcrLieGPdLkZ",
+      "album": {
+        "id": "5eqgNGarAvtcrLieGPdLkZ",
+        "name": "Fredagsfeeling",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289f89a3eeb661a8251fa3d39"
+      },
       "release_date": "2021-07-02",
       "popularity": 45
     },
     {
-      "trackId": "52CMUloaeI0IH6AouN8iUS",
-      "name": "Grönt Är Skönt",
+      "track": {
+        "id": "52CMUloaeI0IH6AouN8iUS",
+        "name": "Grönt Är Skönt"
+      },
       "duration_ms": 102500,
-      "artist": [
-        "Bolibompa",
-        "Bjorn Palmberg"
+      "artists": [
+        {
+          "name": "Bolibompa",
+          "id": "07hev1VgT4pc6wCrapuyZZ"
+        },
+        {
+          "name": "Bjorn Palmberg",
+          "id": "3j7jPxUZFXXwVTvPtc7kKP"
+        }
       ],
-      "artistId": [
-        "07hev1VgT4pc6wCrapuyZZ",
-        "3j7jPxUZFXXwVTvPtc7kKP"
-      ],
-      "albumId": "3fGJyIx6isLG0ypJ5Vo8LZ",
+      "album": {
+        "id": "3fGJyIx6isLG0ypJ5Vo8LZ",
+        "name": "Bolibompa",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a233b8928e87b434ac6eb2e"
+      },
       "release_date": "2017-04-25",
       "popularity": 36
     }

@@ -7,242 +7,354 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300208_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0DH1t1okrWeTD1H7sWaFmp",
-      "name": "Red Dirt Girl",
+      "track": {
+        "id": "0DH1t1okrWeTD1H7sWaFmp",
+        "name": "Red Dirt Girl"
+      },
       "duration_ms": 186400,
-      "artist": [
-        "Jill Johnson",
-        "Kakan Hermansson"
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "id": "2aaGbpl5Y2ykZsNFZM6ofw"
+        },
+        {
+          "name": "Kakan Hermansson",
+          "id": "2HPMIleOXK4D7wgEPGOyrn"
+        }
       ],
-      "artistId": [
-        "2aaGbpl5Y2ykZsNFZM6ofw",
-        "2HPMIleOXK4D7wgEPGOyrn"
-      ],
-      "albumId": "0mcRytaCKZai9Mw9ljdVyp",
+      "album": {
+        "id": "0mcRytaCKZai9Mw9ljdVyp",
+        "name": "Livemusiken från Jills Veranda Nashville",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ce2352d34d3dcb9e07214cc0"
+      },
       "release_date": "2014-04-09",
       "popularity": 14
     },
     {
-      "trackId": "4Vd5YrqhRiDJuwkvgx3OoL",
-      "name": "Stockholmsnatt",
+      "track": {
+        "id": "4Vd5YrqhRiDJuwkvgx3OoL",
+        "name": "Stockholmsnatt"
+      },
       "duration_ms": 148636,
-      "artist": [
-        "Lov1"
+      "artists": [
+        {
+          "name": "Lov1",
+          "id": "2kSCHFK5uErN4BO7IkTrHK"
+        }
       ],
-      "artistId": [
-        "2kSCHFK5uErN4BO7IkTrHK"
-      ],
-      "albumId": "0uaUl2w6pPZtM3AtZNxLF2",
+      "album": {
+        "id": "0uaUl2w6pPZtM3AtZNxLF2",
+        "name": "Profeterna på Balkongen",
+        "img": "https://i.scdn.co/image/ab67616d00001e023eca4b1cc0a3fbcc5912966f"
+      },
       "release_date": "2022-02-14",
       "popularity": 52
     },
     {
-      "trackId": "6BG00qlioCB6wuPdeEImmF",
-      "name": "Svär på min mamma",
+      "track": {
+        "id": "6BG00qlioCB6wuPdeEImmF",
+        "name": "Svär på min mamma"
+      },
       "duration_ms": 208487,
-      "artist": [
-        "Silvana Imam"
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "id": "14vNE9iqS5eGAL6OogiN8g"
+        }
       ],
-      "artistId": [
-        "14vNE9iqS5eGAL6OogiN8g"
-      ],
-      "albumId": "0eEXNNdFCeH6H08kO3kgIm",
+      "album": {
+        "id": "0eEXNNdFCeH6H08kO3kgIm",
+        "name": "Svär på min mamma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02505b00c7bd70fbfab22a9636"
+      },
       "release_date": "2014-05-16",
       "popularity": 29
     },
     {
-      "trackId": "77k92KHLWDI5VR3V1iVUCY",
-      "name": "Nothing Like This",
+      "track": {
+        "id": "77k92KHLWDI5VR3V1iVUCY",
+        "name": "Nothing Like This"
+      },
       "duration_ms": 154373,
-      "artist": [
-        "J Dilla"
+      "artists": [
+        {
+          "name": "J Dilla",
+          "id": "0IVcLMMbm05VIjnzPkGCyp"
+        }
       ],
-      "artistId": [
-        "0IVcLMMbm05VIjnzPkGCyp"
-      ],
-      "albumId": "4MCPd6AmA6xfmmggVgtUmP",
+      "album": {
+        "id": "4MCPd6AmA6xfmmggVgtUmP",
+        "name": "Ruff Draft (Dilla's Mix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027db191d99e123796e6cc94d5"
+      },
       "release_date": "2018-04-20",
       "popularity": 33
     },
     {
-      "trackId": "5ZY9x3X2CujeJc59pJ9EUV",
-      "name": "I Got Five On It Remix",
+      "track": {
+        "id": "5ZY9x3X2CujeJc59pJ9EUV",
+        "name": "I Got Five On It Remix"
+      },
       "duration_ms": 254560,
-      "artist": [
-        "Spice 1",
-        "Luniz",
-        "E-40"
+      "artists": [
+        {
+          "name": "Spice 1",
+          "id": "4TqmaFJYM8SvuhrunxpmT3"
+        },
+        {
+          "name": "Luniz",
+          "id": "3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "E-40",
+          "id": "3crnzLy8R4lVwaigKEOz7V"
+        }
       ],
-      "artistId": [
-        "4TqmaFJYM8SvuhrunxpmT3",
-        "3z3g65U7mmyyBmmDfsQK9x",
-        "3crnzLy8R4lVwaigKEOz7V"
-      ],
-      "albumId": "7gmZpkLxeMfp38nu0ApQbP",
+      "album": {
+        "id": "7gmZpkLxeMfp38nu0ApQbP",
+        "name": "Hits II",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220564558636b133b95c81889"
+      },
       "release_date": "2001-11-13",
       "popularity": 54
     },
     {
-      "trackId": "0PIXeBuPkFCpV0zAhLROoS",
-      "name": "Knäpper mina fingrar - Remix",
+      "track": {
+        "id": "0PIXeBuPkFCpV0zAhLROoS",
+        "name": "Knäpper mina fingrar - Remix"
+      },
       "duration_ms": 263021,
-      "artist": [
-        "Linda Pira",
-        "Kumba",
-        "ROSH"
+      "artists": [
+        {
+          "name": "Linda Pira",
+          "id": "0qeei9KQnptjwb8MgkqEoy"
+        },
+        {
+          "name": "Kumba",
+          "id": "0GD2LYGX4nMj9F84HsIWp1"
+        },
+        {
+          "name": "ROSH",
+          "id": "739zjStIc6EHrV5thshKkp"
+        }
       ],
-      "artistId": [
-        "0qeei9KQnptjwb8MgkqEoy",
-        "0GD2LYGX4nMj9F84HsIWp1",
-        "739zjStIc6EHrV5thshKkp"
-      ],
-      "albumId": "3SqGWXewLT9SsdQRvFYJeQ",
+      "album": {
+        "id": "3SqGWXewLT9SsdQRvFYJeQ",
+        "name": "Knäpper mina fingrar (Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02adab23ca52e28f96d972ec3c"
+      },
       "release_date": "2014-01-01",
       "popularity": 34
     },
     {
-      "trackId": "6wafqF12CJR0HCiUm4MUbR",
-      "name": "Catholic Girls",
+      "track": {
+        "id": "6wafqF12CJR0HCiUm4MUbR",
+        "name": "Catholic Girls"
+      },
       "duration_ms": 259000,
-      "artist": [
-        "Frank Zappa"
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "id": "6ra4GIOgCZQZMOaUECftGN"
+        }
       ],
-      "artistId": [
-        "6ra4GIOgCZQZMOaUECftGN"
-      ],
-      "albumId": "6uJkCskko3O83SRYWQVsjS",
+      "album": {
+        "id": "6uJkCskko3O83SRYWQVsjS",
+        "name": "Joe's Garage Acts I, II & III",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa7ac662f49e6ac185cba6be"
+      },
       "release_date": "1979-09-17",
       "popularity": 38
     },
     {
-      "trackId": "3dNv3OuX6ol9si6PZ9KSAh",
-      "name": "Mama",
+      "track": {
+        "id": "3dNv3OuX6ol9si6PZ9KSAh",
+        "name": "Mama"
+      },
       "duration_ms": 304960,
-      "artist": [
-        "Spice Girls"
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "id": "0uq5PttqEjj3IH1bzwcrXF"
+        }
       ],
-      "artistId": [
-        "0uq5PttqEjj3IH1bzwcrXF"
-      ],
-      "albumId": "3x2jF7blR6bFHtk4MccsyJ",
+      "album": {
+        "id": "3x2jF7blR6bFHtk4MccsyJ",
+        "name": "Spice",
+        "img": "https://i.scdn.co/image/ab67616d00001e0263facc42e4a35eb3aa182b59"
+      },
       "release_date": "1996-01-01",
       "popularity": 57
     },
     {
-      "trackId": "0QVlQTzp10Tj4Xql9ZRJzo",
-      "name": "Rooms on Fire",
+      "track": {
+        "id": "0QVlQTzp10Tj4Xql9ZRJzo",
+        "name": "Rooms on Fire"
+      },
       "duration_ms": 274520,
-      "artist": [
-        "Stevie Nicks"
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "id": "7crPfGd2k81ekOoSqQKWWz"
+        }
       ],
-      "artistId": [
-        "7crPfGd2k81ekOoSqQKWWz"
-      ],
-      "albumId": "520iW3fXcWW5mbQToP0hs0",
+      "album": {
+        "id": "520iW3fXcWW5mbQToP0hs0",
+        "name": "The Other Side of the Mirror",
+        "img": "https://i.scdn.co/image/ab67616d00001e02edb5a0f6ec2698f4f05429b8"
+      },
       "release_date": "1989-05-09",
       "popularity": 56
     },
     {
-      "trackId": "4e3uIsTrecQ3UQqmagDssN",
-      "name": "Nazi",
+      "track": {
+        "id": "4e3uIsTrecQ3UQqmagDssN",
+        "name": "Nazi"
+      },
       "duration_ms": 92213,
-      "artist": [
-        "Chumbawamba"
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "id": "0TcYeHEK9sBtv7xPbKhzHz"
+        }
       ],
-      "artistId": [
-        "0TcYeHEK9sBtv7xPbKhzHz"
-      ],
-      "albumId": "2ooEdh7g9suLBxKudlxyQY",
+      "album": {
+        "id": "2ooEdh7g9suLBxKudlxyQY",
+        "name": "Showbusiness (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c63a367335f39532c1c2b857"
+      },
       "release_date": "1995-05-01",
       "popularity": 24
     },
     {
-      "trackId": "6rLrgNqnPYw3MTY8pA72UK",
-      "name": "I'm In Love",
+      "track": {
+        "id": "6rLrgNqnPYw3MTY8pA72UK",
+        "name": "I'm In Love"
+      },
       "duration_ms": 240455,
-      "artist": [
-        "Zhala"
+      "artists": [
+        {
+          "name": "Zhala",
+          "id": "2vI70V5Tc6jB3d2uzb2UEA"
+        }
       ],
-      "artistId": [
-        "2vI70V5Tc6jB3d2uzb2UEA"
-      ],
-      "albumId": "089PnbYDB3sb2SAePp6Fxu",
+      "album": {
+        "id": "089PnbYDB3sb2SAePp6Fxu",
+        "name": "Zhala",
+        "img": "https://i.scdn.co/image/ab67616d00001e02935662a432bbd8c45abbdd70"
+      },
       "release_date": "2015-05-25",
       "popularity": 18
     },
     {
-      "trackId": "6CHENx8iqzMwavTIz8s0gm",
-      "name": "Violet",
+      "track": {
+        "id": "6CHENx8iqzMwavTIz8s0gm",
+        "name": "Violet"
+      },
       "duration_ms": 204933,
-      "artist": [
-        "Hole"
+      "artists": [
+        {
+          "name": "Hole",
+          "id": "5SHQUMAmEK5KmuSb0aDvsn"
+        }
       ],
-      "artistId": [
-        "5SHQUMAmEK5KmuSb0aDvsn"
-      ],
-      "albumId": "2Rwf2nPYZQ9aIe4QXACTC7",
+      "album": {
+        "id": "2Rwf2nPYZQ9aIe4QXACTC7",
+        "name": "Live Through This",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be245e5b673371e6f95b19e2"
+      },
       "release_date": "1994-01-01",
       "popularity": 62
     },
     {
-      "trackId": "0JN7vUgUolHGHFrOR8xk7S",
-      "name": "When You Believe - from The Prince of Egypt",
+      "track": {
+        "id": "0JN7vUgUolHGHFrOR8xk7S",
+        "name": "When You Believe - from The Prince of Egypt"
+      },
       "duration_ms": 272893,
-      "artist": [
-        "Whitney Houston",
-        "Mariah Carey"
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "id": "6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+        }
       ],
-      "artistId": [
-        "6XpaIBNiVzIetEPCWDvAFP",
-        "4iHNK0tOyZPYnBU7nGAgpQ"
-      ],
-      "albumId": "00NABajpGsPCObfcl4LJsM",
+      "album": {
+        "id": "00NABajpGsPCObfcl4LJsM",
+        "name": "My Love Is Your Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284b84d08fdbaebb99098890c"
+      },
       "release_date": "1998-11-17",
       "popularity": 65
     },
     {
-      "trackId": "3qoNfdRBxgwDXbnEuC4ox4",
-      "name": "Molotov Cocktail Party",
+      "track": {
+        "id": "3qoNfdRBxgwDXbnEuC4ox4",
+        "name": "Molotov Cocktail Party"
+      },
       "duration_ms": 180733,
-      "artist": [
-        "Candysuck"
+      "artists": [
+        {
+          "name": "Candysuck",
+          "id": "76rolZnknit3D9l1zYuLTS"
+        }
       ],
-      "artistId": [
-        "76rolZnknit3D9l1zYuLTS"
-      ],
-      "albumId": "1zS0lrxIHlObnWkKGyscxF",
+      "album": {
+        "id": "1zS0lrxIHlObnWkKGyscxF",
+        "name": "Kill Your Boyfriend?!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216570026cddbd3b0952f3acb"
+      },
       "release_date": "1995-02-01",
       "popularity": 7
     },
     {
-      "trackId": "0rsLFyquB0HEXcL7ePgza9",
-      "name": "Remember",
+      "track": {
+        "id": "0rsLFyquB0HEXcL7ePgza9",
+        "name": "Remember"
+      },
       "duration_ms": 262466,
-      "artist": [
-        "Christian Falk",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Christian Falk",
+          "id": "7pxzXxDHEmvBIBMcYJy6Nh"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "7pxzXxDHEmvBIBMcYJy6Nh",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "45lQJVmzT9oDi6lKLg5uha",
+      "album": {
+        "id": "45lQJVmzT9oDi6lKLg5uha",
+        "name": "Quel Bordel",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3dfffa9e439ff0657fbbc9c"
+      },
       "release_date": "1999-01-29",
       "popularity": 26
     },
     {
-      "trackId": "1liZ6b5Pb9MImC8Ia2v7qE",
-      "name": "Pete x Bas x Fumez the Engineer - Plugged In",
+      "track": {
+        "id": "1liZ6b5Pb9MImC8Ia2v7qE",
+        "name": "Pete x Bas x Fumez the Engineer - Plugged In"
+      },
       "duration_ms": 249931,
-      "artist": [
-        "Fumez The Engineer",
-        "Pete & Bas"
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "id": "0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "Pete & Bas",
+          "id": "4if49KlQEdVNk97CQYSFvt"
+        }
       ],
-      "artistId": [
-        "0ksX396B3t2Gt8kwr0BJZk",
-        "4if49KlQEdVNk97CQYSFvt"
-      ],
-      "albumId": "1p8SKa7Py4sdUvcOtxGsRl",
+      "album": {
+        "id": "1p8SKa7Py4sdUvcOtxGsRl",
+        "name": "Pete x Bas x Fumez the Engineer - Plugged In",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7709330967cf89c6d5327e6"
+      },
       "release_date": "2021-04-10",
       "popularity": 55
     }

@@ -7,198 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ae2fbbaa-49bc-44ab-b1e1-0343e7e2f283.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "40LHlo3yP8lieHoqslpq2A",
-      "name": "Familjelycka",
+      "track": {
+        "id": "40LHlo3yP8lieHoqslpq2A",
+        "name": "Familjelycka"
+      },
       "duration_ms": 194360,
-      "artist": [
-        "Bernt Staf"
+      "artists": [
+        {
+          "name": "Bernt Staf",
+          "id": "51qCcetCtThTLWrPh7jAue"
+        }
       ],
-      "artistId": [
-        "51qCcetCtThTLWrPh7jAue"
-      ],
-      "albumId": "3hPaLm6rT12IaxUMdYrcOz",
+      "album": {
+        "id": "3hPaLm6rT12IaxUMdYrcOz",
+        "name": "När dimman lättar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02506fb44e9831fefaa7b78dae"
+      },
       "release_date": "1970",
       "popularity": 32
     },
     {
-      "trackId": "1maiL4wqQgZA8AXghTC4wc",
-      "name": "Funny Familiar Forgotten Feelings (Karaoke Version) [Originally Performed By Engelbert Humperdinck]",
+      "track": {
+        "id": "1maiL4wqQgZA8AXghTC4wc",
+        "name": "Funny Familiar Forgotten Feelings (Karaoke Version) [Originally Performed By Engelbert Humperdinck]"
+      },
       "duration_ms": 176143,
-      "artist": [
-        "Karaoke Diamonds"
+      "artists": [
+        {
+          "name": "Karaoke Diamonds",
+          "id": "3J16YwU6nMj1NbGi7LpZNv"
+        }
       ],
-      "artistId": [
-        "3J16YwU6nMj1NbGi7LpZNv"
-      ],
-      "albumId": "5FRRJD0NKKA0fjy5pqlGDl",
+      "album": {
+        "id": "5FRRJD0NKKA0fjy5pqlGDl",
+        "name": "Curated Karaoke, Vol. 25",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7c91388d864b9b0aa74c6e3"
+      },
       "release_date": "2017-11-04",
       "popularity": 0
     },
     {
-      "trackId": "1gqQQNI0tltOx6oVoURyi8",
-      "name": "(Dansar inte lika bra som) Sjömän",
+      "track": {
+        "id": "1gqQQNI0tltOx6oVoURyi8",
+        "name": "(Dansar inte lika bra som) Sjömän"
+      },
       "duration_ms": 154333,
-      "artist": [
-        "Gyllene Tider"
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "id": "0FINyNBXqnTlRC4dvpSeSb"
+        }
       ],
-      "artistId": [
-        "0FINyNBXqnTlRC4dvpSeSb"
-      ],
-      "albumId": "7wI5tvSzZ3tOzpFROFHuxP",
+      "album": {
+        "id": "7wI5tvSzZ3tOzpFROFHuxP",
+        "name": "Gyllene Tider",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d3042cb357eebb2a082c929"
+      },
       "release_date": "1980-02-18",
       "popularity": 34
     },
     {
-      "trackId": "5lwNxSGrgZLBRmZGFXRmvc",
-      "name": "When I Was Young",
+      "track": {
+        "id": "5lwNxSGrgZLBRmZGFXRmvc",
+        "name": "When I Was Young"
+      },
       "duration_ms": 181666,
-      "artist": [
-        "Eric Burdon & the Animals"
+      "artists": [
+        {
+          "name": "Eric Burdon & the Animals",
+          "id": "70tMW5bZT3TJUa1CWtfVkq"
+        }
       ],
-      "artistId": [
-        "70tMW5bZT3TJUa1CWtfVkq"
-      ],
-      "albumId": "1ZfigZJY8LaR2jKE4ZDOyB",
+      "album": {
+        "id": "1ZfigZJY8LaR2jKE4ZDOyB",
+        "name": "Demolition (Music From The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02554f355f6f4ef6853e847aeb"
+      },
       "release_date": "2016-01-01",
       "popularity": 46
     },
     {
-      "trackId": "5mE5d5DS5d5ewLKHAsLTnP",
-      "name": "I Call Your Name",
+      "track": {
+        "id": "5mE5d5DS5d5ewLKHAsLTnP",
+        "name": "I Call Your Name"
+      },
       "duration_ms": 214960,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "6i7W0gxKtP4pIL3bVCFqAw",
+      "album": {
+        "id": "6i7W0gxKtP4pIL3bVCFqAw",
+        "name": "Pearls Of Passion (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8d6d7821d884f2dd76e3b8e"
+      },
       "release_date": "1986-11-24",
       "popularity": 31
     },
     {
-      "trackId": "4lJ6YVXQ0jUk5ILu0PSrA4",
-      "name": "Ooh La La",
+      "track": {
+        "id": "4lJ6YVXQ0jUk5ILu0PSrA4",
+        "name": "Ooh La La"
+      },
       "duration_ms": 214080,
-      "artist": [
-        "Faces"
+      "artists": [
+        {
+          "name": "Faces",
+          "id": "3v4feUQnU3VEUqFrjmtekL"
+        }
       ],
-      "artistId": [
-        "3v4feUQnU3VEUqFrjmtekL"
-      ],
-      "albumId": "4eTVgxB6wm5eGvesA4cUN5",
+      "album": {
+        "id": "4eTVgxB6wm5eGvesA4cUN5",
+        "name": "Ooh La La",
+        "img": "https://i.scdn.co/image/ab67616d00001e02416f18056ac5d7281d8a5878"
+      },
       "release_date": "1973",
       "popularity": 71
     },
     {
-      "trackId": "4XMlBAYzZdu3duuLDmTQez",
-      "name": "It Must Have Been Love (Christmas for the Broken Hearted)",
+      "track": {
+        "id": "4XMlBAYzZdu3duuLDmTQez",
+        "name": "It Must Have Been Love (Christmas for the Broken Hearted)"
+      },
       "duration_ms": 287826,
-      "artist": [
-        "Roxette"
+      "artists": [
+        {
+          "name": "Roxette",
+          "id": "2SHhfs4BiDxGQ3oxqf0UHY"
+        }
       ],
-      "artistId": [
-        "2SHhfs4BiDxGQ3oxqf0UHY"
-      ],
-      "albumId": "6i7W0gxKtP4pIL3bVCFqAw",
+      "album": {
+        "id": "6i7W0gxKtP4pIL3bVCFqAw",
+        "name": "Pearls Of Passion (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8d6d7821d884f2dd76e3b8e"
+      },
       "release_date": "1986-11-24",
       "popularity": 37
     },
     {
-      "trackId": "6XxM35nj2R7YY6B4ut3VPv",
-      "name": "Jag har vandrat mina stigar",
+      "track": {
+        "id": "6XxM35nj2R7YY6B4ut3VPv",
+        "name": "Jag har vandrat mina stigar"
+      },
       "duration_ms": 178080,
-      "artist": [
-        "Sven-Erik Magnusson"
+      "artists": [
+        {
+          "name": "Sven-Erik Magnusson",
+          "id": "1zY9LBwopPXdkNWIwZa0qn"
+        }
       ],
-      "artistId": [
-        "1zY9LBwopPXdkNWIwZa0qn"
-      ],
-      "albumId": "2P0X1Sa6Lh7MigFiGEUUyD",
+      "album": {
+        "id": "2P0X1Sa6Lh7MigFiGEUUyD",
+        "name": "Jag har vandrat mina stigar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0254614a23a45c3d146e4ecce7"
+      },
       "release_date": "1979",
       "popularity": 25
     },
     {
-      "trackId": "0A449X6twasfhYiCQVoOgA",
-      "name": "Pinball",
+      "track": {
+        "id": "0A449X6twasfhYiCQVoOgA",
+        "name": "Pinball"
+      },
       "duration_ms": 193453,
-      "artist": [
-        "Brian Protheroe"
+      "artists": [
+        {
+          "name": "Brian Protheroe",
+          "id": "1OtWnahLz9y3TjLuqS4gYp"
+        }
       ],
-      "artistId": [
-        "1OtWnahLz9y3TjLuqS4gYp"
-      ],
-      "albumId": "0TBLTQFMujFjkBUZa5HXVW",
+      "album": {
+        "id": "0TBLTQFMujFjkBUZa5HXVW",
+        "name": "Pinball",
+        "img": "https://i.scdn.co/image/ab67616d00001e0283a68b5cbe27b8ffdd41969d"
+      },
       "release_date": "1974-06-15",
       "popularity": 44
     },
     {
-      "trackId": "58zvkTcVYecJvk5fl44PyV",
-      "name": "Telegram Sam",
+      "track": {
+        "id": "58zvkTcVYecJvk5fl44PyV",
+        "name": "Telegram Sam"
+      },
       "duration_ms": 225773,
-      "artist": [
-        "T. Rex"
+      "artists": [
+        {
+          "name": "T. Rex",
+          "id": "3dBVyJ7JuOMt4GE9607Qin"
+        }
       ],
-      "artistId": [
-        "3dBVyJ7JuOMt4GE9607Qin"
-      ],
-      "albumId": "3Dg3quPRLDCsEqnzgPl6PE",
+      "album": {
+        "id": "3Dg3quPRLDCsEqnzgPl6PE",
+        "name": "The Slider",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205657aedd93e64aef6cf3973"
+      },
       "release_date": "1972-07-21",
       "popularity": 37
     },
     {
-      "trackId": "1ob06Ol8FMIPQgjpg7bMyk",
-      "name": "Doctor Robert - Remastered 2009",
+      "track": {
+        "id": "1ob06Ol8FMIPQgjpg7bMyk",
+        "name": "Doctor Robert - Remastered 2009"
+      },
       "duration_ms": 134266,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3PRoXYsngSwjEQWR5PsHWR",
+      "album": {
+        "id": "3PRoXYsngSwjEQWR5PsHWR",
+        "name": "Revolver (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a"
+      },
       "release_date": "1966-08-05",
       "popularity": 50
     },
     {
-      "trackId": "6EXOSA4BWBM1AUsXxKwYDT",
-      "name": "Send Me A Postcard",
+      "track": {
+        "id": "6EXOSA4BWBM1AUsXxKwYDT",
+        "name": "Send Me A Postcard"
+      },
       "duration_ms": 160826,
-      "artist": [
-        "Shocking Blue"
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "id": "5WimOFbBnCU5wI6t5PPpEk"
+        }
       ],
-      "artistId": [
-        "5WimOFbBnCU5wI6t5PPpEk"
-      ],
-      "albumId": "0JqylHtd5MjYXBG2zypr0T",
+      "album": {
+        "id": "0JqylHtd5MjYXBG2zypr0T",
+        "name": "Scorpio's Dance",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287ccf92830caf91617aa415e"
+      },
       "release_date": "1970",
       "popularity": 52
     },
     {
-      "trackId": "62kCBAGqnSREBzwk4Dh1YQ",
-      "name": "Pretty Dress",
+      "track": {
+        "id": "62kCBAGqnSREBzwk4Dh1YQ",
+        "name": "Pretty Dress"
+      },
       "duration_ms": 239773,
-      "artist": [
-        "Rosie Thomas"
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "id": "5Tw6OSRLoU7IHTO8kHGRQr"
+        }
       ],
-      "artistId": [
-        "5Tw6OSRLoU7IHTO8kHGRQr"
-      ],
-      "albumId": "5VjrAV4Cs0LIbHAI21DS5i",
+      "album": {
+        "id": "5VjrAV4Cs0LIbHAI21DS5i",
+        "name": "If Songs Could Be Held",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231a2a8b90bf6c6172aa1e35b"
+      },
       "release_date": "2005-09-13",
       "popularity": 15
     },
     {
-      "trackId": "6Y4TjH3wA2r76NML5BGASz",
-      "name": "Oslagbara!",
+      "track": {
+        "id": "6Y4TjH3wA2r76NML5BGASz",
+        "name": "Oslagbara!"
+      },
       "duration_ms": 226720,
-      "artist": [
-        "Niklas Strömstedt"
+      "artists": [
+        {
+          "name": "Niklas Strömstedt",
+          "id": "3nEiRzdQNmkUgoknNt9IRu"
+        }
       ],
-      "artistId": [
-        "3nEiRzdQNmkUgoknNt9IRu"
-      ],
-      "albumId": "0rLWlsFxSSInWFpl2RxeuL",
+      "album": {
+        "id": "0rLWlsFxSSInWFpl2RxeuL",
+        "name": "Halvvägs Till Framtiden",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289d9a0bef905b1a23622bebb"
+      },
       "release_date": "1992-03-15",
       "popularity": 45
     }

@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530980_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2j4HxCMrAf3QFnoKDoYxKf",
-      "name": "The Feeling Begins",
+      "track": {
+        "id": "2j4HxCMrAf3QFnoKDoYxKf",
+        "name": "The Feeling Begins"
+      },
       "duration_ms": 240920,
-      "artist": [
-        "Peter Gabriel"
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "id": "7C4sUpWGlTy7IANjruj02I"
+        }
       ],
-      "artistId": [
-        "7C4sUpWGlTy7IANjruj02I"
-      ],
-      "albumId": "3XMR1N1NkI2omA8YUfS3vU",
+      "album": {
+        "id": "3XMR1N1NkI2omA8YUfS3vU",
+        "name": "Passion (Music For The Last Temptation Of Christ / Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c657861a6bf13dd5b3e6181"
+      },
       "release_date": "1989-06-06",
       "popularity": 35
     },
     {
-      "trackId": "4jIzxaN8ICmIixU4gmeMZg",
-      "name": "Anywhere on This Road",
+      "track": {
+        "id": "4jIzxaN8ICmIixU4gmeMZg",
+        "name": "Anywhere on This Road"
+      },
       "duration_ms": 275640,
-      "artist": [
-        "Lhasa De Sela"
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "id": "3IbqRfvnvj5C22pHD38KXI"
+        }
       ],
-      "artistId": [
-        "3IbqRfvnvj5C22pHD38KXI"
-      ],
-      "albumId": "45GGSs0jmsNbIAesZ1Rkwp",
+      "album": {
+        "id": "45GGSs0jmsNbIAesZ1Rkwp",
+        "name": "The Living Road",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfee69e0b4938bfff2219b8f"
+      },
       "release_date": "2003-10-22",
       "popularity": 36
     },
     {
-      "trackId": "78MGDgPr7oThhxTIcrtApb",
-      "name": "Stay Alive",
+      "track": {
+        "id": "78MGDgPr7oThhxTIcrtApb",
+        "name": "Stay Alive"
+      },
       "duration_ms": 266906,
-      "artist": [
-        "José González"
+      "artists": [
+        {
+          "name": "José González",
+          "id": "6xrCU6zdcSTsG2hLrojpmI"
+        }
       ],
-      "artistId": [
-        "6xrCU6zdcSTsG2hLrojpmI"
-      ],
-      "albumId": "4zSB5nqKVh9jQcRByMUcMG",
+      "album": {
+        "id": "4zSB5nqKVh9jQcRByMUcMG",
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0f02f3da6a18a0edd70fda7"
+      },
       "release_date": "2013-01-01",
       "popularity": 48
     },
     {
-      "trackId": "1lEPbd3Pf73s28zoem3IxX",
-      "name": "We Are Here",
+      "track": {
+        "id": "1lEPbd3Pf73s28zoem3IxX",
+        "name": "We Are Here"
+      },
       "duration_ms": 284683,
-      "artist": [
-        "Alicia Keys"
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "id": "3DiDSECUqqY1AuBP8qtaIa"
+        }
       ],
-      "artistId": [
-        "3DiDSECUqqY1AuBP8qtaIa"
-      ],
-      "albumId": "0ptkAfgT46HP7DJyZjtbBT",
+      "album": {
+        "id": "0ptkAfgT46HP7DJyZjtbBT",
+        "name": "We Are Here",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bcd0ecb467bf6da0875ebab"
+      },
       "release_date": "2014-09-15",
       "popularity": 46
     },
     {
-      "trackId": "4NbfqSzyJnOkJWOykgLmeP",
-      "name": "Rollin' On",
+      "track": {
+        "id": "4NbfqSzyJnOkJWOykgLmeP",
+        "name": "Rollin' On"
+      },
       "duration_ms": 252360,
-      "artist": [
-        "Mark Knopfler",
-        "Emmylou Harris"
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "id": "0FI0kxP0BWurTz8cB8BBug"
+        },
+        {
+          "name": "Emmylou Harris",
+          "id": "5s6TJEuHTr9GR894wc6VfP"
+        }
       ],
-      "artistId": [
-        "0FI0kxP0BWurTz8cB8BBug",
-        "5s6TJEuHTr9GR894wc6VfP"
-      ],
-      "albumId": "6oGCz3d9MqAB6OVMUOLibu",
+      "album": {
+        "id": "6oGCz3d9MqAB6OVMUOLibu",
+        "name": "All The Roadrunning",
+        "img": "https://i.scdn.co/image/ab67616d00001e02638164cc8778088460142f81"
+      },
       "release_date": "2006-04-24",
       "popularity": 37
     },
     {
-      "trackId": "1CtAzw53AIXKjAemxy4b1j",
-      "name": "Beds Are Burning - Remastered",
+      "track": {
+        "id": "1CtAzw53AIXKjAemxy4b1j",
+        "name": "Beds Are Burning - Remastered"
+      },
       "duration_ms": 255680,
-      "artist": [
-        "Midnight Oil"
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "id": "72KyoXzp0NOQij6OcmZUxk"
+        }
       ],
-      "artistId": [
-        "72KyoXzp0NOQij6OcmZUxk"
-      ],
-      "albumId": "243XzHQegX82bPnUVQ0SPV",
+      "album": {
+        "id": "243XzHQegX82bPnUVQ0SPV",
+        "name": "Diesel And Dust",
+        "img": "https://i.scdn.co/image/ab67616d00001e020dd350beeb5ac73672ad6e80"
+      },
       "release_date": "1987-10-02",
       "popularity": 72
     },
     {
-      "trackId": "2NJGAT43AvS7BQvn2017yS",
-      "name": "Hey Moon",
+      "track": {
+        "id": "2NJGAT43AvS7BQvn2017yS",
+        "name": "Hey Moon"
+      },
       "duration_ms": 248706,
-      "artist": [
-        "John Maus"
+      "artists": [
+        {
+          "name": "John Maus",
+          "id": "4R073T3AVJKqAsbzLmLW9u"
+        }
       ],
-      "artistId": [
-        "4R073T3AVJKqAsbzLmLW9u"
-      ],
-      "albumId": "2vVA27QZ0iEJlIvrAxiFqq",
+      "album": {
+        "id": "2vVA27QZ0iEJlIvrAxiFqq",
+        "name": "We Must Become the Pitiless Censors of Ourselves",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d77d079731232d104567b854"
+      },
       "release_date": "2011-06-28",
       "popularity": 48
     },
     {
-      "trackId": "1KFQ2uuswAB7MoPvyFktNO",
-      "name": "Namas",
+      "track": {
+        "id": "1KFQ2uuswAB7MoPvyFktNO",
+        "name": "Namas"
+      },
       "duration_ms": 317533,
-      "artist": [
-        "Maria Kalaniemi",
-        "Aldargaz"
+      "artists": [
+        {
+          "name": "Maria Kalaniemi",
+          "id": "78ipNmGZnTAbqZ1mPTbuwr"
+        },
+        {
+          "name": "Aldargaz",
+          "id": "5cCJlI7zfPz7gI3kD8OwBK"
+        }
       ],
-      "artistId": [
-        "78ipNmGZnTAbqZ1mPTbuwr",
-        "5cCJlI7zfPz7gI3kD8OwBK"
-      ],
-      "albumId": "33o9D7MrHpybd5zHp3oOPo",
+      "album": {
+        "id": "33o9D7MrHpybd5zHp3oOPo",
+        "name": "Ahma",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f948ee44422684fdbad378d5"
+      },
       "release_date": "1999-01-01",
       "popularity": 4
     },
     {
-      "trackId": "4J4wU1a0MqhrBMBN2RzFUw",
-      "name": "Big Exit",
+      "track": {
+        "id": "4J4wU1a0MqhrBMBN2RzFUw",
+        "name": "Big Exit"
+      },
       "duration_ms": 231200,
-      "artist": [
-        "PJ Harvey"
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "id": "12VaqyEhgwDRuFfEqbnrpz"
+        }
       ],
-      "artistId": [
-        "12VaqyEhgwDRuFfEqbnrpz"
-      ],
-      "albumId": "0hBWhJEmVyNPG2Jq71CJXz",
+      "album": {
+        "id": "0hBWhJEmVyNPG2Jq71CJXz",
+        "name": "Stories From The City, Stories From The Sea",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209e4ac9a68d9ea5ef0ad9b05"
+      },
       "release_date": "2000-01-01",
       "popularity": 42
     },
     {
-      "trackId": "1qRA5BS78u3gME0loMl9AA",
-      "name": "For What It's Worth",
+      "track": {
+        "id": "1qRA5BS78u3gME0loMl9AA",
+        "name": "For What It's Worth"
+      },
       "duration_ms": 153693,
-      "artist": [
-        "Buffalo Springfield"
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "id": "3eskO5m0H4yiF64vRySBjr"
+        }
       ],
-      "artistId": [
-        "3eskO5m0H4yiF64vRySBjr"
-      ],
-      "albumId": "3PkdGRruLnJ9zCtANiDrpB",
+      "album": {
+        "id": "3PkdGRruLnJ9zCtANiDrpB",
+        "name": "Buffalo Springfield",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d231bd1716b71b6444e25f89"
+      },
       "release_date": "1966-12-05",
       "popularity": 77
     },
     {
-      "trackId": "2JOTt0Igsl2tZdnLqcoPhn",
-      "name": "Grimasch om morgonen",
+      "track": {
+        "id": "2JOTt0Igsl2tZdnLqcoPhn",
+        "name": "Grimasch om morgonen"
+      },
       "duration_ms": 125226,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "4R5lNY9jy7mEDAPhJNQRFk",
+      "album": {
+        "id": "4R5lNY9jy7mEDAPhJNQRFk",
+        "name": "Cornelis klassiker Vol. 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac74aaa7dc4771a29a311ba4"
+      },
       "release_date": "1988",
       "popularity": 32
     },
     {
-      "trackId": "11VwZwNF29HrqwalYUMitb",
-      "name": "Pale Blue Eyes",
+      "track": {
+        "id": "11VwZwNF29HrqwalYUMitb",
+        "name": "Pale Blue Eyes"
+      },
       "duration_ms": 339533,
-      "artist": [
-        "The Velvet Underground"
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "id": "1nJvji2KIlWSseXRSlNYsC"
+        }
       ],
-      "artistId": [
-        "1nJvji2KIlWSseXRSlNYsC"
-      ],
-      "albumId": "2HOf3Nb44Us8U9oEtKLSrX",
+      "album": {
+        "id": "2HOf3Nb44Us8U9oEtKLSrX",
+        "name": "The Velvet Underground (45th Anniversary)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a2c40b6a1af4a92aac991c5"
+      },
       "release_date": "1969",
       "popularity": 63
     },
     {
-      "trackId": "3iltRlox3jEeSKuqdW88EK",
-      "name": "Going Up The Country",
+      "track": {
+        "id": "3iltRlox3jEeSKuqdW88EK",
+        "name": "Going Up The Country"
+      },
       "duration_ms": 172866,
-      "artist": [
-        "Canned Heat"
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "id": "27a0GiCba9K9lnkKidroFU"
+        }
       ],
-      "artistId": [
-        "27a0GiCba9K9lnkKidroFU"
-      ],
-      "albumId": "0qlzWZ0Rlg4mimjf6wYBZP",
+      "album": {
+        "id": "0qlzWZ0Rlg4mimjf6wYBZP",
+        "name": "On The Road Again",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211009f02d8af260c46c9d288"
+      },
       "release_date": "1989-01-01",
       "popularity": 61
     }

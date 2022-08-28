@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530828_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4L5kJDUuRJRZDMVHsPuRaV",
-      "name": "Hold Me",
+      "track": {
+        "id": "4L5kJDUuRJRZDMVHsPuRaV",
+        "name": "Hold Me"
+      },
       "duration_ms": 245840,
-      "artist": [
-        "Nina Hagen"
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "id": "7xZHrltZh8zIRvjimgABvj"
+        }
       ],
-      "artistId": [
-        "7xZHrltZh8zIRvjimgABvj"
-      ],
-      "albumId": "18e8lvHA6QzPRS71wGvdQw",
+      "album": {
+        "id": "18e8lvHA6QzPRS71wGvdQw",
+        "name": "Nina Hagen",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b1e8928b3ae406ad706f86c"
+      },
       "release_date": "1989-01-01",
       "popularity": 19
     },
     {
-      "trackId": "1jsqYxfT3tzoV7aTBnNjud",
-      "name": "Sweetheart",
+      "track": {
+        "id": "1jsqYxfT3tzoV7aTBnNjud",
+        "name": "Sweetheart"
+      },
       "duration_ms": 52746,
-      "artist": [
-        "Micachu & The Shapes"
+      "artists": [
+        {
+          "name": "Micachu & The Shapes",
+          "id": "6YIiMThynFkSRr8SCs2ZW8"
+        }
       ],
-      "artistId": [
-        "6YIiMThynFkSRr8SCs2ZW8"
-      ],
-      "albumId": "6KLnBuVFfaceG2yrtdvXHZ",
+      "album": {
+        "id": "6KLnBuVFfaceG2yrtdvXHZ",
+        "name": "Jewellery",
+        "img": "https://i.scdn.co/image/ab67616d00001e02045ddff50fc33f2b7fee7bde"
+      },
       "release_date": "2009-03-09",
       "popularity": 19
     },
     {
-      "trackId": "5JOVSWohrjXW0BFTboh8XO",
-      "name": "Don't Go",
+      "track": {
+        "id": "5JOVSWohrjXW0BFTboh8XO",
+        "name": "Don't Go"
+      },
       "duration_ms": 188466,
-      "artist": [
-        "Yazoo"
+      "artists": [
+        {
+          "name": "Yazoo",
+          "id": "1G1mX30GpUJqOr1QU2eBSs"
+        }
       ],
-      "artistId": [
-        "1G1mX30GpUJqOr1QU2eBSs"
-      ],
-      "albumId": "35XWsJcKVHGmDKE8XUd3o3",
+      "album": {
+        "id": "35XWsJcKVHGmDKE8XUd3o3",
+        "name": "Upstairs at Eric's",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0c3e555afcd70597d605b8e"
+      },
       "release_date": "1982-07-01",
       "popularity": 65
     },
     {
-      "trackId": "0wrWxW18WK2MkrfDpRHkyh",
-      "name": "Me and the Devil",
+      "track": {
+        "id": "0wrWxW18WK2MkrfDpRHkyh",
+        "name": "Me and the Devil"
+      },
       "duration_ms": 185000,
-      "artist": [
-        "Soap&Skin"
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "id": "2mAYpnSe3g2Y22JcZ2ddku"
+        }
       ],
-      "artistId": [
-        "2mAYpnSe3g2Y22JcZ2ddku"
-      ],
-      "albumId": "5yuGLsbL0XTjON5tewyApa",
+      "album": {
+        "id": "5yuGLsbL0XTjON5tewyApa",
+        "name": "Sugarbread",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209d0104a5eaddc32bb0a7824"
+      },
       "release_date": "2013-03-11",
       "popularity": 55
     },
     {
-      "trackId": "6plT7nFGiXKSBP9HFSI4ef",
-      "name": "Chum",
+      "track": {
+        "id": "6plT7nFGiXKSBP9HFSI4ef",
+        "name": "Chum"
+      },
       "duration_ms": 243773,
-      "artist": [
-        "Earl Sweatshirt"
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "id": "3A5tHz1SfngyOZM2gItYKu"
+        }
       ],
-      "artistId": [
-        "3A5tHz1SfngyOZM2gItYKu"
-      ],
-      "albumId": "5vRfIDOPJHy3W2wHWbzLlE",
+      "album": {
+        "id": "5vRfIDOPJHy3W2wHWbzLlE",
+        "name": "Doris",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246f9bf1154c7205b0e8b1667"
+      },
       "release_date": "2013-08-16",
       "popularity": 61
     },
     {
-      "trackId": "17E1MmRt0KFsmiCBiqAztA",
-      "name": "I'm Not Sayin' (Single Version)",
+      "track": {
+        "id": "17E1MmRt0KFsmiCBiqAztA",
+        "name": "I'm Not Sayin' (Single Version)"
+      },
       "duration_ms": 168386,
-      "artist": [
-        "Nico"
+      "artists": [
+        {
+          "name": "Nico",
+          "id": "0IwlY33zbBXN7zlS9DP2Cj"
+        }
       ],
-      "artistId": [
-        "0IwlY33zbBXN7zlS9DP2Cj"
-      ],
-      "albumId": "28fpMBU5oAZiMOglTxC5yg",
+      "album": {
+        "id": "28fpMBU5oAZiMOglTxC5yg",
+        "name": "I’m Not Sayin’ / The Last Mile",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287ff1b02f5f7441d78a0ee04"
+      },
       "release_date": "1965",
       "popularity": 37
     },
     {
-      "trackId": "6tdSdLJl9bjCSuxhqGKRMO",
-      "name": "Mein Herr",
+      "track": {
+        "id": "6tdSdLJl9bjCSuxhqGKRMO",
+        "name": "Mein Herr"
+      },
       "duration_ms": 213506,
-      "artist": [
-        "Liza Minnelli"
+      "artists": [
+        {
+          "name": "Liza Minnelli",
+          "id": "1pdGj6Gak10Q2ajig4l1Dm"
+        }
       ],
-      "artistId": [
-        "1pdGj6Gak10Q2ajig4l1Dm"
-      ],
-      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "album": {
+        "id": "28qbOp4dEh18N5u6FInyOO",
+        "name": "Cabaret (Original Soundtrack Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f0ddaafb889a16220871372"
+      },
       "release_date": "1972-02-13",
       "popularity": 40
     },
     {
-      "trackId": "7wuJGgpTNzbUyn26IOY6rj",
-      "name": "Total Eclipse of the Heart",
+      "track": {
+        "id": "7wuJGgpTNzbUyn26IOY6rj",
+        "name": "Total Eclipse of the Heart"
+      },
       "duration_ms": 267360,
-      "artist": [
-        "Bonnie Tyler"
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "id": "0SD4eZCN4Kr0wQk56hCdh2"
+        }
       ],
-      "artistId": [
-        "0SD4eZCN4Kr0wQk56hCdh2"
-      ],
-      "albumId": "0VJI3wpebzRyVHq0eZQidb",
+      "album": {
+        "id": "0VJI3wpebzRyVHq0eZQidb",
+        "name": "The Very Best of Bonnie Tyler",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cefe8e2f2cfd63ce073fa96"
+      },
       "release_date": "2009-03-26",
       "popularity": 77
     },
     {
-      "trackId": "0brTq66ZftMGbr6OfKFUM9",
-      "name": "Ha Ha Ha Armageddon",
+      "track": {
+        "id": "0brTq66ZftMGbr6OfKFUM9",
+        "name": "Ha Ha Ha Armageddon"
+      },
       "duration_ms": 196460,
-      "artist": [
-        "The Julie Ruin"
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "id": "3jCDV35GjiUGWYWKgMd9CF"
+        }
       ],
-      "artistId": [
-        "3jCDV35GjiUGWYWKgMd9CF"
-      ],
-      "albumId": "7DoTlKAupC8rNAdb0tNmZ2",
+      "album": {
+        "id": "7DoTlKAupC8rNAdb0tNmZ2",
+        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023aaf814e8350a1ae241603a0"
+      },
       "release_date": "2015-10-13",
       "popularity": 35
     },
     {
-      "trackId": "6DdqhtrLTNnOePpOm3OH7S",
-      "name": "Wave of Mutilation - UK Surf",
+      "track": {
+        "id": "6DdqhtrLTNnOePpOm3OH7S",
+        "name": "Wave of Mutilation - UK Surf"
+      },
       "duration_ms": 180133,
-      "artist": [
-        "Pixies"
+      "artists": [
+        {
+          "name": "Pixies",
+          "id": "6zvul52xwTWzilBZl6BUbT"
+        }
       ],
-      "artistId": [
-        "6zvul52xwTWzilBZl6BUbT"
-      ],
-      "albumId": "2CwA7QN0V8IS0mr5pLT9Xa",
+      "album": {
+        "id": "2CwA7QN0V8IS0mr5pLT9Xa",
+        "name": "Complete B Sides",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3663d95fcc6dbba38e2eed3"
+      },
       "release_date": "2001-03-05",
       "popularity": 56
     },
     {
-      "trackId": "62oNfnQqObaqARM0DTibAL",
-      "name": "N.I.B.",
+      "track": {
+        "id": "62oNfnQqObaqARM0DTibAL",
+        "name": "N.I.B."
+      },
       "duration_ms": 364493,
-      "artist": [
-        "Black Sabbath"
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "id": "5M52tdBnJaKSvOpJGz8mfZ"
+        }
       ],
-      "artistId": [
-        "5M52tdBnJaKSvOpJGz8mfZ"
-      ],
-      "albumId": "2T6jeELx5BqH4GMLObBy10",
+      "album": {
+        "id": "2T6jeELx5BqH4GMLObBy10",
+        "name": "Black Sabbath (2009 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021311a92b0ca83a5154c5a5e7"
+      },
       "release_date": "1970-02-13",
       "popularity": 63
     },
     {
-      "trackId": "3cXiUuiGpFmZ8OdAWKk8Ck",
-      "name": "Lick It Up",
+      "track": {
+        "id": "3cXiUuiGpFmZ8OdAWKk8Ck",
+        "name": "Lick It Up"
+      },
       "duration_ms": 236640,
-      "artist": [
-        "KISS"
+      "artists": [
+        {
+          "name": "KISS",
+          "id": "07XSN3sPlIlB2L2XNcTwJw"
+        }
       ],
-      "artistId": [
-        "07XSN3sPlIlB2L2XNcTwJw"
-      ],
-      "albumId": "0dD1SMOKBDV1qBadcovw30",
+      "album": {
+        "id": "0dD1SMOKBDV1qBadcovw30",
+        "name": "Lick It Up",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5089214df66e4c6324861f7"
+      },
       "release_date": "1983-09-18",
       "popularity": 64
     },
     {
-      "trackId": "6ImmlZj8ysK2jDnqqbKp60",
-      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
+      "track": {
+        "id": "6ImmlZj8ysK2jDnqqbKp60",
+        "name": "Hello Mary Lou, Goodbye Heart - Remastered"
+      },
       "duration_ms": 138546,
-      "artist": [
-        "Ricky Nelson"
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "id": "73sSFVlM6pkweLXE8qw1OS"
+        }
       ],
-      "artistId": [
-        "73sSFVlM6pkweLXE8qw1OS"
-      ],
-      "albumId": "0eWkaY2z2iBw1t7M8eHKQe",
+      "album": {
+        "id": "0eWkaY2z2iBw1t7M8eHKQe",
+        "name": "Rick Is 21",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba71c9b2269ede8b6127fca3"
+      },
       "release_date": "1961-01-01",
       "popularity": 55
     }

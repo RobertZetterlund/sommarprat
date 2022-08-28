@@ -7,292 +7,422 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3235476_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6I1kZgg3bGrPKxhZOltbRW",
-      "name": "Alla vill till himmelen men ingen vill dö",
+      "track": {
+        "id": "6I1kZgg3bGrPKxhZOltbRW",
+        "name": "Alla vill till himmelen men ingen vill dö"
+      },
       "duration_ms": 246386,
-      "artist": [
-        "Timbuktu"
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "id": "4bOG1sx3QHFbOUVLNmMpPe"
+        }
       ],
-      "artistId": [
-        "4bOG1sx3QHFbOUVLNmMpPe"
-      ],
-      "albumId": "3tXuKxDCfmokZIoqzTYAjN",
+      "album": {
+        "id": "3tXuKxDCfmokZIoqzTYAjN",
+        "name": "Alla vill till himmelen men ingen vill dö",
+        "img": "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f"
+      },
       "release_date": "2005-06-03",
       "popularity": 55
     },
     {
-      "trackId": "1JSTJqkT5qHq8MDJnJbRE1",
-      "name": "Every Breath You Take",
+      "track": {
+        "id": "1JSTJqkT5qHq8MDJnJbRE1",
+        "name": "Every Breath You Take"
+      },
       "duration_ms": 253920,
-      "artist": [
-        "The Police"
+      "artists": [
+        {
+          "name": "The Police",
+          "id": "5NGO30tJxFlKixkPSgXcFE"
+        }
       ],
-      "artistId": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ],
-      "albumId": "5W9OT0a5iZlBr83a9WMKFY",
+      "album": {
+        "id": "5W9OT0a5iZlBr83a9WMKFY",
+        "name": "Synchronicity (Remastered 2003)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e"
+      },
       "release_date": "1983-06-17",
       "popularity": 86
     },
     {
-      "trackId": "1mnqraQ8oV8MX92rdOFLWW",
-      "name": "1 Thing",
+      "track": {
+        "id": "1mnqraQ8oV8MX92rdOFLWW",
+        "name": "1 Thing"
+      },
       "duration_ms": 238760,
-      "artist": [
-        "Amerie"
+      "artists": [
+        {
+          "name": "Amerie",
+          "id": "08rMCq2ek1YjdDBsCPVH2s"
+        }
       ],
-      "artistId": [
-        "08rMCq2ek1YjdDBsCPVH2s"
-      ],
-      "albumId": "2PFK4dMZkqUQfxfSrK8WMf",
+      "album": {
+        "id": "2PFK4dMZkqUQfxfSrK8WMf",
+        "name": "Touch",
+        "img": "https://i.scdn.co/image/ab67616d00001e0215dd2fc9aa1109bbe1456916"
+      },
       "release_date": "2005",
       "popularity": 63
     },
     {
-      "trackId": "6HxweNytuEQdmGeVtZPZz3",
-      "name": "The Seed (2.0)",
+      "track": {
+        "id": "6HxweNytuEQdmGeVtZPZz3",
+        "name": "The Seed (2.0)"
+      },
       "duration_ms": 267933,
-      "artist": [
-        "The Roots",
-        "Cody Chesnutt"
+      "artists": [
+        {
+          "name": "The Roots",
+          "id": "78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Cody Chesnutt",
+          "id": "3sO8muEXafy2NGwUZByrTr"
+        }
       ],
-      "artistId": [
-        "78xUyw6FkVZrRAtziFdtdu",
-        "3sO8muEXafy2NGwUZByrTr"
-      ],
-      "albumId": "01FOonRYntwISzaCSa7S7p",
+      "album": {
+        "id": "01FOonRYntwISzaCSa7S7p",
+        "name": "Phrenology",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a3da6b52373b762009671cb"
+      },
       "release_date": "2002",
       "popularity": 64
     },
     {
-      "trackId": "5y5wWdrhr4LvL64MNs4AwO",
-      "name": "Wander",
+      "track": {
+        "id": "5y5wWdrhr4LvL64MNs4AwO",
+        "name": "Wander"
+      },
       "duration_ms": 114680,
-      "artist": [
-        "Kevin Morby"
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "id": "6fxk3UXHTFYET8qCT9WlBF"
+        }
       ],
-      "artistId": [
-        "6fxk3UXHTFYET8qCT9WlBF"
-      ],
-      "albumId": "7qmhqRQL8WRl4B0PMlYfHk",
+      "album": {
+        "id": "7qmhqRQL8WRl4B0PMlYfHk",
+        "name": "Sundowner",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb18d8c0017f6ef8df8734c8"
+      },
       "release_date": "2020-10-16",
       "popularity": 35
     },
     {
-      "trackId": "4DGPON9kch3YXAzVsozF8R",
-      "name": "Distractions",
+      "track": {
+        "id": "4DGPON9kch3YXAzVsozF8R",
+        "name": "Distractions"
+      },
       "duration_ms": 316200,
-      "artist": [
-        "Zero 7",
-        "Sia"
+      "artists": [
+        {
+          "name": "Zero 7",
+          "id": "14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "14H7ag1wpQOsPPQJOD6Dqr",
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "1VRBB9iu84o3g16CczH9iH",
+      "album": {
+        "id": "1VRBB9iu84o3g16CczH9iH",
+        "name": "Simple Things",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f387fd18dfdc5f0c18b80d3"
+      },
       "release_date": "2001",
       "popularity": 40
     },
     {
-      "trackId": "3IjrDeaVRFEi3GgHI5xyjX",
-      "name": "Detroit Rock City",
+      "track": {
+        "id": "3IjrDeaVRFEi3GgHI5xyjX",
+        "name": "Detroit Rock City"
+      },
       "duration_ms": 227466,
-      "artist": [
-        "KISS"
+      "artists": [
+        {
+          "name": "KISS",
+          "id": "07XSN3sPlIlB2L2XNcTwJw"
+        }
       ],
-      "artistId": [
-        "07XSN3sPlIlB2L2XNcTwJw"
-      ],
-      "albumId": "7j2bCsZXZqwkXJ0pI9o5aA",
+      "album": {
+        "id": "7j2bCsZXZqwkXJ0pI9o5aA",
+        "name": "Smashes, Thrashes And Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d54bf34c48d94050cf0008f"
+      },
       "release_date": "1988-11-15",
       "popularity": 70
     },
     {
-      "trackId": "1QQgtnvXfArwOCq7zYSE5g",
-      "name": "What's Going On - Live",
+      "track": {
+        "id": "1QQgtnvXfArwOCq7zYSE5g",
+        "name": "What's Going On - Live"
+      },
       "duration_ms": 317786,
-      "artist": [
-        "Donny Hathaway"
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "id": "0HU0U9kdXEHZVxUNbuQe8S"
+        }
       ],
-      "artistId": [
-        "0HU0U9kdXEHZVxUNbuQe8S"
-      ],
-      "albumId": "0csi6eQolki4PIS60tBCW5",
+      "album": {
+        "id": "0csi6eQolki4PIS60tBCW5",
+        "name": "Live",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296c789610904d8c2e737e02a"
+      },
       "release_date": "1972",
       "popularity": 40
     },
     {
-      "trackId": "6Rqn2GFlmvmV4w9Ala0I1e",
-      "name": "Feeling Good",
+      "track": {
+        "id": "6Rqn2GFlmvmV4w9Ala0I1e",
+        "name": "Feeling Good"
+      },
       "duration_ms": 174000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3ofZeSWPHZOE5WC2tNZDez",
+      "album": {
+        "id": "3ofZeSWPHZOE5WC2tNZDez",
+        "name": "I Put A Spell On You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02425e9a15a4a1b9fe123a1aa7"
+      },
       "release_date": "1965-06-01",
       "popularity": 72
     },
     {
-      "trackId": "5Ei9o2fHEnfHb84YrPuz4v",
-      "name": "China Girl - 2018 Remaster",
+      "track": {
+        "id": "5Ei9o2fHEnfHb84YrPuz4v",
+        "name": "China Girl - 2018 Remaster"
+      },
       "duration_ms": 333816,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "4NwG11AsDJluT732lSjMrV",
+      "album": {
+        "id": "4NwG11AsDJluT732lSjMrV",
+        "name": "Let's Dance (2018 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02db0917ddd4139153bc1d1a1a"
+      },
       "release_date": "1983-04-14",
       "popularity": 62
     },
     {
-      "trackId": "5dqcEeW0P35Mitp4u14Jbl",
-      "name": "Flickorna i Småland",
+      "track": {
+        "id": "5dqcEeW0P35Mitp4u14Jbl",
+        "name": "Flickorna i Småland"
+      },
       "duration_ms": 157600,
-      "artist": [
-        "The Delta Rhythm Boys"
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "id": "7jn7alb8SBq8VAukeFkPcF"
+        }
       ],
-      "artistId": [
-        "7jn7alb8SBq8VAukeFkPcF"
-      ],
-      "albumId": "3YyyyCXz8E8Pmg3tvEZQ42",
+      "album": {
+        "id": "3YyyyCXz8E8Pmg3tvEZQ42",
+        "name": "20 Suosikkia / Raunchy Ropey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efbcbdea1682e8061069332a"
+      },
       "release_date": "1997-11-24",
       "popularity": 24
     },
     {
-      "trackId": "1BLXxFPDL2BT37nHKD7KrA",
-      "name": "Pata Pata - Stereo Version",
+      "track": {
+        "id": "1BLXxFPDL2BT37nHKD7KrA",
+        "name": "Pata Pata - Stereo Version"
+      },
       "duration_ms": 180174,
-      "artist": [
-        "Miriam Makeba"
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "id": "18RkLKfeoUgZflWv9os25W"
+        }
       ],
-      "artistId": [
-        "18RkLKfeoUgZflWv9os25W"
-      ],
-      "albumId": "4xPYddRQPYB5jbTB3e7tL5",
+      "album": {
+        "id": "4xPYddRQPYB5jbTB3e7tL5",
+        "name": "Pata Pata",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d46caefb22d460eb8ca14db0"
+      },
       "release_date": "2017",
       "popularity": 58
     },
     {
-      "trackId": "5wwPdWKbDEiybmWkZqsGGn",
-      "name": "Next Up - S4-E2, Pt. 1",
+      "track": {
+        "id": "5wwPdWKbDEiybmWkZqsGGn",
+        "name": "Next Up - S4-E2, Pt. 1"
+      },
       "duration_ms": 120839,
-      "artist": [
-        "JBee",
-        "Mixtape Madness"
+      "artists": [
+        {
+          "name": "JBee",
+          "id": "3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "id": "4ocdD0Bi1syVqLs1GiHqQ9"
+        }
       ],
-      "artistId": [
-        "3LIh5lV3zpZkgmO0K6R6bq",
-        "4ocdD0Bi1syVqLs1GiHqQ9"
-      ],
-      "albumId": "0j070iW9OV0gL2IbSWIHcE",
+      "album": {
+        "id": "0j070iW9OV0gL2IbSWIHcE",
+        "name": "Next Up - S4-E2",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b02c20ea0da1686e6f6ece01"
+      },
       "release_date": "2022-02-10",
       "popularity": 77
     },
     {
-      "trackId": "0RAiBUgOC5pgFUHsldtix3",
-      "name": "Can You Feel It",
+      "track": {
+        "id": "0RAiBUgOC5pgFUHsldtix3",
+        "name": "Can You Feel It"
+      },
       "duration_ms": 359906,
-      "artist": [
-        "The Jacksons"
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "id": "2yrbLiuBmc9j81lTX3XUuI"
+        }
       ],
-      "artistId": [
-        "2yrbLiuBmc9j81lTX3XUuI"
-      ],
-      "albumId": "5YhOA7OGN6xFPwQznkfe69",
+      "album": {
+        "id": "5YhOA7OGN6xFPwQznkfe69",
+        "name": "Triumph",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279e2bcd45a0d33ce85ec5ea3"
+      },
       "release_date": "1980-09-26",
       "popularity": 58
     },
     {
-      "trackId": "2hjAc6x8EoSLhGxRNg8KEw",
-      "name": "Crazy Love - 2013 Remaster",
+      "track": {
+        "id": "2hjAc6x8EoSLhGxRNg8KEw",
+        "name": "Crazy Love - 2013 Remaster"
+      },
       "duration_ms": 155453,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "6yNYC35npMBHbxG0Vle83O",
+      "album": {
+        "id": "6yNYC35npMBHbxG0Vle83O",
+        "name": "Moondance (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269bb57791f9859f2695391f7"
+      },
       "release_date": "1970-02",
       "popularity": 65
     },
     {
-      "trackId": "79HuQI0zFW3XE2zCZbYdj5",
-      "name": "Fly Away on the Wings of the Wind (Prince Igor - Polovtsian Dances) [Classical Crossover Version]",
+      "track": {
+        "id": "79HuQI0zFW3XE2zCZbYdj5",
+        "name": "Fly Away on the Wings of the Wind (Prince Igor - Polovtsian Dances) [Classical Crossover Version]"
+      },
       "duration_ms": 251538,
-      "artist": [
-        "Evgeniya Sotnikova",
-        "Andrey Stoychev"
+      "artists": [
+        {
+          "name": "Evgeniya Sotnikova",
+          "id": "053QnQDuW1JPdS3qyxgFa2"
+        },
+        {
+          "name": "Andrey Stoychev",
+          "id": "6dBrm5kI5cZcsfof8YRn75"
+        }
       ],
-      "artistId": [
-        "053QnQDuW1JPdS3qyxgFa2",
-        "6dBrm5kI5cZcsfof8YRn75"
-      ],
-      "albumId": "6Tz6cyzJSgXtqtf81Z5oJm",
+      "album": {
+        "id": "6Tz6cyzJSgXtqtf81Z5oJm",
+        "name": "Fly Away on the Wings of the Wind (Prince Igor - Polovtsian Dances) [Classical Crossover Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e0262a7ed6ad7203ee5749f42be"
+      },
       "release_date": "2018-12-27",
       "popularity": 40
     },
     {
-      "trackId": "2RiOvJpzM1IsxZNLlCBqIM",
-      "name": "So Much Things To Say",
+      "track": {
+        "id": "2RiOvJpzM1IsxZNLlCBqIM",
+        "name": "So Much Things To Say"
+      },
       "duration_ms": 188026,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "2mBbV0Ad6B4ydHMZlzAY7S",
+      "album": {
+        "id": "2mBbV0Ad6B4ydHMZlzAY7S",
+        "name": "Exodus",
+        "img": "https://i.scdn.co/image/ab67616d00001e02811bfdc4f55b3a7484524aaf"
+      },
       "release_date": "1977-06-03",
       "popularity": 52
     },
     {
-      "trackId": "1dZxI6OuzwJ283y3gOU1Kq",
-      "name": "Many Rivers To Cross",
+      "track": {
+        "id": "1dZxI6OuzwJ283y3gOU1Kq",
+        "name": "Many Rivers To Cross"
+      },
       "duration_ms": 164066,
-      "artist": [
-        "Jimmy Cliff"
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "id": "3rJ3m1tM6vUgiWLjfV8sRf"
+        }
       ],
-      "artistId": [
-        "3rJ3m1tM6vUgiWLjfV8sRf"
-      ],
-      "albumId": "3RiXb242oLrGNRtc0Va4Fd",
+      "album": {
+        "id": "3RiXb242oLrGNRtc0Va4Fd",
+        "name": "Wonderful World, Beautiful People",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253ead70b80f92eae59f9f18c"
+      },
       "release_date": "1970",
       "popularity": 50
     },
     {
-      "trackId": "5jlVndwOZVzbAfGVHtetDX",
-      "name": "Break Ups 2 Make Ups",
+      "track": {
+        "id": "5jlVndwOZVzbAfGVHtetDX",
+        "name": "Break Ups 2 Make Ups"
+      },
       "duration_ms": 233933,
-      "artist": [
-        "Method Man",
-        "D'Angelo"
+      "artists": [
+        {
+          "name": "Method Man",
+          "id": "4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "D'Angelo",
+          "id": "336vr2M3Va0FjyvB55lJEd"
+        }
       ],
-      "artistId": [
-        "4VmEWwd8y9MCLwexFMdpwt",
-        "336vr2M3Va0FjyvB55lJEd"
-      ],
-      "albumId": "5EGi6pUMlx1UfSCrfYUisa",
+      "album": {
+        "id": "5EGi6pUMlx1UfSCrfYUisa",
+        "name": "Tical 2000: Judgement Day",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d2c2c17de1b0fd7e2e2488d3"
+      },
       "release_date": "1998-10-11",
       "popularity": 46
     },
     {
-      "trackId": "4ZVZBc5xvMyV3WzWktn8i7",
-      "name": "Everyday People",
+      "track": {
+        "id": "4ZVZBc5xvMyV3WzWktn8i7",
+        "name": "Everyday People"
+      },
       "duration_ms": 141506,
-      "artist": [
-        "Sly & The Family Stone"
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "id": "5m8H6zSadhu1j9Yi04VLqD"
+        }
       ],
-      "artistId": [
-        "5m8H6zSadhu1j9Yi04VLqD"
-      ],
-      "albumId": "7iwS1r6JHYJe9xpPjzmWqD",
+      "album": {
+        "id": "7iwS1r6JHYJe9xpPjzmWqD",
+        "name": "Stand",
+        "img": "https://i.scdn.co/image/ab67616d00001e02147e35fd67f22f92cb587c3b"
+      },
       "release_date": "1969-05-03",
       "popularity": 66
     }

@@ -7,222 +7,322 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/b4360e15-1924-4977-82f0-4a57b5bf886a.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1R5KHDU7ci1ChOKJhzI8H4",
-      "name": "Don't Worry Be Happy",
+      "track": {
+        "id": "1R5KHDU7ci1ChOKJhzI8H4",
+        "name": "Don't Worry Be Happy"
+      },
       "duration_ms": 197946,
-      "artist": [
-        "The Overtones",
-        "Lachie Chapman",
-        "Timmy Matley"
+      "artists": [
+        {
+          "name": "The Overtones",
+          "id": "6dXTZkBBwA1WOLD6OSuA0x"
+        },
+        {
+          "name": "Lachie Chapman",
+          "id": "0he4ORIaEqAjIALLfQlBOA"
+        },
+        {
+          "name": "Timmy Matley",
+          "id": "47pz7dgeEBjSCVCRfHu9I4"
+        }
       ],
-      "artistId": [
-        "6dXTZkBBwA1WOLD6OSuA0x",
-        "0he4ORIaEqAjIALLfQlBOA",
-        "47pz7dgeEBjSCVCRfHu9I4"
-      ],
-      "albumId": "7bTMDApFsD6EBhMLuAdz84",
+      "album": {
+        "id": "7bTMDApFsD6EBhMLuAdz84",
+        "name": "Saturday Night at the Movies (Christmas Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020bc0b75d97b850f1ca6663c7"
+      },
       "release_date": "2013-11-04",
       "popularity": 22
     },
     {
-      "trackId": "6hTcuIQa0sxrrByu9wTD7s",
-      "name": "Born to Run",
+      "track": {
+        "id": "6hTcuIQa0sxrrByu9wTD7s",
+        "name": "Born to Run"
+      },
       "duration_ms": 269920,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "43YIoHKSrEw2GJsWmhZIpu",
+      "album": {
+        "id": "43YIoHKSrEw2GJsWmhZIpu",
+        "name": "Born To Run",
+        "img": "https://i.scdn.co/image/ab67616d00001e02503143a281a3f30268dcd9f9"
+      },
       "release_date": "1975-08-25",
       "popularity": 72
     },
     {
-      "trackId": "2knr7ikPt4l7bk92qS4ZXW",
-      "name": "Euphoria",
+      "track": {
+        "id": "2knr7ikPt4l7bk92qS4ZXW",
+        "name": "Euphoria"
+      },
       "duration_ms": 214133,
-      "artist": [
-        "Loreen"
+      "artists": [
+        {
+          "name": "Loreen",
+          "id": "49aaHxvAJ0tCh0F15OnwIl"
+        }
       ],
-      "artistId": [
-        "49aaHxvAJ0tCh0F15OnwIl"
-      ],
-      "albumId": "73FYKSgOypVgghYr8GsEGl",
+      "album": {
+        "id": "73FYKSgOypVgghYr8GsEGl",
+        "name": "Heal",
+        "img": "https://i.scdn.co/image/ab67616d00001e0296663c059e615c7db2ed9bb6"
+      },
       "release_date": "2012-10-19",
       "popularity": 63
     },
     {
-      "trackId": "2CLv0oSPjs3vvwJWCJEu25",
-      "name": "Barndommens Gade",
+      "track": {
+        "id": "2CLv0oSPjs3vvwJWCJEu25",
+        "name": "Barndommens Gade"
+      },
       "duration_ms": 308546,
-      "artist": [
-        "Anne Linnet"
+      "artists": [
+        {
+          "name": "Anne Linnet",
+          "id": "6AWEo7TFXeaDNDMMFuE2YY"
+        }
       ],
-      "artistId": [
-        "6AWEo7TFXeaDNDMMFuE2YY"
-      ],
-      "albumId": "1iimQ5LWkXjR4v2Iz55w5b",
+      "album": {
+        "id": "1iimQ5LWkXjR4v2Iz55w5b",
+        "name": "Barndommens Gade",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a273ca4076ce4756f6b5165a"
+      },
       "release_date": "1986-09-26",
       "popularity": 44
     },
     {
-      "trackId": "4E3HQzcVSyUWLc9TkkzoUW",
-      "name": "Piano Concerto No. 20 in D Minor, K. 466: I. Allegro",
+      "track": {
+        "id": "4E3HQzcVSyUWLc9TkkzoUW",
+        "name": "Piano Concerto No. 20 in D Minor, K. 466: I. Allegro"
+      },
       "duration_ms": 881000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Sviatoslav Richter"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "id": "4hBgCK8FyJ5bV36ZZLB56X"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "4hBgCK8FyJ5bV36ZZLB56X"
-      ],
-      "albumId": "25V5L8kI2Hmqc33zFru5pI",
+      "album": {
+        "id": "25V5L8kI2Hmqc33zFru5pI",
+        "name": "Sviatoslav Richter Plays Great Concertos",
+        "img": "https://i.scdn.co/image/ab67616d00001e021acef51b2874267faa9452d1"
+      },
       "release_date": "2021-01-09",
       "popularity": 0
     },
     {
-      "trackId": "3RiPr603aXAoi4GHyXx0uy",
-      "name": "Hymn for the Weekend",
+      "track": {
+        "id": "3RiPr603aXAoi4GHyXx0uy",
+        "name": "Hymn for the Weekend"
+      },
       "duration_ms": 258266,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "3cfAM8b8KqJRoIzt3zLKqw",
+      "album": {
+        "id": "3cfAM8b8KqJRoIzt3zLKqw",
+        "name": "A Head Full of Dreams",
+        "img": "https://i.scdn.co/image/ab67616d00001e028ff7c3580d429c8212b9a3b6"
+      },
       "release_date": "2015-12-04",
       "popularity": 83
     },
     {
-      "trackId": "2pucDx5Wyz9uHCou4wntHa",
-      "name": "Inspector Norse",
+      "track": {
+        "id": "2pucDx5Wyz9uHCou4wntHa",
+        "name": "Inspector Norse"
+      },
       "duration_ms": 400751,
-      "artist": [
-        "Todd Terje"
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "id": "49gaZqfow2v8EEQmjGyEIw"
+        }
       ],
-      "artistId": [
-        "49gaZqfow2v8EEQmjGyEIw"
-      ],
-      "albumId": "68zh8sbZPMeJb7GnqomRJS",
+      "album": {
+        "id": "68zh8sbZPMeJb7GnqomRJS",
+        "name": "It's the Arps",
+        "img": "https://i.scdn.co/image/ab67616d00001e023012eefbe464d9c5de3774e7"
+      },
       "release_date": "2012-01-09",
       "popularity": 55
     },
     {
-      "trackId": "05wIrZSwuaVWhcv5FfqeH0",
-      "name": "Walking On Sunshine",
+      "track": {
+        "id": "05wIrZSwuaVWhcv5FfqeH0",
+        "name": "Walking On Sunshine"
+      },
       "duration_ms": 238733,
-      "artist": [
-        "Katrina & The Waves"
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "id": "2TzHIUhVpeeDxyJPpQfnV3"
+        }
       ],
-      "artistId": [
-        "2TzHIUhVpeeDxyJPpQfnV3"
-      ],
-      "albumId": "1UQG78YJjaBySRMh0A8Uw7",
+      "album": {
+        "id": "1UQG78YJjaBySRMh0A8Uw7",
+        "name": "Katrina & The Waves",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eafaf556eda644a745d0144d"
+      },
       "release_date": "1985",
       "popularity": 79
     },
     {
-      "trackId": "0DrDcqWpokMlhKYJSwoT4B",
-      "name": "Don't Stop Me Now",
+      "track": {
+        "id": "0DrDcqWpokMlhKYJSwoT4B",
+        "name": "Don't Stop Me Now"
+      },
       "duration_ms": 209160,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "6HRfL00lkjpQoGirvWhj4q",
+      "album": {
+        "id": "6HRfL00lkjpQoGirvWhj4q",
+        "name": "Discover More Classic Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287550094a6677ebed1e1595d"
+      },
       "release_date": "2020-08-10",
       "popularity": 65
     },
     {
-      "trackId": "1WkMMavIMc4JZ8cfMmxHkI",
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "track": {
+        "id": "1WkMMavIMc4JZ8cfMmxHkI",
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")"
+      },
       "duration_ms": 237546,
-      "artist": [
-        "Justin Timberlake"
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "id": "31TPClRtHm23RisEBtV3X7"
+        }
       ],
-      "artistId": [
-        "31TPClRtHm23RisEBtV3X7"
-      ],
-      "albumId": "65ayND23IInUPHJKsaAqe7",
+      "album": {
+        "id": "65ayND23IInUPHJKsaAqe7",
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d965d29d7dcf46ade5a8a7e4"
+      },
       "release_date": "2016-09-23",
       "popularity": 73
     },
     {
-      "trackId": "6ztstiyZL6FXzh4aG46ZPD",
-      "name": "Boogie Wonderland",
+      "track": {
+        "id": "6ztstiyZL6FXzh4aG46ZPD",
+        "name": "Boogie Wonderland"
+      },
       "duration_ms": 288293,
-      "artist": [
-        "Earth, Wind & Fire",
-        "The Emotions"
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "id": "4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "id": "64CuUOOirKmdAYLQSfaOyr"
+        }
       ],
-      "artistId": [
-        "4QQgXkCYTt3BlENzhyNETg",
-        "64CuUOOirKmdAYLQSfaOyr"
-      ],
-      "albumId": "4RLVTxnuVN5ZWZqBFnaaQt",
+      "album": {
+        "id": "4RLVTxnuVN5ZWZqBFnaaQt",
+        "name": "I Am",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ccd022a69a4da9551efd988"
+      },
       "release_date": "1979-06",
       "popularity": 76
     },
     {
-      "trackId": "0dkL8m14x0wecbq04QfBKs",
-      "name": "Fanfare for the Common Man - Single Edit",
+      "track": {
+        "id": "0dkL8m14x0wecbq04QfBKs",
+        "name": "Fanfare for the Common Man - Single Edit"
+      },
       "duration_ms": 179360,
-      "artist": [
-        "Emerson, Lake & Palmer"
+      "artists": [
+        {
+          "name": "Emerson, Lake & Palmer",
+          "id": "0nCiidE5GgDrc5kWN3NZgZ"
+        }
       ],
-      "artistId": [
-        "0nCiidE5GgDrc5kWN3NZgZ"
-      ],
-      "albumId": "3uYhG442MU4ca3ZsovlGVh",
+      "album": {
+        "id": "3uYhG442MU4ca3ZsovlGVh",
+        "name": "The Best of Emerson Lake & Palmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e024aca451edc31151c842126be"
+      },
       "release_date": "1994-01-01",
       "popularity": 47
     },
     {
-      "trackId": "60nZcImufyMA1MKQY3dcCH",
-      "name": "Happy - From \"Despicable Me 2\"",
+      "track": {
+        "id": "60nZcImufyMA1MKQY3dcCH",
+        "name": "Happy - From \"Despicable Me 2\""
+      },
       "duration_ms": 232720,
-      "artist": [
-        "Pharrell Williams"
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "id": "2RdwBSPQiwcmiDo9kixcl8"
+        }
       ],
-      "artistId": [
-        "2RdwBSPQiwcmiDo9kixcl8"
-      ],
-      "albumId": "0lrmy4pJINsFzycJvttX2W",
+      "album": {
+        "id": "0lrmy4pJINsFzycJvttX2W",
+        "name": "G I R L",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e8107e6d9214baa81bb79bba"
+      },
       "release_date": "2014-03-03",
       "popularity": 80
     },
     {
-      "trackId": "0k6srHPboR46ZFut1JKzKi",
-      "name": "Welcome to My Country",
+      "track": {
+        "id": "0k6srHPboR46ZFut1JKzKi",
+        "name": "Welcome to My Country"
+      },
       "duration_ms": 258377,
-      "artist": [
-        "Brainstorm"
+      "artists": [
+        {
+          "name": "Brainstorm",
+          "id": "5kj0186KjQyHiLMK2OFJ3z"
+        }
       ],
-      "artistId": [
-        "5kj0186KjQyHiLMK2OFJ3z"
-      ],
-      "albumId": "4mL2jwFMI82Uw5Vffdv35Q",
+      "album": {
+        "id": "4mL2jwFMI82Uw5Vffdv35Q",
+        "name": "Among The Suns",
+        "img": "https://i.scdn.co/image/ab67616d00001e0205bc8fe458a7b6ddc9ef3c0e"
+      },
       "release_date": "2000",
       "popularity": 15
     },
     {
-      "trackId": "5gFlfviA4rdCIe2UPTi1yU",
-      "name": "Comin' Home Baby",
+      "track": {
+        "id": "5gFlfviA4rdCIe2UPTi1yU",
+        "name": "Comin' Home Baby"
+      },
       "duration_ms": 192200,
-      "artist": [
-        "Booker T. & the M.G.'s"
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "id": "2vDV0T8sxx2ENnKXds75e5"
+        }
       ],
-      "artistId": [
-        "2vDV0T8sxx2ENnKXds75e5"
-      ],
-      "albumId": "2aGFVLz0oQPa3uxCfq9lcU",
+      "album": {
+        "id": "2aGFVLz0oQPa3uxCfq9lcU",
+        "name": "Green Onions",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246007ceff2f1c33c9b9ec19c"
+      },
       "release_date": "1962",
       "popularity": 33
     }

@@ -7,174 +7,250 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2344868_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1OA8XDMxsMY2CSaZO79usW",
-      "name": "Full av liv",
+      "track": {
+        "id": "1OA8XDMxsMY2CSaZO79usW",
+        "name": "Full av liv"
+      },
       "duration_ms": 193293,
-      "artist": [
-        "Thomas Stenström"
+      "artists": [
+        {
+          "name": "Thomas Stenström",
+          "id": "2DWNa2o3BbsIHeBq7Iu6E7"
+        }
       ],
-      "artistId": [
-        "2DWNa2o3BbsIHeBq7Iu6E7"
-      ],
-      "albumId": "29yDhssUTL4rO8P9k9DxOi",
+      "album": {
+        "id": "29yDhssUTL4rO8P9k9DxOi",
+        "name": "Nåt annat, nån annanstans",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225bef5018ad24517f00a88c4"
+      },
       "release_date": "2012-06-13",
       "popularity": 38
     },
     {
-      "trackId": "7icLTAVqMv57WkfbJtRC9y",
-      "name": "Cosmic Love",
+      "track": {
+        "id": "7icLTAVqMv57WkfbJtRC9y",
+        "name": "Cosmic Love"
+      },
       "duration_ms": 255906,
-      "artist": [
-        "Florence + The Machine"
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "id": "1moxjboGR7GNWYIMWsRjgG"
+        }
       ],
-      "artistId": [
-        "1moxjboGR7GNWYIMWsRjgG"
-      ],
-      "albumId": "20IfnRy0UNN3WzuRLM68KM",
+      "album": {
+        "id": "20IfnRy0UNN3WzuRLM68KM",
+        "name": "Date Night: Indie Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7049a53fa9144a6f95ac898"
+      },
       "release_date": "2022-08-11",
       "popularity": 3
     },
     {
-      "trackId": "4RL77hMWUq35NYnPLXBpih",
-      "name": "Skinny Love",
+      "track": {
+        "id": "4RL77hMWUq35NYnPLXBpih",
+        "name": "Skinny Love"
+      },
       "duration_ms": 201080,
-      "artist": [
-        "Birdy"
+      "artists": [
+        {
+          "name": "Birdy",
+          "id": "2WX2uTcsvV5OnS0inACecP"
+        }
       ],
-      "artistId": [
-        "2WX2uTcsvV5OnS0inACecP"
-      ],
-      "albumId": "1WGjSVIw0TVfbp5KrOFiP0",
+      "album": {
+        "id": "1WGjSVIw0TVfbp5KrOFiP0",
+        "name": "Birdy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdebae610076f51e8b7b20f4"
+      },
       "release_date": "2011-11-04",
       "popularity": 70
     },
     {
-      "trackId": "0ix0QiT745Gyqo06J75hWs",
-      "name": "Där jag hänger min hatt",
+      "track": {
+        "id": "0ix0QiT745Gyqo06J75hWs",
+        "name": "Där jag hänger min hatt"
+      },
       "duration_ms": 215160,
-      "artist": [
-        "Norlie & KKV"
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "id": "2u8P7EawurNYoIzRtr5Knk"
+        }
       ],
-      "artistId": [
-        "2u8P7EawurNYoIzRtr5Knk"
-      ],
-      "albumId": "79BpxRLFVhBX5CydlRvFja",
+      "album": {
+        "id": "79BpxRLFVhBX5CydlRvFja",
+        "name": "Snart",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217c6f77a6847d8ede334b1c7"
+      },
       "release_date": "2013-01-01",
       "popularity": 50
     },
     {
-      "trackId": "7KALq4ES6wu3OxbjLBsNgI",
-      "name": "Dom tittar när jag dansar",
+      "track": {
+        "id": "7KALq4ES6wu3OxbjLBsNgI",
+        "name": "Dom tittar när jag dansar"
+      },
       "duration_ms": 227360,
-      "artist": [
-        "Kaah"
+      "artists": [
+        {
+          "name": "Kaah",
+          "id": "6K6JhPFZbq6tq35IOH4WBg"
+        }
       ],
-      "artistId": [
-        "6K6JhPFZbq6tq35IOH4WBg"
-      ],
-      "albumId": "6fpE6G5FSLZGUtpfSUHode",
+      "album": {
+        "id": "6fpE6G5FSLZGUtpfSUHode",
+        "name": "Beats, Melodier Och Baby Kaah",
+        "img": "https://i.scdn.co/image/ab67616d00001e026937e00f82bdf98bc0711af3"
+      },
       "release_date": "2001",
       "popularity": 22
     },
     {
-      "trackId": "6ndF1XQNseMhJGp7wAAILs",
-      "name": "Dear Mr. President (feat. Indigo Girls)",
+      "track": {
+        "id": "6ndF1XQNseMhJGp7wAAILs",
+        "name": "Dear Mr. President (feat. Indigo Girls)"
+      },
       "duration_ms": 273626,
-      "artist": [
-        "P!nk",
-        "Indigo Girls"
+      "artists": [
+        {
+          "name": "P!nk",
+          "id": "1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Indigo Girls",
+          "id": "4wM29TDTr3HI0qFY3KoSFG"
+        }
       ],
-      "artistId": [
-        "1KCSPY1glIKqW2TotWuXOR",
-        "4wM29TDTr3HI0qFY3KoSFG"
-      ],
-      "albumId": "5rK6h49Qd6gSxxbQGMrWfq",
+      "album": {
+        "id": "5rK6h49Qd6gSxxbQGMrWfq",
+        "name": "I'm Not Dead",
+        "img": "https://i.scdn.co/image/ab67616d00001e020156b42e6443277454bb30fa"
+      },
       "release_date": "2006-04-04",
       "popularity": 56
     },
     {
-      "trackId": "5aAfwNuKUeDuZd4wkUPlA2",
-      "name": "Paradise",
+      "track": {
+        "id": "5aAfwNuKUeDuZd4wkUPlA2",
+        "name": "Paradise"
+      },
       "duration_ms": 334493,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "23vzCh5cDn0LzdGmGWrT1d",
+      "album": {
+        "id": "23vzCh5cDn0LzdGmGWrT1d",
+        "name": "The Rising",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810"
+      },
       "release_date": "2002-07-30",
       "popularity": 43
     },
     {
-      "trackId": "46S6HjiiqyMNwE3xXv1nPH",
-      "name": "Wild Horses",
+      "track": {
+        "id": "46S6HjiiqyMNwE3xXv1nPH",
+        "name": "Wild Horses"
+      },
       "duration_ms": 241200,
-      "artist": [
-        "Natasha Bedingfield"
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "id": "7o95ZoZt5ZYn31e9z1Hc0a"
+        }
       ],
-      "artistId": [
-        "7o95ZoZt5ZYn31e9z1Hc0a"
-      ],
-      "albumId": "3PEzTAuPW5IjLJ58FzwQeL",
+      "album": {
+        "id": "3PEzTAuPW5IjLJ58FzwQeL",
+        "name": "Unwritten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b337e1ca6629a53c66a3b0d4"
+      },
       "release_date": "2004-08-30",
       "popularity": 46
     },
     {
-      "trackId": "3zN06t40mqFAPYS7US5Kx2",
-      "name": "Weightless",
+      "track": {
+        "id": "3zN06t40mqFAPYS7US5Kx2",
+        "name": "Weightless"
+      },
       "duration_ms": 229680,
-      "artist": [
-        "Emma Andersson",
-        "Bosson"
+      "artists": [
+        {
+          "name": "Emma Andersson",
+          "id": "7xDb497KbWPptEA7i6gbJM"
+        },
+        {
+          "name": "Bosson",
+          "id": "6zQ7KnAtU38PVWG4aqTAhM"
+        }
       ],
-      "artistId": [
-        "7xDb497KbWPptEA7i6gbJM",
-        "6zQ7KnAtU38PVWG4aqTAhM"
-      ],
-      "albumId": "095PUJyNsfhhPN1fiuli0t",
+      "album": {
+        "id": "095PUJyNsfhhPN1fiuli0t",
+        "name": "Who I Am",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279c58b6436431a702da5eab5"
+      },
       "release_date": "2002",
       "popularity": 14
     },
     {
-      "trackId": "0i7cDSYYTqUWQIcswtRFWA",
-      "name": "Je te promets",
+      "track": {
+        "id": "0i7cDSYYTqUWQIcswtRFWA",
+        "name": "Je te promets"
+      },
       "duration_ms": 258946,
-      "artist": [
-        "Zaho"
+      "artists": [
+        {
+          "name": "Zaho",
+          "id": "0vN920jukdAbErvjo2OJ2o"
+        }
       ],
-      "artistId": [
-        "0vN920jukdAbErvjo2OJ2o"
-      ],
-      "albumId": "2NkZFxHFAQZ8uTvCaKCHv8",
+      "album": {
+        "id": "2NkZFxHFAQZ8uTvCaKCHv8",
+        "name": "Dima",
+        "img": "https://i.scdn.co/image/ab67616d00001e023a0835a865ac1ba312970cce"
+      },
       "release_date": "2008-03-10",
       "popularity": 54
     },
     {
-      "trackId": "2UDADgwsXreo0c6ylxzb2Y",
-      "name": "Ängeln i rummet",
+      "track": {
+        "id": "2UDADgwsXreo0c6ylxzb2Y",
+        "name": "Ängeln i rummet"
+      },
       "duration_ms": 242040,
-      "artist": [
-        "Eva Dahlgren"
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "id": "7IK2JpZglDYTrso4ILEKE0"
+        }
       ],
-      "artistId": [
-        "7IK2JpZglDYTrso4ILEKE0"
-      ],
-      "albumId": "0mFVscExJSpYhATY4hZyOH",
+      "album": {
+        "id": "0mFVscExJSpYhATY4hZyOH",
+        "name": "Fria världen 1.989",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234be43c089ff4a6d2f558065"
+      },
       "release_date": "1989-02-22",
       "popularity": 44
     },
     {
-      "trackId": "7JvWfmVRzo4wP5AhAMXfFz",
-      "name": "Sober - Single Version",
+      "track": {
+        "id": "7JvWfmVRzo4wP5AhAMXfFz",
+        "name": "Sober - Single Version"
+      },
       "duration_ms": 232706,
-      "artist": [
-        "Loreen"
+      "artists": [
+        {
+          "name": "Loreen",
+          "id": "49aaHxvAJ0tCh0F15OnwIl"
+        }
       ],
-      "artistId": [
-        "49aaHxvAJ0tCh0F15OnwIl"
-      ],
-      "albumId": "50Mp4vXU4WSy5nfIjsEMmx",
+      "album": {
+        "id": "50Mp4vXU4WSy5nfIjsEMmx",
+        "name": "Sober",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3b55b060993b1ec1de26920"
+      },
       "release_date": "2011-09-12",
       "popularity": 23
     }

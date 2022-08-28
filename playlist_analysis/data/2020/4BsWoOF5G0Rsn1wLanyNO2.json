@@ -7,234 +7,338 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/aeae57ff-19ec-406b-a895-1f3a0f230bd1.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1AUQrnANEZmUwH7oSNSrLP",
-      "name": "The Perfect Bar Moment",
+      "track": {
+        "id": "1AUQrnANEZmUwH7oSNSrLP",
+        "name": "The Perfect Bar Moment"
+      },
       "duration_ms": 159124,
-      "artist": [
-        "Jazz Lounge Bar"
+      "artists": [
+        {
+          "name": "Jazz Lounge Bar",
+          "id": "2hHUcumhJFUHQKg5h3jI1Y"
+        }
       ],
-      "artistId": [
-        "2hHUcumhJFUHQKg5h3jI1Y"
-      ],
-      "albumId": "3CyBEjSTEzyWpy4TiYqUG7",
+      "album": {
+        "id": "3CyBEjSTEzyWpy4TiYqUG7",
+        "name": "Jazz Lounge Playlist",
+        "img": "https://i.scdn.co/image/ab67616d00001e02358744f8a97f4158d358cfcd"
+      },
       "release_date": "2019-08-05",
       "popularity": 43
     },
     {
-      "trackId": "1n548Txtnva8ZUXfBe7j8d",
-      "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966",
+      "track": {
+        "id": "1n548Txtnva8ZUXfBe7j8d",
+        "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966"
+      },
       "duration_ms": 312133,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "6Wzf9BalBqQAenrUb9xzUH",
+      "album": {
+        "id": "6Wzf9BalBqQAenrUb9xzUH",
+        "name": "Get On Up - The James Brown Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e022983f36e702c45bf2f98ef77"
+      },
       "release_date": "2014-07-29",
       "popularity": 30
     },
     {
-      "trackId": "7KX65PC1UZuImsUInThbav",
-      "name": "Cold Little Heart - Radio Edit",
+      "track": {
+        "id": "7KX65PC1UZuImsUInThbav",
+        "name": "Cold Little Heart - Radio Edit"
+      },
       "duration_ms": 210299,
-      "artist": [
-        "Michael Kiwanuka"
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "id": "0bzfPKdbXL5ezYW2z3UGQj"
+        }
       ],
-      "artistId": [
-        "0bzfPKdbXL5ezYW2z3UGQj"
-      ],
-      "albumId": "55A6d8TOuiAs6zDiKj2c3A",
+      "album": {
+        "id": "55A6d8TOuiAs6zDiKj2c3A",
+        "name": "Cold Little Heart (Radio Edit)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d38e121683bc208a4530fb22"
+      },
       "release_date": "2017-02-24",
       "popularity": 69
     },
     {
-      "trackId": "6jbmKRyrd02VqYozk94SFL",
-      "name": "En vänlig grönskas rika dräkt (Psalm 201)",
+      "track": {
+        "id": "6jbmKRyrd02VqYozk94SFL",
+        "name": "En vänlig grönskas rika dräkt (Psalm 201)"
+      },
       "duration_ms": 224666,
-      "artist": [
-        "Anders Widmark Trio"
+      "artists": [
+        {
+          "name": "Anders Widmark Trio",
+          "id": "74lV0oMFa3sSpDxUlfZ5yI"
+        }
       ],
-      "artistId": [
-        "74lV0oMFa3sSpDxUlfZ5yI"
-      ],
-      "albumId": "58TQrEfi5T1bi5KQVhRJ9r",
+      "album": {
+        "id": "58TQrEfi5T1bi5KQVhRJ9r",
+        "name": "Psalmer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc7b5002f93dfd6037bdac0"
+      },
       "release_date": "1997-09-01",
       "popularity": 34
     },
     {
-      "trackId": "5oE6INocVL9viDow5y8QNM",
-      "name": "Fragile",
+      "track": {
+        "id": "5oE6INocVL9viDow5y8QNM",
+        "name": "Fragile"
+      },
       "duration_ms": 236306,
-      "artist": [
-        "Sting"
+      "artists": [
+        {
+          "name": "Sting",
+          "id": "0Ty63ceoRnnJKVEYP0VQpk"
+        }
       ],
-      "artistId": [
-        "0Ty63ceoRnnJKVEYP0VQpk"
-      ],
-      "albumId": "3mVCQqgwEvwD7lHy9KHi7R",
+      "album": {
+        "id": "3mVCQqgwEvwD7lHy9KHi7R",
+        "name": "...Nothing Like The Sun",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce"
+      },
       "release_date": "1987-01-01",
       "popularity": 63
     },
     {
-      "trackId": "0VjIjW4GlUZAMYd2vXMi3b",
-      "name": "Blinding Lights",
+      "track": {
+        "id": "0VjIjW4GlUZAMYd2vXMi3b",
+        "name": "Blinding Lights"
+      },
       "duration_ms": 200040,
-      "artist": [
-        "The Weeknd"
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+        }
       ],
-      "artistId": [
-        "1Xyo4u8uXC1ZmMpatF05PJ"
-      ],
-      "albumId": "4yP0hdKOZPNshxUOjY0cZj",
+      "album": {
+        "id": "4yP0hdKOZPNshxUOjY0cZj",
+        "name": "After Hours",
+        "img": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
+      },
       "release_date": "2020-03-20",
       "popularity": 90
     },
     {
-      "trackId": "7qwfBG8sMr8xw7Z2dSItR3",
-      "name": "Tive Um Caroçao Perdi-O",
+      "track": {
+        "id": "7qwfBG8sMr8xw7Z2dSItR3",
+        "name": "Tive Um Caroçao Perdi-O"
+      },
       "duration_ms": 226360,
-      "artist": [
-        "Cristina Branco"
+      "artists": [
+        {
+          "name": "Cristina Branco",
+          "id": "0Naz1mk7F25xrk44Ugd8nd"
+        }
       ],
-      "artistId": [
-        "0Naz1mk7F25xrk44Ugd8nd"
-      ],
-      "albumId": "03nYsjVHlPafykPrBdqvh3",
+      "album": {
+        "id": "03nYsjVHlPafykPrBdqvh3",
+        "name": "Live",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4c4fbcf64cdbef25e59138a"
+      },
       "release_date": "2006-01-01",
       "popularity": 4
     },
     {
-      "trackId": "6UfhhnrAycXvCLVMXYMwQS",
-      "name": "Nightingale",
+      "track": {
+        "id": "6UfhhnrAycXvCLVMXYMwQS",
+        "name": "Nightingale"
+      },
       "duration_ms": 190920,
-      "artist": [
-        "Nick Ingman Orchestra"
+      "artists": [
+        {
+          "name": "Nick Ingman Orchestra",
+          "id": "0WZTY51JuVkiw9JIhVOxqw"
+        }
       ],
-      "artistId": [
-        "0WZTY51JuVkiw9JIhVOxqw"
-      ],
-      "albumId": "1am2PJFY98SbkD1l3yLWUH",
+      "album": {
+        "id": "1am2PJFY98SbkD1l3yLWUH",
+        "name": "I Heard It Through the Grapevine",
+        "img": "https://i.scdn.co/image/ab67616d00001e0294f49ec2d0e6bec52320ff5c"
+      },
       "release_date": "2012-10-16",
       "popularity": 0
     },
     {
-      "trackId": "0lIhU5NRZBSGlATPih9Ggf",
-      "name": "Resurrection",
+      "track": {
+        "id": "0lIhU5NRZBSGlATPih9Ggf",
+        "name": "Resurrection"
+      },
       "duration_ms": 304000,
-      "artist": [
-        "John Debney",
-        "Ron Allen",
-        "Chris Bleth"
+      "artists": [
+        {
+          "name": "John Debney",
+          "id": "7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Ron Allen",
+          "id": "7nK4YiFHZPLKM4moUWZleH"
+        },
+        {
+          "name": "Chris Bleth",
+          "id": "5MBfR1Uf7tfwTbrwHJPjkv"
+        }
       ],
-      "artistId": [
-        "7mCsyzq823cXJ5puxUN3aJ",
-        "7nK4YiFHZPLKM4moUWZleH",
-        "5MBfR1Uf7tfwTbrwHJPjkv"
-      ],
-      "albumId": "1ecQkJKhyhXpT6ZYOAYIn1",
+      "album": {
+        "id": "1ecQkJKhyhXpT6ZYOAYIn1",
+        "name": "The Passion Of The Christ - Original Motion Picture Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02090fdb3dc88ef504a0b92781"
+      },
       "release_date": "2003-12-08",
       "popularity": 39
     },
     {
-      "trackId": "4esOae7i4rqTbAu9o5Pxco",
-      "name": "Girl on Fire",
+      "track": {
+        "id": "4esOae7i4rqTbAu9o5Pxco",
+        "name": "Girl on Fire"
+      },
       "duration_ms": 224920,
-      "artist": [
-        "Alicia Keys"
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "id": "3DiDSECUqqY1AuBP8qtaIa"
+        }
       ],
-      "artistId": [
-        "3DiDSECUqqY1AuBP8qtaIa"
-      ],
-      "albumId": "3zZSz5VOYSu0jE4MkPCOvN",
+      "album": {
+        "id": "3zZSz5VOYSu0jE4MkPCOvN",
+        "name": "Girl on Fire (Remixes) - EP",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4fe49eb27e8152710e7a590"
+      },
       "release_date": "2012-11-18",
       "popularity": 77
     },
     {
-      "trackId": "2qBmtZnPSQouvADmqaHKxk",
-      "name": "Million Years Ago",
+      "track": {
+        "id": "2qBmtZnPSQouvADmqaHKxk",
+        "name": "Million Years Ago"
+      },
       "duration_ms": 227065,
-      "artist": [
-        "Adele"
+      "artists": [
+        {
+          "name": "Adele",
+          "id": "4dpARuHxo51G3z768sgnrY"
+        }
       ],
-      "artistId": [
-        "4dpARuHxo51G3z768sgnrY"
-      ],
-      "albumId": "6TVfiWmo8KtflUAmkK9gGF",
+      "album": {
+        "id": "6TVfiWmo8KtflUAmkK9gGF",
+        "name": "25",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1ea3305aa003425dda05882"
+      },
       "release_date": "2015-11-20",
       "popularity": 63
     },
     {
-      "trackId": "3gFS9CKU70Wm7vAoA0O1uW",
-      "name": "Hard Time",
+      "track": {
+        "id": "3gFS9CKU70Wm7vAoA0O1uW",
+        "name": "Hard Time"
+      },
       "duration_ms": 209341,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 51
     },
     {
-      "trackId": "4JaoU6fL2Ifz2gDyFYtpiP",
-      "name": "Halo",
+      "track": {
+        "id": "4JaoU6fL2Ifz2gDyFYtpiP",
+        "name": "Halo"
+      },
       "duration_ms": 232986,
-      "artist": [
-        "Ane Brun",
-        "Linnea Olsson"
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "id": "2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "id": "5URaqWGLWi0maxmjctj8I0"
+        }
       ],
-      "artistId": [
-        "2L3kwZFd16zjHz9a5kEPAm",
-        "5URaqWGLWi0maxmjctj8I0"
-      ],
-      "albumId": "1bvAlOqMbnWLwTcp65kSAP",
+      "album": {
+        "id": "1bvAlOqMbnWLwTcp65kSAP",
+        "name": "Rarities",
+        "img": "https://i.scdn.co/image/ab67616d00001e029a11993d6b640c685e3ec61d"
+      },
       "release_date": "2013-10-04",
       "popularity": 54
     },
     {
-      "trackId": "0cv1Mnb47oMvjVKMc2cyZw",
-      "name": "Can't Hold Us Down (feat. Lil' Kim)",
+      "track": {
+        "id": "0cv1Mnb47oMvjVKMc2cyZw",
+        "name": "Can't Hold Us Down (feat. Lil' Kim)"
+      },
       "duration_ms": 255266,
-      "artist": [
-        "Christina Aguilera",
-        "Lil' Kim"
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "id": "1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "id": "5tth2a3v0sWwV1C7bApBdX"
+        }
       ],
-      "artistId": [
-        "1l7ZsJRRS8wlW3WfJfPfNS",
-        "5tth2a3v0sWwV1C7bApBdX"
-      ],
-      "albumId": "2USigX9DhGuAini71XZEEK",
+      "album": {
+        "id": "2USigX9DhGuAini71XZEEK",
+        "name": "Stripped",
+        "img": "https://i.scdn.co/image/ab67616d00001e027cd872c7701c4737b2f81d87"
+      },
       "release_date": "2002-07-19",
       "popularity": 61
     },
     {
-      "trackId": "6mjIDTl9x9ZT6Pna7EAnMW",
-      "name": "The Weight Is Gone - The Purgatory Sessions",
+      "track": {
+        "id": "6mjIDTl9x9ZT6Pna7EAnMW",
+        "name": "The Weight Is Gone - The Purgatory Sessions"
+      },
       "duration_ms": 186480,
-      "artist": [
-        "Albin Lee Meldau"
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "id": "1AdKbbV5v6ifuJertEjNeK"
+        }
       ],
-      "artistId": [
-        "1AdKbbV5v6ifuJertEjNeK"
-      ],
-      "albumId": "1C7BuQmWFQT8CV3mHXdt2C",
+      "album": {
+        "id": "1C7BuQmWFQT8CV3mHXdt2C",
+        "name": "The Purgatory Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02111bdbee8a21b2dde1360e1f"
+      },
       "release_date": "2019-02-15",
       "popularity": 45
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     }

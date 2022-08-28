@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257608_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3OwtuzRo8mc7lgsBau9MWk",
-      "name": "Where the Wild Roses Grow - 2011 - Remaster",
+      "track": {
+        "id": "3OwtuzRo8mc7lgsBau9MWk",
+        "name": "Where the Wild Roses Grow - 2011 - Remaster"
+      },
       "duration_ms": 237080,
-      "artist": [
-        "Nick Cave & The Bad Seeds",
-        "Kylie Minogue"
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "id": "4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "Kylie Minogue",
+          "id": "4RVnAU35WRWra6OZ3CbbMA"
+        }
       ],
-      "artistId": [
-        "4UXJsSlnKd7ltsrHebV79Q",
-        "4RVnAU35WRWra6OZ3CbbMA"
-      ],
-      "albumId": "0SJIg249cRWdGWEcqXsYyW",
+      "album": {
+        "id": "0SJIg249cRWdGWEcqXsYyW",
+        "name": "Murder Ballads (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f6d53991e9eced932ea15ef8"
+      },
       "release_date": "1996",
       "popularity": 58
     },
     {
-      "trackId": "0FQJnOrMXL2r6OiGI1L6om",
-      "name": "Wind of Change (Made Popular By Scorpions) [Vocal Version]",
+      "track": {
+        "id": "0FQJnOrMXL2r6OiGI1L6om",
+        "name": "Wind of Change (Made Popular By Scorpions) [Vocal Version]"
+      },
       "duration_ms": 315654,
-      "artist": [
-        "Party Tyme Karaoke"
+      "artists": [
+        {
+          "name": "Party Tyme Karaoke",
+          "id": "3JoDcjZtpq0ccldFgYmeAB"
+        }
       ],
-      "artistId": [
-        "3JoDcjZtpq0ccldFgYmeAB"
-      ],
-      "albumId": "6KyN0iOK7BTR5LACGfZ0Ka",
+      "album": {
+        "id": "6KyN0iOK7BTR5LACGfZ0Ka",
+        "name": "Party Tyme Karaoke - Rock Male Hits 6 (Vocal Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02586b99fe3757161d2d952bf4"
+      },
       "release_date": "2020-12-18",
       "popularity": 0
     },
     {
-      "trackId": "6si71supnBUhddjR2FJc2L",
-      "name": "White Flag",
+      "track": {
+        "id": "6si71supnBUhddjR2FJc2L",
+        "name": "White Flag"
+      },
       "duration_ms": 240040,
-      "artist": [
-        "Dido"
+      "artists": [
+        {
+          "name": "Dido",
+          "id": "2mpeljBig2IXLXRAFO9AAs"
+        }
       ],
-      "artistId": [
-        "2mpeljBig2IXLXRAFO9AAs"
-      ],
-      "albumId": "7HlZFlk0jJq3Bb03AOyMTE",
+      "album": {
+        "id": "7HlZFlk0jJq3Bb03AOyMTE",
+        "name": "Life For Rent",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d41b79f27ef8d8df5a191219"
+      },
       "release_date": "2003",
       "popularity": 69
     },
     {
-      "trackId": "65E62rOSbm7SZbAMYjNTJq",
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "track": {
+        "id": "65E62rOSbm7SZbAMYjNTJq",
+        "name": "Pride (In The Name Of Love) - Remastered 2009"
+      },
       "duration_ms": 228426,
-      "artist": [
-        "U2"
+      "artists": [
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "6akaB3XfTnCwrY4DahsBCY",
+      "album": {
+        "id": "6akaB3XfTnCwrY4DahsBCY",
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277df2aceaf90f06a20b56b14"
+      },
       "release_date": "1984-10-01",
       "popularity": 68
     },
     {
-      "trackId": "3850dYVgOFIXJh5U4BFEWH",
-      "name": "Hung Up",
+      "track": {
+        "id": "3850dYVgOFIXJh5U4BFEWH",
+        "name": "Hung Up"
+      },
       "duration_ms": 337733,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "1hg0pQJLE9dzfT1kgZtDPr",
+      "album": {
+        "id": "1hg0pQJLE9dzfT1kgZtDPr",
+        "name": "Confessions on a Dance Floor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efcbc3f42da96cea7583bb6f"
+      },
       "release_date": "2005-11-11",
       "popularity": 75
     },
     {
-      "trackId": "144JMbvbR5txNzoZ112wo4",
-      "name": "Strong Enough",
+      "track": {
+        "id": "144JMbvbR5txNzoZ112wo4",
+        "name": "Strong Enough"
+      },
       "duration_ms": 224000,
-      "artist": [
-        "Cher"
+      "artists": [
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "0jZfbz0dNfDjPSg0hYJNth",
+      "album": {
+        "id": "0jZfbz0dNfDjPSg0hYJNth",
+        "name": "Believe",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261c83e0a3e42be611729c840"
+      },
       "release_date": "1998",
       "popularity": 66
     },
     {
-      "trackId": "0F9B8q3pSSiRiSFNcWVXk6",
-      "name": "Där elden falnar (men fortfarande glöder)",
+      "track": {
+        "id": "0F9B8q3pSSiRiSFNcWVXk6",
+        "name": "Där elden falnar (men fortfarande glöder)"
+      },
       "duration_ms": 269520,
-      "artist": [
-        "Lars Winnerbäck",
-        "Hovet"
+      "artists": [
+        {
+          "name": "Lars Winnerbäck",
+          "id": "33zLgL7tT1vg7eRpWYX5uI"
+        },
+        {
+          "name": "Hovet",
+          "id": "1mkupBftTQBqAlheoJt0HO"
+        }
       ],
-      "artistId": [
-        "33zLgL7tT1vg7eRpWYX5uI",
-        "1mkupBftTQBqAlheoJt0HO"
-      ],
-      "albumId": "7gDUxlSaf2kS8mVMhFxgar",
+      "album": {
+        "id": "7gDUxlSaf2kS8mVMhFxgar",
+        "name": "Stort liv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e708fb9ddd820cd79d1a2997"
+      },
       "release_date": "2005-01-01",
       "popularity": 38
     },
     {
-      "trackId": "6L0bHTV6hf9UL6uCezlJCC",
-      "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
+      "track": {
+        "id": "6L0bHTV6hf9UL6uCezlJCC",
+        "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)"
+      },
       "duration_ms": 190573,
-      "artist": [
-        "Elvis Presley",
-        "Post Malone",
-        "Shawn Mendes"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Post Malone",
+          "id": "246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Shawn Mendes",
+          "id": "7n2wHs1TKAczGzO7Dd2rGr"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE",
-        "246dkjvS1zLTtiykXe5h60",
-        "7n2wHs1TKAczGzO7Dd2rGr"
-      ],
-      "albumId": "1vaQwUom5fWnLNJDcabU01",
+      "album": {
+        "id": "1vaQwUom5fWnLNJDcabU01",
+        "name": "The Best of The '68 Comeback Special (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0264bacd30d444e59fb40319e0"
+      },
       "release_date": "2019-02-15",
       "popularity": 57
     },
     {
-      "trackId": "5AE2Q5ecdUUPxjNbIknTNW",
-      "name": "Huzurlu",
+      "track": {
+        "id": "5AE2Q5ecdUUPxjNbIknTNW",
+        "name": "Huzurlu"
+      },
       "duration_ms": 183000,
-      "artist": [
-        "Aidin"
+      "artists": [
+        {
+          "name": "Aidin",
+          "id": "1FQMmopnjYkAuyjQImmDMM"
+        }
       ],
-      "artistId": [
-        "1FQMmopnjYkAuyjQImmDMM"
-      ],
-      "albumId": "4vsCehW0aBcrsCeTWodFYa",
+      "album": {
+        "id": "4vsCehW0aBcrsCeTWodFYa",
+        "name": "Huzurlu",
+        "img": "https://i.scdn.co/image/ab67616d00001e022262156049ec20b4ce1d0fbe"
+      },
       "release_date": "2022-02-17",
       "popularity": 53
     },
     {
-      "trackId": "78WhETpK4Dk7j8tKBlM8P8",
-      "name": "Relalalaxa",
+      "track": {
+        "id": "78WhETpK4Dk7j8tKBlM8P8",
+        "name": "Relalalaxa"
+      },
       "duration_ms": 255626,
-      "artist": [
-        "Just D"
+      "artists": [
+        {
+          "name": "Just D",
+          "id": "2zBTTG88cyMow2iY5hk4pP"
+        }
       ],
-      "artistId": [
-        "2zBTTG88cyMow2iY5hk4pP"
-      ],
-      "albumId": "1hGknhDJeqGl2VR95CLGal",
+      "album": {
+        "id": "1hGknhDJeqGl2VR95CLGal",
+        "name": "Svensk sommar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e59861190fc754988c0c4392"
+      },
       "release_date": "2008-06-23",
       "popularity": 22
     },
     {
-      "trackId": "28IGNpjAGl25bJwWgyl9kN",
-      "name": "Lady Stardust",
+      "track": {
+        "id": "28IGNpjAGl25bJwWgyl9kN",
+        "name": "Lady Stardust"
+      },
       "duration_ms": 282293,
-      "artist": [
-        "Lisa Miskovsky"
+      "artists": [
+        {
+          "name": "Lisa Miskovsky",
+          "id": "5J0dXmqEYctfFsmcakqZFH"
+        }
       ],
-      "artistId": [
-        "5J0dXmqEYctfFsmcakqZFH"
-      ],
-      "albumId": "1V6LtwV2IykYNHOwVsELKz",
+      "album": {
+        "id": "1V6LtwV2IykYNHOwVsELKz",
+        "name": "Fallingwater",
+        "img": "https://i.scdn.co/image/ab67616d00001e021470ea9ae3c34f6436ae1252"
+      },
       "release_date": "2003-01-01",
       "popularity": 44
     },
     {
-      "trackId": "00ETaeHUQ6lops3oWU1Wrt",
-      "name": "Hot Stuff",
+      "track": {
+        "id": "00ETaeHUQ6lops3oWU1Wrt",
+        "name": "Hot Stuff"
+      },
       "duration_ms": 199007,
-      "artist": [
-        "Kygo",
-        "Donna Summer"
+      "artists": [
+        {
+          "name": "Kygo",
+          "id": "23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Donna Summer",
+          "id": "2eogQKWWoohI3BSnoG7E2U"
+        }
       ],
-      "artistId": [
-        "23fqKkggKUBHNkbKtXEls4",
-        "2eogQKWWoohI3BSnoG7E2U"
-      ],
-      "albumId": "6t95dMgjNYMtwXTKlISI42",
+      "album": {
+        "id": "6t95dMgjNYMtwXTKlISI42",
+        "name": "Hot Stuff",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fc0ee2f829a7138af579c97"
+      },
       "release_date": "2020-09-18",
       "popularity": 67
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     }

@@ -7,230 +7,330 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3257008_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2zs1AC2JRnfy15yNOcYIlZ",
-      "name": "De ä bar å åk",
+      "track": {
+        "id": "2zs1AC2JRnfy15yNOcYIlZ",
+        "name": "De ä bar å åk"
+      },
       "duration_ms": 194333,
-      "artist": [
-        "Alpina Skidlandslaget"
+      "artists": [
+        {
+          "name": "Alpina Skidlandslaget",
+          "id": "7l3iHMHuBbZ5OwWzrN36Pq"
+        }
       ],
-      "artistId": [
-        "7l3iHMHuBbZ5OwWzrN36Pq"
-      ],
-      "albumId": "0eKFBlECCV7Xztl8JbBDiL",
+      "album": {
+        "id": "0eKFBlECCV7Xztl8JbBDiL",
+        "name": "De Ä Bar Å Åk",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c7a35b4f6e321a9608838a2"
+      },
       "release_date": "1976",
       "popularity": 21
     },
     {
-      "trackId": "74937dcwoOlD4UK44xbSDb",
-      "name": "Svordomsvisan",
+      "track": {
+        "id": "74937dcwoOlD4UK44xbSDb",
+        "name": "Svordomsvisan"
+      },
       "duration_ms": 80666,
-      "artist": [
-        "Magnus & Brasse"
+      "artists": [
+        {
+          "name": "Magnus & Brasse",
+          "id": "7EAytuC4xDYyJo74uAxDHK"
+        }
       ],
-      "artistId": [
-        "7EAytuC4xDYyJo74uAxDHK"
-      ],
-      "albumId": "1X3JGxHRqevOiPouW1DrOD",
+      "album": {
+        "id": "1X3JGxHRqevOiPouW1DrOD",
+        "name": "Varning för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baa7da738728d438705c7bd9"
+      },
       "release_date": "1976",
       "popularity": 32
     },
     {
-      "trackId": "0SLtqCrXBRrnkxSOMA3X4W",
-      "name": "Let Me Entertain You",
+      "track": {
+        "id": "0SLtqCrXBRrnkxSOMA3X4W",
+        "name": "Let Me Entertain You"
+      },
       "duration_ms": 262000,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
+      "album": {
+        "id": "31Sx9uz9KqlvmX07Pvp0wN",
+        "name": "Life Thru A Lens",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c36cf94d717475042f6bb0f3"
+      },
       "release_date": "1997-01-01",
       "popularity": 66
     },
     {
-      "trackId": "1lp0bwGX8D31vUybJSiCm8",
-      "name": "Islands & Shores",
+      "track": {
+        "id": "1lp0bwGX8D31vUybJSiCm8",
+        "name": "Islands & Shores"
+      },
       "duration_ms": 339906,
-      "artist": [
-        "Deportees"
+      "artists": [
+        {
+          "name": "Deportees",
+          "id": "64WsK4rMjSwnyuzTPFHVH4"
+        }
       ],
-      "artistId": [
-        "64WsK4rMjSwnyuzTPFHVH4"
-      ],
-      "albumId": "0CcemDxth7sipgWhMj3TvZ",
+      "album": {
+        "id": "0CcemDxth7sipgWhMj3TvZ",
+        "name": "Islands & Shores",
+        "img": "https://i.scdn.co/image/ab67616d00001e0210c3be9a39cba48d35d99eba"
+      },
       "release_date": "2011-01-01",
       "popularity": 44
     },
     {
-      "trackId": "3X4JH0aBqKKAamYkpj5xer",
-      "name": "Did You Give the World Some Love Today, Baby",
+      "track": {
+        "id": "3X4JH0aBqKKAamYkpj5xer",
+        "name": "Did You Give the World Some Love Today, Baby"
+      },
       "duration_ms": 199049,
-      "artist": [
-        "Doris"
+      "artists": [
+        {
+          "name": "Doris",
+          "id": "4oNCFX4cbl6Jy1VANKiE6A"
+        }
       ],
-      "artistId": [
-        "4oNCFX4cbl6Jy1VANKiE6A"
-      ],
-      "albumId": "5ihQ4Gepi7qXFrKqVF5shn",
+      "album": {
+        "id": "5ihQ4Gepi7qXFrKqVF5shn",
+        "name": "Did You Give The World Some Love Today Baby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3738b608863849e936f2d3c"
+      },
       "release_date": "1970",
       "popularity": 38
     },
     {
-      "trackId": "1nJVcX2FHJpdoWaG3BmaAq",
-      "name": "Du lever bara en gång",
+      "track": {
+        "id": "1nJVcX2FHJpdoWaG3BmaAq",
+        "name": "Du lever bara en gång"
+      },
       "duration_ms": 197720,
-      "artist": [
-        "Noice"
+      "artists": [
+        {
+          "name": "Noice",
+          "id": "1TVoFA7SMYs6AG3u83FP69"
+        }
       ],
-      "artistId": [
-        "1TVoFA7SMYs6AG3u83FP69"
-      ],
-      "albumId": "6r9cz7JKR7RnQgYys5Xg0u",
+      "album": {
+        "id": "6r9cz7JKR7RnQgYys5Xg0u",
+        "name": "Noice - 2004",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cbcb7159cdf0194e21694ad7"
+      },
       "release_date": "2004-01-01",
       "popularity": 50
     },
     {
-      "trackId": "5K09WxKdlkroDyEVyOSySy",
-      "name": "(You Make Me Feel Like) A Natural Woman",
+      "track": {
+        "id": "5K09WxKdlkroDyEVyOSySy",
+        "name": "(You Make Me Feel Like) A Natural Woman"
+      },
       "duration_ms": 165333,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "7lEOKZaOpqP70UYqdLPejG",
+      "album": {
+        "id": "7lEOKZaOpqP70UYqdLPejG",
+        "name": "Lady Soul (With Bonus Selections)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029e5af96086574b76499dcf70"
+      },
       "release_date": "1968-01-22",
       "popularity": 67
     },
     {
-      "trackId": "74937dcwoOlD4UK44xbSDb",
-      "name": "Svordomsvisan",
+      "track": {
+        "id": "74937dcwoOlD4UK44xbSDb",
+        "name": "Svordomsvisan"
+      },
       "duration_ms": 80666,
-      "artist": [
-        "Magnus & Brasse"
+      "artists": [
+        {
+          "name": "Magnus & Brasse",
+          "id": "7EAytuC4xDYyJo74uAxDHK"
+        }
       ],
-      "artistId": [
-        "7EAytuC4xDYyJo74uAxDHK"
-      ],
-      "albumId": "1X3JGxHRqevOiPouW1DrOD",
+      "album": {
+        "id": "1X3JGxHRqevOiPouW1DrOD",
+        "name": "Varning för barn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02baa7da738728d438705c7bd9"
+      },
       "release_date": "1976",
       "popularity": 32
     },
     {
-      "trackId": "0wbDgMuAoy7O7pL3a69uZx",
-      "name": "Give It To Me",
+      "track": {
+        "id": "0wbDgMuAoy7O7pL3a69uZx",
+        "name": "Give It To Me"
+      },
       "duration_ms": 234026,
-      "artist": [
-        "Timbaland",
-        "Justin Timberlake",
-        "Nelly Furtado"
+      "artists": [
+        {
+          "name": "Timbaland",
+          "id": "5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Justin Timberlake",
+          "id": "31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "id": "2jw70GZXlAI8QzWeY2bgRc"
+        }
       ],
-      "artistId": [
-        "5Y5TRrQiqgUO4S36tzjIRZ",
-        "31TPClRtHm23RisEBtV3X7",
-        "2jw70GZXlAI8QzWeY2bgRc"
-      ],
-      "albumId": "0V7TZQmJBgI81M9Z7GWxCI",
+      "album": {
+        "id": "0V7TZQmJBgI81M9Z7GWxCI",
+        "name": "Shock Value",
+        "img": "https://i.scdn.co/image/ab67616d00001e02755a9f1e89ad8e8cf91d4956"
+      },
       "release_date": "2007-01-01",
       "popularity": 70
     },
     {
-      "trackId": "1kCF1WET7woJ5968zEDw7d",
-      "name": "Remember me",
+      "track": {
+        "id": "1kCF1WET7woJ5968zEDw7d",
+        "name": "Remember me"
+      },
       "duration_ms": 158309,
-      "artist": [
-        "Leslie Parrish"
+      "artists": [
+        {
+          "name": "Leslie Parrish",
+          "id": "0fcQm3RnOXaVsvKtnRp2K8"
+        }
       ],
-      "artistId": [
-        "0fcQm3RnOXaVsvKtnRp2K8"
-      ],
-      "albumId": "729vF8Uz1YnYXwTlGf6IQn",
+      "album": {
+        "id": "729vF8Uz1YnYXwTlGf6IQn",
+        "name": "Remember me",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f5116e991c84d6b4a33968d"
+      },
       "release_date": "2019-01-08",
       "popularity": 45
     },
     {
-      "trackId": "0CDSCVQ6WgvcMo3dMQLbi7",
-      "name": "Gula Gula",
+      "track": {
+        "id": "0CDSCVQ6WgvcMo3dMQLbi7",
+        "name": "Gula Gula"
+      },
       "duration_ms": 224200,
-      "artist": [
-        "Mari Boine"
+      "artists": [
+        {
+          "name": "Mari Boine",
+          "id": "4t4unGD2iYlkONGDmBbkcE"
+        }
       ],
-      "artistId": [
-        "4t4unGD2iYlkONGDmBbkcE"
-      ],
-      "albumId": "0BUnPGHuc1sFBuXbaDhGm3",
+      "album": {
+        "id": "0BUnPGHuc1sFBuXbaDhGm3",
+        "name": "Gula Gula",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235304fc82ac18a26fe4e4a68"
+      },
       "release_date": "2001-01-01",
       "popularity": 28
     },
     {
-      "trackId": "6pPWRBubXOBAHnjl5ZIujB",
-      "name": "The Best",
+      "track": {
+        "id": "6pPWRBubXOBAHnjl5ZIujB",
+        "name": "The Best"
+      },
       "duration_ms": 329800,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "3hgAoHSmany3EiKL0Aqh3G",
+      "album": {
+        "id": "3hgAoHSmany3EiKL0Aqh3G",
+        "name": "Foreign Affair",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a04b4373fd72bf81c8784adf"
+      },
       "release_date": "1989-09-13",
       "popularity": 69
     },
     {
-      "trackId": "2zUsiqLZUwwMMEiIqaZag7",
-      "name": "Mjölkbilen",
+      "track": {
+        "id": "2zUsiqLZUwwMMEiIqaZag7",
+        "name": "Mjölkbilen"
+      },
       "duration_ms": 193693,
-      "artist": [
-        "Lifvens"
+      "artists": [
+        {
+          "name": "Lifvens",
+          "id": "68ifcFHT94rm39Nu2ktCg5"
+        }
       ],
-      "artistId": [
-        "68ifcFHT94rm39Nu2ktCg5"
-      ],
-      "albumId": "6a05oxMFWkWoQDNPZNh6MX",
+      "album": {
+        "id": "6a05oxMFWkWoQDNPZNh6MX",
+        "name": "Lifvstid 1993-2008",
+        "img": "https://i.scdn.co/image/ab67616d00001e0278513bc551321999b0c04dce"
+      },
       "release_date": "2008-08-30",
       "popularity": 43
     },
     {
-      "trackId": "4qjWcGhRQ28WEYuLDZ4aAR",
-      "name": "Cheek to Cheek",
+      "track": {
+        "id": "4qjWcGhRQ28WEYuLDZ4aAR",
+        "name": "Cheek to Cheek"
+      },
       "duration_ms": 195840,
-      "artist": [
-        "Sahara Hotnights"
+      "artists": [
+        {
+          "name": "Sahara Hotnights",
+          "id": "2VPvWVAiP9GICmwh4bLUuE"
+        }
       ],
-      "artistId": [
-        "2VPvWVAiP9GICmwh4bLUuE"
-      ],
-      "albumId": "5eIZ42osOPPTKEL65l8rV3",
+      "album": {
+        "id": "5eIZ42osOPPTKEL65l8rV3",
+        "name": "What If Leaving Is a Loving Thing",
+        "img": "https://i.scdn.co/image/ab67616d00001e024be3aaba0b1edbdcbeec27d4"
+      },
       "release_date": "2007-01-01",
       "popularity": 51
     },
     {
-      "trackId": "28P5HAF0Kll9Xd9dX4qw7A",
-      "name": "Eye of the Tiger",
+      "track": {
+        "id": "28P5HAF0Kll9Xd9dX4qw7A",
+        "name": "Eye of the Tiger"
+      },
       "duration_ms": 243773,
-      "artist": [
-        "Survivor"
+      "artists": [
+        {
+          "name": "Survivor",
+          "id": "26bcq2nyj5GB7uRr558iQg"
+        }
       ],
-      "artistId": [
-        "26bcq2nyj5GB7uRr558iQg"
-      ],
-      "albumId": "1v8q5oFweXG7AH9kjCoMyX",
+      "album": {
+        "id": "1v8q5oFweXG7AH9kjCoMyX",
+        "name": "Eye Of The Tiger",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228c091d788ec5126817dc07a"
+      },
       "release_date": "1982",
       "popularity": 59
     },
     {
-      "trackId": "6TbojDcYx5Gk9yxSKeaaXX",
-      "name": "Om Du Behöver Mig",
+      "track": {
+        "id": "6TbojDcYx5Gk9yxSKeaaXX",
+        "name": "Om Du Behöver Mig"
+      },
       "duration_ms": 279906,
-      "artist": [
-        "Cajsa Stina Åkerström"
+      "artists": [
+        {
+          "name": "Cajsa Stina Åkerström",
+          "id": "0N98N0DiskOexjlZjJ6YZ7"
+        }
       ],
-      "artistId": [
-        "0N98N0DiskOexjlZjJ6YZ7"
-      ],
-      "albumId": "7o7SeUs8YcX8H913YdMlPl",
+      "album": {
+        "id": "7o7SeUs8YcX8H913YdMlPl",
+        "name": "Kärleken Finns Överallt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5a167273685952ac588441c"
+      },
       "release_date": "2006-08-23",
       "popularity": 10
     }

@@ -7,298 +7,434 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3230395_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "68BTFws92cRztMS1oQ7Ewj",
-      "name": "All You Need Is Love - Remastered 2009",
+      "track": {
+        "id": "68BTFws92cRztMS1oQ7Ewj",
+        "name": "All You Need Is Love - Remastered 2009"
+      },
       "duration_ms": 230386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "2BtE7qm1qzM80p9vLSiXkj",
+      "album": {
+        "id": "2BtE7qm1qzM80p9vLSiXkj",
+        "name": "Magical Mystery Tour (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1"
+      },
       "release_date": "1967-11-27",
       "popularity": 65
     },
     {
-      "trackId": "33RRrLwJKbF4VyT1bkdsOm",
-      "name": "Looking For A Boy",
+      "track": {
+        "id": "33RRrLwJKbF4VyT1bkdsOm",
+        "name": "Looking For A Boy"
+      },
       "duration_ms": 189600,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "3l3qa4Uvk3f2YszSYSAQgR",
+      "album": {
+        "id": "3l3qa4Uvk3f2YszSYSAQgR",
+        "name": "Romantic Jazz For Lovers",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f44c73f073e84604efed4da"
+      },
       "release_date": "2022-08-11",
       "popularity": 1
     },
     {
-      "trackId": "0HVyFhnBlnu70TLb7s465K",
-      "name": "La Bohème: Act II: Quando m'en vo'",
+      "track": {
+        "id": "0HVyFhnBlnu70TLb7s465K",
+        "name": "La Bohème: Act II: Quando m'en vo'"
+      },
       "duration_ms": 214706,
-      "artist": [
-        "Giacomo Puccini",
-        "Plácido Domingo",
-        "Montserrat Caballé"
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "id": "0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Plácido Domingo",
+          "id": "4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Montserrat Caballé",
+          "id": "6oGu0NZWy8gJ18wggybFqH"
+        }
       ],
-      "artistId": [
-        "0OzxPXyowUEQ532c9AmHUR",
-        "4pU3BpenOZFEBzORx2YBJW",
-        "6oGu0NZWy8gJ18wggybFqH"
-      ],
-      "albumId": "77M2rzaZ4Z1KABal7gYDZl",
+      "album": {
+        "id": "77M2rzaZ4Z1KABal7gYDZl",
+        "name": "Puccini: La Bohème",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef81d2c6d8700226b22b03f1"
+      },
       "release_date": "1974",
       "popularity": 9
     },
     {
-      "trackId": "60Pwcnt2y9ML9VP4gwrcxm",
-      "name": "Walking in Memphis",
+      "track": {
+        "id": "60Pwcnt2y9ML9VP4gwrcxm",
+        "name": "Walking in Memphis"
+      },
       "duration_ms": 235493,
-      "artist": [
-        "Cher"
+      "artists": [
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "2PnxssdlO80Mt9ipZnu7MF",
+      "album": {
+        "id": "2PnxssdlO80Mt9ipZnu7MF",
+        "name": "It's a Man's World",
+        "img": "https://i.scdn.co/image/ab67616d00001e021cafae5c9e0e809317d46a31"
+      },
       "release_date": "1995-11-06",
       "popularity": 60
     },
     {
-      "trackId": "0KligwQn4Iy344p2Q5m6k6",
-      "name": "Più bella cosa",
+      "track": {
+        "id": "0KligwQn4Iy344p2Q5m6k6",
+        "name": "Più bella cosa"
+      },
       "duration_ms": 265026,
-      "artist": [
-        "Eros Ramazzotti",
-        "Luca Bignardi"
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "id": "61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Luca Bignardi",
+          "id": "19YAQxr2xw4CZ6TlRwsY1C"
+        }
       ],
-      "artistId": [
-        "61J0BktHv7PuP3tjTPYXSX",
-        "19YAQxr2xw4CZ6TlRwsY1C"
-      ],
-      "albumId": "0CewPA0oXl2anqTzAgVcKX",
+      "album": {
+        "id": "0CewPA0oXl2anqTzAgVcKX",
+        "name": "Dove c'è musica",
+        "img": "https://i.scdn.co/image/ab67616d00001e024400e3f5234b4d217fd48c85"
+      },
       "release_date": "1996-04-30",
       "popularity": 60
     },
     {
-      "trackId": "6xoFYGW7KJsF4SfTz8nxOk",
-      "name": "American Tune - Live at Central Park, New York, NY - September 19, 1981",
+      "track": {
+        "id": "6xoFYGW7KJsF4SfTz8nxOk",
+        "name": "American Tune - Live at Central Park, New York, NY - September 19, 1981"
+      },
       "duration_ms": 275240,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "3nIU4gxyq0MK4mlWE8ePqb",
+      "album": {
+        "id": "3nIU4gxyq0MK4mlWE8ePqb",
+        "name": "The Concert in Central Park (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282172e4b0f557ef159ede809"
+      },
       "release_date": "1982-02-16",
       "popularity": 45
     },
     {
-      "trackId": "3dkIE8P7hvl3tHl9KSb6dA",
-      "name": "Non, je ne regrette rien",
+      "track": {
+        "id": "3dkIE8P7hvl3tHl9KSb6dA",
+        "name": "Non, je ne regrette rien"
+      },
       "duration_ms": 142280,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "2k3nz0I7mJzegtkooii4za",
+      "album": {
+        "id": "2k3nz0I7mJzegtkooii4za",
+        "name": "Eternelle",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178"
+      },
       "release_date": "1987-10-31",
       "popularity": 64
     },
     {
-      "trackId": "72TXLeJtdYSSHepfePubXK",
-      "name": "Blåsippor",
+      "track": {
+        "id": "72TXLeJtdYSSHepfePubXK",
+        "name": "Blåsippor"
+      },
       "duration_ms": 68000,
-      "artist": [
-        "Sov Gott"
+      "artists": [
+        {
+          "name": "Sov Gott",
+          "id": "5OQH227mp5lICMwlXSMkVz"
+        }
       ],
-      "artistId": [
-        "5OQH227mp5lICMwlXSMkVz"
-      ],
-      "albumId": "4pxbdwzZJoWT5MmlZ7bi0l",
+      "album": {
+        "id": "4pxbdwzZJoWT5MmlZ7bi0l",
+        "name": "Vaggvisor för barn (Sjungna som vid sängkanten)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02855b16c39a40f92f81c7f894"
+      },
       "release_date": "2016-06-24",
       "popularity": 47
     },
     {
-      "trackId": "5I17rGCM1Zn4J9puVHTh8X",
-      "name": "Håll mitt hjärta (Same Old Story)",
+      "track": {
+        "id": "5I17rGCM1Zn4J9puVHTh8X",
+        "name": "Håll mitt hjärta (Same Old Story)"
+      },
       "duration_ms": 261600,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6ikkPeJhCsStZUcEECJX6e",
+      "album": {
+        "id": "6ikkPeJhCsStZUcEECJX6e",
+        "name": "Ingen Annan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247eba23a799e35950fd983de"
+      },
       "release_date": "2002",
       "popularity": 40
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "6b0AtCzgnYrb7T84o18V4l",
-      "name": "I Won't Back Down",
+      "track": {
+        "id": "6b0AtCzgnYrb7T84o18V4l",
+        "name": "I Won't Back Down"
+      },
       "duration_ms": 128199,
-      "artist": [
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "2zCyI9fuV5JrQzrO3kMwbw",
+      "album": {
+        "id": "2zCyI9fuV5JrQzrO3kMwbw",
+        "name": "American III: Solitary Man",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c26357620e211089bf6b45e9"
+      },
       "release_date": "2000-01-01",
       "popularity": 53
     },
     {
-      "trackId": "0ZMdTY4ZBMyagiv9GBd06j",
-      "name": "Danny Boy",
+      "track": {
+        "id": "0ZMdTY4ZBMyagiv9GBd06j",
+        "name": "Danny Boy"
+      },
       "duration_ms": 221133,
-      "artist": [
-        "Eva Cassidy"
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "id": "6fNmOWQzfOVyHLQ2UqUQew"
+        }
       ],
-      "artistId": [
-        "6fNmOWQzfOVyHLQ2UqUQew"
-      ],
-      "albumId": "6vwrKIrmOCl4MN22Xyh0Ro",
+      "album": {
+        "id": "6vwrKIrmOCl4MN22Xyh0Ro",
+        "name": "Imagine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e86d47767d0362901e219d64"
+      },
       "release_date": "2002",
       "popularity": 39
     },
     {
-      "trackId": "0WFqqDNVw611vTnWVW63BM",
-      "name": "Tosca",
+      "track": {
+        "id": "0WFqqDNVw611vTnWVW63BM",
+        "name": "Tosca"
+      },
       "duration_ms": 185400,
-      "artist": [
-        "Jussi Björling",
-        "Frederic Schauwecker"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        },
+        {
+          "name": "Frederic Schauwecker",
+          "id": "4IPrlxeJ5BcbUjDXPGEd58"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A",
-        "4IPrlxeJ5BcbUjDXPGEd58"
-      ],
-      "albumId": "0gm0EwxcoeO8qZNyMz9jwn",
+      "album": {
+        "id": "0gm0EwxcoeO8qZNyMz9jwn",
+        "name": "Jussi Björling in Concert",
+        "img": "https://i.scdn.co/image/ab67616d00001e0257ec9d7e6cada60f19c2fa00"
+      },
       "release_date": "2019-04-05",
       "popularity": 28
     },
     {
-      "trackId": "2uotez2GWPFpH8MNqyYtW5",
-      "name": "Du måste finnas",
+      "track": {
+        "id": "2uotez2GWPFpH8MNqyYtW5",
+        "name": "Du måste finnas"
+      },
       "duration_ms": 341040,
-      "artist": [
-        "Benny Andersson",
-        "Helen Sjöholm",
-        "Malmö Musikteaters kör & ork"
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "id": "0kV0e99xlTJcLKSu8KrLyp"
+        },
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Malmö Musikteaters kör & ork",
+          "id": "0UyNGJtAvhdy7TnlzRXZvk"
+        }
       ],
-      "artistId": [
-        "0kV0e99xlTJcLKSu8KrLyp",
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "0UyNGJtAvhdy7TnlzRXZvk"
-      ],
-      "albumId": "1IY2V2rDRdsPw7RvwlZ140",
+      "album": {
+        "id": "1IY2V2rDRdsPw7RvwlZ140",
+        "name": "Kristina från Duvemåla",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242192c478d6c6bad2e1769a8"
+      },
       "release_date": "2007-01-01",
       "popularity": 45
     },
     {
-      "trackId": "6iECvLh21u1M9bgWh6vq9y",
-      "name": "Leva igen",
+      "track": {
+        "id": "6iECvLh21u1M9bgWh6vq9y",
+        "name": "Leva igen"
+      },
       "duration_ms": 184625,
-      "artist": [
-        "Partillo",
-        "Allyawan"
+      "artists": [
+        {
+          "name": "Partillo",
+          "id": "1JaDm3lcNujg75Mq1mtE0u"
+        },
+        {
+          "name": "Allyawan",
+          "id": "5Pcez7u1H2Po6e2LmMdF3f"
+        }
       ],
-      "artistId": [
-        "1JaDm3lcNujg75Mq1mtE0u",
-        "5Pcez7u1H2Po6e2LmMdF3f"
-      ],
-      "albumId": "2MallFJ6spjnVxRqYNdlri",
+      "album": {
+        "id": "2MallFJ6spjnVxRqYNdlri",
+        "name": "Högre Standard, vol. 3 & 4",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231126bc8f91e5932e2dce379"
+      },
       "release_date": "2021-06-18",
       "popularity": 21
     },
     {
-      "trackId": "2fGuXtlWoQL9vBZUjbsvnQ",
-      "name": "Avestaforsens brus",
+      "track": {
+        "id": "2fGuXtlWoQL9vBZUjbsvnQ",
+        "name": "Avestaforsens brus"
+      },
       "duration_ms": 175560,
-      "artist": [
-        "Carl Jularbo",
-        "Carl Jularbos Quartet"
+      "artists": [
+        {
+          "name": "Carl Jularbo",
+          "id": "2W9OOsMnU1cXV62u1CfOzq"
+        },
+        {
+          "name": "Carl Jularbos Quartet",
+          "id": "0qDa18TXRTwv8PPUiheZEG"
+        }
       ],
-      "artistId": [
-        "2W9OOsMnU1cXV62u1CfOzq",
-        "0qDa18TXRTwv8PPUiheZEG"
-      ],
-      "albumId": "1gmQnqoHjyDCms6UqejYvp",
+      "album": {
+        "id": "1gmQnqoHjyDCms6UqejYvp",
+        "name": "Jularbo-minnen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6cd73272d42639d17739d7a"
+      },
       "release_date": "2011-05-03",
       "popularity": 15
     },
     {
-      "trackId": "5ueyLj6e6oVaTY0KQ6yLaA",
-      "name": "All Shook Up",
+      "track": {
+        "id": "5ueyLj6e6oVaTY0KQ6yLaA",
+        "name": "All Shook Up"
+      },
       "duration_ms": 117080,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "0C3t1htEDTFKcg7F2rNbek",
+      "album": {
+        "id": "0C3t1htEDTFKcg7F2rNbek",
+        "name": "Elvis' Golden Records",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220ee3e86e17f17239bef1f76"
+      },
       "release_date": "1958-03-21",
       "popularity": 61
     },
     {
-      "trackId": "0j9aigyo7QgCMitnZUuMnS",
-      "name": "Flickorna på TV2",
+      "track": {
+        "id": "0j9aigyo7QgCMitnZUuMnS",
+        "name": "Flickorna på TV2"
+      },
       "duration_ms": 234826,
-      "artist": [
-        "Gyllene Tider"
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "id": "0FINyNBXqnTlRC4dvpSeSb"
+        }
       ],
-      "artistId": [
-        "0FINyNBXqnTlRC4dvpSeSb"
-      ],
-      "albumId": "7wI5tvSzZ3tOzpFROFHuxP",
+      "album": {
+        "id": "7wI5tvSzZ3tOzpFROFHuxP",
+        "name": "Gyllene Tider",
+        "img": "https://i.scdn.co/image/ab67616d00001e023d3042cb357eebb2a082c929"
+      },
       "release_date": "1980-02-18",
       "popularity": 44
     },
     {
-      "trackId": "5S3arY2sFD0ijfNEhFPmWP",
-      "name": "Venčajte Me Sa Njenom Lepotom",
+      "track": {
+        "id": "5S3arY2sFD0ijfNEhFPmWP",
+        "name": "Venčajte Me Sa Njenom Lepotom"
+      },
       "duration_ms": 262293,
-      "artist": [
-        "Jasar Ahmedovski"
+      "artists": [
+        {
+          "name": "Jasar Ahmedovski",
+          "id": "5DtEq8tNzOEC5psKvYOWTX"
+        }
       ],
-      "artistId": [
-        "5DtEq8tNzOEC5psKvYOWTX"
-      ],
-      "albumId": "2RoxDhhg1RfFt1DR8yYAUj",
+      "album": {
+        "id": "2RoxDhhg1RfFt1DR8yYAUj",
+        "name": "Venčajte me sa njenom lepotom",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c57db4b3f92647398ce2c63"
+      },
       "release_date": "1999",
       "popularity": 32
     },
     {
-      "trackId": "5dXdy6YR6lxxC3GxBZcRWv",
-      "name": "Turistens klagan",
+      "track": {
+        "id": "5dXdy6YR6lxxC3GxBZcRWv",
+        "name": "Turistens klagan"
+      },
       "duration_ms": 200400,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "10znRN0s0flCvHfoSYPUzA",
+      "album": {
+        "id": "10znRN0s0flCvHfoSYPUzA",
+        "name": "Turistens klagan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bfe8deb32bd4dbe31d35b0be"
+      },
       "release_date": "1980",
       "popularity": 48
     }

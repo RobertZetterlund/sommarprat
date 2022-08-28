@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3249319_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2PpruBYCo4H7WOBJ7Q2EwM",
-      "name": "Hey Ya!",
+      "track": {
+        "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+        "name": "Hey Ya!"
+      },
       "duration_ms": 235213,
-      "artist": [
-        "Outkast"
+      "artists": [
+        {
+          "name": "Outkast",
+          "id": "1G9G7WwrXka3Z1r7aIDjI7"
+        }
       ],
-      "artistId": [
-        "1G9G7WwrXka3Z1r7aIDjI7"
-      ],
-      "albumId": "1UsmQ3bpJTyK6ygoOOjG1r",
+      "album": {
+        "id": "1UsmQ3bpJTyK6ygoOOjG1r",
+        "name": "Speakerboxxx/The Love Below",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a6387ab37f64034cdc7b367"
+      },
       "release_date": "2003",
       "popularity": 81
     },
     {
-      "trackId": "0SLtqCrXBRrnkxSOMA3X4W",
-      "name": "Let Me Entertain You",
+      "track": {
+        "id": "0SLtqCrXBRrnkxSOMA3X4W",
+        "name": "Let Me Entertain You"
+      },
       "duration_ms": 262000,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
+      "album": {
+        "id": "31Sx9uz9KqlvmX07Pvp0wN",
+        "name": "Life Thru A Lens",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c36cf94d717475042f6bb0f3"
+      },
       "release_date": "1997-01-01",
       "popularity": 66
     },
     {
-      "trackId": "7LVHVU3tWfcxj5aiPFEW4Q",
-      "name": "Fix You",
+      "track": {
+        "id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "name": "Fix You"
+      },
       "duration_ms": 295533,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "4E7bV0pzG0LciBSWTszra6",
+      "album": {
+        "id": "4E7bV0pzG0LciBSWTszra6",
+        "name": "X&Y",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651"
+      },
       "release_date": "2005-06-07",
       "popularity": 82
     },
     {
-      "trackId": "0Res4ooR61zc5T7m2Fswog",
-      "name": "Ain't No Sunshine",
+      "track": {
+        "id": "0Res4ooR61zc5T7m2Fswog",
+        "name": "Ain't No Sunshine"
+      },
       "duration_ms": 121800,
-      "artist": [
-        "Al Jarreau"
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "id": "3YR92OLKlvkK5oKNekSqXe"
+        }
       ],
-      "artistId": [
-        "3YR92OLKlvkK5oKNekSqXe"
-      ],
-      "albumId": "04frYt9UMyGnZqztK3Qevg",
+      "album": {
+        "id": "04frYt9UMyGnZqztK3Qevg",
+        "name": "Love And Happiness",
+        "img": "https://i.scdn.co/image/ab67616d00001e022762d4e8841187b61f55f815"
+      },
       "release_date": "2008-08-15",
       "popularity": 36
     },
     {
-      "trackId": "2QXBh408EhthzKXKO8Lbqk",
-      "name": "Karma Killer",
+      "track": {
+        "id": "2QXBh408EhthzKXKO8Lbqk",
+        "name": "Karma Killer"
+      },
       "duration_ms": 268266,
-      "artist": [
-        "Robbie Williams"
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "id": "2HcwFjNelS49kFbfvMxQYw"
+        }
       ],
-      "artistId": [
-        "2HcwFjNelS49kFbfvMxQYw"
-      ],
-      "albumId": "4sgNyq4LbcoRnNhte25GPs",
+      "album": {
+        "id": "4sgNyq4LbcoRnNhte25GPs",
+        "name": "I've Been Expecting You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ddd516e8d9114e683c69493d"
+      },
       "release_date": "1998",
       "popularity": 31
     },
     {
-      "trackId": "1H5IfYyIIAlgDX8zguUzns",
-      "name": "Suspicious Minds",
+      "track": {
+        "id": "1H5IfYyIIAlgDX8zguUzns",
+        "name": "Suspicious Minds"
+      },
       "duration_ms": 261279,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ekkFrfotMsEAKc5g71GHk",
+      "album": {
+        "id": "3ekkFrfotMsEAKc5g71GHk",
+        "name": "From Elvis in Memphis (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7"
+      },
       "release_date": "1969-06-17",
       "popularity": 76
     },
     {
-      "trackId": "0GjEhVFGZW8afUYGChu3Rr",
-      "name": "Dancing Queen",
+      "track": {
+        "id": "0GjEhVFGZW8afUYGChu3Rr",
+        "name": "Dancing Queen"
+      },
       "duration_ms": 230400,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1V6a99EbTTIegOhWoPxYI9",
+      "album": {
+        "id": "1V6a99EbTTIegOhWoPxYI9",
+        "name": "Arrival",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0"
+      },
       "release_date": "1976",
       "popularity": 83
     },
     {
-      "trackId": "36SQrVxIeTBayrrFFyFTaB",
-      "name": "Wandering Jane (feat. Jack Liebeck)",
+      "track": {
+        "id": "36SQrVxIeTBayrrFFyFTaB",
+        "name": "Wandering Jane (feat. Jack Liebeck)"
+      },
       "duration_ms": 181973,
-      "artist": [
-        "Dario Marianelli",
-        "Jack Liebeck",
-        "Benjamin Wallfisch"
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "id": "0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jack Liebeck",
+          "id": "4PwrerouUXvowe3ynAOWSP"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "id": "2xOp0rCDPAmYqnL2UFbaDY"
+        }
       ],
-      "artistId": [
-        "0s1ec6aPpRZ4DCj15w1EFg",
-        "4PwrerouUXvowe3ynAOWSP",
-        "2xOp0rCDPAmYqnL2UFbaDY"
-      ],
-      "albumId": "4EHO6nIhB0OCyOY2vQ8yqX",
+      "album": {
+        "id": "4EHO6nIhB0OCyOY2vQ8yqX",
+        "name": "Jane Eyre - Original Motion Picture Soundtrack",
+        "img": "https://i.scdn.co/image/ab67616d00001e02535a1ce73ef6eb9867ccfd1a"
+      },
       "release_date": "2011-03-08",
       "popularity": 38
     },
     {
-      "trackId": "6Rqn2GFlmvmV4w9Ala0I1e",
-      "name": "Feeling Good",
+      "track": {
+        "id": "6Rqn2GFlmvmV4w9Ala0I1e",
+        "name": "Feeling Good"
+      },
       "duration_ms": 174000,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "3ofZeSWPHZOE5WC2tNZDez",
+      "album": {
+        "id": "3ofZeSWPHZOE5WC2tNZDez",
+        "name": "I Put A Spell On You",
+        "img": "https://i.scdn.co/image/ab67616d00001e02425e9a15a4a1b9fe123a1aa7"
+      },
       "release_date": "1965-06-01",
       "popularity": 72
     },
     {
-      "trackId": "7Ac6iNWbBFnCZx1Ji1pMKu",
-      "name": "Everytime - Radio Edit",
+      "track": {
+        "id": "7Ac6iNWbBFnCZx1Ji1pMKu",
+        "name": "Everytime - Radio Edit"
+      },
       "duration_ms": 182160,
-      "artist": [
-        "Daisy"
+      "artists": [
+        {
+          "name": "Daisy",
+          "id": "0C1yeOJW3kNsDjXl9zg1fj"
+        }
       ],
-      "artistId": [
-        "0C1yeOJW3kNsDjXl9zg1fj"
-      ],
-      "albumId": "2LeIyZCh4jrUdm3ewkhkny",
+      "album": {
+        "id": "2LeIyZCh4jrUdm3ewkhkny",
+        "name": "Dance Floor Vol 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e021327b30d55f6fc203a8b1160"
+      },
       "release_date": "2010-08-02",
       "popularity": 5
     },
     {
-      "trackId": "2Mpj1Ul5OFPyyP4wB62Rvi",
-      "name": "Survivor",
+      "track": {
+        "id": "2Mpj1Ul5OFPyyP4wB62Rvi",
+        "name": "Survivor"
+      },
       "duration_ms": 254026,
-      "artist": [
-        "Destiny's Child"
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "id": "1Y8cdNmUJH7yBTd9yOvr5i"
+        }
       ],
-      "artistId": [
-        "1Y8cdNmUJH7yBTd9yOvr5i"
-      ],
-      "albumId": "2HcjLD0ButtKsQYqzoyOx9",
+      "album": {
+        "id": "2HcjLD0ButtKsQYqzoyOx9",
+        "name": "Survivor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02163cdae7f1e2c82786a84e3e"
+      },
       "release_date": "2001-05-01",
       "popularity": 70
     },
     {
-      "trackId": "2MpXdpwJUPgN26SXVvQzVF",
-      "name": "Aldrig ska jag sluta älska dig",
+      "track": {
+        "id": "2MpXdpwJUPgN26SXVvQzVF",
+        "name": "Aldrig ska jag sluta älska dig"
+      },
       "duration_ms": 246452,
-      "artist": [
-        "Jonas Gardell"
+      "artists": [
+        {
+          "name": "Jonas Gardell",
+          "id": "5JAuEHFIUj9FqnQRrsmISo"
+        }
       ],
-      "artistId": [
-        "5JAuEHFIUj9FqnQRrsmISo"
-      ],
-      "albumId": "6HR1JQfwBYaxdj5BOYjjNq",
+      "album": {
+        "id": "6HR1JQfwBYaxdj5BOYjjNq",
+        "name": "Nästan vackra",
+        "img": "https://i.scdn.co/image/ab67616d00001e024958746358e361d801f11628"
+      },
       "release_date": "2006-08-09",
       "popularity": 42
     },
     {
-      "trackId": "3uErbNGaNIPJkRlMrLxR9Z",
-      "name": "Nothing Else Matters",
+      "track": {
+        "id": "3uErbNGaNIPJkRlMrLxR9Z",
+        "name": "Nothing Else Matters"
+      },
       "duration_ms": 285533,
-      "artist": [
-        "Apocalyptica"
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "id": "4Lm0pUvmisUHMdoky5ch2I"
+        }
       ],
-      "artistId": [
-        "4Lm0pUvmisUHMdoky5ch2I"
-      ],
-      "albumId": "6leqa6QQESn76w64IdN9yQ",
+      "album": {
+        "id": "6leqa6QQESn76w64IdN9yQ",
+        "name": "Inquisition Symphony",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aafd1a955eda9a0f8bbf50a1"
+      },
       "release_date": "1998-01-01",
       "popularity": 53
     }

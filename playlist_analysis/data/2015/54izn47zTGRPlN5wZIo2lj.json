@@ -7,204 +7,294 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3531085_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4TOMI010Sd4ZAX4aZ5TS85",
-      "name": "Perfect Day",
+      "track": {
+        "id": "4TOMI010Sd4ZAX4aZ5TS85",
+        "name": "Perfect Day"
+      },
       "duration_ms": 225000,
-      "artist": [
-        "Lou Reed"
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "id": "42TFhl7WlMRXiNqzSrnzPL"
+        }
       ],
-      "artistId": [
-        "42TFhl7WlMRXiNqzSrnzPL"
-      ],
-      "albumId": "5SqbMEyAt8332ISGiLX0St",
+      "album": {
+        "id": "5SqbMEyAt8332ISGiLX0St",
+        "name": "Transformer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e"
+      },
       "release_date": "1972-12-01",
       "popularity": 67
     },
     {
-      "trackId": "1oQZk2bKBLgP1cbuFKvjkq",
-      "name": "If I Were a Boy",
+      "track": {
+        "id": "1oQZk2bKBLgP1cbuFKvjkq",
+        "name": "If I Were a Boy"
+      },
       "duration_ms": 249866,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "3ROfBX6lJLnCmaw1NrP5K9",
+      "album": {
+        "id": "3ROfBX6lJLnCmaw1NrP5K9",
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b4c5982e1b92f97a126fc18c"
+      },
       "release_date": "2008",
       "popularity": 67
     },
     {
-      "trackId": "55nNlL5gobsDbzYS87p2ci",
-      "name": "Frösöblomster (Flower of Frösö) - Volume 1: Sommarsång",
+      "track": {
+        "id": "55nNlL5gobsDbzYS87p2ci",
+        "name": "Frösöblomster (Flower of Frösö) - Volume 1: Sommarsång"
+      },
       "duration_ms": 164000,
-      "artist": [
-        "Wilhelm Peterson-Berger",
-        "Lars Roos"
+      "artists": [
+        {
+          "name": "Wilhelm Peterson-Berger",
+          "id": "1pnzip6Xgb2Qs3xWHFx6Jt"
+        },
+        {
+          "name": "Lars Roos",
+          "id": "0M95sWc84uLm8fM6Sl3b9t"
+        }
       ],
-      "artistId": [
-        "1pnzip6Xgb2Qs3xWHFx6Jt",
-        "0M95sWc84uLm8fM6Sl3b9t"
-      ],
-      "albumId": "3jbWJoey2Pv67Dl7di9Kgm",
+      "album": {
+        "id": "3jbWJoey2Pv67Dl7di9Kgm",
+        "name": "Frösöblomster",
+        "img": "https://i.scdn.co/image/ab67616d00001e022274ddf51977948621f6dc71"
+      },
       "release_date": "1990-01-01",
       "popularity": 29
     },
     {
-      "trackId": "37ChXB1nAYEFkzhNhgLt39",
-      "name": "When Tomorrow Comes - Remastered Version",
+      "track": {
+        "id": "37ChXB1nAYEFkzhNhgLt39",
+        "name": "When Tomorrow Comes - Remastered Version"
+      },
       "duration_ms": 268720,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "5vl4lQTP3L0avOrXQizFso",
+      "album": {
+        "id": "5vl4lQTP3L0avOrXQizFso",
+        "name": "Revenge",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239efc86eb5981f6de0bf96f5"
+      },
       "release_date": "1986-06-30",
       "popularity": 53
     },
     {
-      "trackId": "3RjyVvrqmS26Sq6vUMswWd",
-      "name": "I'll Find My Way Home",
+      "track": {
+        "id": "3RjyVvrqmS26Sq6vUMswWd",
+        "name": "I'll Find My Way Home"
+      },
       "duration_ms": 271306,
-      "artist": [
-        "Jon & Vangelis"
+      "artists": [
+        {
+          "name": "Jon & Vangelis",
+          "id": "5gS1uXayWA0WJPgcRqNIae"
+        }
       ],
-      "artistId": [
-        "5gS1uXayWA0WJPgcRqNIae"
-      ],
-      "albumId": "44nDF4z9kaLl4yZmRnUVvN",
+      "album": {
+        "id": "44nDF4z9kaLl4yZmRnUVvN",
+        "name": "The Friends Of Mr Cairo",
+        "img": "https://i.scdn.co/image/ab67616d00001e025043f26df488fbf44d026b0e"
+      },
       "release_date": "1981-01-01",
       "popularity": 51
     },
     {
-      "trackId": "7LVHVU3tWfcxj5aiPFEW4Q",
-      "name": "Fix You",
+      "track": {
+        "id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "name": "Fix You"
+      },
       "duration_ms": 295533,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "4E7bV0pzG0LciBSWTszra6",
+      "album": {
+        "id": "4E7bV0pzG0LciBSWTszra6",
+        "name": "X&Y",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651"
+      },
       "release_date": "2005-06-07",
       "popularity": 82
     },
     {
-      "trackId": "2RnPATK99oGOZygnD2GTO6",
-      "name": "With A Little Help From My Friends - Remastered 2009",
+      "track": {
+        "id": "2RnPATK99oGOZygnD2GTO6",
+        "name": "With A Little Help From My Friends - Remastered 2009"
+      },
       "duration_ms": 164106,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "6QaVfG1pHYl1z15ZxkvVDW",
+      "album": {
+        "id": "6QaVfG1pHYl1z15ZxkvVDW",
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a"
+      },
       "release_date": "1967-06-01",
       "popularity": 65
     },
     {
-      "trackId": "1v2zyAJrChw5JnfafSkwkJ",
-      "name": "Shiny Happy People",
+      "track": {
+        "id": "1v2zyAJrChw5JnfafSkwkJ",
+        "name": "Shiny Happy People"
+      },
       "duration_ms": 225786,
-      "artist": [
-        "R.E.M."
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "id": "4KWTAlx2RvbpseOGMEmROg"
+        }
       ],
-      "artistId": [
-        "4KWTAlx2RvbpseOGMEmROg"
-      ],
-      "albumId": "6yEuIwTQpciH1qtj7mP5GK",
+      "album": {
+        "id": "6yEuIwTQpciH1qtj7mP5GK",
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2dd4e821bcc3f70dc0c8ffd"
+      },
       "release_date": "1991-03-12",
       "popularity": 73
     },
     {
-      "trackId": "5fmvZgUFuUq1SnzT3S6y4o",
-      "name": "Ring Ring - English Version",
+      "track": {
+        "id": "5fmvZgUFuUq1SnzT3S6y4o",
+        "name": "Ring Ring - English Version"
+      },
       "duration_ms": 184733,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1pVtxVKXwhU2nsvrTI1WqT",
+      "album": {
+        "id": "1pVtxVKXwhU2nsvrTI1WqT",
+        "name": "Ring Ring (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ca4eeb638139fd840250b9e"
+      },
       "release_date": "1973",
       "popularity": 55
     },
     {
-      "trackId": "3tyTt5pEWblt96j1HsXiV5",
-      "name": "Freedom! '90 - Remastered",
+      "track": {
+        "id": "3tyTt5pEWblt96j1HsXiV5",
+        "name": "Freedom! '90 - Remastered"
+      },
       "duration_ms": 390861,
-      "artist": [
-        "George Michael"
+      "artists": [
+        {
+          "name": "George Michael",
+          "id": "19ra5tSw0tWufvUp8GotLo"
+        }
       ],
-      "artistId": [
-        "19ra5tSw0tWufvUp8GotLo"
-      ],
-      "albumId": "0ZeOyoJHPD6czbTPAT9Qaj",
+      "album": {
+        "id": "0ZeOyoJHPD6czbTPAT9Qaj",
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0229c1c454ed1b2acfa64dc37f"
+      },
       "release_date": "2017-10-20",
       "popularity": 66
     },
     {
-      "trackId": "6pPWRBubXOBAHnjl5ZIujB",
-      "name": "The Best",
+      "track": {
+        "id": "6pPWRBubXOBAHnjl5ZIujB",
+        "name": "The Best"
+      },
       "duration_ms": 329800,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "3hgAoHSmany3EiKL0Aqh3G",
+      "album": {
+        "id": "3hgAoHSmany3EiKL0Aqh3G",
+        "name": "Foreign Affair",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a04b4373fd72bf81c8784adf"
+      },
       "release_date": "1989-09-13",
       "popularity": 69
     },
     {
-      "trackId": "04OY0iU7ZPIPe9QHv4j1UK",
-      "name": "Hello Bonjour",
+      "track": {
+        "id": "04OY0iU7ZPIPe9QHv4j1UK",
+        "name": "Hello Bonjour"
+      },
       "duration_ms": 290133,
-      "artist": [
-        "Michael Franti & Spearhead"
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "id": "1mHuZMOP8FG5ip4yAb1vrB"
+        }
       ],
-      "artistId": [
-        "1mHuZMOP8FG5ip4yAb1vrB"
-      ],
-      "albumId": "50ErftNBsKknqcgWGZIEVF",
+      "album": {
+        "id": "50ErftNBsKknqcgWGZIEVF",
+        "name": "Yell Fire!",
+        "img": "https://i.scdn.co/image/ab67616d00001e027538abc2adca08fbbe43ae82"
+      },
       "release_date": "2006-07-25",
       "popularity": 29
     },
     {
-      "trackId": "6cFtFZDbBmKedqwoFCAYv3",
-      "name": "Änglamark",
+      "track": {
+        "id": "6cFtFZDbBmKedqwoFCAYv3",
+        "name": "Änglamark"
+      },
       "duration_ms": 197826,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "4ArA86KBWpxyBxVPfkAzd9",
+      "album": {
+        "id": "4ArA86KBWpxyBxVPfkAzd9",
+        "name": "Änglamark",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e4d72d5969b263509db99efc"
+      },
       "release_date": "1995-01-01",
       "popularity": 37
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

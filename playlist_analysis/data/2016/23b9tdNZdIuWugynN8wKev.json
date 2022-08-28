@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/ec1be003-02e6-494b-bfd3-594258e94796.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4L9sdN5l6PvW3EZyP6sY7j",
-      "name": "I Am What I Am",
+      "track": {
+        "id": "4L9sdN5l6PvW3EZyP6sY7j",
+        "name": "I Am What I Am"
+      },
       "duration_ms": 207106,
-      "artist": [
-        "Gloria Gaynor"
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "id": "6V6WCgi7waF55bJmylC4H5"
+        }
       ],
-      "artistId": [
-        "6V6WCgi7waF55bJmylC4H5"
-      ],
-      "albumId": "3mn5uMVqqN1WPA2Jwd8lfk",
+      "album": {
+        "id": "3mn5uMVqqN1WPA2Jwd8lfk",
+        "name": "Gloria Gaynor '90 (All New Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0274a9415776fe535089e85cf3"
+      },
       "release_date": "1990",
       "popularity": 52
     },
     {
-      "trackId": "48mR2HP6POWBM0FGErTZUd",
-      "name": "Människa - Från \"Tarzan\"",
+      "track": {
+        "id": "48mR2HP6POWBM0FGErTZUd",
+        "name": "Människa - Från \"Tarzan\""
+      },
       "duration_ms": 165480,
-      "artist": [
-        "Pelle Ankarberg"
+      "artists": [
+        {
+          "name": "Pelle Ankarberg",
+          "id": "07sJTHzs0NqNEXJLy1enIc"
+        }
       ],
-      "artistId": [
-        "07sJTHzs0NqNEXJLy1enIc"
-      ],
-      "albumId": "7xA6cYHxMEpoOEFGda8xyq",
+      "album": {
+        "id": "7xA6cYHxMEpoOEFGda8xyq",
+        "name": "Disney Rariteter 2 (2 Vol.)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3a24a6dce185779de74b7a2"
+      },
       "release_date": "2018-09-14",
       "popularity": 39
     },
     {
-      "trackId": "6p8eFfPw3nQkf37aT3AkmK",
-      "name": "Fear of the Dark - 2015 Remaster",
+      "track": {
+        "id": "6p8eFfPw3nQkf37aT3AkmK",
+        "name": "Fear of the Dark - 2015 Remaster"
+      },
       "duration_ms": 438120,
-      "artist": [
-        "Iron Maiden"
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "id": "6mdiAmATAx73kdxrNrnlao"
+        }
       ],
-      "artistId": [
-        "6mdiAmATAx73kdxrNrnlao"
-      ],
-      "albumId": "16Su3EUFLPqWVyrwN1q5wO",
+      "album": {
+        "id": "16Su3EUFLPqWVyrwN1q5wO",
+        "name": "Fear of the Dark (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020dda9c11454b9053d07f585a"
+      },
       "release_date": "1992",
       "popularity": 71
     },
     {
-      "trackId": "46NBoIAHrmR7qcUGCIFEjR",
-      "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
+      "track": {
+        "id": "46NBoIAHrmR7qcUGCIFEjR",
+        "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)"
+      },
       "duration_ms": 207272,
-      "artist": [
-        "David Guetta"
+      "artists": [
+        {
+          "name": "David Guetta",
+          "id": "1Cs0zKBU1kc0i8ypK3B9ai"
+        }
       ],
-      "artistId": [
-        "1Cs0zKBU1kc0i8ypK3B9ai"
-      ],
-      "albumId": "7EvlnQaVuUuFLIeSuE6nRq",
+      "album": {
+        "id": "7EvlnQaVuUuFLIeSuE6nRq",
+        "name": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c052c52bc0218b778ca136f5"
+      },
       "release_date": "2016-05-13",
       "popularity": 67
     },
     {
-      "trackId": "3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way",
+      "track": {
+        "id": "3spdoTYpuCpmq19tuD0bOe",
+        "name": "My Way"
+      },
       "duration_ms": 276800,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3IdNQBn7De23AVyv2V67wn",
+      "album": {
+        "id": "3IdNQBn7De23AVyv2V67wn",
+        "name": "My Way (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280aa6a82fce614eea8357253"
+      },
       "release_date": "1969-03",
       "popularity": 71
     },
     {
-      "trackId": "2IK5neEikSWH0pLhajzUkN",
-      "name": "Tala Om Vart Du Ska Resa - 1999 Digital Remaster",
+      "track": {
+        "id": "2IK5neEikSWH0pLhajzUkN",
+        "name": "Tala Om Vart Du Ska Resa - 1999 Digital Remaster"
+      },
       "duration_ms": 151440,
-      "artist": [
-        "Landslaget"
+      "artists": [
+        {
+          "name": "Landslaget",
+          "id": "1PvpYinFtAKzF8LsOYjBTv"
+        }
       ],
-      "artistId": [
-        "1PvpYinFtAKzF8LsOYjBTv"
-      ],
-      "albumId": "128Ykcism2eYbSLeKWKqlN",
+      "album": {
+        "id": "128Ykcism2eYbSLeKWKqlN",
+        "name": "Öden & Äventyr",
+        "img": "https://i.scdn.co/image/ab67616d00001e026e30a55885a0fcbde1060e70"
+      },
       "release_date": "1973",
       "popularity": 40
     },
     {
-      "trackId": "36O7qmyKLHpUY6WdWh8M5g",
-      "name": "Will You Be There - Single Version",
+      "track": {
+        "id": "36O7qmyKLHpUY6WdWh8M5g",
+        "name": "Will You Be There - Single Version"
+      },
       "duration_ms": 220386,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "77dNyQA0z8dV33M4so4eRY",
+      "album": {
+        "id": "77dNyQA0z8dV33M4so4eRY",
+        "name": "The Essential Michael Jackson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed1c305cd1e673fe925407ce"
+      },
       "release_date": "2005-07-19",
       "popularity": 56
     },
     {
-      "trackId": "11IXRdEjiH0KL8nh4G1j7d",
-      "name": "Now We Are Free",
+      "track": {
+        "id": "11IXRdEjiH0KL8nh4G1j7d",
+        "name": "Now We Are Free"
+      },
       "duration_ms": 254293,
-      "artist": [
-        "Lisa Gerrard",
-        "Klaus Badelt",
-        "Hans Zimmer"
+      "artists": [
+        {
+          "name": "Lisa Gerrard",
+          "id": "3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Klaus Badelt",
+          "id": "03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Hans Zimmer",
+          "id": "0YC192cP3KPCRWx8zr8MfZ"
+        }
       ],
-      "artistId": [
-        "3C4MmUJYQN9svNdedAR2BK",
-        "03GruNQP8X25PCoWzdvIGZ",
-        "0YC192cP3KPCRWx8zr8MfZ"
-      ],
-      "albumId": "1yqkE2BoMZaQRABJRJT2HZ",
+      "album": {
+        "id": "1yqkE2BoMZaQRABJRJT2HZ",
+        "name": "Gladiator - Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e26ee959941f78ce85ac080"
+      },
       "release_date": "2000-01-01",
       "popularity": 58
     },
     {
-      "trackId": "5TpSHCnstKcvuIxKb4wRNG",
-      "name": "Jag lever livet",
+      "track": {
+        "id": "5TpSHCnstKcvuIxKb4wRNG",
+        "name": "Jag lever livet"
+      },
       "duration_ms": 201853,
-      "artist": [
-        "Carola"
+      "artists": [
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        }
       ],
-      "artistId": [
-        "3uFum0NCM1PtmCO0MwsOAt"
-      ],
-      "albumId": "6WFBm5Or8TVQPN78wD2wzH",
+      "album": {
+        "id": "6WFBm5Or8TVQPN78wD2wzH",
+        "name": "Från nu till evighet",
+        "img": "https://i.scdn.co/image/ab67616d00001e029f8633f3d5ddc725d60a4505"
+      },
       "release_date": "2006-05-17",
       "popularity": 10
     },
     {
-      "trackId": "2nxTpjhxLXeyBOxYnRnT76",
-      "name": "1944",
+      "track": {
+        "id": "2nxTpjhxLXeyBOxYnRnT76",
+        "name": "1944"
+      },
       "duration_ms": 180839,
-      "artist": [
-        "Jamala"
+      "artists": [
+        {
+          "name": "Jamala",
+          "id": "4EXfia20rgVLyubQiYtOIC"
+        }
       ],
-      "artistId": [
-        "4EXfia20rgVLyubQiYtOIC"
-      ],
-      "albumId": "1XomkUS0e4754Zmn7bOaJk",
+      "album": {
+        "id": "1XomkUS0e4754Zmn7bOaJk",
+        "name": "1944",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289dd8f620c8d9185636329fe"
+      },
       "release_date": "2017-05-12",
       "popularity": 51
     },
     {
-      "trackId": "2cFu6ZnctyXKApy8UfRjLk",
-      "name": "Moving On",
+      "track": {
+        "id": "2cFu6ZnctyXKApy8UfRjLk",
+        "name": "Moving On"
+      },
       "duration_ms": 185933,
-      "artist": [
-        "Sarah Dawn Finer"
+      "artists": [
+        {
+          "name": "Sarah Dawn Finer",
+          "id": "4TuGR5xkIry198WmY7hax2"
+        }
       ],
-      "artistId": [
-        "4TuGR5xkIry198WmY7hax2"
-      ],
-      "albumId": "5nTVJvVgS9vqCjCKvgWaJe",
+      "album": {
+        "id": "5nTVJvVgS9vqCjCKvgWaJe",
+        "name": "Moving On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c13c929674bbf9d47b0c3936"
+      },
       "release_date": "2010-06-21",
       "popularity": 45
     },
     {
-      "trackId": "6Yi9FgsazGEjBmqyRjRjeo",
-      "name": "MacGyver Theme (From \"MacGyver\")",
+      "track": {
+        "id": "6Yi9FgsazGEjBmqyRjRjeo",
+        "name": "MacGyver Theme (From \"MacGyver\")"
+      },
       "duration_ms": 83571,
-      "artist": [
-        "Steve Arrows"
+      "artists": [
+        {
+          "name": "Steve Arrows",
+          "id": "4M7CqlNoS1GMKmyGrALqIX"
+        }
       ],
-      "artistId": [
-        "4M7CqlNoS1GMKmyGrALqIX"
-      ],
-      "albumId": "5XUcDjSbMAe68liJIrPFxi",
+      "album": {
+        "id": "5XUcDjSbMAe68liJIrPFxi",
+        "name": "MacGyver Theme (From \"MacGyver\")",
+        "img": "https://i.scdn.co/image/ab67616d00001e026b0a7eee266e07720e42cee5"
+      },
       "release_date": "2016-08-29",
       "popularity": 23
     },
     {
-      "trackId": "7qA8S7mbV9uPy9rFprdN3C",
-      "name": "Goliat",
+      "track": {
+        "id": "7qA8S7mbV9uPy9rFprdN3C",
+        "name": "Goliat"
+      },
       "duration_ms": 247562,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "album": {
+        "id": "0pfOSr3PHdLqe9kHcoEPIL",
+        "name": "Colors",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eeb668b40f24b2417943e211"
+      },
       "release_date": "2013-09-27",
       "popularity": 55
     }

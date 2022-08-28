@@ -7,200 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/cd075891-3c16-45eb-bbf2-023a280b7dac.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "19gf1FxaqVvasHKnX1ft7z",
-      "name": "Kom slå dig ner",
+      "track": {
+        "id": "19gf1FxaqVvasHKnX1ft7z",
+        "name": "Kom slå dig ner"
+      },
       "duration_ms": 173400,
-      "artist": [
-        "Monica Törnell"
+      "artists": [
+        {
+          "name": "Monica Törnell",
+          "id": "2mzcDa3H7xrIikDmF9rFwN"
+        }
       ],
-      "artistId": [
-        "2mzcDa3H7xrIikDmF9rFwN"
-      ],
-      "albumId": "5o8vDMLbRh4XMWrLjY5tw7",
+      "album": {
+        "id": "5o8vDMLbRh4XMWrLjY5tw7",
+        "name": "Ingica",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d41ee15dccf5394af06d8ceb"
+      },
       "release_date": "1972-01-01",
       "popularity": 21
     },
     {
-      "trackId": "6zxJh3RIzm6Qk7HauhCg9j",
-      "name": "Ma liberté de penser",
+      "track": {
+        "id": "6zxJh3RIzm6Qk7HauhCg9j",
+        "name": "Ma liberté de penser"
+      },
       "duration_ms": 204546,
-      "artist": [
-        "Florent Pagny"
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "id": "0g7hZVprd3orBpMrSLWeJ9"
+        }
       ],
-      "artistId": [
-        "0g7hZVprd3orBpMrSLWeJ9"
-      ],
-      "albumId": "5IW71KAikTujML1ZNOnSzg",
+      "album": {
+        "id": "5IW71KAikTujML1ZNOnSzg",
+        "name": "Ailleurs Land",
+        "img": "https://i.scdn.co/image/ab67616d00001e02186b08e06b5e7505c0c17f10"
+      },
       "release_date": "2003-01-01",
       "popularity": 51
     },
     {
-      "trackId": "734dz1YaFITwawPpM25fSt",
-      "name": "Je veux",
+      "track": {
+        "id": "734dz1YaFITwawPpM25fSt",
+        "name": "Je veux"
+      },
       "duration_ms": 215933,
-      "artist": [
-        "Zaz"
+      "artists": [
+        {
+          "name": "Zaz",
+          "id": "1mbgj8ERPs8lWi7t5cYrdy"
+        }
       ],
-      "artistId": [
-        "1mbgj8ERPs8lWi7t5cYrdy"
-      ],
-      "albumId": "6MuoqipFgorIZEYwGWEFAU",
+      "album": {
+        "id": "6MuoqipFgorIZEYwGWEFAU",
+        "name": "Zaz",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b5969aba116e8248a3e6369"
+      },
       "release_date": "2010-05-10",
       "popularity": 68
     },
     {
-      "trackId": "23PJqdjssVlOJlKvhQe5o9",
-      "name": "Säg Mig Var Du Står",
+      "track": {
+        "id": "23PJqdjssVlOJlKvhQe5o9",
+        "name": "Säg Mig Var Du Står"
+      },
       "duration_ms": 204987,
-      "artist": [
-        "Carola",
-        "Zara Larsson"
+      "artists": [
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Zara Larsson",
+          "id": "1Xylc3o4UrD53lo9CvFvVg"
+        }
       ],
-      "artistId": [
-        "3uFum0NCM1PtmCO0MwsOAt",
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ],
-      "albumId": "3Qg81i4ee6h9l2nbwZAS4F",
+      "album": {
+        "id": "3Qg81i4ee6h9l2nbwZAS4F",
+        "name": "Säg Mig Var Du Står",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213ffa0f7cf7be11027ac16c5"
+      },
       "release_date": "2020-08-28",
       "popularity": 57
     },
     {
-      "trackId": "7zAoR3Od28Xj97fTLgnaGi",
-      "name": "Jesus Oh What a Wonderful Child",
+      "track": {
+        "id": "7zAoR3Od28Xj97fTLgnaGi",
+        "name": "Jesus Oh What a Wonderful Child"
+      },
       "duration_ms": 266226,
-      "artist": [
-        "Mariah Carey"
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ"
+        }
       ],
-      "artistId": [
-        "4iHNK0tOyZPYnBU7nGAgpQ"
-      ],
-      "albumId": "61ulfFSmmxMhc2wCdmdMkN",
+      "album": {
+        "id": "61ulfFSmmxMhc2wCdmdMkN",
+        "name": "Merry Christmas",
+        "img": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f"
+      },
       "release_date": "1994-10-28",
       "popularity": 31
     },
     {
-      "trackId": "2GSdDPQZPIoy0nPSzY7iXr",
-      "name": "Parce que c'est toi",
+      "track": {
+        "id": "2GSdDPQZPIoy0nPSzY7iXr",
+        "name": "Parce que c'est toi"
+      },
       "duration_ms": 196776,
-      "artist": [
-        "Axelle Red"
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "id": "3gX7V7VCwOBz90t62hQHMw"
+        }
       ],
-      "artistId": [
-        "3gX7V7VCwOBz90t62hQHMw"
-      ],
-      "albumId": "7p6VMQCrAaiFiRvg5vnUIJ",
+      "album": {
+        "id": "7p6VMQCrAaiFiRvg5vnUIJ",
+        "name": "The Songs (Acoustic)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd3d0d279913340dcd92b2c0"
+      },
       "release_date": "2016-03-04",
       "popularity": 56
     },
     {
-      "trackId": "4NYOUCuQB8tifed1CC1JRC",
-      "name": "Rain",
+      "track": {
+        "id": "4NYOUCuQB8tifed1CC1JRC",
+        "name": "Rain"
+      },
       "duration_ms": 178400,
-      "artist": [
-        "Sananda Maitreya"
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "id": "6RGxLsQUoGk5PLyMVwb3yE"
+        }
       ],
-      "artistId": [
-        "6RGxLsQUoGk5PLyMVwb3yE"
-      ],
-      "albumId": "0nw38yniBfbluS93FdYcbE",
+      "album": {
+        "id": "0nw38yniBfbluS93FdYcbE",
+        "name": "Introducing The Hardline According To Terence Trent D'Arby",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f39310fa42ccd3e371ffa84"
+      },
       "release_date": "1987-07-06",
       "popularity": 36
     },
     {
-      "trackId": "1TANNp5ftjmxJp820cCieS",
-      "name": "Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind",
+      "track": {
+        "id": "1TANNp5ftjmxJp820cCieS",
+        "name": "Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind"
+      },
       "duration_ms": 176266,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "6FxMKrhmWJTzwx8Iscf6uv",
+      "album": {
+        "id": "6FxMKrhmWJTzwx8Iscf6uv",
+        "name": "Grimascher och telegram",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220dbd435dab83f29a2cef312"
+      },
       "release_date": "1966",
       "popularity": 43
     },
     {
-      "trackId": "3I1cKBHKRyZc6BNkO8IELx",
-      "name": "Men bara om min älskade väntar",
+      "track": {
+        "id": "3I1cKBHKRyZc6BNkO8IELx",
+        "name": "Men bara om min älskade väntar"
+      },
       "duration_ms": 252626,
-      "artist": [
-        "Thåström"
+      "artists": [
+        {
+          "name": "Thåström",
+          "id": "2PBhJmRqee1QAyQU2kBu1H"
+        }
       ],
-      "artistId": [
-        "2PBhJmRqee1QAyQU2kBu1H"
-      ],
-      "albumId": "35j3sPYg9Xs7iZayy1V3PU",
+      "album": {
+        "id": "35j3sPYg9Xs7iZayy1V3PU",
+        "name": "Kärlek är för dom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac0b6d904f07a324f8fd9958"
+      },
       "release_date": "2009-03-13",
       "popularity": 43
     },
     {
-      "trackId": "63PgfGFgAZUEzwGouciEC5",
-      "name": "Quicksand - 2015 Remaster",
+      "track": {
+        "id": "63PgfGFgAZUEzwGouciEC5",
+        "name": "Quicksand - 2015 Remaster"
+      },
       "duration_ms": 306480,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 49
     },
     {
-      "trackId": "1JIzFhI9Lt5FyslawmHCBi",
-      "name": "Five Years - 2012 Remaster",
+      "track": {
+        "id": "1JIzFhI9Lt5FyslawmHCBi",
+        "name": "Five Years - 2012 Remaster"
+      },
       "duration_ms": 283752,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "48D1hRORqJq52qsnUYZX56",
+      "album": {
+        "id": "48D1hRORqJq52qsnUYZX56",
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680"
+      },
       "release_date": "1972-06-06",
       "popularity": 59
     },
     {
-      "trackId": "7s0yFL4RY80NcUSJrY1AAK",
-      "name": "Midnight - 2008 Remaster",
+      "track": {
+        "id": "7s0yFL4RY80NcUSJrY1AAK",
+        "name": "Midnight - 2008 Remaster"
+      },
       "duration_ms": 262600,
-      "artist": [
-        "Yazoo"
+      "artists": [
+        {
+          "name": "Yazoo",
+          "id": "1G1mX30GpUJqOr1QU2eBSs"
+        }
       ],
-      "artistId": [
-        "1G1mX30GpUJqOr1QU2eBSs"
-      ],
-      "albumId": "7ANiOkCxzT2FOeS5qS5bkF",
+      "album": {
+        "id": "7ANiOkCxzT2FOeS5qS5bkF",
+        "name": "Upstairs at Eric's (2008 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c043d1b6d521856fc093ea72"
+      },
       "release_date": "1982-08-20",
       "popularity": 31
     },
     {
-      "trackId": "2GYHyAoLWpkxLVa4oYTVko",
-      "name": "Alors on danse - Radio Edit",
+      "track": {
+        "id": "2GYHyAoLWpkxLVa4oYTVko",
+        "name": "Alors on danse - Radio Edit"
+      },
       "duration_ms": 206066,
-      "artist": [
-        "Stromae"
+      "artists": [
+        {
+          "name": "Stromae",
+          "id": "5j4HeCoUlzhfWtjAfM1acR"
+        }
       ],
-      "artistId": [
-        "5j4HeCoUlzhfWtjAfM1acR"
-      ],
-      "albumId": "4kEbcH3VT6NYfpv8Wkkk80",
+      "album": {
+        "id": "4kEbcH3VT6NYfpv8Wkkk80",
+        "name": "Cheese",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402"
+      },
       "release_date": "2010-01-01",
       "popularity": 78
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

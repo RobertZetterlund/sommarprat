@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2aa4ca58-1ca2-4d39-b761-ead24a5d91d5.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2QsZVnbWVSjKMXK6K3uRBL",
-      "name": "U Remind Me",
+      "track": {
+        "id": "2QsZVnbWVSjKMXK6K3uRBL",
+        "name": "U Remind Me"
+      },
       "duration_ms": 266893,
-      "artist": [
-        "Usher"
+      "artists": [
+        {
+          "name": "Usher",
+          "id": "23zg3TcAtWQy7J6upgbUnj"
+        }
       ],
-      "artistId": [
-        "23zg3TcAtWQy7J6upgbUnj"
-      ],
-      "albumId": "6k16WXh4rKyusIoN00rmpi",
+      "album": {
+        "id": "6k16WXh4rKyusIoN00rmpi",
+        "name": "8701",
+        "img": "https://i.scdn.co/image/ab67616d00001e027750146aac26aade0a867913"
+      },
       "release_date": "2001-08-07",
       "popularity": 71
     },
     {
-      "trackId": "2AtxsYz2BGwo9BO60bxYb9",
-      "name": "Madre Mia",
+      "track": {
+        "id": "2AtxsYz2BGwo9BO60bxYb9",
+        "name": "Madre Mia"
+      },
       "duration_ms": 290200,
-      "artist": [
-        "Mendez"
+      "artists": [
+        {
+          "name": "Mendez",
+          "id": "5z9PI0y6MRnL9BCHOI5ilL"
+        }
       ],
-      "artistId": [
-        "5z9PI0y6MRnL9BCHOI5ilL"
-      ],
-      "albumId": "7m3OyhKaxHWw3aH3GR1XaM",
+      "album": {
+        "id": "7m3OyhKaxHWw3aH3GR1XaM",
+        "name": "Latino For Life",
+        "img": "https://i.scdn.co/image/ab67616d00001e0232017695c3e5c5aeda9a3ec0"
+      },
       "release_date": "2000-01-01",
       "popularity": 36
     },
     {
-      "trackId": "1Jmqubf9kGkWeYQXQKImL5",
-      "name": "People Are Strange",
+      "track": {
+        "id": "1Jmqubf9kGkWeYQXQKImL5",
+        "name": "People Are Strange"
+      },
       "duration_ms": 130173,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "6v5IVMmY1IvWtbfnQoiFSf",
+      "album": {
+        "id": "6v5IVMmY1IvWtbfnQoiFSf",
+        "name": "Strange Days",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286339e6cd71cc2a167451ee5"
+      },
       "release_date": "1967-09-25",
       "popularity": 71
     },
     {
-      "trackId": "2nNzvS5Pqy7sAf18hXiCvv",
-      "name": "Beginning of the Doors: Visionary Dream: Segment IV",
+      "track": {
+        "id": "2nNzvS5Pqy7sAf18hXiCvv",
+        "name": "Beginning of the Doors: Visionary Dream: Segment IV"
+      },
       "duration_ms": 879040,
-      "artist": [
-        "The Doors"
+      "artists": [
+        {
+          "name": "The Doors",
+          "id": "22WZ7M8sxp5THdruNY3gXt"
+        }
       ],
-      "artistId": [
-        "22WZ7M8sxp5THdruNY3gXt"
-      ],
-      "albumId": "11ZxZSTmqwaL0f3MbLyhOA",
+      "album": {
+        "id": "11ZxZSTmqwaL0f3MbLyhOA",
+        "name": "No One Here Gets Out Alive",
+        "img": "https://i.scdn.co/image/ab67616d00001e0268e143c6f8a7dfca8f49f25e"
+      },
       "release_date": "2006-11-14",
       "popularity": 5
     },
     {
-      "trackId": "1xZdjsAGrY4BUIbIlYy3EX",
-      "name": "Strictly Business",
+      "track": {
+        "id": "1xZdjsAGrY4BUIbIlYy3EX",
+        "name": "Strictly Business"
+      },
       "duration_ms": 285413,
-      "artist": [
-        "EPMD"
+      "artists": [
+        {
+          "name": "EPMD",
+          "id": "3zpKjsMg2gw1St5WcWoUJN"
+        }
       ],
-      "artistId": [
-        "3zpKjsMg2gw1St5WcWoUJN"
-      ],
-      "albumId": "2HOl8gDiGGpt7wsIDi9jy5",
+      "album": {
+        "id": "2HOl8gDiGGpt7wsIDi9jy5",
+        "name": "Strictly Business",
+        "img": "https://i.scdn.co/image/ab67616d00001e0293d12611d0665f9bb15cc79f"
+      },
       "release_date": "1988-06-07",
       "popularity": 48
     },
     {
-      "trackId": "6GnHyBBUwSC0hvdi3G6ZVW",
-      "name": "Válgame Dios (with Antonio Orozco) - En Directo",
+      "track": {
+        "id": "6GnHyBBUwSC0hvdi3G6ZVW",
+        "name": "Válgame Dios (with Antonio Orozco) - En Directo"
+      },
       "duration_ms": 231780,
-      "artist": [
-        "Niña Pastori",
-        "Antonio Orozco"
+      "artists": [
+        {
+          "name": "Niña Pastori",
+          "id": "6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Antonio Orozco",
+          "id": "1ADdpen72RPuafRcv0YRBf"
+        }
       ],
-      "artistId": [
-        "6UelqIK8qwhWFc2f6nSEh8",
-        "1ADdpen72RPuafRcv0YRBf"
-      ],
-      "albumId": "6ZEninUB9PobSF5FVMyFK9",
+      "album": {
+        "id": "6ZEninUB9PobSF5FVMyFK9",
+        "name": "Realmente Volando (En Directo)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eaa2d49c1ab59d908ee8a167"
+      },
       "release_date": "2018-11-09",
       "popularity": 51
     },
     {
-      "trackId": "6tDxrq4FxEL2q15y37tXT9",
-      "name": "Dear Mama",
+      "track": {
+        "id": "6tDxrq4FxEL2q15y37tXT9",
+        "name": "Dear Mama"
+      },
       "duration_ms": 280000,
-      "artist": [
-        "2Pac"
+      "artists": [
+        {
+          "name": "2Pac",
+          "id": "1ZwdS5xdxEREPySFridCfh"
+        }
       ],
-      "artistId": [
-        "1ZwdS5xdxEREPySFridCfh"
-      ],
-      "albumId": "3OrucS4sHv6Bl9GS4rafEk",
+      "album": {
+        "id": "3OrucS4sHv6Bl9GS4rafEk",
+        "name": "Me Against The World",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea"
+      },
       "release_date": "1995-03-14",
       "popularity": 70
     },
     {
-      "trackId": "3zJRvtQkHQRTNEXSY8jQPR",
-      "name": "Breathe (In The Air) - 2011 Remastered Version",
+      "track": {
+        "id": "3zJRvtQkHQRTNEXSY8jQPR",
+        "name": "Breathe (In The Air) - 2011 Remastered Version"
+      },
       "duration_ms": 169560,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "2WT1pbYjLJciAR26yMebkH",
+      "album": {
+        "id": "2WT1pbYjLJciAR26yMebkH",
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d3709135d1005baa36939d80"
+      },
       "release_date": "1973-03-01",
       "popularity": 62
     },
     {
-      "trackId": "0hioWv2FDtVePjHFTwgrf7",
-      "name": "I'm Bad",
+      "track": {
+        "id": "0hioWv2FDtVePjHFTwgrf7",
+        "name": "I'm Bad"
+      },
       "duration_ms": 279733,
-      "artist": [
-        "LL COOL J"
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "id": "1P8IfcNKwrkQP5xJWuhaOC"
+        }
       ],
-      "artistId": [
-        "1P8IfcNKwrkQP5xJWuhaOC"
-      ],
-      "albumId": "5jNxWuqdnchBjdoKykAsY7",
+      "album": {
+        "id": "5jNxWuqdnchBjdoKykAsY7",
+        "name": "Bigger And Deffer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5e52a75f465eb8303d55491"
+      },
       "release_date": "1987-07-22",
       "popularity": 52
     },
     {
-      "trackId": "5Z8HZM6iQMhhqyPcCGY5g9",
-      "name": "Hot (feat. Gunna)",
+      "track": {
+        "id": "5Z8HZM6iQMhhqyPcCGY5g9",
+        "name": "Hot (feat. Gunna)"
+      },
       "duration_ms": 193026,
-      "artist": [
-        "Young Thug",
-        "Gunna"
+      "artists": [
+        {
+          "name": "Young Thug",
+          "id": "50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ"
+        }
       ],
-      "artistId": [
-        "50co4Is1HCEo8bhOyUWKpn",
-        "2hlmm7s2ICUX0LVIhVFlZQ"
-      ],
-      "albumId": "1bnHPO4dKK7IjvgrtVBcQh",
+      "album": {
+        "id": "1bnHPO4dKK7IjvgrtVBcQh",
+        "name": "So Much Fun",
+        "img": "https://i.scdn.co/image/ab67616d00001e026fcd1b6e205d0d19d9efa0cc"
+      },
       "release_date": "2019-08-16",
       "popularity": 70
     },
     {
-      "trackId": "570MSgOGWpri3eG33OePzW",
-      "name": "Adrenaline",
+      "track": {
+        "id": "570MSgOGWpri3eG33OePzW",
+        "name": "Adrenaline"
+      },
       "duration_ms": 177413,
-      "artist": [
-        "Mendez"
+      "artists": [
+        {
+          "name": "Mendez",
+          "id": "5z9PI0y6MRnL9BCHOI5ilL"
+        }
       ],
-      "artistId": [
-        "5z9PI0y6MRnL9BCHOI5ilL"
-      ],
-      "albumId": "6uYrKvCdehA1SppA69WidF",
+      "album": {
+        "id": "6uYrKvCdehA1SppA69WidF",
+        "name": "Adrenaline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02291282b4b3997ba440b20026"
+      },
       "release_date": "2002-07-01",
       "popularity": 28
     },
     {
-      "trackId": "5b7OgznPJJr1vHNYGyvxau",
-      "name": "Fly Me To The Moon (In Other Words)",
+      "track": {
+        "id": "5b7OgznPJJr1vHNYGyvxau",
+        "name": "Fly Me To The Moon (In Other Words)"
+      },
       "duration_ms": 147000,
-      "artist": [
-        "Frank Sinatra",
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "2NCtCObbmJoJnplsR5mLAl",
+      "album": {
+        "id": "2NCtCObbmJoJnplsR5mLAl",
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb81eb3c1238c60f2bbfd3b5"
+      },
       "release_date": "1962-12-10",
       "popularity": 71
     },
     {
-      "trackId": "6KaJLqnny3gq5ko8chc0Ot",
-      "name": "My Wonderwall",
+      "track": {
+        "id": "6KaJLqnny3gq5ko8chc0Ot",
+        "name": "My Wonderwall"
+      },
       "duration_ms": 202200,
-      "artist": [
-        "Mendez"
+      "artists": [
+        {
+          "name": "Mendez",
+          "id": "5z9PI0y6MRnL9BCHOI5ilL"
+        }
       ],
-      "artistId": [
-        "5z9PI0y6MRnL9BCHOI5ilL"
-      ],
-      "albumId": "6k5DIn7LOaTnJb93iS6xtC",
+      "album": {
+        "id": "6k5DIn7LOaTnJb93iS6xtC",
+        "name": "My Wonderwall",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c3392a55c445e6bda430dc77"
+      },
       "release_date": "2018-07-06",
       "popularity": 23
     }

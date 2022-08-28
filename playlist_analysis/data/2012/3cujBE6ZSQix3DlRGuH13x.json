@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2354623_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "06rWBPnq8cNfLlZEAyP1FL",
-      "name": "Nocturne",
+      "track": {
+        "id": "06rWBPnq8cNfLlZEAyP1FL",
+        "name": "Nocturne"
+      },
       "duration_ms": 180960,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "5T85NS6pAaXZ8eM21izrXe",
+      "album": {
+        "id": "5T85NS6pAaXZ8eM21izrXe",
+        "name": "Taube Sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e021198d2f05715ff2e2584b61b"
+      },
       "release_date": "1989",
       "popularity": 21
     },
     {
-      "trackId": "6eMSo5M3xhDg3k9pwNNUku",
-      "name": "Svart-vit calypso",
+      "track": {
+        "id": "6eMSo5M3xhDg3k9pwNNUku",
+        "name": "Svart-vit calypso"
+      },
       "duration_ms": 195360,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+      "album": {
+        "id": "7bDYb5Q2xcNgQ2g3u4lYiR",
+        "name": "Den sista jäntan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281ddc01043d8abd1e8945194"
+      },
       "release_date": "1973-09-05",
       "popularity": 10
     },
     {
-      "trackId": "34BZRKHeouOJqnHwSKMTvm",
-      "name": "Wiggen",
+      "track": {
+        "id": "34BZRKHeouOJqnHwSKMTvm",
+        "name": "Wiggen"
+      },
       "duration_ms": 160160,
-      "artist": [
-        "Thore Skogman"
+      "artists": [
+        {
+          "name": "Thore Skogman",
+          "id": "6NTX7EIJQEEUMPIBdYpzhs"
+        }
       ],
-      "artistId": [
-        "6NTX7EIJQEEUMPIBdYpzhs"
-      ],
-      "albumId": "3x0pXGHWxO2xStQupeMmvA",
+      "album": {
+        "id": "3x0pXGHWxO2xStQupeMmvA",
+        "name": "Musik vi minns",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d5cdf48f1d31845a30ab3cd"
+      },
       "release_date": "2002-01-01",
       "popularity": 31
     },
     {
-      "trackId": "5wQyinakPBe6ZhNaq1jSeu",
-      "name": "Barn",
+      "track": {
+        "id": "5wQyinakPBe6ZhNaq1jSeu",
+        "name": "Barn"
+      },
       "duration_ms": 287253,
-      "artist": [
-        "Ulf Dageby"
+      "artists": [
+        {
+          "name": "Ulf Dageby",
+          "id": "3bO9mFv5ArliHJs4RejB7z"
+        }
       ],
-      "artistId": [
-        "3bO9mFv5ArliHJs4RejB7z"
-      ],
-      "albumId": "422LCvkhruTkVI0iYg0SOE",
+      "album": {
+        "id": "422LCvkhruTkVI0iYg0SOE",
+        "name": "Känsliga soldater",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b1b1925650faf002b52eab5c"
+      },
       "release_date": "1989-01-01",
       "popularity": 28
     },
     {
-      "trackId": "1Jm7bRx1AupKYpqpPtPFWK",
-      "name": "La Lega",
+      "track": {
+        "id": "1Jm7bRx1AupKYpqpPtPFWK",
+        "name": "La Lega"
+      },
       "duration_ms": 216520,
-      "artist": [
-        "Röda Bönor"
+      "artists": [
+        {
+          "name": "Röda Bönor",
+          "id": "38Dkdgms2HWirOGTIsvyCq"
+        }
       ],
-      "artistId": [
-        "38Dkdgms2HWirOGTIsvyCq"
-      ],
-      "albumId": "6nyPuPCKiS6l8punTDbQh0",
+      "album": {
+        "id": "6nyPuPCKiS6l8punTDbQh0",
+        "name": "Röda Bönor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02675ce313aaa5b0c9e90ca7be"
+      },
       "release_date": "1976-01-01",
       "popularity": 15
     },
     {
-      "trackId": "5QARxy7t3c3vpZdR4H2fZi",
-      "name": "Isa Bell",
+      "track": {
+        "id": "5QARxy7t3c3vpZdR4H2fZi",
+        "name": "Isa Bell"
+      },
       "duration_ms": 291173,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "18qn6UNYahqmDOMOjfe5R4",
+      "album": {
+        "id": "18qn6UNYahqmDOMOjfe5R4",
+        "name": "Gaia",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a430b090b042fb93f4dc1b22"
+      },
       "release_date": "1983",
       "popularity": 10
     },
     {
-      "trackId": "55VX2nGsYj2ulAYNerp7Fx",
-      "name": "Farväl till släkt och vänner",
+      "track": {
+        "id": "55VX2nGsYj2ulAYNerp7Fx",
+        "name": "Farväl till släkt och vänner"
+      },
       "duration_ms": 162599,
-      "artist": [
-        "Björn Afzelius"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0"
-      ],
-      "albumId": "1lFg2iF2hsofvNGD6zXfCT",
+      "album": {
+        "id": "1lFg2iF2hsofvNGD6zXfCT",
+        "name": "Elsinore",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b695e8a702b32e7f92b79859"
+      },
       "release_date": "1999-01-01",
       "popularity": 38
     },
     {
-      "trackId": "2kf5wkHagdem1gOXK4bpyU",
-      "name": "Barn av vår tid",
+      "track": {
+        "id": "2kf5wkHagdem1gOXK4bpyU",
+        "name": "Barn av vår tid"
+      },
       "duration_ms": 362626,
-      "artist": [
-        "Björn Afzelius"
+      "artists": [
+        {
+          "name": "Björn Afzelius",
+          "id": "0PXQ16KY3iwdfvluCikdn0"
+        }
       ],
-      "artistId": [
-        "0PXQ16KY3iwdfvluCikdn0"
-      ],
-      "albumId": "1SVBi5tjjQvxtlOFQSAfH7",
+      "album": {
+        "id": "1SVBi5tjjQvxtlOFQSAfH7",
+        "name": "Tusen bitar - sånger om kärlek och rättvisa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5b321cea804482fba7b9ffd"
+      },
       "release_date": "2011-11-21",
       "popularity": 7
     },
     {
-      "trackId": "3Uqn1tn6mUH9wz7eC5J4bL",
-      "name": "Legenden om soldaten i tredje världskriget, eller: Visa till Karin",
+      "track": {
+        "id": "3Uqn1tn6mUH9wz7eC5J4bL",
+        "name": "Legenden om soldaten i tredje världskriget, eller: Visa till Karin"
+      },
       "duration_ms": 154493,
-      "artist": [
-        "Wolf Biermann",
-        "Lena Granhagen"
+      "artists": [
+        {
+          "name": "Wolf Biermann",
+          "id": "6DnJnXNndN4xnoL1LN2lEx"
+        },
+        {
+          "name": "Lena Granhagen",
+          "id": "2j5g9dSctysNgUQhLzKhEN"
+        }
       ],
-      "artistId": [
-        "6DnJnXNndN4xnoL1LN2lEx",
-        "2j5g9dSctysNgUQhLzKhEN"
-      ],
-      "albumId": "6yU7zgFQFz31ke10bTVHNf",
+      "album": {
+        "id": "6yU7zgFQFz31ke10bTVHNf",
+        "name": "Lena Granhagen sjunger Theodorakis & Biermann",
+        "img": "https://i.scdn.co/image/ab67616d00001e025238e47e32fbabce5b8f698f"
+      },
       "release_date": "2014-04-01",
       "popularity": 1
     },
     {
-      "trackId": "5fdYc5wpLgnN5BWrgdiNDj",
-      "name": "Sagan Om Lilla Sofie",
+      "track": {
+        "id": "5fdYc5wpLgnN5BWrgdiNDj",
+        "name": "Sagan Om Lilla Sofie"
+      },
       "duration_ms": 203640,
-      "artist": [
-        "Hep Stars"
+      "artists": [
+        {
+          "name": "Hep Stars",
+          "id": "7FZqbNdkNb0UVVze7L8PGp"
+        }
       ],
-      "artistId": [
-        "7FZqbNdkNb0UVVze7L8PGp"
-      ],
-      "albumId": "2uFvZdiW9iDnXUpksD2meg",
+      "album": {
+        "id": "2uFvZdiW9iDnXUpksD2meg",
+        "name": "50th Anniversary 1964-2014",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d8fa6bb5c95fb4626b05f69"
+      },
       "release_date": "2014-01-22",
       "popularity": 30
     },
     {
-      "trackId": "73TEYEuPJc1NaHynxoBwko",
-      "name": "En vintersaga - Live",
+      "track": {
+        "id": "73TEYEuPJc1NaHynxoBwko",
+        "name": "En vintersaga - Live"
+      },
       "duration_ms": 342533,
-      "artist": [
-        "Jerry Williams"
+      "artists": [
+        {
+          "name": "Jerry Williams",
+          "id": "1PJOXqvEZQjdDAV1R5rS07"
+        }
       ],
-      "artistId": [
-        "1PJOXqvEZQjdDAV1R5rS07"
-      ],
-      "albumId": "4B4FcvnGtQ8nsLtl5PkhIH",
+      "album": {
+        "id": "4B4FcvnGtQ8nsLtl5PkhIH",
+        "name": "Golden Hits Live",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d83b2d28b57ec03661d73958"
+      },
       "release_date": "2004-01-01",
       "popularity": 14
     }

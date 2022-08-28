@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3250165_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "61BmTdyhAAd5BDmUqiVkTy",
-      "name": "Tiny European Cars",
+      "track": {
+        "id": "61BmTdyhAAd5BDmUqiVkTy",
+        "name": "Tiny European Cars"
+      },
       "duration_ms": 201875,
-      "artist": [
-        "Clem Snide"
+      "artists": [
+        {
+          "name": "Clem Snide",
+          "id": "6BV1QOFqWihVnBllS5naPh"
+        }
       ],
-      "artistId": [
-        "6BV1QOFqWihVnBllS5naPh"
-      ],
-      "albumId": "6UU7KbFoWx01mdNHpifyK5",
+      "album": {
+        "id": "6UU7KbFoWx01mdNHpifyK5",
+        "name": "End of Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9843b33079d1c0f88fbfba9"
+      },
       "release_date": "2005-02-22",
       "popularity": 4
     },
     {
-      "trackId": "6Omg32BRjX3lD4DYIGOwUo",
-      "name": "Where I'm From",
+      "track": {
+        "id": "6Omg32BRjX3lD4DYIGOwUo",
+        "name": "Where I'm From"
+      },
       "duration_ms": 230986,
-      "artist": [
-        "Shelby Lynne"
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "id": "3xx17YXYvPl9PBx6Jzalk4"
+        }
       ],
-      "artistId": [
-        "3xx17YXYvPl9PBx6Jzalk4"
-      ],
-      "albumId": "3QDQjAbMsT5gurhAvQXJZ5",
+      "album": {
+        "id": "3QDQjAbMsT5gurhAvQXJZ5",
+        "name": "I Am Shelby Lynne",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220c868f5d01948e792f5777a"
+      },
       "release_date": "2022-02-23",
       "popularity": 33
     },
     {
-      "trackId": "5uG8argAmShAXDIjSdM0uG",
-      "name": "Carey",
+      "track": {
+        "id": "5uG8argAmShAXDIjSdM0uG",
+        "name": "Carey"
+      },
       "duration_ms": 187110,
-      "artist": [
-        "Piano Project"
+      "artists": [
+        {
+          "name": "Piano Project",
+          "id": "0sOfFTIMocxq5mPB8SFLHn"
+        }
       ],
-      "artistId": [
-        "0sOfFTIMocxq5mPB8SFLHn"
-      ],
-      "albumId": "5kLPnzPxClCmU5XGcye7Lz",
+      "album": {
+        "id": "5kLPnzPxClCmU5XGcye7Lz",
+        "name": "Piano Renditions of Joni Mitchell",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c411d6d5a1d50722681a6520"
+      },
       "release_date": "2021-06-11",
       "popularity": 3
     },
     {
-      "trackId": "5hRqcV7yqvNhsebjX9jZGb",
-      "name": "I Love the Unknown",
+      "track": {
+        "id": "5hRqcV7yqvNhsebjX9jZGb",
+        "name": "I Love the Unknown"
+      },
       "duration_ms": 166557,
-      "artist": [
-        "Clem Snide"
+      "artists": [
+        {
+          "name": "Clem Snide",
+          "id": "6BV1QOFqWihVnBllS5naPh"
+        }
       ],
-      "artistId": [
-        "6BV1QOFqWihVnBllS5naPh"
-      ],
-      "albumId": "7f12lct22Z6OgBcTY8p2GC",
+      "album": {
+        "id": "7f12lct22Z6OgBcTY8p2GC",
+        "name": "Your Favorite Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9c941a0c8a1d5e4ff892456"
+      },
       "release_date": "2000-08-28",
       "popularity": 14
     },
     {
-      "trackId": "1vOduLmBiphj9ey2kpwN36",
-      "name": "Julvisa I Finnmarken",
+      "track": {
+        "id": "1vOduLmBiphj9ey2kpwN36",
+        "name": "Julvisa I Finnmarken"
+      },
       "duration_ms": 191693,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "album": {
+        "id": "6zbpOJwPVtns1Yqnn9lmW1",
+        "name": "Svarta Ballader",
+        "img": "https://i.scdn.co/image/ab67616d00001e02092ffb11b996eafd96cc12ca"
+      },
       "release_date": "2005-02-23",
       "popularity": 16
     },
     {
-      "trackId": "5Jy01Z0zK7oca4I3IM0Ujp",
-      "name": "I Can't Stand the Rain",
+      "track": {
+        "id": "5Jy01Z0zK7oca4I3IM0Ujp",
+        "name": "I Can't Stand the Rain"
+      },
       "duration_ms": 201773,
-      "artist": [
-        "Lowell George"
+      "artists": [
+        {
+          "name": "Lowell George",
+          "id": "1LtESXjUStRZLNHKASmIv3"
+        }
       ],
-      "artistId": [
-        "1LtESXjUStRZLNHKASmIv3"
-      ],
-      "albumId": "1gPGtZ7P8hDjYOeRxh9JT2",
+      "album": {
+        "id": "1gPGtZ7P8hDjYOeRxh9JT2",
+        "name": "Thanks, I'll Eat It Here",
+        "img": "https://i.scdn.co/image/ab67616d00001e024af1df00bb1ccffe0f09577f"
+      },
       "release_date": "1979",
       "popularity": 36
     },
     {
-      "trackId": "3XJsJZbJx9DsH2LOUIfgZp",
-      "name": "Holding Up the Sky",
+      "track": {
+        "id": "3XJsJZbJx9DsH2LOUIfgZp",
+        "name": "Holding Up the Sky"
+      },
       "duration_ms": 189173,
-      "artist": [
-        "Buddy & Julie Miller"
+      "artists": [
+        {
+          "name": "Buddy & Julie Miller",
+          "id": "61YXt5O4gENijzfR9cjjSV"
+        }
       ],
-      "artistId": [
-        "61YXt5O4gENijzfR9cjjSV"
-      ],
-      "albumId": "50O0aRdKBmeDJRJCAs9wqY",
+      "album": {
+        "id": "50O0aRdKBmeDJRJCAs9wqY",
+        "name": "Buddy & Julie Miller",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a61cd41dc0f0422b4395bb6"
+      },
       "release_date": "2001-09-18",
       "popularity": 9
     },
     {
-      "trackId": "1OQ9UMDD2DUrAEWlXgzKlf",
-      "name": "Mupepe",
+      "track": {
+        "id": "1OQ9UMDD2DUrAEWlXgzKlf",
+        "name": "Mupepe"
+      },
       "duration_ms": 231840,
-      "artist": [
-        "Zap Mama"
+      "artists": [
+        {
+          "name": "Zap Mama",
+          "id": "5UUHefXYUqgqmROQvDmJLL"
+        }
       ],
-      "artistId": [
-        "5UUHefXYUqgqmROQvDmJLL"
-      ],
-      "albumId": "0DBeA9lvn15ogHsRGD8TPq",
+      "album": {
+        "id": "0DBeA9lvn15ogHsRGD8TPq",
+        "name": "Zap Mama",
+        "img": "https://i.scdn.co/image/ab67616d00001e023eadd2c9374f355c10e3c573"
+      },
       "release_date": "1991-11-15",
       "popularity": 21
     },
     {
-      "trackId": "0BTsivWO76a0QuZ6mGr4zv",
-      "name": "To Open Up My Heart",
+      "track": {
+        "id": "0BTsivWO76a0QuZ6mGr4zv",
+        "name": "To Open Up My Heart"
+      },
       "duration_ms": 248160,
-      "artist": [
-        "Anders Widmark",
-        "Sara Isaksson"
+      "artists": [
+        {
+          "name": "Anders Widmark",
+          "id": "4ZgY2pumPsq9z3kNxGTDef"
+        },
+        {
+          "name": "Sara Isaksson",
+          "id": "40XQj4kRF9goPrVi2M3g1g"
+        }
       ],
-      "artistId": [
-        "4ZgY2pumPsq9z3kNxGTDef",
-        "40XQj4kRF9goPrVi2M3g1g"
-      ],
-      "albumId": "5BjxQC1EkXyeCqO1WEOiz0",
+      "album": {
+        "id": "5BjxQC1EkXyeCqO1WEOiz0",
+        "name": "Anders Widmark featuring Sara Isaksson",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2d624722802cb0534f843e8"
+      },
       "release_date": "2002-01-01",
       "popularity": 30
     },
     {
-      "trackId": "7gOWgTBGbkQXcjvM5g3G6U",
-      "name": "Allt som jag inte hann",
+      "track": {
+        "id": "7gOWgTBGbkQXcjvM5g3G6U",
+        "name": "Allt som jag inte hann"
+      },
       "duration_ms": 252346,
-      "artist": [
-        "Anders Lundin"
+      "artists": [
+        {
+          "name": "Anders Lundin",
+          "id": "6ocdSdvNpA88kKJSnvecKT"
+        }
       ],
-      "artistId": [
-        "6ocdSdvNpA88kKJSnvecKT"
-      ],
-      "albumId": "35pyV5ROUMtGgF1YmVQs9G",
+      "album": {
+        "id": "35pyV5ROUMtGgF1YmVQs9G",
+        "name": "Buckliga ord, knyckiga låtar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02165801f9112a27bb4dfb2634"
+      },
       "release_date": "2009-01-01",
       "popularity": 3
     },
     {
-      "trackId": "1CIsLJsETTEi4qEgPG4mlm",
-      "name": "For My Friends",
+      "track": {
+        "id": "1CIsLJsETTEi4qEgPG4mlm",
+        "name": "For My Friends"
+      },
       "duration_ms": 123853,
-      "artist": [
-        "Sofia Pettersson"
+      "artists": [
+        {
+          "name": "Sofia Pettersson",
+          "id": "4JwRK3rUMDQNcpjD76jl1l"
+        }
       ],
-      "artistId": [
-        "4JwRK3rUMDQNcpjD76jl1l"
-      ],
-      "albumId": "0Y6dBtdVogaoHkc4utjLTN",
+      "album": {
+        "id": "0Y6dBtdVogaoHkc4utjLTN",
+        "name": "Still Here",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216ebe818e8bf34a84baf70e6"
+      },
       "release_date": "2006-05-01",
       "popularity": 1
     }

@@ -7,146 +7,210 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242638_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0YV8lNihRvFJE2gVAa6mh4",
-      "name": "I Got Rhythm",
+      "track": {
+        "id": "0YV8lNihRvFJE2gVAa6mh4",
+        "name": "I Got Rhythm"
+      },
       "duration_ms": 162520,
-      "artist": [
-        "Brian Wilson"
+      "artists": [
+        {
+          "name": "Brian Wilson",
+          "id": "4Q82S0VzF8qlCb4PnSDurj"
+        }
       ],
-      "artistId": [
-        "4Q82S0VzF8qlCb4PnSDurj"
-      ],
-      "albumId": "28JqeTO39K30eh0u0wXvQz",
+      "album": {
+        "id": "28JqeTO39K30eh0u0wXvQz",
+        "name": "Brian Wilson Reimagines Gershwin",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241c96accab714fb24756a57c"
+      },
       "release_date": "2010-01-01",
       "popularity": 4
     },
     {
-      "trackId": "4IbOPxstIn2KbdlWf5xRZ0",
-      "name": "Georgia on My Mind",
+      "track": {
+        "id": "4IbOPxstIn2KbdlWf5xRZ0",
+        "name": "Georgia on My Mind"
+      },
       "duration_ms": 188226,
-      "artist": [
-        "Michael Bublé"
+      "artists": [
+        {
+          "name": "Michael Bublé",
+          "id": "1GxkXlMwML1oSg5eLPiAz3"
+        }
       ],
-      "artistId": [
-        "1GxkXlMwML1oSg5eLPiAz3"
-      ],
-      "albumId": "3MXDonOIzrIrCh0HvlACyj",
+      "album": {
+        "id": "3MXDonOIzrIrCh0HvlACyj",
+        "name": "Crazy Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0cc194252888c6658c706ab"
+      },
       "release_date": "2009-10-06",
       "popularity": 52
     },
     {
-      "trackId": "1gSWpgu8H58SQ8Ck5D3M6Z",
-      "name": "På Disco",
+      "track": {
+        "id": "1gSWpgu8H58SQ8Ck5D3M6Z",
+        "name": "På Disco"
+      },
       "duration_ms": 130326,
-      "artist": [
-        "Hooja"
+      "artists": [
+        {
+          "name": "Hooja",
+          "id": "054fVwphDX8QB8Pm7IjRcL"
+        }
       ],
-      "artistId": [
-        "054fVwphDX8QB8Pm7IjRcL"
-      ],
-      "albumId": "1wEfywTG7i21IyYpFrznYf",
+      "album": {
+        "id": "1wEfywTG7i21IyYpFrznYf",
+        "name": "På Disco",
+        "img": "https://i.scdn.co/image/ab67616d00001e0273d016ef62bcf21cedec81ed"
+      },
       "release_date": "2021-10-28",
       "popularity": 56
     },
     {
-      "trackId": "1ZACxWQRauxuuVUEhXLDsb",
-      "name": "Tear It Up",
+      "track": {
+        "id": "1ZACxWQRauxuuVUEhXLDsb",
+        "name": "Tear It Up"
+      },
       "duration_ms": 267840,
-      "artist": [
-        "Michael McDonald"
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "id": "24hJWbo98sH84tb0nkeaqy"
+        }
       ],
-      "artistId": [
-        "24hJWbo98sH84tb0nkeaqy"
-      ],
-      "albumId": "26DyP2oh3gRsq5eNR1gjtV",
+      "album": {
+        "id": "26DyP2oh3gRsq5eNR1gjtV",
+        "name": "Take It to Heart",
+        "img": "https://i.scdn.co/image/ab67616d00001e0272a576d2fe2270948871ed94"
+      },
       "release_date": "1990-05-11",
       "popularity": 13
     },
     {
-      "trackId": "1AcvqJhm4CXOFJ7INbR5rR",
-      "name": "It's Bad You Know",
+      "track": {
+        "id": "1AcvqJhm4CXOFJ7INbR5rR",
+        "name": "It's Bad You Know"
+      },
       "duration_ms": 298000,
-      "artist": [
-        "R.L. Burnside"
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "id": "2drMeidRg4jc07neGOL0Ip"
+        }
       ],
-      "artistId": [
-        "2drMeidRg4jc07neGOL0Ip"
-      ],
-      "albumId": "6QyepVbPWpjsQZAEgqmDsJ",
+      "album": {
+        "id": "6QyepVbPWpjsQZAEgqmDsJ",
+        "name": "Come on In",
+        "img": "https://i.scdn.co/image/ab67616d00001e022224dbc92f672afa8136f848"
+      },
       "release_date": "1998-08-11",
       "popularity": 44
     },
     {
-      "trackId": "5hV0uMeGIUtKASyf25htAo",
-      "name": "Caruso",
+      "track": {
+        "id": "5hV0uMeGIUtKASyf25htAo",
+        "name": "Caruso"
+      },
       "duration_ms": 319493,
-      "artist": [
-        "Lucio Dalla",
-        "Luciano Pavarotti",
-        "Unknown Artist"
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "id": "25MkkfEousyfp2eyh38FUl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Unknown Artist",
+          "id": "3POLGp1PDjloqIXcgfJZZl"
+        }
       ],
-      "artistId": [
-        "25MkkfEousyfp2eyh38FUl",
-        "0Y8KmFkKOgJybpVobn1onU",
-        "3POLGp1PDjloqIXcgfJZZl"
-      ],
-      "albumId": "01gyhMRB3RBxhgkfqbBNVi",
+      "album": {
+        "id": "01gyhMRB3RBxhgkfqbBNVi",
+        "name": "Tutto Pavarotti",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a15daea966d92e6d59d903f3"
+      },
       "release_date": "1988-01-01",
       "popularity": 45
     },
     {
-      "trackId": "1ox1GfZqd4IYjHkbpIAPwF",
-      "name": "Flottarkärlek",
+      "track": {
+        "id": "1ox1GfZqd4IYjHkbpIAPwF",
+        "name": "Flottarkärlek"
+      },
       "duration_ms": 143506,
-      "artist": [
-        "Gösta \"Snoddas\" Nordgren"
+      "artists": [
+        {
+          "name": "Gösta \"Snoddas\" Nordgren",
+          "id": "55Mv9PuCTRfExD5y0l4Hg1"
+        }
       ],
-      "artistId": [
-        "55Mv9PuCTRfExD5y0l4Hg1"
-      ],
-      "albumId": "2JxIMVtd4DLiCLXSeCii9N",
+      "album": {
+        "id": "2JxIMVtd4DLiCLXSeCii9N",
+        "name": "Det bästa med Snoddas",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a0e1fabbed53931727a4a62"
+      },
       "release_date": "2007-05-30",
       "popularity": 38
     },
     {
-      "trackId": "3peZMS2IH3OMqYjAcbsMto",
-      "name": "Isn't This A Lovely Day",
+      "track": {
+        "id": "3peZMS2IH3OMqYjAcbsMto",
+        "name": "Isn't This A Lovely Day"
+      },
       "duration_ms": 248200,
-      "artist": [
-        "Peter Skellern"
+      "artists": [
+        {
+          "name": "Peter Skellern",
+          "id": "0PV9WCEGu2Yu89ArTqR6b6"
+        }
       ],
-      "artistId": [
-        "0PV9WCEGu2Yu89ArTqR6b6"
-      ],
-      "albumId": "6qK3Pon2dZ0f8zQqqumEJK",
+      "album": {
+        "id": "6qK3Pon2dZ0f8zQqqumEJK",
+        "name": "Sentimentally Yours",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7c785d438c93c10ba929e23"
+      },
       "release_date": "1996-07-15",
       "popularity": 15
     },
     {
-      "trackId": "74TEgDsFaq0zMttq1dVuYK",
-      "name": "Första Klass",
+      "track": {
+        "id": "74TEgDsFaq0zMttq1dVuYK",
+        "name": "Första Klass"
+      },
       "duration_ms": 151578,
-      "artist": [
-        "Einár"
+      "artists": [
+        {
+          "name": "Einár",
+          "id": "0kKygNaCQjqVLrImIftRDJ"
+        }
       ],
-      "artistId": [
-        "0kKygNaCQjqVLrImIftRDJ"
-      ],
-      "albumId": "5W4QltYoETJuRVqkcwWOtl",
+      "album": {
+        "id": "5W4QltYoETJuRVqkcwWOtl",
+        "name": "Första Klass",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e33d144ece5d94f5e86a6e84"
+      },
       "release_date": "2019-06-07",
       "popularity": 60
     },
     {
-      "trackId": "0bRXwKfigvpKZUurwqAlEh",
-      "name": "Lovely Day",
+      "track": {
+        "id": "0bRXwKfigvpKZUurwqAlEh",
+        "name": "Lovely Day"
+      },
       "duration_ms": 254560,
-      "artist": [
-        "Bill Withers"
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "id": "1ThoqLcyIYvZn7iWbj8fsj"
+        }
       ],
-      "artistId": [
-        "1ThoqLcyIYvZn7iWbj8fsj"
-      ],
-      "albumId": "3QjPTUI6UcPr5m9RujkO3c",
+      "album": {
+        "id": "3QjPTUI6UcPr5m9RujkO3c",
+        "name": "Menagerie",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ade9b4d547203c9061fc340"
+      },
       "release_date": "1977-10-29",
       "popularity": 76
     }

@@ -7,192 +7,278 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2341855_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2GrOq1y5gksYrqkc8Jzl9T",
-      "name": "It Was A Good Day",
+      "track": {
+        "id": "2GrOq1y5gksYrqkc8Jzl9T",
+        "name": "It Was A Good Day"
+      },
       "duration_ms": 260079,
-      "artist": [
-        "Ice Cube"
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "id": "3Mcii5XWf6E0lrY3Uky4cA"
+        }
       ],
-      "artistId": [
-        "3Mcii5XWf6E0lrY3Uky4cA"
-      ],
-      "albumId": "7EPmezGIzLHj7LeTtLYhJZ",
+      "album": {
+        "id": "7EPmezGIzLHj7LeTtLYhJZ",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255af7e0cd246a50f8cd15194"
+      },
       "release_date": "2001-12-04",
       "popularity": 72
     },
     {
-      "trackId": "2bsczk82MWGPmTbe6IWYsa",
-      "name": "Moments In Love",
+      "track": {
+        "id": "2bsczk82MWGPmTbe6IWYsa",
+        "name": "Moments In Love"
+      },
       "duration_ms": 615693,
-      "artist": [
-        "The Art Of Noise"
+      "artists": [
+        {
+          "name": "The Art Of Noise",
+          "id": "77zrvBORXcnTyysjjKRfBU"
+        }
       ],
-      "artistId": [
-        "77zrvBORXcnTyysjjKRfBU"
-      ],
-      "albumId": "1l2IntFpOvhD4wdolquWNR",
+      "album": {
+        "id": "1l2IntFpOvhD4wdolquWNR",
+        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e14857f3ed3aa6e8bd818b3"
+      },
       "release_date": "1984-06-19",
       "popularity": 52
     },
     {
-      "trackId": "1qRA5BS78u3gME0loMl9AA",
-      "name": "For What It's Worth",
+      "track": {
+        "id": "1qRA5BS78u3gME0loMl9AA",
+        "name": "For What It's Worth"
+      },
       "duration_ms": 153693,
-      "artist": [
-        "Buffalo Springfield"
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "id": "3eskO5m0H4yiF64vRySBjr"
+        }
       ],
-      "artistId": [
-        "3eskO5m0H4yiF64vRySBjr"
-      ],
-      "albumId": "3PkdGRruLnJ9zCtANiDrpB",
+      "album": {
+        "id": "3PkdGRruLnJ9zCtANiDrpB",
+        "name": "Buffalo Springfield",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d231bd1716b71b6444e25f89"
+      },
       "release_date": "1966-12-05",
       "popularity": 77
     },
     {
-      "trackId": "71vnTUFoXjqP9W8sCVcMQG",
-      "name": "Passing Me By - Roche Remix",
+      "track": {
+        "id": "71vnTUFoXjqP9W8sCVcMQG",
+        "name": "Passing Me By - Roche Remix"
+      },
       "duration_ms": 296706,
-      "artist": [
-        "The Pharcyde"
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "id": "7yk35uHNQclPXFGFoTU44w"
+        }
       ],
-      "artistId": [
-        "7yk35uHNQclPXFGFoTU44w"
-      ],
-      "albumId": "7JO51TYzGBU2HEfikZrgGP",
+      "album": {
+        "id": "7JO51TYzGBU2HEfikZrgGP",
+        "name": "Solos In Stereo",
+        "img": "https://i.scdn.co/image/ab67616d00001e02568494844f19d1a29a2d54f8"
+      },
       "release_date": "2005",
       "popularity": 25
     },
     {
-      "trackId": "6hawp4Ptp1MJmfLFAJGeQk",
-      "name": "Gloria",
+      "track": {
+        "id": "6hawp4Ptp1MJmfLFAJGeQk",
+        "name": "Gloria"
+      },
       "duration_ms": 130157,
-      "artist": [
-        "Amos Milburn, Jr."
+      "artists": [
+        {
+          "name": "Amos Milburn, Jr.",
+          "id": "6OVl58wYE1kMV9b3YO9Qal"
+        }
       ],
-      "artistId": [
-        "6OVl58wYE1kMV9b3YO9Qal"
-      ],
-      "albumId": "1ZUYGX0MK0wNpOjkmFzqOb",
+      "album": {
+        "id": "1ZUYGX0MK0wNpOjkmFzqOb",
+        "name": "Honey Hustlin´ Woman",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c20b3b011a4a02dce2f014a4"
+      },
       "release_date": "2015-05-07",
       "popularity": 5
     },
     {
-      "trackId": "1Ulh5rWbhhV3PltDadTBZC",
-      "name": "State Trooper",
+      "track": {
+        "id": "1Ulh5rWbhhV3PltDadTBZC",
+        "name": "State Trooper"
+      },
       "duration_ms": 191293,
-      "artist": [
-        "Bruce Springsteen"
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "id": "3eqjTLE0HfPfh78zjh6TqT"
+        }
       ],
-      "artistId": [
-        "3eqjTLE0HfPfh78zjh6TqT"
-      ],
-      "albumId": "6yskFQZNlLYhkchAxELHi6",
+      "album": {
+        "id": "6yskFQZNlLYhkchAxELHi6",
+        "name": "Nebraska",
+        "img": "https://i.scdn.co/image/ab67616d00001e028935cadb8e3e20d9fab4582e"
+      },
       "release_date": "1982-09-30",
       "popularity": 44
     },
     {
-      "trackId": "0z9RPFbwfC0mnyCS6kYH8k",
-      "name": "Esto no Es Una Elegía",
+      "track": {
+        "id": "0z9RPFbwfC0mnyCS6kYH8k",
+        "name": "Esto no Es Una Elegía"
+      },
       "duration_ms": 181097,
-      "artist": [
-        "Silvio Rodríguez"
+      "artists": [
+        {
+          "name": "Silvio Rodríguez",
+          "id": "4rUyBlggM5tZUH5QZn9ZuO"
+        }
       ],
-      "artistId": [
-        "4rUyBlggM5tZUH5QZn9ZuO"
-      ],
-      "albumId": "48FzOcD1g5y2FSs0f76g5l",
+      "album": {
+        "id": "48FzOcD1g5y2FSs0f76g5l",
+        "name": "Mujeres",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab92a662cdd8c5052fd0cbce"
+      },
       "release_date": "1978-01-01",
       "popularity": 35
     },
     {
-      "trackId": "1OhjasQBeBd0YrUK2B73U7",
-      "name": "Cumbia Sobre el Mar (feat. Nidia Gongora)",
+      "track": {
+        "id": "1OhjasQBeBd0YrUK2B73U7",
+        "name": "Cumbia Sobre el Mar (feat. Nidia Gongora)"
+      },
       "duration_ms": 374444,
-      "artist": [
-        "Quantic",
-        "Flowering Inferno",
-        "Nidia Gongora"
+      "artists": [
+        {
+          "name": "Quantic",
+          "id": "5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "id": "2JLqcc3mwS4Xf7xZuYwK0p"
+        },
+        {
+          "name": "Nidia Gongora",
+          "id": "5Ln6VxkwRDdAH40Lel6Yj8"
+        }
       ],
-      "artistId": [
-        "5ZMwoAjeDtLJ0XRwRTgaK8",
-        "2JLqcc3mwS4Xf7xZuYwK0p",
-        "5Ln6VxkwRDdAH40Lel6Yj8"
-      ],
-      "albumId": "7bWRgMsGRty7mB6Afmx2cY",
+      "album": {
+        "id": "7bWRgMsGRty7mB6Afmx2cY",
+        "name": "Chill Out Masterpieces 01 (by Hotmixradio)",
+        "img": "https://i.scdn.co/image/ab67616d00001e020d6cb140a35bfa0aa7d4833f"
+      },
       "release_date": "2016-12-16",
       "popularity": 26
     },
     {
-      "trackId": "6OymZ7ZOficHvs1GTJXsGg",
-      "name": "Funky Nassau, Pt. 1",
+      "track": {
+        "id": "6OymZ7ZOficHvs1GTJXsGg",
+        "name": "Funky Nassau, Pt. 1"
+      },
       "duration_ms": 186301,
-      "artist": [
-        "The Beginning Of The End"
+      "artists": [
+        {
+          "name": "The Beginning Of The End",
+          "id": "5dS6VBacLLPyLDAfK3B0OR"
+        }
       ],
-      "artistId": [
-        "5dS6VBacLLPyLDAfK3B0OR"
-      ],
-      "albumId": "4JET5l83ryFSr2H5sLvSab",
+      "album": {
+        "id": "4JET5l83ryFSr2H5sLvSab",
+        "name": "Funky Nassau",
+        "img": "https://i.scdn.co/image/ab67616d00001e02284af40b44c3a7ff32bb3258"
+      },
       "release_date": "2017-12-06",
       "popularity": 48
     },
     {
-      "trackId": "6dfhF1BDGmhM69fnCb6wSC",
-      "name": "America",
+      "track": {
+        "id": "6dfhF1BDGmhM69fnCb6wSC",
+        "name": "America"
+      },
       "duration_ms": 215293,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "3bzgbgiytguTDnwzflAZr2",
+      "album": {
+        "id": "3bzgbgiytguTDnwzflAZr2",
+        "name": "Bookends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8fb5b4308dc27f210064ef4"
+      },
       "release_date": "1968-04-03",
       "popularity": 63
     },
     {
-      "trackId": "4NU6Vnrsh09TdZtIBYBwTA",
-      "name": "Walk On By",
+      "track": {
+        "id": "4NU6Vnrsh09TdZtIBYBwTA",
+        "name": "Walk On By"
+      },
       "duration_ms": 273066,
-      "artist": [
-        "Isaac Hayes"
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "id": "3IKV7o6WPphDB7cCWXaG3E"
+        }
       ],
-      "artistId": [
-        "3IKV7o6WPphDB7cCWXaG3E"
-      ],
-      "albumId": "6lNZfFXjy00SYu3w0HLMx0",
+      "album": {
+        "id": "6lNZfFXjy00SYu3w0HLMx0",
+        "name": "Greatest Hits Singles",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c13019d352d1f7cb263dfe7"
+      },
       "release_date": "1991",
       "popularity": 48
     },
     {
-      "trackId": "0lu5qd6VO496uuEJCeJd6Y",
-      "name": "Burnin' And Lootin'",
+      "track": {
+        "id": "0lu5qd6VO496uuEJCeJd6Y",
+        "name": "Burnin' And Lootin'"
+      },
       "duration_ms": 292840,
-      "artist": [
-        "Bob Marley & The Wailers",
-        "The Roots",
-        "Black Thought"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "The Roots",
+          "id": "78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Black Thought",
+          "id": "6DJEUXZm0e2rAohdoZ5Voo"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD",
-        "78xUyw6FkVZrRAtziFdtdu",
-        "6DJEUXZm0e2rAohdoZ5Voo"
-      ],
-      "albumId": "4hV6TxaUkzEi4wUN6Fd0s7",
+      "album": {
+        "id": "4hV6TxaUkzEi4wUN6Fd0s7",
+        "name": "Chant Down Babylon",
+        "img": "https://i.scdn.co/image/ab67616d00001e0229d53a2ea80ad242590f3f4c"
+      },
       "release_date": "1999-01-01",
       "popularity": 39
     },
     {
-      "trackId": "1Juj6Rg5MhutU8gW43934B",
-      "name": "Hazey Jane II",
+      "track": {
+        "id": "1Juj6Rg5MhutU8gW43934B",
+        "name": "Hazey Jane II"
+      },
       "duration_ms": 226426,
-      "artist": [
-        "Nick Drake"
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "id": "5c3GLXai8YOMid29ZEuR9y"
+        }
       ],
-      "artistId": [
-        "5c3GLXai8YOMid29ZEuR9y"
-      ],
-      "albumId": "04FfqGvZJ9oUBGRVrq2FE5",
+      "album": {
+        "id": "04FfqGvZJ9oUBGRVrq2FE5",
+        "name": "Bryter Layter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f624fdadb511452a2093694d"
+      },
       "release_date": "1970-03-06",
       "popularity": 49
     }

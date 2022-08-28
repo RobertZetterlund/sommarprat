@@ -7,228 +7,326 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/939ccbf7-9a1f-4a61-aaae-2a34372a889e.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "37f4ITSlgPX81ad2EvmVQr",
-      "name": "Fight Song",
+      "track": {
+        "id": "37f4ITSlgPX81ad2EvmVQr",
+        "name": "Fight Song"
+      },
       "duration_ms": 204013,
-      "artist": [
-        "Rachel Platten"
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "id": "3QLIkT4rD2FMusaqmkepbq"
+        }
       ],
-      "artistId": [
-        "3QLIkT4rD2FMusaqmkepbq"
-      ],
-      "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+      "album": {
+        "id": "0mFDIOqypzHp6Xd0el1hoT",
+        "name": "Wildfire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9e4d7fae5dfcc8f9cc96bc9"
+      },
       "release_date": "2016-01-01",
       "popularity": 77
     },
     {
-      "trackId": "5d6aSlJ9GcgwBCIWjevHlH",
-      "name": "Var ligger landet där man böjer bananerna",
+      "track": {
+        "id": "5d6aSlJ9GcgwBCIWjevHlH",
+        "name": "Var ligger landet där man böjer bananerna"
+      },
       "duration_ms": 201035,
-      "artist": [
-        "Mojje"
+      "artists": [
+        {
+          "name": "Mojje",
+          "id": "6or0RLoRB0TJF2vg0eTA8y"
+        }
       ],
-      "artistId": [
-        "6or0RLoRB0TJF2vg0eTA8y"
-      ],
-      "albumId": "1ptf2Rms96foVhLF82G5Un",
+      "album": {
+        "id": "1ptf2Rms96foVhLF82G5Un",
+        "name": "Barnvakt",
+        "img": "https://i.scdn.co/image/ab67616d00001e0240bedce76670cba92301df83"
+      },
       "release_date": "2007-01-01",
       "popularity": 44
     },
     {
-      "trackId": "71i8FzLUHpO3UqMBCvW6gn",
-      "name": "Runaways",
+      "track": {
+        "id": "71i8FzLUHpO3UqMBCvW6gn",
+        "name": "Runaways"
+      },
       "duration_ms": 179927,
-      "artist": [
-        "Eclipse"
+      "artists": [
+        {
+          "name": "Eclipse",
+          "id": "23ajwxFk5RBpPERZrcjHUr"
+        }
       ],
-      "artistId": [
-        "23ajwxFk5RBpPERZrcjHUr"
-      ],
-      "albumId": "14zmgmYiTEHchJdzwiRv4t",
+      "album": {
+        "id": "14zmgmYiTEHchJdzwiRv4t",
+        "name": "Runaways",
+        "img": "https://i.scdn.co/image/ab67616d00001e0275f38cd39f87500e5a35f622"
+      },
       "release_date": "2016-02-29",
       "popularity": 46
     },
     {
-      "trackId": "1dUsorS3ZIC6OCWW8ZJETo",
-      "name": "To Make You Feel My Love",
+      "track": {
+        "id": "1dUsorS3ZIC6OCWW8ZJETo",
+        "name": "To Make You Feel My Love"
+      },
       "duration_ms": 252000,
-      "artist": [
-        "Tiny Tracks"
+      "artists": [
+        {
+          "name": "Tiny Tracks",
+          "id": "42QKiNCqr36B0gfgETuA9t"
+        }
       ],
-      "artistId": [
-        "42QKiNCqr36B0gfgETuA9t"
-      ],
-      "albumId": "2BUA9wLoRJSngH09hERlnf",
+      "album": {
+        "id": "2BUA9wLoRJSngH09hERlnf",
+        "name": "Lullaby Versions of Adele",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af210bcc55edf74859dbde80"
+      },
       "release_date": "2014-07-10",
       "popularity": 21
     },
     {
-      "trackId": "1nWX1sa0ryZDpgvF9rmdhz",
-      "name": "Annars vore jag inte jag - Från \"Livet är en schlager\"",
+      "track": {
+        "id": "1nWX1sa0ryZDpgvF9rmdhz",
+        "name": "Annars vore jag inte jag - Från \"Livet är en schlager\""
+      },
       "duration_ms": 214600,
-      "artist": [
-        "Peter Jöback"
+      "artists": [
+        {
+          "name": "Peter Jöback",
+          "id": "3fA5zBQWEa0uzYo43SvXaj"
+        }
       ],
-      "artistId": [
-        "3fA5zBQWEa0uzYo43SvXaj"
-      ],
-      "albumId": "0S2nPv9ZngTfBpUkGCccGQ",
+      "album": {
+        "id": "0S2nPv9ZngTfBpUkGCccGQ",
+        "name": "I Love Musicals - The Album (Extended Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029759309e3823c2aa46c3a79a"
+      },
       "release_date": "2017-01-27",
       "popularity": 23
     },
     {
-      "trackId": "1VkksyKidqebChNKhuaPna",
-      "name": "Slå Lilla Hjärta - Akustisk",
+      "track": {
+        "id": "1VkksyKidqebChNKhuaPna",
+        "name": "Slå Lilla Hjärta - Akustisk"
+      },
       "duration_ms": 236000,
-      "artist": [
-        "Evelyn Jons"
+      "artists": [
+        {
+          "name": "Evelyn Jons",
+          "id": "4MUFAdHZgtkIqhR0tnn96G"
+        }
       ],
-      "artistId": [
-        "4MUFAdHZgtkIqhR0tnn96G"
-      ],
-      "albumId": "6dMKq3PS4H2DJA5UkX3BQC",
+      "album": {
+        "id": "6dMKq3PS4H2DJA5UkX3BQC",
+        "name": "Slå Lilla Hjärta (Akustisk)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022c065c50d21a25d13f905cca"
+      },
       "release_date": "2017-06-28",
       "popularity": 0
     },
     {
-      "trackId": "5TiOMo7ExhD7FHw6mk2kqK",
-      "name": "En värld full av liv",
+      "track": {
+        "id": "5TiOMo7ExhD7FHw6mk2kqK",
+        "name": "En värld full av liv"
+      },
       "duration_ms": 239506,
-      "artist": [
-        "Meta Roos"
+      "artists": [
+        {
+          "name": "Meta Roos",
+          "id": "3zy5pSkTq3Ip0MW2wKFplO"
+        }
       ],
-      "artistId": [
-        "3zy5pSkTq3Ip0MW2wKFplO"
-      ],
-      "albumId": "1Dn2s7K0vTc55MtRTBN9sx",
+      "album": {
+        "id": "1Dn2s7K0vTc55MtRTBN9sx",
+        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029423685920c67284f08a220b"
+      },
       "release_date": "2003-01-01",
       "popularity": 36
     },
     {
-      "trackId": "0lcR3nqHp3wolqFmU3OxZS",
-      "name": "Ja må du leva",
+      "track": {
+        "id": "0lcR3nqHp3wolqFmU3OxZS",
+        "name": "Ja må du leva"
+      },
       "duration_ms": 203186,
-      "artist": [
-        "Darin"
+      "artists": [
+        {
+          "name": "Darin",
+          "id": "1rKFeRryEci6cxNkdvHzNr"
+        }
       ],
-      "artistId": [
-        "1rKFeRryEci6cxNkdvHzNr"
-      ],
-      "albumId": "6ca7CdmnLck5ArnUSbkqPl",
+      "album": {
+        "id": "6ca7CdmnLck5ArnUSbkqPl",
+        "name": "Tvillingen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c1fdf1f44c76f521cd05a68b"
+      },
       "release_date": "2017-11-24",
       "popularity": 45
     },
     {
-      "trackId": "5pkO17U6riaIaaTvT7GwCn",
-      "name": "Tro",
+      "track": {
+        "id": "5pkO17U6riaIaaTvT7GwCn",
+        "name": "Tro"
+      },
       "duration_ms": 298973,
-      "artist": [
-        "Marie Fredriksson"
+      "artists": [
+        {
+          "name": "Marie Fredriksson",
+          "id": "4YkPXMsmFf3K2XFHPddqFU"
+        }
       ],
-      "artistId": [
-        "4YkPXMsmFf3K2XFHPddqFU"
-      ],
-      "albumId": "4ut2UFZKIhBguboD3UZsCo",
+      "album": {
+        "id": "4ut2UFZKIhBguboD3UZsCo",
+        "name": "Tro",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eadd890cec29566207902277"
+      },
       "release_date": "1996",
       "popularity": 44
     },
     {
-      "trackId": "1Qg9gcMp6LbGJIEE59Vxs7",
-      "name": "He Lives In You",
+      "track": {
+        "id": "1Qg9gcMp6LbGJIEE59Vxs7",
+        "name": "He Lives In You"
+      },
       "duration_ms": 284173,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "1bXkniA90u3Wm6aoQiOqJ1",
+      "album": {
+        "id": "1bXkniA90u3Wm6aoQiOqJ1",
+        "name": "The Lion King Collection (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f41874ffb38996c7a655d24"
+      },
       "release_date": "2011-01-01",
       "popularity": 29
     },
     {
-      "trackId": "6GJmb404LiyqoDyyE3jDad",
-      "name": "The Last Goodbye",
+      "track": {
+        "id": "6GJmb404LiyqoDyyE3jDad",
+        "name": "The Last Goodbye"
+      },
       "duration_ms": 247360,
-      "artist": [
-        "Billy Boyd"
+      "artists": [
+        {
+          "name": "Billy Boyd",
+          "id": "1wTKlkGklPb1JMTVUIwAoj"
+        }
       ],
-      "artistId": [
-        "1wTKlkGklPb1JMTVUIwAoj"
-      ],
-      "albumId": "6VD81YQDKqfLQnTX5xwlmZ",
+      "album": {
+        "id": "6VD81YQDKqfLQnTX5xwlmZ",
+        "name": "The Last Goodbye",
+        "img": "https://i.scdn.co/image/ab67616d00001e024fab8d311b449c66ef171009"
+      },
       "release_date": "2014-01-01",
       "popularity": 52
     },
     {
-      "trackId": "56W36uvb4usSizGPO2bzbV",
-      "name": "Father And Son - New Steve Mac",
+      "track": {
+        "id": "56W36uvb4usSizGPO2bzbV",
+        "name": "Father And Son - New Steve Mac"
+      },
       "duration_ms": 200973,
-      "artist": [
-        "Ronan Keating",
-        "Yusuf / Cat Stevens"
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "id": "3nlHsNqwCSvT988ZfSW1Yh"
+        },
+        {
+          "name": "Yusuf / Cat Stevens",
+          "id": "08F3Y3SctIlsOEmKd6dnH8"
+        }
       ],
-      "artistId": [
-        "3nlHsNqwCSvT988ZfSW1Yh",
-        "08F3Y3SctIlsOEmKd6dnH8"
-      ],
-      "albumId": "3AVtAHUxVZQMPGEJ7USE0j",
+      "album": {
+        "id": "3AVtAHUxVZQMPGEJ7USE0j",
+        "name": "10 Years Of Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280a68ec129fd0263547e1c7c"
+      },
       "release_date": "2004-01-01",
       "popularity": 48
     },
     {
-      "trackId": "3niHy3sINKQsMl5RE1hEYm",
-      "name": "Following Daniel",
+      "track": {
+        "id": "3niHy3sINKQsMl5RE1hEYm",
+        "name": "Following Daniel"
+      },
       "duration_ms": 158066,
-      "artist": [
-        "Cliff Martinez"
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "id": "2OVqg3lxC8ZIf0vHcEqaCf"
+        }
       ],
-      "artistId": [
-        "2OVqg3lxC8ZIf0vHcEqaCf"
-      ],
-      "albumId": "3iaR9Eyqxy6cbfeNuSZVvM",
+      "album": {
+        "id": "3iaR9Eyqxy6cbfeNuSZVvM",
+        "name": "Wicker Park (Original Motion Picture Score)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0225558d0048e5f1c893cb1763"
+      },
       "release_date": "2004",
       "popularity": 11
     },
     {
-      "trackId": "54vaQEvMUZQdUJfArbbqXi",
-      "name": "Daniel's Joik",
+      "track": {
+        "id": "54vaQEvMUZQdUJfArbbqXi",
+        "name": "Daniel's Joik"
+      },
       "duration_ms": 391946,
-      "artist": [
-        "Jon Henrik Fjällgren"
+      "artists": [
+        {
+          "name": "Jon Henrik Fjällgren",
+          "id": "65lCLhmmyUwnPBD2Bq7FQx"
+        }
       ],
-      "artistId": [
-        "65lCLhmmyUwnPBD2Bq7FQx"
-      ],
-      "albumId": "6e0A3siBOZOuvCiYmeqpBR",
+      "album": {
+        "id": "6e0A3siBOZOuvCiYmeqpBR",
+        "name": "Goeksegh - Jag är fri",
+        "img": "https://i.scdn.co/image/ab67616d00001e02933c994f1369393867a9b6ad"
+      },
       "release_date": "2015-02-28",
       "popularity": 42
     },
     {
-      "trackId": "0UBmkTwb6NPj8njtRlUBQu",
-      "name": "Med dig vid min sida",
+      "track": {
+        "id": "0UBmkTwb6NPj8njtRlUBQu",
+        "name": "Med dig vid min sida"
+      },
       "duration_ms": 246186,
-      "artist": [
-        "Sarah Dawn Finer"
+      "artists": [
+        {
+          "name": "Sarah Dawn Finer",
+          "id": "4TuGR5xkIry198WmY7hax2"
+        }
       ],
-      "artistId": [
-        "4TuGR5xkIry198WmY7hax2"
-      ],
-      "albumId": "7DOgyrYr1nAVN3gZ1To4ZG",
+      "album": {
+        "id": "7DOgyrYr1nAVN3gZ1To4ZG",
+        "name": "Sanningen kommer om natten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf2bacad1a40a91f341f28a7"
+      },
       "release_date": "2013-12-19",
       "popularity": 41
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

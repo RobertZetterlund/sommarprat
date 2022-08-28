@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242909_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5hQgUrF5iMJgTcjN4pgoVi",
-      "name": "Save Your Love",
+      "track": {
+        "id": "5hQgUrF5iMJgTcjN4pgoVi",
+        "name": "Save Your Love"
+      },
       "duration_ms": 191000,
-      "artist": [
-        "Renée & Renato"
+      "artists": [
+        {
+          "name": "Renée & Renato",
+          "id": "7opSFbNpDbXiQ1QvxQ9apn"
+        }
       ],
-      "artistId": [
-        "7opSFbNpDbXiQ1QvxQ9apn"
-      ],
-      "albumId": "687hClv7W2EfXExT0otRaT",
+      "album": {
+        "id": "687hClv7W2EfXExT0otRaT",
+        "name": "Save Your Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249e165053699d67286325ae1"
+      },
       "release_date": "1985-08-24",
       "popularity": 45
     },
     {
-      "trackId": "0YIJ1bjTJJioQ7w61C3pqU",
-      "name": "Varför är där ingen is till punschen?",
+      "track": {
+        "id": "0YIJ1bjTJJioQ7w61C3pqU",
+        "name": "Varför är där ingen is till punschen?"
+      },
       "duration_ms": 258066,
-      "artist": [
-        "Povel Ramel"
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "id": "2JXHbGSfNgJ25884YBIruo"
+        }
       ],
-      "artistId": [
-        "2JXHbGSfNgJ25884YBIruo"
-      ],
-      "albumId": "55tXi5zeF6xg6PYlIYPvDP",
+      "album": {
+        "id": "55tXi5zeF6xg6PYlIYPvDP",
+        "name": "Povel Ramel/Som om inget hade hänt: Povel-pop från förra årtusendet!",
+        "img": "https://i.scdn.co/image/ab67616d00001e025118e5d0965b8d658d2ff0e3"
+      },
       "release_date": "2000-01-01",
       "popularity": 25
     },
     {
-      "trackId": "5b7OgznPJJr1vHNYGyvxau",
-      "name": "Fly Me To The Moon (In Other Words)",
+      "track": {
+        "id": "5b7OgznPJJr1vHNYGyvxau",
+        "name": "Fly Me To The Moon (In Other Words)"
+      },
       "duration_ms": 147000,
-      "artist": [
-        "Frank Sinatra",
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "2NCtCObbmJoJnplsR5mLAl",
+      "album": {
+        "id": "2NCtCObbmJoJnplsR5mLAl",
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb81eb3c1238c60f2bbfd3b5"
+      },
       "release_date": "1962-12-10",
       "popularity": 71
     },
     {
-      "trackId": "07BYjow0ACK6DIumk6ygrd",
-      "name": "Adress Rosenhill",
+      "track": {
+        "id": "07BYjow0ACK6DIumk6ygrd",
+        "name": "Adress Rosenhill"
+      },
       "duration_ms": 193600,
-      "artist": [
-        "Alice Babs"
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "id": "3omPckNeXtMpCdOXVfcOST"
+        }
       ],
-      "artistId": [
-        "3omPckNeXtMpCdOXVfcOST"
-      ],
-      "albumId": "5gvx8DvTtHYAcBKsoVO9H4",
+      "album": {
+        "id": "5gvx8DvTtHYAcBKsoVO9H4",
+        "name": "Metronome-åren 1951-1958",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5c66f2a5df9ec1e62ad209b"
+      },
       "release_date": "1993",
       "popularity": 7
     },
     {
-      "trackId": "0wJRSqwnP2vx02j0XBznwJ",
-      "name": "Can Anyone Explain - 2002 Remastered Version",
+      "track": {
+        "id": "0wJRSqwnP2vx02j0XBznwJ",
+        "name": "Can Anyone Explain - 2002 Remastered Version"
+      },
       "duration_ms": 188653,
-      "artist": [
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "3JkaJFyUrxToI7aIpBizYi",
+      "album": {
+        "id": "3JkaJFyUrxToI7aIpBizYi",
+        "name": "Mr Paganini",
+        "img": "https://i.scdn.co/image/ab67616d00001e0204221180c2cf5585ccfedc88"
+      },
       "release_date": "2002-11-04",
       "popularity": 20
     },
     {
-      "trackId": "2tcXdXJX5jI0uBVxcHJpY1",
-      "name": "Suströmmingspolkan",
+      "track": {
+        "id": "2tcXdXJX5jI0uBVxcHJpY1",
+        "name": "Suströmmingspolkan"
+      },
       "duration_ms": 139866,
-      "artist": [
-        "Thore Skogman"
+      "artists": [
+        {
+          "name": "Thore Skogman",
+          "id": "6NTX7EIJQEEUMPIBdYpzhs"
+        }
       ],
-      "artistId": [
-        "6NTX7EIJQEEUMPIBdYpzhs"
-      ],
-      "albumId": "4CExdvhNcK0Br2x6TCmMP2",
+      "album": {
+        "id": "4CExdvhNcK0Br2x6TCmMP2",
+        "name": "Pop Opp I Topp",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f48ad49da07d6304329306ed"
+      },
       "release_date": "1994-11-07",
       "popularity": 22
     },
     {
-      "trackId": "2eFE6cllzJYvLa8baA5xCD",
-      "name": "O, Min Carl Gustaf",
+      "track": {
+        "id": "2eFE6cllzJYvLa8baA5xCD",
+        "name": "O, Min Carl Gustaf"
+      },
       "duration_ms": 185493,
-      "artist": [
-        "Kjerstin Dellert"
+      "artists": [
+        {
+          "name": "Kjerstin Dellert",
+          "id": "3leiKtqKXQygqdBCqiLEhj"
+        }
       ],
-      "artistId": [
-        "3leiKtqKXQygqdBCqiLEhj"
-      ],
-      "albumId": "1mrcXLNyArRFBTcsg75j6l",
+      "album": {
+        "id": "1mrcXLNyArRFBTcsg75j6l",
+        "name": "Svensktoppar",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fd949833534a9ab6e7fd5970"
+      },
       "release_date": "2002-01-01",
       "popularity": 33
     },
     {
-      "trackId": "5nRFn9AaiHsl0f3uo6d2ki",
-      "name": "Till Havs",
+      "track": {
+        "id": "5nRFn9AaiHsl0f3uo6d2ki",
+        "name": "Till Havs"
+      },
       "duration_ms": 136760,
-      "artist": [
-        "Jussi Björling & Nils Grevillius Orchestra"
+      "artists": [
+        {
+          "name": "Jussi Björling & Nils Grevillius Orchestra",
+          "id": "264175n225eFvqtFTF9XOU"
+        }
       ],
-      "artistId": [
-        "264175n225eFvqtFTF9XOU"
-      ],
-      "albumId": "5VIAGRLS99mg0RpCiILjPb",
+      "album": {
+        "id": "5VIAGRLS99mg0RpCiILjPb",
+        "name": "Essential Masters",
+        "img": "https://i.scdn.co/image/ab67616d00001e02310c2a8ddadca78056794f53"
+      },
       "release_date": "2009-03-10",
       "popularity": 15
     },
     {
-      "trackId": "0GjEhVFGZW8afUYGChu3Rr",
-      "name": "Dancing Queen",
+      "track": {
+        "id": "0GjEhVFGZW8afUYGChu3Rr",
+        "name": "Dancing Queen"
+      },
       "duration_ms": 230400,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "1V6a99EbTTIegOhWoPxYI9",
+      "album": {
+        "id": "1V6a99EbTTIegOhWoPxYI9",
+        "name": "Arrival",
+        "img": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0"
+      },
       "release_date": "1976",
       "popularity": 83
     },
     {
-      "trackId": "0BHroBUvBAp561BYqC9LRK",
-      "name": "Tennessee Waltz - 1950 Single Version",
+      "track": {
+        "id": "0BHroBUvBAp561BYqC9LRK",
+        "name": "Tennessee Waltz - 1950 Single Version"
+      },
       "duration_ms": 185000,
-      "artist": [
-        "Patti Page"
+      "artists": [
+        {
+          "name": "Patti Page",
+          "id": "4nZN9kln8toEzOifhWG2uF"
+        }
       ],
-      "artistId": [
-        "4nZN9kln8toEzOifhWG2uF"
-      ],
-      "albumId": "2N4F5xwzFeVoJ5fF10Pv0P",
+      "album": {
+        "id": "2N4F5xwzFeVoJ5fF10Pv0P",
+        "name": "Golden Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282aa266b6d8bef04b865dbf5"
+      },
       "release_date": "1960-09-07",
       "popularity": 54
     },
     {
-      "trackId": "1Ee8IymMHY0kqoxZyQywwk",
-      "name": "Du Čalmmit (Your Eyes)",
+      "track": {
+        "id": "1Ee8IymMHY0kqoxZyQywwk",
+        "name": "Du Čalmmit (Your Eyes)"
+      },
       "duration_ms": 196053,
-      "artist": [
-        "Sofia & Anna"
+      "artists": [
+        {
+          "name": "Sofia & Anna",
+          "id": "2auNNmN1IJiUlN6clXQUl2"
+        }
       ],
-      "artistId": [
-        "2auNNmN1IJiUlN6clXQUl2"
-      ],
-      "albumId": "5FKLqC1I14zKsHAUQ8USko",
+      "album": {
+        "id": "5FKLqC1I14zKsHAUQ8USko",
+        "name": "Čalmmit (Eyes)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028113d59a7a2f8a40674f0a94"
+      },
       "release_date": "2000",
       "popularity": 16
     },
     {
-      "trackId": "2NsmBJIgFf0pi8z7tgF5Kj",
-      "name": "Kalle på spången",
+      "track": {
+        "id": "2NsmBJIgFf0pi8z7tgF5Kj",
+        "name": "Kalle på spången"
+      },
       "duration_ms": 172186,
-      "artist": [
-        "Edvard Persson"
+      "artists": [
+        {
+          "name": "Edvard Persson",
+          "id": "3Fuk9YN8A4IYlV3xmywbvX"
+        }
       ],
-      "artistId": [
-        "3Fuk9YN8A4IYlV3xmywbvX"
-      ],
-      "albumId": "7dPPdyIZPjJeGEkylzlN7z",
+      "album": {
+        "id": "7dPPdyIZPjJeGEkylzlN7z",
+        "name": "Svenska Sångfavoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5f0d756496cc348e0da32e5"
+      },
       "release_date": "2005-01-19",
       "popularity": 28
     },
     {
-      "trackId": "3LSdaNWsEMAuiXy3xYm3gZ",
-      "name": "Ska vi byta?",
+      "track": {
+        "id": "3LSdaNWsEMAuiXy3xYm3gZ",
+        "name": "Ska vi byta?"
+      },
       "duration_ms": 155440,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 31
     },
     {
-      "trackId": "6W0yiWS14ADfZnRzrvKX14",
-      "name": "Överbyvals",
+      "track": {
+        "id": "6W0yiWS14ADfZnRzrvKX14",
+        "name": "Överbyvals"
+      },
       "duration_ms": 226400,
-      "artist": [
-        "Carl Anton",
-        "Peter Matssons Orkester"
+      "artists": [
+        {
+          "name": "Carl Anton",
+          "id": "1cat5qANo5zS8TawCLUGAP"
+        },
+        {
+          "name": "Peter Matssons Orkester",
+          "id": "2D2wB0iUtZTBzLzwPf4KRr"
+        }
       ],
-      "artistId": [
-        "1cat5qANo5zS8TawCLUGAP",
-        "2D2wB0iUtZTBzLzwPf4KRr"
-      ],
-      "albumId": "1wNQ441mnM041tIOoh3OMi",
+      "album": {
+        "id": "1wNQ441mnM041tIOoh3OMi",
+        "name": "Carl Anton Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e022726ae52786cfae0b5859578"
+      },
       "release_date": "1997",
       "popularity": 28
     }

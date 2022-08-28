@@ -7,174 +7,258 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3229378_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "348Z9jFEkqVqD9K5I1wG9g",
-      "name": "Let it Rain",
+      "track": {
+        "id": "348Z9jFEkqVqD9K5I1wG9g",
+        "name": "Let it Rain"
+      },
       "duration_ms": 288093,
-      "artist": [
-        "Jon Bon Jovi",
-        "Michele Centonze",
-        "Veris Giannetti"
+      "artists": [
+        {
+          "name": "Jon Bon Jovi",
+          "id": "6h2bWHWTJL38N8dqocVaif"
+        },
+        {
+          "name": "Michele Centonze",
+          "id": "5HeSdlABq0j0WlpOmYDGVb"
+        },
+        {
+          "name": "Veris Giannetti",
+          "id": "6keKiBxyRIyv8cDqFPksbY"
+        }
       ],
-      "artistId": [
-        "6h2bWHWTJL38N8dqocVaif",
-        "5HeSdlABq0j0WlpOmYDGVb",
-        "6keKiBxyRIyv8cDqFPksbY"
-      ],
-      "albumId": "4Z9AdtG4qbPdd70gkW4Hda",
+      "album": {
+        "id": "4Z9AdtG4qbPdd70gkW4Hda",
+        "name": "Best Of Pavarotti & Friends - The Duets",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203df6b1dcb547bc71b96848b"
+      },
       "release_date": "2008-01-01",
       "popularity": 33
     },
     {
-      "trackId": "5pmXfYqwlULw7aVL3zwoFI",
-      "name": "Mighty Good Time (Keeping One Eye Closed)",
+      "track": {
+        "id": "5pmXfYqwlULw7aVL3zwoFI",
+        "name": "Mighty Good Time (Keeping One Eye Closed)"
+      },
       "duration_ms": 269360,
-      "artist": [
-        "Willy Clay Band"
+      "artists": [
+        {
+          "name": "Willy Clay Band",
+          "id": "7y5DFGVVU7iGmurBDwIYHs"
+        }
       ],
-      "artistId": [
-        "7y5DFGVVU7iGmurBDwIYHs"
-      ],
-      "albumId": "7iJAFzi244Rq42D5XTfMIX",
+      "album": {
+        "id": "7iJAFzi244Rq42D5XTfMIX",
+        "name": "Blue",
+        "img": "https://i.scdn.co/image/ab67616d00001e02792bebd254ba1a96efb0313e"
+      },
       "release_date": "2009-10-28",
       "popularity": 37
     },
     {
-      "trackId": "5db5OKjxRDjeNy2mCHO9Xj",
-      "name": "Utan dej",
+      "track": {
+        "id": "5db5OKjxRDjeNy2mCHO9Xj",
+        "name": "Utan dej"
+      },
       "duration_ms": 249133,
-      "artist": [
-        "Totta Näslund",
-        "Sharon Dyall",
-        "One Voice"
+      "artists": [
+        {
+          "name": "Totta Näslund",
+          "id": "09J3FFqSQVVQlrakhizg9v"
+        },
+        {
+          "name": "Sharon Dyall",
+          "id": "0RFCLAPk6HoM6vcwT39Q2e"
+        },
+        {
+          "name": "One Voice",
+          "id": "1n2PYC4B6IKKApal1ej3aN"
+        }
       ],
-      "artistId": [
-        "09J3FFqSQVVQlrakhizg9v",
-        "0RFCLAPk6HoM6vcwT39Q2e",
-        "1n2PYC4B6IKKApal1ej3aN"
-      ],
-      "albumId": "1kxKEXOtXBjYLZH2RoKKBV",
+      "album": {
+        "id": "1kxKEXOtXBjYLZH2RoKKBV",
+        "name": "Totta: Duetterna",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a8f8be8eb99defeb65a01a7"
+      },
       "release_date": "2001-07-13",
       "popularity": 32
     },
     {
-      "trackId": "3aZtKtndMOhZcQ0SngTjfg",
-      "name": "Holy Mother",
+      "track": {
+        "id": "3aZtKtndMOhZcQ0SngTjfg",
+        "name": "Holy Mother"
+      },
       "duration_ms": 326987,
-      "artist": [
-        "Eric Clapton",
-        "Stephen Bishop",
-        "Luciano Pavarotti"
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "id": "6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Stephen Bishop",
+          "id": "3JhRHqCi8HEzkJVWt19LtN"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "id": "0Y8KmFkKOgJybpVobn1onU"
+        }
       ],
-      "artistId": [
-        "6PAt558ZEZl0DmdXlnjMgD",
-        "3JhRHqCi8HEzkJVWt19LtN",
-        "0Y8KmFkKOgJybpVobn1onU"
-      ],
-      "albumId": "2aeqnJTTRHrXPzy77nyorj",
+      "album": {
+        "id": "2aeqnJTTRHrXPzy77nyorj",
+        "name": "Pavarotti The 50 Greatest Tracks",
+        "img": "https://i.scdn.co/image/ab67616d00001e026c680124c8b09f8f301e4c37"
+      },
       "release_date": "2013-01-01",
       "popularity": 35
     },
     {
-      "trackId": "714gs3bAIhCMrbf7SxB6wb",
-      "name": "Radetzky-Marsch, Op. 228",
+      "track": {
+        "id": "714gs3bAIhCMrbf7SxB6wb",
+        "name": "Radetzky-Marsch, Op. 228"
+      },
       "duration_ms": 216320,
-      "artist": [
-        "Johann Strauss I",
-        "Franz Welser-Möst",
-        "Wiener Philharmoniker"
+      "artists": [
+        {
+          "name": "Johann Strauss I",
+          "id": "4WMHJgeJCssiGW3ssUT7eb"
+        },
+        {
+          "name": "Franz Welser-Möst",
+          "id": "7JlPzWR6kQ48ZPLDixTTQ0"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        }
       ],
-      "artistId": [
-        "4WMHJgeJCssiGW3ssUT7eb",
-        "7JlPzWR6kQ48ZPLDixTTQ0",
-        "003f4bk13c6Q3gAUXv7dGJ"
-      ],
-      "albumId": "2A26mDV5t1oQAvAx0O3Q00",
+      "album": {
+        "id": "2A26mDV5t1oQAvAx0O3Q00",
+        "name": "New Year's Concert 2013",
+        "img": "https://i.scdn.co/image/ab67616d00001e024137d73782dcfdfdfc728b19"
+      },
       "release_date": "2013-01-01",
       "popularity": 9
     },
     {
-      "trackId": "0W1uTK6I97CbjFKAVtRGfK",
-      "name": "Too Much Love Will Kill You - Remastered 2011",
+      "track": {
+        "id": "0W1uTK6I97CbjFKAVtRGfK",
+        "name": "Too Much Love Will Kill You - Remastered 2011"
+      },
       "duration_ms": 259213,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "391ScNR3xKywWSpfDwP3n0",
+      "album": {
+        "id": "391ScNR3xKywWSpfDwP3n0",
+        "name": "Made In Heaven (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025f8c271d01157fdb59478f14"
+      },
       "release_date": "1995-11-06",
       "popularity": 62
     },
     {
-      "trackId": "7rPzEczIS574IgPaiPieS3",
-      "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
+      "track": {
+        "id": "7rPzEczIS574IgPaiPieS3",
+        "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version"
+      },
       "duration_ms": 228586,
-      "artist": [
-        "Pink Floyd"
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "id": "0k17h0D3J5VfsdmQ1iZtE9"
+        }
       ],
-      "artistId": [
-        "0k17h0D3J5VfsdmQ1iZtE9"
-      ],
-      "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
+      "album": {
+        "id": "6WaIQHxEHtZL0RZ62AuY0g",
+        "name": "The Wall (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f34e8811de255b34c56301d8"
+      },
       "release_date": "1979-11-30",
       "popularity": 70
     },
     {
-      "trackId": "1XKnAevLgKyKb1Gi1Kc99r",
-      "name": "Bara sport",
+      "track": {
+        "id": "1XKnAevLgKyKb1Gi1Kc99r",
+        "name": "Bara sport"
+      },
       "duration_ms": 132826,
-      "artist": [
-        "Galenskaparna & After Shave"
+      "artists": [
+        {
+          "name": "Galenskaparna & After Shave",
+          "id": "1yP4vKrljoPWZofWJchg0E"
+        }
       ],
-      "artistId": [
-        "1yP4vKrljoPWZofWJchg0E"
-      ],
-      "albumId": "4B7aBWGNLYgiBuwBvmaqOq",
+      "album": {
+        "id": "4B7aBWGNLYgiBuwBvmaqOq",
+        "name": "En gó box",
+        "img": "https://i.scdn.co/image/ab67616d00001e02439b57acce462ebe9d64b540"
+      },
       "release_date": "1994",
       "popularity": 28
     },
     {
-      "trackId": "5pd5hmhFHYyqhOdhcTNckB",
-      "name": "The Worrying Kind",
+      "track": {
+        "id": "5pd5hmhFHYyqhOdhcTNckB",
+        "name": "The Worrying Kind"
+      },
       "duration_ms": 221920,
-      "artist": [
-        "Maia Hirasawa"
+      "artists": [
+        {
+          "name": "Maia Hirasawa",
+          "id": "2xtgYE7gox5t043BJWi7bd"
+        }
       ],
-      "artistId": [
-        "2xtgYE7gox5t043BJWi7bd"
-      ],
-      "albumId": "6HBHt2gESeUf3bvLBI56MF",
+      "album": {
+        "id": "6HBHt2gESeUf3bvLBI56MF",
+        "name": "Though, I'm Just Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cfd85fd1edcb5009599df4be"
+      },
       "release_date": "2007",
       "popularity": 34
     },
     {
-      "trackId": "3GtPYtBOTfIeWoHabSlUFT",
-      "name": "Lilla fluga",
+      "track": {
+        "id": "3GtPYtBOTfIeWoHabSlUFT",
+        "name": "Lilla fluga"
+      },
       "duration_ms": 244266,
-      "artist": [
-        "Caroline af Ugglas"
+      "artists": [
+        {
+          "name": "Caroline af Ugglas",
+          "id": "0gsiXahJ8QLRP2pad1DzNj"
+        }
       ],
-      "artistId": [
-        "0gsiXahJ8QLRP2pad1DzNj"
-      ],
-      "albumId": "7JEuRJ5mfDcEpJAxs2KBkU",
+      "album": {
+        "id": "7JEuRJ5mfDcEpJAxs2KBkU",
+        "name": "Så gör jag det igen",
+        "img": "https://i.scdn.co/image/ab67616d00001e026935ebec55cd3e0da8c2b9fd"
+      },
       "release_date": "2009-03-18",
       "popularity": 10
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     }

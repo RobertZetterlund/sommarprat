@@ -7,252 +7,366 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/96c5f293-119d-4eda-b96e-40a3280a85c4.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5b7OgznPJJr1vHNYGyvxau",
-      "name": "Fly Me To The Moon (In Other Words)",
+      "track": {
+        "id": "5b7OgznPJJr1vHNYGyvxau",
+        "name": "Fly Me To The Moon (In Other Words)"
+      },
       "duration_ms": 147000,
-      "artist": [
-        "Frank Sinatra",
-        "Count Basie"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "id": "2jFZlvIea42ZvcCw4OeEdA"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0",
-        "2jFZlvIea42ZvcCw4OeEdA"
-      ],
-      "albumId": "2NCtCObbmJoJnplsR5mLAl",
+      "album": {
+        "id": "2NCtCObbmJoJnplsR5mLAl",
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb81eb3c1238c60f2bbfd3b5"
+      },
       "release_date": "1962-12-10",
       "popularity": 71
     },
     {
-      "trackId": "0jZ4fre462hosE6k5EgRVS",
-      "name": "Dansa i neon",
+      "track": {
+        "id": "0jZ4fre462hosE6k5EgRVS",
+        "name": "Dansa i neon"
+      },
       "duration_ms": 202746,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "2w4nmMnXhTF3aTh1ENqoa8",
+      "album": {
+        "id": "2w4nmMnXhTF3aTh1ENqoa8",
+        "name": "Dansa i neon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dfe1bc46b21169a7f07a6fdb"
+      },
       "release_date": "1987",
       "popularity": 42
     },
     {
-      "trackId": "4pFgAIjcZbNtWsvzJ9BqMj",
-      "name": "Om igen",
+      "track": {
+        "id": "4pFgAIjcZbNtWsvzJ9BqMj",
+        "name": "Om igen"
+      },
       "duration_ms": 185440,
-      "artist": [
-        "Lena Philipsson"
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "id": "7rZYHhxGKbe1XepzlpDlKm"
+        }
       ],
-      "artistId": [
-        "7rZYHhxGKbe1XepzlpDlKm"
-      ],
-      "albumId": "0Uii6Rh3iHnzyz0HIXcRue",
+      "album": {
+        "id": "0Uii6Rh3iHnzyz0HIXcRue",
+        "name": "100% Lena Philipsson",
+        "img": "https://i.scdn.co/image/ab67616d00001e0252604abf06e3bb37e5ef32c7"
+      },
       "release_date": "2001-01-01",
       "popularity": 35
     },
     {
-      "trackId": "7gzTs1oCjLWvIWBYbsxBmZ",
-      "name": "Tajabone",
+      "track": {
+        "id": "7gzTs1oCjLWvIWBYbsxBmZ",
+        "name": "Tajabone"
+      },
       "duration_ms": 241266,
-      "artist": [
-        "Ismaël Lô"
+      "artists": [
+        {
+          "name": "Ismaël Lô",
+          "id": "4EBRPnSYtrfmwptEMOSCV8"
+        }
       ],
-      "artistId": [
-        "4EBRPnSYtrfmwptEMOSCV8"
-      ],
-      "albumId": "2tIDSKYXF0Opm7rrmsCmtB",
+      "album": {
+        "id": "2tIDSKYXF0Opm7rrmsCmtB",
+        "name": "Jammu Africa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e85bd07620e951ca608852b4"
+      },
       "release_date": "1997",
       "popularity": 47
     },
     {
-      "trackId": "5fY1DDYiwVQ3FKFGXIN2Sw",
-      "name": "Bonnie's Blues",
+      "track": {
+        "id": "5fY1DDYiwVQ3FKFGXIN2Sw",
+        "name": "Bonnie's Blues"
+      },
       "duration_ms": 241093,
-      "artist": [
-        "Dizzy Gillespie"
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "id": "5RzjqfPS0Bu4bUMkyNNDpn"
+        }
       ],
-      "artistId": [
-        "5RzjqfPS0Bu4bUMkyNNDpn"
-      ],
-      "albumId": "1huGz5FPFaFPAk3UPWCBrx",
+      "album": {
+        "id": "1huGz5FPFaFPAk3UPWCBrx",
+        "name": "Dizzy's Diamonds - Best Of The Verve Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216152cb5840f39d643be2b03"
+      },
       "release_date": "1992-09-22",
       "popularity": 0
     },
     {
-      "trackId": "3hZct5IXmHti0Xdcni8vfu",
-      "name": "Joga",
+      "track": {
+        "id": "3hZct5IXmHti0Xdcni8vfu",
+        "name": "Joga"
+      },
       "duration_ms": 305533,
-      "artist": [
-        "Björk Guðmundsdóttir",
-        "Sigurjon Birgir Sigurdsson",
-        "Gregorian"
+      "artists": [
+        {
+          "name": "Björk Guðmundsdóttir",
+          "id": "3HDfNAh4MpiptvaJP9We0w"
+        },
+        {
+          "name": "Sigurjon Birgir Sigurdsson",
+          "id": "4GW8ZbtKLVUswg0ucdccik"
+        },
+        {
+          "name": "Gregorian",
+          "id": "5QO1NNCLglKxgogzx6XLJn"
+        }
       ],
-      "artistId": [
-        "3HDfNAh4MpiptvaJP9We0w",
-        "4GW8ZbtKLVUswg0ucdccik",
-        "5QO1NNCLglKxgogzx6XLJn"
-      ],
-      "albumId": "63lHCog4E73RzcCGEpbrj7",
+      "album": {
+        "id": "63lHCog4E73RzcCGEpbrj7",
+        "name": "Masters of Chant: Chapter VI",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ba433f4fd36f6033461abfd4"
+      },
       "release_date": "2007-09-28",
       "popularity": 17
     },
     {
-      "trackId": "3pRaLNL3b8x5uBOcsgvdqM",
-      "name": "Hallelujah",
+      "track": {
+        "id": "3pRaLNL3b8x5uBOcsgvdqM",
+        "name": "Hallelujah"
+      },
       "duration_ms": 413826,
-      "artist": [
-        "Jeff Buckley"
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "id": "3nnQpaTvKb5jCQabZefACI"
+        }
       ],
-      "artistId": [
-        "3nnQpaTvKb5jCQabZefACI"
-      ],
-      "albumId": "7yQtjAjhtNi76KRu05XWFS",
+      "album": {
+        "id": "7yQtjAjhtNi76KRu05XWFS",
+        "name": "Grace",
+        "img": "https://i.scdn.co/image/ab67616d00001e026a760642a56847027428cb61"
+      },
       "release_date": "1994",
       "popularity": 70
     },
     {
-      "trackId": "6GpaH4wT5Rj95Nf1ahFdN4",
-      "name": "Mr. Soft - 2012 Remaster",
+      "track": {
+        "id": "6GpaH4wT5Rj95Nf1ahFdN4",
+        "name": "Mr. Soft - 2012 Remaster"
+      },
       "duration_ms": 197373,
-      "artist": [
-        "Steve Harley & Cockney Rebel"
+      "artists": [
+        {
+          "name": "Steve Harley & Cockney Rebel",
+          "id": "6EL5GD53kaaVgJCHgdtdLz"
+        }
       ],
-      "artistId": [
-        "6EL5GD53kaaVgJCHgdtdLz"
-      ],
-      "albumId": "4Kc4MLmc2TGtq5CQMNiT2z",
+      "album": {
+        "id": "4Kc4MLmc2TGtq5CQMNiT2z",
+        "name": "The Psychomodo (2012 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0260e3a56a95ee979b1074756f"
+      },
       "release_date": "1974-06-01",
       "popularity": 30
     },
     {
-      "trackId": "3XJsJZbJx9DsH2LOUIfgZp",
-      "name": "Holding Up the Sky",
+      "track": {
+        "id": "3XJsJZbJx9DsH2LOUIfgZp",
+        "name": "Holding Up the Sky"
+      },
       "duration_ms": 189173,
-      "artist": [
-        "Buddy & Julie Miller"
+      "artists": [
+        {
+          "name": "Buddy & Julie Miller",
+          "id": "61YXt5O4gENijzfR9cjjSV"
+        }
       ],
-      "artistId": [
-        "61YXt5O4gENijzfR9cjjSV"
-      ],
-      "albumId": "50O0aRdKBmeDJRJCAs9wqY",
+      "album": {
+        "id": "50O0aRdKBmeDJRJCAs9wqY",
+        "name": "Buddy & Julie Miller",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a61cd41dc0f0422b4395bb6"
+      },
       "release_date": "2001-09-18",
       "popularity": 9
     },
     {
-      "trackId": "7nfxm3GeqrgafzH2pp1zz0",
-      "name": "Les instruments de musique : Instruments à cordes et instruments à vent",
+      "track": {
+        "id": "7nfxm3GeqrgafzH2pp1zz0",
+        "name": "Les instruments de musique : Instruments à cordes et instruments à vent"
+      },
       "duration_ms": 88573,
-      "artist": [
-        "Hello Maestro"
+      "artists": [
+        {
+          "name": "Hello Maestro",
+          "id": "2zVbrESL4oZl46YzzBLqHS"
+        }
       ],
-      "artistId": [
-        "2zVbrESL4oZl46YzzBLqHS"
-      ],
-      "albumId": "1W5msWQ2dgnCdNRxv7PS3z",
+      "album": {
+        "id": "1W5msWQ2dgnCdNRxv7PS3z",
+        "name": "Il était une fois... Les instruments de musique",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f9a34b66a18c2a9981f33e30"
+      },
       "release_date": "2021-11-26",
       "popularity": 12
     },
     {
-      "trackId": "2QfiRTz5Yc8DdShCxG1tB2",
-      "name": "Johnny B. Goode",
+      "track": {
+        "id": "2QfiRTz5Yc8DdShCxG1tB2",
+        "name": "Johnny B. Goode"
+      },
       "duration_ms": 161560,
-      "artist": [
-        "Chuck Berry"
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "id": "293zczrfYafIItmnmM3coR"
+        }
       ],
-      "artistId": [
-        "293zczrfYafIItmnmM3coR"
-      ],
-      "albumId": "6eedtCtCjibu80yOhylSGL",
+      "album": {
+        "id": "6eedtCtCjibu80yOhylSGL",
+        "name": "Berry Is On Top",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a496dc8c33ca6d10668b3157"
+      },
       "release_date": "1959-07-01",
       "popularity": 75
     },
     {
-      "trackId": "7Msq9qojB7yORuJvz49iUy",
-      "name": "P.S. I Love You - Remastered 2009",
+      "track": {
+        "id": "7Msq9qojB7yORuJvz49iUy",
+        "name": "P.S. I Love You - Remastered 2009"
+      },
       "duration_ms": 124360,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3KzAvEXcqJKBF97HrXwlgf",
+      "album": {
+        "id": "3KzAvEXcqJKBF97HrXwlgf",
+        "name": "Please Please Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df"
+      },
       "release_date": "1963-03-22",
       "popularity": 49
     },
     {
-      "trackId": "1ixbwbeBi5ufN4noUKmW5a",
-      "name": "Paper Planes",
+      "track": {
+        "id": "1ixbwbeBi5ufN4noUKmW5a",
+        "name": "Paper Planes"
+      },
       "duration_ms": 205200,
-      "artist": [
-        "M.I.A."
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "id": "0QJIPDAEDILuo8AIq3pMuU"
+        }
       ],
-      "artistId": [
-        "0QJIPDAEDILuo8AIq3pMuU"
-      ],
-      "albumId": "2xoj2gYed3IYmGWn3owSfu",
+      "album": {
+        "id": "2xoj2gYed3IYmGWn3owSfu",
+        "name": "Kala",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a8ea5b2ab46dc5fc899ef81e"
+      },
       "release_date": "2007-08-20",
       "popularity": 77
     },
     {
-      "trackId": "6G0MfBXF1QlLpgP8pKngzs",
-      "name": "Shoreline - Radio Version",
+      "track": {
+        "id": "6G0MfBXF1QlLpgP8pKngzs",
+        "name": "Shoreline - Radio Version"
+      },
       "duration_ms": 212293,
-      "artist": [
-        "Anna Ternheim"
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "id": "6xSTQT32ZxLQPe37QIC308"
+        }
       ],
-      "artistId": [
-        "6xSTQT32ZxLQPe37QIC308"
-      ],
-      "albumId": "0sKtHhPyVXCic96QFZywih",
+      "album": {
+        "id": "0sKtHhPyVXCic96QFZywih",
+        "name": "Shoreline",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b3acf13890f0bc4e3d6b6fae"
+      },
       "release_date": "2005-06-01",
       "popularity": 47
     },
     {
-      "trackId": "2P7dqEsGAvdVBCWeycm0vI",
-      "name": "High Tide Or Low Tide - Jamaican Version",
+      "track": {
+        "id": "2P7dqEsGAvdVBCWeycm0vI",
+        "name": "High Tide Or Low Tide - Jamaican Version"
+      },
       "duration_ms": 282533,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "39kLAVdcgW7jbMcTEaY2qy",
+      "album": {
+        "id": "39kLAVdcgW7jbMcTEaY2qy",
+        "name": "Catch A Fire",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287ef6dae7545173089c68f34"
+      },
       "release_date": "1973-04-13",
       "popularity": 55
     },
     {
-      "trackId": "0rTSljQTuZl1U8C9o5P9G2",
-      "name": "Jag Har Gått Inunder Stjärnor - Single Version",
+      "track": {
+        "id": "0rTSljQTuZl1U8C9o5P9G2",
+        "name": "Jag Har Gått Inunder Stjärnor - Single Version"
+      },
       "duration_ms": 181640,
-      "artist": [
-        "Frida Öhrn",
-        "Bo Sundström"
+      "artists": [
+        {
+          "name": "Frida Öhrn",
+          "id": "29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Bo Sundström",
+          "id": "6a1WisWTClXHwQj0WGAyIz"
+        }
       ],
-      "artistId": [
-        "29QsRvznF9E1oeAZFrhTfq",
-        "6a1WisWTClXHwQj0WGAyIz"
-      ],
-      "albumId": "65rZ69EhJC4c2S51TSbnkL",
+      "album": {
+        "id": "65rZ69EhJC4c2S51TSbnkL",
+        "name": "Jag Har Gått Inunder Stjärnor",
+        "img": "https://i.scdn.co/image/ab67616d00001e02083b7678c58753a0b7bc00ae"
+      },
       "release_date": "2007-11-27",
       "popularity": 38
     },
     {
-      "trackId": "504wsV4Br1jy9xUvWzpAog",
-      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "track": {
+        "id": "504wsV4Br1jy9xUvWzpAog",
+        "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo"
+      },
       "duration_ms": 176213,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould",
-        "Vladimir Golschmann"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "id": "3i9zo6m90f9mokNIXqCu0M"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP",
-        "3i9zo6m90f9mokNIXqCu0M"
-      ],
-      "albumId": "14rnDYdD1OCvTh9lSvodMK",
+      "album": {
+        "id": "14rnDYdD1OCvTh9lSvodMK",
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "img": "https://i.scdn.co/image/ab67616d00001e027b941680859557c796b4eca9"
+      },
       "release_date": "1957",
       "popularity": 34
     }

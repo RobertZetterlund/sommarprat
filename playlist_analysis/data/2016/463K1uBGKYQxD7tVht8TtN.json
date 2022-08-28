@@ -7,158 +7,226 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/8e0ce512-723d-483a-aa55-754e734bae59.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0ZvgXNstN4o2ZXPomtBYVp",
-      "name": "Good Golly, Miss Molly",
+      "track": {
+        "id": "0ZvgXNstN4o2ZXPomtBYVp",
+        "name": "Good Golly, Miss Molly"
+      },
       "duration_ms": 129132,
-      "artist": [
-        "Little Richard"
+      "artists": [
+        {
+          "name": "Little Richard",
+          "id": "4xls23Ye9WR9yy3yYMpAMm"
+        }
       ],
-      "artistId": [
-        "4xls23Ye9WR9yy3yYMpAMm"
-      ],
-      "albumId": "18VnWTsdEcofimkOHcWBAu",
+      "album": {
+        "id": "18VnWTsdEcofimkOHcWBAu",
+        "name": "Good Golly!",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc4c510d6d19a2d03e2fc757"
+      },
       "release_date": "1969-01-01",
       "popularity": 62
     },
     {
-      "trackId": "0K9Xk9AKGtvjXn063Ok6Eg",
-      "name": "Riot In Cell Block Number Nine",
+      "track": {
+        "id": "0K9Xk9AKGtvjXn063Ok6Eg",
+        "name": "Riot In Cell Block Number Nine"
+      },
       "duration_ms": 150933,
-      "artist": [
-        "Wanda Jackson"
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "id": "5ZKMPRDHc7qElVJFh3uRqB"
+        }
       ],
-      "artistId": [
-        "5ZKMPRDHc7qElVJFh3uRqB"
-      ],
-      "albumId": "39htnVOmsFgAUft9YHpvZ2",
+      "album": {
+        "id": "39htnVOmsFgAUft9YHpvZ2",
+        "name": "The Capitol Singles 1959-1961",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f30697bba9c151ba4aa26280"
+      },
       "release_date": "2020-10-23",
       "popularity": 24
     },
     {
-      "trackId": "2k0dNwPK8o8N5SkLOyj0bS",
-      "name": "Out Of The Rain",
+      "track": {
+        "id": "2k0dNwPK8o8N5SkLOyj0bS",
+        "name": "Out Of The Rain"
+      },
       "duration_ms": 273693,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "3KrNG7VH4MPb4LM1lQi6aT",
+      "album": {
+        "id": "3KrNG7VH4MPb4LM1lQi6aT",
+        "name": "Stickin' To My Guns",
+        "img": "https://i.scdn.co/image/ab67616d00001e020909362538f1acb9e3944398"
+      },
       "release_date": "1990-01-01",
       "popularity": 35
     },
     {
-      "trackId": "0BSGaoMiJ5gTho2V1pLkDF",
-      "name": "A Most Disgusting Song",
+      "track": {
+        "id": "0BSGaoMiJ5gTho2V1pLkDF",
+        "name": "A Most Disgusting Song"
+      },
       "duration_ms": 289213,
-      "artist": [
-        "Rodríguez"
+      "artists": [
+        {
+          "name": "Rodríguez",
+          "id": "5PrHzxc3kFm4hIrGNmelpX"
+        }
       ],
-      "artistId": [
-        "5PrHzxc3kFm4hIrGNmelpX"
-      ],
-      "albumId": "2X0L9mwLuMqAK8rf965Vmi",
+      "album": {
+        "id": "2X0L9mwLuMqAK8rf965Vmi",
+        "name": "Coming From Reality",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286146e2f7fc9e43db86dc66f"
+      },
       "release_date": "1971",
       "popularity": 40
     },
     {
-      "trackId": "3296oI1RAp9D50CAqnc7A0",
-      "name": "Good Rockin' Daddy",
+      "track": {
+        "id": "3296oI1RAp9D50CAqnc7A0",
+        "name": "Good Rockin' Daddy"
+      },
       "duration_ms": 148666,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "2VvaqZM4wcBLL8i4qYf31N",
+      "album": {
+        "id": "2VvaqZM4wcBLL8i4qYf31N",
+        "name": "Miss Etta James: The Complete Modern and Kent Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c56b9044e837f8bd6af2fa5"
+      },
       "release_date": "1998-02-23",
       "popularity": 30
     },
     {
-      "trackId": "2UP3LtHVsSiwt39JR4foQT",
-      "name": "Kliff",
+      "track": {
+        "id": "2UP3LtHVsSiwt39JR4foQT",
+        "name": "Kliff"
+      },
       "duration_ms": 195000,
-      "artist": [
-        "Ola Magnell"
+      "artists": [
+        {
+          "name": "Ola Magnell",
+          "id": "0EcjEGUjRcoFoVinJpwi91"
+        }
       ],
-      "artistId": [
-        "0EcjEGUjRcoFoVinJpwi91"
-      ],
-      "albumId": "4fD5UIcbjsAMBdJnCkcx2J",
+      "album": {
+        "id": "4fD5UIcbjsAMBdJnCkcx2J",
+        "name": "Nya Perspektiv",
+        "img": "https://i.scdn.co/image/ab67616d00001e022b6c4e1f8043006dcbb9f3d9"
+      },
       "release_date": "1975",
       "popularity": 41
     },
     {
-      "trackId": "75c6ZwxUfuMapPmYSZKTTN",
-      "name": "Two Trains Running",
+      "track": {
+        "id": "75c6ZwxUfuMapPmYSZKTTN",
+        "name": "Two Trains Running"
+      },
       "duration_ms": 238546,
-      "artist": [
-        "Maxwell Street Jimmy Davis"
+      "artists": [
+        {
+          "name": "Maxwell Street Jimmy Davis",
+          "id": "2Ddm2vik5ykV0RzSjVDoHo"
+        }
       ],
-      "artistId": [
-        "2Ddm2vik5ykV0RzSjVDoHo"
-      ],
-      "albumId": "1dOHr3kh7xkKF3oA9EVhh8",
+      "album": {
+        "id": "1dOHr3kh7xkKF3oA9EVhh8",
+        "name": "Maxwell Street",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f444b63b94e471c9c15fcc96"
+      },
       "release_date": "1988",
       "popularity": 1
     },
     {
-      "trackId": "5p4zuCusdHsaNgJoEiIa0T",
-      "name": "Meet Me Down The Bottom",
+      "track": {
+        "id": "5p4zuCusdHsaNgJoEiIa0T",
+        "name": "Meet Me Down The Bottom"
+      },
       "duration_ms": 221960,
-      "artist": [
-        "Sonny Terry",
-        "Brownie McGhee"
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "id": "66hQFpsfaFzK8UbsQofCGv"
+        },
+        {
+          "name": "Brownie McGhee",
+          "id": "3qXzj7WzBV3kwy1yEV1RcC"
+        }
       ],
-      "artistId": [
-        "66hQFpsfaFzK8UbsQofCGv",
-        "3qXzj7WzBV3kwy1yEV1RcC"
-      ],
-      "albumId": "03bQIspObHQwkQIBOq7XaO",
+      "album": {
+        "id": "03bQIspObHQwkQIBOq7XaO",
+        "name": "Midnight Special",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e6534628f7d83d30985b409"
+      },
       "release_date": "1977-01-01",
       "popularity": 3
     },
     {
-      "trackId": "7s070eMt2oBO4nVjnH7rUD",
-      "name": "Use What You Got",
+      "track": {
+        "id": "7s070eMt2oBO4nVjnH7rUD",
+        "name": "Use What You Got"
+      },
       "duration_ms": 160026,
-      "artist": [
-        "Sugar Pie DeSanto"
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "id": "3xIkJAnwLy7NwZpPwvaSPc"
+        }
       ],
-      "artistId": [
-        "3xIkJAnwLy7NwZpPwvaSPc"
-      ],
-      "albumId": "0LH0ZJuhr4TJMWud6K6qdy",
+      "album": {
+        "id": "0LH0ZJuhr4TJMWud6K6qdy",
+        "name": "In The Basement: The Chess Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e88ad10ebfbd0712d5d6a761"
+      },
       "release_date": "2017-12-08",
       "popularity": 22
     },
     {
-      "trackId": "6gwmk9512V7TbZFA1alZAx",
-      "name": "Juicy John Pink",
+      "track": {
+        "id": "6gwmk9512V7TbZFA1alZAx",
+        "name": "Juicy John Pink"
+      },
       "duration_ms": 124360,
-      "artist": [
-        "Procol Harum"
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "id": "0GbqW5TJr7n4is453VOY4C"
+        }
       ],
-      "artistId": [
-        "0GbqW5TJr7n4is453VOY4C"
-      ],
-      "albumId": "1IIiA6WGb5XGb9qZpvCQKK",
+      "album": {
+        "id": "1IIiA6WGb5XGb9qZpvCQKK",
+        "name": "A Salty Dog",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b6274a279ed374947cf42017"
+      },
       "release_date": "1969-06-02",
       "popularity": 18
     },
     {
-      "trackId": "0FFGSas4AkG7jGlgJAelul",
-      "name": "Full Moon On Main Street",
+      "track": {
+        "id": "0FFGSas4AkG7jGlgJAelul",
+        "name": "Full Moon On Main Street"
+      },
       "duration_ms": 292533,
-      "artist": [
-        "Omar and The Howlers"
+      "artists": [
+        {
+          "name": "Omar and The Howlers",
+          "id": "70PvPWG9nD4ZujibB1onsO"
+        }
       ],
-      "artistId": [
-        "70PvPWG9nD4ZujibB1onsO"
-      ],
-      "albumId": "56cPzE2SsL1uoQ6gFUVCBz",
+      "album": {
+        "id": "56cPzE2SsL1uoQ6gFUVCBz",
+        "name": "Southern Style",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235f8c1aa3c17c75cd02cf68c"
+      },
       "release_date": "1996-01-01",
       "popularity": 30
     }

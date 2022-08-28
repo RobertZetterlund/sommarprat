@@ -7,214 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3236285_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2YJG1AK3oXrbYfVgJwUkSi",
-      "name": "En gång jag seglar i hamn",
+      "track": {
+        "id": "2YJG1AK3oXrbYfVgJwUkSi",
+        "name": "En gång jag seglar i hamn"
+      },
       "duration_ms": 151680,
-      "artist": [
-        "Titti Sjöblom",
-        "Ehrling Eliasson"
+      "artists": [
+        {
+          "name": "Titti Sjöblom",
+          "id": "5kPYwmgz8UgnBTI2tmqIHP"
+        },
+        {
+          "name": "Ehrling Eliasson",
+          "id": "5z1pe4m6P1ywiOwsICM1fT"
+        }
       ],
-      "artistId": [
-        "5kPYwmgz8UgnBTI2tmqIHP",
-        "5z1pe4m6P1ywiOwsICM1fT"
-      ],
-      "albumId": "6KakL7a9GCFqVve7PKHJAi",
+      "album": {
+        "id": "6KakL7a9GCFqVve7PKHJAi",
+        "name": "Alice Babs - Mamma & Idol",
+        "img": "https://i.scdn.co/image/ab67616d00001e02937f101a5c3c36ac38b7b968"
+      },
       "release_date": "2014",
       "popularity": 0
     },
     {
-      "trackId": "1zng9uqqXoPkmU05nsAlsw",
-      "name": "Bed Of Roses",
+      "track": {
+        "id": "1zng9uqqXoPkmU05nsAlsw",
+        "name": "Bed Of Roses"
+      },
       "duration_ms": 394400,
-      "artist": [
-        "Bon Jovi"
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "id": "58lV9VcRSjABbAbfWS6skp"
+        }
       ],
-      "artistId": [
-        "58lV9VcRSjABbAbfWS6skp"
-      ],
-      "albumId": "2FbviTPUjgJJUxsGM1sGDq",
+      "album": {
+        "id": "2FbviTPUjgJJUxsGM1sGDq",
+        "name": "Keep The Faith",
+        "img": "https://i.scdn.co/image/ab67616d00001e0259bfe048568a969c6f0bd08c"
+      },
       "release_date": "1992-11-03",
       "popularity": 73
     },
     {
-      "trackId": "6beFuzSjwhOKFZp2aqYDdY",
-      "name": "Amazing",
+      "track": {
+        "id": "6beFuzSjwhOKFZp2aqYDdY",
+        "name": "Amazing"
+      },
       "duration_ms": 356160,
-      "artist": [
-        "Aerosmith"
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "id": "7Ey4PD4MYsKc5I2dolUwbH"
+        }
       ],
-      "artistId": [
-        "7Ey4PD4MYsKc5I2dolUwbH"
-      ],
-      "albumId": "1tuM8yBePaekEruGsH2J79",
+      "album": {
+        "id": "1tuM8yBePaekEruGsH2J79",
+        "name": "Get A Grip",
+        "img": "https://i.scdn.co/image/ab67616d00001e02587b26d49596162397b29ec8"
+      },
       "release_date": "1993-01-01",
       "popularity": 68
     },
     {
-      "trackId": "0lwJH1BDr8Z4wfXvi6yC9y",
-      "name": "Sol, vind och vatten",
+      "track": {
+        "id": "0lwJH1BDr8Z4wfXvi6yC9y",
+        "name": "Sol, vind och vatten"
+      },
       "duration_ms": 189560,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 60
     },
     {
-      "trackId": "05IMS7h4lvhkvDEmlFa779",
-      "name": "Precious Pain",
+      "track": {
+        "id": "05IMS7h4lvhkvDEmlFa779",
+        "name": "Precious Pain"
+      },
       "duration_ms": 256600,
-      "artist": [
-        "Melissa Etheridge"
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "id": "01Ppu7N8uYJI8SAONo2YZA"
+        }
       ],
-      "artistId": [
-        "01Ppu7N8uYJI8SAONo2YZA"
-      ],
-      "albumId": "5osNPHpdk6WyPSDerAUBWf",
+      "album": {
+        "id": "5osNPHpdk6WyPSDerAUBWf",
+        "name": "Melissa Etheridge",
+        "img": "https://i.scdn.co/image/ab67616d00001e0290236daa5430e4766292f37a"
+      },
       "release_date": "1988-01-01",
       "popularity": 36
     },
     {
-      "trackId": "4NTVgBIkIO63F7V4cTTDtr",
-      "name": "500 Miles",
+      "track": {
+        "id": "4NTVgBIkIO63F7V4cTTDtr",
+        "name": "500 Miles"
+      },
       "duration_ms": 262240,
-      "artist": [
-        "The Hooters"
+      "artists": [
+        {
+          "name": "The Hooters",
+          "id": "7uhvDINTTiD0XBrP9fquN1"
+        }
       ],
-      "artistId": [
-        "7uhvDINTTiD0XBrP9fquN1"
-      ],
-      "albumId": "5Sh5gjCOggbEb2kMIFKHHo",
+      "album": {
+        "id": "5Sh5gjCOggbEb2kMIFKHHo",
+        "name": "Super Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e029280b5fea3cde8e6caeaef00"
+      },
       "release_date": "1985",
       "popularity": 55
     },
     {
-      "trackId": "6pFQLoJefvBCTXtjO2dn4t",
-      "name": "Tightrope",
+      "track": {
+        "id": "6pFQLoJefvBCTXtjO2dn4t",
+        "name": "Tightrope"
+      },
       "duration_ms": 278266,
-      "artist": [
-        "Stevie Ray Vaughan"
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "id": "5fsDcuclIe8ZiBD5P787K1"
+        }
       ],
-      "artistId": [
-        "5fsDcuclIe8ZiBD5P787K1"
-      ],
-      "albumId": "1d3gakptaQZQ4zw9YbOagk",
+      "album": {
+        "id": "1d3gakptaQZQ4zw9YbOagk",
+        "name": "In Step",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fb58ea8f6d1a6d3ac6ee9731"
+      },
       "release_date": "1989-06-06",
       "popularity": 49
     },
     {
-      "trackId": "3KfbEIOC7YIv90FIfNSZpo",
-      "name": "In My Life - Remastered 2009",
+      "track": {
+        "id": "3KfbEIOC7YIv90FIfNSZpo",
+        "name": "In My Life - Remastered 2009"
+      },
       "duration_ms": 146333,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "50o7kf2wLwVmOTVYJOTplm",
+      "album": {
+        "id": "50o7kf2wLwVmOTVYJOTplm",
+        "name": "Rubber Soul (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4"
+      },
       "release_date": "1965-12-03",
       "popularity": 72
     },
     {
-      "trackId": "22QiTJqDn1BIRSh4mkNJ5w",
-      "name": "Cherish the Day",
+      "track": {
+        "id": "22QiTJqDn1BIRSh4mkNJ5w",
+        "name": "Cherish the Day"
+      },
       "duration_ms": 332133,
-      "artist": [
-        "Sade"
+      "artists": [
+        {
+          "name": "Sade",
+          "id": "47zz7sob9NUcODy0BTDvKx"
+        }
       ],
-      "artistId": [
-        "47zz7sob9NUcODy0BTDvKx"
-      ],
-      "albumId": "2PfGKHtqEX58bHtkQxJnWG",
+      "album": {
+        "id": "2PfGKHtqEX58bHtkQxJnWG",
+        "name": "Love Deluxe",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee65bbd54f993b5f01d5c511"
+      },
       "release_date": "1992-10-26",
       "popularity": 59
     },
     {
-      "trackId": "67k6pIAuUmCC24sQWpeiui",
-      "name": "Into The Night",
+      "track": {
+        "id": "67k6pIAuUmCC24sQWpeiui",
+        "name": "Into The Night"
+      },
       "duration_ms": 252546,
-      "artist": [
-        "B.B. King"
+      "artists": [
+        {
+          "name": "B.B. King",
+          "id": "5xLSa7l4IV1gsQfhAMvl0U"
+        }
       ],
-      "artistId": [
-        "5xLSa7l4IV1gsQfhAMvl0U"
-      ],
-      "albumId": "47hjubIcoy9BQCu7bgtfJm",
+      "album": {
+        "id": "47hjubIcoy9BQCu7bgtfJm",
+        "name": "Six Silver Strings",
+        "img": "https://i.scdn.co/image/ab67616d00001e0219c5f406c5e80aaa2eb206ef"
+      },
       "release_date": "1985-01-01",
       "popularity": 32
     },
     {
-      "trackId": "2zYzyRzz6pRmhPzyfMEC8s",
-      "name": "Highway to Hell",
+      "track": {
+        "id": "2zYzyRzz6pRmhPzyfMEC8s",
+        "name": "Highway to Hell"
+      },
       "duration_ms": 208400,
-      "artist": [
-        "AC/DC"
+      "artists": [
+        {
+          "name": "AC/DC",
+          "id": "711MCceyCBcFnzjGY4Q7Un"
+        }
       ],
-      "artistId": [
-        "711MCceyCBcFnzjGY4Q7Un"
-      ],
-      "albumId": "10v912xgTZbjAtYfyKWJCS",
+      "album": {
+        "id": "10v912xgTZbjAtYfyKWJCS",
+        "name": "Highway to Hell",
+        "img": "https://i.scdn.co/image/ab67616d00001e0251c02a77d09dfcd53c8676d0"
+      },
       "release_date": "1979-07-27",
       "popularity": 83
     },
     {
-      "trackId": "3TW48DvQ7ChwY1Yy1tkMaP",
-      "name": "Runaway Train",
+      "track": {
+        "id": "3TW48DvQ7ChwY1Yy1tkMaP",
+        "name": "Runaway Train"
+      },
       "duration_ms": 265866,
-      "artist": [
-        "Soul Asylum"
+      "artists": [
+        {
+          "name": "Soul Asylum",
+          "id": "02da1vDJ2hWqfK7aJL6SJm"
+        }
       ],
-      "artistId": [
-        "02da1vDJ2hWqfK7aJL6SJm"
-      ],
-      "albumId": "3EFhsxrJoH3yE3r8bHheE6",
+      "album": {
+        "id": "3EFhsxrJoH3yE3r8bHheE6",
+        "name": "Grave Dancers Union",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a1b5db0138571e123e6c5894"
+      },
       "release_date": "1992-01-01",
       "popularity": 71
     },
     {
-      "trackId": "4ekhcmbinPu8eLHtxD2lav",
-      "name": "The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag",
+      "track": {
+        "id": "4ekhcmbinPu8eLHtxD2lav",
+        "name": "The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag"
+      },
       "duration_ms": 223933,
-      "artist": [
-        "Country Joe & The Fish"
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "id": "0a63dfrxBQKqh160P8iUNL"
+        }
       ],
-      "artistId": [
-        "0a63dfrxBQKqh160P8iUNL"
-      ],
-      "albumId": "5qLH7ahsjN4qZumjwdlkhT",
+      "album": {
+        "id": "5qLH7ahsjN4qZumjwdlkhT",
+        "name": "I-Feel-Like-I'm-Fixin'-To-Die",
+        "img": "https://i.scdn.co/image/ab67616d00001e02001d8526513bb190bf2cb42e"
+      },
       "release_date": "1967",
       "popularity": 41
     },
     {
-      "trackId": "2zTd3JeEEK9VxNbN4gNkok",
-      "name": "Nämner Du Sverige",
+      "track": {
+        "id": "2zTd3JeEEK9VxNbN4gNkok",
+        "name": "Nämner Du Sverige"
+      },
       "duration_ms": 185960,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "54w36iKPgw30nn2ztI0TdJ",
+      "album": {
+        "id": "54w36iKPgw30nn2ztI0TdJ",
+        "name": "Essential Classical Masters (1930-1959)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b78db7a66959a98134faad5e"
+      },
       "release_date": "2010-09-21",
       "popularity": 4
     },
     {
-      "trackId": "0FQJnOrMXL2r6OiGI1L6om",
-      "name": "Wind of Change (Made Popular By Scorpions) [Vocal Version]",
+      "track": {
+        "id": "0FQJnOrMXL2r6OiGI1L6om",
+        "name": "Wind of Change (Made Popular By Scorpions) [Vocal Version]"
+      },
       "duration_ms": 315654,
-      "artist": [
-        "Party Tyme Karaoke"
+      "artists": [
+        {
+          "name": "Party Tyme Karaoke",
+          "id": "3JoDcjZtpq0ccldFgYmeAB"
+        }
       ],
-      "artistId": [
-        "3JoDcjZtpq0ccldFgYmeAB"
-      ],
-      "albumId": "6KyN0iOK7BTR5LACGfZ0Ka",
+      "album": {
+        "id": "6KyN0iOK7BTR5LACGfZ0Ka",
+        "name": "Party Tyme Karaoke - Rock Male Hits 6 (Vocal Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02586b99fe3757161d2d952bf4"
+      },
       "release_date": "2020-12-18",
       "popularity": 0
     }

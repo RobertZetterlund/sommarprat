@@ -7,196 +7,286 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f01401cf-3a25-4b7e-b342-d34bdff3ec55.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4gTeTt1IuGrOLaJeRP5wUw",
-      "name": "Tro och tvivel",
+      "track": {
+        "id": "4gTeTt1IuGrOLaJeRP5wUw",
+        "name": "Tro och tvivel"
+      },
       "duration_ms": 338640,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "1TSO7M4RaU156GYLIKjkL1",
+      "album": {
+        "id": "1TSO7M4RaU156GYLIKjkL1",
+        "name": "För sent för Edelweiss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ccc8337effe128a3baaad8cd"
+      },
       "release_date": "2008-03-26",
       "popularity": 50
     },
     {
-      "trackId": "1uvB7ipgrTmit7ISDdXSEh",
-      "name": "Give Me Some Truth (In The Style Of 'John Lennon')",
+      "track": {
+        "id": "1uvB7ipgrTmit7ISDdXSEh",
+        "name": "Give Me Some Truth (In The Style Of 'John Lennon')"
+      },
       "duration_ms": 196326,
-      "artist": [
-        "Hot Fox Karaoke"
+      "artists": [
+        {
+          "name": "Hot Fox Karaoke",
+          "id": "2pL5iQhCN4RzlJ59kTtFjC"
+        }
       ],
-      "artistId": [
-        "2pL5iQhCN4RzlJ59kTtFjC"
-      ],
-      "albumId": "7Dt4ILQcwci4mBmeN8OorD",
+      "album": {
+        "id": "7Dt4ILQcwci4mBmeN8OorD",
+        "name": "Hot Fox Karaoke - John Lennon 2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0254d6528d3ae2e72462495f00"
+      },
       "release_date": "2010-06-03",
       "popularity": 0
     },
     {
-      "trackId": "4ci93OEvYxTdp14Jxpbspz",
-      "name": "Vem kan man lita på?",
+      "track": {
+        "id": "4ci93OEvYxTdp14Jxpbspz",
+        "name": "Vem kan man lita på?"
+      },
       "duration_ms": 226333,
-      "artist": [
-        "Olle Ljungström"
+      "artists": [
+        {
+          "name": "Olle Ljungström",
+          "id": "6wjchRNcNNSn1wPIaIiRq8"
+        }
       ],
-      "artistId": [
-        "6wjchRNcNNSn1wPIaIiRq8"
-      ],
-      "albumId": "4dt35Sos1vH60UDdHYEmFF",
+      "album": {
+        "id": "4dt35Sos1vH60UDdHYEmFF",
+        "name": "Tack",
+        "img": "https://i.scdn.co/image/ab67616d00001e0271aad443f3355bfdfadeb68d"
+      },
       "release_date": "1995-03-08",
       "popularity": 9
     },
     {
-      "trackId": "3eLZsE8bLki3oqbFiuWZ7V",
-      "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\"",
+      "track": {
+        "id": "3eLZsE8bLki3oqbFiuWZ7V",
+        "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\""
+      },
       "duration_ms": 170000,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Cecilia Bartoli",
-        "Vienna Chamber Orchestra"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "id": "3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "id": "3LWi3bcHEo2dPoy0S79nIM"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "3uw6GzeL10NfFrcikMo9Na",
-        "3LWi3bcHEo2dPoy0S79nIM"
-      ],
-      "albumId": "42WHLzjH40QE12cTEuGGKb",
+      "album": {
+        "id": "42WHLzjH40QE12cTEuGGKb",
+        "name": "Cecilia Bartoli - Mozart Arias",
+        "img": "https://i.scdn.co/image/ab67616d00001e0279a26c7347bf571f5f3fbe7e"
+      },
       "release_date": "1991-01-01",
       "popularity": 40
     },
     {
-      "trackId": "4yQw7FR9lcvL6RHtegbJBh",
-      "name": "Think",
+      "track": {
+        "id": "4yQw7FR9lcvL6RHtegbJBh",
+        "name": "Think"
+      },
       "duration_ms": 139733,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+      "album": {
+        "id": "55HZ2ectg1mMTEKDqIq3kC",
+        "name": "Aretha Now",
+        "img": "https://i.scdn.co/image/ab67616d00001e0246c31f64babcbfca6e061b6b"
+      },
       "release_date": "1968-06-14",
       "popularity": 65
     },
     {
-      "trackId": "0hoC0zdVWa2zE3KX7XtwjD",
-      "name": "ABCs of New York",
+      "track": {
+        "id": "0hoC0zdVWa2zE3KX7XtwjD",
+        "name": "ABCs of New York"
+      },
       "duration_ms": 204528,
-      "artist": [
-        "Princess Nokia"
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "id": "6lay1nwbE6hTx1jivysUAL"
+        }
       ],
-      "artistId": [
-        "6lay1nwbE6hTx1jivysUAL"
-      ],
-      "albumId": "1esJd1JGPa7jDRAKrYs6ls",
+      "album": {
+        "id": "1esJd1JGPa7jDRAKrYs6ls",
+        "name": "1992 Deluxe",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245f7e6e65e4d748690c6cf1b"
+      },
       "release_date": "2017-09-08",
       "popularity": 37
     },
     {
-      "trackId": "45rFHp4Ltm3oWHSZaYZg8l",
-      "name": "Hemlängtan",
+      "track": {
+        "id": "45rFHp4Ltm3oWHSZaYZg8l",
+        "name": "Hemlängtan"
+      },
       "duration_ms": 223998,
-      "artist": [
-        "Sofia Karlsson"
+      "artists": [
+        {
+          "name": "Sofia Karlsson",
+          "id": "2tKGISNf0bei0IxfLQGMEt"
+        }
       ],
-      "artistId": [
-        "2tKGISNf0bei0IxfLQGMEt"
-      ],
-      "albumId": "6mk76DWZYymSKqpQDwnqZY",
+      "album": {
+        "id": "6mk76DWZYymSKqpQDwnqZY",
+        "name": "Visor från vinden (Bonus Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af81be5dc521d547169b4395"
+      },
       "release_date": "2007",
       "popularity": 10
     },
     {
-      "trackId": "5JlqbEj7Bbh2RdZgcO5kJE",
-      "name": "One Day",
+      "track": {
+        "id": "5JlqbEj7Bbh2RdZgcO5kJE",
+        "name": "One Day"
+      },
       "duration_ms": 207573,
-      "artist": [
-        "Matisyahu"
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "id": "5eyMzR1hYiEZtN2c9ly2kw"
+        }
       ],
-      "artistId": [
-        "5eyMzR1hYiEZtN2c9ly2kw"
-      ],
-      "albumId": "6V4eAv3rPLeQhAO8RnOKFs",
+      "album": {
+        "id": "6V4eAv3rPLeQhAO8RnOKFs",
+        "name": "Light",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7b5d0049bea84747a060225"
+      },
       "release_date": "2009-08-10",
       "popularity": 55
     },
     {
-      "trackId": "2FrJeX0Nk0GFljqXzynoMB",
-      "name": "Vem ska trösta Knyttet, del 10",
+      "track": {
+        "id": "2FrJeX0Nk0GFljqXzynoMB",
+        "name": "Vem ska trösta Knyttet, del 10"
+      },
       "duration_ms": 59653,
-      "artist": [
-        "Tove Jansson",
-        "Mumintrollen",
-        "Mumin"
+      "artists": [
+        {
+          "name": "Tove Jansson",
+          "id": "0CXfq61wfiH7rvmJ7O0Ct4"
+        },
+        {
+          "name": "Mumintrollen",
+          "id": "6SXUdE8lwqmLKPQgyGrpUP"
+        },
+        {
+          "name": "Mumin",
+          "id": "1CG3qCwsmo5TtUEEEdla4u"
+        }
       ],
-      "artistId": [
-        "0CXfq61wfiH7rvmJ7O0Ct4",
-        "6SXUdE8lwqmLKPQgyGrpUP",
-        "1CG3qCwsmo5TtUEEEdla4u"
-      ],
-      "albumId": "0HqhJUaE25mi39Jjgn2MQQ",
+      "album": {
+        "id": "0HqhJUaE25mi39Jjgn2MQQ",
+        "name": "Vem ska trösta Knyttet?",
+        "img": "https://i.scdn.co/image/ab67616d00001e02850510025dcfb6f7458bcd5b"
+      },
       "release_date": "1984-03-01",
       "popularity": 16
     },
     {
-      "trackId": "4TTV7EcfroSLWzXRY6gLv6",
-      "name": "Alexander Hamilton",
+      "track": {
+        "id": "4TTV7EcfroSLWzXRY6gLv6",
+        "name": "Alexander Hamilton"
+      },
       "duration_ms": 236737,
-      "artist": [
-        "Leslie Odom Jr.",
-        "Daveed Diggs",
-        "Okieriete Onaodowan"
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "id": "3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "id": "3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "id": "6G3sPhnj4JBCsBVBGvZnkk"
+        }
       ],
-      "artistId": [
-        "3cR4rhS2hBWqI7rJEBacvN",
-        "3twuAojvYNrlWZpMkxLm3P",
-        "6G3sPhnj4JBCsBVBGvZnkk"
-      ],
-      "albumId": "1kCHru7uhxBUdzkm4gzRQc",
+      "album": {
+        "id": "1kCHru7uhxBUdzkm4gzRQc",
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d72fb5571087bca0a2fed008"
+      },
       "release_date": "2015-09-25",
       "popularity": 69
     },
     {
-      "trackId": "2DnJjbjNTV9Nd5NOa1KGba",
-      "name": "You're so Vain",
+      "track": {
+        "id": "2DnJjbjNTV9Nd5NOa1KGba",
+        "name": "You're so Vain"
+      },
       "duration_ms": 258411,
-      "artist": [
-        "Carly Simon"
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "id": "4FtSnMlCVxCswABUmdhwpm"
+        }
       ],
-      "artistId": [
-        "4FtSnMlCVxCswABUmdhwpm"
-      ],
-      "albumId": "79x0PRGIZv33znrCkPkCZ5",
+      "album": {
+        "id": "79x0PRGIZv33znrCkPkCZ5",
+        "name": "No Secrets",
+        "img": "https://i.scdn.co/image/ab67616d00001e02143aaf19ecc28c7b41d42d9d"
+      },
       "release_date": "1972",
       "popularity": 74
     },
     {
-      "trackId": "0qxYx4F3vm1AOnfux6dDxP",
-      "name": "You Can Call Me Al",
+      "track": {
+        "id": "0qxYx4F3vm1AOnfux6dDxP",
+        "name": "You Can Call Me Al"
+      },
       "duration_ms": 280000,
-      "artist": [
-        "Paul Simon"
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "id": "2CvCyf1gEVhI0mX6aFXmVI"
+        }
       ],
-      "artistId": [
-        "2CvCyf1gEVhI0mX6aFXmVI"
-      ],
-      "albumId": "6WgGWYw6XXQyLTsWt7tXky",
+      "album": {
+        "id": "6WgGWYw6XXQyLTsWt7tXky",
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0209880a7b8636c5a0615dc0c8"
+      },
       "release_date": "1986-08-12",
       "popularity": 75
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

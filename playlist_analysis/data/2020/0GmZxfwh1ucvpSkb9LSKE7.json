@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/742ad9ff-abe7-4ad3-8042-8889ff40e5ed.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "20OFwXhEXf12DzwXmaV7fj",
-      "name": "Bad Moon Rising",
+      "track": {
+        "id": "20OFwXhEXf12DzwXmaV7fj",
+        "name": "Bad Moon Rising"
+      },
       "duration_ms": 141600,
-      "artist": [
-        "Creedence Clearwater Revival"
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": "3IYUhFvPQItj6xySrBmZkd"
+        }
       ],
-      "artistId": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ],
-      "albumId": "0i9mOB6mPGqwVvtJEXiwPG",
+      "album": {
+        "id": "0i9mOB6mPGqwVvtJEXiwPG",
+        "name": "Green River (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e023efcd243aaa5638f55318f91"
+      },
       "release_date": "1969-08-03",
       "popularity": 78
     },
     {
-      "trackId": "1NrbnHlR2BFREcyWXHIHip",
-      "name": "When I'm Sixty Four - Remastered 2009",
+      "track": {
+        "id": "1NrbnHlR2BFREcyWXHIHip",
+        "name": "When I'm Sixty Four - Remastered 2009"
+      },
       "duration_ms": 157666,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "6QaVfG1pHYl1z15ZxkvVDW",
+      "album": {
+        "id": "6QaVfG1pHYl1z15ZxkvVDW",
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a"
+      },
       "release_date": "1967-06-01",
       "popularity": 62
     },
     {
-      "trackId": "4oW1lGOw5Q5OLvoJv92qoE",
-      "name": "I Can Help",
+      "track": {
+        "id": "4oW1lGOw5Q5OLvoJv92qoE",
+        "name": "I Can Help"
+      },
       "duration_ms": 238333,
-      "artist": [
-        "Billy Swan"
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "id": "6nNkKMkPl1qBCEW3Al9eVV"
+        }
       ],
-      "artistId": [
-        "6nNkKMkPl1qBCEW3Al9eVV"
-      ],
-      "albumId": "5fjc7x9genFjAynvs3g1oi",
+      "album": {
+        "id": "5fjc7x9genFjAynvs3g1oi",
+        "name": "The Best Of Billy Swan",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d6c066b8cb1cf84f7f9a8ace"
+      },
       "release_date": "1974",
       "popularity": 49
     },
     {
-      "trackId": "6VTbbVjKOC2qWagIDbkJrC",
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "track": {
+        "id": "6VTbbVjKOC2qWagIDbkJrC",
+        "name": "My Baby Just Cares for Me - 2013 Remastered Version"
+      },
       "duration_ms": 215746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "58gOQaPc4RCw8eWdTDRes7",
+      "album": {
+        "id": "58gOQaPc4RCw8eWdTDRes7",
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7cd1d8168aaca9041daad61"
+      },
       "release_date": "1958-06-24",
       "popularity": 66
     },
     {
-      "trackId": "4jtkL568p5AjSVxIhx6Oml",
-      "name": "Mitt bästa för dig",
+      "track": {
+        "id": "4jtkL568p5AjSVxIhx6Oml",
+        "name": "Mitt bästa för dig"
+      },
       "duration_ms": 251853,
-      "artist": [
-        "Grymlings"
+      "artists": [
+        {
+          "name": "Grymlings",
+          "id": "0JLbtZQLmBNTczxvUvxpHj"
+        }
       ],
-      "artistId": [
-        "0JLbtZQLmBNTczxvUvxpHj"
-      ],
-      "albumId": "6g81Bu3RVlR9bPYNwVwUPE",
+      "album": {
+        "id": "6g81Bu3RVlR9bPYNwVwUPE",
+        "name": "Grymlings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02763383e9fd716eeaa3456248"
+      },
       "release_date": "1990-03-01",
       "popularity": 45
     },
     {
-      "trackId": "3gdewACMIVMEWVbyb8O9sY",
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "track": {
+        "id": "3gdewACMIVMEWVbyb8O9sY",
+        "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)"
+      },
       "duration_ms": 281613,
-      "artist": [
-        "Elton John"
+      "artists": [
+        {
+          "name": "Elton John",
+          "id": "3PhoLpVuITZKcymswpck5b"
+        }
       ],
-      "artistId": [
-        "3PhoLpVuITZKcymswpck5b"
-      ],
-      "albumId": "2ei2X6ghPnw7YRwQtAH075",
+      "album": {
+        "id": "2ei2X6ghPnw7YRwQtAH075",
+        "name": "Honky Chateau",
+        "img": "https://i.scdn.co/image/ab67616d00001e023009007708ab5134936a58b3"
+      },
       "release_date": "1972-05-19",
       "popularity": 80
     },
     {
-      "trackId": "6tYIQpc9rX2wTBtb9Rh37K",
-      "name": "Reach Out I'll Be There - Single Version / Mono",
+      "track": {
+        "id": "6tYIQpc9rX2wTBtb9Rh37K",
+        "name": "Reach Out I'll Be There - Single Version / Mono"
+      },
       "duration_ms": 177506,
-      "artist": [
-        "Four Tops"
+      "artists": [
+        {
+          "name": "Four Tops",
+          "id": "7fIvjotigTGWqjIz6EP1i4"
+        }
       ],
-      "artistId": [
-        "7fIvjotigTGWqjIz6EP1i4"
-      ],
-      "albumId": "3XjEIrHExP51C8Iyircdzt",
+      "album": {
+        "id": "3XjEIrHExP51C8Iyircdzt",
+        "name": "Motown Legends: Bernadette",
+        "img": "https://i.scdn.co/image/ab67616d00001e023392f1798c3cb0013704a469"
+      },
       "release_date": "1993-01-01",
       "popularity": 58
     },
     {
-      "trackId": "4t6mZpyfOQP8Alk8tPGnz1",
-      "name": "Ärlighet",
+      "track": {
+        "id": "4t6mZpyfOQP8Alk8tPGnz1",
+        "name": "Ärlighet"
+      },
       "duration_ms": 218866,
-      "artist": [
-        "Helen Sjöholm"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx"
-      ],
-      "albumId": "54jCLtR6ejAT4N43eT1XRg",
+      "album": {
+        "id": "54jCLtR6ejAT4N43eT1XRg",
+        "name": "Euforia – Helen Sjöholm sjunger Billy Joel",
+        "img": "https://i.scdn.co/image/ab67616d00001e021abf27c43f333b121a7fa97a"
+      },
       "release_date": "2010-01-01",
       "popularity": 22
     },
     {
-      "trackId": "5I17rGCM1Zn4J9puVHTh8X",
-      "name": "Håll mitt hjärta (Same Old Story)",
+      "track": {
+        "id": "5I17rGCM1Zn4J9puVHTh8X",
+        "name": "Håll mitt hjärta (Same Old Story)"
+      },
       "duration_ms": 261600,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6ikkPeJhCsStZUcEECJX6e",
+      "album": {
+        "id": "6ikkPeJhCsStZUcEECJX6e",
+        "name": "Ingen Annan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247eba23a799e35950fd983de"
+      },
       "release_date": "2002",
       "popularity": 40
     },
     {
-      "trackId": "1MXnMdktScmuPOWhXe9kHw",
-      "name": "Dark Lady",
+      "track": {
+        "id": "1MXnMdktScmuPOWhXe9kHw",
+        "name": "Dark Lady"
+      },
       "duration_ms": 207133,
-      "artist": [
-        "Cher"
+      "artists": [
+        {
+          "name": "Cher",
+          "id": "72OaDtakiy6yFqkt4TsiFt"
+        }
       ],
-      "artistId": [
-        "72OaDtakiy6yFqkt4TsiFt"
-      ],
-      "albumId": "7BwcYFAOuR2sreSCOkeReI",
+      "album": {
+        "id": "7BwcYFAOuR2sreSCOkeReI",
+        "name": "Cher's Greatest Hits: 1965-1992",
+        "img": "https://i.scdn.co/image/ab67616d00001e026554d777d86732f33913bca5"
+      },
       "release_date": "1992-11-09",
       "popularity": 36
     },
     {
-      "trackId": "1eu3GSrsyUxWMmEKgC4Xr5",
-      "name": "Come Give Me Love",
+      "track": {
+        "id": "1eu3GSrsyUxWMmEKgC4Xr5",
+        "name": "Come Give Me Love"
+      },
       "duration_ms": 209120,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "7pY0hwPU10gaH4qDsDFA6d",
+      "album": {
+        "id": "7pY0hwPU10gaH4qDsDFA6d",
+        "name": "Ted",
+        "img": "https://i.scdn.co/image/ab67616d00001e02279f48896822185c7ae7ab34"
+      },
       "release_date": "1973-03-01",
       "popularity": 51
     },
     {
-      "trackId": "0iOZM63lendWRTTeKhZBSC",
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "track": {
+        "id": "0iOZM63lendWRTTeKhZBSC",
+        "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack"
+      },
       "duration_ms": 244026,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "3bzgbgiytguTDnwzflAZr2",
+      "album": {
+        "id": "3bzgbgiytguTDnwzflAZr2",
+        "name": "Bookends",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d8fb5b4308dc27f210064ef4"
+      },
       "release_date": "1968-04-03",
       "popularity": 75
     },
     {
-      "trackId": "6LzvzBlomMmurJArhrbSfz",
-      "name": "Lika ung som då",
+      "track": {
+        "id": "6LzvzBlomMmurJArhrbSfz",
+        "name": "Lika ung som då"
+      },
       "duration_ms": 220626,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "11DZ3EEstXhTAj74yWGNka",
+      "album": {
+        "id": "11DZ3EEstXhTAj74yWGNka",
+        "name": "Lika Ung Som Då",
+        "img": "https://i.scdn.co/image/ab67616d00001e02604b6b9d9e564372061aad44"
+      },
       "release_date": "1996-02-19",
       "popularity": 29
     }

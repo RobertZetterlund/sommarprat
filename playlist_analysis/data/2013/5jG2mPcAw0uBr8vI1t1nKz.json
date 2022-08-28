@@ -7,234 +7,346 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860856_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6VTbbVjKOC2qWagIDbkJrC",
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "track": {
+        "id": "6VTbbVjKOC2qWagIDbkJrC",
+        "name": "My Baby Just Cares for Me - 2013 Remastered Version"
+      },
       "duration_ms": 215746,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "58gOQaPc4RCw8eWdTDRes7",
+      "album": {
+        "id": "58gOQaPc4RCw8eWdTDRes7",
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7cd1d8168aaca9041daad61"
+      },
       "release_date": "1958-06-24",
       "popularity": 66
     },
     {
-      "trackId": "1aRrJewQmqU3wMUf86VVc6",
-      "name": "I Heard It Through The Grapevine",
+      "track": {
+        "id": "1aRrJewQmqU3wMUf86VVc6",
+        "name": "I Heard It Through The Grapevine"
+      },
       "duration_ms": 165893,
-      "artist": [
-        "Gladys Knight & The Pips"
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "id": "0TF2NxkJZPQoX1H53rEFM1"
+        }
       ],
-      "artistId": [
-        "0TF2NxkJZPQoX1H53rEFM1"
-      ],
-      "albumId": "5l5h2w976gvp8y2IGv2Tp4",
+      "album": {
+        "id": "5l5h2w976gvp8y2IGv2Tp4",
+        "name": "Everybody Needs Love",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ea11ccfbe6b3e3fe31b9dd6"
+      },
       "release_date": "1967",
       "popularity": 52
     },
     {
-      "trackId": "2Uq9dvaRcxfSUQ9ZqPwIv7",
-      "name": "L'embarquement pour Cythere",
+      "track": {
+        "id": "2Uq9dvaRcxfSUQ9ZqPwIv7",
+        "name": "L'embarquement pour Cythere"
+      },
       "duration_ms": 139320,
-      "artist": [
-        "Francis Poulenc",
-        "Roland Pöntinen",
-        "Love Derwinger"
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "id": "4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Roland Pöntinen",
+          "id": "3oob8cWQ5FMlfVZRwSSVES"
+        },
+        {
+          "name": "Love Derwinger",
+          "id": "2x8TEvp7ugOV0LGeJyuFy2"
+        }
       ],
-      "artistId": [
-        "4IAWVxo2fpTBPn6k7GZ3eY",
-        "3oob8cWQ5FMlfVZRwSSVES",
-        "2x8TEvp7ugOV0LGeJyuFy2"
-      ],
-      "albumId": "4fw1ZV9N71YPqh1PpbEo7X",
+      "album": {
+        "id": "4fw1ZV9N71YPqh1PpbEo7X",
+        "name": "Poulenc: Complete Works for Two Pianos",
+        "img": "https://i.scdn.co/image/ab67616d00001e026cb49312f683952027a51942"
+      },
       "release_date": "1993-05-31",
       "popularity": 0
     },
     {
-      "trackId": "15ifyO8wYntwyXAptfxhKr",
-      "name": "Everybody Dance - 2018 Remaster",
+      "track": {
+        "id": "15ifyO8wYntwyXAptfxhKr",
+        "name": "Everybody Dance - 2018 Remaster"
+      },
       "duration_ms": 402693,
-      "artist": [
-        "CHIC"
+      "artists": [
+        {
+          "name": "CHIC",
+          "id": "0Xf8oDAJYd2D0k3NLI19OV"
+        }
       ],
-      "artistId": [
-        "0Xf8oDAJYd2D0k3NLI19OV"
-      ],
-      "albumId": "388S3dsftPqG1nwgauItcx",
+      "album": {
+        "id": "388S3dsftPqG1nwgauItcx",
+        "name": "Chic (2018 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0253afe19ee3a695205550ed02"
+      },
       "release_date": "1977-01-01",
       "popularity": 55
     },
     {
-      "trackId": "2sO81Aam6NndfvH2CvxKv7",
-      "name": "Trying Too Hard",
+      "track": {
+        "id": "2sO81Aam6NndfvH2CvxKv7",
+        "name": "Trying Too Hard"
+      },
       "duration_ms": 190830,
-      "artist": [
-        "Thomas Sanders"
+      "artists": [
+        {
+          "name": "Thomas Sanders",
+          "id": "2HFEmkJdJwdaSxJbxJpFPs"
+        }
       ],
-      "artistId": [
-        "2HFEmkJdJwdaSxJbxJpFPs"
-      ],
-      "albumId": "0eWquclckoNQw2OuDiyM0k",
+      "album": {
+        "id": "0eWquclckoNQw2OuDiyM0k",
+        "name": "Trying Too Hard",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb645ed91faadab274bb9472"
+      },
       "release_date": "2022-03-23",
       "popularity": 39
     },
     {
-      "trackId": "3fnqNxjN7o0tJe7zOQZV68",
-      "name": "Catastrophist",
+      "track": {
+        "id": "3fnqNxjN7o0tJe7zOQZV68",
+        "name": "Catastrophist"
+      },
       "duration_ms": 388035,
-      "artist": [
-        "Trivium"
+      "artists": [
+        {
+          "name": "Trivium",
+          "id": "278ZYwGhdK6QTzE3MFePnP"
+        }
       ],
-      "artistId": [
-        "278ZYwGhdK6QTzE3MFePnP"
-      ],
-      "albumId": "0aXIJYbWk4u41iJmoJmp8y",
+      "album": {
+        "id": "0aXIJYbWk4u41iJmoJmp8y",
+        "name": "What The Dead Men Say",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f11a218563f0edfa7940fc94"
+      },
       "release_date": "2020-04-24",
       "popularity": 54
     },
     {
-      "trackId": "0Eq4BMgsdV6DkLSJfX8eBt",
-      "name": "Fantasy - Single Version",
+      "track": {
+        "id": "0Eq4BMgsdV6DkLSJfX8eBt",
+        "name": "Fantasy - Single Version"
+      },
       "duration_ms": 226213,
-      "artist": [
-        "Earth, Wind & Fire"
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "id": "4QQgXkCYTt3BlENzhyNETg"
+        }
       ],
-      "artistId": [
-        "4QQgXkCYTt3BlENzhyNETg"
-      ],
-      "albumId": "2FW0uQ4WL25umm5p2VrZO7",
+      "album": {
+        "id": "2FW0uQ4WL25umm5p2VrZO7",
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e024dd033f4cf3a0a58059cde69"
+      },
       "release_date": "1978-11-23",
       "popularity": 65
     },
     {
-      "trackId": "5qYV57UGM0IOVOKcgHetzB",
-      "name": "Nocturne No.2 in F-Sharp Major, Op. 15",
+      "track": {
+        "id": "5qYV57UGM0IOVOKcgHetzB",
+        "name": "Nocturne No.2 in F-Sharp Major, Op. 15"
+      },
       "duration_ms": 260813,
-      "artist": [
-        "Frédéric Chopin",
-        "Angela Hewitt"
+      "artists": [
+        {
+          "name": "Frédéric Chopin",
+          "id": "7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Angela Hewitt",
+          "id": "3KtQFp8FUbQMx3bLNKCw3R"
+        }
       ],
-      "artistId": [
-        "7y97mc3bZRFXzT2szRM4L4",
-        "3KtQFp8FUbQMx3bLNKCw3R"
-      ],
-      "albumId": "3YeqiM5emvV37csN40wC3Q",
+      "album": {
+        "id": "3YeqiM5emvV37csN40wC3Q",
+        "name": "Chopin: Sonata B-Moll, Nokturn Fis-Dur, Mazurki, Fantazja F-Moll, Etiudy, Preludia",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282604e4efdea54a6ffd032a4"
+      },
       "release_date": "2016",
       "popularity": 3
     },
     {
-      "trackId": "1dkH6SIBjKsD6EKmzGKDXw",
-      "name": "Schubert: Die Forelle, Op. 32, D. 550",
+      "track": {
+        "id": "1dkH6SIBjKsD6EKmzGKDXw",
+        "name": "Schubert: Die Forelle, Op. 32, D. 550"
+      },
       "duration_ms": 132000,
-      "artist": [
-        "Ian Bostridge",
-        "Julius Drake"
+      "artists": [
+        {
+          "name": "Ian Bostridge",
+          "id": "0QVlaFCrge4YWt0yftF8FE"
+        },
+        {
+          "name": "Julius Drake",
+          "id": "3uCTdq9rOnPCAlJMc4OzGn"
+        }
       ],
-      "artistId": [
-        "0QVlaFCrge4YWt0yftF8FE",
-        "3uCTdq9rOnPCAlJMc4OzGn"
-      ],
-      "albumId": "6sPvc5uYzPNJ8LPjUSGp6e",
+      "album": {
+        "id": "6sPvc5uYzPNJ8LPjUSGp6e",
+        "name": "Sherlock Holmes: A Game of Shadows (Original Motion Picture Soundtrack) [Deluxe Version]",
+        "img": "https://i.scdn.co/image/ab67616d00001e02012db734cda37e26e8449caa"
+      },
       "release_date": "2011-12-20",
       "popularity": 18
     },
     {
-      "trackId": "34cBBAHelqizXTxeKmtqD8",
-      "name": "Le Carnaval des Animaux, R. 125: Le Cygne",
+      "track": {
+        "id": "34cBBAHelqizXTxeKmtqD8",
+        "name": "Le Carnaval des Animaux, R. 125: Le Cygne"
+      },
       "duration_ms": 191826,
-      "artist": [
-        "Camille Saint-Saëns",
-        "Mischa Maisky",
-        "Martha Argerich"
+      "artists": [
+        {
+          "name": "Camille Saint-Saëns",
+          "id": "436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Mischa Maisky",
+          "id": "6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "id": "66MvLAvLznk5UOvASVGjk4"
+        }
       ],
-      "artistId": [
-        "436sYg6CZhNefQJogaXeK0",
-        "6rlVhQqS15yJMO4DZqrq6I",
-        "66MvLAvLznk5UOvASVGjk4"
-      ],
-      "albumId": "6UxkTBIkMYOwf0xytXRqni",
+      "album": {
+        "id": "6UxkTBIkMYOwf0xytXRqni",
+        "name": "Saint-Saëns: The Carnival of the Animals / Meschwitz: Tier-Gebete / Ridout: Little Sad Sound",
+        "img": "https://i.scdn.co/image/ab67616d00001e0289b002c0e85ff393697f23a3"
+      },
       "release_date": "1988-01-01",
       "popularity": 7
     },
     {
-      "trackId": "0kVTxOUQwnr6vGO1r2Weu8",
-      "name": "Prélude g-moll op.23 Nr.5 - Welte-Mignon 1926 / 1986/87",
+      "track": {
+        "id": "0kVTxOUQwnr6vGO1r2Weu8",
+        "name": "Prélude g-moll op.23 Nr.5 - Welte-Mignon 1926 / 1986/87"
+      },
       "duration_ms": 234133,
-      "artist": [
-        "Sergei Rachmaninoff",
-        "Vladimir Horowitz"
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "id": "0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "id": "4Ws5hSoABAwvGJ4LhHwHgq"
+        }
       ],
-      "artistId": [
-        "0Kekt6CKSo0m5mivKcoH51",
-        "4Ws5hSoABAwvGJ4LhHwHgq"
-      ],
-      "albumId": "72OZYKbVlkxLjijij1EwAX",
+      "album": {
+        "id": "72OZYKbVlkxLjijij1EwAX",
+        "name": "Vladimir Horowitz on Welte-Mignon [1926 / 1986/87] (1926 / 1986/87)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0236ae5206c8227d681948358d"
+      },
       "release_date": "1988",
       "popularity": 1
     },
     {
-      "trackId": "2gNjmvuQiEd2z9SqyYi8HH",
-      "name": "Summertime",
+      "track": {
+        "id": "2gNjmvuQiEd2z9SqyYi8HH",
+        "name": "Summertime"
+      },
       "duration_ms": 298133,
-      "artist": [
-        "Louis Armstrong",
-        "Ella Fitzgerald"
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "id": "19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "id": "5V0MlUE1Bft0mbLlND7FJz"
+        }
       ],
-      "artistId": [
-        "19eLuQmk9aCobbVDHc6eek",
-        "5V0MlUE1Bft0mbLlND7FJz"
-      ],
-      "albumId": "1vvnTmmNWnGmqvVFjVIINf",
+      "album": {
+        "id": "1vvnTmmNWnGmqvVFjVIINf",
+        "name": "Porgy And Bess",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211aafea0ad62648d4669626f"
+      },
       "release_date": "1958-01-01",
       "popularity": 63
     },
     {
-      "trackId": "3ydoPJsdbNmd6SgpAbDNyL",
-      "name": "Piano Sonata No. 11 in A Major, K. 331: III. Alla Turca (Allegretto)",
+      "track": {
+        "id": "3ydoPJsdbNmd6SgpAbDNyL",
+        "name": "Piano Sonata No. 11 in A Major, K. 331: III. Alla Turca (Allegretto)"
+      },
       "duration_ms": 201986,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Friedrich Gulda"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Friedrich Gulda",
+          "id": "2sjOsPGCavFqNIgpCoy2hJ"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "2sjOsPGCavFqNIgpCoy2hJ"
-      ],
-      "albumId": "1nbfZULPCwxd02g9NN1pAV",
+      "album": {
+        "id": "1nbfZULPCwxd02g9NN1pAV",
+        "name": "The Gulda Mozart Tapes II",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4df68bdcdd86520ec676ac8"
+      },
       "release_date": "2007-01-01",
       "popularity": 43
     },
     {
-      "trackId": "13RlFP5O9ZwJbe1Vy1Jclm",
-      "name": "Libertango",
+      "track": {
+        "id": "13RlFP5O9ZwJbe1Vy1Jclm",
+        "name": "Libertango"
+      },
       "duration_ms": 187800,
-      "artist": [
-        "Yo-Yo Ma"
+      "artists": [
+        {
+          "name": "Yo-Yo Ma",
+          "id": "5Dl3HXZjG6ZOWT5cV375lk"
+        }
       ],
-      "artistId": [
-        "5Dl3HXZjG6ZOWT5cV375lk"
-      ],
-      "albumId": "3PMS3gfZ6N4Rd6PtP7nco6",
+      "album": {
+        "id": "3PMS3gfZ6N4Rd6PtP7nco6",
+        "name": "Soul of the Tango",
+        "img": "https://i.scdn.co/image/ab67616d00001e0245807b331594898053c59c71"
+      },
       "release_date": "1997-10-31",
       "popularity": 40
     },
     {
-      "trackId": "06JadAcY50pypgwskVayX4",
-      "name": "Rataplan",
+      "track": {
+        "id": "06JadAcY50pypgwskVayX4",
+        "name": "Rataplan"
+      },
       "duration_ms": 144880,
-      "artist": [
-        "Maria Malibran",
-        "Cecilia Bartoli",
-        "Orchestra La Scintilla"
+      "artists": [
+        {
+          "name": "Maria Malibran",
+          "id": "6f3S1DRokOI9AHhYoXzOvq"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "id": "3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Orchestra La Scintilla",
+          "id": "7tyLtR7aXBVZjB5ReLqzgg"
+        }
       ],
-      "artistId": [
-        "6f3S1DRokOI9AHhYoXzOvq",
-        "3uw6GzeL10NfFrcikMo9Na",
-        "7tyLtR7aXBVZjB5ReLqzgg"
-      ],
-      "albumId": "0piR6BTXblsautgycv3Xnv",
+      "album": {
+        "id": "0piR6BTXblsautgycv3Xnv",
+        "name": "Maria",
+        "img": "https://i.scdn.co/image/ab67616d00001e029702b6beeaec7194eb67e235"
+      },
       "release_date": "2007-01-01",
       "popularity": 7
     }

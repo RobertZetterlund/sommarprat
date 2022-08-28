@@ -7,172 +7,246 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3300229_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7lXMVXK6yAznOmjF0695qx",
-      "name": "Brothers",
+      "track": {
+        "id": "7lXMVXK6yAznOmjF0695qx",
+        "name": "Brothers"
+      },
       "duration_ms": 269000,
-      "artist": [
-        "The War On Drugs"
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "id": "6g0mn3tzAds6aVeUYRsryU"
+        }
       ],
-      "artistId": [
-        "6g0mn3tzAds6aVeUYRsryU"
-      ],
-      "albumId": "2KjyXCzIAZzJ6j70qPKvEj",
+      "album": {
+        "id": "2KjyXCzIAZzJ6j70qPKvEj",
+        "name": "Slave Ambient",
+        "img": "https://i.scdn.co/image/ab67616d00001e024749e3e8832e78f03fc0ed30"
+      },
       "release_date": "2011-08-16",
       "popularity": 37
     },
     {
-      "trackId": "0P7DoyGrr4Wp9w5TotEtUC",
-      "name": "The Weight - Remastered 2000",
+      "track": {
+        "id": "0P7DoyGrr4Wp9w5TotEtUC",
+        "name": "The Weight - Remastered 2000"
+      },
       "duration_ms": 274493,
-      "artist": [
-        "The Band"
+      "artists": [
+        {
+          "name": "The Band",
+          "id": "4vpDg7Y7fU982Ds30zawDA"
+        }
       ],
-      "artistId": [
-        "4vpDg7Y7fU982Ds30zawDA"
-      ],
-      "albumId": "0ky5kdvfPxSmSpj03hpSAE",
+      "album": {
+        "id": "0ky5kdvfPxSmSpj03hpSAE",
+        "name": "Music From Big Pink (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0220bbceac6950d3fe13fa13c3"
+      },
       "release_date": "1968-07-01",
       "popularity": 70
     },
     {
-      "trackId": "6czQjTcqRqSMrkXrnbcnkt",
-      "name": "Sold! To the Nice Rich Man",
+      "track": {
+        "id": "6czQjTcqRqSMrkXrnbcnkt",
+        "name": "Sold! To the Nice Rich Man"
+      },
       "duration_ms": 250573,
-      "artist": [
-        "The Welcome Wagon"
+      "artists": [
+        {
+          "name": "The Welcome Wagon",
+          "id": "5Pi8OOHCYvWrvkSr71RKtd"
+        }
       ],
-      "artistId": [
-        "5Pi8OOHCYvWrvkSr71RKtd"
-      ],
-      "albumId": "2weTZ3bMfgOhjJwuto0OWZ",
+      "album": {
+        "id": "2weTZ3bMfgOhjJwuto0OWZ",
+        "name": "Welcome to the Welcome Wagon",
+        "img": "https://i.scdn.co/image/ab67616d00001e02be2fc17ee5f036b68cff39a0"
+      },
       "release_date": "2008-12-09",
       "popularity": 11
     },
     {
-      "trackId": "0cs7eChPZrZ1q0c237lyRM",
-      "name": "Dalarna",
+      "track": {
+        "id": "0cs7eChPZrZ1q0c237lyRM",
+        "name": "Dalarna"
+      },
       "duration_ms": 248000,
-      "artist": [
-        "Klabbes Bank"
+      "artists": [
+        {
+          "name": "Klabbes Bank",
+          "id": "3RJ1QagLareO18qnr2ytlg"
+        }
       ],
-      "artistId": [
-        "3RJ1QagLareO18qnr2ytlg"
-      ],
-      "albumId": "1JUgM08Yt4xekYaMP2kSOT",
+      "album": {
+        "id": "1JUgM08Yt4xekYaMP2kSOT",
+        "name": "Protect the Forest",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c0e7ed5afcce4b8b39a35ba"
+      },
       "release_date": "2012-10-10",
       "popularity": 9
     },
     {
-      "trackId": "3KZRkM7Uv0F2oCTUHAvv0a",
-      "name": "Jim Cain",
+      "track": {
+        "id": "3KZRkM7Uv0F2oCTUHAvv0a",
+        "name": "Jim Cain"
+      },
       "duration_ms": 279253,
-      "artist": [
-        "Bill Callahan"
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "id": "7gqsi6aBSkRMJoL9psKqMr"
+        }
       ],
-      "artistId": [
-        "7gqsi6aBSkRMJoL9psKqMr"
-      ],
-      "albumId": "4bKHXqEVmt32YU7u51GIHB",
+      "album": {
+        "id": "4bKHXqEVmt32YU7u51GIHB",
+        "name": "Sometimes I Wish We Were An Eagle",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6588eca47e1b2c424f6c045"
+      },
       "release_date": "2009-04-14",
       "popularity": 46
     },
     {
-      "trackId": "5H9tV7lfYtNTfGpsNE2uiP",
-      "name": "(Inte) hem",
+      "track": {
+        "id": "5H9tV7lfYtNTfGpsNE2uiP",
+        "name": "(Inte) hem"
+      },
       "duration_ms": 306466,
-      "artist": [
-        "Skator"
+      "artists": [
+        {
+          "name": "Skator",
+          "id": "2jPNd79u2SRpGbFQzXZVj5"
+        }
       ],
-      "artistId": [
-        "2jPNd79u2SRpGbFQzXZVj5"
-      ],
-      "albumId": "6PtJQq3bm0KftAFIbEHfqt",
+      "album": {
+        "id": "6PtJQq3bm0KftAFIbEHfqt",
+        "name": "Vita kalla",
+        "img": "https://i.scdn.co/image/ab67616d00001e02657fcf965e522109cd6b3b85"
+      },
       "release_date": "2013-03-22",
       "popularity": 25
     },
     {
-      "trackId": "6VMBTD154jesuZ3xWHhVhf",
-      "name": "Nöff nöff",
+      "track": {
+        "id": "6VMBTD154jesuZ3xWHhVhf",
+        "name": "Nöff nöff"
+      },
       "duration_ms": 91200,
-      "artist": [
-        "Mattias Alkberg",
-        "Södra Sverige"
+      "artists": [
+        {
+          "name": "Mattias Alkberg",
+          "id": "5p8AjcGi5g19fWNvC2zhqE"
+        },
+        {
+          "name": "Södra Sverige",
+          "id": "1U9HrFTEpTt8ly4FQmCqiT"
+        }
       ],
-      "artistId": [
-        "5p8AjcGi5g19fWNvC2zhqE",
-        "1U9HrFTEpTt8ly4FQmCqiT"
-      ],
-      "albumId": "4ql9ZxIhs52RiMTyd4Gz2V",
+      "album": {
+        "id": "4ql9ZxIhs52RiMTyd4Gz2V",
+        "name": "Södra Sverige",
+        "img": "https://i.scdn.co/image/ab67616d00001e0277256e0333d47b5cdd8105f9"
+      },
       "release_date": "2014-08-20",
       "popularity": 9
     },
     {
-      "trackId": "23ZMCzhyAclr3CslulKe39",
-      "name": "There Is Power in a Union",
+      "track": {
+        "id": "23ZMCzhyAclr3CslulKe39",
+        "name": "There Is Power in a Union"
+      },
       "duration_ms": 168680,
-      "artist": [
-        "Billy Bragg"
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "id": "5yXAFDZNUNyO92l5WTImkO"
+        }
       ],
-      "artistId": [
-        "5yXAFDZNUNyO92l5WTImkO"
-      ],
-      "albumId": "4SHInzXVVo7px70j1FFKS2",
+      "album": {
+        "id": "4SHInzXVVo7px70j1FFKS2",
+        "name": "Talking with the Taxman About Poetry",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7141b0f4f5ba2e4576c56ac"
+      },
       "release_date": "1986",
       "popularity": 38
     },
     {
-      "trackId": "766ETsj0rJZuPm8IhWxskn",
-      "name": "Calling In",
+      "track": {
+        "id": "766ETsj0rJZuPm8IhWxskn",
+        "name": "Calling In"
+      },
       "duration_ms": 309466,
-      "artist": [
-        "The Delines"
+      "artists": [
+        {
+          "name": "The Delines",
+          "id": "0SRMBXTBnSm9Jmy24gqggg"
+        }
       ],
-      "artistId": [
-        "0SRMBXTBnSm9Jmy24gqggg"
-      ],
-      "albumId": "2Bt6CntnbDZQwBayPcaEEQ",
+      "album": {
+        "id": "2Bt6CntnbDZQwBayPcaEEQ",
+        "name": "Colfax",
+        "img": "https://i.scdn.co/image/ab67616d00001e02827e8e22e222a696243470df"
+      },
       "release_date": "2014-04-28",
       "popularity": 25
     },
     {
-      "trackId": "4SFhZOKPoNMUTWTms2gAPf",
-      "name": "Jag Vill Byta Ut Mina Minnen",
+      "track": {
+        "id": "4SFhZOKPoNMUTWTms2gAPf",
+        "name": "Jag Vill Byta Ut Mina Minnen"
+      },
       "duration_ms": 379717,
-      "artist": [
-        "Oskar Schönning"
+      "artists": [
+        {
+          "name": "Oskar Schönning",
+          "id": "7B8n58KGwvuObuoNCpiFhZ"
+        }
       ],
-      "artistId": [
-        "7B8n58KGwvuObuoNCpiFhZ"
-      ],
-      "albumId": "2QIlLjILYnsOEhGqp8yVDQ",
+      "album": {
+        "id": "2QIlLjILYnsOEhGqp8yVDQ",
+        "name": "Belgrade Tapes",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e3b93a9b28b1349624be519"
+      },
       "release_date": "2010-03-01",
       "popularity": 20
     },
     {
-      "trackId": "7D3fLp6rlBOUIt21ntiyrN",
-      "name": "Carrying A Stone",
+      "track": {
+        "id": "7D3fLp6rlBOUIt21ntiyrN",
+        "name": "Carrying A Stone"
+      },
       "duration_ms": 227573,
-      "artist": [
-        "Loney Dear"
+      "artists": [
+        {
+          "name": "Loney Dear",
+          "id": "4Bb8rhvCjLOjNOl1DbFkph"
+        }
       ],
-      "artistId": [
-        "4Bb8rhvCjLOjNOl1DbFkph"
-      ],
-      "albumId": "1tJa3GN7NV5MT79PIVxDyq",
+      "album": {
+        "id": "1tJa3GN7NV5MT79PIVxDyq",
+        "name": "Loney, Noir",
+        "img": "https://i.scdn.co/image/ab67616d00001e029df1c12ed863278e5ef22adb"
+      },
       "release_date": "2007-03-19",
       "popularity": 9
     },
     {
-      "trackId": "20q5QZTaQSGWIVo7bOLKST",
-      "name": "Nothin On Me",
+      "track": {
+        "id": "20q5QZTaQSGWIVo7bOLKST",
+        "name": "Nothin On Me"
+      },
       "duration_ms": 236800,
-      "artist": [
-        "Shawn Colvin"
+      "artists": [
+        {
+          "name": "Shawn Colvin",
+          "id": "0K7VN4aHxHcEb7PqkfoIVA"
+        }
       ],
-      "artistId": [
-        "0K7VN4aHxHcEb7PqkfoIVA"
-      ],
-      "albumId": "0a3A9gP6FjKZAU1DTOXPFs",
+      "album": {
+        "id": "0a3A9gP6FjKZAU1DTOXPFs",
+        "name": "A FEW SMALL REPAIRS",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd951c57be1d459d54f490f3"
+      },
       "release_date": "1996-07-08",
       "popularity": 7
     }

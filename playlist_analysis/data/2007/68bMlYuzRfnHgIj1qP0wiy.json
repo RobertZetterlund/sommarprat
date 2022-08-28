@@ -7,184 +7,262 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3258062_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2nGFzvICaeEWjIrBrL2RAx",
-      "name": "Put Your Records On",
+      "track": {
+        "id": "2nGFzvICaeEWjIrBrL2RAx",
+        "name": "Put Your Records On"
+      },
       "duration_ms": 215360,
-      "artist": [
-        "Corinne Bailey Rae"
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "id": "29WzbAQtDnBJF09es0uddn"
+        }
       ],
-      "artistId": [
-        "29WzbAQtDnBJF09es0uddn"
-      ],
-      "albumId": "141Mp3P2VKHQMhtkW1DyQg",
+      "album": {
+        "id": "141Mp3P2VKHQMhtkW1DyQg",
+        "name": "Corinne Bailey Rae",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ec9b096319afbcc2dca6879"
+      },
       "release_date": "2006-01-01",
       "popularity": 77
     },
     {
-      "trackId": "2EVe9sltTybN3H0c7uTJCt",
-      "name": "För att du finns",
+      "track": {
+        "id": "2EVe9sltTybN3H0c7uTJCt",
+        "name": "För att du finns"
+      },
       "duration_ms": 182706,
-      "artist": [
-        "Sonja Aldén"
+      "artists": [
+        {
+          "name": "Sonja Aldén",
+          "id": "3XyHsKlvXenLURpECPEQOJ"
+        }
       ],
-      "artistId": [
-        "3XyHsKlvXenLURpECPEQOJ"
-      ],
-      "albumId": "7ens1nd6FrbqGdyVGFkmVV",
+      "album": {
+        "id": "7ens1nd6FrbqGdyVGFkmVV",
+        "name": "Till dig",
+        "img": "https://i.scdn.co/image/ab67616d00001e02447115b0009a7d0f6247ff42"
+      },
       "release_date": "2007",
       "popularity": 44
     },
     {
-      "trackId": "4LloVtxNZpeh7q7xdi1DQc",
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "track": {
+        "id": "4LloVtxNZpeh7q7xdi1DQc",
+        "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007"
+      },
       "duration_ms": 263573,
-      "artist": [
-        "John Mayer"
+      "artists": [
+        {
+          "name": "John Mayer",
+          "id": "0hEurMDQu99nJRq8pTxO14"
+        }
       ],
-      "artistId": [
-        "0hEurMDQu99nJRq8pTxO14"
-      ],
-      "albumId": "4Dgxy95K9BWkDUvQPTaYBb",
+      "album": {
+        "id": "4Dgxy95K9BWkDUvQPTaYBb",
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "img": "https://i.scdn.co/image/ab67616d00001e025b9c332f9f76cabc137e400f"
+      },
       "release_date": "2008",
       "popularity": 71
     },
     {
-      "trackId": "2zRdwxJioA8ID32oJAEngl",
-      "name": "It Could Happen To You",
+      "track": {
+        "id": "2zRdwxJioA8ID32oJAEngl",
+        "name": "It Could Happen To You"
+      },
       "duration_ms": 206386,
-      "artist": [
-        "Diana Krall"
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "id": "5z1VAFwT35EVvCp1XlZZuL"
+        }
       ],
-      "artistId": [
-        "5z1VAFwT35EVvCp1XlZZuL"
-      ],
-      "albumId": "27IGIkOxncgWgJzzoboDcM",
+      "album": {
+        "id": "27IGIkOxncgWgJzzoboDcM",
+        "name": "From This Moment On (International eAlbum)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0231d12b6ea5a5adac91ce8083"
+      },
       "release_date": "2006-01-01",
       "popularity": 44
     },
     {
-      "trackId": "73R4mbplAPYi6MfoXppqEH",
-      "name": "Making Memories Of Us",
+      "track": {
+        "id": "73R4mbplAPYi6MfoXppqEH",
+        "name": "Making Memories Of Us"
+      },
       "duration_ms": 235960,
-      "artist": [
-        "Keith Urban"
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "id": "0u2FHSq3ln94y5Q57xazwf"
+        }
       ],
-      "artistId": [
-        "0u2FHSq3ln94y5Q57xazwf"
-      ],
-      "albumId": "4oWY0R5Ks639c8OGa0lHcK",
+      "album": {
+        "id": "4oWY0R5Ks639c8OGa0lHcK",
+        "name": "Keith Urban Days Go By",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5eabe5e7671ab31c19f79c3"
+      },
       "release_date": "2005-01-01",
       "popularity": 40
     },
     {
-      "trackId": "1DGaqkDcIYIBZSpW5vyoOL",
-      "name": "Mr. Bojangles - Single Version",
+      "track": {
+        "id": "1DGaqkDcIYIBZSpW5vyoOL",
+        "name": "Mr. Bojangles - Single Version"
+      },
       "duration_ms": 343120,
-      "artist": [
-        "Sammy Davis Jr."
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "id": "1NAWG3AngjBXyKbmPaz92D"
+        }
       ],
-      "artistId": [
-        "1NAWG3AngjBXyKbmPaz92D"
-      ],
-      "albumId": "7HSdas9Zon0ZnH9JWwCqd1",
+      "album": {
+        "id": "7HSdas9Zon0ZnH9JWwCqd1",
+        "name": "Lounge Legends: Sammy Davis Jr.",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247e77e033170edd01b15210d"
+      },
       "release_date": "2002-01-01",
       "popularity": 43
     },
     {
-      "trackId": "4iIIOSSds0SzoaAiWiereA",
-      "name": "I Remember Love",
+      "track": {
+        "id": "4iIIOSSds0SzoaAiWiereA",
+        "name": "I Remember Love"
+      },
       "duration_ms": 184613,
-      "artist": [
-        "Sarah Dawn Finer"
+      "artists": [
+        {
+          "name": "Sarah Dawn Finer",
+          "id": "4TuGR5xkIry198WmY7hax2"
+        }
       ],
-      "artistId": [
-        "4TuGR5xkIry198WmY7hax2"
-      ],
-      "albumId": "3OBikCz7dRbDogbYmGOPV4",
+      "album": {
+        "id": "3OBikCz7dRbDogbYmGOPV4",
+        "name": "A Finer Dawn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7238f00339c37675941259f"
+      },
       "release_date": "2007-06-20",
       "popularity": 44
     },
     {
-      "trackId": "6RX5iL93VZ5fKmyvNXvF1r",
-      "name": "Irreplaceable",
+      "track": {
+        "id": "6RX5iL93VZ5fKmyvNXvF1r",
+        "name": "Irreplaceable"
+      },
       "duration_ms": 227853,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "0Zd10MKN5j9KwUST0TdBBB",
+      "album": {
+        "id": "0Zd10MKN5j9KwUST0TdBBB",
+        "name": "B'Day Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02026e88f624dfb96f2e1ef10b"
+      },
       "release_date": "2007-05-29",
       "popularity": 70
     },
     {
-      "trackId": "0bwsyQC5yRJB3IUK2cGQ6b",
-      "name": "James Bond Theme (From Dr. No)",
+      "track": {
+        "id": "0bwsyQC5yRJB3IUK2cGQ6b",
+        "name": "James Bond Theme (From Dr. No)"
+      },
       "duration_ms": 110293,
-      "artist": [
-        "John Barry Orchestra"
+      "artists": [
+        {
+          "name": "John Barry Orchestra",
+          "id": "0RY2EG9XPPwZOliIkTOiog"
+        }
       ],
-      "artistId": [
-        "0RY2EG9XPPwZOliIkTOiog"
-      ],
-      "albumId": "4sWX7fwgRFbUY0U8pdVdpd",
+      "album": {
+        "id": "4sWX7fwgRFbUY0U8pdVdpd",
+        "name": "Dr. No (original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d14c53690b4be048fa0dc7e"
+      },
       "release_date": "2012-03-20",
       "popularity": 50
     },
     {
-      "trackId": "3lec3CzDPAxsZokPph5w87",
-      "name": "Jesus, Take the Wheel",
+      "track": {
+        "id": "3lec3CzDPAxsZokPph5w87",
+        "name": "Jesus, Take the Wheel"
+      },
       "duration_ms": 226493,
-      "artist": [
-        "Carrie Underwood"
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "id": "4xFUf1FHVy696Q1JQZMTRj"
+        }
       ],
-      "artistId": [
-        "4xFUf1FHVy696Q1JQZMTRj"
-      ],
-      "albumId": "0kys2jaKAiDPfNBd4z7LAg",
+      "album": {
+        "id": "0kys2jaKAiDPfNBd4z7LAg",
+        "name": "Some Hearts",
+        "img": "https://i.scdn.co/image/ab67616d00001e02724bd326692d222c5906b0b0"
+      },
       "release_date": "2005-11-14",
       "popularity": 63
     },
     {
-      "trackId": "1KeurgOTHLAwY8GCkI8heZ",
-      "name": "Beautiful Surprise",
+      "track": {
+        "id": "1KeurgOTHLAwY8GCkI8heZ",
+        "name": "Beautiful Surprise"
+      },
       "duration_ms": 148680,
-      "artist": [
-        "India.Arie"
+      "artists": [
+        {
+          "name": "India.Arie",
+          "id": "7Gf3LSwa5hh8Cjo60WhVjC"
+        }
       ],
-      "artistId": [
-        "7Gf3LSwa5hh8Cjo60WhVjC"
-      ],
-      "albumId": "6YI4GjI1VQfBRBlndGtMYg",
+      "album": {
+        "id": "6YI4GjI1VQfBRBlndGtMYg",
+        "name": "Wine & Dine",
+        "img": "https://i.scdn.co/image/ab67616d00001e027e03c82cee24d492de59414e"
+      },
       "release_date": "2020-03-13",
       "popularity": 50
     },
     {
-      "trackId": "15f8Cv8RXUlOOCIf2oaceN",
-      "name": "Underneath Your Clothes",
+      "track": {
+        "id": "15f8Cv8RXUlOOCIf2oaceN",
+        "name": "Underneath Your Clothes"
+      },
       "duration_ms": 224066,
-      "artist": [
-        "Shakira"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp"
-      ],
-      "albumId": "4DyMK9x2gnmRkRa16zHaEV",
+      "album": {
+        "id": "4DyMK9x2gnmRkRa16zHaEV",
+        "name": "Laundry Service",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f400a1f4d821b00824cf58f"
+      },
       "release_date": "2001-11-13",
       "popularity": 65
     },
     {
-      "trackId": "0Tt2jli0yAD1MKSTb5MvS2",
-      "name": "Oxygene, Pt. 4",
+      "track": {
+        "id": "0Tt2jli0yAD1MKSTb5MvS2",
+        "name": "Oxygene, Pt. 4"
+      },
       "duration_ms": 246893,
-      "artist": [
-        "Jean-Michel Jarre"
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "id": "5MhLmv7GgyjbxGqiIGasvT"
+        }
       ],
-      "artistId": [
-        "5MhLmv7GgyjbxGqiIGasvT"
-      ],
-      "albumId": "3e7TxckusgnC1AYnAqbl2z",
+      "album": {
+        "id": "3e7TxckusgnC1AYnAqbl2z",
+        "name": "Oxygène",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d51e6d66cda008f80104c821"
+      },
       "release_date": "1976-12-02",
       "popularity": 56
     }

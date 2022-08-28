@@ -7,206 +7,298 @@
   "imageurl": "https://static-cdn.sr.se/images/83/a68f588b-8def-4706-bd39-61a2955ea3fd.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1taGkdO3DQsNRIQrarhVvc",
-      "name": "Puttin' on the Ritz",
+      "track": {
+        "id": "1taGkdO3DQsNRIQrarhVvc",
+        "name": "Puttin' on the Ritz"
+      },
       "duration_ms": 281160,
-      "artist": [
-        "Taco"
+      "artists": [
+        {
+          "name": "Taco",
+          "id": "6Dxf1ZaJBrpbumiqTTnlIH"
+        }
       ],
-      "artistId": [
-        "6Dxf1ZaJBrpbumiqTTnlIH"
-      ],
-      "albumId": "4rgfo8MPhMChBrxtBV8Fsh",
+      "album": {
+        "id": "4rgfo8MPhMChBrxtBV8Fsh",
+        "name": "After Eight",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f13127cb48c63b2fb0c16521"
+      },
       "release_date": "1982-01-01",
       "popularity": 60
     },
     {
-      "trackId": "4KYCKGatRK8FIZ3vFnd0WX",
-      "name": "Symphonic Ouverture in A Minor, Op. 23: Let'z Make It Happen",
+      "track": {
+        "id": "4KYCKGatRK8FIZ3vFnd0WX",
+        "name": "Symphonic Ouverture in A Minor, Op. 23: Let'z Make It Happen"
+      },
       "duration_ms": 306867,
-      "artist": [
-        "Aiva"
+      "artists": [
+        {
+          "name": "Aiva",
+          "id": "785Ystnoa1blYHi5DmBcqp"
+        }
       ],
-      "artistId": [
-        "785Ystnoa1blYHi5DmBcqp"
-      ],
-      "albumId": "6EaoRgegXE3z77A3htBkhC",
+      "album": {
+        "id": "6EaoRgegXE3z77A3htBkhC",
+        "name": "Among the Stars (For Symphonic Orchestra and Four-Hands Piano)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f1daa92ce65586d77aefc075"
+      },
       "release_date": "2018-03-05",
       "popularity": 8
     },
     {
-      "trackId": "3MrRksHupTVEQ7YbA0FsZK",
-      "name": "The Final Countdown",
+      "track": {
+        "id": "3MrRksHupTVEQ7YbA0FsZK",
+        "name": "The Final Countdown"
+      },
       "duration_ms": 310333,
-      "artist": [
-        "Europe"
+      "artists": [
+        {
+          "name": "Europe",
+          "id": "7Js6Lde8thlIHXggv2SCBz"
+        }
       ],
-      "artistId": [
-        "7Js6Lde8thlIHXggv2SCBz"
-      ],
-      "albumId": "5Jkd47JEaCU1g4DcGBnHm3",
+      "album": {
+        "id": "5Jkd47JEaCU1g4DcGBnHm3",
+        "name": "The Final Countdown (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022d925cec3072ed1b74e5188f"
+      },
       "release_date": "1986",
       "popularity": 78
     },
     {
-      "trackId": "18bzuq8A21sRcI4w4gqGD2",
-      "name": "I Ain't Marching Anymore",
+      "track": {
+        "id": "18bzuq8A21sRcI4w4gqGD2",
+        "name": "I Ain't Marching Anymore"
+      },
       "duration_ms": 154893,
-      "artist": [
-        "Phil Ochs"
+      "artists": [
+        {
+          "name": "Phil Ochs",
+          "id": "3JhQGw54MOytJP3GZ8KNPo"
+        }
       ],
-      "artistId": [
-        "3JhQGw54MOytJP3GZ8KNPo"
-      ],
-      "albumId": "28XoBuuNDXciDAdfEgDMg6",
+      "album": {
+        "id": "28XoBuuNDXciDAdfEgDMg6",
+        "name": "I Ain't Marching Anymore",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200aeb09aca2a56423ca14ec1"
+      },
       "release_date": "1965",
       "popularity": 37
     },
     {
-      "trackId": "1hlveB9M6ijHZRbzZ2teyh",
-      "name": "We're Not Gonna Take It",
+      "track": {
+        "id": "1hlveB9M6ijHZRbzZ2teyh",
+        "name": "We're Not Gonna Take It"
+      },
       "duration_ms": 219666,
-      "artist": [
-        "Twisted Sister"
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "id": "7b85ve82Sh36a3UAx74wut"
+        }
       ],
-      "artistId": [
-        "7b85ve82Sh36a3UAx74wut"
-      ],
-      "albumId": "0dzqapIToiOhULGvzDKpXm",
+      "album": {
+        "id": "0dzqapIToiOhULGvzDKpXm",
+        "name": "Stay Hungry",
+        "img": "https://i.scdn.co/image/ab67616d00001e023469ef94acfa666fde83dec5"
+      },
       "release_date": "1984-05-10",
       "popularity": 74
     },
     {
-      "trackId": "6habFhsOp2NvshLv26DqMb",
-      "name": "Despacito",
+      "track": {
+        "id": "6habFhsOp2NvshLv26DqMb",
+        "name": "Despacito"
+      },
       "duration_ms": 229360,
-      "artist": [
-        "Luis Fonsi",
-        "Daddy Yankee"
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "id": "4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "id": "4VMYDCV2IEDYJArk749S6m"
+        }
       ],
-      "artistId": [
-        "4V8Sr092TqfHkfAA5fXXqG",
-        "4VMYDCV2IEDYJArk749S6m"
-      ],
-      "albumId": "5C0YLr4OoRGFDaqdMQmkeH",
+      "album": {
+        "id": "5C0YLr4OoRGFDaqdMQmkeH",
+        "name": "VIDA",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ef0d4234e1a645740f77d59c"
+      },
       "release_date": "2019-02-01",
       "popularity": 80
     },
     {
-      "trackId": "7xqwqLnojKbgINboucZDeS",
-      "name": "Wernher von Braun",
+      "track": {
+        "id": "7xqwqLnojKbgINboucZDeS",
+        "name": "Wernher von Braun"
+      },
       "duration_ms": 86012,
-      "artist": [
-        "Felix Janosa"
+      "artists": [
+        {
+          "name": "Felix Janosa",
+          "id": "2ZGC3DzOSdQxH7xcoROMg4"
+        }
       ],
-      "artistId": [
-        "2ZGC3DzOSdQxH7xcoROMg4"
-      ],
-      "albumId": "56fw0FU3zJSFYRQ9fYvuBm",
+      "album": {
+        "id": "56fw0FU3zJSFYRQ9fYvuBm",
+        "name": "Tauben vergiften - Die bösen Lieder des Tom Lehrer",
+        "img": "https://i.scdn.co/image/ab67616d00001e023e9c69baf5fa90111db7eee3"
+      },
       "release_date": "2010-03-09",
       "popularity": 6
     },
     {
-      "trackId": "1ubifiz3Tr6r0e8WlqGMhu",
-      "name": "Oxygene, Pt. 7",
+      "track": {
+        "id": "1ubifiz3Tr6r0e8WlqGMhu",
+        "name": "Oxygene, Pt. 7"
+      },
       "duration_ms": 701546,
-      "artist": [
-        "Jean-Michel Jarre"
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "id": "5MhLmv7GgyjbxGqiIGasvT"
+        }
       ],
-      "artistId": [
-        "5MhLmv7GgyjbxGqiIGasvT"
-      ],
-      "albumId": "469JDZgyHrDdZT25FeLKgT",
+      "album": {
+        "id": "469JDZgyHrDdZT25FeLKgT",
+        "name": "Oxygene Trilogy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f0ebde6d9dd82a4f12462245"
+      },
       "release_date": "2016-12-02",
       "popularity": 33
     },
     {
-      "trackId": "3bophIN3WTxzLd4yiIZv6X",
-      "name": "The Sun Is Burning",
+      "track": {
+        "id": "3bophIN3WTxzLd4yiIZv6X",
+        "name": "The Sun Is Burning"
+      },
       "duration_ms": 168026,
-      "artist": [
-        "Simon & Garfunkel"
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "id": "70cRZdQywnSFp9pnc2WTCE"
+        }
       ],
-      "artistId": [
-        "70cRZdQywnSFp9pnc2WTCE"
-      ],
-      "albumId": "5pnJrocLlZ3FWEbcr2PTz0",
+      "album": {
+        "id": "5pnJrocLlZ3FWEbcr2PTz0",
+        "name": "Wednesday Morning, 3 A.M.",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b50c381e5f477c3cd066286"
+      },
       "release_date": "1964-10-19",
       "popularity": 43
     },
     {
-      "trackId": "37f4ITSlgPX81ad2EvmVQr",
-      "name": "Fight Song",
+      "track": {
+        "id": "37f4ITSlgPX81ad2EvmVQr",
+        "name": "Fight Song"
+      },
       "duration_ms": 204013,
-      "artist": [
-        "Rachel Platten"
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "id": "3QLIkT4rD2FMusaqmkepbq"
+        }
       ],
-      "artistId": [
-        "3QLIkT4rD2FMusaqmkepbq"
-      ],
-      "albumId": "0mFDIOqypzHp6Xd0el1hoT",
+      "album": {
+        "id": "0mFDIOqypzHp6Xd0el1hoT",
+        "name": "Wildfire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a9e4d7fae5dfcc8f9cc96bc9"
+      },
       "release_date": "2016-01-01",
       "popularity": 77
     },
     {
-      "trackId": "60bF2b61f7Q5Bt82QCBwvc",
-      "name": "Brothers In Arms",
+      "track": {
+        "id": "60bF2b61f7Q5Bt82QCBwvc",
+        "name": "Brothers In Arms"
+      },
       "duration_ms": 419773,
-      "artist": [
-        "Dire Straits"
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "id": "0WwSkZ7LtFUFjGjMZBMt6T"
+        }
       ],
-      "artistId": [
-        "0WwSkZ7LtFUFjGjMZBMt6T"
-      ],
-      "albumId": "0u7sgzvlLmPLvujXxy9EeY",
+      "album": {
+        "id": "0u7sgzvlLmPLvujXxy9EeY",
+        "name": "Brothers In Arms - 20th Anniversary Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e02042dbf8721e37f11843bfeac"
+      },
       "release_date": "1985-05-13",
       "popularity": 68
     },
     {
-      "trackId": "6r9qDqJMdeMTWvHAcQfsHg",
-      "name": "Bowlinghallen",
+      "track": {
+        "id": "6r9qDqJMdeMTWvHAcQfsHg",
+        "name": "Bowlinghallen"
+      },
       "duration_ms": 158644,
-      "artist": [
-        "ODZ"
+      "artists": [
+        {
+          "name": "ODZ",
+          "id": "295SPRt7YTtIPdYoMkkF7K"
+        }
       ],
-      "artistId": [
-        "295SPRt7YTtIPdYoMkkF7K"
-      ],
-      "albumId": "1fCnXqOaucKYCUmf1cKj28",
+      "album": {
+        "id": "1fCnXqOaucKYCUmf1cKj28",
+        "name": "Dom kallar oss odz",
+        "img": "https://i.scdn.co/image/ab67616d00001e025600b275af70af0a8b1a6720"
+      },
       "release_date": "2016-10-02",
       "popularity": 36
     },
     {
-      "trackId": "0V9YfDRxcA8qz2An0o96mz",
-      "name": "O Fortuna from Carmina Burana - Vocal",
+      "track": {
+        "id": "0V9YfDRxcA8qz2An0o96mz",
+        "name": "O Fortuna from Carmina Burana - Vocal"
+      },
       "duration_ms": 158560,
-      "artist": [
-        "Carl Orff",
-        "John Williams",
-        "Boston Pops Orchestra"
+      "artists": [
+        {
+          "name": "Carl Orff",
+          "id": "4LXxsm5BF85PWnQ1dUDAze"
+        },
+        {
+          "name": "John Williams",
+          "id": "3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "id": "7CIcEIOiWaZcEH35cpsdZq"
+        }
       ],
-      "artistId": [
-        "4LXxsm5BF85PWnQ1dUDAze",
-        "3dRfiJ2650SZu6GbydcHNb",
-        "7CIcEIOiWaZcEH35cpsdZq"
-      ],
-      "albumId": "7kR8eRgQti6GtZwvyXaMVB",
+      "album": {
+        "id": "7kR8eRgQti6GtZwvyXaMVB",
+        "name": "Summon the Heroes",
+        "img": "https://i.scdn.co/image/ab67616d00001e0262a057c2463c7e66c45bd479"
+      },
       "release_date": "1996",
       "popularity": 42
     },
     {
-      "trackId": "5TmFTHZp7HjBXjjsFvCY6h",
-      "name": "Destination Calabria - Radio Edit",
+      "track": {
+        "id": "5TmFTHZp7HjBXjjsFvCY6h",
+        "name": "Destination Calabria - Radio Edit"
+      },
       "duration_ms": 223111,
-      "artist": [
-        "Alex Gaudino",
-        "Crystal Waters"
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "id": "7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "id": "2sd9Q3r0Jhqpe3w9WVuG43"
+        }
       ],
-      "artistId": [
-        "7vb7VLDqpLTlAy1ctTMR5d",
-        "2sd9Q3r0Jhqpe3w9WVuG43"
-      ],
-      "albumId": "4sRexfGVnXMBJ1k5RW5WT8",
+      "album": {
+        "id": "4sRexfGVnXMBJ1k5RW5WT8",
+        "name": "Destination Calabria",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ddec2a9c771fcd96ca3fe1d"
+      },
       "release_date": "2007-02-19",
       "popularity": 75
     }

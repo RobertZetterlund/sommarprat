@@ -7,184 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242297_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2OxkfL5jW8bvYTCNDLlRSY",
-      "name": "She - Tous les visages de l’amour",
+      "track": {
+        "id": "2OxkfL5jW8bvYTCNDLlRSY",
+        "name": "She - Tous les visages de l’amour"
+      },
       "duration_ms": 153066,
-      "artist": [
-        "Charles Aznavour",
-        "Richard Galliano",
-        "Eddie Louiss"
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "id": "2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Richard Galliano",
+          "id": "6yXri0y0q95UDiAyLzTM1y"
+        },
+        {
+          "name": "Eddie Louiss",
+          "id": "0Z7cUaHzuRp2moYQtVDBFp"
+        }
       ],
-      "artistId": [
-        "2hgP9Ap2tc10R5jrQaEpMT",
-        "6yXri0y0q95UDiAyLzTM1y",
-        "0Z7cUaHzuRp2moYQtVDBFp"
-      ],
-      "albumId": "6u7CZtz83tmwcgEBIIr3GG",
+      "album": {
+        "id": "6u7CZtz83tmwcgEBIIr3GG",
+        "name": "Greatest Golden Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed0521cb384ca5ae93a9544b"
+      },
       "release_date": "1996",
       "popularity": 59
     },
     {
-      "trackId": "7KWoeBqSdZHEloYKVxssfG",
-      "name": "In the Ghetto",
+      "track": {
+        "id": "7KWoeBqSdZHEloYKVxssfG",
+        "name": "In the Ghetto"
+      },
       "duration_ms": 167413,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "3ekkFrfotMsEAKc5g71GHk",
+      "album": {
+        "id": "3ekkFrfotMsEAKc5g71GHk",
+        "name": "From Elvis in Memphis (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fdc0aa7765f3197ac9179ec7"
+      },
       "release_date": "1969-06-17",
       "popularity": 69
     },
     {
-      "trackId": "7E9rcVjE66zO7p4IwyhjBC",
-      "name": "Under ytan",
+      "track": {
+        "id": "7E9rcVjE66zO7p4IwyhjBC",
+        "name": "Under ytan"
+      },
       "duration_ms": 202706,
-      "artist": [
-        "Uno Svenningsson"
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "id": "65OPXmm2nfPvaX1fjHo8kR"
+        }
       ],
-      "artistId": [
-        "65OPXmm2nfPvaX1fjHo8kR"
-      ],
-      "albumId": "7uBv5UUDd1VQ0oklzZ90Ne",
+      "album": {
+        "id": "7uBv5UUDd1VQ0oklzZ90Ne",
+        "name": "Uno",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb4163f280f9b91c7b700827"
+      },
       "release_date": "1994-08-27",
       "popularity": 45
     },
     {
-      "trackId": "1n548Txtnva8ZUXfBe7j8d",
-      "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966",
+      "track": {
+        "id": "1n548Txtnva8ZUXfBe7j8d",
+        "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966"
+      },
       "duration_ms": 312133,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "6Wzf9BalBqQAenrUb9xzUH",
+      "album": {
+        "id": "6Wzf9BalBqQAenrUb9xzUH",
+        "name": "Get On Up - The James Brown Story",
+        "img": "https://i.scdn.co/image/ab67616d00001e022983f36e702c45bf2f98ef77"
+      },
       "release_date": "2014-07-29",
       "popularity": 30
     },
     {
-      "trackId": "74R148YlWFrVqVTM1gjq6A",
-      "name": "Die Zauberflöte / Act 2: \"Der Hölle Rache kocht in meinem Herze\"",
+      "track": {
+        "id": "74R148YlWFrVqVTM1gjq6A",
+        "name": "Die Zauberflöte / Act 2: \"Der Hölle Rache kocht in meinem Herze\""
+      },
       "duration_ms": 249240,
-      "artist": [
-        "Wolfgang Amadeus Mozart",
-        "Sumi Jo",
-        "Ruth Ziesak"
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "id": "4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sumi Jo",
+          "id": "2QJJHCdkMmlbff1beZnAz6"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "id": "4EVzwPLCAaxmpFNbHlJ7W5"
+        }
       ],
-      "artistId": [
-        "4NJhFmfw43RLBLjQvxDuRS",
-        "2QJJHCdkMmlbff1beZnAz6",
-        "4EVzwPLCAaxmpFNbHlJ7W5"
-      ],
-      "albumId": "0e8ebBTgGPU7a1KSUPm1fA",
+      "album": {
+        "id": "0e8ebBTgGPU7a1KSUPm1fA",
+        "name": "Mozart: Die Zauberflöte",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbe5e62225a2e47449cad813"
+      },
       "release_date": "1991-01-01",
       "popularity": 43
     },
     {
-      "trackId": "2cmB6s4tBUfb1oLDCHhQca",
-      "name": "Vargen äter Dunder-honung",
+      "track": {
+        "id": "2cmB6s4tBUfb1oLDCHhQca",
+        "name": "Vargen äter Dunder-honung"
+      },
       "duration_ms": 323960,
-      "artist": [
-        "Bamse"
+      "artists": [
+        {
+          "name": "Bamse",
+          "id": "1V95p8oWGxXlpcFRYqXV3w"
+        }
       ],
-      "artistId": [
-        "1V95p8oWGxXlpcFRYqXV3w"
-      ],
-      "albumId": "7J4mWRMb0BY6LVUGKLhtzg",
+      "album": {
+        "id": "7J4mWRMb0BY6LVUGKLhtzg",
+        "name": "Bamse - världens starkaste björn",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f6b59de74d09650ca48fee"
+      },
       "release_date": "1973-01-01",
       "popularity": 41
     },
     {
-      "trackId": "5nt7pWm8fXlk9XEOuB4NGZ",
-      "name": "Anaïs Nin",
+      "track": {
+        "id": "5nt7pWm8fXlk9XEOuB4NGZ",
+        "name": "Anaïs Nin"
+      },
       "duration_ms": 228866,
-      "artist": [
-        "Romane Serda",
-        "Renaud"
+      "artists": [
+        {
+          "name": "Romane Serda",
+          "id": "1wjpsvUMWBH4hehcvqsOJ1"
+        },
+        {
+          "name": "Renaud",
+          "id": "15uNxh8omvRvH71kcdIe2r"
+        }
       ],
-      "artistId": [
-        "1wjpsvUMWBH4hehcvqsOJ1",
-        "15uNxh8omvRvH71kcdIe2r"
-      ],
-      "albumId": "401nh6ofd9jSLJzDv4b6Y3",
+      "album": {
+        "id": "401nh6ofd9jSLJzDv4b6Y3",
+        "name": "romane serda",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ab11d9e73f18d3aaea1eec8"
+      },
       "release_date": "2004-11-05",
       "popularity": 18
     },
     {
-      "trackId": "2F94KDtJjCdzZYCQWBliRC",
-      "name": "Vesoul",
+      "track": {
+        "id": "2F94KDtJjCdzZYCQWBliRC",
+        "name": "Vesoul"
+      },
       "duration_ms": 186533,
-      "artist": [
-        "Jacques Brel"
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "id": "4RN2vlFWepLa46qQIU2PHs"
+        }
       ],
-      "artistId": [
-        "4RN2vlFWepLa46qQIU2PHs"
-      ],
-      "albumId": "75JBZy6ctvayGftnldYMzZ",
+      "album": {
+        "id": "75JBZy6ctvayGftnldYMzZ",
+        "name": "J'Arrive (Vol.12)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb6e78221cebec28f66b211f"
+      },
       "release_date": "1968",
       "popularity": 53
     },
     {
-      "trackId": "5oXGC1aZbZqereEBIsrpqG",
-      "name": "gör mig lite levande",
+      "track": {
+        "id": "5oXGC1aZbZqereEBIsrpqG",
+        "name": "gör mig lite levande"
+      },
       "duration_ms": 241373,
-      "artist": [
-        "Lill Lindfors",
-        "Jacques Werup"
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "id": "7CAcmPN2c4Tw70JQScmdwC"
+        },
+        {
+          "name": "Jacques Werup",
+          "id": "4g5bbjgPpZg38oSONFZ8Sr"
+        }
       ],
-      "artistId": [
-        "7CAcmPN2c4Tw70JQScmdwC",
-        "4g5bbjgPpZg38oSONFZ8Sr"
-      ],
-      "albumId": "3Pmt5sox8nYwoKKjbkGhEJ",
+      "album": {
+        "id": "3Pmt5sox8nYwoKKjbkGhEJ",
+        "name": "Gör Mig Lite Levande",
+        "img": "https://i.scdn.co/image/ab67616d00001e026161807a31af3a1f39d846de"
+      },
       "release_date": "2004-01-01",
       "popularity": 8
     },
     {
-      "trackId": "7l1Q776zM3CHzX4H3CoqSW",
-      "name": "English Suite No. 6 In D Minor, BWV 811: 3. Courante",
+      "track": {
+        "id": "7l1Q776zM3CHzX4H3CoqSW",
+        "name": "English Suite No. 6 In D Minor, BWV 811: 3. Courante"
+      },
       "duration_ms": 135000,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Angela Hewitt"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Angela Hewitt",
+          "id": "3KtQFp8FUbQMx3bLNKCw3R"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "3KtQFp8FUbQMx3bLNKCw3R"
-      ],
-      "albumId": "7zHHaBQn92ZFIldOyJjFK1",
+      "album": {
+        "id": "7zHHaBQn92ZFIldOyJjFK1",
+        "name": "Classical Showtime: Bach",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ab9fb22b52897207cbe9ecb3"
+      },
       "release_date": "2022-06-20",
       "popularity": 0
     },
     {
-      "trackId": "4wmdo3Ib8VgdTDLsuAZCkY",
-      "name": "Ska nya röster sjunga",
+      "track": {
+        "id": "4wmdo3Ib8VgdTDLsuAZCkY",
+        "name": "Ska nya röster sjunga"
+      },
       "duration_ms": 257866,
-      "artist": [
-        "Monica Zetterlund"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD"
-      ],
-      "albumId": "1SGwC2j8q4IueKcfUCMFmV",
+      "album": {
+        "id": "1SGwC2j8q4IueKcfUCMFmV",
+        "name": "Varsamt",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c58110080316f6c3262a88cd"
+      },
       "release_date": "1991-09-30",
       "popularity": 28
     },
     {
-      "trackId": "3oEkrIfXfSh9zGnE7eBzSV",
-      "name": "The Winner Takes It All",
+      "track": {
+        "id": "3oEkrIfXfSh9zGnE7eBzSV",
+        "name": "The Winner Takes It All"
+      },
       "duration_ms": 294720,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 73
     }

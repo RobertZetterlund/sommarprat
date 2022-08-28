@@ -7,220 +7,318 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/905dc033-2949-47fb-b33a-37abbcf1e6ee.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "28P5HAF0Kll9Xd9dX4qw7A",
-      "name": "Eye of the Tiger",
+      "track": {
+        "id": "28P5HAF0Kll9Xd9dX4qw7A",
+        "name": "Eye of the Tiger"
+      },
       "duration_ms": 243773,
-      "artist": [
-        "Survivor"
+      "artists": [
+        {
+          "name": "Survivor",
+          "id": "26bcq2nyj5GB7uRr558iQg"
+        }
       ],
-      "artistId": [
-        "26bcq2nyj5GB7uRr558iQg"
-      ],
-      "albumId": "1v8q5oFweXG7AH9kjCoMyX",
+      "album": {
+        "id": "1v8q5oFweXG7AH9kjCoMyX",
+        "name": "Eye Of The Tiger",
+        "img": "https://i.scdn.co/image/ab67616d00001e0228c091d788ec5126817dc07a"
+      },
       "release_date": "1982",
       "popularity": 59
     },
     {
-      "trackId": "37BTh5g05cxBIRYMbw8g2T",
-      "name": "Rosanna",
+      "track": {
+        "id": "37BTh5g05cxBIRYMbw8g2T",
+        "name": "Rosanna"
+      },
       "duration_ms": 331200,
-      "artist": [
-        "TOTO"
+      "artists": [
+        {
+          "name": "TOTO",
+          "id": "0PFtn5NtBbbUNbU9EAmIWF"
+        }
       ],
-      "artistId": [
-        "0PFtn5NtBbbUNbU9EAmIWF"
-      ],
-      "albumId": "62U7xIHcID94o20Of5ea4D",
+      "album": {
+        "id": "62U7xIHcID94o20Of5ea4D",
+        "name": "Toto IV",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b"
+      },
       "release_date": "1982-04-08",
       "popularity": 72
     },
     {
-      "trackId": "1QOALYg3rc0C6jwr5zLU3d",
-      "name": "Pagliacci: Recitar!... Vesti la guibba",
+      "track": {
+        "id": "1QOALYg3rc0C6jwr5zLU3d",
+        "name": "Pagliacci: Recitar!... Vesti la guibba"
+      },
       "duration_ms": 166200,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "5kQxC90rZ5uCHF6nRDjHPW",
+      "album": {
+        "id": "5kQxC90rZ5uCHF6nRDjHPW",
+        "name": "100 år med Jussi Björling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff8f7a377a871a77bc1a0afc"
+      },
       "release_date": "2011-01-25",
       "popularity": 4
     },
     {
-      "trackId": "0JJHdObFYUq2coYiWCJI95",
-      "name": "Pagliacci, Act I: \"Recitar! Vesti la giubba\" - Remastered",
+      "track": {
+        "id": "0JJHdObFYUq2coYiWCJI95",
+        "name": "Pagliacci, Act I: \"Recitar! Vesti la giubba\" - Remastered"
+      },
       "duration_ms": 236533,
-      "artist": [
-        "Ruggero Leoncavallo",
-        "Jussi Björling",
-        "Renato Cellini"
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "id": "72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        },
+        {
+          "name": "Renato Cellini",
+          "id": "0XvsuRN6GcGGsptalckTGj"
+        }
       ],
-      "artistId": [
-        "72auy9NefUbGecYVrTiPzq",
-        "4FNjPnaiiXYeG2qOhVtd8A",
-        "0XvsuRN6GcGGsptalckTGj"
-      ],
-      "albumId": "7bQo7AX8yqssZe2dg8LduG",
+      "album": {
+        "id": "7bQo7AX8yqssZe2dg8LduG",
+        "name": "Great Tenor Arias (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cb9271e109de4a1642cd96e9"
+      },
       "release_date": "1951",
       "popularity": 0
     },
     {
-      "trackId": "7N3PAbqfTjSEU1edb2tY8j",
-      "name": "Jump - 2015 Remaster",
+      "track": {
+        "id": "7N3PAbqfTjSEU1edb2tY8j",
+        "name": "Jump - 2015 Remaster"
+      },
       "duration_ms": 241599,
-      "artist": [
-        "Van Halen"
+      "artists": [
+        {
+          "name": "Van Halen",
+          "id": "2cnMpRsOVqtPMfq7YiFE6K"
+        }
       ],
-      "artistId": [
-        "2cnMpRsOVqtPMfq7YiFE6K"
-      ],
-      "albumId": "3REUXdj5OPKhuDTrTtCBU0",
+      "album": {
+        "id": "3REUXdj5OPKhuDTrTtCBU0",
+        "name": "1984 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b414c63fb435b622238c15ed"
+      },
       "release_date": "1984-01-04",
       "popularity": 78
     },
     {
-      "trackId": "0oKOAL9nhFMieApXNLYkZ8",
-      "name": "Vem vet?",
+      "track": {
+        "id": "0oKOAL9nhFMieApXNLYkZ8",
+        "name": "Vem vet?"
+      },
       "duration_ms": 183413,
-      "artist": [
-        "Lisa Ekdahl"
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "id": "4SJSGUVZ04tezaGrxc96EE"
+        }
       ],
-      "artistId": [
-        "4SJSGUVZ04tezaGrxc96EE"
-      ],
-      "albumId": "7zt7vhLaqKhVuR08UZSwNP",
+      "album": {
+        "id": "7zt7vhLaqKhVuR08UZSwNP",
+        "name": "Lisa Ekdahl",
+        "img": "https://i.scdn.co/image/ab67616d00001e022eb0fb75c3006bfb6a641a1c"
+      },
       "release_date": "1994-02-21",
       "popularity": 48
     },
     {
-      "trackId": "1ofhfV90EnYhEr7Un2fWiv",
-      "name": "Changes",
+      "track": {
+        "id": "1ofhfV90EnYhEr7Un2fWiv",
+        "name": "Changes"
+      },
       "duration_ms": 268826,
-      "artist": [
-        "2Pac",
-        "Talent"
+      "artists": [
+        {
+          "name": "2Pac",
+          "id": "1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "id": "33JfM2NgTRFT9wMoQvcv6T"
+        }
       ],
-      "artistId": [
-        "1ZwdS5xdxEREPySFridCfh",
-        "33JfM2NgTRFT9wMoQvcv6T"
-      ],
-      "albumId": "1WBZyULtlANBKed7Zf9cDP",
+      "album": {
+        "id": "1WBZyULtlANBKed7Zf9cDP",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d81a092eb373ded457d94eec"
+      },
       "release_date": "1998-01-01",
       "popularity": 72
     },
     {
-      "trackId": "6kIdjk3D8XxA2UafE0THGK",
-      "name": "Too Late For Love",
+      "track": {
+        "id": "6kIdjk3D8XxA2UafE0THGK",
+        "name": "Too Late For Love"
+      },
       "duration_ms": 178133,
-      "artist": [
-        "John Lundvik"
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "id": "11LbPHLi2sCqOVjknt0jmW"
+        }
       ],
-      "artistId": [
-        "11LbPHLi2sCqOVjknt0jmW"
-      ],
-      "albumId": "3LSICBxX2cFThvsEDihibS",
+      "album": {
+        "id": "3LSICBxX2cFThvsEDihibS",
+        "name": "My Turn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae02a752f5062a5202af29f4"
+      },
       "release_date": "2019-05-10",
       "popularity": 50
     },
     {
-      "trackId": "3cfnGXJ9bmiWvFqEO6ff8B",
-      "name": "After the Love Has Gone",
+      "track": {
+        "id": "3cfnGXJ9bmiWvFqEO6ff8B",
+        "name": "After the Love Has Gone"
+      },
       "duration_ms": 278040,
-      "artist": [
-        "Earth, Wind & Fire"
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "id": "4QQgXkCYTt3BlENzhyNETg"
+        }
       ],
-      "artistId": [
-        "4QQgXkCYTt3BlENzhyNETg"
-      ],
-      "albumId": "4RLVTxnuVN5ZWZqBFnaaQt",
+      "album": {
+        "id": "4RLVTxnuVN5ZWZqBFnaaQt",
+        "name": "I Am",
+        "img": "https://i.scdn.co/image/ab67616d00001e025ccd022a69a4da9551efd988"
+      },
       "release_date": "1979-06",
       "popularity": 67
     },
     {
-      "trackId": "6kIdjk3D8XxA2UafE0THGK",
-      "name": "Too Late For Love",
+      "track": {
+        "id": "6kIdjk3D8XxA2UafE0THGK",
+        "name": "Too Late For Love"
+      },
       "duration_ms": 178133,
-      "artist": [
-        "John Lundvik"
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "id": "11LbPHLi2sCqOVjknt0jmW"
+        }
       ],
-      "artistId": [
-        "11LbPHLi2sCqOVjknt0jmW"
-      ],
-      "albumId": "3LSICBxX2cFThvsEDihibS",
+      "album": {
+        "id": "3LSICBxX2cFThvsEDihibS",
+        "name": "My Turn",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ae02a752f5062a5202af29f4"
+      },
       "release_date": "2019-05-10",
       "popularity": 50
     },
     {
-      "trackId": "5n6RDaGFSN88oRWuGtYAIN",
-      "name": "The Show Must Go On - Remastered 2011",
+      "track": {
+        "id": "5n6RDaGFSN88oRWuGtYAIN",
+        "name": "The Show Must Go On - Remastered 2011"
+      },
       "duration_ms": 277826,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "5kffKW0sSLo6tkLg1veUGC",
+      "album": {
+        "id": "5kffKW0sSLo6tkLg1veUGC",
+        "name": "Innuendo (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02024b36346101df444742cde2"
+      },
       "release_date": "1991-02-05",
       "popularity": 67
     },
     {
-      "trackId": "4UOyU7W9EiEyQrXdvhNmP2",
-      "name": "Gråt inga tårar",
+      "track": {
+        "id": "4UOyU7W9EiEyQrXdvhNmP2",
+        "name": "Gråt inga tårar"
+      },
       "duration_ms": 201360,
-      "artist": [
-        "Thorleifs"
+      "artists": [
+        {
+          "name": "Thorleifs",
+          "id": "5nFrP7P3n5fP5PVFTP4hoz"
+        }
       ],
-      "artistId": [
-        "5nFrP7P3n5fP5PVFTP4hoz"
-      ],
-      "albumId": "36Fccp5Kcv7e3MBwf7Wyb3",
+      "album": {
+        "id": "36Fccp5Kcv7e3MBwf7Wyb3",
+        "name": "Spar Dina Tårar",
+        "img": "https://i.scdn.co/image/ab67616d00001e0248b5e89b67d29dd24fb920a7"
+      },
       "release_date": "2010-01-08",
       "popularity": 37
     },
     {
-      "trackId": "7s25THrKz86DM225dOYwnr",
-      "name": "Respect",
+      "track": {
+        "id": "7s25THrKz86DM225dOYwnr",
+        "name": "Respect"
+      },
       "duration_ms": 147600,
-      "artist": [
-        "Aretha Franklin"
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": "7nwUJBm0HE4ZxD3f5cy5ok"
+        }
       ],
-      "artistId": [
-        "7nwUJBm0HE4ZxD3f5cy5ok"
-      ],
-      "albumId": "5WndWfzGwCkHzAbQXVkg2V",
+      "album": {
+        "id": "5WndWfzGwCkHzAbQXVkg2V",
+        "name": "I Never Loved a Man the Way I Love You",
+        "img": "https://i.scdn.co/image/ab67616d00001e026aa9314b7ddfbd8f036ba3ac"
+      },
       "release_date": "1967-03-10",
       "popularity": 73
     },
     {
-      "trackId": "6RNDeRnWsRMjPdNVgupZCs",
-      "name": "I Just Called To Say I Love You",
+      "track": {
+        "id": "6RNDeRnWsRMjPdNVgupZCs",
+        "name": "I Just Called To Say I Love You"
+      },
       "duration_ms": 262240,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "04giHQ9zptJUHUvtIyxL9Z",
+      "album": {
+        "id": "04giHQ9zptJUHUvtIyxL9Z",
+        "name": "At The Close Of A Century",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f97219e49a23bfdd4de7eed1"
+      },
       "release_date": "1999-11-23",
       "popularity": 74
     },
     {
-      "trackId": "11ueUwj9vh0Gp7ecJ3dtOX",
-      "name": "När ingen visste",
+      "track": {
+        "id": "11ueUwj9vh0Gp7ecJ3dtOX",
+        "name": "När ingen visste"
+      },
       "duration_ms": 250305,
-      "artist": [
-        "Martin Hederos",
-        "Nina Ramsby"
+      "artists": [
+        {
+          "name": "Martin Hederos",
+          "id": "0KrueSPl32yXv6KbERkUBL"
+        },
+        {
+          "name": "Nina Ramsby",
+          "id": "6ydrBmge20NnUZiq2Ep4jP"
+        }
       ],
-      "artistId": [
-        "0KrueSPl32yXv6KbERkUBL",
-        "6ydrBmge20NnUZiq2Ep4jP"
-      ],
-      "albumId": "7Miw544mP86G1gFz9fSzQS",
+      "album": {
+        "id": "7Miw544mP86G1gFz9fSzQS",
+        "name": "Jazzen",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e3bf3633d0e76960003906b"
+      },
       "release_date": "2006-10-11",
       "popularity": 6
     }

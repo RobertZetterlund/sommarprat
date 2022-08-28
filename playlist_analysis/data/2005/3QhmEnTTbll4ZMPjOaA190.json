@@ -7,44 +7,62 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3230315_2048_1146.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3CEEt3Yy9BoxkkNHorYVpV",
-      "name": "Zobi la mouche",
+      "track": {
+        "id": "3CEEt3Yy9BoxkkNHorYVpV",
+        "name": "Zobi la mouche"
+      },
       "duration_ms": 205733,
-      "artist": [
-        "Les Négresses Vertes"
+      "artists": [
+        {
+          "name": "Les Négresses Vertes",
+          "id": "0baGqHSXVphCsotxWDv7NX"
+        }
       ],
-      "artistId": [
-        "0baGqHSXVphCsotxWDv7NX"
-      ],
-      "albumId": "4phKu4QfMgniJyW1dlmuUV",
+      "album": {
+        "id": "4phKu4QfMgniJyW1dlmuUV",
+        "name": "Mlah",
+        "img": "https://i.scdn.co/image/ab67616d00001e0213037484df7df492be1b2cdc"
+      },
       "release_date": "1988",
       "popularity": 39
     },
     {
-      "trackId": "1GcUWPhNqmv70cF4aPRWL1",
-      "name": "Je M'en Fous Pas Mal (Remastered 2022)",
+      "track": {
+        "id": "1GcUWPhNqmv70cF4aPRWL1",
+        "name": "Je M'en Fous Pas Mal (Remastered 2022)"
+      },
       "duration_ms": 261144,
-      "artist": [
-        "Édith Piaf"
+      "artists": [
+        {
+          "name": "Édith Piaf",
+          "id": "1WPcVNert9hn7mHsPKDn7j"
+        }
       ],
-      "artistId": [
-        "1WPcVNert9hn7mHsPKDn7j"
-      ],
-      "albumId": "3JyFOk4mzs6c3TXA8weSJ7",
+      "album": {
+        "id": "3JyFOk4mzs6c3TXA8weSJ7",
+        "name": "Essential Classics, Vol. 25: Édith Piaf (Remastered 2022)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025cf21a5d6d5cd36711f085e9"
+      },
       "release_date": "2022-07-22",
       "popularity": 24
     },
     {
-      "trackId": "31uidLEHAcF8Cw1cX1VCS8",
-      "name": "Autobahn - 2009 Remaster",
+      "track": {
+        "id": "31uidLEHAcF8Cw1cX1VCS8",
+        "name": "Autobahn - 2009 Remaster"
+      },
       "duration_ms": 1367093,
-      "artist": [
-        "Kraftwerk"
+      "artists": [
+        {
+          "name": "Kraftwerk",
+          "id": "0dmPX6ovclgOy8WWJaFEUU"
+        }
       ],
-      "artistId": [
-        "0dmPX6ovclgOy8WWJaFEUU"
-      ],
-      "albumId": "0DzC0tyowMi2O9QfkDRvfJ",
+      "album": {
+        "id": "0DzC0tyowMi2O9QfkDRvfJ",
+        "name": "Autobahn (2009 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb48c90e8567494e9cb38133"
+      },
       "release_date": "1974",
       "popularity": 43
     }

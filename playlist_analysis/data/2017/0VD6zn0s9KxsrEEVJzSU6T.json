@@ -7,166 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/b08edf48-836b-49ae-a130-0adec100b444.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "69wtmAd9vZYkoemHJXRZtv",
-      "name": "Go Tell It On the Mountain",
+      "track": {
+        "id": "69wtmAd9vZYkoemHJXRZtv",
+        "name": "Go Tell It On the Mountain"
+      },
       "duration_ms": 165000,
-      "artist": [
-        "Mahalia Jackson"
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "id": "6QBUIuGCAJSAtefEY1EEdB"
+        }
       ],
-      "artistId": [
-        "6QBUIuGCAJSAtefEY1EEdB"
-      ],
-      "albumId": "5xInXUBHp3zpSTpwUsgvmp",
+      "album": {
+        "id": "5xInXUBHp3zpSTpwUsgvmp",
+        "name": "Silent Night: Songs For Christmas",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cc993136a19d0ad0ed5b7ced"
+      },
       "release_date": "1962",
       "popularity": 14
     },
     {
-      "trackId": "7L1eT3XQ0OlensLhCpyOVV",
-      "name": "Inbjudan till Bohuslän",
+      "track": {
+        "id": "7L1eT3XQ0OlensLhCpyOVV",
+        "name": "Inbjudan till Bohuslän"
+      },
       "duration_ms": 326933,
-      "artist": [
-        "Sven-Bertil Taube"
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "id": "7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
       ],
-      "artistId": [
-        "7Gl6zw4YYJQ1CAgs7oEBPY"
-      ],
-      "albumId": "5T85NS6pAaXZ8eM21izrXe",
+      "album": {
+        "id": "5T85NS6pAaXZ8eM21izrXe",
+        "name": "Taube Sjunger Taube",
+        "img": "https://i.scdn.co/image/ab67616d00001e021198d2f05715ff2e2584b61b"
+      },
       "release_date": "1989",
       "popularity": 28
     },
     {
-      "trackId": "1tiDXaCcSq83xCrJslzXGI",
-      "name": "Concerto for 2 Violins in D Minor, BWV 1043: III. Allegro",
+      "track": {
+        "id": "1tiDXaCcSq83xCrJslzXGI",
+        "name": "Concerto for 2 Violins in D Minor, BWV 1043: III. Allegro"
+      },
       "duration_ms": 281086,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Jennifer Koh",
-        "Jaime Laredo"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jennifer Koh",
+          "id": "5oz3ukvCydQ9fAfvAHwe3z"
+        },
+        {
+          "name": "Jaime Laredo",
+          "id": "3f6FlxZfcsNeOZCXgbp1yW"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "5oz3ukvCydQ9fAfvAHwe3z",
-        "3f6FlxZfcsNeOZCXgbp1yW"
-      ],
-      "albumId": "1nZDgzgAZp7RTb9Xf1Rx01",
+      "album": {
+        "id": "1nZDgzgAZp7RTb9Xf1Rx01",
+        "name": "Two x Four",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ece4b9af1fe940eb066631a8"
+      },
       "release_date": "2014-04-01",
       "popularity": 0
     },
     {
-      "trackId": "6nEkxYIEnrbYH7h1hJ8Xn6",
-      "name": "She Loves You - Mono / Remastered",
+      "track": {
+        "id": "6nEkxYIEnrbYH7h1hJ8Xn6",
+        "name": "She Loves You - Mono / Remastered"
+      },
       "duration_ms": 140920,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+      "album": {
+        "id": "7vEJAtP3KgKSpOHVgwm3Eh",
+        "name": "1 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02582d56ce20fe0146ffa0e5cf"
+      },
       "release_date": "2000-11-13",
       "popularity": 64
     },
     {
-      "trackId": "0Fnb2pfBfu0ka33d6Yki17",
-      "name": "All Along the Watchtower",
+      "track": {
+        "id": "0Fnb2pfBfu0ka33d6Yki17",
+        "name": "All Along the Watchtower"
+      },
       "duration_ms": 151093,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "2KzCDxKpgLqBffHu1IZ7Kn",
+      "album": {
+        "id": "2KzCDxKpgLqBffHu1IZ7Kn",
+        "name": "John Wesley Harding",
+        "img": "https://i.scdn.co/image/ab67616d00001e0281efb7dfa40bbfa10a199e38"
+      },
       "release_date": "1967-12-27",
       "popularity": 54
     },
     {
-      "trackId": "3xVzts1KgGS8iGvbe0OhFn",
-      "name": "Land Efter Land - Live",
+      "track": {
+        "id": "3xVzts1KgGS8iGvbe0OhFn",
+        "name": "Land Efter Land - Live"
+      },
       "duration_ms": 224733,
-      "artist": [
-        "Livets Ord Worship"
+      "artists": [
+        {
+          "name": "Livets Ord Worship",
+          "id": "2Cca9cvhaMmE2RtInwPyMB"
+        }
       ],
-      "artistId": [
-        "2Cca9cvhaMmE2RtInwPyMB"
-      ],
-      "albumId": "10Af2LBdN7cpvowc8RZrbi",
+      "album": {
+        "id": "10Af2LBdN7cpvowc8RZrbi",
+        "name": "Land efter land (Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c94ea9eae7134b04284d8998"
+      },
       "release_date": "1994-07-19",
       "popularity": 4
     },
     {
-      "trackId": "06xX9E1BTTwyOwyaBuszSK",
-      "name": "Fångad av en stormvind - Swedish Version",
+      "track": {
+        "id": "06xX9E1BTTwyOwyaBuszSK",
+        "name": "Fångad av en stormvind - Swedish Version"
+      },
       "duration_ms": 180760,
-      "artist": [
-        "Carola"
+      "artists": [
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        }
       ],
-      "artistId": [
-        "3uFum0NCM1PtmCO0MwsOAt"
-      ],
-      "albumId": "4cotyYQgYleaHbqQEgU9Hv",
+      "album": {
+        "id": "4cotyYQgYleaHbqQEgU9Hv",
+        "name": "Främling 25 år",
+        "img": "https://i.scdn.co/image/ab67616d00001e0202e7b8d0e871a838221132a2"
+      },
       "release_date": "1983-03-26",
       "popularity": 53
     },
     {
-      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-      "name": "Visa fran Utanmyra",
+      "track": {
+        "id": "20FNvyY9tMTlgmpcQrkY5x",
+        "name": "Visa fran Utanmyra"
+      },
       "duration_ms": 293026,
-      "artist": [
-        "Georg Riedel",
-        "Jan Johansson"
+      "artists": [
+        {
+          "name": "Georg Riedel",
+          "id": "3Z1yaFUknAq52KBVmrYpqy"
+        },
+        {
+          "name": "Jan Johansson",
+          "id": "6DEfX2tZzx9iANmaErvLGf"
+        }
       ],
-      "artistId": [
-        "3Z1yaFUknAq52KBVmrYpqy",
-        "6DEfX2tZzx9iANmaErvLGf"
-      ],
-      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "album": {
+        "id": "47LlnxrvG1BG6Pyn8BN41q",
+        "name": "Svensk jazzhistoria vol. 9 (1960-1964) - Brand New!",
+        "img": "https://i.scdn.co/image/ab67616d00001e0203c76c8961802c750e8c1a09"
+      },
       "release_date": "2003-01-01",
       "popularity": 1
     },
     {
-      "trackId": "0klNxlwWGFhb1XJtIPTCZQ",
-      "name": "DuDu",
+      "track": {
+        "id": "0klNxlwWGFhb1XJtIPTCZQ",
+        "name": "DuDu"
+      },
       "duration_ms": 331112,
-      "artist": [
-        "Fastpoholmen"
+      "artists": [
+        {
+          "name": "Fastpoholmen",
+          "id": "3M4FRKJfiRXRZeYqwdbnf1"
+        }
       ],
-      "artistId": [
-        "3M4FRKJfiRXRZeYqwdbnf1"
-      ],
-      "albumId": "49VeCOX2EjrR7CbpkM7nNW",
+      "album": {
+        "id": "49VeCOX2EjrR7CbpkM7nNW",
+        "name": "Dudu",
+        "img": "https://i.scdn.co/image/ab67616d00001e028d97fbd5c6d5bc0897980af7"
+      },
       "release_date": "2018-11-01",
       "popularity": 33
     },
     {
-      "trackId": "6Djg0bJXADJyZzWR6WXtEZ",
-      "name": "Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+      "track": {
+        "id": "6Djg0bJXADJyZzWR6WXtEZ",
+        "name": "Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)"
+      },
       "duration_ms": 249013,
-      "artist": [
-        "Franz Schubert",
-        "David Garrett",
-        "Andrea Bocelli"
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "id": "2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "David Garrett",
+          "id": "33k6kPYIS5TgseAc70LZjy"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "id": "3EA9hVIzKfFiQI0Kikz2wo"
+        }
       ],
-      "artistId": [
-        "2p0UyoPfYfI76PCStuXfOP",
-        "33k6kPYIS5TgseAc70LZjy",
-        "3EA9hVIzKfFiQI0Kikz2wo"
-      ],
-      "albumId": "7C2bSB28pcWwq3ymkz6tj5",
+      "album": {
+        "id": "7C2bSB28pcWwq3ymkz6tj5",
+        "name": "Schubert: Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dcdf776139d52b6d1093161d"
+      },
       "release_date": "2022-07-29",
       "popularity": 46
     },
     {
-      "trackId": "0Xp3q4KLTBffz9fzpUDczj",
-      "name": "The Real Setup",
+      "track": {
+        "id": "0Xp3q4KLTBffz9fzpUDczj",
+        "name": "The Real Setup"
+      },
       "duration_ms": 193906,
-      "artist": [
-        "James Newton Howard"
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "id": "2M4eNCvV3CJUswavkhAQg2"
+        }
       ],
-      "artistId": [
-        "2M4eNCvV3CJUswavkhAQg2"
-      ],
-      "albumId": "4sLn5Un3pabndUD9yAwuKN",
+      "album": {
+        "id": "4sLn5Un3pabndUD9yAwuKN",
+        "name": "Duplicity (Original Motion Picture Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a7d935ea99d9af0c163e927"
+      },
       "release_date": "2009-01-01",
       "popularity": 1
     }

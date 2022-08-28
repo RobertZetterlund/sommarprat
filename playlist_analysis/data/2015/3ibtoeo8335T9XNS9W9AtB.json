@@ -7,186 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3530883_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3rSbiAFyzCXPRa29E72q8c",
-      "name": "Tough Lover",
+      "track": {
+        "id": "3rSbiAFyzCXPRa29E72q8c",
+        "name": "Tough Lover"
+      },
       "duration_ms": 131733,
-      "artist": [
-        "Etta James"
+      "artists": [
+        {
+          "name": "Etta James",
+          "id": "0iOVhN3tnSvgDbcg25JoJb"
+        }
       ],
-      "artistId": [
-        "0iOVhN3tnSvgDbcg25JoJb"
-      ],
-      "albumId": "2VvaqZM4wcBLL8i4qYf31N",
+      "album": {
+        "id": "2VvaqZM4wcBLL8i4qYf31N",
+        "name": "Miss Etta James: The Complete Modern and Kent Recordings",
+        "img": "https://i.scdn.co/image/ab67616d00001e025c56b9044e837f8bd6af2fa5"
+      },
       "release_date": "1998-02-23",
       "popularity": 26
     },
     {
-      "trackId": "6uJXOi796U1D8iW9fj2ZGn",
-      "name": "Funnel Of Love",
+      "track": {
+        "id": "6uJXOi796U1D8iW9fj2ZGn",
+        "name": "Funnel Of Love"
+      },
       "duration_ms": 128426,
-      "artist": [
-        "Wanda Jackson"
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "id": "5ZKMPRDHc7qElVJFh3uRqB"
+        }
       ],
-      "artistId": [
-        "5ZKMPRDHc7qElVJFh3uRqB"
-      ],
-      "albumId": "39htnVOmsFgAUft9YHpvZ2",
+      "album": {
+        "id": "39htnVOmsFgAUft9YHpvZ2",
+        "name": "The Capitol Singles 1959-1961",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f30697bba9c151ba4aa26280"
+      },
       "release_date": "2020-10-23",
       "popularity": 55
     },
     {
-      "trackId": "5GtHqxpZs9ZL479uoXOGCG",
-      "name": "All You Ever Do Is Bring Me Down",
+      "track": {
+        "id": "5GtHqxpZs9ZL479uoXOGCG",
+        "name": "All You Ever Do Is Bring Me Down"
+      },
       "duration_ms": 261800,
-      "artist": [
-        "The Mavericks",
-        "Flaco Jimenez"
+      "artists": [
+        {
+          "name": "The Mavericks",
+          "id": "4Ud7lY9V8pOyydumajSW3O"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "id": "0VKuugYO6uuSOCGO62vk0M"
+        }
       ],
-      "artistId": [
-        "4Ud7lY9V8pOyydumajSW3O",
-        "0VKuugYO6uuSOCGO62vk0M"
-      ],
-      "albumId": "0OydCcpRFD3KOjswJhg9CQ",
+      "album": {
+        "id": "0OydCcpRFD3KOjswJhg9CQ",
+        "name": "Music For All Occasions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f51182d35af2d37e6f926232"
+      },
       "release_date": "1995-01-01",
       "popularity": 42
     },
     {
-      "trackId": "6EXOSA4BWBM1AUsXxKwYDT",
-      "name": "Send Me A Postcard",
+      "track": {
+        "id": "6EXOSA4BWBM1AUsXxKwYDT",
+        "name": "Send Me A Postcard"
+      },
       "duration_ms": 160826,
-      "artist": [
-        "Shocking Blue"
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "id": "5WimOFbBnCU5wI6t5PPpEk"
+        }
       ],
-      "artistId": [
-        "5WimOFbBnCU5wI6t5PPpEk"
-      ],
-      "albumId": "0JqylHtd5MjYXBG2zypr0T",
+      "album": {
+        "id": "0JqylHtd5MjYXBG2zypr0T",
+        "name": "Scorpio's Dance",
+        "img": "https://i.scdn.co/image/ab67616d00001e0287ccf92830caf91617aa415e"
+      },
       "release_date": "1970",
       "popularity": 52
     },
     {
-      "trackId": "3j4KwsbgX50R6t0V0rLfmq",
-      "name": "Finger Poppin'",
+      "track": {
+        "id": "3j4KwsbgX50R6t0V0rLfmq",
+        "name": "Finger Poppin'"
+      },
       "duration_ms": 168573,
-      "artist": [
-        "Ike & Tina Turner"
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "id": "1ZikppG9dPedbIgMfnfx8k"
+        }
       ],
-      "artistId": [
-        "1ZikppG9dPedbIgMfnfx8k"
-      ],
-      "albumId": "5toBacjx2RVc7mVRZ5QHUZ",
+      "album": {
+        "id": "5toBacjx2RVc7mVRZ5QHUZ",
+        "name": "Best of Loma Records-Rise and Fall of a 1960's Soul Label",
+        "img": "https://i.scdn.co/image/ab67616d00001e026843576b6c24858f009cd217"
+      },
       "release_date": "1995",
       "popularity": 9
     },
     {
-      "trackId": "5YwgJ6lpZ3SiAQwBEpjqey",
-      "name": "Rose Garden",
+      "track": {
+        "id": "5YwgJ6lpZ3SiAQwBEpjqey",
+        "name": "Rose Garden"
+      },
       "duration_ms": 175866,
-      "artist": [
-        "Lynn Anderson"
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "id": "502FY8XQYRxClWgolQ3Hf2"
+        }
       ],
-      "artistId": [
-        "502FY8XQYRxClWgolQ3Hf2"
-      ],
-      "albumId": "2JItlMgM1n2GfKOmqYr8af",
+      "album": {
+        "id": "2JItlMgM1n2GfKOmqYr8af",
+        "name": "Rose Garden",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c88a398a82acc86bb938ebda"
+      },
       "release_date": "1971",
       "popularity": 62
     },
     {
-      "trackId": "1eYP5KXSgYgS8mHFICLBvP",
-      "name": "When You Walk In The Room",
+      "track": {
+        "id": "1eYP5KXSgYgS8mHFICLBvP",
+        "name": "When You Walk In The Room"
+      },
       "duration_ms": 158786,
-      "artist": [
-        "Jackie DeShannon"
+      "artists": [
+        {
+          "name": "Jackie DeShannon",
+          "id": "0iVed2Qu7dmL0pIYCj1Xw8"
+        }
       ],
-      "artistId": [
-        "0iVed2Qu7dmL0pIYCj1Xw8"
-      ],
-      "albumId": "1oWINIi72V3KNGoaKLvEel",
+      "album": {
+        "id": "1oWINIi72V3KNGoaKLvEel",
+        "name": "Don't Turn Your Back On Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e028929b5d9dc7994e5aa138a77"
+      },
       "release_date": "1964-01-01",
       "popularity": 30
     },
     {
-      "trackId": "3pEr1rOrfLha8gkEwpBbTS",
-      "name": "Lyckliga gatan",
+      "track": {
+        "id": "3pEr1rOrfLha8gkEwpBbTS",
+        "name": "Lyckliga gatan"
+      },
       "duration_ms": 197360,
-      "artist": [
-        "Nisse Hellberg"
+      "artists": [
+        {
+          "name": "Nisse Hellberg",
+          "id": "3wh2bJMFjWyZA6mHNVxkVa"
+        }
       ],
-      "artistId": [
-        "3wh2bJMFjWyZA6mHNVxkVa"
-      ],
-      "albumId": "5hohD1aliQAULZGK51FOMm",
+      "album": {
+        "id": "5hohD1aliQAULZGK51FOMm",
+        "name": "Snackbar Blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e0241de3a257afd6fbbc5057bbf"
+      },
       "release_date": "2006-10-04",
       "popularity": 38
     },
     {
-      "trackId": "1FNw2dUoXicUTvkH0ZkIVT",
-      "name": "Save a Little Bit for Me",
+      "track": {
+        "id": "1FNw2dUoXicUTvkH0ZkIVT",
+        "name": "Save a Little Bit for Me"
+      },
       "duration_ms": 187093,
-      "artist": [
-        "Irma Thomas"
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "id": "01Z8Z9K54zewyP04ZfGLSv"
+        }
       ],
-      "artistId": [
-        "01Z8Z9K54zewyP04ZfGLSv"
-      ],
-      "albumId": "52z4tWBcQr2d0cNwbPoCD2",
+      "album": {
+        "id": "52z4tWBcQr2d0cNwbPoCD2",
+        "name": "Save a Little Bit for Me / That's How I Feel About You (Digital 45)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025230dac4ce9b747b5ec8639c"
+      },
       "release_date": "2013-11-12",
       "popularity": 0
     },
     {
-      "trackId": "72fZRGam9cfmIGYsbhF2GY",
-      "name": "Heartbeat (Take It Away)",
+      "track": {
+        "id": "72fZRGam9cfmIGYsbhF2GY",
+        "name": "Heartbeat (Take It Away)"
+      },
       "duration_ms": 170447,
-      "artist": [
-        "Dum Dum Girls"
+      "artists": [
+        {
+          "name": "Dum Dum Girls",
+          "id": "65ewrL6LvcNGMMRVlksNGS"
+        }
       ],
-      "artistId": [
-        "65ewrL6LvcNGMMRVlksNGS"
-      ],
-      "albumId": "5AeNEoouOMNiWvDwpKzVml",
+      "album": {
+        "id": "5AeNEoouOMNiWvDwpKzVml",
+        "name": "Only in Dreams",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211f1b3bd5db3a40c29dc9f90"
+      },
       "release_date": "2011-09-27",
       "popularity": 14
     },
     {
-      "trackId": "2GbePPrWWSRxcmW6QRSPae",
-      "name": "Piece of My Heart",
+      "track": {
+        "id": "2GbePPrWWSRxcmW6QRSPae",
+        "name": "Piece of My Heart"
+      },
       "duration_ms": 157266,
-      "artist": [
-        "Erma Franklin"
+      "artists": [
+        {
+          "name": "Erma Franklin",
+          "id": "1CzJJJb6hnx84VNhgaJmFG"
+        }
       ],
-      "artistId": [
-        "1CzJJJb6hnx84VNhgaJmFG"
-      ],
-      "albumId": "3GykoJmCI2qmvrgi8zQ7XW",
+      "album": {
+        "id": "3GykoJmCI2qmvrgi8zQ7XW",
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "img": "https://i.scdn.co/image/ab67616d00001e02499c79a2593b6165db4e47b7"
+      },
       "release_date": "2009-02-18",
       "popularity": 58
     },
     {
-      "trackId": "08AgWZrFlRzUVNkQbY5o0Y",
-      "name": "Barbwire",
+      "track": {
+        "id": "08AgWZrFlRzUVNkQbY5o0Y",
+        "name": "Barbwire"
+      },
       "duration_ms": 139786,
-      "artist": [
-        "Nora Dean"
+      "artists": [
+        {
+          "name": "Nora Dean",
+          "id": "3NxhFOw203F1FEjmOzK74Z"
+        }
       ],
-      "artistId": [
-        "3NxhFOw203F1FEjmOzK74Z"
-      ],
-      "albumId": "7Au8Fs09ToyanFlD9vHNBe",
+      "album": {
+        "id": "7Au8Fs09ToyanFlD9vHNBe",
+        "name": "Barbwire",
+        "img": "https://i.scdn.co/image/ab67616d00001e021bf0e5d242aaf4413106fe3d"
+      },
       "release_date": "2011-05-26",
       "popularity": 37
     },
     {
-      "trackId": "6MoqVH4xRCjOu3B2dKu31l",
-      "name": "Back in the U.S.A. - 1999 Remaster",
+      "track": {
+        "id": "6MoqVH4xRCjOu3B2dKu31l",
+        "name": "Back in the U.S.A. - 1999 Remaster"
+      },
       "duration_ms": 178173,
-      "artist": [
-        "Linda Ronstadt"
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "id": "1sXbwvCQLGZnaH0Jp2HTVc"
+        }
       ],
-      "artistId": [
-        "1sXbwvCQLGZnaH0Jp2HTVc"
-      ],
-      "albumId": "0jJWrATAnjC1tZXPZWdWZL",
+      "album": {
+        "id": "0jJWrATAnjC1tZXPZWdWZL",
+        "name": "Living in the USA",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ef7b90147c69c6bdf218585"
+      },
       "release_date": "1978",
       "popularity": 31
     }

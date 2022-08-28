@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3250355_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "7Imvh030lE3llIlUIC4Nr9",
-      "name": "Light and Shadow",
+      "track": {
+        "id": "7Imvh030lE3llIlUIC4Nr9",
+        "name": "Light and Shadow"
+      },
       "duration_ms": 226760,
-      "artist": [
-        "Vangelis"
+      "artists": [
+        {
+          "name": "Vangelis",
+          "id": "4P70aqttdpJ9vuYFDmf7f6"
+        }
       ],
-      "artistId": [
-        "4P70aqttdpJ9vuYFDmf7f6"
-      ],
-      "albumId": "1Bof5WLdaxLYn3owI7CCx0",
+      "album": {
+        "id": "1Bof5WLdaxLYn3owI7CCx0",
+        "name": "1492: Conquest of Paradise",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235fc83647387b4d1fcd1ea13"
+      },
       "release_date": "1992-09-22",
       "popularity": 42
     },
     {
-      "trackId": "2gMCNoPiMjuVMmzQRlOXMV",
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+      "track": {
+        "id": "2gMCNoPiMjuVMmzQRlOXMV",
+        "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
+      },
       "duration_ms": 170000,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Pierre Fournier"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Pierre Fournier",
+          "id": "36MnOrp3WlHJ6CYc5HstxX"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "36MnOrp3WlHJ6CYc5HstxX"
-      ],
-      "albumId": "5T8L9CeByDoIkfFsq2V5kY",
+      "album": {
+        "id": "5T8L9CeByDoIkfFsq2V5kY",
+        "name": "Bach, J.S.: The Cello Suites",
+        "img": "https://i.scdn.co/image/ab67616d00001e02910ec5c7a78b6e1aea97e6c2"
+      },
       "release_date": "2007-01-01",
       "popularity": 48
     },
     {
-      "trackId": "0G3D2DIwnOcuv3V6jnPZDf",
-      "name": "Stormy Weather",
+      "track": {
+        "id": "0G3D2DIwnOcuv3V6jnPZDf",
+        "name": "Stormy Weather"
+      },
       "duration_ms": 188400,
-      "artist": [
-        "Erroll Garner"
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "id": "6C65D20ASusYqHGSIktfED"
+        }
       ],
-      "artistId": [
-        "6C65D20ASusYqHGSIktfED"
-      ],
-      "albumId": "7obNWrtC06yrnbNlovA7H0",
+      "album": {
+        "id": "7obNWrtC06yrnbNlovA7H0",
+        "name": "The Complete Savoy Master Takes",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a0149113f741b3e1402c1546"
+      },
       "release_date": "1998-10-06",
       "popularity": 10
     },
     {
-      "trackId": "2aPfhiYxHJwbbjz0avJrDq",
-      "name": "Ich Weiß, Es Wird Einmal Ein Wunder Gescheh'n",
+      "track": {
+        "id": "2aPfhiYxHJwbbjz0avJrDq",
+        "name": "Ich Weiß, Es Wird Einmal Ein Wunder Gescheh'n"
+      },
       "duration_ms": 210626,
-      "artist": [
-        "Zarah Leander"
+      "artists": [
+        {
+          "name": "Zarah Leander",
+          "id": "5R15K0QUPe4AhP1vaPoaX3"
+        }
       ],
-      "artistId": [
-        "5R15K0QUPe4AhP1vaPoaX3"
-      ],
-      "albumId": "5eaCB36mUScD0M92kgAkTg",
+      "album": {
+        "id": "5eaCB36mUScD0M92kgAkTg",
+        "name": "Mein Leben Für Die Liebe - Originalaufnahmen Einer Unvergessenen Künstlerin",
+        "img": "https://i.scdn.co/image/ab67616d00001e02437612f8c149a8cbcf597f8e"
+      },
       "release_date": "1988-01-01",
       "popularity": 26
     },
     {
-      "trackId": "43J8rSC4v5aO2YRIWlOVt0",
-      "name": "Sov lilla ängel",
+      "track": {
+        "id": "43J8rSC4v5aO2YRIWlOVt0",
+        "name": "Sov lilla ängel"
+      },
       "duration_ms": 106240,
-      "artist": [
-        "Jessica Ekström Oakley"
+      "artists": [
+        {
+          "name": "Jessica Ekström Oakley",
+          "id": "5ygWVXCh2I89bJviKkHHUs"
+        }
       ],
-      "artistId": [
-        "5ygWVXCh2I89bJviKkHHUs"
-      ],
-      "albumId": "1bM5uLL79hONTX0YGeeOrx",
+      "album": {
+        "id": "1bM5uLL79hONTX0YGeeOrx",
+        "name": "Barnens önskevisor - Blåsippor",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f5582b7529e840ae1f0656a"
+      },
       "release_date": "2000-01-01",
       "popularity": 26
     },
     {
-      "trackId": "03FICqfSwyqa5OrNBD2Q4N",
-      "name": "Komm, süßer Tod, BWV 478",
+      "track": {
+        "id": "03FICqfSwyqa5OrNBD2Q4N",
+        "name": "Komm, süßer Tod, BWV 478"
+      },
       "duration_ms": 197000,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Peter Schreier",
-        "Ton Koopman"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Peter Schreier",
+          "id": "38ghpVkkvBf5wugUg4HW4G"
+        },
+        {
+          "name": "Ton Koopman",
+          "id": "7Fu8GId2mQkNzqDbZbcDWM"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "38ghpVkkvBf5wugUg4HW4G",
-        "7Fu8GId2mQkNzqDbZbcDWM"
-      ],
-      "albumId": "6QSA70ookD21ExQM9owyys",
+      "album": {
+        "id": "6QSA70ookD21ExQM9owyys",
+        "name": "J.S. Bach: Orgel- und Cembalowerke, Kammermusik, Motetten",
+        "img": "https://i.scdn.co/image/ab67616d00001e027678c20836029a619f9b8e7d"
+      },
       "release_date": "2017-03-17",
       "popularity": 0
     },
     {
-      "trackId": "5trSBbOg0lYbiDq9khCB8u",
-      "name": "Don't Explain",
+      "track": {
+        "id": "5trSBbOg0lYbiDq9khCB8u",
+        "name": "Don't Explain"
+      },
       "duration_ms": 258693,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "4bGiPtwVEKcXbXs7oKCMqD",
+      "album": {
+        "id": "4bGiPtwVEKcXbXs7oKCMqD",
+        "name": "Let It All Out",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8ef777dbf6677f99f96210d"
+      },
       "release_date": "1966-01-01",
       "popularity": 44
     },
     {
-      "trackId": "1Ufeq377xEgpYsCXdlt06u",
-      "name": "In a Red Little Cottage",
+      "track": {
+        "id": "1Ufeq377xEgpYsCXdlt06u",
+        "name": "In a Red Little Cottage"
+      },
       "duration_ms": 311066,
-      "artist": [
-        "Duke Ellington"
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "id": "4F7Q5NV6h5TSwCainz8S5A"
+        }
       ],
-      "artistId": [
-        "4F7Q5NV6h5TSwCainz8S5A"
-      ],
-      "albumId": "5XUnlCEEBThHhWqmW0QXxK",
+      "album": {
+        "id": "5XUnlCEEBThHhWqmW0QXxK",
+        "name": "Duke Ellington At the Cotton Club",
+        "img": "https://i.scdn.co/image/ab67616d00001e023fdb15d325bd4a800c47bc4c"
+      },
       "release_date": "2010-10-01",
       "popularity": 1
     },
     {
-      "trackId": "6DaE48egpIqB7qTgUHxSG8",
-      "name": "Brother, Can You Spare a Dime? (with Lenny Hayton & His Orchestra)",
+      "track": {
+        "id": "6DaE48egpIqB7qTgUHxSG8",
+        "name": "Brother, Can You Spare a Dime? (with Lenny Hayton & His Orchestra)"
+      },
       "duration_ms": 192640,
-      "artist": [
-        "Bing Crosby",
-        "Lenny Hayton & His Orchestra"
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "id": "6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Lenny Hayton & His Orchestra",
+          "id": "0StdR40slU9ybqS5X6HvaQ"
+        }
       ],
-      "artistId": [
-        "6ZjFtWeHP9XN7FeKSUe80S",
-        "0StdR40slU9ybqS5X6HvaQ"
-      ],
-      "albumId": "2uCRW9oSvol2jAh8yvL5Cv",
+      "album": {
+        "id": "2uCRW9oSvol2jAh8yvL5Cv",
+        "name": "The Essential Bing Crosby (The Columbia Years)",
+        "img": "https://i.scdn.co/image/ab67616d00001e025e799620c379dd942507dfd3"
+      },
       "release_date": "1932",
       "popularity": 29
     },
     {
-      "trackId": "575blCgesVtCu0HEYaIcas",
-      "name": "Blade Runner Blues",
+      "track": {
+        "id": "575blCgesVtCu0HEYaIcas",
+        "name": "Blade Runner Blues"
+      },
       "duration_ms": 534400,
-      "artist": [
-        "Vangelis"
+      "artists": [
+        {
+          "name": "Vangelis",
+          "id": "4P70aqttdpJ9vuYFDmf7f6"
+        }
       ],
-      "artistId": [
-        "4P70aqttdpJ9vuYFDmf7f6"
-      ],
-      "albumId": "6NkuCdMz5tGmHbOXAWbtCW",
+      "album": {
+        "id": "6NkuCdMz5tGmHbOXAWbtCW",
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e029ccdbb2b52240c4c500cac4c"
+      },
       "release_date": "1994-06-06",
       "popularity": 52
     },
     {
-      "trackId": "0ZBi1eCXmWvfxgIQvZBOUY",
-      "name": "Bach, JS: Matthäus-Passion, BWV 244, Pt. 1: No. 1, Chor. \"Kommt, ihr Töchter helft mir klagen\"",
+      "track": {
+        "id": "0ZBi1eCXmWvfxgIQvZBOUY",
+        "name": "Bach, JS: Matthäus-Passion, BWV 244, Pt. 1: No. 1, Chor. \"Kommt, ihr Töchter helft mir klagen\""
+      },
       "duration_ms": 448866,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Nikolaus Harnoncourt",
-        "Choir of King's College, Cambridge"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "id": "0AeOzXbHJu8q2xqILEOLEO"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "id": "0f3PsS9IQ6whvNMFFKnpjl"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "0AeOzXbHJu8q2xqILEOLEO",
-        "0f3PsS9IQ6whvNMFFKnpjl"
-      ],
-      "albumId": "1H6vv8rkCtf46hxpu1pLa7",
+      "album": {
+        "id": "1H6vv8rkCtf46hxpu1pLa7",
+        "name": "Choir of King's College Sings Bach",
+        "img": "https://i.scdn.co/image/ab67616d00001e028a0bd68ad9b4ad8d331a3b37"
+      },
       "release_date": "2022-07-01",
       "popularity": 14
     },
     {
-      "trackId": "5avVpUakfMHD6qGpaH26CF",
-      "name": "Conquest of Paradise",
+      "track": {
+        "id": "5avVpUakfMHD6qGpaH26CF",
+        "name": "Conquest of Paradise"
+      },
       "duration_ms": 278199,
-      "artist": [
-        "Vangelis"
+      "artists": [
+        {
+          "name": "Vangelis",
+          "id": "4P70aqttdpJ9vuYFDmf7f6"
+        }
       ],
-      "artistId": [
-        "4P70aqttdpJ9vuYFDmf7f6"
-      ],
-      "albumId": "1Bof5WLdaxLYn3owI7CCx0",
+      "album": {
+        "id": "1Bof5WLdaxLYn3owI7CCx0",
+        "name": "1492: Conquest of Paradise",
+        "img": "https://i.scdn.co/image/ab67616d00001e0235fc83647387b4d1fcd1ea13"
+      },
       "release_date": "1992-09-22",
       "popularity": 61
     }

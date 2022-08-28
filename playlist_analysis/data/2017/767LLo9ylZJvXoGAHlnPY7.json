@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/a60f7bd2-e9f6-4f4b-80fb-359320f35f54.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0LObyCN68g1m1YSs83rkkc",
-      "name": "Vem ska jag tro på?",
+      "track": {
+        "id": "0LObyCN68g1m1YSs83rkkc",
+        "name": "Vem ska jag tro på?"
+      },
       "duration_ms": 232893,
-      "artist": [
-        "Di Leva"
+      "artists": [
+        {
+          "name": "Di Leva",
+          "id": "4L82oD5L2XQPwkHWOAJSad"
+        }
       ],
-      "artistId": [
-        "4L82oD5L2XQPwkHWOAJSad"
-      ],
-      "albumId": "6rQKIlHpaCy5hR6EADZEEF",
+      "album": {
+        "id": "6rQKIlHpaCy5hR6EADZEEF",
+        "name": "Vem ska jag tro på?",
+        "img": "https://i.scdn.co/image/ab67616d00001e027514e5c9a154c7977067dfca"
+      },
       "release_date": "1987-01-01",
       "popularity": 44
     },
     {
-      "trackId": "5ChkMS8OtdzJeqyybCc9R5",
-      "name": "Billie Jean",
+      "track": {
+        "id": "5ChkMS8OtdzJeqyybCc9R5",
+        "name": "Billie Jean"
+      },
       "duration_ms": 293826,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "1C2h7mLntPSeVYciMRTF4a",
+      "album": {
+        "id": "1C2h7mLntPSeVYciMRTF4a",
+        "name": "Thriller 25 Super Deluxe Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be"
+      },
       "release_date": "1982-11-30",
       "popularity": 84
     },
     {
-      "trackId": "2GsDUi80ysfehoGL631h1z",
-      "name": "不要告别/告别 - Live",
+      "track": {
+        "id": "2GsDUi80ysfehoGL631h1z",
+        "name": "不要告别/告别 - Live"
+      },
       "duration_ms": 335705,
-      "artist": [
-        "Chyi Yu"
+      "artists": [
+        {
+          "name": "Chyi Yu",
+          "id": "5E94Yc9O9D4N3oTr4SzJLx"
+        }
       ],
-      "artistId": [
-        "5E94Yc9O9D4N3oTr4SzJLx"
-      ],
-      "albumId": "3wxC5NNaoh42pfVNbV0WL2",
+      "album": {
+        "id": "3wxC5NNaoh42pfVNbV0WL2",
+        "name": "歌手2019 (第六期 Live)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249ef753b9ee36e8a9d7308a4"
+      },
       "release_date": "2019-02-15",
       "popularity": 8
     },
     {
-      "trackId": "3nT8kRdR2TmjjrC2GVNNZs",
-      "name": "Nothing To Lose (Yi Wu Suo You)",
+      "track": {
+        "id": "3nT8kRdR2TmjjrC2GVNNZs",
+        "name": "Nothing To Lose (Yi Wu Suo You)"
+      },
       "duration_ms": 257453,
-      "artist": [
-        "崔健"
+      "artists": [
+        {
+          "name": "崔健",
+          "id": "1YwBQZlsK015NpwaF8gpd9"
+        }
       ],
-      "artistId": [
-        "1YwBQZlsK015NpwaF8gpd9"
-      ],
-      "albumId": "0bUhyPrwRbASNHx6LJbQfa",
+      "album": {
+        "id": "0bUhyPrwRbASNHx6LJbQfa",
+        "name": "Centennial Classics: Vol. 7 - 1978 - 2000 (Bai Nian Chang Pian Ming Ren Ming Ge Qi: Yi Jiu Qi Ba Nian - Xin Shi Ji)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c81510f5d3ab8dc807ea5562"
+      },
       "release_date": "2007-01-01",
       "popularity": 14
     },
     {
-      "trackId": "5LxvwujISqiB8vpRYv887S",
-      "name": "I Want You Back",
+      "track": {
+        "id": "5LxvwujISqiB8vpRYv887S",
+        "name": "I Want You Back"
+      },
       "duration_ms": 176333,
-      "artist": [
-        "The Jackson 5"
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "id": "2iE18Oxc8YSumAU232n4rW"
+        }
       ],
-      "artistId": [
-        "2iE18Oxc8YSumAU232n4rW"
-      ],
-      "albumId": "51uoKRa8vT5SULrlF8s2t1",
+      "album": {
+        "id": "51uoKRa8vT5SULrlF8s2t1",
+        "name": "Diana Ross Presents The Jackson 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e0216aaf05fe82237576a7d0e38"
+      },
       "release_date": "1969-12-18",
       "popularity": 76
     },
     {
-      "trackId": "3Cx4yrFaX8CeHwBMReOWXI",
-      "name": "We Didn't Start the Fire",
+      "track": {
+        "id": "3Cx4yrFaX8CeHwBMReOWXI",
+        "name": "We Didn't Start the Fire"
+      },
       "duration_ms": 287733,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "1Vw2uoVkLAJFVViJ1QyK1D",
+      "album": {
+        "id": "1Vw2uoVkLAJFVViJ1QyK1D",
+        "name": "Storm Front",
+        "img": "https://i.scdn.co/image/ab67616d00001e021946747b8692919f98918ec4"
+      },
       "release_date": "1989-10-17",
       "popularity": 75
     },
     {
-      "trackId": "4CWgqHRJjDLd2PCedMz8eY",
-      "name": "Waterfall - Remastered",
+      "track": {
+        "id": "4CWgqHRJjDLd2PCedMz8eY",
+        "name": "Waterfall - Remastered"
+      },
       "duration_ms": 278826,
-      "artist": [
-        "The Stone Roses"
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "id": "1lYT0A0LV5DUfxr6doRP3d"
+        }
       ],
-      "artistId": [
-        "1lYT0A0LV5DUfxr6doRP3d"
-      ],
-      "albumId": "0um9FI6BLBldL5POP4D4Cw",
+      "album": {
+        "id": "0um9FI6BLBldL5POP4D4Cw",
+        "name": "The Stone Roses",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf1f6466a493eb73d6d9d280"
+      },
       "release_date": "1989-05-02",
       "popularity": 62
     },
     {
-      "trackId": "5OwH2YXbDrU5HOIyZDRFtg",
-      "name": "Oh boy",
+      "track": {
+        "id": "5OwH2YXbDrU5HOIyZDRFtg",
+        "name": "Oh boy"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "Peps Persson"
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "id": "5xmgC1jISe31QZSp8gqKUJ"
+        }
       ],
-      "artistId": [
-        "5xmgC1jISe31QZSp8gqKUJ"
-      ],
-      "albumId": "1pIYOXNx3EJIX8c3zoZZGN",
+      "album": {
+        "id": "1pIYOXNx3EJIX8c3zoZZGN",
+        "name": "Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02526fbed31942217ef35d019b"
+      },
       "release_date": "2004-01-01",
       "popularity": 53
     },
     {
-      "trackId": "7woW97CfcWaKtuC6W5BP2K",
-      "name": "Heal the World",
+      "track": {
+        "id": "7woW97CfcWaKtuC6W5BP2K",
+        "name": "Heal the World"
+      },
       "duration_ms": 384306,
-      "artist": [
-        "Michael Jackson"
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "id": "3fMbdgg4jU18AjLCKBhRSm"
+        }
       ],
-      "artistId": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ],
-      "albumId": "0oX4SealMgNXrvRDhqqOKg",
+      "album": {
+        "id": "0oX4SealMgNXrvRDhqqOKg",
+        "name": "Dangerous",
+        "img": "https://i.scdn.co/image/ab67616d00001e023b9f8b18cc685e1502128aa8"
+      },
       "release_date": "1991-11-13",
       "popularity": 67
     },
     {
-      "trackId": "0LrwgdLsFaWh9VXIjBRe8t",
-      "name": "Changes - 2015 Remaster",
+      "track": {
+        "id": "0LrwgdLsFaWh9VXIjBRe8t",
+        "name": "Changes - 2015 Remaster"
+      },
       "duration_ms": 217746,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 68
     },
     {
-      "trackId": "1JSTJqkT5qHq8MDJnJbRE1",
-      "name": "Every Breath You Take",
+      "track": {
+        "id": "1JSTJqkT5qHq8MDJnJbRE1",
+        "name": "Every Breath You Take"
+      },
       "duration_ms": 253920,
-      "artist": [
-        "The Police"
+      "artists": [
+        {
+          "name": "The Police",
+          "id": "5NGO30tJxFlKixkPSgXcFE"
+        }
       ],
-      "artistId": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ],
-      "albumId": "5W9OT0a5iZlBr83a9WMKFY",
+      "album": {
+        "id": "5W9OT0a5iZlBr83a9WMKFY",
+        "name": "Synchronicity (Remastered 2003)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e"
+      },
       "release_date": "1983-06-17",
       "popularity": 86
     },
     {
-      "trackId": "7iN1s7xHE4ifF5povM6A48",
-      "name": "Let It Be - Remastered 2009",
+      "track": {
+        "id": "7iN1s7xHE4ifF5povM6A48",
+        "name": "Let It Be - Remastered 2009"
+      },
       "duration_ms": 243026,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0jTGHV5xqHPvEcwL8f6YU5",
+      "album": {
+        "id": "0jTGHV5xqHPvEcwL8f6YU5",
+        "name": "Let It Be (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1"
+      },
       "release_date": "1970-05-08",
       "popularity": 77
     },
     {
-      "trackId": "0puf9yIluy9W0vpMEUoAnN",
-      "name": "Bang Bang",
+      "track": {
+        "id": "0puf9yIluy9W0vpMEUoAnN",
+        "name": "Bang Bang"
+      },
       "duration_ms": 199386,
-      "artist": [
-        "Jessie J",
-        "Ariana Grande",
-        "Nicki Minaj"
+      "artists": [
+        {
+          "name": "Jessie J",
+          "id": "2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Ariana Grande",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "id": "0hCNtLu0JehylgoiP8L4Gh"
+        }
       ],
-      "artistId": [
-        "2gsggkzM5R49q6jpPvazou",
-        "66CXWjxzNUsdJxJ2JdwvnR",
-        "0hCNtLu0JehylgoiP8L4Gh"
-      ],
-      "albumId": "2rDIivxBafNKpgRqlzIRSb",
+      "album": {
+        "id": "2rDIivxBafNKpgRqlzIRSb",
+        "name": "Sweet Talker (Deluxe Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02930f686fe89425c7b6bf9a7d"
+      },
       "release_date": "2014-10-14",
       "popularity": 79
     },
     {
-      "trackId": "6Omr4zDMg6XokKVMtxStmw",
-      "name": "Probability Cloud",
+      "track": {
+        "id": "6Omr4zDMg6XokKVMtxStmw",
+        "name": "Probability Cloud"
+      },
       "duration_ms": 285960,
-      "artist": [
-        "Bill Frisell"
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "id": "3SONlwqLIP2GtaMh9pLYe5"
+        }
       ],
-      "artistId": [
-        "3SONlwqLIP2GtaMh9pLYe5"
-      ],
-      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "album": {
+        "id": "74s1xuJFJGvRCPjlh2d2oE",
+        "name": "History, Mystery",
+        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
+      },
       "release_date": "2008-03-15",
       "popularity": 9
     }

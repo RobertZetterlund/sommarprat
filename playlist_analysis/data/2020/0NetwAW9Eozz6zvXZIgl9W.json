@@ -7,276 +7,398 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/358b20af-2637-432b-8b4f-8e32046f29f7.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "6pzQvHHygI4kYpk2xFIXEo",
-      "name": "Telefone (Long Distance Love Affair)",
+      "track": {
+        "id": "6pzQvHHygI4kYpk2xFIXEo",
+        "name": "Telefone (Long Distance Love Affair)"
+      },
       "duration_ms": 222040,
-      "artist": [
-        "Sheena Easton"
+      "artists": [
+        {
+          "name": "Sheena Easton",
+          "id": "5dcOK4stT4JDkP6Dqhbz5s"
+        }
       ],
-      "artistId": [
-        "5dcOK4stT4JDkP6Dqhbz5s"
-      ],
-      "albumId": "0yjoiwJLY6tF08MGUeIl4B",
+      "album": {
+        "id": "0yjoiwJLY6tF08MGUeIl4B",
+        "name": "15 Classic Tracks: Sheena Easton",
+        "img": "https://i.scdn.co/image/ab67616d00001e027ca2bf2464a1f6c65598bd61"
+      },
       "release_date": "2013-05-03",
       "popularity": 46
     },
     {
-      "trackId": "121so7t3AeX6nLMvxy9ZP9",
-      "name": "Hide and Seek",
+      "track": {
+        "id": "121so7t3AeX6nLMvxy9ZP9",
+        "name": "Hide and Seek"
+      },
       "duration_ms": 268866,
-      "artist": [
-        "Imogen Heap"
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "id": "6Xb4ezwoAQC4516kI89nWz"
+        }
       ],
-      "artistId": [
-        "6Xb4ezwoAQC4516kI89nWz"
-      ],
-      "albumId": "5bxeKufn9YmJ3WNBQpBXlx",
+      "album": {
+        "id": "5bxeKufn9YmJ3WNBQpBXlx",
+        "name": "Speak For Yourself",
+        "img": "https://i.scdn.co/image/ab67616d00001e02354d106dcafb7e165189477e"
+      },
       "release_date": "2006-04-08",
       "popularity": 47
     },
     {
-      "trackId": "1UGD3lW3tDmgZfAVDh6w7r",
-      "name": "Devil In A New Dress",
+      "track": {
+        "id": "1UGD3lW3tDmgZfAVDh6w7r",
+        "name": "Devil In A New Dress"
+      },
       "duration_ms": 351946,
-      "artist": [
-        "Kanye West",
-        "Rick Ross"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "id": "1sBkRIssrMs1AbVkOJbc7a"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "1sBkRIssrMs1AbVkOJbc7a"
-      ],
-      "albumId": "20r762YmB5HeofjMCiPMLv",
+      "album": {
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+      },
       "release_date": "2010-11-22",
       "popularity": 78
     },
     {
-      "trackId": "1UGD3lW3tDmgZfAVDh6w7r",
-      "name": "Devil In A New Dress",
+      "track": {
+        "id": "1UGD3lW3tDmgZfAVDh6w7r",
+        "name": "Devil In A New Dress"
+      },
       "duration_ms": 351946,
-      "artist": [
-        "Kanye West",
-        "Rick Ross"
+      "artists": [
+        {
+          "name": "Kanye West",
+          "id": "5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "id": "1sBkRIssrMs1AbVkOJbc7a"
+        }
       ],
-      "artistId": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "1sBkRIssrMs1AbVkOJbc7a"
-      ],
-      "albumId": "20r762YmB5HeofjMCiPMLv",
+      "album": {
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d9194aa18fa4c9362b47464f"
+      },
       "release_date": "2010-11-22",
       "popularity": 78
     },
     {
-      "trackId": "0qEPrEUKnMarbbb1m8hrZh",
-      "name": "Tag med ud å fisk",
+      "track": {
+        "id": "0qEPrEUKnMarbbb1m8hrZh",
+        "name": "Tag med ud å fisk"
+      },
       "duration_ms": 134933,
-      "artist": [
-        "Gitte Hænning"
+      "artists": [
+        {
+          "name": "Gitte Hænning",
+          "id": "61colh5ssNlVYwuzlQyB1u"
+        }
       ],
-      "artistId": [
-        "61colh5ssNlVYwuzlQyB1u"
-      ],
-      "albumId": "3ouoEHgkssCSvMBsz3o4j8",
+      "album": {
+        "id": "3ouoEHgkssCSvMBsz3o4j8",
+        "name": "Tag Med Ud Å Fisk",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211f0eb699e3fac46c53396a3"
+      },
       "release_date": "1986",
       "popularity": 28
     },
     {
-      "trackId": "6meIeOX3DHdaCnaNw67abE",
-      "name": "Sukiyaki",
+      "track": {
+        "id": "6meIeOX3DHdaCnaNw67abE",
+        "name": "Sukiyaki"
+      },
       "duration_ms": 189520,
-      "artist": [
-        "Kyu Sakamoto"
+      "artists": [
+        {
+          "name": "Kyu Sakamoto",
+          "id": "3WKkjW8B7x5UZmfC9pnDmN"
+        }
       ],
-      "artistId": [
-        "3WKkjW8B7x5UZmfC9pnDmN"
-      ],
-      "albumId": "5n3yhXw0DNTRIpSfRE98tT",
+      "album": {
+        "id": "5n3yhXw0DNTRIpSfRE98tT",
+        "name": "Lost Hits Of The 60's (All Original Artists & Versions)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8c554e3aabe57f9d5cba30e"
+      },
       "release_date": "2010-01-01",
       "popularity": 45
     },
     {
-      "trackId": "04LHuPqOMSpnHFaziPq1qO",
-      "name": "Din tid kommer - Otto Knows Remix",
+      "track": {
+        "id": "04LHuPqOMSpnHFaziPq1qO",
+        "name": "Din tid kommer - Otto Knows Remix"
+      },
       "duration_ms": 286875,
-      "artist": [
-        "Håkan Hellström",
-        "Otto Knows"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        },
+        {
+          "name": "Otto Knows",
+          "id": "5fahUm8t5c0GIdeTq0ZaG8"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc",
-        "5fahUm8t5c0GIdeTq0ZaG8"
-      ],
-      "albumId": "1L25xMsuDCuBcb0rJnggWr",
+      "album": {
+        "id": "1L25xMsuDCuBcb0rJnggWr",
+        "name": "Din tid kommer (Otto Knows Remix)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021b25496f0136a8d8b62198c6"
+      },
       "release_date": "2016-04-26",
       "popularity": 58
     },
     {
-      "trackId": "4VQpfKgO2WlAwmTbQkpb69",
-      "name": "Är du glad ska du sjunga",
+      "track": {
+        "id": "4VQpfKgO2WlAwmTbQkpb69",
+        "name": "Är du glad ska du sjunga"
+      },
       "duration_ms": 251960,
-      "artist": [
-        "Janne \"Loffe\" Carlsson"
+      "artists": [
+        {
+          "name": "Janne \"Loffe\" Carlsson",
+          "id": "3EJShizF9TQCK1H45gjqtr"
+        }
       ],
-      "artistId": [
-        "3EJShizF9TQCK1H45gjqtr"
-      ],
-      "albumId": "4FuqHypfGPgjOt2Ug6ZUOd",
+      "album": {
+        "id": "4FuqHypfGPgjOt2Ug6ZUOd",
+        "name": "Strikt kommersiell",
+        "img": "https://i.scdn.co/image/ab67616d00001e0255726b584d3302391583feee"
+      },
       "release_date": "1980-02-01",
       "popularity": 9
     },
     {
-      "trackId": "5hTmSGoaBzxCqEFPORTtLF",
-      "name": "Marsch Idrottsjubel",
+      "track": {
+        "id": "5hTmSGoaBzxCqEFPORTtLF",
+        "name": "Marsch Idrottsjubel"
+      },
       "duration_ms": 136869,
-      "artist": [
-        "Norrlandspojkarna, Sone Banger, Sven-Olof Nilsson"
+      "artists": [
+        {
+          "name": "Norrlandspojkarna, Sone Banger, Sven-Olof Nilsson",
+          "id": "3g70Rex8l9Ew4GFeFBVNXe"
+        }
       ],
-      "artistId": [
-        "3g70Rex8l9Ew4GFeFBVNXe"
-      ],
-      "albumId": "7cPWAgxoWkKy0qkb8FqV1O",
+      "album": {
+        "id": "7cPWAgxoWkKy0qkb8FqV1O",
+        "name": "Dragspels Favoriter",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e17d3fc29fba184d292f26a8"
+      },
       "release_date": "1995-05-14",
       "popularity": 0
     },
     {
-      "trackId": "7LVHVU3tWfcxj5aiPFEW4Q",
-      "name": "Fix You",
+      "track": {
+        "id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "name": "Fix You"
+      },
       "duration_ms": 295533,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "4E7bV0pzG0LciBSWTszra6",
+      "album": {
+        "id": "4E7bV0pzG0LciBSWTszra6",
+        "name": "X&Y",
+        "img": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651"
+      },
       "release_date": "2005-06-07",
       "popularity": 82
     },
     {
-      "trackId": "70C4NyhjD5OZUMzvWZ3njJ",
-      "name": "Piano Man",
+      "track": {
+        "id": "70C4NyhjD5OZUMzvWZ3njJ",
+        "name": "Piano Man"
+      },
       "duration_ms": 339000,
-      "artist": [
-        "Billy Joel"
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "id": "6zFYqv1mOsgBRQbae3JJ9e"
+        }
       ],
-      "artistId": [
-        "6zFYqv1mOsgBRQbae3JJ9e"
-      ],
-      "albumId": "69wjSAZXZiD2EBia3b3gxL",
+      "album": {
+        "id": "69wjSAZXZiD2EBia3b3gxL",
+        "name": "Piano Man (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3"
+      },
       "release_date": "1973-11-07",
       "popularity": 76
     },
     {
-      "trackId": "228IDYsx1EAHiuh9xLktmj",
-      "name": "America",
+      "track": {
+        "id": "228IDYsx1EAHiuh9xLktmj",
+        "name": "America"
+      },
       "duration_ms": 218240,
-      "artist": [
-        "First Aid Kit"
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "id": "21egYD1eInY6bGFcniCRT1"
+        }
       ],
-      "artistId": [
-        "21egYD1eInY6bGFcniCRT1"
-      ],
-      "albumId": "1LbsN7ZwjjnafolKPbnDZK",
+      "album": {
+        "id": "1LbsN7ZwjjnafolKPbnDZK",
+        "name": "America",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e7c654cc662add74a197865c"
+      },
       "release_date": "2015-01-13",
       "popularity": 53
     },
     {
-      "trackId": "0JMmHl49s1yetyEvPskBSc",
-      "name": "Kom närmre",
+      "track": {
+        "id": "0JMmHl49s1yetyEvPskBSc",
+        "name": "Kom närmre"
+      },
       "duration_ms": 214368,
-      "artist": [
-        "Linnea Henriksson"
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "id": "3IsULVZIf4iGp9ExB7yJVq"
+        }
       ],
-      "artistId": [
-        "3IsULVZIf4iGp9ExB7yJVq"
-      ],
-      "albumId": "2Y2JRgw0Sz4UaDLEfGCvTo",
+      "album": {
+        "id": "2Y2JRgw0Sz4UaDLEfGCvTo",
+        "name": "Kom närmre",
+        "img": "https://i.scdn.co/image/ab67616d00001e026f53bdb150bd72238f98bc16"
+      },
       "release_date": "2021-08-30",
       "popularity": 34
     },
     {
-      "trackId": "6jo0w5NJH28cfGuKTK1A5i",
-      "name": "En helt ny karriär II",
+      "track": {
+        "id": "6jo0w5NJH28cfGuKTK1A5i",
+        "name": "En helt ny karriär II"
+      },
       "duration_ms": 328466,
-      "artist": [
-        "kent"
+      "artists": [
+        {
+          "name": "kent",
+          "id": "4KXp3xtaz1wWXnu5u34eVX"
+        }
       ],
-      "artistId": [
-        "4KXp3xtaz1wWXnu5u34eVX"
-      ],
-      "albumId": "5JB0zirnb0sRjCplEIgQUs",
+      "album": {
+        "id": "5JB0zirnb0sRjCplEIgQUs",
+        "name": "B-sidor 95-00",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8a0bd59c89e0c80f4bc7f4f"
+      },
       "release_date": "2000-11-29",
       "popularity": 26
     },
     {
-      "trackId": "2kUFMwXMwUuRFuzYWWLhwv",
-      "name": "Mitt barnsliga leende",
+      "track": {
+        "id": "2kUFMwXMwUuRFuzYWWLhwv",
+        "name": "Mitt barnsliga leende"
+      },
       "duration_ms": 191080,
-      "artist": [
-        "Tomas Andersson Wij"
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "id": "2j8XNrT8TQH4JMeyEMJYfL"
+        }
       ],
-      "artistId": [
-        "2j8XNrT8TQH4JMeyEMJYfL"
-      ],
-      "albumId": "3CiARUVWs7tovT0yKsdQFt",
+      "album": {
+        "id": "3CiARUVWs7tovT0yKsdQFt",
+        "name": "Mörkrets hastighet",
+        "img": "https://i.scdn.co/image/ab67616d00001e0291dbf9a522cbb8e0ccf63e97"
+      },
       "release_date": "2014-10-08",
       "popularity": 27
     },
     {
-      "trackId": "1Yaiaw6iD76etLGbH9fCa0",
-      "name": "Du är publiken",
+      "track": {
+        "id": "1Yaiaw6iD76etLGbH9fCa0",
+        "name": "Du är publiken"
+      },
       "duration_ms": 228737,
-      "artist": [
-        "Lill-Babs"
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "id": "1YlYLkI3GlVDFSQGjMXWbt"
+        }
       ],
-      "artistId": [
-        "1YlYLkI3GlVDFSQGjMXWbt"
-      ],
-      "albumId": "7fl9Y47S3XkWp3nI2NAVmz",
+      "album": {
+        "id": "7fl9Y47S3XkWp3nI2NAVmz",
+        "name": "Kom",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b292d4072558356f5f8b58d8"
+      },
       "release_date": "2014-11-28",
       "popularity": 5
     },
     {
-      "trackId": "0Em6COLAc2gX1PVy9QS6o2",
-      "name": "Su le Mani",
+      "track": {
+        "id": "0Em6COLAc2gX1PVy9QS6o2",
+        "name": "Su le Mani"
+      },
       "duration_ms": 207200,
-      "artist": [
-        "Nico Muolo",
-        "DJ MACHECK JESSE DLANE"
+      "artists": [
+        {
+          "name": "Nico Muolo",
+          "id": "4ZLe7ROgTGCQU7inIXFPHy"
+        },
+        {
+          "name": "DJ MACHECK JESSE DLANE",
+          "id": "5oPS8rT7pbS1G4Jw6XpF5K"
+        }
       ],
-      "artistId": [
-        "4ZLe7ROgTGCQU7inIXFPHy",
-        "5oPS8rT7pbS1G4Jw6XpF5K"
-      ],
-      "albumId": "2tnMkeYJoLtoNSXa8RdS3S",
+      "album": {
+        "id": "2tnMkeYJoLtoNSXa8RdS3S",
+        "name": "2Hot Fight Back",
+        "img": "https://i.scdn.co/image/ab67616d00001e02499525be4e97bc9501fb5d28"
+      },
       "release_date": "2006-06-14",
       "popularity": 22
     },
     {
-      "trackId": "20052FYa2SF5Lkp9VZTLJX",
-      "name": "Vem e som oss",
+      "track": {
+        "id": "20052FYa2SF5Lkp9VZTLJX",
+        "name": "Vem e som oss"
+      },
       "duration_ms": 175604,
-      "artist": [
-        "Anis Don Demina"
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "id": "3WnmyxLdTHKN83h75tcb8P"
+        }
       ],
-      "artistId": [
-        "3WnmyxLdTHKN83h75tcb8P"
-      ],
-      "albumId": "2KX1IGf0NJMA3p1wh57Ccb",
+      "album": {
+        "id": "2KX1IGf0NJMA3p1wh57Ccb",
+        "name": "Vem e som oss",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cccf0b382e934462715208cb"
+      },
       "release_date": "2020-02-15",
       "popularity": 49
     },
     {
-      "trackId": "4Zl4kpBFTz11MBbyK7Vhyg",
-      "name": "Episode 1 (Bears, Indians & Such)",
+      "track": {
+        "id": "4Zl4kpBFTz11MBbyK7Vhyg",
+        "name": "Episode 1 (Bears, Indians & Such)"
+      },
       "duration_ms": 120085,
-      "artist": [
-        "Jomo and the Possum Posse"
+      "artists": [
+        {
+          "name": "Jomo and the Possum Posse",
+          "id": "2msuUco2JdGjtu7iSjD2fs"
+        }
       ],
-      "artistId": [
-        "2msuUco2JdGjtu7iSjD2fs"
-      ],
-      "albumId": "5XfsenRGh2SKyykw7nVvDi",
+      "album": {
+        "id": "5XfsenRGh2SKyykw7nVvDi",
+        "name": "Guy on a Buffalo (Complete Web Series Audio)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a92029c5ce4f2cdb7be6200"
+      },
       "release_date": "2011-09-10",
       "popularity": 27
     }

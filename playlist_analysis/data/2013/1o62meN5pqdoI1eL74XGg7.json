@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2860894_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "24WyDyJfAXgkcPddKdvfYA",
-      "name": "Vårens första dag",
+      "track": {
+        "id": "24WyDyJfAXgkcPddKdvfYA",
+        "name": "Vårens första dag"
+      },
       "duration_ms": 280533,
-      "artist": [
-        "Laleh"
+      "artists": [
+        {
+          "name": "Laleh",
+          "id": "62QZPjYQMoo5g56FP9Webq"
+        }
       ],
-      "artistId": [
-        "62QZPjYQMoo5g56FP9Webq"
-      ],
-      "albumId": "1YqHIqrWx3eopxKFPqjqhT",
+      "album": {
+        "id": "1YqHIqrWx3eopxKFPqjqhT",
+        "name": "Sjung",
+        "img": "https://i.scdn.co/image/ab67616d00001e026494a5592cca561ea52f6541"
+      },
       "release_date": "2012-01-10",
       "popularity": 46
     },
     {
-      "trackId": "6XJbArtxcMuKg1GBT0rCJ6",
-      "name": "In Transfer",
+      "track": {
+        "id": "6XJbArtxcMuKg1GBT0rCJ6",
+        "name": "In Transfer"
+      },
       "duration_ms": 166666,
-      "artist": [
-        "El Rojo Adios",
-        "Titiyo"
+      "artists": [
+        {
+          "name": "El Rojo Adios",
+          "id": "54aX12LStxaPfwraG92Jq4"
+        },
+        {
+          "name": "Titiyo",
+          "id": "2s5enJCtVBAAdWD94jOIbM"
+        }
       ],
-      "artistId": [
-        "54aX12LStxaPfwraG92Jq4",
-        "2s5enJCtVBAAdWD94jOIbM"
-      ],
-      "albumId": "3woJFlQpwrWovqF95ggSMs",
+      "album": {
+        "id": "3woJFlQpwrWovqF95ggSMs",
+        "name": "El Rojo Adios",
+        "img": "https://i.scdn.co/image/ab67616d00001e0207785f5f2341e0c980eabaef"
+      },
       "release_date": "2012-12-06",
       "popularity": 6
     },
     {
-      "trackId": "31AMbxkc5KHNtBSmuNww60",
-      "name": "Till dom ensamma",
+      "track": {
+        "id": "31AMbxkc5KHNtBSmuNww60",
+        "name": "Till dom ensamma"
+      },
       "duration_ms": 300373,
-      "artist": [
-        "Mauro Scocco"
+      "artists": [
+        {
+          "name": "Mauro Scocco",
+          "id": "0qC4DawW3xCirhuq5cvaKV"
+        }
       ],
-      "artistId": [
-        "0qC4DawW3xCirhuq5cvaKV"
-      ],
-      "albumId": "4XYYrObQYIaYPujc1TPB9c",
+      "album": {
+        "id": "4XYYrObQYIaYPujc1TPB9c",
+        "name": "Dr Space Dagbok",
+        "img": "https://i.scdn.co/image/ab67616d00001e024f913f35ab6f0592a90da78a"
+      },
       "release_date": "1991-04-12",
       "popularity": 43
     },
     {
-      "trackId": "1dr5SoREaZnswCaqmNzHfS",
-      "name": "Cool Water - på Den Gyldene Freden",
+      "track": {
+        "id": "1dr5SoREaZnswCaqmNzHfS",
+        "name": "Cool Water - på Den Gyldene Freden"
+      },
       "duration_ms": 181333,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "1cApvP6qm9YBd4bx8dcJmU",
+      "album": {
+        "id": "1cApvP6qm9YBd4bx8dcJmU",
+        "name": "Cornelis Vreeswijk Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f7f33460f0baf2e64a7a0509"
+      },
       "release_date": "2003",
       "popularity": 11
     },
     {
-      "trackId": "1tH8ycIrUoZt94f82MrVL5",
-      "name": "These Boots Are Made For Walking",
+      "track": {
+        "id": "1tH8ycIrUoZt94f82MrVL5",
+        "name": "These Boots Are Made For Walking"
+      },
       "duration_ms": 162600,
-      "artist": [
-        "Nancy Sinatra"
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "id": "3IZrrNonYELubLPJmqOci2"
+        }
       ],
-      "artistId": [
-        "3IZrrNonYELubLPJmqOci2"
-      ],
-      "albumId": "2xPqWOuRbw3VS1CqwlQ2R1",
+      "album": {
+        "id": "2xPqWOuRbw3VS1CqwlQ2R1",
+        "name": "The Mexican - Music From The Motion Picture",
+        "img": "https://i.scdn.co/image/ab67616d00001e0239280b45b3afd15392d3421c"
+      },
       "release_date": "2001-01-01",
       "popularity": 26
     },
     {
-      "trackId": "6cKvoABx9GsNjQ6qkebe3N",
-      "name": "Blommor på brinnande fartyg",
+      "track": {
+        "id": "6cKvoABx9GsNjQ6qkebe3N",
+        "name": "Blommor på brinnande fartyg"
+      },
       "duration_ms": 279509,
-      "artist": [
-        "bob hund",
-        "Popkollo"
+      "artists": [
+        {
+          "name": "bob hund",
+          "id": "6OZxE19iim1JKvCA3GmCVx"
+        },
+        {
+          "name": "Popkollo",
+          "id": "2i0UpK9eM0EnrVZzPfEpbo"
+        }
       ],
-      "artistId": [
-        "6OZxE19iim1JKvCA3GmCVx",
-        "2i0UpK9eM0EnrVZzPfEpbo"
-      ],
-      "albumId": "1MHuoX5VFJcP61s03CPrrn",
+      "album": {
+        "id": "1MHuoX5VFJcP61s03CPrrn",
+        "name": "Blommor på brinnande fartyg",
+        "img": "https://i.scdn.co/image/ab67616d00001e028626819b08890dffb78a2bd6"
+      },
       "release_date": "2015-12-03",
       "popularity": 35
     },
     {
-      "trackId": "6REMRPdAd7TFDujIWVdx4Q",
-      "name": "In med bollen 2012",
+      "track": {
+        "id": "6REMRPdAd7TFDujIWVdx4Q",
+        "name": "In med bollen 2012"
+      },
       "duration_ms": 224133,
-      "artist": [
-        "Markoolio"
+      "artists": [
+        {
+          "name": "Markoolio",
+          "id": "0cAOG10Gh3ORpBRZ9c7Zam"
+        }
       ],
-      "artistId": [
-        "0cAOG10Gh3ORpBRZ9c7Zam"
-      ],
-      "albumId": "12jvnUEi86mKHVQ1H0Kiqh",
+      "album": {
+        "id": "12jvnUEi86mKHVQ1H0Kiqh",
+        "name": "Jag är Markoolio",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8c55bd460d1744d11a4bf1b"
+      },
       "release_date": "2012-06-06",
       "popularity": 35
     },
     {
-      "trackId": "1uXbwHHfgsXcUKfSZw5ZJ0",
-      "name": "Run the World (Girls)",
+      "track": {
+        "id": "1uXbwHHfgsXcUKfSZw5ZJ0",
+        "name": "Run the World (Girls)"
+      },
       "duration_ms": 236093,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "1gIC63gC3B7o7FfpPACZQJ",
+      "album": {
+        "id": "1gIC63gC3B7o7FfpPACZQJ",
+        "name": "4",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff5429125128b43572dbdccd"
+      },
       "release_date": "2011-06-24",
       "popularity": 72
     },
     {
-      "trackId": "0a4agFmqHXxcZl1nho1BxM",
-      "name": "Heart Of Glass - Special Mix",
+      "track": {
+        "id": "0a4agFmqHXxcZl1nho1BxM",
+        "name": "Heart Of Glass - Special Mix"
+      },
       "duration_ms": 275733,
-      "artist": [
-        "Blondie"
+      "artists": [
+        {
+          "name": "Blondie",
+          "id": "4tpUmLEVLCGFr93o8hFFIB"
+        }
       ],
-      "artistId": [
-        "4tpUmLEVLCGFr93o8hFFIB"
-      ],
-      "albumId": "7mEjsBlRmfP63cH1gdPT6A",
+      "album": {
+        "id": "7mEjsBlRmfP63cH1gdPT6A",
+        "name": "Best Of Blondie",
+        "img": "https://i.scdn.co/image/ab67616d00001e028cf86a9be38868f1d73cdb58"
+      },
       "release_date": "1981-10-31",
       "popularity": 69
     },
     {
-      "trackId": "15derM2poWCHV692nc70C8",
-      "name": "Pop-opp-i-topp",
+      "track": {
+        "id": "15derM2poWCHV692nc70C8",
+        "name": "Pop-opp-i-topp"
+      },
       "duration_ms": 116040,
-      "artist": [
-        "Lill-Babs",
-        "Thore Skogman"
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "id": "1YlYLkI3GlVDFSQGjMXWbt"
+        },
+        {
+          "name": "Thore Skogman",
+          "id": "6NTX7EIJQEEUMPIBdYpzhs"
+        }
       ],
-      "artistId": [
-        "1YlYLkI3GlVDFSQGjMXWbt",
-        "6NTX7EIJQEEUMPIBdYpzhs"
-      ],
-      "albumId": "6OsJmsxR7JQ9TN17YSyoOk",
+      "album": {
+        "id": "6OsJmsxR7JQ9TN17YSyoOk",
+        "name": "40-Bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5f8fbc0119d5cd69d543dd9"
+      },
       "release_date": "2019-02-20",
       "popularity": 40
     },
     {
-      "trackId": "5I17rGCM1Zn4J9puVHTh8X",
-      "name": "Håll mitt hjärta (Same Old Story)",
+      "track": {
+        "id": "5I17rGCM1Zn4J9puVHTh8X",
+        "name": "Håll mitt hjärta (Same Old Story)"
+      },
       "duration_ms": 261600,
-      "artist": [
-        "Björn Skifs"
+      "artists": [
+        {
+          "name": "Björn Skifs",
+          "id": "1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
       ],
-      "artistId": [
-        "1Ek3VdZ8EPmcvgRIqnHlrF"
-      ],
-      "albumId": "6ikkPeJhCsStZUcEECJX6e",
+      "album": {
+        "id": "6ikkPeJhCsStZUcEECJX6e",
+        "name": "Ingen Annan",
+        "img": "https://i.scdn.co/image/ab67616d00001e0247eba23a799e35950fd983de"
+      },
       "release_date": "2002",
       "popularity": 40
     },
     {
-      "trackId": "2eF8pWbiivYsYRpbntYsnc",
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "track": {
+        "id": "2eF8pWbiivYsYRpbntYsnc",
+        "name": "Signed, Sealed, Delivered (I'm Yours)"
+      },
       "duration_ms": 161160,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "54ootLtDyMZFr9obtWQvvO",
+      "album": {
+        "id": "54ootLtDyMZFr9obtWQvvO",
+        "name": "Signed, Sealed And Delivered",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c5e9e847ca9c0982b4c91d4b"
+      },
       "release_date": "1970-08-07",
       "popularity": 75
     }

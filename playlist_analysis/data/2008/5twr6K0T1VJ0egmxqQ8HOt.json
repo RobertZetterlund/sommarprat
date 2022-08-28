@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/96c5f293-119d-4eda-b96e-40a3280a85c4.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4j08A1efdJcVINBHSmQKPS",
-      "name": "Under Pressure",
+      "track": {
+        "id": "4j08A1efdJcVINBHSmQKPS",
+        "name": "Under Pressure"
+      },
       "duration_ms": 211733,
-      "artist": [
-        "My Chemical Romance",
-        "The Used"
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "id": "7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "id": "55VydwMyCuGcavwPuhutPL"
+        }
       ],
-      "artistId": [
-        "7FBcuc1gsnv6Y1nwFtNRCb",
-        "55VydwMyCuGcavwPuhutPL"
-      ],
-      "albumId": "3yeNEy2TFt4hvtQ6sRichS",
+      "album": {
+        "id": "3yeNEy2TFt4hvtQ6sRichS",
+        "name": "Under Pressure",
+        "img": "https://i.scdn.co/image/ab67616d00001e02478568a2fa6d578b0f6f8f50"
+      },
       "release_date": "2005-04-12",
       "popularity": 52
     },
     {
-      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-      "name": "Gabriellas sång",
+      "track": {
+        "id": "2UL2wKmovIqf0GpqZ2Irjn",
+        "name": "Gabriellas sång"
+      },
       "duration_ms": 221240,
-      "artist": [
-        "Helen Sjöholm",
-        "Stefan Nilsson"
+      "artists": [
+        {
+          "name": "Helen Sjöholm",
+          "id": "6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Stefan Nilsson",
+          "id": "2dkyZHLWCFi08dA86UDu1A"
+        }
       ],
-      "artistId": [
-        "6M5pgjMS5dVG0hGRh5xADx",
-        "2dkyZHLWCFi08dA86UDu1A"
-      ],
-      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "album": {
+        "id": "6e3fJwgQ1OgmVBOjlNgcd0",
+        "name": "Så som i himmelen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02179826a1e3ce129578f0f505"
+      },
       "release_date": "2004",
       "popularity": 49
     },
     {
-      "trackId": "0TgcNqPYpw6jcX6YOmRm2W",
-      "name": "Una giornata al mare",
+      "track": {
+        "id": "0TgcNqPYpw6jcX6YOmRm2W",
+        "name": "Una giornata al mare"
+      },
       "duration_ms": 216573,
-      "artist": [
-        "Paolo Conte"
+      "artists": [
+        {
+          "name": "Paolo Conte",
+          "id": "7bAIYB0KGbYXlGbIjyFAcI"
+        }
       ],
-      "artistId": [
-        "7bAIYB0KGbYXlGbIjyFAcI"
-      ],
-      "albumId": "4BEkewfUXzpP6TCH5n1ZwP",
+      "album": {
+        "id": "4BEkewfUXzpP6TCH5n1ZwP",
+        "name": "Paolo Conte",
+        "img": "https://i.scdn.co/image/ab67616d00001e027dc70e393bb98f97fd6a6962"
+      },
       "release_date": "1974-01-16",
       "popularity": 34
     },
     {
-      "trackId": "6pPWRBubXOBAHnjl5ZIujB",
-      "name": "The Best",
+      "track": {
+        "id": "6pPWRBubXOBAHnjl5ZIujB",
+        "name": "The Best"
+      },
       "duration_ms": 329800,
-      "artist": [
-        "Tina Turner"
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "id": "1zuJe6b1roixEKMOtyrEak"
+        }
       ],
-      "artistId": [
-        "1zuJe6b1roixEKMOtyrEak"
-      ],
-      "albumId": "3hgAoHSmany3EiKL0Aqh3G",
+      "album": {
+        "id": "3hgAoHSmany3EiKL0Aqh3G",
+        "name": "Foreign Affair",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a04b4373fd72bf81c8784adf"
+      },
       "release_date": "1989-09-13",
       "popularity": 69
     },
     {
-      "trackId": "6KGYesNYeJpeGqEumXot4d",
-      "name": "De sista ljuva åren - ur \"Sommar\", 2008",
+      "track": {
+        "id": "6KGYesNYeJpeGqEumXot4d",
+        "name": "De sista ljuva åren - ur \"Sommar\", 2008"
+      },
       "duration_ms": 229620,
-      "artist": [
-        "Peter LeMarc"
+      "artists": [
+        {
+          "name": "Peter LeMarc",
+          "id": "4VKbol7eCoEJUemlKvE3Ve"
+        }
       ],
-      "artistId": [
-        "4VKbol7eCoEJUemlKvE3Ve"
-      ],
-      "albumId": "5WXui5RddS0yxJCyjVSPn5",
+      "album": {
+        "id": "5WXui5RddS0yxJCyjVSPn5",
+        "name": "De sista ljuva åren (ur \"Sommar\", 2008)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0226c2426925c596550664faff"
+      },
       "release_date": "2018-01-31",
       "popularity": 22
     },
     {
-      "trackId": "1O1mCVN5hue4lOOqd5EysZ",
-      "name": "Living For The City",
+      "track": {
+        "id": "1O1mCVN5hue4lOOqd5EysZ",
+        "name": "Living For The City"
+      },
       "duration_ms": 219306,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "1vQrNEAdt2eHCXAvdIs1M2",
+      "album": {
+        "id": "1vQrNEAdt2eHCXAvdIs1M2",
+        "name": "The Definitive Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02835ed5fb9b70f46c3177ffde"
+      },
       "release_date": "2002-10-29",
       "popularity": 52
     },
     {
-      "trackId": "3wqYQbDzFYKytO7uVLQtHD",
-      "name": "Tusind stykker",
+      "track": {
+        "id": "3wqYQbDzFYKytO7uVLQtHD",
+        "name": "Tusind stykker"
+      },
       "duration_ms": 261959,
-      "artist": [
-        "Anne Linnet"
+      "artists": [
+        {
+          "name": "Anne Linnet",
+          "id": "6AWEo7TFXeaDNDMMFuE2YY"
+        }
       ],
-      "artistId": [
-        "6AWEo7TFXeaDNDMMFuE2YY"
-      ],
-      "albumId": "1G1Ck0pVl2zluufmNIhrd7",
+      "album": {
+        "id": "1G1Ck0pVl2zluufmNIhrd7",
+        "name": "Jeg Er Jo Lige Her",
+        "img": "https://i.scdn.co/image/ab67616d00001e022399800164beed2657b38fad"
+      },
       "release_date": "1988-07-19",
       "popularity": 47
     },
     {
-      "trackId": "1UmIWsuzcitp1VhsEKviJZ",
-      "name": "Your Song - From \"Moulin Rouge\" Soundtrack",
+      "track": {
+        "id": "1UmIWsuzcitp1VhsEKviJZ",
+        "name": "Your Song - From \"Moulin Rouge\" Soundtrack"
+      },
       "duration_ms": 218773,
-      "artist": [
-        "Ewan McGregor",
-        "Alessandro Safina"
+      "artists": [
+        {
+          "name": "Ewan McGregor",
+          "id": "105Paee9vmV5rfLSG652e1"
+        },
+        {
+          "name": "Alessandro Safina",
+          "id": "5ITJs06INM9JWxK5hROEj3"
+        }
       ],
-      "artistId": [
-        "105Paee9vmV5rfLSG652e1",
-        "5ITJs06INM9JWxK5hROEj3"
-      ],
-      "albumId": "5cbAqQZSEgRiiNjuEHWTXc",
+      "album": {
+        "id": "5cbAqQZSEgRiiNjuEHWTXc",
+        "name": "Moulin Rouge",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e6e0891de00a924b0f186d0c"
+      },
       "release_date": "2001-09-03",
       "popularity": 54
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     },
     {
-      "trackId": "3Dy4REq8O09IlgiwuHQ3sk",
-      "name": "Waterloo",
+      "track": {
+        "id": "3Dy4REq8O09IlgiwuHQ3sk",
+        "name": "Waterloo"
+      },
       "duration_ms": 168960,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5gSBDA6ufk8UZejT4XR7av",
+      "album": {
+        "id": "5gSBDA6ufk8UZejT4XR7av",
+        "name": "Waterloo",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211c24dc7f5ef909381c0a7d6"
+      },
       "release_date": "1974",
       "popularity": 73
     },
     {
-      "trackId": "3ZE3wv8V3w2T2f7nOCjV0N",
-      "name": "Life on Mars? - 2015 Remaster",
+      "track": {
+        "id": "3ZE3wv8V3w2T2f7nOCjV0N",
+        "name": "Life on Mars? - 2015 Remaster"
+      },
       "duration_ms": 235986,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 70
     },
     {
-      "trackId": "0dMd4rilfd6gPbXaLpNYhu",
-      "name": "Higher Ground",
+      "track": {
+        "id": "0dMd4rilfd6gPbXaLpNYhu",
+        "name": "Higher Ground"
+      },
       "duration_ms": 222600,
-      "artist": [
-        "Stevie Wonder"
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "id": "7guDJrEfX3qb6FEbdPA5qi"
+        }
       ],
-      "artistId": [
-        "7guDJrEfX3qb6FEbdPA5qi"
-      ],
-      "albumId": "5jgI8Eminx9MmLBontDWq8",
+      "album": {
+        "id": "5jgI8Eminx9MmLBontDWq8",
+        "name": "Innervisions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ea8ab1a548312b79ac955266"
+      },
       "release_date": "1973-08-03",
       "popularity": 64
     }

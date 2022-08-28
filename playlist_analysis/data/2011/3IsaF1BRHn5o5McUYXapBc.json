@@ -7,166 +7,242 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242207_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "1qgwvqXFuajRclcGXGfmvm",
-      "name": "Sommarnatt - Serenad",
+      "track": {
+        "id": "1qgwvqXFuajRclcGXGfmvm",
+        "name": "Sommarnatt - Serenad"
+      },
       "duration_ms": 190866,
-      "artist": [
-        "Jussi Björling"
+      "artists": [
+        {
+          "name": "Jussi Björling",
+          "id": "4FNjPnaiiXYeG2qOhVtd8A"
+        }
       ],
-      "artistId": [
-        "4FNjPnaiiXYeG2qOhVtd8A"
-      ],
-      "albumId": "5kQxC90rZ5uCHF6nRDjHPW",
+      "album": {
+        "id": "5kQxC90rZ5uCHF6nRDjHPW",
+        "name": "100 år med Jussi Björling",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ff8f7a377a871a77bc1a0afc"
+      },
       "release_date": "2011-01-25",
       "popularity": 7
     },
     {
-      "trackId": "14CsqOaDkOkrZ49UJLtuOJ",
-      "name": "So Long, Marianne",
+      "track": {
+        "id": "14CsqOaDkOkrZ49UJLtuOJ",
+        "name": "So Long, Marianne"
+      },
       "duration_ms": 340560,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "2Aiv0ThDpFa7lqHphR6MN5",
+      "album": {
+        "id": "2Aiv0ThDpFa7lqHphR6MN5",
+        "name": "Songs Of Leonard Cohen",
+        "img": "https://i.scdn.co/image/ab67616d00001e020633b57b08b40f3e776e7151"
+      },
       "release_date": "1967-12-27",
       "popularity": 58
     },
     {
-      "trackId": "7l5mzDFDI3DDtx0GUIdb68",
-      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
+      "track": {
+        "id": "7l5mzDFDI3DDtx0GUIdb68",
+        "name": "I'm In The Mood For Love - Take 3 / Alternate Take"
+      },
       "duration_ms": 214301,
-      "artist": [
-        "Charlie Parker"
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "id": "4Ww5mwS7BWYjoZTUIrMHfC"
+        }
       ],
-      "artistId": [
-        "4Ww5mwS7BWYjoZTUIrMHfC"
-      ],
-      "albumId": "7uifUApb0mUlqIxX5SkrVJ",
+      "album": {
+        "id": "7uifUApb0mUlqIxX5SkrVJ",
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "img": "https://i.scdn.co/image/ab67616d00001e0214e289fe668cffe13b4d11f1"
+      },
       "release_date": "1957-08-08",
       "popularity": 31
     },
     {
-      "trackId": "4bl8idKCKkuvOyHRFSWot4",
-      "name": "Brev från kolonien",
+      "track": {
+        "id": "4bl8idKCKkuvOyHRFSWot4",
+        "name": "Brev från kolonien"
+      },
       "duration_ms": 144866,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "2M1yifaX3hZ3j3o0n0sxlC",
+      "album": {
+        "id": "2M1yifaX3hZ3j3o0n0sxlC",
+        "name": "Visor och oförskämdheter",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d8c4872e0a0cb5cccc044c3"
+      },
       "release_date": "1965",
       "popularity": 44
     },
     {
-      "trackId": "6ppz7z7cDDpXOQFgAVnhRb",
-      "name": "Who Gon Ride",
+      "track": {
+        "id": "6ppz7z7cDDpXOQFgAVnhRb",
+        "name": "Who Gon Ride"
+      },
       "duration_ms": 157779,
-      "artist": [
-        "Thee Mach"
+      "artists": [
+        {
+          "name": "Thee Mach",
+          "id": "6M2lmzcllqJYhJe5d2rnjF"
+        }
       ],
-      "artistId": [
-        "6M2lmzcllqJYhJe5d2rnjF"
-      ],
-      "albumId": "4s78UWlUrdeMleydH1UpJB",
+      "album": {
+        "id": "4s78UWlUrdeMleydH1UpJB",
+        "name": "Black Habits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02181f0440db0424d1a21408c4"
+      },
       "release_date": "2020-01-01",
       "popularity": 11
     },
     {
-      "trackId": "0DXfZwNegI6AGcTHB8kjtt",
-      "name": "RULLANDE HORHUS",
+      "track": {
+        "id": "0DXfZwNegI6AGcTHB8kjtt",
+        "name": "RULLANDE HORHUS"
+      },
       "duration_ms": 140322,
-      "artist": [
-        "Rasmus Gozzi",
-        "JeppsoN"
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "id": "3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "JeppsoN",
+          "id": "7wQmimE5XlaosL5GLSM4Yx"
+        }
       ],
-      "artistId": [
-        "3loTvAld5Tpk5aSNbboGpj",
-        "7wQmimE5XlaosL5GLSM4Yx"
-      ],
-      "albumId": "4TbE1rKr0wNXRNhxbRtgdE",
+      "album": {
+        "id": "4TbE1rKr0wNXRNhxbRtgdE",
+        "name": "RULLANDE HORHUS",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2642b0f97d5f0fa6ffa24f1"
+      },
       "release_date": "2022-04-15",
       "popularity": 52
     },
     {
-      "trackId": "4xEXBv1XWD5YzPgjoMrTOs",
-      "name": "Drommen om Elin",
+      "track": {
+        "id": "4xEXBv1XWD5YzPgjoMrTOs",
+        "name": "Drommen om Elin"
+      },
       "duration_ms": 174360,
-      "artist": [
-        "Carl Jularbo",
-        "Carl Jularbos Quartet"
+      "artists": [
+        {
+          "name": "Carl Jularbo",
+          "id": "2W9OOsMnU1cXV62u1CfOzq"
+        },
+        {
+          "name": "Carl Jularbos Quartet",
+          "id": "0qDa18TXRTwv8PPUiheZEG"
+        }
       ],
-      "artistId": [
-        "2W9OOsMnU1cXV62u1CfOzq",
-        "0qDa18TXRTwv8PPUiheZEG"
-      ],
-      "albumId": "1gmQnqoHjyDCms6UqejYvp",
+      "album": {
+        "id": "1gmQnqoHjyDCms6UqejYvp",
+        "name": "Jularbo-minnen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c6cd73272d42639d17739d7a"
+      },
       "release_date": "2011-05-03",
       "popularity": 18
     },
     {
-      "trackId": "78sZ6qdT6HFK2NZPSoClLa",
-      "name": "Goldberg Variations, BWV 988: Var. 1",
+      "track": {
+        "id": "78sZ6qdT6HFK2NZPSoClLa",
+        "name": "Goldberg Variations, BWV 988: Var. 1"
+      },
       "duration_ms": 110773,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Murray Perahia"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "id": "4EEQIAJoeN1V30MqFFtXxB"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "4EEQIAJoeN1V30MqFFtXxB"
-      ],
-      "albumId": "2ecywJZyq9FeZWhKUT0kIq",
+      "album": {
+        "id": "2ecywJZyq9FeZWhKUT0kIq",
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b5e3b7b77766b46b24d4469a"
+      },
       "release_date": "2000-09-01",
       "popularity": 42
     },
     {
-      "trackId": "7nBARurNPIRVcf81uOFz3i",
-      "name": "Jag ger dig min morgon",
+      "track": {
+        "id": "7nBARurNPIRVcf81uOFz3i",
+        "name": "Jag ger dig min morgon"
+      },
       "duration_ms": 226426,
-      "artist": [
-        "Fred Åkerström"
+      "artists": [
+        {
+          "name": "Fred Åkerström",
+          "id": "66se5dgU4TBgWvHtXrYrz0"
+        }
       ],
-      "artistId": [
-        "66se5dgU4TBgWvHtXrYrz0"
-      ],
-      "albumId": "4P1tHWqUAGpCNylsLXOXBf",
+      "album": {
+        "id": "4P1tHWqUAGpCNylsLXOXBf",
+        "name": "Två Tungor",
+        "img": "https://i.scdn.co/image/ab67616d00001e025db8ca3e78a3da93059cbc3b"
+      },
       "release_date": "1972",
       "popularity": 50
     },
     {
-      "trackId": "2HPzfsUXnsPSJhiK5nbAcb",
-      "name": "Beinah ein Welthit",
+      "track": {
+        "id": "2HPzfsUXnsPSJhiK5nbAcb",
+        "name": "Beinah ein Welthit"
+      },
       "duration_ms": 224826,
-      "artist": [
-        "Heinz im Sinn & the Geteiltdurchs"
+      "artists": [
+        {
+          "name": "Heinz im Sinn & the Geteiltdurchs",
+          "id": "6RBdSWHISBM4x3FAhGAfOL"
+        }
       ],
-      "artistId": [
-        "6RBdSWHISBM4x3FAhGAfOL"
-      ],
-      "albumId": "0SCskWL0UKOVQbyLr7TAsh",
+      "album": {
+        "id": "0SCskWL0UKOVQbyLr7TAsh",
+        "name": "Das Weise Album",
+        "img": "https://i.scdn.co/image/ab67616d00001e026808517afd4233530b65a6a9"
+      },
       "release_date": "2015-05-01",
       "popularity": 3
     },
     {
-      "trackId": "5AAOk0y18yc5gIgoR3UQtl",
-      "name": "Ein deutsches Requiem, Op. 45: 2. \"Denn alles Fleisch, es ist wie Gras\"",
+      "track": {
+        "id": "5AAOk0y18yc5gIgoR3UQtl",
+        "name": "Ein deutsches Requiem, Op. 45: 2. \"Denn alles Fleisch, es ist wie Gras\""
+      },
       "duration_ms": 903493,
-      "artist": [
-        "Johannes Brahms",
-        "Berliner Philharmoniker",
-        "Claudio Abbado"
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "id": "5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "id": "6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "id": "6HclTVD03WSY6GUpN16BkP"
+        }
       ],
-      "artistId": [
-        "5wTAi7QkpP6kp8a54lmTOq",
-        "6uRJnvQ3f8whVnmeoecv5Z",
-        "6HclTVD03WSY6GUpN16BkP"
-      ],
-      "albumId": "4QtUlrFEO409Gm6z01fzCk",
+      "album": {
+        "id": "4QtUlrFEO409Gm6z01fzCk",
+        "name": "Brahms: Ein Deutsches Requiem Op.45",
+        "img": "https://i.scdn.co/image/ab67616d00001e024c2177cad0a30e0e384d3359"
+      },
       "release_date": "1993-01-01",
       "popularity": 8
     }

@@ -7,262 +7,378 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3241105_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5Yx5PhdnwhNzLMBl34TZw4",
-      "name": "Both Sides Now",
+      "track": {
+        "id": "5Yx5PhdnwhNzLMBl34TZw4",
+        "name": "Both Sides Now"
+      },
       "duration_ms": 273573,
-      "artist": [
-        "Joni Mitchell"
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "id": "5hW4L92KnC6dX9t7tYM4Ve"
+        }
       ],
-      "artistId": [
-        "5hW4L92KnC6dX9t7tYM4Ve"
-      ],
-      "albumId": "02piRJBAWgCu2Et3rOkK4w",
+      "album": {
+        "id": "02piRJBAWgCu2Et3rOkK4w",
+        "name": "Easy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f94f1f43a1bbce6bfd98d303"
+      },
       "release_date": "2019-02-15",
       "popularity": 58
     },
     {
-      "trackId": "45sdD9GjryujVOcRJ4YQRQ",
-      "name": "Cobrastyle",
+      "track": {
+        "id": "45sdD9GjryujVOcRJ4YQRQ",
+        "name": "Cobrastyle"
+      },
       "duration_ms": 179853,
-      "artist": [
-        "Teddybears"
+      "artists": [
+        {
+          "name": "Teddybears",
+          "id": "3gqv1kgivAc92KnUm4elKv"
+        }
       ],
-      "artistId": [
-        "3gqv1kgivAc92KnUm4elKv"
-      ],
-      "albumId": "3EfRjYnoNrTohOPCjVFhR5",
+      "album": {
+        "id": "3EfRjYnoNrTohOPCjVFhR5",
+        "name": "Fresh",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c5ab58ca8dbe135c6482aeb"
+      },
       "release_date": "2004-08-18",
       "popularity": 57
     },
     {
-      "trackId": "1f7j3yQIH5kNjYkmZjqDcQ",
-      "name": "Knut med skämtlynnet",
+      "track": {
+        "id": "1f7j3yQIH5kNjYkmZjqDcQ",
+        "name": "Knut med skämtlynnet"
+      },
       "duration_ms": 106840,
-      "artist": [
-        "Hans Alfredson"
+      "artists": [
+        {
+          "name": "Hans Alfredson",
+          "id": "2wSu2EcQojgAifviEgZmy3"
+        }
       ],
-      "artistId": [
-        "2wSu2EcQojgAifviEgZmy3"
-      ],
-      "albumId": "4MZqt2uT29Lhjs3C2i54Af",
+      "album": {
+        "id": "4MZqt2uT29Lhjs3C2i54Af",
+        "name": "Blommig falukorv",
+        "img": "https://i.scdn.co/image/ab67616d00001e02876bd7f70774397025a39cb8"
+      },
       "release_date": "1996-01-01",
       "popularity": 20
     },
     {
-      "trackId": "5KGkkqaXYVcvKY3XaRdBaK",
-      "name": "(I Can't Get No) Satisfaction",
+      "track": {
+        "id": "5KGkkqaXYVcvKY3XaRdBaK",
+        "name": "(I Can't Get No) Satisfaction"
+      },
       "duration_ms": 212026,
-      "artist": [
-        "Michelle Simonal"
+      "artists": [
+        {
+          "name": "Michelle Simonal",
+          "id": "6Q5cnVb5SfF6RWedEp57Al"
+        }
       ],
-      "artistId": [
-        "6Q5cnVb5SfF6RWedEp57Al"
-      ],
-      "albumId": "6fpDCF0v1qTzONOmBhqhRO",
+      "album": {
+        "id": "6fpDCF0v1qTzONOmBhqhRO",
+        "name": "Bossa n' Stones (Limited Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b37c65fef8c1ff6d8803e7b8"
+      },
       "release_date": "2006-09-05",
       "popularity": 33
     },
     {
-      "trackId": "6uhIL0PAovizquifzGH0lk",
-      "name": "Signatur - från \"Bamse - världens starkaste björn\"",
+      "track": {
+        "id": "6uhIL0PAovizquifzGH0lk",
+        "name": "Signatur - från \"Bamse - världens starkaste björn\""
+      },
       "duration_ms": 33506,
-      "artist": [
-        "Bamse"
+      "artists": [
+        {
+          "name": "Bamse",
+          "id": "1V95p8oWGxXlpcFRYqXV3w"
+        }
       ],
-      "artistId": [
-        "1V95p8oWGxXlpcFRYqXV3w"
-      ],
-      "albumId": "7J4mWRMb0BY6LVUGKLhtzg",
+      "album": {
+        "id": "7J4mWRMb0BY6LVUGKLhtzg",
+        "name": "Bamse - världens starkaste björn",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267f6b59de74d09650ca48fee"
+      },
       "release_date": "1973-01-01",
       "popularity": 49
     },
     {
-      "trackId": "0rBj6lYQUMHwTJ33sdj6Qz",
-      "name": "Tillfälligheter",
+      "track": {
+        "id": "0rBj6lYQUMHwTJ33sdj6Qz",
+        "name": "Tillfälligheter"
+      },
       "duration_ms": 227600,
-      "artist": [
-        "Veronica Maggio"
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "id": "2OIWxN9xUhgUHkeUCWCaNs"
+        }
       ],
-      "artistId": [
-        "2OIWxN9xUhgUHkeUCWCaNs"
-      ],
-      "albumId": "5IpwTXB95XBp7YVUESyhVi",
+      "album": {
+        "id": "5IpwTXB95XBp7YVUESyhVi",
+        "name": "Fiender är tråkigt",
+        "img": "https://i.scdn.co/image/ab67616d00001e0291b5d795c14c7d3482c38daf"
+      },
       "release_date": "2019-09-27",
       "popularity": 55
     },
     {
-      "trackId": "65lJnRqpggmZZdVi2LqcMY",
-      "name": "Hidden Dance",
+      "track": {
+        "id": "65lJnRqpggmZZdVi2LqcMY",
+        "name": "Hidden Dance"
+      },
       "duration_ms": 446040,
-      "artist": [
-        "Tobias Sjögren",
-        "Per Jørgensen"
+      "artists": [
+        {
+          "name": "Tobias Sjögren",
+          "id": "6E0mrW3yAehImnxWwasFFx"
+        },
+        {
+          "name": "Per Jørgensen",
+          "id": "3xsf409GxJ5iRn5HtkTAms"
+        }
       ],
-      "artistId": [
-        "6E0mrW3yAehImnxWwasFFx",
-        "3xsf409GxJ5iRn5HtkTAms"
-      ],
-      "albumId": "4XBvphq2Spa4igcMqhO9om",
+      "album": {
+        "id": "4XBvphq2Spa4igcMqhO9om",
+        "name": "Unspoken Songs",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d7ddf167f28f61f31989d736"
+      },
       "release_date": "2006-05-11",
       "popularity": 0
     },
     {
-      "trackId": "48JrHJdke53Te8dQ9aWzvV",
-      "name": "The Rockafeller Skank",
+      "track": {
+        "id": "48JrHJdke53Te8dQ9aWzvV",
+        "name": "The Rockafeller Skank"
+      },
       "duration_ms": 413880,
-      "artist": [
-        "Fatboy Slim"
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "id": "4Y7tXHSEejGu1vQ9bwDdXW"
+        }
       ],
-      "artistId": [
-        "4Y7tXHSEejGu1vQ9bwDdXW"
-      ],
-      "albumId": "7Avi8h7vv4Ustd6DsN2jYx",
+      "album": {
+        "id": "7Avi8h7vv4Ustd6DsN2jYx",
+        "name": "You've Come a Long Way Baby (10th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b7d8ddd7450a7db80d201d6e"
+      },
       "release_date": "1998-10-19",
       "popularity": 60
     },
     {
-      "trackId": "1RpXm5jW0O6lUq86d8mBjQ",
-      "name": "Buck Naked",
+      "track": {
+        "id": "1RpXm5jW0O6lUq86d8mBjQ",
+        "name": "Buck Naked"
+      },
       "duration_ms": 231306,
-      "artist": [
-        "David Byrne"
+      "artists": [
+        {
+          "name": "David Byrne",
+          "id": "20vuBdFblWUo2FCOvUzusB"
+        }
       ],
-      "artistId": [
-        "20vuBdFblWUo2FCOvUzusB"
-      ],
-      "albumId": "2WbzNlosc1sZLa73KIM52c",
+      "album": {
+        "id": "2WbzNlosc1sZLa73KIM52c",
+        "name": "David Byrne",
+        "img": "https://i.scdn.co/image/ab67616d00001e02734104753ad510f3efb2859e"
+      },
       "release_date": "1994",
       "popularity": 12
     },
     {
-      "trackId": "2kyH0KTewrWaxLGcGYJBpT",
-      "name": "Så länge jag älskar är jag ung !",
+      "track": {
+        "id": "2kyH0KTewrWaxLGcGYJBpT",
+        "name": "Så länge jag älskar är jag ung !"
+      },
       "duration_ms": 182040,
-      "artist": [
-        "Robert Broberg"
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "id": "05JNHlwtdHqPJ6wcW7Mil5"
+        }
       ],
-      "artistId": [
-        "05JNHlwtdHqPJ6wcW7Mil5"
-      ],
-      "albumId": "1Llvxld0EkBmJbolBpmaE3",
+      "album": {
+        "id": "1Llvxld0EkBmJbolBpmaE3",
+        "name": "Universrum",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e5d38ebd9736d262336eec48"
+      },
       "release_date": "1999",
       "popularity": 3
     },
     {
-      "trackId": "68BTFws92cRztMS1oQ7Ewj",
-      "name": "All You Need Is Love - Remastered 2009",
+      "track": {
+        "id": "68BTFws92cRztMS1oQ7Ewj",
+        "name": "All You Need Is Love - Remastered 2009"
+      },
       "duration_ms": 230386,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "2BtE7qm1qzM80p9vLSiXkj",
+      "album": {
+        "id": "2BtE7qm1qzM80p9vLSiXkj",
+        "name": "Magical Mystery Tour (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1"
+      },
       "release_date": "1967-11-27",
       "popularity": 65
     },
     {
-      "trackId": "191WWeKEl9FKuTaSdJOqco",
-      "name": "Hey Boy",
+      "track": {
+        "id": "191WWeKEl9FKuTaSdJOqco",
+        "name": "Hey Boy"
+      },
       "duration_ms": 221333,
-      "artist": [
-        "Teddybears"
+      "artists": [
+        {
+          "name": "Teddybears",
+          "id": "3gqv1kgivAc92KnUm4elKv"
+        }
       ],
-      "artistId": [
-        "3gqv1kgivAc92KnUm4elKv"
-      ],
-      "albumId": "3EfRjYnoNrTohOPCjVFhR5",
+      "album": {
+        "id": "3EfRjYnoNrTohOPCjVFhR5",
+        "name": "Fresh",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c5ab58ca8dbe135c6482aeb"
+      },
       "release_date": "2004-08-18",
       "popularity": 44
     },
     {
-      "trackId": "1C7MakqvCbrMgHR3sQhhYP",
-      "name": "Drömmarna",
+      "track": {
+        "id": "1C7MakqvCbrMgHR3sQhhYP",
+        "name": "Drömmarna"
+      },
       "duration_ms": 194226,
-      "artist": [
-        "Freddie Wadling"
+      "artists": [
+        {
+          "name": "Freddie Wadling",
+          "id": "4NZBruC8XBoC8lj8kkW05m"
+        }
       ],
-      "artistId": [
-        "4NZBruC8XBoC8lj8kkW05m"
-      ],
-      "albumId": "5LdXXoHQxjvN8fJTGTJocm",
+      "album": {
+        "id": "5LdXXoHQxjvN8fJTGTJocm",
+        "name": "Jag är monstret",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212ff65b50eed488ad3336469"
+      },
       "release_date": "2005-03-23",
       "popularity": 29
     },
     {
-      "trackId": "1q5ar9JlwNPTb07I0XBtK0",
-      "name": "Ave Maria",
+      "track": {
+        "id": "1q5ar9JlwNPTb07I0XBtK0",
+        "name": "Ave Maria"
+      },
       "duration_ms": 170946,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Charles Gounod",
-        "Birgit Nilsson"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Charles Gounod",
+          "id": "42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Birgit Nilsson",
+          "id": "6ljM6B2XmSU7BtG3tZLQ1K"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "42Vmza0WYHdhsgxFmf9Tui",
-        "6ljM6B2XmSU7BtG3tZLQ1K"
-      ],
-      "albumId": "1CBcMMIlnP4B5pUcfOJY4n",
+      "album": {
+        "id": "1CBcMMIlnP4B5pUcfOJY4n",
+        "name": "En klassisk julsamling",
+        "img": "https://i.scdn.co/image/ab67616d00001e020a481ad46b0399b190de5773"
+      },
       "release_date": "2011-01-01",
       "popularity": 24
     },
     {
-      "trackId": "2JV4K9kJYsOG9M6cBpHE4M",
-      "name": "Magisk Snövit",
+      "track": {
+        "id": "2JV4K9kJYsOG9M6cBpHE4M",
+        "name": "Magisk Snövit"
+      },
       "duration_ms": 295999,
-      "artist": [
-        "Di Leva"
+      "artists": [
+        {
+          "name": "Di Leva",
+          "id": "4L82oD5L2XQPwkHWOAJSad"
+        }
       ],
-      "artistId": [
-        "4L82oD5L2XQPwkHWOAJSad"
-      ],
-      "albumId": "3KXIIFtQEtlQGvksx3K5D5",
+      "album": {
+        "id": "3KXIIFtQEtlQGvksx3K5D5",
+        "name": "Noll",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b38695a82b3dbfe666349bc7"
+      },
       "release_date": "1989-03-07",
       "popularity": 2
     },
     {
-      "trackId": "5pyLmB8P3CRw9mUnnZGV5o",
-      "name": "Flyg min väg",
+      "track": {
+        "id": "5pyLmB8P3CRw9mUnnZGV5o",
+        "name": "Flyg min väg"
+      },
       "duration_ms": 274600,
-      "artist": [
-        "Freddie Wadling",
-        "Nina Persson"
+      "artists": [
+        {
+          "name": "Freddie Wadling",
+          "id": "4NZBruC8XBoC8lj8kkW05m"
+        },
+        {
+          "name": "Nina Persson",
+          "id": "4nHhXbMpzESguKp9QHap0c"
+        }
       ],
-      "artistId": [
-        "4NZBruC8XBoC8lj8kkW05m",
-        "4nHhXbMpzESguKp9QHap0c"
-      ],
-      "albumId": "5LdXXoHQxjvN8fJTGTJocm",
+      "album": {
+        "id": "5LdXXoHQxjvN8fJTGTJocm",
+        "name": "Jag är monstret",
+        "img": "https://i.scdn.co/image/ab67616d00001e0212ff65b50eed488ad3336469"
+      },
       "release_date": "2005-03-23",
       "popularity": 15
     },
     {
-      "trackId": "3w5FLYG78FNuc5EkWMt9mP",
-      "name": "(Med En Spark) I En Park",
+      "track": {
+        "id": "3w5FLYG78FNuc5EkWMt9mP",
+        "name": "(Med En Spark) I En Park"
+      },
       "duration_ms": 131520,
-      "artist": [
-        "Traste Lindéns Kvintett"
+      "artists": [
+        {
+          "name": "Traste Lindéns Kvintett",
+          "id": "01Vt0BRbTARedL3RNZthg2"
+        }
       ],
-      "artistId": [
-        "01Vt0BRbTARedL3RNZthg2"
-      ],
-      "albumId": "2JctwD1mtTGlHW544d84w0",
+      "album": {
+        "id": "2JctwD1mtTGlHW544d84w0",
+        "name": "Sportsfiskarn / Bybor",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e512cb8f8de3c5695862286"
+      },
       "release_date": "1991-04-03",
       "popularity": 8
     },
     {
-      "trackId": "0lVXSiGSRWKnjbPXietUAE",
-      "name": "Walk on Water",
+      "track": {
+        "id": "0lVXSiGSRWKnjbPXietUAE",
+        "name": "Walk on Water"
+      },
       "duration_ms": 206173,
-      "artist": [
-        "David Byrne"
+      "artists": [
+        {
+          "name": "David Byrne",
+          "id": "20vuBdFblWUo2FCOvUzusB"
+        }
       ],
-      "artistId": [
-        "20vuBdFblWUo2FCOvUzusB"
-      ],
-      "albumId": "7JfJie0H9EoWTMfFWW545c",
+      "album": {
+        "id": "7JfJie0H9EoWTMfFWW545c",
+        "name": "Look into the Eyeball",
+        "img": "https://i.scdn.co/image/ab67616d00001e02585153fdc2332018a416d491"
+      },
       "release_date": "2001-05-08",
       "popularity": 17
     }

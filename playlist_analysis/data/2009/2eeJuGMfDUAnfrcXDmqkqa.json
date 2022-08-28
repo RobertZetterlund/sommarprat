@@ -7,300 +7,446 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3247539_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3BQHpFgAp4l80e1XslIjNI",
-      "name": "Yesterday - Remastered 2009",
+      "track": {
+        "id": "3BQHpFgAp4l80e1XslIjNI",
+        "name": "Yesterday - Remastered 2009"
+      },
       "duration_ms": 125666,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+      "album": {
+        "id": "0PT5m6hwPRrpBwIHVnvbFX",
+        "name": "Help! (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa"
+      },
       "release_date": "1965-08-06",
       "popularity": 75
     },
     {
-      "trackId": "3OkFDpVIkFPxjam3sSad8o",
-      "name": "Cadillac",
+      "track": {
+        "id": "3OkFDpVIkFPxjam3sSad8o",
+        "name": "Cadillac"
+      },
       "duration_ms": 161653,
-      "artist": [
-        "Hep Stars"
+      "artists": [
+        {
+          "name": "Hep Stars",
+          "id": "7FZqbNdkNb0UVVze7L8PGp"
+        }
       ],
-      "artistId": [
-        "7FZqbNdkNb0UVVze7L8PGp"
-      ],
-      "albumId": "4TshAwe93GgOaAqtuFIOMg",
+      "album": {
+        "id": "4TshAwe93GgOaAqtuFIOMg",
+        "name": "We And Our Cadillac",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b981885fb9826cf75a84e31"
+      },
       "release_date": "1964",
       "popularity": 37
     },
     {
-      "trackId": "7dYHFjUaV00o0eqATMEC14",
-      "name": "Fröken Fräken",
+      "track": {
+        "id": "7dYHFjUaV00o0eqATMEC14",
+        "name": "Fröken Fräken"
+      },
       "duration_ms": 180346,
-      "artist": [
-        "Sven-Ingvars"
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "id": "1nYKikHu8WWMKYVTcNyyzs"
+        }
       ],
-      "artistId": [
-        "1nYKikHu8WWMKYVTcNyyzs"
-      ],
-      "albumId": "142x8DL32k0QbhIaoow7Jr",
+      "album": {
+        "id": "142x8DL32k0QbhIaoow7Jr",
+        "name": "Mer glöd än någonsin - Sven-Ingvars bästa",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c2c77bd6b6dc3f213ca99908"
+      },
       "release_date": "2015-12-11",
       "popularity": 32
     },
     {
-      "trackId": "5MbBaf3sJsDEbflKzNrYUr",
-      "name": "Hear My Prayer, Hymn for Soprano, Chorus and Organ: O For The Wings Of A Dove",
+      "track": {
+        "id": "5MbBaf3sJsDEbflKzNrYUr",
+        "name": "Hear My Prayer, Hymn for Soprano, Chorus and Organ: O For The Wings Of A Dove"
+      },
       "duration_ms": 360333,
-      "artist": [
-        "Felix Mendelssohn",
-        "Alastair Hussain",
-        "Choir of King's College, Cambridge"
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "id": "6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Alastair Hussain",
+          "id": "6YlEwKfeOBEoMYFV8iOKZ8"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "id": "0f3PsS9IQ6whvNMFFKnpjl"
+        }
       ],
-      "artistId": [
-        "6MF58APd3YV72Ln2eVg710",
-        "6YlEwKfeOBEoMYFV8iOKZ8",
-        "0f3PsS9IQ6whvNMFFKnpjl"
-      ],
-      "albumId": "2kWzNi1vHcycGvbrOzUVKr",
+      "album": {
+        "id": "2kWzNi1vHcycGvbrOzUVKr",
+        "name": "The King's Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a8944daa737d8560e85a222"
+      },
       "release_date": "1998-01-01",
       "popularity": 7
     },
     {
-      "trackId": "6cUCckpdlqHJ5Ascf2uH2A",
-      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "track": {
+        "id": "6cUCckpdlqHJ5Ascf2uH2A",
+        "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio"
+      },
       "duration_ms": 442000,
-      "artist": [
-        "Ludwig van Beethoven",
-        "Wiener Philharmoniker",
-        "Carlos Kleiber"
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "id": "2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "id": "003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "id": "6aL4ovuNuBg7rmrPjOTIUN"
+        }
       ],
-      "artistId": [
-        "2wOqMjp9TyABvtHdOSOTUS",
-        "003f4bk13c6Q3gAUXv7dGJ",
-        "6aL4ovuNuBg7rmrPjOTIUN"
-      ],
-      "albumId": "6eOuqhCfrTPp1H0YbQ9PmL",
+      "album": {
+        "id": "6eOuqhCfrTPp1H0YbQ9PmL",
+        "name": "Beethoven: Symphonies Nos.5 & 7",
+        "img": "https://i.scdn.co/image/ab67616d00001e023f26be8a62aa6532c2ed93f2"
+      },
       "release_date": "1995-01-01",
       "popularity": 61
     },
     {
-      "trackId": "5QArENPUdFKQnQYP2R8lca",
-      "name": "Sången, Op. 44: Interlude",
+      "track": {
+        "id": "5QArENPUdFKQnQYP2R8lca",
+        "name": "Sången, Op. 44: Interlude"
+      },
       "duration_ms": 373466,
-      "artist": [
-        "Wilhelm Stenhammar",
-        "Swedish Radio Symphony Orchestra",
-        "Herbert Blomstedt"
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "id": "6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "id": "0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "id": "3H5lFsmGtr8CoZexz2rznB"
+        }
       ],
-      "artistId": [
-        "6gfRaesyLupPd0gDQaLwJV",
-        "0K6ufQj8JzIZPPkvZrEwJS",
-        "3H5lFsmGtr8CoZexz2rznB"
-      ],
-      "albumId": "7zBfdTWykzKpNi6f9bgkjk",
+      "album": {
+        "id": "7zBfdTWykzKpNi6f9bgkjk",
+        "name": "Wilhelm Stenhammar – A Musical Portrait",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af86d73083676212f7f50b3c"
+      },
       "release_date": "2012-03-01",
       "popularity": 0
     },
     {
-      "trackId": "0jjtCzdKOkuA73X4iznBGo",
-      "name": "Heartbeats",
+      "track": {
+        "id": "0jjtCzdKOkuA73X4iznBGo",
+        "name": "Heartbeats"
+      },
       "duration_ms": 231828,
-      "artist": [
-        "The Knife"
+      "artists": [
+        {
+          "name": "The Knife",
+          "id": "7eQZTqEMozBcuSubfu52i4"
+        }
       ],
-      "artistId": [
-        "7eQZTqEMozBcuSubfu52i4"
-      ],
-      "albumId": "5FXkHlKsYgwo8IJ4sHL1gs",
+      "album": {
+        "id": "5FXkHlKsYgwo8IJ4sHL1gs",
+        "name": "Deep Cuts",
+        "img": "https://i.scdn.co/image/ab67616d00001e02232a76e5c4c7bd8279c05272"
+      },
       "release_date": "2003",
       "popularity": 39
     },
     {
-      "trackId": "0P0LAsqiavYc6V54JSeseB",
-      "name": "Symphony No. 5 in D Minor, Op. 47: I. Moderato",
+      "track": {
+        "id": "0P0LAsqiavYc6V54JSeseB",
+        "name": "Symphony No. 5 in D Minor, Op. 47: I. Moderato"
+      },
       "duration_ms": 979720,
-      "artist": [
-        "Dmitri Shostakovich",
-        "Leonard Bernstein",
-        "New York Philharmonic"
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "id": "2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "id": "3gacryguGmpmCvgPGt2CBI"
+        }
       ],
-      "artistId": [
-        "6s1pCNXcbdtQJlsnM1hRIA",
-        "2LmyJyCF5V1eQyvHgJNbTn",
-        "3gacryguGmpmCvgPGt2CBI"
-      ],
-      "albumId": "00d6wTUJHGsrxPmbETXGWm",
+      "album": {
+        "id": "00d6wTUJHGsrxPmbETXGWm",
+        "name": "Shostakovich: Symphony No. 5 in D Minor, Op. 47 (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ed94461b8e8346614de71d95"
+      },
       "release_date": "2017-11-17",
       "popularity": 31
     },
     {
-      "trackId": "35ZL1Ggh1LE92GiywHLMpn",
-      "name": "Symphony No. 5 in D Minor, Op. 47: I. Moderato",
+      "track": {
+        "id": "35ZL1Ggh1LE92GiywHLMpn",
+        "name": "Symphony No. 5 in D Minor, Op. 47: I. Moderato"
+      },
       "duration_ms": 1086200,
-      "artist": [
-        "Dmitri Shostakovich",
-        "Royal Concertgebouw Orchestra",
-        "Bernard Haitink"
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "id": "6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "id": "2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Bernard Haitink",
+          "id": "13F9LNBUeRx3FYLr96Bge1"
+        }
       ],
-      "artistId": [
-        "6s1pCNXcbdtQJlsnM1hRIA",
-        "2HqNckz4bPVT37fWkhugTZ",
-        "13F9LNBUeRx3FYLr96Bge1"
-      ],
-      "albumId": "0F6zuQzaGvQuJZjLh3zIhw",
+      "album": {
+        "id": "0F6zuQzaGvQuJZjLh3zIhw",
+        "name": "Shostakovich: Symphonies Nos.5 & 9",
+        "img": "https://i.scdn.co/image/ab67616d00001e02267de03e771e5b3c66f298e4"
+      },
       "release_date": "1993-01-01",
       "popularity": 3
     },
     {
-      "trackId": "7jEL6Xl00hiEGwvuSYlRRG",
-      "name": "After You've Gone",
+      "track": {
+        "id": "7jEL6Xl00hiEGwvuSYlRRG",
+        "name": "After You've Gone"
+      },
       "duration_ms": 146327,
-      "artist": [
-        "Jack Teagarden"
+      "artists": [
+        {
+          "name": "Jack Teagarden",
+          "id": "3okiREk3dV4F8BmK7cpEJf"
+        }
       ],
-      "artistId": [
-        "3okiREk3dV4F8BmK7cpEJf"
-      ],
-      "albumId": "5hKcZQLJttDf4ATwNtPWGV",
+      "album": {
+        "id": "5hKcZQLJttDf4ATwNtPWGV",
+        "name": "In Concert",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e0e33ee9d05d1c4d2e4b4b83"
+      },
       "release_date": "2000-01-01",
       "popularity": 0
     },
     {
-      "trackId": "1AX1SSHwqQJd6NKkSvCyy7",
-      "name": "High Altitude V",
+      "track": {
+        "id": "1AX1SSHwqQJd6NKkSvCyy7",
+        "name": "High Altitude V"
+      },
       "duration_ms": 64628,
-      "artist": [
-        "Christian Lindberg",
-        "Swedish Chamber Orchestra"
+      "artists": [
+        {
+          "name": "Christian Lindberg",
+          "id": "2gQKtXD5BZqKT8Tl9JfFcy"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "id": "1mlMBjVFn5oeZLAXHIM5no"
+        }
       ],
-      "artistId": [
-        "2gQKtXD5BZqKT8Tl9JfFcy",
-        "1mlMBjVFn5oeZLAXHIM5no"
-      ],
-      "albumId": "7ft6YNXsdQGVrnM7oO6acr",
+      "album": {
+        "id": "7ft6YNXsdQGVrnM7oO6acr",
+        "name": "Best of Brass Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e805b9d702bfc53ea47a472"
+      },
       "release_date": "2022-05-17",
       "popularity": 20
     },
     {
-      "trackId": "1AX1SSHwqQJd6NKkSvCyy7",
-      "name": "High Altitude V",
+      "track": {
+        "id": "1AX1SSHwqQJd6NKkSvCyy7",
+        "name": "High Altitude V"
+      },
       "duration_ms": 64628,
-      "artist": [
-        "Christian Lindberg",
-        "Swedish Chamber Orchestra"
+      "artists": [
+        {
+          "name": "Christian Lindberg",
+          "id": "2gQKtXD5BZqKT8Tl9JfFcy"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "id": "1mlMBjVFn5oeZLAXHIM5no"
+        }
       ],
-      "artistId": [
-        "2gQKtXD5BZqKT8Tl9JfFcy",
-        "1mlMBjVFn5oeZLAXHIM5no"
-      ],
-      "albumId": "7ft6YNXsdQGVrnM7oO6acr",
+      "album": {
+        "id": "7ft6YNXsdQGVrnM7oO6acr",
+        "name": "Best of Brass Vol. 1",
+        "img": "https://i.scdn.co/image/ab67616d00001e021e805b9d702bfc53ea47a472"
+      },
       "release_date": "2022-05-17",
       "popularity": 20
     },
     {
-      "trackId": "4RcVvMKvSZ6mZgayrN9ISB",
-      "name": "Arabenne",
+      "track": {
+        "id": "4RcVvMKvSZ6mZgayrN9ISB",
+        "name": "Arabenne"
+      },
       "duration_ms": 678000,
-      "artist": [
-        "Christian Lindberg",
-        "Tapiola Sinfonietta",
-        "Jean-Jacques Kantorow"
+      "artists": [
+        {
+          "name": "Christian Lindberg",
+          "id": "2gQKtXD5BZqKT8Tl9JfFcy"
+        },
+        {
+          "name": "Tapiola Sinfonietta",
+          "id": "1aCLiYz6Kl83key0zcgCxc"
+        },
+        {
+          "name": "Jean-Jacques Kantorow",
+          "id": "5cz9CTjiVooDMiVFPmLJTx"
+        }
       ],
-      "artistId": [
-        "2gQKtXD5BZqKT8Tl9JfFcy",
-        "1aCLiYz6Kl83key0zcgCxc",
-        "5cz9CTjiVooDMiVFPmLJTx"
-      ],
-      "albumId": "2UyY1qLNF8NXEEKuXy2Mhv",
+      "album": {
+        "id": "2UyY1qLNF8NXEEKuXy2Mhv",
+        "name": "Lindberg: Mandrake in the Corner / Arabenne",
+        "img": "https://i.scdn.co/image/ab67616d00001e02845ced96be462b07de8b5663"
+      },
       "release_date": "2001-01-31",
       "popularity": 0
     },
     {
-      "trackId": "67ibXkmavZoN2S6m86p70f",
-      "name": "Look For The Silver Lining",
+      "track": {
+        "id": "67ibXkmavZoN2S6m86p70f",
+        "name": "Look For The Silver Lining"
+      },
       "duration_ms": 159426,
-      "artist": [
-        "Chet Baker"
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "id": "3rxeQlsv0Sc2nyYaZ5W71T"
+        }
       ],
-      "artistId": [
-        "3rxeQlsv0Sc2nyYaZ5W71T"
-      ],
-      "albumId": "5JJ779nrbHx0KB2lBrMMa4",
+      "album": {
+        "id": "5JJ779nrbHx0KB2lBrMMa4",
+        "name": "Chet Baker Sings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bcaf6f097b310e20504f2de0"
+      },
       "release_date": "1956",
       "popularity": 48
     },
     {
-      "trackId": "4OqYY87ie0DwxlKZl1tPvF",
-      "name": "Frosoblomster (Froso-Flowers), Book 3: No. 2. Intag i Sommarhagen (Enter into Summer Pastures)",
+      "track": {
+        "id": "4OqYY87ie0DwxlKZl1tPvF",
+        "name": "Frosoblomster (Froso-Flowers), Book 3: No. 2. Intag i Sommarhagen (Enter into Summer Pastures)"
+      },
       "duration_ms": 285840,
-      "artist": [
-        "Anonymous",
-        "Wilhelm Peterson-Berger",
-        "Helsingborg Symphony Orchestra"
+      "artists": [
+        {
+          "name": "Anonymous",
+          "id": "4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Wilhelm Peterson-Berger",
+          "id": "1pnzip6Xgb2Qs3xWHFx6Jt"
+        },
+        {
+          "name": "Helsingborg Symphony Orchestra",
+          "id": "0K2m2TlgHkcp32NAZV6Omw"
+        }
       ],
-      "artistId": [
-        "4kCZ5nyurc9eIqLJfUcW0Y",
-        "1pnzip6Xgb2Qs3xWHFx6Jt",
-        "0K2m2TlgHkcp32NAZV6Omw"
-      ],
-      "albumId": "69CJmijbCSJyKfrEqPrl1n",
+      "album": {
+        "id": "69CJmijbCSJyKfrEqPrl1n",
+        "name": "Nordiska Klassiska Favoriter (Nordic Favourites)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b52af122f3cae3d7e9c9932f"
+      },
       "release_date": "1999-12-09",
       "popularity": 1
     },
     {
-      "trackId": "4jusg47vkRH2gjztuaCFAY",
-      "name": "Leolandia esiste davvero",
+      "track": {
+        "id": "4jusg47vkRH2gjztuaCFAY",
+        "name": "Leolandia esiste davvero"
+      },
       "duration_ms": 204480,
-      "artist": [
-        "Giulio Magliato"
+      "artists": [
+        {
+          "name": "Giulio Magliato",
+          "id": "1MfkY1qfV99V2jjSJPEKIq"
+        }
       ],
-      "artistId": [
-        "1MfkY1qfV99V2jjSJPEKIq"
-      ],
-      "albumId": "6W8OByOfAngp3tsMvpWHnR",
+      "album": {
+        "id": "6W8OByOfAngp3tsMvpWHnR",
+        "name": "Leolandia compilation 2021",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c38735e339211f4d23b915bf"
+      },
       "release_date": "2021-07-30",
       "popularity": 15
     },
     {
-      "trackId": "2jtUGFsqanQ82zqDlhiKIp",
-      "name": "She Came In Through The Bathroom Window - Remastered 2009",
+      "track": {
+        "id": "2jtUGFsqanQ82zqDlhiKIp",
+        "name": "She Came In Through The Bathroom Window - Remastered 2009"
+      },
       "duration_ms": 118626,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 56
     },
     {
-      "trackId": "5aHHf6jrqDRb1fcBmue2kn",
-      "name": "The End - Remastered 2009",
+      "track": {
+        "id": "5aHHf6jrqDRb1fcBmue2kn",
+        "name": "The End - Remastered 2009"
+      },
       "duration_ms": 141613,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 56
     },
     {
-      "trackId": "36h6bfNCBLZqXAe9l8tXAs",
-      "name": "Jesus Kristus dra mig till Dig",
+      "track": {
+        "id": "36h6bfNCBLZqXAe9l8tXAs",
+        "name": "Jesus Kristus dra mig till Dig"
+      },
       "duration_ms": 288106,
-      "artist": [
-        "Ellen Vingren"
+      "artists": [
+        {
+          "name": "Ellen Vingren",
+          "id": "7o4tHU7Evcbk2bCaeWznz0"
+        }
       ],
-      "artistId": [
-        "7o4tHU7Evcbk2bCaeWznz0"
-      ],
-      "albumId": "5SwmlsD6gaswaPEIzFIFTS",
+      "album": {
+        "id": "5SwmlsD6gaswaPEIzFIFTS",
+        "name": "För evigt Din – Nära Faderns hjärta 9",
+        "img": "https://i.scdn.co/image/ab67616d00001e028040afb5d2a31afeb76eaa9d"
+      },
       "release_date": "2014-02-24",
       "popularity": 21
     }

@@ -7,198 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/4fc2c588-7f8c-422d-8f89-69601cf9ab47.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "54X78diSLoUDI3joC2bjMz",
-      "name": "Purple Rain",
+      "track": {
+        "id": "54X78diSLoUDI3joC2bjMz",
+        "name": "Purple Rain"
+      },
       "duration_ms": 520786,
-      "artist": [
-        "Prince"
+      "artists": [
+        {
+          "name": "Prince",
+          "id": "5a2EaR3hamoenG9rDuVn8j"
+        }
       ],
-      "artistId": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ],
-      "albumId": "7nXJ5k4XgRj5OLg9m8V3zc",
+      "album": {
+        "id": "7nXJ5k4XgRj5OLg9m8V3zc",
+        "name": "Purple Rain",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d52bfb90ee8dfeda8378b99b"
+      },
       "release_date": "1984-06-25",
       "popularity": 74
     },
     {
-      "trackId": "70LcF31zb1H0PyJoS1Sx1r",
-      "name": "Creep",
+      "track": {
+        "id": "70LcF31zb1H0PyJoS1Sx1r",
+        "name": "Creep"
+      },
       "duration_ms": 238640,
-      "artist": [
-        "Radiohead"
+      "artists": [
+        {
+          "name": "Radiohead",
+          "id": "4Z8W4fKeB5YxbusRsdQVPb"
+        }
       ],
-      "artistId": [
-        "4Z8W4fKeB5YxbusRsdQVPb"
-      ],
-      "albumId": "3gBVdu4a1MMJVMy6vwPEb8",
+      "album": {
+        "id": "3gBVdu4a1MMJVMy6vwPEb8",
+        "name": "Pablo Honey",
+        "img": "https://i.scdn.co/image/ab67616d00001e02df55e326ed144ab4f5cecf95"
+      },
       "release_date": "1993-02-22",
       "popularity": 84
     },
     {
-      "trackId": "0bGH7ezs7WdDwpqnsvGf1z",
-      "name": "Purple Hat",
+      "track": {
+        "id": "0bGH7ezs7WdDwpqnsvGf1z",
+        "name": "Purple Hat"
+      },
       "duration_ms": 178369,
-      "artist": [
-        "Sofi Tukker"
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "id": "586uxXMyD5ObPuzjtrzO1Q"
+        }
       ],
-      "artistId": [
-        "586uxXMyD5ObPuzjtrzO1Q"
-      ],
-      "albumId": "4L9MrIcjiPN4luIoWP8XgG",
+      "album": {
+        "id": "4L9MrIcjiPN4luIoWP8XgG",
+        "name": "Purple Hat",
+        "img": "https://i.scdn.co/image/ab67616d00001e02818685825c4be7951a2ec4bb"
+      },
       "release_date": "2019-09-06",
       "popularity": 69
     },
     {
-      "trackId": "18VAjAG3abDUk07HjofIpN",
-      "name": "Hon är så söt",
+      "track": {
+        "id": "18VAjAG3abDUk07HjofIpN",
+        "name": "Hon är så söt"
+      },
       "duration_ms": 231480,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "6dP45KohLF1BT51swxIpyU",
+      "album": {
+        "id": "6dP45KohLF1BT51swxIpyU",
+        "name": "På hotell",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a338d31da1718f639bef626"
+      },
       "release_date": "1994-08-11",
       "popularity": 42
     },
     {
-      "trackId": "7fRraBAsz196nl1luKsbmW",
-      "name": "Tänk om",
+      "track": {
+        "id": "7fRraBAsz196nl1luKsbmW",
+        "name": "Tänk om"
+      },
       "duration_ms": 248266,
-      "artist": [
-        "Tjuvjakt"
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "id": "0XDfNJsQy7B3q0GfsMHSkp"
+        }
       ],
-      "artistId": [
-        "0XDfNJsQy7B3q0GfsMHSkp"
-      ],
-      "albumId": "67T1cOxyytlZHnU6COI582",
+      "album": {
+        "id": "67T1cOxyytlZHnU6COI582",
+        "name": "okokokokokokok",
+        "img": "https://i.scdn.co/image/ab67616d00001e027a1028e6a6b6faaa676ff2f2"
+      },
       "release_date": "2018-06-01",
       "popularity": 33
     },
     {
-      "trackId": "3lWzVNe1yFZlkeBBzUuZYu",
-      "name": "Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist",
+      "track": {
+        "id": "3lWzVNe1yFZlkeBBzUuZYu",
+        "name": "Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist"
+      },
       "duration_ms": 139844,
-      "artist": [
-        "Manu Pilas"
+      "artists": [
+        {
+          "name": "Manu Pilas",
+          "id": "2TJHmhbmT7L3gw2NKyDTHh"
+        }
       ],
-      "artistId": [
-        "2TJHmhbmT7L3gw2NKyDTHh"
-      ],
-      "albumId": "05Ng00IfiS6xeyQX8WtjHU",
+      "album": {
+        "id": "05Ng00IfiS6xeyQX8WtjHU",
+        "name": "Bella Ciao (Música Original de la Serie la Casa de Papel/ Money Heist)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f3c7e4934b8dd9eedf69e6e5"
+      },
       "release_date": "2018-04-20",
       "popularity": 68
     },
     {
-      "trackId": "2EqlS6tkEnglzr7tkKAAYD",
-      "name": "Come Together - Remastered 2009",
+      "track": {
+        "id": "2EqlS6tkEnglzr7tkKAAYD",
+        "name": "Come Together - Remastered 2009"
+      },
       "duration_ms": 259946,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "0ETFjACtuP2ADo6LFhL6HN",
+      "album": {
+        "id": "0ETFjACtuP2ADo6LFhL6HN",
+        "name": "Abbey Road (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
+      },
       "release_date": "1969-09-26",
       "popularity": 77
     },
     {
-      "trackId": "3WMbD1OyfKuwWDWMNbPQ4g",
-      "name": "Daddy Cool",
+      "track": {
+        "id": "3WMbD1OyfKuwWDWMNbPQ4g",
+        "name": "Daddy Cool"
+      },
       "duration_ms": 208600,
-      "artist": [
-        "Boney M."
+      "artists": [
+        {
+          "name": "Boney M.",
+          "id": "54R6Y0I7jGUCveDTtI21nb"
+        }
       ],
-      "artistId": [
-        "54R6Y0I7jGUCveDTtI21nb"
-      ],
-      "albumId": "1KQUrny9y5zGpktF6hAGd4",
+      "album": {
+        "id": "1KQUrny9y5zGpktF6hAGd4",
+        "name": "Take The Heat Off Me",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dafd1cd6e9537ec8463ea691"
+      },
       "release_date": "1976",
       "popularity": 71
     },
     {
-      "trackId": "1ecJdAizaDklfgCVtEUQsG",
-      "name": "Vill ha dig",
+      "track": {
+        "id": "1ecJdAizaDklfgCVtEUQsG",
+        "name": "Vill ha dig"
+      },
       "duration_ms": 215560,
-      "artist": [
-        "Freestyle"
+      "artists": [
+        {
+          "name": "Freestyle",
+          "id": "7fGejcqwbdfn47UP7NcdUt"
+        }
       ],
-      "artistId": [
-        "7fGejcqwbdfn47UP7NcdUt"
-      ],
-      "albumId": "2trJEF3hUbTvOC0p3bysMU",
+      "album": {
+        "id": "2trJEF3hUbTvOC0p3bysMU",
+        "name": "Guldkorn Den Kompletta Samlingen",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dc36ee35a5b06482391dfbfd"
+      },
       "release_date": "1998-03-16",
       "popularity": 50
     },
     {
-      "trackId": "7EFceI7dog2WpYbwByMjV0",
-      "name": "Som isarna - När det blir vår",
+      "track": {
+        "id": "7EFceI7dog2WpYbwByMjV0",
+        "name": "Som isarna - När det blir vår"
+      },
       "duration_ms": 305559,
-      "artist": [
-        "Orup"
+      "artists": [
+        {
+          "name": "Orup",
+          "id": "6fJM13619LsYtyPqHvsf6A"
+        }
       ],
-      "artistId": [
-        "6fJM13619LsYtyPqHvsf6A"
-      ],
-      "albumId": "2acysGDoVp1HhXMgYU5TIO",
+      "album": {
+        "id": "2acysGDoVp1HhXMgYU5TIO",
+        "name": "Orup 5",
+        "img": "https://i.scdn.co/image/ab67616d00001e025804b7c6edf0a137c3f1a3a3"
+      },
       "release_date": "1993-03-03",
       "popularity": 37
     },
     {
-      "trackId": "2ENzbkJJShkj1d9mPKofQ9",
-      "name": "Nu kan du få mig så lätt",
+      "track": {
+        "id": "2ENzbkJJShkj1d9mPKofQ9",
+        "name": "Nu kan du få mig så lätt"
+      },
       "duration_ms": 268333,
-      "artist": [
-        "Håkan Hellström"
+      "artists": [
+        {
+          "name": "Håkan Hellström",
+          "id": "3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
       ],
-      "artistId": [
-        "3H7Ez7cwaYw4L3ELy4v3Lc"
-      ],
-      "albumId": "3GLyWjI7skSDxKOBEhAhUE",
+      "album": {
+        "id": "3GLyWjI7skSDxKOBEhAhUE",
+        "name": "Känn ingen sorg för mig Göteborg",
+        "img": "https://i.scdn.co/image/ab67616d00001e029cf9c73c1277ff94d4608a32"
+      },
       "release_date": "2000-09-25",
       "popularity": 53
     },
     {
-      "trackId": "3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way",
+      "track": {
+        "id": "3spdoTYpuCpmq19tuD0bOe",
+        "name": "My Way"
+      },
       "duration_ms": 276800,
-      "artist": [
-        "Frank Sinatra"
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
+        }
       ],
-      "artistId": [
-        "1Mxqyy3pSjf8kZZL4QVxS0"
-      ],
-      "albumId": "3IdNQBn7De23AVyv2V67wn",
+      "album": {
+        "id": "3IdNQBn7De23AVyv2V67wn",
+        "name": "My Way (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0280aa6a82fce614eea8357253"
+      },
       "release_date": "1969-03",
       "popularity": 71
     },
     {
-      "trackId": "0NUzX8hwfUC7ZZ1kaXckvb",
-      "name": "My Way",
+      "track": {
+        "id": "0NUzX8hwfUC7ZZ1kaXckvb",
+        "name": "My Way"
+      },
       "duration_ms": 245413,
-      "artist": [
-        "Sex Pistols"
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "id": "1u7kkVrr14iBvrpYnZILJR"
+        }
       ],
-      "artistId": [
-        "1u7kkVrr14iBvrpYnZILJR"
-      ],
-      "albumId": "31saU8yDo1EVbvEBgScfOD",
+      "album": {
+        "id": "31saU8yDo1EVbvEBgScfOD",
+        "name": "The Great Rock 'N' Roll Swindle",
+        "img": "https://i.scdn.co/image/ab67616d00001e024cd46b77a0b802fb173ae3a2"
+      },
       "release_date": "1979-02-26",
       "popularity": 40
     },
     {
-      "trackId": "5TUs6T93fNFvgQov6MlYkP",
-      "name": "Your Song",
+      "track": {
+        "id": "5TUs6T93fNFvgQov6MlYkP",
+        "name": "Your Song"
+      },
       "duration_ms": 390986,
-      "artist": [
-        "Billy Paul"
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "id": "187xgSpsFH8mMbAcoCW0zE"
+        }
       ],
-      "artistId": [
-        "187xgSpsFH8mMbAcoCW0zE"
-      ],
-      "albumId": "2t3e2RCx9fmVO7jmhrOm3a",
+      "album": {
+        "id": "2t3e2RCx9fmVO7jmhrOm3a",
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c0a60253689c598d83528149"
+      },
       "release_date": "1972-10-25",
       "popularity": 62
     }

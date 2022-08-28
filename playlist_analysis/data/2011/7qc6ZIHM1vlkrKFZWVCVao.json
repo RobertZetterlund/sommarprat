@@ -7,188 +7,270 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3242431_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "5zH710lFSLtkHbMkslLDjR",
-      "name": "Crazy On You",
+      "track": {
+        "id": "5zH710lFSLtkHbMkslLDjR",
+        "name": "Crazy On You"
+      },
       "duration_ms": 293440,
-      "artist": [
-        "Heart"
+      "artists": [
+        {
+          "name": "Heart",
+          "id": "34jw2BbxjoYalTp8cJFCPv"
+        }
       ],
-      "artistId": [
-        "34jw2BbxjoYalTp8cJFCPv"
-      ],
-      "albumId": "2N0AgtWbCmVoNUl2GN1opH",
+      "album": {
+        "id": "2N0AgtWbCmVoNUl2GN1opH",
+        "name": "Dreamboat Annie",
+        "img": "https://i.scdn.co/image/ab67616d00001e028e8c08ca2feb999bb84f05e6"
+      },
       "release_date": "1975",
       "popularity": 68
     },
     {
-      "trackId": "0fonScmHUzC0MglSLn9saA",
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
+      "track": {
+        "id": "0fonScmHUzC0MglSLn9saA",
+        "name": "Da Doo Ron Ron (When He Walked Me Home)"
+      },
       "duration_ms": 140120,
-      "artist": [
-        "The Crystals"
+      "artists": [
+        {
+          "name": "The Crystals",
+          "id": "7rewR1TVjhisjI6gauUamf"
+        }
       ],
-      "artistId": [
-        "7rewR1TVjhisjI6gauUamf"
-      ],
-      "albumId": "11ho9FxQbJjMbQn1P1yWpm",
+      "album": {
+        "id": "11ho9FxQbJjMbQn1P1yWpm",
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a93e542069f023c3c9be9b8d"
+      },
       "release_date": "2011-02-22",
       "popularity": 58
     },
     {
-      "trackId": "08rAnrICc7QJl2FxaW45WO",
-      "name": "Like An Angel Passing Through My Room",
+      "track": {
+        "id": "08rAnrICc7QJl2FxaW45WO",
+        "name": "Like An Angel Passing Through My Room"
+      },
       "duration_ms": 214666,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "5GByGaws7Cw0t28kjvAOzV",
+      "album": {
+        "id": "5GByGaws7Cw0t28kjvAOzV",
+        "name": "The Visitors (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0242678f54dfd1d5afb3eea19a"
+      },
       "release_date": "1981",
       "popularity": 37
     },
     {
-      "trackId": "6k6j3ZUljY1QLTMbc8VqB0",
-      "name": "Ballroom Blitz",
+      "track": {
+        "id": "6k6j3ZUljY1QLTMbc8VqB0",
+        "name": "Ballroom Blitz"
+      },
       "duration_ms": 240629,
-      "artist": [
-        "Sweet"
+      "artists": [
+        {
+          "name": "Sweet",
+          "id": "3JaAGmSTpJK35DqWrDUzBz"
+        }
       ],
-      "artistId": [
-        "3JaAGmSTpJK35DqWrDUzBz"
-      ],
-      "albumId": "3fNhyXjcqOWEo4gXnE8UTV",
+      "album": {
+        "id": "3fNhyXjcqOWEo4gXnE8UTV",
+        "name": "Throwback Tunes: Classic Rock",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aaca298e6fc1b377b699572b"
+      },
       "release_date": "2017-10-20",
       "popularity": 61
     },
     {
-      "trackId": "6yBbmHFTxihIDFAerzDMGi",
-      "name": "Hold On Tight",
+      "track": {
+        "id": "6yBbmHFTxihIDFAerzDMGi",
+        "name": "Hold On Tight"
+      },
       "duration_ms": 186600,
-      "artist": [
-        "Electric Light Orchestra"
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "id": "7jefIIksOi1EazgRTfW2Pk"
+        }
       ],
-      "artistId": [
-        "7jefIIksOi1EazgRTfW2Pk"
-      ],
-      "albumId": "4k1GJg2poyo6hwWLqJn9C2",
+      "album": {
+        "id": "4k1GJg2poyo6hwWLqJn9C2",
+        "name": "Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a2bad3ba10ed2a9c5322418"
+      },
       "release_date": "1981-08-01",
       "popularity": 58
     },
     {
-      "trackId": "7pu8AhGUxHZSCWTkQ2eb5M",
-      "name": "Bad Reputation",
+      "track": {
+        "id": "7pu8AhGUxHZSCWTkQ2eb5M",
+        "name": "Bad Reputation"
+      },
       "duration_ms": 169186,
-      "artist": [
-        "Joan Jett & the Blackhearts"
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "id": "1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
       ],
-      "artistId": [
-        "1Fmb52lZ6Jv7FMWXXTPO3K"
-      ],
-      "albumId": "1gB28ytYFQElaXngAfeYep",
+      "album": {
+        "id": "1gB28ytYFQElaXngAfeYep",
+        "name": "Bad Reputation (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02649fa6da25444974c752db30"
+      },
       "release_date": "1981-01-23",
       "popularity": 68
     },
     {
-      "trackId": "5YSI1311X8t31PBjkBG4CZ",
-      "name": "Wuthering Heights",
+      "track": {
+        "id": "5YSI1311X8t31PBjkBG4CZ",
+        "name": "Wuthering Heights"
+      },
       "duration_ms": 269066,
-      "artist": [
-        "Kate Bush"
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "id": "1aSxMhuvixZ8h9dK9jIDwL"
+        }
       ],
-      "artistId": [
-        "1aSxMhuvixZ8h9dK9jIDwL"
-      ],
-      "albumId": "5NKTuBLCYhN0OwqFiGdXd1",
+      "album": {
+        "id": "5NKTuBLCYhN0OwqFiGdXd1",
+        "name": "The Kick Inside",
+        "img": "https://i.scdn.co/image/ab67616d00001e0230da683c0c018535adbaf0e5"
+      },
       "release_date": "1978-02-17",
       "popularity": 72
     },
     {
-      "trackId": "5xIyA8bZ2esXfTypTEA6Mq",
-      "name": "Ovan där",
+      "track": {
+        "id": "5xIyA8bZ2esXfTypTEA6Mq",
+        "name": "Ovan där"
+      },
       "duration_ms": 176293,
-      "artist": [
-        "Jailbird Singers"
+      "artists": [
+        {
+          "name": "Jailbird Singers",
+          "id": "0OAfhgMLLWuJP1BTOFw1oQ"
+        }
       ],
-      "artistId": [
-        "0OAfhgMLLWuJP1BTOFw1oQ"
-      ],
-      "albumId": "3O3jLFuvCI9iQ85yZk6D8K",
+      "album": {
+        "id": "3O3jLFuvCI9iQ85yZk6D8K",
+        "name": "Tjuvballader och barnatro",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e91635abe3b62d91cd974c40"
+      },
       "release_date": "1964",
       "popularity": 24
     },
     {
-      "trackId": "7F25roCtYi55JouckaayPC",
-      "name": "Judas",
+      "track": {
+        "id": "7F25roCtYi55JouckaayPC",
+        "name": "Judas"
+      },
       "duration_ms": 249066,
-      "artist": [
-        "Lady Gaga"
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "id": "1HY2Jd0NmPuamShAr6KMms"
+        }
       ],
-      "artistId": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ],
-      "albumId": "6LY3AerY6KNGOPsNPL63Kk",
+      "album": {
+        "id": "6LY3AerY6KNGOPsNPL63Kk",
+        "name": "Born This Way (International Special Edition Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a5d31644260279be8d0c46c0"
+      },
       "release_date": "2011-05-23",
       "popularity": 69
     },
     {
-      "trackId": "7j31rVgGX9Q2blT92VBEA0",
-      "name": "Teenagers",
+      "track": {
+        "id": "7j31rVgGX9Q2blT92VBEA0",
+        "name": "Teenagers"
+      },
       "duration_ms": 161920,
-      "artist": [
-        "My Chemical Romance"
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "id": "7FBcuc1gsnv6Y1nwFtNRCb"
+        }
       ],
-      "artistId": [
-        "7FBcuc1gsnv6Y1nwFtNRCb"
-      ],
-      "albumId": "0FZK97MXMm5mUQ8mtudjuK",
+      "album": {
+        "id": "0FZK97MXMm5mUQ8mtudjuK",
+        "name": "The Black Parade",
+        "img": "https://i.scdn.co/image/ab67616d00001e0217f77fab7e8f18d5f9fee4a1"
+      },
       "release_date": "2006-10-23",
       "popularity": 81
     },
     {
-      "trackId": "1KDVQ127loKV58UXE9eR1H",
-      "name": "Hatar, Älskar",
+      "track": {
+        "id": "1KDVQ127loKV58UXE9eR1H",
+        "name": "Hatar, Älskar"
+      },
       "duration_ms": 259613,
-      "artist": [
-        "Nanne"
+      "artists": [
+        {
+          "name": "Nanne",
+          "id": "0whAheccvr5O5qbQjNk4gi"
+        }
       ],
-      "artistId": [
-        "0whAheccvr5O5qbQjNk4gi"
-      ],
-      "albumId": "3ah1R7g2ZYL9au2PzpXtn4",
+      "album": {
+        "id": "3ah1R7g2ZYL9au2PzpXtn4",
+        "name": "Alla Mina Ansikten",
+        "img": "https://i.scdn.co/image/ab67616d00001e02255b016615cb1d28b0e4ebc6"
+      },
       "release_date": "2002",
       "popularity": 6
     },
     {
-      "trackId": "1YJ4vpxPL6Wgo8gmRnvqSp",
-      "name": "There Must Be an Angel (Playing With My Heart)",
+      "track": {
+        "id": "1YJ4vpxPL6Wgo8gmRnvqSp",
+        "name": "There Must Be an Angel (Playing With My Heart)"
+      },
       "duration_ms": 280360,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "4C8ZTw8EremXeccyDjUQQC",
+      "album": {
+        "id": "4C8ZTw8EremXeccyDjUQQC",
+        "name": "Greatest Hits",
+        "img": "https://i.scdn.co/image/ab67616d00001e02796a9d2d88c0df505dae4f4a"
+      },
       "release_date": "1991-02-28",
       "popularity": 59
     },
     {
-      "trackId": "562JrM9b7jiu8LgzV62x3o",
-      "name": "The Rose",
+      "track": {
+        "id": "562JrM9b7jiu8LgzV62x3o",
+        "name": "The Rose"
+      },
       "duration_ms": 221373,
-      "artist": [
-        "Bette Midler"
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "id": "13y0kncDD4J9wxCyfKr10W"
+        }
       ],
-      "artistId": [
-        "13y0kncDD4J9wxCyfKr10W"
-      ],
-      "albumId": "6PXrZg7FMAGm1rnu6widwU",
+      "album": {
+        "id": "6PXrZg7FMAGm1rnu6widwU",
+        "name": "The Rose",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc40a25fc081378f7c436359"
+      },
       "release_date": "1979",
       "popularity": 66
     }

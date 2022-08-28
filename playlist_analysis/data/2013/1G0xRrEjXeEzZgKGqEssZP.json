@@ -7,198 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/2843919_1200_675.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2NTDt9Fiqp5wTBM6cLO6Bu",
-      "name": "Bright Lights",
+      "track": {
+        "id": "2NTDt9Fiqp5wTBM6cLO6Bu",
+        "name": "Bright Lights"
+      },
       "duration_ms": 324786,
-      "artist": [
-        "Gary Clark Jr."
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "id": "01aC2ikO4Xgb2LUpf9JfKp"
+        }
       ],
-      "artistId": [
-        "01aC2ikO4Xgb2LUpf9JfKp"
-      ],
-      "albumId": "0YCTY6KpkPWp2etKx9ZNyM",
+      "album": {
+        "id": "0YCTY6KpkPWp2etKx9ZNyM",
+        "name": "Blak and Blu",
+        "img": "https://i.scdn.co/image/ab67616d00001e025a4e89a0c9e6b57c4842ede6"
+      },
       "release_date": "2012-10-22",
       "popularity": 48
     },
     {
-      "trackId": "6yfeHdqv6FPUofkSi4XOHM",
-      "name": "Dancehall",
+      "track": {
+        "id": "6yfeHdqv6FPUofkSi4XOHM",
+        "name": "Dancehall"
+      },
       "duration_ms": 189400,
-      "artist": [
-        "Tribes"
+      "artists": [
+        {
+          "name": "Tribes",
+          "id": "0nJmFO9huvto3PHos43STE"
+        }
       ],
-      "artistId": [
-        "0nJmFO9huvto3PHos43STE"
-      ],
-      "albumId": "1lJo1JhRXzYaq1TGK6yne1",
+      "album": {
+        "id": "1lJo1JhRXzYaq1TGK6yne1",
+        "name": "Wish To Scream (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02077d4482791c2bf65cef435d"
+      },
       "release_date": "2013-01-01",
       "popularity": 34
     },
     {
-      "trackId": "1Y3VFY4mkLqMIkqxC51p6l",
-      "name": "Ring Them Bells",
+      "track": {
+        "id": "1Y3VFY4mkLqMIkqxC51p6l",
+        "name": "Ring Them Bells"
+      },
       "duration_ms": 180733,
-      "artist": [
-        "Bob Dylan"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX"
-      ],
-      "albumId": "18ue4s9PsV3WBw7kkzD689",
+      "album": {
+        "id": "18ue4s9PsV3WBw7kkzD689",
+        "name": "Oh Mercy",
+        "img": "https://i.scdn.co/image/ab67616d00001e025954a6441cc1d88011841d1c"
+      },
       "release_date": "1989-09-22",
       "popularity": 33
     },
     {
-      "trackId": "6eGOHPcCIUhrtlWgKfNiaY",
-      "name": "Sky Blue and Black",
+      "track": {
+        "id": "6eGOHPcCIUhrtlWgKfNiaY",
+        "name": "Sky Blue and Black"
+      },
       "duration_ms": 367359,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "48qbdp47cWW5XHbTEkbRM5",
+      "album": {
+        "id": "48qbdp47cWW5XHbTEkbRM5",
+        "name": "I'm Alive",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f11e06b71ca3897e46684e0"
+      },
       "release_date": "1993-10-05",
       "popularity": 43
     },
     {
-      "trackId": "38RY9qHbV6fhgEcW9YX4PI",
-      "name": "Glastonbury Song",
+      "track": {
+        "id": "38RY9qHbV6fhgEcW9YX4PI",
+        "name": "Glastonbury Song"
+      },
       "duration_ms": 223866,
-      "artist": [
-        "The Waterboys"
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "id": "5TnuP42pw475UrjjeabtwZ"
+        }
       ],
-      "artistId": [
-        "5TnuP42pw475UrjjeabtwZ"
-      ],
-      "albumId": "3rIJZoXBVcO4u5pGKZXhpa",
+      "album": {
+        "id": "3rIJZoXBVcO4u5pGKZXhpa",
+        "name": "Dream Harder",
+        "img": "https://i.scdn.co/image/ab67616d00001e023fb397424052cb363a9f7e75"
+      },
       "release_date": "1993-01-01",
       "popularity": 44
     },
     {
-      "trackId": "0xecBFnotoyPqSHZEZsUu1",
-      "name": "We Come Alive",
+      "track": {
+        "id": "0xecBFnotoyPqSHZEZsUu1",
+        "name": "We Come Alive"
+      },
       "duration_ms": 288800,
-      "artist": [
-        "Joey Tempest"
+      "artists": [
+        {
+          "name": "Joey Tempest",
+          "id": "3q9C7TUFdxOgRndHOlsQ7Y"
+        }
       ],
-      "artistId": [
-        "3q9C7TUFdxOgRndHOlsQ7Y"
-      ],
-      "albumId": "5kBahsm84sHJAB8wvToe94",
+      "album": {
+        "id": "5kBahsm84sHJAB8wvToe94",
+        "name": "A Place To Call Home",
+        "img": "https://i.scdn.co/image/ab67616d00001e020f4b029112a70c389ac39245"
+      },
       "release_date": "1995-01-01",
       "popularity": 29
     },
     {
-      "trackId": "7aXK1UkGw6bDc2zr4YUpdJ",
-      "name": "Hard-Core Troubadour",
+      "track": {
+        "id": "7aXK1UkGw6bDc2zr4YUpdJ",
+        "name": "Hard-Core Troubadour"
+      },
       "duration_ms": 161053,
-      "artist": [
-        "Steve Earle"
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "id": "2UBTfUoLI07iRqGeUrwhZh"
+        }
       ],
-      "artistId": [
-        "2UBTfUoLI07iRqGeUrwhZh"
-      ],
-      "albumId": "1CEAVKLVVaCoKyEoVVr8Bh",
+      "album": {
+        "id": "1CEAVKLVVaCoKyEoVVr8Bh",
+        "name": "I Feel Alright",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a352d81e0fc0474246038ddb"
+      },
       "release_date": "1996-03-01",
       "popularity": 46
     },
     {
-      "trackId": "0aLk2Za7r0eGlLOepW2hzL",
-      "name": "To Be Young (Is to Be Sad, Is to Be High)",
+      "track": {
+        "id": "0aLk2Za7r0eGlLOepW2hzL",
+        "name": "To Be Young (Is to Be Sad, Is to Be High)"
+      },
       "duration_ms": 184671,
-      "artist": [
-        "Ryan Adams"
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "id": "2qc41rNTtdLK0tV3mJn2Pm"
+        }
       ],
-      "artistId": [
-        "2qc41rNTtdLK0tV3mJn2Pm"
-      ],
-      "albumId": "7hmZCaBzp6mVrelxW6Ckrn",
+      "album": {
+        "id": "7hmZCaBzp6mVrelxW6Ckrn",
+        "name": "Heartbreaker",
+        "img": "https://i.scdn.co/image/ab67616d00001e0291508ee76f9bb5f0590971a6"
+      },
       "release_date": "2000-09-05",
       "popularity": 54
     },
     {
-      "trackId": "5hrsqusQlSqlWpvtjJpxPq",
-      "name": "29 Palms - 2006 Remaster",
+      "track": {
+        "id": "5hrsqusQlSqlWpvtjJpxPq",
+        "name": "29 Palms - 2006 Remaster"
+      },
       "duration_ms": 291906,
-      "artist": [
-        "Robert Plant"
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "id": "1OwarW4LEHnoep20ixRA0y"
+        }
       ],
-      "artistId": [
-        "1OwarW4LEHnoep20ixRA0y"
-      ],
-      "albumId": "4c6q5WBhuzqN0Jrs2hl2OA",
+      "album": {
+        "id": "4c6q5WBhuzqN0Jrs2hl2OA",
+        "name": "Fate of Nations",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cf0db98c3fcfe10b15e3fbce"
+      },
       "release_date": "1993-05-25",
       "popularity": 59
     },
     {
-      "trackId": "01qLRZjy5hnWDdqKuM6AJh",
-      "name": "Pressure and Time",
+      "track": {
+        "id": "01qLRZjy5hnWDdqKuM6AJh",
+        "name": "Pressure and Time"
+      },
       "duration_ms": 196773,
-      "artist": [
-        "Rival Sons"
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "id": "356c8AN5YWKvz86B4Sb1yf"
+        }
       ],
-      "artistId": [
-        "356c8AN5YWKvz86B4Sb1yf"
-      ],
-      "albumId": "7uVg7wY0NO9dtxGQOgxZgA",
+      "album": {
+        "id": "7uVg7wY0NO9dtxGQOgxZgA",
+        "name": "Pressure & Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e021989b4727337562a3f36c78f"
+      },
       "release_date": "2011-06-21",
       "popularity": 52
     },
     {
-      "trackId": "6hUXkINT0NOZUEDBhOJMKl",
-      "name": "Remember Me",
+      "track": {
+        "id": "6hUXkINT0NOZUEDBhOJMKl",
+        "name": "Remember Me"
+      },
       "duration_ms": 274827,
-      "artist": [
-        "Steve Earle"
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "id": "2UBTfUoLI07iRqGeUrwhZh"
+        }
       ],
-      "artistId": [
-        "2UBTfUoLI07iRqGeUrwhZh"
-      ],
-      "albumId": "6PmyoWqAJPV8AebAIw7xzN",
+      "album": {
+        "id": "6PmyoWqAJPV8AebAIw7xzN",
+        "name": "The Low Highway (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f17eeb6682ab71b63181c96e"
+      },
       "release_date": "2013-04-15",
       "popularity": 11
     },
     {
-      "trackId": "3rTuruoKn9K9I1gBbinklI",
-      "name": "Secret Heart",
+      "track": {
+        "id": "3rTuruoKn9K9I1gBbinklI",
+        "name": "Secret Heart"
+      },
       "duration_ms": 195266,
-      "artist": [
-        "Ron Sexsmith"
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "id": "2wXBWJhbm1gfEVjyEEuhDH"
+        }
       ],
-      "artistId": [
-        "2wXBWJhbm1gfEVjyEEuhDH"
-      ],
-      "albumId": "2PkdO3h0GUvaPyj4pzpitg",
+      "album": {
+        "id": "2PkdO3h0GUvaPyj4pzpitg",
+        "name": "Ron Sexsmith",
+        "img": "https://i.scdn.co/image/ab67616d00001e021a94b6c5782d508bf2f14459"
+      },
       "release_date": "1995-01-01",
       "popularity": 40
     },
     {
-      "trackId": "4w4Shi3xjbZBDGuhLw5LsQ",
-      "name": "Bright Side of the Road",
+      "track": {
+        "id": "4w4Shi3xjbZBDGuhLw5LsQ",
+        "name": "Bright Side of the Road"
+      },
       "duration_ms": 226760,
-      "artist": [
-        "Van Morrison"
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "id": "44NX2ffIYHr6D4n7RaZF7A"
+        }
       ],
-      "artistId": [
-        "44NX2ffIYHr6D4n7RaZF7A"
-      ],
-      "albumId": "11q2kAICayamyzbVlZvE90",
+      "album": {
+        "id": "11q2kAICayamyzbVlZvE90",
+        "name": "Into the Music",
+        "img": "https://i.scdn.co/image/ab67616d00001e02566ace033180c8e6a9cefcee"
+      },
       "release_date": "1979-08",
       "popularity": 66
     },
     {
-      "trackId": "0gvLe1lzwlvlqfg9zTU20g",
-      "name": "All Good Things",
+      "track": {
+        "id": "0gvLe1lzwlvlqfg9zTU20g",
+        "name": "All Good Things"
+      },
       "duration_ms": 267200,
-      "artist": [
-        "Jackson Browne"
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "id": "5lkiCO9UQ8B23dZ1o0UV4m"
+        }
       ],
-      "artistId": [
-        "5lkiCO9UQ8B23dZ1o0UV4m"
-      ],
-      "albumId": "48qbdp47cWW5XHbTEkbRM5",
+      "album": {
+        "id": "48qbdp47cWW5XHbTEkbRM5",
+        "name": "I'm Alive",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f11e06b71ca3897e46684e0"
+      },
       "release_date": "1993-10-05",
       "popularity": 23
     }

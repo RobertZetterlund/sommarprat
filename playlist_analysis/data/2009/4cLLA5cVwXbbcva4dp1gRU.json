@@ -7,214 +7,306 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3248902_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0yac0FPhLRH9i9lOng3f81",
-      "name": "Everybody's Changing",
+      "track": {
+        "id": "0yac0FPhLRH9i9lOng3f81",
+        "name": "Everybody's Changing"
+      },
       "duration_ms": 215880,
-      "artist": [
-        "Keane"
+      "artists": [
+        {
+          "name": "Keane",
+          "id": "53A0W3U0s8diEn9RhXQhVz"
+        }
       ],
-      "artistId": [
-        "53A0W3U0s8diEn9RhXQhVz"
-      ],
-      "albumId": "0MlTOiC5ZYKFGeZ8h3D4rd",
+      "album": {
+        "id": "0MlTOiC5ZYKFGeZ8h3D4rd",
+        "name": "Hopes And Fears",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d6cd95a046a3c0dacbc7d33"
+      },
       "release_date": "2004-05-10",
       "popularity": 73
     },
     {
-      "trackId": "1Ud6moTC0KyXMq1Oxfien0",
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "track": {
+        "id": "1Ud6moTC0KyXMq1Oxfien0",
+        "name": "Sympathy For The Devil - 50th Anniversary Edition"
+      },
       "duration_ms": 378146,
-      "artist": [
-        "The Rolling Stones"
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "id": "22bE4uQ6baNwSHPVcDxLCe"
+        }
       ],
-      "artistId": [
-        "22bE4uQ6baNwSHPVcDxLCe"
-      ],
-      "albumId": "6OHri5qNxwCdVSdyCslspd",
+      "album": {
+        "id": "6OHri5qNxwCdVSdyCslspd",
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0244934a06d21864415376f5f2"
+      },
       "release_date": "1968-12-06",
       "popularity": 74
     },
     {
-      "trackId": "7qaLei3wecrNvr33Re0s3K",
-      "name": "Faster Car",
+      "track": {
+        "id": "7qaLei3wecrNvr33Re0s3K",
+        "name": "Faster Car"
+      },
       "duration_ms": 267053,
-      "artist": [
-        "Keith Urban"
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "id": "0u2FHSq3ln94y5Q57xazwf"
+        }
       ],
-      "artistId": [
-        "0u2FHSq3ln94y5Q57xazwf"
-      ],
-      "albumId": "3txPRPVrAXeiO0pJ13kFX7",
+      "album": {
+        "id": "3txPRPVrAXeiO0pJ13kFX7",
+        "name": "Love, Pain & The Whole Crazy Thing",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f4d584e26c45af317a7487e1"
+      },
       "release_date": "2006-01-01",
       "popularity": 17
     },
     {
-      "trackId": "5n6RDaGFSN88oRWuGtYAIN",
-      "name": "The Show Must Go On - Remastered 2011",
+      "track": {
+        "id": "5n6RDaGFSN88oRWuGtYAIN",
+        "name": "The Show Must Go On - Remastered 2011"
+      },
       "duration_ms": 277826,
-      "artist": [
-        "Queen"
+      "artists": [
+        {
+          "name": "Queen",
+          "id": "1dfeR4HaWDbWqFHLkxsg1d"
+        }
       ],
-      "artistId": [
-        "1dfeR4HaWDbWqFHLkxsg1d"
-      ],
-      "albumId": "5kffKW0sSLo6tkLg1veUGC",
+      "album": {
+        "id": "5kffKW0sSLo6tkLg1veUGC",
+        "name": "Innuendo (2011 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02024b36346101df444742cde2"
+      },
       "release_date": "1991-02-05",
       "popularity": 67
     },
     {
-      "trackId": "0tMVSEAuIFFs5NpnScXIqY",
-      "name": "That's All Right Mama",
+      "track": {
+        "id": "0tMVSEAuIFFs5NpnScXIqY",
+        "name": "That's All Right Mama"
+      },
       "duration_ms": 117786,
-      "artist": [
-        "Elvis Presley"
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "id": "43ZHCT0cAZBISjO8DG9PnE"
+        }
       ],
-      "artistId": [
-        "43ZHCT0cAZBISjO8DG9PnE"
-      ],
-      "albumId": "6k2afOSVuYftPprT80Ou71",
+      "album": {
+        "id": "6k2afOSVuYftPprT80Ou71",
+        "name": "Saga Blues: Memphis \"That's All Right! From Blues to Rock'n'Roll\"",
+        "img": "https://i.scdn.co/image/ab67616d00001e02406773582d88c77d6295e0ce"
+      },
       "release_date": "2007-10-02",
       "popularity": 37
     },
     {
-      "trackId": "6gDXbcILAyBa2skSdbUYq7",
-      "name": "Hurt",
+      "track": {
+        "id": "6gDXbcILAyBa2skSdbUYq7",
+        "name": "Hurt"
+      },
       "duration_ms": 243373,
-      "artist": [
-        "Christina Aguilera"
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "id": "1l7ZsJRRS8wlW3WfJfPfNS"
+        }
       ],
-      "artistId": [
-        "1l7ZsJRRS8wlW3WfJfPfNS"
-      ],
-      "albumId": "0zRJsgzHZUUdk8Rjk6Segd",
+      "album": {
+        "id": "0zRJsgzHZUUdk8Rjk6Segd",
+        "name": "Back To Basics",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d74f4550a6e409bf51652db7"
+      },
       "release_date": "2006-08-14",
       "popularity": 64
     },
     {
-      "trackId": "7JiXh6tx5Rh2yA5kgHKnRh",
-      "name": "Do You Love Me",
+      "track": {
+        "id": "7JiXh6tx5Rh2yA5kgHKnRh",
+        "name": "Do You Love Me"
+      },
       "duration_ms": 214213,
-      "artist": [
-        "Amanda Jenssen"
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "id": "5abrQugiw9ysKSuemQW7K9"
+        }
       ],
-      "artistId": [
-        "5abrQugiw9ysKSuemQW7K9"
-      ],
-      "albumId": "30LVAonpD26BXLaapmoVmr",
+      "album": {
+        "id": "30LVAonpD26BXLaapmoVmr",
+        "name": "Killing My Darlings",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f04a0f62220c2b545f9347fc"
+      },
       "release_date": "2008-05-05",
       "popularity": 31
     },
     {
-      "trackId": "4hObp5bmIJ3PP3cKA9K9GY",
-      "name": "Don't Worry Be Happy",
+      "track": {
+        "id": "4hObp5bmIJ3PP3cKA9K9GY",
+        "name": "Don't Worry Be Happy"
+      },
       "duration_ms": 294400,
-      "artist": [
-        "Bobby McFerrin"
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "id": "2FjkZT851ez950cyPjeYid"
+        }
       ],
-      "artistId": [
-        "2FjkZT851ez950cyPjeYid"
-      ],
-      "albumId": "4zhRkgoZKC2xCPPys1gK4b",
+      "album": {
+        "id": "4zhRkgoZKC2xCPPys1gK4b",
+        "name": "Simple Pleasures",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a88b9eddbf3650ea0529f2cc"
+      },
       "release_date": "1988-01-01",
       "popularity": 70
     },
     {
-      "trackId": "1z3ugFmUKoCzGsI6jdY4Ci",
-      "name": "Like a Prayer",
+      "track": {
+        "id": "1z3ugFmUKoCzGsI6jdY4Ci",
+        "name": "Like a Prayer"
+      },
       "duration_ms": 342680,
-      "artist": [
-        "Madonna"
+      "artists": [
+        {
+          "name": "Madonna",
+          "id": "6tbjWDEIzxoDsBA1FuhfPW"
+        }
       ],
-      "artistId": [
-        "6tbjWDEIzxoDsBA1FuhfPW"
-      ],
-      "albumId": "43lok9zd7BW5CoYkXZs7S0",
+      "album": {
+        "id": "43lok9zd7BW5CoYkXZs7S0",
+        "name": "Celebration (double disc version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e028f9f218b386e6aeb27184307"
+      },
       "release_date": "2009-09-18",
       "popularity": 73
     },
     {
-      "trackId": "549Go7a66CX6k523uK9kUv",
-      "name": "Girls, Girls, Girls",
+      "track": {
+        "id": "549Go7a66CX6k523uK9kUv",
+        "name": "Girls, Girls, Girls"
+      },
       "duration_ms": 270426,
-      "artist": [
-        "Mötley Crüe"
+      "artists": [
+        {
+          "name": "Mötley Crüe",
+          "id": "0cc6vw3VN8YlIcvr1v7tBL"
+        }
       ],
-      "artistId": [
-        "0cc6vw3VN8YlIcvr1v7tBL"
-      ],
-      "albumId": "2KT9tWALjIRjnaGYDYPg3k",
+      "album": {
+        "id": "2KT9tWALjIRjnaGYDYPg3k",
+        "name": "Girls, Girls, Girls",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a009912a0c46ed86461676d"
+      },
       "release_date": "1987-05-15",
       "popularity": 72
     },
     {
-      "trackId": "3zMWjCTTOS5kGCHyzy7PfS",
-      "name": "Stand in Awe",
+      "track": {
+        "id": "3zMWjCTTOS5kGCHyzy7PfS",
+        "name": "Stand in Awe"
+      },
       "duration_ms": 226533,
-      "artist": [
-        "Sarah Lundbäck Bell"
+      "artists": [
+        {
+          "name": "Sarah Lundbäck Bell",
+          "id": "1Fcu8dFf28xDWBUwmUvsma"
+        }
       ],
-      "artistId": [
-        "1Fcu8dFf28xDWBUwmUvsma"
-      ],
-      "albumId": "2z4WEbrXgKb0jCT8ZlW6sG",
+      "album": {
+        "id": "2z4WEbrXgKb0jCT8ZlW6sG",
+        "name": "Stand in Awe",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e3e79117bf3b4afb9e904436"
+      },
       "release_date": "2020-10-16",
       "popularity": 12
     },
     {
-      "trackId": "4euAGZTszWPrriggYK0HG9",
-      "name": "Lay All Your Love On Me",
+      "track": {
+        "id": "4euAGZTszWPrriggYK0HG9",
+        "name": "Lay All Your Love On Me"
+      },
       "duration_ms": 274466,
-      "artist": [
-        "ABBA"
+      "artists": [
+        {
+          "name": "ABBA",
+          "id": "0LcJLqbBmaGUft1e9Mm8HV"
+        }
       ],
-      "artistId": [
-        "0LcJLqbBmaGUft1e9Mm8HV"
-      ],
-      "albumId": "3ZdkT5buYFi1WQaB0XNNtf",
+      "album": {
+        "id": "3ZdkT5buYFi1WQaB0XNNtf",
+        "name": "Super Trouper",
+        "img": "https://i.scdn.co/image/ab67616d00001e024d08fc99eff4ed52dfce91fa"
+      },
       "release_date": "1980",
       "popularity": 74
     },
     {
-      "trackId": "6wyvFJi3Wr78WBDqYHC2vZ",
-      "name": "Den Blomstertid Nu Kommer (The Flowerseason Is Coming)",
+      "track": {
+        "id": "6wyvFJi3Wr78WBDqYHC2vZ",
+        "name": "Den Blomstertid Nu Kommer (The Flowerseason Is Coming)"
+      },
       "duration_ms": 264493,
-      "artist": [
-        "Nils Landgren"
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "id": "6B3ZWSop1mrJd71rwFozVP"
+        }
       ],
-      "artistId": [
-        "6B3ZWSop1mrJd71rwFozVP"
-      ],
-      "albumId": "18WMmKf469H6LbsGIXTx6z",
+      "album": {
+        "id": "18WMmKf469H6LbsGIXTx6z",
+        "name": "Gotland",
+        "img": "https://i.scdn.co/image/ab67616d00001e0293fbb80a3815cfa010b06786"
+      },
       "release_date": "1996",
       "popularity": 6
     },
     {
-      "trackId": "3SnGymj6ijE2iuUfWxLo1q",
-      "name": "I'm Coming Out",
+      "track": {
+        "id": "3SnGymj6ijE2iuUfWxLo1q",
+        "name": "I'm Coming Out"
+      },
       "duration_ms": 323346,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "3zgDLoVcpVGfFbDZJf3uHI",
+      "album": {
+        "id": "3zgDLoVcpVGfFbDZJf3uHI",
+        "name": "Diana",
+        "img": "https://i.scdn.co/image/ab67616d00001e02abc5193decc1a2984a93f31e"
+      },
       "release_date": "1980-05-22",
       "popularity": 70
     },
     {
-      "trackId": "6fWqn7JyHOjM2aJohAgAOV",
-      "name": "You + Me (feat. Carola Häggkvist)",
+      "track": {
+        "id": "6fWqn7JyHOjM2aJohAgAOV",
+        "name": "You + Me (feat. Carola Häggkvist)"
+      },
       "duration_ms": 170653,
-      "artist": [
-        "Sweet Chariots",
-        "Carola"
+      "artists": [
+        {
+          "name": "Sweet Chariots",
+          "id": "7jDZhAo6VIB9wgq4WqrRoY"
+        },
+        {
+          "name": "Carola",
+          "id": "3uFum0NCM1PtmCO0MwsOAt"
+        }
       ],
-      "artistId": [
-        "7jDZhAo6VIB9wgq4WqrRoY",
-        "3uFum0NCM1PtmCO0MwsOAt"
-      ],
-      "albumId": "1fKP7BeZG5v0CfsbVRatsx",
+      "album": {
+        "id": "1fKP7BeZG5v0CfsbVRatsx",
+        "name": "Beat Based, Song Centered, Spiritled (Extended Version 2010)",
+        "img": "https://i.scdn.co/image/ab67616d00001e021ea2f32c33406ec1e7e7655f"
+      },
       "release_date": "2000",
       "popularity": 9
     }

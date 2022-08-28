@@ -7,150 +7,218 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/6d63d8a7-51c9-47ca-a0b6-9b9e2419aad3.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "0qeKzbUsW0V4ZWRJrHNiD3",
-      "name": "Bad Boys (Theme from COPS)",
+      "track": {
+        "id": "0qeKzbUsW0V4ZWRJrHNiD3",
+        "name": "Bad Boys (Theme from COPS)"
+      },
       "duration_ms": 229374,
-      "artist": [
-        "Inner Circle"
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "id": "5os0Ltvz8Q8BvXOPOd1frx"
+        }
       ],
-      "artistId": [
-        "5os0Ltvz8Q8BvXOPOd1frx"
-      ],
-      "albumId": "0zLd8jpRt4m6FWCu81Fb9n",
+      "album": {
+        "id": "0zLd8jpRt4m6FWCu81Fb9n",
+        "name": "Blazzin' Fire",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd07cdbe4b041324103c0f08"
+      },
       "release_date": "2010-12-14",
       "popularity": 69
     },
     {
-      "trackId": "1TFlvQ12TtF9nHmvXCaLpx",
-      "name": "Mina områden",
+      "track": {
+        "id": "1TFlvQ12TtF9nHmvXCaLpx",
+        "name": "Mina områden"
+      },
       "duration_ms": 276333,
-      "artist": [
-        "Kartellen",
-        "Sebbe Staxx",
-        "Dani M"
+      "artists": [
+        {
+          "name": "Kartellen",
+          "id": "3kklzjWziqW7RX5jQjsRnb"
+        },
+        {
+          "name": "Sebbe Staxx",
+          "id": "2PQ0dKMMDle5scqjI1XOPK"
+        },
+        {
+          "name": "Dani M",
+          "id": "5ILMkt5lW4KAyTXMNYWaGF"
+        }
       ],
-      "artistId": [
-        "3kklzjWziqW7RX5jQjsRnb",
-        "2PQ0dKMMDle5scqjI1XOPK",
-        "5ILMkt5lW4KAyTXMNYWaGF"
-      ],
-      "albumId": "59M3yKZsC35p9mDV97mgEg",
+      "album": {
+        "id": "59M3yKZsC35p9mDV97mgEg",
+        "name": "Ånger & Kamp",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ec672b5869165398df80423d"
+      },
       "release_date": "2012-01-01",
       "popularity": 57
     },
     {
-      "trackId": "2qkma39oRZ0rzGkyE2gdHd",
-      "name": "I samma bil",
+      "track": {
+        "id": "2qkma39oRZ0rzGkyE2gdHd",
+        "name": "I samma bil"
+      },
       "duration_ms": 230600,
-      "artist": [
-        "Bo Kaspers Orkester"
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "id": "2VE6Ge0qFHrqDC6KG6ECJn"
+        }
       ],
-      "artistId": [
-        "2VE6Ge0qFHrqDC6KG6ECJn"
-      ],
-      "albumId": "2msEb0LuMK7rE0A2gnQuEI",
+      "album": {
+        "id": "2msEb0LuMK7rE0A2gnQuEI",
+        "name": "Så mycket Bo Kaspers Orkester",
+        "img": "https://i.scdn.co/image/ab67616d00001e02917db6940592471faf434bc4"
+      },
       "release_date": "2014-01-01",
       "popularity": 42
     },
     {
-      "trackId": "75YAV6wucQItWJhDwxnlRE",
-      "name": "Gas Gas",
+      "track": {
+        "id": "75YAV6wucQItWJhDwxnlRE",
+        "name": "Gas Gas"
+      },
       "duration_ms": 134560,
-      "artist": [
-        "Süperstar Orkestar"
+      "artists": [
+        {
+          "name": "Süperstar Orkestar",
+          "id": "542uxQKJoYicSQur7H3OkV"
+        }
       ],
-      "artistId": [
-        "542uxQKJoYicSQur7H3OkV"
-      ],
-      "albumId": "3VHMI3xMe82OV0FoohJtUj",
+      "album": {
+        "id": "3VHMI3xMe82OV0FoohJtUj",
+        "name": "Trubači",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e2be861e88aa178e60e2fccd"
+      },
       "release_date": "2016-02-19",
       "popularity": 6
     },
     {
-      "trackId": "7hN5TKSdRb56uytwIpcUES",
-      "name": "99 Problems",
+      "track": {
+        "id": "7hN5TKSdRb56uytwIpcUES",
+        "name": "99 Problems"
+      },
       "duration_ms": 137426,
-      "artist": [
-        "Hugo"
+      "artists": [
+        {
+          "name": "Hugo",
+          "id": "3VSHFjwG94ubNcoST9hfxX"
+        }
       ],
-      "artistId": [
-        "3VSHFjwG94ubNcoST9hfxX"
-      ],
-      "albumId": "6Tolvy5sgnENXLNDNwQ9L6",
+      "album": {
+        "id": "6Tolvy5sgnENXLNDNwQ9L6",
+        "name": "Old Tyme Religion",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b24152f859a6bfdede3c720"
+      },
       "release_date": "2011",
       "popularity": 62
     },
     {
-      "trackId": "7sFmqHBFu6hkdsGGBUUgLt",
-      "name": "No. 1 Swartskalle",
+      "track": {
+        "id": "7sFmqHBFu6hkdsGGBUUgLt",
+        "name": "No. 1 Swartskalle"
+      },
       "duration_ms": 203546,
-      "artist": [
-        "Infinite Mass"
+      "artists": [
+        {
+          "name": "Infinite Mass",
+          "id": "0vrtC9TrcdezrJZshpwLkg"
+        }
       ],
-      "artistId": [
-        "0vrtC9TrcdezrJZshpwLkg"
-      ],
-      "albumId": "7sqVEQMmsyT3TRqkWWJKJe",
+      "album": {
+        "id": "7sqVEQMmsyT3TRqkWWJKJe",
+        "name": "1991",
+        "img": "https://i.scdn.co/image/ab67616d00001e0221d93bfbcd651ecbf3d2d1d7"
+      },
       "release_date": "2004-05-12",
       "popularity": 22
     },
     {
-      "trackId": "046OAry9kpVdWgzRpCV2IG",
-      "name": "I Go Hard",
+      "track": {
+        "id": "046OAry9kpVdWgzRpCV2IG",
+        "name": "I Go Hard"
+      },
       "duration_ms": 247578,
-      "artist": [
-        "Gangstagrass",
-        "T.O.N.E-z"
+      "artists": [
+        {
+          "name": "Gangstagrass",
+          "id": "1VKDHdy3cj1YP4zmWwyOL3"
+        },
+        {
+          "name": "T.O.N.E-z",
+          "id": "3g6RLDPL2f0k4lwQP2NrG5"
+        }
       ],
-      "artistId": [
-        "1VKDHdy3cj1YP4zmWwyOL3",
-        "3g6RLDPL2f0k4lwQP2NrG5"
-      ],
-      "albumId": "0txZcuZZzm99voYyN29LfC",
+      "album": {
+        "id": "0txZcuZZzm99voYyN29LfC",
+        "name": "Lightning on the Strings, Thunder on the Mic",
+        "img": "https://i.scdn.co/image/ab67616d00001e02370d94af664e853c489d39ba"
+      },
       "release_date": "2010-05-25",
       "popularity": 29
     },
     {
-      "trackId": "0aY3JT3EMfF5smGoG6YuLS",
-      "name": "Aiwa",
+      "track": {
+        "id": "0aY3JT3EMfF5smGoG6YuLS",
+        "name": "Aiwa"
+      },
       "duration_ms": 155147,
-      "artist": [
-        "2blea",
-        "one"
+      "artists": [
+        {
+          "name": "2blea",
+          "id": "2BA8dRO0m7foYqNcSEiSDL"
+        },
+        {
+          "name": "one",
+          "id": "3N782DIGcWkDhHCApzfgT9"
+        }
       ],
-      "artistId": [
-        "2BA8dRO0m7foYqNcSEiSDL",
-        "3N782DIGcWkDhHCApzfgT9"
-      ],
-      "albumId": "3PEpwHNfwY497QImVG8pMQ",
+      "album": {
+        "id": "3PEpwHNfwY497QImVG8pMQ",
+        "name": "Personal",
+        "img": "https://i.scdn.co/image/ab67616d00001e0293bebb032429cea20de59eb8"
+      },
       "release_date": "2022-08-06",
       "popularity": 12
     },
     {
-      "trackId": "26PwuMotZqcczKLHi4Htz3",
-      "name": "Redemption Song",
+      "track": {
+        "id": "26PwuMotZqcczKLHi4Htz3",
+        "name": "Redemption Song"
+      },
       "duration_ms": 233560,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "321q9p7PELvzcFAWxml7VX",
+      "album": {
+        "id": "321q9p7PELvzcFAWxml7VX",
+        "name": "Uprising",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04"
+      },
       "release_date": "1980",
       "popularity": 70
     },
     {
-      "trackId": "7e1xwG8jnFyCWtHXt0P4AM",
-      "name": "White Trash Beautiful",
+      "track": {
+        "id": "7e1xwG8jnFyCWtHXt0P4AM",
+        "name": "White Trash Beautiful"
+      },
       "duration_ms": 241333,
-      "artist": [
-        "Everlast"
+      "artists": [
+        {
+          "name": "Everlast",
+          "id": "14ZxDAK6ITtZZqPdiWrvSn"
+        }
       ],
-      "artistId": [
-        "14ZxDAK6ITtZZqPdiWrvSn"
-      ],
-      "albumId": "5Uiko7lcgvfa70mhxsEPGo",
+      "album": {
+        "id": "5Uiko7lcgvfa70mhxsEPGo",
+        "name": "White Trash Beautiful",
+        "img": "https://i.scdn.co/image/ab67616d00001e02863ea911416abb991b4d7e8a"
+      },
       "release_date": "2004-01-01",
       "popularity": 54
     }

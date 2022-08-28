@@ -7,176 +7,254 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/c6f23e3e-f36e-4b28-8e61-8b322d8a51c2.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "59VYhrPiXcbmB9SxJ4dj7h",
-      "name": "Sunshine Day",
+      "track": {
+        "id": "59VYhrPiXcbmB9SxJ4dj7h",
+        "name": "Sunshine Day"
+      },
       "duration_ms": 301133,
-      "artist": [
-        "Osibisa"
+      "artists": [
+        {
+          "name": "Osibisa",
+          "id": "12X85dtebfc7JTZ8iMBT2o"
+        }
       ],
-      "artistId": [
-        "12X85dtebfc7JTZ8iMBT2o"
-      ],
-      "albumId": "1qjryjbslyxWdGwaLqZuqs",
+      "album": {
+        "id": "1qjryjbslyxWdGwaLqZuqs",
+        "name": "The Best of Osibisa",
+        "img": "https://i.scdn.co/image/ab67616d00001e0249105ddf0742c9b0b98351a6"
+      },
       "release_date": "2019-07-14",
       "popularity": 45
     },
     {
-      "trackId": "6lmBo2sxyzxat3DwGpbNBr",
-      "name": "Best of Me",
+      "track": {
+        "id": "6lmBo2sxyzxat3DwGpbNBr",
+        "name": "Best of Me"
+      },
       "duration_ms": 184081,
-      "artist": [
-        "Newtimers"
+      "artists": [
+        {
+          "name": "Newtimers",
+          "id": "448gMu1lMo0OLHrVrFR2oN"
+        }
       ],
-      "artistId": [
-        "448gMu1lMo0OLHrVrFR2oN"
-      ],
-      "albumId": "12MlQBPFArGjtd6JIIWpiY",
+      "album": {
+        "id": "12MlQBPFArGjtd6JIIWpiY",
+        "name": "EP One",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b700624c3d7119c5c6721f9b"
+      },
       "release_date": "2016-04-22",
       "popularity": 0
     },
     {
-      "trackId": "5IaSfvDQKdxYfvHaO0z6b7",
-      "name": "Things That We Won't Do For Love",
+      "track": {
+        "id": "5IaSfvDQKdxYfvHaO0z6b7",
+        "name": "Things That We Won't Do For Love"
+      },
       "duration_ms": 189320,
-      "artist": [
-        "Samson For President"
+      "artists": [
+        {
+          "name": "Samson For President",
+          "id": "1lHLXaNa0HOLMFDwst1Vzb"
+        }
       ],
-      "artistId": [
-        "1lHLXaNa0HOLMFDwst1Vzb"
-      ],
-      "albumId": "6KDIO4gdE6NdHpuSCCGC80",
+      "album": {
+        "id": "6KDIO4gdE6NdHpuSCCGC80",
+        "name": "Sisyphus",
+        "img": "https://i.scdn.co/image/ab67616d00001e021c52074a3fb00c90d2d3d963"
+      },
       "release_date": "2015-04-29",
-      "popularity": 1
+      "popularity": 2
     },
     {
-      "trackId": "5SDcksP8En1l6RtTY1wzHc",
-      "name": "Oceans (Where Feet May Fail)",
+      "track": {
+        "id": "5SDcksP8En1l6RtTY1wzHc",
+        "name": "Oceans (Where Feet May Fail)"
+      },
       "duration_ms": 536000,
-      "artist": [
-        "Hillsong UNITED",
-        "TAYA"
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "id": "74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "id": "3D04fb59z3ANxVaeHBfxtW"
+        }
       ],
-      "artistId": [
-        "74cb3MG0x0BOnYNW1uXYnM",
-        "3D04fb59z3ANxVaeHBfxtW"
-      ],
-      "albumId": "7LHFVlsndw7HxDGJPWJS7S",
+      "album": {
+        "id": "7LHFVlsndw7HxDGJPWJS7S",
+        "name": "Zion",
+        "img": "https://i.scdn.co/image/ab67616d00001e02aa4935a26a6404b5094160b6"
+      },
       "release_date": "2013-02-23",
       "popularity": 70
     },
     {
-      "trackId": "3VbGCXWRiouAq8VyMYN2MI",
-      "name": "Love Me Do - Remastered 2009",
+      "track": {
+        "id": "3VbGCXWRiouAq8VyMYN2MI",
+        "name": "Love Me Do - Remastered 2009"
+      },
       "duration_ms": 141693,
-      "artist": [
-        "The Beatles"
+      "artists": [
+        {
+          "name": "The Beatles",
+          "id": "3WrFJ7ztbogyGnTHbHJFl2"
+        }
       ],
-      "artistId": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-      ],
-      "albumId": "3KzAvEXcqJKBF97HrXwlgf",
+      "album": {
+        "id": "3KzAvEXcqJKBF97HrXwlgf",
+        "name": "Please Please Me (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df"
+      },
       "release_date": "1963-03-22",
       "popularity": 67
     },
     {
-      "trackId": "1KbuhBnzMHp4eq1q6flhWd",
-      "name": "Ain't No Mountain High Enough",
+      "track": {
+        "id": "1KbuhBnzMHp4eq1q6flhWd",
+        "name": "Ain't No Mountain High Enough"
+      },
       "duration_ms": 215200,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "2iPkYpFitI1RXmnnza1PeN",
+      "album": {
+        "id": "2iPkYpFitI1RXmnnza1PeN",
+        "name": "Diamond Diana: The Legacy Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02349e3a33d75ff26510f40675"
+      },
       "release_date": "2017-11-17",
       "popularity": 58
     },
     {
-      "trackId": "1fidCEsYlaVE3pHwKCvpFZ",
-      "name": "Am I Wrong",
+      "track": {
+        "id": "1fidCEsYlaVE3pHwKCvpFZ",
+        "name": "Am I Wrong"
+      },
       "duration_ms": 245866,
-      "artist": [
-        "Nico & Vinz"
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "id": "0awl5piYwO0CDTHEkCjUhn"
+        }
       ],
-      "artistId": [
-        "0awl5piYwO0CDTHEkCjUhn"
-      ],
-      "albumId": "6zXb9FQMzawvY2Au8Kxky3",
+      "album": {
+        "id": "6zXb9FQMzawvY2Au8Kxky3",
+        "name": "Black Star Elephant",
+        "img": "https://i.scdn.co/image/ab67616d00001e02eb3c078694b007169dab4a4f"
+      },
       "release_date": "2014",
       "popularity": 78
     },
     {
-      "trackId": "0UELI4geNEU9Z7D1YzxwmT",
-      "name": "Oya",
+      "track": {
+        "id": "0UELI4geNEU9Z7D1YzxwmT",
+        "name": "Oya"
+      },
       "duration_ms": 273059,
-      "artist": [
-        "Redemption Voice"
+      "artists": [
+        {
+          "name": "Redemption Voice",
+          "id": "4s1YUURQHn3ffYYTsXR4Bt"
+        }
       ],
-      "artistId": [
-        "4s1YUURQHn3ffYYTsXR4Bt"
-      ],
-      "albumId": "0oiQBuylMZemDRoFzP9wbi",
+      "album": {
+        "id": "0oiQBuylMZemDRoFzP9wbi",
+        "name": "Nashimwe",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d710a2bf6c77d733c7804bc7"
+      },
       "release_date": "2020-06-16",
       "popularity": 6
     },
     {
-      "trackId": "3gFS9CKU70Wm7vAoA0O1uW",
-      "name": "Hard Time",
+      "track": {
+        "id": "3gFS9CKU70Wm7vAoA0O1uW",
+        "name": "Hard Time"
+      },
       "duration_ms": 209341,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 51
     },
     {
-      "trackId": "6pPCOXIQeNMr1oCWJTomSf",
-      "name": "Sisters Are Doin' It for Themselves - Remastered Version",
+      "track": {
+        "id": "6pPCOXIQeNMr1oCWJTomSf",
+        "name": "Sisters Are Doin' It for Themselves - Remastered Version"
+      },
       "duration_ms": 357146,
-      "artist": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "id": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "id": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "id": "7gcCQIlkkfbul5Mt0jBQkg"
+        }
       ],
-      "artistId": [
-        "0NKDgy9j66h3DLnN8qu1bB",
-        "5MspMQqdVbdwP6ax3GXqum",
-        "7gcCQIlkkfbul5Mt0jBQkg"
-      ],
-      "albumId": "2tbXCl8en5ZDVnHIk1OZGI",
+      "album": {
+        "id": "2tbXCl8en5ZDVnHIk1OZGI",
+        "name": "Be Yourself Tonight",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b9d4820655b6bf032ed41f3"
+      },
       "release_date": "1985-04-29",
       "popularity": 57
     },
     {
-      "trackId": "41AZHuVBj101ucLqLykb0a",
-      "name": "För kärlekens skull",
+      "track": {
+        "id": "41AZHuVBj101ucLqLykb0a",
+        "name": "För kärlekens skull"
+      },
       "duration_ms": 242413,
-      "artist": [
-        "Ted Gärdestad"
+      "artists": [
+        {
+          "name": "Ted Gärdestad",
+          "id": "6zpub6jbY6CdrcqQsDq8P4"
+        }
       ],
-      "artistId": [
-        "6zpub6jbY6CdrcqQsDq8P4"
-      ],
-      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "album": {
+        "id": "4V98pVvObWpDvwIoAMwyZX",
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0"
+      },
       "release_date": "1980",
       "popularity": 54
     },
     {
-      "trackId": "7yAslROTLRHGwuiLBpdErT",
-      "name": "It's My House",
+      "track": {
+        "id": "7yAslROTLRHGwuiLBpdErT",
+        "name": "It's My House"
+      },
       "duration_ms": 274560,
-      "artist": [
-        "Diana Ross"
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": "3MdG05syQeRYPPcClLaUGl"
+        }
       ],
-      "artistId": [
-        "3MdG05syQeRYPPcClLaUGl"
-      ],
-      "albumId": "7jqe6yQ9qtHqahli8WSYH4",
+      "album": {
+        "id": "7jqe6yQ9qtHqahli8WSYH4",
+        "name": "The Boss (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02303a1d40609b8aa537b607c1"
+      },
       "release_date": "1979-05-23",
       "popularity": 53
     }

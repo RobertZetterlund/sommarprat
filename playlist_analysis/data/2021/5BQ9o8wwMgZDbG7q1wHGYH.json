@@ -7,216 +7,310 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/5154a52f-dcf8-467b-8570-d144dffb2011.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3gFS9CKU70Wm7vAoA0O1uW",
-      "name": "Hard Time",
+      "track": {
+        "id": "3gFS9CKU70Wm7vAoA0O1uW",
+        "name": "Hard Time"
+      },
       "duration_ms": 209341,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 51
     },
     {
-      "trackId": "42sAEEM2XK9nBb4p759m5E",
-      "name": "Call Out My Name",
+      "track": {
+        "id": "42sAEEM2XK9nBb4p759m5E",
+        "name": "Call Out My Name"
+      },
       "duration_ms": 228373,
-      "artist": [
-        "The Weeknd"
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+        }
       ],
-      "artistId": [
-        "1Xyo4u8uXC1ZmMpatF05PJ"
-      ],
-      "albumId": "08XpGFlrqm6oRi71GlH6Nu",
+      "album": {
+        "id": "08XpGFlrqm6oRi71GlH6Nu",
+        "name": "Toxicity",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cdc2466df91e8618b438b081"
+      },
       "release_date": "2022-08-12",
       "popularity": 7
     },
     {
-      "trackId": "7iceFyXQeIaDuIxIlJZrGB",
-      "name": "Revolution",
+      "track": {
+        "id": "7iceFyXQeIaDuIxIlJZrGB",
+        "name": "Revolution"
+      },
       "duration_ms": 260813,
-      "artist": [
-        "Elias"
+      "artists": [
+        {
+          "name": "Elias",
+          "id": "0UCLbPGOhtnYf29U7qbfLf"
+        }
       ],
-      "artistId": [
-        "0UCLbPGOhtnYf29U7qbfLf"
-      ],
-      "albumId": "0ysbz1S6Ml5PdyN4qqsj94",
+      "album": {
+        "id": "0ysbz1S6Ml5PdyN4qqsj94",
+        "name": "Entwined",
+        "img": "https://i.scdn.co/image/ab67616d00001e02783a135cd8086818deb7ca80"
+      },
       "release_date": "2018-06-15",
       "popularity": 47
     },
     {
-      "trackId": "1dUsorS3ZIC6OCWW8ZJETo",
-      "name": "To Make You Feel My Love",
+      "track": {
+        "id": "1dUsorS3ZIC6OCWW8ZJETo",
+        "name": "To Make You Feel My Love"
+      },
       "duration_ms": 252000,
-      "artist": [
-        "Tiny Tracks"
+      "artists": [
+        {
+          "name": "Tiny Tracks",
+          "id": "42QKiNCqr36B0gfgETuA9t"
+        }
       ],
-      "artistId": [
-        "42QKiNCqr36B0gfgETuA9t"
-      ],
-      "albumId": "2BUA9wLoRJSngH09hERlnf",
+      "album": {
+        "id": "2BUA9wLoRJSngH09hERlnf",
+        "name": "Lullaby Versions of Adele",
+        "img": "https://i.scdn.co/image/ab67616d00001e02af210bcc55edf74859dbde80"
+      },
       "release_date": "2014-07-10",
       "popularity": 21
     },
     {
-      "trackId": "059ACLUOyEcdruA2m9f2jd",
-      "name": "Unstoppable",
+      "track": {
+        "id": "059ACLUOyEcdruA2m9f2jd",
+        "name": "Unstoppable"
+      },
       "duration_ms": 217746,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "3Xz1Bcn4YP9bdqlsstMfuJ",
+      "album": {
+        "id": "3Xz1Bcn4YP9bdqlsstMfuJ",
+        "name": "This Is Acting",
+        "img": "https://i.scdn.co/image/ab67616d00001e02fc36b265066a58e205ecbd5c"
+      },
       "release_date": "2016-02-18",
       "popularity": 67
     },
     {
-      "trackId": "55dt0NxRCgNctRv9cqKGeB",
-      "name": "Don't Stop Believin' (Glee Cast - Rachel/Lea Michele solo audition version)",
+      "track": {
+        "id": "55dt0NxRCgNctRv9cqKGeB",
+        "name": "Don't Stop Believin' (Glee Cast - Rachel/Lea Michele solo audition version)"
+      },
       "duration_ms": 226693,
-      "artist": [
-        "Glee Cast"
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "id": "0SCbttzoZTnLFebDYmAWCm"
+        }
       ],
-      "artistId": [
-        "0SCbttzoZTnLFebDYmAWCm"
-      ],
-      "albumId": "4fZXOp8No89WLudGy6brXd",
+      "album": {
+        "id": "4fZXOp8No89WLudGy6brXd",
+        "name": "Glee: The Music, The Complete Season Four",
+        "img": "https://i.scdn.co/image/ab67616d00001e02982bd110b3bef1f5a806209b"
+      },
       "release_date": "2014-01-14",
       "popularity": 39
     },
     {
-      "trackId": "34SiAlW4nlmVk39uPtT86q",
-      "name": "Get'cha Head in the Game",
+      "track": {
+        "id": "34SiAlW4nlmVk39uPtT86q",
+        "name": "Get'cha Head in the Game"
+      },
       "duration_ms": 141142,
-      "artist": [
-        "Cast of High School Musical: The Musical: The Series",
-        "Disney"
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "id": "1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "id": "3xvaSlT4xsyk6lY1ESOspO"
+        }
       ],
-      "artistId": [
-        "1YWJ1WjMkBCB1X3QOJ1Wdn",
-        "3xvaSlT4xsyk6lY1ESOspO"
-      ],
-      "albumId": "4GgojLZOPRu8MdUVmjNRSI",
+      "album": {
+        "id": "4GgojLZOPRu8MdUVmjNRSI",
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02103b7e52b6a1b74035385876"
+      },
       "release_date": "2020-01-10",
       "popularity": 40
     },
     {
-      "trackId": "34SiAlW4nlmVk39uPtT86q",
-      "name": "Get'cha Head in the Game",
+      "track": {
+        "id": "34SiAlW4nlmVk39uPtT86q",
+        "name": "Get'cha Head in the Game"
+      },
       "duration_ms": 141142,
-      "artist": [
-        "Cast of High School Musical: The Musical: The Series",
-        "Disney"
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "id": "1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "id": "3xvaSlT4xsyk6lY1ESOspO"
+        }
       ],
-      "artistId": [
-        "1YWJ1WjMkBCB1X3QOJ1Wdn",
-        "3xvaSlT4xsyk6lY1ESOspO"
-      ],
-      "albumId": "4GgojLZOPRu8MdUVmjNRSI",
+      "album": {
+        "id": "4GgojLZOPRu8MdUVmjNRSI",
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02103b7e52b6a1b74035385876"
+      },
       "release_date": "2020-01-10",
       "popularity": 40
     },
     {
-      "trackId": "7DsX5K72fewVGb47qj7Tbg",
-      "name": "Pray",
+      "track": {
+        "id": "7DsX5K72fewVGb47qj7Tbg",
+        "name": "Pray"
+      },
       "duration_ms": 221595,
-      "artist": [
-        "Sam Smith"
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "id": "2wY79sveU1sp5g7SokKOiI"
+        }
       ],
-      "artistId": [
-        "2wY79sveU1sp5g7SokKOiI"
-      ],
-      "albumId": "3TJz2UBNYJtlEly0sPeNrQ",
+      "album": {
+        "id": "3TJz2UBNYJtlEly0sPeNrQ",
+        "name": "The Thrill Of It All (Special Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02005cd7d0ae87b081601f6cca"
+      },
       "release_date": "2017-11-03",
       "popularity": 61
     },
     {
-      "trackId": "0KOE1hat4SIer491XKk4Pa",
-      "name": "A Change Is Gonna Come",
+      "track": {
+        "id": "0KOE1hat4SIer491XKk4Pa",
+        "name": "A Change Is Gonna Come"
+      },
       "duration_ms": 191160,
-      "artist": [
-        "Sam Cooke"
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "id": "6hnWRPzGGKiapVX1UCdEAC"
+        }
       ],
-      "artistId": [
-        "6hnWRPzGGKiapVX1UCdEAC"
-      ],
-      "albumId": "2NFd4ApYFitFtJhGTSfDdP",
+      "album": {
+        "id": "2NFd4ApYFitFtJhGTSfDdP",
+        "name": "Ain't That Good News",
+        "img": "https://i.scdn.co/image/ab67616d00001e027329db55d8ec4e851b694aa1"
+      },
       "release_date": "1964-03-01",
       "popularity": 66
     },
     {
-      "trackId": "5h8ve1B7Gr3k4W0WXAgLxE",
-      "name": "Say It Loud - I'm Black And I'm Proud - Pt. 1",
+      "track": {
+        "id": "5h8ve1B7Gr3k4W0WXAgLxE",
+        "name": "Say It Loud - I'm Black And I'm Proud - Pt. 1"
+      },
       "duration_ms": 167186,
-      "artist": [
-        "James Brown"
+      "artists": [
+        {
+          "name": "James Brown",
+          "id": "7GaxyUddsPok8BuhxN6OUW"
+        }
       ],
-      "artistId": [
-        "7GaxyUddsPok8BuhxN6OUW"
-      ],
-      "albumId": "1pHE92AvWAt4IIRUCVFnEl",
+      "album": {
+        "id": "1pHE92AvWAt4IIRUCVFnEl",
+        "name": "The 50th Anniversary Collection",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cef82dc1b7fc24ffec550e9e"
+      },
       "release_date": "2003-01-01",
       "popularity": 42
     },
     {
-      "trackId": "3RziapqS8nr6DiejCtI3cd",
-      "name": "Somliga går med trasiga skor",
+      "track": {
+        "id": "3RziapqS8nr6DiejCtI3cd",
+        "name": "Somliga går med trasiga skor"
+      },
       "duration_ms": 180960,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "5KkQk6jEItnuoB1820v5aA",
+      "album": {
+        "id": "5KkQk6jEItnuoB1820v5aA",
+        "name": "Tio vackra visor och personliga Person",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c34b63edb70626b39d952db"
+      },
       "release_date": "1968",
       "popularity": 49
     },
     {
-      "trackId": "3wNNbf63xkxw9rIVWtFy7a",
-      "name": "Stand Up (From Harriet)",
+      "track": {
+        "id": "3wNNbf63xkxw9rIVWtFy7a",
+        "name": "Stand Up (From Harriet)"
+      },
       "duration_ms": 303477,
-      "artist": [
-        "Cynthia Erivo"
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "id": "46UMQ0cW8ToR8egkBRwAxZ"
+        }
       ],
-      "artistId": [
-        "46UMQ0cW8ToR8egkBRwAxZ"
-      ],
-      "albumId": "2csFa6zpizG4hDUqQgj95C",
+      "album": {
+        "id": "2csFa6zpizG4hDUqQgj95C",
+        "name": "Stand Up (From Harriet)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02382f624a098ea501efe8b120"
+      },
       "release_date": "2019-10-25",
       "popularity": 68
     },
     {
-      "trackId": "5zxZ7M4RgWZUHlMEwac8vt",
-      "name": "Voices",
+      "track": {
+        "id": "5zxZ7M4RgWZUHlMEwac8vt",
+        "name": "Voices"
+      },
       "duration_ms": 184000,
-      "artist": [
-        "Tusse"
+      "artists": [
+        {
+          "name": "Tusse",
+          "id": "1BwDWgdDJe3TJXLZkBkpsI"
+        }
       ],
-      "artistId": [
-        "1BwDWgdDJe3TJXLZkBkpsI"
-      ],
-      "albumId": "55w4D3r62g4hmMVvpnVkSV",
+      "album": {
+        "id": "55w4D3r62g4hmMVvpnVkSV",
+        "name": "Voices",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a59426ba90ee9b5632bdc270"
+      },
       "release_date": "2021-02-27",
       "popularity": 55
     },
     {
-      "trackId": "4u6HBd2fK6YO1TLeGnOKUt",
-      "name": "Kaninvisan",
+      "track": {
+        "id": "4u6HBd2fK6YO1TLeGnOKUt",
+        "name": "Kaninvisan"
+      },
       "duration_ms": 125226,
-      "artist": [
-        "Sara Edwardsson"
+      "artists": [
+        {
+          "name": "Sara Edwardsson",
+          "id": "51Y9ExtwA3NB34NBfbhPCE"
+        }
       ],
-      "artistId": [
-        "51Y9ExtwA3NB34NBfbhPCE"
-      ],
-      "albumId": "5beaCiVxnHN9DJng8Ttpa9",
+      "album": {
+        "id": "5beaCiVxnHN9DJng8Ttpa9",
+        "name": "Våra barns favoriter - Barnmusik, Vol. 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02ee7e42056adb5e7c2fd63991"
+      },
       "release_date": "2014-05-28",
       "popularity": 26
     }

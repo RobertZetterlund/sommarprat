@@ -7,182 +7,266 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3243968_2048_1152.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "14lyZKpPu1ECQpfXhgrip6",
-      "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+      "track": {
+        "id": "14lyZKpPu1ECQpfXhgrip6",
+        "name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav."
+      },
       "duration_ms": 50480,
-      "artist": [
-        "Johann Sebastian Bach",
-        "Glenn Gould"
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "id": "5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "id": "13dkPjqmbcchm8cXjEJQeP"
+        }
       ],
-      "artistId": [
-        "5aIqB5nVVvmFsvSdExz408",
-        "13dkPjqmbcchm8cXjEJQeP"
-      ],
-      "albumId": "1aCpHSQE5ghxibsQ5gkBe0",
+      "album": {
+        "id": "1aCpHSQE5ghxibsQ5gkBe0",
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7ed978a7fd1498ce8c031f7"
+      },
       "release_date": "1981",
       "popularity": 42
     },
     {
-      "trackId": "3Um9toULmYFGCpvaIPFw7l",
-      "name": "What's Going On",
+      "track": {
+        "id": "3Um9toULmYFGCpvaIPFw7l",
+        "name": "What's Going On"
+      },
       "duration_ms": 233000,
-      "artist": [
-        "Marvin Gaye"
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "id": "3koiLjNrgRTNbOwViDipeA"
+        }
       ],
-      "artistId": [
-        "3koiLjNrgRTNbOwViDipeA"
-      ],
-      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "album": {
+        "id": "2v6ANhWhZBUKkg6pJJBs3B",
+        "name": "What's Going On",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc"
+      },
       "release_date": "1971-05-21",
       "popularity": 69
     },
     {
-      "trackId": "5snEgy8RMnkJZqfwqD6svi",
-      "name": "Concierto de Aranjuez: Adagio",
+      "track": {
+        "id": "5snEgy8RMnkJZqfwqD6svi",
+        "name": "Concierto de Aranjuez: Adagio"
+      },
       "duration_ms": 980506,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "4Gg3siRefHW8r2CndJxIiJ",
+      "album": {
+        "id": "4Gg3siRefHW8r2CndJxIiJ",
+        "name": "Sketches Of Spain 50th Anniversary (Legacy Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0211f03a561e7ff1f4f4f92de8"
+      },
       "release_date": "1960-07-18",
       "popularity": 40
     },
     {
-      "trackId": "2nRl16RtO2SUbkdT860Fed",
-      "name": "Lonely Fire",
+      "track": {
+        "id": "2nRl16RtO2SUbkdT860Fed",
+        "name": "Lonely Fire"
+      },
       "duration_ms": 1268533,
-      "artist": [
-        "Miles Davis"
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "id": "0kbYTNQb4Pb1rPbbaF0pT4"
+        }
       ],
-      "artistId": [
-        "0kbYTNQb4Pb1rPbbaF0pT4"
-      ],
-      "albumId": "09ZJJE80JVh9v6oH2nPZye",
+      "album": {
+        "id": "09ZJJE80JVh9v6oH2nPZye",
+        "name": "The Complete Bitches Brew Sessions",
+        "img": "https://i.scdn.co/image/ab67616d00001e02efe5f52bd0895f8f78640600"
+      },
       "release_date": "1970-04",
       "popularity": 29
     },
     {
-      "trackId": "1jn6q4HuOfDabeEto8sZPt",
-      "name": "To Be Sung Of A Summer Night On The Water",
+      "track": {
+        "id": "1jn6q4HuOfDabeEto8sZPt",
+        "name": "To Be Sung Of A Summer Night On The Water"
+      },
       "duration_ms": 161840,
-      "artist": [
-        "Frederick Delius",
-        "Handel & Haydn Society",
-        "Grant Llewellyn"
+      "artists": [
+        {
+          "name": "Frederick Delius",
+          "id": "65YhYi4Fz5Ibgq7ueev2Rm"
+        },
+        {
+          "name": "Handel & Haydn Society",
+          "id": "7zdKTzFDnzNtkLpKUC9SiC"
+        },
+        {
+          "name": "Grant Llewellyn",
+          "id": "7a7pu0PwNkHjzUUoBadif0"
+        }
       ],
-      "artistId": [
-        "65YhYi4Fz5Ibgq7ueev2Rm",
-        "7zdKTzFDnzNtkLpKUC9SiC",
-        "7a7pu0PwNkHjzUUoBadif0"
-      ],
-      "albumId": "2S8HW1KXhb6Hmn8lN0NZUW",
+      "album": {
+        "id": "2S8HW1KXhb6Hmn8lN0NZUW",
+        "name": "Peace - A Choral Album For Our Times",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e75c111df4fffc529fe60722"
+      },
       "release_date": "2006-01-01",
       "popularity": 17
     },
     {
-      "trackId": "1sSxaMBp2fNwMER4EE2Eci",
-      "name": "I'll Be Your Mirror",
+      "track": {
+        "id": "1sSxaMBp2fNwMER4EE2Eci",
+        "name": "I'll Be Your Mirror"
+      },
       "duration_ms": 134040,
-      "artist": [
-        "The Velvet Underground",
-        "Nico"
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "id": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "id": "0IwlY33zbBXN7zlS9DP2Cj"
+        }
       ],
-      "artistId": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "0IwlY33zbBXN7zlS9DP2Cj"
-      ],
-      "albumId": "1b27KQt4bBP2hlgrHbQMIw",
+      "album": {
+        "id": "1b27KQt4bBP2hlgrHbQMIw",
+        "name": "The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02156e68c998f79f35de74452e"
+      },
       "release_date": "1967-03-12",
       "popularity": 18
     },
     {
-      "trackId": "0SfYZJSWk4h00yzheOgeIQ",
-      "name": "Andy Warhol - 2015 Remaster",
+      "track": {
+        "id": "0SfYZJSWk4h00yzheOgeIQ",
+        "name": "Andy Warhol - 2015 Remaster"
+      },
       "duration_ms": 234746,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "6fQElzBNTiEMGdIeY0hy5l",
+      "album": {
+        "id": "6fQElzBNTiEMGdIeY0hy5l",
+        "name": "Hunky Dory (2015 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120"
+      },
       "release_date": "1971-12-17",
       "popularity": 48
     },
     {
-      "trackId": "1Up0tMGTc3FKasn7WMrioE",
-      "name": "Songbird",
+      "track": {
+        "id": "1Up0tMGTc3FKasn7WMrioE",
+        "name": "Songbird"
+      },
       "duration_ms": 156280,
-      "artist": [
-        "Bernard Fanning"
+      "artists": [
+        {
+          "name": "Bernard Fanning",
+          "id": "0afemm9P2Bb2LL99xHY32n"
+        }
       ],
-      "artistId": [
-        "0afemm9P2Bb2LL99xHY32n"
-      ],
-      "albumId": "2OICen81GDKy8Mds7OdX4I",
+      "album": {
+        "id": "2OICen81GDKy8Mds7OdX4I",
+        "name": "Tea & Sympathy",
+        "img": "https://i.scdn.co/image/ab67616d00001e0267b17be9ebd5d4315406e1c1"
+      },
       "release_date": "2005-01-01",
       "popularity": 61
     },
     {
-      "trackId": "64PY5B3h9mqHjyyJ9B6U2l",
-      "name": "Toledo",
+      "track": {
+        "id": "64PY5B3h9mqHjyyJ9B6U2l",
+        "name": "Toledo"
+      },
       "duration_ms": 274200,
-      "artist": [
-        "Elvis Costello",
-        "Burt Bacharach"
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "id": "2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Burt Bacharach",
+          "id": "35y7CZMg7jbG8Q96JY7dyC"
+        }
       ],
-      "artistId": [
-        "2BGRfQgtzikz1pzAD0kaEn",
-        "35y7CZMg7jbG8Q96JY7dyC"
-      ],
-      "albumId": "0rhmwOflgYrPntNuEe8chN",
+      "album": {
+        "id": "0rhmwOflgYrPntNuEe8chN",
+        "name": "Painted From Memory",
+        "img": "https://i.scdn.co/image/ab67616d00001e0214be184222184bab3ab1a943"
+      },
       "release_date": "1998-09-28",
       "popularity": 42
     },
     {
-      "trackId": "3PG7BAJG9WkmNOJOlc4uAo",
-      "name": "Femme Fatale",
+      "track": {
+        "id": "3PG7BAJG9WkmNOJOlc4uAo",
+        "name": "Femme Fatale"
+      },
       "duration_ms": 159000,
-      "artist": [
-        "The Velvet Underground",
-        "Nico"
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "id": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "id": "0IwlY33zbBXN7zlS9DP2Cj"
+        }
       ],
-      "artistId": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "0IwlY33zbBXN7zlS9DP2Cj"
-      ],
-      "albumId": "4xwx0x7k6c5VuThz5qVqmV",
+      "album": {
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "img": "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7"
+      },
       "release_date": "1967-03-12",
       "popularity": 61
     },
     {
-      "trackId": "7A9srWuY8Fl8oa8L5N95Rb",
-      "name": "Go Ask Shakespeare",
+      "track": {
+        "id": "7A9srWuY8Fl8oa8L5N95Rb",
+        "name": "Go Ask Shakespeare"
+      },
       "duration_ms": 345306,
-      "artist": [
-        "Burt Bacharach"
+      "artists": [
+        {
+          "name": "Burt Bacharach",
+          "id": "35y7CZMg7jbG8Q96JY7dyC"
+        }
       ],
-      "artistId": [
-        "35y7CZMg7jbG8Q96JY7dyC"
-      ],
-      "albumId": "1d4pFafHkYxQOBaPNLRsQ7",
+      "album": {
+        "id": "1d4pFafHkYxQOBaPNLRsQ7",
+        "name": "At This Time",
+        "img": "https://i.scdn.co/image/ab67616d00001e024fde2e45626867e8603cac49"
+      },
       "release_date": "2005-10-17",
       "popularity": 10
     },
     {
-      "trackId": "1yg7fwwYmx9DQ2TdXUmfpJ",
-      "name": "Holding Back the Years - 2008 Remaster",
+      "track": {
+        "id": "1yg7fwwYmx9DQ2TdXUmfpJ",
+        "name": "Holding Back the Years - 2008 Remaster"
+      },
       "duration_ms": 269840,
-      "artist": [
-        "Simply Red"
+      "artists": [
+        {
+          "name": "Simply Red",
+          "id": "1fa0cOhromAZdq2xRA4vv8"
+        }
       ],
-      "artistId": [
-        "1fa0cOhromAZdq2xRA4vv8"
-      ],
-      "albumId": "4pk3tltFMVlT06MLJfmWTT",
+      "album": {
+        "id": "4pk3tltFMVlT06MLJfmWTT",
+        "name": "Picture Book (Expanded Version)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02580a410d9914101d45be0efa"
+      },
       "release_date": "1985",
       "popularity": 67
     }

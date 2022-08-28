@@ -7,202 +7,290 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/3e652d15-ba19-4b88-9250-6d8fb19c5473.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "3G6hD9B2ZHOsgf4WfNu7X1",
-      "name": "Team",
+      "track": {
+        "id": "3G6hD9B2ZHOsgf4WfNu7X1",
+        "name": "Team"
+      },
       "duration_ms": 193058,
-      "artist": [
-        "Lorde"
+      "artists": [
+        {
+          "name": "Lorde",
+          "id": "163tK9Wjr9P9DmM0AVK7lm"
+        }
       ],
-      "artistId": [
-        "163tK9Wjr9P9DmM0AVK7lm"
-      ],
-      "albumId": "0rmhjUgoVa17LZuS8xWQ3v",
+      "album": {
+        "id": "0rmhjUgoVa17LZuS8xWQ3v",
+        "name": "Pure Heroine",
+        "img": "https://i.scdn.co/image/ab67616d00001e02187331e276c898d39764cc98"
+      },
       "release_date": "2013-09-27",
       "popularity": 77
     },
     {
-      "trackId": "4mCf3vQf7z0Yseo0RxAi3V",
-      "name": "Desperado",
+      "track": {
+        "id": "4mCf3vQf7z0Yseo0RxAi3V",
+        "name": "Desperado"
+      },
       "duration_ms": 186466,
-      "artist": [
-        "Rihanna"
+      "artists": [
+        {
+          "name": "Rihanna",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H"
+        }
       ],
-      "artistId": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ],
-      "albumId": "4UlGauD7ROb3YbVOFMgW5u",
+      "album": {
+        "id": "4UlGauD7ROb3YbVOFMgW5u",
+        "name": "ANTI (Deluxe)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0233c6b920eabcf4c00d7a1093"
+      },
       "release_date": "2016-01-28",
       "popularity": 72
     },
     {
-      "trackId": "23khhseCLQqVMCIT1WMAns",
-      "name": "Magic",
+      "track": {
+        "id": "23khhseCLQqVMCIT1WMAns",
+        "name": "Magic"
+      },
       "duration_ms": 285014,
-      "artist": [
-        "Coldplay"
+      "artists": [
+        {
+          "name": "Coldplay",
+          "id": "4gzpq5DPGxSnKTe4SA8HAU"
+        }
       ],
-      "artistId": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ],
-      "albumId": "2G4AUqfwxcV1UdQjm2ouYr",
+      "album": {
+        "id": "2G4AUqfwxcV1UdQjm2ouYr",
+        "name": "Ghost Stories",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f864bcdcc245f06831d17ae0"
+      },
       "release_date": "2014-05-19",
       "popularity": 73
     },
     {
-      "trackId": "5kxcj63GYiractdCBUUU1G",
-      "name": "With Every Heartbeat",
+      "track": {
+        "id": "5kxcj63GYiractdCBUUU1G",
+        "name": "With Every Heartbeat"
+      },
       "duration_ms": 253186,
-      "artist": [
-        "Kleerup",
-        "Robyn"
+      "artists": [
+        {
+          "name": "Kleerup",
+          "id": "2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Robyn",
+          "id": "6UE7nl9mha6s8z0wFQFIZ2"
+        }
       ],
-      "artistId": [
-        "2YL0l5fnyHE9FEf1bwFGCc",
-        "6UE7nl9mha6s8z0wFQFIZ2"
-      ],
-      "albumId": "6f3hgA3I0KTeH10Xw8IPZK",
+      "album": {
+        "id": "6f3hgA3I0KTeH10Xw8IPZK",
+        "name": "Kleerup (Deluxe Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0258b18b34c02bbab701cd9e4d"
+      },
       "release_date": "2008-05-19",
       "popularity": 49
     },
     {
-      "trackId": "0BUoLE4o9eVahDHvTqak67",
-      "name": "Unpretty",
+      "track": {
+        "id": "0BUoLE4o9eVahDHvTqak67",
+        "name": "Unpretty"
+      },
       "duration_ms": 278066,
-      "artist": [
-        "TLC"
+      "artists": [
+        {
+          "name": "TLC",
+          "id": "0TImkz4nPqjegtVSMZnMRq"
+        }
       ],
-      "artistId": [
-        "0TImkz4nPqjegtVSMZnMRq"
-      ],
-      "albumId": "1CvjjpvqVMoyprsf74bpYW",
+      "album": {
+        "id": "1CvjjpvqVMoyprsf74bpYW",
+        "name": "Fanmail",
+        "img": "https://i.scdn.co/image/ab67616d00001e0261ffafd5e31a37336531cf95"
+      },
       "release_date": "1999-02-23",
       "popularity": 62
     },
     {
-      "trackId": "2p9InWsxSanp9HH1nQKN8H",
-      "name": "Bumble Bee",
+      "track": {
+        "id": "2p9InWsxSanp9HH1nQKN8H",
+        "name": "Bumble Bee"
+      },
       "duration_ms": 196920,
-      "artist": [
-        "Bambee"
+      "artists": [
+        {
+          "name": "Bambee",
+          "id": "0xicY3fW9Ao8MIXZ4Va6b0"
+        }
       ],
-      "artistId": [
-        "0xicY3fW9Ao8MIXZ4Va6b0"
-      ],
-      "albumId": "55upRXa3p7ZWNbXXl6sY14",
+      "album": {
+        "id": "55upRXa3p7ZWNbXXl6sY14",
+        "name": "On Ice",
+        "img": "https://i.scdn.co/image/ab67616d00001e029427277d30ebe7912050a7af"
+      },
       "release_date": "1999",
       "popularity": 55
     },
     {
-      "trackId": "0O986IRZ2rL3qGH5QiD4ZO",
-      "name": "Mind Your Manners (feat. Icona Pop)",
+      "track": {
+        "id": "0O986IRZ2rL3qGH5QiD4ZO",
+        "name": "Mind Your Manners (feat. Icona Pop)"
+      },
       "duration_ms": 196653,
-      "artist": [
-        "Chiddy Bang",
-        "Icona Pop"
+      "artists": [
+        {
+          "name": "Chiddy Bang",
+          "id": "40giwFcTQtv9ezxW8yqxJU"
+        },
+        {
+          "name": "Icona Pop",
+          "id": "1VBflYyxBhnDc9uVib98rw"
+        }
       ],
-      "artistId": [
-        "40giwFcTQtv9ezxW8yqxJU",
-        "1VBflYyxBhnDc9uVib98rw"
-      ],
-      "albumId": "7F2E71riKnBUpeu5VFmcDI",
+      "album": {
+        "id": "7F2E71riKnBUpeu5VFmcDI",
+        "name": "Breakfast",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c100d6d18a7cab021313be13"
+      },
       "release_date": "2012-01-23",
       "popularity": 48
     },
     {
-      "trackId": "1nWRumvoXJkpJfbC3XTuoY",
-      "name": "Can't Feel My Face",
+      "track": {
+        "id": "1nWRumvoXJkpJfbC3XTuoY",
+        "name": "Can't Feel My Face"
+      },
       "duration_ms": 213520,
-      "artist": [
-        "The Weeknd"
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ"
+        }
       ],
-      "artistId": [
-        "1Xyo4u8uXC1ZmMpatF05PJ"
-      ],
-      "albumId": "0OAPJ7p7qhS7CRtPXmh0Be",
+      "album": {
+        "id": "0OAPJ7p7qhS7CRtPXmh0Be",
+        "name": "Best Summer Songs: 10's",
+        "img": "https://i.scdn.co/image/ab67616d00001e02dd385aebb1fd9858e7a234a5"
+      },
       "release_date": "2022-08-17",
       "popularity": 7
     },
     {
-      "trackId": "1Ujt4hi9SHiMAxyCjJd1Kk",
-      "name": "Younger",
+      "track": {
+        "id": "1Ujt4hi9SHiMAxyCjJd1Kk",
+        "name": "Younger"
+      },
       "duration_ms": 213968,
-      "artist": [
-        "Seinabo Sey"
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "id": "4X0v8sFoDZ6rIfkeOeVm2i"
+        }
       ],
-      "artistId": [
-        "4X0v8sFoDZ6rIfkeOeVm2i"
-      ],
-      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "album": {
+        "id": "7g2ZA4JCgG8Jxr67i23xlz",
+        "name": "Pretend",
+        "img": "https://i.scdn.co/image/ab67616d00001e020e489f9cd0f28b3ca56b2191"
+      },
       "release_date": "2015-10-23",
       "popularity": 45
     },
     {
-      "trackId": "7KXjTSCq5nL1LoYtL7XAwS",
-      "name": "HUMBLE.",
+      "track": {
+        "id": "7KXjTSCq5nL1LoYtL7XAwS",
+        "name": "HUMBLE."
+      },
       "duration_ms": 177000,
-      "artist": [
-        "Kendrick Lamar"
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+        }
       ],
-      "artistId": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ],
-      "albumId": "4eLPsYPBmXABThSJ821sqY",
+      "album": {
+        "id": "4eLPsYPBmXABThSJ821sqY",
+        "name": "DAMN.",
+        "img": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699"
+      },
       "release_date": "2017-04-14",
       "popularity": 82
     },
     {
-      "trackId": "6kwAbEjseqBob48jCus7Sz",
-      "name": "Elastic Heart",
+      "track": {
+        "id": "6kwAbEjseqBob48jCus7Sz",
+        "name": "Elastic Heart"
+      },
       "duration_ms": 257200,
-      "artist": [
-        "Sia"
+      "artists": [
+        {
+          "name": "Sia",
+          "id": "5WUlDfRSoLAfcVSX1WnrxN"
+        }
       ],
-      "artistId": [
-        "5WUlDfRSoLAfcVSX1WnrxN"
-      ],
-      "albumId": "3xFSl9lIRaYXIYkIn3OIl9",
+      "album": {
+        "id": "3xFSl9lIRaYXIYkIn3OIl9",
+        "name": "1000 Forms Of Fear",
+        "img": "https://i.scdn.co/image/ab67616d00001e025d199c9f6e6562aafa5aa357"
+      },
       "release_date": "2014-07-04",
       "popularity": 74
     },
     {
-      "trackId": "5Tzum6abyRqlGk0dElTwoL",
-      "name": "Recovery",
+      "track": {
+        "id": "5Tzum6abyRqlGk0dElTwoL",
+        "name": "Recovery"
+      },
       "duration_ms": 238266,
-      "artist": [
-        "BROODS"
+      "artists": [
+        {
+          "name": "BROODS",
+          "id": "5r5Va4lVQ1zjEfbJSrmCsS"
+        }
       ],
-      "artistId": [
-        "5r5Va4lVQ1zjEfbJSrmCsS"
-      ],
-      "albumId": "61RfrwKu6wJmaZYh3xt0mF",
+      "album": {
+        "id": "61RfrwKu6wJmaZYh3xt0mF",
+        "name": "Conscious",
+        "img": "https://i.scdn.co/image/ab67616d00001e0200d1355754d7763f5985f539"
+      },
       "release_date": "2016-06-24",
       "popularity": 33
     },
     {
-      "trackId": "0WQbCSbujb6bSPVENrWYrl",
-      "name": "Stop",
+      "track": {
+        "id": "0WQbCSbujb6bSPVENrWYrl",
+        "name": "Stop"
+      },
       "duration_ms": 297316,
-      "artist": [
-        "Justice"
+      "artists": [
+        {
+          "name": "Justice",
+          "id": "1gR0gsQYfi6joyO1dlp76N"
+        }
       ],
-      "artistId": [
-        "1gR0gsQYfi6joyO1dlp76N"
-      ],
-      "albumId": "23EaoI8dXfDGfxF54sd1DP",
+      "album": {
+        "id": "23EaoI8dXfDGfxF54sd1DP",
+        "name": "Woman",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d4a2f9a24620e329d2db7078"
+      },
       "release_date": "2016-11-18",
       "popularity": 39
     },
     {
-      "trackId": "555bNU24uRnFnd36qWp7MJ",
-      "name": "Amerika",
+      "track": {
+        "id": "555bNU24uRnFnd36qWp7MJ",
+        "name": "Amerika"
+      },
       "duration_ms": 293835,
-      "artist": [
-        "Jonathan Johansson"
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "id": "3i0VvjFfLzfX8TgDhgNWfe"
+        }
       ],
-      "artistId": [
-        "3i0VvjFfLzfX8TgDhgNWfe"
-      ],
-      "albumId": "1U2w5UkVBoeWp72vQizuNO",
+      "album": {
+        "id": "1U2w5UkVBoeWp72vQizuNO",
+        "name": "Om Vi Får Leva",
+        "img": "https://i.scdn.co/image/ab67616d00001e02b0c566524b8406afc1c3bd9e"
+      },
       "release_date": "2022-03-11",
       "popularity": 35
     }

@@ -7,190 +7,274 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/f18f77fa-f1d9-4285-9cf0-a0761d04787d.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "2PMzWCQqhKyX1EVZ3xfZLe",
-      "name": "If It Be Your Will",
+      "track": {
+        "id": "2PMzWCQqhKyX1EVZ3xfZLe",
+        "name": "If It Be Your Will"
+      },
       "duration_ms": 224066,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "6I58qJMqZHhb8jtNT3CuJB",
+      "album": {
+        "id": "6I58qJMqZHhb8jtNT3CuJB",
+        "name": "Various Positions",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c56267153920f9c0df36c5b"
+      },
       "release_date": "1984-12-11",
       "popularity": 46
     },
     {
-      "trackId": "5xIZKpKJeFdHV8NecfR5j0",
-      "name": "Home",
+      "track": {
+        "id": "5xIZKpKJeFdHV8NecfR5j0",
+        "name": "Home"
+      },
       "duration_ms": 305693,
-      "artist": [
-        "David Byrne"
+      "artists": [
+        {
+          "name": "David Byrne",
+          "id": "20vuBdFblWUo2FCOvUzusB"
+        }
       ],
-      "artistId": [
-        "20vuBdFblWUo2FCOvUzusB"
-      ],
-      "albumId": "0mqvus9jydETK3A63iIG09",
+      "album": {
+        "id": "0mqvus9jydETK3A63iIG09",
+        "name": "Everything That Happens Will Happen Today",
+        "img": "https://i.scdn.co/image/ab67616d00001e0282dd34c5535050c6b4b37295"
+      },
       "release_date": "2008-10-06",
       "popularity": 34
     },
     {
-      "trackId": "3Lk7RWStfLaHG7lXsuS87j",
-      "name": "One",
+      "track": {
+        "id": "3Lk7RWStfLaHG7lXsuS87j",
+        "name": "One"
+      },
       "duration_ms": 260466,
-      "artist": [
-        "Mary J. Blige",
-        "U2"
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "id": "1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "U2",
+          "id": "51Blml2LZPmy7TTiAg47vQ"
+        }
       ],
-      "artistId": [
-        "1XkoF8ryArs86LZvFOkbyr",
-        "51Blml2LZPmy7TTiAg47vQ"
-      ],
-      "albumId": "13HYuDhB1soZvHzwoymXoV",
+      "album": {
+        "id": "13HYuDhB1soZvHzwoymXoV",
+        "name": "The Breakthrough",
+        "img": "https://i.scdn.co/image/ab67616d00001e021f6c43d16c3d2c3685f81735"
+      },
       "release_date": "2005-01-01",
       "popularity": 64
     },
     {
-      "trackId": "2UrRhRzYUEtxPsa9ycaqpl",
-      "name": "Märk hur vår skugga",
+      "track": {
+        "id": "2UrRhRzYUEtxPsa9ycaqpl",
+        "name": "Märk hur vår skugga"
+      },
       "duration_ms": 211400,
-      "artist": [
-        "Cornelis Vreeswijk"
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "id": "5B38ZGYpd0msq1LKOyz2r9"
+        }
       ],
-      "artistId": [
-        "5B38ZGYpd0msq1LKOyz2r9"
-      ],
-      "albumId": "3x8aQUoOux2ANK6cqjxWtI",
+      "album": {
+        "id": "3x8aQUoOux2ANK6cqjxWtI",
+        "name": "Poem, ballader och lite blues",
+        "img": "https://i.scdn.co/image/ab67616d00001e02c195492f74cea82ef076edc7"
+      },
       "release_date": "1970",
       "popularity": 30
     },
     {
-      "trackId": "1j9HwUMSkRUeVFRWlHcFsy",
-      "name": "Ave Maria",
+      "track": {
+        "id": "1j9HwUMSkRUeVFRWlHcFsy",
+        "name": "Ave Maria"
+      },
       "duration_ms": 221653,
-      "artist": [
-        "Beyoncé"
+      "artists": [
+        {
+          "name": "Beyoncé",
+          "id": "6vWDO969PvNqNYHIOW5v0m"
+        }
       ],
-      "artistId": [
-        "6vWDO969PvNqNYHIOW5v0m"
-      ],
-      "albumId": "23Y5wdyP5byMFktZf8AcWU",
+      "album": {
+        "id": "23Y5wdyP5byMFktZf8AcWU",
+        "name": "I AM...SASHA FIERCE",
+        "img": "https://i.scdn.co/image/ab67616d00001e02e13de7b8662b085b0885ffef"
+      },
       "release_date": "2008-11-14",
       "popularity": 47
     },
     {
-      "trackId": "5zb7npjQqoJ7Kcpq4yD9qn",
-      "name": "You Want It Darker",
+      "track": {
+        "id": "5zb7npjQqoJ7Kcpq4yD9qn",
+        "name": "You Want It Darker"
+      },
       "duration_ms": 284373,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "3jeTB3j3QmUs8SPIVleHtU",
+      "album": {
+        "id": "3jeTB3j3QmUs8SPIVleHtU",
+        "name": "You Want It Darker",
+        "img": "https://i.scdn.co/image/ab67616d00001e028fc3f01275cae3d8ecb1c26b"
+      },
       "release_date": "2016-10-21",
       "popularity": 59
     },
     {
-      "trackId": "4fuqLXMSw866BrltTVhlhb",
-      "name": "Israelism",
+      "track": {
+        "id": "4fuqLXMSw866BrltTVhlhb",
+        "name": "Israelism"
+      },
       "duration_ms": 202026,
-      "artist": [
-        "Army Of Lovers"
+      "artists": [
+        {
+          "name": "Army Of Lovers",
+          "id": "3JXnjuv4hBqQKOVzJg74Lt"
+        }
       ],
-      "artistId": [
-        "3JXnjuv4hBqQKOVzJg74Lt"
-      ],
-      "albumId": "2hdI0vMsfpqdIjeDBXaEFz",
+      "album": {
+        "id": "2hdI0vMsfpqdIjeDBXaEFz",
+        "name": "The Gods Of Earth And Heaven",
+        "img": "https://i.scdn.co/image/ab67616d00001e02099a5b6e95cef2e86db6d82f"
+      },
       "release_date": "1993-01-01",
       "popularity": 33
     },
     {
-      "trackId": "4K1imZQQ0yKtJ40vGmUajS",
-      "name": "Girl from the North Country",
+      "track": {
+        "id": "4K1imZQQ0yKtJ40vGmUajS",
+        "name": "Girl from the North Country"
+      },
       "duration_ms": 220400,
-      "artist": [
-        "Bob Dylan",
-        "Johnny Cash"
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "id": "74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "id": "6kACVPfCOnqzgfEF5ryl0x"
+        }
       ],
-      "artistId": [
-        "74ASZWbe4lXaubB36ztrGX",
-        "6kACVPfCOnqzgfEF5ryl0x"
-      ],
-      "albumId": "5WBx64FIN04CvM2T1MGrUN",
+      "album": {
+        "id": "5WBx64FIN04CvM2T1MGrUN",
+        "name": "Nashville Skyline",
+        "img": "https://i.scdn.co/image/ab67616d00001e0222debe1325cc21c9bb0c0b07"
+      },
       "release_date": "1969-04-09",
       "popularity": 66
     },
     {
-      "trackId": "6KGHsN5QI0qunsADx3e51i",
-      "name": "C’est la vie",
+      "track": {
+        "id": "6KGHsN5QI0qunsADx3e51i",
+        "name": "C’est la vie"
+      },
       "duration_ms": 230146,
-      "artist": [
-        "Khaled"
+      "artists": [
+        {
+          "name": "Khaled",
+          "id": "28ztjHIXceRRntmTUfnmUX"
+        }
       ],
-      "artistId": [
-        "28ztjHIXceRRntmTUfnmUX"
-      ],
-      "albumId": "1kkznIKq7Rr3dWWMRfjc74",
+      "album": {
+        "id": "1kkznIKq7Rr3dWWMRfjc74",
+        "name": "C'Est La Vie",
+        "img": "https://i.scdn.co/image/ab67616d00001e020b4e72c8010f0d953a93b28a"
+      },
       "release_date": "2012-01-01",
       "popularity": 62
     },
     {
-      "trackId": "3ZFTkvIE7kyPt6Nu3PEa7V",
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "track": {
+        "id": "3ZFTkvIE7kyPt6Nu3PEa7V",
+        "name": "Hips Don't Lie (feat. Wyclef Jean)"
+      },
       "duration_ms": 218093,
-      "artist": [
-        "Shakira",
-        "Wyclef Jean"
+      "artists": [
+        {
+          "name": "Shakira",
+          "id": "0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "id": "7aBzpmFXB4WWpPl2F7RjBe"
+        }
       ],
-      "artistId": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "7aBzpmFXB4WWpPl2F7RjBe"
-      ],
-      "albumId": "5ppnlEoj4HdRRdRihnY3jU",
+      "album": {
+        "id": "5ppnlEoj4HdRRdRihnY3jU",
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e0227ddd747545c0d0cfe7595fa"
+      },
       "release_date": "2005-11-28",
       "popularity": 83
     },
     {
-      "trackId": "423hwXFgoN8RYmqLoLuVvY",
-      "name": "No Woman, No Cry - Live At The Lyceum, London/1975",
+      "track": {
+        "id": "423hwXFgoN8RYmqLoLuVvY",
+        "name": "No Woman, No Cry - Live At The Lyceum, London/1975"
+      },
       "duration_ms": 427800,
-      "artist": [
-        "Bob Marley & The Wailers"
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "id": "2QsynagSdAqZj3U9HgDzjD"
+        }
       ],
-      "artistId": [
-        "2QsynagSdAqZj3U9HgDzjD"
-      ],
-      "albumId": "5mvQHYARofQRsOE2cqBzik",
+      "album": {
+        "id": "5mvQHYARofQRsOE2cqBzik",
+        "name": "Live!",
+        "img": "https://i.scdn.co/image/ab67616d00001e029c7b208c7c3ecdb325613d34"
+      },
       "release_date": "1975-01-01",
       "popularity": 68
     },
     {
-      "trackId": "6EPRKhUOdiFSQwGBRBbvsZ",
-      "name": "Ace of Spades",
+      "track": {
+        "id": "6EPRKhUOdiFSQwGBRBbvsZ",
+        "name": "Ace of Spades"
+      },
       "duration_ms": 166360,
-      "artist": [
-        "Motörhead"
+      "artists": [
+        {
+          "name": "Motörhead",
+          "id": "1DFr97A9HnbV3SKTJFu62M"
+        }
       ],
-      "artistId": [
-        "1DFr97A9HnbV3SKTJFu62M"
-      ],
-      "albumId": "3rxF05Aux0QTrN533Kjc91",
+      "album": {
+        "id": "3rxF05Aux0QTrN533Kjc91",
+        "name": "Ace of Spades (Expanded Edition)",
+        "img": "https://i.scdn.co/image/ab67616d00001e022051e219a4af7648223953c1"
+      },
       "release_date": "1980-11-08",
       "popularity": 74
     },
     {
-      "trackId": "3mFzIFFFmEXTQs6BDAK2ZZ",
-      "name": "Dance Me to the End of Love",
+      "track": {
+        "id": "3mFzIFFFmEXTQs6BDAK2ZZ",
+        "name": "Dance Me to the End of Love"
+      },
       "duration_ms": 280626,
-      "artist": [
-        "Leonard Cohen"
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "id": "5l8VQNuIg0turYE1VtM9zV"
+        }
       ],
-      "artistId": [
-        "5l8VQNuIg0turYE1VtM9zV"
-      ],
-      "albumId": "6I58qJMqZHhb8jtNT3CuJB",
+      "album": {
+        "id": "6I58qJMqZHhb8jtNT3CuJB",
+        "name": "Various Positions",
+        "img": "https://i.scdn.co/image/ab67616d00001e028c56267153920f9c0df36c5b"
+      },
       "release_date": "1984-12-11",
       "popularity": 61
     }

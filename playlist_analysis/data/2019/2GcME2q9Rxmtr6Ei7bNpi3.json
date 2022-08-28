@@ -7,194 +7,282 @@
   "imageurl": "https://static-cdn.sr.se/images/2071/0fec98e9-805c-4294-9c52-d029fcdf2425.jpg?preset=api-default-square",
   "tracks": [
     {
-      "trackId": "4h0LDG7Ji9G2dxG1hb6JoL",
-      "name": "Pacific Ocean Blues",
+      "track": {
+        "id": "4h0LDG7Ji9G2dxG1hb6JoL",
+        "name": "Pacific Ocean Blues"
+      },
       "duration_ms": 157386,
-      "artist": [
-        "Dennis Wilson"
+      "artists": [
+        {
+          "name": "Dennis Wilson",
+          "id": "5gl6pfPwJ1coivVUMZPiS9"
+        }
       ],
-      "artistId": [
-        "5gl6pfPwJ1coivVUMZPiS9"
-      ],
-      "albumId": "08CyNpU6VJMtGmR7DYjNmQ",
+      "album": {
+        "id": "08CyNpU6VJMtGmR7DYjNmQ",
+        "name": "Pacific Ocean Blue & Bambu - 2 CD Deluxe Legacy Edition",
+        "img": "https://i.scdn.co/image/ab67616d00001e022a0fb4b4d90f411f9b04a996"
+      },
       "release_date": "1977",
       "popularity": 47
     },
     {
-      "trackId": "2zAwL5UwmqIh3JoKVkFvd8",
-      "name": "The Card Cheat - Remastered",
+      "track": {
+        "id": "2zAwL5UwmqIh3JoKVkFvd8",
+        "name": "The Card Cheat - Remastered"
+      },
       "duration_ms": 229493,
-      "artist": [
-        "The Clash"
+      "artists": [
+        {
+          "name": "The Clash",
+          "id": "3RGLhK1IP9jnYFH4BRFJBS"
+        }
       ],
-      "artistId": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-      ],
-      "albumId": "6FCzvataOZh68j8OKzOt9a",
+      "album": {
+        "id": "6FCzvataOZh68j8OKzOt9a",
+        "name": "London Calling (Remastered)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02cd9d8bc9ef04014b6e90e182"
+      },
       "release_date": "1979",
       "popularity": 41
     },
     {
-      "trackId": "5gBycwbXLf9MtT5DnFZpRY",
-      "name": "Yesterday Yes A Day - Bande originale du film \"Madame Claude\"",
+      "track": {
+        "id": "5gBycwbXLf9MtT5DnFZpRY",
+        "name": "Yesterday Yes A Day - Bande originale du film \"Madame Claude\""
+      },
       "duration_ms": 178893,
-      "artist": [
-        "Jane Birkin"
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "id": "4XYH5Be5pn1qkxhfaID3J5"
+        }
       ],
-      "artistId": [
-        "4XYH5Be5pn1qkxhfaID3J5"
-      ],
-      "albumId": "1nhDXT9LZhqq9nXTV2bhOa",
+      "album": {
+        "id": "1nhDXT9LZhqq9nXTV2bhOa",
+        "name": "Ex Fan Des Sixties",
+        "img": "https://i.scdn.co/image/ab67616d00001e027d5a79f451408d47dde3bcad"
+      },
       "release_date": "1978",
       "popularity": 24
     },
     {
-      "trackId": "22YwMa0T9YFM5sVGcZ2uc8",
-      "name": "One Night at the Cinema",
+      "track": {
+        "id": "22YwMa0T9YFM5sVGcZ2uc8",
+        "name": "One Night at the Cinema"
+      },
       "duration_ms": 279626,
-      "artist": [
-        "Nils Patrik Johansson"
+      "artists": [
+        {
+          "name": "Nils Patrik Johansson",
+          "id": "6DOakDaCXOmjMpeL85o2FM"
+        }
       ],
-      "artistId": [
-        "6DOakDaCXOmjMpeL85o2FM"
-      ],
-      "albumId": "6eZmJH5v58FmsZK2WlDjw1",
+      "album": {
+        "id": "6eZmJH5v58FmsZK2WlDjw1",
+        "name": "The Great Conspiracy",
+        "img": "https://i.scdn.co/image/ab67616d00001e02bdb5220e77083fd4cca416a6"
+      },
       "release_date": "2020-02-28",
       "popularity": 18
     },
     {
-      "trackId": "0IQTExlaYIdKZcErAKtN43",
-      "name": "My Father",
+      "track": {
+        "id": "0IQTExlaYIdKZcErAKtN43",
+        "name": "My Father"
+      },
       "duration_ms": 294333,
-      "artist": [
-        "Nina Simone"
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "id": "7G1GBhoKtEPnP86X2PvEYO"
+        }
       ],
-      "artistId": [
-        "7G1GBhoKtEPnP86X2PvEYO"
-      ],
-      "albumId": "4UjcMSiyv8QCiZ4O8gpzXS",
+      "album": {
+        "id": "4UjcMSiyv8QCiZ4O8gpzXS",
+        "name": "Baltimore",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a3e94aa06432d0fa06e54f76"
+      },
       "release_date": "1978",
       "popularity": 24
     },
     {
-      "trackId": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "Heroes - 2017 Remaster",
+      "track": {
+        "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+        "name": "Heroes - 2017 Remaster"
+      },
       "duration_ms": 371413,
-      "artist": [
-        "David Bowie"
+      "artists": [
+        {
+          "name": "David Bowie",
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
+        }
       ],
-      "artistId": [
-        "0oSGxfWSnnOXhD2fKuz2Gy"
-      ],
-      "albumId": "4I5zzKYd2SKDgZ9DRf5LVk",
+      "album": {
+        "id": "4I5zzKYd2SKDgZ9DRf5LVk",
+        "name": "\"Heroes\" (2017 Remaster)",
+        "img": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985"
+      },
       "release_date": "1977",
       "popularity": 76
     },
     {
-      "trackId": "0P0lgWxM39ZSJE3u9nsikD",
-      "name": "Monicas vals",
+      "track": {
+        "id": "0P0lgWxM39ZSJE3u9nsikD",
+        "name": "Monicas vals"
+      },
       "duration_ms": 167440,
-      "artist": [
-        "Monica Zetterlund",
-        "Bill Evans"
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "id": "7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "id": "4jXfFzeP66Zy67HM2mvIIF"
+        }
       ],
-      "artistId": [
-        "7mvvG63CNSY93JWAJ37rnD",
-        "4jXfFzeP66Zy67HM2mvIIF"
-      ],
-      "albumId": "5jMKNvYYHH08quqLK3ylTC",
+      "album": {
+        "id": "5jMKNvYYHH08quqLK3ylTC",
+        "name": "Waltz For Debby",
+        "img": "https://i.scdn.co/image/ab67616d00001e02a4e6d8633c7f37f127d66f8e"
+      },
       "release_date": "1964-12-01",
       "popularity": 36
     },
     {
-      "trackId": "02KpkaZbiutsR0ucxce4Sh",
-      "name": "This Will Be Our Year",
+      "track": {
+        "id": "02KpkaZbiutsR0ucxce4Sh",
+        "name": "This Will Be Our Year"
+      },
       "duration_ms": 127733,
-      "artist": [
-        "The Zombies"
+      "artists": [
+        {
+          "name": "The Zombies",
+          "id": "2jgPkn6LuUazBoBk6vvjh5"
+        }
       ],
-      "artistId": [
-        "2jgPkn6LuUazBoBk6vvjh5"
-      ],
-      "albumId": "7K6JtyaSSVr7HidQsCHun0",
+      "album": {
+        "id": "7K6JtyaSSVr7HidQsCHun0",
+        "name": "Odessey and Oracle",
+        "img": "https://i.scdn.co/image/ab67616d00001e026de69821e8460a9d689e20ba"
+      },
       "release_date": "1968-04-19",
       "popularity": 58
     },
     {
-      "trackId": "3baBQrWBX71zjKXVtVkvN6",
-      "name": "Grow Old With Me - Remastered 2010",
+      "track": {
+        "id": "3baBQrWBX71zjKXVtVkvN6",
+        "name": "Grow Old With Me - Remastered 2010"
+      },
       "duration_ms": 189293,
-      "artist": [
-        "John Lennon"
+      "artists": [
+        {
+          "name": "John Lennon",
+          "id": "4x1nvY2FN8jxqAFA0DA02H"
+        }
       ],
-      "artistId": [
-        "4x1nvY2FN8jxqAFA0DA02H"
-      ],
-      "albumId": "1HRCspKjuNI3bGzZgvFU3y",
+      "album": {
+        "id": "1HRCspKjuNI3bGzZgvFU3y",
+        "name": "Milk And Honey",
+        "img": "https://i.scdn.co/image/ab67616d00001e024a82d19a6315bad34b34be61"
+      },
       "release_date": "1984-01-27",
       "popularity": 40
     },
     {
-      "trackId": "1hhYOvIQyW7AiVRcQmOBvc",
-      "name": "Parsifal, WWV 111: Vorspiel - Prelude - Part II",
+      "track": {
+        "id": "1hhYOvIQyW7AiVRcQmOBvc",
+        "name": "Parsifal, WWV 111: Vorspiel - Prelude - Part II"
+      },
       "duration_ms": 501628,
-      "artist": [
-        "Richard Wagner",
-        "Valery Gergiev",
-        "Mariinsky Orchestra"
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "id": "1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Valery Gergiev",
+          "id": "2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "id": "2rRUfv2w535SEUV1YO5SP6"
+        }
       ],
-      "artistId": [
-        "1C1x4MVkql8AiABuTw6DgE",
-        "2LxnoYPOe0FCLC82R3xgO2",
-        "2rRUfv2w535SEUV1YO5SP6"
-      ],
-      "albumId": "2J8wkK5R3oVrOKnWQVbXCu",
+      "album": {
+        "id": "2J8wkK5R3oVrOKnWQVbXCu",
+        "name": "Wagner: Parsifal",
+        "img": "https://i.scdn.co/image/ab67616d00001e0269ef7cd878f676381f952ad5"
+      },
       "release_date": "2010-09-20",
       "popularity": 5
     },
     {
-      "trackId": "4mpjGAPJfxwfegccMjdmfi",
-      "name": "No Other Love",
+      "track": {
+        "id": "4mpjGAPJfxwfegccMjdmfi",
+        "name": "No Other Love"
+      },
       "duration_ms": 219600,
-      "artist": [
-        "Maranatha! Music"
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "id": "67OFzndMlzj7cDF2BqnwYe"
+        }
       ],
-      "artistId": [
-        "67OFzndMlzj7cDF2BqnwYe"
-      ],
-      "albumId": "5W8FCrbWLKeeltQ0NBEdUG",
+      "album": {
+        "id": "5W8FCrbWLKeeltQ0NBEdUG",
+        "name": "Praise 8 - As The Deer",
+        "img": "https://i.scdn.co/image/ab67616d00001e02d0307e54d450f90f61da2887"
+      },
       "release_date": "1999-01-01",
       "popularity": 16
     },
     {
-      "trackId": "6NDB2wux9KMkjAchaU2dYC",
-      "name": "Barbara / Arr Tharaud: Say, when will you return? (Dis, quand reviendras tu ?) [Arr. Tharaud for Cello & Piano]",
+      "track": {
+        "id": "6NDB2wux9KMkjAchaU2dYC",
+        "name": "Barbara / Arr Tharaud: Say, when will you return? (Dis, quand reviendras tu ?) [Arr. Tharaud for Cello & Piano]"
+      },
       "duration_ms": 285186,
-      "artist": [
-        "Barbara",
-        "Alexandre Tharaud",
-        "François Salque"
+      "artists": [
+        {
+          "name": "Barbara",
+          "id": "4TNiKyCX2oCvdo1sTgHcRw"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "id": "5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "François Salque",
+          "id": "0fW8GvidjXGHw0xy7xXTJJ"
+        }
       ],
-      "artistId": [
-        "4TNiKyCX2oCvdo1sTgHcRw",
-        "5HG9Eg7Ik8ZuNtMyGYTxLG",
-        "0fW8GvidjXGHw0xy7xXTJJ"
-      ],
-      "albumId": "4fzpKAp5r6OcnrceQQSWds",
+      "album": {
+        "id": "4fzpKAp5r6OcnrceQQSWds",
+        "name": "Barbara",
+        "img": "https://i.scdn.co/image/ab67616d00001e02194f187a536e0f7d2eae2b74"
+      },
       "release_date": "2017-09-29",
       "popularity": 16
     },
     {
-      "trackId": "72zjPTxphuh5AacqE74Uho",
-      "name": "Sjöman (Seeman)",
+      "track": {
+        "id": "72zjPTxphuh5AacqE74Uho",
+        "name": "Sjöman (Seeman)"
+      },
       "duration_ms": 164960,
-      "artist": [
-        "Thory Bernhards"
+      "artists": [
+        {
+          "name": "Thory Bernhards",
+          "id": "3T2wch8iC2OqmdyGgcgCJ5"
+        }
       ],
-      "artistId": [
-        "3T2wch8iC2OqmdyGgcgCJ5"
-      ],
-      "albumId": "1LcBO0r324MVgi8nxEZrMQ",
+      "album": {
+        "id": "1LcBO0r324MVgi8nxEZrMQ",
+        "name": "Gamla fina låtar 3",
+        "img": "https://i.scdn.co/image/ab67616d00001e02072c5a8dc39c57a7c65c6003"
+      },
       "release_date": "1991-01-01",
       "popularity": 32
     }
