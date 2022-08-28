@@ -1,92 +1,136 @@
-[
-  {
-    "trackId": "44UWAmppRuj5KNHWbAASuF",
-    "name": "This Is It",
-    "duration_ms": 211853,
-    "artist": "Melba Moore",
-    "artistId": "0uMy5ZKVPBHauBYTTfCojq",
-    "albumId": "5vLlnYOvOgwrWxGjNdlhnz",
-    "release_date": "2014-02-14",
-    "popularity": 45
-  },
-  {
-    "trackId": "3yBENaZoDnQVa7hPF7c9Kj",
-    "name": "Out of the Darkness",
-    "duration_ms": 195666,
-    "artist": "Sarah Dawn Finer",
-    "artistId": "4TuGR5xkIry198WmY7hax2",
-    "albumId": "3OBikCz7dRbDogbYmGOPV4",
-    "release_date": "2007-06-20",
-    "popularity": 4
-  },
-  {
-    "trackId": "5IK2FtuC0qmHHam9sWFxUI",
-    "name": "Who's Crying Now",
-    "duration_ms": 300146,
-    "artist": "Journey",
-    "artistId": "0rvjqX7ttXeg3mTy8Xscbt",
-    "albumId": "43wpzak9OmQfrjyksuGwp0",
-    "release_date": "1981",
-    "popularity": 61
-  },
-  {
-    "trackId": "7Bsfh7tZyAf6L5iQti86Rq",
-    "name": "I Could Never Take the Place of Your Man",
-    "duration_ms": 389226,
-    "artist": "Prince",
-    "artistId": "5a2EaR3hamoenG9rDuVn8j",
-    "albumId": "1XsXHctYSQNyAd9BANCk2B",
-    "release_date": "1987-03-30",
-    "popularity": 38
-  },
-  {
-    "trackId": "22ff60cZy4APp7bzESHLR8",
-    "name": "Disco Inferno - Single Edit",
-    "duration_ms": 191533,
-    "artist": "The Trammps",
-    "artistId": "1zgNpeHQe8GulzfVkYP2VK",
-    "albumId": "6eAq1OY2L1F3qleomkvtX7",
-    "release_date": "2005-09-20",
-    "popularity": 64
-  },
-  {
-    "trackId": "0P6y6UfTsefPy3RNzNfw4e",
-    "name": "Life Is A River - Spanish Version",
-    "duration_ms": 227360,
-    "artist": "Meja",
-    "artistId": "4eYjWapog2qNOYRnqBvGXP",
-    "albumId": "6twZO7l31fgl5NhsYoS51W",
-    "release_date": "2020-03-12",
-    "popularity": 6
-  },
-  {
-    "trackId": "0hEFGMHEnImIB98VJ7628X",
-    "name": "La Camisa Negra",
-    "duration_ms": 216866,
-    "artist": "Juanes",
-    "artistId": "0UWZUmn7sybxMCqrw9tGa7",
-    "albumId": "1pfOQNO03YsguyaKHoEJyJ",
-    "release_date": "2022-08-12",
-    "popularity": 1
-  },
-  {
-    "trackId": "6lWY4ji9T0tpFU2xbnRC1p",
-    "name": "Affirmation",
-    "duration_ms": 295800,
-    "artist": "Savage Garden",
-    "artistId": "3NRFinRTEqUCfaTTZmk8ek",
-    "albumId": "3w69KK7uEA8OsKuW3OeQcC",
-    "release_date": "1999-11-09",
-    "popularity": 60
-  },
-  {
-    "trackId": "0HEmnAUT8PHznIAAmVXqFJ",
-    "name": "Faith - Remastered",
-    "duration_ms": 193200,
-    "artist": "George Michael",
-    "artistId": "19ra5tSw0tWufvUp8GotLo",
-    "albumId": "34K1Kvskt9arWy8E1Gz3Lw",
-    "release_date": "1987-10-30",
-    "popularity": 74
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/323841",
+  "dob": "1967-05-10",
+  "title": "Mia Törnblom",
+  "date": "2007-07-23",
+  "playlistId": "5xQ8sFjFDTxxI4m22gDdGf",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3257707_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "44UWAmppRuj5KNHWbAASuF",
+      "name": "This Is It",
+      "duration_ms": 211853,
+      "artist": [
+        "Melba Moore"
+      ],
+      "artistId": [
+        "0uMy5ZKVPBHauBYTTfCojq"
+      ],
+      "albumId": "5vLlnYOvOgwrWxGjNdlhnz",
+      "release_date": "2014-02-14",
+      "popularity": 45
+    },
+    {
+      "trackId": "3yBENaZoDnQVa7hPF7c9Kj",
+      "name": "Out of the Darkness",
+      "duration_ms": 195666,
+      "artist": [
+        "Sarah Dawn Finer"
+      ],
+      "artistId": [
+        "4TuGR5xkIry198WmY7hax2"
+      ],
+      "albumId": "3OBikCz7dRbDogbYmGOPV4",
+      "release_date": "2007-06-20",
+      "popularity": 4
+    },
+    {
+      "trackId": "5IK2FtuC0qmHHam9sWFxUI",
+      "name": "Who's Crying Now",
+      "duration_ms": 300146,
+      "artist": [
+        "Journey"
+      ],
+      "artistId": [
+        "0rvjqX7ttXeg3mTy8Xscbt"
+      ],
+      "albumId": "43wpzak9OmQfrjyksuGwp0",
+      "release_date": "1981",
+      "popularity": 61
+    },
+    {
+      "trackId": "7Bsfh7tZyAf6L5iQti86Rq",
+      "name": "I Could Never Take the Place of Your Man",
+      "duration_ms": 389226,
+      "artist": [
+        "Prince"
+      ],
+      "artistId": [
+        "5a2EaR3hamoenG9rDuVn8j"
+      ],
+      "albumId": "1XsXHctYSQNyAd9BANCk2B",
+      "release_date": "1987-03-30",
+      "popularity": 38
+    },
+    {
+      "trackId": "22ff60cZy4APp7bzESHLR8",
+      "name": "Disco Inferno - Single Edit",
+      "duration_ms": 191533,
+      "artist": [
+        "The Trammps"
+      ],
+      "artistId": [
+        "1zgNpeHQe8GulzfVkYP2VK"
+      ],
+      "albumId": "6eAq1OY2L1F3qleomkvtX7",
+      "release_date": "2005-09-20",
+      "popularity": 64
+    },
+    {
+      "trackId": "0P6y6UfTsefPy3RNzNfw4e",
+      "name": "Life Is A River - Spanish Version",
+      "duration_ms": 227360,
+      "artist": [
+        "Meja"
+      ],
+      "artistId": [
+        "4eYjWapog2qNOYRnqBvGXP"
+      ],
+      "albumId": "6twZO7l31fgl5NhsYoS51W",
+      "release_date": "2020-03-12",
+      "popularity": 6
+    },
+    {
+      "trackId": "0hEFGMHEnImIB98VJ7628X",
+      "name": "La Camisa Negra",
+      "duration_ms": 216866,
+      "artist": [
+        "Juanes"
+      ],
+      "artistId": [
+        "0UWZUmn7sybxMCqrw9tGa7"
+      ],
+      "albumId": "1pfOQNO03YsguyaKHoEJyJ",
+      "release_date": "2022-08-12",
+      "popularity": 1
+    },
+    {
+      "trackId": "6lWY4ji9T0tpFU2xbnRC1p",
+      "name": "Affirmation",
+      "duration_ms": 295800,
+      "artist": [
+        "Savage Garden"
+      ],
+      "artistId": [
+        "3NRFinRTEqUCfaTTZmk8ek"
+      ],
+      "albumId": "3w69KK7uEA8OsKuW3OeQcC",
+      "release_date": "1999-11-09",
+      "popularity": 60
+    },
+    {
+      "trackId": "0HEmnAUT8PHznIAAmVXqFJ",
+      "name": "Faith - Remastered",
+      "duration_ms": 193200,
+      "artist": [
+        "George Michael"
+      ],
+      "artistId": [
+        "19ra5tSw0tWufvUp8GotLo"
+      ],
+      "albumId": "34K1Kvskt9arWy8E1Gz3Lw",
+      "release_date": "1987-10-30",
+      "popularity": 74
+    }
+  ]
+}

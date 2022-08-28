@@ -1,112 +1,174 @@
-[
-  {
-    "trackId": "3sYbnk1vLjNMxevpne08ts",
-    "name": "Long Summer Nights",
-    "duration_ms": 174019,
-    "artist": "Oliver Nelson",
-    "artistId": "4QAp87iZerUP9PKxtLhmW1",
-    "albumId": "2pyz3hqxKFFJ1rg2diDWoT",
-    "release_date": "2022-05-27",
-    "popularity": 53
-  },
-  {
-    "trackId": "23WaWv0Yrjw9ER1J0rZQ9T",
-    "name": "Truths & Rights",
-    "duration_ms": 191960,
-    "artist": "Johnny Osbourne",
-    "artistId": "5TUTGRG0FlRoYTZ4GEdOVO",
-    "albumId": "3wONVayHtxYkGXATUdmPQi",
-    "release_date": "2006-04-20",
-    "popularity": 34
-  },
-  {
-    "trackId": "1n0iHqATRnMzoxsIGmzIoR",
-    "name": "Ruin",
-    "duration_ms": 272986,
-    "artist": "Cat Power",
-    "artistId": "6G7OerKc3eBO9sVkRNopFC",
-    "albumId": "1IoiJGsAHdL0OL9IOjTflm",
-    "release_date": "2012-09-03",
-    "popularity": 38
-  },
-  {
-    "trackId": "5OGfBbWmRRkDiZiJbu5WIr",
-    "name": "Blank Generation - 2013 Remaster",
-    "duration_ms": 167840,
-    "artist": "Richard Hell",
-    "artistId": "121Q6oslYCMBYZHhOFL1RB",
-    "albumId": "0nejx6WUKHja3fesKClRCF",
-    "release_date": "2005-08-02",
-    "popularity": 50
-  },
-  {
-    "trackId": "4wr2HgyYMvJourcfOMzPCb",
-    "name": "Polisen",
-    "duration_ms": 154433,
-    "artist": "Ringnes-Ronny",
-    "artistId": "4TNb6OInXahdseLnzAY1eL",
-    "albumId": "4dVz4LIb33QKCJoxQPYyNL",
-    "release_date": "2021-04-09",
-    "popularity": 60
-  },
-  {
-    "trackId": "18WswjCcjs3vmz4qWNOrSC",
-    "name": "Oh Bondage, Up Yours!",
-    "duration_ms": 169760,
-    "artist": "X-Ray Spex",
-    "artistId": "5BgWMOdEUJYdUBH3WXfMWt",
-    "albumId": "3jnQzZuyVOAgtlHWlTST1W",
-    "release_date": "2013-01-01",
-    "popularity": 38
-  },
-  {
-    "trackId": "3ebYtLVuV4HzEZUDcpZB9p",
-    "name": "Lovin' You",
-    "duration_ms": 223143,
-    "artist": "Minnie Riperton",
-    "artistId": "2i1IdHG5w0wiSmJGoqAGlj",
-    "albumId": "3TFzRE2Mm1uZcJeu91UNs9",
-    "release_date": "1974",
-    "popularity": 60
-  },
-  {
-    "trackId": "1RF4p4rl0z1B1LGHMWPszl",
-    "name": "Poison (with DEKKO)",
-    "duration_ms": 174285,
-    "artist": "Nobeat",
-    "artistId": "3TKS1JzWOLAnicuOCOyVlW",
-    "albumId": "4wjKpS0AOa1CJqTUOXqssA",
-    "release_date": "2021-09-02",
-    "popularity": 42
-  },
-  {
-    "trackId": "7zzdV8LC1jdtjdbis5eH9c",
-    "name": "Dream Baby Dream",
-    "duration_ms": 504560,
-    "artist": "Neneh Cherry",
-    "artistId": "3JxCEqL9zjKnDJgUhRuRJD",
-    "albumId": "2PfR2GcoIBZIfpfCZlTnfm",
-    "release_date": "2012-06-18",
-    "popularity": 12
-  },
-  {
-    "trackId": "1BVhNhZwX2DQBOKcUwn6HZ",
-    "name": "Bite This 2010 (feat. DJ Jab, Sadat X, A.G. & Roxanne Shante)",
-    "duration_ms": 238533,
-    "artist": "Trinity",
-    "artistId": "4apnjfHFw0AAU5jpyLI02K",
-    "albumId": "2vc1Ff6pqaqylU7Xsvl7hL",
-    "release_date": "2013-03-26",
-    "popularity": 4
-  },
-  {
-    "trackId": "0ycb2zVgjpzJU6PSXZGn34",
-    "name": "Flyin' High (In The Friendly Sky)",
-    "duration_ms": 229573,
-    "artist": "Marvin Gaye",
-    "artistId": "3koiLjNrgRTNbOwViDipeA",
-    "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
-    "release_date": "1971-05-21",
-    "popularity": 48
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/116705",
+  "dob": "1964-03-10",
+  "title": "Neneh Cherry",
+  "date": "2012-07-06",
+  "playlistId": "7mLXsUNFkcswlF1mTHfksE",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2344886_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "3sYbnk1vLjNMxevpne08ts",
+      "name": "Long Summer Nights",
+      "duration_ms": 174019,
+      "artist": [
+        "Oliver Nelson",
+        "Lilla Vargen"
+      ],
+      "artistId": [
+        "4QAp87iZerUP9PKxtLhmW1",
+        "1bYTiIHnxEdBncCHYCfE4j"
+      ],
+      "albumId": "2pyz3hqxKFFJ1rg2diDWoT",
+      "release_date": "2022-05-27",
+      "popularity": 53
+    },
+    {
+      "trackId": "23WaWv0Yrjw9ER1J0rZQ9T",
+      "name": "Truths & Rights",
+      "duration_ms": 191960,
+      "artist": [
+        "Johnny Osbourne"
+      ],
+      "artistId": [
+        "5TUTGRG0FlRoYTZ4GEdOVO"
+      ],
+      "albumId": "3wONVayHtxYkGXATUdmPQi",
+      "release_date": "2006-04-20",
+      "popularity": 34
+    },
+    {
+      "trackId": "1n0iHqATRnMzoxsIGmzIoR",
+      "name": "Ruin",
+      "duration_ms": 272986,
+      "artist": [
+        "Cat Power"
+      ],
+      "artistId": [
+        "6G7OerKc3eBO9sVkRNopFC"
+      ],
+      "albumId": "1IoiJGsAHdL0OL9IOjTflm",
+      "release_date": "2012-09-03",
+      "popularity": 38
+    },
+    {
+      "trackId": "5OGfBbWmRRkDiZiJbu5WIr",
+      "name": "Blank Generation - 2013 Remaster",
+      "duration_ms": 167840,
+      "artist": [
+        "Richard Hell"
+      ],
+      "artistId": [
+        "121Q6oslYCMBYZHhOFL1RB"
+      ],
+      "albumId": "0nejx6WUKHja3fesKClRCF",
+      "release_date": "2005-08-02",
+      "popularity": 50
+    },
+    {
+      "trackId": "4wr2HgyYMvJourcfOMzPCb",
+      "name": "Polisen",
+      "duration_ms": 154433,
+      "artist": [
+        "Ringnes-Ronny"
+      ],
+      "artistId": [
+        "4TNb6OInXahdseLnzAY1eL"
+      ],
+      "albumId": "4dVz4LIb33QKCJoxQPYyNL",
+      "release_date": "2021-04-09",
+      "popularity": 60
+    },
+    {
+      "trackId": "18WswjCcjs3vmz4qWNOrSC",
+      "name": "Oh Bondage, Up Yours!",
+      "duration_ms": 169760,
+      "artist": [
+        "X-Ray Spex"
+      ],
+      "artistId": [
+        "5BgWMOdEUJYdUBH3WXfMWt"
+      ],
+      "albumId": "3jnQzZuyVOAgtlHWlTST1W",
+      "release_date": "2013-01-01",
+      "popularity": 38
+    },
+    {
+      "trackId": "3ebYtLVuV4HzEZUDcpZB9p",
+      "name": "Lovin' You",
+      "duration_ms": 223143,
+      "artist": [
+        "Minnie Riperton"
+      ],
+      "artistId": [
+        "2i1IdHG5w0wiSmJGoqAGlj"
+      ],
+      "albumId": "3TFzRE2Mm1uZcJeu91UNs9",
+      "release_date": "1974",
+      "popularity": 60
+    },
+    {
+      "trackId": "1RF4p4rl0z1B1LGHMWPszl",
+      "name": "Poison (with DEKKO)",
+      "duration_ms": 174285,
+      "artist": [
+        "Nobeat",
+        "DEKKO"
+      ],
+      "artistId": [
+        "3TKS1JzWOLAnicuOCOyVlW",
+        "6ZvYYrrfpb1Z7kICDyxWQE"
+      ],
+      "albumId": "4wjKpS0AOa1CJqTUOXqssA",
+      "release_date": "2021-09-02",
+      "popularity": 42
+    },
+    {
+      "trackId": "7zzdV8LC1jdtjdbis5eH9c",
+      "name": "Dream Baby Dream",
+      "duration_ms": 504560,
+      "artist": [
+        "Neneh Cherry",
+        "The Thing"
+      ],
+      "artistId": [
+        "3JxCEqL9zjKnDJgUhRuRJD",
+        "5cRUJxzcgpZmzM6rZdKMjA"
+      ],
+      "albumId": "2PfR2GcoIBZIfpfCZlTnfm",
+      "release_date": "2012-06-18",
+      "popularity": 12
+    },
+    {
+      "trackId": "1BVhNhZwX2DQBOKcUwn6HZ",
+      "name": "Bite This 2010 (feat. DJ Jab, Sadat X, A.G. & Roxanne Shante)",
+      "duration_ms": 238533,
+      "artist": [
+        "Trinity",
+        "Sadat X",
+        "DJ Jab"
+      ],
+      "artistId": [
+        "4apnjfHFw0AAU5jpyLI02K",
+        "7fDLDq2weBagiAFD2j17Al",
+        "1EKWMZMdJ1tMSybiiIjuWx"
+      ],
+      "albumId": "2vc1Ff6pqaqylU7Xsvl7hL",
+      "release_date": "2013-03-26",
+      "popularity": 4
+    },
+    {
+      "trackId": "0ycb2zVgjpzJU6PSXZGn34",
+      "name": "Flyin' High (In The Friendly Sky)",
+      "duration_ms": 229573,
+      "artist": [
+        "Marvin Gaye"
+      ],
+      "artistId": [
+        "3koiLjNrgRTNbOwViDipeA"
+      ],
+      "albumId": "2v6ANhWhZBUKkg6pJJBs3B",
+      "release_date": "1971-05-21",
+      "popularity": 48
+    }
+  ]
+}

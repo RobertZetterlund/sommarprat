@@ -1,102 +1,158 @@
-[
-  {
-    "trackId": "7FQsdKvkCaNYnfd8eboSgU",
-    "name": "Moon River(Vocal Johnny Mercer)",
-    "duration_ms": 222479,
-    "artist": "Henry Mancini",
-    "artistId": "2EExdpjU4SK3xnJHO5paJf",
-    "albumId": "53mCG3mQnybqhQfgH5ULUK",
-    "release_date": "1961",
-    "popularity": 25
-  },
-  {
-    "trackId": "20FNvyY9tMTlgmpcQrkY5x",
-    "name": "Visa fran Utanmyra",
-    "duration_ms": 293026,
-    "artist": "Georg Riedel",
-    "artistId": "3Z1yaFUknAq52KBVmrYpqy",
-    "albumId": "47LlnxrvG1BG6Pyn8BN41q",
-    "release_date": "2003-01-01",
-    "popularity": 1
-  },
-  {
-    "trackId": "25FJtwokc905OMHwyJsEbJ",
-    "name": "Avinu Malkeinu",
-    "duration_ms": 246960,
-    "artist": "Barbra Streisand",
-    "artistId": "7jmTilWYlKOuavFfmQAcu6",
-    "albumId": "6RJIZ5P4cI57apjUkWhAH7",
-    "release_date": "1997-10-28",
-    "popularity": 31
-  },
-  {
-    "trackId": "7yzbimr8WVyAtBX3Eg6UL9",
-    "name": "Hallelujah",
-    "duration_ms": 277160,
-    "artist": "Leonard Cohen",
-    "artistId": "5l8VQNuIg0turYE1VtM9zV",
-    "albumId": "6I58qJMqZHhb8jtNT3CuJB",
-    "release_date": "1984-12-11",
-    "popularity": 63
-  },
-  {
-    "trackId": "7uvdA3kdzlzv7OLCJ3kbxj",
-    "name": "Fäbodpsalm från Älvdalen",
-    "duration_ms": 143200,
-    "artist": "Busk Margit Jonsson",
-    "artistId": "3RekXTpIxw7wQmiFHdQcGL",
-    "albumId": "23Jq8HBt73LrsGl2bxesU7",
-    "release_date": "1996-01-01",
-    "popularity": 1
-  },
-  {
-    "trackId": "1wgzBPjnTdNGJa2SFwUQnW",
-    "name": "Kinder Yorn",
-    "duration_ms": 172946,
-    "artist": "Theodore Bikel",
-    "artistId": "67p0NB8haJlULQy2gr4iKZ",
-    "albumId": "3CqQ7sLS5tbeVsthtDUbNX",
-    "release_date": "2003",
-    "popularity": 0
-  },
-  {
-    "trackId": "76H3fADyZDi7Zh0qXknTFk",
-    "name": "על כל אלה",
-    "duration_ms": 235493,
-    "artist": "Yossi Banai",
-    "artistId": "0qyW8XnyYBblpgc9FpEaNh",
-    "albumId": "69xUqLfjaVlBPZuo0WNXIl",
-    "release_date": "2011-01-01",
-    "popularity": 1
-  },
-  {
-    "trackId": "45KJsBxGHuTc7rK4oAY3qz",
-    "name": "ברוך הבא",
-    "duration_ms": 229560,
-    "artist": "Chava Alberstein",
-    "artistId": "5UbgVjyCkpIMOzQuOI4DOW",
-    "albumId": "6Gs1DXhv3WEeoMs7TgeZbB",
-    "release_date": "2010-03-01",
-    "popularity": 12
-  },
-  {
-    "trackId": "4m3PsBLxR3Dc8TEFVFbf0u",
-    "name": "(I'm Spending) Hanukkah In Santa Monica",
-    "duration_ms": 140293,
-    "artist": "Tom Lehrer",
-    "artistId": "5iNvbRVX9W8t1RpD2SHpAO",
-    "albumId": "0RKMR3nvvowz0ofGOk8TEr",
-    "release_date": "2005-06-01",
-    "popularity": 0
-  },
-  {
-    "trackId": "0aym2LBJBk9DAYuHHutrIl",
-    "name": "Hey Jude - Remastered 2015",
-    "duration_ms": 425653,
-    "artist": "The Beatles",
-    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
-    "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
-    "release_date": "2000-11-13",
-    "popularity": 72
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/392013",
+  "dob": "1932-03-15",
+  "title": "Morton Narrowe",
+  "date": "2014-07-04",
+  "playlistId": "0oOrS2FxxTWB4SX4m2Lxxn",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3300151_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "7FQsdKvkCaNYnfd8eboSgU",
+      "name": "Moon River(Vocal Johnny Mercer)",
+      "duration_ms": 222479,
+      "artist": [
+        "Henry Mancini",
+        "Johnny Mercer"
+      ],
+      "artistId": [
+        "2EExdpjU4SK3xnJHO5paJf",
+        "5cBHm2CXrbncYIDzrxF4Vi"
+      ],
+      "albumId": "53mCG3mQnybqhQfgH5ULUK",
+      "release_date": "1961",
+      "popularity": 25
+    },
+    {
+      "trackId": "20FNvyY9tMTlgmpcQrkY5x",
+      "name": "Visa fran Utanmyra",
+      "duration_ms": 293026,
+      "artist": [
+        "Georg Riedel",
+        "Jan Johansson"
+      ],
+      "artistId": [
+        "3Z1yaFUknAq52KBVmrYpqy",
+        "6DEfX2tZzx9iANmaErvLGf"
+      ],
+      "albumId": "47LlnxrvG1BG6Pyn8BN41q",
+      "release_date": "2003-01-01",
+      "popularity": 1
+    },
+    {
+      "trackId": "25FJtwokc905OMHwyJsEbJ",
+      "name": "Avinu Malkeinu",
+      "duration_ms": 246960,
+      "artist": [
+        "Barbra Streisand"
+      ],
+      "artistId": [
+        "7jmTilWYlKOuavFfmQAcu6"
+      ],
+      "albumId": "6RJIZ5P4cI57apjUkWhAH7",
+      "release_date": "1997-10-28",
+      "popularity": 31
+    },
+    {
+      "trackId": "7yzbimr8WVyAtBX3Eg6UL9",
+      "name": "Hallelujah",
+      "duration_ms": 277160,
+      "artist": [
+        "Leonard Cohen"
+      ],
+      "artistId": [
+        "5l8VQNuIg0turYE1VtM9zV"
+      ],
+      "albumId": "6I58qJMqZHhb8jtNT3CuJB",
+      "release_date": "1984-12-11",
+      "popularity": 63
+    },
+    {
+      "trackId": "7uvdA3kdzlzv7OLCJ3kbxj",
+      "name": "Fäbodpsalm från Älvdalen",
+      "duration_ms": 143200,
+      "artist": [
+        "Busk Margit Jonsson"
+      ],
+      "artistId": [
+        "3RekXTpIxw7wQmiFHdQcGL"
+      ],
+      "albumId": "23Jq8HBt73LrsGl2bxesU7",
+      "release_date": "1996-01-01",
+      "popularity": 1
+    },
+    {
+      "trackId": "1wgzBPjnTdNGJa2SFwUQnW",
+      "name": "Kinder Yorn",
+      "duration_ms": 172946,
+      "artist": [
+        "Theodore Bikel"
+      ],
+      "artistId": [
+        "67p0NB8haJlULQy2gr4iKZ"
+      ],
+      "albumId": "3CqQ7sLS5tbeVsthtDUbNX",
+      "release_date": "2003",
+      "popularity": 0
+    },
+    {
+      "trackId": "76H3fADyZDi7Zh0qXknTFk",
+      "name": "על כל אלה",
+      "duration_ms": 235493,
+      "artist": [
+        "Yossi Banai"
+      ],
+      "artistId": [
+        "0qyW8XnyYBblpgc9FpEaNh"
+      ],
+      "albumId": "69xUqLfjaVlBPZuo0WNXIl",
+      "release_date": "2011-01-01",
+      "popularity": 1
+    },
+    {
+      "trackId": "45KJsBxGHuTc7rK4oAY3qz",
+      "name": "ברוך הבא",
+      "duration_ms": 229560,
+      "artist": [
+        "Chava Alberstein"
+      ],
+      "artistId": [
+        "5UbgVjyCkpIMOzQuOI4DOW"
+      ],
+      "albumId": "6Gs1DXhv3WEeoMs7TgeZbB",
+      "release_date": "2010-03-01",
+      "popularity": 12
+    },
+    {
+      "trackId": "4m3PsBLxR3Dc8TEFVFbf0u",
+      "name": "(I'm Spending) Hanukkah In Santa Monica",
+      "duration_ms": 140293,
+      "artist": [
+        "Tom Lehrer",
+        "Jody Applebaum",
+        "Marc-André Hamelin"
+      ],
+      "artistId": [
+        "5iNvbRVX9W8t1RpD2SHpAO",
+        "4yPuTOZHoBZ7FY7uCVmFzj",
+        "0pm0LWiklLtNXUP2GVwdqY"
+      ],
+      "albumId": "0RKMR3nvvowz0ofGOk8TEr",
+      "release_date": "2005-06-01",
+      "popularity": 0
+    },
+    {
+      "trackId": "0aym2LBJBk9DAYuHHutrIl",
+      "name": "Hey Jude - Remastered 2015",
+      "duration_ms": 425653,
+      "artist": [
+        "The Beatles"
+      ],
+      "artistId": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+      ],
+      "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+      "release_date": "2000-11-13",
+      "popularity": 72
+    }
+  ]
+}

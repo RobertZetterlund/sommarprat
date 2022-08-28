@@ -1,112 +1,170 @@
-[
-  {
-    "trackId": "34f07pWpasfZhsL1Xe9NKg",
-    "name": "Bloody Mother Fucking Asshole",
-    "duration_ms": 193973,
-    "artist": "Martha Wainwright",
-    "artistId": "67pQ8Yr09zDDzzwWw3EG9R",
-    "albumId": "1j0yfKMVwRcOnIw0pXn9eh",
-    "release_date": "2005-01-01",
-    "popularity": 47
-  },
-  {
-    "trackId": "76QjE7thl0JivegixDFoxC",
-    "name": "Animal feat. Gnucci Banana (feat. Gnucci Banana) - Radio Edit",
-    "duration_ms": 180773,
-    "artist": "Mash Up International",
-    "artistId": "3ujXkgub3lQl8BkDrehTPM",
-    "albumId": "7o5qw2Q1uW6mYbGETtVVQT",
-    "release_date": "2011-05-10",
-    "popularity": 21
-  },
-  {
-    "trackId": "4XKpSYvEdZi6GQPM7ADJcK",
-    "name": "When I Grow Up",
-    "duration_ms": 215573,
-    "artist": "First Aid Kit",
-    "artistId": "21egYD1eInY6bGFcniCRT1",
-    "albumId": "66sjCIBxnJjQPf7I7zTqHP",
-    "release_date": "2010-09-27",
-    "popularity": 40
-  },
-  {
-    "trackId": "1jJci4qxiYcOHhQR247rEU",
-    "name": "Kids",
-    "duration_ms": 302840,
-    "artist": "MGMT",
-    "artistId": "0SwO7SWeDHJijQ3XNS7xEE",
-    "albumId": "6mm1Skz3JE6AXneya9Nyiv",
-    "release_date": "2007-12-14",
-    "popularity": 78
-  },
-  {
-    "trackId": "0Gd7uvRcKiuVKBoeFS9gYr",
-    "name": "Fyra bugg & en Coca-Cola",
-    "duration_ms": 179600,
-    "artist": "Lotta Engberg",
-    "artistId": "26deOFc7Oj2gu2pqzPo9O8",
-    "albumId": "7yURVDkQtalOTySdzzRP6U",
-    "release_date": "2006-03-22",
-    "popularity": 40
-  },
-  {
-    "trackId": "6nzXkCBOhb2mxctNihOqbb",
-    "name": "Bad Girls",
-    "duration_ms": 227520,
-    "artist": "M.I.A.",
-    "artistId": "0QJIPDAEDILuo8AIq3pMuU",
-    "albumId": "3dAxXNscIj0p53lBMEziYR",
-    "release_date": "2013-01-01",
-    "popularity": 76
-  },
-  {
-    "trackId": "74s9diVTeyr2fNwNqSm0O2",
-    "name": "Oh! the Divorces",
-    "duration_ms": 255120,
-    "artist": "Tracey Thorn",
-    "artistId": "7xFnmid57ZE6iWEXdEXO3b",
-    "albumId": "3YS47ds0n4EtT3NK8DTLE4",
-    "release_date": "2010-05-17",
-    "popularity": 15
-  },
-  {
-    "trackId": "4p4hyqRFdoiw4EMbEsqBdA",
-    "name": "Get Free",
-    "duration_ms": 289973,
-    "artist": "Major Lazer",
-    "artistId": "738wLrAtLtCtFOLvQBXOXp",
-    "albumId": "1MGMwkEuzCHda8lE3GA4RR",
-    "release_date": "2013-04-15",
-    "popularity": 58
-  },
-  {
-    "trackId": "0R4UX2IkcMAtum1VB3CEzy",
-    "name": "Life Is but a Dream",
-    "duration_ms": 228680,
-    "artist": "Princess Superstar",
-    "artistId": "7JQn9DfFTtsFTg2dFc75jM",
-    "albumId": "3aIkxOl9w8QJsaO2YrFeUX",
-    "release_date": "2018-07-09",
-    "popularity": 11
-  },
-  {
-    "trackId": "2g8M4dYuhivcc0DpGiLYC3",
-    "name": "Revelations",
-    "duration_ms": 232106,
-    "artist": "Yoko Ono",
-    "artistId": "2s4tjL6W3qrblOe0raIzwJ",
-    "albumId": "749IRZj6CenDO9zLuqhiE7",
-    "release_date": "2007-01-01",
-    "popularity": 17
-  },
-  {
-    "trackId": "6GQ0tyGgfQ9TnZ4TM9LL3K",
-    "name": "Inte vackrast i världen",
-    "duration_ms": 189266,
-    "artist": "Emil Jensen",
-    "artistId": "2sdhZm1TCh9CLoM4QUBsll",
-    "albumId": "22wrXuLoKdt8pEHnnjsQpL",
-    "release_date": "2009-04-22",
-    "popularity": 29
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/216120",
+  "dob": "1974-11-26",
+  "title": "Maria Sveland",
+  "date": "2013-07-22",
+  "playlistId": "5Gr3VVqHeqtdvuWKIlGYgn",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2861059_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "34f07pWpasfZhsL1Xe9NKg",
+      "name": "Bloody Mother Fucking Asshole",
+      "duration_ms": 193973,
+      "artist": [
+        "Martha Wainwright"
+      ],
+      "artistId": [
+        "67pQ8Yr09zDDzzwWw3EG9R"
+      ],
+      "albumId": "1j0yfKMVwRcOnIw0pXn9eh",
+      "release_date": "2005-01-01",
+      "popularity": 47
+    },
+    {
+      "trackId": "76QjE7thl0JivegixDFoxC",
+      "name": "Animal feat. Gnucci Banana (feat. Gnucci Banana) - Radio Edit",
+      "duration_ms": 180773,
+      "artist": [
+        "Mash Up International",
+        "Gnucci Banana"
+      ],
+      "artistId": [
+        "3ujXkgub3lQl8BkDrehTPM",
+        "0oWyZWEKzwlRgF48SMH2xE"
+      ],
+      "albumId": "7o5qw2Q1uW6mYbGETtVVQT",
+      "release_date": "2011-05-10",
+      "popularity": 21
+    },
+    {
+      "trackId": "4XKpSYvEdZi6GQPM7ADJcK",
+      "name": "When I Grow Up",
+      "duration_ms": 215573,
+      "artist": [
+        "First Aid Kit"
+      ],
+      "artistId": [
+        "21egYD1eInY6bGFcniCRT1"
+      ],
+      "albumId": "66sjCIBxnJjQPf7I7zTqHP",
+      "release_date": "2010-09-27",
+      "popularity": 40
+    },
+    {
+      "trackId": "1jJci4qxiYcOHhQR247rEU",
+      "name": "Kids",
+      "duration_ms": 302840,
+      "artist": [
+        "MGMT"
+      ],
+      "artistId": [
+        "0SwO7SWeDHJijQ3XNS7xEE"
+      ],
+      "albumId": "6mm1Skz3JE6AXneya9Nyiv",
+      "release_date": "2007-12-14",
+      "popularity": 78
+    },
+    {
+      "trackId": "0Gd7uvRcKiuVKBoeFS9gYr",
+      "name": "Fyra bugg & en Coca-Cola",
+      "duration_ms": 179600,
+      "artist": [
+        "Lotta Engberg"
+      ],
+      "artistId": [
+        "26deOFc7Oj2gu2pqzPo9O8"
+      ],
+      "albumId": "7yURVDkQtalOTySdzzRP6U",
+      "release_date": "2006-03-22",
+      "popularity": 39
+    },
+    {
+      "trackId": "6nzXkCBOhb2mxctNihOqbb",
+      "name": "Bad Girls",
+      "duration_ms": 227520,
+      "artist": [
+        "M.I.A."
+      ],
+      "artistId": [
+        "0QJIPDAEDILuo8AIq3pMuU"
+      ],
+      "albumId": "3dAxXNscIj0p53lBMEziYR",
+      "release_date": "2013-01-01",
+      "popularity": 76
+    },
+    {
+      "trackId": "74s9diVTeyr2fNwNqSm0O2",
+      "name": "Oh! the Divorces",
+      "duration_ms": 255120,
+      "artist": [
+        "Tracey Thorn"
+      ],
+      "artistId": [
+        "7xFnmid57ZE6iWEXdEXO3b"
+      ],
+      "albumId": "3YS47ds0n4EtT3NK8DTLE4",
+      "release_date": "2010-05-17",
+      "popularity": 15
+    },
+    {
+      "trackId": "4p4hyqRFdoiw4EMbEsqBdA",
+      "name": "Get Free",
+      "duration_ms": 289973,
+      "artist": [
+        "Major Lazer",
+        "Amber of Dirty Projectors"
+      ],
+      "artistId": [
+        "738wLrAtLtCtFOLvQBXOXp",
+        "6ZNxsFRXMi2yGGgOtVZsrr"
+      ],
+      "albumId": "1MGMwkEuzCHda8lE3GA4RR",
+      "release_date": "2013-04-15",
+      "popularity": 58
+    },
+    {
+      "trackId": "0R4UX2IkcMAtum1VB3CEzy",
+      "name": "Life Is but a Dream",
+      "duration_ms": 228680,
+      "artist": [
+        "Princess Superstar"
+      ],
+      "artistId": [
+        "7JQn9DfFTtsFTg2dFc75jM"
+      ],
+      "albumId": "3aIkxOl9w8QJsaO2YrFeUX",
+      "release_date": "2018-07-09",
+      "popularity": 11
+    },
+    {
+      "trackId": "2g8M4dYuhivcc0DpGiLYC3",
+      "name": "Revelations",
+      "duration_ms": 232106,
+      "artist": [
+        "Yoko Ono",
+        "Cat Power"
+      ],
+      "artistId": [
+        "2s4tjL6W3qrblOe0raIzwJ",
+        "6G7OerKc3eBO9sVkRNopFC"
+      ],
+      "albumId": "749IRZj6CenDO9zLuqhiE7",
+      "release_date": "2007-01-01",
+      "popularity": 17
+    },
+    {
+      "trackId": "6GQ0tyGgfQ9TnZ4TM9LL3K",
+      "name": "Inte vackrast i världen",
+      "duration_ms": 189266,
+      "artist": [
+        "Emil Jensen"
+      ],
+      "artistId": [
+        "2sdhZm1TCh9CLoM4QUBsll"
+      ],
+      "albumId": "22wrXuLoKdt8pEHnnjsQpL",
+      "release_date": "2009-04-22",
+      "popularity": 29
+    }
+  ]
+}

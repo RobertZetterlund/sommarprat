@@ -1,112 +1,176 @@
-[
-  {
-    "trackId": "46eu3SBuFCXWsPT39Yg3tJ",
-    "name": "Don't Stop 'Til You Get Enough",
-    "duration_ms": 365466,
-    "artist": "Michael Jackson",
-    "artistId": "3fMbdgg4jU18AjLCKBhRSm",
-    "albumId": "2ZytN2cY4Zjrr9ukb2rqTP",
-    "release_date": "1979-08-10",
-    "popularity": 75
-  },
-  {
-    "trackId": "1BqnZOkYJbvYLOhN0qPJDm",
-    "name": "Ma Baker",
-    "duration_ms": 276080,
-    "artist": "Boney M.",
-    "artistId": "54R6Y0I7jGUCveDTtI21nb",
-    "albumId": "4MOaqIKUdWuojXZYgOa7GM",
-    "release_date": "1977",
-    "popularity": 66
-  },
-  {
-    "trackId": "5L8ta4ECl5zeA6bGqY7G38",
-    "name": "Sing, Sing, Sing",
-    "duration_ms": 520293,
-    "artist": "Benny Goodman",
-    "artistId": "1pBuKaLHJlIlqYxQQaflve",
-    "albumId": "7ykWEOYdt8gyA4seOlwtWK",
-    "release_date": "2007-05-22",
-    "popularity": 51
-  },
-  {
-    "trackId": "1DIXPcTDzTj8ZMHt3PDt8p",
-    "name": "Gangsta's Paradise",
-    "duration_ms": 240693,
-    "artist": "Coolio",
-    "artistId": "3y24n3XhZ96wgwRXjvS17T",
-    "albumId": "0BJYNipGyMrw4ngKDJXzXZ",
-    "release_date": "1995-10-02",
-    "popularity": 85
-  },
-  {
-    "trackId": "0FFbJzXvag9ZRel7oNa1wU",
-    "name": "The Mexican",
-    "duration_ms": 205893,
-    "artist": "Babe Ruth",
-    "artistId": "0U04xAocTetRnA7v3TYQ2i",
-    "albumId": "5RJoCAqiZ5GZzFBFITNCYZ",
-    "release_date": "1994-08-30",
-    "popularity": 48
-  },
-  {
-    "trackId": "41kg2RvdwBuIv0OPpvBS4v",
-    "name": "Time Bomb",
-    "duration_ms": 144333,
-    "artist": "Rancid",
-    "artistId": "6xTk3EK5T9UzudENVvu9YB",
-    "albumId": "1HisV3ZKLs9It3KlGcPki5",
-    "release_date": "1995-08-15",
-    "popularity": 63
-  },
-  {
-    "trackId": "4LGMSdeKOUoy5Wf75Je0Hl",
-    "name": "Can I Get A...",
-    "duration_ms": 309773,
-    "artist": "JAY-Z",
-    "artistId": "3nFkdlSjzX9mRTtwJOzDYB",
-    "albumId": "3j1xCJdBMCl6wYQXurz2tb",
-    "release_date": "1998-11-29",
-    "popularity": 60
-  },
-  {
-    "trackId": "54igi8hshj93y8PjIaL5Fa",
-    "name": "Get Happy/Happy Days Are Here Again (feat. Judy Garland)",
-    "duration_ms": 140066,
-    "artist": "Barbra Streisand",
-    "artistId": "7jmTilWYlKOuavFfmQAcu6",
-    "albumId": "4JpntKV9S08fzohdRL8aAK",
-    "release_date": "2002-11-26",
-    "popularity": 38
-  },
-  {
-    "trackId": "4YWhyPQCyrHhUiYJ26U05J",
-    "name": "One B-Boy",
-    "duration_ms": 196257,
-    "artist": "DJ Pablo",
-    "artistId": "0PKDowhhLtKB1j72dI6eH9",
-    "albumId": "70DkZietFnSyj5NBFDFdIj",
-    "release_date": "2010-12-10",
-    "popularity": 34
-  },
-  {
-    "trackId": "49slT7gVW0zj1KIG8w6DoL",
-    "name": "A Message to You Rudy - 2015 Remaster",
-    "duration_ms": 172920,
-    "artist": "The Specials",
-    "artistId": "6xnvNmSzmeOE1bLKnYXKW3",
-    "albumId": "2OHPxPTasGkolt8lFDxCpE",
-    "release_date": "1979-11-01",
-    "popularity": 61
-  },
-  {
-    "trackId": "4wudbbceOZKjRlhTtbHvAs",
-    "name": "Spiegel im Spiegel - Version for Violin and Piano",
-    "duration_ms": 636000,
-    "artist": "Arvo Pärt",
-    "artistId": "2P6ygesd9xg5DPOBnda2jg",
-    "albumId": "69iw6Zy6fh2dSnEgBTZKJE",
-    "release_date": "1999-10-15",
-    "popularity": 51
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/396979",
+  "dob": "1974-08-29",
+  "title": "Fredrik \"Benke\" Rydman",
+  "date": "2014-07-10",
+  "playlistId": "6rDy2ENk45fIgIisKeAVDT",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3300171_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "46eu3SBuFCXWsPT39Yg3tJ",
+      "name": "Don't Stop 'Til You Get Enough",
+      "duration_ms": 365466,
+      "artist": [
+        "Michael Jackson"
+      ],
+      "artistId": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ],
+      "albumId": "2ZytN2cY4Zjrr9ukb2rqTP",
+      "release_date": "1979-08-10",
+      "popularity": 75
+    },
+    {
+      "trackId": "1BqnZOkYJbvYLOhN0qPJDm",
+      "name": "Ma Baker",
+      "duration_ms": 276080,
+      "artist": [
+        "Boney M."
+      ],
+      "artistId": [
+        "54R6Y0I7jGUCveDTtI21nb"
+      ],
+      "albumId": "4MOaqIKUdWuojXZYgOa7GM",
+      "release_date": "1977",
+      "popularity": 66
+    },
+    {
+      "trackId": "5L8ta4ECl5zeA6bGqY7G38",
+      "name": "Sing, Sing, Sing",
+      "duration_ms": 520293,
+      "artist": [
+        "Benny Goodman"
+      ],
+      "artistId": [
+        "1pBuKaLHJlIlqYxQQaflve"
+      ],
+      "albumId": "7ykWEOYdt8gyA4seOlwtWK",
+      "release_date": "2007-05-22",
+      "popularity": 51
+    },
+    {
+      "trackId": "1DIXPcTDzTj8ZMHt3PDt8p",
+      "name": "Gangsta's Paradise",
+      "duration_ms": 240693,
+      "artist": [
+        "Coolio",
+        "L.V."
+      ],
+      "artistId": [
+        "3y24n3XhZ96wgwRXjvS17T",
+        "2LhsePRtgCo4THVKULQBL7"
+      ],
+      "albumId": "0BJYNipGyMrw4ngKDJXzXZ",
+      "release_date": "1995-10-02",
+      "popularity": 85
+    },
+    {
+      "trackId": "0FFbJzXvag9ZRel7oNa1wU",
+      "name": "The Mexican",
+      "duration_ms": 205893,
+      "artist": [
+        "Babe Ruth"
+      ],
+      "artistId": [
+        "0U04xAocTetRnA7v3TYQ2i"
+      ],
+      "albumId": "5RJoCAqiZ5GZzFBFITNCYZ",
+      "release_date": "1994-08-30",
+      "popularity": 48
+    },
+    {
+      "trackId": "41kg2RvdwBuIv0OPpvBS4v",
+      "name": "Time Bomb",
+      "duration_ms": 144333,
+      "artist": [
+        "Rancid"
+      ],
+      "artistId": [
+        "6xTk3EK5T9UzudENVvu9YB"
+      ],
+      "albumId": "1HisV3ZKLs9It3KlGcPki5",
+      "release_date": "1995-08-15",
+      "popularity": 63
+    },
+    {
+      "trackId": "4LGMSdeKOUoy5Wf75Je0Hl",
+      "name": "Can I Get A...",
+      "duration_ms": 309773,
+      "artist": [
+        "JAY-Z",
+        "Amil",
+        "Ja Rule"
+      ],
+      "artistId": [
+        "3nFkdlSjzX9mRTtwJOzDYB",
+        "6NzM38IkXdbQsQ4qW9CG7z",
+        "1J2VVASYAamtQ3Bt8wGgA6"
+      ],
+      "albumId": "3j1xCJdBMCl6wYQXurz2tb",
+      "release_date": "1998-11-29",
+      "popularity": 60
+    },
+    {
+      "trackId": "54igi8hshj93y8PjIaL5Fa",
+      "name": "Get Happy/Happy Days Are Here Again (feat. Judy Garland)",
+      "duration_ms": 140066,
+      "artist": [
+        "Barbra Streisand",
+        "Judy Garland"
+      ],
+      "artistId": [
+        "7jmTilWYlKOuavFfmQAcu6",
+        "0hItVPjwJLVZrFqOyIsxPf"
+      ],
+      "albumId": "4JpntKV9S08fzohdRL8aAK",
+      "release_date": "2002-11-26",
+      "popularity": 38
+    },
+    {
+      "trackId": "4YWhyPQCyrHhUiYJ26U05J",
+      "name": "One B-Boy",
+      "duration_ms": 196257,
+      "artist": [
+        "DJ Pablo"
+      ],
+      "artistId": [
+        "0PKDowhhLtKB1j72dI6eH9"
+      ],
+      "albumId": "70DkZietFnSyj5NBFDFdIj",
+      "release_date": "2010-12-10",
+      "popularity": 34
+    },
+    {
+      "trackId": "49slT7gVW0zj1KIG8w6DoL",
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "duration_ms": 172920,
+      "artist": [
+        "The Specials"
+      ],
+      "artistId": [
+        "6xnvNmSzmeOE1bLKnYXKW3"
+      ],
+      "albumId": "2OHPxPTasGkolt8lFDxCpE",
+      "release_date": "1979-11-01",
+      "popularity": 61
+    },
+    {
+      "trackId": "4wudbbceOZKjRlhTtbHvAs",
+      "name": "Spiegel im Spiegel - Version for Violin and Piano",
+      "duration_ms": 636000,
+      "artist": [
+        "Arvo Pärt",
+        "Vladimir Spivakov",
+        "Sergej Bezrodny"
+      ],
+      "artistId": [
+        "2P6ygesd9xg5DPOBnda2jg",
+        "24o3OUQvNiz3IY9DQhFhnF",
+        "5SB7fgTMdoI0NbO5uEfp9D"
+      ],
+      "albumId": "69iw6Zy6fh2dSnEgBTZKJE",
+      "release_date": "1999-10-15",
+      "popularity": 51
+    }
+  ]
+}

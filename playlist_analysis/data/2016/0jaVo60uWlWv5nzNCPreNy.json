@@ -1,92 +1,140 @@
-[
-  {
-    "trackId": "4qzUsJRX439NTXGD2ak1Jw",
-    "name": "Hon Va",
-    "duration_ms": 184998,
-    "artist": "Silvana Imam",
-    "artistId": "14vNE9iqS5eGAL6OogiN8g",
-    "albumId": "1WUagXFvCh1pnAj9hJSFnp",
-    "release_date": "2016-03-25",
-    "popularity": 12
-  },
-  {
-    "trackId": "2yj9zAtKSdDyrfajv4Teug",
-    "name": "Raoui",
-    "duration_ms": 226933,
-    "artist": "Souad Massi",
-    "artistId": "0oXFsuB6XBuDTsXJgplR7k",
-    "albumId": "1Z3U2c2fuKEHQfIzdvgp2Z",
-    "release_date": "2001",
-    "popularity": 43
-  },
-  {
-    "trackId": "2217fjGdGIdPpZ0zeo4z8r",
-    "name": "Invincible",
-    "duration_ms": 225200,
-    "artist": "Capone-N-Noreaga",
-    "artistId": "6KVPfr3ujUkKOrJf4QeRWD",
-    "albumId": "0ZuL9pJhFqvRK1HxASAMGY",
-    "release_date": "2000-11-21",
-    "popularity": 49
-  },
-  {
-    "trackId": "2wMaMPOhHhUAHqEOJ32B8K",
-    "name": "Helt okej",
-    "duration_ms": 260773,
-    "artist": "Blues",
-    "artistId": "60gzYweXIZf4AsXywpHJGt",
-    "albumId": "14n7s0yeQoZcODYF4MUYmb",
-    "release_date": "1999-05-01",
-    "popularity": 33
-  },
-  {
-    "trackId": "3WG2nCsGkB9fvKWFjzqB51",
-    "name": "Wishing On A Star (Full Vocal Version) [In the Style of Jay-Z]",
-    "duration_ms": 226551,
-    "artist": "Karaoke Library",
-    "artistId": "6IkKvcB77pnK30tY65DGGv",
-    "albumId": "082bM5qyMtMNXh4QCC6v5R",
-    "release_date": "2011-02-11",
-    "popularity": 1
-  },
-  {
-    "trackId": "4j2zFvpzcYsAMGky0MUp0F",
-    "name": "Tystas ner - RMH Remix",
-    "duration_ms": 423253,
-    "artist": "Stress",
-    "artistId": "2vJo3bWY09MoK1QrRZD1wf",
-    "albumId": "4sR0M2aOAePXzQhDSyjM4C",
-    "release_date": "2012-01-01",
-    "popularity": 28
-  },
-  {
-    "trackId": "14QX1ckbDIhqetvu5VZ3cP",
-    "name": "In This Shirt",
-    "duration_ms": 335146,
-    "artist": "The Irrepressibles",
-    "artistId": "1v5bOzXbhrQ57qSvRwGA6s",
-    "albumId": "6AOnHGR6Adnmi4FyR3UK6e",
-    "release_date": "2010-10-01",
-    "popularity": 71
-  },
-  {
-    "trackId": "43NM185rqN8QlUXEDcuBSc",
-    "name": "Simone",
-    "duration_ms": 215000,
-    "artist": "Silvana Imam",
-    "artistId": "14vNE9iqS5eGAL6OogiN8g",
-    "albumId": "1WUagXFvCh1pnAj9hJSFnp",
-    "release_date": "2016-03-25",
-    "popularity": 15
-  },
-  {
-    "trackId": "3dgQqOiQ9fCKVhNOedd2lf",
-    "name": "Started From the Bottom",
-    "duration_ms": 174120,
-    "artist": "Drake",
-    "artistId": "3TVXtAsR1Inumwj472S9r4",
-    "albumId": "2ZUFSbIkmFkGag000RWOpA",
-    "release_date": "2013-01-01",
-    "popularity": 66
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/768909",
+  "dob": "1986-09-19",
+  "title": "Silvana Imam",
+  "date": "2016-08-21",
+  "playlistId": "0jaVo60uWlWv5nzNCPreNy",
+  "imageurl": "https://static-cdn.sr.se/images/2071/4274fd17-6af1-496b-9438-79e9979ccca9.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "4qzUsJRX439NTXGD2ak1Jw",
+      "name": "Hon Va",
+      "duration_ms": 184998,
+      "artist": [
+        "Silvana Imam"
+      ],
+      "artistId": [
+        "14vNE9iqS5eGAL6OogiN8g"
+      ],
+      "albumId": "1WUagXFvCh1pnAj9hJSFnp",
+      "release_date": "2016-03-25",
+      "popularity": 12
+    },
+    {
+      "trackId": "2yj9zAtKSdDyrfajv4Teug",
+      "name": "Raoui",
+      "duration_ms": 226933,
+      "artist": [
+        "Souad Massi"
+      ],
+      "artistId": [
+        "0oXFsuB6XBuDTsXJgplR7k"
+      ],
+      "albumId": "1Z3U2c2fuKEHQfIzdvgp2Z",
+      "release_date": "2001",
+      "popularity": 43
+    },
+    {
+      "trackId": "2217fjGdGIdPpZ0zeo4z8r",
+      "name": "Invincible",
+      "duration_ms": 225200,
+      "artist": [
+        "Capone-N-Noreaga"
+      ],
+      "artistId": [
+        "6KVPfr3ujUkKOrJf4QeRWD"
+      ],
+      "albumId": "0ZuL9pJhFqvRK1HxASAMGY",
+      "release_date": "2000-11-21",
+      "popularity": 49
+    },
+    {
+      "trackId": "2wMaMPOhHhUAHqEOJ32B8K",
+      "name": "Helt okej",
+      "duration_ms": 260773,
+      "artist": [
+        "Blues"
+      ],
+      "artistId": [
+        "60gzYweXIZf4AsXywpHJGt"
+      ],
+      "albumId": "14n7s0yeQoZcODYF4MUYmb",
+      "release_date": "1999-05-01",
+      "popularity": 33
+    },
+    {
+      "trackId": "3WG2nCsGkB9fvKWFjzqB51",
+      "name": "Wishing On A Star (Full Vocal Version) [In the Style of Jay-Z]",
+      "duration_ms": 226551,
+      "artist": [
+        "Karaoke Library"
+      ],
+      "artistId": [
+        "6IkKvcB77pnK30tY65DGGv"
+      ],
+      "albumId": "082bM5qyMtMNXh4QCC6v5R",
+      "release_date": "2011-02-11",
+      "popularity": 1
+    },
+    {
+      "trackId": "4j2zFvpzcYsAMGky0MUp0F",
+      "name": "Tystas ner - RMH Remix",
+      "duration_ms": 423253,
+      "artist": [
+        "Stress",
+        "Sebbe Staxx",
+        "Aleks"
+      ],
+      "artistId": [
+        "2vJo3bWY09MoK1QrRZD1wf",
+        "2PQ0dKMMDle5scqjI1XOPK",
+        "0zKX6nlK1A4ZmztnFPOKGs"
+      ],
+      "albumId": "4sR0M2aOAePXzQhDSyjM4C",
+      "release_date": "2012-01-01",
+      "popularity": 28
+    },
+    {
+      "trackId": "14QX1ckbDIhqetvu5VZ3cP",
+      "name": "In This Shirt",
+      "duration_ms": 335146,
+      "artist": [
+        "The Irrepressibles"
+      ],
+      "artistId": [
+        "1v5bOzXbhrQ57qSvRwGA6s"
+      ],
+      "albumId": "6AOnHGR6Adnmi4FyR3UK6e",
+      "release_date": "2010-10-01",
+      "popularity": 71
+    },
+    {
+      "trackId": "43NM185rqN8QlUXEDcuBSc",
+      "name": "Simone",
+      "duration_ms": 215000,
+      "artist": [
+        "Silvana Imam"
+      ],
+      "artistId": [
+        "14vNE9iqS5eGAL6OogiN8g"
+      ],
+      "albumId": "1WUagXFvCh1pnAj9hJSFnp",
+      "release_date": "2016-03-25",
+      "popularity": 15
+    },
+    {
+      "trackId": "3dgQqOiQ9fCKVhNOedd2lf",
+      "name": "Started From the Bottom",
+      "duration_ms": 174120,
+      "artist": [
+        "Drake"
+      ],
+      "artistId": [
+        "3TVXtAsR1Inumwj472S9r4"
+      ],
+      "albumId": "2ZUFSbIkmFkGag000RWOpA",
+      "release_date": "2013-01-01",
+      "popularity": 66
+    }
+  ]
+}

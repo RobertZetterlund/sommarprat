@@ -1,82 +1,126 @@
-[
-  {
-    "trackId": "49v9PsIst1T5n0oz0rjYCQ",
-    "name": "Mister T",
-    "duration_ms": 221428,
-    "artist": "DUCKEONE",
-    "artistId": "71dM0Hmzup3y2hGQOoQyUV",
-    "albumId": "1OoN3FSA0dnJpLMFT8eWgX",
-    "release_date": "2019-11-10",
-    "popularity": 13
-  },
-  {
-    "trackId": "08bjJuoHJwfTnjNcuENOFz",
-    "name": "Gubben i lådan",
-    "duration_ms": 230160,
-    "artist": "Daniel Adams-Ray",
-    "artistId": "4C86wrjOUfXQDlt6A4oJOC",
-    "albumId": "3hClEYx89ixWVoEoQI87uC",
-    "release_date": "2010-01-01",
-    "popularity": 56
-  },
-  {
-    "trackId": "3v6peK2HFNhxhWHjA1IEsA",
-    "name": "Sthlm city",
-    "duration_ms": 274933,
-    "artist": "Ken Ring",
-    "artistId": "2yMJGKSRgxIniMnq30FAzX",
-    "albumId": "3u6A5aKh7iiFANHfSKA1G2",
-    "release_date": "2007-10-24",
-    "popularity": 22
-  },
-  {
-    "trackId": "1z667LebVh3DtYNrVJEao0",
-    "name": "All the Above (feat. T-Pain)",
-    "duration_ms": 319940,
-    "artist": "Maino",
-    "artistId": "20apXQGKM00jJTvYfyKwlb",
-    "albumId": "1BdMI18B8ZnoHNAYwx8h8h",
-    "release_date": "2009-06-26",
-    "popularity": 60
-  },
-  {
-    "trackId": "2DY1pnJebnxwoRhmFumPrs",
-    "name": "Het Legioen",
-    "duration_ms": 244556,
-    "artist": "U-niq",
-    "artistId": "15cp217nCdrUbiZ2m7wyAb",
-    "albumId": "6YiqJQeWcMcKSPEp1KHP8F",
-    "release_date": "2012-02-03",
-    "popularity": 17
-  },
-  {
-    "trackId": "5DiXcVovI0FcY2s0icWWUu",
-    "name": "Mr. Jones",
-    "duration_ms": 272293,
-    "artist": "Counting Crows",
-    "artistId": "0vEsuISMWAKNctLlUAhSZC",
-    "albumId": "4nKfZbCALT9H9LfedtDwnZ",
-    "release_date": "1993-01-01",
-    "popularity": 77
-  },
-  {
-    "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
-    "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
-    "duration_ms": 326466,
-    "artist": "Eminem",
-    "artistId": "7dGJo4pcD2V6oG8kP0tJRR",
-    "albumId": "5qENHeCSlwWpEzb25peRmQ",
-    "release_date": "2005-12-06",
-    "popularity": 76
-  },
-  {
-    "trackId": "1bwTzEAezW18cw6m6kYPoa",
-    "name": "Varning För mig",
-    "duration_ms": 208306,
-    "artist": "Medina",
-    "artistId": "3HbP7OfT7PCV0BrR0ReUkC",
-    "albumId": "22r32tk5aFnlrpfz83iywY",
-    "release_date": "2010-09-21",
-    "popularity": 3
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/116714",
+  "dob": null,
+  "title": "John Guidetti",
+  "date": "2012-06-27",
+  "playlistId": "3jlRQZOj04Igza5QAftZnt",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2344622_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "49v9PsIst1T5n0oz0rjYCQ",
+      "name": "Mister T",
+      "duration_ms": 221428,
+      "artist": [
+        "DUCKEONE"
+      ],
+      "artistId": [
+        "71dM0Hmzup3y2hGQOoQyUV"
+      ],
+      "albumId": "1OoN3FSA0dnJpLMFT8eWgX",
+      "release_date": "2019-11-10",
+      "popularity": 13
+    },
+    {
+      "trackId": "08bjJuoHJwfTnjNcuENOFz",
+      "name": "Gubben i lådan",
+      "duration_ms": 230160,
+      "artist": [
+        "Daniel Adams-Ray"
+      ],
+      "artistId": [
+        "4C86wrjOUfXQDlt6A4oJOC"
+      ],
+      "albumId": "3hClEYx89ixWVoEoQI87uC",
+      "release_date": "2010-01-01",
+      "popularity": 56
+    },
+    {
+      "trackId": "3v6peK2HFNhxhWHjA1IEsA",
+      "name": "Sthlm city",
+      "duration_ms": 274933,
+      "artist": [
+        "Ken Ring"
+      ],
+      "artistId": [
+        "2yMJGKSRgxIniMnq30FAzX"
+      ],
+      "albumId": "3u6A5aKh7iiFANHfSKA1G2",
+      "release_date": "2007-10-24",
+      "popularity": 23
+    },
+    {
+      "trackId": "1z667LebVh3DtYNrVJEao0",
+      "name": "All the Above (feat. T-Pain)",
+      "duration_ms": 319940,
+      "artist": [
+        "Maino",
+        "T-Pain"
+      ],
+      "artistId": [
+        "20apXQGKM00jJTvYfyKwlb",
+        "3aQeKQSyrW4qWr35idm0cy"
+      ],
+      "albumId": "1BdMI18B8ZnoHNAYwx8h8h",
+      "release_date": "2009-06-26",
+      "popularity": 60
+    },
+    {
+      "trackId": "2DY1pnJebnxwoRhmFumPrs",
+      "name": "Het Legioen",
+      "duration_ms": 244556,
+      "artist": [
+        "U-niq",
+        "Winne"
+      ],
+      "artistId": [
+        "15cp217nCdrUbiZ2m7wyAb",
+        "5cMMheSnLhCt0YdwFkp3R9"
+      ],
+      "albumId": "6YiqJQeWcMcKSPEp1KHP8F",
+      "release_date": "2012-02-03",
+      "popularity": 17
+    },
+    {
+      "trackId": "5DiXcVovI0FcY2s0icWWUu",
+      "name": "Mr. Jones",
+      "duration_ms": 272293,
+      "artist": [
+        "Counting Crows"
+      ],
+      "artistId": [
+        "0vEsuISMWAKNctLlUAhSZC"
+      ],
+      "albumId": "4nKfZbCALT9H9LfedtDwnZ",
+      "release_date": "1993-01-01",
+      "popularity": 77
+    },
+    {
+      "trackId": "5Z01UMMf7V1o0MzF86s6WJ",
+      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "duration_ms": 326466,
+      "artist": [
+        "Eminem"
+      ],
+      "artistId": [
+        "7dGJo4pcD2V6oG8kP0tJRR"
+      ],
+      "albumId": "5qENHeCSlwWpEzb25peRmQ",
+      "release_date": "2005-12-06",
+      "popularity": 76
+    },
+    {
+      "trackId": "1bwTzEAezW18cw6m6kYPoa",
+      "name": "Varning För mig",
+      "duration_ms": 208306,
+      "artist": [
+        "Medina"
+      ],
+      "artistId": [
+        "3HbP7OfT7PCV0BrR0ReUkC"
+      ],
+      "albumId": "22r32tk5aFnlrpfz83iywY",
+      "release_date": "2010-09-21",
+      "popularity": 3
+    }
+  ]
+}

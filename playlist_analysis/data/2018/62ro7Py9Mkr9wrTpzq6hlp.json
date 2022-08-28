@@ -1,112 +1,172 @@
-[
-  {
-    "trackId": "1I0FCgySsSzBQcboGsR6fJ",
-    "name": "Can Anyone Explain?",
-    "duration_ms": 192546,
-    "artist": "Louis Armstrong",
-    "artistId": "19eLuQmk9aCobbVDHc6eek",
-    "albumId": "07tbMxw9qeVsNIq0l7xBBX",
-    "release_date": "2018-04-06",
-    "popularity": 25
-  },
-  {
-    "trackId": "75JFxkI2RXiU7L9VXzMkle",
-    "name": "The Scientist",
-    "duration_ms": 309600,
-    "artist": "Coldplay",
-    "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
-    "albumId": "0RHX9XECH8IVI3LNgWDpmQ",
-    "release_date": "2002-08-08",
-    "popularity": 84
-  },
-  {
-    "trackId": "7CqYgEn6V8gSaKOawAfmYr",
-    "name": "Sommarlängtan",
-    "duration_ms": 157880,
-    "artist": "Ted Gärdestad",
-    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
-    "albumId": "3cT50PQXXybChUGP6TDrlr",
-    "release_date": "1972-01-01",
-    "popularity": 42
-  },
-  {
-    "trackId": "4czNORk5MjW5WOn98bki32",
-    "name": "All Night Long (All Night) - Single Version",
-    "duration_ms": 258666,
-    "artist": "Lionel Richie",
-    "artistId": "3gMaNLQm7D9MornNILzdSl",
-    "albumId": "1ET5QG3pd6NGqEFuZh0Qiz",
-    "release_date": "1992-01-01",
-    "popularity": 71
-  },
-  {
-    "trackId": "1KDXKiD18khzOIYcYNQNMt",
-    "name": "Chariots Of Fire - Edit",
-    "duration_ms": 202805,
-    "artist": "Vangelis",
-    "artistId": "4P70aqttdpJ9vuYFDmf7f6",
-    "albumId": "0uhdqpRGB3FeLzvHVNyWW0",
-    "release_date": "2020-01-24",
-    "popularity": 48
-  },
-  {
-    "trackId": "2OxkfL5jW8bvYTCNDLlRSY",
-    "name": "She - Tous les visages de l’amour",
-    "duration_ms": 153066,
-    "artist": "Charles Aznavour",
-    "artistId": "2hgP9Ap2tc10R5jrQaEpMT",
-    "albumId": "6u7CZtz83tmwcgEBIIr3GG",
-    "release_date": "1996",
-    "popularity": 59
-  },
-  {
-    "trackId": "4J0DbyODwZJcmIAiTSJfMF",
-    "name": "Annie's Song",
-    "duration_ms": 180693,
-    "artist": "John Denver",
-    "artistId": "7EK1bQADBoqbYXnT4Cqv9w",
-    "albumId": "6zWmAA39H0c4SjnD4MB1Dm",
-    "release_date": "1974-06-15",
-    "popularity": 69
-  },
-  {
-    "trackId": "1J8bqAVQYjQfI3Hj5Lk9nh",
-    "name": "Summer Fling - Acoustic Mix",
-    "duration_ms": 193630,
-    "artist": "Chemical Neon",
-    "artistId": "4mAq0LHObKTj1SaNZ9Nt8K",
-    "albumId": "0aKLq4yKXfXihz0T2uyBBA",
-    "release_date": "2022-07-01",
-    "popularity": 34
-  },
-  {
-    "trackId": "0VnxmXOww9GAGZmVPHVcvy",
-    "name": "Man får betala för sej här i livet",
-    "duration_ms": 217266,
-    "artist": "Barbro Hörberg",
-    "artistId": "7urXjli8ptr8Y8Z0XLtiJ9",
-    "albumId": "0SrGEG4PYLb68zVZ7Ser4u",
-    "release_date": "1973-01-01",
-    "popularity": 16
-  },
-  {
-    "trackId": "4pP4eyOSVWdXz7aGAQRgOO",
-    "name": "Vals i Furusund",
-    "duration_ms": 194613,
-    "artist": "Sven-Bertil Taube",
-    "artistId": "7Gl6zw4YYJQ1CAgs7oEBPY",
-    "albumId": "3HQgmoC7NVTSr0M6ZBQ7UF",
-    "release_date": "1972-09-26",
-    "popularity": 14
-  },
-  {
-    "trackId": "70YvYr2hGlS01bKRIho1HM",
-    "name": "La Grange - 2005 Remaster",
-    "duration_ms": 230480,
-    "artist": "ZZ Top",
-    "artistId": "2AM4ilv6UzW0uMRuqKtDgN",
-    "albumId": "0Em8m9kRctyH9S3MTXAHvY",
-    "release_date": "1973-07-26",
-    "popularity": 75
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/1077280",
+  "dob": "1931-04-23",
+  "title": "Arne Ljungqvist",
+  "date": "2018-07-09",
+  "playlistId": "62ro7Py9Mkr9wrTpzq6hlp",
+  "imageurl": "https://static-cdn.sr.se/images/2071/233a4b71-16b8-4df2-bab7-5510b3903c98.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "1I0FCgySsSzBQcboGsR6fJ",
+      "name": "Can Anyone Explain?",
+      "duration_ms": 192546,
+      "artist": [
+        "Louis Armstrong",
+        "Ella Fitzgerald"
+      ],
+      "artistId": [
+        "19eLuQmk9aCobbVDHc6eek",
+        "5V0MlUE1Bft0mbLlND7FJz"
+      ],
+      "albumId": "07tbMxw9qeVsNIq0l7xBBX",
+      "release_date": "2018-04-06",
+      "popularity": 25
+    },
+    {
+      "trackId": "75JFxkI2RXiU7L9VXzMkle",
+      "name": "The Scientist",
+      "duration_ms": 309600,
+      "artist": [
+        "Coldplay"
+      ],
+      "artistId": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+      ],
+      "albumId": "0RHX9XECH8IVI3LNgWDpmQ",
+      "release_date": "2002-08-08",
+      "popularity": 84
+    },
+    {
+      "trackId": "7CqYgEn6V8gSaKOawAfmYr",
+      "name": "Sommarlängtan",
+      "duration_ms": 157880,
+      "artist": [
+        "Ted Gärdestad"
+      ],
+      "artistId": [
+        "6zpub6jbY6CdrcqQsDq8P4"
+      ],
+      "albumId": "3cT50PQXXybChUGP6TDrlr",
+      "release_date": "1972-01-01",
+      "popularity": 42
+    },
+    {
+      "trackId": "4czNORk5MjW5WOn98bki32",
+      "name": "All Night Long (All Night) - Single Version",
+      "duration_ms": 258666,
+      "artist": [
+        "Lionel Richie"
+      ],
+      "artistId": [
+        "3gMaNLQm7D9MornNILzdSl"
+      ],
+      "albumId": "1ET5QG3pd6NGqEFuZh0Qiz",
+      "release_date": "1992-01-01",
+      "popularity": 71
+    },
+    {
+      "trackId": "1KDXKiD18khzOIYcYNQNMt",
+      "name": "Chariots Of Fire - Edit",
+      "duration_ms": 202805,
+      "artist": [
+        "Vangelis"
+      ],
+      "artistId": [
+        "4P70aqttdpJ9vuYFDmf7f6"
+      ],
+      "albumId": "0uhdqpRGB3FeLzvHVNyWW0",
+      "release_date": "2020-01-24",
+      "popularity": 48
+    },
+    {
+      "trackId": "2OxkfL5jW8bvYTCNDLlRSY",
+      "name": "She - Tous les visages de l’amour",
+      "duration_ms": 153066,
+      "artist": [
+        "Charles Aznavour",
+        "Richard Galliano",
+        "Eddie Louiss"
+      ],
+      "artistId": [
+        "2hgP9Ap2tc10R5jrQaEpMT",
+        "6yXri0y0q95UDiAyLzTM1y",
+        "0Z7cUaHzuRp2moYQtVDBFp"
+      ],
+      "albumId": "6u7CZtz83tmwcgEBIIr3GG",
+      "release_date": "1996",
+      "popularity": 59
+    },
+    {
+      "trackId": "4J0DbyODwZJcmIAiTSJfMF",
+      "name": "Annie's Song",
+      "duration_ms": 180693,
+      "artist": [
+        "John Denver"
+      ],
+      "artistId": [
+        "7EK1bQADBoqbYXnT4Cqv9w"
+      ],
+      "albumId": "6zWmAA39H0c4SjnD4MB1Dm",
+      "release_date": "1974-06-15",
+      "popularity": 69
+    },
+    {
+      "trackId": "1J8bqAVQYjQfI3Hj5Lk9nh",
+      "name": "Summer Fling - Acoustic Mix",
+      "duration_ms": 193630,
+      "artist": [
+        "Chemical Neon",
+        "Eva Vinjor"
+      ],
+      "artistId": [
+        "4mAq0LHObKTj1SaNZ9Nt8K",
+        "1qw47pHkgC9PbqlO0Qevgj"
+      ],
+      "albumId": "0aKLq4yKXfXihz0T2uyBBA",
+      "release_date": "2022-07-01",
+      "popularity": 34
+    },
+    {
+      "trackId": "0VnxmXOww9GAGZmVPHVcvy",
+      "name": "Man får betala för sej här i livet",
+      "duration_ms": 217266,
+      "artist": [
+        "Barbro Hörberg"
+      ],
+      "artistId": [
+        "7urXjli8ptr8Y8Z0XLtiJ9"
+      ],
+      "albumId": "0SrGEG4PYLb68zVZ7Ser4u",
+      "release_date": "1973-01-01",
+      "popularity": 16
+    },
+    {
+      "trackId": "4pP4eyOSVWdXz7aGAQRgOO",
+      "name": "Vals i Furusund",
+      "duration_ms": 194613,
+      "artist": [
+        "Sven-Bertil Taube"
+      ],
+      "artistId": [
+        "7Gl6zw4YYJQ1CAgs7oEBPY"
+      ],
+      "albumId": "3HQgmoC7NVTSr0M6ZBQ7UF",
+      "release_date": "1972-09-26",
+      "popularity": 14
+    },
+    {
+      "trackId": "70YvYr2hGlS01bKRIho1HM",
+      "name": "La Grange - 2005 Remaster",
+      "duration_ms": 230480,
+      "artist": [
+        "ZZ Top"
+      ],
+      "artistId": [
+        "2AM4ilv6UzW0uMRuqKtDgN"
+      ],
+      "albumId": "0Em8m9kRctyH9S3MTXAHvY",
+      "release_date": "1973-07-26",
+      "popularity": 76
+    }
+  ]
+}

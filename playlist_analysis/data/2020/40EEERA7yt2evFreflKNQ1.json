@@ -1,82 +1,126 @@
-[
-  {
-    "trackId": "0qi4b1l0eT3jpzeNHeFXDT",
-    "name": "Just Can't Get Enough",
-    "duration_ms": 220893,
-    "artist": "Depeche Mode",
-    "artistId": "762310PdDnwsDxAQxzQkfX",
-    "albumId": "0Zp2eVzR9FW6lKX05lRpcu",
-    "release_date": "1981-11-02",
-    "popularity": 71
-  },
-  {
-    "trackId": "3EsjrObXPhXA79Cr4QixY8",
-    "name": "El Matador",
-    "duration_ms": 274093,
-    "artist": "Los Fabulosos Cadillacs",
-    "artistId": "2FS22haX3FYbyOsUAkuYqZ",
-    "albumId": "6Qb0f1j9fnfpraiPN509RI",
-    "release_date": "1998-06-05",
-    "popularity": 56
-  },
-  {
-    "trackId": "4VRLGNMTfymoYzD4dLAsNb",
-    "name": "Somebody That I Used To Know",
-    "duration_ms": 244884,
-    "artist": "Gotye",
-    "artistId": "2AsusXITU8P25dlRNhcAbG",
-    "albumId": "4JyWBOxMgxPap7eGzj1g0g",
-    "release_date": "2011",
-    "popularity": 52
-  },
-  {
-    "trackId": "3WdLb11xMR9caAdCvqeLzC",
-    "name": "(Kom så ska vi) Leva livet",
-    "duration_ms": 213093,
-    "artist": "Gyllene Tider",
-    "artistId": "0FINyNBXqnTlRC4dvpSeSb",
-    "albumId": "7lbMjjnuHPSgU4wZolWdQ1",
-    "release_date": "1981-03-10",
-    "popularity": 46
-  },
-  {
-    "trackId": "1SZDQMXX1FrA97YY7Lt3Fj",
-    "name": "Ett sista glas",
-    "duration_ms": 186085,
-    "artist": "Miriam Bryant",
-    "artistId": "2zd9YxlsQvA5mkZ1NarYVQ",
-    "albumId": "3jBdOBQUdU4Z0GPBYahCWD",
-    "release_date": "2016-01-01",
-    "popularity": 55
-  },
-  {
-    "trackId": "3WoSJF85H0qywD4qLp4HDd",
-    "name": "The Godfather Waltz (Main Title)",
-    "duration_ms": 185466,
-    "artist": "Nino Rota",
-    "artistId": "0RYyGExpy57GLGa1GtFoVo",
-    "albumId": "5CeLOKEJeP3EpEdT9v2lep",
-    "release_date": "1991-01-01",
-    "popularity": 54
-  },
-  {
-    "trackId": "1yIcegVRpUpO6EhvOAWgtt",
-    "name": "Techno Rock - Elektro-Energetischer Cut",
-    "duration_ms": 206586,
-    "artist": "Heiko & Maiko",
-    "artistId": "7nbkXxFQNYTIdF7N1yrvQK",
-    "albumId": "45z6N0msPSYBN4wz7MpMcU",
-    "release_date": "2006-06-30",
-    "popularity": 17
-  },
-  {
-    "trackId": "7sLpSWxQazJzDVG6YGzlVs",
-    "name": "99 Problems",
-    "duration_ms": 234626,
-    "artist": "JAY-Z",
-    "artistId": "3nFkdlSjzX9mRTtwJOzDYB",
-    "albumId": "4FWvo9oS4gRgHtAwDwUjiO",
-    "release_date": "2003-11-14",
-    "popularity": 66
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/1528248",
+  "dob": "1969-04-01",
+  "title": "Martin Lorentzon",
+  "date": "2020-08-01",
+  "playlistId": "40EEERA7yt2evFreflKNQ1",
+  "imageurl": "https://static-cdn.sr.se/images/2071/c3b88e0d-0df0-45ac-ab13-f48f6087c708.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "0qi4b1l0eT3jpzeNHeFXDT",
+      "name": "Just Can't Get Enough",
+      "duration_ms": 220893,
+      "artist": [
+        "Depeche Mode"
+      ],
+      "artistId": [
+        "762310PdDnwsDxAQxzQkfX"
+      ],
+      "albumId": "0Zp2eVzR9FW6lKX05lRpcu",
+      "release_date": "1981-11-02",
+      "popularity": 71
+    },
+    {
+      "trackId": "3EsjrObXPhXA79Cr4QixY8",
+      "name": "El Matador",
+      "duration_ms": 274093,
+      "artist": [
+        "Los Fabulosos Cadillacs"
+      ],
+      "artistId": [
+        "2FS22haX3FYbyOsUAkuYqZ"
+      ],
+      "albumId": "6Qb0f1j9fnfpraiPN509RI",
+      "release_date": "1998-06-05",
+      "popularity": 56
+    },
+    {
+      "trackId": "4VRLGNMTfymoYzD4dLAsNb",
+      "name": "Somebody That I Used To Know",
+      "duration_ms": 244884,
+      "artist": [
+        "Gotye",
+        "Kimbra"
+      ],
+      "artistId": [
+        "2AsusXITU8P25dlRNhcAbG",
+        "6hk7Yq1DU9QcCCrz9uc0Ti"
+      ],
+      "albumId": "4JyWBOxMgxPap7eGzj1g0g",
+      "release_date": "2011",
+      "popularity": 52
+    },
+    {
+      "trackId": "3WdLb11xMR9caAdCvqeLzC",
+      "name": "(Kom så ska vi) Leva livet",
+      "duration_ms": 213093,
+      "artist": [
+        "Gyllene Tider"
+      ],
+      "artistId": [
+        "0FINyNBXqnTlRC4dvpSeSb"
+      ],
+      "albumId": "7lbMjjnuHPSgU4wZolWdQ1",
+      "release_date": "1981-03-10",
+      "popularity": 46
+    },
+    {
+      "trackId": "1SZDQMXX1FrA97YY7Lt3Fj",
+      "name": "Ett sista glas",
+      "duration_ms": 186085,
+      "artist": [
+        "Miriam Bryant"
+      ],
+      "artistId": [
+        "2zd9YxlsQvA5mkZ1NarYVQ"
+      ],
+      "albumId": "3jBdOBQUdU4Z0GPBYahCWD",
+      "release_date": "2016-01-01",
+      "popularity": 55
+    },
+    {
+      "trackId": "3WoSJF85H0qywD4qLp4HDd",
+      "name": "The Godfather Waltz (Main Title)",
+      "duration_ms": 185466,
+      "artist": [
+        "Nino Rota",
+        "Carlo Savina"
+      ],
+      "artistId": [
+        "0RYyGExpy57GLGa1GtFoVo",
+        "0JPH3a8DUy38JvZsdhmEnC"
+      ],
+      "albumId": "5CeLOKEJeP3EpEdT9v2lep",
+      "release_date": "1991-01-01",
+      "popularity": 54
+    },
+    {
+      "trackId": "1yIcegVRpUpO6EhvOAWgtt",
+      "name": "Techno Rock - Elektro-Energetischer Cut",
+      "duration_ms": 206586,
+      "artist": [
+        "Heiko & Maiko"
+      ],
+      "artistId": [
+        "7nbkXxFQNYTIdF7N1yrvQK"
+      ],
+      "albumId": "45z6N0msPSYBN4wz7MpMcU",
+      "release_date": "2006-06-30",
+      "popularity": 18
+    },
+    {
+      "trackId": "7sLpSWxQazJzDVG6YGzlVs",
+      "name": "99 Problems",
+      "duration_ms": 234626,
+      "artist": [
+        "JAY-Z"
+      ],
+      "artistId": [
+        "3nFkdlSjzX9mRTtwJOzDYB"
+      ],
+      "albumId": "4FWvo9oS4gRgHtAwDwUjiO",
+      "release_date": "2003-11-14",
+      "popularity": 66
+    }
+  ]
+}

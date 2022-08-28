@@ -1,112 +1,168 @@
-[
-  {
-    "trackId": "5QQz3p0cnmlOYsfyAmgwkw",
-    "name": "La Dolce Vita",
-    "duration_ms": 180800,
-    "artist": "After Dark",
-    "artistId": "6IsSP3qzKVJziwtHkmKuRl",
-    "albumId": "0CXSCEO8p04h1FRxFUGsIl",
-    "release_date": "2010-01-20",
-    "popularity": 40
-  },
-  {
-    "trackId": "6RUCEjG3CnZ5yaGu9vlZnr",
-    "name": "Calle Schewens vals",
-    "duration_ms": 230826,
-    "artist": "Evert Taube",
-    "artistId": "3fUWKywZQbkzjqydZH15fT",
-    "albumId": "2tNx3kKe15sstNqF2Y6rVU",
-    "release_date": "1960-01-01",
-    "popularity": 30
-  },
-  {
-    "trackId": "3qvaM5NHQ5KbvnXwwLLp25",
-    "name": "Drömmens skepp",
-    "duration_ms": 225840,
-    "artist": "Staffan Percy",
-    "artistId": "3AgKqjWosSqttdphw58GiB",
-    "albumId": "0118eQR8gFKlAyY0OtIUKx",
-    "release_date": "1992",
-    "popularity": 37
-  },
-  {
-    "trackId": "4FmiciU3ZmfgABlbCSXcWw",
-    "name": "La vie en rose",
-    "duration_ms": 186973,
-    "artist": "Édith Piaf",
-    "artistId": "1WPcVNert9hn7mHsPKDn7j",
-    "albumId": "7l3ydaHRFTcEGM0D9rlfqS",
-    "release_date": "1986",
-    "popularity": 59
-  },
-  {
-    "trackId": "0WmLT0udrLTJTpjjm8QdJ7",
-    "name": "Omkring tiggarn från Luossa",
-    "duration_ms": 290706,
-    "artist": "Thorstein Bergman",
-    "artistId": "6RN0Wp8CBr7bij8JzB1qG2",
-    "albumId": "55SIYzqiP09PVpXwDMzuxS",
-    "release_date": "1967",
-    "popularity": 26
-  },
-  {
-    "trackId": "1RfBcPaU9UL6An2s5dlfSD",
-    "name": "Naturbarn",
-    "duration_ms": 434600,
-    "artist": "Povel Ramel",
-    "artistId": "2JXHbGSfNgJ25884YBIruo",
-    "albumId": "55tXi5zeF6xg6PYlIYPvDP",
-    "release_date": "2000-01-01",
-    "popularity": 14
-  },
-  {
-    "trackId": "6L0bHTV6hf9UL6uCezlJCC",
-    "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
-    "duration_ms": 190573,
-    "artist": "Elvis Presley",
-    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
-    "albumId": "1vaQwUom5fWnLNJDcabU01",
-    "release_date": "2019-02-15",
-    "popularity": 58
-  },
-  {
-    "trackId": "0sln9vKZBH2siCdKKyaKQD",
-    "name": "Får Jag Lämna Några Blommor",
-    "duration_ms": 195188,
-    "artist": "Zarah Leander",
-    "artistId": "5R15K0QUPe4AhP1vaPoaX3",
-    "albumId": "1XldPcQrjAqOAhfyiGuksa",
-    "release_date": "2018-06-26",
-    "popularity": 0
-  },
-  {
-    "trackId": "7AFy1aN1RQVgGOXzCtrK87",
-    "name": "Cabaret",
-    "duration_ms": 211200,
-    "artist": "Liza Minnelli",
-    "artistId": "1pdGj6Gak10Q2ajig4l1Dm",
-    "albumId": "28qbOp4dEh18N5u6FInyOO",
-    "release_date": "1972-02-13",
-    "popularity": 48
-  },
-  {
-    "trackId": "0DtVtrlg74Hc1dwZfwfzvq",
-    "name": "Jag tycker inte om dig (Sympati)",
-    "duration_ms": 240093,
-    "artist": "Lill Lindfors",
-    "artistId": "7CAcmPN2c4Tw70JQScmdwC",
-    "albumId": "409iL2q7EQivFf8yToiYEW",
-    "release_date": "2002",
-    "popularity": 12
-  },
-  {
-    "trackId": "1uRKT2LRANv4baowBWHfDS",
-    "name": "(We're Gonna) Rock Around The Clock",
-    "duration_ms": 129893,
-    "artist": "Bill Haley & His Comets",
-    "artistId": "3MFp4cYuYtTZe3d3xkLLbr",
-    "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
-    "release_date": "1955-12-19",
-    "popularity": 66
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/364009",
+  "dob": "1915-10-06",
+  "title": "Alice Timander",
+  "date": "2006-07-21",
+  "playlistId": "5BBUgOmERq82LzxFbEpkGz",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3242395_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "5QQz3p0cnmlOYsfyAmgwkw",
+      "name": "La Dolce Vita",
+      "duration_ms": 180800,
+      "artist": [
+        "After Dark"
+      ],
+      "artistId": [
+        "6IsSP3qzKVJziwtHkmKuRl"
+      ],
+      "albumId": "0CXSCEO8p04h1FRxFUGsIl",
+      "release_date": "2010-01-20",
+      "popularity": 40
+    },
+    {
+      "trackId": "6RUCEjG3CnZ5yaGu9vlZnr",
+      "name": "Calle Schewens vals",
+      "duration_ms": 230826,
+      "artist": [
+        "Evert Taube"
+      ],
+      "artistId": [
+        "3fUWKywZQbkzjqydZH15fT"
+      ],
+      "albumId": "2tNx3kKe15sstNqF2Y6rVU",
+      "release_date": "1960-01-01",
+      "popularity": 30
+    },
+    {
+      "trackId": "3qvaM5NHQ5KbvnXwwLLp25",
+      "name": "Drömmens skepp",
+      "duration_ms": 225840,
+      "artist": [
+        "Staffan Percy"
+      ],
+      "artistId": [
+        "3AgKqjWosSqttdphw58GiB"
+      ],
+      "albumId": "0118eQR8gFKlAyY0OtIUKx",
+      "release_date": "1992",
+      "popularity": 37
+    },
+    {
+      "trackId": "4FmiciU3ZmfgABlbCSXcWw",
+      "name": "La vie en rose",
+      "duration_ms": 186973,
+      "artist": [
+        "Édith Piaf"
+      ],
+      "artistId": [
+        "1WPcVNert9hn7mHsPKDn7j"
+      ],
+      "albumId": "7l3ydaHRFTcEGM0D9rlfqS",
+      "release_date": "1986",
+      "popularity": 59
+    },
+    {
+      "trackId": "0WmLT0udrLTJTpjjm8QdJ7",
+      "name": "Omkring tiggarn från Luossa",
+      "duration_ms": 290706,
+      "artist": [
+        "Thorstein Bergman"
+      ],
+      "artistId": [
+        "6RN0Wp8CBr7bij8JzB1qG2"
+      ],
+      "albumId": "55SIYzqiP09PVpXwDMzuxS",
+      "release_date": "1967",
+      "popularity": 26
+    },
+    {
+      "trackId": "1RfBcPaU9UL6An2s5dlfSD",
+      "name": "Naturbarn",
+      "duration_ms": 434600,
+      "artist": [
+        "Povel Ramel"
+      ],
+      "artistId": [
+        "2JXHbGSfNgJ25884YBIruo"
+      ],
+      "albumId": "55tXi5zeF6xg6PYlIYPvDP",
+      "release_date": "2000-01-01",
+      "popularity": 14
+    },
+    {
+      "trackId": "6L0bHTV6hf9UL6uCezlJCC",
+      "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
+      "duration_ms": 190573,
+      "artist": [
+        "Elvis Presley",
+        "Post Malone",
+        "Shawn Mendes"
+      ],
+      "artistId": [
+        "43ZHCT0cAZBISjO8DG9PnE",
+        "246dkjvS1zLTtiykXe5h60",
+        "7n2wHs1TKAczGzO7Dd2rGr"
+      ],
+      "albumId": "1vaQwUom5fWnLNJDcabU01",
+      "release_date": "2019-02-15",
+      "popularity": 57
+    },
+    {
+      "trackId": "0sln9vKZBH2siCdKKyaKQD",
+      "name": "Får Jag Lämna Några Blommor",
+      "duration_ms": 195188,
+      "artist": [
+        "Zarah Leander"
+      ],
+      "artistId": [
+        "5R15K0QUPe4AhP1vaPoaX3"
+      ],
+      "albumId": "1XldPcQrjAqOAhfyiGuksa",
+      "release_date": "2018-06-26",
+      "popularity": 0
+    },
+    {
+      "trackId": "7AFy1aN1RQVgGOXzCtrK87",
+      "name": "Cabaret",
+      "duration_ms": 211200,
+      "artist": [
+        "Liza Minnelli"
+      ],
+      "artistId": [
+        "1pdGj6Gak10Q2ajig4l1Dm"
+      ],
+      "albumId": "28qbOp4dEh18N5u6FInyOO",
+      "release_date": "1972-02-13",
+      "popularity": 48
+    },
+    {
+      "trackId": "0DtVtrlg74Hc1dwZfwfzvq",
+      "name": "Jag tycker inte om dig (Sympati)",
+      "duration_ms": 240093,
+      "artist": [
+        "Lill Lindfors"
+      ],
+      "artistId": [
+        "7CAcmPN2c4Tw70JQScmdwC"
+      ],
+      "albumId": "409iL2q7EQivFf8yToiYEW",
+      "release_date": "2002",
+      "popularity": 12
+    },
+    {
+      "trackId": "1uRKT2LRANv4baowBWHfDS",
+      "name": "(We're Gonna) Rock Around The Clock",
+      "duration_ms": 129893,
+      "artist": [
+        "Bill Haley & His Comets"
+      ],
+      "artistId": [
+        "3MFp4cYuYtTZe3d3xkLLbr"
+      ],
+      "albumId": "2vB7uVHcRU4dmHeFQCTkSK",
+      "release_date": "1955-12-19",
+      "popularity": 66
+    }
+  ]
+}

@@ -1,102 +1,150 @@
-[
-  {
-    "trackId": "0X29aQOkq1VXmgA71NQxUn",
-    "name": "Dansa, fastän",
-    "duration_ms": 167973,
-    "artist": "Säkert!",
-    "artistId": "6aNouxfdfQCKjiZG0LJcjx",
-    "albumId": "20VAXfhn6R4LgRdBuWvWuo",
-    "release_date": "2010-09-15",
-    "popularity": 37
-  },
-  {
-    "trackId": "5I5oFe1QzAdnvkSgQrcjHL",
-    "name": "Kaffe och en cigarett",
-    "duration_ms": 183000,
-    "artist": "Olle Ljungström",
-    "artistId": "6wjchRNcNNSn1wPIaIiRq8",
-    "albumId": "6ZRsyKIqDhKvLjD0EJAJXR",
-    "release_date": "2000-03-17",
-    "popularity": 37
-  },
-  {
-    "trackId": "2yAeUvb66bRi5KdDGAGrtl",
-    "name": "Speciell",
-    "duration_ms": 238586,
-    "artist": "Panda Da Panda",
-    "artistId": "5CFHkGrLdtDurzPPIPYze9",
-    "albumId": "2xDrWCSDHQY837dQw2vDVm",
-    "release_date": "2011-01-01",
-    "popularity": 15
-  },
-  {
-    "trackId": "5pjGQ5oSE1RI9zR6ufCU3n",
-    "name": "Pariserhjul",
-    "duration_ms": 196600,
-    "artist": "Stina Berge",
-    "artistId": "4o3CBAfW3lO1Igbs7BBwdL",
-    "albumId": "6fdxBcQUXJXDrjxGC1YnwR",
-    "release_date": "2008-08-27",
-    "popularity": 0
-  },
-  {
-    "trackId": "1psjEHa4GTPZ04qHk86Ogo",
-    "name": "Där ser du själv hur högt du når",
-    "duration_ms": 234866,
-    "artist": "Lisa Ekdahl",
-    "artistId": "4SJSGUVZ04tezaGrxc96EE",
-    "albumId": "2W0o4PkSBNDaJQsEaiDdxp",
-    "release_date": "2006",
-    "popularity": 24
-  },
-  {
-    "trackId": "67f867INYgEaahq90kqeKE",
-    "name": "För en lång lång tid",
-    "duration_ms": 217933,
-    "artist": "Håkan Hellström",
-    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
-    "albumId": "1TSO7M4RaU156GYLIKjkL1",
-    "release_date": "2008-03-26",
-    "popularity": 45
-  },
-  {
-    "trackId": "3jaXc4ahmlLwl6mFJuuoP4",
-    "name": "800 Grader (Αs performed by Ebba Gron)",
-    "duration_ms": 186640,
-    "artist": "Pop Music Workshop",
-    "artistId": "5D13RHlJ2Le5Iytcl2xzE9",
-    "albumId": "0KM0dCUltHTl6jJ9OQbad0",
-    "release_date": "2019-05-01",
-    "popularity": 0
-  },
-  {
-    "trackId": "7xjucUUNrRgwW49fLmU91q",
-    "name": "Trubbel",
-    "duration_ms": 264920,
-    "artist": "Monica Zetterlund",
-    "artistId": "7mvvG63CNSY93JWAJ37rnD",
-    "albumId": "34H1h1kqYP5gVpeZGUfqcT",
-    "release_date": "1971",
-    "popularity": 37
-  },
-  {
-    "trackId": "1oPu9jgDpFz9oBUlKqtjxI",
-    "name": "Ingen kommer undan politiken",
-    "duration_ms": 176560,
-    "artist": "Marie Bergman",
-    "artistId": "1EF9hLul0ZZcbh7dmXWF99",
-    "albumId": "2rmw3Hmnj5NU3QLwwVI2Cy",
-    "release_date": "1977",
-    "popularity": 37
-  },
-  {
-    "trackId": "3VGWHVqRceSzqm2b6OKDvD",
-    "name": "Nu är det väl revolution på gång?",
-    "duration_ms": 227840,
-    "artist": "bob hund",
-    "artistId": "6OZxE19iim1JKvCA3GmCVx",
-    "albumId": "5NQZone0MRsrVo84u37IlQ",
-    "release_date": "1998",
-    "popularity": 30
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/126286",
+  "dob": "1971-12-21",
+  "title": "Alice Bah Kuhnke",
+  "date": "2011-08-03",
+  "playlistId": "6sunoOdM52P1MeYqlL79Vx",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3243384_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "0X29aQOkq1VXmgA71NQxUn",
+      "name": "Dansa, fastän",
+      "duration_ms": 167973,
+      "artist": [
+        "Säkert!"
+      ],
+      "artistId": [
+        "6aNouxfdfQCKjiZG0LJcjx"
+      ],
+      "albumId": "20VAXfhn6R4LgRdBuWvWuo",
+      "release_date": "2010-09-15",
+      "popularity": 37
+    },
+    {
+      "trackId": "5I5oFe1QzAdnvkSgQrcjHL",
+      "name": "Kaffe och en cigarett",
+      "duration_ms": 183000,
+      "artist": [
+        "Olle Ljungström"
+      ],
+      "artistId": [
+        "6wjchRNcNNSn1wPIaIiRq8"
+      ],
+      "albumId": "6ZRsyKIqDhKvLjD0EJAJXR",
+      "release_date": "2000-03-17",
+      "popularity": 37
+    },
+    {
+      "trackId": "2yAeUvb66bRi5KdDGAGrtl",
+      "name": "Speciell",
+      "duration_ms": 238586,
+      "artist": [
+        "Panda Da Panda"
+      ],
+      "artistId": [
+        "5CFHkGrLdtDurzPPIPYze9"
+      ],
+      "albumId": "2xDrWCSDHQY837dQw2vDVm",
+      "release_date": "2011-01-01",
+      "popularity": 15
+    },
+    {
+      "trackId": "5pjGQ5oSE1RI9zR6ufCU3n",
+      "name": "Pariserhjul",
+      "duration_ms": 196600,
+      "artist": [
+        "Stina Berge"
+      ],
+      "artistId": [
+        "4o3CBAfW3lO1Igbs7BBwdL"
+      ],
+      "albumId": "6fdxBcQUXJXDrjxGC1YnwR",
+      "release_date": "2008-08-27",
+      "popularity": 0
+    },
+    {
+      "trackId": "1psjEHa4GTPZ04qHk86Ogo",
+      "name": "Där ser du själv hur högt du når",
+      "duration_ms": 234866,
+      "artist": [
+        "Lisa Ekdahl"
+      ],
+      "artistId": [
+        "4SJSGUVZ04tezaGrxc96EE"
+      ],
+      "albumId": "2W0o4PkSBNDaJQsEaiDdxp",
+      "release_date": "2006",
+      "popularity": 24
+    },
+    {
+      "trackId": "67f867INYgEaahq90kqeKE",
+      "name": "För en lång lång tid",
+      "duration_ms": 217933,
+      "artist": [
+        "Håkan Hellström"
+      ],
+      "artistId": [
+        "3H7Ez7cwaYw4L3ELy4v3Lc"
+      ],
+      "albumId": "1TSO7M4RaU156GYLIKjkL1",
+      "release_date": "2008-03-26",
+      "popularity": 46
+    },
+    {
+      "trackId": "3jaXc4ahmlLwl6mFJuuoP4",
+      "name": "800 Grader (Αs performed by Ebba Gron)",
+      "duration_ms": 186640,
+      "artist": [
+        "Pop Music Workshop"
+      ],
+      "artistId": [
+        "5D13RHlJ2Le5Iytcl2xzE9"
+      ],
+      "albumId": "0KM0dCUltHTl6jJ9OQbad0",
+      "release_date": "2019-05-01",
+      "popularity": 0
+    },
+    {
+      "trackId": "7xjucUUNrRgwW49fLmU91q",
+      "name": "Trubbel",
+      "duration_ms": 264920,
+      "artist": [
+        "Monica Zetterlund"
+      ],
+      "artistId": [
+        "7mvvG63CNSY93JWAJ37rnD"
+      ],
+      "albumId": "34H1h1kqYP5gVpeZGUfqcT",
+      "release_date": "1971",
+      "popularity": 37
+    },
+    {
+      "trackId": "1oPu9jgDpFz9oBUlKqtjxI",
+      "name": "Ingen kommer undan politiken",
+      "duration_ms": 176560,
+      "artist": [
+        "Marie Bergman"
+      ],
+      "artistId": [
+        "1EF9hLul0ZZcbh7dmXWF99"
+      ],
+      "albumId": "2rmw3Hmnj5NU3QLwwVI2Cy",
+      "release_date": "1977",
+      "popularity": 37
+    },
+    {
+      "trackId": "3VGWHVqRceSzqm2b6OKDvD",
+      "name": "Nu är det väl revolution på gång?",
+      "duration_ms": 227840,
+      "artist": [
+        "bob hund"
+      ],
+      "artistId": [
+        "6OZxE19iim1JKvCA3GmCVx"
+      ],
+      "albumId": "5NQZone0MRsrVo84u37IlQ",
+      "release_date": "1998",
+      "popularity": 31
+    }
+  ]
+}

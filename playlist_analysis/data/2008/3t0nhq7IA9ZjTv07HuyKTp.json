@@ -1,112 +1,166 @@
-[
-  {
-    "trackId": "21ErfxP4uvnGlKGggr6OT1",
-    "name": "Arrival of the Queen of Sheba to Galway",
-    "duration_ms": 186280,
-    "artist": "De Dannan",
-    "artistId": "09RBtr6JUJprt2li2NsdU8",
-    "albumId": "0NeRigU9qhLPnvuQeCR9KI",
-    "release_date": "1999-01-01",
-    "popularity": 21
-  },
-  {
-    "trackId": "0uGX8jXm27FBIDGLjorOlJ",
-    "name": "Sean",
-    "duration_ms": 100380,
-    "artist": "Mastard",
-    "artistId": "5kTCZX9jfrNXc82QoHP7kL",
-    "albumId": "7jYcYiAJWfTvvdUlA24v5r",
-    "release_date": "2021-07-16",
-    "popularity": 22
-  },
-  {
-    "trackId": "4HqJTQrRrbd2b89joRkOl7",
-    "name": "My Land Is Too Green",
-    "duration_ms": 169173,
-    "artist": "Mary Coughlan",
-    "artistId": "7lqVTxfOywIDg6yGHUiwTJ",
-    "albumId": "4St0M1eKLBGMwDaGGEpefQ",
-    "release_date": "1987-09-15",
-    "popularity": 3
-  },
-  {
-    "trackId": "3VTNVsTTu05dmTsVFrmGpK",
-    "name": "Fairytale of New York (feat. Kirsty MacColl)",
-    "duration_ms": 272466,
-    "artist": "The Pogues",
-    "artistId": "2wzMOQwNT6ZvVB4amvhFAH",
-    "albumId": "4V92Puney9WxGPecKtLG4L",
-    "release_date": "1988-09-05",
-    "popularity": 55
-  },
-  {
-    "trackId": "0Db6ciT3uXIpkn5gdfSJUB",
-    "name": "The Town I Loved So Well",
-    "duration_ms": 382026,
-    "artist": "The Dubliners",
-    "artistId": "72RvmgEg2omdlMV9aExO6a",
-    "albumId": "2JaU7begujrJQaORvAnVwD",
-    "release_date": "2007-06-01",
-    "popularity": 40
-  },
-  {
-    "trackId": "05KvSXpXEWd3YCwTPG0xu9",
-    "name": "Lisdoonvarna",
-    "duration_ms": 306346,
-    "artist": "Christy Moore",
-    "artistId": "3Ebn7mKYzD0L3DaUB1gNJZ",
-    "albumId": "0pGk5GqEidvPcTratzBAyJ",
-    "release_date": "2017-11-17",
-    "popularity": 42
-  },
-  {
-    "trackId": "6wpGqhRvJGNNXwWlPmkMyO",
-    "name": "I Still Haven't Found What I'm Looking For",
-    "duration_ms": 277476,
-    "artist": "U2",
-    "artistId": "51Blml2LZPmy7TTiAg47vQ",
-    "albumId": "5y6wlw1LnqFnQFruMeiwGU",
-    "release_date": "1987-03-03",
-    "popularity": 77
-  },
-  {
-    "trackId": "6SwtZxvn8u52zTiHTiEHWD",
-    "name": "Brynn Thomson",
-    "duration_ms": 37612,
-    "artist": "Jeremiah Howard",
-    "artistId": "60oj20A7YrwFkYKK7ZGu1c",
-    "albumId": "0Kms30YBbV7DpxSe24yyov",
-    "release_date": "2022-04-30",
-    "popularity": 10
-  },
-  {
-    "trackId": "1GeNWyZtCHbcp3ZWp8GTOO",
-    "name": "The Lady In Red",
-    "duration_ms": 256173,
-    "artist": "Chris de Burgh",
-    "artistId": "2RpHsROrX075xfIwHn6B2U",
-    "albumId": "5Yi08NDFoVAnvHoXqpp9O5",
-    "release_date": "1986-01-01",
-    "popularity": 76
-  },
-  {
-    "trackId": "0VYQH7xBUMyCDJ9oxirmMv",
-    "name": "Mickey Finn's",
-    "duration_ms": 245666,
-    "artist": "Sean Ryan",
-    "artistId": "6dgMOt6fRV1QjYwc9ubfU9",
-    "albumId": "0jHgocgzZfXOwLk029FYqu",
-    "release_date": "2010-03-05",
-    "popularity": 0
-  },
-  {
-    "trackId": "0SrLTvlEoJit5zRzgbGX6h",
-    "name": "Taghdir",
-    "duration_ms": 137508,
-    "artist": "Mohammad Kasiri",
-    "artistId": "4FYDO0GWyH1a3NddpMgrGb",
-    "albumId": "1RmN8oXqF2kXspQDHpU3FU",
-    "release_date": "2021-10-25",
-    "popularity": 11
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/370190",
+  "dob": "1955-09-06",
+  "title": "Ann Henning",
+  "date": "2008-08-12",
+  "playlistId": "3t0nhq7IA9ZjTv07HuyKTp",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3255416_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "21ErfxP4uvnGlKGggr6OT1",
+      "name": "Arrival of the Queen of Sheba to Galway",
+      "duration_ms": 186280,
+      "artist": [
+        "De Dannan"
+      ],
+      "artistId": [
+        "09RBtr6JUJprt2li2NsdU8"
+      ],
+      "albumId": "0NeRigU9qhLPnvuQeCR9KI",
+      "release_date": "1999-01-01",
+      "popularity": 21
+    },
+    {
+      "trackId": "0uGX8jXm27FBIDGLjorOlJ",
+      "name": "Sean",
+      "duration_ms": 100380,
+      "artist": [
+        "Mastard"
+      ],
+      "artistId": [
+        "5kTCZX9jfrNXc82QoHP7kL"
+      ],
+      "albumId": "7jYcYiAJWfTvvdUlA24v5r",
+      "release_date": "2021-07-16",
+      "popularity": 22
+    },
+    {
+      "trackId": "4HqJTQrRrbd2b89joRkOl7",
+      "name": "My Land Is Too Green",
+      "duration_ms": 169173,
+      "artist": [
+        "Mary Coughlan"
+      ],
+      "artistId": [
+        "7lqVTxfOywIDg6yGHUiwTJ"
+      ],
+      "albumId": "4St0M1eKLBGMwDaGGEpefQ",
+      "release_date": "1987-09-15",
+      "popularity": 3
+    },
+    {
+      "trackId": "3VTNVsTTu05dmTsVFrmGpK",
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "duration_ms": 272466,
+      "artist": [
+        "The Pogues",
+        "Kirsty MacColl"
+      ],
+      "artistId": [
+        "2wzMOQwNT6ZvVB4amvhFAH",
+        "6UlNIFEuWlBqb4TvlVCekq"
+      ],
+      "albumId": "4V92Puney9WxGPecKtLG4L",
+      "release_date": "1988-09-05",
+      "popularity": 55
+    },
+    {
+      "trackId": "0Db6ciT3uXIpkn5gdfSJUB",
+      "name": "The Town I Loved So Well",
+      "duration_ms": 382026,
+      "artist": [
+        "The Dubliners"
+      ],
+      "artistId": [
+        "72RvmgEg2omdlMV9aExO6a"
+      ],
+      "albumId": "2JaU7begujrJQaORvAnVwD",
+      "release_date": "2007-06-01",
+      "popularity": 40
+    },
+    {
+      "trackId": "05KvSXpXEWd3YCwTPG0xu9",
+      "name": "Lisdoonvarna",
+      "duration_ms": 306346,
+      "artist": [
+        "Christy Moore"
+      ],
+      "artistId": [
+        "3Ebn7mKYzD0L3DaUB1gNJZ"
+      ],
+      "albumId": "0pGk5GqEidvPcTratzBAyJ",
+      "release_date": "2017-11-17",
+      "popularity": 42
+    },
+    {
+      "trackId": "6wpGqhRvJGNNXwWlPmkMyO",
+      "name": "I Still Haven't Found What I'm Looking For",
+      "duration_ms": 277476,
+      "artist": [
+        "U2"
+      ],
+      "artistId": [
+        "51Blml2LZPmy7TTiAg47vQ"
+      ],
+      "albumId": "5y6wlw1LnqFnQFruMeiwGU",
+      "release_date": "1987-03-03",
+      "popularity": 77
+    },
+    {
+      "trackId": "6SwtZxvn8u52zTiHTiEHWD",
+      "name": "Brynn Thomson",
+      "duration_ms": 37612,
+      "artist": [
+        "Jeremiah Howard"
+      ],
+      "artistId": [
+        "60oj20A7YrwFkYKK7ZGu1c"
+      ],
+      "albumId": "0Kms30YBbV7DpxSe24yyov",
+      "release_date": "2022-04-30",
+      "popularity": 11
+    },
+    {
+      "trackId": "1GeNWyZtCHbcp3ZWp8GTOO",
+      "name": "The Lady In Red",
+      "duration_ms": 256173,
+      "artist": [
+        "Chris de Burgh"
+      ],
+      "artistId": [
+        "2RpHsROrX075xfIwHn6B2U"
+      ],
+      "albumId": "5Yi08NDFoVAnvHoXqpp9O5",
+      "release_date": "1986-01-01",
+      "popularity": 76
+    },
+    {
+      "trackId": "0VYQH7xBUMyCDJ9oxirmMv",
+      "name": "Mickey Finn's",
+      "duration_ms": 245666,
+      "artist": [
+        "Sean Ryan"
+      ],
+      "artistId": [
+        "6dgMOt6fRV1QjYwc9ubfU9"
+      ],
+      "albumId": "0jHgocgzZfXOwLk029FYqu",
+      "release_date": "2010-03-05",
+      "popularity": 0
+    },
+    {
+      "trackId": "0SrLTvlEoJit5zRzgbGX6h",
+      "name": "Taghdir",
+      "duration_ms": 137508,
+      "artist": [
+        "Mohammad Kasiri"
+      ],
+      "artistId": [
+        "4FYDO0GWyH1a3NddpMgrGb"
+      ],
+      "albumId": "1RmN8oXqF2kXspQDHpU3FU",
+      "release_date": "2021-10-25",
+      "popularity": 11
+    }
+  ]
+}

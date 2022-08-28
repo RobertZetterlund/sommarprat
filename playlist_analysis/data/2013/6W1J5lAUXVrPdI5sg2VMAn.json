@@ -1,122 +1,184 @@
-[
-  {
-    "trackId": "7clUVcSOtkNWa58Gw5RfD4",
-    "name": "Speed of Sound",
-    "duration_ms": 287906,
-    "artist": "Coldplay",
-    "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
-    "albumId": "4E7bV0pzG0LciBSWTszra6",
-    "release_date": "2005-06-07",
-    "popularity": 71
-  },
-  {
-    "trackId": "1RumnunzRSwsoQAfBlIxHz",
-    "name": "Vinden har vänt",
-    "duration_ms": 266600,
-    "artist": "Petter",
-    "artistId": "5A0Bu9azuFEnud3q7t0V2r",
-    "albumId": "5JXvrQ4B0DpWGfyMHPjTNj",
-    "release_date": "1998-06-29",
-    "popularity": 37
-  },
-  {
-    "trackId": "0WviwuG403gqtW6bZevBpP",
-    "name": "Aquarius",
-    "duration_ms": 288360,
-    "artist": "Galt MacDermot",
-    "artistId": "3b6TinIPahsS8iSCYAeinr",
-    "albumId": "1llShsXxqoYFxKEX7JkKBj",
-    "release_date": "1979",
-    "popularity": 50
-  },
-  {
-    "trackId": "1x9iOd3K1JC6tdjGZJpFgZ",
-    "name": "You Can Leave Your Hat On",
-    "duration_ms": 255293,
-    "artist": "Joe Cocker",
-    "artistId": "3pFCERyEiP5xeN2EsPXhjI",
-    "albumId": "0YnLeYOGgy0vtxQRbgW7s1",
-    "release_date": "1986-06-06",
-    "popularity": 58
-  },
-  {
-    "trackId": "6QewNVIDKdSl8Y3ycuHIei",
-    "name": "Even Flow",
-    "duration_ms": 292580,
-    "artist": "Pearl Jam",
-    "artistId": "1w5Kfo2jwwIPruYS2UWh56",
-    "albumId": "5B4PYA7wNN4WdEXdIJu58a",
-    "release_date": "1991-08-27",
-    "popularity": 76
-  },
-  {
-    "trackId": "7xpw5FSNYXKfdQSBuO0THv",
-    "name": "Be Thankful For What You've Got - 2012 Mix/Master",
-    "duration_ms": 249413,
-    "artist": "Massive Attack",
-    "artistId": "6FXMGgJwohJLUSr5nVlf9X",
-    "albumId": "5mAPk4qeNqVLtNydaWbWlf",
-    "release_date": "1991-06-10",
-    "popularity": 53
-  },
-  {
-    "trackId": "1aunJ0ljOzdq2XsprP34AE",
-    "name": "Talk To Me - Radio Version",
-    "duration_ms": 297953,
-    "artist": "Zafer Taylor",
-    "artistId": "0QXumhSSBM4nozmouTyBZl",
-    "albumId": "1YWYAMe7nJLcVAaNvwGYP6",
-    "release_date": "2007",
-    "popularity": 1
-  },
-  {
-    "trackId": "2hnccZw8mXLyjRyTgSvUXr",
-    "name": "Så länge vi har varann",
-    "duration_ms": 280586,
-    "artist": "Ratata",
-    "artistId": "34f1vsenBzqbNp4YoXEHqA",
-    "albumId": "2FJnhiCX1sZ0fwZz1C8GNT",
-    "release_date": "1987-01-01",
-    "popularity": 43
-  },
-  {
-    "trackId": "6RANU8AS5ICU5PEHh8BYtH",
-    "name": "Isn't She Lovely",
-    "duration_ms": 394266,
-    "artist": "Stevie Wonder",
-    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
-    "albumId": "6YUCc2RiXcEKS9ibuZxjt0",
-    "release_date": "1976-09-28",
-    "popularity": 66
-  },
-  {
-    "trackId": "0KRntWArAaaWgUUopZ1e97",
-    "name": "Sicket elände",
-    "duration_ms": 185133,
-    "artist": "Peps Persson",
-    "artistId": "5xmgC1jISe31QZSp8gqKUJ",
-    "albumId": "1pIYOXNx3EJIX8c3zoZZGN",
-    "release_date": "2004-01-01",
-    "popularity": 37
-  },
-  {
-    "trackId": "02o3XmFwsebYRqin8CyPVM",
-    "name": "I Got Life",
-    "duration_ms": 136866,
-    "artist": "Galt MacDermot",
-    "artistId": "3b6TinIPahsS8iSCYAeinr",
-    "albumId": "1llShsXxqoYFxKEX7JkKBj",
-    "release_date": "1979",
-    "popularity": 40
-  },
-  {
-    "trackId": "6Omr4zDMg6XokKVMtxStmw",
-    "name": "Probability Cloud",
-    "duration_ms": 285960,
-    "artist": "Bill Frisell",
-    "artistId": "3SONlwqLIP2GtaMh9pLYe5",
-    "albumId": "74s1xuJFJGvRCPjlh2d2oE",
-    "release_date": "2008-03-15",
-    "popularity": 9
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/216114",
+  "dob": "1969-07-30",
+  "title": "Tareq Taylor",
+  "date": "2013-07-18",
+  "playlistId": "6W1J5lAUXVrPdI5sg2VMAn",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2861063_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "7clUVcSOtkNWa58Gw5RfD4",
+      "name": "Speed of Sound",
+      "duration_ms": 287906,
+      "artist": [
+        "Coldplay"
+      ],
+      "artistId": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+      ],
+      "albumId": "4E7bV0pzG0LciBSWTszra6",
+      "release_date": "2005-06-07",
+      "popularity": 71
+    },
+    {
+      "trackId": "1RumnunzRSwsoQAfBlIxHz",
+      "name": "Vinden har vänt",
+      "duration_ms": 266600,
+      "artist": [
+        "Petter"
+      ],
+      "artistId": [
+        "5A0Bu9azuFEnud3q7t0V2r"
+      ],
+      "albumId": "5JXvrQ4B0DpWGfyMHPjTNj",
+      "release_date": "1998-06-29",
+      "popularity": 37
+    },
+    {
+      "trackId": "0WviwuG403gqtW6bZevBpP",
+      "name": "Aquarius",
+      "duration_ms": 288360,
+      "artist": [
+        "Galt MacDermot",
+        "Tom Pierson"
+      ],
+      "artistId": [
+        "3b6TinIPahsS8iSCYAeinr",
+        "37pKA6kY6h4rcFUBwrrTDk"
+      ],
+      "albumId": "1llShsXxqoYFxKEX7JkKBj",
+      "release_date": "1979",
+      "popularity": 50
+    },
+    {
+      "trackId": "1x9iOd3K1JC6tdjGZJpFgZ",
+      "name": "You Can Leave Your Hat On",
+      "duration_ms": 255293,
+      "artist": [
+        "Joe Cocker"
+      ],
+      "artistId": [
+        "3pFCERyEiP5xeN2EsPXhjI"
+      ],
+      "albumId": "0YnLeYOGgy0vtxQRbgW7s1",
+      "release_date": "1986-06-06",
+      "popularity": 58
+    },
+    {
+      "trackId": "6QewNVIDKdSl8Y3ycuHIei",
+      "name": "Even Flow",
+      "duration_ms": 292580,
+      "artist": [
+        "Pearl Jam"
+      ],
+      "artistId": [
+        "1w5Kfo2jwwIPruYS2UWh56"
+      ],
+      "albumId": "5B4PYA7wNN4WdEXdIJu58a",
+      "release_date": "1991-08-27",
+      "popularity": 76
+    },
+    {
+      "trackId": "7xpw5FSNYXKfdQSBuO0THv",
+      "name": "Be Thankful For What You've Got - 2012 Mix/Master",
+      "duration_ms": 249413,
+      "artist": [
+        "Massive Attack"
+      ],
+      "artistId": [
+        "6FXMGgJwohJLUSr5nVlf9X"
+      ],
+      "albumId": "5mAPk4qeNqVLtNydaWbWlf",
+      "release_date": "1991-06-10",
+      "popularity": 53
+    },
+    {
+      "trackId": "1aunJ0ljOzdq2XsprP34AE",
+      "name": "Talk To Me - Radio Version",
+      "duration_ms": 297953,
+      "artist": [
+        "Zafer Taylor"
+      ],
+      "artistId": [
+        "0QXumhSSBM4nozmouTyBZl"
+      ],
+      "albumId": "1YWYAMe7nJLcVAaNvwGYP6",
+      "release_date": "2007",
+      "popularity": 1
+    },
+    {
+      "trackId": "2hnccZw8mXLyjRyTgSvUXr",
+      "name": "Så länge vi har varann",
+      "duration_ms": 280586,
+      "artist": [
+        "Ratata",
+        "Frida"
+      ],
+      "artistId": [
+        "34f1vsenBzqbNp4YoXEHqA",
+        "5uOVb4hLSQVbHbVVt27tV1"
+      ],
+      "albumId": "2FJnhiCX1sZ0fwZz1C8GNT",
+      "release_date": "1987-01-01",
+      "popularity": 43
+    },
+    {
+      "trackId": "6RANU8AS5ICU5PEHh8BYtH",
+      "name": "Isn't She Lovely",
+      "duration_ms": 394266,
+      "artist": [
+        "Stevie Wonder"
+      ],
+      "artistId": [
+        "7guDJrEfX3qb6FEbdPA5qi"
+      ],
+      "albumId": "6YUCc2RiXcEKS9ibuZxjt0",
+      "release_date": "1976-09-28",
+      "popularity": 66
+    },
+    {
+      "trackId": "0KRntWArAaaWgUUopZ1e97",
+      "name": "Sicket elände",
+      "duration_ms": 185133,
+      "artist": [
+        "Peps Persson"
+      ],
+      "artistId": [
+        "5xmgC1jISe31QZSp8gqKUJ"
+      ],
+      "albumId": "1pIYOXNx3EJIX8c3zoZZGN",
+      "release_date": "2004-01-01",
+      "popularity": 37
+    },
+    {
+      "trackId": "02o3XmFwsebYRqin8CyPVM",
+      "name": "I Got Life",
+      "duration_ms": 136866,
+      "artist": [
+        "Galt MacDermot",
+        "Tom Pierson"
+      ],
+      "artistId": [
+        "3b6TinIPahsS8iSCYAeinr",
+        "37pKA6kY6h4rcFUBwrrTDk"
+      ],
+      "albumId": "1llShsXxqoYFxKEX7JkKBj",
+      "release_date": "1979",
+      "popularity": 40
+    },
+    {
+      "trackId": "6Omr4zDMg6XokKVMtxStmw",
+      "name": "Probability Cloud",
+      "duration_ms": 285960,
+      "artist": [
+        "Bill Frisell"
+      ],
+      "artistId": [
+        "3SONlwqLIP2GtaMh9pLYe5"
+      ],
+      "albumId": "74s1xuJFJGvRCPjlh2d2oE",
+      "release_date": "2008-03-15",
+      "popularity": 9
+    }
+  ]
+}

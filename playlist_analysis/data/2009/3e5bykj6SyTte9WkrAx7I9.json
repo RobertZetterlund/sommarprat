@@ -1,122 +1,180 @@
-[
-  {
-    "trackId": "12KIkJxHtAH72PKR1lwSK4",
-    "name": "See Me In The Evening",
-    "duration_ms": 276666,
-    "artist": "Bob Margolin",
-    "artistId": "65SzANOjjJbCdHGbjDkPMU",
-    "albumId": "7q9jFUun9iBUEi8zFkhx0y",
-    "release_date": "1995",
-    "popularity": 5
-  },
-  {
-    "trackId": "4u9f8hqstB7iITDJNzKhQx",
-    "name": "My Generation - Stereo Version",
-    "duration_ms": 198706,
-    "artist": "The Who",
-    "artistId": "67ea9eGLXYMsO2eYQRui3w",
-    "albumId": "6Oc6Ok1Oawu8lRkjmD4mXy",
-    "release_date": "1965-12-03",
-    "popularity": 64
-  },
-  {
-    "trackId": "3epbAJljPY9aWSdazYLQFd",
-    "name": "Guitar Boogie",
-    "duration_ms": 117000,
-    "artist": "Sven-Ingvars Kvartett",
-    "artistId": "5j4r97w6r8Y8qTaNZkFrjg",
-    "albumId": "7pzK8KdyNql2nJpjvGz9iJ",
-    "release_date": "1991-01-01",
-    "popularity": 15
-  },
-  {
-    "trackId": "6nEkxYIEnrbYH7h1hJ8Xn6",
-    "name": "She Loves You - Mono / Remastered",
-    "duration_ms": 140920,
-    "artist": "The Beatles",
-    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
-    "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
-    "release_date": "2000-11-13",
-    "popularity": 65
-  },
-  {
-    "trackId": "3f5JtAsGRIXN8pSAeTi6vA",
-    "name": "Manic Depression",
-    "duration_ms": 222293,
-    "artist": "Jimi Hendrix",
-    "artistId": "776Uo845nYHJpNaStv1Ds4",
-    "albumId": "7rSZXXHHvIhF4yUFdaOCy9",
-    "release_date": "1967-05-12",
-    "popularity": 51
-  },
-  {
-    "trackId": "5WFxOKNKi289LHhxndsXMS",
-    "name": "Nordsjön",
-    "duration_ms": 177106,
-    "artist": "Harry Brandelius",
-    "artistId": "4g51vTLL3d6kDsFmF8yo1E",
-    "albumId": "0aqkpYASqGlrhzcbiWXp9Y",
-    "release_date": "2005-01-14",
-    "popularity": 30
-  },
-  {
-    "trackId": "0cJPLFrlV7TTCyPLupHzcH",
-    "name": "Won't Get Fooled Again - Original Album Version",
-    "duration_ms": 511400,
-    "artist": "The Who",
-    "artistId": "67ea9eGLXYMsO2eYQRui3w",
-    "albumId": "5MqyhhHbT13zsloD3uHhlQ",
-    "release_date": "1971-08-14",
-    "popularity": 67
-  },
-  {
-    "trackId": "4xUqqie4bBKufHtlMuZS3k",
-    "name": "Are You Lonesome Tonight?",
-    "duration_ms": 186666,
-    "artist": "Elvis Presley",
-    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
-    "albumId": "0gv5aiVS1WBUZOKeb7YawE",
-    "release_date": "1997-07-15",
-    "popularity": 56
-  },
-  {
-    "trackId": "2dgYOnFO23gWbieGQwu0Cm",
-    "name": "THE LOTTO",
-    "duration_ms": 148114,
-    "artist": "Apollo T",
-    "artistId": "1Ne5A5CS4MqIHdbqdtAZ2H",
-    "albumId": "1jpv3SSRgn3yAHJ8ELtXaD",
-    "release_date": "2022-07-23",
-    "popularity": 0
-  },
-  {
-    "trackId": "5DKbN8mdEMKGY4Tis2HxEF",
-    "name": "Sjösalavår",
-    "duration_ms": 186800,
-    "artist": "Evert Taube",
-    "artistId": "3fUWKywZQbkzjqydZH15fT",
-    "albumId": "4QzCfWZ8jmpq6T4Gwzg7ci",
-    "release_date": "1974-03-07",
-    "popularity": 16
-  },
-  {
-    "trackId": "2T0VhmgStXM5N3t92MqcZP",
-    "name": "Johnny Guitar",
-    "duration_ms": 179026,
-    "artist": "Peggy Lee",
-    "artistId": "602DnpaSXJB4b9DZrvxbDc",
-    "albumId": "0L4QIKWbMwDKp9ZGUxo8RL",
-    "release_date": "1952",
-    "popularity": 36
-  },
-  {
-    "trackId": "3gXMNdXzS4KkS8DQJbXxdN",
-    "name": "Four Strong Winds - Live at Live 8, Molson Park, Barrie, 2nd July 2005",
-    "duration_ms": 323741,
-    "artist": "Neil Young",
-    "artistId": "6v8FB84lnmJs434UJf2Mrm",
-    "albumId": "15t7NAV9KXOtPo7HefS39H",
-    "release_date": "2005",
-    "popularity": 41
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/322826",
+  "dob": null,
+  "title": "Håkan Nilsson",
+  "date": "2009-07-15",
+  "playlistId": "3e5bykj6SyTte9WkrAx7I9",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3248830_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "12KIkJxHtAH72PKR1lwSK4",
+      "name": "See Me In The Evening",
+      "duration_ms": 276666,
+      "artist": [
+        "Bob Margolin"
+      ],
+      "artistId": [
+        "65SzANOjjJbCdHGbjDkPMU"
+      ],
+      "albumId": "7q9jFUun9iBUEi8zFkhx0y",
+      "release_date": "1995",
+      "popularity": 5
+    },
+    {
+      "trackId": "4u9f8hqstB7iITDJNzKhQx",
+      "name": "My Generation - Stereo Version",
+      "duration_ms": 198706,
+      "artist": [
+        "The Who"
+      ],
+      "artistId": [
+        "67ea9eGLXYMsO2eYQRui3w"
+      ],
+      "albumId": "6Oc6Ok1Oawu8lRkjmD4mXy",
+      "release_date": "1965-12-03",
+      "popularity": 64
+    },
+    {
+      "trackId": "3epbAJljPY9aWSdazYLQFd",
+      "name": "Guitar Boogie",
+      "duration_ms": 117000,
+      "artist": [
+        "Sven-Ingvars Kvartett"
+      ],
+      "artistId": [
+        "5j4r97w6r8Y8qTaNZkFrjg"
+      ],
+      "albumId": "7pzK8KdyNql2nJpjvGz9iJ",
+      "release_date": "1991-01-01",
+      "popularity": 15
+    },
+    {
+      "trackId": "6nEkxYIEnrbYH7h1hJ8Xn6",
+      "name": "She Loves You - Mono / Remastered",
+      "duration_ms": 140920,
+      "artist": [
+        "The Beatles"
+      ],
+      "artistId": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+      ],
+      "albumId": "7vEJAtP3KgKSpOHVgwm3Eh",
+      "release_date": "2000-11-13",
+      "popularity": 64
+    },
+    {
+      "trackId": "3f5JtAsGRIXN8pSAeTi6vA",
+      "name": "Manic Depression",
+      "duration_ms": 222293,
+      "artist": [
+        "Jimi Hendrix"
+      ],
+      "artistId": [
+        "776Uo845nYHJpNaStv1Ds4"
+      ],
+      "albumId": "7rSZXXHHvIhF4yUFdaOCy9",
+      "release_date": "1967-05-12",
+      "popularity": 51
+    },
+    {
+      "trackId": "5WFxOKNKi289LHhxndsXMS",
+      "name": "Nordsjön",
+      "duration_ms": 177106,
+      "artist": [
+        "Harry Brandelius"
+      ],
+      "artistId": [
+        "4g51vTLL3d6kDsFmF8yo1E"
+      ],
+      "albumId": "0aqkpYASqGlrhzcbiWXp9Y",
+      "release_date": "2005-01-14",
+      "popularity": 30
+    },
+    {
+      "trackId": "0cJPLFrlV7TTCyPLupHzcH",
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "duration_ms": 511400,
+      "artist": [
+        "The Who"
+      ],
+      "artistId": [
+        "67ea9eGLXYMsO2eYQRui3w"
+      ],
+      "albumId": "5MqyhhHbT13zsloD3uHhlQ",
+      "release_date": "1971-08-14",
+      "popularity": 67
+    },
+    {
+      "trackId": "4xUqqie4bBKufHtlMuZS3k",
+      "name": "Are You Lonesome Tonight?",
+      "duration_ms": 186666,
+      "artist": [
+        "Elvis Presley"
+      ],
+      "artistId": [
+        "43ZHCT0cAZBISjO8DG9PnE"
+      ],
+      "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+      "release_date": "1997-07-15",
+      "popularity": 56
+    },
+    {
+      "trackId": "2dgYOnFO23gWbieGQwu0Cm",
+      "name": "THE LOTTO",
+      "duration_ms": 148114,
+      "artist": [
+        "Apollo T",
+        "Seven2Teo"
+      ],
+      "artistId": [
+        "1Ne5A5CS4MqIHdbqdtAZ2H",
+        "4WWjEPYeC60fdF6D0h5Wic"
+      ],
+      "albumId": "1jpv3SSRgn3yAHJ8ELtXaD",
+      "release_date": "2022-07-23",
+      "popularity": 0
+    },
+    {
+      "trackId": "5DKbN8mdEMKGY4Tis2HxEF",
+      "name": "Sjösalavår",
+      "duration_ms": 186800,
+      "artist": [
+        "Evert Taube"
+      ],
+      "artistId": [
+        "3fUWKywZQbkzjqydZH15fT"
+      ],
+      "albumId": "4QzCfWZ8jmpq6T4Gwzg7ci",
+      "release_date": "1974-03-07",
+      "popularity": 16
+    },
+    {
+      "trackId": "2T0VhmgStXM5N3t92MqcZP",
+      "name": "Johnny Guitar",
+      "duration_ms": 179026,
+      "artist": [
+        "Peggy Lee"
+      ],
+      "artistId": [
+        "602DnpaSXJB4b9DZrvxbDc"
+      ],
+      "albumId": "0L4QIKWbMwDKp9ZGUxo8RL",
+      "release_date": "1952",
+      "popularity": 36
+    },
+    {
+      "trackId": "3gXMNdXzS4KkS8DQJbXxdN",
+      "name": "Four Strong Winds - Live at Live 8, Molson Park, Barrie, 2nd July 2005",
+      "duration_ms": 323741,
+      "artist": [
+        "Neil Young"
+      ],
+      "artistId": [
+        "6v8FB84lnmJs434UJf2Mrm"
+      ],
+      "albumId": "15t7NAV9KXOtPo7HefS39H",
+      "release_date": "2005",
+      "popularity": 41
+    }
+  ]
+}

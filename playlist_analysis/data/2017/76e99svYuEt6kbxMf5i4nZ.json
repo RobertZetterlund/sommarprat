@@ -1,112 +1,168 @@
-[
-  {
-    "trackId": "3JOVTQ5h8HGFnDdp4VT3MP",
-    "name": "Mad World",
-    "duration_ms": 189506,
-    "artist": "Gary Jules",
-    "artistId": "5oRnbmgqvvq7fVlgk4vcEa",
-    "albumId": "1OydCrx4m7fguwcX4stR9z",
-    "release_date": "2001-01-01",
-    "popularity": 66
-  },
-  {
-    "trackId": "76D5nfZbYzZYfUZKGy73jy",
-    "name": "7 Seconds (feat. Neneh Cherry)",
-    "duration_ms": 305773,
-    "artist": "Youssou N'Dour",
-    "artistId": "77zlytAFjPFjUKda8TNIDY",
-    "albumId": "6Smydx3R0VZPoIdBeOmbFI",
-    "release_date": "2004",
-    "popularity": 58
-  },
-  {
-    "trackId": "1KZyVnyptQcPzkx7ELCnZC",
-    "name": "Hold Back The River",
-    "duration_ms": 238746,
-    "artist": "James Bay",
-    "artistId": "4EzkuveR9pLvDVFNx6foYD",
-    "albumId": "3GqsyMrJu3o8jLiGyBsBQW",
-    "release_date": "2015-03-20",
-    "popularity": 68
-  },
-  {
-    "trackId": "4He6BZb9dkAsEPWveYfua7",
-    "name": "Мудрые деревья",
-    "duration_ms": 284208,
-    "artist": "MONATIK",
-    "artistId": "6wbEgVlGqWb4I9tbMluu5Q",
-    "albumId": "27j0oMjG38thEE76Egusu1",
-    "release_date": "2016-05-25",
-    "popularity": 28
-  },
-  {
-    "trackId": "0inONscwadn4zAwcg8focN",
-    "name": "Solomon Vandi - Original Mix",
-    "duration_ms": 428739,
-    "artist": "Breakshift",
-    "artistId": "5wHZvvb2a8SPrtzYqEvkCh",
-    "albumId": "24gYCKilqDWlrnK5GXCQ1e",
-    "release_date": "2011-09-28",
-    "popularity": 8
-  },
-  {
-    "trackId": "3U4isOIWM3VvDubwSI3y7a",
-    "name": "All of Me",
-    "duration_ms": 269560,
-    "artist": "John Legend",
-    "artistId": "5y2Xq6xcjJb2jVM54GHK3t",
-    "albumId": "4OTAx9un4e6NfoHuVRiOrC",
-    "release_date": "2013-08-30",
-    "popularity": 84
-  },
-  {
-    "trackId": "6KXHj4fAuwcva82LJ0jOlb",
-    "name": "Love Me Like You Do - Remix Party Hits Radio Pop Edit - Inspired by Ellie Goulding",
-    "duration_ms": 246073,
-    "artist": "Brenda June",
-    "artistId": "6lxAsqP8S0EypQlO0Y5Y4c",
-    "albumId": "5vBdAjtUjue1pM37LjCZ9z",
-    "release_date": "2015-04-07",
-    "popularity": 0
-  },
-  {
-    "trackId": "6gxycjJNMgmAyfzUXBN80P",
-    "name": "Goodbye My Lover",
-    "duration_ms": 258653,
-    "artist": "James Blunt",
-    "artistId": "7KMqksf0UMdyA0UCf4R3ux",
-    "albumId": "1ekaxA9Q5GzUPCepx4wzMF",
-    "release_date": "2005-08-08",
-    "popularity": 67
-  },
-  {
-    "trackId": "0FDzzruyVECATHXKHFs9eJ",
-    "name": "A Sky Full of Stars",
-    "duration_ms": 267866,
-    "artist": "Coldplay",
-    "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
-    "albumId": "2G4AUqfwxcV1UdQjm2ouYr",
-    "release_date": "2014-05-19",
-    "popularity": 82
-  },
-  {
-    "trackId": "3B7udSGy2PfgoCniMSb523",
-    "name": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
-    "duration_ms": 300840,
-    "artist": "Ed Sheeran",
-    "artistId": "6eUKZXaKkcviH0Ku9w2n3V",
-    "albumId": "2nsRpsb5aeOhNEWV1MoiHB",
-    "release_date": "2013-01-01",
-    "popularity": 72
-  },
-  {
-    "trackId": "1qCQTy0fTXerET4x8VHyr9",
-    "name": "What A Wonderful World",
-    "duration_ms": 137520,
-    "artist": "Louis Armstrong",
-    "artistId": "19eLuQmk9aCobbVDHc6eek",
-    "albumId": "19UoBHanqMth4tk0rFw5RJ",
-    "release_date": "1968",
-    "popularity": 72
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/927245",
+  "dob": "1975-10-17",
+  "title": "Magda Gad",
+  "date": "2017-08-10",
+  "playlistId": "76e99svYuEt6kbxMf5i4nZ",
+  "imageurl": "https://static-cdn.sr.se/images/2071/a8163cb8-e0c0-4bec-8572-23f7638bacd6.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "3JOVTQ5h8HGFnDdp4VT3MP",
+      "name": "Mad World",
+      "duration_ms": 189506,
+      "artist": [
+        "Gary Jules",
+        "Michael Andrews"
+      ],
+      "artistId": [
+        "5oRnbmgqvvq7fVlgk4vcEa",
+        "0RkqytrwoGyXGvDiZwT6i2"
+      ],
+      "albumId": "1OydCrx4m7fguwcX4stR9z",
+      "release_date": "2001-01-01",
+      "popularity": 66
+    },
+    {
+      "trackId": "76D5nfZbYzZYfUZKGy73jy",
+      "name": "7 Seconds (feat. Neneh Cherry)",
+      "duration_ms": 305773,
+      "artist": [
+        "Youssou N'Dour",
+        "Neneh Cherry"
+      ],
+      "artistId": [
+        "77zlytAFjPFjUKda8TNIDY",
+        "3JxCEqL9zjKnDJgUhRuRJD"
+      ],
+      "albumId": "6Smydx3R0VZPoIdBeOmbFI",
+      "release_date": "2004",
+      "popularity": 58
+    },
+    {
+      "trackId": "1KZyVnyptQcPzkx7ELCnZC",
+      "name": "Hold Back The River",
+      "duration_ms": 238746,
+      "artist": [
+        "James Bay"
+      ],
+      "artistId": [
+        "4EzkuveR9pLvDVFNx6foYD"
+      ],
+      "albumId": "3GqsyMrJu3o8jLiGyBsBQW",
+      "release_date": "2015-03-20",
+      "popularity": 68
+    },
+    {
+      "trackId": "4He6BZb9dkAsEPWveYfua7",
+      "name": "Мудрые деревья",
+      "duration_ms": 284208,
+      "artist": [
+        "MONATIK"
+      ],
+      "artistId": [
+        "6wbEgVlGqWb4I9tbMluu5Q"
+      ],
+      "albumId": "27j0oMjG38thEE76Egusu1",
+      "release_date": "2016-05-25",
+      "popularity": 28
+    },
+    {
+      "trackId": "0inONscwadn4zAwcg8focN",
+      "name": "Solomon Vandi - Original Mix",
+      "duration_ms": 428739,
+      "artist": [
+        "Breakshift"
+      ],
+      "artistId": [
+        "5wHZvvb2a8SPrtzYqEvkCh"
+      ],
+      "albumId": "24gYCKilqDWlrnK5GXCQ1e",
+      "release_date": "2011-09-28",
+      "popularity": 8
+    },
+    {
+      "trackId": "3U4isOIWM3VvDubwSI3y7a",
+      "name": "All of Me",
+      "duration_ms": 269560,
+      "artist": [
+        "John Legend"
+      ],
+      "artistId": [
+        "5y2Xq6xcjJb2jVM54GHK3t"
+      ],
+      "albumId": "4OTAx9un4e6NfoHuVRiOrC",
+      "release_date": "2013-08-30",
+      "popularity": 84
+    },
+    {
+      "trackId": "6KXHj4fAuwcva82LJ0jOlb",
+      "name": "Love Me Like You Do - Remix Party Hits Radio Pop Edit - Inspired by Ellie Goulding",
+      "duration_ms": 246073,
+      "artist": [
+        "Brenda June"
+      ],
+      "artistId": [
+        "6lxAsqP8S0EypQlO0Y5Y4c"
+      ],
+      "albumId": "5vBdAjtUjue1pM37LjCZ9z",
+      "release_date": "2015-04-07",
+      "popularity": 0
+    },
+    {
+      "trackId": "6gxycjJNMgmAyfzUXBN80P",
+      "name": "Goodbye My Lover",
+      "duration_ms": 258653,
+      "artist": [
+        "James Blunt"
+      ],
+      "artistId": [
+        "7KMqksf0UMdyA0UCf4R3ux"
+      ],
+      "albumId": "1ekaxA9Q5GzUPCepx4wzMF",
+      "release_date": "2005-08-08",
+      "popularity": 67
+    },
+    {
+      "trackId": "0FDzzruyVECATHXKHFs9eJ",
+      "name": "A Sky Full of Stars",
+      "duration_ms": 267866,
+      "artist": [
+        "Coldplay"
+      ],
+      "artistId": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+      ],
+      "albumId": "2G4AUqfwxcV1UdQjm2ouYr",
+      "release_date": "2014-05-19",
+      "popularity": 82
+    },
+    {
+      "trackId": "3B7udSGy2PfgoCniMSb523",
+      "name": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+      "duration_ms": 300840,
+      "artist": [
+        "Ed Sheeran"
+      ],
+      "artistId": [
+        "6eUKZXaKkcviH0Ku9w2n3V"
+      ],
+      "albumId": "2nsRpsb5aeOhNEWV1MoiHB",
+      "release_date": "2013-01-01",
+      "popularity": 72
+    },
+    {
+      "trackId": "1qCQTy0fTXerET4x8VHyr9",
+      "name": "What A Wonderful World",
+      "duration_ms": 137520,
+      "artist": [
+        "Louis Armstrong"
+      ],
+      "artistId": [
+        "19eLuQmk9aCobbVDHc6eek"
+      ],
+      "albumId": "19UoBHanqMth4tk0rFw5RJ",
+      "release_date": "1968",
+      "popularity": 72
+    }
+  ]
+}

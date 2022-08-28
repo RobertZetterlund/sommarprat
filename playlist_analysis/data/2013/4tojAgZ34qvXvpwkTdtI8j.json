@@ -1,122 +1,180 @@
-[
-  {
-    "trackId": "2F79HavLHwJlfvvJOkkIQD",
-    "name": "The Cave",
-    "duration_ms": 215626,
-    "artist": "Mumford & Sons",
-    "artistId": "3gd8FJtBJtkRxdfbTu19U2",
-    "albumId": "0kjj3EUl6EOrKSC9iDurZq",
-    "release_date": "2009-01-01",
-    "popularity": 60
-  },
-  {
-    "trackId": "5imShWWzwqfAJ9gXFpGAQh",
-    "name": "Waiting On the World to Change",
-    "duration_ms": 201173,
-    "artist": "John Mayer",
-    "artistId": "0hEurMDQu99nJRq8pTxO14",
-    "albumId": "1Xsprdt1q9rOzTic7b9zYM",
-    "release_date": "2006-09-11",
-    "popularity": 73
-  },
-  {
-    "trackId": "3hzDvw2LssAFjr5OY0Un40",
-    "name": "Livin' On A Prayer (Unplugged)",
-    "duration_ms": 289436,
-    "artist": "Stairway To Heaven",
-    "artistId": "6GEWhPZFuNAHkf0n8MEhSY",
-    "albumId": "4nexaAkXXn96xUcZPDUhJ4",
-    "release_date": "2011-07-03",
-    "popularity": 14
-  },
-  {
-    "trackId": "6BvtcJlv2kdlUodAt7PD6c",
-    "name": "Ramlar",
-    "duration_ms": 196866,
-    "artist": "Håkan Hellström",
-    "artistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
-    "albumId": "3GLyWjI7skSDxKOBEhAhUE",
-    "release_date": "2000-09-25",
-    "popularity": 53
-  },
-  {
-    "trackId": "7yAY4Ytw56N6fwNZl6yHUU",
-    "name": "Breakdown",
-    "duration_ms": 212068,
-    "artist": "Twinkle Twinkle Little Rock Star",
-    "artistId": "3mGCLimuzOdod4Lnegny4d",
-    "albumId": "0XPRhrOsZPcst5ZA6MA5n6",
-    "release_date": "2013-11-19",
-    "popularity": 7
-  },
-  {
-    "trackId": "3Bh6uInhcVBVvLraGZdkKD",
-    "name": "Who'll Stop The Rain",
-    "duration_ms": 147493,
-    "artist": "Creedence Clearwater Revival",
-    "artistId": "3IYUhFvPQItj6xySrBmZkd",
-    "albumId": "4GLxEXWI3JiRKp6H7bfTIK",
-    "release_date": "1970-07-25",
-    "popularity": 65
-  },
-  {
-    "trackId": "4dVbhS6OiYvFikshyaQaCN",
-    "name": "My Hero",
-    "duration_ms": 260026,
-    "artist": "Foo Fighters",
-    "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
-    "albumId": "30ly6F6Xl0TKmyBCU50Khv",
-    "release_date": "1997-05-20",
-    "popularity": 73
-  },
-  {
-    "trackId": "37Tmv4NnfQeb0ZgUC4fOJj",
-    "name": "Sultans Of Swing",
-    "duration_ms": 348400,
-    "artist": "Dire Straits",
-    "artistId": "0WwSkZ7LtFUFjGjMZBMt6T",
-    "albumId": "2rCS6Xwx32V27pvgFzLzlT",
-    "release_date": "1978-10-07",
-    "popularity": 81
-  },
-  {
-    "trackId": "3QksrtI9VFCBHWA4rgvcV8",
-    "name": "Theme From New York, New York",
-    "duration_ms": 206066,
-    "artist": "Frank Sinatra",
-    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
-    "albumId": "4Cv61B08yHx3fwkylkhCxe",
-    "release_date": "1980-03-26",
-    "popularity": 62
-  },
-  {
-    "trackId": "2igwFfvr1OAGX9SKDCPBwO",
-    "name": "Empire State Of Mind",
-    "duration_ms": 276920,
-    "artist": "JAY-Z",
-    "artistId": "3nFkdlSjzX9mRTtwJOzDYB",
-    "albumId": "2CUT0104gySOIvqwtXeFsX",
-    "release_date": "2009-09-08",
-    "popularity": 82
-  },
-  {
-    "trackId": "56lhDZNQ5J47aog6mGKeGk",
-    "name": "Thunder Road",
-    "duration_ms": 288720,
-    "artist": "Bruce Springsteen",
-    "artistId": "3eqjTLE0HfPfh78zjh6TqT",
-    "albumId": "43YIoHKSrEw2GJsWmhZIpu",
-    "release_date": "1975-08-25",
-    "popularity": 65
-  },
-  {
-    "trackId": "0ZHIn61vQjqhz8sBSlYbCz",
-    "name": "Oscar feat. Anna Clementi",
-    "duration_ms": 320146,
-    "artist": "Tosca",
-    "artistId": "0TYvluyvV1Es8lTHiBfnAn",
-    "albumId": "7gKiWmCIkf7ID3k9fnOWHh",
-    "release_date": "2003-02-24",
-    "popularity": 33
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/216105",
+  "dob": "1982-03-02",
+  "title": "Henrik Lundqvist",
+  "date": "2013-07-10",
+  "playlistId": "4tojAgZ34qvXvpwkTdtI8j",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2851148_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "2F79HavLHwJlfvvJOkkIQD",
+      "name": "The Cave",
+      "duration_ms": 215626,
+      "artist": [
+        "Mumford & Sons"
+      ],
+      "artistId": [
+        "3gd8FJtBJtkRxdfbTu19U2"
+      ],
+      "albumId": "0kjj3EUl6EOrKSC9iDurZq",
+      "release_date": "2009-01-01",
+      "popularity": 60
+    },
+    {
+      "trackId": "5imShWWzwqfAJ9gXFpGAQh",
+      "name": "Waiting On the World to Change",
+      "duration_ms": 201173,
+      "artist": [
+        "John Mayer"
+      ],
+      "artistId": [
+        "0hEurMDQu99nJRq8pTxO14"
+      ],
+      "albumId": "1Xsprdt1q9rOzTic7b9zYM",
+      "release_date": "2006-09-11",
+      "popularity": 73
+    },
+    {
+      "trackId": "3hzDvw2LssAFjr5OY0Un40",
+      "name": "Livin' On A Prayer (Unplugged)",
+      "duration_ms": 289436,
+      "artist": [
+        "Stairway To Heaven"
+      ],
+      "artistId": [
+        "6GEWhPZFuNAHkf0n8MEhSY"
+      ],
+      "albumId": "4nexaAkXXn96xUcZPDUhJ4",
+      "release_date": "2011-07-03",
+      "popularity": 14
+    },
+    {
+      "trackId": "6BvtcJlv2kdlUodAt7PD6c",
+      "name": "Ramlar",
+      "duration_ms": 196866,
+      "artist": [
+        "Håkan Hellström"
+      ],
+      "artistId": [
+        "3H7Ez7cwaYw4L3ELy4v3Lc"
+      ],
+      "albumId": "3GLyWjI7skSDxKOBEhAhUE",
+      "release_date": "2000-09-25",
+      "popularity": 53
+    },
+    {
+      "trackId": "7yAY4Ytw56N6fwNZl6yHUU",
+      "name": "Breakdown",
+      "duration_ms": 212068,
+      "artist": [
+        "Twinkle Twinkle Little Rock Star"
+      ],
+      "artistId": [
+        "3mGCLimuzOdod4Lnegny4d"
+      ],
+      "albumId": "0XPRhrOsZPcst5ZA6MA5n6",
+      "release_date": "2013-11-19",
+      "popularity": 7
+    },
+    {
+      "trackId": "3Bh6uInhcVBVvLraGZdkKD",
+      "name": "Who'll Stop The Rain",
+      "duration_ms": 147493,
+      "artist": [
+        "Creedence Clearwater Revival"
+      ],
+      "artistId": [
+        "3IYUhFvPQItj6xySrBmZkd"
+      ],
+      "albumId": "4GLxEXWI3JiRKp6H7bfTIK",
+      "release_date": "1970-07-25",
+      "popularity": 65
+    },
+    {
+      "trackId": "4dVbhS6OiYvFikshyaQaCN",
+      "name": "My Hero",
+      "duration_ms": 260026,
+      "artist": [
+        "Foo Fighters"
+      ],
+      "artistId": [
+        "7jy3rLJdDQY21OgRLCZ9sD"
+      ],
+      "albumId": "30ly6F6Xl0TKmyBCU50Khv",
+      "release_date": "1997-05-20",
+      "popularity": 73
+    },
+    {
+      "trackId": "37Tmv4NnfQeb0ZgUC4fOJj",
+      "name": "Sultans Of Swing",
+      "duration_ms": 348400,
+      "artist": [
+        "Dire Straits"
+      ],
+      "artistId": [
+        "0WwSkZ7LtFUFjGjMZBMt6T"
+      ],
+      "albumId": "2rCS6Xwx32V27pvgFzLzlT",
+      "release_date": "1978-10-07",
+      "popularity": 81
+    },
+    {
+      "trackId": "3QksrtI9VFCBHWA4rgvcV8",
+      "name": "Theme From New York, New York",
+      "duration_ms": 206066,
+      "artist": [
+        "Frank Sinatra"
+      ],
+      "artistId": [
+        "1Mxqyy3pSjf8kZZL4QVxS0"
+      ],
+      "albumId": "4Cv61B08yHx3fwkylkhCxe",
+      "release_date": "1980-03-26",
+      "popularity": 62
+    },
+    {
+      "trackId": "2igwFfvr1OAGX9SKDCPBwO",
+      "name": "Empire State Of Mind",
+      "duration_ms": 276920,
+      "artist": [
+        "JAY-Z",
+        "Alicia Keys"
+      ],
+      "artistId": [
+        "3nFkdlSjzX9mRTtwJOzDYB",
+        "3DiDSECUqqY1AuBP8qtaIa"
+      ],
+      "albumId": "2CUT0104gySOIvqwtXeFsX",
+      "release_date": "2009-09-08",
+      "popularity": 82
+    },
+    {
+      "trackId": "56lhDZNQ5J47aog6mGKeGk",
+      "name": "Thunder Road",
+      "duration_ms": 288720,
+      "artist": [
+        "Bruce Springsteen"
+      ],
+      "artistId": [
+        "3eqjTLE0HfPfh78zjh6TqT"
+      ],
+      "albumId": "43YIoHKSrEw2GJsWmhZIpu",
+      "release_date": "1975-08-25",
+      "popularity": 65
+    },
+    {
+      "trackId": "0ZHIn61vQjqhz8sBSlYbCz",
+      "name": "Oscar feat. Anna Clementi",
+      "duration_ms": 320146,
+      "artist": [
+        "Tosca"
+      ],
+      "artistId": [
+        "0TYvluyvV1Es8lTHiBfnAn"
+      ],
+      "albumId": "7gKiWmCIkf7ID3k9fnOWHh",
+      "release_date": "2003-02-24",
+      "popularity": 33
+    }
+  ]
+}

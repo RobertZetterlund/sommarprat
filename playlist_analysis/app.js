@@ -156,12 +156,13 @@ const fetchSpotifyPlayListItems = async (playListId, access_token) => {
         throw "not found";
       } else {
         return res.items.map((item) => {
+          const artists = item.track.artists.slice(0, 3);
           return {
             trackId: item.track.id,
             name: item.track.name,
             duration_ms: item.track.duration_ms,
-            artist: item.track.artists[0].name,
-            artistId: item.track.artists[0].id,
+            artist: artists.map((a) => a.name),
+            artistId: artists.map((a) => a.id),
             albumId: item.track.album.id,
             release_date: item.track.album.release_date,
             popularity: item.track.popularity,
@@ -206,12 +207,13 @@ app.get("/refresh_token", function (req, res) {
         const year = filename.split(".")[0];
         fs.promises.mkdir(`./data/${year}`);
 
-        for await (const { playlistId } of episodes) {
+        for await (const episode of episodes) {
+          const { playlistId } = episode;
           const tracks = await fetchSpotifyPlayListItems(
             playlistId,
             access_token
           );
-          const json = JSON.stringify(tracks);
+          const json = JSON.stringify({ ...episode, tracks });
           fs.writeFile(`./data/${year}/${playlistId}.json`, json, "utf8", () =>
             console.info("Finished:", playlistId)
           );

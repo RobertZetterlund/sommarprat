@@ -1,112 +1,168 @@
-[
-  {
-    "trackId": "7orAUdS7qfqutuyRXpkGH8",
-    "name": "A Dios Le Pido",
-    "duration_ms": 205373,
-    "artist": "Juanes",
-    "artistId": "0UWZUmn7sybxMCqrw9tGa7",
-    "albumId": "1pfOQNO03YsguyaKHoEJyJ",
-    "release_date": "2022-08-12",
-    "popularity": 1
-  },
-  {
-    "trackId": "2ZQVJD9I6GCqXmkmMuEoLa",
-    "name": "Le vent nous portera",
-    "duration_ms": 288693,
-    "artist": "Noir Désir",
-    "artistId": "4ksCwAPgMi8rkQwwR3nMos",
-    "albumId": "2GbW5WBU1BFSChvxtt6BBH",
-    "release_date": "2001-01-01",
-    "popularity": 60
-  },
-  {
-    "trackId": "0fqv48bveX1C4Spj5fTEWW",
-    "name": "Kazhal",
-    "duration_ms": 197876,
-    "artist": "Aziz Waisi",
-    "artistId": "0XDnOmL7qSChYkvz2ZKYXv",
-    "albumId": "01chveOkewkSD8CR8lIEb5",
-    "release_date": "2021-03-21",
-    "popularity": 20
-  },
-  {
-    "trackId": "21DyCPJqQ8tzFCHJYX9Koz",
-    "name": "I Belong To You",
-    "duration_ms": 257066,
-    "artist": "Lenny Kravitz",
-    "artistId": "5gznATMVO85ZcLTkE9ULU7",
-    "albumId": "1cW0de5T5fdedlS4YqvyCv",
-    "release_date": "2000",
-    "popularity": 55
-  },
-  {
-    "trackId": "1TLTUhEUYOyORxufZlCOWj",
-    "name": "War",
-    "duration_ms": 216533,
-    "artist": "Bob Marley & The Wailers",
-    "artistId": "2QsynagSdAqZj3U9HgDzjD",
-    "albumId": "6Gdf5vvFmoEwcsEV61tXiT",
-    "release_date": "1976",
-    "popularity": 60
-  },
-  {
-    "trackId": "2wmoMoo1FIP36ZsU4tSckW",
-    "name": "Ett land som är tryggt",
-    "duration_ms": 247200,
-    "artist": "Advance Patrol",
-    "artistId": "3io0EreSuC8AUj98QpFnOk",
-    "albumId": "4e4QHIfaLcypDjMg2ybBby",
-    "release_date": "2005-11-07",
-    "popularity": 14
-  },
-  {
-    "trackId": "6QQgahaHo41fDmxN8eLeIH",
-    "name": "MESSIN WID HER",
-    "duration_ms": 156831,
-    "artist": "Marzi",
-    "artistId": "3n9c9SsiabKzoNqyjoWYdY",
-    "albumId": "2pqaIRHhim8ACq6xzdfcov",
-    "release_date": "2022-07-12",
-    "popularity": 34
-  },
-  {
-    "trackId": "3zYufmyv6HOuiHn1eMR6Ja",
-    "name": "Desert Rose",
-    "duration_ms": 285960,
-    "artist": "Sting",
-    "artistId": "0Ty63ceoRnnJKVEYP0VQpk",
-    "albumId": "2lKs5704qlvP9V9muKZwqY",
-    "release_date": "1999-01-01",
-    "popularity": 63
-  },
-  {
-    "trackId": "3aw9iWUQ3VrPQltgwvN9Xu",
-    "name": "Family Affair",
-    "duration_ms": 265866,
-    "artist": "Mary J. Blige",
-    "artistId": "1XkoF8ryArs86LZvFOkbyr",
-    "albumId": "5QJmKwPveBV4IwLlo4OcG4",
-    "release_date": "2001-01-01",
-    "popularity": 76
-  },
-  {
-    "trackId": "503OTo2dSqe7qk76rgsbep",
-    "name": "Still D.R.E.",
-    "duration_ms": 270586,
-    "artist": "Dr. Dre",
-    "artistId": "6DPYiyq5kWVQS4RGwxzPC7",
-    "albumId": "7q2B4M5EiBkqrlsNW8lB7N",
-    "release_date": "1999-11-16",
-    "popularity": 83
-  },
-  {
-    "trackId": "3Fp1FcmDjqmuXjplvUSq0k",
-    "name": "Blågula färger",
-    "duration_ms": 232813,
-    "artist": "Advance Patrol",
-    "artistId": "3io0EreSuC8AUj98QpFnOk",
-    "albumId": "4e4QHIfaLcypDjMg2ybBby",
-    "release_date": "2005-11-07",
-    "popularity": 17
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/363134",
+  "dob": "1981-10-16",
+  "title": "Zanyar Adami",
+  "date": "2006-07-07",
+  "playlistId": "7JV46z9jNYQHiNNpxymZHD",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3241184_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "7orAUdS7qfqutuyRXpkGH8",
+      "name": "A Dios Le Pido",
+      "duration_ms": 205373,
+      "artist": [
+        "Juanes"
+      ],
+      "artistId": [
+        "0UWZUmn7sybxMCqrw9tGa7"
+      ],
+      "albumId": "1pfOQNO03YsguyaKHoEJyJ",
+      "release_date": "2022-08-12",
+      "popularity": 1
+    },
+    {
+      "trackId": "2ZQVJD9I6GCqXmkmMuEoLa",
+      "name": "Le vent nous portera",
+      "duration_ms": 288693,
+      "artist": [
+        "Noir Désir"
+      ],
+      "artistId": [
+        "4ksCwAPgMi8rkQwwR3nMos"
+      ],
+      "albumId": "2GbW5WBU1BFSChvxtt6BBH",
+      "release_date": "2001-01-01",
+      "popularity": 60
+    },
+    {
+      "trackId": "0fqv48bveX1C4Spj5fTEWW",
+      "name": "Kazhal",
+      "duration_ms": 197876,
+      "artist": [
+        "Aziz Waisi"
+      ],
+      "artistId": [
+        "0XDnOmL7qSChYkvz2ZKYXv"
+      ],
+      "albumId": "01chveOkewkSD8CR8lIEb5",
+      "release_date": "2021-03-21",
+      "popularity": 20
+    },
+    {
+      "trackId": "21DyCPJqQ8tzFCHJYX9Koz",
+      "name": "I Belong To You",
+      "duration_ms": 257066,
+      "artist": [
+        "Lenny Kravitz"
+      ],
+      "artistId": [
+        "5gznATMVO85ZcLTkE9ULU7"
+      ],
+      "albumId": "1cW0de5T5fdedlS4YqvyCv",
+      "release_date": "2000",
+      "popularity": 55
+    },
+    {
+      "trackId": "1TLTUhEUYOyORxufZlCOWj",
+      "name": "War",
+      "duration_ms": 216533,
+      "artist": [
+        "Bob Marley & The Wailers"
+      ],
+      "artistId": [
+        "2QsynagSdAqZj3U9HgDzjD"
+      ],
+      "albumId": "6Gdf5vvFmoEwcsEV61tXiT",
+      "release_date": "1976",
+      "popularity": 60
+    },
+    {
+      "trackId": "2wmoMoo1FIP36ZsU4tSckW",
+      "name": "Ett land som är tryggt",
+      "duration_ms": 247200,
+      "artist": [
+        "Advance Patrol"
+      ],
+      "artistId": [
+        "3io0EreSuC8AUj98QpFnOk"
+      ],
+      "albumId": "4e4QHIfaLcypDjMg2ybBby",
+      "release_date": "2005-11-07",
+      "popularity": 14
+    },
+    {
+      "trackId": "6QQgahaHo41fDmxN8eLeIH",
+      "name": "MESSIN WID HER",
+      "duration_ms": 156831,
+      "artist": [
+        "Marzi"
+      ],
+      "artistId": [
+        "3n9c9SsiabKzoNqyjoWYdY"
+      ],
+      "albumId": "2pqaIRHhim8ACq6xzdfcov",
+      "release_date": "2022-07-12",
+      "popularity": 34
+    },
+    {
+      "trackId": "3zYufmyv6HOuiHn1eMR6Ja",
+      "name": "Desert Rose",
+      "duration_ms": 285960,
+      "artist": [
+        "Sting",
+        "Cheb Mami"
+      ],
+      "artistId": [
+        "0Ty63ceoRnnJKVEYP0VQpk",
+        "6vZXamchcIOKzC1c3Elp4J"
+      ],
+      "albumId": "2lKs5704qlvP9V9muKZwqY",
+      "release_date": "1999-01-01",
+      "popularity": 63
+    },
+    {
+      "trackId": "3aw9iWUQ3VrPQltgwvN9Xu",
+      "name": "Family Affair",
+      "duration_ms": 265866,
+      "artist": [
+        "Mary J. Blige"
+      ],
+      "artistId": [
+        "1XkoF8ryArs86LZvFOkbyr"
+      ],
+      "albumId": "5QJmKwPveBV4IwLlo4OcG4",
+      "release_date": "2001-01-01",
+      "popularity": 76
+    },
+    {
+      "trackId": "503OTo2dSqe7qk76rgsbep",
+      "name": "Still D.R.E.",
+      "duration_ms": 270586,
+      "artist": [
+        "Dr. Dre",
+        "Snoop Dogg"
+      ],
+      "artistId": [
+        "6DPYiyq5kWVQS4RGwxzPC7",
+        "7hJcb9fa4alzcOq3EaNPoG"
+      ],
+      "albumId": "7q2B4M5EiBkqrlsNW8lB7N",
+      "release_date": "1999-11-16",
+      "popularity": 83
+    },
+    {
+      "trackId": "3Fp1FcmDjqmuXjplvUSq0k",
+      "name": "Blågula färger",
+      "duration_ms": 232813,
+      "artist": [
+        "Advance Patrol"
+      ],
+      "artistId": [
+        "3io0EreSuC8AUj98QpFnOk"
+      ],
+      "albumId": "4e4QHIfaLcypDjMg2ybBby",
+      "release_date": "2005-11-07",
+      "popularity": 17
+    }
+  ]
+}

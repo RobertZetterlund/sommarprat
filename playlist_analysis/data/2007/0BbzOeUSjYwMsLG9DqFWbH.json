@@ -1,112 +1,172 @@
-[
-  {
-    "trackId": "1n548Txtnva8ZUXfBe7j8d",
-    "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966",
-    "duration_ms": 312133,
-    "artist": "James Brown",
-    "artistId": "7GaxyUddsPok8BuhxN6OUW",
-    "albumId": "6Wzf9BalBqQAenrUb9xzUH",
-    "release_date": "2014-07-29",
-    "popularity": 30
-  },
-  {
-    "trackId": "76TZCvJ8GitQ2FA1q5dKu0",
-    "name": "The Boxer",
-    "duration_ms": 308520,
-    "artist": "Simon & Garfunkel",
-    "artistId": "70cRZdQywnSFp9pnc2WTCE",
-    "albumId": "0JwHz5SSvpYWuuCNbtYZoV",
-    "release_date": "1970-01-26",
-    "popularity": 70
-  },
-  {
-    "trackId": "1z3RMh4rddbnmgClQpp8Si",
-    "name": "Elite",
-    "duration_ms": 365440,
-    "artist": "kent",
-    "artistId": "4KXp3xtaz1wWXnu5u34eVX",
-    "albumId": "2DGzTm2R2v3G0IjnxXtP3Y",
-    "release_date": "2002-04-15",
-    "popularity": 34
-  },
-  {
-    "trackId": "4VrbYjU8w5eGAbkFLHeS1p",
-    "name": "Torna a Surriento (Arr. Chiaramello)",
-    "duration_ms": 262506,
-    "artist": "Ernesto de Curtis",
-    "artistId": "1LrxrWK05k4x6y5pbDhouE",
-    "albumId": "2JdvpY38euCHBlIofmFUp6",
-    "release_date": "1979-01-01",
-    "popularity": 36
-  },
-  {
-    "trackId": "0yLEo7X7tJnyzEIITgexV7",
-    "name": "Napule È",
-    "duration_ms": 226400,
-    "artist": "Pino Daniele",
-    "artistId": "2eFv7NVs8R6Go7msuqikeg",
-    "albumId": "2jr8EyK8gAdXDWBilCprkw",
-    "release_date": "2006-01-01",
-    "popularity": 57
-  },
-  {
-    "trackId": "3NfxSdJnVdon1axzloJgba",
-    "name": "I Say a Little Prayer",
-    "duration_ms": 216773,
-    "artist": "Aretha Franklin",
-    "artistId": "7nwUJBm0HE4ZxD3f5cy5ok",
-    "albumId": "55HZ2ectg1mMTEKDqIq3kC",
-    "release_date": "1968-06-14",
-    "popularity": 74
-  },
-  {
-    "trackId": "7KWoeBqSdZHEloYKVxssfG",
-    "name": "In the Ghetto",
-    "duration_ms": 167413,
-    "artist": "Elvis Presley",
-    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
-    "albumId": "3ekkFrfotMsEAKc5g71GHk",
-    "release_date": "1969-06-17",
-    "popularity": 69
-  },
-  {
-    "trackId": "5xMNjx7uqCzMpJZSo4Wq55",
-    "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
-    "duration_ms": 233813,
-    "artist": "Johnny Cash",
-    "artistId": "6kACVPfCOnqzgfEF5ryl0x",
-    "albumId": "6bYqwLMVRQzwPQweVzCiry",
-    "release_date": "1969-06-04",
-    "popularity": 58
-  },
-  {
-    "trackId": "1CtKHwDqsH3ctcCCI18N0g",
-    "name": "Everybody Needs Somebody to Love",
-    "duration_ms": 203453,
-    "artist": "The Blues Brothers",
-    "artistId": "1cHFz6lrt7KAsBV8j2Ny1g",
-    "albumId": "4cO51KBYsdsbmSZleoNEGH",
-    "release_date": "1980",
-    "popularity": 63
-  },
-  {
-    "trackId": "5hV0uMeGIUtKASyf25htAo",
-    "name": "Caruso",
-    "duration_ms": 319493,
-    "artist": "Lucio Dalla",
-    "artistId": "25MkkfEousyfp2eyh38FUl",
-    "albumId": "01gyhMRB3RBxhgkfqbBNVi",
-    "release_date": "1988-01-01",
-    "popularity": 45
-  },
-  {
-    "trackId": "38GJVLOjtSOFPa441ipqfQ",
-    "name": "Mambo Italiano",
-    "duration_ms": 141466,
-    "artist": "Dean Martin",
-    "artistId": "49e4v89VmlDcFCMyDv9wQ9",
-    "albumId": "3lJxK0sqcRdPbQ5XJbk3jh",
-    "release_date": "2022-08-08",
-    "popularity": 2
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/371369",
+  "dob": "1969-02-03",
+  "title": "Paolo Roberto",
+  "date": "2007-08-04",
+  "playlistId": "0BbzOeUSjYwMsLG9DqFWbH",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3258058_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "1n548Txtnva8ZUXfBe7j8d",
+      "name": "It's A Man's Man's Man's World - Live In Tampa, FL/1966",
+      "duration_ms": 312133,
+      "artist": [
+        "James Brown"
+      ],
+      "artistId": [
+        "7GaxyUddsPok8BuhxN6OUW"
+      ],
+      "albumId": "6Wzf9BalBqQAenrUb9xzUH",
+      "release_date": "2014-07-29",
+      "popularity": 30
+    },
+    {
+      "trackId": "76TZCvJ8GitQ2FA1q5dKu0",
+      "name": "The Boxer",
+      "duration_ms": 308520,
+      "artist": [
+        "Simon & Garfunkel"
+      ],
+      "artistId": [
+        "70cRZdQywnSFp9pnc2WTCE"
+      ],
+      "albumId": "0JwHz5SSvpYWuuCNbtYZoV",
+      "release_date": "1970-01-26",
+      "popularity": 70
+    },
+    {
+      "trackId": "1z3RMh4rddbnmgClQpp8Si",
+      "name": "Elite",
+      "duration_ms": 365440,
+      "artist": [
+        "kent"
+      ],
+      "artistId": [
+        "4KXp3xtaz1wWXnu5u34eVX"
+      ],
+      "albumId": "2DGzTm2R2v3G0IjnxXtP3Y",
+      "release_date": "2002-04-15",
+      "popularity": 34
+    },
+    {
+      "trackId": "4VrbYjU8w5eGAbkFLHeS1p",
+      "name": "Torna a Surriento (Arr. Chiaramello)",
+      "duration_ms": 262506,
+      "artist": [
+        "Ernesto de Curtis",
+        "Luciano Pavarotti",
+        "National Philharmonic Orchestra"
+      ],
+      "artistId": [
+        "1LrxrWK05k4x6y5pbDhouE",
+        "0Y8KmFkKOgJybpVobn1onU",
+        "2Ek1WGW7WeyDoxsZiu0AAd"
+      ],
+      "albumId": "2JdvpY38euCHBlIofmFUp6",
+      "release_date": "1979-01-01",
+      "popularity": 36
+    },
+    {
+      "trackId": "0yLEo7X7tJnyzEIITgexV7",
+      "name": "Napule È",
+      "duration_ms": 226400,
+      "artist": [
+        "Pino Daniele"
+      ],
+      "artistId": [
+        "2eFv7NVs8R6Go7msuqikeg"
+      ],
+      "albumId": "2jr8EyK8gAdXDWBilCprkw",
+      "release_date": "2006-01-01",
+      "popularity": 57
+    },
+    {
+      "trackId": "3NfxSdJnVdon1axzloJgba",
+      "name": "I Say a Little Prayer",
+      "duration_ms": 216773,
+      "artist": [
+        "Aretha Franklin"
+      ],
+      "artistId": [
+        "7nwUJBm0HE4ZxD3f5cy5ok"
+      ],
+      "albumId": "55HZ2ectg1mMTEKDqIq3kC",
+      "release_date": "1968-06-14",
+      "popularity": 74
+    },
+    {
+      "trackId": "7KWoeBqSdZHEloYKVxssfG",
+      "name": "In the Ghetto",
+      "duration_ms": 167413,
+      "artist": [
+        "Elvis Presley"
+      ],
+      "artistId": [
+        "43ZHCT0cAZBISjO8DG9PnE"
+      ],
+      "albumId": "3ekkFrfotMsEAKc5g71GHk",
+      "release_date": "1969-06-17",
+      "popularity": 69
+    },
+    {
+      "trackId": "5xMNjx7uqCzMpJZSo4Wq55",
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "duration_ms": 233813,
+      "artist": [
+        "Johnny Cash"
+      ],
+      "artistId": [
+        "6kACVPfCOnqzgfEF5ryl0x"
+      ],
+      "albumId": "6bYqwLMVRQzwPQweVzCiry",
+      "release_date": "1969-06-04",
+      "popularity": 58
+    },
+    {
+      "trackId": "1CtKHwDqsH3ctcCCI18N0g",
+      "name": "Everybody Needs Somebody to Love",
+      "duration_ms": 203453,
+      "artist": [
+        "The Blues Brothers"
+      ],
+      "artistId": [
+        "1cHFz6lrt7KAsBV8j2Ny1g"
+      ],
+      "albumId": "4cO51KBYsdsbmSZleoNEGH",
+      "release_date": "1980",
+      "popularity": 63
+    },
+    {
+      "trackId": "5hV0uMeGIUtKASyf25htAo",
+      "name": "Caruso",
+      "duration_ms": 319493,
+      "artist": [
+        "Lucio Dalla",
+        "Luciano Pavarotti",
+        "Unknown Artist"
+      ],
+      "artistId": [
+        "25MkkfEousyfp2eyh38FUl",
+        "0Y8KmFkKOgJybpVobn1onU",
+        "3POLGp1PDjloqIXcgfJZZl"
+      ],
+      "albumId": "01gyhMRB3RBxhgkfqbBNVi",
+      "release_date": "1988-01-01",
+      "popularity": 45
+    },
+    {
+      "trackId": "38GJVLOjtSOFPa441ipqfQ",
+      "name": "Mambo Italiano",
+      "duration_ms": 141466,
+      "artist": [
+        "Dean Martin"
+      ],
+      "artistId": [
+        "49e4v89VmlDcFCMyDv9wQ9"
+      ],
+      "albumId": "3lJxK0sqcRdPbQ5XJbk3jh",
+      "release_date": "2022-08-08",
+      "popularity": 2
+    }
+  ]
+}

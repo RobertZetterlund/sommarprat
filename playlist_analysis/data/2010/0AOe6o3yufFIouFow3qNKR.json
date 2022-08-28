@@ -1,102 +1,160 @@
-[
-  {
-    "trackId": "37dvg0paeNBwAG7nnHoHLo",
-    "name": "Lost and lonely",
-    "duration_ms": 383466,
-    "artist": "Elliott Murphy",
-    "artistId": "4aqvFWNLhYa5nny4oDII4m",
-    "albumId": "4SJoNrGjvoBCcNGedjQDAV",
-    "release_date": "2008",
-    "popularity": 2
-  },
-  {
-    "trackId": "5Hz6aGrZZizNBoJ6kE6Rqi",
-    "name": "Wonder",
-    "duration_ms": 266007,
-    "artist": "Natalie Merchant",
-    "artistId": "73JEBdDEFeVaOLg3y0HhBD",
-    "albumId": "6BThqXIsF0nanWam5MSV8d",
-    "release_date": "1995",
-    "popularity": 52
-  },
-  {
-    "trackId": "1EpT2oxazel2Ys8Bj9gGw9",
-    "name": "Tommy",
-    "duration_ms": 266794,
-    "artist": "Sandy Mule",
-    "artistId": "06grbbfugSSiEIclZTHXTP",
-    "albumId": "1NNBFM7Upi3n54OTd1ZED5",
-    "release_date": "2022-02-14",
-    "popularity": 14
-  },
-  {
-    "trackId": "11Mkoen07pKwyDqHiFnVU9",
-    "name": "A Whiter Shade of Pale",
-    "duration_ms": 316760,
-    "artist": "Annie Lennox",
-    "artistId": "5MspMQqdVbdwP6ax3GXqum",
-    "albumId": "1T2aRQcFUL59f9kQ876dLX",
-    "release_date": "1995",
-    "popularity": 58
-  },
-  {
-    "trackId": "6s7gVYxDdGfCDCbg9JXYzr",
-    "name": "Marta's Dance / The Russian Dervish",
-    "duration_ms": 363626,
-    "artist": "Maire Breatnach",
-    "artistId": "0NA2aHeHchXAz3oXqUG6Gl",
-    "albumId": "1zlNWBt6pjzPSr6KWDW7qJ",
-    "release_date": "1997-01-01",
-    "popularity": 24
-  },
-  {
-    "trackId": "7MjBncViywnVq5Pg5eLdTF",
-    "name": "Pie Jesu",
-    "duration_ms": 221693,
-    "artist": "Andrew Lloyd Webber",
-    "artistId": "4aP1lp10BRYZO658B2NwkG",
-    "albumId": "79Y7idS6C4zQO3tXjr9G4f",
-    "release_date": "2008-01-01",
-    "popularity": 39
-  },
-  {
-    "trackId": "31ngHrvV9C2VcrsDOTB2qq",
-    "name": "Du Liv...",
-    "duration_ms": 281125,
-    "artist": "Sofia Karlsson",
-    "artistId": "2tKGISNf0bei0IxfLQGMEt",
-    "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
-    "release_date": "2005-02-23",
-    "popularity": 21
-  },
-  {
-    "trackId": "144JMbvbR5txNzoZ112wo4",
-    "name": "Strong Enough",
-    "duration_ms": 224000,
-    "artist": "Cher",
-    "artistId": "72OaDtakiy6yFqkt4TsiFt",
-    "albumId": "0jZfbz0dNfDjPSg0hYJNth",
-    "release_date": "1998",
-    "popularity": 66
-  },
-  {
-    "trackId": "587jp7jaczAz6M3wnKmnFh",
-    "name": "Raggarrock (Pojkarna som busar)",
-    "duration_ms": 136080,
-    "artist": "Björn Rosenström",
-    "artistId": "11xRVFTsfUOVt4vSVX865Q",
-    "albumId": "27fTvZwbG1y0FCJrBapo80",
-    "release_date": "1995",
-    "popularity": 51
-  },
-  {
-    "trackId": "46ZrQZ3mK5ROS05sMsOc5T",
-    "name": "Human - Tin Tin Out Mix",
-    "duration_ms": 235066,
-    "artist": "Pretenders",
-    "artistId": "0GByy3DcfbQwDvXGCWmzv9",
-    "albumId": "2WtsFod3F3SFMN3rv5iVEQ",
-    "release_date": "1999-06-22",
-    "popularity": 39
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/108959",
+  "dob": "1964-04-06",
+  "title": "Ulf Danielsson",
+  "date": "2010-07-22",
+  "playlistId": "0AOe6o3yufFIouFow3qNKR",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3235432_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "37dvg0paeNBwAG7nnHoHLo",
+      "name": "Lost and lonely",
+      "duration_ms": 383466,
+      "artist": [
+        "Elliott Murphy"
+      ],
+      "artistId": [
+        "4aqvFWNLhYa5nny4oDII4m"
+      ],
+      "albumId": "4SJoNrGjvoBCcNGedjQDAV",
+      "release_date": "2008",
+      "popularity": 2
+    },
+    {
+      "trackId": "5Hz6aGrZZizNBoJ6kE6Rqi",
+      "name": "Wonder",
+      "duration_ms": 266007,
+      "artist": [
+        "Natalie Merchant"
+      ],
+      "artistId": [
+        "73JEBdDEFeVaOLg3y0HhBD"
+      ],
+      "albumId": "6BThqXIsF0nanWam5MSV8d",
+      "release_date": "1995",
+      "popularity": 52
+    },
+    {
+      "trackId": "1EpT2oxazel2Ys8Bj9gGw9",
+      "name": "Tommy",
+      "duration_ms": 266794,
+      "artist": [
+        "Sandy Mule",
+        "Todd Hoffman"
+      ],
+      "artistId": [
+        "06grbbfugSSiEIclZTHXTP",
+        "2rw6Cwt83Dh2y1CDKddrzJ"
+      ],
+      "albumId": "1NNBFM7Upi3n54OTd1ZED5",
+      "release_date": "2022-02-14",
+      "popularity": 14
+    },
+    {
+      "trackId": "11Mkoen07pKwyDqHiFnVU9",
+      "name": "A Whiter Shade of Pale",
+      "duration_ms": 316760,
+      "artist": [
+        "Annie Lennox",
+        "Heff Moraes"
+      ],
+      "artistId": [
+        "5MspMQqdVbdwP6ax3GXqum",
+        "6HrqkCpPwHjWrg0YicMnzw"
+      ],
+      "albumId": "1T2aRQcFUL59f9kQ876dLX",
+      "release_date": "1995",
+      "popularity": 58
+    },
+    {
+      "trackId": "6s7gVYxDdGfCDCbg9JXYzr",
+      "name": "Marta's Dance / The Russian Dervish",
+      "duration_ms": 363626,
+      "artist": [
+        "Maire Breatnach",
+        "David Spillane",
+        "Mairtin O'Connor"
+      ],
+      "artistId": [
+        "0NA2aHeHchXAz3oXqUG6Gl",
+        "1ZZyHPl8HMJSVdcG4qhfB0",
+        "0fPupHAg3RTZlxZlLHyOJJ"
+      ],
+      "albumId": "1zlNWBt6pjzPSr6KWDW7qJ",
+      "release_date": "1997-01-01",
+      "popularity": 24
+    },
+    {
+      "trackId": "7MjBncViywnVq5Pg5eLdTF",
+      "name": "Pie Jesu",
+      "duration_ms": 221693,
+      "artist": [
+        "Andrew Lloyd Webber",
+        "Anna Netrebko"
+      ],
+      "artistId": [
+        "4aP1lp10BRYZO658B2NwkG",
+        "5moBlpk9BYtujdRW6VLepL"
+      ],
+      "albumId": "79Y7idS6C4zQO3tXjr9G4f",
+      "release_date": "2008-01-01",
+      "popularity": 39
+    },
+    {
+      "trackId": "31ngHrvV9C2VcrsDOTB2qq",
+      "name": "Du Liv...",
+      "duration_ms": 281125,
+      "artist": [
+        "Sofia Karlsson"
+      ],
+      "artistId": [
+        "2tKGISNf0bei0IxfLQGMEt"
+      ],
+      "albumId": "6zbpOJwPVtns1Yqnn9lmW1",
+      "release_date": "2005-02-23",
+      "popularity": 21
+    },
+    {
+      "trackId": "144JMbvbR5txNzoZ112wo4",
+      "name": "Strong Enough",
+      "duration_ms": 224000,
+      "artist": [
+        "Cher"
+      ],
+      "artistId": [
+        "72OaDtakiy6yFqkt4TsiFt"
+      ],
+      "albumId": "0jZfbz0dNfDjPSg0hYJNth",
+      "release_date": "1998",
+      "popularity": 66
+    },
+    {
+      "trackId": "587jp7jaczAz6M3wnKmnFh",
+      "name": "Raggarrock (Pojkarna som busar)",
+      "duration_ms": 136080,
+      "artist": [
+        "Björn Rosenström"
+      ],
+      "artistId": [
+        "11xRVFTsfUOVt4vSVX865Q"
+      ],
+      "albumId": "27fTvZwbG1y0FCJrBapo80",
+      "release_date": "1995",
+      "popularity": 51
+    },
+    {
+      "trackId": "46ZrQZ3mK5ROS05sMsOc5T",
+      "name": "Human - Tin Tin Out Mix",
+      "duration_ms": 235066,
+      "artist": [
+        "Pretenders"
+      ],
+      "artistId": [
+        "0GByy3DcfbQwDvXGCWmzv9"
+      ],
+      "albumId": "2WtsFod3F3SFMN3rv5iVEQ",
+      "release_date": "1999-06-22",
+      "popularity": 39
+    }
+  ]
+}

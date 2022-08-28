@@ -1,122 +1,192 @@
-[
-  {
-    "trackId": "1RQWPaEoYDgsBCALXY5tgL",
-    "name": "Briony",
-    "duration_ms": 104053,
-    "artist": "Dario Marianelli",
-    "artistId": "0s1ec6aPpRZ4DCj15w1EFg",
-    "albumId": "08LLwEtgyMST8wRsKaZiLZ",
-    "release_date": "2007-01-01",
-    "popularity": 39
-  },
-  {
-    "trackId": "2pKi1lRvXNASy7ybeQIDTy",
-    "name": "Anyone Else But You",
-    "duration_ms": 180093,
-    "artist": "The Moldy Peaches",
-    "artistId": "7GGv4mV9JTJK9e7nIzUliU",
-    "albumId": "4FD8WC9s2yohxwVTp9f236",
-    "release_date": "2001-09-11",
-    "popularity": 59
-  },
-  {
-    "trackId": "2S18jhJ8oe1bjxIltaehaO",
-    "name": "The Planets, Op. 32: 6. Uranus, the Magician",
-    "duration_ms": 338333,
-    "artist": "Gustav Holst",
-    "artistId": "5B7uXBeLc2TkR5Jk23qKIZ",
-    "albumId": "7MOYiQcBcdYvqCyopWBj64",
-    "release_date": "1997-01-01",
-    "popularity": 18
-  },
-  {
-    "trackId": "43SR37OKj3Dgc82aHXr6ql",
-    "name": "Little Orc",
-    "duration_ms": 175090,
-    "artist": "Niklas Paschburg",
-    "artistId": "4dTw5svKFBPnfijbi3H9eI",
-    "albumId": "57bDNgzUtAvKaL2wSPnsiF",
-    "release_date": "2020-02-28",
-    "popularity": 34
-  },
-  {
-    "trackId": "2jtcqgynN8o5M6jaABIajA",
-    "name": "Getaway",
-    "duration_ms": 168813,
-    "artist": "Kevin Faye",
-    "artistId": "7H0dyws9JvjtecZazKLNpM",
-    "albumId": "0Bx05U3QGehUMb4YuJfWza",
-    "release_date": "2022-06-10",
-    "popularity": 32
-  },
-  {
-    "trackId": "1ijNH4JCOlLJz7ToxmjUeY",
-    "name": "Wonderchild",
-    "duration_ms": 209186,
-    "artist": "Christian Walz",
-    "artistId": "7HIwOaRr44aOCBZHJSVhLD",
-    "albumId": "3TLGnj4SbJZVesPSOsMto8",
-    "release_date": "2004-05-17",
-    "popularity": 45
-  },
-  {
-    "trackId": "4itBGCTBCeeTJz47dsQqTJ",
-    "name": "Mr Understanding",
-    "duration_ms": 195146,
-    "artist": "Pete And The Pirates",
-    "artistId": "4s80V6BJwBbS1UEbjeQejQ",
-    "albumId": "2zRRifhSFdbzHSqIwKNnyr",
-    "release_date": "2008-02-18",
-    "popularity": 43
-  },
-  {
-    "trackId": "4Dll52TVxAXPcoS0s82Flv",
-    "name": "Grump It",
-    "duration_ms": 240908,
-    "artist": "Xzevious",
-    "artistId": "5wv4kmwCWPMh6HAGb4LvA5",
-    "albumId": "4AKpf8IN3nLMiTOJxGcn9R",
-    "release_date": "2017-02-08",
-    "popularity": 43
-  },
-  {
-    "trackId": "6AEXuVITLfu2DWs2GShILN",
-    "name": "Always Look On the Bright Side of Life (From \"Life of Brian\")",
-    "duration_ms": 202993,
-    "artist": "James Conway",
-    "artistId": "0Qi3cb0sQIqB03JER8U0iI",
-    "albumId": "1qlml7frvK0w04EPpJUvMC",
-    "release_date": "2012-01-01",
-    "popularity": 9
-  },
-  {
-    "trackId": "6FNnQzlwLa8L68jSd7cJeu",
-    "name": "The Conversation",
-    "duration_ms": 209278,
-    "artist": "James Walker",
-    "artistId": "08cmuH6uJGH9dQjvvdkTvR",
-    "albumId": "4YEz8e8CfC9V2YwYVQngF1",
-    "release_date": "2020-11-20",
-    "popularity": 43
-  },
-  {
-    "trackId": "7rjYXp7ZRLpl5KOtnDevVO",
-    "name": "Christmas Eve Montage",
-    "duration_ms": 212263,
-    "artist": "8-Bit Kingdom",
-    "artistId": "2IW9whhQxO88hMpfM3qbI2",
-    "albumId": "7MSdB6Er3Ffu6UdRJxsJ7C",
-    "release_date": "2022-05-06",
-    "popularity": 12
-  },
-  {
-    "trackId": "7MyNaeme4s4l9MfBjRHRe6",
-    "name": "The Electro Suite",
-    "duration_ms": 756106,
-    "artist": "Hans Zimmer",
-    "artistId": "0YC192cP3KPCRWx8zr8MfZ",
-    "albumId": "5CDQad1DaBcIZWTb99FXrb",
-    "release_date": "2014-04-11",
-    "popularity": 46
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/126318",
+  "dob": "1965-03-16",
+  "title": "Ulf Malmros",
+  "date": "2010-07-04",
+  "playlistId": "7iVh6YSlx7puQMYA6nsttN",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3247471_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "1RQWPaEoYDgsBCALXY5tgL",
+      "name": "Briony",
+      "duration_ms": 104053,
+      "artist": [
+        "Dario Marianelli",
+        "Jean-Yves Thibaudet"
+      ],
+      "artistId": [
+        "0s1ec6aPpRZ4DCj15w1EFg",
+        "1Dot4uMsJMx8n1Xi7gAdV6"
+      ],
+      "albumId": "08LLwEtgyMST8wRsKaZiLZ",
+      "release_date": "2007-01-01",
+      "popularity": 39
+    },
+    {
+      "trackId": "2pKi1lRvXNASy7ybeQIDTy",
+      "name": "Anyone Else But You",
+      "duration_ms": 180093,
+      "artist": [
+        "The Moldy Peaches"
+      ],
+      "artistId": [
+        "7GGv4mV9JTJK9e7nIzUliU"
+      ],
+      "albumId": "4FD8WC9s2yohxwVTp9f236",
+      "release_date": "2001-09-11",
+      "popularity": 59
+    },
+    {
+      "trackId": "2S18jhJ8oe1bjxIltaehaO",
+      "name": "The Planets, Op. 32: 6. Uranus, the Magician",
+      "duration_ms": 338333,
+      "artist": [
+        "Gustav Holst",
+        "Los Angeles Philharmonic",
+        "Zubin Mehta"
+      ],
+      "artistId": [
+        "5B7uXBeLc2TkR5Jk23qKIZ",
+        "6yeL5iw4hXNZtd8T7FOoFU",
+        "3FEd0qHPFOgcpfw7bCXB4x"
+      ],
+      "albumId": "7MOYiQcBcdYvqCyopWBj64",
+      "release_date": "1997-01-01",
+      "popularity": 18
+    },
+    {
+      "trackId": "43SR37OKj3Dgc82aHXr6ql",
+      "name": "Little Orc",
+      "duration_ms": 175090,
+      "artist": [
+        "Niklas Paschburg",
+        "Andy Barlow"
+      ],
+      "artistId": [
+        "4dTw5svKFBPnfijbi3H9eI",
+        "6TC2SpVp20fhwV7SAVr56o"
+      ],
+      "albumId": "57bDNgzUtAvKaL2wSPnsiF",
+      "release_date": "2020-02-28",
+      "popularity": 35
+    },
+    {
+      "trackId": "2jtcqgynN8o5M6jaABIajA",
+      "name": "Getaway",
+      "duration_ms": 168813,
+      "artist": [
+        "Kevin Faye"
+      ],
+      "artistId": [
+        "7H0dyws9JvjtecZazKLNpM"
+      ],
+      "albumId": "0Bx05U3QGehUMb4YuJfWza",
+      "release_date": "2022-06-10",
+      "popularity": 32
+    },
+    {
+      "trackId": "1ijNH4JCOlLJz7ToxmjUeY",
+      "name": "Wonderchild",
+      "duration_ms": 209186,
+      "artist": [
+        "Christian Walz"
+      ],
+      "artistId": [
+        "7HIwOaRr44aOCBZHJSVhLD"
+      ],
+      "albumId": "3TLGnj4SbJZVesPSOsMto8",
+      "release_date": "2004-05-17",
+      "popularity": 45
+    },
+    {
+      "trackId": "4itBGCTBCeeTJz47dsQqTJ",
+      "name": "Mr Understanding",
+      "duration_ms": 195146,
+      "artist": [
+        "Pete And The Pirates"
+      ],
+      "artistId": [
+        "4s80V6BJwBbS1UEbjeQejQ"
+      ],
+      "albumId": "2zRRifhSFdbzHSqIwKNnyr",
+      "release_date": "2008-02-18",
+      "popularity": 43
+    },
+    {
+      "trackId": "4Dll52TVxAXPcoS0s82Flv",
+      "name": "Grump It",
+      "duration_ms": 240908,
+      "artist": [
+        "Xzevious"
+      ],
+      "artistId": [
+        "5wv4kmwCWPMh6HAGb4LvA5"
+      ],
+      "albumId": "4AKpf8IN3nLMiTOJxGcn9R",
+      "release_date": "2017-02-08",
+      "popularity": 43
+    },
+    {
+      "trackId": "6AEXuVITLfu2DWs2GShILN",
+      "name": "Always Look On the Bright Side of Life (From \"Life of Brian\")",
+      "duration_ms": 202993,
+      "artist": [
+        "James Conway",
+        "Eric Idle"
+      ],
+      "artistId": [
+        "0Qi3cb0sQIqB03JER8U0iI",
+        "24OqPJZX2KZCVgEOa3d9mF"
+      ],
+      "albumId": "1qlml7frvK0w04EPpJUvMC",
+      "release_date": "2012-01-01",
+      "popularity": 9
+    },
+    {
+      "trackId": "6FNnQzlwLa8L68jSd7cJeu",
+      "name": "The Conversation",
+      "duration_ms": 209278,
+      "artist": [
+        "James Walker"
+      ],
+      "artistId": [
+        "08cmuH6uJGH9dQjvvdkTvR"
+      ],
+      "albumId": "4YEz8e8CfC9V2YwYVQngF1",
+      "release_date": "2020-11-20",
+      "popularity": 43
+    },
+    {
+      "trackId": "7rjYXp7ZRLpl5KOtnDevVO",
+      "name": "Christmas Eve Montage",
+      "duration_ms": 212263,
+      "artist": [
+        "8-Bit Kingdom"
+      ],
+      "artistId": [
+        "2IW9whhQxO88hMpfM3qbI2"
+      ],
+      "albumId": "7MSdB6Er3Ffu6UdRJxsJ7C",
+      "release_date": "2022-05-06",
+      "popularity": 12
+    },
+    {
+      "trackId": "7MyNaeme4s4l9MfBjRHRe6",
+      "name": "The Electro Suite",
+      "duration_ms": 756106,
+      "artist": [
+        "Hans Zimmer",
+        "The Magnificent Six",
+        "Pharrell Williams"
+      ],
+      "artistId": [
+        "0YC192cP3KPCRWx8zr8MfZ",
+        "3TwaH6h6rvgPfzAiDMj0OY",
+        "2RdwBSPQiwcmiDo9kixcl8"
+      ],
+      "albumId": "5CDQad1DaBcIZWTb99FXrb",
+      "release_date": "2014-04-11",
+      "popularity": 46
+    }
+  ]
+}

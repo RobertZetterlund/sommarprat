@@ -1,112 +1,168 @@
-[
-  {
-    "trackId": "2B2h6lG7aepB4Frywhiiae",
-    "name": "Tabula Rasa",
-    "duration_ms": 282013,
-    "artist": "Björk",
-    "artistId": "7w29UYBi0qsHi5RTcv3lmA",
-    "albumId": "2i0mqPNTcaLcmKWSMsE3c8",
-    "release_date": "2017-11-24",
-    "popularity": 30
-  },
-  {
-    "trackId": "2mHchPRtQWet3iIS3jANr1",
-    "name": "God Save The Queen",
-    "duration_ms": 199453,
-    "artist": "Sex Pistols",
-    "artistId": "1u7kkVrr14iBvrpYnZILJR",
-    "albumId": "6ggO3YVhyonYuFWUPBRyIv",
-    "release_date": "1977-10-27",
-    "popularity": 61
-  },
-  {
-    "trackId": "0UDwNkodHmgDIon4qyoXUI",
-    "name": "Face of the Sun",
-    "duration_ms": 209941,
-    "artist": "Shana Cleveland",
-    "artistId": "5E6dR5oDjhT39zr1YuXRq0",
-    "albumId": "1196HqQw7IkC1iU6FfNRMA",
-    "release_date": "2019-04-05",
-    "popularity": 36
-  },
-  {
-    "trackId": "7kC97zPE0PxrcItXyGdk8P",
-    "name": "Paper Thin",
-    "duration_ms": 298720,
-    "artist": "Lianne La Havas",
-    "artistId": "2RP4pPHTXlQpDnO9LvR7Yt",
-    "albumId": "1CqNrKEv2fhF7mudTXrydV",
-    "release_date": "2020-07-17",
-    "popularity": 58
-  },
-  {
-    "trackId": "7JMy73Hh4pNIVuudpUt9u0",
-    "name": "She's a Rainbow",
-    "duration_ms": 224200,
-    "artist": "Lola Marsh",
-    "artistId": "56UIK6wmbbxuQ6VA20vrWD",
-    "albumId": "3XdKBrDSNyDVMcZRhHKj0w",
-    "release_date": "2017-06-09",
-    "popularity": 36
-  },
-  {
-    "trackId": "2OfsNlbQCTlFIikBMj25kF",
-    "name": "Woman Power",
-    "duration_ms": 292213,
-    "artist": "Yoko Ono",
-    "artistId": "2s4tjL6W3qrblOe0raIzwJ",
-    "albumId": "527BiRIBHB60vx2CpX96K0",
-    "release_date": "1973-11-23",
-    "popularity": 8
-  },
-  {
-    "trackId": "0YMFcrMtBowDdD5bPz0cgy",
-    "name": "Talkin' Bout a Revolution",
-    "duration_ms": 161600,
-    "artist": "Tracy Chapman",
-    "artistId": "7oPgCQqMMXEXrNau5vxYZP",
-    "albumId": "6hmmX5UP4rIvOpGSaPerV8",
-    "release_date": "1988-04-05",
-    "popularity": 68
-  },
-  {
-    "trackId": "63jOGArnfrkgDET9TTsee2",
-    "name": "Feeling Good",
-    "duration_ms": 233533,
-    "artist": "My Brightest Diamond",
-    "artistId": "37qXWlhfRvpxmIeTKvfw8B",
-    "albumId": "1ZgPLRwQF58fsgciZl1PO4",
-    "release_date": "2009-02-16",
-    "popularity": 31
-  },
-  {
-    "trackId": "7b2905bQNdxkXxkrzBSK3F",
-    "name": "Woman",
-    "duration_ms": 290501,
-    "artist": "Cat Power",
-    "artistId": "6G7OerKc3eBO9sVkRNopFC",
-    "albumId": "28SMXZ4p2uQGJZJpFXw8em",
-    "release_date": "2018-10-05",
-    "popularity": 42
-  },
-  {
-    "trackId": "3diqzmavbWJdQiIuIbvoWt",
-    "name": "Flatlands",
-    "duration_ms": 240861,
-    "artist": "Chelsea Wolfe",
-    "artistId": "6ZK2nrW8aCTg8Bid7I7N10",
-    "albumId": "6CL2rdgPpUEXwWsNjexAZ5",
-    "release_date": "2012-10-16",
-    "popularity": 50
-  },
-  {
-    "trackId": "6tCLQ3LO1V9l6qdrrwdV6q",
-    "name": "My Silver Lining",
-    "duration_ms": 215493,
-    "artist": "First Aid Kit",
-    "artistId": "21egYD1eInY6bGFcniCRT1",
-    "albumId": "3fVthsmWSbJpGp7gjxf5xI",
-    "release_date": "2014-06-03",
-    "popularity": 61
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/1528260",
+  "dob": null,
+  "title": "Miriam Haley: It takes an enormous amount of courage to speak out",
+  "date": "2020-08-08",
+  "playlistId": "1SFHWiIv9TZl5ufFz9aLzv",
+  "imageurl": "https://static-cdn.sr.se/images/2071/b9d20cb0-8316-4392-ae90-6f12d289e1b7.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "2B2h6lG7aepB4Frywhiiae",
+      "name": "Tabula Rasa",
+      "duration_ms": 282013,
+      "artist": [
+        "Björk",
+        "Arca"
+      ],
+      "artistId": [
+        "7w29UYBi0qsHi5RTcv3lmA",
+        "4SQdUpG4f7UbkJG3cJ2Iyj"
+      ],
+      "albumId": "2i0mqPNTcaLcmKWSMsE3c8",
+      "release_date": "2017-11-24",
+      "popularity": 30
+    },
+    {
+      "trackId": "2mHchPRtQWet3iIS3jANr1",
+      "name": "God Save The Queen",
+      "duration_ms": 199453,
+      "artist": [
+        "Sex Pistols"
+      ],
+      "artistId": [
+        "1u7kkVrr14iBvrpYnZILJR"
+      ],
+      "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+      "release_date": "1977-10-27",
+      "popularity": 61
+    },
+    {
+      "trackId": "0UDwNkodHmgDIon4qyoXUI",
+      "name": "Face of the Sun",
+      "duration_ms": 209941,
+      "artist": [
+        "Shana Cleveland"
+      ],
+      "artistId": [
+        "5E6dR5oDjhT39zr1YuXRq0"
+      ],
+      "albumId": "1196HqQw7IkC1iU6FfNRMA",
+      "release_date": "2019-04-05",
+      "popularity": 36
+    },
+    {
+      "trackId": "7kC97zPE0PxrcItXyGdk8P",
+      "name": "Paper Thin",
+      "duration_ms": 298720,
+      "artist": [
+        "Lianne La Havas"
+      ],
+      "artistId": [
+        "2RP4pPHTXlQpDnO9LvR7Yt"
+      ],
+      "albumId": "1CqNrKEv2fhF7mudTXrydV",
+      "release_date": "2020-07-17",
+      "popularity": 58
+    },
+    {
+      "trackId": "7JMy73Hh4pNIVuudpUt9u0",
+      "name": "She's a Rainbow",
+      "duration_ms": 224200,
+      "artist": [
+        "Lola Marsh"
+      ],
+      "artistId": [
+        "56UIK6wmbbxuQ6VA20vrWD"
+      ],
+      "albumId": "3XdKBrDSNyDVMcZRhHKj0w",
+      "release_date": "2017-06-09",
+      "popularity": 36
+    },
+    {
+      "trackId": "2OfsNlbQCTlFIikBMj25kF",
+      "name": "Woman Power",
+      "duration_ms": 292213,
+      "artist": [
+        "Yoko Ono"
+      ],
+      "artistId": [
+        "2s4tjL6W3qrblOe0raIzwJ"
+      ],
+      "albumId": "527BiRIBHB60vx2CpX96K0",
+      "release_date": "1973-11-23",
+      "popularity": 8
+    },
+    {
+      "trackId": "0YMFcrMtBowDdD5bPz0cgy",
+      "name": "Talkin' Bout a Revolution",
+      "duration_ms": 161600,
+      "artist": [
+        "Tracy Chapman"
+      ],
+      "artistId": [
+        "7oPgCQqMMXEXrNau5vxYZP"
+      ],
+      "albumId": "6hmmX5UP4rIvOpGSaPerV8",
+      "release_date": "1988-04-05",
+      "popularity": 68
+    },
+    {
+      "trackId": "63jOGArnfrkgDET9TTsee2",
+      "name": "Feeling Good",
+      "duration_ms": 233533,
+      "artist": [
+        "My Brightest Diamond"
+      ],
+      "artistId": [
+        "37qXWlhfRvpxmIeTKvfw8B"
+      ],
+      "albumId": "1ZgPLRwQF58fsgciZl1PO4",
+      "release_date": "2009-02-16",
+      "popularity": 31
+    },
+    {
+      "trackId": "7b2905bQNdxkXxkrzBSK3F",
+      "name": "Woman",
+      "duration_ms": 290501,
+      "artist": [
+        "Cat Power",
+        "Lana Del Rey"
+      ],
+      "artistId": [
+        "6G7OerKc3eBO9sVkRNopFC",
+        "00FQb4jTyendYWaN8pK0wa"
+      ],
+      "albumId": "28SMXZ4p2uQGJZJpFXw8em",
+      "release_date": "2018-10-05",
+      "popularity": 42
+    },
+    {
+      "trackId": "3diqzmavbWJdQiIuIbvoWt",
+      "name": "Flatlands",
+      "duration_ms": 240861,
+      "artist": [
+        "Chelsea Wolfe"
+      ],
+      "artistId": [
+        "6ZK2nrW8aCTg8Bid7I7N10"
+      ],
+      "albumId": "6CL2rdgPpUEXwWsNjexAZ5",
+      "release_date": "2012-10-16",
+      "popularity": 50
+    },
+    {
+      "trackId": "6tCLQ3LO1V9l6qdrrwdV6q",
+      "name": "My Silver Lining",
+      "duration_ms": 215493,
+      "artist": [
+        "First Aid Kit"
+      ],
+      "artistId": [
+        "21egYD1eInY6bGFcniCRT1"
+      ],
+      "albumId": "3fVthsmWSbJpGp7gjxf5xI",
+      "release_date": "2014-06-03",
+      "popularity": 61
+    }
+  ]
+}

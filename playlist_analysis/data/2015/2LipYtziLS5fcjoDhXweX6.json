@@ -1,102 +1,156 @@
-[
-  {
-    "trackId": "55VX2nGsYj2ulAYNerp7Fx",
-    "name": "Farväl till släkt och vänner",
-    "duration_ms": 162599,
-    "artist": "Björn Afzelius",
-    "artistId": "0PXQ16KY3iwdfvluCikdn0",
-    "albumId": "1lFg2iF2hsofvNGD6zXfCT",
-    "release_date": "1999-01-01",
-    "popularity": 38
-  },
-  {
-    "trackId": "6K58HP1qJwAFQEbMrhqWSk",
-    "name": "Daring To Love",
-    "duration_ms": 299573,
-    "artist": "Ane Brun",
-    "artistId": "2L3kwZFd16zjHz9a5kEPAm",
-    "albumId": "1bvAlOqMbnWLwTcp65kSAP",
-    "release_date": "2013-10-04",
-    "popularity": 34
-  },
-  {
-    "trackId": "2jOxBccXOMpHTEBKI5ciLJ",
-    "name": "Nærmere Deg Min Gud",
-    "duration_ms": 263601,
-    "artist": "Ole Paus",
-    "artistId": "1ekYDgldjpqKSEzJftWKQB",
-    "albumId": "7wHpTD3GbFZewTtHYW9aw2",
-    "release_date": "1991-05-02",
-    "popularity": 13
-  },
-  {
-    "trackId": "4a1DpzBwZHplQUfr3eVUd3",
-    "name": "Sannheten forsvant",
-    "duration_ms": 295973,
-    "artist": "Jan Erik Vold",
-    "artistId": "6OucQvpvhq1quBilQ7u7fw",
-    "albumId": "5MxCLGDLPlZvfkf8dB9cxW",
-    "release_date": "2005-01-01",
-    "popularity": 0
-  },
-  {
-    "trackId": "2jOxBccXOMpHTEBKI5ciLJ",
-    "name": "Nærmere Deg Min Gud",
-    "duration_ms": 263601,
-    "artist": "Ole Paus",
-    "artistId": "1ekYDgldjpqKSEzJftWKQB",
-    "albumId": "7wHpTD3GbFZewTtHYW9aw2",
-    "release_date": "1991-05-02",
-    "popularity": 13
-  },
-  {
-    "trackId": "6byhjCujcYxChejAjuxy3b",
-    "name": "Suoivva",
-    "duration_ms": 362920,
-    "artist": "Mari Boine",
-    "artistId": "4t4unGD2iYlkONGDmBbkcE",
-    "albumId": "4Ju6cGroR93oZozQjX2bmI",
-    "release_date": "2006-01-01",
-    "popularity": 19
-  },
-  {
-    "trackId": "7Fg4jpwpkdkGCvq1rrXnvx",
-    "name": "Comfortably Numb - 2011 Remastered Version",
-    "duration_ms": 379213,
-    "artist": "Pink Floyd",
-    "artistId": "0k17h0D3J5VfsdmQ1iZtE9",
-    "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
-    "release_date": "1979-11-30",
-    "popularity": 66
-  },
-  {
-    "trackId": "4BLroGG5pTJwGui3vurqql",
-    "name": "Mývatn",
-    "duration_ms": 159000,
-    "artist": "Haltura Arnadottir",
-    "artistId": "61BZeS03ZCGHVYi8gq523e",
-    "albumId": "5yEeoWMXD3Z1GNC6ADnhO6",
-    "release_date": "2022-03-18",
-    "popularity": 52
-  },
-  {
-    "trackId": "3hZct5IXmHti0Xdcni8vfu",
-    "name": "Joga",
-    "duration_ms": 305533,
-    "artist": "Björk Guðmundsdóttir",
-    "artistId": "3HDfNAh4MpiptvaJP9We0w",
-    "albumId": "63lHCog4E73RzcCGEpbrj7",
-    "release_date": "2007-09-28",
-    "popularity": 17
-  },
-  {
-    "trackId": "1Ce6UprQe6t3aAuJq73fSW",
-    "name": "Gracias a la Vida",
-    "duration_ms": 239080,
-    "artist": "Isabel Parra",
-    "artistId": "2aRPBh4HSVPmevvlsCySOt",
-    "albumId": "0N19bDrMu1S7MgaF2q2wb3",
-    "release_date": "2011-03-22",
-    "popularity": 18
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/571820",
+  "dob": "1962-04-27",
+  "title": "Edvard Moser",
+  "date": "2015-07-05",
+  "playlistId": "2LipYtziLS5fcjoDhXweX6",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3529795_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "55VX2nGsYj2ulAYNerp7Fx",
+      "name": "Farväl till släkt och vänner",
+      "duration_ms": 162599,
+      "artist": [
+        "Björn Afzelius"
+      ],
+      "artistId": [
+        "0PXQ16KY3iwdfvluCikdn0"
+      ],
+      "albumId": "1lFg2iF2hsofvNGD6zXfCT",
+      "release_date": "1999-01-01",
+      "popularity": 38
+    },
+    {
+      "trackId": "6K58HP1qJwAFQEbMrhqWSk",
+      "name": "Daring To Love",
+      "duration_ms": 299573,
+      "artist": [
+        "Ane Brun"
+      ],
+      "artistId": [
+        "2L3kwZFd16zjHz9a5kEPAm"
+      ],
+      "albumId": "1bvAlOqMbnWLwTcp65kSAP",
+      "release_date": "2013-10-04",
+      "popularity": 34
+    },
+    {
+      "trackId": "2jOxBccXOMpHTEBKI5ciLJ",
+      "name": "Nærmere Deg Min Gud",
+      "duration_ms": 263601,
+      "artist": [
+        "Ole Paus"
+      ],
+      "artistId": [
+        "1ekYDgldjpqKSEzJftWKQB"
+      ],
+      "albumId": "7wHpTD3GbFZewTtHYW9aw2",
+      "release_date": "1991-05-02",
+      "popularity": 13
+    },
+    {
+      "trackId": "4a1DpzBwZHplQUfr3eVUd3",
+      "name": "Sannheten forsvant",
+      "duration_ms": 295973,
+      "artist": [
+        "Jan Erik Vold",
+        "Frode Alnæs"
+      ],
+      "artistId": [
+        "6OucQvpvhq1quBilQ7u7fw",
+        "10KsOu0AxDLBloCXOeir2P"
+      ],
+      "albumId": "5MxCLGDLPlZvfkf8dB9cxW",
+      "release_date": "2005-01-01",
+      "popularity": 0
+    },
+    {
+      "trackId": "2jOxBccXOMpHTEBKI5ciLJ",
+      "name": "Nærmere Deg Min Gud",
+      "duration_ms": 263601,
+      "artist": [
+        "Ole Paus"
+      ],
+      "artistId": [
+        "1ekYDgldjpqKSEzJftWKQB"
+      ],
+      "albumId": "7wHpTD3GbFZewTtHYW9aw2",
+      "release_date": "1991-05-02",
+      "popularity": 13
+    },
+    {
+      "trackId": "6byhjCujcYxChejAjuxy3b",
+      "name": "Suoivva",
+      "duration_ms": 362920,
+      "artist": [
+        "Mari Boine"
+      ],
+      "artistId": [
+        "4t4unGD2iYlkONGDmBbkcE"
+      ],
+      "albumId": "4Ju6cGroR93oZozQjX2bmI",
+      "release_date": "2006-01-01",
+      "popularity": 19
+    },
+    {
+      "trackId": "7Fg4jpwpkdkGCvq1rrXnvx",
+      "name": "Comfortably Numb - 2011 Remastered Version",
+      "duration_ms": 379213,
+      "artist": [
+        "Pink Floyd"
+      ],
+      "artistId": [
+        "0k17h0D3J5VfsdmQ1iZtE9"
+      ],
+      "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
+      "release_date": "1979-11-30",
+      "popularity": 66
+    },
+    {
+      "trackId": "4BLroGG5pTJwGui3vurqql",
+      "name": "Mývatn",
+      "duration_ms": 159000,
+      "artist": [
+        "Haltura Arnadottir"
+      ],
+      "artistId": [
+        "61BZeS03ZCGHVYi8gq523e"
+      ],
+      "albumId": "5yEeoWMXD3Z1GNC6ADnhO6",
+      "release_date": "2022-03-18",
+      "popularity": 52
+    },
+    {
+      "trackId": "3hZct5IXmHti0Xdcni8vfu",
+      "name": "Joga",
+      "duration_ms": 305533,
+      "artist": [
+        "Björk Guðmundsdóttir",
+        "Sigurjon Birgir Sigurdsson",
+        "Gregorian"
+      ],
+      "artistId": [
+        "3HDfNAh4MpiptvaJP9We0w",
+        "4GW8ZbtKLVUswg0ucdccik",
+        "5QO1NNCLglKxgogzx6XLJn"
+      ],
+      "albumId": "63lHCog4E73RzcCGEpbrj7",
+      "release_date": "2007-09-28",
+      "popularity": 17
+    },
+    {
+      "trackId": "1Ce6UprQe6t3aAuJq73fSW",
+      "name": "Gracias a la Vida",
+      "duration_ms": 239080,
+      "artist": [
+        "Isabel Parra"
+      ],
+      "artistId": [
+        "2aRPBh4HSVPmevvlsCySOt"
+      ],
+      "albumId": "0N19bDrMu1S7MgaF2q2wb3",
+      "release_date": "2011-03-22",
+      "popularity": 18
+    }
+  ]
+}

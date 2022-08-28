@@ -1,82 +1,126 @@
-[
-  {
-    "trackId": "7AYGI7SfoNfDJs2B20wUjS",
-    "name": "Bullfest",
-    "duration_ms": 172440,
-    "artist": "Sigge Fürst",
-    "artistId": "7835xq833eMio3iZsP4vLu",
-    "albumId": "6vB3BKVHCddW6QnOElncZr",
-    "release_date": "2009-09-14",
-    "popularity": 30
-  },
-  {
-    "trackId": "5gtZZga52R9mL53GZD2Rgr",
-    "name": "En gång jag seglar i hamn",
-    "duration_ms": 163733,
-    "artist": "Stig Olin",
-    "artistId": "002Km70IpHm8DmiiFWy6mv",
-    "albumId": "2UCWZMZzb1VdOIyqm1zgj9",
-    "release_date": "2007-04-27",
-    "popularity": 27
-  },
-  {
-    "trackId": "3QHONiXGMGU3z68mQInncF",
-    "name": "I'll Be Missing You (feat. 112)",
-    "duration_ms": 301520,
-    "artist": "Diddy",
-    "artistId": "59wfkuBoNyhDMQGCljbUbA",
-    "albumId": "46JQVqJpOg8opDLUl1qHT1",
-    "release_date": "2004-03-09",
-    "popularity": 71
-  },
-  {
-    "trackId": "7mOfeDExZHCImmcmGYrv3T",
-    "name": "I Need To Wake Up",
-    "duration_ms": 213880,
-    "artist": "Melissa Etheridge",
-    "artistId": "01Ppu7N8uYJI8SAONo2YZA",
-    "albumId": "4KkOtgBFxbOPBshZYEzt0P",
-    "release_date": "2005-10-18",
-    "popularity": 31
-  },
-  {
-    "trackId": "2DpTsOEwX4qGvBBUmfwduK",
-    "name": "Hurricane Country - Havana/Soundtrack Version",
-    "duration_ms": 299533,
-    "artist": "Dave Grusin",
-    "artistId": "0SPkat5bgfP5wo2kbqZIwu",
-    "albumId": "1caA7EbEqowrG82GWhi2O4",
-    "release_date": "1990-01-01",
-    "popularity": 9
-  },
-  {
-    "trackId": "3gjsECEyGpX3DXIFCO407o",
-    "name": "Take The \"A\" Train",
-    "duration_ms": 184186,
-    "artist": "Oscar Peterson",
-    "artistId": "6zkX5fhrSD4tdVOmimR9wB",
-    "albumId": "1pKJpLhilpDIcpVPtyxvMc",
-    "release_date": "1960-02-15",
-    "popularity": 38
-  },
-  {
-    "trackId": "5GyKjgNEyJSQaKXHrtKtZt",
-    "name": "I'm Like A Bird",
-    "duration_ms": 243160,
-    "artist": "Nelly Furtado",
-    "artistId": "2jw70GZXlAI8QzWeY2bgRc",
-    "albumId": "5s7nQXAAXWUZiIkyniCb2T",
-    "release_date": "2022-08-17",
-    "popularity": 1
-  },
-  {
-    "trackId": "1ckU1EhAO0Nr73QYw24SWJ",
-    "name": "My Love Is Your Love",
-    "duration_ms": 261573,
-    "artist": "Whitney Houston",
-    "artistId": "6XpaIBNiVzIetEPCWDvAFP",
-    "albumId": "00NABajpGsPCObfcl4LJsM",
-    "release_date": "1998-11-17",
-    "popularity": 67
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/371363",
+  "dob": "1955-03-22",
+  "title": "Lena Olin",
+  "date": "2007-07-29",
+  "playlistId": "3QjSeW5GbTjIs2oCa1SWHJ",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3257896_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "7AYGI7SfoNfDJs2B20wUjS",
+      "name": "Bullfest",
+      "duration_ms": 172440,
+      "artist": [
+        "Sigge Fürst"
+      ],
+      "artistId": [
+        "7835xq833eMio3iZsP4vLu"
+      ],
+      "albumId": "6vB3BKVHCddW6QnOElncZr",
+      "release_date": "2009-09-14",
+      "popularity": 30
+    },
+    {
+      "trackId": "5gtZZga52R9mL53GZD2Rgr",
+      "name": "En gång jag seglar i hamn",
+      "duration_ms": 163733,
+      "artist": [
+        "Stig Olin"
+      ],
+      "artistId": [
+        "002Km70IpHm8DmiiFWy6mv"
+      ],
+      "albumId": "2UCWZMZzb1VdOIyqm1zgj9",
+      "release_date": "2007-04-27",
+      "popularity": 26
+    },
+    {
+      "trackId": "3QHONiXGMGU3z68mQInncF",
+      "name": "I'll Be Missing You (feat. 112)",
+      "duration_ms": 301520,
+      "artist": [
+        "Diddy",
+        "Faith Evans",
+        "112"
+      ],
+      "artistId": [
+        "59wfkuBoNyhDMQGCljbUbA",
+        "5NDMothbpdpq2xHqSjrrWn",
+        "7urq0VfqxEYEEiZUkebXT4"
+      ],
+      "albumId": "46JQVqJpOg8opDLUl1qHT1",
+      "release_date": "2004-03-09",
+      "popularity": 71
+    },
+    {
+      "trackId": "7mOfeDExZHCImmcmGYrv3T",
+      "name": "I Need To Wake Up",
+      "duration_ms": 213880,
+      "artist": [
+        "Melissa Etheridge"
+      ],
+      "artistId": [
+        "01Ppu7N8uYJI8SAONo2YZA"
+      ],
+      "albumId": "4KkOtgBFxbOPBshZYEzt0P",
+      "release_date": "2005-10-18",
+      "popularity": 31
+    },
+    {
+      "trackId": "2DpTsOEwX4qGvBBUmfwduK",
+      "name": "Hurricane Country - Havana/Soundtrack Version",
+      "duration_ms": 299533,
+      "artist": [
+        "Dave Grusin"
+      ],
+      "artistId": [
+        "0SPkat5bgfP5wo2kbqZIwu"
+      ],
+      "albumId": "1caA7EbEqowrG82GWhi2O4",
+      "release_date": "1990-01-01",
+      "popularity": 9
+    },
+    {
+      "trackId": "3gjsECEyGpX3DXIFCO407o",
+      "name": "Take The \"A\" Train",
+      "duration_ms": 184186,
+      "artist": [
+        "Oscar Peterson"
+      ],
+      "artistId": [
+        "6zkX5fhrSD4tdVOmimR9wB"
+      ],
+      "albumId": "1pKJpLhilpDIcpVPtyxvMc",
+      "release_date": "1960-02-15",
+      "popularity": 38
+    },
+    {
+      "trackId": "5GyKjgNEyJSQaKXHrtKtZt",
+      "name": "I'm Like A Bird",
+      "duration_ms": 243160,
+      "artist": [
+        "Nelly Furtado"
+      ],
+      "artistId": [
+        "2jw70GZXlAI8QzWeY2bgRc"
+      ],
+      "albumId": "5s7nQXAAXWUZiIkyniCb2T",
+      "release_date": "2022-08-17",
+      "popularity": 1
+    },
+    {
+      "trackId": "1ckU1EhAO0Nr73QYw24SWJ",
+      "name": "My Love Is Your Love",
+      "duration_ms": 261573,
+      "artist": [
+        "Whitney Houston"
+      ],
+      "artistId": [
+        "6XpaIBNiVzIetEPCWDvAFP"
+      ],
+      "albumId": "00NABajpGsPCObfcl4LJsM",
+      "release_date": "1998-11-17",
+      "popularity": 67
+    }
+  ]
+}

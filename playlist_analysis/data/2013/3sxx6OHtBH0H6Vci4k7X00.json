@@ -1,112 +1,166 @@
-[
-  {
-    "trackId": "3rZtRBAKCHaZVxMQqXLAPu",
-    "name": "Sommarregn (feat. Hanna Ferm)",
-    "duration_ms": 182515,
-    "artist": "Oskar Häggström",
-    "artistId": "69ZOZoebEshyscvb3HktEf",
-    "albumId": "12SjrFUpHO06Xm2Co5ookK",
-    "release_date": "2022-06-17",
-    "popularity": 56
-  },
-  {
-    "trackId": "1Epl6YPtvoFcFp3Ji76Guq",
-    "name": "Gøy på landet",
-    "duration_ms": 189680,
-    "artist": "The Monn Keys",
-    "artistId": "3Xu833FIgt2nhEI5faEmBW",
-    "albumId": "6uk6S8F1XeS9vJUga9WoZq",
-    "release_date": "2015-09-04",
-    "popularity": 1
-  },
-  {
-    "trackId": "2oolFebKCpPXembIWrYVBV",
-    "name": "I Need - Live from Storan, 2020",
-    "duration_ms": 229851,
-    "artist": "I Am Nova",
-    "artistId": "1PYFWo7UIJQBW441tashW3",
-    "albumId": "5iLf6mu4w1Z1lPjrjjnGav",
-    "release_date": "2020-06-29",
-    "popularity": 1
-  },
-  {
-    "trackId": "0cYYreHEiegzYVOeeGC1e6",
-    "name": "Gloria",
-    "duration_ms": 257146,
-    "artist": "Mando Diao",
-    "artistId": "5I4eibDkC7gg0hmczTZuND",
-    "albumId": "6zKOCrijxfWZZ1ufYqbbF9",
-    "release_date": "2009-02-13",
-    "popularity": 34
-  },
-  {
-    "trackId": "22Bs4bYDCpqVlbeWUsQRNy",
-    "name": "Lyckligare Utan Mig",
-    "duration_ms": 201259,
-    "artist": "Catja Gyllhamn",
-    "artistId": "1mooYOtbZZicE8tUSFuD46",
-    "albumId": "09glgrFc0LUI7oXU4y0s1o",
-    "release_date": "2013-10-07",
-    "popularity": 6
-  },
-  {
-    "trackId": "2YT4egawvuT7Jq17xyyT59",
-    "name": "Positiv (Live)",
-    "duration_ms": 213877,
-    "artist": "Claes Eriksson",
-    "artistId": "6GQQ7OwXXjLqLyV6qUFQt0",
-    "albumId": "5rUw1PUliJMDjgBBGBtFsd",
-    "release_date": "2016-10-14",
-    "popularity": 0
-  },
-  {
-    "trackId": "3spdoTYpuCpmq19tuD0bOe",
-    "name": "My Way",
-    "duration_ms": 276800,
-    "artist": "Frank Sinatra",
-    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
-    "albumId": "3IdNQBn7De23AVyv2V67wn",
-    "release_date": "1969-03",
-    "popularity": 71
-  },
-  {
-    "trackId": "7gybDAR6f9GVls39O1aYT2",
-    "name": "Havanna Mamma",
-    "duration_ms": 232546,
-    "artist": "Veronica Maggio",
-    "artistId": "2OIWxN9xUhgUHkeUCWCaNs",
-    "albumId": "3cj1E5Fhfjmj3nj6BIzrK2",
-    "release_date": "2006-01-01",
-    "popularity": 41
-  },
-  {
-    "trackId": "3slik9WStKlRMguGSyDdCV",
-    "name": "Bed on Fire",
-    "duration_ms": 182093,
-    "artist": "Ralf Gyllenhammar",
-    "artistId": "5y0Utp1nAKHzmezYai73H5",
-    "albumId": "3xSfmnSyINkkC3pcTY1R1j",
-    "release_date": "2013-02-23",
-    "popularity": 33
-  },
-  {
-    "trackId": "1VWeVEgc2rZrg6iWWLxw9Q",
-    "name": "What a Lovely Way",
-    "duration_ms": 239600,
-    "artist": "Doris",
-    "artistId": "4oNCFX4cbl6Jy1VANKiE6A",
-    "albumId": "5ihQ4Gepi7qXFrKqVF5shn",
-    "release_date": "1970",
-    "popularity": 31
-  },
-  {
-    "trackId": "2stkLJ0JNcXkIRDNF3ld6c",
-    "name": "You've Got a Friend in Me - From \"Toy Story\"/Soundtrack Version",
-    "duration_ms": 124160,
-    "artist": "Randy Newman",
-    "artistId": "3HQyFCFFfJO3KKBlUfZsyW",
-    "albumId": "47OFnLtLVi5WrPYNXAwFGh",
-    "release_date": "1995-01-01",
-    "popularity": 70
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/216110",
+  "dob": "1968-05-08",
+  "title": "Annika Andersson",
+  "date": "2013-07-16",
+  "playlistId": "3sxx6OHtBH0H6Vci4k7X00",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2916740_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "3rZtRBAKCHaZVxMQqXLAPu",
+      "name": "Sommarregn (feat. Hanna Ferm)",
+      "duration_ms": 182515,
+      "artist": [
+        "Oskar Häggström",
+        "Hanna Ferm"
+      ],
+      "artistId": [
+        "69ZOZoebEshyscvb3HktEf",
+        "2xQUbkvQFCU8DpdBFbMfLq"
+      ],
+      "albumId": "12SjrFUpHO06Xm2Co5ookK",
+      "release_date": "2022-06-17",
+      "popularity": 56
+    },
+    {
+      "trackId": "1Epl6YPtvoFcFp3Ji76Guq",
+      "name": "Gøy på landet",
+      "duration_ms": 189680,
+      "artist": [
+        "The Monn Keys"
+      ],
+      "artistId": [
+        "3Xu833FIgt2nhEI5faEmBW"
+      ],
+      "albumId": "6uk6S8F1XeS9vJUga9WoZq",
+      "release_date": "2015-09-04",
+      "popularity": 1
+    },
+    {
+      "trackId": "2oolFebKCpPXembIWrYVBV",
+      "name": "I Need - Live from Storan, 2020",
+      "duration_ms": 229851,
+      "artist": [
+        "I Am Nova"
+      ],
+      "artistId": [
+        "1PYFWo7UIJQBW441tashW3"
+      ],
+      "albumId": "5iLf6mu4w1Z1lPjrjjnGav",
+      "release_date": "2020-06-29",
+      "popularity": 1
+    },
+    {
+      "trackId": "0cYYreHEiegzYVOeeGC1e6",
+      "name": "Gloria",
+      "duration_ms": 257146,
+      "artist": [
+        "Mando Diao"
+      ],
+      "artistId": [
+        "5I4eibDkC7gg0hmczTZuND"
+      ],
+      "albumId": "6zKOCrijxfWZZ1ufYqbbF9",
+      "release_date": "2009-02-13",
+      "popularity": 34
+    },
+    {
+      "trackId": "22Bs4bYDCpqVlbeWUsQRNy",
+      "name": "Lyckligare Utan Mig",
+      "duration_ms": 201259,
+      "artist": [
+        "Catja Gyllhamn"
+      ],
+      "artistId": [
+        "1mooYOtbZZicE8tUSFuD46"
+      ],
+      "albumId": "09glgrFc0LUI7oXU4y0s1o",
+      "release_date": "2013-10-07",
+      "popularity": 6
+    },
+    {
+      "trackId": "2YT4egawvuT7Jq17xyyT59",
+      "name": "Positiv (Live)",
+      "duration_ms": 213877,
+      "artist": [
+        "Claes Eriksson"
+      ],
+      "artistId": [
+        "6GQQ7OwXXjLqLyV6qUFQt0"
+      ],
+      "albumId": "5rUw1PUliJMDjgBBGBtFsd",
+      "release_date": "2016-10-14",
+      "popularity": 0
+    },
+    {
+      "trackId": "3spdoTYpuCpmq19tuD0bOe",
+      "name": "My Way",
+      "duration_ms": 276800,
+      "artist": [
+        "Frank Sinatra"
+      ],
+      "artistId": [
+        "1Mxqyy3pSjf8kZZL4QVxS0"
+      ],
+      "albumId": "3IdNQBn7De23AVyv2V67wn",
+      "release_date": "1969-03",
+      "popularity": 71
+    },
+    {
+      "trackId": "7gybDAR6f9GVls39O1aYT2",
+      "name": "Havanna Mamma",
+      "duration_ms": 232546,
+      "artist": [
+        "Veronica Maggio"
+      ],
+      "artistId": [
+        "2OIWxN9xUhgUHkeUCWCaNs"
+      ],
+      "albumId": "3cj1E5Fhfjmj3nj6BIzrK2",
+      "release_date": "2006-01-01",
+      "popularity": 41
+    },
+    {
+      "trackId": "3slik9WStKlRMguGSyDdCV",
+      "name": "Bed on Fire",
+      "duration_ms": 182093,
+      "artist": [
+        "Ralf Gyllenhammar"
+      ],
+      "artistId": [
+        "5y0Utp1nAKHzmezYai73H5"
+      ],
+      "albumId": "3xSfmnSyINkkC3pcTY1R1j",
+      "release_date": "2013-02-23",
+      "popularity": 33
+    },
+    {
+      "trackId": "1VWeVEgc2rZrg6iWWLxw9Q",
+      "name": "What a Lovely Way",
+      "duration_ms": 239600,
+      "artist": [
+        "Doris"
+      ],
+      "artistId": [
+        "4oNCFX4cbl6Jy1VANKiE6A"
+      ],
+      "albumId": "5ihQ4Gepi7qXFrKqVF5shn",
+      "release_date": "1970",
+      "popularity": 31
+    },
+    {
+      "trackId": "2stkLJ0JNcXkIRDNF3ld6c",
+      "name": "You've Got a Friend in Me - From \"Toy Story\"/Soundtrack Version",
+      "duration_ms": 124160,
+      "artist": [
+        "Randy Newman"
+      ],
+      "artistId": [
+        "3HQyFCFFfJO3KKBlUfZsyW"
+      ],
+      "albumId": "47OFnLtLVi5WrPYNXAwFGh",
+      "release_date": "1995-01-01",
+      "popularity": 70
+    }
+  ]
+}

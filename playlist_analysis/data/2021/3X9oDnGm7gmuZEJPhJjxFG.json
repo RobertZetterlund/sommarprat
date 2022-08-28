@@ -1,112 +1,164 @@
-[
-  {
-    "trackId": "5moTxUGPZXgGmosl4rIELm",
-    "name": "Anarchy In The UK",
-    "duration_ms": 212480,
-    "artist": "Sex Pistols",
-    "artistId": "1u7kkVrr14iBvrpYnZILJR",
-    "albumId": "6ggO3YVhyonYuFWUPBRyIv",
-    "release_date": "1977-10-27",
-    "popularity": 61
-  },
-  {
-    "trackId": "7Di7t9yGoxdZRLAt5a4pi0",
-    "name": "Manic Monday",
-    "duration_ms": 184173,
-    "artist": "The Bangles",
-    "artistId": "51l0uqRxGaczYr4271pVIC",
-    "albumId": "2ta5ItEJ00a6xgQ601xgSd",
-    "release_date": "1985-07-11",
-    "popularity": 62
-  },
-  {
-    "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
-    "name": "Öppna landskap",
-    "duration_ms": 278333,
-    "artist": "Ulf Lundell",
-    "artistId": "5kFHS4mQd9W0r7qDp8ec9A",
-    "albumId": "7aB0bPRv2elnc0Ou1whaty",
-    "release_date": "1995",
-    "popularity": 49
-  },
-  {
-    "trackId": "2sivyXtmROPRlmieYt7Wts",
-    "name": "Endless Sadness",
-    "duration_ms": 197066,
-    "artist": "Sarah Klang",
-    "artistId": "6Pm0evhKSUGTGYDxzpGGKf",
-    "albumId": "5e26QF3aOhsWDXRfkMRhnT",
-    "release_date": "2019-10-25",
-    "popularity": 39
-  },
-  {
-    "trackId": "2mtZZ8vWbyWbICYokuqHut",
-    "name": "Big Picture",
-    "duration_ms": 281773,
-    "artist": "London Grammar",
-    "artistId": "3Bd1cgCjtCI32PYvDC3ynO",
-    "albumId": "6Rp9IG10sFNDKa7EE6tjJp",
-    "release_date": "2017-06-09",
-    "popularity": 45
-  },
-  {
-    "trackId": "2fXKyAyPrEa24c6PJyqznF",
-    "name": "Common People",
-    "duration_ms": 351626,
-    "artist": "Pulp",
-    "artistId": "36E7oYfz3LLRto6l2WmDcD",
-    "albumId": "3ly9T2L4pqTZijFgQssd3x",
-    "release_date": "1995-10-30",
-    "popularity": 70
-  },
-  {
-    "trackId": "7K9hxoenkUNJlZc5itu37d",
-    "name": "The Times They are a-Changin'",
-    "duration_ms": 220320,
-    "artist": "Bryan Ferry",
-    "artistId": "5RNFFojXkPRmlJZIwXeKQC",
-    "albumId": "7J4n1iPFkVIWK2zUAEvRui",
-    "release_date": "2007-03-05",
-    "popularity": 42
-  },
-  {
-    "trackId": "2jaN6NgXflZTj2z9CWcqaP",
-    "name": "Time Is On My Side - Mono Version",
-    "duration_ms": 179133,
-    "artist": "The Rolling Stones",
-    "artistId": "22bE4uQ6baNwSHPVcDxLCe",
-    "albumId": "0MDhZ0yRkugNEg7PmMMUE8",
-    "release_date": "1965-01-15",
-    "popularity": 50
-  },
-  {
-    "trackId": "5M2y8QdDepGYMsWyxhoxQU",
-    "name": "Jag kommer",
-    "duration_ms": 202746,
-    "artist": "Veronica Maggio",
-    "artistId": "2OIWxN9xUhgUHkeUCWCaNs",
-    "albumId": "2fOs6I0CgvaZj9agU8EAlH",
-    "release_date": "2011-01-01",
-    "popularity": 62
-  },
-  {
-    "trackId": "1l2Xmg54EUr3TDzNIaCr1z",
-    "name": "Coat of Many Colors",
-    "duration_ms": 183666,
-    "artist": "Dolly Parton",
-    "artistId": "32vWCbZh0xZ4o9gkz4PsEU",
-    "albumId": "17CT6ru3CyDXAi6xVaSUzg",
-    "release_date": "1971",
-    "popularity": 58
-  },
-  {
-    "trackId": "7e0pwQZAAsOu19flOJXyCK",
-    "name": "Still",
-    "duration_ms": 173209,
-    "artist": "Seinabo Sey",
-    "artistId": "4X0v8sFoDZ6rIfkeOeVm2i",
-    "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
-    "release_date": "2015-10-23",
-    "popularity": 53
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/1740723",
+  "dob": "1954-02-02",
+  "title": "Ingmar Skoog",
+  "date": "2021-08-02",
+  "playlistId": "3X9oDnGm7gmuZEJPhJjxFG",
+  "imageurl": "https://static-cdn.sr.se/images/2071/faa65df3-803e-420b-bb01-a6762812c49c.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "5moTxUGPZXgGmosl4rIELm",
+      "name": "Anarchy In The UK",
+      "duration_ms": 212480,
+      "artist": [
+        "Sex Pistols"
+      ],
+      "artistId": [
+        "1u7kkVrr14iBvrpYnZILJR"
+      ],
+      "albumId": "6ggO3YVhyonYuFWUPBRyIv",
+      "release_date": "1977-10-27",
+      "popularity": 61
+    },
+    {
+      "trackId": "7Di7t9yGoxdZRLAt5a4pi0",
+      "name": "Manic Monday",
+      "duration_ms": 184173,
+      "artist": [
+        "The Bangles"
+      ],
+      "artistId": [
+        "51l0uqRxGaczYr4271pVIC"
+      ],
+      "albumId": "2ta5ItEJ00a6xgQ601xgSd",
+      "release_date": "1985-07-11",
+      "popularity": 62
+    },
+    {
+      "trackId": "1WVjxyTSZ5UiI6TlcHyUPh",
+      "name": "Öppna landskap",
+      "duration_ms": 278333,
+      "artist": [
+        "Ulf Lundell"
+      ],
+      "artistId": [
+        "5kFHS4mQd9W0r7qDp8ec9A"
+      ],
+      "albumId": "7aB0bPRv2elnc0Ou1whaty",
+      "release_date": "1995",
+      "popularity": 49
+    },
+    {
+      "trackId": "2sivyXtmROPRlmieYt7Wts",
+      "name": "Endless Sadness",
+      "duration_ms": 197066,
+      "artist": [
+        "Sarah Klang"
+      ],
+      "artistId": [
+        "6Pm0evhKSUGTGYDxzpGGKf"
+      ],
+      "albumId": "5e26QF3aOhsWDXRfkMRhnT",
+      "release_date": "2019-10-25",
+      "popularity": 39
+    },
+    {
+      "trackId": "2mtZZ8vWbyWbICYokuqHut",
+      "name": "Big Picture",
+      "duration_ms": 281773,
+      "artist": [
+        "London Grammar"
+      ],
+      "artistId": [
+        "3Bd1cgCjtCI32PYvDC3ynO"
+      ],
+      "albumId": "6Rp9IG10sFNDKa7EE6tjJp",
+      "release_date": "2017-06-09",
+      "popularity": 45
+    },
+    {
+      "trackId": "2fXKyAyPrEa24c6PJyqznF",
+      "name": "Common People",
+      "duration_ms": 351626,
+      "artist": [
+        "Pulp"
+      ],
+      "artistId": [
+        "36E7oYfz3LLRto6l2WmDcD"
+      ],
+      "albumId": "3ly9T2L4pqTZijFgQssd3x",
+      "release_date": "1995-10-30",
+      "popularity": 70
+    },
+    {
+      "trackId": "7K9hxoenkUNJlZc5itu37d",
+      "name": "The Times They are a-Changin'",
+      "duration_ms": 220320,
+      "artist": [
+        "Bryan Ferry"
+      ],
+      "artistId": [
+        "5RNFFojXkPRmlJZIwXeKQC"
+      ],
+      "albumId": "7J4n1iPFkVIWK2zUAEvRui",
+      "release_date": "2007-03-05",
+      "popularity": 42
+    },
+    {
+      "trackId": "2jaN6NgXflZTj2z9CWcqaP",
+      "name": "Time Is On My Side - Mono Version",
+      "duration_ms": 179133,
+      "artist": [
+        "The Rolling Stones"
+      ],
+      "artistId": [
+        "22bE4uQ6baNwSHPVcDxLCe"
+      ],
+      "albumId": "0MDhZ0yRkugNEg7PmMMUE8",
+      "release_date": "1965-01-15",
+      "popularity": 50
+    },
+    {
+      "trackId": "5M2y8QdDepGYMsWyxhoxQU",
+      "name": "Jag kommer",
+      "duration_ms": 202746,
+      "artist": [
+        "Veronica Maggio"
+      ],
+      "artistId": [
+        "2OIWxN9xUhgUHkeUCWCaNs"
+      ],
+      "albumId": "2fOs6I0CgvaZj9agU8EAlH",
+      "release_date": "2011-01-01",
+      "popularity": 62
+    },
+    {
+      "trackId": "1l2Xmg54EUr3TDzNIaCr1z",
+      "name": "Coat of Many Colors",
+      "duration_ms": 183666,
+      "artist": [
+        "Dolly Parton"
+      ],
+      "artistId": [
+        "32vWCbZh0xZ4o9gkz4PsEU"
+      ],
+      "albumId": "17CT6ru3CyDXAi6xVaSUzg",
+      "release_date": "1971",
+      "popularity": 58
+    },
+    {
+      "trackId": "7e0pwQZAAsOu19flOJXyCK",
+      "name": "Still",
+      "duration_ms": 173209,
+      "artist": [
+        "Seinabo Sey"
+      ],
+      "artistId": [
+        "4X0v8sFoDZ6rIfkeOeVm2i"
+      ],
+      "albumId": "7g2ZA4JCgG8Jxr67i23xlz",
+      "release_date": "2015-10-23",
+      "popularity": 53
+    }
+  ]
+}

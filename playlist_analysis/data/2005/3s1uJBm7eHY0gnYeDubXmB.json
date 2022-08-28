@@ -1,102 +1,154 @@
-[
-  {
-    "trackId": "7CSqXIbvxCv1wtYvm4RWpJ",
-    "name": "Nånting, kanske stjärnorna",
-    "duration_ms": 243649,
-    "artist": "Lars Winnerbäck",
-    "artistId": "33zLgL7tT1vg7eRpWYX5uI",
-    "albumId": "5fWPwAePaHcvQB3ZEHOGv1",
-    "release_date": "2022-04-29",
-    "popularity": 49
-  },
-  {
-    "trackId": "5CW96C88BaJm1A4wv8UJlF",
-    "name": "VÄRMLAND",
-    "duration_ms": 291328,
-    "artist": "Bengt Nilsson",
-    "artistId": "4HIU8YIiY8lDjPBOgE6NeT",
-    "albumId": "2eTiqCEmv363axgMbJKW3T",
-    "release_date": "2021-05-19",
-    "popularity": 32
-  },
-  {
-    "trackId": "5dXdy6YR6lxxC3GxBZcRWv",
-    "name": "Turistens klagan",
-    "duration_ms": 200400,
-    "artist": "Cornelis Vreeswijk",
-    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
-    "albumId": "10znRN0s0flCvHfoSYPUzA",
-    "release_date": "1980",
-    "popularity": 48
-  },
-  {
-    "trackId": "34xuRIIowokjJZlOgjXpK0",
-    "name": "Lars telefonsamtal till polisen",
-    "duration_ms": 99615,
-    "artist": "C.A. Sven",
-    "artistId": "4OuZ1fKK3EL8XV7fd3uYdO",
-    "albumId": "6335kBW02AphoipWYLR9uk",
-    "release_date": "2019-07-02",
-    "popularity": 12
-  },
-  {
-    "trackId": "1H7gMYGykdtwZOV6s1N0by",
-    "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
-    "duration_ms": 124693,
-    "artist": "The Beatles",
-    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
-    "albumId": "50o7kf2wLwVmOTVYJOTplm",
-    "release_date": "1965-12-03",
-    "popularity": 67
-  },
-  {
-    "trackId": "2JvLy4Sn0HHPMDY3zAx3nE",
-    "name": "Evening's peace",
-    "duration_ms": 205750,
-    "artist": "Ann Windsor",
-    "artistId": "0v2xcXKJMnxbrBP3d83evx",
-    "albumId": "6ejJZyYDesDEeTmnKbwj41",
-    "release_date": "2020-03-20",
-    "popularity": 51
-  },
-  {
-    "trackId": "60qI4JK5U6D00yxC9TNH83",
-    "name": "Just Like A Woman",
-    "duration_ms": 312800,
-    "artist": "Radka Toneff",
-    "artistId": "4zUpW8OD0YnE6hRmdVv1Go",
-    "albumId": "2EHAqPVIc3KQ5PNMflpeO6",
-    "release_date": "2003-01-01",
-    "popularity": 10
-  },
-  {
-    "trackId": "1JAmR8MCymhrY4HWN86Ja3",
-    "name": "Hei Knut (Hey Jude)",
-    "duration_ms": 228093,
-    "artist": "Ballade",
-    "artistId": "0KJlqwzmZcihJkJQ7nfOGt",
-    "albumId": "2sVspgnw5m2GgLIWU8t2HN",
-    "release_date": "2011-01-01",
-    "popularity": 0
-  },
-  {
-    "trackId": "1PviTmzVeiYdeHzhW3oGnS",
-    "name": "Fares Odeh",
-    "duration_ms": 357041,
-    "artist": "Rim Banna",
-    "artistId": "3SODNDWMaRom0EVBbS1bqO",
-    "albumId": "62EjI0CJJhsooZ1LXscToy",
-    "release_date": "2005-01-27",
-    "popularity": 14
-  },
-  {
-    "trackId": "0MGsmLjCtcSye47RvZWhpq",
-    "name": "Mysteriet deg (feat. Lisa Nilsson)",
-    "duration_ms": 241000,
-    "artist": "Bjørn Eidsvåg",
-    "artistId": "11Vny8qHe4KR50ZIjhz7sz",
-    "albumId": "5AIIeHfqDMUBqLCXZbiWKT",
-    "release_date": "2002-04-01",
-    "popularity": 42
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/359817",
+  "dob": "1951-04-26",
+  "title": "Tor Bomann-Larsen",
+  "date": "2005-07-19",
+  "playlistId": "3s1uJBm7eHY0gnYeDubXmB",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3233989_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "7CSqXIbvxCv1wtYvm4RWpJ",
+      "name": "Nånting, kanske stjärnorna",
+      "duration_ms": 243649,
+      "artist": [
+        "Lars Winnerbäck"
+      ],
+      "artistId": [
+        "33zLgL7tT1vg7eRpWYX5uI"
+      ],
+      "albumId": "5fWPwAePaHcvQB3ZEHOGv1",
+      "release_date": "2022-04-29",
+      "popularity": 49
+    },
+    {
+      "trackId": "5CW96C88BaJm1A4wv8UJlF",
+      "name": "VÄRMLAND",
+      "duration_ms": 291328,
+      "artist": [
+        "Bengt Nilsson",
+        "Fredrik Nordh"
+      ],
+      "artistId": [
+        "4HIU8YIiY8lDjPBOgE6NeT",
+        "4rNeaOmi0vavqVFPLyJiGI"
+      ],
+      "albumId": "2eTiqCEmv363axgMbJKW3T",
+      "release_date": "2021-05-19",
+      "popularity": 32
+    },
+    {
+      "trackId": "5dXdy6YR6lxxC3GxBZcRWv",
+      "name": "Turistens klagan",
+      "duration_ms": 200400,
+      "artist": [
+        "Cornelis Vreeswijk"
+      ],
+      "artistId": [
+        "5B38ZGYpd0msq1LKOyz2r9"
+      ],
+      "albumId": "10znRN0s0flCvHfoSYPUzA",
+      "release_date": "1980",
+      "popularity": 48
+    },
+    {
+      "trackId": "34xuRIIowokjJZlOgjXpK0",
+      "name": "Lars telefonsamtal till polisen",
+      "duration_ms": 99615,
+      "artist": [
+        "C.A. Sven"
+      ],
+      "artistId": [
+        "4OuZ1fKK3EL8XV7fd3uYdO"
+      ],
+      "albumId": "6335kBW02AphoipWYLR9uk",
+      "release_date": "2019-07-02",
+      "popularity": 12
+    },
+    {
+      "trackId": "1H7gMYGykdtwZOV6s1N0by",
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+      "duration_ms": 124693,
+      "artist": [
+        "The Beatles"
+      ],
+      "artistId": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+      ],
+      "albumId": "50o7kf2wLwVmOTVYJOTplm",
+      "release_date": "1965-12-03",
+      "popularity": 67
+    },
+    {
+      "trackId": "2JvLy4Sn0HHPMDY3zAx3nE",
+      "name": "Evening's peace",
+      "duration_ms": 205750,
+      "artist": [
+        "Ann Windsor"
+      ],
+      "artistId": [
+        "0v2xcXKJMnxbrBP3d83evx"
+      ],
+      "albumId": "6ejJZyYDesDEeTmnKbwj41",
+      "release_date": "2020-03-20",
+      "popularity": 51
+    },
+    {
+      "trackId": "60qI4JK5U6D00yxC9TNH83",
+      "name": "Just Like A Woman",
+      "duration_ms": 312800,
+      "artist": [
+        "Radka Toneff"
+      ],
+      "artistId": [
+        "4zUpW8OD0YnE6hRmdVv1Go"
+      ],
+      "albumId": "2EHAqPVIc3KQ5PNMflpeO6",
+      "release_date": "2003-01-01",
+      "popularity": 10
+    },
+    {
+      "trackId": "1JAmR8MCymhrY4HWN86Ja3",
+      "name": "Hei Knut (Hey Jude)",
+      "duration_ms": 228093,
+      "artist": [
+        "Ballade"
+      ],
+      "artistId": [
+        "0KJlqwzmZcihJkJQ7nfOGt"
+      ],
+      "albumId": "2sVspgnw5m2GgLIWU8t2HN",
+      "release_date": "2011-01-01",
+      "popularity": 0
+    },
+    {
+      "trackId": "1PviTmzVeiYdeHzhW3oGnS",
+      "name": "Fares Odeh",
+      "duration_ms": 357041,
+      "artist": [
+        "Rim Banna"
+      ],
+      "artistId": [
+        "3SODNDWMaRom0EVBbS1bqO"
+      ],
+      "albumId": "62EjI0CJJhsooZ1LXscToy",
+      "release_date": "2005-01-27",
+      "popularity": 14
+    },
+    {
+      "trackId": "0MGsmLjCtcSye47RvZWhpq",
+      "name": "Mysteriet deg (feat. Lisa Nilsson)",
+      "duration_ms": 241000,
+      "artist": [
+        "Bjørn Eidsvåg",
+        "Lisa Nilsson"
+      ],
+      "artistId": [
+        "11Vny8qHe4KR50ZIjhz7sz",
+        "68QvqbdqwqqjW39YpUJHdG"
+      ],
+      "albumId": "5AIIeHfqDMUBqLCXZbiWKT",
+      "release_date": "2002-04-01",
+      "popularity": 42
+    }
+  ]
+}

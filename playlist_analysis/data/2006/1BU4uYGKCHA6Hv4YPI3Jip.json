@@ -1,112 +1,176 @@
-[
-  {
-    "trackId": "0BVCQAHQv1qglH3FZoplmi",
-    "name": "Are You Ready",
-    "duration_ms": 210866,
-    "artist": "Annette Lindwall",
-    "artistId": "5XkQwrTmNsWSa0vlYxsl7Q",
-    "albumId": "1BipkdQ0Y3vLCTWjkUPvjn",
-    "release_date": "1995-01-01",
-    "popularity": 0
-  },
-  {
-    "trackId": "3cDcwmM6ft2MHkXR4po7es",
-    "name": "Grovhalling",
-    "duration_ms": 167666,
-    "artist": "Hoven Droven",
-    "artistId": "5ZHGv6J6F5fCfwpzndPYVM",
-    "albumId": "5JZwQp2RCMVIznaItk9TBg",
-    "release_date": "1996-01-01",
-    "popularity": 6
-  },
-  {
-    "trackId": "5RvTEonM1E3Gl7nRMriCc2",
-    "name": "I am a Vamp!",
-    "duration_ms": 240400,
-    "artist": "Mischa Spoliansky",
-    "artistId": "5quQGOsfurOeuoG2poNT2e",
-    "albumId": "1iBaQI3CY0bz3Ftj441sBz",
-    "release_date": "1996-12-02",
-    "popularity": 5
-  },
-  {
-    "trackId": "2qW7fJCv6SKjlS9gaLFjn9",
-    "name": "Carmen: Act II: Les tringles des sistres tintaient",
-    "duration_ms": 272933,
-    "artist": "Georges Bizet",
-    "artistId": "2D7RkvtKKb6E5UmbjQM1Jd",
-    "albumId": "5hAuU4wezmJ6PRr9RNciZE",
-    "release_date": "2008",
-    "popularity": 3
-  },
-  {
-    "trackId": "7r3KzVwHtr2iMZtqJvFn9A",
-    "name": "As",
-    "duration_ms": 282040,
-    "artist": "George Michael",
-    "artistId": "19ra5tSw0tWufvUp8GotLo",
-    "albumId": "3coLNlyStg9h7f8CZ103Rl",
-    "release_date": "1998-11-09",
-    "popularity": 60
-  },
-  {
-    "trackId": "6A9OKek5PIn8IEy9dGkNzG",
-    "name": "Sorry Seems To Be The Hardest Word",
-    "duration_ms": 239272,
-    "artist": "Ray Charles",
-    "artistId": "1eYhYunlNJlDoQhtYBvPsi",
-    "albumId": "3CwGxaRLRyEw6OiSbVhdRE",
-    "release_date": "2004-08-31",
-    "popularity": 42
-  },
-  {
-    "trackId": "5Z1N81meyywgxz4nYyWYyz",
-    "name": "Angel Eyes",
-    "duration_ms": 210066,
-    "artist": "Ella Fitzgerald",
-    "artistId": "5V0MlUE1Bft0mbLlND7FJz",
-    "albumId": "0ilfXIUUDSNyPnX4kdyE6z",
-    "release_date": "1997-11-04",
-    "popularity": 14
-  },
-  {
-    "trackId": "4DqXylovNpwoJuIwGxtegd",
-    "name": "Stone Me Into The Groove",
-    "duration_ms": 243160,
-    "artist": "Atomic Swing",
-    "artistId": "7BJ4OeS4NgyI4M87ZijwBI",
-    "albumId": "4fxwlNV8xdAtIjvBhkn0bQ",
-    "release_date": "1993-01-01",
-    "popularity": 38
-  },
-  {
-    "trackId": "56CU4eIVqFrnGIfqO95mVV",
-    "name": "Till Love Touches Your Life",
-    "duration_ms": 225026,
-    "artist": "Shirley Bassey",
-    "artistId": "090VebphoycdEyH165iMqc",
-    "albumId": "5aoxGBTOftx2uzyWGRKtxL",
-    "release_date": "1994",
-    "popularity": 1
-  },
-  {
-    "trackId": "0Phx8Faea2XGf6XSIxCcqA",
-    "name": "Alech Taadi",
-    "duration_ms": 248573,
-    "artist": "Khaled",
-    "artistId": "28ztjHIXceRRntmTUfnmUX",
-    "albumId": "7JiTkfgNZqx6TSfVfLBpAJ",
-    "release_date": "1993-01-01",
-    "popularity": 32
-  },
-  {
-    "trackId": "38QzEJO9MBF8dgZ3HWoiOv",
-    "name": "Child of Paradise",
-    "duration_ms": 198866,
-    "artist": "Hanne Boel",
-    "artistId": "63Fx3pGfBPY8iKByqXEbIg",
-    "albumId": "46eLDQkXjosjaVp6S1aCvU",
-    "release_date": "1994-01-01",
-    "popularity": 15
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/363426",
+  "dob": "1965-10-29",
+  "title": "Maria Möller",
+  "date": "2006-07-09",
+  "playlistId": "1BU4uYGKCHA6Hv4YPI3Jip",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3241306_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "0BVCQAHQv1qglH3FZoplmi",
+      "name": "Are You Ready",
+      "duration_ms": 210866,
+      "artist": [
+        "Annette Lindwall"
+      ],
+      "artistId": [
+        "5XkQwrTmNsWSa0vlYxsl7Q"
+      ],
+      "albumId": "1BipkdQ0Y3vLCTWjkUPvjn",
+      "release_date": "1995-01-01",
+      "popularity": 0
+    },
+    {
+      "trackId": "3cDcwmM6ft2MHkXR4po7es",
+      "name": "Grovhalling",
+      "duration_ms": 167666,
+      "artist": [
+        "Hoven Droven"
+      ],
+      "artistId": [
+        "5ZHGv6J6F5fCfwpzndPYVM"
+      ],
+      "albumId": "5JZwQp2RCMVIznaItk9TBg",
+      "release_date": "1996-01-01",
+      "popularity": 6
+    },
+    {
+      "trackId": "5RvTEonM1E3Gl7nRMriCc2",
+      "name": "I am a Vamp!",
+      "duration_ms": 240400,
+      "artist": [
+        "Mischa Spoliansky",
+        "Jeff Cohen",
+        "Robert Ziegler"
+      ],
+      "artistId": [
+        "5quQGOsfurOeuoG2poNT2e",
+        "0fP1BVjhyS1iG80dJNGJdO",
+        "6c3mMiMnHQtu4mGWN87CFx"
+      ],
+      "albumId": "1iBaQI3CY0bz3Ftj441sBz",
+      "release_date": "1996-12-02",
+      "popularity": 5
+    },
+    {
+      "trackId": "2qW7fJCv6SKjlS9gaLFjn9",
+      "name": "Carmen: Act II: Les tringles des sistres tintaient",
+      "duration_ms": 272933,
+      "artist": [
+        "Georges Bizet",
+        "Leontyne Price",
+        "Franco Corelli"
+      ],
+      "artistId": [
+        "2D7RkvtKKb6E5UmbjQM1Jd",
+        "3Qh7r2c4JWTmRLH3swU9dC",
+        "6HAAe1mGrjKyUI1eG1DQy7"
+      ],
+      "albumId": "5hAuU4wezmJ6PRr9RNciZE",
+      "release_date": "2008",
+      "popularity": 3
+    },
+    {
+      "trackId": "7r3KzVwHtr2iMZtqJvFn9A",
+      "name": "As",
+      "duration_ms": 282040,
+      "artist": [
+        "George Michael",
+        "Mary J. Blige"
+      ],
+      "artistId": [
+        "19ra5tSw0tWufvUp8GotLo",
+        "1XkoF8ryArs86LZvFOkbyr"
+      ],
+      "albumId": "3coLNlyStg9h7f8CZ103Rl",
+      "release_date": "1998-11-09",
+      "popularity": 60
+    },
+    {
+      "trackId": "6A9OKek5PIn8IEy9dGkNzG",
+      "name": "Sorry Seems To Be The Hardest Word",
+      "duration_ms": 239272,
+      "artist": [
+        "Ray Charles",
+        "Elton John"
+      ],
+      "artistId": [
+        "1eYhYunlNJlDoQhtYBvPsi",
+        "3PhoLpVuITZKcymswpck5b"
+      ],
+      "albumId": "3CwGxaRLRyEw6OiSbVhdRE",
+      "release_date": "2004-08-31",
+      "popularity": 42
+    },
+    {
+      "trackId": "5Z1N81meyywgxz4nYyWYyz",
+      "name": "Angel Eyes",
+      "duration_ms": 210066,
+      "artist": [
+        "Ella Fitzgerald"
+      ],
+      "artistId": [
+        "5V0MlUE1Bft0mbLlND7FJz"
+      ],
+      "albumId": "0ilfXIUUDSNyPnX4kdyE6z",
+      "release_date": "1997-11-04",
+      "popularity": 14
+    },
+    {
+      "trackId": "4DqXylovNpwoJuIwGxtegd",
+      "name": "Stone Me Into The Groove",
+      "duration_ms": 243160,
+      "artist": [
+        "Atomic Swing"
+      ],
+      "artistId": [
+        "7BJ4OeS4NgyI4M87ZijwBI"
+      ],
+      "albumId": "4fxwlNV8xdAtIjvBhkn0bQ",
+      "release_date": "1993-01-01",
+      "popularity": 38
+    },
+    {
+      "trackId": "56CU4eIVqFrnGIfqO95mVV",
+      "name": "Till Love Touches Your Life",
+      "duration_ms": 225026,
+      "artist": [
+        "Shirley Bassey"
+      ],
+      "artistId": [
+        "090VebphoycdEyH165iMqc"
+      ],
+      "albumId": "5aoxGBTOftx2uzyWGRKtxL",
+      "release_date": "1994",
+      "popularity": 1
+    },
+    {
+      "trackId": "0Phx8Faea2XGf6XSIxCcqA",
+      "name": "Alech Taadi",
+      "duration_ms": 248573,
+      "artist": [
+        "Khaled"
+      ],
+      "artistId": [
+        "28ztjHIXceRRntmTUfnmUX"
+      ],
+      "albumId": "7JiTkfgNZqx6TSfVfLBpAJ",
+      "release_date": "1993-01-01",
+      "popularity": 32
+    },
+    {
+      "trackId": "38QzEJO9MBF8dgZ3HWoiOv",
+      "name": "Child of Paradise",
+      "duration_ms": 198866,
+      "artist": [
+        "Hanne Boel"
+      ],
+      "artistId": [
+        "63Fx3pGfBPY8iKByqXEbIg"
+      ],
+      "albumId": "46eLDQkXjosjaVp6S1aCvU",
+      "release_date": "1994-01-01",
+      "popularity": 15
+    }
+  ]
+}

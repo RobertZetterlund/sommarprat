@@ -1,32 +1,52 @@
-[
-  {
-    "trackId": "3CEEt3Yy9BoxkkNHorYVpV",
-    "name": "Zobi la mouche",
-    "duration_ms": 205733,
-    "artist": "Les Négresses Vertes",
-    "artistId": "0baGqHSXVphCsotxWDv7NX",
-    "albumId": "4phKu4QfMgniJyW1dlmuUV",
-    "release_date": "1988",
-    "popularity": 39
-  },
-  {
-    "trackId": "1GcUWPhNqmv70cF4aPRWL1",
-    "name": "Je M'en Fous Pas Mal (Remastered 2022)",
-    "duration_ms": 261144,
-    "artist": "Édith Piaf",
-    "artistId": "1WPcVNert9hn7mHsPKDn7j",
-    "albumId": "3JyFOk4mzs6c3TXA8weSJ7",
-    "release_date": "2022-07-22",
-    "popularity": 24
-  },
-  {
-    "trackId": "31uidLEHAcF8Cw1cX1VCS8",
-    "name": "Autobahn - 2009 Remaster",
-    "duration_ms": 1367093,
-    "artist": "Kraftwerk",
-    "artistId": "0dmPX6ovclgOy8WWJaFEUU",
-    "albumId": "0DzC0tyowMi2O9QfkDRvfJ",
-    "release_date": "1974",
-    "popularity": 43
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/358463",
+  "dob": "1958-02-28",
+  "title": "Ingela Olsson",
+  "date": "2005-07-01",
+  "playlistId": "3QhmEnTTbll4ZMPjOaA190",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3230315_2048_1146.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "3CEEt3Yy9BoxkkNHorYVpV",
+      "name": "Zobi la mouche",
+      "duration_ms": 205733,
+      "artist": [
+        "Les Négresses Vertes"
+      ],
+      "artistId": [
+        "0baGqHSXVphCsotxWDv7NX"
+      ],
+      "albumId": "4phKu4QfMgniJyW1dlmuUV",
+      "release_date": "1988",
+      "popularity": 39
+    },
+    {
+      "trackId": "1GcUWPhNqmv70cF4aPRWL1",
+      "name": "Je M'en Fous Pas Mal (Remastered 2022)",
+      "duration_ms": 261144,
+      "artist": [
+        "Édith Piaf"
+      ],
+      "artistId": [
+        "1WPcVNert9hn7mHsPKDn7j"
+      ],
+      "albumId": "3JyFOk4mzs6c3TXA8weSJ7",
+      "release_date": "2022-07-22",
+      "popularity": 24
+    },
+    {
+      "trackId": "31uidLEHAcF8Cw1cX1VCS8",
+      "name": "Autobahn - 2009 Remaster",
+      "duration_ms": 1367093,
+      "artist": [
+        "Kraftwerk"
+      ],
+      "artistId": [
+        "0dmPX6ovclgOy8WWJaFEUU"
+      ],
+      "albumId": "0DzC0tyowMi2O9QfkDRvfJ",
+      "release_date": "1974",
+      "popularity": 43
+    }
+  ]
+}

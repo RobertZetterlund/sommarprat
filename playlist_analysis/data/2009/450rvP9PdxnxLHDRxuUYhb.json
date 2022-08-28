@@ -1,112 +1,164 @@
-[
-  {
-    "trackId": "1l54QxfWWAWHwkOjbxx0m5",
-    "name": "En sång till en vän",
-    "duration_ms": 269270,
-    "artist": "Johan Eriksson",
-    "artistId": "4TUwxsw6TF2tHxexUNVnNu",
-    "albumId": "19ygbo5CGSwF1ONVBDzg7S",
-    "release_date": "2021-03-02",
-    "popularity": 10
-  },
-  {
-    "trackId": "46p30TZPuiUiOPXAljoOnb",
-    "name": "Persuaders",
-    "duration_ms": 147826,
-    "artist": "Nylon 66'ers",
-    "artistId": "1nCTpkTDbnzkfVvfUSEnt6",
-    "albumId": "3CLIecPSCRHevY0OWiAdzt",
-    "release_date": "1993",
-    "popularity": 0
-  },
-  {
-    "trackId": "51cCsvHThwnJwf2E0llXn4",
-    "name": "Stäm Blod",
-    "duration_ms": 256133,
-    "artist": "Iodine Jupiter",
-    "artistId": "6czEjrx3sTUTF3HYNmOeg1",
-    "albumId": "1q1AgnIz73k39GFMCHavMs",
-    "release_date": "1995-10-30",
-    "popularity": 4
-  },
-  {
-    "trackId": "4hHbeIIKO5Y5uLyIEbY9Gn",
-    "name": "Come Fly With Me - Remastered 1998",
-    "duration_ms": 199093,
-    "artist": "Frank Sinatra",
-    "artistId": "1Mxqyy3pSjf8kZZL4QVxS0",
-    "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
-    "release_date": "1958",
-    "popularity": 65
-  },
-  {
-    "trackId": "5Q7ayTarb9Tpmkik5cVMug",
-    "name": "Viva Las Vegas",
-    "duration_ms": 144840,
-    "artist": "Elvis Presley",
-    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
-    "albumId": "3ufobt4J5vaT3z7lgUub6a",
-    "release_date": "1968-01-22",
-    "popularity": 65
-  },
-  {
-    "trackId": "7Duqn8un04Nz5n4PWk83Q5",
-    "name": "Ready to Go",
-    "duration_ms": 301933,
-    "artist": "Republica",
-    "artistId": "06YQ6XwCdPUn8rAXV70gge",
-    "albumId": "7GSMMsVZatrRySHVLlrJ2h",
-    "release_date": "1996",
-    "popularity": 53
-  },
-  {
-    "trackId": "0VV8wkOM4w78A2OHZOTzNP",
-    "name": "Live And Let Die - 2018 Remaster",
-    "duration_ms": 192773,
-    "artist": "Wings",
-    "artistId": "3sFhA6G1N0gG1pszb6kk1m",
-    "albumId": "1RzrSgWinUzgsnw3oQDXOy",
-    "release_date": "1973-04-30",
-    "popularity": 64
-  },
-  {
-    "trackId": "38zsOOcu31XbbYj9BIPUF1",
-    "name": "Your Song",
-    "duration_ms": 241786,
-    "artist": "Elton John",
-    "artistId": "3PhoLpVuITZKcymswpck5b",
-    "albumId": "69P9Ro0W286yLFgYwrGVN0",
-    "release_date": "1970-04-10",
-    "popularity": 78
-  },
-  {
-    "trackId": "4pyVfb9OoiVhg6ZqaWwT74",
-    "name": "A Kind Of Magic",
-    "duration_ms": 284106,
-    "artist": "Elaine Paige",
-    "artistId": "7KckozT8XPOqtgJjpAcrnA",
-    "albumId": "5XRlRppPnRGKKSmNtrEFbx",
-    "release_date": "1988-01-01",
-    "popularity": 2
-  },
-  {
-    "trackId": "6EPRKhUOdiFSQwGBRBbvsZ",
-    "name": "Ace of Spades",
-    "duration_ms": 166360,
-    "artist": "Motörhead",
-    "artistId": "1DFr97A9HnbV3SKTJFu62M",
-    "albumId": "3rxF05Aux0QTrN533Kjc91",
-    "release_date": "1980-11-08",
-    "popularity": 74
-  },
-  {
-    "trackId": "0SLtqCrXBRrnkxSOMA3X4W",
-    "name": "Let Me Entertain You",
-    "duration_ms": 262000,
-    "artist": "Robbie Williams",
-    "artistId": "2HcwFjNelS49kFbfvMxQYw",
-    "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
-    "release_date": "1997-01-01",
-    "popularity": 66
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/366713",
+  "dob": "1963-07-28",
+  "title": "Joe Labero",
+  "date": "2009-07-02",
+  "playlistId": "450rvP9PdxnxLHDRxuUYhb",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3246546_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "1l54QxfWWAWHwkOjbxx0m5",
+      "name": "En sång till en vän",
+      "duration_ms": 269270,
+      "artist": [
+        "Johan Eriksson"
+      ],
+      "artistId": [
+        "4TUwxsw6TF2tHxexUNVnNu"
+      ],
+      "albumId": "19ygbo5CGSwF1ONVBDzg7S",
+      "release_date": "2021-03-02",
+      "popularity": 10
+    },
+    {
+      "trackId": "46p30TZPuiUiOPXAljoOnb",
+      "name": "Persuaders",
+      "duration_ms": 147826,
+      "artist": [
+        "Nylon 66'ers"
+      ],
+      "artistId": [
+        "1nCTpkTDbnzkfVvfUSEnt6"
+      ],
+      "albumId": "3CLIecPSCRHevY0OWiAdzt",
+      "release_date": "1993",
+      "popularity": 0
+    },
+    {
+      "trackId": "51cCsvHThwnJwf2E0llXn4",
+      "name": "Stäm Blod",
+      "duration_ms": 256133,
+      "artist": [
+        "Iodine Jupiter"
+      ],
+      "artistId": [
+        "6czEjrx3sTUTF3HYNmOeg1"
+      ],
+      "albumId": "1q1AgnIz73k39GFMCHavMs",
+      "release_date": "1995-10-30",
+      "popularity": 4
+    },
+    {
+      "trackId": "4hHbeIIKO5Y5uLyIEbY9Gn",
+      "name": "Come Fly With Me - Remastered 1998",
+      "duration_ms": 199093,
+      "artist": [
+        "Frank Sinatra"
+      ],
+      "artistId": [
+        "1Mxqyy3pSjf8kZZL4QVxS0"
+      ],
+      "albumId": "66v9QmjAj0Wwhh2OpbU4BE",
+      "release_date": "1958",
+      "popularity": 65
+    },
+    {
+      "trackId": "5Q7ayTarb9Tpmkik5cVMug",
+      "name": "Viva Las Vegas",
+      "duration_ms": 144840,
+      "artist": [
+        "Elvis Presley"
+      ],
+      "artistId": [
+        "43ZHCT0cAZBISjO8DG9PnE"
+      ],
+      "albumId": "3ufobt4J5vaT3z7lgUub6a",
+      "release_date": "1968-01-22",
+      "popularity": 65
+    },
+    {
+      "trackId": "7Duqn8un04Nz5n4PWk83Q5",
+      "name": "Ready to Go",
+      "duration_ms": 301933,
+      "artist": [
+        "Republica"
+      ],
+      "artistId": [
+        "06YQ6XwCdPUn8rAXV70gge"
+      ],
+      "albumId": "7GSMMsVZatrRySHVLlrJ2h",
+      "release_date": "1996",
+      "popularity": 53
+    },
+    {
+      "trackId": "0VV8wkOM4w78A2OHZOTzNP",
+      "name": "Live And Let Die - 2018 Remaster",
+      "duration_ms": 192773,
+      "artist": [
+        "Wings"
+      ],
+      "artistId": [
+        "3sFhA6G1N0gG1pszb6kk1m"
+      ],
+      "albumId": "1RzrSgWinUzgsnw3oQDXOy",
+      "release_date": "1973-04-30",
+      "popularity": 64
+    },
+    {
+      "trackId": "38zsOOcu31XbbYj9BIPUF1",
+      "name": "Your Song",
+      "duration_ms": 241786,
+      "artist": [
+        "Elton John"
+      ],
+      "artistId": [
+        "3PhoLpVuITZKcymswpck5b"
+      ],
+      "albumId": "69P9Ro0W286yLFgYwrGVN0",
+      "release_date": "1970-04-10",
+      "popularity": 78
+    },
+    {
+      "trackId": "4pyVfb9OoiVhg6ZqaWwT74",
+      "name": "A Kind Of Magic",
+      "duration_ms": 284106,
+      "artist": [
+        "Elaine Paige"
+      ],
+      "artistId": [
+        "7KckozT8XPOqtgJjpAcrnA"
+      ],
+      "albumId": "5XRlRppPnRGKKSmNtrEFbx",
+      "release_date": "1988-01-01",
+      "popularity": 2
+    },
+    {
+      "trackId": "6EPRKhUOdiFSQwGBRBbvsZ",
+      "name": "Ace of Spades",
+      "duration_ms": 166360,
+      "artist": [
+        "Motörhead"
+      ],
+      "artistId": [
+        "1DFr97A9HnbV3SKTJFu62M"
+      ],
+      "albumId": "3rxF05Aux0QTrN533Kjc91",
+      "release_date": "1980-11-08",
+      "popularity": 74
+    },
+    {
+      "trackId": "0SLtqCrXBRrnkxSOMA3X4W",
+      "name": "Let Me Entertain You",
+      "duration_ms": 262000,
+      "artist": [
+        "Robbie Williams"
+      ],
+      "artistId": [
+        "2HcwFjNelS49kFbfvMxQYw"
+      ],
+      "albumId": "31Sx9uz9KqlvmX07Pvp0wN",
+      "release_date": "1997-01-01",
+      "popularity": 66
+    }
+  ]
+}

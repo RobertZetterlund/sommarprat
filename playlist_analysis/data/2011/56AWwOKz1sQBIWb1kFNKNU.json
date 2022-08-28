@@ -1,112 +1,172 @@
-[
-  {
-    "trackId": "52vMWINBrhwuTaTg1tTVLa",
-    "name": "Angola",
-    "duration_ms": 270266,
-    "artist": "Cesária Evora",
-    "artistId": "0Nks3cFWU2a7rooAlFQYgn",
-    "albumId": "5JDeqzJVs53ZJT1KCjO6Jp",
-    "release_date": "1992-10-21",
-    "popularity": 49
-  },
-  {
-    "trackId": "5aoJnOhycrs0NtXomySi3e",
-    "name": "Madan",
-    "duration_ms": 290030,
-    "artist": "Martin Solveig",
-    "artistId": "1bj5GrcLom5gZFF5t949Xl",
-    "albumId": "2lZokCz6x1j296NYepSBxB",
-    "release_date": "2006-01-01",
-    "popularity": 51
-  },
-  {
-    "trackId": "4jnFqNWeJCeCRHc4HCdxfd",
-    "name": "Remember the Time",
-    "duration_ms": 239226,
-    "artist": "Michael Jackson",
-    "artistId": "3fMbdgg4jU18AjLCKBhRSm",
-    "albumId": "0oX4SealMgNXrvRDhqqOKg",
-    "release_date": "1991-11-13",
-    "popularity": 70
-  },
-  {
-    "trackId": "34RWqrsD91azVW3frTBOvY",
-    "name": "Jesse",
-    "duration_ms": 308960,
-    "artist": "Grandmaster Flash",
-    "artistId": "1JfnADNz5yYEq3hrzlZHLk",
-    "albumId": "40o5zHSxes3t5JFLcQwoa9",
-    "release_date": "2006-05-01",
-    "popularity": 15
-  },
-  {
-    "trackId": "5LIwaG8Wl9LfExcmiRQm7J",
-    "name": "Send It On",
-    "duration_ms": 356493,
-    "artist": "D'Angelo",
-    "artistId": "336vr2M3Va0FjyvB55lJEd",
-    "albumId": "2lO9yuuIDgBpSJzxTh3ai8",
-    "release_date": "2000-01-01",
-    "popularity": 54
-  },
-  {
-    "trackId": "2ccUQnjjNWT0rsNnsBpsCA",
-    "name": "Surrender",
-    "duration_ms": 253733,
-    "artist": "Cheap Trick",
-    "artistId": "1LB8qB5BPb3MHQrfkvifXU",
-    "albumId": "5w20U3G3GyWiPvvDeVzkhN",
-    "release_date": "1978-04",
-    "popularity": 69
-  },
-  {
-    "trackId": "3giZuGB93NGVesNUbzPET3",
-    "name": "Rock Steady",
-    "duration_ms": 285053,
-    "artist": "The Whispers",
-    "artistId": "2XzHxDFTNywDd5ReMhgxkg",
-    "albumId": "5BAfhvuiUfuxrVUHfF00SB",
-    "release_date": "2014-09-08",
-    "popularity": 42
-  },
-  {
-    "trackId": "3ELFMOauCVyfEQF6ec3fI3",
-    "name": "Never Dreamed You'd Leave In Summer",
-    "duration_ms": 172866,
-    "artist": "Stevie Wonder",
-    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
-    "albumId": "2oV8OJKtyGR7MwXH45rOoE",
-    "release_date": "1971-04-01",
-    "popularity": 43
-  },
-  {
-    "trackId": "22PMManKCi1iO1WsCpHR0E",
-    "name": "Oavsett vad",
-    "duration_ms": 325600,
-    "artist": "Timbuktu",
-    "artistId": "4bOG1sx3QHFbOUVLNmMpPe",
-    "albumId": "3tXuKxDCfmokZIoqzTYAjN",
-    "release_date": "2005-06-03",
-    "popularity": 27
-  },
-  {
-    "trackId": "5KZwRD3KklSP73jnLoNWtF",
-    "name": "Mystery of Iniquity - Live",
-    "duration_ms": 310733,
-    "artist": "Ms. Lauryn Hill",
-    "artistId": "2Mu5NfyYm8n5iTomuKAEHl",
-    "albumId": "22tn8fUpD1lurSga9yuqhM",
-    "release_date": "2002-05-07",
-    "popularity": 42
-  },
-  {
-    "trackId": "0BztaymsdXf9XkxMMuuIdp",
-    "name": "VIVA",
-    "duration_ms": 226188,
-    "artist": "Timbuktu",
-    "artistId": "4bOG1sx3QHFbOUVLNmMpPe",
-    "albumId": "5jphm8Wj2TcNQi1PLjksV7",
-    "release_date": "2021-08-20",
-    "popularity": 27
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/126288",
+  "dob": null,
+  "title": "Jason \"Timbuktu\" Diakité",
+  "date": "2011-06-29",
+  "playlistId": "56AWwOKz1sQBIWb1kFNKNU",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3242330_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "52vMWINBrhwuTaTg1tTVLa",
+      "name": "Angola",
+      "duration_ms": 270266,
+      "artist": [
+        "Cesária Evora"
+      ],
+      "artistId": [
+        "0Nks3cFWU2a7rooAlFQYgn"
+      ],
+      "albumId": "5JDeqzJVs53ZJT1KCjO6Jp",
+      "release_date": "1992-10-21",
+      "popularity": 49
+    },
+    {
+      "trackId": "5aoJnOhycrs0NtXomySi3e",
+      "name": "Madan",
+      "duration_ms": 290030,
+      "artist": [
+        "Martin Solveig",
+        "Salif Keita"
+      ],
+      "artistId": [
+        "1bj5GrcLom5gZFF5t949Xl",
+        "0VVnWF3KNaa5O7ESohKhAx"
+      ],
+      "albumId": "2lZokCz6x1j296NYepSBxB",
+      "release_date": "2006-01-01",
+      "popularity": 51
+    },
+    {
+      "trackId": "4jnFqNWeJCeCRHc4HCdxfd",
+      "name": "Remember the Time",
+      "duration_ms": 239226,
+      "artist": [
+        "Michael Jackson"
+      ],
+      "artistId": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ],
+      "albumId": "0oX4SealMgNXrvRDhqqOKg",
+      "release_date": "1991-11-13",
+      "popularity": 70
+    },
+    {
+      "trackId": "34RWqrsD91azVW3frTBOvY",
+      "name": "Jesse",
+      "duration_ms": 308960,
+      "artist": [
+        "Grandmaster Flash",
+        "Grandmaster Melle Mel",
+        "The Furious Five"
+      ],
+      "artistId": [
+        "1JfnADNz5yYEq3hrzlZHLk",
+        "0AWhixY9hX7LEPyPMjh4O0",
+        "77iR4WkkEWMrhAw8lFFL2v"
+      ],
+      "albumId": "40o5zHSxes3t5JFLcQwoa9",
+      "release_date": "2006-05-01",
+      "popularity": 15
+    },
+    {
+      "trackId": "5LIwaG8Wl9LfExcmiRQm7J",
+      "name": "Send It On",
+      "duration_ms": 356493,
+      "artist": [
+        "D'Angelo"
+      ],
+      "artistId": [
+        "336vr2M3Va0FjyvB55lJEd"
+      ],
+      "albumId": "2lO9yuuIDgBpSJzxTh3ai8",
+      "release_date": "2000-01-01",
+      "popularity": 54
+    },
+    {
+      "trackId": "2ccUQnjjNWT0rsNnsBpsCA",
+      "name": "Surrender",
+      "duration_ms": 253733,
+      "artist": [
+        "Cheap Trick"
+      ],
+      "artistId": [
+        "1LB8qB5BPb3MHQrfkvifXU"
+      ],
+      "albumId": "5w20U3G3GyWiPvvDeVzkhN",
+      "release_date": "1978-04",
+      "popularity": 69
+    },
+    {
+      "trackId": "3giZuGB93NGVesNUbzPET3",
+      "name": "Rock Steady",
+      "duration_ms": 285053,
+      "artist": [
+        "The Whispers"
+      ],
+      "artistId": [
+        "2XzHxDFTNywDd5ReMhgxkg"
+      ],
+      "albumId": "5BAfhvuiUfuxrVUHfF00SB",
+      "release_date": "2014-09-08",
+      "popularity": 42
+    },
+    {
+      "trackId": "3ELFMOauCVyfEQF6ec3fI3",
+      "name": "Never Dreamed You'd Leave In Summer",
+      "duration_ms": 172866,
+      "artist": [
+        "Stevie Wonder"
+      ],
+      "artistId": [
+        "7guDJrEfX3qb6FEbdPA5qi"
+      ],
+      "albumId": "2oV8OJKtyGR7MwXH45rOoE",
+      "release_date": "1971-04-01",
+      "popularity": 43
+    },
+    {
+      "trackId": "22PMManKCi1iO1WsCpHR0E",
+      "name": "Oavsett vad",
+      "duration_ms": 325600,
+      "artist": [
+        "Timbuktu"
+      ],
+      "artistId": [
+        "4bOG1sx3QHFbOUVLNmMpPe"
+      ],
+      "albumId": "3tXuKxDCfmokZIoqzTYAjN",
+      "release_date": "2005-06-03",
+      "popularity": 27
+    },
+    {
+      "trackId": "5KZwRD3KklSP73jnLoNWtF",
+      "name": "Mystery of Iniquity - Live",
+      "duration_ms": 310733,
+      "artist": [
+        "Ms. Lauryn Hill"
+      ],
+      "artistId": [
+        "2Mu5NfyYm8n5iTomuKAEHl"
+      ],
+      "albumId": "22tn8fUpD1lurSga9yuqhM",
+      "release_date": "2002-05-07",
+      "popularity": 42
+    },
+    {
+      "trackId": "0BztaymsdXf9XkxMMuuIdp",
+      "name": "VIVA",
+      "duration_ms": 226188,
+      "artist": [
+        "Timbuktu",
+        "Mapei"
+      ],
+      "artistId": [
+        "4bOG1sx3QHFbOUVLNmMpPe",
+        "6baWjwY7WiVPCZcW7pqqhz"
+      ],
+      "albumId": "5jphm8Wj2TcNQi1PLjksV7",
+      "release_date": "2021-08-20",
+      "popularity": 27
+    }
+  ]
+}

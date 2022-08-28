@@ -1,102 +1,154 @@
-[
-  {
-    "trackId": "0YV8lNihRvFJE2gVAa6mh4",
-    "name": "I Got Rhythm",
-    "duration_ms": 162520,
-    "artist": "Brian Wilson",
-    "artistId": "4Q82S0VzF8qlCb4PnSDurj",
-    "albumId": "28JqeTO39K30eh0u0wXvQz",
-    "release_date": "2010-01-01",
-    "popularity": 4
-  },
-  {
-    "trackId": "4IbOPxstIn2KbdlWf5xRZ0",
-    "name": "Georgia on My Mind",
-    "duration_ms": 188226,
-    "artist": "Michael Bublé",
-    "artistId": "1GxkXlMwML1oSg5eLPiAz3",
-    "albumId": "3MXDonOIzrIrCh0HvlACyj",
-    "release_date": "2009-10-06",
-    "popularity": 52
-  },
-  {
-    "trackId": "1gSWpgu8H58SQ8Ck5D3M6Z",
-    "name": "På Disco",
-    "duration_ms": 130326,
-    "artist": "Hooja",
-    "artistId": "054fVwphDX8QB8Pm7IjRcL",
-    "albumId": "1wEfywTG7i21IyYpFrznYf",
-    "release_date": "2021-10-28",
-    "popularity": 56
-  },
-  {
-    "trackId": "1ZACxWQRauxuuVUEhXLDsb",
-    "name": "Tear It Up",
-    "duration_ms": 267840,
-    "artist": "Michael McDonald",
-    "artistId": "24hJWbo98sH84tb0nkeaqy",
-    "albumId": "26DyP2oh3gRsq5eNR1gjtV",
-    "release_date": "1990-05-11",
-    "popularity": 13
-  },
-  {
-    "trackId": "1AcvqJhm4CXOFJ7INbR5rR",
-    "name": "It's Bad You Know",
-    "duration_ms": 298000,
-    "artist": "R.L. Burnside",
-    "artistId": "2drMeidRg4jc07neGOL0Ip",
-    "albumId": "6QyepVbPWpjsQZAEgqmDsJ",
-    "release_date": "1998-08-11",
-    "popularity": 44
-  },
-  {
-    "trackId": "5hV0uMeGIUtKASyf25htAo",
-    "name": "Caruso",
-    "duration_ms": 319493,
-    "artist": "Lucio Dalla",
-    "artistId": "25MkkfEousyfp2eyh38FUl",
-    "albumId": "01gyhMRB3RBxhgkfqbBNVi",
-    "release_date": "1988-01-01",
-    "popularity": 45
-  },
-  {
-    "trackId": "1ox1GfZqd4IYjHkbpIAPwF",
-    "name": "Flottarkärlek",
-    "duration_ms": 143506,
-    "artist": "Gösta \"Snoddas\" Nordgren",
-    "artistId": "55Mv9PuCTRfExD5y0l4Hg1",
-    "albumId": "2JxIMVtd4DLiCLXSeCii9N",
-    "release_date": "2007-05-30",
-    "popularity": 38
-  },
-  {
-    "trackId": "3peZMS2IH3OMqYjAcbsMto",
-    "name": "Isn't This A Lovely Day",
-    "duration_ms": 248200,
-    "artist": "Peter Skellern",
-    "artistId": "0PV9WCEGu2Yu89ArTqR6b6",
-    "albumId": "6qK3Pon2dZ0f8zQqqumEJK",
-    "release_date": "1996-07-15",
-    "popularity": 15
-  },
-  {
-    "trackId": "74TEgDsFaq0zMttq1dVuYK",
-    "name": "Första Klass",
-    "duration_ms": 151578,
-    "artist": "Einár",
-    "artistId": "0kKygNaCQjqVLrImIftRDJ",
-    "albumId": "5W4QltYoETJuRVqkcwWOtl",
-    "release_date": "2019-06-07",
-    "popularity": 60
-  },
-  {
-    "trackId": "0bRXwKfigvpKZUurwqAlEh",
-    "name": "Lovely Day",
-    "duration_ms": 254560,
-    "artist": "Bill Withers",
-    "artistId": "1ThoqLcyIYvZn7iWbj8fsj",
-    "albumId": "3QjPTUI6UcPr5m9RujkO3c",
-    "release_date": "1977-10-29",
-    "popularity": 76
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/126269",
+  "dob": "1947-04-07",
+  "title": "Ulf Brunnberg",
+  "date": "2011-07-15",
+  "playlistId": "7gmZ9RGLnhhuV0bsoBq5sR",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3242638_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "0YV8lNihRvFJE2gVAa6mh4",
+      "name": "I Got Rhythm",
+      "duration_ms": 162520,
+      "artist": [
+        "Brian Wilson"
+      ],
+      "artistId": [
+        "4Q82S0VzF8qlCb4PnSDurj"
+      ],
+      "albumId": "28JqeTO39K30eh0u0wXvQz",
+      "release_date": "2010-01-01",
+      "popularity": 4
+    },
+    {
+      "trackId": "4IbOPxstIn2KbdlWf5xRZ0",
+      "name": "Georgia on My Mind",
+      "duration_ms": 188226,
+      "artist": [
+        "Michael Bublé"
+      ],
+      "artistId": [
+        "1GxkXlMwML1oSg5eLPiAz3"
+      ],
+      "albumId": "3MXDonOIzrIrCh0HvlACyj",
+      "release_date": "2009-10-06",
+      "popularity": 52
+    },
+    {
+      "trackId": "1gSWpgu8H58SQ8Ck5D3M6Z",
+      "name": "På Disco",
+      "duration_ms": 130326,
+      "artist": [
+        "Hooja"
+      ],
+      "artistId": [
+        "054fVwphDX8QB8Pm7IjRcL"
+      ],
+      "albumId": "1wEfywTG7i21IyYpFrznYf",
+      "release_date": "2021-10-28",
+      "popularity": 56
+    },
+    {
+      "trackId": "1ZACxWQRauxuuVUEhXLDsb",
+      "name": "Tear It Up",
+      "duration_ms": 267840,
+      "artist": [
+        "Michael McDonald"
+      ],
+      "artistId": [
+        "24hJWbo98sH84tb0nkeaqy"
+      ],
+      "albumId": "26DyP2oh3gRsq5eNR1gjtV",
+      "release_date": "1990-05-11",
+      "popularity": 13
+    },
+    {
+      "trackId": "1AcvqJhm4CXOFJ7INbR5rR",
+      "name": "It's Bad You Know",
+      "duration_ms": 298000,
+      "artist": [
+        "R.L. Burnside"
+      ],
+      "artistId": [
+        "2drMeidRg4jc07neGOL0Ip"
+      ],
+      "albumId": "6QyepVbPWpjsQZAEgqmDsJ",
+      "release_date": "1998-08-11",
+      "popularity": 44
+    },
+    {
+      "trackId": "5hV0uMeGIUtKASyf25htAo",
+      "name": "Caruso",
+      "duration_ms": 319493,
+      "artist": [
+        "Lucio Dalla",
+        "Luciano Pavarotti",
+        "Unknown Artist"
+      ],
+      "artistId": [
+        "25MkkfEousyfp2eyh38FUl",
+        "0Y8KmFkKOgJybpVobn1onU",
+        "3POLGp1PDjloqIXcgfJZZl"
+      ],
+      "albumId": "01gyhMRB3RBxhgkfqbBNVi",
+      "release_date": "1988-01-01",
+      "popularity": 45
+    },
+    {
+      "trackId": "1ox1GfZqd4IYjHkbpIAPwF",
+      "name": "Flottarkärlek",
+      "duration_ms": 143506,
+      "artist": [
+        "Gösta \"Snoddas\" Nordgren"
+      ],
+      "artistId": [
+        "55Mv9PuCTRfExD5y0l4Hg1"
+      ],
+      "albumId": "2JxIMVtd4DLiCLXSeCii9N",
+      "release_date": "2007-05-30",
+      "popularity": 38
+    },
+    {
+      "trackId": "3peZMS2IH3OMqYjAcbsMto",
+      "name": "Isn't This A Lovely Day",
+      "duration_ms": 248200,
+      "artist": [
+        "Peter Skellern"
+      ],
+      "artistId": [
+        "0PV9WCEGu2Yu89ArTqR6b6"
+      ],
+      "albumId": "6qK3Pon2dZ0f8zQqqumEJK",
+      "release_date": "1996-07-15",
+      "popularity": 15
+    },
+    {
+      "trackId": "74TEgDsFaq0zMttq1dVuYK",
+      "name": "Första Klass",
+      "duration_ms": 151578,
+      "artist": [
+        "Einár"
+      ],
+      "artistId": [
+        "0kKygNaCQjqVLrImIftRDJ"
+      ],
+      "albumId": "5W4QltYoETJuRVqkcwWOtl",
+      "release_date": "2019-06-07",
+      "popularity": 60
+    },
+    {
+      "trackId": "0bRXwKfigvpKZUurwqAlEh",
+      "name": "Lovely Day",
+      "duration_ms": 254560,
+      "artist": [
+        "Bill Withers"
+      ],
+      "artistId": [
+        "1ThoqLcyIYvZn7iWbj8fsj"
+      ],
+      "albumId": "3QjPTUI6UcPr5m9RujkO3c",
+      "release_date": "1977-10-29",
+      "popularity": 76
+    }
+  ]
+}

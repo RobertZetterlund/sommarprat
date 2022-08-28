@@ -1,122 +1,178 @@
-[
-  {
-    "trackId": "69sTZUnybfPzxEvdkOySX8",
-    "name": "Dimples",
-    "duration_ms": 132293,
-    "artist": "John Lee Hooker",
-    "artistId": "1yNOfXGQNGjAynk77wv85x",
-    "albumId": "397nqvmmvM4MhJwL3Opf9F",
-    "release_date": "2017-10-06",
-    "popularity": 41
-  },
-  {
-    "trackId": "4fFxkU9C7prSviiYtvlV8V",
-    "name": "Johnny Come Home",
-    "duration_ms": 215733,
-    "artist": "Fine Young Cannibals",
-    "artistId": "20p5D2KrE8CGuOjHtxsyTp",
-    "albumId": "7KQgihtbLnpyr3KVk9OqYB",
-    "release_date": "1985-01-01",
-    "popularity": 56
-  },
-  {
-    "trackId": "2iWfZFAF8BCi0CY4NyuP8D",
-    "name": "Gamma Ray",
-    "duration_ms": 176920,
-    "artist": "Beck",
-    "artistId": "3vbKDsSS70ZX9D2OcvbZmS",
-    "albumId": "3D278bVsRcK48RvV5yLVt8",
-    "release_date": "2008-07-08",
-    "popularity": 52
-  },
-  {
-    "trackId": "6jh0EwmlWIXVgragx9sLLc",
-    "name": "Jitterboogie",
-    "duration_ms": 157293,
-    "artist": "Michael Hedges",
-    "artistId": "3IqoFUpoJi1qvebL8Vi2aK",
-    "albumId": "24wTcwhyFNNBZKyrANbrH4",
-    "release_date": "1996",
-    "popularity": 11
-  },
-  {
-    "trackId": "21IKeh3d2g5mrmeK01ohaZ",
-    "name": "Dessins",
-    "duration_ms": 151045,
-    "artist": "Alexandre",
-    "artistId": "08fP1yW4UslLeKCeDVL3jE",
-    "albumId": "1uIncZQNggzlHrI879ukXk",
-    "release_date": "2022-05-24",
-    "popularity": 25
-  },
-  {
-    "trackId": "1Clu0gbMFEvJ3bdpgmlMvh",
-    "name": "Mr. Fox in the Fields",
-    "duration_ms": 62520,
-    "artist": "Alexandre Desplat",
-    "artistId": "71jzN72g8qWMCMkWC5p1Z0",
-    "albumId": "1aJ1OS2xdkKGvmLvkU9qn3",
-    "release_date": "2009-01-01",
-    "popularity": 51
-  },
-  {
-    "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
-    "name": "Sinnerman",
-    "duration_ms": 622000,
-    "artist": "Nina Simone",
-    "artistId": "7G1GBhoKtEPnP86X2PvEYO",
-    "albumId": "31pd81sWDaK2pP3ok5892z",
-    "release_date": "1965-10-01",
-    "popularity": 62
-  },
-  {
-    "trackId": "57DZno6SOk5AjBYkoGbgJA",
-    "name": "Why You Wanna Treat Me so Bad?",
-    "duration_ms": 230960,
-    "artist": "Prince",
-    "artistId": "5a2EaR3hamoenG9rDuVn8j",
-    "albumId": "6k7RVZ7bSL9ryReb8RLYRI",
-    "release_date": "1979-10-19",
-    "popularity": 33
-  },
-  {
-    "trackId": "0dMd4rilfd6gPbXaLpNYhu",
-    "name": "Higher Ground",
-    "duration_ms": 222600,
-    "artist": "Stevie Wonder",
-    "artistId": "7guDJrEfX3qb6FEbdPA5qi",
-    "albumId": "5jgI8Eminx9MmLBontDWq8",
-    "release_date": "1973-08-03",
-    "popularity": 64
-  },
-  {
-    "trackId": "4KvOPEKwp8Z83oUkNB7Km4",
-    "name": "Love Vibration",
-    "duration_ms": 291933,
-    "artist": "Josh Rouse",
-    "artistId": "38euc5ce2q2MMzaoJcPstz",
-    "albumId": "5SxkCsVQLLCt5edqjNvssO",
-    "release_date": "2003",
-    "popularity": 42
-  },
-  {
-    "trackId": "5XNpdKmlLJPUbwKQceX2tW",
-    "name": "Little Wing",
-    "duration_ms": 408480,
-    "artist": "Stevie Ray Vaughan",
-    "artistId": "5fsDcuclIe8ZiBD5P787K1",
-    "albumId": "5vxBOzakDbJleNA1rbA7FQ",
-    "release_date": "1984",
-    "popularity": 60
-  },
-  {
-    "trackId": "0qG1teoBvooRo7Z5Z8edCk",
-    "name": "La ritournelle",
-    "duration_ms": 454480,
-    "artist": "Sébastien Tellier",
-    "artistId": "23ymPLjbtAMzTJS2qRtQ8Z",
-    "albumId": "05MRLgXFBdHFMww01vbvWY",
-    "release_date": "2004-01-01",
-    "popularity": 57
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/369530",
+  "dob": "1958-12-30",
+  "title": "Per Hallberg",
+  "date": "2008-08-07",
+  "playlistId": "1socYu0K7cfCOtoJGivS9x",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3253045_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "69sTZUnybfPzxEvdkOySX8",
+      "name": "Dimples",
+      "duration_ms": 132293,
+      "artist": [
+        "John Lee Hooker"
+      ],
+      "artistId": [
+        "1yNOfXGQNGjAynk77wv85x"
+      ],
+      "albumId": "397nqvmmvM4MhJwL3Opf9F",
+      "release_date": "2017-10-06",
+      "popularity": 41
+    },
+    {
+      "trackId": "4fFxkU9C7prSviiYtvlV8V",
+      "name": "Johnny Come Home",
+      "duration_ms": 215733,
+      "artist": [
+        "Fine Young Cannibals"
+      ],
+      "artistId": [
+        "20p5D2KrE8CGuOjHtxsyTp"
+      ],
+      "albumId": "7KQgihtbLnpyr3KVk9OqYB",
+      "release_date": "1985-01-01",
+      "popularity": 56
+    },
+    {
+      "trackId": "2iWfZFAF8BCi0CY4NyuP8D",
+      "name": "Gamma Ray",
+      "duration_ms": 176920,
+      "artist": [
+        "Beck"
+      ],
+      "artistId": [
+        "3vbKDsSS70ZX9D2OcvbZmS"
+      ],
+      "albumId": "3D278bVsRcK48RvV5yLVt8",
+      "release_date": "2008-07-08",
+      "popularity": 52
+    },
+    {
+      "trackId": "6jh0EwmlWIXVgragx9sLLc",
+      "name": "Jitterboogie",
+      "duration_ms": 157293,
+      "artist": [
+        "Michael Hedges"
+      ],
+      "artistId": [
+        "3IqoFUpoJi1qvebL8Vi2aK"
+      ],
+      "albumId": "24wTcwhyFNNBZKyrANbrH4",
+      "release_date": "1996",
+      "popularity": 11
+    },
+    {
+      "trackId": "21IKeh3d2g5mrmeK01ohaZ",
+      "name": "Dessins",
+      "duration_ms": 151045,
+      "artist": [
+        "Alexandre"
+      ],
+      "artistId": [
+        "08fP1yW4UslLeKCeDVL3jE"
+      ],
+      "albumId": "1uIncZQNggzlHrI879ukXk",
+      "release_date": "2022-05-24",
+      "popularity": 25
+    },
+    {
+      "trackId": "1Clu0gbMFEvJ3bdpgmlMvh",
+      "name": "Mr. Fox in the Fields",
+      "duration_ms": 62520,
+      "artist": [
+        "Alexandre Desplat"
+      ],
+      "artistId": [
+        "71jzN72g8qWMCMkWC5p1Z0"
+      ],
+      "albumId": "1aJ1OS2xdkKGvmLvkU9qn3",
+      "release_date": "2009-01-01",
+      "popularity": 51
+    },
+    {
+      "trackId": "5xRP5iyVdGglqlY4Vcjhkx",
+      "name": "Sinnerman",
+      "duration_ms": 622000,
+      "artist": [
+        "Nina Simone"
+      ],
+      "artistId": [
+        "7G1GBhoKtEPnP86X2PvEYO"
+      ],
+      "albumId": "31pd81sWDaK2pP3ok5892z",
+      "release_date": "1965-10-01",
+      "popularity": 62
+    },
+    {
+      "trackId": "57DZno6SOk5AjBYkoGbgJA",
+      "name": "Why You Wanna Treat Me so Bad?",
+      "duration_ms": 230960,
+      "artist": [
+        "Prince"
+      ],
+      "artistId": [
+        "5a2EaR3hamoenG9rDuVn8j"
+      ],
+      "albumId": "6k7RVZ7bSL9ryReb8RLYRI",
+      "release_date": "1979-10-19",
+      "popularity": 33
+    },
+    {
+      "trackId": "0dMd4rilfd6gPbXaLpNYhu",
+      "name": "Higher Ground",
+      "duration_ms": 222600,
+      "artist": [
+        "Stevie Wonder"
+      ],
+      "artistId": [
+        "7guDJrEfX3qb6FEbdPA5qi"
+      ],
+      "albumId": "5jgI8Eminx9MmLBontDWq8",
+      "release_date": "1973-08-03",
+      "popularity": 64
+    },
+    {
+      "trackId": "4KvOPEKwp8Z83oUkNB7Km4",
+      "name": "Love Vibration",
+      "duration_ms": 291933,
+      "artist": [
+        "Josh Rouse"
+      ],
+      "artistId": [
+        "38euc5ce2q2MMzaoJcPstz"
+      ],
+      "albumId": "5SxkCsVQLLCt5edqjNvssO",
+      "release_date": "2003",
+      "popularity": 42
+    },
+    {
+      "trackId": "5XNpdKmlLJPUbwKQceX2tW",
+      "name": "Little Wing",
+      "duration_ms": 408480,
+      "artist": [
+        "Stevie Ray Vaughan"
+      ],
+      "artistId": [
+        "5fsDcuclIe8ZiBD5P787K1"
+      ],
+      "albumId": "5vxBOzakDbJleNA1rbA7FQ",
+      "release_date": "1984",
+      "popularity": 60
+    },
+    {
+      "trackId": "0qG1teoBvooRo7Z5Z8edCk",
+      "name": "La ritournelle",
+      "duration_ms": 454480,
+      "artist": [
+        "Sébastien Tellier"
+      ],
+      "artistId": [
+        "23ymPLjbtAMzTJS2qRtQ8Z"
+      ],
+      "albumId": "05MRLgXFBdHFMww01vbvWY",
+      "release_date": "2004-01-01",
+      "popularity": 57
+    }
+  ]
+}

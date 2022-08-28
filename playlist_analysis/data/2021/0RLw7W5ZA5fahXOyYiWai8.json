@@ -1,112 +1,192 @@
-[
-  {
-    "trackId": "2m9TrpbI27n4v8AbNcglqe",
-    "name": "Story of Our Town (From \"Our Town\")",
-    "duration_ms": 260640,
-    "artist": "Lang Lang",
-    "artistId": "1YZhNFBxkEB5UKTgMDvot4",
-    "albumId": "6ij9rKkBvEhu78yn5vUOsQ",
-    "release_date": "2016-09-16",
-    "popularity": 19
-  },
-  {
-    "trackId": "2UrRhRzYUEtxPsa9ycaqpl",
-    "name": "Märk hur vår skugga",
-    "duration_ms": 211400,
-    "artist": "Cornelis Vreeswijk",
-    "artistId": "5B38ZGYpd0msq1LKOyz2r9",
-    "albumId": "3x8aQUoOux2ANK6cqjxWtI",
-    "release_date": "1970",
-    "popularity": 30
-  },
-  {
-    "trackId": "6Kj2vQGwsClunPTHPfjyqX",
-    "name": "Saa tag mitt hjerte (Jussi Björling)",
-    "duration_ms": 236573,
-    "artist": "Hugo Alfvén",
-    "artistId": "7oFvKLdVtXPcuZdfrWpcyj",
-    "albumId": "2hHalZDOelZY5nJIeqy3p4",
-    "release_date": "2011-11-23",
-    "popularity": 3
-  },
-  {
-    "trackId": "58WAARD3a60af3yU5mkKwS",
-    "name": "Innocent",
-    "duration_ms": 209200,
-    "artist": "Fleshquartet",
-    "artistId": "4lB4GxfCWC7Hhlzb20lhCg",
-    "albumId": "50nCyJr6AADC7pK9LHUnaG",
-    "release_date": "1995-01-01",
-    "popularity": 30
-  },
-  {
-    "trackId": "6fbVEr7GDlQJybegYNivik",
-    "name": "Preludes, Op. 28: No. 4 in E Minor, Largo",
-    "duration_ms": 140893,
-    "artist": "Frédéric Chopin",
-    "artistId": "7y97mc3bZRFXzT2szRM4L4",
-    "albumId": "10xsefBvOBuWTaZKKuKFvf",
-    "release_date": "2001-03-20",
-    "popularity": 53
-  },
-  {
-    "trackId": "0cci4GAD4tj7sc0EX6Tk1k",
-    "name": "Forkladd gud (The Disguised God), Op. 24: Prelude",
-    "duration_ms": 277333,
-    "artist": "Hillevi Martinpelto",
-    "artistId": "1NRnnOzSJbPvfFTn1sBMpZ",
-    "albumId": "6xdmETURGeY34t0xR3fVdY",
-    "release_date": "2012-09-01",
-    "popularity": 11
-  },
-  {
-    "trackId": "5mRrklQD0rvuN6sV10HfPn",
-    "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Prélude",
-    "duration_ms": 150973,
-    "artist": "Johann Sebastian Bach",
-    "artistId": "5aIqB5nVVvmFsvSdExz408",
-    "albumId": "6XaCGjrIRFiS5D5IVg66vb",
-    "release_date": "2018-08-17",
-    "popularity": 58
-  },
-  {
-    "trackId": "264s8GJoTRY15GJbKFLhsD",
-    "name": "Kom till mig",
-    "duration_ms": 176520,
-    "artist": "Sven-David Sandström",
-    "artistId": "00AUnQaXE6XTTZvr7kgNHb",
-    "albumId": "5say9uz8mOfEKFpe2X0HHD",
-    "release_date": "2016-02-26",
-    "popularity": 6
-  },
-  {
-    "trackId": "6BgdRSbccHxEl0PrbkUgel",
-    "name": "Winterreise, Op. 89, D. 911: No. 1, Gute Nacht",
-    "duration_ms": 337880,
-    "artist": "Franz Schubert",
-    "artistId": "2p0UyoPfYfI76PCStuXfOP",
-    "albumId": "67L14Pv3CXjSzNajRDvNeI",
-    "release_date": "2019-09-06",
-    "popularity": 8
-  },
-  {
-    "trackId": "2wumcfCmhKBZRo8EaZy33D",
-    "name": "Aftonen",
-    "duration_ms": 210000,
-    "artist": "Hugo Alfvén",
-    "artistId": "7oFvKLdVtXPcuZdfrWpcyj",
-    "albumId": "3VHNnNOmGWZPT2dyT1ZjSx",
-    "release_date": "1997",
-    "popularity": 0
-  },
-  {
-    "trackId": "2lILbhi7MVuFmnLy73t935",
-    "name": "Requiem, Op. 9: Kyrie",
-    "duration_ms": 220173,
-    "artist": "Maurice Duruflé",
-    "artistId": "7Fph7U6qidZ2E97xKKsD4m",
-    "albumId": "1hAxb6IXO25m0JskkvPa8C",
-    "release_date": "2005-01-01",
-    "popularity": 2
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/1736283",
+  "dob": "1960-04-23",
+  "title": "Ullakarin Nyberg",
+  "date": "2021-08-17",
+  "playlistId": "0RLw7W5ZA5fahXOyYiWai8",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3aff2f4f-364e-4d1a-8b74-9ffc1ed16b61.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "2m9TrpbI27n4v8AbNcglqe",
+      "name": "Story of Our Town (From \"Our Town\")",
+      "duration_ms": 260640,
+      "artist": [
+        "Lang Lang"
+      ],
+      "artistId": [
+        "1YZhNFBxkEB5UKTgMDvot4"
+      ],
+      "albumId": "6ij9rKkBvEhu78yn5vUOsQ",
+      "release_date": "2016-09-16",
+      "popularity": 19
+    },
+    {
+      "trackId": "2UrRhRzYUEtxPsa9ycaqpl",
+      "name": "Märk hur vår skugga",
+      "duration_ms": 211400,
+      "artist": [
+        "Cornelis Vreeswijk"
+      ],
+      "artistId": [
+        "5B38ZGYpd0msq1LKOyz2r9"
+      ],
+      "albumId": "3x8aQUoOux2ANK6cqjxWtI",
+      "release_date": "1970",
+      "popularity": 30
+    },
+    {
+      "trackId": "6Kj2vQGwsClunPTHPfjyqX",
+      "name": "Saa tag mitt hjerte (Jussi Björling)",
+      "duration_ms": 236573,
+      "artist": [
+        "Hugo Alfvén",
+        "Jussi Björling",
+        "Stockholm Royal Opera Orchestra"
+      ],
+      "artistId": [
+        "7oFvKLdVtXPcuZdfrWpcyj",
+        "4FNjPnaiiXYeG2qOhVtd8A",
+        "07RzNqRsQInTMU4oaKO5qr"
+      ],
+      "albumId": "2hHalZDOelZY5nJIeqy3p4",
+      "release_date": "2011-11-23",
+      "popularity": 3
+    },
+    {
+      "trackId": "58WAARD3a60af3yU5mkKwS",
+      "name": "Innocent",
+      "duration_ms": 209200,
+      "artist": [
+        "Fleshquartet"
+      ],
+      "artistId": [
+        "4lB4GxfCWC7Hhlzb20lhCg"
+      ],
+      "albumId": "50nCyJr6AADC7pK9LHUnaG",
+      "release_date": "1995-01-01",
+      "popularity": 30
+    },
+    {
+      "trackId": "6fbVEr7GDlQJybegYNivik",
+      "name": "Preludes, Op. 28: No. 4 in E Minor, Largo",
+      "duration_ms": 140893,
+      "artist": [
+        "Frédéric Chopin",
+        "Grigory Sokolov"
+      ],
+      "artistId": [
+        "7y97mc3bZRFXzT2szRM4L4",
+        "6ChLWj2mIxKtKa2pNifotH"
+      ],
+      "albumId": "10xsefBvOBuWTaZKKuKFvf",
+      "release_date": "2001-03-20",
+      "popularity": 53
+    },
+    {
+      "trackId": "0cci4GAD4tj7sc0EX6Tk1k",
+      "name": "Forkladd gud (The Disguised God), Op. 24: Prelude",
+      "duration_ms": 277333,
+      "artist": [
+        "Hillevi Martinpelto",
+        "Karl-Magnus Fredriksson",
+        "Gustaf Sjökvists Kammarkör"
+      ],
+      "artistId": [
+        "1NRnnOzSJbPvfFTn1sBMpZ",
+        "1umSzpI0uiXZDaHpoY7V6w",
+        "18PWO1rwqfsj0JVeJNmqOl"
+      ],
+      "albumId": "6xdmETURGeY34t0xR3fVdY",
+      "release_date": "2012-09-01",
+      "popularity": 11
+    },
+    {
+      "trackId": "5mRrklQD0rvuN6sV10HfPn",
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Prélude",
+      "duration_ms": 150973,
+      "artist": [
+        "Johann Sebastian Bach",
+        "Yo-Yo Ma"
+      ],
+      "artistId": [
+        "5aIqB5nVVvmFsvSdExz408",
+        "5Dl3HXZjG6ZOWT5cV375lk"
+      ],
+      "albumId": "6XaCGjrIRFiS5D5IVg66vb",
+      "release_date": "2018-08-17",
+      "popularity": 58
+    },
+    {
+      "trackId": "264s8GJoTRY15GJbKFLhsD",
+      "name": "Kom till mig",
+      "duration_ms": 176520,
+      "artist": [
+        "Sven-David Sandström",
+        "Maria Magdalena Chamber Choir",
+        "Mats Nilsson"
+      ],
+      "artistId": [
+        "00AUnQaXE6XTTZvr7kgNHb",
+        "0eTwpt6NbcHmV0eY3lPLDg",
+        "4c7p7tNTToMm4lYBGwmbSG"
+      ],
+      "albumId": "5say9uz8mOfEKFpe2X0HHD",
+      "release_date": "2016-02-26",
+      "popularity": 6
+    },
+    {
+      "trackId": "6BgdRSbccHxEl0PrbkUgel",
+      "name": "Winterreise, Op. 89, D. 911: No. 1, Gute Nacht",
+      "duration_ms": 337880,
+      "artist": [
+        "Franz Schubert",
+        "Wilhelm Müller",
+        "Peter Mattei"
+      ],
+      "artistId": [
+        "2p0UyoPfYfI76PCStuXfOP",
+        "0dKVXa9vtcqAbwuFn8WyeA",
+        "18Bm1xs8qFr9pPiy6GONgu"
+      ],
+      "albumId": "67L14Pv3CXjSzNajRDvNeI",
+      "release_date": "2019-09-06",
+      "popularity": 8
+    },
+    {
+      "trackId": "2wumcfCmhKBZRo8EaZy33D",
+      "name": "Aftonen",
+      "duration_ms": 210000,
+      "artist": [
+        "Hugo Alfvén",
+        "Mats Nilssons Vokalensemble",
+        "Mats Nilsson"
+      ],
+      "artistId": [
+        "7oFvKLdVtXPcuZdfrWpcyj",
+        "2kMYd3liCuouzfFcUboqGc",
+        "4c7p7tNTToMm4lYBGwmbSG"
+      ],
+      "albumId": "3VHNnNOmGWZPT2dyT1ZjSx",
+      "release_date": "1997",
+      "popularity": 0
+    },
+    {
+      "trackId": "2lILbhi7MVuFmnLy73t935",
+      "name": "Requiem, Op. 9: Kyrie",
+      "duration_ms": 220173,
+      "artist": [
+        "Maurice Duruflé",
+        "Malena Ernman",
+        "Olle Persson"
+      ],
+      "artistId": [
+        "7Fph7U6qidZ2E97xKKsD4m",
+        "0muluUHym4N0wB62sD0MPo",
+        "5NUxWLwXULdbRSgFf2yCJC"
+      ],
+      "albumId": "1hAxb6IXO25m0JskkvPa8C",
+      "release_date": "2005-01-01",
+      "popularity": 2
+    }
+  ]
+}

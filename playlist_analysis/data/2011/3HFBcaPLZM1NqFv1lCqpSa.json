@@ -1,112 +1,182 @@
-[
-  {
-    "trackId": "348Z9jFEkqVqD9K5I1wG9g",
-    "name": "Let it Rain",
-    "duration_ms": 288093,
-    "artist": "Jon Bon Jovi",
-    "artistId": "6h2bWHWTJL38N8dqocVaif",
-    "albumId": "4Z9AdtG4qbPdd70gkW4Hda",
-    "release_date": "2008-01-01",
-    "popularity": 33
-  },
-  {
-    "trackId": "5pmXfYqwlULw7aVL3zwoFI",
-    "name": "Mighty Good Time (Keeping One Eye Closed)",
-    "duration_ms": 269360,
-    "artist": "Willy Clay Band",
-    "artistId": "7y5DFGVVU7iGmurBDwIYHs",
-    "albumId": "7iJAFzi244Rq42D5XTfMIX",
-    "release_date": "2009-10-28",
-    "popularity": 37
-  },
-  {
-    "trackId": "5db5OKjxRDjeNy2mCHO9Xj",
-    "name": "Utan dej",
-    "duration_ms": 249133,
-    "artist": "Totta Näslund",
-    "artistId": "09J3FFqSQVVQlrakhizg9v",
-    "albumId": "1kxKEXOtXBjYLZH2RoKKBV",
-    "release_date": "2001-07-13",
-    "popularity": 32
-  },
-  {
-    "trackId": "3aZtKtndMOhZcQ0SngTjfg",
-    "name": "Holy Mother",
-    "duration_ms": 326987,
-    "artist": "Eric Clapton",
-    "artistId": "6PAt558ZEZl0DmdXlnjMgD",
-    "albumId": "2aeqnJTTRHrXPzy77nyorj",
-    "release_date": "2013-01-01",
-    "popularity": 35
-  },
-  {
-    "trackId": "714gs3bAIhCMrbf7SxB6wb",
-    "name": "Radetzky-Marsch, Op. 228",
-    "duration_ms": 216320,
-    "artist": "Johann Strauss I",
-    "artistId": "4WMHJgeJCssiGW3ssUT7eb",
-    "albumId": "2A26mDV5t1oQAvAx0O3Q00",
-    "release_date": "2013-01-01",
-    "popularity": 9
-  },
-  {
-    "trackId": "0W1uTK6I97CbjFKAVtRGfK",
-    "name": "Too Much Love Will Kill You - Remastered 2011",
-    "duration_ms": 259213,
-    "artist": "Queen",
-    "artistId": "1dfeR4HaWDbWqFHLkxsg1d",
-    "albumId": "391ScNR3xKywWSpfDwP3n0",
-    "release_date": "1995-11-06",
-    "popularity": 62
-  },
-  {
-    "trackId": "7rPzEczIS574IgPaiPieS3",
-    "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
-    "duration_ms": 228586,
-    "artist": "Pink Floyd",
-    "artistId": "0k17h0D3J5VfsdmQ1iZtE9",
-    "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
-    "release_date": "1979-11-30",
-    "popularity": 70
-  },
-  {
-    "trackId": "1XKnAevLgKyKb1Gi1Kc99r",
-    "name": "Bara sport",
-    "duration_ms": 132826,
-    "artist": "Galenskaparna & After Shave",
-    "artistId": "1yP4vKrljoPWZofWJchg0E",
-    "albumId": "4B7aBWGNLYgiBuwBvmaqOq",
-    "release_date": "1994",
-    "popularity": 28
-  },
-  {
-    "trackId": "5pd5hmhFHYyqhOdhcTNckB",
-    "name": "The Worrying Kind",
-    "duration_ms": 221920,
-    "artist": "Maia Hirasawa",
-    "artistId": "2xtgYE7gox5t043BJWi7bd",
-    "albumId": "6HBHt2gESeUf3bvLBI56MF",
-    "release_date": "2007",
-    "popularity": 34
-  },
-  {
-    "trackId": "3GtPYtBOTfIeWoHabSlUFT",
-    "name": "Lilla fluga",
-    "duration_ms": 244266,
-    "artist": "Caroline af Ugglas",
-    "artistId": "0gsiXahJ8QLRP2pad1DzNj",
-    "albumId": "7JEuRJ5mfDcEpJAxs2KBkU",
-    "release_date": "2009-03-18",
-    "popularity": 10
-  },
-  {
-    "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
-    "name": "Gabriellas sång",
-    "duration_ms": 221240,
-    "artist": "Helen Sjöholm",
-    "artistId": "6M5pgjMS5dVG0hGRh5xADx",
-    "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
-    "release_date": "2004",
-    "popularity": 49
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/126274",
+  "dob": "1956-06-26",
+  "title": "Lars-Eric Aaro",
+  "date": "2011-07-14",
+  "playlistId": "3HFBcaPLZM1NqFv1lCqpSa",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3229378_2048_1146.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "348Z9jFEkqVqD9K5I1wG9g",
+      "name": "Let it Rain",
+      "duration_ms": 288093,
+      "artist": [
+        "Jon Bon Jovi",
+        "Michele Centonze",
+        "Veris Giannetti"
+      ],
+      "artistId": [
+        "6h2bWHWTJL38N8dqocVaif",
+        "5HeSdlABq0j0WlpOmYDGVb",
+        "6keKiBxyRIyv8cDqFPksbY"
+      ],
+      "albumId": "4Z9AdtG4qbPdd70gkW4Hda",
+      "release_date": "2008-01-01",
+      "popularity": 33
+    },
+    {
+      "trackId": "5pmXfYqwlULw7aVL3zwoFI",
+      "name": "Mighty Good Time (Keeping One Eye Closed)",
+      "duration_ms": 269360,
+      "artist": [
+        "Willy Clay Band"
+      ],
+      "artistId": [
+        "7y5DFGVVU7iGmurBDwIYHs"
+      ],
+      "albumId": "7iJAFzi244Rq42D5XTfMIX",
+      "release_date": "2009-10-28",
+      "popularity": 37
+    },
+    {
+      "trackId": "5db5OKjxRDjeNy2mCHO9Xj",
+      "name": "Utan dej",
+      "duration_ms": 249133,
+      "artist": [
+        "Totta Näslund",
+        "Sharon Dyall",
+        "One Voice"
+      ],
+      "artistId": [
+        "09J3FFqSQVVQlrakhizg9v",
+        "0RFCLAPk6HoM6vcwT39Q2e",
+        "1n2PYC4B6IKKApal1ej3aN"
+      ],
+      "albumId": "1kxKEXOtXBjYLZH2RoKKBV",
+      "release_date": "2001-07-13",
+      "popularity": 32
+    },
+    {
+      "trackId": "3aZtKtndMOhZcQ0SngTjfg",
+      "name": "Holy Mother",
+      "duration_ms": 326987,
+      "artist": [
+        "Eric Clapton",
+        "Stephen Bishop",
+        "Luciano Pavarotti"
+      ],
+      "artistId": [
+        "6PAt558ZEZl0DmdXlnjMgD",
+        "3JhRHqCi8HEzkJVWt19LtN",
+        "0Y8KmFkKOgJybpVobn1onU"
+      ],
+      "albumId": "2aeqnJTTRHrXPzy77nyorj",
+      "release_date": "2013-01-01",
+      "popularity": 35
+    },
+    {
+      "trackId": "714gs3bAIhCMrbf7SxB6wb",
+      "name": "Radetzky-Marsch, Op. 228",
+      "duration_ms": 216320,
+      "artist": [
+        "Johann Strauss I",
+        "Franz Welser-Möst",
+        "Wiener Philharmoniker"
+      ],
+      "artistId": [
+        "4WMHJgeJCssiGW3ssUT7eb",
+        "7JlPzWR6kQ48ZPLDixTTQ0",
+        "003f4bk13c6Q3gAUXv7dGJ"
+      ],
+      "albumId": "2A26mDV5t1oQAvAx0O3Q00",
+      "release_date": "2013-01-01",
+      "popularity": 9
+    },
+    {
+      "trackId": "0W1uTK6I97CbjFKAVtRGfK",
+      "name": "Too Much Love Will Kill You - Remastered 2011",
+      "duration_ms": 259213,
+      "artist": [
+        "Queen"
+      ],
+      "artistId": [
+        "1dfeR4HaWDbWqFHLkxsg1d"
+      ],
+      "albumId": "391ScNR3xKywWSpfDwP3n0",
+      "release_date": "1995-11-06",
+      "popularity": 62
+    },
+    {
+      "trackId": "7rPzEczIS574IgPaiPieS3",
+      "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
+      "duration_ms": 228586,
+      "artist": [
+        "Pink Floyd"
+      ],
+      "artistId": [
+        "0k17h0D3J5VfsdmQ1iZtE9"
+      ],
+      "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
+      "release_date": "1979-11-30",
+      "popularity": 70
+    },
+    {
+      "trackId": "1XKnAevLgKyKb1Gi1Kc99r",
+      "name": "Bara sport",
+      "duration_ms": 132826,
+      "artist": [
+        "Galenskaparna & After Shave"
+      ],
+      "artistId": [
+        "1yP4vKrljoPWZofWJchg0E"
+      ],
+      "albumId": "4B7aBWGNLYgiBuwBvmaqOq",
+      "release_date": "1994",
+      "popularity": 28
+    },
+    {
+      "trackId": "5pd5hmhFHYyqhOdhcTNckB",
+      "name": "The Worrying Kind",
+      "duration_ms": 221920,
+      "artist": [
+        "Maia Hirasawa"
+      ],
+      "artistId": [
+        "2xtgYE7gox5t043BJWi7bd"
+      ],
+      "albumId": "6HBHt2gESeUf3bvLBI56MF",
+      "release_date": "2007",
+      "popularity": 34
+    },
+    {
+      "trackId": "3GtPYtBOTfIeWoHabSlUFT",
+      "name": "Lilla fluga",
+      "duration_ms": 244266,
+      "artist": [
+        "Caroline af Ugglas"
+      ],
+      "artistId": [
+        "0gsiXahJ8QLRP2pad1DzNj"
+      ],
+      "albumId": "7JEuRJ5mfDcEpJAxs2KBkU",
+      "release_date": "2009-03-18",
+      "popularity": 10
+    },
+    {
+      "trackId": "2UL2wKmovIqf0GpqZ2Irjn",
+      "name": "Gabriellas sång",
+      "duration_ms": 221240,
+      "artist": [
+        "Helen Sjöholm",
+        "Stefan Nilsson"
+      ],
+      "artistId": [
+        "6M5pgjMS5dVG0hGRh5xADx",
+        "2dkyZHLWCFi08dA86UDu1A"
+      ],
+      "albumId": "6e3fJwgQ1OgmVBOjlNgcd0",
+      "release_date": "2004",
+      "popularity": 49
+    }
+  ]
+}

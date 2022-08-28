@@ -1,112 +1,164 @@
-[
-  {
-    "trackId": "18rnO4daqITbVLpA5gia1M",
-    "name": "Tänk dig",
-    "duration_ms": 247493,
-    "artist": "Darin",
-    "artistId": "1rKFeRryEci6cxNkdvHzNr",
-    "albumId": "0YW7zgIom2bYoMmuKdeXxe",
-    "release_date": "2015-09-25",
-    "popularity": 40
-  },
-  {
-    "trackId": "4bHsxqR3GMrXTxEPLuK5ue",
-    "name": "Don't Stop Believin'",
-    "duration_ms": 250986,
-    "artist": "Journey",
-    "artistId": "0rvjqX7ttXeg3mTy8Xscbt",
-    "albumId": "43wpzak9OmQfrjyksuGwp0",
-    "release_date": "1981",
-    "popularity": 82
-  },
-  {
-    "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
-    "name": "En stund på jorden",
-    "duration_ms": 232858,
-    "artist": "Laleh",
-    "artistId": "62QZPjYQMoo5g56FP9Webq",
-    "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
-    "release_date": "2013-09-27",
-    "popularity": 50
-  },
-  {
-    "trackId": "0zv9bOC2NSMd3Fw2HgM5Xn",
-    "name": "Whataya Want from Me",
-    "duration_ms": 227320,
-    "artist": "Adam Lambert",
-    "artistId": "6prmLEyn4LfHlD9NnXWlf7",
-    "albumId": "2OkC5JujOSTWWSx4F5IbLO",
-    "release_date": "2009",
-    "popularity": 58
-  },
-  {
-    "trackId": "5SleX0NFeODNY7Xenal3gr",
-    "name": "Only You",
-    "duration_ms": 222373,
-    "artist": "Zara Larsson",
-    "artistId": "1Xylc3o4UrD53lo9CvFvVg",
-    "albumId": "5YLRVHDVRw3QqWbeTGpC5B",
-    "release_date": "2017-03-17",
-    "popularity": 50
-  },
-  {
-    "trackId": "0AH6WMe3OlAlUb5miXt2FQ",
-    "name": "Only Girl (In The World)",
-    "duration_ms": 235493,
-    "artist": "Rihanna",
-    "artistId": "5pKCCKE2ajJHZ9KAiaK11H",
-    "albumId": "7vN82vd1Vq44fjlhjfvHJp",
-    "release_date": "2010-11-16",
-    "popularity": 72
-  },
-  {
-    "trackId": "3mXXkDfLaCN5IaZpHVJPth",
-    "name": "Hold On - D&B Version",
-    "duration_ms": 198434,
-    "artist": "Nano",
-    "artistId": "48Z0MG7G6UQeWYibHpXgQe",
-    "albumId": "2qQfXNZu1v5I4fjCbX6UVq",
-    "release_date": "2017-02-25",
-    "popularity": 37
-  },
-  {
-    "trackId": "218PXe4r3IZtFShQC0S38X",
-    "name": "I Can´t Go On - Eurovision 2017 - Sweden / Karaoke Version",
-    "duration_ms": 183990,
-    "artist": "Robin Bengtsson",
-    "artistId": "1CQLPgGkfHrxNMqrXt5oWS",
-    "albumId": "7v4869QrBGjhaHMhHSGD2q",
-    "release_date": "2020-05-08",
-    "popularity": 1
-  },
-  {
-    "trackId": "3zHq9ouUJQFQRf3cm1rRLu",
-    "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-    "duration_ms": 252534,
-    "artist": "Ellie Goulding",
-    "artistId": "0X2BH1fck6amBIoJhDVmmJ",
-    "albumId": "20Ol6zZ0nLlc5EGTH1zA0j",
-    "release_date": "2015-11-06",
-    "popularity": 79
-  },
-  {
-    "trackId": "3fH4KjXFYMmljxrcGrbPj9",
-    "name": "Don't You (Forget About Me)",
-    "duration_ms": 263040,
-    "artist": "Simple Minds",
-    "artistId": "6hN9F0iuULZYWXppob22Aj",
-    "albumId": "4YimfceN1R0nOS9CefIFhm",
-    "release_date": "1985",
-    "popularity": 76
-  },
-  {
-    "trackId": "3Qv6xH3hk7psel3oFCkqCY",
-    "name": "Monkey Eats Bananas",
-    "duration_ms": 204040,
-    "artist": "Princess Chelsea",
-    "artistId": "6SrA4711bML5NvPO13Tr6t",
-    "albumId": "7pFdmoYOVYeIDOVyML4IuZ",
-    "release_date": "2011",
-    "popularity": 25
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/1077281",
+  "dob": null,
+  "title": "Stefan, pappa till Ebba",
+  "date": "2018-07-10",
+  "playlistId": "0lj0KrlyFk2mBLJRn9ffEJ",
+  "imageurl": "https://static-cdn.sr.se/images/2071/8825e7c8-d3d0-4021-aa57-447ba4261367.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "18rnO4daqITbVLpA5gia1M",
+      "name": "Tänk dig",
+      "duration_ms": 247493,
+      "artist": [
+        "Darin"
+      ],
+      "artistId": [
+        "1rKFeRryEci6cxNkdvHzNr"
+      ],
+      "albumId": "0YW7zgIom2bYoMmuKdeXxe",
+      "release_date": "2015-09-25",
+      "popularity": 40
+    },
+    {
+      "trackId": "4bHsxqR3GMrXTxEPLuK5ue",
+      "name": "Don't Stop Believin'",
+      "duration_ms": 250986,
+      "artist": [
+        "Journey"
+      ],
+      "artistId": [
+        "0rvjqX7ttXeg3mTy8Xscbt"
+      ],
+      "albumId": "43wpzak9OmQfrjyksuGwp0",
+      "release_date": "1981",
+      "popularity": 82
+    },
+    {
+      "trackId": "0Zii0Q4Z17kd1XMB27CQ2t",
+      "name": "En stund på jorden",
+      "duration_ms": 232858,
+      "artist": [
+        "Laleh"
+      ],
+      "artistId": [
+        "62QZPjYQMoo5g56FP9Webq"
+      ],
+      "albumId": "0pfOSr3PHdLqe9kHcoEPIL",
+      "release_date": "2013-09-27",
+      "popularity": 50
+    },
+    {
+      "trackId": "0zv9bOC2NSMd3Fw2HgM5Xn",
+      "name": "Whataya Want from Me",
+      "duration_ms": 227320,
+      "artist": [
+        "Adam Lambert"
+      ],
+      "artistId": [
+        "6prmLEyn4LfHlD9NnXWlf7"
+      ],
+      "albumId": "2OkC5JujOSTWWSx4F5IbLO",
+      "release_date": "2009",
+      "popularity": 58
+    },
+    {
+      "trackId": "5SleX0NFeODNY7Xenal3gr",
+      "name": "Only You",
+      "duration_ms": 222373,
+      "artist": [
+        "Zara Larsson"
+      ],
+      "artistId": [
+        "1Xylc3o4UrD53lo9CvFvVg"
+      ],
+      "albumId": "5YLRVHDVRw3QqWbeTGpC5B",
+      "release_date": "2017-03-17",
+      "popularity": 50
+    },
+    {
+      "trackId": "0AH6WMe3OlAlUb5miXt2FQ",
+      "name": "Only Girl (In The World)",
+      "duration_ms": 235493,
+      "artist": [
+        "Rihanna"
+      ],
+      "artistId": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
+      ],
+      "albumId": "7vN82vd1Vq44fjlhjfvHJp",
+      "release_date": "2010-11-16",
+      "popularity": 72
+    },
+    {
+      "trackId": "3mXXkDfLaCN5IaZpHVJPth",
+      "name": "Hold On - D&B Version",
+      "duration_ms": 198434,
+      "artist": [
+        "Nano"
+      ],
+      "artistId": [
+        "48Z0MG7G6UQeWYibHpXgQe"
+      ],
+      "albumId": "2qQfXNZu1v5I4fjCbX6UVq",
+      "release_date": "2017-02-25",
+      "popularity": 37
+    },
+    {
+      "trackId": "218PXe4r3IZtFShQC0S38X",
+      "name": "I Can´t Go On - Eurovision 2017 - Sweden / Karaoke Version",
+      "duration_ms": 183990,
+      "artist": [
+        "Robin Bengtsson"
+      ],
+      "artistId": [
+        "1CQLPgGkfHrxNMqrXt5oWS"
+      ],
+      "albumId": "7v4869QrBGjhaHMhHSGD2q",
+      "release_date": "2020-05-08",
+      "popularity": 0
+    },
+    {
+      "trackId": "3zHq9ouUJQFQRf3cm1rRLu",
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "duration_ms": 252534,
+      "artist": [
+        "Ellie Goulding"
+      ],
+      "artistId": [
+        "0X2BH1fck6amBIoJhDVmmJ"
+      ],
+      "albumId": "20Ol6zZ0nLlc5EGTH1zA0j",
+      "release_date": "2015-11-06",
+      "popularity": 79
+    },
+    {
+      "trackId": "3fH4KjXFYMmljxrcGrbPj9",
+      "name": "Don't You (Forget About Me)",
+      "duration_ms": 263040,
+      "artist": [
+        "Simple Minds"
+      ],
+      "artistId": [
+        "6hN9F0iuULZYWXppob22Aj"
+      ],
+      "albumId": "4YimfceN1R0nOS9CefIFhm",
+      "release_date": "1985",
+      "popularity": 76
+    },
+    {
+      "trackId": "3Qv6xH3hk7psel3oFCkqCY",
+      "name": "Monkey Eats Bananas",
+      "duration_ms": 204040,
+      "artist": [
+        "Princess Chelsea"
+      ],
+      "artistId": [
+        "6SrA4711bML5NvPO13Tr6t"
+      ],
+      "albumId": "7pFdmoYOVYeIDOVyML4IuZ",
+      "release_date": "2011",
+      "popularity": 25
+    }
+  ]
+}

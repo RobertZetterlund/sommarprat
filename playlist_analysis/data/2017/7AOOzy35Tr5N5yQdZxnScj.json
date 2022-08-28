@@ -1,112 +1,166 @@
-[
-  {
-    "trackId": "5fNRMdo6yjYhoVSOySuaar",
-    "name": "Joe",
-    "duration_ms": 155733,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "25FDyd2psz02G6ehzVr8sc",
-    "release_date": "1992-02-17",
-    "popularity": 4
-  },
-  {
-    "trackId": "2TSLt0hkUrp9dhQOwqI0ZS",
-    "name": "This Is Love",
-    "duration_ms": 224893,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "481bJKUAaLEvsPb7KqpZQP",
-    "release_date": "2001-08-14",
-    "popularity": 8
-  },
-  {
-    "trackId": "1YAlQXgiLY8tck2VcTjo4G",
-    "name": "Me-Jane",
-    "duration_ms": 162866,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "2fDJpBJhtloxzUENHlU9JB",
-    "release_date": "1993-01-01",
-    "popularity": 32
-  },
-  {
-    "trackId": "2K7qvmfEWQm41wIJkjDBj4",
-    "name": "The Last Living Rose",
-    "duration_ms": 141280,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "2JfiVMvVhdueC48EmskS7t",
-    "release_date": "2011-01-01",
-    "popularity": 35
-  },
-  {
-    "trackId": "2PttdezZsumXSdsrf5r5Ea",
-    "name": "Angelene",
-    "duration_ms": 214226,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "1LQlpOjLrnNvsqg6tosrYD",
-    "release_date": "1998-01-01",
-    "popularity": 51
-  },
-  {
-    "trackId": "5nn7S94u7W7TyxFVehJxGV",
-    "name": "Wind Quintet No. 4: I. Prologue",
-    "duration_ms": 415240,
-    "artist": "Harvey J. Stokes",
-    "artistId": "5cUuHpMiFm01n55lj8PZsV",
-    "albumId": "4mr95Bj7QKOGUDczxXNaGF",
-    "release_date": "2011-08-01",
-    "popularity": 0
-  },
-  {
-    "trackId": "537IPiZTZ1GVcohzFHAHf5",
-    "name": "To Bring You My Love",
-    "duration_ms": 331600,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "2yMg8ronKfVDHngnlLNnl8",
-    "release_date": "1995-01-01",
-    "popularity": 47
-  },
-  {
-    "trackId": "4pez5PGFmgDxGcNs2UgZ2l",
-    "name": "JackHammer",
-    "duration_ms": 217968,
-    "artist": "Harvey Mandel",
-    "artistId": "3Wrfz3A5PMc9fle2Tchv3N",
-    "albumId": "4DnuRrSsecMrdnP4DlJF3d",
-    "release_date": "2016-11-18",
-    "popularity": 1
-  },
-  {
-    "trackId": "6DST3HT8zF8WpNmg9tHuaa",
-    "name": "Let England Shake",
-    "duration_ms": 189280,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "2JfiVMvVhdueC48EmskS7t",
-    "release_date": "2011-01-01",
-    "popularity": 40
-  },
-  {
-    "trackId": "4QmBs5a3mFFLaLA1QTEVrN",
-    "name": "A Place Called Home",
-    "duration_ms": 222066,
-    "artist": "PJ Harvey",
-    "artistId": "12VaqyEhgwDRuFfEqbnrpz",
-    "albumId": "0hBWhJEmVyNPG2Jq71CJXz",
-    "release_date": "2000-01-01",
-    "popularity": 45
-  },
-  {
-    "trackId": "1GzvHphmlkPG2llMGu91sz",
-    "name": "Oaxaca",
-    "duration_ms": 169706,
-    "artist": "Daniel Lanois",
-    "artistId": "5S0AJvE9NB1kGrXRfYh690",
-    "albumId": "05tAz0b9gHjjlpaIOxNvfy",
-    "release_date": "2005-07-12",
-    "popularity": 18
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/927248",
+  "dob": "1975-04-20",
+  "title": "Lisa Langseth",
+  "date": "2017-08-13",
+  "playlistId": "7AOOzy35Tr5N5yQdZxnScj",
+  "imageurl": "https://static-cdn.sr.se/images/2071/a0953806-11bc-4dcb-84f5-b58f7b8810dc.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "5fNRMdo6yjYhoVSOySuaar",
+      "name": "Joe",
+      "duration_ms": 155733,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "25FDyd2psz02G6ehzVr8sc",
+      "release_date": "1992-02-17",
+      "popularity": 4
+    },
+    {
+      "trackId": "2TSLt0hkUrp9dhQOwqI0ZS",
+      "name": "This Is Love",
+      "duration_ms": 224893,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "481bJKUAaLEvsPb7KqpZQP",
+      "release_date": "2001-08-14",
+      "popularity": 8
+    },
+    {
+      "trackId": "1YAlQXgiLY8tck2VcTjo4G",
+      "name": "Me-Jane",
+      "duration_ms": 162866,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "2fDJpBJhtloxzUENHlU9JB",
+      "release_date": "1993-01-01",
+      "popularity": 32
+    },
+    {
+      "trackId": "2K7qvmfEWQm41wIJkjDBj4",
+      "name": "The Last Living Rose",
+      "duration_ms": 141280,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "2JfiVMvVhdueC48EmskS7t",
+      "release_date": "2011-01-01",
+      "popularity": 35
+    },
+    {
+      "trackId": "2PttdezZsumXSdsrf5r5Ea",
+      "name": "Angelene",
+      "duration_ms": 214226,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "1LQlpOjLrnNvsqg6tosrYD",
+      "release_date": "1998-01-01",
+      "popularity": 51
+    },
+    {
+      "trackId": "5nn7S94u7W7TyxFVehJxGV",
+      "name": "Wind Quintet No. 4: I. Prologue",
+      "duration_ms": 415240,
+      "artist": [
+        "Harvey J. Stokes",
+        "Hampton Winds"
+      ],
+      "artistId": [
+        "5cUuHpMiFm01n55lj8PZsV",
+        "4ur57NsuQjCtoK0mDChBs3"
+      ],
+      "albumId": "4mr95Bj7QKOGUDczxXNaGF",
+      "release_date": "2011-08-01",
+      "popularity": 0
+    },
+    {
+      "trackId": "537IPiZTZ1GVcohzFHAHf5",
+      "name": "To Bring You My Love",
+      "duration_ms": 331600,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "2yMg8ronKfVDHngnlLNnl8",
+      "release_date": "1995-01-01",
+      "popularity": 47
+    },
+    {
+      "trackId": "4pez5PGFmgDxGcNs2UgZ2l",
+      "name": "JackHammer",
+      "duration_ms": 217968,
+      "artist": [
+        "Harvey Mandel"
+      ],
+      "artistId": [
+        "3Wrfz3A5PMc9fle2Tchv3N"
+      ],
+      "albumId": "4DnuRrSsecMrdnP4DlJF3d",
+      "release_date": "2016-11-18",
+      "popularity": 1
+    },
+    {
+      "trackId": "6DST3HT8zF8WpNmg9tHuaa",
+      "name": "Let England Shake",
+      "duration_ms": 189280,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "2JfiVMvVhdueC48EmskS7t",
+      "release_date": "2011-01-01",
+      "popularity": 40
+    },
+    {
+      "trackId": "4QmBs5a3mFFLaLA1QTEVrN",
+      "name": "A Place Called Home",
+      "duration_ms": 222066,
+      "artist": [
+        "PJ Harvey"
+      ],
+      "artistId": [
+        "12VaqyEhgwDRuFfEqbnrpz"
+      ],
+      "albumId": "0hBWhJEmVyNPG2Jq71CJXz",
+      "release_date": "2000-01-01",
+      "popularity": 45
+    },
+    {
+      "trackId": "1GzvHphmlkPG2llMGu91sz",
+      "name": "Oaxaca",
+      "duration_ms": 169706,
+      "artist": [
+        "Daniel Lanois"
+      ],
+      "artistId": [
+        "5S0AJvE9NB1kGrXRfYh690"
+      ],
+      "albumId": "05tAz0b9gHjjlpaIOxNvfy",
+      "release_date": "2005-07-12",
+      "popularity": 18
+    }
+  ]
+}

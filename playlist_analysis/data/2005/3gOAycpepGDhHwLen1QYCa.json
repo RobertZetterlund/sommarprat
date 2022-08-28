@@ -1,112 +1,168 @@
-[
-  {
-    "trackId": "6YpkljD5apD7TLmG8JILPc",
-    "name": "Comfortable Numb",
-    "duration_ms": 550399,
-    "artist": "The Crazy Diamonds",
-    "artistId": "35hixzb5AFkCyD72j0op3C",
-    "albumId": "6QkZRmTabUl02J62bocV2S",
-    "release_date": "2012-03-14",
-    "popularity": 3
-  },
-  {
-    "trackId": "0urQn9B5jr85DTkCHnZBQL",
-    "name": "Isn't She Lovely",
-    "duration_ms": 271373,
-    "artist": "Lee Ritenour",
-    "artistId": "1nDqTUspmq8IXhcEZT93iq",
-    "albumId": "49HzKcx46MoOg2aZfgiE2c",
-    "release_date": "1977",
-    "popularity": 18
-  },
-  {
-    "trackId": "1wUxJp6xjtiVrXhsHBGHSy",
-    "name": "Concerto for Flute and Harp in C Major, K. 299: II. Andantino",
-    "duration_ms": 452000,
-    "artist": "Wolfgang Amadeus Mozart",
-    "artistId": "4NJhFmfw43RLBLjQvxDuRS",
-    "albumId": "0WYDjGqtVswFtw2xABNiV9",
-    "release_date": "1989-02-15",
-    "popularity": 42
-  },
-  {
-    "trackId": "6l6b7epmL1Eg7ZlxYqMVed",
-    "name": "Here Comes The Flood",
-    "duration_ms": 339000,
-    "artist": "Peter Gabriel",
-    "artistId": "7C4sUpWGlTy7IANjruj02I",
-    "albumId": "0kDFjyfGFtiIMXlxJ120Ok",
-    "release_date": "1977",
-    "popularity": 41
-  },
-  {
-    "trackId": "41AZHuVBj101ucLqLykb0a",
-    "name": "För kärlekens skull",
-    "duration_ms": 242413,
-    "artist": "Ted Gärdestad",
-    "artistId": "6zpub6jbY6CdrcqQsDq8P4",
-    "albumId": "4V98pVvObWpDvwIoAMwyZX",
-    "release_date": "1980",
-    "popularity": 54
-  },
-  {
-    "trackId": "7bXfHoEdg1jR9ie6FvE7ef",
-    "name": "Jag vill ha en egen måne",
-    "duration_ms": 202320,
-    "artist": "Janne Schaffer",
-    "artistId": "1FdRWg2tqR4I7jjA29vWYU",
-    "albumId": "25fn5Y6ZPYzJ1eMNjRDj9c",
-    "release_date": "2004-01-01",
-    "popularity": 29
-  },
-  {
-    "trackId": "4gGbnyw4jztAZSIPYuabs5",
-    "name": "Are You Going With Me?",
-    "duration_ms": 527373,
-    "artist": "Pat Metheny Group",
-    "artistId": "4uBSazM6snEc9wCG3jMlYt",
-    "albumId": "1heeMC7VVWEDxdQKxesqQK",
-    "release_date": "1982-05-03",
-    "popularity": 43
-  },
-  {
-    "trackId": "37Tmv4NnfQeb0ZgUC4fOJj",
-    "name": "Sultans Of Swing",
-    "duration_ms": 348400,
-    "artist": "Dire Straits",
-    "artistId": "0WwSkZ7LtFUFjGjMZBMt6T",
-    "albumId": "2rCS6Xwx32V27pvgFzLzlT",
-    "release_date": "1978-10-07",
-    "popularity": 81
-  },
-  {
-    "trackId": "3SPcBPzvbmWLl8NU5efx4W",
-    "name": "Telephone Line",
-    "duration_ms": 280360,
-    "artist": "Electric Light Orchestra",
-    "artistId": "7jefIIksOi1EazgRTfW2Pk",
-    "albumId": "7a35UzxXYuKQGMGImyB0Un",
-    "release_date": "1976-09-01",
-    "popularity": 62
-  },
-  {
-    "trackId": "25tZHMv3ctlzqDaHAeuU9c",
-    "name": "The Great Gig In The Sky - 2011 Remastered Version",
-    "duration_ms": 284413,
-    "artist": "Pink Floyd",
-    "artistId": "0k17h0D3J5VfsdmQ1iZtE9",
-    "albumId": "2WT1pbYjLJciAR26yMebkH",
-    "release_date": "1973-03-01",
-    "popularity": 59
-  },
-  {
-    "trackId": "3yF1ldID5Zi8dCQXfpaga7",
-    "name": "LIVING CORPSE",
-    "duration_ms": 117578,
-    "artist": "EL$E",
-    "artistId": "36zaLvAR3hvPMtlSqgQs2i",
-    "albumId": "2OyRgwlQ6LHWYAUPbDwG1M",
-    "release_date": "2022-02-04",
-    "popularity": 27
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/359363",
+  "dob": "undefined-undefined-1962",
+  "title": "Richard Juhlin",
+  "date": "2005-07-14",
+  "playlistId": "3gOAycpepGDhHwLen1QYCa",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3232988_2048_1146.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "6YpkljD5apD7TLmG8JILPc",
+      "name": "Comfortable Numb",
+      "duration_ms": 550399,
+      "artist": [
+        "The Crazy Diamonds"
+      ],
+      "artistId": [
+        "35hixzb5AFkCyD72j0op3C"
+      ],
+      "albumId": "6QkZRmTabUl02J62bocV2S",
+      "release_date": "2012-03-14",
+      "popularity": 3
+    },
+    {
+      "trackId": "0urQn9B5jr85DTkCHnZBQL",
+      "name": "Isn't She Lovely",
+      "duration_ms": 271373,
+      "artist": [
+        "Lee Ritenour"
+      ],
+      "artistId": [
+        "1nDqTUspmq8IXhcEZT93iq"
+      ],
+      "albumId": "49HzKcx46MoOg2aZfgiE2c",
+      "release_date": "1977",
+      "popularity": 18
+    },
+    {
+      "trackId": "1wUxJp6xjtiVrXhsHBGHSy",
+      "name": "Concerto for Flute and Harp in C Major, K. 299: II. Andantino",
+      "duration_ms": 452000,
+      "artist": [
+        "Wolfgang Amadeus Mozart",
+        "Jiří Válek",
+        "Hana Mullerova"
+      ],
+      "artistId": [
+        "4NJhFmfw43RLBLjQvxDuRS",
+        "3fy2bA62oqu2OxyTUsJgAn",
+        "10BZZcy4jus4jMxUknYq9p"
+      ],
+      "albumId": "0WYDjGqtVswFtw2xABNiV9",
+      "release_date": "1989-02-15",
+      "popularity": 42
+    },
+    {
+      "trackId": "6l6b7epmL1Eg7ZlxYqMVed",
+      "name": "Here Comes The Flood",
+      "duration_ms": 339000,
+      "artist": [
+        "Peter Gabriel"
+      ],
+      "artistId": [
+        "7C4sUpWGlTy7IANjruj02I"
+      ],
+      "albumId": "0kDFjyfGFtiIMXlxJ120Ok",
+      "release_date": "1977",
+      "popularity": 41
+    },
+    {
+      "trackId": "41AZHuVBj101ucLqLykb0a",
+      "name": "För kärlekens skull",
+      "duration_ms": 242413,
+      "artist": [
+        "Ted Gärdestad"
+      ],
+      "artistId": [
+        "6zpub6jbY6CdrcqQsDq8P4"
+      ],
+      "albumId": "4V98pVvObWpDvwIoAMwyZX",
+      "release_date": "1980",
+      "popularity": 54
+    },
+    {
+      "trackId": "7bXfHoEdg1jR9ie6FvE7ef",
+      "name": "Jag vill ha en egen måne",
+      "duration_ms": 202320,
+      "artist": [
+        "Janne Schaffer"
+      ],
+      "artistId": [
+        "1FdRWg2tqR4I7jjA29vWYU"
+      ],
+      "albumId": "25fn5Y6ZPYzJ1eMNjRDj9c",
+      "release_date": "2004-01-01",
+      "popularity": 29
+    },
+    {
+      "trackId": "4gGbnyw4jztAZSIPYuabs5",
+      "name": "Are You Going With Me?",
+      "duration_ms": 527373,
+      "artist": [
+        "Pat Metheny Group"
+      ],
+      "artistId": [
+        "4uBSazM6snEc9wCG3jMlYt"
+      ],
+      "albumId": "1heeMC7VVWEDxdQKxesqQK",
+      "release_date": "1982-05-03",
+      "popularity": 43
+    },
+    {
+      "trackId": "37Tmv4NnfQeb0ZgUC4fOJj",
+      "name": "Sultans Of Swing",
+      "duration_ms": 348400,
+      "artist": [
+        "Dire Straits"
+      ],
+      "artistId": [
+        "0WwSkZ7LtFUFjGjMZBMt6T"
+      ],
+      "albumId": "2rCS6Xwx32V27pvgFzLzlT",
+      "release_date": "1978-10-07",
+      "popularity": 81
+    },
+    {
+      "trackId": "3SPcBPzvbmWLl8NU5efx4W",
+      "name": "Telephone Line",
+      "duration_ms": 280360,
+      "artist": [
+        "Electric Light Orchestra"
+      ],
+      "artistId": [
+        "7jefIIksOi1EazgRTfW2Pk"
+      ],
+      "albumId": "7a35UzxXYuKQGMGImyB0Un",
+      "release_date": "1976-09-01",
+      "popularity": 62
+    },
+    {
+      "trackId": "25tZHMv3ctlzqDaHAeuU9c",
+      "name": "The Great Gig In The Sky - 2011 Remastered Version",
+      "duration_ms": 284413,
+      "artist": [
+        "Pink Floyd"
+      ],
+      "artistId": [
+        "0k17h0D3J5VfsdmQ1iZtE9"
+      ],
+      "albumId": "2WT1pbYjLJciAR26yMebkH",
+      "release_date": "1973-03-01",
+      "popularity": 59
+    },
+    {
+      "trackId": "3yF1ldID5Zi8dCQXfpaga7",
+      "name": "LIVING CORPSE",
+      "duration_ms": 117578,
+      "artist": [
+        "EL$E"
+      ],
+      "artistId": [
+        "36zaLvAR3hvPMtlSqgQs2i"
+      ],
+      "albumId": "2OyRgwlQ6LHWYAUPbDwG1M",
+      "release_date": "2022-02-04",
+      "popularity": 27
+    }
+  ]
+}

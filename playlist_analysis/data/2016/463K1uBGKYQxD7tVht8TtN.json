@@ -1,112 +1,166 @@
-[
-  {
-    "trackId": "0ZvgXNstN4o2ZXPomtBYVp",
-    "name": "Good Golly, Miss Molly",
-    "duration_ms": 129132,
-    "artist": "Little Richard",
-    "artistId": "4xls23Ye9WR9yy3yYMpAMm",
-    "albumId": "18VnWTsdEcofimkOHcWBAu",
-    "release_date": "1969-01-01",
-    "popularity": 62
-  },
-  {
-    "trackId": "0K9Xk9AKGtvjXn063Ok6Eg",
-    "name": "Riot In Cell Block Number Nine",
-    "duration_ms": 150933,
-    "artist": "Wanda Jackson",
-    "artistId": "5ZKMPRDHc7qElVJFh3uRqB",
-    "albumId": "39htnVOmsFgAUft9YHpvZ2",
-    "release_date": "2020-10-23",
-    "popularity": 24
-  },
-  {
-    "trackId": "2k0dNwPK8o8N5SkLOyj0bS",
-    "name": "Out Of The Rain",
-    "duration_ms": 273693,
-    "artist": "Etta James",
-    "artistId": "0iOVhN3tnSvgDbcg25JoJb",
-    "albumId": "3KrNG7VH4MPb4LM1lQi6aT",
-    "release_date": "1990-01-01",
-    "popularity": 35
-  },
-  {
-    "trackId": "0BSGaoMiJ5gTho2V1pLkDF",
-    "name": "A Most Disgusting Song",
-    "duration_ms": 289213,
-    "artist": "Rodríguez",
-    "artistId": "5PrHzxc3kFm4hIrGNmelpX",
-    "albumId": "2X0L9mwLuMqAK8rf965Vmi",
-    "release_date": "1971",
-    "popularity": 40
-  },
-  {
-    "trackId": "3296oI1RAp9D50CAqnc7A0",
-    "name": "Good Rockin' Daddy",
-    "duration_ms": 148666,
-    "artist": "Etta James",
-    "artistId": "0iOVhN3tnSvgDbcg25JoJb",
-    "albumId": "2VvaqZM4wcBLL8i4qYf31N",
-    "release_date": "1998-02-23",
-    "popularity": 30
-  },
-  {
-    "trackId": "2UP3LtHVsSiwt39JR4foQT",
-    "name": "Kliff",
-    "duration_ms": 195000,
-    "artist": "Ola Magnell",
-    "artistId": "0EcjEGUjRcoFoVinJpwi91",
-    "albumId": "4fD5UIcbjsAMBdJnCkcx2J",
-    "release_date": "1975",
-    "popularity": 41
-  },
-  {
-    "trackId": "75c6ZwxUfuMapPmYSZKTTN",
-    "name": "Two Trains Running",
-    "duration_ms": 238546,
-    "artist": "Maxwell Street Jimmy Davis",
-    "artistId": "2Ddm2vik5ykV0RzSjVDoHo",
-    "albumId": "1dOHr3kh7xkKF3oA9EVhh8",
-    "release_date": "1988",
-    "popularity": 1
-  },
-  {
-    "trackId": "5p4zuCusdHsaNgJoEiIa0T",
-    "name": "Meet Me Down The Bottom",
-    "duration_ms": 221960,
-    "artist": "Sonny Terry",
-    "artistId": "66hQFpsfaFzK8UbsQofCGv",
-    "albumId": "03bQIspObHQwkQIBOq7XaO",
-    "release_date": "1977-01-01",
-    "popularity": 3
-  },
-  {
-    "trackId": "7s070eMt2oBO4nVjnH7rUD",
-    "name": "Use What You Got",
-    "duration_ms": 160026,
-    "artist": "Sugar Pie DeSanto",
-    "artistId": "3xIkJAnwLy7NwZpPwvaSPc",
-    "albumId": "0LH0ZJuhr4TJMWud6K6qdy",
-    "release_date": "2017-12-08",
-    "popularity": 22
-  },
-  {
-    "trackId": "6gwmk9512V7TbZFA1alZAx",
-    "name": "Juicy John Pink",
-    "duration_ms": 124360,
-    "artist": "Procol Harum",
-    "artistId": "0GbqW5TJr7n4is453VOY4C",
-    "albumId": "1IIiA6WGb5XGb9qZpvCQKK",
-    "release_date": "1969-06-02",
-    "popularity": 18
-  },
-  {
-    "trackId": "0FFGSas4AkG7jGlgJAelul",
-    "name": "Full Moon On Main Street",
-    "duration_ms": 292533,
-    "artist": "Omar and The Howlers",
-    "artistId": "70PvPWG9nD4ZujibB1onsO",
-    "albumId": "56cPzE2SsL1uoQ6gFUVCBz",
-    "release_date": "1996-01-01",
-    "popularity": 30
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/743434",
+  "dob": null,
+  "title": "Ove \"Doc Forest\" Skog",
+  "date": "2016-07-07",
+  "playlistId": "463K1uBGKYQxD7tVht8TtN",
+  "imageurl": "https://static-cdn.sr.se/images/2071/8e0ce512-723d-483a-aa55-754e734bae59.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "0ZvgXNstN4o2ZXPomtBYVp",
+      "name": "Good Golly, Miss Molly",
+      "duration_ms": 129132,
+      "artist": [
+        "Little Richard"
+      ],
+      "artistId": [
+        "4xls23Ye9WR9yy3yYMpAMm"
+      ],
+      "albumId": "18VnWTsdEcofimkOHcWBAu",
+      "release_date": "1969-01-01",
+      "popularity": 62
+    },
+    {
+      "trackId": "0K9Xk9AKGtvjXn063Ok6Eg",
+      "name": "Riot In Cell Block Number Nine",
+      "duration_ms": 150933,
+      "artist": [
+        "Wanda Jackson"
+      ],
+      "artistId": [
+        "5ZKMPRDHc7qElVJFh3uRqB"
+      ],
+      "albumId": "39htnVOmsFgAUft9YHpvZ2",
+      "release_date": "2020-10-23",
+      "popularity": 24
+    },
+    {
+      "trackId": "2k0dNwPK8o8N5SkLOyj0bS",
+      "name": "Out Of The Rain",
+      "duration_ms": 273693,
+      "artist": [
+        "Etta James"
+      ],
+      "artistId": [
+        "0iOVhN3tnSvgDbcg25JoJb"
+      ],
+      "albumId": "3KrNG7VH4MPb4LM1lQi6aT",
+      "release_date": "1990-01-01",
+      "popularity": 35
+    },
+    {
+      "trackId": "0BSGaoMiJ5gTho2V1pLkDF",
+      "name": "A Most Disgusting Song",
+      "duration_ms": 289213,
+      "artist": [
+        "Rodríguez"
+      ],
+      "artistId": [
+        "5PrHzxc3kFm4hIrGNmelpX"
+      ],
+      "albumId": "2X0L9mwLuMqAK8rf965Vmi",
+      "release_date": "1971",
+      "popularity": 40
+    },
+    {
+      "trackId": "3296oI1RAp9D50CAqnc7A0",
+      "name": "Good Rockin' Daddy",
+      "duration_ms": 148666,
+      "artist": [
+        "Etta James"
+      ],
+      "artistId": [
+        "0iOVhN3tnSvgDbcg25JoJb"
+      ],
+      "albumId": "2VvaqZM4wcBLL8i4qYf31N",
+      "release_date": "1998-02-23",
+      "popularity": 30
+    },
+    {
+      "trackId": "2UP3LtHVsSiwt39JR4foQT",
+      "name": "Kliff",
+      "duration_ms": 195000,
+      "artist": [
+        "Ola Magnell"
+      ],
+      "artistId": [
+        "0EcjEGUjRcoFoVinJpwi91"
+      ],
+      "albumId": "4fD5UIcbjsAMBdJnCkcx2J",
+      "release_date": "1975",
+      "popularity": 41
+    },
+    {
+      "trackId": "75c6ZwxUfuMapPmYSZKTTN",
+      "name": "Two Trains Running",
+      "duration_ms": 238546,
+      "artist": [
+        "Maxwell Street Jimmy Davis"
+      ],
+      "artistId": [
+        "2Ddm2vik5ykV0RzSjVDoHo"
+      ],
+      "albumId": "1dOHr3kh7xkKF3oA9EVhh8",
+      "release_date": "1988",
+      "popularity": 1
+    },
+    {
+      "trackId": "5p4zuCusdHsaNgJoEiIa0T",
+      "name": "Meet Me Down The Bottom",
+      "duration_ms": 221960,
+      "artist": [
+        "Sonny Terry",
+        "Brownie McGhee"
+      ],
+      "artistId": [
+        "66hQFpsfaFzK8UbsQofCGv",
+        "3qXzj7WzBV3kwy1yEV1RcC"
+      ],
+      "albumId": "03bQIspObHQwkQIBOq7XaO",
+      "release_date": "1977-01-01",
+      "popularity": 3
+    },
+    {
+      "trackId": "7s070eMt2oBO4nVjnH7rUD",
+      "name": "Use What You Got",
+      "duration_ms": 160026,
+      "artist": [
+        "Sugar Pie DeSanto"
+      ],
+      "artistId": [
+        "3xIkJAnwLy7NwZpPwvaSPc"
+      ],
+      "albumId": "0LH0ZJuhr4TJMWud6K6qdy",
+      "release_date": "2017-12-08",
+      "popularity": 22
+    },
+    {
+      "trackId": "6gwmk9512V7TbZFA1alZAx",
+      "name": "Juicy John Pink",
+      "duration_ms": 124360,
+      "artist": [
+        "Procol Harum"
+      ],
+      "artistId": [
+        "0GbqW5TJr7n4is453VOY4C"
+      ],
+      "albumId": "1IIiA6WGb5XGb9qZpvCQKK",
+      "release_date": "1969-06-02",
+      "popularity": 18
+    },
+    {
+      "trackId": "0FFGSas4AkG7jGlgJAelul",
+      "name": "Full Moon On Main Street",
+      "duration_ms": 292533,
+      "artist": [
+        "Omar and The Howlers"
+      ],
+      "artistId": [
+        "70PvPWG9nD4ZujibB1onsO"
+      ],
+      "albumId": "56cPzE2SsL1uoQ6gFUVCBz",
+      "release_date": "1996-01-01",
+      "popularity": 30
+    }
+  ]
+}

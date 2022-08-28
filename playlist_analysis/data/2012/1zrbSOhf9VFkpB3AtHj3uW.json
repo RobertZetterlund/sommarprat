@@ -1,102 +1,166 @@
-[
-  {
-    "trackId": "0GHfUaEIXQunhLI13QSvBe",
-    "name": "I've Grown Accustomed to Her Face - 1990 Remix / Remaster",
-    "duration_ms": 184840,
-    "artist": "Count Basie",
-    "artistId": "2jFZlvIea42ZvcCw4OeEdA",
-    "albumId": "7JmMDmIkkiGpf2YFpYG1Jm",
-    "release_date": "1959",
-    "popularity": 14
-  },
-  {
-    "trackId": "7mLs9wMQe6nHltpUbtnamE",
-    "name": "Another Night In Tunisia",
-    "duration_ms": 254000,
-    "artist": "Bobby McFerrin",
-    "artistId": "2FjkZT851ez950cyPjeYid",
-    "albumId": "5QXK9xXDSYvSOXYSJHdwOD",
-    "release_date": "1997-01-01",
-    "popularity": 16
-  },
-  {
-    "trackId": "696mUEnI7IpMvLq2Tlnn2u",
-    "name": "Smoke Gets In Your Eyes",
-    "duration_ms": 204440,
-    "artist": "Dinah Washington",
-    "artistId": "32LHRiof0sa4taYew9i3Fa",
-    "albumId": "28EUtXFCY6AuKxFDyLt1Ol",
-    "release_date": "1956-01-01",
-    "popularity": 50
-  },
-  {
-    "trackId": "2ieI9RAK6OxCH70Dib7n1a",
-    "name": "Liebesleid",
-    "duration_ms": 185200,
-    "artist": "Fritz Kreisler",
-    "artistId": "0HdNDZaNm7xLt18v9aWDfe",
-    "albumId": "2DWcUzmH7kDYSSImU9Tsw3",
-    "release_date": "2019-07-01",
-    "popularity": 3
-  },
-  {
-    "trackId": "0OTh3VUryqQpS70r9FVt15",
-    "name": "Zigeunerweisen, Op. 20 - Arr. for Trumpet and Piano",
-    "duration_ms": 378866,
-    "artist": "Pablo de Sarasate",
-    "artistId": "3L1iFJfRzE7yzilr2yGl6t",
-    "albumId": "2Jrw4Er64d8LWMgdeIvr5V",
-    "release_date": "2000",
-    "popularity": 2
-  },
-  {
-    "trackId": "4uKqwGfCQdqjfLkFZkdzFe",
-    "name": "Lester Leaps In",
-    "duration_ms": 236920,
-    "artist": "Oscar Peterson",
-    "artistId": "6zkX5fhrSD4tdVOmimR9wB",
-    "albumId": "7ETDHJ9yletBCxNx0ipr1x",
-    "release_date": "1956-01-01",
-    "popularity": 21
-  },
-  {
-    "trackId": "2XPqOKbyvuLFXp35wHbhMk",
-    "name": "Numbers - Short Version",
-    "duration_ms": 175000,
-    "artist": "Sandor Csaba",
-    "artistId": "3attupr6YOdzMjSw7ntra5",
-    "albumId": "1N5TwXLArUZsNCqJAGndC7",
-    "release_date": "2019-11-01",
-    "popularity": 21
-  },
-  {
-    "trackId": "5yZQXR98v0kvhYQ7Adn8PK",
-    "name": "Good Rockin' Tonight",
-    "duration_ms": 131866,
-    "artist": "Elvis Presley",
-    "artistId": "43ZHCT0cAZBISjO8DG9PnE",
-    "albumId": "0gv5aiVS1WBUZOKeb7YawE",
-    "release_date": "1997-07-15",
-    "popularity": 39
-  },
-  {
-    "trackId": "3cg0dJfrQB66Qf2YthPb6G",
-    "name": "The Thrill Is Gone",
-    "duration_ms": 301133,
-    "artist": "B.B. King",
-    "artistId": "5xLSa7l4IV1gsQfhAMvl0U",
-    "albumId": "3fIftPnF4eb7gkg2lFS1TV",
-    "release_date": "1997-11-04",
-    "popularity": 62
-  },
-  {
-    "trackId": "0dTf1jT4i2DkEMW1wZ97wu",
-    "name": "The Gospel Truth",
-    "duration_ms": 301226,
-    "artist": "Freddie Hubbard",
-    "artistId": "0fTHKjepK5HWOrb2rkS5Em",
-    "albumId": "5vdK1fs5l1WdUE1rWh0sU6",
-    "release_date": "2007-03-19",
-    "popularity": 2
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/116693",
+  "dob": "1940-05-30",
+  "title": "Jan Lööf",
+  "date": "2012-07-19",
+  "playlistId": "1zrbSOhf9VFkpB3AtHj3uW",
+  "imageurl": "https://static-cdn.sr.se/images/2071/2354642_1200_675.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "0GHfUaEIXQunhLI13QSvBe",
+      "name": "I've Grown Accustomed to Her Face - 1990 Remix / Remaster",
+      "duration_ms": 184840,
+      "artist": [
+        "Count Basie",
+        "Tony Bennett",
+        "Tristan Powell"
+      ],
+      "artistId": [
+        "2jFZlvIea42ZvcCw4OeEdA",
+        "2lolQgalUvZDfp5vvVtTYV",
+        "2UOqj3OfNn5lE6npQ6eQql"
+      ],
+      "albumId": "7JmMDmIkkiGpf2YFpYG1Jm",
+      "release_date": "1959",
+      "popularity": 14
+    },
+    {
+      "trackId": "7mLs9wMQe6nHltpUbtnamE",
+      "name": "Another Night In Tunisia",
+      "duration_ms": 254000,
+      "artist": [
+        "Bobby McFerrin",
+        "Jon Hendricks",
+        "The Manhattan Transfer"
+      ],
+      "artistId": [
+        "2FjkZT851ez950cyPjeYid",
+        "2Kn5swSfLmUU2WEJVlQvJY",
+        "2dogRElUKV20C2khRHqjRc"
+      ],
+      "albumId": "5QXK9xXDSYvSOXYSJHdwOD",
+      "release_date": "1997-01-01",
+      "popularity": 16
+    },
+    {
+      "trackId": "696mUEnI7IpMvLq2Tlnn2u",
+      "name": "Smoke Gets In Your Eyes",
+      "duration_ms": 204440,
+      "artist": [
+        "Dinah Washington"
+      ],
+      "artistId": [
+        "32LHRiof0sa4taYew9i3Fa"
+      ],
+      "albumId": "28EUtXFCY6AuKxFDyLt1Ol",
+      "release_date": "1956-01-01",
+      "popularity": 50
+    },
+    {
+      "trackId": "2ieI9RAK6OxCH70Dib7n1a",
+      "name": "Liebesleid",
+      "duration_ms": 185200,
+      "artist": [
+        "Fritz Kreisler",
+        "Timofei Dokshitser"
+      ],
+      "artistId": [
+        "0HdNDZaNm7xLt18v9aWDfe",
+        "3FdvQT15gSyfEtvdx0cJjR"
+      ],
+      "albumId": "2DWcUzmH7kDYSSImU9Tsw3",
+      "release_date": "2019-07-01",
+      "popularity": 3
+    },
+    {
+      "trackId": "0OTh3VUryqQpS70r9FVt15",
+      "name": "Zigeunerweisen, Op. 20 - Arr. for Trumpet and Piano",
+      "duration_ms": 378866,
+      "artist": [
+        "Pablo de Sarasate",
+        "Timofey Dokshizer",
+        "Sergey Solodovnik"
+      ],
+      "artistId": [
+        "3L1iFJfRzE7yzilr2yGl6t",
+        "3js64Pb1sOOggUxgPQHdiL",
+        "1XNWKaxvns9YRTHv3FJ0Ud"
+      ],
+      "albumId": "2Jrw4Er64d8LWMgdeIvr5V",
+      "release_date": "2000",
+      "popularity": 2
+    },
+    {
+      "trackId": "4uKqwGfCQdqjfLkFZkdzFe",
+      "name": "Lester Leaps In",
+      "duration_ms": 236920,
+      "artist": [
+        "Oscar Peterson"
+      ],
+      "artistId": [
+        "6zkX5fhrSD4tdVOmimR9wB"
+      ],
+      "albumId": "7ETDHJ9yletBCxNx0ipr1x",
+      "release_date": "1956-01-01",
+      "popularity": 21
+    },
+    {
+      "trackId": "2XPqOKbyvuLFXp35wHbhMk",
+      "name": "Numbers - Short Version",
+      "duration_ms": 175000,
+      "artist": [
+        "Sandor Csaba"
+      ],
+      "artistId": [
+        "3attupr6YOdzMjSw7ntra5"
+      ],
+      "albumId": "1N5TwXLArUZsNCqJAGndC7",
+      "release_date": "2019-11-01",
+      "popularity": 21
+    },
+    {
+      "trackId": "5yZQXR98v0kvhYQ7Adn8PK",
+      "name": "Good Rockin' Tonight",
+      "duration_ms": 131866,
+      "artist": [
+        "Elvis Presley"
+      ],
+      "artistId": [
+        "43ZHCT0cAZBISjO8DG9PnE"
+      ],
+      "albumId": "0gv5aiVS1WBUZOKeb7YawE",
+      "release_date": "1997-07-15",
+      "popularity": 39
+    },
+    {
+      "trackId": "3cg0dJfrQB66Qf2YthPb6G",
+      "name": "The Thrill Is Gone",
+      "duration_ms": 301133,
+      "artist": [
+        "B.B. King",
+        "Tracy Chapman"
+      ],
+      "artistId": [
+        "5xLSa7l4IV1gsQfhAMvl0U",
+        "7oPgCQqMMXEXrNau5vxYZP"
+      ],
+      "albumId": "3fIftPnF4eb7gkg2lFS1TV",
+      "release_date": "1997-11-04",
+      "popularity": 62
+    },
+    {
+      "trackId": "0dTf1jT4i2DkEMW1wZ97wu",
+      "name": "The Gospel Truth",
+      "duration_ms": 301226,
+      "artist": [
+        "Freddie Hubbard"
+      ],
+      "artistId": [
+        "0fTHKjepK5HWOrb2rkS5Em"
+      ],
+      "albumId": "5vdK1fs5l1WdUE1rWh0sU6",
+      "release_date": "2007-03-19",
+      "popularity": 2
+    }
+  ]
+}

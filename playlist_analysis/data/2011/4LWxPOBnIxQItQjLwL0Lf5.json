@@ -1,112 +1,170 @@
-[
-  {
-    "trackId": "11aFVmFy8903RwDx4ohQiq",
-    "name": "Be (Intro)",
-    "duration_ms": 144200,
-    "artist": "Common",
-    "artistId": "2GHclqNVjqGuiE5mA7BEoc",
-    "albumId": "2UuvBxV56QWWj2uviGS0up",
-    "release_date": "2005-01-01",
-    "popularity": 54
-  },
-  {
-    "trackId": "6295Cr4SGdjJgnJ6DLtZFn",
-    "name": "Gimme Hope Jo'anna",
-    "duration_ms": 243695,
-    "artist": "Eddy Grant",
-    "artistId": "6j2HWcd7z61iTLbi8eD0hA",
-    "albumId": "1GDBjjWoOsRzvmK4PRo92a",
-    "release_date": "2015-05-26",
-    "popularity": 59
-  },
-  {
-    "trackId": "5vNIsgZxCxc2MVEqBfpmoR",
-    "name": "Sai",
-    "duration_ms": 698036,
-    "artist": "Kanda Bongo Man",
-    "artistId": "4vW2jrWYJT4wDkjbhpubca",
-    "albumId": "3UMVpGhL0NhRl8kDUCAJkt",
-    "release_date": "2018-10-16",
-    "popularity": 25
-  },
-  {
-    "trackId": "2vfvGlqCB7oertO5VLE0sz",
-    "name": "ATLiens",
-    "duration_ms": 230693,
-    "artist": "Outkast",
-    "artistId": "1G9G7WwrXka3Z1r7aIDjI7",
-    "albumId": "1IaBCF26OjgYwUCEPaIyC0",
-    "release_date": "1996-08-27",
-    "popularity": 68
-  },
-  {
-    "trackId": "5vt3kZ9so8g4PGIaRvvcFa",
-    "name": "The Bike Song",
-    "duration_ms": 263266,
-    "artist": "Mark Ronson",
-    "artistId": "3hv9jJF3adDNsBSIQDqcjp",
-    "albumId": "0m8wvW3WNm9D7J0KUlbf3h",
-    "release_date": "2010-09-21",
-    "popularity": 38
-  },
-  {
-    "trackId": "1Ud6moTC0KyXMq1Oxfien0",
-    "name": "Sympathy For The Devil - 50th Anniversary Edition",
-    "duration_ms": 378146,
-    "artist": "The Rolling Stones",
-    "artistId": "22bE4uQ6baNwSHPVcDxLCe",
-    "albumId": "6OHri5qNxwCdVSdyCslspd",
-    "release_date": "1968-12-06",
-    "popularity": 74
-  },
-  {
-    "trackId": "6eMSo5M3xhDg3k9pwNNUku",
-    "name": "Svart-vit calypso",
-    "duration_ms": 195360,
-    "artist": "Monica Zetterlund",
-    "artistId": "7mvvG63CNSY93JWAJ37rnD",
-    "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
-    "release_date": "1973-09-05",
-    "popularity": 10
-  },
-  {
-    "trackId": "4MsKbOCDdT6g3qAlkRjbst",
-    "name": "Djojj och önskestjärnan, del 2",
-    "duration_ms": 62466,
-    "artist": "Humlan Djojj",
-    "artistId": "73nQT8Arf05XV666SlvrVQ",
-    "albumId": "2CaYIDiu1ffrIpLhyyj8bo",
-    "release_date": "2019-12-13",
-    "popularity": 24
-  },
-  {
-    "trackId": "06Gdd6zfAHBy7B5DxaBugm",
-    "name": "Cashen dom tas",
-    "duration_ms": 287893,
-    "artist": "The Latin Kings",
-    "artistId": "5xy5lbpiufHCNWfApvpSYJ",
-    "albumId": "5kdYKxMey0V4SNP3geTX9k",
-    "release_date": "2003",
-    "popularity": 45
-  },
-  {
-    "trackId": "2uWMj52ImAeeGQFJmVlU5H",
-    "name": "1nce Again (feat. Tammy Lucas) - Radio Version",
-    "duration_ms": 229226,
-    "artist": "A Tribe Called Quest",
-    "artistId": "09hVIj6vWgoCDtT03h8ZCa",
-    "albumId": "0EguP4tsJurU5I8ocCxdyb",
-    "release_date": "1996-07-30",
-    "popularity": 51
-  },
-  {
-    "trackId": "0KOE1hat4SIer491XKk4Pa",
-    "name": "A Change Is Gonna Come",
-    "duration_ms": 191160,
-    "artist": "Sam Cooke",
-    "artistId": "6hnWRPzGGKiapVX1UCdEAC",
-    "albumId": "2NFd4ApYFitFtJhGTSfDdP",
-    "release_date": "1964-03-01",
-    "popularity": 66
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/126253",
+  "dob": "1983-08-18",
+  "title": "Daniel Adams-Ray",
+  "date": "2011-08-09",
+  "playlistId": "4LWxPOBnIxQItQjLwL0Lf5",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3243399_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "11aFVmFy8903RwDx4ohQiq",
+      "name": "Be (Intro)",
+      "duration_ms": 144200,
+      "artist": [
+        "Common"
+      ],
+      "artistId": [
+        "2GHclqNVjqGuiE5mA7BEoc"
+      ],
+      "albumId": "2UuvBxV56QWWj2uviGS0up",
+      "release_date": "2005-01-01",
+      "popularity": 54
+    },
+    {
+      "trackId": "6295Cr4SGdjJgnJ6DLtZFn",
+      "name": "Gimme Hope Jo'anna",
+      "duration_ms": 243695,
+      "artist": [
+        "Eddy Grant"
+      ],
+      "artistId": [
+        "6j2HWcd7z61iTLbi8eD0hA"
+      ],
+      "albumId": "1GDBjjWoOsRzvmK4PRo92a",
+      "release_date": "2015-05-26",
+      "popularity": 59
+    },
+    {
+      "trackId": "5vNIsgZxCxc2MVEqBfpmoR",
+      "name": "Sai",
+      "duration_ms": 698036,
+      "artist": [
+        "Kanda Bongo Man"
+      ],
+      "artistId": [
+        "4vW2jrWYJT4wDkjbhpubca"
+      ],
+      "albumId": "3UMVpGhL0NhRl8kDUCAJkt",
+      "release_date": "2018-10-16",
+      "popularity": 25
+    },
+    {
+      "trackId": "2vfvGlqCB7oertO5VLE0sz",
+      "name": "ATLiens",
+      "duration_ms": 230693,
+      "artist": [
+        "Outkast"
+      ],
+      "artistId": [
+        "1G9G7WwrXka3Z1r7aIDjI7"
+      ],
+      "albumId": "1IaBCF26OjgYwUCEPaIyC0",
+      "release_date": "1996-08-27",
+      "popularity": 68
+    },
+    {
+      "trackId": "5vt3kZ9so8g4PGIaRvvcFa",
+      "name": "The Bike Song",
+      "duration_ms": 263266,
+      "artist": [
+        "Mark Ronson",
+        "The Business Intl"
+      ],
+      "artistId": [
+        "3hv9jJF3adDNsBSIQDqcjp",
+        "5D19FUPuoRUpCBtWoY14C4"
+      ],
+      "albumId": "0m8wvW3WNm9D7J0KUlbf3h",
+      "release_date": "2010-09-21",
+      "popularity": 38
+    },
+    {
+      "trackId": "1Ud6moTC0KyXMq1Oxfien0",
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "duration_ms": 378146,
+      "artist": [
+        "The Rolling Stones"
+      ],
+      "artistId": [
+        "22bE4uQ6baNwSHPVcDxLCe"
+      ],
+      "albumId": "6OHri5qNxwCdVSdyCslspd",
+      "release_date": "1968-12-06",
+      "popularity": 74
+    },
+    {
+      "trackId": "6eMSo5M3xhDg3k9pwNNUku",
+      "name": "Svart-vit calypso",
+      "duration_ms": 195360,
+      "artist": [
+        "Monica Zetterlund"
+      ],
+      "artistId": [
+        "7mvvG63CNSY93JWAJ37rnD"
+      ],
+      "albumId": "7bDYb5Q2xcNgQ2g3u4lYiR",
+      "release_date": "1973-09-05",
+      "popularity": 10
+    },
+    {
+      "trackId": "4MsKbOCDdT6g3qAlkRjbst",
+      "name": "Djojj och önskestjärnan, del 2",
+      "duration_ms": 62466,
+      "artist": [
+        "Humlan Djojj",
+        "Staffan Götestam"
+      ],
+      "artistId": [
+        "73nQT8Arf05XV666SlvrVQ",
+        "202pmKkjpqMn8A188RW9EI"
+      ],
+      "albumId": "2CaYIDiu1ffrIpLhyyj8bo",
+      "release_date": "2019-12-13",
+      "popularity": 24
+    },
+    {
+      "trackId": "06Gdd6zfAHBy7B5DxaBugm",
+      "name": "Cashen dom tas",
+      "duration_ms": 287893,
+      "artist": [
+        "The Latin Kings"
+      ],
+      "artistId": [
+        "5xy5lbpiufHCNWfApvpSYJ"
+      ],
+      "albumId": "5kdYKxMey0V4SNP3geTX9k",
+      "release_date": "2003",
+      "popularity": 45
+    },
+    {
+      "trackId": "2uWMj52ImAeeGQFJmVlU5H",
+      "name": "1nce Again (feat. Tammy Lucas) - Radio Version",
+      "duration_ms": 229226,
+      "artist": [
+        "A Tribe Called Quest",
+        "Tammy Lucas"
+      ],
+      "artistId": [
+        "09hVIj6vWgoCDtT03h8ZCa",
+        "47PW7jNEh3qCVQWq4rsrmP"
+      ],
+      "albumId": "0EguP4tsJurU5I8ocCxdyb",
+      "release_date": "1996-07-30",
+      "popularity": 51
+    },
+    {
+      "trackId": "0KOE1hat4SIer491XKk4Pa",
+      "name": "A Change Is Gonna Come",
+      "duration_ms": 191160,
+      "artist": [
+        "Sam Cooke"
+      ],
+      "artistId": [
+        "6hnWRPzGGKiapVX1UCdEAC"
+      ],
+      "albumId": "2NFd4ApYFitFtJhGTSfDdP",
+      "release_date": "1964-03-01",
+      "popularity": 66
+    }
+  ]
+}

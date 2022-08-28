@@ -1,112 +1,174 @@
-[
-  {
-    "trackId": "7pQQzqKO99KICwaN7jVdOe",
-    "name": "Parchman Farm",
-    "duration_ms": 197866,
-    "artist": "Mose Allison",
-    "artistId": "0sN4enVJwylJKEXZlSbgsm",
-    "albumId": "0CeyHNnXvSDfk3y4V8z1sK",
-    "release_date": "1957",
-    "popularity": 35
-  },
-  {
-    "trackId": "6ek9SiEj5a65WIs2EV7qiM",
-    "name": "Son Of A Preacher Man",
-    "duration_ms": 148053,
-    "artist": "Dusty Springfield",
-    "artistId": "5zaXYwewAXedKNCff45U5l",
-    "albumId": "5FRB5oQaHxlDNe6gMGuzu2",
-    "release_date": "1969-03-31",
-    "popularity": 71
-  },
-  {
-    "trackId": "7rPzEczIS574IgPaiPieS3",
-    "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
-    "duration_ms": 228586,
-    "artist": "Pink Floyd",
-    "artistId": "0k17h0D3J5VfsdmQ1iZtE9",
-    "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
-    "release_date": "1979-11-30",
-    "popularity": 70
-  },
-  {
-    "trackId": "6fDN0uwvXXzQCusv36sjhZ",
-    "name": "Love You Madly",
-    "duration_ms": 280400,
-    "artist": "Ella Fitzgerald",
-    "artistId": "5V0MlUE1Bft0mbLlND7FJz",
-    "albumId": "2VgS17fUEsUer5nCbM2juj",
-    "release_date": "1957-01-01",
-    "popularity": 35
-  },
-  {
-    "trackId": "06LBMPrbboJFctltW75fnb",
-    "name": "Deca Techna",
-    "duration_ms": 207453,
-    "artist": "Cazzafura",
-    "artistId": "1tjr6bh7SnVwBLhSmiN02e",
-    "albumId": "5VEQk4ZEf6gmTr5EKTdEOG",
-    "release_date": "2021-02-12",
-    "popularity": 36
-  },
-  {
-    "trackId": "4FMI4Ln1LhyxGldkNXan5e",
-    "name": "Köln, January 24, 1975, Pt. II C - Live",
-    "duration_ms": 416840,
-    "artist": "Keith Jarrett",
-    "artistId": "0F3Aew9DSd6fb6192K1K0Y",
-    "albumId": "0I8vpSE1bSmysN2PhmHoQg",
-    "release_date": "1975-11-30",
-    "popularity": 49
-  },
-  {
-    "trackId": "3Aegz858ZO929Bu1rxvTrY",
-    "name": "Blue Monk",
-    "duration_ms": 268906,
-    "artist": "J.J. Johnson",
-    "artistId": "3hZ5sdhYTvgrmXIwtVwqmS",
-    "albumId": "5Q9cHqeqYmwWOQBTPKqrLt",
-    "release_date": "1997-01-01",
-    "popularity": 16
-  },
-  {
-    "trackId": "6b0AtCzgnYrb7T84o18V4l",
-    "name": "I Won't Back Down",
-    "duration_ms": 128199,
-    "artist": "Johnny Cash",
-    "artistId": "6kACVPfCOnqzgfEF5ryl0x",
-    "albumId": "2zCyI9fuV5JrQzrO3kMwbw",
-    "release_date": "2000-01-01",
-    "popularity": 53
-  },
-  {
-    "trackId": "7yAr6jaqG0GFYoNHYFVbuT",
-    "name": "Parry: Myfanwy",
-    "duration_ms": 164400,
-    "artist": "Parry, John",
-    "artistId": "3loU0ypyx0oy8aApl863wV",
-    "albumId": "2WKr8ktLbcCSsCl1LxXcm0",
-    "release_date": "1999",
-    "popularity": 14
-  },
-  {
-    "trackId": "0SxFyA4FqmEQqZVuAlg8lf",
-    "name": "The First Time Ever I Saw Your Face",
-    "duration_ms": 260666,
-    "artist": "Roberta Flack",
-    "artistId": "0W498bDDNlJIrYMKXdpLHA",
-    "albumId": "2ARWEOvaUgm4FSj25MpY6F",
-    "release_date": "1969",
-    "popularity": 63
-  },
-  {
-    "trackId": "6OH7UCFY7SEJxxQkaYfAv8",
-    "name": "Comin' Home Baby",
-    "duration_ms": 519600,
-    "artist": "Herbie Mann",
-    "artistId": "6ycoXr0Ayd89vFUT6BOiWo",
-    "albumId": "5Pi9gvFQLlXGdgI19hb6IR",
-    "release_date": "2005-05-10",
-    "popularity": 46
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/371176",
+  "dob": "1938-05-14",
+  "title": "Göran Zachrisson",
+  "date": "2007-07-18",
+  "playlistId": "1nM7xgA8NoU70YmvOAmKBk",
+  "imageurl": "https://static-cdn.sr.se/images/2071/3257573_2048_1152.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "7pQQzqKO99KICwaN7jVdOe",
+      "name": "Parchman Farm",
+      "duration_ms": 197866,
+      "artist": [
+        "Mose Allison"
+      ],
+      "artistId": [
+        "0sN4enVJwylJKEXZlSbgsm"
+      ],
+      "albumId": "0CeyHNnXvSDfk3y4V8z1sK",
+      "release_date": "1957",
+      "popularity": 35
+    },
+    {
+      "trackId": "6ek9SiEj5a65WIs2EV7qiM",
+      "name": "Son Of A Preacher Man",
+      "duration_ms": 148053,
+      "artist": [
+        "Dusty Springfield"
+      ],
+      "artistId": [
+        "5zaXYwewAXedKNCff45U5l"
+      ],
+      "albumId": "5FRB5oQaHxlDNe6gMGuzu2",
+      "release_date": "1969-03-31",
+      "popularity": 71
+    },
+    {
+      "trackId": "7rPzEczIS574IgPaiPieS3",
+      "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
+      "duration_ms": 228586,
+      "artist": [
+        "Pink Floyd"
+      ],
+      "artistId": [
+        "0k17h0D3J5VfsdmQ1iZtE9"
+      ],
+      "albumId": "6WaIQHxEHtZL0RZ62AuY0g",
+      "release_date": "1979-11-30",
+      "popularity": 70
+    },
+    {
+      "trackId": "6fDN0uwvXXzQCusv36sjhZ",
+      "name": "Love You Madly",
+      "duration_ms": 280400,
+      "artist": [
+        "Ella Fitzgerald",
+        "Oscar Peterson"
+      ],
+      "artistId": [
+        "5V0MlUE1Bft0mbLlND7FJz",
+        "6zkX5fhrSD4tdVOmimR9wB"
+      ],
+      "albumId": "2VgS17fUEsUer5nCbM2juj",
+      "release_date": "1957-01-01",
+      "popularity": 35
+    },
+    {
+      "trackId": "06LBMPrbboJFctltW75fnb",
+      "name": "Deca Techna",
+      "duration_ms": 207453,
+      "artist": [
+        "Cazzafura",
+        "Senidah"
+      ],
+      "artistId": [
+        "1tjr6bh7SnVwBLhSmiN02e",
+        "1C5jQlkf0TrFu6rmHZp2X5"
+      ],
+      "albumId": "5VEQk4ZEf6gmTr5EKTdEOG",
+      "release_date": "2021-02-12",
+      "popularity": 36
+    },
+    {
+      "trackId": "4FMI4Ln1LhyxGldkNXan5e",
+      "name": "Köln, January 24, 1975, Pt. II C - Live",
+      "duration_ms": 416840,
+      "artist": [
+        "Keith Jarrett"
+      ],
+      "artistId": [
+        "0F3Aew9DSd6fb6192K1K0Y"
+      ],
+      "albumId": "0I8vpSE1bSmysN2PhmHoQg",
+      "release_date": "1975-11-30",
+      "popularity": 49
+    },
+    {
+      "trackId": "3Aegz858ZO929Bu1rxvTrY",
+      "name": "Blue Monk",
+      "duration_ms": 268906,
+      "artist": [
+        "J.J. Johnson",
+        "Kai Winding"
+      ],
+      "artistId": [
+        "3hZ5sdhYTvgrmXIwtVwqmS",
+        "1kYYk4lJ7ZWbyy3zDYOl6h"
+      ],
+      "albumId": "5Q9cHqeqYmwWOQBTPKqrLt",
+      "release_date": "1997-01-01",
+      "popularity": 16
+    },
+    {
+      "trackId": "6b0AtCzgnYrb7T84o18V4l",
+      "name": "I Won't Back Down",
+      "duration_ms": 128199,
+      "artist": [
+        "Johnny Cash"
+      ],
+      "artistId": [
+        "6kACVPfCOnqzgfEF5ryl0x"
+      ],
+      "albumId": "2zCyI9fuV5JrQzrO3kMwbw",
+      "release_date": "2000-01-01",
+      "popularity": 53
+    },
+    {
+      "trackId": "7yAr6jaqG0GFYoNHYFVbuT",
+      "name": "Parry: Myfanwy",
+      "duration_ms": 164400,
+      "artist": [
+        "Parry, John",
+        "Mynyddog",
+        "The North Wales Association Of The Male Voice Choirs"
+      ],
+      "artistId": [
+        "3loU0ypyx0oy8aApl863wV",
+        "3SCzPsks07dipT3tOOxqYB",
+        "1ugGPgdVN9LW08PWbQcgm9"
+      ],
+      "albumId": "2WKr8ktLbcCSsCl1LxXcm0",
+      "release_date": "1999",
+      "popularity": 14
+    },
+    {
+      "trackId": "0SxFyA4FqmEQqZVuAlg8lf",
+      "name": "The First Time Ever I Saw Your Face",
+      "duration_ms": 260666,
+      "artist": [
+        "Roberta Flack"
+      ],
+      "artistId": [
+        "0W498bDDNlJIrYMKXdpLHA"
+      ],
+      "albumId": "2ARWEOvaUgm4FSj25MpY6F",
+      "release_date": "1969",
+      "popularity": 63
+    },
+    {
+      "trackId": "6OH7UCFY7SEJxxQkaYfAv8",
+      "name": "Comin' Home Baby",
+      "duration_ms": 519600,
+      "artist": [
+        "Herbie Mann"
+      ],
+      "artistId": [
+        "6ycoXr0Ayd89vFUT6BOiWo"
+      ],
+      "albumId": "5Pi9gvFQLlXGdgI19hb6IR",
+      "release_date": "2005-05-10",
+      "popularity": 46
+    }
+  ]
+}

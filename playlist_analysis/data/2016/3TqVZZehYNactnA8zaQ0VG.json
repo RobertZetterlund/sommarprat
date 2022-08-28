@@ -1,122 +1,184 @@
-[
-  {
-    "trackId": "4jDmJ51x1o9NZB5Nxxc7gY",
-    "name": "Careless Whisper",
-    "duration_ms": 300106,
-    "artist": "George Michael",
-    "artistId": "19ra5tSw0tWufvUp8GotLo",
-    "albumId": "3coLNlyStg9h7f8CZ103Rl",
-    "release_date": "1998-11-09",
-    "popularity": 79
-  },
-  {
-    "trackId": "4ijdz4B9wr5R1iZyUgKYqH",
-    "name": "Perhesuhteet",
-    "duration_ms": 289293,
-    "artist": "Raappana",
-    "artistId": "7m7tqSW9C7alkliDAZYvF0",
-    "albumId": "7zVbcpyDMpc1hZESpXJ2Id",
-    "release_date": "2010-09-01",
-    "popularity": 8
-  },
-  {
-    "trackId": "6w1DBbA8akxHPiBQ6nAyJq",
-    "name": "I'm a Flirt Remix (feat. T.I. & T-Pain)",
-    "duration_ms": 330600,
-    "artist": "R. Kelly",
-    "artistId": "2mxe0TnaNL039ysAj51xPQ",
-    "albumId": "5ruZPk2RxBoRzzwYswpXXs",
-    "release_date": "2014-05-19",
-    "popularity": 60
-  },
-  {
-    "trackId": "7bkwR0ITRQzJRPFidynOAV",
-    "name": "Molotov",
-    "duration_ms": 171428,
-    "artist": "ROSH",
-    "artistId": "739zjStIc6EHrV5thshKkp",
-    "albumId": "4hih1r7SLK6wu5OLRatoyB",
-    "release_date": "2016-06-01",
-    "popularity": 6
-  },
-  {
-    "trackId": "2ktaHXmUWb5fcHqoevvHgg",
-    "name": "Nutbush City Limits",
-    "duration_ms": 177173,
-    "artist": "Ike & Tina Turner",
-    "artistId": "1ZikppG9dPedbIgMfnfx8k",
-    "albumId": "5WYReWrElVmpCzIJuHNRGO",
-    "release_date": "1973-11-01",
-    "popularity": 58
-  },
-  {
-    "trackId": "6g0Orsxv6glTJCt4cHsRsQ",
-    "name": "Formation",
-    "duration_ms": 206080,
-    "artist": "Beyoncé",
-    "artistId": "6vWDO969PvNqNYHIOW5v0m",
-    "albumId": "7dK54iZuOxXFarGhXwEXfF",
-    "release_date": "2016-04-23",
-    "popularity": 72
-  },
-  {
-    "trackId": "6sT9MWlJManry3EQwf4V80",
-    "name": "Push It",
-    "duration_ms": 272133,
-    "artist": "Salt-N-Pepa",
-    "artistId": "7wqtxqI3eo7Gn1P7SpP6cQ",
-    "albumId": "5QFYPgLGw6DYz8S3TrLM2d",
-    "release_date": "1986-12-08",
-    "popularity": 68
-  },
-  {
-    "trackId": "3FteycP8CaXS1MhjcXekVT",
-    "name": "Stop",
-    "duration_ms": 204753,
-    "artist": "Spice Girls",
-    "artistId": "0uq5PttqEjj3IH1bzwcrXF",
-    "albumId": "3sr6lAuO3nmB1u8ZuQgpiX",
-    "release_date": "1997-01-01",
-    "popularity": 68
-  },
-  {
-    "trackId": "2Y9WfjpGt3kzv7cbRl3s3O",
-    "name": "True Love",
-    "duration_ms": 256733,
-    "artist": "SOJA",
-    "artistId": "2vaWvC8suCFkRXejDOK7EE",
-    "albumId": "4Wps42vdfVXj2aJW4mf2yn",
-    "release_date": "2002-06-05",
-    "popularity": 61
-  },
-  {
-    "trackId": "4KuMHIH8to0XTiZdBkfzgu",
-    "name": "Funky Fresh Dressed (feat. Ms. Jade)",
-    "duration_ms": 236333,
-    "artist": "Missy Elliott",
-    "artistId": "2wIVse2owClT7go1WT98tk",
-    "albumId": "6DeU398qrJ1bLuryetSmup",
-    "release_date": "2002-11-11",
-    "popularity": 30
-  },
-  {
-    "trackId": "5xbAx92zmFyV2fLdDtv9p3",
-    "name": "Från Hjärtat",
-    "duration_ms": 287986,
-    "artist": "Highwon",
-    "artistId": "0e6pBjHAXI2dofZTOaf39N",
-    "albumId": "22r32tk5aFnlrpfz83iywY",
-    "release_date": "2010-09-21",
-    "popularity": 35
-  },
-  {
-    "trackId": "0WSlOSMLJWoWUpWci9nnRb",
-    "name": "Cissy Strut",
-    "duration_ms": 186853,
-    "artist": "The Meters",
-    "artistId": "2JRvXPGWiINrnJljNJhG5s",
-    "albumId": "1Nt14TE6bKZGzJrROip36y",
-    "release_date": "1969",
-    "popularity": 61
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/743524",
+  "dob": null,
+  "title": "Bianca och Tiffany Kronlöf",
+  "date": "2016-07-05",
+  "playlistId": "3TqVZZehYNactnA8zaQ0VG",
+  "imageurl": "https://static-cdn.sr.se/images/2071/25cc5b0e-e92d-46df-b184-7281e2ed23d0.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "4jDmJ51x1o9NZB5Nxxc7gY",
+      "name": "Careless Whisper",
+      "duration_ms": 300106,
+      "artist": [
+        "George Michael"
+      ],
+      "artistId": [
+        "19ra5tSw0tWufvUp8GotLo"
+      ],
+      "albumId": "3coLNlyStg9h7f8CZ103Rl",
+      "release_date": "1998-11-09",
+      "popularity": 79
+    },
+    {
+      "trackId": "4ijdz4B9wr5R1iZyUgKYqH",
+      "name": "Perhesuhteet",
+      "duration_ms": 289293,
+      "artist": [
+        "Raappana"
+      ],
+      "artistId": [
+        "7m7tqSW9C7alkliDAZYvF0"
+      ],
+      "albumId": "7zVbcpyDMpc1hZESpXJ2Id",
+      "release_date": "2010-09-01",
+      "popularity": 8
+    },
+    {
+      "trackId": "6w1DBbA8akxHPiBQ6nAyJq",
+      "name": "I'm a Flirt Remix (feat. T.I. & T-Pain)",
+      "duration_ms": 330600,
+      "artist": [
+        "R. Kelly",
+        "T.I.",
+        "T-Pain"
+      ],
+      "artistId": [
+        "2mxe0TnaNL039ysAj51xPQ",
+        "4OBJLual30L7gRl5UkeRcT",
+        "3aQeKQSyrW4qWr35idm0cy"
+      ],
+      "albumId": "5ruZPk2RxBoRzzwYswpXXs",
+      "release_date": "2014-05-19",
+      "popularity": 60
+    },
+    {
+      "trackId": "7bkwR0ITRQzJRPFidynOAV",
+      "name": "Molotov",
+      "duration_ms": 171428,
+      "artist": [
+        "ROSH"
+      ],
+      "artistId": [
+        "739zjStIc6EHrV5thshKkp"
+      ],
+      "albumId": "4hih1r7SLK6wu5OLRatoyB",
+      "release_date": "2016-06-01",
+      "popularity": 6
+    },
+    {
+      "trackId": "2ktaHXmUWb5fcHqoevvHgg",
+      "name": "Nutbush City Limits",
+      "duration_ms": 177173,
+      "artist": [
+        "Ike & Tina Turner"
+      ],
+      "artistId": [
+        "1ZikppG9dPedbIgMfnfx8k"
+      ],
+      "albumId": "5WYReWrElVmpCzIJuHNRGO",
+      "release_date": "1973-11-01",
+      "popularity": 58
+    },
+    {
+      "trackId": "6g0Orsxv6glTJCt4cHsRsQ",
+      "name": "Formation",
+      "duration_ms": 206080,
+      "artist": [
+        "Beyoncé"
+      ],
+      "artistId": [
+        "6vWDO969PvNqNYHIOW5v0m"
+      ],
+      "albumId": "7dK54iZuOxXFarGhXwEXfF",
+      "release_date": "2016-04-23",
+      "popularity": 72
+    },
+    {
+      "trackId": "6sT9MWlJManry3EQwf4V80",
+      "name": "Push It",
+      "duration_ms": 272133,
+      "artist": [
+        "Salt-N-Pepa"
+      ],
+      "artistId": [
+        "7wqtxqI3eo7Gn1P7SpP6cQ"
+      ],
+      "albumId": "5QFYPgLGw6DYz8S3TrLM2d",
+      "release_date": "1986-12-08",
+      "popularity": 68
+    },
+    {
+      "trackId": "3FteycP8CaXS1MhjcXekVT",
+      "name": "Stop",
+      "duration_ms": 204753,
+      "artist": [
+        "Spice Girls"
+      ],
+      "artistId": [
+        "0uq5PttqEjj3IH1bzwcrXF"
+      ],
+      "albumId": "3sr6lAuO3nmB1u8ZuQgpiX",
+      "release_date": "1997-01-01",
+      "popularity": 68
+    },
+    {
+      "trackId": "2Y9WfjpGt3kzv7cbRl3s3O",
+      "name": "True Love",
+      "duration_ms": 256733,
+      "artist": [
+        "SOJA"
+      ],
+      "artistId": [
+        "2vaWvC8suCFkRXejDOK7EE"
+      ],
+      "albumId": "4Wps42vdfVXj2aJW4mf2yn",
+      "release_date": "2002-06-05",
+      "popularity": 61
+    },
+    {
+      "trackId": "4KuMHIH8to0XTiZdBkfzgu",
+      "name": "Funky Fresh Dressed (feat. Ms. Jade)",
+      "duration_ms": 236333,
+      "artist": [
+        "Missy Elliott",
+        "Ms. Jade"
+      ],
+      "artistId": [
+        "2wIVse2owClT7go1WT98tk",
+        "0WjnlObkDedRrSBTC9N3lW"
+      ],
+      "albumId": "6DeU398qrJ1bLuryetSmup",
+      "release_date": "2002-11-11",
+      "popularity": 30
+    },
+    {
+      "trackId": "5xbAx92zmFyV2fLdDtv9p3",
+      "name": "Från Hjärtat",
+      "duration_ms": 287986,
+      "artist": [
+        "Highwon"
+      ],
+      "artistId": [
+        "0e6pBjHAXI2dofZTOaf39N"
+      ],
+      "albumId": "22r32tk5aFnlrpfz83iywY",
+      "release_date": "2010-09-21",
+      "popularity": 35
+    },
+    {
+      "trackId": "0WSlOSMLJWoWUpWci9nnRb",
+      "name": "Cissy Strut",
+      "duration_ms": 186853,
+      "artist": [
+        "The Meters"
+      ],
+      "artistId": [
+        "2JRvXPGWiINrnJljNJhG5s"
+      ],
+      "albumId": "1Nt14TE6bKZGzJrROip36y",
+      "release_date": "1969",
+      "popularity": 61
+    }
+  ]
+}

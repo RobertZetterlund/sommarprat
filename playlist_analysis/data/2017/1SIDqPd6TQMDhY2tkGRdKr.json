@@ -1,92 +1,140 @@
-[
-  {
-    "trackId": "4ZREMqESEEloSWGdxJySKC",
-    "name": "The Wall Street Shuffle",
-    "duration_ms": 231146,
-    "artist": "10cc",
-    "artistId": "6i6WlGzQtXtz7GcC5H5st5",
-    "albumId": "5FPOXQ7ssVwLwSxqL4rGYa",
-    "release_date": "2012-01-01",
-    "popularity": 45
-  },
-  {
-    "trackId": "225xvV8r1yKMHErSWivnow",
-    "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-    "duration_ms": 298760,
-    "artist": "Aerosmith",
-    "artistId": "7Ey4PD4MYsKc5I2dolUwbH",
-    "albumId": "4f7HKjBnjpMsDBDTHYV890",
-    "release_date": "1998-06-23",
-    "popularity": 74
-  },
-  {
-    "trackId": "0pvjX3TISD3X96l9TV6Pe1",
-    "name": "Så länge skutan kan gå",
-    "duration_ms": 233183,
-    "artist": "Kleerup",
-    "artistId": "2YL0l5fnyHE9FEf1bwFGCc",
-    "albumId": "2UOjc5NJb94WsFF9tiIjhl",
-    "release_date": "2016-01-01",
-    "popularity": 25
-  },
-  {
-    "trackId": "32gyYqj6gwZvFRoGgsrFhy",
-    "name": "Gotlandsk Sommarnatt",
-    "duration_ms": 110800,
-    "artist": "Ernie Englund",
-    "artistId": "4RpMbrHkRdDu2QOgJwyiet",
-    "albumId": "0h2OVSK1cBJd3x8SzO6om7",
-    "release_date": "2002-01-01",
-    "popularity": 30
-  },
-  {
-    "trackId": "7o2CTH4ctstm8TNelqjb51",
-    "name": "Sweet Child O' Mine",
-    "duration_ms": 354520,
-    "artist": "Guns N' Roses",
-    "artistId": "3qm84nBOXUEQ2vnTfUTTFC",
-    "albumId": "3I9Z1nDCL4E0cP62flcbI5",
-    "release_date": "1987-07-21",
-    "popularity": 83
-  },
-  {
-    "trackId": "3BQHpFgAp4l80e1XslIjNI",
-    "name": "Yesterday - Remastered 2009",
-    "duration_ms": 125666,
-    "artist": "The Beatles",
-    "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
-    "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
-    "release_date": "1965-08-06",
-    "popularity": 75
-  },
-  {
-    "trackId": "26oXjYgoTyhtY8OJ0vYbBD",
-    "name": "Vincero",
-    "duration_ms": 225640,
-    "artist": "Fredrik Kempe",
-    "artistId": "5a3wjp9dcWyJitaiwXIsC7",
-    "albumId": "6sFyn9bcvCqdzs7ULVzAER",
-    "release_date": "2002-01-01",
-    "popularity": 38
-  },
-  {
-    "trackId": "1oHClQEgDmmbcEx12Kc5nZ",
-    "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
-    "duration_ms": 189693,
-    "artist": "Madonna",
-    "artistId": "6tbjWDEIzxoDsBA1FuhfPW",
-    "albumId": "43lok9zd7BW5CoYkXZs7S0",
-    "release_date": "2009-09-18",
-    "popularity": 71
-  },
-  {
-    "trackId": "0B52e8kJrbBzUfTMP1O4Ss",
-    "name": "Papirsklip",
-    "duration_ms": 202346,
-    "artist": "Kim Larsen",
-    "artistId": "2ZQifdPOptKHxTaYTLh0BC",
-    "albumId": "2ANAhaU6vEtp1L9p2vBYxq",
-    "release_date": "1983",
-    "popularity": 52
-  }
-]
+{
+  "episodeUrl": "https://sverigesradio.se/avsnitt/918335",
+  "dob": "1958-11-19",
+  "title": "Lennart Käll",
+  "date": "2017-07-07",
+  "playlistId": "1SIDqPd6TQMDhY2tkGRdKr",
+  "imageurl": "https://static-cdn.sr.se/images/2071/c124269e-cadd-4657-9624-14c7c73ce692.jpg?preset=api-default-square",
+  "tracks": [
+    {
+      "trackId": "4ZREMqESEEloSWGdxJySKC",
+      "name": "The Wall Street Shuffle",
+      "duration_ms": 231146,
+      "artist": [
+        "10cc"
+      ],
+      "artistId": [
+        "6i6WlGzQtXtz7GcC5H5st5"
+      ],
+      "albumId": "5FPOXQ7ssVwLwSxqL4rGYa",
+      "release_date": "2012-01-01",
+      "popularity": 45
+    },
+    {
+      "trackId": "225xvV8r1yKMHErSWivnow",
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "duration_ms": 298760,
+      "artist": [
+        "Aerosmith"
+      ],
+      "artistId": [
+        "7Ey4PD4MYsKc5I2dolUwbH"
+      ],
+      "albumId": "4f7HKjBnjpMsDBDTHYV890",
+      "release_date": "1998-06-23",
+      "popularity": 74
+    },
+    {
+      "trackId": "0pvjX3TISD3X96l9TV6Pe1",
+      "name": "Så länge skutan kan gå",
+      "duration_ms": 233183,
+      "artist": [
+        "Kleerup"
+      ],
+      "artistId": [
+        "2YL0l5fnyHE9FEf1bwFGCc"
+      ],
+      "albumId": "2UOjc5NJb94WsFF9tiIjhl",
+      "release_date": "2016-01-01",
+      "popularity": 25
+    },
+    {
+      "trackId": "32gyYqj6gwZvFRoGgsrFhy",
+      "name": "Gotlandsk Sommarnatt",
+      "duration_ms": 110800,
+      "artist": [
+        "Ernie Englund"
+      ],
+      "artistId": [
+        "4RpMbrHkRdDu2QOgJwyiet"
+      ],
+      "albumId": "0h2OVSK1cBJd3x8SzO6om7",
+      "release_date": "2002-01-01",
+      "popularity": 30
+    },
+    {
+      "trackId": "7o2CTH4ctstm8TNelqjb51",
+      "name": "Sweet Child O' Mine",
+      "duration_ms": 354520,
+      "artist": [
+        "Guns N' Roses"
+      ],
+      "artistId": [
+        "3qm84nBOXUEQ2vnTfUTTFC"
+      ],
+      "albumId": "3I9Z1nDCL4E0cP62flcbI5",
+      "release_date": "1987-07-21",
+      "popularity": 83
+    },
+    {
+      "trackId": "3BQHpFgAp4l80e1XslIjNI",
+      "name": "Yesterday - Remastered 2009",
+      "duration_ms": 125666,
+      "artist": [
+        "The Beatles"
+      ],
+      "artistId": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+      ],
+      "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+      "release_date": "1965-08-06",
+      "popularity": 75
+    },
+    {
+      "trackId": "26oXjYgoTyhtY8OJ0vYbBD",
+      "name": "Vincero",
+      "duration_ms": 225640,
+      "artist": [
+        "Fredrik Kempe"
+      ],
+      "artistId": [
+        "5a3wjp9dcWyJitaiwXIsC7"
+      ],
+      "albumId": "6sFyn9bcvCqdzs7ULVzAER",
+      "release_date": "2002-01-01",
+      "popularity": 38
+    },
+    {
+      "trackId": "1oHClQEgDmmbcEx12Kc5nZ",
+      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "duration_ms": 189693,
+      "artist": [
+        "Madonna",
+        "Justin Timberlake",
+        "Timbaland"
+      ],
+      "artistId": [
+        "6tbjWDEIzxoDsBA1FuhfPW",
+        "31TPClRtHm23RisEBtV3X7",
+        "5Y5TRrQiqgUO4S36tzjIRZ"
+      ],
+      "albumId": "43lok9zd7BW5CoYkXZs7S0",
+      "release_date": "2009-09-18",
+      "popularity": 71
+    },
+    {
+      "trackId": "0B52e8kJrbBzUfTMP1O4Ss",
+      "name": "Papirsklip",
+      "duration_ms": 202346,
+      "artist": [
+        "Kim Larsen"
+      ],
+      "artistId": [
+        "2ZQifdPOptKHxTaYTLh0BC"
+      ],
+      "albumId": "2ANAhaU6vEtp1L9p2vBYxq",
+      "release_date": "1983",
+      "popularity": 52
+    }
+  ]
+}
