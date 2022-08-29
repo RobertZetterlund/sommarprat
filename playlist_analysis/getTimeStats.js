@@ -31,9 +31,10 @@ const trackMap = {};
 (async () => {
   const filenames = await fs.promises.readdir("./data/");
 
-  for await (const _year of filenames) {
-    const ep_year = parseInt(_year);
-    const playlists = await fs.promises.readdir(`./data/${ep_year}`);
+  const years = filenames.map((file) => parseInt(file.split(".")[0])).sort();
+
+  for await (const year of years) {
+    const playlists = await fs.promises.readdir(`./data/${year}`);
 
     let sum_duration = 0;
     let sum_popularity = 0;
@@ -41,7 +42,7 @@ const trackMap = {};
 
     for await (const playlistId of playlists) {
       const _content = await fs.promises.readFile(
-        `./data/${ep_year}/${playlistId}`
+        `./data/${year}/${playlistId}`
       );
       const playlist = await JSON.parse(_content);
       sum_song_amount += playlist.tracks.length;
@@ -52,17 +53,17 @@ const trackMap = {};
         sum_popularity += popularity;
 
         incrementCount(albumCount, album.id);
-        albumMap[album.id] = { album, artists, track };
+        albumMap[album.id] = { album, artist: artists[0] };
         incrementCount(trackCount, track.id);
         trackMap[track.id] = { album, artists, track };
         for (const artist of artists) {
           incrementCount(artistCount, artist.id);
-          artistMap[artist.id] = { album, artists, track };
+          artistMap[artist.id] = artist;
         }
 
         if (release_date) {
           const release_year = parseInt(new Date(release_date).getFullYear());
-          if (release_year < ep_year) {
+          if (release_year < year) {
             // Put release year into box.
             incrementCount(yearCount, release_year);
 
@@ -73,7 +74,7 @@ const trackMap = {};
               incrementCount(ageBox, age);
             }
             // Calculate recency compared to episode broadcast.
-            const diff = ep_year - release_year;
+            const diff = year - release_year;
             if (diff >= 0) {
               incrementCount(recencyBox, diff);
             }
@@ -86,7 +87,7 @@ const trackMap = {};
     const avg_popularity = sum_popularity / sum_song_amount;
     const avg_song_amount = sum_song_amount / playlists.length;
 
-    yearSnapShots[ep_year] = {
+    yearSnapShots[year] = {
       trackCount: { ...trackCount },
       artistCount: { ...artistCount },
       albumCount: { ...albumCount },
@@ -112,11 +113,11 @@ const trackMap = {};
     if (entry instanceof Object && entry) {
       // find top ten entries
       const idsToRemove = [];
-      /*for (const [keyId] of Object.entries(entry)
+      for (const [keyId] of Object.entries(entry)
         .sort(([, valueA], [, valueB]) => valueB - valueA)
         .slice(10)) {
         idsToRemove.push(keyId);
-      }*/
+      }
       idsObj[key] = idsToRemove;
     }
   }
@@ -134,68 +135,79 @@ const trackMap = {};
     }
   }
 
-  const json = JSON.stringify(yearSnapShots);
+  const json = JSON.stringify(yearSnapShots, undefined, 2);
+
+  // Now transpose snapshots into object which has data: {count: {[year]: count}}[]
+  const albums = Object.keys(last_year.albumCount).reduce((acc, id) => {
+    const year_data = years.reduce(
+      (acc, year) => ({
+        [year]: yearSnapShots[year].albumCount[id] ?? 0,
+        ...acc,
+      }),
+      {}
+    );
+
+    const track_meta = albumMap[id];
+
+    return { [id]: { ...track_meta, count: year_data }, ...acc };
+  }, {});
+
+  await fs.promises.writeFile(
+    `./stats/albums.json`,
+    JSON.stringify(albums, undefined, 2),
+    "utf8"
+  );
 
   await fs.promises.writeFile(`./stats/all.json`, json, "utf8");
 
-  /*const albumIds = Object.keys(last_year.albumCount);
+  // Now transpose snapshots into object which has data: {count: {[year]: count}}[]
+  const artists = Object.keys(last_year.artistCount).reduce((acc, id) => {
+    const year_data = years.reduce(
+      (acc, year) => ({
+        [year]: yearSnapShots[year].artistCount[id] ?? 0,
+        ...acc,
+      }),
+      {}
+    );
 
-  const albums = Object.keys(yearSnapShots).map((year) => ({
-    [year]: yearSnapShots[year].albumCount,
-  }));
+    const track_meta = artistMap[id];
+
+    return { [id]: { ...track_meta, count: year_data }, ...acc };
+  }, {});
 
   await fs.promises.writeFile(
-    "./stats/albums.json",
-    JSON.stringify({
-      albums,
-      meta: albumIds.reduce(
-        (acc, aId) => ({ ...acc, [aId]: albumMap[aId] }),
-        {}
-      ),
-    }),
-    "utf-8"
+    `./stats/artists.json`,
+    JSON.stringify(artists, undefined, 2),
+    "utf8"
   );
 
-  const artistIds = Object.keys(last_year.artistCount);
+  // Now transpose snapshots into object which has data: {count: {[year]: count}}[]
+  const tracks = Object.keys(last_year.trackCount).reduce((acc, id) => {
+    const year_data = years.reduce(
+      (acc, year) => ({
+        [year]: yearSnapShots[year].trackCount[id] ?? 0,
+        ...acc,
+      }),
+      {}
+    );
 
-  const artists = Object.keys(yearSnapShots).map((year) => ({
-    [year]: yearSnapShots[year].artistCount,
-  }));
+    const track_meta = trackMap[id];
+
+    return { [id]: { ...track_meta, count: year_data }, ...acc };
+  }, {});
+
   await fs.promises.writeFile(
-    "./stats/artists.json",
-    JSON.stringify({
-      artists,
-      meta: artistIds.reduce(
-        (acc, aId) => ({ ...acc, [aId]: artistMap[aId] }),
-        {}
-      ),
-    }),
-    "utf-8"
+    `./stats/tracks.json`,
+    JSON.stringify(tracks, undefined, 2),
+    "utf8"
   );
 
-  const trackIds = Object.keys(last_year.trackCount);
-
-  const tracks = Object.keys(yearSnapShots).map((year) => ({
-    [year]: yearSnapShots[year].trackCount,
-  }));
-  await fs.promises.writeFile(
-    "./stats/tracks.json",
-    JSON.stringify({
-      tracks,
-      meta: trackIds.reduce(
-        (acc, tId) => ({ ...acc, [tId]: trackMap[tId] }),
-        {}
-      ),
-    }),
-    "utf-8"
-  );
-*/
-  const years = Object.keys(yearSnapShots).map((year) => ({
+  const year_data = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].yearCount,
   }));
   await fs.promises.writeFile(
     "./stats/years.json",
-    JSON.stringify(years),
+    JSON.stringify(year_data),
     "utf-8"
   );
 

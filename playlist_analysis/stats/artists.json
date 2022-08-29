@@ -1,414 +1,232 @@
 {
-  "artists": [
-    {
-      "2005": {
-        "5aIqB5nVVvmFsvSdExz408": 6,
-        "62QZPjYQMoo5g56FP9Webq": 3,
-        "3WrFJ7ztbogyGnTHbHJFl2": 4,
-        "0LcJLqbBmaGUft1e9Mm8HV": 2,
-        "5B38ZGYpd0msq1LKOyz2r9": 4,
-        "7G1GBhoKtEPnP86X2PvEYO": 2,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 2,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 3,
-        "7mvvG63CNSY93JWAJ37rnD": 2
-      }
-    },
-    {
-      "2006": {
-        "5aIqB5nVVvmFsvSdExz408": 11,
-        "62QZPjYQMoo5g56FP9Webq": 5,
-        "3WrFJ7ztbogyGnTHbHJFl2": 7,
-        "0LcJLqbBmaGUft1e9Mm8HV": 4,
-        "5B38ZGYpd0msq1LKOyz2r9": 7,
-        "7G1GBhoKtEPnP86X2PvEYO": 4,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 7,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 6,
-        "7mvvG63CNSY93JWAJ37rnD": 8
-      }
-    },
-    {
-      "2007": {
-        "5aIqB5nVVvmFsvSdExz408": 13,
-        "62QZPjYQMoo5g56FP9Webq": 6,
-        "3WrFJ7ztbogyGnTHbHJFl2": 11,
-        "0LcJLqbBmaGUft1e9Mm8HV": 8,
-        "5B38ZGYpd0msq1LKOyz2r9": 13,
-        "7G1GBhoKtEPnP86X2PvEYO": 4,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 9,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 11,
-        "7mvvG63CNSY93JWAJ37rnD": 13
-      }
-    },
-    {
-      "2008": {
-        "5aIqB5nVVvmFsvSdExz408": 15,
-        "62QZPjYQMoo5g56FP9Webq": 9,
-        "3WrFJ7ztbogyGnTHbHJFl2": 25,
-        "0LcJLqbBmaGUft1e9Mm8HV": 11,
-        "5B38ZGYpd0msq1LKOyz2r9": 18,
-        "7G1GBhoKtEPnP86X2PvEYO": 6,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 15,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 14,
-        "7mvvG63CNSY93JWAJ37rnD": 15
-      }
-    },
-    {
-      "2009": {
-        "5aIqB5nVVvmFsvSdExz408": 23,
-        "62QZPjYQMoo5g56FP9Webq": 9,
-        "3WrFJ7ztbogyGnTHbHJFl2": 35,
-        "0LcJLqbBmaGUft1e9Mm8HV": 19,
-        "5B38ZGYpd0msq1LKOyz2r9": 18,
-        "7G1GBhoKtEPnP86X2PvEYO": 9,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 17,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 21,
-        "7mvvG63CNSY93JWAJ37rnD": 16
-      }
-    },
-    {
-      "2010": {
-        "5aIqB5nVVvmFsvSdExz408": 24,
-        "62QZPjYQMoo5g56FP9Webq": 10,
-        "3WrFJ7ztbogyGnTHbHJFl2": 47,
-        "0LcJLqbBmaGUft1e9Mm8HV": 22,
-        "5B38ZGYpd0msq1LKOyz2r9": 20,
-        "7G1GBhoKtEPnP86X2PvEYO": 13,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 21,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 28,
-        "7mvvG63CNSY93JWAJ37rnD": 25
-      }
-    },
-    {
-      "2011": {
-        "5aIqB5nVVvmFsvSdExz408": 31,
-        "62QZPjYQMoo5g56FP9Webq": 11,
-        "3WrFJ7ztbogyGnTHbHJFl2": 50,
-        "0LcJLqbBmaGUft1e9Mm8HV": 26,
-        "5B38ZGYpd0msq1LKOyz2r9": 27,
-        "7G1GBhoKtEPnP86X2PvEYO": 18,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 23,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 31,
-        "7mvvG63CNSY93JWAJ37rnD": 33
-      }
-    },
-    {
-      "2012": {
-        "5aIqB5nVVvmFsvSdExz408": 36,
-        "62QZPjYQMoo5g56FP9Webq": 16,
-        "3WrFJ7ztbogyGnTHbHJFl2": 61,
-        "0LcJLqbBmaGUft1e9Mm8HV": 28,
-        "5B38ZGYpd0msq1LKOyz2r9": 29,
-        "7G1GBhoKtEPnP86X2PvEYO": 20,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 25,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 32,
-        "7mvvG63CNSY93JWAJ37rnD": 36
-      }
-    },
-    {
-      "2013": {
-        "5aIqB5nVVvmFsvSdExz408": 40,
-        "62QZPjYQMoo5g56FP9Webq": 20,
-        "3WrFJ7ztbogyGnTHbHJFl2": 64,
-        "0LcJLqbBmaGUft1e9Mm8HV": 30,
-        "5B38ZGYpd0msq1LKOyz2r9": 37,
-        "7G1GBhoKtEPnP86X2PvEYO": 24,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 28,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 38,
-        "7mvvG63CNSY93JWAJ37rnD": 40,
-        "3SONlwqLIP2GtaMh9pLYe5": 3
-      }
-    },
-    {
-      "2014": {
-        "5aIqB5nVVvmFsvSdExz408": 40,
-        "62QZPjYQMoo5g56FP9Webq": 23,
-        "3WrFJ7ztbogyGnTHbHJFl2": 68,
-        "0LcJLqbBmaGUft1e9Mm8HV": 34,
-        "5B38ZGYpd0msq1LKOyz2r9": 40,
-        "7G1GBhoKtEPnP86X2PvEYO": 24,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 31,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 40,
-        "7mvvG63CNSY93JWAJ37rnD": 42,
-        "3SONlwqLIP2GtaMh9pLYe5": 10
-      }
-    },
-    {
-      "2015": {
-        "5aIqB5nVVvmFsvSdExz408": 42,
-        "62QZPjYQMoo5g56FP9Webq": 29,
-        "3WrFJ7ztbogyGnTHbHJFl2": 71,
-        "0LcJLqbBmaGUft1e9Mm8HV": 38,
-        "5B38ZGYpd0msq1LKOyz2r9": 42,
-        "7G1GBhoKtEPnP86X2PvEYO": 30,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 33,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 44,
-        "7mvvG63CNSY93JWAJ37rnD": 46,
-        "3SONlwqLIP2GtaMh9pLYe5": 16
-      }
-    },
-    {
-      "2016": {
-        "5aIqB5nVVvmFsvSdExz408": 42,
-        "62QZPjYQMoo5g56FP9Webq": 38,
-        "3WrFJ7ztbogyGnTHbHJFl2": 77,
-        "0LcJLqbBmaGUft1e9Mm8HV": 41,
-        "5B38ZGYpd0msq1LKOyz2r9": 42,
-        "7G1GBhoKtEPnP86X2PvEYO": 36,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 38,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 50,
-        "7mvvG63CNSY93JWAJ37rnD": 49,
-        "3SONlwqLIP2GtaMh9pLYe5": 25
-      }
-    },
-    {
-      "2017": {
-        "5aIqB5nVVvmFsvSdExz408": 44,
-        "62QZPjYQMoo5g56FP9Webq": 43,
-        "3WrFJ7ztbogyGnTHbHJFl2": 85,
-        "0LcJLqbBmaGUft1e9Mm8HV": 47,
-        "5B38ZGYpd0msq1LKOyz2r9": 46,
-        "7G1GBhoKtEPnP86X2PvEYO": 45,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 44,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 54,
-        "7mvvG63CNSY93JWAJ37rnD": 52,
-        "3SONlwqLIP2GtaMh9pLYe5": 34
-      }
-    },
-    {
-      "2018": {
-        "5aIqB5nVVvmFsvSdExz408": 49,
-        "62QZPjYQMoo5g56FP9Webq": 50,
-        "3WrFJ7ztbogyGnTHbHJFl2": 88,
-        "0LcJLqbBmaGUft1e9Mm8HV": 49,
-        "5B38ZGYpd0msq1LKOyz2r9": 48,
-        "7G1GBhoKtEPnP86X2PvEYO": 49,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 50,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 60,
-        "7mvvG63CNSY93JWAJ37rnD": 55,
-        "3SONlwqLIP2GtaMh9pLYe5": 44
-      }
-    },
-    {
-      "2019": {
-        "5aIqB5nVVvmFsvSdExz408": 52,
-        "62QZPjYQMoo5g56FP9Webq": 54,
-        "3WrFJ7ztbogyGnTHbHJFl2": 96,
-        "0LcJLqbBmaGUft1e9Mm8HV": 53,
-        "5B38ZGYpd0msq1LKOyz2r9": 51,
-        "7G1GBhoKtEPnP86X2PvEYO": 59,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 56,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 60,
-        "7mvvG63CNSY93JWAJ37rnD": 59,
-        "3SONlwqLIP2GtaMh9pLYe5": 53
-      }
-    },
-    {
-      "2020": {
-        "5aIqB5nVVvmFsvSdExz408": 58,
-        "62QZPjYQMoo5g56FP9Webq": 63,
-        "3WrFJ7ztbogyGnTHbHJFl2": 103,
-        "0LcJLqbBmaGUft1e9Mm8HV": 56,
-        "5B38ZGYpd0msq1LKOyz2r9": 56,
-        "7G1GBhoKtEPnP86X2PvEYO": 68,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 57,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 63,
-        "7mvvG63CNSY93JWAJ37rnD": 63,
-        "3SONlwqLIP2GtaMh9pLYe5": 56
-      }
-    },
-    {
-      "2021": {
-        "5aIqB5nVVvmFsvSdExz408": 61,
-        "62QZPjYQMoo5g56FP9Webq": 69,
-        "3WrFJ7ztbogyGnTHbHJFl2": 105,
-        "0LcJLqbBmaGUft1e9Mm8HV": 58,
-        "5B38ZGYpd0msq1LKOyz2r9": 62,
-        "7G1GBhoKtEPnP86X2PvEYO": 70,
-        "0oSGxfWSnnOXhD2fKuz2Gy": 60,
-        "1Mxqyy3pSjf8kZZL4QVxS0": 63,
-        "7mvvG63CNSY93JWAJ37rnD": 64,
-        "3SONlwqLIP2GtaMh9pLYe5": 64
-      }
+  "3SONlwqLIP2GtaMh9pLYe5": {
+    "name": "Bill Frisell",
+    "id": "3SONlwqLIP2GtaMh9pLYe5",
+    "count": {
+      "2005": 0,
+      "2006": 0,
+      "2007": 0,
+      "2008": 0,
+      "2009": 0,
+      "2010": 0,
+      "2011": 0,
+      "2012": 0,
+      "2013": 3,
+      "2014": 10,
+      "2015": 16,
+      "2016": 25,
+      "2017": 34,
+      "2018": 44,
+      "2019": 53,
+      "2020": 56,
+      "2021": 64
     }
-  ],
-  "meta": {
-    "5aIqB5nVVvmFsvSdExz408": {
-      "album": {
-        "id": "4SHPSTGeiSA8d1o6lm3Dlw",
-        "name": "Bach: Greatest Hits",
-        "img": "https://i.scdn.co/image/ab67616d00001e02ba2ba80bd74989b088282b52"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "id": "5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Raymond Leppard",
-          "id": "6RX3X6dI939ANy78YXqWXT"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "id": "2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "track": {
-        "id": "0nBsOGDIIByflMenfQVBBX",
-        "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air"
-      }
-    },
-    "62QZPjYQMoo5g56FP9Webq": {
-      "album": {
-        "id": "1YqHIqrWx3eopxKFPqjqhT",
-        "name": "Sjung",
-        "img": "https://i.scdn.co/image/ab67616d00001e026494a5592cca561ea52f6541"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "id": "62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "track": {
-        "id": "2bfRfAO1RNWcpNtWJv042o",
-        "name": "Some Die Young"
-      }
-    },
-    "3WrFJ7ztbogyGnTHbHJFl2": {
-      "album": {
-        "id": "0ETFjACtuP2ADo6LFhL6HN",
-        "name": "Abbey Road (Remastered)",
-        "img": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "id": "3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "track": {
-        "id": "6dGnYIeXmHdcikdzNNDMm2",
-        "name": "Here Comes The Sun - Remastered 2009"
-      }
-    },
-    "0LcJLqbBmaGUft1e9Mm8HV": {
-      "album": {
-        "id": "7iLuHJkrb9KHPkMgddYigh",
-        "name": "Voulez-Vous",
-        "img": "https://i.scdn.co/image/ab67616d00001e02aa22899360d8ba6704732dec"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "id": "0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "track": {
-        "id": "3R47KOuGuGvmoeQqbODPa3",
-        "name": "If It Wasn't For The Nights"
-      }
-    },
-    "5B38ZGYpd0msq1LKOyz2r9": {
-      "album": {
-        "id": "5KoclB3QR9GWTPBQcKj5R9",
-        "name": "En fattig trubadur",
-        "img": "https://i.scdn.co/image/ab67616d00001e02dfe52dab7427e3de74b33f3e"
-      },
-      "artists": [
-        {
-          "name": "Cornelis Vreeswijk",
-          "id": "5B38ZGYpd0msq1LKOyz2r9"
-        }
-      ],
-      "track": {
-        "id": "0P5wCXpGqItUpYbj2bUK0d",
-        "name": "Sommarkort"
-      }
-    },
-    "7G1GBhoKtEPnP86X2PvEYO": {
-      "album": {
-        "id": "2miVfa78vOd0o8Vbsgd7g3",
-        "name": "Silk & Soul (Expanded Edition)",
-        "img": "https://i.scdn.co/image/ab67616d00001e020cf2e3d1e85c5bd6d7bedee0"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "id": "7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "track": {
-        "id": "5CKHhg31HcYYhwUeeGqvhq",
-        "name": "I Wish I Knew How It Would Feel to Be Free"
-      }
-    },
-    "0oSGxfWSnnOXhD2fKuz2Gy": {
-      "album": {
-        "id": "5fxvWHvIDPIALfTfRiwyB0",
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "img": "https://i.scdn.co/image/ab67616d00001e02b62b49cec67e610f6f3d1221"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "id": "0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "track": {
-        "id": "37CRPk0L5ZpfPeePEPwE0t",
-        "name": "Ashes to Ashes - 2017 Remaster"
-      }
-    },
-    "1Mxqyy3pSjf8kZZL4QVxS0": {
-      "album": {
-        "id": "66v9QmjAj0Wwhh2OpbU4BE",
-        "name": "Come Fly With Me (Remastered)",
-        "img": "https://i.scdn.co/image/ab67616d00001e02068a5559744d17bd5e871740"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "id": "1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "track": {
-        "id": "4hHbeIIKO5Y5uLyIEbY9Gn",
-        "name": "Come Fly With Me - Remastered 1998"
-      }
-    },
-    "7mvvG63CNSY93JWAJ37rnD": {
-      "album": {
-        "id": "2LaTtgxHN1GgPAY6DiSvCI",
-        "name": "Gröna små äpplen",
-        "img": "https://i.scdn.co/image/ab67616d00001e02a9db86fbb61e5eed80bf2d37"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "id": "7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "track": {
-        "id": "0dtE42FDoz08Aa9i7EWUI2",
-        "name": "Gröna små äpplen"
-      }
-    },
-    "3SONlwqLIP2GtaMh9pLYe5": {
-      "album": {
-        "id": "74s1xuJFJGvRCPjlh2d2oE",
-        "name": "History, Mystery",
-        "img": "https://i.scdn.co/image/ab67616d00001e022ead318e165905a49a4eca81"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "id": "3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "track": {
-        "id": "6Omr4zDMg6XokKVMtxStmw",
-        "name": "Probability Cloud"
-      }
+  },
+  "7mvvG63CNSY93JWAJ37rnD": {
+    "name": "Monica Zetterlund",
+    "id": "7mvvG63CNSY93JWAJ37rnD",
+    "count": {
+      "2005": 2,
+      "2006": 8,
+      "2007": 13,
+      "2008": 15,
+      "2009": 16,
+      "2010": 25,
+      "2011": 33,
+      "2012": 36,
+      "2013": 40,
+      "2014": 42,
+      "2015": 46,
+      "2016": 49,
+      "2017": 52,
+      "2018": 55,
+      "2019": 59,
+      "2020": 63,
+      "2021": 64
+    }
+  },
+  "1Mxqyy3pSjf8kZZL4QVxS0": {
+    "name": "Frank Sinatra",
+    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "count": {
+      "2005": 3,
+      "2006": 6,
+      "2007": 11,
+      "2008": 14,
+      "2009": 21,
+      "2010": 28,
+      "2011": 31,
+      "2012": 32,
+      "2013": 38,
+      "2014": 40,
+      "2015": 44,
+      "2016": 50,
+      "2017": 54,
+      "2018": 60,
+      "2019": 60,
+      "2020": 63,
+      "2021": 63
+    }
+  },
+  "0oSGxfWSnnOXhD2fKuz2Gy": {
+    "name": "David Bowie",
+    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+    "count": {
+      "2005": 2,
+      "2006": 7,
+      "2007": 9,
+      "2008": 15,
+      "2009": 17,
+      "2010": 21,
+      "2011": 23,
+      "2012": 25,
+      "2013": 28,
+      "2014": 31,
+      "2015": 33,
+      "2016": 38,
+      "2017": 44,
+      "2018": 50,
+      "2019": 56,
+      "2020": 57,
+      "2021": 60
+    }
+  },
+  "7G1GBhoKtEPnP86X2PvEYO": {
+    "name": "Nina Simone",
+    "id": "7G1GBhoKtEPnP86X2PvEYO",
+    "count": {
+      "2005": 2,
+      "2006": 4,
+      "2007": 4,
+      "2008": 6,
+      "2009": 9,
+      "2010": 13,
+      "2011": 18,
+      "2012": 20,
+      "2013": 24,
+      "2014": 24,
+      "2015": 30,
+      "2016": 36,
+      "2017": 45,
+      "2018": 49,
+      "2019": 59,
+      "2020": 68,
+      "2021": 70
+    }
+  },
+  "5B38ZGYpd0msq1LKOyz2r9": {
+    "name": "Cornelis Vreeswijk",
+    "id": "5B38ZGYpd0msq1LKOyz2r9",
+    "count": {
+      "2005": 4,
+      "2006": 7,
+      "2007": 13,
+      "2008": 18,
+      "2009": 18,
+      "2010": 20,
+      "2011": 27,
+      "2012": 29,
+      "2013": 37,
+      "2014": 40,
+      "2015": 42,
+      "2016": 42,
+      "2017": 46,
+      "2018": 48,
+      "2019": 51,
+      "2020": 56,
+      "2021": 62
+    }
+  },
+  "0LcJLqbBmaGUft1e9Mm8HV": {
+    "name": "ABBA",
+    "id": "0LcJLqbBmaGUft1e9Mm8HV",
+    "count": {
+      "2005": 2,
+      "2006": 4,
+      "2007": 8,
+      "2008": 11,
+      "2009": 19,
+      "2010": 22,
+      "2011": 26,
+      "2012": 28,
+      "2013": 30,
+      "2014": 34,
+      "2015": 38,
+      "2016": 41,
+      "2017": 47,
+      "2018": 49,
+      "2019": 53,
+      "2020": 56,
+      "2021": 58
+    }
+  },
+  "3WrFJ7ztbogyGnTHbHJFl2": {
+    "name": "The Beatles",
+    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+    "count": {
+      "2005": 4,
+      "2006": 7,
+      "2007": 11,
+      "2008": 25,
+      "2009": 35,
+      "2010": 47,
+      "2011": 50,
+      "2012": 61,
+      "2013": 64,
+      "2014": 68,
+      "2015": 71,
+      "2016": 77,
+      "2017": 85,
+      "2018": 88,
+      "2019": 96,
+      "2020": 103,
+      "2021": 105
+    }
+  },
+  "62QZPjYQMoo5g56FP9Webq": {
+    "name": "Laleh",
+    "id": "62QZPjYQMoo5g56FP9Webq",
+    "count": {
+      "2005": 3,
+      "2006": 5,
+      "2007": 6,
+      "2008": 9,
+      "2009": 9,
+      "2010": 10,
+      "2011": 11,
+      "2012": 16,
+      "2013": 20,
+      "2014": 23,
+      "2015": 29,
+      "2016": 38,
+      "2017": 43,
+      "2018": 50,
+      "2019": 54,
+      "2020": 63,
+      "2021": 69
+    }
+  },
+  "5aIqB5nVVvmFsvSdExz408": {
+    "name": "Johann Sebastian Bach",
+    "id": "5aIqB5nVVvmFsvSdExz408",
+    "count": {
+      "2005": 6,
+      "2006": 11,
+      "2007": 13,
+      "2008": 15,
+      "2009": 23,
+      "2010": 24,
+      "2011": 31,
+      "2012": 36,
+      "2013": 40,
+      "2014": 40,
+      "2015": 42,
+      "2016": 42,
+      "2017": 44,
+      "2018": 49,
+      "2019": 52,
+      "2020": 58,
+      "2021": 61
     }
   }
 }
