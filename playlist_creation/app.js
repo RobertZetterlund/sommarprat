@@ -141,7 +141,7 @@ app.get("/callback", function (req, res) {
 const fetchSRScheduling = async (year = 2021) => {
   let episodes = [];
   await fetch(
-    `https://api.sr.se/api/v2/episodes/index?programid=2071&fromdate=${year}-06-25&todate=${year}-08-25&size=100`
+    `https://api.sr.se/api/v2/episodes/index?programid=2071&fromdate=${year}-06-01&todate=${year}-09-01&size=100`
   )
     .then((res) => res.text())
     .then((xml) => {
@@ -150,17 +150,24 @@ const fetchSRScheduling = async (year = 2021) => {
         else {
           episodes = res.sr.episodes.map(({ episode: episodesWrapper }) =>
             episodesWrapper.map((episode) => {
-              let title = episode.title[0];
+              const date = new Date(episode.publishdateutc[0])
+                .toISOString()
+                .split("T")[0];
               // Multiple hosts might have their name and then the year of the talk (john doe 2005),
               // so remove digits (we'll add it after when we want to).
+              let title = episode.title[0];
               title = title.replace(/ \b\d+\b/, "");
               return {
                 title,
                 episodeUrl: episode.url[0],
                 imageurl: episode.imageurl[0],
-                date: new Date(episode.publishdateutc[0])
-                  .toISOString()
-                  .split("T")[0],
+                date: date,
+                starttimeutc:
+                  episode?.broadcasttime?.[0]?.starttimeutc?.[0] ??
+                  `${date}T11:00:01Z`,
+                endtimeutc:
+                  episode?.broadcasttime?.[0]?.endtimeutc?.[0] ??
+                  `${date}T12:30:00Z`,
               };
             })
           );
@@ -170,11 +177,14 @@ const fetchSRScheduling = async (year = 2021) => {
   return episodes;
 };
 
-const fetchSRTracks = async (date) => {
+const fetchSRTracks = async (date, starttimeutc, endtimeutc) => {
   let tracks = [];
-  // Sommarprat actually starts at 13 to 14:30, but timezones makes it 11 to 12:30
+
+  const startTime = starttimeutc ?? `${date}T11:00:01Z`;
+  const endTime = endtimeutc ?? `${date}T12:30:00Z`;
+
   await fetch(
-    `https://api.sr.se/api/v2/playlists/getplaylistbychannelid?id=132&startdatetime=${date}T11:00:01Z&enddatetime=${date}T12:30:00Z`
+    `https://api.sr.se/api/v2/playlists/getplaylistbychannelid?id=132&startdatetime=${startTime}&enddatetime=${endTime}`
   )
     .then((res) => res.text())
     .then((xml) => {
@@ -201,8 +211,6 @@ const fetchSpotifyTrack = async (
   const { artist, title } = SRTrack;
   return await fetch(
     `https://api.spotify.com/v1/search?q=${encodeURIComponent(
-      artist
-    )}%20${encodeURIComponent(
       title + " " + artist
     )}&type=track&market=SE&limit=1`,
     {
@@ -251,7 +259,7 @@ app.get("/refresh_token", function (req, res) {
 
       // Range, basically creates [2005,2006,....,2022].
       // https://stackoverflow.com/a/10050831/11076115
-      const years = [...Array(2022 - 2005).keys()].map((n) => n + 2005);
+      const years = [2012]; //[...Array(2023 - 2020).keys()].map((n) => n + 2020);
 
       for (const year of years) {
         console.info("START YEAR:", year);
@@ -262,11 +270,10 @@ app.get("/refresh_token", function (req, res) {
         const playlistIdsPairedWithEpisodes = [];
 
         console.info("Fetching tracks");
-        let idx = 0;
         for (const episode of episodes) {
-          const { title, date } = episode;
+          const { title, date, starttimeutc, endtimeutc } = episode;
           const trackIds = [];
-          const SRTracks = await fetchSRTracks(date);
+          const SRTracks = await fetchSRTracks(date, starttimeutc, endtimeutc);
           if (!SRTracks || SRTracks?.length === 0) {
             continue;
           }
@@ -279,10 +286,14 @@ app.get("/refresh_token", function (req, res) {
                   // ignore sommar,sommar,sommar
                   // ignore "en gång jag seglar i hamn"
                   // ignore "sommaren är kort" by under, since it seems to been filler in 2005.
+                  // ignore "Bill Frisell - Probability Cloud" as it is part of "Allvarlig talat" which airs after P1 sommar
+                  // ignore släpp in lite höst - henrik dorsin
                   const ignores = [
                     "4OWOm8ol4P3uUT81eyRZxE",
                     "35DC5QMQaubkLrpomPyojT",
                     "15c8eejohMrbZMyA8jqq2t",
+                    "6Omr4zDMg6XokKVMtxStmw",
+                    "4Q43RBPGJymRQHJCTSWXKz",
                   ];
                   if (ignores.includes(id)) {
                   } else {
@@ -352,20 +363,24 @@ app.get("/refresh_token", function (req, res) {
         ) {
           const [playlistId, episode] = playlistIdsPairedWithEpisodes[index];
           const imageurl = episode.imageurl;
-
-          const base64image = await urlToBase64(imageurl);
-          await fetch(
-            `https://api.spotify.com/v1/playlists/${playlistId}/images`,
-            {
-              headers: {
-                Accept: "application/json",
-                Authorization: `Bearer ${access_token}`,
-                "Content-Type": "application/json",
-              },
-              method: "PUT",
-              body: base64image,
-            }
-          );
+          console.info("uploading image for", episode.title);
+          if (imageurl) {
+            const base64image = await urlToBase64(imageurl);
+            await fetch(
+              `https://api.spotify.com/v1/playlists/${playlistId}/images`,
+              {
+                headers: {
+                  Accept: "application/json",
+                  Authorization: `Bearer ${access_token}`,
+                  "Content-Type": "application/json",
+                },
+                method: "PUT",
+                body: base64image,
+              }
+            ).catch((err) => {
+              console.info(err);
+            });
+          }
         }
 
         console.info("Getting date of births");
@@ -373,7 +388,6 @@ app.get("/refresh_token", function (req, res) {
         const dobs = await getDateOfBirthOfPerson(
           playlistIdsPairedWithEpisodes.map(([_p, ep]) => ep.title)
         );
-        process.stdout.write("\n"); // end the line
 
         const listOfDetails = [];
 
@@ -395,17 +409,16 @@ app.get("/refresh_token", function (req, res) {
           });
         }
 
-        const json = JSON.stringify(listOfDetails);
+        const json = JSON.stringify(listOfDetails, undefined, 2);
         console.info("Writing to file");
-        fs.writeFile(`./data/${year}.json`, json, "utf8", () =>
-          console.info("Finished:", year)
-        );
+        await fs.promises.writeFile(`./data/${year}.json`, json, "utf8");
+        console.info("Finished", year);
       }
     }
   });
 });
 
-console.log("Listening on 8888");
+console.log("http://localhost:8888/");
 app.listen(8888);
 
 const axios = require("axios");

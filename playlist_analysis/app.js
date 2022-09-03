@@ -165,6 +165,7 @@ const fetchSpotifyPlayListItems = async (playListId, access_token) => {
               id: item.track.album.id,
               name: item.track.album.name,
               img:
+                item.track.album.images?.find((i) => i.height === 64)?.url ??
                 item.track.album.images?.find((i) => i.height === 300)?.url ??
                 item.track.album.images.at(-1)?.url ??
                 undefined,
@@ -201,8 +202,6 @@ app.get("/refresh_token", function (req, res) {
         access_token: access_token,
       });
 
-      const res_map = {};
-
       const filenames = await fs.promises.readdir("../playlist_creation/data/");
       for await (const filename of filenames) {
         const _content = await fs.promises.readFile(
@@ -211,6 +210,7 @@ app.get("/refresh_token", function (req, res) {
         const episodes = await JSON.parse(_content);
         const year = filename.split(".")[0];
         fs.promises.mkdir(`./data/${year}`);
+        console.info("writing", year);
 
         for await (const episode of episodes) {
           const { playlistId } = episode;
@@ -218,9 +218,11 @@ app.get("/refresh_token", function (req, res) {
             playlistId,
             access_token
           );
-          const json = JSON.stringify({ ...episode, tracks });
-          fs.writeFile(`./data/${year}/${playlistId}.json`, json, "utf8", () =>
-            console.info("Finished:", playlistId)
+          const json = JSON.stringify({ ...episode, tracks }, undefined, 2);
+          await fs.promises.writeFile(
+            `./data/${year}/${playlistId}.json`,
+            json,
+            "utf8"
           );
         }
       }
@@ -228,5 +230,5 @@ app.get("/refresh_token", function (req, res) {
   });
 });
 
-console.log("Listening on 8888");
+console.log("http://localhost:8888/");
 app.listen(8888);

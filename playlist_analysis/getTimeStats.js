@@ -111,20 +111,20 @@ const trackMap = {};
     // countBox or artistBox...
     const entry = last_year[key];
     if (entry instanceof Object && entry) {
-      // find top ten entries
+      // find top entries
       const idsToRemove = [];
       for (const [keyId] of Object.entries(entry)
         .sort(([, valueA], [, valueB]) => valueB - valueA)
-        .slice(10)) {
+        .slice(50)) {
         idsToRemove.push(keyId);
       }
       idsObj[key] = idsToRemove;
     }
   }
 
-  // Do the deletion process
+  // Do the deletion process for tracks, artists and albums
   for (const [year, yearBox] of Object.entries(yearSnapShots)) {
-    for (const key of Object.keys(yearBox)) {
+    for (const key of ["trackCount", "albumCount", "artistCount"]) {
       const entry = yearBox[key];
       if (entry instanceof Object && entry) {
         const idsToRemove = idsObj[key];
@@ -139,17 +139,17 @@ const trackMap = {};
 
   // Now transpose snapshots into object which has data: {count: {[year]: count}}[]
   const albums = Object.keys(last_year.albumCount).reduce((acc, id) => {
-    const year_data = years.reduce(
+    /*const year_data = years.reduce(
       (acc, year) => ({
         [year]: yearSnapShots[year].albumCount[id] ?? 0,
         ...acc,
       }),
       {}
-    );
+    );*/
 
     const track_meta = albumMap[id];
 
-    return { [id]: { ...track_meta, count: year_data }, ...acc };
+    return { [id]: { ...track_meta, count: last_year.albumCount[id] }, ...acc };
   }, {});
 
   await fs.promises.writeFile(
@@ -162,17 +162,20 @@ const trackMap = {};
 
   // Now transpose snapshots into object which has data: {count: {[year]: count}}[]
   const artists = Object.keys(last_year.artistCount).reduce((acc, id) => {
-    const year_data = years.reduce(
+    /*const year_data = years.reduce(
       (acc, year) => ({
         [year]: yearSnapShots[year].artistCount[id] ?? 0,
         ...acc,
       }),
       {}
-    );
+    );*/
 
     const track_meta = artistMap[id];
 
-    return { [id]: { ...track_meta, count: year_data }, ...acc };
+    return {
+      [id]: { ...track_meta, count: last_year.artistCount[id] },
+      ...acc,
+    };
   }, {});
 
   await fs.promises.writeFile(
@@ -183,17 +186,17 @@ const trackMap = {};
 
   // Now transpose snapshots into object which has data: {count: {[year]: count}}[]
   const tracks = Object.keys(last_year.trackCount).reduce((acc, id) => {
-    const year_data = years.reduce(
+    /*const year_data = years.reduce(
       (acc, year) => ({
         [year]: yearSnapShots[year].trackCount[id] ?? 0,
         ...acc,
       }),
       {}
-    );
+    );*/
 
     const track_meta = trackMap[id];
 
-    return { [id]: { ...track_meta, count: year_data }, ...acc };
+    return { [id]: { ...track_meta, count: last_year.trackCount[id] }, ...acc };
   }, {});
 
   await fs.promises.writeFile(
@@ -202,31 +205,31 @@ const trackMap = {};
     "utf8"
   );
 
-  const year_data = Object.keys(yearSnapShots).map((year) => ({
+  /*const year_data = Object.keys(last_year).map((year) => ({
     [year]: yearSnapShots[year].yearCount,
-  }));
+  }));*/
   await fs.promises.writeFile(
     "./stats/years.json",
-    JSON.stringify(year_data),
+    JSON.stringify(last_year.yearCount, undefined, 2),
     "utf-8"
   );
 
-  const recency = Object.keys(yearSnapShots).map((year) => ({
+  /*const recency = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].recencyBox,
-  }));
+  }));*/
   await fs.promises.writeFile(
     "./stats/recency.json",
-    JSON.stringify(recency),
+    JSON.stringify(last_year.recencyBox, undefined, 2),
     "utf-8"
   );
 
-  const ages = Object.keys(yearSnapShots).map((year) => ({
+  /*const ages = Object.keys(yearSnapShots).map((year) => ({
     [year]: yearSnapShots[year].ageBox,
-  }));
+  }));*/
 
   await fs.promises.writeFile(
     "./stats/ages.json",
-    JSON.stringify(ages),
+    JSON.stringify(last_year.ageBox, undefined, 2),
     "utf-8"
   );
 
@@ -235,7 +238,7 @@ const trackMap = {};
   }));
   await fs.promises.writeFile(
     "./stats/duration.json",
-    JSON.stringify(avg_duration),
+    JSON.stringify(avg_duration, undefined, 2),
     "utf-8"
   );
   const avg_popularity = Object.keys(yearSnapShots).map((year) => ({
@@ -243,7 +246,7 @@ const trackMap = {};
   }));
   await fs.promises.writeFile(
     "./stats/popularity.json",
-    JSON.stringify(avg_popularity),
+    JSON.stringify(avg_popularity, undefined, 2),
     "utf-8"
   );
   const avg_song_amount = Object.keys(yearSnapShots).map((year) => ({
@@ -251,7 +254,7 @@ const trackMap = {};
   }));
   await fs.promises.writeFile(
     "./stats/songAmount.json",
-    JSON.stringify(avg_song_amount),
+    JSON.stringify(avg_song_amount, undefined, 2),
     "utf-8"
   );
 
