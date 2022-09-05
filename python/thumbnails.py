@@ -4,7 +4,7 @@ import urllib.request
 import os
 
 
-years = range(2005, 2022, 1)
+years = range(2005, 2023, 1)
 
 # create thumbnail folder
 os.mkdir("thumbnails")
@@ -16,17 +16,19 @@ for year in years:
 
     files = []
     # Take 9 images for 3x3 grid
-    for i in data[-9:]:
+    for i in data[18:27]:
         filename = i.get('date') + ".jpg"
         files.append(str(year) + "/" + filename)
 
-    new_im = Image.new('RGB', (512, 512))
+    new_im = Image.new('RGB', (360, 360))
 
     index = 0
-    for i in range(0, 513, 171):
-        for j in range(0, 513, 171):
+    for i in range(0, 360, 120):
+        for j in range(0, 360, 120):
+            file = files[index]
+            print(file)
             im = Image.open(files[index])
-            im.thumbnail((171, 171))
+            im.thumbnail((120, 120))
             new_im.paste(im, (i, j))
             index += 1
 

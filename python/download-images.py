@@ -6,7 +6,7 @@ import os
 
 years = range(2005, 2023, 1)
 
-for year in [years]:
+for year in years:
     f = open("../playlist_creation/data/" + str(year) + ".json")
     data = json.load(f)
     f.close()
