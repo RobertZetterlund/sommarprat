@@ -202,14 +202,14 @@ app.get("/refresh_token", function (req, res) {
         access_token: access_token,
       });
 
-      const filenames = await fs.promises.readdir("../playlist_creation/data/");
-      for await (const filename of filenames) {
+      //const filenames = await fs.promises.readdir("../playlist_creation/data/");
+      for await (const filename of ["2019.json"]) {
         const _content = await fs.promises.readFile(
           `../playlist_creation/data/${filename}`
         );
         const episodes = await JSON.parse(_content);
         const year = filename.split(".")[0];
-        fs.promises.mkdir(`./data/${year}`);
+        //fs.promises.mkdir(`./data/${year}`);
         console.info("writing", year);
 
         for await (const episode of episodes) {

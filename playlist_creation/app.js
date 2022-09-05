@@ -259,7 +259,7 @@ app.get("/refresh_token", function (req, res) {
 
       // Range, basically creates [2005,2006,....,2022].
       // https://stackoverflow.com/a/10050831/11076115
-      const years = [2012]; //[...Array(2023 - 2020).keys()].map((n) => n + 2020);
+      const years = [...Array(2023 - 2005).keys()].map((n) => n + 2005);
 
       for (const year of years) {
         console.info("START YEAR:", year);
