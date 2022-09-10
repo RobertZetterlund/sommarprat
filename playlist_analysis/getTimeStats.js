@@ -16,6 +16,8 @@ let recencyBox = {};
 /** What age was host when song was released */
 let ageBox = {};
 
+let popularity_box = {};
+
 // year -> albumId,artistId,trackId
 const yearSnapShots = {};
 
@@ -40,16 +42,14 @@ const trackMap = {};
     let sum_popularity = 0;
     let sum_song_amount = 0;
 
-    for await (const playlistId of playlists) {
-      const _content = await fs.promises.readFile(
-        `./data/${year}/${playlistId}`
-      );
+    for await (const filename of playlists) {
+      const _content = await fs.promises.readFile(`./data/${year}/${filename}`);
+      const playListId = filename.split(".json")[0];
       const playlist = await JSON.parse(_content);
-      sum_song_amount += playlist.tracks.length;
+      sum_popularity = 0;
       for (const spotifyTrack of playlist.tracks) {
-        const { track, album, artists, duration_ms, popularity, release_date } =
+        const { track, album, artists, popularity, release_date } =
           spotifyTrack;
-        sum_duration += duration_ms;
         sum_popularity += popularity;
 
         incrementCount(albumCount, album.id);
@@ -63,7 +63,7 @@ const trackMap = {};
 
         if (release_date) {
           const release_year = parseInt(new Date(release_date).getFullYear());
-          if (release_year < year) {
+          if (release_year <= year) {
             // Put release year into box.
             incrementCount(yearCount, release_year);
 
@@ -81,11 +81,11 @@ const trackMap = {};
           }
         }
       }
+      const avg_popularity = sum_popularity / playlist.tracks.length;
+      if (playListId && avg_popularity) {
+        popularity_box[playListId] = avg_popularity;
+      }
     }
-
-    const avg_duration = sum_duration / sum_song_amount;
-    const avg_popularity = sum_popularity / sum_song_amount;
-    const avg_song_amount = sum_song_amount / playlists.length;
 
     yearSnapShots[year] = {
       trackCount: { ...trackCount },
@@ -94,9 +94,6 @@ const trackMap = {};
       yearCount: { ...yearCount },
       recencyBox: { ...recencyBox },
       ageBox: { ...ageBox },
-      avg_duration,
-      avg_popularity,
-      avg_song_amount,
     };
   }
 
@@ -241,12 +238,9 @@ const trackMap = {};
     JSON.stringify(avg_duration, undefined, 2),
     "utf-8"
   );
-  const avg_popularity = Object.keys(yearSnapShots).map((year) => ({
-    [year]: yearSnapShots[year].avg_popularity,
-  }));
   await fs.promises.writeFile(
     "./stats/popularity.json",
-    JSON.stringify(avg_popularity, undefined, 2),
+    JSON.stringify(popularity_box, undefined, 2),
     "utf-8"
   );
   const avg_song_amount = Object.keys(yearSnapShots).map((year) => ({
